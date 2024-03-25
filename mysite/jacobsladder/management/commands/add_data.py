@@ -27,21 +27,26 @@ class Command(BaseCommand):
         booth1 = models.Booth()
         booth1.save()
         collection1 = models.Collection(booth=booth1, seat=seat1,
-                                       election=house_election_2010)
+                                        election=house_election_2010)
         collection1.save()
         collection2 = models.Collection(booth=booth1, seat=seat1,
-                                       election=house_election_2013)
+                                        election=house_election_2013)
         collection2.save()
         booth2 = models.Booth()
         booth2.save()
-        collection2 = models.Collection(booth=booth2, seat=seat2,
-                                       election=house_election_2010)
-        collection2.save()
+        collection3 = models.Collection(booth=booth2, seat=seat2,
+                                        election=house_election_2010)
+        collection3.save()
         booth3 = models.Booth()
         booth3.save()
-        collection3 = models.Collection(booth=booth2, seat=seat2,
-                                       election=house_election_2013)
-        collection3.save()
+        collection4 = models.Collection(booth=booth3, seat=seat2,
+                                        election=house_election_2013)
+        collection4.save()
+        booth5 = models.Booth()
+        booth5.save()
+        collection5 = models.Collection(booth=booth5, seat=seat1,
+                                        election=house_election_2010)
+        collection5.save()
         aap = models.Party(name="Australian Apathy Party", abbreviation="AAP")
         aap.save()
         run = models.Party(name="Running Scared", abbreviation="run")

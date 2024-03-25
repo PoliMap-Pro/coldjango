@@ -1,137 +1,6 @@
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 
-"""
-Table elections {
-  ElectionID int [pk]
-  ElectionDate date
-  ElectionType varchar
-}
-
-Table seats {
-  SeatID int [pk]
-  SeatName varchar
-  State varchar
-  ElectionID int [ref: > elections.ElectionID]
-  previous int [ref: > SeatID]
-  Geometry geometry
-}
-
-Table booths {
-  BoothID int [pk]
-  BoothName varchar
-  SeatID int [ref: > seats.SeatID]
-  ElectionID int [ref: > elections.ElectionID]
-  Location geometry
-}
-
-Table votes {
-  VoteID int [pk]
-  BoothID int [ref: > booths.BoothID]
-  SeatID int [ref: > seats.SeatID]
-  ElectionID int [ref: > elections.ElectionID]
-  PrimaryVotes int
-  TCPVotes int
-  CandidateID int [ref: > candidates.CandidateID]
-}
-
-Table candidates {
-  CandidateID int [pk]
-  Name varchar
-  PartyID int [ref: > parties.PartyID]
-}
-
-Table parties {
-  PartyID int [pk]
-  PartyName varchar
-  Abbreviation varchar
-}
-
-Table party_aliases {
-  AliasID int [pk]
-  PartyID int [ref: > parties.PartyID]
-  Alias varchar
-  ElectionID int [ref: > elections.ElectionID]
-}
-
-Table seat_history {
-  HistoryID int [pk]
-  PreviousSeatID int [ref: > seats.SeatID]
-  CurrentSeatID int [ref: > seats.SeatID]
-  ReasonForChange text
-}
-
-Table booth_history {
-  HistoryID int [pk]
-  PreviousBoothID int [ref: > booths.BoothID]
-  CurrentBoothID int [ref: > booths.BoothID]
-  ReasonForChange text
-}
-
-Table preference_rounds {
-  RoundID int [pk]
-  SeatID int [ref: > seats.SeatID]
-  ElectionID int [ref: > elections.ElectionID]
-  RoundNumber int
-}
-
-Table candidate_preferences {
-  PreferenceID int [pk]
-  RoundID int [ref: > preference_rounds.RoundID]
-  CandidateID int [ref: > candidates.CandidateID]
-  VotesReceived int
-  VotesTransferred int
-  RemainingVotes int
-}
-
-Table vote_transfers {
-  TransferID int [pk]
-  SourceCandidateID int [ref: > candidates.CandidateID]
-  TargetCandidateID int [ref: > candidates.CandidateID]
-  RoundID int [ref: > preference_rounds.RoundID]
-  VoteCount int
-}
-
-// Senate now!
-Table senate_elections {
-  ElectionID int [pk]
-  ElectionDate date
-  State varchar
-}
-
-Table senate_groups {
-  GroupID int [pk]
-  ElectionID int [ref: > senate_elections.ElectionID]
-  GroupName varchar
-  GroupAbbreviation varchar
-  State varchar
-}
-
-Table senate_candidates {
-  CandidateID int [pk]
-  ElectionID int [ref: > senate_elections.ElectionID]
-  Name varchar
-  GroupID int [ref: > senate_groups.GroupID]
-}
-
-Table senate_votes {
-  VoteID int [pk]
-  ElectionID int [ref: > senate_elections.ElectionID]
-  Type varchar // 'above' or 'below'
-  Preferences text // Consider a more structured approach for large-scale implementations
-}
-
-Table vote_distribution {
-  DistributionID int [pk]
-  ElectionID int [ref: > senate_elections.ElectionID]
-  RoundNumber int
-  AffectedCandidateID int [ref: > senate_candidates.CandidateID]
-  SourceVoteID int [ref: > senate_votes.VoteID]
-  VoteCountChange int
-  Reason varchar
-}
-"""
-
 
 class StateName(models.TextChoices):
     ACT = "act", "Australian Capital Territory"
@@ -287,7 +156,7 @@ class VoteTally(models.Model):
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
     primary_votes = models.IntegerField()
-    tcp_votes = models.IntegerField()
+    tcp_votes = models.IntegerField()   # should this be tpp?
     created = models.DateTimeField(auto_now_add=True)
 
 
