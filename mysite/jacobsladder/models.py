@@ -50,7 +50,7 @@ class SenateElection(Election):
 
 
 class Seat(models.Model):
-    name = models.CharField(max_length=63)
+    name = models.CharField(max_length=63, unique=True)
     state = models.CharField(max_length=9, choices=StateName.choices)
     elections = models.ManyToManyField(HouseElection, blank=True)
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
@@ -75,7 +75,9 @@ class SeatChange(Transition):
 
 
 class Booth(models.Model):
-    seats = models.ManyToManyField(HouseElection, blank=True, through="Collection")
+    name = models.CharField(max_length=63, null=True, blank=True)
+    seats = models.ManyToManyField(HouseElection, blank=True,
+                                   through="Collection")
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
@@ -152,11 +154,11 @@ class VoteTally(models.Model):
     class Meta:
         verbose_name_plural = "Vote Tallies"
 
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
+    booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
     primary_votes = models.IntegerField()
-    tcp_votes = models.IntegerField()   # should this be tpp?
+    tcp_votes = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
 
 
