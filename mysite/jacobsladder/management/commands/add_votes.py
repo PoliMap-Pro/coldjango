@@ -26,6 +26,8 @@ class Command(BaseCommand):
         sixth_guy = models.Person.objects.get(name="Scandal Magnet")
         seventh_guy = models.Person(name="Outmaneuvered Idealist")
         seventh_guy.save()
+        eighth_guy = models.Person(name="Rural Blowhard")
+        eighth_guy.save()
         hack = models.HouseCandidate.objects.get(person=guy)
         imp = models.HouseCandidate.objects.get(person=other_guy)
         noise = models.HouseCandidate.objects.get(person=third_guy)
@@ -34,12 +36,20 @@ class Command(BaseCommand):
         sixth = models.HouseCandidate.objects.get(person=sixth_guy)
         seventh = models.HouseCandidate(person=seventh_guy)
         seventh.save()
+        eighth = models.HouseCandidate(person=eighth_guy)
+        eighth.save()
         contention_a = models.Contention(candidate=seventh, seat=seat1,
                                          election=house_election_2010)
         contention_a.save()
         contention_b = models.Contention(candidate=seventh, seat=seat1,
                                          election=house_election_2013)
         contention_b.save()
+        contention_c = models.Contention(candidate=eighth, seat=seat2,
+                                         election=house_election_2010)
+        contention_c.save()
+        contention_d = models.Contention(candidate=eighth, seat=seat2,
+                                         election=house_election_2013)
+        contention_d.save()
         booth_frank_1 = models.Booth.objects.get(id=18)
         booth_frank_2 = models.Booth.objects.get(id=21)
         booth_yossarian_1 = models.Booth.objects.get(id=19)
@@ -124,3 +134,28 @@ class Command(BaseCommand):
             booth=booth_yossarian_3, election=house_election_2013,
             candidate=fifth, primary_votes=18, tcp_votes=18)
         tally_yossarian_3_fifth_2013.save()
+
+        tally_yossarian_1_eighth_2010 = models.VoteTally(
+            booth=booth_yossarian_1, election=house_election_2010,
+            candidate=eighth, primary_votes=162, tcp_votes=0)
+        tally_yossarian_1_eighth_2010.save()
+        tally_yossarian_1_eighth_2013 = models.VoteTally(
+            booth=booth_yossarian_1, election=house_election_2013,
+            candidate=eighth, primary_votes=427, tcp_votes=0)
+        tally_yossarian_1_eighth_2013.save()
+        tally_yossarian_2_eighth_2010 = models.VoteTally(
+            booth=booth_yossarian_2, election=house_election_2010,
+            candidate=eighth, primary_votes=686, tcp_votes=0)
+        tally_yossarian_2_eighth_2010.save()
+        tally_yossarian_2_eighth_2013 = models.VoteTally(
+            booth=booth_yossarian_2, election=house_election_2013,
+            candidate=eighth, primary_votes=261, tcp_votes=0)
+        tally_yossarian_2_eighth_2013.save()
+        tally_yossarian_3_eighth_2010 = models.VoteTally(
+            booth=booth_yossarian_3, election=house_election_2010,
+            candidate=eighth, primary_votes=841, tcp_votes=0)
+        tally_yossarian_3_eighth_2010.save()
+        tally_yossarian_3_eighth_2013 = models.VoteTally(
+            booth=booth_yossarian_3, election=house_election_2013,
+            candidate=eighth, primary_votes=683, tcp_votes=0)
+        tally_yossarian_3_eighth_2013.save()
