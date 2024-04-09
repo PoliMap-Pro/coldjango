@@ -1,6 +1,104 @@
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 
+""" 
+HouseElection.per, Seat.per, Booth.per and VoteTally.per
+call the function you supply once for each house election, 
+seat, both or vote tally. 
+For example,
+
+    (1) HouseElection.per(lambda election: print(election)) prints something like,
+    HouseElection on 2010-01-01
+    HouseElection on 2013-01-01
+
+    (2) Seat.per(lam)(el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Frank in victoria
+    HouseElection on 2010-01-01 Seat Yossarian in victoria
+    
+    (3) el_2020.per(Seat.per(lam)) prints something like
+    HouseElection on 2010-01-01 Seat Frank in victoria
+    HouseElection on 2010-01-01 Seat Yossarian in victoria
+    HouseElection on 2013-01-01 Seat Frank in victoria
+    HouseElection on 2013-01-01 Seat Yossarian in victoria
+        
+    (4) Booth.per(lam2)(s, el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22
+    
+    (5) Seat.per(Booth.per(lam2))(el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22
+    
+    (6) HouseElection.per(Seat.per(Booth.per(lam2))) prints something like,
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22
+    HouseElection on 2013-01-01 Seat Frank in victoria Booth #18
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #20
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #22
+
+    (7) VoteTally.per(lam3)(b, s, el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #21 VoteTally object (13)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #21 VoteTally object (14)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #21 VoteTally object (17)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #21 VoteTally object (19)
+
+    (8) Booth.per(VoteTally.per(lam3))(s, el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (22)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (23)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (28)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (32)
+
+    (9) Seat.per(Booth.per(VoteTally.per(lam3)))(el_2020) prints something like,
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (10)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (11)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (16)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (18)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (13)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (14)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (17)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (19)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (22)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (23)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (28)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (32)
+
+    (10) HouseElection.per(Seat.per(Booth.per(VoteTally.per(lam3)))) prints something like,
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (10)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (11)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (16)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #18 VoteTally object (18)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (13)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (14)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (17)
+    HouseElection on 2010-01-01 Seat Frank in victoria Booth #21 VoteTally object (19)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (22)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (23)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #19 VoteTally object (28)
+    HouseElection on 2010-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (32)
+    HouseElection on 2013-01-01 Seat Frank in victoria Booth #18 VoteTally object (12)
+    HouseElection on 2013-01-01 Seat Frank in victoria Booth #18 VoteTally object (20)
+    HouseElection on 2013-01-01 Seat Frank in victoria Booth #18 VoteTally object (21)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #20 VoteTally object (24)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #20 VoteTally object (25)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #20 VoteTally object (31)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (26)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (27)
+    HouseElection on 2013-01-01 Seat Yossarian in victoria Booth #22 VoteTally object (33)
+
+where, 
+    b = Booth.objects.get(pk=21)
+    s = Seat.objects.get(name="Yossarian")
+    el_2020 = HouseElection.objects.get(election_date=datetime(
+    year=2010, month=1, day=1))
+    lam = lambda election, seat: print(election, seat)
+    lam2 = lambda election, seat, booth: print(election, seat, booth)
+    lam3 = lambda election, seat, booth, vote_tally: print(election, seat, booth, vote_tally)    
+ """
+
 
 class StateName(models.TextChoices):
     ACT = "act", "Australian Capital Territory"
@@ -34,6 +132,9 @@ class Election(models.Model):
 
     election_date = models.DateField()
     created = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.__class__.__name__} on {self.election_date}"
 
 
 class HouseElection(Election):
@@ -70,6 +171,9 @@ class Seat(models.Model):
                          **keyword_arguments)
         return wrapper
 
+    def __str__(self):
+        return f"{self.__class__.__name__} {self.name} in {self.state}"
+
 
 class Transition(models.Model):
     class Meta:
@@ -103,6 +207,11 @@ class Booth(models.Model):
                 callback(*arguments, election=election, seat=seat,
                          booth=collection.booth, **keyword_arguments)
         return wrapper
+
+    def __str__(self):
+        if self.name:
+            return f"{self.__class__.__name__} {self.name}"
+        return f"{self.__class__.__name__} #{self.pk}"
 
 
 class Collection(models.Model):
@@ -191,8 +300,6 @@ class VoteTally(models.Model):
                 callback(*arguments, election=election, seat=seat, booth=booth,
                          vote_tally=vote_tally, **keyword_arguments)
         return wrapper
-
-
 
 
 class PreferenceRound(models.Model):
