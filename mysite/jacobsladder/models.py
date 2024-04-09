@@ -44,6 +44,11 @@ class HouseElection(Election):
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)
 
+    @staticmethod
+    def per(callback, *arguments, **keyword_arguments):
+        for election in HouseElection.objects.all().order_by('election_date'):
+            callback(*arguments, election=election, **keyword_arguments)
+
 
 class SenateElection(Election):
     state = models.CharField(max_length=9, choices=StateName.choices)
@@ -56,6 +61,14 @@ class Seat(models.Model):
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
+
+    @staticmethod
+    def per(callback, *arguments, **keyword_arguments):
+        def wrapper(election):
+            for seat in election.seat_set.all():
+                callback(*arguments, election=election, seat=seat,
+                         **keyword_arguments)
+        return wrapper
 
 
 class Transition(models.Model):
@@ -81,6 +94,15 @@ class Booth(models.Model):
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
+
+    @staticmethod
+    def per(callback, *arguments, **keyword_arguments):
+        def wrapper(seat, election):
+            for collection in Collection.objects.filter(
+                    seat=seat, election=election):
+                callback(*arguments, election=election, seat=seat,
+                         booth=collection.booth, **keyword_arguments)
+        return wrapper
 
 
 class Collection(models.Model):
@@ -160,6 +182,17 @@ class VoteTally(models.Model):
     primary_votes = models.IntegerField()
     tcp_votes = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
+
+    @staticmethod
+    def per(callback, *arguments, **keyword_arguments):
+        def wrapper(booth, seat, election):
+            for vote_tally in VoteTally.objects.filter(
+                    booth=booth, election=election):
+                callback(*arguments, election=election, seat=seat, booth=booth,
+                         vote_tally=vote_tally, **keyword_arguments)
+        return wrapper
+
+
 
 
 class PreferenceRound(models.Model):
