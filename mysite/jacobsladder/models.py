@@ -148,7 +148,7 @@ class HouseElection(Election):
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         for election in HouseElection.objects.all().order_by('election_date'):
-            callback(*arguments, election=election, **keyword_arguments)
+            return callback(*arguments, election=election, **keyword_arguments)
 
 
 class SenateElection(Election):
@@ -163,13 +163,37 @@ class Seat(models.Model):
                                     null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
 
+    def total_primary_votes(self, elect):
+        def return_primary(election, seat, booth, vote_tally):
+            return vote_tally.primary_votes
+        return sum([votes for booth in Booth.per(VoteTally.per(
+            return_primary))(self, elect) for votes in booth])
+
+    def primary_for(self, candidate, elect):
+        def primary_votes(election, seat, booth, vote_tally):
+            return vote_tally.primary_votes if vote_tally.candidate.pk == \
+                                               candidate.pk else 0
+        return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
+            self, elect) for votes in booth])
+
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(election):
-            for seat in election.seat_set.all():
-                callback(*arguments, election=election, seat=seat,
-                         **keyword_arguments)
+            return [callback(*arguments, election=election, seat=seat,
+                             **keyword_arguments) for seat in
+                    election.seat_set.all()]
         return wrapper
+
+
+
+    @staticmethod
+    def total_primary(election):
+        Seat.per(Booth.per(VoteTally.per(lam3)))(election)
+
+    @staticmethod
+    def get_primary(election, seat, booth, vote_tally):
+        return vote_tally.primary_votes
+    #election, seat, booth, vote_tally
 
     def __str__(self):
         return f"{self.__class__.__name__} {self.name} in {self.state}"
@@ -202,10 +226,10 @@ class Booth(models.Model):
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(seat, election):
-            for collection in Collection.objects.filter(
-                    seat=seat, election=election):
-                callback(*arguments, election=election, seat=seat,
-                         booth=collection.booth, **keyword_arguments)
+            return [callback(*arguments, election=election, seat=seat,
+                             booth=collection.booth, **keyword_arguments)
+                    for collection in Collection.objects.filter(
+                    seat=seat, election=election)]
         return wrapper
 
     def __str__(self):
@@ -251,6 +275,9 @@ class Person(models.Model):
     party = models.ManyToManyField(Party, through="Representation")
     created = models.DateTimeField(auto_now_add=True)
 
+    def __str__(self):
+        return self.name
+
 
 class Representation(models.Model):
     person = models.ForeignKey(Person, on_delete=models.CASCADE)
@@ -261,6 +288,9 @@ class Representation(models.Model):
 class HouseCandidate(models.Model):
     person = models.OneToOneField(Person, on_delete=models.CASCADE)
     seat = models.ManyToManyField(Seat, through="Contention")
+
+    def __str__(self):
+        return self.person.name
 
 
 class Contention(models.Model):
@@ -295,10 +325,10 @@ class VoteTally(models.Model):
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(booth, seat, election):
-            for vote_tally in VoteTally.objects.filter(
-                    booth=booth, election=election):
-                callback(*arguments, election=election, seat=seat, booth=booth,
-                         vote_tally=vote_tally, **keyword_arguments)
+            return [callback(*arguments, election=election, seat=seat,
+                             booth=booth, vote_tally=vote_tally,
+                             **keyword_arguments) for vote_tally in
+                    VoteTally.objects.filter(booth=booth, election=election)]
         return wrapper
 
 

@@ -11,7 +11,6 @@ class Command(BaseCommand):
         twenty_ten = datetime(year=2010, month=1, day=1)
         house_election_2010 = models.HouseElection.objects.get(election_date=twenty_ten)
         seat1 = models.Seat.objects.get(name="Frank", state=models.StateName.VIC)
-
         models.Booth.per(Command.show_major_parties_primary)(seat1, house_election_2010)
 
     @staticmethod
@@ -21,8 +20,9 @@ class Command(BaseCommand):
 
     @staticmethod
     def show_primary_if_major(election, seat, booth, vote_tally):
-        if models.Representation.objects.filter(person=vote_tally.candidate.person,
-                                                election=election).exists():
+        if models.Representation.objects.filter(
+                person=vote_tally.candidate.person,
+                election=election).exists():
             abbreviation = models.Representation.objects.get(
                 person=vote_tally.candidate.person,
                 election=election).party.abbreviation
