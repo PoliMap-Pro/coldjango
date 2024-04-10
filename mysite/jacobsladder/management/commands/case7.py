@@ -9,7 +9,8 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         twenty_ten = datetime(year=2010, month=1, day=1)
-        house_election_2010 = models.HouseElection.objects.get(election_date=twenty_ten)
+        house_election_2010 = models.HouseElection.objects.get(
+            election_date=twenty_ten)
 
         def prime(election, seat):
             all_votes = seat.total_primary_votes(house_election_2010)
