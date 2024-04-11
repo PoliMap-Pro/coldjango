@@ -5,7 +5,6 @@ import pygame
 import colorsys
 
 IN_FILE = "housedopbydivisiondownload-27966.csv"
-DIVISION_NAME = "Bean"
 SCREEN_WIDTH, SCREEN_HEIGHT = 700, 700
 SHOW_FRACTION = 0.25
 FRAMES = 60
