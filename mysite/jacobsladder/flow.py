@@ -7,7 +7,7 @@ import colorsys
 IN_FILE = "housedopbydivisiondownload-27966.csv"
 DIVISION_NAME = "Bean"
 SCREEN_WIDTH, SCREEN_HEIGHT = 700, 700
-SHOW_FRACTION = 0.3
+SHOW_FRACTION = 0.25
 FRAMES = 60
 HALF_WIDTH, HALF_HEIGHT = SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2
 
@@ -15,7 +15,7 @@ pygame.init()
 
 
 class Location(object):
-    FONT = pygame.font.SysFont(pygame.font.get_default_font(), 36)
+    FONT = pygame.font.SysFont(pygame.font.get_default_font(), 30)
     RADIUS = 0
 
     def __init__(self):
