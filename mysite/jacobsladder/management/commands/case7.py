@@ -20,7 +20,7 @@ class Command(BaseCommand):
                         election=house_election_2010,
                             seat=seat):
                         ratio = (seat.primary_for(
-                            contention.candidate, house_election_2010) /
+                            contention.primary, house_election_2010) /
                                  all_votes)
                         if ratio > 0.1:
                             return seat

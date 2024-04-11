@@ -21,10 +21,10 @@ class Command(BaseCommand):
     @staticmethod
     def show_primary_if_major(election, seat, booth, vote_tally):
         if models.Representation.objects.filter(
-                person=vote_tally.candidate.person,
+                person=vote_tally.primary.person,
                 election=election).exists():
             abbreviation = models.Representation.objects.get(
-                person=vote_tally.candidate.person,
+                person=vote_tally.primary.person,
                 election=election).party.abbreviation
             if abbreviation in ('AAP', 'WTA', ):
                 print(f"{abbreviation}: {vote_tally.primary_votes}")

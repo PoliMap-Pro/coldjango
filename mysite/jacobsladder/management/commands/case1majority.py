@@ -65,13 +65,13 @@ Election on 2013-01-01
     def show_primary(election, seat, booth, vote_tally):
         if models.Representation.objects.filter(
                 election=election,
-                person=vote_tally.candidate.person).exists():
+                person=vote_tally.primary.person).exists():
             middle = models.Representation.objects.get(
                 election=election,
-                person=vote_tally.candidate.person).party.name
+                person=vote_tally.primary.person).party.name
         else:
             middle = "Independent"
-        print(f"\t\t\t{vote_tally.candidate.person.name}, "
+        print(f"\t\t\t{vote_tally.primary.person.name}, "
               f"{middle}, {vote_tally.primary_votes}")
 
 

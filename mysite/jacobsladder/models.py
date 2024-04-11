@@ -171,7 +171,7 @@ class Seat(models.Model):
 
     def primary_for(self, candidate, elect):
         def primary_votes(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes if vote_tally.candidate.pk == \
+            return vote_tally.primary_votes if vote_tally.primary.pk == \
                                                candidate.pk else 0
         return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
             self, elect) for votes in booth])
