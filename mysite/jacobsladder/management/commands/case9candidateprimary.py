@@ -14,5 +14,5 @@ class Command(BaseCommand):
         hack_person = models.Person.objects.get(name="Party Hack")
         hack_candidate = models.HouseCandidate.objects.get(person=hack_person)
         print(f"Primary vote for {hack_person} in {house_election_2010}: "
-              f"{seat1.primary_for(hack_candidate, house_election_2010)}")
+              f"{seat1.candidate_for(hack_candidate, house_election_2010)}")
 

@@ -164,14 +164,14 @@ class Seat(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
     def total_primary_votes(self, elect):
-        def return_primary(election, seat, booth, vote_tally):
+        def return_candidate(election, seat, booth, vote_tally):
             return vote_tally.primary_votes
         return sum([votes for booth in Booth.per(VoteTally.per(
-            return_primary))(self, elect) for votes in booth])
+            return_candidate))(self, elect) for votes in booth])
 
-    def primary_for(self, candidate, elect):
+    def candidate_for(self, candidate, elect):
         def primary_votes(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes if vote_tally.primary.pk == \
+            return vote_tally.primary_votes if vote_tally.candidate.pk == \
                                                candidate.pk else 0
         return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
             self, elect) for votes in booth])
@@ -187,11 +187,11 @@ class Seat(models.Model):
 
 
     @staticmethod
-    def total_primary(election):
+    def total_candidate(election):
         Seat.per(Booth.per(VoteTally.per(lam3)))(election)
 
     @staticmethod
-    def get_primary(election, seat, booth, vote_tally):
+    def get_candidate(election, seat, booth, vote_tally):
         return vote_tally.primary_votes
     #election, seat, booth, vote_tally
 

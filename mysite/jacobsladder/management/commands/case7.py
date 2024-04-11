@@ -19,8 +19,8 @@ class Command(BaseCommand):
                     for contention in models.Contention.objects.filter(
                         election=house_election_2010,
                             seat=seat):
-                        ratio = (seat.primary_for(
-                            contention.primary, house_election_2010) /
+                        ratio = (seat.candidate_for(
+                            contention.candidate, house_election_2010) /
                                  all_votes)
                         if ratio > 0.1:
                             return seat

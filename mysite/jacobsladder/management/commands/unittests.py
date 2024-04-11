@@ -41,4 +41,4 @@ class Command(BaseCommand):
         Seat.per(Booth.per(VoteTally.per(func4)))(house_election_2010)
         HouseElection.per(Seat.per(Booth.per(VoteTally.per(func4))))
         print(f"Primary vote for {hack_person} in {house_election_2010}: "
-              f"{seat1.primary_for(hack_candidate, house_election_2010)}")
+              f"{seat1.candidate_for(hack_candidate, house_election_2010)}")
