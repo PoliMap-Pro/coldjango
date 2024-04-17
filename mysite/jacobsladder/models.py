@@ -106,8 +106,8 @@ class StateName(models.TextChoices):
     NT = "nt", "Northern Territory"
     QLD = "qld", "Queensland"
     SA = "sa", "South Australia"
-    TAS = "tasmania", "Tasmania"
-    VIC = "victoria", "Victoria"
+    TAS = "tas", "Tasmania"
+    VIC = "vic", "Victoria"
     WA = "wa", "Western Australia"
 
 
@@ -161,6 +161,8 @@ class Seat(models.Model):
     elections = models.ManyToManyField(HouseElection, blank=True)
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
+    division_aec_code = models.PositiveIntegerField(default=0)
+    enrollment = models.PositiveIntegerField(default=0)
     created = models.DateTimeField(auto_now_add=True)
 
     def total_primary_votes(self, elect):
@@ -184,8 +186,6 @@ class Seat(models.Model):
                     election.seat_set.all()]
         return wrapper
 
-
-
     @staticmethod
     def total_candidate(election):
         Seat.per(Booth.per(VoteTally.per(lam3)))(election)
@@ -193,7 +193,6 @@ class Seat(models.Model):
     @staticmethod
     def get_candidate(election, seat, booth, vote_tally):
         return vote_tally.primary_votes
-    #election, seat, booth, vote_tally
 
     def __str__(self):
         return f"{self.__class__.__name__} {self.name} in {self.state}"
@@ -221,6 +220,7 @@ class Booth(models.Model):
                                    through="Collection")
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
+    polling_place_aec_code = models.PositiveIntegerField(default=0)
     created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
@@ -271,12 +271,18 @@ class PartyAlias(models.Model):
 
 
 class Person(models.Model):
-    name = models.CharField(max_length=63)
+    name = models.CharField(max_length=31)  # surname
+    other_names = models.CharField(max_length=63, null=True, blank=True)
+    last_known_codepartyyear = models.CharField(max_length=31, null=True,
+        blank=True)
     party = models.ManyToManyField(Party, through="Representation")
     created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return self.name
+        if self.other_names:
+            return f"{str(self.other_names).title()} " \
+                   f"{str(self.name).title()}"
+        return str(self.name).title()
 
 
 class Representation(models.Model):
@@ -290,13 +296,15 @@ class HouseCandidate(models.Model):
     seat = models.ManyToManyField(Seat, through="Contention")
 
     def __str__(self):
-        return self.person.name
+        return str(self.person)
 
 
 class Contention(models.Model):
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
+    candidate_aec_code = models.PositiveIntegerField(default=0)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
+    ballot_position = models.PositiveSmallIntegerField(default=0)
 
 
 class SenateGroup(models.Model):

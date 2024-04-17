@@ -143,7 +143,6 @@ class Stage(Location):
                                 vote.candidate = self.candidates[row['Surname']]
                                 vote.rpx += x_off - vote.candidate.px
                                 vote.rpy += y_off - vote.candidate.py
-                                #vote.tpx, vote.tpy = Stage.random_position(Candidate.RADIUS)
                                 vote.tpx, vote.tpy = x, y
                                 vote.vx = (vote.tpx + vote.candidate.px - vote.px) / FRAMES
                                 vote.vy = (vote.tpy + vote.candidate.py - vote.py) / FRAMES
