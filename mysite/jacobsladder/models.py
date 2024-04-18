@@ -327,7 +327,7 @@ class VoteTally(models.Model):
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
     primary_votes = models.IntegerField()
-    tcp_votes = models.IntegerField()
+    tcp_votes = models.IntegerField(null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
