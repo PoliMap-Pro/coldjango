@@ -94,7 +94,7 @@ class Command(BaseCommand):
                         name=row['Surname'], other_names=row['GivenNm'],)
                     candidate = models.HouseCandidate.objects.get(
                         person=person)
-                    vote_tally = models.VoteTally.objects.get_or_create(
+                    vote_tally = models.VoteTally.objects.get(
                         booth=booth, election=house_election_2022,
                         candidate=candidate)
                     vote_tally.tcp_votes = int(row['OrdinaryVotes'])
@@ -110,6 +110,7 @@ class Command(BaseCommand):
                     #transfer_objects = models.VoteTransfer.objects
                     while True:
                         row = next(reader)
+                        print(row)
                         if row['CalculationType'] == 'Preference Count':
                             seat = models.Seat.objects.get(name=row[
                                 'DivisionNm'])
@@ -128,9 +129,10 @@ class Command(BaseCommand):
                             transfer_row = next(reader)
                             transferred = int(transfer_row['CalculationValue'])
                             remaining = received + transferred
+                            print(candidate, pref_round, received, transferred, remaining)
                             pref, _ = pref_objects.get_or_create(
                                 candidate=candidate, round=pref_round,
                                 votes_received=received,
                                 votes_transferred=transferred,
                                 votes_remaining=remaining)
-                            #tranfer, _ = transfer_objects.get_or_create()
+            # DO VOTETRANSFERS AND VOTEDISTRIBUTIONS

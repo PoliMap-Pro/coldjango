@@ -346,6 +346,9 @@ class PreferenceRound(models.Model):
     round_number = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
 
+    def __str__(self):
+        return f"Round {self.round_number} of {self.seat} in {self.election}"
+
 
 class CandidatePreference(models.Model):
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
@@ -354,6 +357,9 @@ class CandidatePreference(models.Model):
     votes_transferred = models.IntegerField()
     votes_remaining = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.candidate} in {self.round}"
 
 
 class VoteTransfer(models.Model):
