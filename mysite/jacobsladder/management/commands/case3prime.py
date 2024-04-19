@@ -8,10 +8,10 @@ class Command(BaseCommand):
     help = 'Case 3'
 
     def handle(self, *arguments, **keywordarguments):
-        twenty_ten = datetime(year=2010, month=1, day=1)
-        house_election_2010 = models.HouseElection.objects.get(election_date=twenty_ten)
-        seat1 = models.Seat.objects.get(name="Frank", state=models.StateName.VIC)
-        models.Booth.per(Command.show_major_parties_candidate)(seat1, house_election_2010)
+        twenty_twenty_two = datetime(year=2022, month=1, day=1)
+        house_election_2022 = models.HouseElection.objects.get(election_date=twenty_twenty_two)
+        seat1 = models.Seat.objects.get(name="Bennelong", state=models.StateName.NSW)
+        models.Booth.per(Command.show_major_parties_candidate)(seat1, house_election_2022)
 
     @staticmethod
     def show_major_parties_candidate(election, seat, booth):
@@ -26,5 +26,5 @@ class Command(BaseCommand):
             abbreviation = models.Representation.objects.get(
                 person=vote_tally.candidate.person,
                 election=election).party.abbreviation
-            if abbreviation in ('AAP', 'WTA', ):
+            if abbreviation in ('ALP', 'GRN', 'LP', ):
                 print(f"{abbreviation}: {vote_tally.primary_votes}")
