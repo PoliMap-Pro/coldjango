@@ -2,16 +2,30 @@ import csv
 import os
 
 from datetime import datetime
+from operator import itemgetter
+
 from django.core.management.base import BaseCommand
 from ... import models
 
-BOOTHS_DIRECTORY = ".\\jacobsladder\\2022\\prefs\\"
-SEATS_DIRECTORY = ".\\jacobsladder\\2022\\votes_counted\\"
-TWO_CANDIDATE_PREFERRED_DIRECTORY = ".\\jacobsladder\\2022\\" \
-                                    "two_candidate_preferred\\"
-PREFERENCE_DISTRIBUTION_DIRECTORY = ".\\jacobsladder\\2022\\" \
-                                    "distribution_of_preferences\\"
+#BOOTHS_DIRECTORY = ".\\jacobsladder\\2022\\prefs\\"
+#SEATS_DIRECTORY = ".\\jacobsladder\\2022\\votes_counted\\"
+#TWO_CANDIDATE_PREFERRED_DIRECTORY = ".\\jacobsladder\\2022\\" \
+#                                    "two_candidate_preferred\\"
+#PREFERENCE_DISTRIBUTION_DIRECTORY = ".\\jacobsladder\\2022\\" \
+#                                    "distribution_of_preferences\\"
 
+BOOTHS_DIRECTORY_RELATIVE = "prefs\\"
+SEATS_DIRECTORY_RELATIVE = "votes_counted\\"
+TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE = "two_candidate_preferred\\"
+PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE = "distribution_of_preferences\\"
+
+ELECTION_DIRECTORIES = {2022: ".\\jacobsladder\\2022\\",
+                        2019: ".\\jacobsladder\\2019\\",
+                        2016: ".\\jacobsladder\\2016\\",
+                        2013: ".\\jacobsladder\\2013\\",
+                        2010: ".\\jacobsladder\\2010\\",
+                        2007: ".\\jacobsladder\\2007\\",
+                        2004: ".\\jacobsladder\\2004\\",}
 
 class Command(BaseCommand):
     help = 'Add election from csv files'
@@ -48,144 +62,158 @@ class Command(BaseCommand):
         return csv.DictReader(in_file)
 
     def handle(self, *arguments, **keywordarguments):
-        twenty_twenty_two = datetime(year=2022, month=1, day=1)
-        house_election_2022, new_creation = \
-            models.HouseElection.objects.get_or_create(
-                election_date=twenty_twenty_two)
         pref_objects = models.CandidatePreference.objects
-        print("Reading files in seats directory")
-        for filename in Command.walk(SEATS_DIRECTORY):
-            with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                for row in reader:
-                    seat, _ = models.Seat.objects.get_or_create(
-                        name=row['DivisionNm'], state=row['StateAb'].lower(),
-                        division_aec_code=row['DivisionID'],
-                        enrollment=row['Enrolment'])
-                    seat.elections.add(house_election_2022)
-        print()
-        print("Reading files in booths directory")
-        for filename in Command.walk(BOOTHS_DIRECTORY):
-            with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                for row in reader:
-                    booth, _ = models.Booth.objects.get_or_create(
-                        name=row['PollingPlace'],
-                        polling_place_aec_code=row['PollingPlaceID'])
-                    seat = models.Seat.objects.get(name=row['DivisionNm'])
-                    collection, _ = models.Collection.objects.get_or_create(
-                        booth=booth, seat=seat, election=house_election_2022)
-                    last_known_string = "".join([row['CandidateID'],
-                                                 row['PartyAb'], str(
-                            house_election_2022.election_date.year)])
-                    person, _ = models.Person.objects.get_or_create(
-                        name=row['Surname'], other_names=row['GivenNm'],
-                        last_known_codepartyyear=last_known_string)
-                    candidate, _ = models.HouseCandidate.objects.get_or_create(
-                        person=person)
-                    party, _ = models.Party.objects.get_or_create(
-                        name=row['PartyNm'], abbreviation=row['PartyAb'])
-                    representation, _ = \
-                        models.Representation.objects.get_or_create(
-                            person=person, party=party,
-                            election=house_election_2022)
-                    contention, _ = models.Contention.objects.get_or_create(
-                        seat=seat, candidate=candidate,
-                        candidate_aec_code=row['CandidateID'],
-                        election=house_election_2022,
-                        ballot_position=row['BallotPosition'])
-                    vote_tally, _ = models.VoteTally.objects.get_or_create(
-                        booth=booth, election=house_election_2022,
-                        candidate=candidate,
-                        primary_votes=int(row['OrdinaryVotes']))
-        print()
-        print("Reading files in two candidate preferred directory")
-        for filename in Command.walk(TWO_CANDIDATE_PREFERRED_DIRECTORY):
-            with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                for row in reader:
-                    booth = models.Booth.objects.get(
-                        name=row['PollingPlace'],
-                        polling_place_aec_code=row['PollingPlaceID'])
-                    person = models.Person.objects.get(
-                        name=row['Surname'], other_names=row['GivenNm'],)
-                    candidate = models.HouseCandidate.objects.get(
-                        person=person)
-                    vote_tally = models.VoteTally.objects.get(
-                        booth=booth, election=house_election_2022,
-                        candidate=candidate)
-                    vote_tally.tcp_votes = int(row['OrdinaryVotes'])
-                    vote_tally.save()
+        #twenty_twenty_two = datetime(year=2022, month=1, day=1)
+        #house_election_2022, _ = \
+        #    models.HouseElection.objects.get_or_create(
+        #        election_date=twenty_twenty_two)
+        election_items = list(ELECTION_DIRECTORIES.items())
+        election_items.sort(key=itemgetter(0))
+        election_items.reverse()
+        for election_year, folder in election_items:
+            print("Election", election_year)
             print()
-        print("First Pass: Reading files in preference distribution directory")
-        for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
-            with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                while True:
-                    try:
-                        row = next(reader)
-                        if row['CalculationType'] == 'Preference Count':
-                            candidate, received, seat = \
-                                Command.fetch_candid(row)
-                            pref_round, _ = \
-                                models.PreferenceRound.objects.get_or_create(
-                                    seat=seat, election=house_election_2022,
-                                    round_number=int(row['CountNumber']))
-                            remaining, transferred = Command.advance(
-                                reader, received)
-                            pref, _ = pref_objects.get_or_create(
-                                candidate=candidate, round=pref_round,
-                                election=house_election_2022,
-                                votes_received=received,
-                                votes_transferred=transferred,
-                                votes_remaining=remaining)
-                            if not pref.seat:
-                                pref.seat = seat
-                                pref.save()
-                            if not pref.election:
-                                pref.election = house_election_2022
-                                pref.save()
-                    except StopIteration:
-                        break
-        print()
-        print("Second Pass: Reading files in preference distribution directory")
-        for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
-            with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                while True:
-                    try:
-                        row = next(reader)
-                        if row['CalculationType'] == 'Preference Count':
-                            if int(row['CalculationValue']) > 0:
-                                current_round_numb = int(
-                                    row['CountNumber'])
-                                if current_round_numb > 0:
-                                    candidate, received, seat = \
-                                        Command.fetch_candid(row)
-                                    current_round = \
-                                        models.PreferenceRound.objects.get(
-                                            seat=seat,
-                                            election=house_election_2022,
-                                            round_number=current_round_numb)
-                                    remaining, transferred = \
-                                        Command.advance(reader, received)
-                                    if transferred > 0:
-                                        pref = pref_objects.get(
-                                            candidate=candidate,
-                                            round=current_round,
-                                            election=house_election_2022,
-                                            votes_received=received,
-                                            votes_transferred=transferred,
-                                            votes_remaining=remaining
-                                        )
-                                        source_pref = pref_objects.get(
-                                                votes_received=0,
-                                                votes_transferred__lt=0,
+            election_date = datetime(year=election_year, month=1, day=1)
+            house_election, _ = models.HouseElection.objects.get_or_create(
+                election_date=election_date)
+            seats_directory = os.path.join(folder, SEATS_DIRECTORY_RELATIVE)
+            booths_directory = os.path.join(folder, BOOTHS_DIRECTORY_RELATIVE)
+            two_candidate_preferred_directory = os.path.join(folder, TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)
+            preference_distribution_directory = os.path.join(folder, PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE)
+            print("Reading files in seats directory")
+            for filename in Command.walk(seats_directory):
+                with open(filename, "r") as in_file:
+                    reader = self.fetch_reader(filename, in_file)
+                    for row in reader:
+                        seat, _ = models.Seat.objects.get_or_create(
+                            name=row['DivisionNm'], state=row['StateAb'].lower(),
+                            division_aec_code=row['DivisionID'],
+                            enrollment=row['Enrolment'])
+                        seat.elections.add(house_election)
+            print()
+            print("Reading files in booths directory")
+            for filename in Command.walk(booths_directory):
+                with open(filename, "r") as in_file:
+                    reader = self.fetch_reader(filename, in_file)
+                    for row in reader:
+                        booth, _ = models.Booth.objects.get_or_create(
+                            name=row['PollingPlace'],
+                            polling_place_aec_code=row['PollingPlaceID'])
+                        seat = models.Seat.objects.get(name=row['DivisionNm'])
+                        collection, _ = models.Collection.objects.get_or_create(
+                            booth=booth, seat=seat, election=house_election)
+                        last_known_string = "".join([row['CandidateID'],
+                                                     row['PartyAb'], str(
+                                house_election.election_date.year)])
+                        person, _ = models.Person.objects.get_or_create(
+                            name=row['Surname'], other_names=row['GivenNm'],
+                            last_known_codepartyyear=last_known_string)
+                        candidate, _ = models.HouseCandidate.objects.get_or_create(
+                            person=person)
+                        party, _ = models.Party.objects.get_or_create(
+                            name=row['PartyNm'], abbreviation=row['PartyAb'])
+                        representation, _ = \
+                            models.Representation.objects.get_or_create(
+                                person=person, party=party,
+                                election=house_election)
+                        contention, _ = models.Contention.objects.get_or_create(
+                            seat=seat, candidate=candidate,
+                            candidate_aec_code=row['CandidateID'],
+                            election=house_election,
+                            ballot_position=row['BallotPosition'])
+                        vote_tally, _ = models.VoteTally.objects.get_or_create(
+                            booth=booth, election=house_election,
+                            candidate=candidate,
+                            primary_votes=int(row['OrdinaryVotes']))
+            print()
+            print("Reading files in two candidate preferred directory")
+            for filename in Command.walk(two_candidate_preferred_directory):
+                with open(filename, "r") as in_file:
+                    reader = self.fetch_reader(filename, in_file)
+                    for row in reader:
+                        booth = models.Booth.objects.get(
+                            name=row['PollingPlace'],
+                            polling_place_aec_code=row['PollingPlaceID'])
+                        person = models.Person.objects.get(
+                            name=row['Surname'], other_names=row['GivenNm'],)
+                        candidate = models.HouseCandidate.objects.get(
+                            person=person)
+                        vote_tally = models.VoteTally.objects.get(
+                            booth=booth, election=house_election,
+                            candidate=candidate)
+                        vote_tally.tcp_votes = int(row['OrdinaryVotes'])
+                        vote_tally.save()
+                print()
+            print("First Pass: Reading files in preference distribution directory")
+            for filename in Command.walk(preference_distribution_directory):
+                with open(filename, "r") as in_file:
+                    reader = self.fetch_reader(filename, in_file)
+                    while True:
+                        try:
+                            row = next(reader)
+                            if row['CalculationType'] == 'Preference Count':
+                                candidate, received, seat = \
+                                    Command.fetch_candid(row)
+                                pref_round, _ = \
+                                    models.PreferenceRound.objects.get_or_create(
+                                        seat=seat, election=house_election,
+                                        round_number=int(row['CountNumber']))
+                                remaining, transferred = Command.advance(
+                                    reader, received)
+                                pref, _ = pref_objects.get_or_create(
+                                    candidate=candidate, round=pref_round,
+                                    election=house_election,
+                                    votes_received=received,
+                                    votes_transferred=transferred,
+                                    votes_remaining=remaining)
+                                if not pref.seat:
+                                    pref.seat = seat
+                                    pref.save()
+                                if not pref.election:
+                                    pref.election = house_election
+                                    pref.save()
+                        except StopIteration:
+                            break
+            print()
+            print("Second Pass: Reading files in preference distribution directory")
+            for filename in Command.walk(preference_distribution_directory):
+                with open(filename, "r") as in_file:
+                    reader = self.fetch_reader(filename, in_file)
+                    while True:
+                        try:
+                            row = next(reader)
+                            if row['CalculationType'] == 'Preference Count':
+                                if int(row['CalculationValue']) > 0:
+                                    current_round_numb = int(
+                                        row['CountNumber'])
+                                    if current_round_numb > 0:
+                                        candidate, received, seat = \
+                                            Command.fetch_candid(row)
+                                        current_round = \
+                                            models.PreferenceRound.objects.get(
+                                                seat=seat,
+                                                election=house_election,
+                                                round_number=current_round_numb)
+                                        remaining, transferred = \
+                                            Command.advance(reader, received)
+                                        if transferred > 0:
+                                            pref = pref_objects.get(
+                                                candidate=candidate,
                                                 round=current_round,
-                                                election=house_election_2022,
-                                                seat=seat)
-                                        pref.source_candidate = \
-                                            source_pref.candidate
-                                        pref.save()
-                    except StopIteration:
-                        break
+                                                election=house_election,
+                                                votes_received=received,
+                                                votes_transferred=transferred,
+                                                votes_remaining=remaining
+                                            )
+                                            source_pref = pref_objects.get(
+                                                    votes_received=0,
+                                                    votes_transferred__lt=0,
+                                                    round=current_round,
+                                                    election=house_election,
+                                                    seat=seat)
+                                            pref.source_candidate = \
+                                                source_pref.candidate
+                                            pref.save()
+                        except StopIteration:
+                            print()
+                            break
