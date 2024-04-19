@@ -91,9 +91,12 @@ class Command(BaseCommand):
                         seat, _ = models.Seat.objects.get_or_create(
                             name=row['DivisionNm'],
                             state=row['StateAb'].lower(),
-                            division_aec_code=row['DivisionID'],
-                            enrollment=row['Enrolment'])
+                            division_aec_code=row['DivisionID'])
                         seat.elections.add(house_election)
+                        enrollment, _ = \
+                            models.Enrollment.objects.get_or_create(
+                                seat=seat, election=house_election,
+                                number_enrolled=int(row['Enrolment']))
             print()
             print("Reading files in booths directory")
             for filename in Command.walk(booths_directory):

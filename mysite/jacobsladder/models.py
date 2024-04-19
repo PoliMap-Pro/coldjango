@@ -162,7 +162,6 @@ class Seat(models.Model):
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
     division_aec_code = models.PositiveIntegerField(default=0)
-    enrollment = models.PositiveIntegerField(default=0)
     created = models.DateTimeField(auto_now_add=True)
 
     def total_primary_votes(self, elect):
@@ -196,6 +195,13 @@ class Seat(models.Model):
 
     def __str__(self):
         return f"{self.__class__.__name__} {self.name} in {self.state}"
+
+
+class Enrollment(models.Model):
+    number_enrolled = models.PositiveIntegerField(default=0)
+    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
+    election = models.ForeignKey(HouseElection,
+                                 on_delete=models.CASCADE)
 
 
 class Transition(models.Model):
