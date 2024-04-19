@@ -101,7 +101,7 @@ class Command(BaseCommand):
                     vote_tally.save()
             print()
             print("Reading files in preference distribution directory")
-            for filename in Command.walk(TWO_CANDIDATE_PREFERRED_DIRECTORY):
+            for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
                 with open(filename, "r") as in_file:
                     print(filename)
                     next(in_file)
@@ -109,30 +109,31 @@ class Command(BaseCommand):
                     pref_objects = models.CandidatePreference.objects
                     #transfer_objects = models.VoteTransfer.objects
                     while True:
-                        row = next(reader)
-                        print(row)
-                        if row['CalculationType'] == 'Preference Count':
-                            seat = models.Seat.objects.get(name=row[
-                                'DivisionNm'])
-                            pref_round, _ = \
-                                models.PreferenceRound.objects.get_or_create(
-                                    seat=seat, election=house_election_2022,
-                                    round_number=int(row['CountNumber'])
-                                )
-                            person = models.Person.objects.get(
-                                name=row['Surname'],
-                                other_names=row['GivenNm'], )
-                            candidate = models.HouseCandidate.objects.get(
-                                person=person)
-                            received = int(row['CalculationValue'])
-                            next(reader)
-                            transfer_row = next(reader)
-                            transferred = int(transfer_row['CalculationValue'])
-                            remaining = received + transferred
-                            print(candidate, pref_round, received, transferred, remaining)
-                            pref, _ = pref_objects.get_or_create(
-                                candidate=candidate, round=pref_round,
-                                votes_received=received,
-                                votes_transferred=transferred,
-                                votes_remaining=remaining)
+                        try:
+                            row = next(reader)
+                            if row['CalculationType'] == 'Preference Count':
+                                seat = models.Seat.objects.get(name=row[
+                                    'DivisionNm'])
+                                pref_round, _ = \
+                                    models.PreferenceRound.objects.get_or_create(
+                                        seat=seat, election=house_election_2022,
+                                        round_number=int(row['CountNumber'])
+                                    )
+                                person = models.Person.objects.get(
+                                    name=row['Surname'],
+                                    other_names=row['GivenNm'], )
+                                candidate = models.HouseCandidate.objects.get(
+                                    person=person)
+                                received = int(row['CalculationValue'])
+                                next(reader)
+                                transfer_row = next(reader)
+                                transferred = int(transfer_row['CalculationValue'])
+                                remaining = received + transferred
+                                pref, _ = pref_objects.get_or_create(
+                                    candidate=candidate, round=pref_round,
+                                    votes_received=received,
+                                    votes_transferred=transferred,
+                                    votes_remaining=remaining)
+                        except StopIteration:
+                            pass
             # DO VOTETRANSFERS AND VOTEDISTRIBUTIONS
