@@ -161,7 +161,7 @@ class Seat(models.Model):
         constraints = [UniqueConstraint(fields=['name', 'division_aec_code'],
                                         name='unique_name_plus_code')]
 
-    name = models.CharField(max_length=63, unique=True)
+    name = models.CharField(max_length=63)
     state = models.CharField(max_length=9, choices=StateName.choices)
     elections = models.ManyToManyField(HouseElection, blank=True)
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,

@@ -7,29 +7,22 @@ from operator import itemgetter
 from django.core.management.base import BaseCommand
 from ... import models
 
-#BOOTHS_DIRECTORY = ".\\jacobsladder\\2022\\prefs\\"
-#SEATS_DIRECTORY = ".\\jacobsladder\\2022\\votes_counted\\"
-#TWO_CANDIDATE_PREFERRED_DIRECTORY = ".\\jacobsladder\\2022\\" \
-#                                    "two_candidate_preferred\\"
-#PREFERENCE_DISTRIBUTION_DIRECTORY = ".\\jacobsladder\\2022\\" \
-#                                    "distribution_of_preferences\\"
-
-BOOTHS_DIRECTORY_RELATIVE = "prefs\\"
-SEATS_DIRECTORY_RELATIVE = "votes_counted\\"
-TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE = "two_candidate_preferred\\"
-PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE = "distribution_of_preferences\\"
-
 ELECTION_DIRECTORIES = {2022: ".\\jacobsladder\\2022\\",
                         2019: ".\\jacobsladder\\2019\\",
                         2016: ".\\jacobsladder\\2016\\",
                         2013: ".\\jacobsladder\\2013\\",
                         2010: ".\\jacobsladder\\2010\\",
                         2007: ".\\jacobsladder\\2007\\",
-                        2004: ".\\jacobsladder\\2004\\",}
+                        2004: ".\\jacobsladder\\2004\\", }
+
+BOOTHS_DIRECTORY_RELATIVE = "prefs\\"
+SEATS_DIRECTORY_RELATIVE = "votes_counted\\"
+TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE = "two_candidate_preferred\\"
+PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE = "distribution_of_preferences\\"
 
 
 class Command(BaseCommand):
-    help = 'Add election from csv files'
+    help = 'Add elections from csv files'
 
     @staticmethod
     def walk(directory, file_extension=".csv"):
