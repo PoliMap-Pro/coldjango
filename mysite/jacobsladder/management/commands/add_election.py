@@ -124,6 +124,18 @@ class Command(BaseCommand):
             candidate, pref_round, received, remaining, seat, \
                 transferred = Command.fetch_pref_data(
                     house_election, reader, round_objects, row)
+
+            print("candidate", candidate)
+            print("pref_round", pref_round)
+            print("house_election", house_election)
+            print("received", received)
+            print("transferred", transferred)
+            print("remaining", remaining)
+            print("seat", seat)
+            print("round_objects", round_objects)
+
+
+
             pref, _ = pref_objects.get_or_create(candidate=candidate,
                                                  round=pref_round,
                                                  election=house_election,
