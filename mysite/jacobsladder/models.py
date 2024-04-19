@@ -351,7 +351,14 @@ class PreferenceRound(models.Model):
 
 
 class CandidatePreference(models.Model):
-    candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
+    seat = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
+                             null=True, blank=True)
+    candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
+                                  related_name="target_preference")
+    source_candidate = models.ForeignKey(HouseCandidate,
+                                         on_delete=models.CASCADE,
+                                         related_name="source_preference",
+                                         null=True, blank=True)
     round = models.ForeignKey(PreferenceRound, on_delete=models.CASCADE)
     votes_received = models.IntegerField()
     votes_transferred = models.IntegerField()
@@ -362,6 +369,7 @@ class CandidatePreference(models.Model):
         return f"{self.candidate} in {self.round}"
 
 
+# not using VoteTransfer and VoteDistribution
 class VoteTransfer(models.Model):
     source_candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
                                          related_name="to_via")
