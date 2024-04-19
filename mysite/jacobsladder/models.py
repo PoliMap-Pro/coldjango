@@ -1,5 +1,6 @@
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
+from django.db.models import UniqueConstraint
 
 """ 
 HouseElection.per, Seat.per, Booth.per and VoteTally.per
@@ -156,6 +157,10 @@ class SenateElection(Election):
 
 
 class Seat(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['name', 'division_aec_code'],
+                                        name='unique_name_plus_code')]
+
     name = models.CharField(max_length=63, unique=True)
     state = models.CharField(max_length=9, choices=StateName.choices)
     elections = models.ManyToManyField(HouseElection, blank=True)
