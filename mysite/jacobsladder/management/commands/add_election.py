@@ -108,7 +108,6 @@ class Command(BaseCommand):
                     reader = csv.DictReader(in_file)
                     pref_objects = models.CandidatePreference.objects
                     #transfer_objects = models.VoteTransfer.objects
-                    
                     while True:
                         try:
                             row = next(reader)
@@ -136,5 +135,5 @@ class Command(BaseCommand):
                                     votes_transferred=transferred,
                                     votes_remaining=remaining)
                         except StopIteration:
-                            pass
+                            break
             # DO VOTETRANSFERS AND VOTEDISTRIBUTIONS
