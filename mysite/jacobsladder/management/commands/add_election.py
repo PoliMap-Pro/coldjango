@@ -3,7 +3,6 @@ import os
 
 from datetime import datetime
 from operator import itemgetter
-
 from django.core.management.base import BaseCommand
 from ... import models
 
@@ -32,15 +31,29 @@ class Command(BaseCommand):
                     yield os.path.join(base_path, file)
 
     @staticmethod
+    def get_last_known(house_election, row):
+        return "".join([row['CandidateID'], row['PartyAb'], str(
+            house_election.election_date.year)])
+
+    @staticmethod
     def fetch_candid(row):
-        seat = models.Seat.objects.get(name=row[
-            'DivisionNm'])
         person = models.Person.objects.get(
             name=row['Surname'],
             other_names=row['GivenNm'], )
-        candidate = models.HouseCandidate.objects.get(
-            person=person)
-        return candidate, int(row['CalculationValue']), seat
+        return models.HouseCandidate.objects.get(person=person), \
+            int(row['CalculationValue']), \
+            models.Seat.objects.get(name=row['DivisionNm'])
+
+    @staticmethod
+    def fetch_transfer_data(current_round_numb, house_election, reader, row):
+        candidate, received, seat = \
+            Command.fetch_candid(row)
+        remaining, transferred = \
+            Command.advance(reader, received)
+        return candidate, models.PreferenceRound.objects.get(
+            seat=seat, election=house_election,
+            round_number=current_round_numb), received, remaining, seat, \
+            transferred
 
     @staticmethod
     def advance(reader, received):
@@ -50,10 +63,106 @@ class Command(BaseCommand):
         return received + transferred, transferred
 
     @staticmethod
+    def add_source(candidate, current_round, house_election, pref_objects,
+                   received, remaining, seat, transferred):
+        pref = pref_objects.get(candidate=candidate, round=current_round,
+                                election=house_election,
+                                votes_received=received,
+                                votes_transferred=transferred,
+                                votes_remaining=remaining)
+        source_pref = pref_objects.get(votes_received=0,
+                                       votes_transferred__lt=0,
+                                       round=current_round,
+                                       election=house_election, seat=seat)
+        pref.source_candidate = source_pref.candidate
+        pref.save()
+
+    @staticmethod
+    def fetch_pref_data(house_election, reader, round_objects, row):
+        candidate, received, seat = \
+            Command.fetch_candid(row)
+        remaining, transferred = Command.advance(
+            reader, received)
+        return candidate, round_objects.get_or_create(
+            seat=seat, election=house_election,
+            round_number=int(row['CountNumber'])), received, remaining, seat, \
+            transferred
+
+    @staticmethod
     def fetch_reader(filename, in_file):
         print(filename)
         next(in_file)
         return csv.DictReader(in_file)
+
+    @staticmethod
+    def fetch_candidate(house_election, row):
+        person, _ = models.Person.objects.get_or_create(
+            name=row['Surname'], other_names=row['GivenNm'],
+            last_known_codepartyyear=Command.get_last_known(
+                house_election, row))
+        candidate, _ = models.HouseCandidate.objects.get_or_create(
+            person=person)
+        party, _ = models.Party.objects.get_or_create(
+            name=row['PartyNm'], abbreviation=row['PartyAb'])
+        return candidate, party, person
+
+    @staticmethod
+    def set_booths(house_election, row):
+        booth, _ = models.Booth.objects.get_or_create(
+            name=row['PollingPlace'],
+            polling_place_aec_code=row['PollingPlaceID'])
+        seat = models.Seat.objects.get(name=row['DivisionNm'],
+                                       division_aec_code=row['DivisionID'])
+        collection, _ = models.Collection.objects.get_or_create(
+            booth=booth, seat=seat, election=house_election)
+        return booth, seat
+
+    @staticmethod
+    def set_pref(house_election, pref_objects, reader, round_objects):
+        row = next(reader)
+        if row['CalculationType'] == 'Preference Count':
+            candidate, pref_round, received, remaining, seat, \
+                transferred = Command.fetch_pref_data(
+                    house_election, reader, round_objects, row)
+            pref, _ = pref_objects.get_or_create(candidate=candidate,
+                                                 round=pref_round,
+                                                 election=house_election,
+                                                 votes_received=received,
+                                                 votes_transferred=transferred,
+                                                 votes_remaining=remaining)
+            Command.update_pref(house_election, pref, seat)
+
+    @staticmethod
+    def add_tally(booth, candidate, house_election, party, person, row, seat):
+        representation, _ = models.Representation.objects.get_or_create(
+            person=person, party=party, election=house_election)
+        contention, _ = models.Contention.objects.get_or_create(
+            seat=seat, candidate=candidate,
+            candidate_aec_code=row['CandidateID'],
+            election=house_election,
+            ballot_position=row['BallotPosition'])
+        vote_tally, _ = models.VoteTally.objects.get_or_create(
+            booth=booth, election=house_election,
+            candidate=candidate,
+            primary_votes=int(row['OrdinaryVotes']))
+
+    @staticmethod
+    def set_all_preferences(house_election, pref_objects, reader, round_objects):
+        while True:
+            try:
+                Command.set_pref(house_election, pref_objects, reader,
+                                 round_objects)
+            except StopIteration:
+                break
+
+    @staticmethod
+    def update_pref(house_election, pref, seat):
+        if not pref.seat:
+            pref.seat = seat
+            pref.save()
+        if not pref.election:
+            pref.election = house_election
+            pref.save()
 
     @staticmethod
     def start_election(election_year, folder):
@@ -75,33 +184,10 @@ class Command(BaseCommand):
               "distribution directory")
         for filename in Command.walk(preference_distribution_directory):
             with open(filename, "r") as in_file:
-                reader = self.fetch_reader(filename, in_file)
-                while True:
-                    try:
-                        row = next(reader)
-                        if row['CalculationType'] == 'Preference Count':
-                            candidate, received, seat = \
-                                Command.fetch_candid(row)
-                            pref_round, _ = \
-                                round_objects.get_or_create(
-                                    seat=seat, election=house_election,
-                                    round_number=int(row['CountNumber']))
-                            remaining, transferred = Command.advance(
-                                reader, received)
-                            pref, _ = pref_objects.get_or_create(
-                                candidate=candidate, round=pref_round,
-                                election=house_election,
-                                votes_received=received,
-                                votes_transferred=transferred,
-                                votes_remaining=remaining)
-                            if not pref.seat:
-                                pref.seat = seat
-                                pref.save()
-                            if not pref.election:
-                                pref.election = house_election
-                                pref.save()
-                    except StopIteration:
-                        break
+                Command.set_all_preferences(house_election, pref_objects,
+                                            self.fetch_reader(filename,
+                                                              in_file),
+                                            round_objects)
 
     def second_pass_preferences(self, house_election, pref_objects,
                                 preference_distribution_directory):
@@ -119,33 +205,19 @@ class Command(BaseCommand):
                                 current_round_numb = int(
                                     row['CountNumber'])
                                 if current_round_numb > 0:
-                                    candidate, received, seat = \
-                                        Command.fetch_candid(row)
-                                    current_round = \
-                                        models.PreferenceRound.objects.get(
-                                            seat=seat,
-                                            election=house_election,
-                                            round_number=current_round_numb)
-                                    remaining, transferred = \
-                                        Command.advance(reader, received)
+                                    candidate, current_round, received, \
+                                        remaining, seat, transferred = \
+                                        Command.fetch_transfer_data(
+                                            current_round_numb,
+                                            house_election, reader, row)
                                     if transferred > 0:
-                                        pref = pref_objects.get(
-                                            candidate=candidate,
-                                            round=current_round,
-                                            election=house_election,
-                                            votes_received=received,
-                                            votes_transferred=transferred,
-                                            votes_remaining=remaining
-                                        )
-                                        source_pref = pref_objects.get(
-                                            votes_received=0,
-                                            votes_transferred__lt=0,
-                                            round=current_round,
-                                            election=house_election,
-                                            seat=seat)
-                                        pref.source_candidate = \
-                                            source_pref.candidate
-                                        pref.save()
+                                        Command.add_source(candidate,
+                                                           current_round,
+                                                           house_election,
+                                                           pref_objects,
+                                                           received,
+                                                           remaining, seat,
+                                                           transferred)
                     except StopIteration:
                         print()
                         break
@@ -157,38 +229,11 @@ class Command(BaseCommand):
             with open(filename, "r") as in_file:
                 reader = self.fetch_reader(filename, in_file)
                 for row in reader:
-                    booth, _ = models.Booth.objects.get_or_create(
-                        name=row['PollingPlace'],
-                        polling_place_aec_code=row['PollingPlaceID'])
-                    seat = models.Seat.objects.get(
-                        name=row['DivisionNm'],
-                        division_aec_code=row['DivisionID'])
-                    collection, _ = models.Collection.objects.get_or_create(
-                        booth=booth, seat=seat, election=house_election)
-                    last_known_string = "".join([row['CandidateID'],
-                                                 row['PartyAb'], str(
-                            house_election.election_date.year)])
-                    person, _ = models.Person.objects.get_or_create(
-                        name=row['Surname'], other_names=row['GivenNm'],
-                        last_known_codepartyyear=last_known_string)
-                    candidate, _ = \
-                        models.HouseCandidate.objects.get_or_create(
-                            person=person)
-                    party, _ = models.Party.objects.get_or_create(
-                        name=row['PartyNm'], abbreviation=row['PartyAb'])
-                    representation, _ = \
-                        models.Representation.objects.get_or_create(
-                            person=person, party=party,
-                            election=house_election)
-                    contention, _ = models.Contention.objects.get_or_create(
-                        seat=seat, candidate=candidate,
-                        candidate_aec_code=row['CandidateID'],
-                        election=house_election,
-                        ballot_position=row['BallotPosition'])
-                    vote_tally, _ = models.VoteTally.objects.get_or_create(
-                        booth=booth, election=house_election,
-                        candidate=candidate,
-                        primary_votes=int(row['OrdinaryVotes']))
+                    booth, seat = Command.set_booths(house_election, row)
+                    candidate, party, person = Command.fetch_candidate(
+                        house_election, row)
+                    Command.add_tally(booth, candidate, house_election,
+                                      party, person, row, seat)
 
     def add_votes(self, house_election, two_candidate_preferred_directory):
         print()
@@ -201,7 +246,10 @@ class Command(BaseCommand):
                         name=row['PollingPlace'],
                         polling_place_aec_code=row['PollingPlaceID'])
                     person = models.Person.objects.get(
-                        name=row['Surname'], other_names=row['GivenNm'], )
+                        name=row['Surname'],
+                        other_names=row['GivenNm'],
+                        last_known_codepartyyear=self.get_last_known(
+                            house_election, row))
                     candidate = models.HouseCandidate.objects.get(
                         person=person)
                     vote_tally = models.VoteTally.objects.get(
@@ -222,10 +270,9 @@ class Command(BaseCommand):
                         state=row['StateAb'].lower(),
                         division_aec_code=row['DivisionID'])
                     seat.elections.add(house_election)
-                    enrollment, _ = \
-                        models.Enrollment.objects.get_or_create(
-                            seat=seat, election=house_election,
-                            number_enrolled=int(row['Enrolment']))
+                    enrollment, _ = models.Enrollment.objects.get_or_create(
+                        seat=seat, election=house_election,
+                        number_enrolled=int(row['Enrolment']))
 
     def handle(self, *arguments, **keywordarguments):
         pref_objects = models.CandidatePreference.objects
@@ -246,13 +293,3 @@ class Command(BaseCommand):
                                         round_objects)
             self.second_pass_preferences(house_election, pref_objects,
                                          preference_distribution_directory)
-
-
-
-
-
-
-
-
-
-
