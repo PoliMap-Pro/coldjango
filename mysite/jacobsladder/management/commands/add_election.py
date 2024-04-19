@@ -160,7 +160,9 @@ class Command(BaseCommand):
                     booth, _ = models.Booth.objects.get_or_create(
                         name=row['PollingPlace'],
                         polling_place_aec_code=row['PollingPlaceID'])
-                    seat = models.Seat.objects.get(name=row['DivisionNm'])
+                    seat = models.Seat.objects.get(
+                        name=row['DivisionNm'],
+                        division_aec_code=row['DivisionID'])
                     collection, _ = models.Collection.objects.get_or_create(
                         booth=booth, seat=seat, election=house_election)
                     last_known_string = "".join([row['CandidateID'],
