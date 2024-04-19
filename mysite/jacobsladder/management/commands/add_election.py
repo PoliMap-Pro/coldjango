@@ -63,6 +63,7 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         pref_objects = models.CandidatePreference.objects
+        round_objects = models.PreferenceRound.objects
         #twenty_twenty_two = datetime(year=2022, month=1, day=1)
         #house_election_2022, _ = \
         #    models.HouseElection.objects.get_or_create(
@@ -78,15 +79,18 @@ class Command(BaseCommand):
                 election_date=election_date)
             seats_directory = os.path.join(folder, SEATS_DIRECTORY_RELATIVE)
             booths_directory = os.path.join(folder, BOOTHS_DIRECTORY_RELATIVE)
-            two_candidate_preferred_directory = os.path.join(folder, TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)
-            preference_distribution_directory = os.path.join(folder, PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE)
+            two_candidate_preferred_directory = os.path.join(
+                folder, TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)
+            preference_distribution_directory = os.path.join(
+                folder, PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE)
             print("Reading files in seats directory")
             for filename in Command.walk(seats_directory):
                 with open(filename, "r") as in_file:
                     reader = self.fetch_reader(filename, in_file)
                     for row in reader:
                         seat, _ = models.Seat.objects.get_or_create(
-                            name=row['DivisionNm'], state=row['StateAb'].lower(),
+                            name=row['DivisionNm'],
+                            state=row['StateAb'].lower(),
                             division_aec_code=row['DivisionID'],
                             enrollment=row['Enrolment'])
                         seat.elections.add(house_election)
@@ -108,7 +112,8 @@ class Command(BaseCommand):
                         person, _ = models.Person.objects.get_or_create(
                             name=row['Surname'], other_names=row['GivenNm'],
                             last_known_codepartyyear=last_known_string)
-                        candidate, _ = models.HouseCandidate.objects.get_or_create(
+                        candidate, _ = \
+                            models.HouseCandidate.objects.get_or_create(
                             person=person)
                         party, _ = models.Party.objects.get_or_create(
                             name=row['PartyNm'], abbreviation=row['PartyAb'])
@@ -144,7 +149,8 @@ class Command(BaseCommand):
                         vote_tally.tcp_votes = int(row['OrdinaryVotes'])
                         vote_tally.save()
                 print()
-            print("First Pass: Reading files in preference distribution directory")
+            print("First Pass: Reading files in preference "
+                  "distribution directory")
             for filename in Command.walk(preference_distribution_directory):
                 with open(filename, "r") as in_file:
                     reader = self.fetch_reader(filename, in_file)
@@ -155,7 +161,7 @@ class Command(BaseCommand):
                                 candidate, received, seat = \
                                     Command.fetch_candid(row)
                                 pref_round, _ = \
-                                    models.PreferenceRound.objects.get_or_create(
+                                    round_objects.get_or_create(
                                         seat=seat, election=house_election,
                                         round_number=int(row['CountNumber']))
                                 remaining, transferred = Command.advance(
@@ -175,7 +181,8 @@ class Command(BaseCommand):
                         except StopIteration:
                             break
             print()
-            print("Second Pass: Reading files in preference distribution directory")
+            print("Second Pass: Reading files in preference "
+                  "distribution directory")
             for filename in Command.walk(preference_distribution_directory):
                 with open(filename, "r") as in_file:
                     reader = self.fetch_reader(filename, in_file)
