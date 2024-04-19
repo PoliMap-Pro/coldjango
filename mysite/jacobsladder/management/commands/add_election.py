@@ -13,7 +13,6 @@ PREFERENCE_DISTRIBUTION_DIRECTORY = ".\\jacobsladder\\2022\\" \
                                     "distribution_of_preferences\\"
 
 
-
 class Command(BaseCommand):
     help = 'Add election from csv files'
 
@@ -118,47 +117,49 @@ class Command(BaseCommand):
                     vote_tally.tcp_votes = int(row['OrdinaryVotes'])
                     vote_tally.save()
             print()
-            print("First Pass: Reading files in preference distribution directory")
-            for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
-                with open(filename, "r") as in_file:
-                    reader = self.fetch_reader(filename, in_file)
-                    while True:
-                        try:
-                            row = next(reader)
-                            if row['CalculationType'] == 'Preference Count':
-                                candidate, received, seat = \
-                                    Command.fetch_candid(row)
-                                pref_round, _ = \
-                                    models.PreferenceRound.objects.get_or_create(
-                                        seat=seat, election=house_election_2022,
-                                        round_number=int(row['CountNumber']))
-                                remaining, transferred = Command.advance(
-                                    reader, received)
-                                pref, _ = pref_objects.get_or_create(
-                                    candidate=candidate, round=pref_round,
-                                    votes_received=received,
-                                    votes_transferred=transferred,
-                                    votes_remaining=remaining)
-                                if not pref.seat:
-                                    pref.seat = seat
-                                    pref.save()
-                        except StopIteration:
-                            break
-            print()
-            print("Second Pass: Reading files in preference distribution directory")
-            for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
-                with open(filename, "r") as in_file:
-                    reader = self.fetch_reader(filename, in_file)
-                    while True:
-                        try:
-                            row = next(reader)
-                            if row['CalculationType'] == 'Preference Count':
-                                if int(row['CalculationValue']) == 0:
-                                    pass
-                                else:
-                                    current_round_numb = int(
-                                        row['CountNumber'])
-                                    last_round_number = current_round_numb - 1
+        print("First Pass: Reading files in preference distribution directory")
+        for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
+            with open(filename, "r") as in_file:
+                reader = self.fetch_reader(filename, in_file)
+                while True:
+                    try:
+                        row = next(reader)
+                        if row['CalculationType'] == 'Preference Count':
+                            candidate, received, seat = \
+                                Command.fetch_candid(row)
+                            pref_round, _ = \
+                                models.PreferenceRound.objects.get_or_create(
+                                    seat=seat, election=house_election_2022,
+                                    round_number=int(row['CountNumber']))
+                            remaining, transferred = Command.advance(
+                                reader, received)
+                            pref, _ = pref_objects.get_or_create(
+                                candidate=candidate, round=pref_round,
+                                election=house_election_2022,
+                                votes_received=received,
+                                votes_transferred=transferred,
+                                votes_remaining=remaining)
+                            if not pref.seat:
+                                pref.seat = seat
+                                pref.save()
+                            if not pref.election:
+                                pref.election = house_election_2022
+                                pref.save()
+                    except StopIteration:
+                        break
+        print()
+        print("Second Pass: Reading files in preference distribution directory")
+        for filename in Command.walk(PREFERENCE_DISTRIBUTION_DIRECTORY):
+            with open(filename, "r") as in_file:
+                reader = self.fetch_reader(filename, in_file)
+                while True:
+                    try:
+                        row = next(reader)
+                        if row['CalculationType'] == 'Preference Count':
+                            if int(row['CalculationValue']) > 0:
+                                current_round_numb = int(
+                                    row['CountNumber'])
+                                if current_round_numb > 0:
                                     candidate, received, seat = \
                                         Command.fetch_candid(row)
                                     current_round = \
@@ -166,24 +167,25 @@ class Command(BaseCommand):
                                             seat=seat,
                                             election=house_election_2022,
                                             round_number=current_round_numb)
-                                    last_round = \
-                                        models.PreferenceRound.objects.get(
-                                            seat=seat,
+                                    remaining, transferred = \
+                                        Command.advance(reader, received)
+                                    if transferred > 0:
+                                        pref = pref_objects.get(
+                                            candidate=candidate,
+                                            round=current_round,
                                             election=house_election_2022,
-                                            round_number=last_round_number)
-                                    source_pref = \
-                                        models.CandidatePreference.objects.get(
-                                            votes_received=0, round=last_round,
-                                            seat=0)
-                                    remaining, transferred = Command.advance(
-                                        reader, received)
-                                    pref = pref_objects.get(
-                                        candidate=candidate,
-                                        round=current_round,
-                                        votes_received=received,
-                                        votes_transferred=transferred,
-                                        votes_remaining=remaining)
-                                    pref.source_candidate = source_pref.candidate
-                                    pref.save()
-                        except StopIteration:
-                            break
+                                            votes_received=received,
+                                            votes_transferred=transferred,
+                                            votes_remaining=remaining
+                                        )
+                                        source_pref = pref_objects.get(
+                                                votes_received=0,
+                                                votes_transferred__lt=0,
+                                                round=current_round,
+                                                election=house_election_2022,
+                                                seat=seat)
+                                        pref.source_candidate = \
+                                            source_pref.candidate
+                                        pref.save()
+                    except StopIteration:
+                        break

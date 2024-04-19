@@ -351,7 +351,9 @@ class PreferenceRound(models.Model):
 
 
 class CandidatePreference(models.Model):
-    seat = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
+    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE,
+                                 null=True, blank=True)
+    seat = models.ForeignKey(Seat, on_delete=models.CASCADE,
                              null=True, blank=True)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
                                   related_name="target_preference")
