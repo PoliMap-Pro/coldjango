@@ -83,9 +83,10 @@ class Command(BaseCommand):
             Command.fetch_candid(row)
         remaining, transferred = Command.advance(
             reader, received)
-        return candidate, round_objects.get_or_create(
+        roundobj, _ = round_objects.get_or_create(
             seat=seat, election=house_election,
-            round_number=int(row['CountNumber'])), received, remaining, seat, \
+            round_number=int(row['CountNumber']))
+        return candidate, roundobj, received, remaining, seat, \
             transferred
 
     @staticmethod
