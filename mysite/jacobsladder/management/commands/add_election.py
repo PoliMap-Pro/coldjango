@@ -108,6 +108,7 @@ class Command(BaseCommand):
                     reader = csv.DictReader(in_file)
                     pref_objects = models.CandidatePreference.objects
                     #transfer_objects = models.VoteTransfer.objects
+                    
                     while True:
                         try:
                             row = next(reader)
