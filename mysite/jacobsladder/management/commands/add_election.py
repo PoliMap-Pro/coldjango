@@ -21,15 +21,19 @@ PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE = "distribution_of_preferences\\"
 
 
 class StringCode(str):
-    def __init__(self, parts, parts_dictionary, encoding=None, errors='strict'):
-        str.__init__("".join([parts_dictionary[part] if
-                              isinstance(part, super) else super(part)
-                              for part in parts]), encoding, errors)
+    def __new__(cls, parts, parts_dictionary):
+        return str.__new__(cls, "".join([parts_dictionary[part] if isinstance(
+            part, super) else str(part) for part in parts]))
+
+    #def __init__(self, parts, parts_dictionary, encoding=None, errors='strict'):
+    #    str.__init__("".join([parts_dictionary[part] if
+    #                          isinstance(part, super) else super(part)
+    #                          for part in parts]), encoding, errors)
 
     @staticmethod
     def get_last_known(house_election, row):
         return StringCode(('CandidateID', 'PartyAb',
-                           house_election.election.year), row)
+                           house_election.election_date.year), row)
         #return "".join([row['CandidateID'], row['PartyAb'], str(
         #    house_election.election_date.year)])
 
@@ -55,7 +59,8 @@ class Command(BaseCommand):
                 last_known_codepartyyear=StringCode.get_last_known(
                     house_election, row))), \
             int(row['CalculationValue']), \
-            models.Seat.objects.get(name=row['DivisionNm'])
+            models.Seat.objects.get(name=row['DivisionNm'],
+                                    division_aec_code=row['DivisionID'])
 
     @staticmethod
     def fetch_transfer_data(current_round_numb, house_election, reader, row):
@@ -83,11 +88,11 @@ class Command(BaseCommand):
                                 votes_received=received,
                                 votes_transferred=transferred,
                                 votes_remaining=remaining)
-        source_pref = pref_objects.get(votes_received=0,
-                                       votes_transferred__lt=0,
-                                       round=current_round,
-                                       election=house_election, seat=seat)
-        pref.source_candidate = source_pref.candidate
+        pref.source_candidate = pref_objects.get(votes_received=0,
+                                                 votes_transferred__lt=0,
+                                                 round=current_round,
+                                                 election=house_election,
+                                                 seat=seat).candidate
         pref.save()
 
     @staticmethod
@@ -96,10 +101,10 @@ class Command(BaseCommand):
             Command.fetch_candid(house_election, row)
         remaining, transferred = Command.advance(
             reader, received)
-        roundobj, _ = round_objects.get_or_create(
+        round_obj, _ = round_objects.get_or_create(
             seat=seat, election=house_election,
             round_number=int(row['CountNumber']))
-        return candidate, roundobj, received, remaining, seat, \
+        return candidate, round_obj, received, remaining, seat, \
             transferred
 
     @staticmethod
@@ -139,14 +144,14 @@ class Command(BaseCommand):
                 transferred = Command.fetch_pref_data(
                     house_election, reader, round_objects, row)
 
-            print("candidate", candidate)
-            print("pref_round", pref_round)
-            print("house_election", house_election)
-            print("received", received)
-            print("transferred", transferred)
-            print("remaining", remaining)
-            print("seat", seat)
-            print("round_objects", round_objects)
+            #print("candidate", candidate)
+            #print("pref_round", pref_round)
+            #print("house_election", house_election)
+            #print("received", received)
+            #print("transferred", transferred)
+            #print("remaining", remaining)
+            #print("seat", seat)
+            #print("round_objects", round_objects)
 
 
 
