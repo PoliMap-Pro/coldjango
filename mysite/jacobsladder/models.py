@@ -159,7 +159,7 @@ class SenateElection(Election):
 class Seat(models.Model):
     class Meta:
         constraints = [UniqueConstraint(fields=['name', 'division_aec_code'],
-                                        name='unique_name_plus_code')]
+                                        name='unique_seat_name_plus_code')]
 
     name = models.CharField(max_length=63)
     state = models.CharField(max_length=9, choices=StateName.choices)
@@ -191,8 +191,8 @@ class Seat(models.Model):
         return wrapper
 
     @staticmethod
-    def total_candidate(election):
-        Seat.per(Booth.per(VoteTally.per(lam3)))(election)
+    def total_candidate(election, func):
+        Seat.per(Booth.per(VoteTally.per(func)))(election)
 
     @staticmethod
     def get_candidate(election, seat, booth, vote_tally):
@@ -203,6 +203,10 @@ class Seat(models.Model):
 
 
 class Enrollment(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['seat', 'election',],
+                                        name='unique_seat_for_election')]
+
     number_enrolled = models.PositiveIntegerField(default=0)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     election = models.ForeignKey(HouseElection,
@@ -226,6 +230,11 @@ class SeatChange(Transition):
 
 
 class Booth(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['name',
+                                                'polling_place_aec_code',],
+                                        name='unique_name_plus_code')]
+
     name = models.CharField(max_length=63, null=True, blank=True)
     seats = models.ManyToManyField(HouseElection, blank=True,
                                    through="Collection")
@@ -250,6 +259,11 @@ class Booth(models.Model):
 
 
 class Collection(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['booth', 'seat', 'election',],
+            name='unique_combination_of_booth_seat_election')]
+
     booth = models.ForeignKey(Booth, on_delete=models.CASCADE)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
@@ -352,6 +366,11 @@ class VoteTally(models.Model):
 
 
 class PreferenceRound(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['seat', 'election', 'round_number',],
+            name='unique_combination_of_seat_election_round_number')]
+
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     round_number = models.IntegerField()
@@ -362,6 +381,11 @@ class PreferenceRound(models.Model):
 
 
 class CandidatePreference(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['candidate', 'round', 'seat', 'election'],
+            name='unique_combination_of_candidate_round_seat_election')]
+
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE,
                                  null=True, blank=True)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE,
@@ -375,7 +399,7 @@ class CandidatePreference(models.Model):
     round = models.ForeignKey(PreferenceRound, on_delete=models.CASCADE)
     votes_received = models.IntegerField()
     votes_transferred = models.IntegerField()
-    votes_remaining = models.IntegerField()
+    votes_remaining = models.IntegerField(null=True, blank=True)
     created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
