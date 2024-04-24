@@ -20,7 +20,23 @@ TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE = "two_candidate_preferred\\"
 PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE = "distribution_of_preferences\\"
 
 
+class StringCode(str):
+    def __init__(self, parts, parts_dictionary, encoding=None, errors='strict'):
+        str.__init__("".join([parts_dictionary[part] if
+                              isinstance(part, super) else super(part)
+                              for part in parts]), encoding, errors)
+
+    @staticmethod
+    def get_last_known(house_election, row):
+        return StringCode(('CandidateID', 'PartyAb',
+                           house_election.election.year), row)
+        #return "".join([row['CandidateID'], row['PartyAb'], str(
+        #    house_election.election_date.year)])
+
+
 class Command(BaseCommand):
+    FIRST_NAME_HEADER = 'Surname'
+
     help = 'Add elections from csv files'
 
     @staticmethod
@@ -31,23 +47,20 @@ class Command(BaseCommand):
                     yield os.path.join(base_path, file)
 
     @staticmethod
-    def get_last_known(house_election, row):
-        return "".join([row['CandidateID'], row['PartyAb'], str(
-            house_election.election_date.year)])
-
-    @staticmethod
-    def fetch_candid(row):
-        person = models.Person.objects.get(
-            name=row['Surname'],
-            other_names=row['GivenNm'], )
-        return models.HouseCandidate.objects.get(person=person), \
+    def fetch_candid(house_election, row):
+        return models.HouseCandidate.objects.get(
+            person=models.Person.objects.get(name=row[
+                Command.FIRST_NAME_HEADER],
+                other_names=row['GivenNm'],
+                last_known_codepartyyear=StringCode.get_last_known(
+                    house_election, row))), \
             int(row['CalculationValue']), \
             models.Seat.objects.get(name=row['DivisionNm'])
 
     @staticmethod
     def fetch_transfer_data(current_round_numb, house_election, reader, row):
         candidate, received, seat = \
-            Command.fetch_candid(row)
+            Command.fetch_candid(house_election, row)
         remaining, transferred = \
             Command.advance(reader, received)
         return candidate, models.PreferenceRound.objects.get(
@@ -80,7 +93,7 @@ class Command(BaseCommand):
     @staticmethod
     def fetch_pref_data(house_election, reader, round_objects, row):
         candidate, received, seat = \
-            Command.fetch_candid(row)
+            Command.fetch_candid(house_election, row)
         remaining, transferred = Command.advance(
             reader, received)
         roundobj, _ = round_objects.get_or_create(
@@ -99,7 +112,7 @@ class Command(BaseCommand):
     def fetch_candidate(house_election, row):
         person, _ = models.Person.objects.get_or_create(
             name=row['Surname'], other_names=row['GivenNm'],
-            last_known_codepartyyear=Command.get_last_known(
+            last_known_codepartyyear=StringCode.get_last_known(
                 house_election, row))
         candidate, _ = models.HouseCandidate.objects.get_or_create(
             person=person)
@@ -261,7 +274,7 @@ class Command(BaseCommand):
                     person = models.Person.objects.get(
                         name=row['Surname'],
                         other_names=row['GivenNm'],
-                        last_known_codepartyyear=self.get_last_known(
+                        last_known_codepartyyear=StringCode.get_last_known(
                             house_election, row))
                     candidate = models.HouseCandidate.objects.get(
                         person=person)
