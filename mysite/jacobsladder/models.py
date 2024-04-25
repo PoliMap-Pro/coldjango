@@ -156,17 +156,17 @@ class SenateElection(Election):
     state = models.CharField(max_length=9, choices=StateName.choices)
 
 
-class Seat(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['name', 'division_aec_code'],
-                                        name='unique_seat_name_plus_code')]
+class SeatCode(models.Model):
+    number = models.PositiveIntegerField()
+    seat = models.ForeignKey("Seat", on_delete=models.CASCADE)
 
+
+class Seat(models.Model):
     name = models.CharField(max_length=63)
     state = models.CharField(max_length=9, choices=StateName.choices)
     elections = models.ManyToManyField(HouseElection, blank=True)
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
-    division_aec_code = models.PositiveIntegerField(default=0)
     created = models.DateTimeField(auto_now_add=True)
 
     def total_primary_votes(self, elect):
@@ -229,18 +229,17 @@ class SeatChange(Transition):
                                 blank=True, related_name="from_via")
 
 
-class Booth(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['name',
-                                                'polling_place_aec_code',],
-                                        name='unique_name_plus_code')]
+class BoothCode(models.Model):
+    number = models.PositiveIntegerField()
+    booth = models.ForeignKey("Booth", on_delete=models.CASCADE)
 
+
+class Booth(models.Model):
     name = models.CharField(max_length=63, null=True, blank=True)
     seats = models.ManyToManyField(HouseElection, blank=True,
                                    through="Collection")
     location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
                                     null=True, blank=True)
-    polling_place_aec_code = models.PositiveIntegerField(default=0)
     created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
@@ -295,11 +294,14 @@ class PartyAlias(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
 
+class PersonCode(models.Model):
+    number = models.PositiveIntegerField()
+    person = models.ForeignKey("Person", on_delete=models.CASCADE)
+
+
 class Person(models.Model):
     name = models.CharField(max_length=31)  # surname
     other_names = models.CharField(max_length=63, null=True, blank=True)
-    last_known_codepartyyear = models.CharField(max_length=31, null=True,
-        blank=True)
     party = models.ManyToManyField(Party, through="Representation")
     created = models.DateTimeField(auto_now_add=True)
 
@@ -327,7 +329,6 @@ class HouseCandidate(models.Model):
 class Contention(models.Model):
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    candidate_aec_code = models.PositiveIntegerField(default=0)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     ballot_position = models.PositiveSmallIntegerField(default=0)
 

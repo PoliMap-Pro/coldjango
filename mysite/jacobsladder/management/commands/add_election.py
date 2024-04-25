@@ -20,10 +20,12 @@ class StringCode(str):
     PARTY_NAME_HEADER = 'PartyNm'
     STATE_ABBREVIATION_HEADER = 'StateAb'
 
+    DEFAULT_DELIMITER = "-"
     DEFAULT_FILE_EXTENSION_FOR_SOURCE_FILES = ".csv"
 
-    def __new__(cls, parts, parts_dictionary):
-        return str.__new__(cls, "".join([parts_dictionary[part] if isinstance(
+    def __new__(cls, parts, parts_dictionary, delimiter=DEFAULT_DELIMITER):
+        return str.__new__(cls, delimiter.join([parts_dictionary[part]
+                                                if isinstance(
             part, super) else str(part) for part in parts]))
 
     @staticmethod
@@ -63,8 +65,6 @@ class Command(BaseCommand):
 
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
-
-
 
     def __call__(self, election_year, folder, pref_objects, round_objects):
         booths_directory, house_election, preference_distribution_directory, \
@@ -171,19 +171,40 @@ class Command(BaseCommand):
 
     @staticmethod
     def add_one_tally(house_election, row):
-        candidate = models.HouseCandidate.objects.get(
-            person=models.Person.objects.get(
-                name=row[Command.FIRST_NAME_HEADER],
-                other_names=row[Command.OTHER_NAMES_HEADER],
-                last_known_codepartyyear=StringCode.get_last_known(
-                    house_election, row)))
+        seat = Command.fetch_by_aec_code(
+            Command.get_standard_seat_attributes(row), models.Seat.objects,
+            models.SeatCode.objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
+        candidate = Command.pull_candidate(
+            house_election, Command.get_standard_person_attributes(row), row,
+            seat)
+        booth_attributes = {'name': row[Command.BOOTH_NAME_HEADER]}
+        booth = Command.fetch_by_aec_code(
+            booth_attributes, models.Booth.objects, models.BoothCode.objects,
+            'booth', int(row[Command.BOOTH_CODE_HEADER]))
         vote_tally = models.VoteTally.objects.get(
-            booth=models.Booth.objects.get(name=row[Command.BOOTH_NAME_HEADER],
-                                           polling_place_aec_code=row[
-                                               Command.BOOTH_CODE_HEADER]),
-            election=house_election, candidate=candidate)
+            booth=booth,election=house_election, candidate=candidate)
         vote_tally.tcp_votes = int(row[Command.ORDINARY_VOTES_HEADER])
         vote_tally.save()
+
+    @staticmethod
+    def get_standard_person_attributes(row):
+        return {'name': row[Command.FIRST_NAME_HEADER],
+                'other_names': row[Command.OTHER_NAMES_HEADER], }
+
+    @staticmethod
+    def pull_candidate(house_election, person_attributes, row, seat):
+        person = Command.fetch_by_aec_code(
+            person_attributes, models.Person.objects, models.PersonCode.objects,
+            'person', int(row[StringCode.CANDIDATE_CODE_HEADER]))
+        contention = models.Contention.objects.get(
+            seat=seat, candidate__person=person, election=house_election)
+        candidate = contention.candidate
+        return candidate
+
+    @staticmethod
+    def get_standard_seat_attributes(row):
+        return {'name': row[Command.SEAT_NAME_HEADER],
+                'state': row[StringCode.STATE_ABBREVIATION_HEADER], }
 
     @staticmethod
     def add_source(candidate, current_round, house_election, pref_objects,
@@ -195,20 +216,6 @@ class Command(BaseCommand):
             'votes_received': received,
             'votes_transferred': transferred,
         }
-        #for gref in pref_objects.filter(votes_received=0,
-        #                                            votes_transferred__lt=0,
-        #                                           round=current_round,
-        #                                             election=house_election,
-        #                                             seat=seat):
-            #print(gref)
-            #print("___________________________________")
-            #print(gref, gref.pk)
-            #print(gref.votes_received)
-            #print(gref.votes_transferred)
-            #print(gref.round)
-            #print(gref.election)
-            #print(gref.seat)
-            #print(gref.candidate)
         try:
             pref = pref_objects.get(**preference_attributes)
             pref.source_candidate = pref_objects.get(votes_received=0,
@@ -241,9 +248,11 @@ class Command(BaseCommand):
     def add_one_seat(house_election, row):
         seat, _ = models.Seat.objects.get_or_create(
             name=row[Command.SEAT_NAME_HEADER],
-            state=row[StringCode.STATE_ABBREVIATION_HEADER].lower(),
-            division_aec_code=row[Command.SEAT_CODE_HEADER])
+            state=row[StringCode.STATE_ABBREVIATION_HEADER].lower(),)
         seat.elections.add(house_election)
+        seat.save()
+        seat_code, _ = models.SeatCode.objects.get_or_create(
+            seat=seat, number=int(row[Command.SEAT_CODE_HEADER]))
         enrollment, _ = models.Enrollment.objects.get_or_create(
             seat=seat, election=house_election,
             number_enrolled=int(row[Command.ENROLLMENT_HEADER]))
@@ -263,16 +272,27 @@ class Command(BaseCommand):
         return candidate, party, person
 
     @staticmethod
-    def set_booths(house_election, row):
+    def set_booth_from_row(house_election, row):
         booth, _ = models.Booth.objects.get_or_create(
-            name=row[Command.BOOTH_NAME_HEADER],
-            polling_place_aec_code=row[Command.BOOTH_CODE_HEADER])
-        seat = models.Seat.objects.get(name=row[Command.SEAT_NAME_HEADER],
-                                       division_aec_code=row[
-                                           Command.SEAT_CODE_HEADER])
+            name=row[Command.BOOTH_NAME_HEADER])
+        booth_code, _ = models.BoothCode.get_or_create(
+            booth=booth, number=int(row[Command.BOOTH_CODE_HEADER]))
+        seat = Command.fetch_by_aec_code(
+            Command.get_standard_seat_attributes(row), models.Seat.objects,
+            models.SeatCode.objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
         collection, _ = models.Collection.objects.get_or_create(
             booth=booth, seat=seat, election=house_election)
         return booth, seat
+
+    @staticmethod
+    def fetch_by_aec_code(model_attributes, model_objects, code_objects,
+                          related_name, target):
+        if model_objects.filter(**model_attributes).count() > 1:
+            codes = [code for code in code_objects.filter(
+                **{'__'.join([related_name, key]): value for key, value in
+                   model_attributes.items()}) if code.number == target]
+            return getattr(codes[0], related_name)
+        return model_attributes.get(**model_attributes)
 
     @staticmethod
     def transfer(house_election, pref_objects, reader, row):
@@ -288,7 +308,7 @@ class Command(BaseCommand):
 
     @staticmethod
     def add_one_booth(house_election, row):
-        booth, seat = Command.set_booths(house_election, row)
+        booth, seat = Command.set_booth_from_row(house_election, row)
         candidate, party, person = Command.fetch_candidate(house_election, row)
         Command.add_tally(booth, candidate, house_election, party, person, row,
                           seat)
@@ -343,16 +363,13 @@ class Command(BaseCommand):
         Fetch the person, then use it to fetch the candidate
         """
 
-        return models.HouseCandidate.objects.get(
-            person=models.Person.objects.get(name=row[
-                Command.FIRST_NAME_HEADER],
-                                             other_names=row[Command.OTHER_NAMES_HEADER],
-                                             last_known_codepartyyear=type_of_code.get_last_known(
-                                                 house_election, row))), \
-            int(row[Command.NUMBER_OF_VOTES_HEADER]), \
-            models.Seat.objects.get(name=row[Command.SEAT_NAME_HEADER],
-                                    division_aec_code=row[
-                                        Command.SEAT_CODE_HEADER])
+        seat = Command.fetch_by_aec_code(
+            Command.get_standard_seat_attributes(row), models.Seat.objects,
+            models.SeatCode.objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
+        candidate = Command.pull_candidate(
+            house_election, Command.get_standard_person_attributes(row), row,
+            seat)
+        return candidate, int(row[Command.NUMBER_OF_VOTES_HEADER]), seat
 
     @staticmethod
     def set_all_preferences(house_election, pref_objects, reader,
