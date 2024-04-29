@@ -269,9 +269,9 @@ class Booth(models.Model):
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(seat, election):
             return [callback(*arguments, election=election, seat=seat,
-                             booth=collection.booth, **keyword_arguments)
-                    for collection in Collection.objects.filter(
-                    seat=seat, election=election)]
+                             booth=booth, **keyword_arguments)
+                    for booth in Booth.objects.filter(
+                    seat=seat)]
         return wrapper
 
     def __str__(self):
@@ -291,6 +291,7 @@ class Collection(models.Model):
 
     def __str__(self):
         return str(f"{self.booth} in {self.election} ({self.pk})")
+
 
 class BoothChange(Transition):
     from_booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True,

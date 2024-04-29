@@ -12,11 +12,10 @@ class Command(BaseCommand):
             print(f"Election on {election.election_date}")
             for seat in election.seat_set.all():
                 print(f"\tSeat of {seat.name}")
-                for collection in models.Collection.objects.filter(
-                        seat=seat, election=election):
-                    print(f"\t\t{collection.booth}")
+                for booth in seat.booth_set.all():
+                    print(f"\t\t{booth}")
                     models.VoteTally.per(Command.show_candidate)(
-                        collection.booth, seat=seat, election=election)
+                        booth, seat=seat, election=election)
                 print()
             print()
 
