@@ -1,0 +1,782 @@
+2022 Federal Election Senate First Preferences By Polling Place for Division 307 [Event:27966 Phase:FinalResults Generated:2022-07-19T10:30:48 Cycle:06578790-03c6-4cf4-b786-103cfb915abd Created:2022-07-19T10:24:10 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.9.9.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+NT,307,Solomon,8703,Anula,A,37924,0,A Above-the-line Votes,NT CLP,127
+NT,307,Solomon,8703,Anula,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,17
+NT,307,Solomon,8703,Anula,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,8703,Anula,B,37926,0,B Above-the-line Votes,Liberal Democrats,40
+NT,307,Solomon,8703,Anula,B,37378,1,"McMAHON, Sam",Liberal Democrats,3
+NT,307,Solomon,8703,Anula,B,37380,2,"HANSEN, Jed",Liberal Democrats,2
+NT,307,Solomon,8703,Anula,C,37927,0,C Above-the-line Votes,A.L.P.,162
+NT,307,Solomon,8703,Anula,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,16
+NT,307,Solomon,8703,Anula,C,37188,2,"GANLEY, Kate",A.L.P.,5
+NT,307,Solomon,8703,Anula,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,23
+NT,307,Solomon,8703,Anula,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,8703,Anula,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8703,Anula,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,10
+NT,307,Solomon,8703,Anula,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8703,Anula,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8703,Anula,F,37928,0,F Above-the-line Votes,The Great Australian Party,26
+NT,307,Solomon,8703,Anula,F,37390,1,"ARRIGO, Steve",The Great Australian Party,5
+NT,307,Solomon,8703,Anula,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8703,Anula,G,37923,0,G Above-the-line Votes,Citizens Party,7
+NT,307,Solomon,8703,Anula,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8703,Anula,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8703,Anula,H,37922,0,H Above-the-line Votes,The Greens,55
+NT,307,Solomon,8703,Anula,H,36509,1,"ANLEZARK, Jane",The Greens,6
+NT,307,Solomon,8703,Anula,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,8703,Anula,UG,37217,1,"RAJWIN, Raj",United Australia Party,6
+NT,307,Solomon,8703,Anula,ZZ,0,99,INFORMAL,,11
+NT,307,Solomon,8705,Berrimah,A,37924,0,A Above-the-line Votes,NT CLP,67
+NT,307,Solomon,8705,Berrimah,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,4
+NT,307,Solomon,8705,Berrimah,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,8705,Berrimah,B,37926,0,B Above-the-line Votes,Liberal Democrats,32
+NT,307,Solomon,8705,Berrimah,B,37378,1,"McMAHON, Sam",Liberal Democrats,2
+NT,307,Solomon,8705,Berrimah,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,8705,Berrimah,C,37927,0,C Above-the-line Votes,A.L.P.,50
+NT,307,Solomon,8705,Berrimah,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,4
+NT,307,Solomon,8705,Berrimah,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,8705,Berrimah,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,14
+NT,307,Solomon,8705,Berrimah,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,4
+NT,307,Solomon,8705,Berrimah,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8705,Berrimah,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
+NT,307,Solomon,8705,Berrimah,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8705,Berrimah,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8705,Berrimah,F,37928,0,F Above-the-line Votes,The Great Australian Party,10
+NT,307,Solomon,8705,Berrimah,F,37390,1,"ARRIGO, Steve",The Great Australian Party,7
+NT,307,Solomon,8705,Berrimah,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8705,Berrimah,G,37923,0,G Above-the-line Votes,Citizens Party,3
+NT,307,Solomon,8705,Berrimah,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8705,Berrimah,G,36528,2,"FLYNN, Peter",Citizens Party,1
+NT,307,Solomon,8705,Berrimah,H,37922,0,H Above-the-line Votes,The Greens,19
+NT,307,Solomon,8705,Berrimah,H,36509,1,"ANLEZARK, Jane",The Greens,2
+NT,307,Solomon,8705,Berrimah,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,8705,Berrimah,UG,37217,1,"RAJWIN, Raj",United Australia Party,1
+NT,307,Solomon,8705,Berrimah,ZZ,0,99,INFORMAL,,5
+NT,307,Solomon,8709,Darwin,A,37924,0,A Above-the-line Votes,NT CLP,227
+NT,307,Solomon,8709,Darwin,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,19
+NT,307,Solomon,8709,Darwin,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,8709,Darwin,B,37926,0,B Above-the-line Votes,Liberal Democrats,155
+NT,307,Solomon,8709,Darwin,B,37378,1,"McMAHON, Sam",Liberal Democrats,6
+NT,307,Solomon,8709,Darwin,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8709,Darwin,C,37927,0,C Above-the-line Votes,A.L.P.,349
+NT,307,Solomon,8709,Darwin,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,26
+NT,307,Solomon,8709,Darwin,C,37188,2,"GANLEY, Kate",A.L.P.,6
+NT,307,Solomon,8709,Darwin,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,73
+NT,307,Solomon,8709,Darwin,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,6
+NT,307,Solomon,8709,Darwin,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,2
+NT,307,Solomon,8709,Darwin,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,18
+NT,307,Solomon,8709,Darwin,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8709,Darwin,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8709,Darwin,F,37928,0,F Above-the-line Votes,The Great Australian Party,24
+NT,307,Solomon,8709,Darwin,F,37390,1,"ARRIGO, Steve",The Great Australian Party,2
+NT,307,Solomon,8709,Darwin,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8709,Darwin,G,37923,0,G Above-the-line Votes,Citizens Party,4
+NT,307,Solomon,8709,Darwin,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8709,Darwin,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8709,Darwin,H,37922,0,H Above-the-line Votes,The Greens,182
+NT,307,Solomon,8709,Darwin,H,36509,1,"ANLEZARK, Jane",The Greens,9
+NT,307,Solomon,8709,Darwin,H,36555,2,"STOKES, Dianne",The Greens,4
+NT,307,Solomon,8709,Darwin,UG,37217,1,"RAJWIN, Raj",United Australia Party,6
+NT,307,Solomon,8709,Darwin,ZZ,0,99,INFORMAL,,28
+NT,307,Solomon,8716,Karama,A,37924,0,A Above-the-line Votes,NT CLP,225
+NT,307,Solomon,8716,Karama,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,35
+NT,307,Solomon,8716,Karama,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,8716,Karama,B,37926,0,B Above-the-line Votes,Liberal Democrats,100
+NT,307,Solomon,8716,Karama,B,37378,1,"McMAHON, Sam",Liberal Democrats,8
+NT,307,Solomon,8716,Karama,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8716,Karama,C,37927,0,C Above-the-line Votes,A.L.P.,350
+NT,307,Solomon,8716,Karama,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,33
+NT,307,Solomon,8716,Karama,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8716,Karama,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,82
+NT,307,Solomon,8716,Karama,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,1
+NT,307,Solomon,8716,Karama,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,2
+NT,307,Solomon,8716,Karama,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,16
+NT,307,Solomon,8716,Karama,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+NT,307,Solomon,8716,Karama,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8716,Karama,F,37928,0,F Above-the-line Votes,The Great Australian Party,54
+NT,307,Solomon,8716,Karama,F,37390,1,"ARRIGO, Steve",The Great Australian Party,22
+NT,307,Solomon,8716,Karama,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,8716,Karama,G,37923,0,G Above-the-line Votes,Citizens Party,5
+NT,307,Solomon,8716,Karama,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8716,Karama,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8716,Karama,H,37922,0,H Above-the-line Votes,The Greens,101
+NT,307,Solomon,8716,Karama,H,36509,1,"ANLEZARK, Jane",The Greens,9
+NT,307,Solomon,8716,Karama,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,8716,Karama,UG,37217,1,"RAJWIN, Raj",United Australia Party,10
+NT,307,Solomon,8716,Karama,ZZ,0,99,INFORMAL,,44
+NT,307,Solomon,8718,Larrakeyah,A,37924,0,A Above-the-line Votes,NT CLP,131
+NT,307,Solomon,8718,Larrakeyah,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,11
+NT,307,Solomon,8718,Larrakeyah,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,8718,Larrakeyah,B,37926,0,B Above-the-line Votes,Liberal Democrats,56
+NT,307,Solomon,8718,Larrakeyah,B,37378,1,"McMAHON, Sam",Liberal Democrats,3
+NT,307,Solomon,8718,Larrakeyah,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,8718,Larrakeyah,C,37927,0,C Above-the-line Votes,A.L.P.,153
+NT,307,Solomon,8718,Larrakeyah,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,19
+NT,307,Solomon,8718,Larrakeyah,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,8718,Larrakeyah,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,25
+NT,307,Solomon,8718,Larrakeyah,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,2
+NT,307,Solomon,8718,Larrakeyah,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8718,Larrakeyah,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,6
+NT,307,Solomon,8718,Larrakeyah,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8718,Larrakeyah,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8718,Larrakeyah,F,37928,0,F Above-the-line Votes,The Great Australian Party,9
+NT,307,Solomon,8718,Larrakeyah,F,37390,1,"ARRIGO, Steve",The Great Australian Party,2
+NT,307,Solomon,8718,Larrakeyah,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8718,Larrakeyah,G,37923,0,G Above-the-line Votes,Citizens Party,3
+NT,307,Solomon,8718,Larrakeyah,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8718,Larrakeyah,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8718,Larrakeyah,H,37922,0,H Above-the-line Votes,The Greens,59
+NT,307,Solomon,8718,Larrakeyah,H,36509,1,"ANLEZARK, Jane",The Greens,4
+NT,307,Solomon,8718,Larrakeyah,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,8718,Larrakeyah,UG,37217,1,"RAJWIN, Raj",United Australia Party,2
+NT,307,Solomon,8718,Larrakeyah,ZZ,0,99,INFORMAL,,7
+NT,307,Solomon,8719,Leanyer,A,37924,0,A Above-the-line Votes,NT CLP,347
+NT,307,Solomon,8719,Leanyer,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,32
+NT,307,Solomon,8719,Leanyer,A,36970,2,"CIVITARESE, Kris",NT CLP,4
+NT,307,Solomon,8719,Leanyer,B,37926,0,B Above-the-line Votes,Liberal Democrats,152
+NT,307,Solomon,8719,Leanyer,B,37378,1,"McMAHON, Sam",Liberal Democrats,17
+NT,307,Solomon,8719,Leanyer,B,37380,2,"HANSEN, Jed",Liberal Democrats,4
+NT,307,Solomon,8719,Leanyer,C,37927,0,C Above-the-line Votes,A.L.P.,441
+NT,307,Solomon,8719,Leanyer,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,30
+NT,307,Solomon,8719,Leanyer,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,8719,Leanyer,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,63
+NT,307,Solomon,8719,Leanyer,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,7
+NT,307,Solomon,8719,Leanyer,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8719,Leanyer,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,18
+NT,307,Solomon,8719,Leanyer,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+NT,307,Solomon,8719,Leanyer,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8719,Leanyer,F,37928,0,F Above-the-line Votes,The Great Australian Party,66
+NT,307,Solomon,8719,Leanyer,F,37390,1,"ARRIGO, Steve",The Great Australian Party,10
+NT,307,Solomon,8719,Leanyer,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,8719,Leanyer,G,37923,0,G Above-the-line Votes,Citizens Party,17
+NT,307,Solomon,8719,Leanyer,G,36523,1,"CAMPBELL, Trudy",Citizens Party,4
+NT,307,Solomon,8719,Leanyer,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8719,Leanyer,H,37922,0,H Above-the-line Votes,The Greens,127
+NT,307,Solomon,8719,Leanyer,H,36509,1,"ANLEZARK, Jane",The Greens,18
+NT,307,Solomon,8719,Leanyer,H,36555,2,"STOKES, Dianne",The Greens,5
+NT,307,Solomon,8719,Leanyer,UG,37217,1,"RAJWIN, Raj",United Australia Party,3
+NT,307,Solomon,8719,Leanyer,ZZ,0,99,INFORMAL,,47
+NT,307,Solomon,8720,Ludmilla,A,37924,0,A Above-the-line Votes,NT CLP,167
+NT,307,Solomon,8720,Ludmilla,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,22
+NT,307,Solomon,8720,Ludmilla,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,8720,Ludmilla,B,37926,0,B Above-the-line Votes,Liberal Democrats,50
+NT,307,Solomon,8720,Ludmilla,B,37378,1,"McMAHON, Sam",Liberal Democrats,5
+NT,307,Solomon,8720,Ludmilla,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,8720,Ludmilla,C,37927,0,C Above-the-line Votes,A.L.P.,196
+NT,307,Solomon,8720,Ludmilla,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,20
+NT,307,Solomon,8720,Ludmilla,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8720,Ludmilla,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,45
+NT,307,Solomon,8720,Ludmilla,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,6
+NT,307,Solomon,8720,Ludmilla,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8720,Ludmilla,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,8
+NT,307,Solomon,8720,Ludmilla,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8720,Ludmilla,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8720,Ludmilla,F,37928,0,F Above-the-line Votes,The Great Australian Party,21
+NT,307,Solomon,8720,Ludmilla,F,37390,1,"ARRIGO, Steve",The Great Australian Party,2
+NT,307,Solomon,8720,Ludmilla,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8720,Ludmilla,G,37923,0,G Above-the-line Votes,Citizens Party,5
+NT,307,Solomon,8720,Ludmilla,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8720,Ludmilla,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8720,Ludmilla,H,37922,0,H Above-the-line Votes,The Greens,117
+NT,307,Solomon,8720,Ludmilla,H,36509,1,"ANLEZARK, Jane",The Greens,12
+NT,307,Solomon,8720,Ludmilla,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,8720,Ludmilla,UG,37217,1,"RAJWIN, Raj",United Australia Party,2
+NT,307,Solomon,8720,Ludmilla,ZZ,0,99,INFORMAL,,15
+NT,307,Solomon,8721,Moil,A,37924,0,A Above-the-line Votes,NT CLP,265
+NT,307,Solomon,8721,Moil,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,14
+NT,307,Solomon,8721,Moil,A,36970,2,"CIVITARESE, Kris",NT CLP,2
+NT,307,Solomon,8721,Moil,B,37926,0,B Above-the-line Votes,Liberal Democrats,76
+NT,307,Solomon,8721,Moil,B,37378,1,"McMAHON, Sam",Liberal Democrats,4
+NT,307,Solomon,8721,Moil,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8721,Moil,C,37927,0,C Above-the-line Votes,A.L.P.,333
+NT,307,Solomon,8721,Moil,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,27
+NT,307,Solomon,8721,Moil,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8721,Moil,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,72
+NT,307,Solomon,8721,Moil,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,6
+NT,307,Solomon,8721,Moil,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,3
+NT,307,Solomon,8721,Moil,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,11
+NT,307,Solomon,8721,Moil,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8721,Moil,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8721,Moil,F,37928,0,F Above-the-line Votes,The Great Australian Party,63
+NT,307,Solomon,8721,Moil,F,37390,1,"ARRIGO, Steve",The Great Australian Party,11
+NT,307,Solomon,8721,Moil,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,8721,Moil,G,37923,0,G Above-the-line Votes,Citizens Party,7
+NT,307,Solomon,8721,Moil,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,8721,Moil,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8721,Moil,H,37922,0,H Above-the-line Votes,The Greens,150
+NT,307,Solomon,8721,Moil,H,36509,1,"ANLEZARK, Jane",The Greens,15
+NT,307,Solomon,8721,Moil,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,8721,Moil,UG,37217,1,"RAJWIN, Raj",United Australia Party,4
+NT,307,Solomon,8721,Moil,ZZ,0,99,INFORMAL,,39
+NT,307,Solomon,8722,Nakara,A,37924,0,A Above-the-line Votes,NT CLP,227
+NT,307,Solomon,8722,Nakara,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,19
+NT,307,Solomon,8722,Nakara,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,8722,Nakara,B,37926,0,B Above-the-line Votes,Liberal Democrats,81
+NT,307,Solomon,8722,Nakara,B,37378,1,"McMAHON, Sam",Liberal Democrats,13
+NT,307,Solomon,8722,Nakara,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,8722,Nakara,C,37927,0,C Above-the-line Votes,A.L.P.,396
+NT,307,Solomon,8722,Nakara,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,35
+NT,307,Solomon,8722,Nakara,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8722,Nakara,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,65
+NT,307,Solomon,8722,Nakara,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,8722,Nakara,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,8722,Nakara,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,15
+NT,307,Solomon,8722,Nakara,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8722,Nakara,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8722,Nakara,F,37928,0,F Above-the-line Votes,The Great Australian Party,77
+NT,307,Solomon,8722,Nakara,F,37390,1,"ARRIGO, Steve",The Great Australian Party,18
+NT,307,Solomon,8722,Nakara,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8722,Nakara,G,37923,0,G Above-the-line Votes,Citizens Party,11
+NT,307,Solomon,8722,Nakara,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,8722,Nakara,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8722,Nakara,H,37922,0,H Above-the-line Votes,The Greens,216
+NT,307,Solomon,8722,Nakara,H,36509,1,"ANLEZARK, Jane",The Greens,25
+NT,307,Solomon,8722,Nakara,H,36555,2,"STOKES, Dianne",The Greens,6
+NT,307,Solomon,8722,Nakara,UG,37217,1,"RAJWIN, Raj",United Australia Party,4
+NT,307,Solomon,8722,Nakara,ZZ,0,99,INFORMAL,,40
+NT,307,Solomon,8724,Nightcliff,A,37924,0,A Above-the-line Votes,NT CLP,71
+NT,307,Solomon,8724,Nightcliff,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,11
+NT,307,Solomon,8724,Nightcliff,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,8724,Nightcliff,B,37926,0,B Above-the-line Votes,Liberal Democrats,35
+NT,307,Solomon,8724,Nightcliff,B,37378,1,"McMAHON, Sam",Liberal Democrats,4
+NT,307,Solomon,8724,Nightcliff,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8724,Nightcliff,C,37927,0,C Above-the-line Votes,A.L.P.,135
+NT,307,Solomon,8724,Nightcliff,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,15
+NT,307,Solomon,8724,Nightcliff,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,8724,Nightcliff,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,24
+NT,307,Solomon,8724,Nightcliff,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,0
+NT,307,Solomon,8724,Nightcliff,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,8724,Nightcliff,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,10
+NT,307,Solomon,8724,Nightcliff,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8724,Nightcliff,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8724,Nightcliff,F,37928,0,F Above-the-line Votes,The Great Australian Party,14
+NT,307,Solomon,8724,Nightcliff,F,37390,1,"ARRIGO, Steve",The Great Australian Party,3
+NT,307,Solomon,8724,Nightcliff,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8724,Nightcliff,G,37923,0,G Above-the-line Votes,Citizens Party,3
+NT,307,Solomon,8724,Nightcliff,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8724,Nightcliff,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8724,Nightcliff,H,37922,0,H Above-the-line Votes,The Greens,130
+NT,307,Solomon,8724,Nightcliff,H,36509,1,"ANLEZARK, Jane",The Greens,18
+NT,307,Solomon,8724,Nightcliff,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,8724,Nightcliff,UG,37217,1,"RAJWIN, Raj",United Australia Party,6
+NT,307,Solomon,8724,Nightcliff,ZZ,0,99,INFORMAL,,8
+NT,307,Solomon,8725,Driver,A,37924,0,A Above-the-line Votes,NT CLP,245
+NT,307,Solomon,8725,Driver,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,21
+NT,307,Solomon,8725,Driver,A,36970,2,"CIVITARESE, Kris",NT CLP,2
+NT,307,Solomon,8725,Driver,B,37926,0,B Above-the-line Votes,Liberal Democrats,74
+NT,307,Solomon,8725,Driver,B,37378,1,"McMAHON, Sam",Liberal Democrats,9
+NT,307,Solomon,8725,Driver,B,37380,2,"HANSEN, Jed",Liberal Democrats,3
+NT,307,Solomon,8725,Driver,C,37927,0,C Above-the-line Votes,A.L.P.,207
+NT,307,Solomon,8725,Driver,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,23
+NT,307,Solomon,8725,Driver,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,8725,Driver,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,101
+NT,307,Solomon,8725,Driver,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,5
+NT,307,Solomon,8725,Driver,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,3
+NT,307,Solomon,8725,Driver,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,21
+NT,307,Solomon,8725,Driver,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+NT,307,Solomon,8725,Driver,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8725,Driver,F,37928,0,F Above-the-line Votes,The Great Australian Party,53
+NT,307,Solomon,8725,Driver,F,37390,1,"ARRIGO, Steve",The Great Australian Party,9
+NT,307,Solomon,8725,Driver,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,8725,Driver,G,37923,0,G Above-the-line Votes,Citizens Party,11
+NT,307,Solomon,8725,Driver,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8725,Driver,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8725,Driver,H,37922,0,H Above-the-line Votes,The Greens,66
+NT,307,Solomon,8725,Driver,H,36509,1,"ANLEZARK, Jane",The Greens,6
+NT,307,Solomon,8725,Driver,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,8725,Driver,UG,37217,1,"RAJWIN, Raj",United Australia Party,13
+NT,307,Solomon,8725,Driver,ZZ,0,99,INFORMAL,,41
+NT,307,Solomon,8726,Parap,A,37924,0,A Above-the-line Votes,NT CLP,350
+NT,307,Solomon,8726,Parap,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,28
+NT,307,Solomon,8726,Parap,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,8726,Parap,B,37926,0,B Above-the-line Votes,Liberal Democrats,124
+NT,307,Solomon,8726,Parap,B,37378,1,"McMAHON, Sam",Liberal Democrats,6
+NT,307,Solomon,8726,Parap,B,37380,2,"HANSEN, Jed",Liberal Democrats,2
+NT,307,Solomon,8726,Parap,C,37927,0,C Above-the-line Votes,A.L.P.,379
+NT,307,Solomon,8726,Parap,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,30
+NT,307,Solomon,8726,Parap,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8726,Parap,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,54
+NT,307,Solomon,8726,Parap,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,7
+NT,307,Solomon,8726,Parap,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8726,Parap,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,14
+NT,307,Solomon,8726,Parap,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8726,Parap,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8726,Parap,F,37928,0,F Above-the-line Votes,The Great Australian Party,39
+NT,307,Solomon,8726,Parap,F,37390,1,"ARRIGO, Steve",The Great Australian Party,15
+NT,307,Solomon,8726,Parap,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8726,Parap,G,37923,0,G Above-the-line Votes,Citizens Party,8
+NT,307,Solomon,8726,Parap,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8726,Parap,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8726,Parap,H,37922,0,H Above-the-line Votes,The Greens,218
+NT,307,Solomon,8726,Parap,H,36509,1,"ANLEZARK, Jane",The Greens,22
+NT,307,Solomon,8726,Parap,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,8726,Parap,UG,37217,1,"RAJWIN, Raj",United Australia Party,8
+NT,307,Solomon,8726,Parap,ZZ,0,99,INFORMAL,,34
+NT,307,Solomon,8729,Rapid Creek,A,37924,0,A Above-the-line Votes,NT CLP,209
+NT,307,Solomon,8729,Rapid Creek,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,25
+NT,307,Solomon,8729,Rapid Creek,A,36970,2,"CIVITARESE, Kris",NT CLP,2
+NT,307,Solomon,8729,Rapid Creek,B,37926,0,B Above-the-line Votes,Liberal Democrats,91
+NT,307,Solomon,8729,Rapid Creek,B,37378,1,"McMAHON, Sam",Liberal Democrats,2
+NT,307,Solomon,8729,Rapid Creek,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8729,Rapid Creek,C,37927,0,C Above-the-line Votes,A.L.P.,356
+NT,307,Solomon,8729,Rapid Creek,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,40
+NT,307,Solomon,8729,Rapid Creek,C,37188,2,"GANLEY, Kate",A.L.P.,3
+NT,307,Solomon,8729,Rapid Creek,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,56
+NT,307,Solomon,8729,Rapid Creek,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,6
+NT,307,Solomon,8729,Rapid Creek,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,2
+NT,307,Solomon,8729,Rapid Creek,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,16
+NT,307,Solomon,8729,Rapid Creek,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8729,Rapid Creek,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8729,Rapid Creek,F,37928,0,F Above-the-line Votes,The Great Australian Party,37
+NT,307,Solomon,8729,Rapid Creek,F,37390,1,"ARRIGO, Steve",The Great Australian Party,23
+NT,307,Solomon,8729,Rapid Creek,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8729,Rapid Creek,G,37923,0,G Above-the-line Votes,Citizens Party,4
+NT,307,Solomon,8729,Rapid Creek,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8729,Rapid Creek,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8729,Rapid Creek,H,37922,0,H Above-the-line Votes,The Greens,273
+NT,307,Solomon,8729,Rapid Creek,H,36509,1,"ANLEZARK, Jane",The Greens,31
+NT,307,Solomon,8729,Rapid Creek,H,36555,2,"STOKES, Dianne",The Greens,5
+NT,307,Solomon,8729,Rapid Creek,UG,37217,1,"RAJWIN, Raj",United Australia Party,11
+NT,307,Solomon,8729,Rapid Creek,ZZ,0,99,INFORMAL,,29
+NT,307,Solomon,8732,Stuart Park,A,37924,0,A Above-the-line Votes,NT CLP,233
+NT,307,Solomon,8732,Stuart Park,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,24
+NT,307,Solomon,8732,Stuart Park,A,36970,2,"CIVITARESE, Kris",NT CLP,2
+NT,307,Solomon,8732,Stuart Park,B,37926,0,B Above-the-line Votes,Liberal Democrats,74
+NT,307,Solomon,8732,Stuart Park,B,37378,1,"McMAHON, Sam",Liberal Democrats,2
+NT,307,Solomon,8732,Stuart Park,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,8732,Stuart Park,C,37927,0,C Above-the-line Votes,A.L.P.,240
+NT,307,Solomon,8732,Stuart Park,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,19
+NT,307,Solomon,8732,Stuart Park,C,37188,2,"GANLEY, Kate",A.L.P.,8
+NT,307,Solomon,8732,Stuart Park,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,41
+NT,307,Solomon,8732,Stuart Park,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,8732,Stuart Park,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,8732,Stuart Park,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,10
+NT,307,Solomon,8732,Stuart Park,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+NT,307,Solomon,8732,Stuart Park,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8732,Stuart Park,F,37928,0,F Above-the-line Votes,The Great Australian Party,44
+NT,307,Solomon,8732,Stuart Park,F,37390,1,"ARRIGO, Steve",The Great Australian Party,5
+NT,307,Solomon,8732,Stuart Park,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,8732,Stuart Park,G,37923,0,G Above-the-line Votes,Citizens Party,5
+NT,307,Solomon,8732,Stuart Park,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8732,Stuart Park,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8732,Stuart Park,H,37922,0,H Above-the-line Votes,The Greens,120
+NT,307,Solomon,8732,Stuart Park,H,36509,1,"ANLEZARK, Jane",The Greens,18
+NT,307,Solomon,8732,Stuart Park,H,36555,2,"STOKES, Dianne",The Greens,4
+NT,307,Solomon,8732,Stuart Park,UG,37217,1,"RAJWIN, Raj",United Australia Party,3
+NT,307,Solomon,8732,Stuart Park,ZZ,0,99,INFORMAL,,29
+NT,307,Solomon,8734,Wanguri,A,37924,0,A Above-the-line Votes,NT CLP,244
+NT,307,Solomon,8734,Wanguri,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,29
+NT,307,Solomon,8734,Wanguri,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,8734,Wanguri,B,37926,0,B Above-the-line Votes,Liberal Democrats,138
+NT,307,Solomon,8734,Wanguri,B,37378,1,"McMAHON, Sam",Liberal Democrats,9
+NT,307,Solomon,8734,Wanguri,B,37380,2,"HANSEN, Jed",Liberal Democrats,2
+NT,307,Solomon,8734,Wanguri,C,37927,0,C Above-the-line Votes,A.L.P.,355
+NT,307,Solomon,8734,Wanguri,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,27
+NT,307,Solomon,8734,Wanguri,C,37188,2,"GANLEY, Kate",A.L.P.,4
+NT,307,Solomon,8734,Wanguri,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,63
+NT,307,Solomon,8734,Wanguri,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,6
+NT,307,Solomon,8734,Wanguri,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,2
+NT,307,Solomon,8734,Wanguri,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,16
+NT,307,Solomon,8734,Wanguri,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8734,Wanguri,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8734,Wanguri,F,37928,0,F Above-the-line Votes,The Great Australian Party,74
+NT,307,Solomon,8734,Wanguri,F,37390,1,"ARRIGO, Steve",The Great Australian Party,16
+NT,307,Solomon,8734,Wanguri,F,37407,2,"MARCUS, Angela",The Great Australian Party,2
+NT,307,Solomon,8734,Wanguri,G,37923,0,G Above-the-line Votes,Citizens Party,13
+NT,307,Solomon,8734,Wanguri,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,8734,Wanguri,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8734,Wanguri,H,37922,0,H Above-the-line Votes,The Greens,163
+NT,307,Solomon,8734,Wanguri,H,36509,1,"ANLEZARK, Jane",The Greens,17
+NT,307,Solomon,8734,Wanguri,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,8734,Wanguri,UG,37217,1,"RAJWIN, Raj",United Australia Party,10
+NT,307,Solomon,8734,Wanguri,ZZ,0,99,INFORMAL,,44
+NT,307,Solomon,8887,Gray,A,37924,0,A Above-the-line Votes,NT CLP,144
+NT,307,Solomon,8887,Gray,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,25
+NT,307,Solomon,8887,Gray,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,8887,Gray,B,37926,0,B Above-the-line Votes,Liberal Democrats,51
+NT,307,Solomon,8887,Gray,B,37378,1,"McMAHON, Sam",Liberal Democrats,4
+NT,307,Solomon,8887,Gray,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,8887,Gray,C,37927,0,C Above-the-line Votes,A.L.P.,206
+NT,307,Solomon,8887,Gray,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,16
+NT,307,Solomon,8887,Gray,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,8887,Gray,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,63
+NT,307,Solomon,8887,Gray,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,8887,Gray,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,8887,Gray,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,8
+NT,307,Solomon,8887,Gray,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,8887,Gray,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,8887,Gray,F,37928,0,F Above-the-line Votes,The Great Australian Party,33
+NT,307,Solomon,8887,Gray,F,37390,1,"ARRIGO, Steve",The Great Australian Party,4
+NT,307,Solomon,8887,Gray,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,8887,Gray,G,37923,0,G Above-the-line Votes,Citizens Party,8
+NT,307,Solomon,8887,Gray,G,36523,1,"CAMPBELL, Trudy",Citizens Party,1
+NT,307,Solomon,8887,Gray,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,8887,Gray,H,37922,0,H Above-the-line Votes,The Greens,90
+NT,307,Solomon,8887,Gray,H,36509,1,"ANLEZARK, Jane",The Greens,7
+NT,307,Solomon,8887,Gray,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,8887,Gray,UG,37217,1,"RAJWIN, Raj",United Australia Party,8
+NT,307,Solomon,8887,Gray,ZZ,0,99,INFORMAL,,36
+NT,307,Solomon,32593,Woodroffe,A,37924,0,A Above-the-line Votes,NT CLP,106
+NT,307,Solomon,32593,Woodroffe,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,18
+NT,307,Solomon,32593,Woodroffe,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,32593,Woodroffe,B,37926,0,B Above-the-line Votes,Liberal Democrats,41
+NT,307,Solomon,32593,Woodroffe,B,37378,1,"McMAHON, Sam",Liberal Democrats,1
+NT,307,Solomon,32593,Woodroffe,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,32593,Woodroffe,C,37927,0,C Above-the-line Votes,A.L.P.,151
+NT,307,Solomon,32593,Woodroffe,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,7
+NT,307,Solomon,32593,Woodroffe,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,32593,Woodroffe,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,45
+NT,307,Solomon,32593,Woodroffe,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,4
+NT,307,Solomon,32593,Woodroffe,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,32593,Woodroffe,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,7
+NT,307,Solomon,32593,Woodroffe,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,32593,Woodroffe,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,32593,Woodroffe,F,37928,0,F Above-the-line Votes,The Great Australian Party,10
+NT,307,Solomon,32593,Woodroffe,F,37390,1,"ARRIGO, Steve",The Great Australian Party,5
+NT,307,Solomon,32593,Woodroffe,F,37407,2,"MARCUS, Angela",The Great Australian Party,2
+NT,307,Solomon,32593,Woodroffe,G,37923,0,G Above-the-line Votes,Citizens Party,6
+NT,307,Solomon,32593,Woodroffe,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,32593,Woodroffe,G,36528,2,"FLYNN, Peter",Citizens Party,1
+NT,307,Solomon,32593,Woodroffe,H,37922,0,H Above-the-line Votes,The Greens,47
+NT,307,Solomon,32593,Woodroffe,H,36509,1,"ANLEZARK, Jane",The Greens,3
+NT,307,Solomon,32593,Woodroffe,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,32593,Woodroffe,UG,37217,1,"RAJWIN, Raj",United Australia Party,7
+NT,307,Solomon,32593,Woodroffe,ZZ,0,99,INFORMAL,,19
+NT,307,Solomon,32595,Durack,A,37924,0,A Above-the-line Votes,NT CLP,270
+NT,307,Solomon,32595,Durack,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,38
+NT,307,Solomon,32595,Durack,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,32595,Durack,B,37926,0,B Above-the-line Votes,Liberal Democrats,82
+NT,307,Solomon,32595,Durack,B,37378,1,"McMAHON, Sam",Liberal Democrats,10
+NT,307,Solomon,32595,Durack,B,37380,2,"HANSEN, Jed",Liberal Democrats,3
+NT,307,Solomon,32595,Durack,C,37927,0,C Above-the-line Votes,A.L.P.,240
+NT,307,Solomon,32595,Durack,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,10
+NT,307,Solomon,32595,Durack,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,32595,Durack,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,89
+NT,307,Solomon,32595,Durack,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,4
+NT,307,Solomon,32595,Durack,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,4
+NT,307,Solomon,32595,Durack,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,12
+NT,307,Solomon,32595,Durack,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,32595,Durack,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,32595,Durack,F,37928,0,F Above-the-line Votes,The Great Australian Party,42
+NT,307,Solomon,32595,Durack,F,37390,1,"ARRIGO, Steve",The Great Australian Party,16
+NT,307,Solomon,32595,Durack,F,37407,2,"MARCUS, Angela",The Great Australian Party,1
+NT,307,Solomon,32595,Durack,G,37923,0,G Above-the-line Votes,Citizens Party,8
+NT,307,Solomon,32595,Durack,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,32595,Durack,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,32595,Durack,H,37922,0,H Above-the-line Votes,The Greens,87
+NT,307,Solomon,32595,Durack,H,36509,1,"ANLEZARK, Jane",The Greens,5
+NT,307,Solomon,32595,Durack,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,32595,Durack,UG,37217,1,"RAJWIN, Raj",United Australia Party,6
+NT,307,Solomon,32595,Durack,ZZ,0,99,INFORMAL,,31
+NT,307,Solomon,33137,Bakewell,A,37924,0,A Above-the-line Votes,NT CLP,262
+NT,307,Solomon,33137,Bakewell,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,33
+NT,307,Solomon,33137,Bakewell,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,33137,Bakewell,B,37926,0,B Above-the-line Votes,Liberal Democrats,115
+NT,307,Solomon,33137,Bakewell,B,37378,1,"McMAHON, Sam",Liberal Democrats,8
+NT,307,Solomon,33137,Bakewell,B,37380,2,"HANSEN, Jed",Liberal Democrats,3
+NT,307,Solomon,33137,Bakewell,C,37927,0,C Above-the-line Votes,A.L.P.,291
+NT,307,Solomon,33137,Bakewell,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,17
+NT,307,Solomon,33137,Bakewell,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,33137,Bakewell,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,129
+NT,307,Solomon,33137,Bakewell,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,5
+NT,307,Solomon,33137,Bakewell,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,33137,Bakewell,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,25
+NT,307,Solomon,33137,Bakewell,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,33137,Bakewell,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,33137,Bakewell,F,37928,0,F Above-the-line Votes,The Great Australian Party,68
+NT,307,Solomon,33137,Bakewell,F,37390,1,"ARRIGO, Steve",The Great Australian Party,19
+NT,307,Solomon,33137,Bakewell,F,37407,2,"MARCUS, Angela",The Great Australian Party,2
+NT,307,Solomon,33137,Bakewell,G,37923,0,G Above-the-line Votes,Citizens Party,8
+NT,307,Solomon,33137,Bakewell,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,33137,Bakewell,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,33137,Bakewell,H,37922,0,H Above-the-line Votes,The Greens,101
+NT,307,Solomon,33137,Bakewell,H,36509,1,"ANLEZARK, Jane",The Greens,9
+NT,307,Solomon,33137,Bakewell,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,33137,Bakewell,UG,37217,1,"RAJWIN, Raj",United Australia Party,10
+NT,307,Solomon,33137,Bakewell,ZZ,0,99,INFORMAL,,48
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,A,37924,0,A Above-the-line Votes,NT CLP,2195
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,176
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,658
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,49
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,15
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,2447
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,150
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,26
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,334
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,22
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,90
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,4
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,4
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,195
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,40
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,4
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,33
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,1
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,H,37922,0,H Above-the-line Votes,The Greens,1077
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,111
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,H,36555,2,"STOKES, Dianne",The Greens,14
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,14
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,ZZ,0,99,INFORMAL,,157
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,A,37924,0,A Above-the-line Votes,NT CLP,3332
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,273
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,19
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,1044
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,65
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,10
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,4054
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,233
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,31
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,507
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,26
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,7
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,142
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,13
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,478
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,100
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,4
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,83
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,10
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,H,37922,0,H Above-the-line Votes,The Greens,1441
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,141
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,H,36555,2,"STOKES, Dianne",The Greens,15
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,40
+NT,307,Solomon,34248,Eaton SOLOMON PPVC,ZZ,0,99,INFORMAL,,324
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,A,37924,0,A Above-the-line Votes,NT CLP,1915
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,168
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,16
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,571
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,50
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,8
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,1652
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,102
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,18
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,367
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,35
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,4
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,98
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,10
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,237
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,49
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,3
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,57
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,7
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,1
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,H,37922,0,H Above-the-line Votes,The Greens,437
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,36
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,H,36555,2,"STOKES, Dianne",The Greens,7
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,38
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,ZZ,0,99,INFORMAL,,199
+NT,307,Solomon,38314,Malak,A,37924,0,A Above-the-line Votes,NT CLP,174
+NT,307,Solomon,38314,Malak,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,21
+NT,307,Solomon,38314,Malak,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,38314,Malak,B,37926,0,B Above-the-line Votes,Liberal Democrats,64
+NT,307,Solomon,38314,Malak,B,37378,1,"McMAHON, Sam",Liberal Democrats,7
+NT,307,Solomon,38314,Malak,B,37380,2,"HANSEN, Jed",Liberal Democrats,1
+NT,307,Solomon,38314,Malak,C,37927,0,C Above-the-line Votes,A.L.P.,288
+NT,307,Solomon,38314,Malak,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,19
+NT,307,Solomon,38314,Malak,C,37188,2,"GANLEY, Kate",A.L.P.,5
+NT,307,Solomon,38314,Malak,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,62
+NT,307,Solomon,38314,Malak,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,2
+NT,307,Solomon,38314,Malak,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,1
+NT,307,Solomon,38314,Malak,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,14
+NT,307,Solomon,38314,Malak,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,38314,Malak,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,38314,Malak,F,37928,0,F Above-the-line Votes,The Great Australian Party,35
+NT,307,Solomon,38314,Malak,F,37390,1,"ARRIGO, Steve",The Great Australian Party,14
+NT,307,Solomon,38314,Malak,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,38314,Malak,G,37923,0,G Above-the-line Votes,Citizens Party,9
+NT,307,Solomon,38314,Malak,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,38314,Malak,G,36528,2,"FLYNN, Peter",Citizens Party,1
+NT,307,Solomon,38314,Malak,H,37922,0,H Above-the-line Votes,The Greens,89
+NT,307,Solomon,38314,Malak,H,36509,1,"ANLEZARK, Jane",The Greens,9
+NT,307,Solomon,38314,Malak,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,38314,Malak,UG,37217,1,"RAJWIN, Raj",United Australia Party,4
+NT,307,Solomon,38314,Malak,ZZ,0,99,INFORMAL,,25
+NT,307,Solomon,65151,Rosebery,A,37924,0,A Above-the-line Votes,NT CLP,294
+NT,307,Solomon,65151,Rosebery,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,39
+NT,307,Solomon,65151,Rosebery,A,36970,2,"CIVITARESE, Kris",NT CLP,2
+NT,307,Solomon,65151,Rosebery,B,37926,0,B Above-the-line Votes,Liberal Democrats,94
+NT,307,Solomon,65151,Rosebery,B,37378,1,"McMAHON, Sam",Liberal Democrats,12
+NT,307,Solomon,65151,Rosebery,B,37380,2,"HANSEN, Jed",Liberal Democrats,2
+NT,307,Solomon,65151,Rosebery,C,37927,0,C Above-the-line Votes,A.L.P.,250
+NT,307,Solomon,65151,Rosebery,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,19
+NT,307,Solomon,65151,Rosebery,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,65151,Rosebery,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,93
+NT,307,Solomon,65151,Rosebery,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,9
+NT,307,Solomon,65151,Rosebery,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,65151,Rosebery,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,28
+NT,307,Solomon,65151,Rosebery,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,65151,Rosebery,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,65151,Rosebery,F,37928,0,F Above-the-line Votes,The Great Australian Party,44
+NT,307,Solomon,65151,Rosebery,F,37390,1,"ARRIGO, Steve",The Great Australian Party,10
+NT,307,Solomon,65151,Rosebery,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,65151,Rosebery,G,37923,0,G Above-the-line Votes,Citizens Party,10
+NT,307,Solomon,65151,Rosebery,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,65151,Rosebery,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,65151,Rosebery,H,37922,0,H Above-the-line Votes,The Greens,84
+NT,307,Solomon,65151,Rosebery,H,36509,1,"ANLEZARK, Jane",The Greens,4
+NT,307,Solomon,65151,Rosebery,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,65151,Rosebery,UG,37217,1,"RAJWIN, Raj",United Australia Party,10
+NT,307,Solomon,65151,Rosebery,ZZ,0,99,INFORMAL,,45
+NT,307,Solomon,65623,EAV Solomon PPVC,A,37924,0,A Above-the-line Votes,NT CLP,3
+NT,307,Solomon,65623,EAV Solomon PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,0
+NT,307,Solomon,65623,EAV Solomon PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,65623,EAV Solomon PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,0
+NT,307,Solomon,65623,EAV Solomon PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,0
+NT,307,Solomon,65623,EAV Solomon PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,65623,EAV Solomon PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,2
+NT,307,Solomon,65623,EAV Solomon PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,0
+NT,307,Solomon,65623,EAV Solomon PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,1
+NT,307,Solomon,65623,EAV Solomon PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,0
+NT,307,Solomon,65623,EAV Solomon PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,0
+NT,307,Solomon,65623,EAV Solomon PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,65623,EAV Solomon PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,65623,EAV Solomon PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,65623,EAV Solomon PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,65623,EAV Solomon PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,H,37922,0,H Above-the-line Votes,The Greens,0
+NT,307,Solomon,65623,EAV Solomon PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,0
+NT,307,Solomon,65623,EAV Solomon PPVC,H,36555,2,"STOKES, Dianne",The Greens,0
+NT,307,Solomon,65623,EAV Solomon PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,0
+NT,307,Solomon,65623,EAV Solomon PPVC,ZZ,0,99,INFORMAL,,0
+NT,307,Solomon,83440,Millner,A,37924,0,A Above-the-line Votes,NT CLP,150
+NT,307,Solomon,83440,Millner,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,22
+NT,307,Solomon,83440,Millner,A,36970,2,"CIVITARESE, Kris",NT CLP,3
+NT,307,Solomon,83440,Millner,B,37926,0,B Above-the-line Votes,Liberal Democrats,77
+NT,307,Solomon,83440,Millner,B,37378,1,"McMAHON, Sam",Liberal Democrats,8
+NT,307,Solomon,83440,Millner,B,37380,2,"HANSEN, Jed",Liberal Democrats,2
+NT,307,Solomon,83440,Millner,C,37927,0,C Above-the-line Votes,A.L.P.,282
+NT,307,Solomon,83440,Millner,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,27
+NT,307,Solomon,83440,Millner,C,37188,2,"GANLEY, Kate",A.L.P.,4
+NT,307,Solomon,83440,Millner,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,42
+NT,307,Solomon,83440,Millner,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,83440,Millner,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,2
+NT,307,Solomon,83440,Millner,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,11
+NT,307,Solomon,83440,Millner,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+NT,307,Solomon,83440,Millner,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+NT,307,Solomon,83440,Millner,F,37928,0,F Above-the-line Votes,The Great Australian Party,30
+NT,307,Solomon,83440,Millner,F,37390,1,"ARRIGO, Steve",The Great Australian Party,13
+NT,307,Solomon,83440,Millner,F,37407,2,"MARCUS, Angela",The Great Australian Party,2
+NT,307,Solomon,83440,Millner,G,37923,0,G Above-the-line Votes,Citizens Party,5
+NT,307,Solomon,83440,Millner,G,36523,1,"CAMPBELL, Trudy",Citizens Party,2
+NT,307,Solomon,83440,Millner,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,83440,Millner,H,37922,0,H Above-the-line Votes,The Greens,149
+NT,307,Solomon,83440,Millner,H,36509,1,"ANLEZARK, Jane",The Greens,14
+NT,307,Solomon,83440,Millner,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,83440,Millner,UG,37217,1,"RAJWIN, Raj",United Australia Party,4
+NT,307,Solomon,83440,Millner,ZZ,0,99,INFORMAL,,35
+NT,307,Solomon,83441,Karama East,A,37924,0,A Above-the-line Votes,NT CLP,85
+NT,307,Solomon,83441,Karama East,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,11
+NT,307,Solomon,83441,Karama East,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,83441,Karama East,B,37926,0,B Above-the-line Votes,Liberal Democrats,28
+NT,307,Solomon,83441,Karama East,B,37378,1,"McMAHON, Sam",Liberal Democrats,3
+NT,307,Solomon,83441,Karama East,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,83441,Karama East,C,37927,0,C Above-the-line Votes,A.L.P.,147
+NT,307,Solomon,83441,Karama East,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,10
+NT,307,Solomon,83441,Karama East,C,37188,2,"GANLEY, Kate",A.L.P.,0
+NT,307,Solomon,83441,Karama East,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,54
+NT,307,Solomon,83441,Karama East,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,3
+NT,307,Solomon,83441,Karama East,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,83441,Karama East,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,8
+NT,307,Solomon,83441,Karama East,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,83441,Karama East,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,83441,Karama East,F,37928,0,F Above-the-line Votes,The Great Australian Party,26
+NT,307,Solomon,83441,Karama East,F,37390,1,"ARRIGO, Steve",The Great Australian Party,11
+NT,307,Solomon,83441,Karama East,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,83441,Karama East,G,37923,0,G Above-the-line Votes,Citizens Party,5
+NT,307,Solomon,83441,Karama East,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,83441,Karama East,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,83441,Karama East,H,37922,0,H Above-the-line Votes,The Greens,40
+NT,307,Solomon,83441,Karama East,H,36509,1,"ANLEZARK, Jane",The Greens,2
+NT,307,Solomon,83441,Karama East,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,83441,Karama East,UG,37217,1,"RAJWIN, Raj",United Australia Party,1
+NT,307,Solomon,83441,Karama East,ZZ,0,99,INFORMAL,,11
+NT,307,Solomon,97427,Parap East,A,37924,0,A Above-the-line Votes,NT CLP,44
+NT,307,Solomon,97427,Parap East,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,4
+NT,307,Solomon,97427,Parap East,A,36970,2,"CIVITARESE, Kris",NT CLP,0
+NT,307,Solomon,97427,Parap East,B,37926,0,B Above-the-line Votes,Liberal Democrats,9
+NT,307,Solomon,97427,Parap East,B,37378,1,"McMAHON, Sam",Liberal Democrats,0
+NT,307,Solomon,97427,Parap East,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,97427,Parap East,C,37927,0,C Above-the-line Votes,A.L.P.,64
+NT,307,Solomon,97427,Parap East,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,3
+NT,307,Solomon,97427,Parap East,C,37188,2,"GANLEY, Kate",A.L.P.,2
+NT,307,Solomon,97427,Parap East,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,9
+NT,307,Solomon,97427,Parap East,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,0
+NT,307,Solomon,97427,Parap East,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,97427,Parap East,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,4
+NT,307,Solomon,97427,Parap East,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,97427,Parap East,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,97427,Parap East,F,37928,0,F Above-the-line Votes,The Great Australian Party,10
+NT,307,Solomon,97427,Parap East,F,37390,1,"ARRIGO, Steve",The Great Australian Party,2
+NT,307,Solomon,97427,Parap East,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,97427,Parap East,G,37923,0,G Above-the-line Votes,Citizens Party,0
+NT,307,Solomon,97427,Parap East,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,97427,Parap East,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,97427,Parap East,H,37922,0,H Above-the-line Votes,The Greens,48
+NT,307,Solomon,97427,Parap East,H,36509,1,"ANLEZARK, Jane",The Greens,3
+NT,307,Solomon,97427,Parap East,H,36555,2,"STOKES, Dianne",The Greens,1
+NT,307,Solomon,97427,Parap East,UG,37217,1,"RAJWIN, Raj",United Australia Party,1
+NT,307,Solomon,97427,Parap East,ZZ,0,99,INFORMAL,,6
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,A,37924,0,A Above-the-line Votes,NT CLP,440
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,87
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,5
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,156
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,12
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,3
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,313
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,27
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,8
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,114
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,13
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,35
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,76
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,26
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,25
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,3
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,3
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,H,37922,0,H Above-the-line Votes,The Greens,89
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,10
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,H,36555,2,"STOKES, Dianne",The Greens,3
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,25
+NT,307,Solomon,105633,Coolalinga SOLOMON PPVC,ZZ,0,99,INFORMAL,,46
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,A,37924,0,A Above-the-line Votes,NT CLP,58
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,A,36964,1,"PRICE, Jacinta Nampijinpa",NT CLP,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,A,36970,2,"CIVITARESE, Kris",NT CLP,1
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,B,37926,0,B Above-the-line Votes,Liberal Democrats,19
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,B,37378,1,"McMAHON, Sam",Liberal Democrats,1
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,B,37380,2,"HANSEN, Jed",Liberal Democrats,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,C,37927,0,C Above-the-line Votes,A.L.P.,70
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,C,37176,1,"McCARTHY, Malarndirri",A.L.P.,3
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,C,37188,2,"GANLEY, Kate",A.L.P.,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,D,37925,0,D Above-the-line Votes,Legalise Cannabis Australia,7
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,D,37356,1,"LAWRENCE, Lance",Legalise Cannabis Australia,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,D,37362,2,"HIBBERT, Kelly-Anne",Legalise Cannabis Australia,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,E,37929,0,E Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,E,37654,1,"WHYTE, Lamaan",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,E,37661,2,"BELCHER, Richard",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,F,37928,0,F Above-the-line Votes,The Great Australian Party,7
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,F,37390,1,"ARRIGO, Steve",The Great Australian Party,2
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,F,37407,2,"MARCUS, Angela",The Great Australian Party,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,G,37923,0,G Above-the-line Votes,Citizens Party,2
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,G,36523,1,"CAMPBELL, Trudy",Citizens Party,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,G,36528,2,"FLYNN, Peter",Citizens Party,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,H,37922,0,H Above-the-line Votes,The Greens,48
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,H,36509,1,"ANLEZARK, Jane",The Greens,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,H,36555,2,"STOKES, Dianne",The Greens,2
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,UG,37217,1,"RAJWIN, Raj",United Australia Party,0
+NT,307,Solomon,108576,EAV COVID19 Solomon PPVC,ZZ,0,99,INFORMAL,,1

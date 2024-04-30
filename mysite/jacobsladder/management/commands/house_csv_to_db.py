@@ -9,11 +9,6 @@ from ...aec_codes import StringCode
 
 
 class Command(BaseCommand, csv_to_db.ElectionReader):
-    # Column headers from the csv files
-    BALLOT_ORDER_HEADER = 'BallotPosition'
-    BOOTH_CODE_HEADER = 'PollingPlaceID'
-    BOOTH_NAME_HEADER = 'PollingPlace'
-
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
 
@@ -163,7 +158,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     @staticmethod
     def find_candidate_for_seat(house_election, row):
         seat = Command.fetch_by_aec_code(
-            Command.get_standard_seat_attributes(row), models.Seat.objects,
+            Command.get_standard_beacon_attributes(row), models.Seat.objects,
             models.SeatCode.objects, 'seat',
             int(row[Command.SEAT_CODE_HEADER]))
         candidate = Command.pull_candidate(
@@ -172,18 +167,13 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         return candidate, seat
 
     @staticmethod
-    def pull_candidate(house_election, person_attributes, row, seat,
+    def pull_candidate(election, person_attributes, row, seat,
                        candidate_objects=models.HouseCandidate.objects):
         candidate, _ = Command.find_person(candidate_objects,
                                            person_attributes, row)
         contention, _ = models.Contention.objects.get_or_create(
-            seat=seat, candidate=candidate, election=house_election)
+            seat=seat, candidate=candidate, election=election)
         return candidate
-
-    @staticmethod
-    def get_standard_seat_attributes(row):
-        return {'name': row[Command.SEAT_NAME_HEADER],
-                'state': row[StringCode.STATE_ABBREVIATION_HEADER].lower(), }
 
     @staticmethod
     def add_source(candidate, current_round, house_election, pref_objects,
@@ -254,7 +244,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     @staticmethod
     def set_booth_from_row(row):
         seat = Command.fetch_by_aec_code(
-            Command.get_standard_seat_attributes(row), models.Seat.objects,
+            Command.get_standard_beacon_attributes(row), models.Seat.objects,
             models.SeatCode.objects, 'seat',
             int(row[Command.SEAT_CODE_HEADER]))
         booth, _ = models.Booth.objects.get_or_create(

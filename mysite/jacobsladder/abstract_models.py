@@ -38,6 +38,13 @@ class Crown(models.Model):
                                  on_delete=models.CASCADE)
 
 
+class BallotEntry(Crown):
+    class Meta:
+        abstract = True
+
+    ballot_position = models.PositiveSmallIntegerField(default=0)
+
+
 class TrackedName(models.Model):
     class Meta:
         abstract = True

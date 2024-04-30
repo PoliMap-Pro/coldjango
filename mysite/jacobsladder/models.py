@@ -2,7 +2,7 @@ from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
 from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
-    Transition
+    Transition, BallotEntry
 from .model_fields import StateName
 
 """ 
@@ -223,6 +223,19 @@ class SeatChange(Transition):
                                 blank=True, related_name="from_via")
 
 
+class FloorCode(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['number', 'floor',],
+            name='unique_combination_of_number_and_floor')]
+
+    number = models.PositiveIntegerField()
+    floor = models.ForeignKey("Floor", on_delete=models.CASCADE)
+
+    def __str__(self):
+        return str(f"{self.number} for {self.floor} ({self.pk})")
+
+
 class BoothCode(models.Model):
     class Meta:
         constraints = [UniqueConstraint(
@@ -234,6 +247,15 @@ class BoothCode(models.Model):
 
     def __str__(self):
         return str(f"{self.number} for {self.booth} ({self.pk})")
+
+
+class Floor(Pin):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['name', 'lighthouse',],
+                                        name='name_and_lighthouse')]
+
+    name = models.CharField(max_length=63, null=True, blank=True)
+    lighthouse = models.ForeignKey(Lighthouse, on_delete=models.CASCADE)
 
 
 class Booth(Pin):
@@ -346,22 +368,35 @@ class HouseCandidate(models.Model):
         return str(self.person)
 
 
-class Contention(Crown):
-    constraints = [UniqueConstraint(
-        fields=['seat', 'candidate', 'election', ],
-        name='unique_seat_candidate_election')]
+class Contention(BallotEntry):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['seat', 'candidate', 'election', ],
+            name='unique_seat_candidate_election')]
 
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    ballot_position = models.PositiveSmallIntegerField(default=0)
 
     def __str__(self):
         return str(f"{self.candidate} for {self.seat} "
                    f"in {self.election} ({self.pk})")
 
 
+class Stand(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['candidate', 'election', ],
+                                        name='candidate_election')]
+
+    candidate = models.ForeignKey('SenateCandidate', on_delete=models.CASCADE)
+    election = models.ForeignKey('SenateElection', on_delete=models.CASCADE)
+    ballot_position = models.PositiveSmallIntegerField(default=0)
+
+    def __str__(self):
+        return str(f"{self.candidate} in {self.election} ({self.pk})")
+
+
 class SenateGroup(models.Model):
-    name = models.CharField(max_length=63)
-    abbreviation = models.CharField(max_length=15, null=True, blank=True)
+    name = models.CharField(max_length=63, null=True, blank=True)
+    abbreviation = models.CharField(max_length=15)
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
 

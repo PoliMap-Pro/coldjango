@@ -4,9 +4,11 @@ from operator import itemgetter
 from . import models, aec_codes
 from .aec_codes import StringCode
 from .constants import ELECTION_DIRECTORIES
+#from .management.commands.house_csv_to_db import Command
 
 
 class AECCodeReader(object):
+    BALLOT_ORDER_HEADER = 'BallotPosition'
     KIND_OF_VOTES_HEADER = 'CalculationType'
     NUMBER_OF_VOTES_HEADER = 'CalculationValue'
     ORDINARY_VOTES_HEADER = 'OrdinaryVotes'
@@ -56,6 +58,8 @@ class AECCodeReader(object):
 
 
 class ElectionReader(AECCodeReader):
+    BOOTH_NAME_HEADER = 'PollingPlace'
+    BOOTH_CODE_HEADER = 'PollingPlaceID'
     ENROLLMENT_HEADER = 'Enrolment'
     FIRST_NAME_HEADER = 'Surname'
     OTHER_NAMES_HEADER = 'GivenNm'
@@ -103,3 +107,8 @@ class ElectionReader(AECCodeReader):
                     name=party_name, abbreviation=party_abbreviation)
                 return party
         return None
+
+    @staticmethod
+    def get_standard_beacon_attributes(row):
+        return {'name': row[ElectionReader.SEAT_NAME_HEADER],
+                'state': row[StringCode.STATE_ABBREVIATION_HEADER].lower(), }
