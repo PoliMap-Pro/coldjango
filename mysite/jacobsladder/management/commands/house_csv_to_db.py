@@ -13,8 +13,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     BALLOT_ORDER_HEADER = 'BallotPosition'
     BOOTH_CODE_HEADER = 'PollingPlaceID'
     BOOTH_NAME_HEADER = 'PollingPlace'
-    SEAT_CODE_HEADER = 'DivisionID'
-    SEAT_NAME_HEADER = 'DivisionNm'
 
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
@@ -226,13 +224,13 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         return candidate, round_obj, received, received, seat, transferred
 
     @staticmethod
-    def add_one_seat(house_election, row):
-        seat = Command.find_seat(house_election, row)
+    def add_one_seat(election, row):
+        seat = Command.find_seat(election, row)
         seat_code, _ = models.SeatCode.objects.get_or_create(
             seat=seat, number=int(row[Command.SEAT_CODE_HEADER]))
         enrollment, _ = models.Enrollment.objects.get_or_create(
-            seat=seat, election=house_election,
-            number_enrolled=int(row[Command.ENROLLMENT_HEADER]))
+            seat=seat, election=election, number_enrolled=int(
+                row[Command.ENROLLMENT_HEADER]))
 
     @staticmethod
     def find_seat(house_election, row):

@@ -1,6 +1,9 @@
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
+from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
+    Transition
+from .model_fields import StateName
 
 """ 
 HouseElection.per, Seat.per, Booth.per and VoteTally.per
@@ -101,17 +104,6 @@ where,
  """
 
 
-class StateName(models.TextChoices):
-    ACT = "act", "Australian Capital Territory"
-    NSW = "nsw", "New South Wales"
-    NT = "nt", "Northern Territory"
-    QLD = "qld", "Queensland"
-    SA = "sa", "South Australia"
-    TAS = "tas", "Tasmania"
-    VIC = "vic", "Victoria"
-    WA = "wa", "Western Australia"
-
-
 class Geography(models.Model):
     #multi_polygon = gis_models.MultiPolygonField()
     un = models.IntegerField("United Nations Code")
@@ -125,17 +117,6 @@ class Geography(models.Model):
     iso3 = models.CharField("3 Digit ISO", max_length=3)
     lat = models.FloatField()
     lon = models.FloatField()
-
-
-class Election(models.Model):
-    class Meta:
-        abstract = True
-
-    election_date = models.DateField()
-    created = models.DateTimeField(auto_now_add=True)
-
-    def __str__(self):
-        return f"{self.__class__.__name__} on {self.election_date} ({self.pk})"
 
 
 class HouseElection(Election):
@@ -168,13 +149,26 @@ class SeatCode(models.Model):
         return f"{self.number} for {self.seat} ({self.pk})"
 
 
-class Seat(models.Model):
+class LighthouseCode(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['number', 'lighthouse',],
+                                        name='number_and_lighthouse')]
+
+    number = models.PositiveIntegerField()
+    lighthouse = models.ForeignKey("Lighthouse", on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.number} for {self.lighthouse} ({self.pk})"
+
+
+class Lighthouse(Beacon):
     name = models.CharField(max_length=63, unique=True)
-    state = models.CharField(max_length=9, choices=StateName.choices)
+    elections = models.ManyToManyField(SenateElection, blank=True)
+
+
+class Seat(Beacon):
+    name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField(HouseElection, blank=True)
-    location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
-                                    null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
     def total_primary_votes(self, elect):
         def return_candidate(election, seat, booth, vote_tally):
@@ -210,28 +204,16 @@ class Seat(models.Model):
                f"{self.state} ({self.pk})"
 
 
-class Enrollment(models.Model):
+class Enrollment(Crown):
     class Meta:
         constraints = [UniqueConstraint(fields=['seat', 'election',],
                                         name='unique_seat_for_election')]
 
     number_enrolled = models.PositiveIntegerField(default=0)
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
-    election = models.ForeignKey(HouseElection,
-                                 on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.number_enrolled} to vote in "
                    f"{self.seat} in {self.election} ({self.pk})")
-
-
-class Transition(models.Model):
-    class Meta:
-        abstract = True
-
-    reason = models.CharField(max_length=127)
-    date_of_change = models.DateField()
-    created = models.DateTimeField(auto_now_add=True)
 
 
 class SeatChange(Transition):
@@ -254,16 +236,13 @@ class BoothCode(models.Model):
         return str(f"{self.number} for {self.booth} ({self.pk})")
 
 
-class Booth(models.Model):
+class Booth(Pin):
     class Meta:
         constraints = [UniqueConstraint(fields=['name', 'seat',],
                                         name='name_and_seat')]
 
     name = models.CharField(max_length=63, null=True, blank=True)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
-    location = models.OneToOneField(Geography, on_delete=models.SET_NULL,
-                                    null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -300,23 +279,19 @@ class BoothChange(Transition):
                                  blank=True, related_name="from_via")
 
 
-class Party(models.Model):
+class Party(TrackedName):
     class Meta:
         verbose_name_plural = "Parties"
 
-    name = models.CharField(max_length=63)
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
 
-class PartyAlias(models.Model):
+class PartyAlias(TrackedName):
     class Meta:
         verbose_name_plural = "Party Aliases"
 
-    name = models.CharField(max_length=63)
     party = models.ForeignKey(Party, on_delete=models.CASCADE)
     elections = models.ManyToManyField(HouseElection, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
 
 class PersonCode(models.Model):
@@ -331,11 +306,9 @@ class PersonCode(models.Model):
         return str(f"{self.number} in {self.person} ({self.pk})")
 
 
-class Person(models.Model):
-    name = models.CharField(max_length=31)  # surname
+class Person(TrackedName):
     other_names = models.CharField(max_length=63, null=True, blank=True)
     party = models.ManyToManyField(Party, through="Representation")
-    created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
         if self.other_names:
@@ -373,14 +346,12 @@ class HouseCandidate(models.Model):
         return str(self.person)
 
 
-class Contention(models.Model):
+class Contention(Crown):
     constraints = [UniqueConstraint(
         fields=['seat', 'candidate', 'election', ],
         name='unique_seat_candidate_election')]
 
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     ballot_position = models.PositiveSmallIntegerField(default=0)
 
     def __str__(self):
@@ -428,14 +399,12 @@ class VoteTally(models.Model):
                    f"at {self.booth} in {self.election} ({self.pk})")
 
 
-class PreferenceRound(models.Model):
+class PreferenceRound(Crown):
     class Meta:
         constraints = [UniqueConstraint(
             fields=['seat', 'election', 'round_number',],
             name='unique_combination_of_seat_election_round_number')]
 
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     round_number = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
 

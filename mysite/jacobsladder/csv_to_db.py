@@ -11,11 +11,11 @@ class AECCodeReader(object):
     NUMBER_OF_VOTES_HEADER = 'CalculationValue'
     ORDINARY_VOTES_HEADER = 'OrdinaryVotes'
 
-    def add_one(self, filename, house_election, single_create_method):
+    def add_one(self, filename, election, single_create_method):
         with open(filename, "r") as in_file:
             reader = self.fetch_reader(filename, in_file)
             method = getattr(self.__class__, single_create_method)
-            [method(house_election, row) for row in reader]
+            [method(election, row) for row in reader]
 
     def map_report(self, directory, election, quiet, single_create_method,
                    text_to_print, blank_line):
@@ -56,10 +56,12 @@ class AECCodeReader(object):
 
 
 class ElectionReader(AECCodeReader):
-    ROUND_NUMBER_HEADER = 'CountNumber'
-    OTHER_NAMES_HEADER = 'GivenNm'
-    FIRST_NAME_HEADER = 'Surname'
     ENROLLMENT_HEADER = 'Enrolment'
+    FIRST_NAME_HEADER = 'Surname'
+    OTHER_NAMES_HEADER = 'GivenNm'
+    ROUND_NUMBER_HEADER = 'CountNumber'
+    SEAT_CODE_HEADER = 'DivisionID'
+    SEAT_NAME_HEADER = 'DivisionNm'
 
     def map_report_with_blank_line(self, directory, election, quiet,
                                    single_create_method, text_to_print):
