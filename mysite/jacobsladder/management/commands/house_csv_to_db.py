@@ -1,15 +1,14 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models
+from ... import models, csv_to_db
 from ...constants import BOOTHS_DIRECTORY_RELATIVE, \
     PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE, SEATS_DIRECTORY_RELATIVE, \
     TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE
 from ...aec_codes import StringCode
-from ...csv_to_db import ElectionReader
 
 
-class Command(BaseCommand, ElectionReader):
+class Command(BaseCommand, csv_to_db.ElectionReader):
     # Column headers from the csv files
     BALLOT_ORDER_HEADER = 'BallotPosition'
     BOOTH_CODE_HEADER = 'PollingPlaceID'
@@ -175,11 +174,6 @@ class Command(BaseCommand, ElectionReader):
         return candidate, seat
 
     @staticmethod
-    def get_standard_person_attributes(row):
-        return {'name': row[Command.FIRST_NAME_HEADER],
-                'other_names': row[Command.OTHER_NAMES_HEADER], }
-
-    @staticmethod
     def pull_candidate(house_election, person_attributes, row, seat,
                        candidate_objects=models.HouseCandidate.objects):
         candidate, _ = Command.find_person(candidate_objects,
@@ -254,9 +248,9 @@ class Command(BaseCommand, ElectionReader):
         candidate = Command.pull_candidate(
             house_election, Command.get_standard_person_attributes(row), row,
             seat)
-        party, _ = models.Party.objects.get_or_create(
-            name=row[StringCode.PARTY_NAME_HEADER], abbreviation=row[
-                StringCode.PARTY_ABBREVIATION_HEADER])
+        party, _ = models.Party.objects.get_or_create(name=row[
+            StringCode.PARTY_NAME_HEADER], abbreviation=row[
+            StringCode.PARTY_ABBREVIATION_HEADER])
         return candidate, party, candidate.person
 
     @staticmethod

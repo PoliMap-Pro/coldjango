@@ -354,6 +354,16 @@ class Representation(models.Model):
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
 
 
+class Selection(models.Model):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['person', 'election'],
+                                        name='selection_person_election')]
+    person = models.ForeignKey(Person, on_delete=models.CASCADE)
+    party = models.ForeignKey(Party, on_delete=models.SET_NULL, null=True,
+                              blank=True)
+    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
+
+
 class HouseCandidate(models.Model):
     person = models.OneToOneField(Person, on_delete=models.CASCADE,
                                   related_name='candidate')

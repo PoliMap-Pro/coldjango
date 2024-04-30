@@ -1,7 +1,7 @@
 import csv
 from operator import itemgetter
 
-from . import models
+from . import models, aec_codes
 from .aec_codes import StringCode
 from .constants import ELECTION_DIRECTORIES
 
@@ -19,14 +19,14 @@ class AECCodeReader(object):
 
     def map_report(self, directory, election, quiet, single_create_method,
                    text_to_print, blank_line):
-        StringCode.echo(quiet, text_to_print, blank_line)
+        aec_codes.StringCode.echo(quiet, text_to_print, blank_line)
         [self.add_one(filename, election, single_create_method) for filename
-         in StringCode.walk(directory)]
+         in aec_codes.StringCode.walk(directory)]
 
     @staticmethod
     def fetch_reader(filename, in_file, type_of_reader=csv.DictReader,
                      quiet=False):
-        StringCode.echo(quiet, filename, False)
+        aec_codes.StringCode.echo(quiet, filename, False)
         next(in_file)
         return type_of_reader(in_file)
 
@@ -75,7 +75,7 @@ class ElectionReader(AECCodeReader):
     def find_person(cls, candidate_objects, person_attributes, row):
         person = cls.fetch_by_aec_code(
             person_attributes, models.Person.objects, models.PersonCode.objects,
-            'person', int(row[StringCode.CANDIDATE_CODE_HEADER]))
+            'person', int(row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
         candidate, _ = candidate_objects.get_or_create(person=person)
         return candidate, person
 
@@ -85,3 +85,19 @@ class ElectionReader(AECCodeReader):
         election_items.sort(key=itemgetter(0))
         election_items.reverse()
         return election_items
+
+    @staticmethod
+    def get_standard_person_attributes(row):
+        return {'name': row[ElectionReader.FIRST_NAME_HEADER],
+                'other_names': row[ElectionReader.OTHER_NAMES_HEADER], }
+
+    @staticmethod
+    def fetch_party(row):
+        party_name = row[StringCode.PARTY_NAME_HEADER]
+        if party_name:
+            party_abbreviation = row[StringCode.PARTY_ABBREVIATION_HEADER]
+            if party_abbreviation:
+                party, _ = models.Party.objects.get_or_create(
+                    name=party_name, abbreviation=party_abbreviation)
+                return party
+        return None
