@@ -6,7 +6,7 @@ from ...models import HouseElection, Seat, Booth, VoteTally, Person, \
 
 
 class Command(BaseCommand):
-    help = 'Unit test'
+    help = 'Command test'
 
     def handle(self, *arguments, **keywordarguments):
         twenty_twenty_two = datetime(year=2022, month=1, day=1)
