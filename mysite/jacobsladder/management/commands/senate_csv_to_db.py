@@ -112,7 +112,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                                                      election=election)
         except models.Selection.DoesNotExist:
             selection = models.Selection.objects.create(
-                person=candidate.person, election=election, party=faction)
+                person=candidate.person, election=election, party=party)
         vote_stack, _ = models.VoteStack.objects.get_or_create(
             floor=floor, election=election, lighthouse=lighthouse,
             candidate=candidate,
