@@ -92,7 +92,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
          election_year, folder in election_items]
 
     @staticmethod
-    def fetch_candid(house_election, row, type_of_code=StringCode):
+    def fetch_candid(house_election, row):
         """
         Fetch the person, then use it to fetch the candidate
         """
@@ -214,39 +214,38 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         return candidate, round_obj, received, received, seat, transferred
 
     @staticmethod
-    def add_one_seat(election, row):
+    def add_one_seat(election, row, code_objects=models.SeatCode.objects):
         seat = Command.find_seat(election, row)
-        seat_code, _ = models.SeatCode.objects.get_or_create(
+        seat_code, _ = code_objects.get_or_create(
             seat=seat, number=int(row[Command.SEAT_CODE_HEADER]))
         enrollment, _ = models.Enrollment.objects.get_or_create(
             seat=seat, election=election, number_enrolled=int(
                 row[Command.ENROLLMENT_HEADER]))
 
     @staticmethod
-    def find_seat(house_election, row):
-        seat, _ = models.Seat.objects.get_or_create(
-            name=row[Command.SEAT_NAME_HEADER])
+    def find_seat(house_election, row, beacon_objects=models.Seat.objects):
+        seat, _ = beacon_objects.get_or_create(name=row[
+            Command.SEAT_NAME_HEADER])
         seat.elections.add(house_election)
         seat.state = row[StringCode.STATE_ABBREVIATION_HEADER].lower()
         seat.save()
         return seat
 
     @staticmethod
-    def fetch_candidate(house_election, row, seat):
+    def fetch_candidate(house_election, row, seat, tag=models.Party):
         candidate = Command.pull_candidate(
             house_election, Command.get_standard_person_attributes(row), row,
             seat)
-        party, _ = models.Party.objects.get_or_create(name=row[
+        party, _ = tag.objects.get_or_create(name=row[
             StringCode.PARTY_NAME_HEADER], abbreviation=row[
             StringCode.PARTY_ABBREVIATION_HEADER])
         return candidate, party, candidate.person
 
     @staticmethod
-    def set_booth_from_row(row):
+    def set_booth_from_row(row, code_objects=models.SeatCode.objects):
         seat = Command.fetch_by_aec_code(
             Command.get_standard_beacon_attributes(row), models.Seat.objects,
-            models.SeatCode.objects, 'seat',
-            int(row[Command.SEAT_CODE_HEADER]))
+            code_objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
         booth, _ = models.Booth.objects.get_or_create(
             name=row[Command.BOOTH_NAME_HEADER], seat=seat)
         booth_code, _ = models.BoothCode.objects.get_or_create(
@@ -266,15 +265,14 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                                    transferred)
 
     @staticmethod
-    def add_one_booth(house_election, row):
+    def add_one_booth(house_election, row, bind=models.VoteTally):
         booth, seat = Command.set_booth_from_row(row)
         candidate, party, person = Command.fetch_candidate(
             house_election, row, seat)
         Command.set_ballot_position(candidate, house_election, party, person,
                                     row, seat)
-        vote_tally, _ = models.VoteTally.objects.get_or_create(
-            booth=booth, election=house_election,
-            candidate=candidate,
+        vote_tally, _ = bind.objects.get_or_create(
+            booth=booth, election=house_election, candidate=candidate,
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
 
     @staticmethod
@@ -307,13 +305,14 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         return pref
 
     @staticmethod
-    def narrow_preferences(house_election, pref_objects, reader, round_objects, row):
+    def narrow_preferences(house_election, pref_objects, reader,
+                           round_objects, row):
         candidate, pref_round, received, remaining, seat, transferred = \
             Command.fetch_pref_data(house_election, reader, round_objects, row)
-        preference_attributes = {'candidate': candidate, 'election':
-            house_election, 'round': pref_round, 'seat': seat,
-                                 'votes_received': received,
-                                 'votes_transferred': transferred, }
+        preference_attributes = {
+            'candidate': candidate, 'election': house_election,
+            'round': pref_round, 'seat': seat, 'votes_received': received,
+            'votes_transferred': transferred, }
         return Command.remove_extras(pref_objects, preference_attributes), \
             preference_attributes, seat
 

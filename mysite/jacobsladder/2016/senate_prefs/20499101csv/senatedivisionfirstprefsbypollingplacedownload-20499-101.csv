@@ -1,0 +1,1916 @@
+2016 Federal Election Senate First Preferences By Polling Place for Division 101 [Event:20499 Phase:FinalResults Generated:2017-05-11T17:37:53 Cycle:a45ea4bc-bff6-48cb-94c5-1bbaae0c7c0d Created:2017-05-11T17:29:15 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.5.84.43192]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,101,Canberra,8761,Chapman,A,29670,0,A Ticket Votes,Liberal Democratic Party,57
+ACT,101,Canberra,8761,Chapman,A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,101,Canberra,8761,Chapman,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8761,Chapman,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8761,Chapman,B,28933,1,"EDWARDS, David",Secular Party of Australia,8
+ACT,101,Canberra,8761,Chapman,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8761,Chapman,C,29663,0,C Ticket Votes,Australian Labor Party,790
+ACT,101,Canberra,8761,Chapman,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,179
+ACT,101,Canberra,8761,Chapman,C,28149,2,"SMITH, David",Australian Labor Party,16
+ACT,101,Canberra,8761,Chapman,D,29672,0,D Ticket Votes,Rise Up Australia Party,10
+ACT,101,Canberra,8761,Chapman,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8761,Chapman,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8761,Chapman,E,29666,0,E Ticket Votes,Sustainable Australia,22
+ACT,101,Canberra,8761,Chapman,E,28468,1,"HAYDON, John",Sustainable Australia,8
+ACT,101,Canberra,8761,Chapman,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8761,Chapman,F,29667,0,F Ticket Votes,Liberal,814
+ACT,101,Canberra,8761,Chapman,F,28773,1,"SESELJA, Zed",Liberal,63
+ACT,101,Canberra,8761,Chapman,F,28782,2,"HIATT, Jane",Liberal,35
+ACT,101,Canberra,8761,Chapman,G,29664,0,G Ticket Votes,Animal Justice Party,28
+ACT,101,Canberra,8761,Chapman,G,28254,1,"FIELD, Deborah",Animal Justice Party,9
+ACT,101,Canberra,8761,Chapman,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8761,Chapman,H,29665,0,H Ticket Votes,The Greens,329
+ACT,101,Canberra,8761,Chapman,H,28306,1,"HOBBS, Christina",The Greens,114
+ACT,101,Canberra,8761,Chapman,H,28308,2,"WAREHAM, Sue",The Greens,6
+ACT,101,Canberra,8761,Chapman,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),34
+ACT,101,Canberra,8761,Chapman,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8761,Chapman,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8761,Chapman,J,29671,0,J Ticket Votes,Australian Sex Party,67
+ACT,101,Canberra,8761,Chapman,J,29390,1,"BAILEY, Steven",Australian Sex Party,24
+ACT,101,Canberra,8761,Chapman,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,101,Canberra,8761,Chapman,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,10
+ACT,101,Canberra,8761,Chapman,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8761,Chapman,ZZ,0,99,INFORMAL,,37
+ACT,101,Canberra,8763,Chisholm,A,29670,0,A Ticket Votes,Liberal Democratic Party,39
+ACT,101,Canberra,8763,Chisholm,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8763,Chisholm,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8763,Chisholm,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8763,Chisholm,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,101,Canberra,8763,Chisholm,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8763,Chisholm,C,29663,0,C Ticket Votes,Australian Labor Party,620
+ACT,101,Canberra,8763,Chisholm,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,76
+ACT,101,Canberra,8763,Chisholm,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,101,Canberra,8763,Chisholm,D,29672,0,D Ticket Votes,Rise Up Australia Party,32
+ACT,101,Canberra,8763,Chisholm,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8763,Chisholm,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8763,Chisholm,E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,8763,Chisholm,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8763,Chisholm,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8763,Chisholm,F,29667,0,F Ticket Votes,Liberal,549
+ACT,101,Canberra,8763,Chisholm,F,28773,1,"SESELJA, Zed",Liberal,33
+ACT,101,Canberra,8763,Chisholm,F,28782,2,"HIATT, Jane",Liberal,8
+ACT,101,Canberra,8763,Chisholm,G,29664,0,G Ticket Votes,Animal Justice Party,24
+ACT,101,Canberra,8763,Chisholm,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8763,Chisholm,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8763,Chisholm,H,29665,0,H Ticket Votes,The Greens,122
+ACT,101,Canberra,8763,Chisholm,H,28306,1,"HOBBS, Christina",The Greens,31
+ACT,101,Canberra,8763,Chisholm,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8763,Chisholm,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,8763,Chisholm,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8763,Chisholm,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8763,Chisholm,J,29671,0,J Ticket Votes,Australian Sex Party,81
+ACT,101,Canberra,8763,Chisholm,J,29390,1,"BAILEY, Steven",Australian Sex Party,14
+ACT,101,Canberra,8763,Chisholm,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8763,Chisholm,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8763,Chisholm,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,101,Canberra,8763,Chisholm,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8764,Curtin,A,29670,0,A Ticket Votes,Liberal Democratic Party,30
+ACT,101,Canberra,8764,Curtin,A,29611,1,"DONNELLY, Matt",Liberal Democrats,14
+ACT,101,Canberra,8764,Curtin,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8764,Curtin,B,29669,0,B Ticket Votes,Secular Party of Australia,10
+ACT,101,Canberra,8764,Curtin,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8764,Curtin,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8764,Curtin,C,29663,0,C Ticket Votes,Australian Labor Party,746
+ACT,101,Canberra,8764,Curtin,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,164
+ACT,101,Canberra,8764,Curtin,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,8764,Curtin,D,29672,0,D Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8764,Curtin,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8764,Curtin,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8764,Curtin,E,29666,0,E Ticket Votes,Sustainable Australia,25
+ACT,101,Canberra,8764,Curtin,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8764,Curtin,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8764,Curtin,F,29667,0,F Ticket Votes,Liberal,734
+ACT,101,Canberra,8764,Curtin,F,28773,1,"SESELJA, Zed",Liberal,48
+ACT,101,Canberra,8764,Curtin,F,28782,2,"HIATT, Jane",Liberal,18
+ACT,101,Canberra,8764,Curtin,G,29664,0,G Ticket Votes,Animal Justice Party,55
+ACT,101,Canberra,8764,Curtin,G,28254,1,"FIELD, Deborah",Animal Justice Party,11
+ACT,101,Canberra,8764,Curtin,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,5
+ACT,101,Canberra,8764,Curtin,H,29665,0,H Ticket Votes,The Greens,410
+ACT,101,Canberra,8764,Curtin,H,28306,1,"HOBBS, Christina",The Greens,123
+ACT,101,Canberra,8764,Curtin,H,28308,2,"WAREHAM, Sue",The Greens,8
+ACT,101,Canberra,8764,Curtin,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),19
+ACT,101,Canberra,8764,Curtin,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8764,Curtin,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8764,Curtin,J,29671,0,J Ticket Votes,Australian Sex Party,51
+ACT,101,Canberra,8764,Curtin,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,101,Canberra,8764,Curtin,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8764,Curtin,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,9
+ACT,101,Canberra,8764,Curtin,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8764,Curtin,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8766,Deakin,A,29670,0,A Ticket Votes,Liberal Democratic Party,13
+ACT,101,Canberra,8766,Deakin,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8766,Deakin,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8766,Deakin,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,101,Canberra,8766,Deakin,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,101,Canberra,8766,Deakin,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8766,Deakin,C,29663,0,C Ticket Votes,Australian Labor Party,260
+ACT,101,Canberra,8766,Deakin,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,55
+ACT,101,Canberra,8766,Deakin,C,28149,2,"SMITH, David",Australian Labor Party,3
+ACT,101,Canberra,8766,Deakin,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8766,Deakin,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,8766,Deakin,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8766,Deakin,E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,8766,Deakin,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,8766,Deakin,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8766,Deakin,F,29667,0,F Ticket Votes,Liberal,639
+ACT,101,Canberra,8766,Deakin,F,28773,1,"SESELJA, Zed",Liberal,32
+ACT,101,Canberra,8766,Deakin,F,28782,2,"HIATT, Jane",Liberal,23
+ACT,101,Canberra,8766,Deakin,G,29664,0,G Ticket Votes,Animal Justice Party,9
+ACT,101,Canberra,8766,Deakin,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,8766,Deakin,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8766,Deakin,H,29665,0,H Ticket Votes,The Greens,113
+ACT,101,Canberra,8766,Deakin,H,28306,1,"HOBBS, Christina",The Greens,31
+ACT,101,Canberra,8766,Deakin,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8766,Deakin,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,8766,Deakin,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8766,Deakin,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8766,Deakin,J,29671,0,J Ticket Votes,Australian Sex Party,18
+ACT,101,Canberra,8766,Deakin,J,29390,1,"BAILEY, Steven",Australian Sex Party,7
+ACT,101,Canberra,8766,Deakin,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8766,Deakin,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,101,Canberra,8766,Deakin,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,8766,Deakin,ZZ,0,99,INFORMAL,,15
+ACT,101,Canberra,8767,Duffy,A,29670,0,A Ticket Votes,Liberal Democratic Party,44
+ACT,101,Canberra,8767,Duffy,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,101,Canberra,8767,Duffy,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8767,Duffy,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,101,Canberra,8767,Duffy,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,101,Canberra,8767,Duffy,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8767,Duffy,C,29663,0,C Ticket Votes,Australian Labor Party,625
+ACT,101,Canberra,8767,Duffy,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,119
+ACT,101,Canberra,8767,Duffy,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,101,Canberra,8767,Duffy,D,29672,0,D Ticket Votes,Rise Up Australia Party,11
+ACT,101,Canberra,8767,Duffy,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8767,Duffy,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8767,Duffy,E,29666,0,E Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,8767,Duffy,E,28468,1,"HAYDON, John",Sustainable Australia,13
+ACT,101,Canberra,8767,Duffy,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8767,Duffy,F,29667,0,F Ticket Votes,Liberal,494
+ACT,101,Canberra,8767,Duffy,F,28773,1,"SESELJA, Zed",Liberal,35
+ACT,101,Canberra,8767,Duffy,F,28782,2,"HIATT, Jane",Liberal,19
+ACT,101,Canberra,8767,Duffy,G,29664,0,G Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,8767,Duffy,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8767,Duffy,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,8767,Duffy,H,29665,0,H Ticket Votes,The Greens,278
+ACT,101,Canberra,8767,Duffy,H,28306,1,"HOBBS, Christina",The Greens,103
+ACT,101,Canberra,8767,Duffy,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,101,Canberra,8767,Duffy,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),12
+ACT,101,Canberra,8767,Duffy,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8767,Duffy,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8767,Duffy,J,29671,0,J Ticket Votes,Australian Sex Party,41
+ACT,101,Canberra,8767,Duffy,J,29390,1,"BAILEY, Steven",Australian Sex Party,14
+ACT,101,Canberra,8767,Duffy,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,8767,Duffy,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,101,Canberra,8767,Duffy,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8767,Duffy,ZZ,0,99,INFORMAL,,42
+ACT,101,Canberra,8768,Fadden,A,29670,0,A Ticket Votes,Liberal Democratic Party,54
+ACT,101,Canberra,8768,Fadden,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8768,Fadden,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8768,Fadden,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8768,Fadden,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8768,Fadden,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8768,Fadden,C,29663,0,C Ticket Votes,Australian Labor Party,551
+ACT,101,Canberra,8768,Fadden,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,91
+ACT,101,Canberra,8768,Fadden,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,8768,Fadden,D,29672,0,D Ticket Votes,Rise Up Australia Party,10
+ACT,101,Canberra,8768,Fadden,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,101,Canberra,8768,Fadden,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8768,Fadden,E,29666,0,E Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,8768,Fadden,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8768,Fadden,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8768,Fadden,F,29667,0,F Ticket Votes,Liberal,744
+ACT,101,Canberra,8768,Fadden,F,28773,1,"SESELJA, Zed",Liberal,55
+ACT,101,Canberra,8768,Fadden,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,101,Canberra,8768,Fadden,G,29664,0,G Ticket Votes,Animal Justice Party,21
+ACT,101,Canberra,8768,Fadden,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8768,Fadden,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8768,Fadden,H,29665,0,H Ticket Votes,The Greens,184
+ACT,101,Canberra,8768,Fadden,H,28306,1,"HOBBS, Christina",The Greens,63
+ACT,101,Canberra,8768,Fadden,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8768,Fadden,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),14
+ACT,101,Canberra,8768,Fadden,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8768,Fadden,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8768,Fadden,J,29671,0,J Ticket Votes,Australian Sex Party,45
+ACT,101,Canberra,8768,Fadden,J,29390,1,"BAILEY, Steven",Australian Sex Party,2
+ACT,101,Canberra,8768,Fadden,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8768,Fadden,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8768,Fadden,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8768,Fadden,ZZ,0,99,INFORMAL,,40
+ACT,101,Canberra,8769,Farrer,A,29670,0,A Ticket Votes,Liberal Democratic Party,50
+ACT,101,Canberra,8769,Farrer,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,101,Canberra,8769,Farrer,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8769,Farrer,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8769,Farrer,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,8769,Farrer,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8769,Farrer,C,29663,0,C Ticket Votes,Australian Labor Party,683
+ACT,101,Canberra,8769,Farrer,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,121
+ACT,101,Canberra,8769,Farrer,C,28149,2,"SMITH, David",Australian Labor Party,11
+ACT,101,Canberra,8769,Farrer,D,29672,0,D Ticket Votes,Rise Up Australia Party,12
+ACT,101,Canberra,8769,Farrer,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8769,Farrer,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8769,Farrer,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8769,Farrer,E,28468,1,"HAYDON, John",Sustainable Australia,10
+ACT,101,Canberra,8769,Farrer,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,101,Canberra,8769,Farrer,F,29667,0,F Ticket Votes,Liberal,928
+ACT,101,Canberra,8769,Farrer,F,28773,1,"SESELJA, Zed",Liberal,51
+ACT,101,Canberra,8769,Farrer,F,28782,2,"HIATT, Jane",Liberal,27
+ACT,101,Canberra,8769,Farrer,G,29664,0,G Ticket Votes,Animal Justice Party,22
+ACT,101,Canberra,8769,Farrer,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,8769,Farrer,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8769,Farrer,H,29665,0,H Ticket Votes,The Greens,265
+ACT,101,Canberra,8769,Farrer,H,28306,1,"HOBBS, Christina",The Greens,84
+ACT,101,Canberra,8769,Farrer,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8769,Farrer,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),17
+ACT,101,Canberra,8769,Farrer,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8769,Farrer,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8769,Farrer,J,29671,0,J Ticket Votes,Australian Sex Party,54
+ACT,101,Canberra,8769,Farrer,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,101,Canberra,8769,Farrer,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8769,Farrer,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,10
+ACT,101,Canberra,8769,Farrer,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8769,Farrer,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8771,Gilmore,A,29670,0,A Ticket Votes,Liberal Democratic Party,56
+ACT,101,Canberra,8771,Gilmore,A,29611,1,"DONNELLY, Matt",Liberal Democrats,10
+ACT,101,Canberra,8771,Gilmore,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8771,Gilmore,B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,101,Canberra,8771,Gilmore,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8771,Gilmore,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8771,Gilmore,C,29663,0,C Ticket Votes,Australian Labor Party,663
+ACT,101,Canberra,8771,Gilmore,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,75
+ACT,101,Canberra,8771,Gilmore,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,101,Canberra,8771,Gilmore,D,29672,0,D Ticket Votes,Rise Up Australia Party,22
+ACT,101,Canberra,8771,Gilmore,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8771,Gilmore,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8771,Gilmore,E,29666,0,E Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,8771,Gilmore,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8771,Gilmore,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8771,Gilmore,F,29667,0,F Ticket Votes,Liberal,610
+ACT,101,Canberra,8771,Gilmore,F,28773,1,"SESELJA, Zed",Liberal,54
+ACT,101,Canberra,8771,Gilmore,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,101,Canberra,8771,Gilmore,G,29664,0,G Ticket Votes,Animal Justice Party,34
+ACT,101,Canberra,8771,Gilmore,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,8771,Gilmore,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8771,Gilmore,H,29665,0,H Ticket Votes,The Greens,148
+ACT,101,Canberra,8771,Gilmore,H,28306,1,"HOBBS, Christina",The Greens,37
+ACT,101,Canberra,8771,Gilmore,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,8771,Gilmore,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),15
+ACT,101,Canberra,8771,Gilmore,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8771,Gilmore,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8771,Gilmore,J,29671,0,J Ticket Votes,Australian Sex Party,94
+ACT,101,Canberra,8771,Gilmore,J,29390,1,"BAILEY, Steven",Australian Sex Party,11
+ACT,101,Canberra,8771,Gilmore,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8771,Gilmore,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,101,Canberra,8771,Gilmore,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8771,Gilmore,ZZ,0,99,INFORMAL,,63
+ACT,101,Canberra,8772,Gowrie,A,29670,0,A Ticket Votes,Liberal Democratic Party,52
+ACT,101,Canberra,8772,Gowrie,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8772,Gowrie,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8772,Gowrie,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,8772,Gowrie,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8772,Gowrie,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8772,Gowrie,C,29663,0,C Ticket Votes,Australian Labor Party,573
+ACT,101,Canberra,8772,Gowrie,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,72
+ACT,101,Canberra,8772,Gowrie,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8772,Gowrie,D,29672,0,D Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8772,Gowrie,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8772,Gowrie,D,29518,2,"WYATT, Jess",Rise Up Australia Party,3
+ACT,101,Canberra,8772,Gowrie,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8772,Gowrie,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,8772,Gowrie,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8772,Gowrie,F,29667,0,F Ticket Votes,Liberal,571
+ACT,101,Canberra,8772,Gowrie,F,28773,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8772,Gowrie,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,101,Canberra,8772,Gowrie,G,29664,0,G Ticket Votes,Animal Justice Party,35
+ACT,101,Canberra,8772,Gowrie,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8772,Gowrie,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8772,Gowrie,H,29665,0,H Ticket Votes,The Greens,166
+ACT,101,Canberra,8772,Gowrie,H,28306,1,"HOBBS, Christina",The Greens,40
+ACT,101,Canberra,8772,Gowrie,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8772,Gowrie,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),13
+ACT,101,Canberra,8772,Gowrie,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8772,Gowrie,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8772,Gowrie,J,29671,0,J Ticket Votes,Australian Sex Party,86
+ACT,101,Canberra,8772,Gowrie,J,29390,1,"BAILEY, Steven",Australian Sex Party,11
+ACT,101,Canberra,8772,Gowrie,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8772,Gowrie,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8772,Gowrie,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,101,Canberra,8772,Gowrie,ZZ,0,99,INFORMAL,,49
+ACT,101,Canberra,8773,Holder,A,29670,0,A Ticket Votes,Liberal Democratic Party,38
+ACT,101,Canberra,8773,Holder,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,101,Canberra,8773,Holder,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,101,Canberra,8773,Holder,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,101,Canberra,8773,Holder,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,101,Canberra,8773,Holder,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8773,Holder,C,29663,0,C Ticket Votes,Australian Labor Party,672
+ACT,101,Canberra,8773,Holder,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,121
+ACT,101,Canberra,8773,Holder,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,8773,Holder,D,29672,0,D Ticket Votes,Rise Up Australia Party,16
+ACT,101,Canberra,8773,Holder,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,101,Canberra,8773,Holder,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8773,Holder,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8773,Holder,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,8773,Holder,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,101,Canberra,8773,Holder,F,29667,0,F Ticket Votes,Liberal,681
+ACT,101,Canberra,8773,Holder,F,28773,1,"SESELJA, Zed",Liberal,64
+ACT,101,Canberra,8773,Holder,F,28782,2,"HIATT, Jane",Liberal,20
+ACT,101,Canberra,8773,Holder,G,29664,0,G Ticket Votes,Animal Justice Party,28
+ACT,101,Canberra,8773,Holder,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,101,Canberra,8773,Holder,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8773,Holder,H,29665,0,H Ticket Votes,The Greens,237
+ACT,101,Canberra,8773,Holder,H,28306,1,"HOBBS, Christina",The Greens,77
+ACT,101,Canberra,8773,Holder,H,28308,2,"WAREHAM, Sue",The Greens,6
+ACT,101,Canberra,8773,Holder,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),24
+ACT,101,Canberra,8773,Holder,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,8773,Holder,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8773,Holder,J,29671,0,J Ticket Votes,Australian Sex Party,34
+ACT,101,Canberra,8773,Holder,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8773,Holder,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8773,Holder,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,101,Canberra,8773,Holder,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8773,Holder,ZZ,0,99,INFORMAL,,52
+ACT,101,Canberra,8774,Hughes,A,29670,0,A Ticket Votes,Liberal Democratic Party,32
+ACT,101,Canberra,8774,Hughes,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8774,Hughes,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8774,Hughes,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8774,Hughes,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8774,Hughes,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8774,Hughes,C,29663,0,C Ticket Votes,Australian Labor Party,591
+ACT,101,Canberra,8774,Hughes,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,136
+ACT,101,Canberra,8774,Hughes,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,101,Canberra,8774,Hughes,D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8774,Hughes,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8774,Hughes,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8774,Hughes,E,29666,0,E Ticket Votes,Sustainable Australia,21
+ACT,101,Canberra,8774,Hughes,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,8774,Hughes,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,101,Canberra,8774,Hughes,F,29667,0,F Ticket Votes,Liberal,641
+ACT,101,Canberra,8774,Hughes,F,28773,1,"SESELJA, Zed",Liberal,43
+ACT,101,Canberra,8774,Hughes,F,28782,2,"HIATT, Jane",Liberal,15
+ACT,101,Canberra,8774,Hughes,G,29664,0,G Ticket Votes,Animal Justice Party,17
+ACT,101,Canberra,8774,Hughes,G,28254,1,"FIELD, Deborah",Animal Justice Party,8
+ACT,101,Canberra,8774,Hughes,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8774,Hughes,H,29665,0,H Ticket Votes,The Greens,236
+ACT,101,Canberra,8774,Hughes,H,28306,1,"HOBBS, Christina",The Greens,94
+ACT,101,Canberra,8774,Hughes,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,8774,Hughes,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),16
+ACT,101,Canberra,8774,Hughes,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8774,Hughes,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8774,Hughes,J,29671,0,J Ticket Votes,Australian Sex Party,33
+ACT,101,Canberra,8774,Hughes,J,29390,1,"BAILEY, Steven",Australian Sex Party,15
+ACT,101,Canberra,8774,Hughes,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,8774,Hughes,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8774,Hughes,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8774,Hughes,ZZ,0,99,INFORMAL,,30
+ACT,101,Canberra,8776,Kambah North,A,29670,0,A Ticket Votes,Liberal Democratic Party,30
+ACT,101,Canberra,8776,Kambah North,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8776,Kambah North,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8776,Kambah North,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8776,Kambah North,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8776,Kambah North,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8776,Kambah North,C,29663,0,C Ticket Votes,Australian Labor Party,448
+ACT,101,Canberra,8776,Kambah North,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,100
+ACT,101,Canberra,8776,Kambah North,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8776,Kambah North,D,29672,0,D Ticket Votes,Rise Up Australia Party,15
+ACT,101,Canberra,8776,Kambah North,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8776,Kambah North,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8776,Kambah North,E,29666,0,E Ticket Votes,Sustainable Australia,6
+ACT,101,Canberra,8776,Kambah North,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8776,Kambah North,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,101,Canberra,8776,Kambah North,F,29667,0,F Ticket Votes,Liberal,420
+ACT,101,Canberra,8776,Kambah North,F,28773,1,"SESELJA, Zed",Liberal,35
+ACT,101,Canberra,8776,Kambah North,F,28782,2,"HIATT, Jane",Liberal,7
+ACT,101,Canberra,8776,Kambah North,G,29664,0,G Ticket Votes,Animal Justice Party,24
+ACT,101,Canberra,8776,Kambah North,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,101,Canberra,8776,Kambah North,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8776,Kambah North,H,29665,0,H Ticket Votes,The Greens,159
+ACT,101,Canberra,8776,Kambah North,H,28306,1,"HOBBS, Christina",The Greens,58
+ACT,101,Canberra,8776,Kambah North,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,101,Canberra,8776,Kambah North,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),18
+ACT,101,Canberra,8776,Kambah North,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8776,Kambah North,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8776,Kambah North,J,29671,0,J Ticket Votes,Australian Sex Party,78
+ACT,101,Canberra,8776,Kambah North,J,29390,1,"BAILEY, Steven",Australian Sex Party,14
+ACT,101,Canberra,8776,Kambah North,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8776,Kambah North,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,8776,Kambah North,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,101,Canberra,8776,Kambah North,ZZ,0,99,INFORMAL,,36
+ACT,101,Canberra,8777,Kambah South,A,29670,0,A Ticket Votes,Liberal Democratic Party,59
+ACT,101,Canberra,8777,Kambah South,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8777,Kambah South,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8777,Kambah South,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,101,Canberra,8777,Kambah South,B,28933,1,"EDWARDS, David",Secular Party of Australia,8
+ACT,101,Canberra,8777,Kambah South,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8777,Kambah South,C,29663,0,C Ticket Votes,Australian Labor Party,805
+ACT,101,Canberra,8777,Kambah South,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,126
+ACT,101,Canberra,8777,Kambah South,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8777,Kambah South,D,29672,0,D Ticket Votes,Rise Up Australia Party,28
+ACT,101,Canberra,8777,Kambah South,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8777,Kambah South,D,29518,2,"WYATT, Jess",Rise Up Australia Party,2
+ACT,101,Canberra,8777,Kambah South,E,29666,0,E Ticket Votes,Sustainable Australia,20
+ACT,101,Canberra,8777,Kambah South,E,28468,1,"HAYDON, John",Sustainable Australia,9
+ACT,101,Canberra,8777,Kambah South,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8777,Kambah South,F,29667,0,F Ticket Votes,Liberal,605
+ACT,101,Canberra,8777,Kambah South,F,28773,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8777,Kambah South,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,101,Canberra,8777,Kambah South,G,29664,0,G Ticket Votes,Animal Justice Party,61
+ACT,101,Canberra,8777,Kambah South,G,28254,1,"FIELD, Deborah",Animal Justice Party,11
+ACT,101,Canberra,8777,Kambah South,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,8777,Kambah South,H,29665,0,H Ticket Votes,The Greens,256
+ACT,101,Canberra,8777,Kambah South,H,28306,1,"HOBBS, Christina",The Greens,84
+ACT,101,Canberra,8777,Kambah South,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8777,Kambah South,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),25
+ACT,101,Canberra,8777,Kambah South,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8777,Kambah South,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8777,Kambah South,J,29671,0,J Ticket Votes,Australian Sex Party,128
+ACT,101,Canberra,8777,Kambah South,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,101,Canberra,8777,Kambah South,J,29391,2,"SWAN, Robbie",Australian Sex Party,7
+ACT,101,Canberra,8777,Kambah South,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,11
+ACT,101,Canberra,8777,Kambah South,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8777,Kambah South,ZZ,0,99,INFORMAL,,55
+ACT,101,Canberra,8778,Kambah West,A,29670,0,A Ticket Votes,Liberal Democratic Party,56
+ACT,101,Canberra,8778,Kambah West,A,29611,1,"DONNELLY, Matt",Liberal Democrats,13
+ACT,101,Canberra,8778,Kambah West,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8778,Kambah West,B,29669,0,B Ticket Votes,Secular Party of Australia,14
+ACT,101,Canberra,8778,Kambah West,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,8778,Kambah West,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8778,Kambah West,C,29663,0,C Ticket Votes,Australian Labor Party,848
+ACT,101,Canberra,8778,Kambah West,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,163
+ACT,101,Canberra,8778,Kambah West,C,28149,2,"SMITH, David",Australian Labor Party,13
+ACT,101,Canberra,8778,Kambah West,D,29672,0,D Ticket Votes,Rise Up Australia Party,28
+ACT,101,Canberra,8778,Kambah West,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,101,Canberra,8778,Kambah West,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8778,Kambah West,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,101,Canberra,8778,Kambah West,E,28468,1,"HAYDON, John",Sustainable Australia,10
+ACT,101,Canberra,8778,Kambah West,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8778,Kambah West,F,29667,0,F Ticket Votes,Liberal,834
+ACT,101,Canberra,8778,Kambah West,F,28773,1,"SESELJA, Zed",Liberal,72
+ACT,101,Canberra,8778,Kambah West,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,101,Canberra,8778,Kambah West,G,29664,0,G Ticket Votes,Animal Justice Party,46
+ACT,101,Canberra,8778,Kambah West,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,101,Canberra,8778,Kambah West,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,8778,Kambah West,H,29665,0,H Ticket Votes,The Greens,301
+ACT,101,Canberra,8778,Kambah West,H,28306,1,"HOBBS, Christina",The Greens,75
+ACT,101,Canberra,8778,Kambah West,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8778,Kambah West,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),41
+ACT,101,Canberra,8778,Kambah West,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8778,Kambah West,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8778,Kambah West,J,29671,0,J Ticket Votes,Australian Sex Party,107
+ACT,101,Canberra,8778,Kambah West,J,29390,1,"BAILEY, Steven",Australian Sex Party,28
+ACT,101,Canberra,8778,Kambah West,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,8778,Kambah West,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,15
+ACT,101,Canberra,8778,Kambah West,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8778,Kambah West,ZZ,0,99,INFORMAL,,64
+ACT,101,Canberra,8779,Lyons,A,29670,0,A Ticket Votes,Liberal Democratic Party,34
+ACT,101,Canberra,8779,Lyons,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8779,Lyons,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8779,Lyons,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8779,Lyons,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8779,Lyons,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8779,Lyons,C,29663,0,C Ticket Votes,Australian Labor Party,400
+ACT,101,Canberra,8779,Lyons,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,65
+ACT,101,Canberra,8779,Lyons,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8779,Lyons,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,8779,Lyons,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8779,Lyons,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8779,Lyons,E,29666,0,E Ticket Votes,Sustainable Australia,9
+ACT,101,Canberra,8779,Lyons,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,8779,Lyons,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8779,Lyons,F,29667,0,F Ticket Votes,Liberal,358
+ACT,101,Canberra,8779,Lyons,F,28773,1,"SESELJA, Zed",Liberal,23
+ACT,101,Canberra,8779,Lyons,F,28782,2,"HIATT, Jane",Liberal,10
+ACT,101,Canberra,8779,Lyons,G,29664,0,G Ticket Votes,Animal Justice Party,26
+ACT,101,Canberra,8779,Lyons,G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,101,Canberra,8779,Lyons,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8779,Lyons,H,29665,0,H Ticket Votes,The Greens,193
+ACT,101,Canberra,8779,Lyons,H,28306,1,"HOBBS, Christina",The Greens,52
+ACT,101,Canberra,8779,Lyons,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8779,Lyons,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,8779,Lyons,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8779,Lyons,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8779,Lyons,J,29671,0,J Ticket Votes,Australian Sex Party,36
+ACT,101,Canberra,8779,Lyons,J,29390,1,"BAILEY, Steven",Australian Sex Party,5
+ACT,101,Canberra,8779,Lyons,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,8779,Lyons,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,101,Canberra,8779,Lyons,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,8779,Lyons,ZZ,0,99,INFORMAL,,16
+ACT,101,Canberra,8780,Mawson,A,29670,0,A Ticket Votes,Liberal Democratic Party,54
+ACT,101,Canberra,8780,Mawson,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,101,Canberra,8780,Mawson,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8780,Mawson,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8780,Mawson,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,8780,Mawson,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8780,Mawson,C,29663,0,C Ticket Votes,Australian Labor Party,718
+ACT,101,Canberra,8780,Mawson,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,120
+ACT,101,Canberra,8780,Mawson,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,101,Canberra,8780,Mawson,D,29672,0,D Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8780,Mawson,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,8780,Mawson,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8780,Mawson,E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,101,Canberra,8780,Mawson,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8780,Mawson,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8780,Mawson,F,29667,0,F Ticket Votes,Liberal,671
+ACT,101,Canberra,8780,Mawson,F,28773,1,"SESELJA, Zed",Liberal,42
+ACT,101,Canberra,8780,Mawson,F,28782,2,"HIATT, Jane",Liberal,18
+ACT,101,Canberra,8780,Mawson,G,29664,0,G Ticket Votes,Animal Justice Party,40
+ACT,101,Canberra,8780,Mawson,G,28254,1,"FIELD, Deborah",Animal Justice Party,8
+ACT,101,Canberra,8780,Mawson,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8780,Mawson,H,29665,0,H Ticket Votes,The Greens,283
+ACT,101,Canberra,8780,Mawson,H,28306,1,"HOBBS, Christina",The Greens,87
+ACT,101,Canberra,8780,Mawson,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,101,Canberra,8780,Mawson,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),16
+ACT,101,Canberra,8780,Mawson,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8780,Mawson,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8780,Mawson,J,29671,0,J Ticket Votes,Australian Sex Party,44
+ACT,101,Canberra,8780,Mawson,J,29390,1,"BAILEY, Steven",Australian Sex Party,17
+ACT,101,Canberra,8780,Mawson,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8780,Mawson,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,101,Canberra,8780,Mawson,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8780,Mawson,ZZ,0,99,INFORMAL,,49
+ACT,101,Canberra,8781,Monash,A,29670,0,A Ticket Votes,Liberal Democratic Party,55
+ACT,101,Canberra,8781,Monash,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8781,Monash,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8781,Monash,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,101,Canberra,8781,Monash,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8781,Monash,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,3
+ACT,101,Canberra,8781,Monash,C,29663,0,C Ticket Votes,Australian Labor Party,827
+ACT,101,Canberra,8781,Monash,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,111
+ACT,101,Canberra,8781,Monash,C,28149,2,"SMITH, David",Australian Labor Party,12
+ACT,101,Canberra,8781,Monash,D,29672,0,D Ticket Votes,Rise Up Australia Party,15
+ACT,101,Canberra,8781,Monash,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,7
+ACT,101,Canberra,8781,Monash,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8781,Monash,E,29666,0,E Ticket Votes,Sustainable Australia,15
+ACT,101,Canberra,8781,Monash,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8781,Monash,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8781,Monash,F,29667,0,F Ticket Votes,Liberal,783
+ACT,101,Canberra,8781,Monash,F,28773,1,"SESELJA, Zed",Liberal,54
+ACT,101,Canberra,8781,Monash,F,28782,2,"HIATT, Jane",Liberal,21
+ACT,101,Canberra,8781,Monash,G,29664,0,G Ticket Votes,Animal Justice Party,59
+ACT,101,Canberra,8781,Monash,G,28254,1,"FIELD, Deborah",Animal Justice Party,11
+ACT,101,Canberra,8781,Monash,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8781,Monash,H,29665,0,H Ticket Votes,The Greens,179
+ACT,101,Canberra,8781,Monash,H,28306,1,"HOBBS, Christina",The Greens,51
+ACT,101,Canberra,8781,Monash,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8781,Monash,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),12
+ACT,101,Canberra,8781,Monash,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8781,Monash,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8781,Monash,J,29671,0,J Ticket Votes,Australian Sex Party,79
+ACT,101,Canberra,8781,Monash,J,29390,1,"BAILEY, Steven",Australian Sex Party,18
+ACT,101,Canberra,8781,Monash,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8781,Monash,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,101,Canberra,8781,Monash,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8781,Monash,ZZ,0,99,INFORMAL,,77
+ACT,101,Canberra,8782,Narrabundah,A,29670,0,A Ticket Votes,Liberal Democratic Party,32
+ACT,101,Canberra,8782,Narrabundah,A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,101,Canberra,8782,Narrabundah,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8782,Narrabundah,B,29669,0,B Ticket Votes,Secular Party of Australia,4
+ACT,101,Canberra,8782,Narrabundah,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8782,Narrabundah,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8782,Narrabundah,C,29663,0,C Ticket Votes,Australian Labor Party,611
+ACT,101,Canberra,8782,Narrabundah,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,97
+ACT,101,Canberra,8782,Narrabundah,C,28149,2,"SMITH, David",Australian Labor Party,5
+ACT,101,Canberra,8782,Narrabundah,D,29672,0,D Ticket Votes,Rise Up Australia Party,10
+ACT,101,Canberra,8782,Narrabundah,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8782,Narrabundah,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8782,Narrabundah,E,29666,0,E Ticket Votes,Sustainable Australia,8
+ACT,101,Canberra,8782,Narrabundah,E,28468,1,"HAYDON, John",Sustainable Australia,11
+ACT,101,Canberra,8782,Narrabundah,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8782,Narrabundah,F,29667,0,F Ticket Votes,Liberal,505
+ACT,101,Canberra,8782,Narrabundah,F,28773,1,"SESELJA, Zed",Liberal,22
+ACT,101,Canberra,8782,Narrabundah,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,101,Canberra,8782,Narrabundah,G,29664,0,G Ticket Votes,Animal Justice Party,21
+ACT,101,Canberra,8782,Narrabundah,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8782,Narrabundah,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8782,Narrabundah,H,29665,0,H Ticket Votes,The Greens,217
+ACT,101,Canberra,8782,Narrabundah,H,28306,1,"HOBBS, Christina",The Greens,80
+ACT,101,Canberra,8782,Narrabundah,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,8782,Narrabundah,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,8782,Narrabundah,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8782,Narrabundah,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8782,Narrabundah,J,29671,0,J Ticket Votes,Australian Sex Party,64
+ACT,101,Canberra,8782,Narrabundah,J,29390,1,"BAILEY, Steven",Australian Sex Party,13
+ACT,101,Canberra,8782,Narrabundah,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,8782,Narrabundah,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,9
+ACT,101,Canberra,8782,Narrabundah,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8782,Narrabundah,ZZ,0,99,INFORMAL,,48
+ACT,101,Canberra,8783,Oaks Estate,A,29670,0,A Ticket Votes,Liberal Democratic Party,11
+ACT,101,Canberra,8783,Oaks Estate,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,101,Canberra,8783,Oaks Estate,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8783,Oaks Estate,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,8783,Oaks Estate,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8783,Oaks Estate,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8783,Oaks Estate,C,29663,0,C Ticket Votes,Australian Labor Party,45
+ACT,101,Canberra,8783,Oaks Estate,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,9
+ACT,101,Canberra,8783,Oaks Estate,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,8783,Oaks Estate,D,29672,0,D Ticket Votes,Rise Up Australia Party,9
+ACT,101,Canberra,8783,Oaks Estate,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,E,29666,0,E Ticket Votes,Sustainable Australia,2
+ACT,101,Canberra,8783,Oaks Estate,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,8783,Oaks Estate,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8783,Oaks Estate,F,29667,0,F Ticket Votes,Liberal,45
+ACT,101,Canberra,8783,Oaks Estate,F,28773,1,"SESELJA, Zed",Liberal,2
+ACT,101,Canberra,8783,Oaks Estate,F,28782,2,"HIATT, Jane",Liberal,1
+ACT,101,Canberra,8783,Oaks Estate,G,29664,0,G Ticket Votes,Animal Justice Party,2
+ACT,101,Canberra,8783,Oaks Estate,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,8783,Oaks Estate,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8783,Oaks Estate,H,29665,0,H Ticket Votes,The Greens,23
+ACT,101,Canberra,8783,Oaks Estate,H,28306,1,"HOBBS, Christina",The Greens,2
+ACT,101,Canberra,8783,Oaks Estate,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,8783,Oaks Estate,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8783,Oaks Estate,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8783,Oaks Estate,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8783,Oaks Estate,J,29671,0,J Ticket Votes,Australian Sex Party,16
+ACT,101,Canberra,8783,Oaks Estate,J,29390,1,"BAILEY, Steven",Australian Sex Party,3
+ACT,101,Canberra,8783,Oaks Estate,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8783,Oaks Estate,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,8783,Oaks Estate,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,8783,Oaks Estate,ZZ,0,99,INFORMAL,,7
+ACT,101,Canberra,8784,Pearce,A,29670,0,A Ticket Votes,Liberal Democratic Party,75
+ACT,101,Canberra,8784,Pearce,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,101,Canberra,8784,Pearce,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8784,Pearce,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8784,Pearce,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8784,Pearce,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8784,Pearce,C,29663,0,C Ticket Votes,Australian Labor Party,790
+ACT,101,Canberra,8784,Pearce,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,147
+ACT,101,Canberra,8784,Pearce,C,28149,2,"SMITH, David",Australian Labor Party,16
+ACT,101,Canberra,8784,Pearce,D,29672,0,D Ticket Votes,Rise Up Australia Party,19
+ACT,101,Canberra,8784,Pearce,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8784,Pearce,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8784,Pearce,E,29666,0,E Ticket Votes,Sustainable Australia,23
+ACT,101,Canberra,8784,Pearce,E,28468,1,"HAYDON, John",Sustainable Australia,11
+ACT,101,Canberra,8784,Pearce,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8784,Pearce,F,29667,0,F Ticket Votes,Liberal,806
+ACT,101,Canberra,8784,Pearce,F,28773,1,"SESELJA, Zed",Liberal,62
+ACT,101,Canberra,8784,Pearce,F,28782,2,"HIATT, Jane",Liberal,24
+ACT,101,Canberra,8784,Pearce,G,29664,0,G Ticket Votes,Animal Justice Party,41
+ACT,101,Canberra,8784,Pearce,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8784,Pearce,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8784,Pearce,H,29665,0,H Ticket Votes,The Greens,304
+ACT,101,Canberra,8784,Pearce,H,28306,1,"HOBBS, Christina",The Greens,81
+ACT,101,Canberra,8784,Pearce,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,101,Canberra,8784,Pearce,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),18
+ACT,101,Canberra,8784,Pearce,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8784,Pearce,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8784,Pearce,J,29671,0,J Ticket Votes,Australian Sex Party,63
+ACT,101,Canberra,8784,Pearce,J,29390,1,"BAILEY, Steven",Australian Sex Party,12
+ACT,101,Canberra,8784,Pearce,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8784,Pearce,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,101,Canberra,8784,Pearce,UG,28150,2,"HANSON, Anthony",Mature Australia,6
+ACT,101,Canberra,8784,Pearce,ZZ,0,99,INFORMAL,,67
+ACT,101,Canberra,8785,Red Hill,A,29670,0,A Ticket Votes,Liberal Democratic Party,48
+ACT,101,Canberra,8785,Red Hill,A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,101,Canberra,8785,Red Hill,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8785,Red Hill,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8785,Red Hill,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8785,Red Hill,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8785,Red Hill,C,29663,0,C Ticket Votes,Australian Labor Party,581
+ACT,101,Canberra,8785,Red Hill,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,113
+ACT,101,Canberra,8785,Red Hill,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,8785,Red Hill,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,8785,Red Hill,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,8785,Red Hill,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8785,Red Hill,E,29666,0,E Ticket Votes,Sustainable Australia,29
+ACT,101,Canberra,8785,Red Hill,E,28468,1,"HAYDON, John",Sustainable Australia,14
+ACT,101,Canberra,8785,Red Hill,E,28469,2,"TYE, Martin",Sustainable Australia,5
+ACT,101,Canberra,8785,Red Hill,F,29667,0,F Ticket Votes,Liberal,842
+ACT,101,Canberra,8785,Red Hill,F,28773,1,"SESELJA, Zed",Liberal,40
+ACT,101,Canberra,8785,Red Hill,F,28782,2,"HIATT, Jane",Liberal,23
+ACT,101,Canberra,8785,Red Hill,G,29664,0,G Ticket Votes,Animal Justice Party,21
+ACT,101,Canberra,8785,Red Hill,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,101,Canberra,8785,Red Hill,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8785,Red Hill,H,29665,0,H Ticket Votes,The Greens,327
+ACT,101,Canberra,8785,Red Hill,H,28306,1,"HOBBS, Christina",The Greens,94
+ACT,101,Canberra,8785,Red Hill,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,101,Canberra,8785,Red Hill,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),11
+ACT,101,Canberra,8785,Red Hill,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8785,Red Hill,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8785,Red Hill,J,29671,0,J Ticket Votes,Australian Sex Party,37
+ACT,101,Canberra,8785,Red Hill,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,101,Canberra,8785,Red Hill,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8785,Red Hill,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,101,Canberra,8785,Red Hill,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8785,Red Hill,ZZ,0,99,INFORMAL,,30
+ACT,101,Canberra,8786,Richardson,A,29670,0,A Ticket Votes,Liberal Democratic Party,46
+ACT,101,Canberra,8786,Richardson,A,29611,1,"DONNELLY, Matt",Liberal Democrats,9
+ACT,101,Canberra,8786,Richardson,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8786,Richardson,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,101,Canberra,8786,Richardson,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8786,Richardson,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8786,Richardson,C,29663,0,C Ticket Votes,Australian Labor Party,621
+ACT,101,Canberra,8786,Richardson,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,48
+ACT,101,Canberra,8786,Richardson,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,101,Canberra,8786,Richardson,D,29672,0,D Ticket Votes,Rise Up Australia Party,21
+ACT,101,Canberra,8786,Richardson,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,8786,Richardson,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8786,Richardson,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8786,Richardson,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,8786,Richardson,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8786,Richardson,F,29667,0,F Ticket Votes,Liberal,379
+ACT,101,Canberra,8786,Richardson,F,28773,1,"SESELJA, Zed",Liberal,24
+ACT,101,Canberra,8786,Richardson,F,28782,2,"HIATT, Jane",Liberal,4
+ACT,101,Canberra,8786,Richardson,G,29664,0,G Ticket Votes,Animal Justice Party,26
+ACT,101,Canberra,8786,Richardson,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8786,Richardson,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8786,Richardson,H,29665,0,H Ticket Votes,The Greens,83
+ACT,101,Canberra,8786,Richardson,H,28306,1,"HOBBS, Christina",The Greens,31
+ACT,101,Canberra,8786,Richardson,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,101,Canberra,8786,Richardson,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),32
+ACT,101,Canberra,8786,Richardson,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8786,Richardson,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8786,Richardson,J,29671,0,J Ticket Votes,Australian Sex Party,94
+ACT,101,Canberra,8786,Richardson,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8786,Richardson,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8786,Richardson,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,8786,Richardson,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8786,Richardson,ZZ,0,99,INFORMAL,,63
+ACT,101,Canberra,8788,Tharwa,A,29670,0,A Ticket Votes,Liberal Democratic Party,3
+ACT,101,Canberra,8788,Tharwa,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,101,Canberra,8788,Tharwa,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8788,Tharwa,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,8788,Tharwa,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,8788,Tharwa,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8788,Tharwa,C,29663,0,C Ticket Votes,Australian Labor Party,28
+ACT,101,Canberra,8788,Tharwa,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,6
+ACT,101,Canberra,8788,Tharwa,C,28149,2,"SMITH, David",Australian Labor Party,3
+ACT,101,Canberra,8788,Tharwa,D,29672,0,D Ticket Votes,Rise Up Australia Party,1
+ACT,101,Canberra,8788,Tharwa,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,8788,Tharwa,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8788,Tharwa,E,29666,0,E Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,8788,Tharwa,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,101,Canberra,8788,Tharwa,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8788,Tharwa,F,29667,0,F Ticket Votes,Liberal,50
+ACT,101,Canberra,8788,Tharwa,F,28773,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,8788,Tharwa,F,28782,2,"HIATT, Jane",Liberal,2
+ACT,101,Canberra,8788,Tharwa,G,29664,0,G Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,8788,Tharwa,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,8788,Tharwa,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8788,Tharwa,H,29665,0,H Ticket Votes,The Greens,10
+ACT,101,Canberra,8788,Tharwa,H,28306,1,"HOBBS, Christina",The Greens,8
+ACT,101,Canberra,8788,Tharwa,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,8788,Tharwa,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8788,Tharwa,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8788,Tharwa,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8788,Tharwa,J,29671,0,J Ticket Votes,Australian Sex Party,11
+ACT,101,Canberra,8788,Tharwa,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,8788,Tharwa,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8788,Tharwa,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,8788,Tharwa,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8788,Tharwa,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,8790,Wanniassa,A,29670,0,A Ticket Votes,Liberal Democratic Party,54
+ACT,101,Canberra,8790,Wanniassa,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8790,Wanniassa,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8790,Wanniassa,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,101,Canberra,8790,Wanniassa,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8790,Wanniassa,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8790,Wanniassa,C,29663,0,C Ticket Votes,Australian Labor Party,759
+ACT,101,Canberra,8790,Wanniassa,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,85
+ACT,101,Canberra,8790,Wanniassa,C,28149,2,"SMITH, David",Australian Labor Party,15
+ACT,101,Canberra,8790,Wanniassa,D,29672,0,D Ticket Votes,Rise Up Australia Party,38
+ACT,101,Canberra,8790,Wanniassa,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8790,Wanniassa,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8790,Wanniassa,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8790,Wanniassa,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8790,Wanniassa,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8790,Wanniassa,F,29667,0,F Ticket Votes,Liberal,608
+ACT,101,Canberra,8790,Wanniassa,F,28773,1,"SESELJA, Zed",Liberal,47
+ACT,101,Canberra,8790,Wanniassa,F,28782,2,"HIATT, Jane",Liberal,9
+ACT,101,Canberra,8790,Wanniassa,G,29664,0,G Ticket Votes,Animal Justice Party,33
+ACT,101,Canberra,8790,Wanniassa,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8790,Wanniassa,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8790,Wanniassa,H,29665,0,H Ticket Votes,The Greens,194
+ACT,101,Canberra,8790,Wanniassa,H,28306,1,"HOBBS, Christina",The Greens,75
+ACT,101,Canberra,8790,Wanniassa,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,101,Canberra,8790,Wanniassa,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),16
+ACT,101,Canberra,8790,Wanniassa,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,8790,Wanniassa,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8790,Wanniassa,J,29671,0,J Ticket Votes,Australian Sex Party,91
+ACT,101,Canberra,8790,Wanniassa,J,29390,1,"BAILEY, Steven",Australian Sex Party,18
+ACT,101,Canberra,8790,Wanniassa,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,8790,Wanniassa,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8790,Wanniassa,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,8790,Wanniassa,ZZ,0,99,INFORMAL,,63
+ACT,101,Canberra,8791,Wanniassa Hills,A,29670,0,A Ticket Votes,Liberal Democratic Party,37
+ACT,101,Canberra,8791,Wanniassa Hills,A,29611,1,"DONNELLY, Matt",Liberal Democrats,13
+ACT,101,Canberra,8791,Wanniassa Hills,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8791,Wanniassa Hills,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,101,Canberra,8791,Wanniassa Hills,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8791,Wanniassa Hills,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8791,Wanniassa Hills,C,29663,0,C Ticket Votes,Australian Labor Party,636
+ACT,101,Canberra,8791,Wanniassa Hills,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,110
+ACT,101,Canberra,8791,Wanniassa Hills,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,101,Canberra,8791,Wanniassa Hills,D,29672,0,D Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8791,Wanniassa Hills,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,101,Canberra,8791,Wanniassa Hills,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8791,Wanniassa Hills,E,29666,0,E Ticket Votes,Sustainable Australia,12
+ACT,101,Canberra,8791,Wanniassa Hills,E,28468,1,"HAYDON, John",Sustainable Australia,8
+ACT,101,Canberra,8791,Wanniassa Hills,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,101,Canberra,8791,Wanniassa Hills,F,29667,0,F Ticket Votes,Liberal,573
+ACT,101,Canberra,8791,Wanniassa Hills,F,28773,1,"SESELJA, Zed",Liberal,32
+ACT,101,Canberra,8791,Wanniassa Hills,F,28782,2,"HIATT, Jane",Liberal,12
+ACT,101,Canberra,8791,Wanniassa Hills,G,29664,0,G Ticket Votes,Animal Justice Party,18
+ACT,101,Canberra,8791,Wanniassa Hills,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,101,Canberra,8791,Wanniassa Hills,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,8791,Wanniassa Hills,H,29665,0,H Ticket Votes,The Greens,214
+ACT,101,Canberra,8791,Wanniassa Hills,H,28306,1,"HOBBS, Christina",The Greens,82
+ACT,101,Canberra,8791,Wanniassa Hills,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,8791,Wanniassa Hills,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),21
+ACT,101,Canberra,8791,Wanniassa Hills,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,8791,Wanniassa Hills,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8791,Wanniassa Hills,J,29671,0,J Ticket Votes,Australian Sex Party,68
+ACT,101,Canberra,8791,Wanniassa Hills,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,101,Canberra,8791,Wanniassa Hills,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8791,Wanniassa Hills,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,101,Canberra,8791,Wanniassa Hills,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,101,Canberra,8791,Wanniassa Hills,ZZ,0,99,INFORMAL,,51
+ACT,101,Canberra,8792,Waramanga,A,29670,0,A Ticket Votes,Liberal Democratic Party,63
+ACT,101,Canberra,8792,Waramanga,A,29611,1,"DONNELLY, Matt",Liberal Democrats,13
+ACT,101,Canberra,8792,Waramanga,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,3
+ACT,101,Canberra,8792,Waramanga,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,101,Canberra,8792,Waramanga,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8792,Waramanga,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8792,Waramanga,C,29663,0,C Ticket Votes,Australian Labor Party,761
+ACT,101,Canberra,8792,Waramanga,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,152
+ACT,101,Canberra,8792,Waramanga,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,101,Canberra,8792,Waramanga,D,29672,0,D Ticket Votes,Rise Up Australia Party,21
+ACT,101,Canberra,8792,Waramanga,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,101,Canberra,8792,Waramanga,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8792,Waramanga,E,29666,0,E Ticket Votes,Sustainable Australia,9
+ACT,101,Canberra,8792,Waramanga,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8792,Waramanga,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8792,Waramanga,F,29667,0,F Ticket Votes,Liberal,740
+ACT,101,Canberra,8792,Waramanga,F,28773,1,"SESELJA, Zed",Liberal,39
+ACT,101,Canberra,8792,Waramanga,F,28782,2,"HIATT, Jane",Liberal,23
+ACT,101,Canberra,8792,Waramanga,G,29664,0,G Ticket Votes,Animal Justice Party,36
+ACT,101,Canberra,8792,Waramanga,G,28254,1,"FIELD, Deborah",Animal Justice Party,11
+ACT,101,Canberra,8792,Waramanga,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8792,Waramanga,H,29665,0,H Ticket Votes,The Greens,305
+ACT,101,Canberra,8792,Waramanga,H,28306,1,"HOBBS, Christina",The Greens,114
+ACT,101,Canberra,8792,Waramanga,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,101,Canberra,8792,Waramanga,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),29
+ACT,101,Canberra,8792,Waramanga,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,101,Canberra,8792,Waramanga,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8792,Waramanga,J,29671,0,J Ticket Votes,Australian Sex Party,104
+ACT,101,Canberra,8792,Waramanga,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,101,Canberra,8792,Waramanga,J,29391,2,"SWAN, Robbie",Australian Sex Party,8
+ACT,101,Canberra,8792,Waramanga,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,101,Canberra,8792,Waramanga,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,101,Canberra,8792,Waramanga,ZZ,0,99,INFORMAL,,62
+ACT,101,Canberra,8793,Weston,A,29670,0,A Ticket Votes,Liberal Democratic Party,29
+ACT,101,Canberra,8793,Weston,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8793,Weston,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8793,Weston,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,101,Canberra,8793,Weston,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,8793,Weston,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8793,Weston,C,29663,0,C Ticket Votes,Australian Labor Party,472
+ACT,101,Canberra,8793,Weston,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,71
+ACT,101,Canberra,8793,Weston,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8793,Weston,D,29672,0,D Ticket Votes,Rise Up Australia Party,5
+ACT,101,Canberra,8793,Weston,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8793,Weston,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8793,Weston,E,29666,0,E Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,8793,Weston,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8793,Weston,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,101,Canberra,8793,Weston,F,29667,0,F Ticket Votes,Liberal,411
+ACT,101,Canberra,8793,Weston,F,28773,1,"SESELJA, Zed",Liberal,23
+ACT,101,Canberra,8793,Weston,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,101,Canberra,8793,Weston,G,29664,0,G Ticket Votes,Animal Justice Party,8
+ACT,101,Canberra,8793,Weston,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,101,Canberra,8793,Weston,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8793,Weston,H,29665,0,H Ticket Votes,The Greens,198
+ACT,101,Canberra,8793,Weston,H,28306,1,"HOBBS, Christina",The Greens,59
+ACT,101,Canberra,8793,Weston,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,101,Canberra,8793,Weston,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),27
+ACT,101,Canberra,8793,Weston,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8793,Weston,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8793,Weston,J,29671,0,J Ticket Votes,Australian Sex Party,37
+ACT,101,Canberra,8793,Weston,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8793,Weston,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,101,Canberra,8793,Weston,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,8793,Weston,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8793,Weston,ZZ,0,99,INFORMAL,,36
+ACT,101,Canberra,8794,Garran,A,29670,0,A Ticket Votes,Liberal Democratic Party,26
+ACT,101,Canberra,8794,Garran,A,29611,1,"DONNELLY, Matt",Liberal Democrats,2
+ACT,101,Canberra,8794,Garran,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8794,Garran,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,8794,Garran,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8794,Garran,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8794,Garran,C,29663,0,C Ticket Votes,Australian Labor Party,386
+ACT,101,Canberra,8794,Garran,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,61
+ACT,101,Canberra,8794,Garran,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,101,Canberra,8794,Garran,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8794,Garran,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,8794,Garran,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8794,Garran,E,29666,0,E Ticket Votes,Sustainable Australia,5
+ACT,101,Canberra,8794,Garran,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,8794,Garran,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8794,Garran,F,29667,0,F Ticket Votes,Liberal,428
+ACT,101,Canberra,8794,Garran,F,28773,1,"SESELJA, Zed",Liberal,32
+ACT,101,Canberra,8794,Garran,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,101,Canberra,8794,Garran,G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,101,Canberra,8794,Garran,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,101,Canberra,8794,Garran,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8794,Garran,H,29665,0,H Ticket Votes,The Greens,158
+ACT,101,Canberra,8794,Garran,H,28306,1,"HOBBS, Christina",The Greens,53
+ACT,101,Canberra,8794,Garran,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8794,Garran,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,8794,Garran,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8794,Garran,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8794,Garran,J,29671,0,J Ticket Votes,Australian Sex Party,24
+ACT,101,Canberra,8794,Garran,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,101,Canberra,8794,Garran,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,8794,Garran,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,101,Canberra,8794,Garran,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8794,Garran,ZZ,0,99,INFORMAL,,25
+ACT,101,Canberra,8802,Braddon (Canberra),A,29670,0,A Ticket Votes,Liberal Democratic Party,25
+ACT,101,Canberra,8802,Braddon (Canberra),A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,101,Canberra,8802,Braddon (Canberra),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,101,Canberra,8802,Braddon (Canberra),B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,101,Canberra,8802,Braddon (Canberra),B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,8802,Braddon (Canberra),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8802,Braddon (Canberra),C,29663,0,C Ticket Votes,Australian Labor Party,335
+ACT,101,Canberra,8802,Braddon (Canberra),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,66
+ACT,101,Canberra,8802,Braddon (Canberra),C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,101,Canberra,8802,Braddon (Canberra),D,29672,0,D Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,8802,Braddon (Canberra),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8802,Braddon (Canberra),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8802,Braddon (Canberra),E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,8802,Braddon (Canberra),E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8802,Braddon (Canberra),E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8802,Braddon (Canberra),F,29667,0,F Ticket Votes,Liberal,269
+ACT,101,Canberra,8802,Braddon (Canberra),F,28773,1,"SESELJA, Zed",Liberal,17
+ACT,101,Canberra,8802,Braddon (Canberra),F,28782,2,"HIATT, Jane",Liberal,11
+ACT,101,Canberra,8802,Braddon (Canberra),G,29664,0,G Ticket Votes,Animal Justice Party,18
+ACT,101,Canberra,8802,Braddon (Canberra),G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8802,Braddon (Canberra),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8802,Braddon (Canberra),H,29665,0,H Ticket Votes,The Greens,279
+ACT,101,Canberra,8802,Braddon (Canberra),H,28306,1,"HOBBS, Christina",The Greens,105
+ACT,101,Canberra,8802,Braddon (Canberra),H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,8802,Braddon (Canberra),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),12
+ACT,101,Canberra,8802,Braddon (Canberra),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8802,Braddon (Canberra),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8802,Braddon (Canberra),J,29671,0,J Ticket Votes,Australian Sex Party,35
+ACT,101,Canberra,8802,Braddon (Canberra),J,29390,1,"BAILEY, Steven",Australian Sex Party,11
+ACT,101,Canberra,8802,Braddon (Canberra),J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,8802,Braddon (Canberra),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,8802,Braddon (Canberra),UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,8802,Braddon (Canberra),ZZ,0,99,INFORMAL,,21
+ACT,101,Canberra,8806,Campbell,A,29670,0,A Ticket Votes,Liberal Democratic Party,28
+ACT,101,Canberra,8806,Campbell,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8806,Campbell,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8806,Campbell,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8806,Campbell,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,8806,Campbell,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,101,Canberra,8806,Campbell,C,29663,0,C Ticket Votes,Australian Labor Party,437
+ACT,101,Canberra,8806,Campbell,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,118
+ACT,101,Canberra,8806,Campbell,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,101,Canberra,8806,Campbell,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,8806,Campbell,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8806,Campbell,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,8806,Campbell,E,29666,0,E Ticket Votes,Sustainable Australia,12
+ACT,101,Canberra,8806,Campbell,E,28468,1,"HAYDON, John",Sustainable Australia,9
+ACT,101,Canberra,8806,Campbell,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8806,Campbell,F,29667,0,F Ticket Votes,Liberal,703
+ACT,101,Canberra,8806,Campbell,F,28773,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8806,Campbell,F,28782,2,"HIATT, Jane",Liberal,18
+ACT,101,Canberra,8806,Campbell,G,29664,0,G Ticket Votes,Animal Justice Party,13
+ACT,101,Canberra,8806,Campbell,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8806,Campbell,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8806,Campbell,H,29665,0,H Ticket Votes,The Greens,258
+ACT,101,Canberra,8806,Campbell,H,28306,1,"HOBBS, Christina",The Greens,103
+ACT,101,Canberra,8806,Campbell,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,8806,Campbell,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),16
+ACT,101,Canberra,8806,Campbell,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8806,Campbell,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8806,Campbell,J,29671,0,J Ticket Votes,Australian Sex Party,33
+ACT,101,Canberra,8806,Campbell,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8806,Campbell,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8806,Campbell,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,101,Canberra,8806,Campbell,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8806,Campbell,ZZ,0,99,INFORMAL,,16
+ACT,101,Canberra,8808,City (Canberra),A,29670,0,A Ticket Votes,Liberal Democratic Party,22
+ACT,101,Canberra,8808,City (Canberra),A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,8808,City (Canberra),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8808,City (Canberra),B,29669,0,B Ticket Votes,Secular Party of Australia,11
+ACT,101,Canberra,8808,City (Canberra),B,28933,1,"EDWARDS, David",Secular Party of Australia,7
+ACT,101,Canberra,8808,City (Canberra),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8808,City (Canberra),C,29663,0,C Ticket Votes,Australian Labor Party,258
+ACT,101,Canberra,8808,City (Canberra),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,61
+ACT,101,Canberra,8808,City (Canberra),C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,101,Canberra,8808,City (Canberra),D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8808,City (Canberra),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,101,Canberra,8808,City (Canberra),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8808,City (Canberra),E,29666,0,E Ticket Votes,Sustainable Australia,7
+ACT,101,Canberra,8808,City (Canberra),E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,8808,City (Canberra),E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,8808,City (Canberra),F,29667,0,F Ticket Votes,Liberal,266
+ACT,101,Canberra,8808,City (Canberra),F,28773,1,"SESELJA, Zed",Liberal,17
+ACT,101,Canberra,8808,City (Canberra),F,28782,2,"HIATT, Jane",Liberal,6
+ACT,101,Canberra,8808,City (Canberra),G,29664,0,G Ticket Votes,Animal Justice Party,17
+ACT,101,Canberra,8808,City (Canberra),G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8808,City (Canberra),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8808,City (Canberra),H,29665,0,H Ticket Votes,The Greens,206
+ACT,101,Canberra,8808,City (Canberra),H,28306,1,"HOBBS, Christina",The Greens,84
+ACT,101,Canberra,8808,City (Canberra),H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,8808,City (Canberra),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,8808,City (Canberra),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8808,City (Canberra),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8808,City (Canberra),J,29671,0,J Ticket Votes,Australian Sex Party,34
+ACT,101,Canberra,8808,City (Canberra),J,29390,1,"BAILEY, Steven",Australian Sex Party,15
+ACT,101,Canberra,8808,City (Canberra),J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,101,Canberra,8808,City (Canberra),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,8808,City (Canberra),UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,101,Canberra,8808,City (Canberra),ZZ,0,99,INFORMAL,,24
+ACT,101,Canberra,8817,Griffith,A,29670,0,A Ticket Votes,Liberal Democratic Party,29
+ACT,101,Canberra,8817,Griffith,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,101,Canberra,8817,Griffith,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8817,Griffith,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8817,Griffith,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,101,Canberra,8817,Griffith,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8817,Griffith,C,29663,0,C Ticket Votes,Australian Labor Party,361
+ACT,101,Canberra,8817,Griffith,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,76
+ACT,101,Canberra,8817,Griffith,C,28149,2,"SMITH, David",Australian Labor Party,3
+ACT,101,Canberra,8817,Griffith,D,29672,0,D Ticket Votes,Rise Up Australia Party,9
+ACT,101,Canberra,8817,Griffith,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8817,Griffith,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8817,Griffith,E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,8817,Griffith,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8817,Griffith,E,28469,2,"TYE, Martin",Sustainable Australia,4
+ACT,101,Canberra,8817,Griffith,F,29667,0,F Ticket Votes,Liberal,525
+ACT,101,Canberra,8817,Griffith,F,28773,1,"SESELJA, Zed",Liberal,41
+ACT,101,Canberra,8817,Griffith,F,28782,2,"HIATT, Jane",Liberal,8
+ACT,101,Canberra,8817,Griffith,G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,101,Canberra,8817,Griffith,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,8817,Griffith,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8817,Griffith,H,29665,0,H Ticket Votes,The Greens,193
+ACT,101,Canberra,8817,Griffith,H,28306,1,"HOBBS, Christina",The Greens,60
+ACT,101,Canberra,8817,Griffith,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,101,Canberra,8817,Griffith,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,8817,Griffith,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8817,Griffith,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8817,Griffith,J,29671,0,J Ticket Votes,Australian Sex Party,32
+ACT,101,Canberra,8817,Griffith,J,29390,1,"BAILEY, Steven",Australian Sex Party,6
+ACT,101,Canberra,8817,Griffith,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8817,Griffith,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,101,Canberra,8817,Griffith,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8817,Griffith,ZZ,0,99,INFORMAL,,24
+ACT,101,Canberra,8829,Barton,A,29670,0,A Ticket Votes,Liberal Democratic Party,36
+ACT,101,Canberra,8829,Barton,A,29611,1,"DONNELLY, Matt",Liberal Democrats,11
+ACT,101,Canberra,8829,Barton,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,8829,Barton,B,29669,0,B Ticket Votes,Secular Party of Australia,14
+ACT,101,Canberra,8829,Barton,B,28933,1,"EDWARDS, David",Secular Party of Australia,7
+ACT,101,Canberra,8829,Barton,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8829,Barton,C,29663,0,C Ticket Votes,Australian Labor Party,545
+ACT,101,Canberra,8829,Barton,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,124
+ACT,101,Canberra,8829,Barton,C,28149,2,"SMITH, David",Australian Labor Party,1
+ACT,101,Canberra,8829,Barton,D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8829,Barton,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,8829,Barton,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8829,Barton,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8829,Barton,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8829,Barton,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8829,Barton,F,29667,0,F Ticket Votes,Liberal,774
+ACT,101,Canberra,8829,Barton,F,28773,1,"SESELJA, Zed",Liberal,32
+ACT,101,Canberra,8829,Barton,F,28782,2,"HIATT, Jane",Liberal,34
+ACT,101,Canberra,8829,Barton,G,29664,0,G Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,8829,Barton,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,8829,Barton,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8829,Barton,H,29665,0,H Ticket Votes,The Greens,394
+ACT,101,Canberra,8829,Barton,H,28306,1,"HOBBS, Christina",The Greens,122
+ACT,101,Canberra,8829,Barton,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,8829,Barton,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),15
+ACT,101,Canberra,8829,Barton,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8829,Barton,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8829,Barton,J,29671,0,J Ticket Votes,Australian Sex Party,57
+ACT,101,Canberra,8829,Barton,J,29390,1,"BAILEY, Steven",Australian Sex Party,15
+ACT,101,Canberra,8829,Barton,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8829,Barton,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,101,Canberra,8829,Barton,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8829,Barton,ZZ,0,99,INFORMAL,,33
+ACT,101,Canberra,8840,Yarralumla,A,29670,0,A Ticket Votes,Liberal Democratic Party,29
+ACT,101,Canberra,8840,Yarralumla,A,29611,1,"DONNELLY, Matt",Liberal Democrats,10
+ACT,101,Canberra,8840,Yarralumla,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,8840,Yarralumla,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,8840,Yarralumla,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,101,Canberra,8840,Yarralumla,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,8840,Yarralumla,C,29663,0,C Ticket Votes,Australian Labor Party,394
+ACT,101,Canberra,8840,Yarralumla,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,95
+ACT,101,Canberra,8840,Yarralumla,C,28149,2,"SMITH, David",Australian Labor Party,5
+ACT,101,Canberra,8840,Yarralumla,D,29672,0,D Ticket Votes,Rise Up Australia Party,6
+ACT,101,Canberra,8840,Yarralumla,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,8840,Yarralumla,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,8840,Yarralumla,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8840,Yarralumla,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8840,Yarralumla,F,29667,0,F Ticket Votes,Liberal,665
+ACT,101,Canberra,8840,Yarralumla,F,28773,1,"SESELJA, Zed",Liberal,36
+ACT,101,Canberra,8840,Yarralumla,F,28782,2,"HIATT, Jane",Liberal,22
+ACT,101,Canberra,8840,Yarralumla,G,29664,0,G Ticket Votes,Animal Justice Party,16
+ACT,101,Canberra,8840,Yarralumla,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,8840,Yarralumla,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8840,Yarralumla,H,29665,0,H Ticket Votes,The Greens,196
+ACT,101,Canberra,8840,Yarralumla,H,28306,1,"HOBBS, Christina",The Greens,62
+ACT,101,Canberra,8840,Yarralumla,H,28308,2,"WAREHAM, Sue",The Greens,8
+ACT,101,Canberra,8840,Yarralumla,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,8840,Yarralumla,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8840,Yarralumla,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8840,Yarralumla,J,29671,0,J Ticket Votes,Australian Sex Party,25
+ACT,101,Canberra,8840,Yarralumla,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8840,Yarralumla,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,101,Canberra,8840,Yarralumla,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,101,Canberra,8840,Yarralumla,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,8840,Yarralumla,ZZ,0,99,INFORMAL,,24
+ACT,101,Canberra,8884,Isabella Plains,A,29670,0,A Ticket Votes,Liberal Democratic Party,71
+ACT,101,Canberra,8884,Isabella Plains,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,101,Canberra,8884,Isabella Plains,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,101,Canberra,8884,Isabella Plains,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,8884,Isabella Plains,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,8884,Isabella Plains,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,8884,Isabella Plains,C,29663,0,C Ticket Votes,Australian Labor Party,763
+ACT,101,Canberra,8884,Isabella Plains,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,93
+ACT,101,Canberra,8884,Isabella Plains,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,101,Canberra,8884,Isabella Plains,D,29672,0,D Ticket Votes,Rise Up Australia Party,22
+ACT,101,Canberra,8884,Isabella Plains,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,7
+ACT,101,Canberra,8884,Isabella Plains,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,8884,Isabella Plains,E,29666,0,E Ticket Votes,Sustainable Australia,15
+ACT,101,Canberra,8884,Isabella Plains,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8884,Isabella Plains,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,8884,Isabella Plains,F,29667,0,F Ticket Votes,Liberal,560
+ACT,101,Canberra,8884,Isabella Plains,F,28773,1,"SESELJA, Zed",Liberal,50
+ACT,101,Canberra,8884,Isabella Plains,F,28782,2,"HIATT, Jane",Liberal,12
+ACT,101,Canberra,8884,Isabella Plains,G,29664,0,G Ticket Votes,Animal Justice Party,50
+ACT,101,Canberra,8884,Isabella Plains,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,101,Canberra,8884,Isabella Plains,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8884,Isabella Plains,H,29665,0,H Ticket Votes,The Greens,174
+ACT,101,Canberra,8884,Isabella Plains,H,28306,1,"HOBBS, Christina",The Greens,51
+ACT,101,Canberra,8884,Isabella Plains,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,8884,Isabella Plains,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),23
+ACT,101,Canberra,8884,Isabella Plains,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8884,Isabella Plains,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8884,Isabella Plains,J,29671,0,J Ticket Votes,Australian Sex Party,95
+ACT,101,Canberra,8884,Isabella Plains,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,101,Canberra,8884,Isabella Plains,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,8884,Isabella Plains,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,8884,Isabella Plains,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,101,Canberra,8884,Isabella Plains,ZZ,0,99,INFORMAL,,70
+ACT,101,Canberra,11452,Calwell,A,29670,0,A Ticket Votes,Liberal Democratic Party,60
+ACT,101,Canberra,11452,Calwell,A,29611,1,"DONNELLY, Matt",Liberal Democrats,10
+ACT,101,Canberra,11452,Calwell,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,11452,Calwell,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,101,Canberra,11452,Calwell,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,11452,Calwell,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,11452,Calwell,C,29663,0,C Ticket Votes,Australian Labor Party,824
+ACT,101,Canberra,11452,Calwell,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,116
+ACT,101,Canberra,11452,Calwell,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,11452,Calwell,D,29672,0,D Ticket Votes,Rise Up Australia Party,24
+ACT,101,Canberra,11452,Calwell,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,11452,Calwell,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,11452,Calwell,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,11452,Calwell,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,11452,Calwell,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,11452,Calwell,F,29667,0,F Ticket Votes,Liberal,706
+ACT,101,Canberra,11452,Calwell,F,28773,1,"SESELJA, Zed",Liberal,59
+ACT,101,Canberra,11452,Calwell,F,28782,2,"HIATT, Jane",Liberal,38
+ACT,101,Canberra,11452,Calwell,G,29664,0,G Ticket Votes,Animal Justice Party,40
+ACT,101,Canberra,11452,Calwell,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,101,Canberra,11452,Calwell,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,11452,Calwell,H,29665,0,H Ticket Votes,The Greens,171
+ACT,101,Canberra,11452,Calwell,H,28306,1,"HOBBS, Christina",The Greens,55
+ACT,101,Canberra,11452,Calwell,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,11452,Calwell,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),13
+ACT,101,Canberra,11452,Calwell,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,101,Canberra,11452,Calwell,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,11452,Calwell,J,29671,0,J Ticket Votes,Australian Sex Party,92
+ACT,101,Canberra,11452,Calwell,J,29390,1,"BAILEY, Steven",Australian Sex Party,13
+ACT,101,Canberra,11452,Calwell,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,11452,Calwell,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,101,Canberra,11452,Calwell,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,11452,Calwell,ZZ,0,99,INFORMAL,,81
+ACT,101,Canberra,11877,Bonython,A,29670,0,A Ticket Votes,Liberal Democratic Party,68
+ACT,101,Canberra,11877,Bonython,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,101,Canberra,11877,Bonython,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,11877,Bonython,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,101,Canberra,11877,Bonython,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,11877,Bonython,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,11877,Bonython,C,29663,0,C Ticket Votes,Australian Labor Party,724
+ACT,101,Canberra,11877,Bonython,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,93
+ACT,101,Canberra,11877,Bonython,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,101,Canberra,11877,Bonython,D,29672,0,D Ticket Votes,Rise Up Australia Party,18
+ACT,101,Canberra,11877,Bonython,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,11877,Bonython,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,11877,Bonython,E,29666,0,E Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,11877,Bonython,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,11877,Bonython,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,11877,Bonython,F,29667,0,F Ticket Votes,Liberal,539
+ACT,101,Canberra,11877,Bonython,F,28773,1,"SESELJA, Zed",Liberal,37
+ACT,101,Canberra,11877,Bonython,F,28782,2,"HIATT, Jane",Liberal,12
+ACT,101,Canberra,11877,Bonython,G,29664,0,G Ticket Votes,Animal Justice Party,27
+ACT,101,Canberra,11877,Bonython,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,11877,Bonython,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,11877,Bonython,H,29665,0,H Ticket Votes,The Greens,164
+ACT,101,Canberra,11877,Bonython,H,28306,1,"HOBBS, Christina",The Greens,41
+ACT,101,Canberra,11877,Bonython,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,11877,Bonython,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),13
+ACT,101,Canberra,11877,Bonython,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,11877,Bonython,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,11877,Bonython,J,29671,0,J Ticket Votes,Australian Sex Party,74
+ACT,101,Canberra,11877,Bonython,J,29390,1,"BAILEY, Steven",Australian Sex Party,8
+ACT,101,Canberra,11877,Bonython,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,11877,Bonython,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,101,Canberra,11877,Bonython,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,11877,Bonython,ZZ,0,99,INFORMAL,,40
+ACT,101,Canberra,11878,Theodore,A,29670,0,A Ticket Votes,Liberal Democratic Party,42
+ACT,101,Canberra,11878,Theodore,A,29611,1,"DONNELLY, Matt",Liberal Democrats,11
+ACT,101,Canberra,11878,Theodore,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,11878,Theodore,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,101,Canberra,11878,Theodore,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,11878,Theodore,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,101,Canberra,11878,Theodore,C,29663,0,C Ticket Votes,Australian Labor Party,608
+ACT,101,Canberra,11878,Theodore,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,67
+ACT,101,Canberra,11878,Theodore,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,101,Canberra,11878,Theodore,D,29672,0,D Ticket Votes,Rise Up Australia Party,17
+ACT,101,Canberra,11878,Theodore,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,101,Canberra,11878,Theodore,D,29518,2,"WYATT, Jess",Rise Up Australia Party,3
+ACT,101,Canberra,11878,Theodore,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,101,Canberra,11878,Theodore,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,11878,Theodore,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,11878,Theodore,F,29667,0,F Ticket Votes,Liberal,453
+ACT,101,Canberra,11878,Theodore,F,28773,1,"SESELJA, Zed",Liberal,45
+ACT,101,Canberra,11878,Theodore,F,28782,2,"HIATT, Jane",Liberal,7
+ACT,101,Canberra,11878,Theodore,G,29664,0,G Ticket Votes,Animal Justice Party,30
+ACT,101,Canberra,11878,Theodore,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,11878,Theodore,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,11878,Theodore,H,29665,0,H Ticket Votes,The Greens,122
+ACT,101,Canberra,11878,Theodore,H,28306,1,"HOBBS, Christina",The Greens,46
+ACT,101,Canberra,11878,Theodore,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,11878,Theodore,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),13
+ACT,101,Canberra,11878,Theodore,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,11878,Theodore,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,11878,Theodore,J,29671,0,J Ticket Votes,Australian Sex Party,84
+ACT,101,Canberra,11878,Theodore,J,29390,1,"BAILEY, Steven",Australian Sex Party,13
+ACT,101,Canberra,11878,Theodore,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,11878,Theodore,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,101,Canberra,11878,Theodore,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,11878,Theodore,ZZ,0,99,INFORMAL,,43
+ACT,101,Canberra,12072,Gordon,A,29670,0,A Ticket Votes,Liberal Democratic Party,99
+ACT,101,Canberra,12072,Gordon,A,29611,1,"DONNELLY, Matt",Liberal Democrats,18
+ACT,101,Canberra,12072,Gordon,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,12072,Gordon,B,29669,0,B Ticket Votes,Secular Party of Australia,9
+ACT,101,Canberra,12072,Gordon,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,12072,Gordon,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,12072,Gordon,C,29663,0,C Ticket Votes,Australian Labor Party,1276
+ACT,101,Canberra,12072,Gordon,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,132
+ACT,101,Canberra,12072,Gordon,C,28149,2,"SMITH, David",Australian Labor Party,16
+ACT,101,Canberra,12072,Gordon,D,29672,0,D Ticket Votes,Rise Up Australia Party,47
+ACT,101,Canberra,12072,Gordon,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,11
+ACT,101,Canberra,12072,Gordon,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,12072,Gordon,E,29666,0,E Ticket Votes,Sustainable Australia,24
+ACT,101,Canberra,12072,Gordon,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,12072,Gordon,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,101,Canberra,12072,Gordon,F,29667,0,F Ticket Votes,Liberal,1042
+ACT,101,Canberra,12072,Gordon,F,28773,1,"SESELJA, Zed",Liberal,94
+ACT,101,Canberra,12072,Gordon,F,28782,2,"HIATT, Jane",Liberal,24
+ACT,101,Canberra,12072,Gordon,G,29664,0,G Ticket Votes,Animal Justice Party,53
+ACT,101,Canberra,12072,Gordon,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,12072,Gordon,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,12072,Gordon,H,29665,0,H Ticket Votes,The Greens,280
+ACT,101,Canberra,12072,Gordon,H,28306,1,"HOBBS, Christina",The Greens,67
+ACT,101,Canberra,12072,Gordon,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,12072,Gordon,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),45
+ACT,101,Canberra,12072,Gordon,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,12072,Gordon,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,12072,Gordon,J,29671,0,J Ticket Votes,Australian Sex Party,194
+ACT,101,Canberra,12072,Gordon,J,29390,1,"BAILEY, Steven",Australian Sex Party,25
+ACT,101,Canberra,12072,Gordon,J,29391,2,"SWAN, Robbie",Australian Sex Party,8
+ACT,101,Canberra,12072,Gordon,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,12072,Gordon,UG,28150,2,"HANSON, Anthony",Mature Australia,6
+ACT,101,Canberra,12072,Gordon,ZZ,0,99,INFORMAL,,117
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,29670,0,A Ticket Votes,Liberal Democratic Party,5
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,29663,0,C Ticket Votes,Australian Labor Party,43
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,6
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,29667,0,F Ticket Votes,Liberal,81
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,28773,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,28782,2,"HIATT, Jane",Liberal,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,29664,0,G Ticket Votes,Animal Justice Party,4
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,29665,0,H Ticket Votes,The Greens,30
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,28306,1,"HOBBS, Christina",The Greens,4
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,29671,0,J Ticket Votes,Australian Sex Party,5
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,31298,Conder,A,29670,0,A Ticket Votes,Liberal Democratic Party,95
+ACT,101,Canberra,31298,Conder,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,101,Canberra,31298,Conder,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,31298,Conder,B,29669,0,B Ticket Votes,Secular Party of Australia,4
+ACT,101,Canberra,31298,Conder,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,31298,Conder,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,31298,Conder,C,29663,0,C Ticket Votes,Australian Labor Party,1160
+ACT,101,Canberra,31298,Conder,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,131
+ACT,101,Canberra,31298,Conder,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,101,Canberra,31298,Conder,D,29672,0,D Ticket Votes,Rise Up Australia Party,48
+ACT,101,Canberra,31298,Conder,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,101,Canberra,31298,Conder,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,31298,Conder,E,29666,0,E Ticket Votes,Sustainable Australia,26
+ACT,101,Canberra,31298,Conder,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,31298,Conder,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,31298,Conder,F,29667,0,F Ticket Votes,Liberal,907
+ACT,101,Canberra,31298,Conder,F,28773,1,"SESELJA, Zed",Liberal,65
+ACT,101,Canberra,31298,Conder,F,28782,2,"HIATT, Jane",Liberal,15
+ACT,101,Canberra,31298,Conder,G,29664,0,G Ticket Votes,Animal Justice Party,81
+ACT,101,Canberra,31298,Conder,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,101,Canberra,31298,Conder,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,31298,Conder,H,29665,0,H Ticket Votes,The Greens,206
+ACT,101,Canberra,31298,Conder,H,28306,1,"HOBBS, Christina",The Greens,56
+ACT,101,Canberra,31298,Conder,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,101,Canberra,31298,Conder,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),22
+ACT,101,Canberra,31298,Conder,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,31298,Conder,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,31298,Conder,J,29671,0,J Ticket Votes,Australian Sex Party,172
+ACT,101,Canberra,31298,Conder,J,29390,1,"BAILEY, Steven",Australian Sex Party,15
+ACT,101,Canberra,31298,Conder,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,101,Canberra,31298,Conder,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,10
+ACT,101,Canberra,31298,Conder,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,101,Canberra,31298,Conder,ZZ,0,99,INFORMAL,,104
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,468
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,65
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,8
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,45
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,17
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,4804
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,597
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,28149,2,"SMITH, David",Australian Labor Party,47
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,203
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,43
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,6
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,103
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,18
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,6
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,29667,0,F Ticket Votes,Liberal,4772
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,28773,1,"SESELJA, Zed",Liberal,351
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,28782,2,"HIATT, Jane",Liberal,77
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,208
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,27
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,29665,0,H Ticket Votes,The Greens,948
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,28306,1,"HOBBS, Christina",The Greens,259
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,28308,2,"WAREHAM, Sue",The Greens,23
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),119
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),27
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,463
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,60
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,11
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,18
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,15
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,ZZ,0,99,INFORMAL,,407
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,304
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,38
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,6
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,27
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,15
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,3220
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,523
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,28149,2,"SMITH, David",Australian Labor Party,45
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,73
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,16
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,79
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,32
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,7
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,29667,0,F Ticket Votes,Liberal,3932
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,28773,1,"SESELJA, Zed",Liberal,247
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,28782,2,"HIATT, Jane",Liberal,82
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,161
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,24
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,4
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,29665,0,H Ticket Votes,The Greens,1102
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,28306,1,"HOBBS, Christina",The Greens,288
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,28308,2,"WAREHAM, Sue",The Greens,13
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),98
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),20
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,240
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,38
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,20
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,19
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,16
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,ZZ,0,99,INFORMAL,,234
+ACT,101,Canberra,32712,Special Hospital Team 1,A,29670,0,A Ticket Votes,Liberal Democratic Party,19
+ACT,101,Canberra,32712,Special Hospital Team 1,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,101,Canberra,32712,Special Hospital Team 1,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,101,Canberra,32712,Special Hospital Team 1,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,C,29663,0,C Ticket Votes,Australian Labor Party,79
+ACT,101,Canberra,32712,Special Hospital Team 1,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,6
+ACT,101,Canberra,32712,Special Hospital Team 1,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,32712,Special Hospital Team 1,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,F,29667,0,F Ticket Votes,Liberal,88
+ACT,101,Canberra,32712,Special Hospital Team 1,F,28773,1,"SESELJA, Zed",Liberal,2
+ACT,101,Canberra,32712,Special Hospital Team 1,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,32712,Special Hospital Team 1,G,29664,0,G Ticket Votes,Animal Justice Party,3
+ACT,101,Canberra,32712,Special Hospital Team 1,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,H,29665,0,H Ticket Votes,The Greens,8
+ACT,101,Canberra,32712,Special Hospital Team 1,H,28306,1,"HOBBS, Christina",The Greens,1
+ACT,101,Canberra,32712,Special Hospital Team 1,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,32712,Special Hospital Team 1,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,32712,Special Hospital Team 1,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,32712,Special Hospital Team 1,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,32712,Special Hospital Team 1,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,J,29390,1,"BAILEY, Steven",Australian Sex Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,ZZ,0,99,INFORMAL,,9
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,210
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,25
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,4
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,29
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,14
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,2351
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,478
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,28149,2,"SMITH, David",Australian Labor Party,26
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,33
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,9
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,3
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,61
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,21
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,5
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,29667,0,F Ticket Votes,Liberal,2924
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,28773,1,"SESELJA, Zed",Liberal,213
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,28782,2,"HIATT, Jane",Liberal,66
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,97
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,15
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,4
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,29665,0,H Ticket Votes,The Greens,1214
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,28306,1,"HOBBS, Christina",The Greens,409
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,28308,2,"WAREHAM, Sue",The Greens,28
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),48
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,234
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,51
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,17
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,26
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,7
+ACT,101,Canberra,58708,City CANBERRA PPVC,ZZ,0,99,INFORMAL,,137
+ACT,101,Canberra,58810,Special Hospital Team 2,A,29670,0,A Ticket Votes,Liberal Democratic Party,18
+ACT,101,Canberra,58810,Special Hospital Team 2,A,29611,1,"DONNELLY, Matt",Liberal Democrats,2
+ACT,101,Canberra,58810,Special Hospital Team 2,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,58810,Special Hospital Team 2,B,29669,0,B Ticket Votes,Secular Party of Australia,4
+ACT,101,Canberra,58810,Special Hospital Team 2,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,58810,Special Hospital Team 2,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,C,29663,0,C Ticket Votes,Australian Labor Party,70
+ACT,101,Canberra,58810,Special Hospital Team 2,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,29666,0,E Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,58810,Special Hospital Team 2,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,F,29667,0,F Ticket Votes,Liberal,74
+ACT,101,Canberra,58810,Special Hospital Team 2,F,28773,1,"SESELJA, Zed",Liberal,5
+ACT,101,Canberra,58810,Special Hospital Team 2,F,28782,2,"HIATT, Jane",Liberal,2
+ACT,101,Canberra,58810,Special Hospital Team 2,G,29664,0,G Ticket Votes,Animal Justice Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,H,29665,0,H Ticket Votes,The Greens,8
+ACT,101,Canberra,58810,Special Hospital Team 2,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,58810,Special Hospital Team 2,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,58810,Special Hospital Team 2,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,58810,Special Hospital Team 2,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,58810,Special Hospital Team 2,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,58810,Special Hospital Team 2,J,29671,0,J Ticket Votes,Australian Sex Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,ZZ,0,99,INFORMAL,,11
+ACT,101,Canberra,58811,Special Hospital Team 3,A,29670,0,A Ticket Votes,Liberal Democratic Party,10
+ACT,101,Canberra,58811,Special Hospital Team 3,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,58811,Special Hospital Team 3,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,101,Canberra,58811,Special Hospital Team 3,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,29663,0,C Ticket Votes,Australian Labor Party,64
+ACT,101,Canberra,58811,Special Hospital Team 3,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,5
+ACT,101,Canberra,58811,Special Hospital Team 3,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,29666,0,E Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,58811,Special Hospital Team 3,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,29667,0,F Ticket Votes,Liberal,80
+ACT,101,Canberra,58811,Special Hospital Team 3,F,28773,1,"SESELJA, Zed",Liberal,4
+ACT,101,Canberra,58811,Special Hospital Team 3,F,28782,2,"HIATT, Jane",Liberal,1
+ACT,101,Canberra,58811,Special Hospital Team 3,G,29664,0,G Ticket Votes,Animal Justice Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,H,29665,0,H Ticket Votes,The Greens,7
+ACT,101,Canberra,58811,Special Hospital Team 3,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,58811,Special Hospital Team 3,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,58811,Special Hospital Team 3,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,58811,Special Hospital Team 3,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,ZZ,0,99,INFORMAL,,7
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,25
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,375
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,66
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,11
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,16
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,29667,0,F Ticket Votes,Liberal,394
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,28773,1,"SESELJA, Zed",Liberal,25
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,28782,2,"HIATT, Jane",Liberal,5
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,29665,0,H Ticket Votes,The Greens,144
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,28306,1,"HOBBS, Christina",The Greens,31
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,44
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,8
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,ZZ,0,99,INFORMAL,,34
+ACT,101,Canberra,65158,Other Mobile Team 1,A,29670,0,A Ticket Votes,Liberal Democratic Party,1
+ACT,101,Canberra,65158,Other Mobile Team 1,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,65158,Other Mobile Team 1,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,C,29663,0,C Ticket Votes,Australian Labor Party,12
+ACT,101,Canberra,65158,Other Mobile Team 1,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,E,29666,0,E Ticket Votes,Sustainable Australia,2
+ACT,101,Canberra,65158,Other Mobile Team 1,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,F,29667,0,F Ticket Votes,Liberal,4
+ACT,101,Canberra,65158,Other Mobile Team 1,F,28773,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65158,Other Mobile Team 1,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,65158,Other Mobile Team 1,G,29664,0,G Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,H,29665,0,H Ticket Votes,The Greens,2
+ACT,101,Canberra,65158,Other Mobile Team 1,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,65158,Other Mobile Team 1,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65158,Other Mobile Team 1,J,29671,0,J Ticket Votes,Australian Sex Party,4
+ACT,101,Canberra,65158,Other Mobile Team 1,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,65158,Other Mobile Team 1,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,12
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,29667,0,F Ticket Votes,Liberal,14
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,28773,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,29665,0,H Ticket Votes,The Greens,4
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,65739,Norfolk Island,A,29670,0,A Ticket Votes,Liberal Democratic Party,36
+ACT,101,Canberra,65739,Norfolk Island,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,101,Canberra,65739,Norfolk Island,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,65739,Norfolk Island,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,65739,Norfolk Island,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,101,Canberra,65739,Norfolk Island,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,65739,Norfolk Island,C,29663,0,C Ticket Votes,Australian Labor Party,85
+ACT,101,Canberra,65739,Norfolk Island,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,8
+ACT,101,Canberra,65739,Norfolk Island,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,65739,Norfolk Island,D,29672,0,D Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,65739,Norfolk Island,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,65739,Norfolk Island,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,65739,Norfolk Island,E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,65739,Norfolk Island,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65739,Norfolk Island,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,65739,Norfolk Island,F,29667,0,F Ticket Votes,Liberal,106
+ACT,101,Canberra,65739,Norfolk Island,F,28773,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,65739,Norfolk Island,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,65739,Norfolk Island,G,29664,0,G Ticket Votes,Animal Justice Party,2
+ACT,101,Canberra,65739,Norfolk Island,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,65739,Norfolk Island,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65739,Norfolk Island,H,29665,0,H Ticket Votes,The Greens,64
+ACT,101,Canberra,65739,Norfolk Island,H,28306,1,"HOBBS, Christina",The Greens,8
+ACT,101,Canberra,65739,Norfolk Island,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,65739,Norfolk Island,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,65739,Norfolk Island,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,65739,Norfolk Island,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65739,Norfolk Island,J,29671,0,J Ticket Votes,Australian Sex Party,4
+ACT,101,Canberra,65739,Norfolk Island,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,65739,Norfolk Island,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,65739,Norfolk Island,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,101,Canberra,65739,Norfolk Island,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,65739,Norfolk Island,ZZ,0,99,INFORMAL,,59
+ACT,101,Canberra,65741,Parkes (Canberra),A,29670,0,A Ticket Votes,Liberal Democratic Party,26
+ACT,101,Canberra,65741,Parkes (Canberra),A,29611,1,"DONNELLY, Matt",Liberal Democrats,10
+ACT,101,Canberra,65741,Parkes (Canberra),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,101,Canberra,65741,Parkes (Canberra),B,29669,0,B Ticket Votes,Secular Party of Australia,11
+ACT,101,Canberra,65741,Parkes (Canberra),B,28933,1,"EDWARDS, David",Secular Party of Australia,7
+ACT,101,Canberra,65741,Parkes (Canberra),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,101,Canberra,65741,Parkes (Canberra),C,29663,0,C Ticket Votes,Australian Labor Party,570
+ACT,101,Canberra,65741,Parkes (Canberra),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,212
+ACT,101,Canberra,65741,Parkes (Canberra),C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,101,Canberra,65741,Parkes (Canberra),D,29672,0,D Ticket Votes,Rise Up Australia Party,5
+ACT,101,Canberra,65741,Parkes (Canberra),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,101,Canberra,65741,Parkes (Canberra),D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,101,Canberra,65741,Parkes (Canberra),E,29666,0,E Ticket Votes,Sustainable Australia,9
+ACT,101,Canberra,65741,Parkes (Canberra),E,28468,1,"HAYDON, John",Sustainable Australia,7
+ACT,101,Canberra,65741,Parkes (Canberra),E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,101,Canberra,65741,Parkes (Canberra),F,29667,0,F Ticket Votes,Liberal,628
+ACT,101,Canberra,65741,Parkes (Canberra),F,28773,1,"SESELJA, Zed",Liberal,59
+ACT,101,Canberra,65741,Parkes (Canberra),F,28782,2,"HIATT, Jane",Liberal,45
+ACT,101,Canberra,65741,Parkes (Canberra),G,29664,0,G Ticket Votes,Animal Justice Party,27
+ACT,101,Canberra,65741,Parkes (Canberra),G,28254,1,"FIELD, Deborah",Animal Justice Party,8
+ACT,101,Canberra,65741,Parkes (Canberra),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,65741,Parkes (Canberra),H,29665,0,H Ticket Votes,The Greens,461
+ACT,101,Canberra,65741,Parkes (Canberra),H,28306,1,"HOBBS, Christina",The Greens,261
+ACT,101,Canberra,65741,Parkes (Canberra),H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,101,Canberra,65741,Parkes (Canberra),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),9
+ACT,101,Canberra,65741,Parkes (Canberra),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,65741,Parkes (Canberra),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,65741,Parkes (Canberra),J,29671,0,J Ticket Votes,Australian Sex Party,52
+ACT,101,Canberra,65741,Parkes (Canberra),J,29390,1,"BAILEY, Steven",Australian Sex Party,32
+ACT,101,Canberra,65741,Parkes (Canberra),J,29391,2,"SWAN, Robbie",Australian Sex Party,7
+ACT,101,Canberra,65741,Parkes (Canberra),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,22
+ACT,101,Canberra,65741,Parkes (Canberra),UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,65741,Parkes (Canberra),ZZ,0,99,INFORMAL,,17
+ACT,101,Canberra,65742,Parkes PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,0
+ACT,101,Canberra,65742,Parkes PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,65742,Parkes PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,65742,Parkes PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,F,29667,0,F Ticket Votes,Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,F,28773,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,H,29665,0,H Ticket Votes,The Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65742,Parkes PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65742,Parkes PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65742,Parkes PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,65742,Parkes PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,7
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,73
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,6
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,28149,2,"SMITH, David",Australian Labor Party,1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,29667,0,F Ticket Votes,Liberal,82
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,28773,1,"SESELJA, Zed",Liberal,9
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,9
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,H,29665,0,H Ticket Votes,The Greens,24
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,H,28306,1,"HOBBS, Christina",The Greens,8
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,6
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,2
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,ZZ,0,99,INFORMAL,,8
+ACT,101,Canberra,66118,Turner (Canberra),A,29670,0,A Ticket Votes,Liberal Democratic Party,13
+ACT,101,Canberra,66118,Turner (Canberra),A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,66118,Turner (Canberra),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,66118,Turner (Canberra),B,29669,0,B Ticket Votes,Secular Party of Australia,4
+ACT,101,Canberra,66118,Turner (Canberra),B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,66118,Turner (Canberra),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,66118,Turner (Canberra),C,29663,0,C Ticket Votes,Australian Labor Party,144
+ACT,101,Canberra,66118,Turner (Canberra),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,41
+ACT,101,Canberra,66118,Turner (Canberra),C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,101,Canberra,66118,Turner (Canberra),D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,66118,Turner (Canberra),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,66118,Turner (Canberra),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,66118,Turner (Canberra),E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,66118,Turner (Canberra),E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,66118,Turner (Canberra),E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,66118,Turner (Canberra),F,29667,0,F Ticket Votes,Liberal,113
+ACT,101,Canberra,66118,Turner (Canberra),F,28773,1,"SESELJA, Zed",Liberal,10
+ACT,101,Canberra,66118,Turner (Canberra),F,28782,2,"HIATT, Jane",Liberal,6
+ACT,101,Canberra,66118,Turner (Canberra),G,29664,0,G Ticket Votes,Animal Justice Party,12
+ACT,101,Canberra,66118,Turner (Canberra),G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,101,Canberra,66118,Turner (Canberra),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,66118,Turner (Canberra),H,29665,0,H Ticket Votes,The Greens,157
+ACT,101,Canberra,66118,Turner (Canberra),H,28306,1,"HOBBS, Christina",The Greens,60
+ACT,101,Canberra,66118,Turner (Canberra),H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,101,Canberra,66118,Turner (Canberra),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,66118,Turner (Canberra),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66118,Turner (Canberra),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,66118,Turner (Canberra),J,29671,0,J Ticket Votes,Australian Sex Party,27
+ACT,101,Canberra,66118,Turner (Canberra),J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,101,Canberra,66118,Turner (Canberra),J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,101,Canberra,66118,Turner (Canberra),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,101,Canberra,66118,Turner (Canberra),UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,66118,Turner (Canberra),ZZ,0,99,INFORMAL,,16
+ACT,101,Canberra,66153,Norfolk Island PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,F,29667,0,F Ticket Votes,Liberal,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,F,28773,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,H,29665,0,H Ticket Votes,The Greens,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66153,Norfolk Island PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66153,Norfolk Island PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66153,Norfolk Island PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,66153,Norfolk Island PPVC,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,66154,Special Hospital Team 4,A,29670,0,A Ticket Votes,Liberal Democratic Party,38
+ACT,101,Canberra,66154,Special Hospital Team 4,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,101,Canberra,66154,Special Hospital Team 4,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,66154,Special Hospital Team 4,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,101,Canberra,66154,Special Hospital Team 4,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,C,29663,0,C Ticket Votes,Australian Labor Party,219
+ACT,101,Canberra,66154,Special Hospital Team 4,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,26
+ACT,101,Canberra,66154,Special Hospital Team 4,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,66154,Special Hospital Team 4,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,66154,Special Hospital Team 4,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,101,Canberra,66154,Special Hospital Team 4,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,F,29667,0,F Ticket Votes,Liberal,163
+ACT,101,Canberra,66154,Special Hospital Team 4,F,28773,1,"SESELJA, Zed",Liberal,11
+ACT,101,Canberra,66154,Special Hospital Team 4,F,28782,2,"HIATT, Jane",Liberal,4
+ACT,101,Canberra,66154,Special Hospital Team 4,G,29664,0,G Ticket Votes,Animal Justice Party,3
+ACT,101,Canberra,66154,Special Hospital Team 4,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,H,29665,0,H Ticket Votes,The Greens,47
+ACT,101,Canberra,66154,Special Hospital Team 4,H,28306,1,"HOBBS, Christina",The Greens,11
+ACT,101,Canberra,66154,Special Hospital Team 4,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,101,Canberra,66154,Special Hospital Team 4,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,66154,Special Hospital Team 4,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,66154,Special Hospital Team 4,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66154,Special Hospital Team 4,J,29671,0,J Ticket Votes,Australian Sex Party,11
+ACT,101,Canberra,66154,Special Hospital Team 4,J,29390,1,"BAILEY, Steven",Australian Sex Party,3
+ACT,101,Canberra,66154,Special Hospital Team 4,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,101,Canberra,66154,Special Hospital Team 4,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,82523,Coombs,A,29670,0,A Ticket Votes,Liberal Democratic Party,31
+ACT,101,Canberra,82523,Coombs,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,101,Canberra,82523,Coombs,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,101,Canberra,82523,Coombs,B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,101,Canberra,82523,Coombs,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,101,Canberra,82523,Coombs,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,101,Canberra,82523,Coombs,C,29663,0,C Ticket Votes,Australian Labor Party,418
+ACT,101,Canberra,82523,Coombs,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,70
+ACT,101,Canberra,82523,Coombs,C,28149,2,"SMITH, David",Australian Labor Party,3
+ACT,101,Canberra,82523,Coombs,D,29672,0,D Ticket Votes,Rise Up Australia Party,6
+ACT,101,Canberra,82523,Coombs,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,101,Canberra,82523,Coombs,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,101,Canberra,82523,Coombs,E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,82523,Coombs,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,101,Canberra,82523,Coombs,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,101,Canberra,82523,Coombs,F,29667,0,F Ticket Votes,Liberal,395
+ACT,101,Canberra,82523,Coombs,F,28773,1,"SESELJA, Zed",Liberal,25
+ACT,101,Canberra,82523,Coombs,F,28782,2,"HIATT, Jane",Liberal,10
+ACT,101,Canberra,82523,Coombs,G,29664,0,G Ticket Votes,Animal Justice Party,16
+ACT,101,Canberra,82523,Coombs,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,101,Canberra,82523,Coombs,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,82523,Coombs,H,29665,0,H Ticket Votes,The Greens,150
+ACT,101,Canberra,82523,Coombs,H,28306,1,"HOBBS, Christina",The Greens,45
+ACT,101,Canberra,82523,Coombs,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,101,Canberra,82523,Coombs,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,82523,Coombs,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,82523,Coombs,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,82523,Coombs,J,29671,0,J Ticket Votes,Australian Sex Party,39
+ACT,101,Canberra,82523,Coombs,J,29390,1,"BAILEY, Steven",Australian Sex Party,7
+ACT,101,Canberra,82523,Coombs,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,101,Canberra,82523,Coombs,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,101,Canberra,82523,Coombs,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,101,Canberra,82523,Coombs,ZZ,0,99,INFORMAL,,26

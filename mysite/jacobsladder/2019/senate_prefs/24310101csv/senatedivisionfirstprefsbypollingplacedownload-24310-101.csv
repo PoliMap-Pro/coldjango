@@ -1,0 +1,1202 @@
+2019 Federal Election Senate First Preferences By Polling Place for Division 101 [Event:24310 Phase:FinalResults Generated:2019-07-30T11:10:56 Cycle:02109509-c159-4199-88f6-389818be8a1c Created:2019-07-26T10:57:31 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.7.17.56581]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,101,Canberra,8764,Curtin (Canberra),A,33704,0,A Ticket Votes,Liberal,425
+ACT,101,Canberra,8764,Curtin (Canberra),A,32766,1,"SESELJA, Zed",Liberal,55
+ACT,101,Canberra,8764,Curtin (Canberra),A,32779,2,"GUNNING, Robert",Liberal,20
+ACT,101,Canberra,8764,Curtin (Canberra),B,33700,0,B Ticket Votes,The Greens,301
+ACT,101,Canberra,8764,Curtin (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,139
+ACT,101,Canberra,8764,Curtin (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,25
+ACT,101,Canberra,8764,Curtin (Canberra),C,33706,0,C Ticket Votes,,37
+ACT,101,Canberra,8764,Curtin (Canberra),C,33572,1,"PESEC, Anthony",,99
+ACT,101,Canberra,8764,Curtin (Canberra),C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8764,Curtin (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,9
+ACT,101,Canberra,8764,Curtin (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8764,Curtin (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8764,Curtin (Canberra),E,33702,0,E Ticket Votes,United Australia Party,21
+ACT,101,Canberra,8764,Curtin (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,6
+ACT,101,Canberra,8764,Curtin (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8764,Curtin (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,26
+ACT,101,Canberra,8764,Curtin (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8764,Curtin (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8764,Curtin (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,568
+ACT,101,Canberra,8764,Curtin (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,198
+ACT,101,Canberra,8764,Curtin (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,17
+ACT,101,Canberra,8764,Curtin (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,28
+ACT,101,Canberra,8764,Curtin (Canberra),UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,8764,Curtin (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,8764,Curtin (Canberra),ZZ,0,99,INFORMAL,,31
+ACT,101,Canberra,8766,Deakin,A,33704,0,A Ticket Votes,Liberal,449
+ACT,101,Canberra,8766,Deakin,A,32766,1,"SESELJA, Zed",Liberal,42
+ACT,101,Canberra,8766,Deakin,A,32779,2,"GUNNING, Robert",Liberal,27
+ACT,101,Canberra,8766,Deakin,B,33700,0,B Ticket Votes,The Greens,104
+ACT,101,Canberra,8766,Deakin,B,32210,1,"KYBURZ, Penny",The Greens,40
+ACT,101,Canberra,8766,Deakin,B,32212,2,"DAVIDSON, Emma",The Greens,4
+ACT,101,Canberra,8766,Deakin,C,33706,0,C Ticket Votes,,25
+ACT,101,Canberra,8766,Deakin,C,33572,1,"PESEC, Anthony",,69
+ACT,101,Canberra,8766,Deakin,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8766,Deakin,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8766,Deakin,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8766,Deakin,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8766,Deakin,E,33702,0,E Ticket Votes,United Australia Party,18
+ACT,101,Canberra,8766,Deakin,E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,8766,Deakin,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8766,Deakin,F,33703,0,F Ticket Votes,Sustainable Australia,8
+ACT,101,Canberra,8766,Deakin,F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8766,Deakin,F,32256,2,"ANGEL, Joy",Sustainable Australia,2
+ACT,101,Canberra,8766,Deakin,G,33701,0,G Ticket Votes,Australian Labor Party,246
+ACT,101,Canberra,8766,Deakin,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,78
+ACT,101,Canberra,8766,Deakin,G,32593,2,"WAITES, Nancy",Australian Labor Party,9
+ACT,101,Canberra,8766,Deakin,UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,8766,Deakin,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8766,Deakin,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,8766,Deakin,ZZ,0,99,INFORMAL,,14
+ACT,101,Canberra,8774,Hughes (Canberra),A,33704,0,A Ticket Votes,Liberal,385
+ACT,101,Canberra,8774,Hughes (Canberra),A,32766,1,"SESELJA, Zed",Liberal,51
+ACT,101,Canberra,8774,Hughes (Canberra),A,32779,2,"GUNNING, Robert",Liberal,24
+ACT,101,Canberra,8774,Hughes (Canberra),B,33700,0,B Ticket Votes,The Greens,191
+ACT,101,Canberra,8774,Hughes (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,86
+ACT,101,Canberra,8774,Hughes (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,12
+ACT,101,Canberra,8774,Hughes (Canberra),C,33706,0,C Ticket Votes,,28
+ACT,101,Canberra,8774,Hughes (Canberra),C,33572,1,"PESEC, Anthony",,81
+ACT,101,Canberra,8774,Hughes (Canberra),C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,8774,Hughes (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8774,Hughes (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8774,Hughes (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8774,Hughes (Canberra),E,33702,0,E Ticket Votes,United Australia Party,8
+ACT,101,Canberra,8774,Hughes (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,8774,Hughes (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8774,Hughes (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,8774,Hughes (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8774,Hughes (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8774,Hughes (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,410
+ACT,101,Canberra,8774,Hughes (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,144
+ACT,101,Canberra,8774,Hughes (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,6
+ACT,101,Canberra,8774,Hughes (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,8774,Hughes (Canberra),UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8774,Hughes (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,8774,Hughes (Canberra),ZZ,0,99,INFORMAL,,37
+ACT,101,Canberra,8779,Lyons (Canberra),A,33704,0,A Ticket Votes,Liberal,190
+ACT,101,Canberra,8779,Lyons (Canberra),A,32766,1,"SESELJA, Zed",Liberal,20
+ACT,101,Canberra,8779,Lyons (Canberra),A,32779,2,"GUNNING, Robert",Liberal,8
+ACT,101,Canberra,8779,Lyons (Canberra),B,33700,0,B Ticket Votes,The Greens,135
+ACT,101,Canberra,8779,Lyons (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,58
+ACT,101,Canberra,8779,Lyons (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,7
+ACT,101,Canberra,8779,Lyons (Canberra),C,33706,0,C Ticket Votes,,6
+ACT,101,Canberra,8779,Lyons (Canberra),C,33572,1,"PESEC, Anthony",,39
+ACT,101,Canberra,8779,Lyons (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,8779,Lyons (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8779,Lyons (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8779,Lyons (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8779,Lyons (Canberra),E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,8779,Lyons (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,8779,Lyons (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8779,Lyons (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,5
+ACT,101,Canberra,8779,Lyons (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8779,Lyons (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8779,Lyons (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,263
+ACT,101,Canberra,8779,Lyons (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,66
+ACT,101,Canberra,8779,Lyons (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,7
+ACT,101,Canberra,8779,Lyons (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,9
+ACT,101,Canberra,8779,Lyons (Canberra),UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8779,Lyons (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,8779,Lyons (Canberra),ZZ,0,99,INFORMAL,,24
+ACT,101,Canberra,8782,Narrabundah,A,33704,0,A Ticket Votes,Liberal,325
+ACT,101,Canberra,8782,Narrabundah,A,32766,1,"SESELJA, Zed",Liberal,31
+ACT,101,Canberra,8782,Narrabundah,A,32779,2,"GUNNING, Robert",Liberal,14
+ACT,101,Canberra,8782,Narrabundah,B,33700,0,B Ticket Votes,The Greens,204
+ACT,101,Canberra,8782,Narrabundah,B,32210,1,"KYBURZ, Penny",The Greens,83
+ACT,101,Canberra,8782,Narrabundah,B,32212,2,"DAVIDSON, Emma",The Greens,8
+ACT,101,Canberra,8782,Narrabundah,C,33706,0,C Ticket Votes,,12
+ACT,101,Canberra,8782,Narrabundah,C,33572,1,"PESEC, Anthony",,52
+ACT,101,Canberra,8782,Narrabundah,C,33576,2,"KENT, Gary",,3
+ACT,101,Canberra,8782,Narrabundah,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,15
+ACT,101,Canberra,8782,Narrabundah,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8782,Narrabundah,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8782,Narrabundah,E,33702,0,E Ticket Votes,United Australia Party,18
+ACT,101,Canberra,8782,Narrabundah,E,32246,1,"WALTER, Peter",United Australia Party,5
+ACT,101,Canberra,8782,Narrabundah,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8782,Narrabundah,F,33703,0,F Ticket Votes,Sustainable Australia,18
+ACT,101,Canberra,8782,Narrabundah,F,32254,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8782,Narrabundah,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8782,Narrabundah,G,33701,0,G Ticket Votes,Australian Labor Party,464
+ACT,101,Canberra,8782,Narrabundah,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,119
+ACT,101,Canberra,8782,Narrabundah,G,32593,2,"WAITES, Nancy",Australian Labor Party,7
+ACT,101,Canberra,8782,Narrabundah,UG,33618,1,"HOUSTON, Nick",Independent,5
+ACT,101,Canberra,8782,Narrabundah,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8782,Narrabundah,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8782,Narrabundah,ZZ,0,99,INFORMAL,,49
+ACT,101,Canberra,8783,Oaks Estate,A,33704,0,A Ticket Votes,Liberal,35
+ACT,101,Canberra,8783,Oaks Estate,A,32766,1,"SESELJA, Zed",Liberal,2
+ACT,101,Canberra,8783,Oaks Estate,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,8783,Oaks Estate,B,33700,0,B Ticket Votes,The Greens,24
+ACT,101,Canberra,8783,Oaks Estate,B,32210,1,"KYBURZ, Penny",The Greens,9
+ACT,101,Canberra,8783,Oaks Estate,B,32212,2,"DAVIDSON, Emma",The Greens,2
+ACT,101,Canberra,8783,Oaks Estate,C,33706,0,C Ticket Votes,,0
+ACT,101,Canberra,8783,Oaks Estate,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,8783,Oaks Estate,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8783,Oaks Estate,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8783,Oaks Estate,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8783,Oaks Estate,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8783,Oaks Estate,E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,8783,Oaks Estate,E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,8783,Oaks Estate,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,F,33703,0,F Ticket Votes,Sustainable Australia,6
+ACT,101,Canberra,8783,Oaks Estate,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,8783,Oaks Estate,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8783,Oaks Estate,G,33701,0,G Ticket Votes,Australian Labor Party,45
+ACT,101,Canberra,8783,Oaks Estate,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,14
+ACT,101,Canberra,8783,Oaks Estate,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,8783,Oaks Estate,UG,33618,1,"HOUSTON, Nick",Independent,1
+ACT,101,Canberra,8783,Oaks Estate,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,8783,Oaks Estate,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8783,Oaks Estate,ZZ,0,99,INFORMAL,,8
+ACT,101,Canberra,8785,Red Hill,A,33704,0,A Ticket Votes,Liberal,646
+ACT,101,Canberra,8785,Red Hill,A,32766,1,"SESELJA, Zed",Liberal,50
+ACT,101,Canberra,8785,Red Hill,A,32779,2,"GUNNING, Robert",Liberal,37
+ACT,101,Canberra,8785,Red Hill,B,33700,0,B Ticket Votes,The Greens,321
+ACT,101,Canberra,8785,Red Hill,B,32210,1,"KYBURZ, Penny",The Greens,106
+ACT,101,Canberra,8785,Red Hill,B,32212,2,"DAVIDSON, Emma",The Greens,14
+ACT,101,Canberra,8785,Red Hill,C,33706,0,C Ticket Votes,,75
+ACT,101,Canberra,8785,Red Hill,C,33572,1,"PESEC, Anthony",,132
+ACT,101,Canberra,8785,Red Hill,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8785,Red Hill,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8785,Red Hill,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8785,Red Hill,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8785,Red Hill,E,33702,0,E Ticket Votes,United Australia Party,15
+ACT,101,Canberra,8785,Red Hill,E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,8785,Red Hill,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8785,Red Hill,F,33703,0,F Ticket Votes,Sustainable Australia,25
+ACT,101,Canberra,8785,Red Hill,F,32254,1,"HAYDON, John",Sustainable Australia,8
+ACT,101,Canberra,8785,Red Hill,F,32256,2,"ANGEL, Joy",Sustainable Australia,3
+ACT,101,Canberra,8785,Red Hill,G,33701,0,G Ticket Votes,Australian Labor Party,598
+ACT,101,Canberra,8785,Red Hill,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,202
+ACT,101,Canberra,8785,Red Hill,G,32593,2,"WAITES, Nancy",Australian Labor Party,9
+ACT,101,Canberra,8785,Red Hill,UG,33618,1,"HOUSTON, Nick",Independent,5
+ACT,101,Canberra,8785,Red Hill,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8785,Red Hill,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8785,Red Hill,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8794,Garran (Canberra),A,33704,0,A Ticket Votes,Liberal,202
+ACT,101,Canberra,8794,Garran (Canberra),A,32766,1,"SESELJA, Zed",Liberal,34
+ACT,101,Canberra,8794,Garran (Canberra),A,32779,2,"GUNNING, Robert",Liberal,12
+ACT,101,Canberra,8794,Garran (Canberra),B,33700,0,B Ticket Votes,The Greens,108
+ACT,101,Canberra,8794,Garran (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,34
+ACT,101,Canberra,8794,Garran (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,4
+ACT,101,Canberra,8794,Garran (Canberra),C,33706,0,C Ticket Votes,,26
+ACT,101,Canberra,8794,Garran (Canberra),C,33572,1,"PESEC, Anthony",,58
+ACT,101,Canberra,8794,Garran (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,8794,Garran (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8794,Garran (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8794,Garran (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8794,Garran (Canberra),E,33702,0,E Ticket Votes,United Australia Party,6
+ACT,101,Canberra,8794,Garran (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,8794,Garran (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8794,Garran (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,6
+ACT,101,Canberra,8794,Garran (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8794,Garran (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8794,Garran (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,281
+ACT,101,Canberra,8794,Garran (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,81
+ACT,101,Canberra,8794,Garran (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,6
+ACT,101,Canberra,8794,Garran (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,4
+ACT,101,Canberra,8794,Garran (Canberra),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,8794,Garran (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8794,Garran (Canberra),ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,8801,Ainslie North,A,33704,0,A Ticket Votes,Liberal,258
+ACT,101,Canberra,8801,Ainslie North,A,32766,1,"SESELJA, Zed",Liberal,18
+ACT,101,Canberra,8801,Ainslie North,A,32779,2,"GUNNING, Robert",Liberal,8
+ACT,101,Canberra,8801,Ainslie North,B,33700,0,B Ticket Votes,The Greens,468
+ACT,101,Canberra,8801,Ainslie North,B,32210,1,"KYBURZ, Penny",The Greens,255
+ACT,101,Canberra,8801,Ainslie North,B,32212,2,"DAVIDSON, Emma",The Greens,22
+ACT,101,Canberra,8801,Ainslie North,C,33706,0,C Ticket Votes,,17
+ACT,101,Canberra,8801,Ainslie North,C,33572,1,"PESEC, Anthony",,62
+ACT,101,Canberra,8801,Ainslie North,C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,8801,Ainslie North,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,8
+ACT,101,Canberra,8801,Ainslie North,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8801,Ainslie North,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8801,Ainslie North,E,33702,0,E Ticket Votes,United Australia Party,4
+ACT,101,Canberra,8801,Ainslie North,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,8801,Ainslie North,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8801,Ainslie North,F,33703,0,F Ticket Votes,Sustainable Australia,15
+ACT,101,Canberra,8801,Ainslie North,F,32254,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,8801,Ainslie North,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8801,Ainslie North,G,33701,0,G Ticket Votes,Australian Labor Party,542
+ACT,101,Canberra,8801,Ainslie North,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,212
+ACT,101,Canberra,8801,Ainslie North,G,32593,2,"WAITES, Nancy",Australian Labor Party,10
+ACT,101,Canberra,8801,Ainslie North,UG,33618,1,"HOUSTON, Nick",Independent,6
+ACT,101,Canberra,8801,Ainslie North,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8801,Ainslie North,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),4
+ACT,101,Canberra,8801,Ainslie North,ZZ,0,99,INFORMAL,,32
+ACT,101,Canberra,8802,Braddon,A,33704,0,A Ticket Votes,Liberal,313
+ACT,101,Canberra,8802,Braddon,A,32766,1,"SESELJA, Zed",Liberal,38
+ACT,101,Canberra,8802,Braddon,A,32779,2,"GUNNING, Robert",Liberal,17
+ACT,101,Canberra,8802,Braddon,B,33700,0,B Ticket Votes,The Greens,465
+ACT,101,Canberra,8802,Braddon,B,32210,1,"KYBURZ, Penny",The Greens,230
+ACT,101,Canberra,8802,Braddon,B,32212,2,"DAVIDSON, Emma",The Greens,35
+ACT,101,Canberra,8802,Braddon,C,33706,0,C Ticket Votes,,44
+ACT,101,Canberra,8802,Braddon,C,33572,1,"PESEC, Anthony",,120
+ACT,101,Canberra,8802,Braddon,C,33576,2,"KENT, Gary",,4
+ACT,101,Canberra,8802,Braddon,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8802,Braddon,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8802,Braddon,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8802,Braddon,E,33702,0,E Ticket Votes,United Australia Party,15
+ACT,101,Canberra,8802,Braddon,E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,8802,Braddon,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,3
+ACT,101,Canberra,8802,Braddon,F,33703,0,F Ticket Votes,Sustainable Australia,21
+ACT,101,Canberra,8802,Braddon,F,32254,1,"HAYDON, John",Sustainable Australia,16
+ACT,101,Canberra,8802,Braddon,F,32256,2,"ANGEL, Joy",Sustainable Australia,4
+ACT,101,Canberra,8802,Braddon,G,33701,0,G Ticket Votes,Australian Labor Party,638
+ACT,101,Canberra,8802,Braddon,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,258
+ACT,101,Canberra,8802,Braddon,G,32593,2,"WAITES, Nancy",Australian Labor Party,16
+ACT,101,Canberra,8802,Braddon,UG,33618,1,"HOUSTON, Nick",Independent,10
+ACT,101,Canberra,8802,Braddon,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8802,Braddon,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8802,Braddon,ZZ,0,99,INFORMAL,,35
+ACT,101,Canberra,8803,Aranda (Canberra),A,33704,0,A Ticket Votes,Liberal,266
+ACT,101,Canberra,8803,Aranda (Canberra),A,32766,1,"SESELJA, Zed",Liberal,36
+ACT,101,Canberra,8803,Aranda (Canberra),A,32779,2,"GUNNING, Robert",Liberal,11
+ACT,101,Canberra,8803,Aranda (Canberra),B,33700,0,B Ticket Votes,The Greens,402
+ACT,101,Canberra,8803,Aranda (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,160
+ACT,101,Canberra,8803,Aranda (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,21
+ACT,101,Canberra,8803,Aranda (Canberra),C,33706,0,C Ticket Votes,,44
+ACT,101,Canberra,8803,Aranda (Canberra),C,33572,1,"PESEC, Anthony",,99
+ACT,101,Canberra,8803,Aranda (Canberra),C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,8803,Aranda (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,5
+ACT,101,Canberra,8803,Aranda (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8803,Aranda (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8803,Aranda (Canberra),E,33702,0,E Ticket Votes,United Australia Party,12
+ACT,101,Canberra,8803,Aranda (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,8803,Aranda (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8803,Aranda (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,18
+ACT,101,Canberra,8803,Aranda (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,11
+ACT,101,Canberra,8803,Aranda (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8803,Aranda (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,521
+ACT,101,Canberra,8803,Aranda (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,187
+ACT,101,Canberra,8803,Aranda (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,11
+ACT,101,Canberra,8803,Aranda (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,6
+ACT,101,Canberra,8803,Aranda (Canberra),UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8803,Aranda (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,8803,Aranda (Canberra),ZZ,0,99,INFORMAL,,29
+ACT,101,Canberra,8806,Campbell,A,33704,0,A Ticket Votes,Liberal,674
+ACT,101,Canberra,8806,Campbell,A,32766,1,"SESELJA, Zed",Liberal,60
+ACT,101,Canberra,8806,Campbell,A,32779,2,"GUNNING, Robert",Liberal,39
+ACT,101,Canberra,8806,Campbell,B,33700,0,B Ticket Votes,The Greens,321
+ACT,101,Canberra,8806,Campbell,B,32210,1,"KYBURZ, Penny",The Greens,113
+ACT,101,Canberra,8806,Campbell,B,32212,2,"DAVIDSON, Emma",The Greens,15
+ACT,101,Canberra,8806,Campbell,C,33706,0,C Ticket Votes,,40
+ACT,101,Canberra,8806,Campbell,C,33572,1,"PESEC, Anthony",,97
+ACT,101,Canberra,8806,Campbell,C,33576,2,"KENT, Gary",,4
+ACT,101,Canberra,8806,Campbell,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,8
+ACT,101,Canberra,8806,Campbell,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8806,Campbell,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8806,Campbell,E,33702,0,E Ticket Votes,United Australia Party,26
+ACT,101,Canberra,8806,Campbell,E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,8806,Campbell,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8806,Campbell,F,33703,0,F Ticket Votes,Sustainable Australia,18
+ACT,101,Canberra,8806,Campbell,F,32254,1,"HAYDON, John",Sustainable Australia,15
+ACT,101,Canberra,8806,Campbell,F,32256,2,"ANGEL, Joy",Sustainable Australia,3
+ACT,101,Canberra,8806,Campbell,G,33701,0,G Ticket Votes,Australian Labor Party,524
+ACT,101,Canberra,8806,Campbell,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,169
+ACT,101,Canberra,8806,Campbell,G,32593,2,"WAITES, Nancy",Australian Labor Party,5
+ACT,101,Canberra,8806,Campbell,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8806,Campbell,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8806,Campbell,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),11
+ACT,101,Canberra,8806,Campbell,ZZ,0,99,INFORMAL,,27
+ACT,101,Canberra,8808,City (Canberra),A,33704,0,A Ticket Votes,Liberal,232
+ACT,101,Canberra,8808,City (Canberra),A,32766,1,"SESELJA, Zed",Liberal,22
+ACT,101,Canberra,8808,City (Canberra),A,32779,2,"GUNNING, Robert",Liberal,14
+ACT,101,Canberra,8808,City (Canberra),B,33700,0,B Ticket Votes,The Greens,393
+ACT,101,Canberra,8808,City (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,124
+ACT,101,Canberra,8808,City (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,29
+ACT,101,Canberra,8808,City (Canberra),C,33706,0,C Ticket Votes,,17
+ACT,101,Canberra,8808,City (Canberra),C,33572,1,"PESEC, Anthony",,51
+ACT,101,Canberra,8808,City (Canberra),C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8808,City (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,8
+ACT,101,Canberra,8808,City (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8808,City (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8808,City (Canberra),E,33702,0,E Ticket Votes,United Australia Party,14
+ACT,101,Canberra,8808,City (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,8808,City (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8808,City (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,27
+ACT,101,Canberra,8808,City (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,7
+ACT,101,Canberra,8808,City (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,4
+ACT,101,Canberra,8808,City (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,350
+ACT,101,Canberra,8808,City (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,85
+ACT,101,Canberra,8808,City (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,9
+ACT,101,Canberra,8808,City (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,13
+ACT,101,Canberra,8808,City (Canberra),UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,8808,City (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8808,City (Canberra),ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,8809,Dickson,A,33704,0,A Ticket Votes,Liberal,186
+ACT,101,Canberra,8809,Dickson,A,32766,1,"SESELJA, Zed",Liberal,30
+ACT,101,Canberra,8809,Dickson,A,32779,2,"GUNNING, Robert",Liberal,6
+ACT,101,Canberra,8809,Dickson,B,33700,0,B Ticket Votes,The Greens,216
+ACT,101,Canberra,8809,Dickson,B,32210,1,"KYBURZ, Penny",The Greens,83
+ACT,101,Canberra,8809,Dickson,B,32212,2,"DAVIDSON, Emma",The Greens,16
+ACT,101,Canberra,8809,Dickson,C,33706,0,C Ticket Votes,,6
+ACT,101,Canberra,8809,Dickson,C,33572,1,"PESEC, Anthony",,24
+ACT,101,Canberra,8809,Dickson,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,8809,Dickson,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8809,Dickson,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8809,Dickson,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8809,Dickson,E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,8809,Dickson,E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,8809,Dickson,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8809,Dickson,F,33703,0,F Ticket Votes,Sustainable Australia,7
+ACT,101,Canberra,8809,Dickson,F,32254,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,8809,Dickson,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8809,Dickson,G,33701,0,G Ticket Votes,Australian Labor Party,262
+ACT,101,Canberra,8809,Dickson,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,81
+ACT,101,Canberra,8809,Dickson,G,32593,2,"WAITES, Nancy",Australian Labor Party,2
+ACT,101,Canberra,8809,Dickson,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8809,Dickson,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8809,Dickson,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),5
+ACT,101,Canberra,8809,Dickson,ZZ,0,99,INFORMAL,,16
+ACT,101,Canberra,8816,Giralang (Canberra),A,33704,0,A Ticket Votes,Liberal,326
+ACT,101,Canberra,8816,Giralang (Canberra),A,32766,1,"SESELJA, Zed",Liberal,38
+ACT,101,Canberra,8816,Giralang (Canberra),A,32779,2,"GUNNING, Robert",Liberal,14
+ACT,101,Canberra,8816,Giralang (Canberra),B,33700,0,B Ticket Votes,The Greens,183
+ACT,101,Canberra,8816,Giralang (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,71
+ACT,101,Canberra,8816,Giralang (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,11
+ACT,101,Canberra,8816,Giralang (Canberra),C,33706,0,C Ticket Votes,,13
+ACT,101,Canberra,8816,Giralang (Canberra),C,33572,1,"PESEC, Anthony",,46
+ACT,101,Canberra,8816,Giralang (Canberra),C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8816,Giralang (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,13
+ACT,101,Canberra,8816,Giralang (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8816,Giralang (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8816,Giralang (Canberra),E,33702,0,E Ticket Votes,United Australia Party,21
+ACT,101,Canberra,8816,Giralang (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,8816,Giralang (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8816,Giralang (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,13
+ACT,101,Canberra,8816,Giralang (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8816,Giralang (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,3
+ACT,101,Canberra,8816,Giralang (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,427
+ACT,101,Canberra,8816,Giralang (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,127
+ACT,101,Canberra,8816,Giralang (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,9
+ACT,101,Canberra,8816,Giralang (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,9
+ACT,101,Canberra,8816,Giralang (Canberra),UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8816,Giralang (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,8816,Giralang (Canberra),ZZ,0,99,INFORMAL,,41
+ACT,101,Canberra,8817,Griffith,A,33704,0,A Ticket Votes,Liberal,397
+ACT,101,Canberra,8817,Griffith,A,32766,1,"SESELJA, Zed",Liberal,23
+ACT,101,Canberra,8817,Griffith,A,32779,2,"GUNNING, Robert",Liberal,15
+ACT,101,Canberra,8817,Griffith,B,33700,0,B Ticket Votes,The Greens,194
+ACT,101,Canberra,8817,Griffith,B,32210,1,"KYBURZ, Penny",The Greens,80
+ACT,101,Canberra,8817,Griffith,B,32212,2,"DAVIDSON, Emma",The Greens,17
+ACT,101,Canberra,8817,Griffith,C,33706,0,C Ticket Votes,,36
+ACT,101,Canberra,8817,Griffith,C,33572,1,"PESEC, Anthony",,68
+ACT,101,Canberra,8817,Griffith,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8817,Griffith,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,6
+ACT,101,Canberra,8817,Griffith,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8817,Griffith,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8817,Griffith,E,33702,0,E Ticket Votes,United Australia Party,12
+ACT,101,Canberra,8817,Griffith,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,8817,Griffith,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8817,Griffith,F,33703,0,F Ticket Votes,Sustainable Australia,13
+ACT,101,Canberra,8817,Griffith,F,32254,1,"HAYDON, John",Sustainable Australia,8
+ACT,101,Canberra,8817,Griffith,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8817,Griffith,G,33701,0,G Ticket Votes,Australian Labor Party,396
+ACT,101,Canberra,8817,Griffith,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,121
+ACT,101,Canberra,8817,Griffith,G,32593,2,"WAITES, Nancy",Australian Labor Party,6
+ACT,101,Canberra,8817,Griffith,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8817,Griffith,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8817,Griffith,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,8817,Griffith,ZZ,0,99,INFORMAL,,26
+ACT,101,Canberra,8823,Kaleen,A,33704,0,A Ticket Votes,Liberal,509
+ACT,101,Canberra,8823,Kaleen,A,32766,1,"SESELJA, Zed",Liberal,67
+ACT,101,Canberra,8823,Kaleen,A,32779,2,"GUNNING, Robert",Liberal,13
+ACT,101,Canberra,8823,Kaleen,B,33700,0,B Ticket Votes,The Greens,215
+ACT,101,Canberra,8823,Kaleen,B,32210,1,"KYBURZ, Penny",The Greens,75
+ACT,101,Canberra,8823,Kaleen,B,32212,2,"DAVIDSON, Emma",The Greens,11
+ACT,101,Canberra,8823,Kaleen,C,33706,0,C Ticket Votes,,17
+ACT,101,Canberra,8823,Kaleen,C,33572,1,"PESEC, Anthony",,66
+ACT,101,Canberra,8823,Kaleen,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8823,Kaleen,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,10
+ACT,101,Canberra,8823,Kaleen,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,6
+ACT,101,Canberra,8823,Kaleen,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8823,Kaleen,E,33702,0,E Ticket Votes,United Australia Party,18
+ACT,101,Canberra,8823,Kaleen,E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,8823,Kaleen,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,2
+ACT,101,Canberra,8823,Kaleen,F,33703,0,F Ticket Votes,Sustainable Australia,22
+ACT,101,Canberra,8823,Kaleen,F,32254,1,"HAYDON, John",Sustainable Australia,10
+ACT,101,Canberra,8823,Kaleen,F,32256,2,"ANGEL, Joy",Sustainable Australia,5
+ACT,101,Canberra,8823,Kaleen,G,33701,0,G Ticket Votes,Australian Labor Party,548
+ACT,101,Canberra,8823,Kaleen,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,167
+ACT,101,Canberra,8823,Kaleen,G,32593,2,"WAITES, Nancy",Australian Labor Party,5
+ACT,101,Canberra,8823,Kaleen,UG,33618,1,"HOUSTON, Nick",Independent,5
+ACT,101,Canberra,8823,Kaleen,UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,8823,Kaleen,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,8823,Kaleen,ZZ,0,99,INFORMAL,,42
+ACT,101,Canberra,8824,Kaleen South,A,33704,0,A Ticket Votes,Liberal,333
+ACT,101,Canberra,8824,Kaleen South,A,32766,1,"SESELJA, Zed",Liberal,43
+ACT,101,Canberra,8824,Kaleen South,A,32779,2,"GUNNING, Robert",Liberal,19
+ACT,101,Canberra,8824,Kaleen South,B,33700,0,B Ticket Votes,The Greens,226
+ACT,101,Canberra,8824,Kaleen South,B,32210,1,"KYBURZ, Penny",The Greens,94
+ACT,101,Canberra,8824,Kaleen South,B,32212,2,"DAVIDSON, Emma",The Greens,13
+ACT,101,Canberra,8824,Kaleen South,C,33706,0,C Ticket Votes,,11
+ACT,101,Canberra,8824,Kaleen South,C,33572,1,"PESEC, Anthony",,42
+ACT,101,Canberra,8824,Kaleen South,C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,8824,Kaleen South,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,5
+ACT,101,Canberra,8824,Kaleen South,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,7
+ACT,101,Canberra,8824,Kaleen South,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8824,Kaleen South,E,33702,0,E Ticket Votes,United Australia Party,10
+ACT,101,Canberra,8824,Kaleen South,E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,8824,Kaleen South,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8824,Kaleen South,F,33703,0,F Ticket Votes,Sustainable Australia,12
+ACT,101,Canberra,8824,Kaleen South,F,32254,1,"HAYDON, John",Sustainable Australia,7
+ACT,101,Canberra,8824,Kaleen South,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8824,Kaleen South,G,33701,0,G Ticket Votes,Australian Labor Party,445
+ACT,101,Canberra,8824,Kaleen South,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,118
+ACT,101,Canberra,8824,Kaleen South,G,32593,2,"WAITES, Nancy",Australian Labor Party,10
+ACT,101,Canberra,8824,Kaleen South,UG,33618,1,"HOUSTON, Nick",Independent,8
+ACT,101,Canberra,8824,Kaleen South,UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,8824,Kaleen South,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),11
+ACT,101,Canberra,8824,Kaleen South,ZZ,0,99,INFORMAL,,26
+ACT,101,Canberra,8826,Lyneham,A,33704,0,A Ticket Votes,Liberal,345
+ACT,101,Canberra,8826,Lyneham,A,32766,1,"SESELJA, Zed",Liberal,39
+ACT,101,Canberra,8826,Lyneham,A,32779,2,"GUNNING, Robert",Liberal,13
+ACT,101,Canberra,8826,Lyneham,B,33700,0,B Ticket Votes,The Greens,593
+ACT,101,Canberra,8826,Lyneham,B,32210,1,"KYBURZ, Penny",The Greens,250
+ACT,101,Canberra,8826,Lyneham,B,32212,2,"DAVIDSON, Emma",The Greens,16
+ACT,101,Canberra,8826,Lyneham,C,33706,0,C Ticket Votes,,20
+ACT,101,Canberra,8826,Lyneham,C,33572,1,"PESEC, Anthony",,76
+ACT,101,Canberra,8826,Lyneham,C,33576,2,"KENT, Gary",,3
+ACT,101,Canberra,8826,Lyneham,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,8
+ACT,101,Canberra,8826,Lyneham,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8826,Lyneham,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8826,Lyneham,E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,8826,Lyneham,E,32246,1,"WALTER, Peter",United Australia Party,6
+ACT,101,Canberra,8826,Lyneham,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8826,Lyneham,F,33703,0,F Ticket Votes,Sustainable Australia,16
+ACT,101,Canberra,8826,Lyneham,F,32254,1,"HAYDON, John",Sustainable Australia,9
+ACT,101,Canberra,8826,Lyneham,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8826,Lyneham,G,33701,0,G Ticket Votes,Australian Labor Party,645
+ACT,101,Canberra,8826,Lyneham,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,253
+ACT,101,Canberra,8826,Lyneham,G,32593,2,"WAITES, Nancy",Australian Labor Party,16
+ACT,101,Canberra,8826,Lyneham,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8826,Lyneham,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,8826,Lyneham,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),8
+ACT,101,Canberra,8826,Lyneham,ZZ,0,99,INFORMAL,,43
+ACT,101,Canberra,8828,Macquarie (Canberra),A,33704,0,A Ticket Votes,Liberal,237
+ACT,101,Canberra,8828,Macquarie (Canberra),A,32766,1,"SESELJA, Zed",Liberal,26
+ACT,101,Canberra,8828,Macquarie (Canberra),A,32779,2,"GUNNING, Robert",Liberal,10
+ACT,101,Canberra,8828,Macquarie (Canberra),B,33700,0,B Ticket Votes,The Greens,219
+ACT,101,Canberra,8828,Macquarie (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,95
+ACT,101,Canberra,8828,Macquarie (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,10
+ACT,101,Canberra,8828,Macquarie (Canberra),C,33706,0,C Ticket Votes,,17
+ACT,101,Canberra,8828,Macquarie (Canberra),C,33572,1,"PESEC, Anthony",,45
+ACT,101,Canberra,8828,Macquarie (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,8828,Macquarie (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8828,Macquarie (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8828,Macquarie (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8828,Macquarie (Canberra),E,33702,0,E Ticket Votes,United Australia Party,25
+ACT,101,Canberra,8828,Macquarie (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,8828,Macquarie (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8828,Macquarie (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,16
+ACT,101,Canberra,8828,Macquarie (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,9
+ACT,101,Canberra,8828,Macquarie (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8828,Macquarie (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,397
+ACT,101,Canberra,8828,Macquarie (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,162
+ACT,101,Canberra,8828,Macquarie (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,6
+ACT,101,Canberra,8828,Macquarie (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,8828,Macquarie (Canberra),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,8828,Macquarie (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8828,Macquarie (Canberra),ZZ,0,99,INFORMAL,,31
+ACT,101,Canberra,8829,Barton,A,33704,0,A Ticket Votes,Liberal,485
+ACT,101,Canberra,8829,Barton,A,32766,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8829,Barton,A,32779,2,"GUNNING, Robert",Liberal,19
+ACT,101,Canberra,8829,Barton,B,33700,0,B Ticket Votes,The Greens,335
+ACT,101,Canberra,8829,Barton,B,32210,1,"KYBURZ, Penny",The Greens,93
+ACT,101,Canberra,8829,Barton,B,32212,2,"DAVIDSON, Emma",The Greens,19
+ACT,101,Canberra,8829,Barton,C,33706,0,C Ticket Votes,,62
+ACT,101,Canberra,8829,Barton,C,33572,1,"PESEC, Anthony",,107
+ACT,101,Canberra,8829,Barton,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8829,Barton,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,6
+ACT,101,Canberra,8829,Barton,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,8829,Barton,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8829,Barton,E,33702,0,E Ticket Votes,United Australia Party,14
+ACT,101,Canberra,8829,Barton,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,8829,Barton,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8829,Barton,F,33703,0,F Ticket Votes,Sustainable Australia,12
+ACT,101,Canberra,8829,Barton,F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,8829,Barton,F,32256,2,"ANGEL, Joy",Sustainable Australia,4
+ACT,101,Canberra,8829,Barton,G,33701,0,G Ticket Votes,Australian Labor Party,596
+ACT,101,Canberra,8829,Barton,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,217
+ACT,101,Canberra,8829,Barton,G,32593,2,"WAITES, Nancy",Australian Labor Party,15
+ACT,101,Canberra,8829,Barton,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8829,Barton,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8829,Barton,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,8829,Barton,ZZ,0,99,INFORMAL,,29
+ACT,101,Canberra,8836,Turner,A,33704,0,A Ticket Votes,Liberal,270
+ACT,101,Canberra,8836,Turner,A,32766,1,"SESELJA, Zed",Liberal,30
+ACT,101,Canberra,8836,Turner,A,32779,2,"GUNNING, Robert",Liberal,13
+ACT,101,Canberra,8836,Turner,B,33700,0,B Ticket Votes,The Greens,490
+ACT,101,Canberra,8836,Turner,B,32210,1,"KYBURZ, Penny",The Greens,248
+ACT,101,Canberra,8836,Turner,B,32212,2,"DAVIDSON, Emma",The Greens,29
+ACT,101,Canberra,8836,Turner,C,33706,0,C Ticket Votes,,30
+ACT,101,Canberra,8836,Turner,C,33572,1,"PESEC, Anthony",,95
+ACT,101,Canberra,8836,Turner,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,8836,Turner,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,7
+ACT,101,Canberra,8836,Turner,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8836,Turner,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8836,Turner,E,33702,0,E Ticket Votes,United Australia Party,14
+ACT,101,Canberra,8836,Turner,E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,8836,Turner,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8836,Turner,F,33703,0,F Ticket Votes,Sustainable Australia,24
+ACT,101,Canberra,8836,Turner,F,32254,1,"HAYDON, John",Sustainable Australia,8
+ACT,101,Canberra,8836,Turner,F,32256,2,"ANGEL, Joy",Sustainable Australia,3
+ACT,101,Canberra,8836,Turner,G,33701,0,G Ticket Votes,Australian Labor Party,529
+ACT,101,Canberra,8836,Turner,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,204
+ACT,101,Canberra,8836,Turner,G,32593,2,"WAITES, Nancy",Australian Labor Party,17
+ACT,101,Canberra,8836,Turner,UG,33618,1,"HOUSTON, Nick",Independent,10
+ACT,101,Canberra,8836,Turner,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8836,Turner,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,8836,Turner,ZZ,0,99,INFORMAL,,30
+ACT,101,Canberra,8837,Watson,A,33704,0,A Ticket Votes,Liberal,388
+ACT,101,Canberra,8837,Watson,A,32766,1,"SESELJA, Zed",Liberal,34
+ACT,101,Canberra,8837,Watson,A,32779,2,"GUNNING, Robert",Liberal,15
+ACT,101,Canberra,8837,Watson,B,33700,0,B Ticket Votes,The Greens,596
+ACT,101,Canberra,8837,Watson,B,32210,1,"KYBURZ, Penny",The Greens,264
+ACT,101,Canberra,8837,Watson,B,32212,2,"DAVIDSON, Emma",The Greens,25
+ACT,101,Canberra,8837,Watson,C,33706,0,C Ticket Votes,,28
+ACT,101,Canberra,8837,Watson,C,33572,1,"PESEC, Anthony",,67
+ACT,101,Canberra,8837,Watson,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,8837,Watson,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,13
+ACT,101,Canberra,8837,Watson,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,5
+ACT,101,Canberra,8837,Watson,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8837,Watson,E,33702,0,E Ticket Votes,United Australia Party,13
+ACT,101,Canberra,8837,Watson,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,8837,Watson,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,8837,Watson,F,33703,0,F Ticket Votes,Sustainable Australia,20
+ACT,101,Canberra,8837,Watson,F,32254,1,"HAYDON, John",Sustainable Australia,10
+ACT,101,Canberra,8837,Watson,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,8837,Watson,G,33701,0,G Ticket Votes,Australian Labor Party,641
+ACT,101,Canberra,8837,Watson,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,201
+ACT,101,Canberra,8837,Watson,G,32593,2,"WAITES, Nancy",Australian Labor Party,14
+ACT,101,Canberra,8837,Watson,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,8837,Watson,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,8837,Watson,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),11
+ACT,101,Canberra,8837,Watson,ZZ,0,99,INFORMAL,,41
+ACT,101,Canberra,8838,Weetangera (Canberra),A,33704,0,A Ticket Votes,Liberal,423
+ACT,101,Canberra,8838,Weetangera (Canberra),A,32766,1,"SESELJA, Zed",Liberal,51
+ACT,101,Canberra,8838,Weetangera (Canberra),A,32779,2,"GUNNING, Robert",Liberal,33
+ACT,101,Canberra,8838,Weetangera (Canberra),B,33700,0,B Ticket Votes,The Greens,208
+ACT,101,Canberra,8838,Weetangera (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,83
+ACT,101,Canberra,8838,Weetangera (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,9
+ACT,101,Canberra,8838,Weetangera (Canberra),C,33706,0,C Ticket Votes,,31
+ACT,101,Canberra,8838,Weetangera (Canberra),C,33572,1,"PESEC, Anthony",,86
+ACT,101,Canberra,8838,Weetangera (Canberra),C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,8838,Weetangera (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,5
+ACT,101,Canberra,8838,Weetangera (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,8838,Weetangera (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8838,Weetangera (Canberra),E,33702,0,E Ticket Votes,United Australia Party,15
+ACT,101,Canberra,8838,Weetangera (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,8838,Weetangera (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8838,Weetangera (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,21
+ACT,101,Canberra,8838,Weetangera (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,10
+ACT,101,Canberra,8838,Weetangera (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,4
+ACT,101,Canberra,8838,Weetangera (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,509
+ACT,101,Canberra,8838,Weetangera (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,176
+ACT,101,Canberra,8838,Weetangera (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,8
+ACT,101,Canberra,8838,Weetangera (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,8
+ACT,101,Canberra,8838,Weetangera (Canberra),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,8838,Weetangera (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),7
+ACT,101,Canberra,8838,Weetangera (Canberra),ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,8840,Yarralumla,A,33704,0,A Ticket Votes,Liberal,426
+ACT,101,Canberra,8840,Yarralumla,A,32766,1,"SESELJA, Zed",Liberal,61
+ACT,101,Canberra,8840,Yarralumla,A,32779,2,"GUNNING, Robert",Liberal,24
+ACT,101,Canberra,8840,Yarralumla,B,33700,0,B Ticket Votes,The Greens,138
+ACT,101,Canberra,8840,Yarralumla,B,32210,1,"KYBURZ, Penny",The Greens,66
+ACT,101,Canberra,8840,Yarralumla,B,32212,2,"DAVIDSON, Emma",The Greens,5
+ACT,101,Canberra,8840,Yarralumla,C,33706,0,C Ticket Votes,,46
+ACT,101,Canberra,8840,Yarralumla,C,33572,1,"PESEC, Anthony",,101
+ACT,101,Canberra,8840,Yarralumla,C,33576,2,"KENT, Gary",,4
+ACT,101,Canberra,8840,Yarralumla,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,8840,Yarralumla,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,8840,Yarralumla,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,8840,Yarralumla,E,33702,0,E Ticket Votes,United Australia Party,13
+ACT,101,Canberra,8840,Yarralumla,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,F,33703,0,F Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,8840,Yarralumla,F,32254,1,"HAYDON, John",Sustainable Australia,7
+ACT,101,Canberra,8840,Yarralumla,F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,8840,Yarralumla,G,33701,0,G Ticket Votes,Australian Labor Party,351
+ACT,101,Canberra,8840,Yarralumla,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,113
+ACT,101,Canberra,8840,Yarralumla,G,32593,2,"WAITES, Nancy",Australian Labor Party,10
+ACT,101,Canberra,8840,Yarralumla,UG,33618,1,"HOUSTON, Nick",Independent,4
+ACT,101,Canberra,8840,Yarralumla,UG,32090,2,"COWTON, Gary",Independent,2
+ACT,101,Canberra,8840,Yarralumla,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,8840,Yarralumla,ZZ,0,99,INFORMAL,,25
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,33704,0,A Ticket Votes,Liberal,82
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,32766,1,"SESELJA, Zed",Liberal,6
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,32779,2,"GUNNING, Robert",Liberal,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,33700,0,B Ticket Votes,The Greens,51
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,32210,1,"KYBURZ, Penny",The Greens,18
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,32212,2,"DAVIDSON, Emma",The Greens,6
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,33706,0,C Ticket Votes,,5
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,33572,1,"PESEC, Anthony",,8
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,33702,0,E Ticket Votes,United Australia Party,4
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,33703,0,F Ticket Votes,Sustainable Australia,4
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,33701,0,G Ticket Votes,Australian Labor Party,106
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,38
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,32593,2,"WAITES, Nancy",Australian Labor Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,3
+ACT,101,Canberra,32712,Special Hospital Team 1,A,33704,0,A Ticket Votes,Liberal,51
+ACT,101,Canberra,32712,Special Hospital Team 1,A,32766,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,32712,Special Hospital Team 1,A,32779,2,"GUNNING, Robert",Liberal,1
+ACT,101,Canberra,32712,Special Hospital Team 1,B,33700,0,B Ticket Votes,The Greens,3
+ACT,101,Canberra,32712,Special Hospital Team 1,B,32210,1,"KYBURZ, Penny",The Greens,1
+ACT,101,Canberra,32712,Special Hospital Team 1,B,32212,2,"DAVIDSON, Emma",The Greens,2
+ACT,101,Canberra,32712,Special Hospital Team 1,C,33706,0,C Ticket Votes,,3
+ACT,101,Canberra,32712,Special Hospital Team 1,C,33572,1,"PESEC, Anthony",,1
+ACT,101,Canberra,32712,Special Hospital Team 1,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,33702,0,E Ticket Votes,United Australia Party,5
+ACT,101,Canberra,32712,Special Hospital Team 1,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,F,33703,0,F Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,32712,Special Hospital Team 1,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,G,33701,0,G Ticket Votes,Australian Labor Party,28
+ACT,101,Canberra,32712,Special Hospital Team 1,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,32712,Special Hospital Team 1,ZZ,0,99,INFORMAL,,2
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,2834
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,284
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,115
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,1909
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,707
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,139
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,33706,0,C Ticket Votes,,166
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,357
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,33576,2,"KENT, Gary",,11
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,43
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,25
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,109
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,20
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,9
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,140
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,41
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,16
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,3422
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,1050
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,78
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,73
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,8
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),40
+ACT,101,Canberra,58708,City CANBERRA PPVC,ZZ,0,99,INFORMAL,,171
+ACT,101,Canberra,58810,Special Hospital Team 2,A,33704,0,A Ticket Votes,Liberal,72
+ACT,101,Canberra,58810,Special Hospital Team 2,A,32766,1,"SESELJA, Zed",Liberal,4
+ACT,101,Canberra,58810,Special Hospital Team 2,A,32779,2,"GUNNING, Robert",Liberal,1
+ACT,101,Canberra,58810,Special Hospital Team 2,B,33700,0,B Ticket Votes,The Greens,10
+ACT,101,Canberra,58810,Special Hospital Team 2,B,32210,1,"KYBURZ, Penny",The Greens,2
+ACT,101,Canberra,58810,Special Hospital Team 2,B,32212,2,"DAVIDSON, Emma",The Greens,1
+ACT,101,Canberra,58810,Special Hospital Team 2,C,33706,0,C Ticket Votes,,1
+ACT,101,Canberra,58810,Special Hospital Team 2,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,58810,Special Hospital Team 2,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,58810,Special Hospital Team 2,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,58810,Special Hospital Team 2,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,33702,0,E Ticket Votes,United Australia Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,F,33703,0,F Ticket Votes,Sustainable Australia,3
+ACT,101,Canberra,58810,Special Hospital Team 2,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,G,33701,0,G Ticket Votes,Australian Labor Party,48
+ACT,101,Canberra,58810,Special Hospital Team 2,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,G,32593,2,"WAITES, Nancy",Australian Labor Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,58810,Special Hospital Team 2,ZZ,0,99,INFORMAL,,7
+ACT,101,Canberra,58811,Special Hospital Team 3,A,33704,0,A Ticket Votes,Liberal,38
+ACT,101,Canberra,58811,Special Hospital Team 3,A,32766,1,"SESELJA, Zed",Liberal,5
+ACT,101,Canberra,58811,Special Hospital Team 3,A,32779,2,"GUNNING, Robert",Liberal,1
+ACT,101,Canberra,58811,Special Hospital Team 3,B,33700,0,B Ticket Votes,The Greens,6
+ACT,101,Canberra,58811,Special Hospital Team 3,B,32210,1,"KYBURZ, Penny",The Greens,1
+ACT,101,Canberra,58811,Special Hospital Team 3,B,32212,2,"DAVIDSON, Emma",The Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,33706,0,C Ticket Votes,,2
+ACT,101,Canberra,58811,Special Hospital Team 3,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,33703,0,F Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,58811,Special Hospital Team 3,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,G,33701,0,G Ticket Votes,Australian Labor Party,38
+ACT,101,Canberra,58811,Special Hospital Team 3,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,6
+ACT,101,Canberra,58811,Special Hospital Team 3,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,58811,Special Hospital Team 3,ZZ,0,99,INFORMAL,,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,1938
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,173
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,79
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,781
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,262
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,37
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,33706,0,C Ticket Votes,,77
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,182
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,33576,2,"KENT, Gary",,10
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,32
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,6
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,114
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,10
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,6
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,79
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,25
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,8
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,2113
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,466
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,29
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,24
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),25
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,ZZ,0,99,INFORMAL,,173
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,33704,0,A Ticket Votes,Liberal,5
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,32766,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,33700,0,B Ticket Votes,The Greens,3
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,32210,1,"KYBURZ, Penny",The Greens,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,33706,0,C Ticket Votes,,2
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,33572,1,"PESEC, Anthony",,2
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,6
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,65504,BLV Canberra PPVC,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,65741,Parkes (Canberra),A,33704,0,A Ticket Votes,Liberal,332
+ACT,101,Canberra,65741,Parkes (Canberra),A,32766,1,"SESELJA, Zed",Liberal,46
+ACT,101,Canberra,65741,Parkes (Canberra),A,32779,2,"GUNNING, Robert",Liberal,43
+ACT,101,Canberra,65741,Parkes (Canberra),B,33700,0,B Ticket Votes,The Greens,461
+ACT,101,Canberra,65741,Parkes (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,284
+ACT,101,Canberra,65741,Parkes (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,47
+ACT,101,Canberra,65741,Parkes (Canberra),C,33706,0,C Ticket Votes,,53
+ACT,101,Canberra,65741,Parkes (Canberra),C,33572,1,"PESEC, Anthony",,139
+ACT,101,Canberra,65741,Parkes (Canberra),C,33576,2,"KENT, Gary",,3
+ACT,101,Canberra,65741,Parkes (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,65741,Parkes (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,65741,Parkes (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,65741,Parkes (Canberra),E,33702,0,E Ticket Votes,United Australia Party,8
+ACT,101,Canberra,65741,Parkes (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,65741,Parkes (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,15
+ACT,101,Canberra,65741,Parkes (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,12
+ACT,101,Canberra,65741,Parkes (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,4
+ACT,101,Canberra,65741,Parkes (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,582
+ACT,101,Canberra,65741,Parkes (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,373
+ACT,101,Canberra,65741,Parkes (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,21
+ACT,101,Canberra,65741,Parkes (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,10
+ACT,101,Canberra,65741,Parkes (Canberra),UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,65741,Parkes (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),6
+ACT,101,Canberra,65741,Parkes (Canberra),ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,395
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,46
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,22
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,182
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,96
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,11
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,C,33706,0,C Ticket Votes,,43
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,77
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,8
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,10
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,1
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,376
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,160
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,9
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,13
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,65742,Parkes CANBERRA PPVC,ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,796
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,69
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,26
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,354
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,114
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,10
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,33706,0,C Ticket Votes,,45
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,71
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,C,33576,2,"KENT, Gary",,2
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,18
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,60
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,40
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,9
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,2
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,749
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,184
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,7
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,7
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),19
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,ZZ,0,99,INFORMAL,,58
+ACT,101,Canberra,66154,Special Hospital Team 4,A,33704,0,A Ticket Votes,Liberal,56
+ACT,101,Canberra,66154,Special Hospital Team 4,A,32766,1,"SESELJA, Zed",Liberal,2
+ACT,101,Canberra,66154,Special Hospital Team 4,A,32779,2,"GUNNING, Robert",Liberal,1
+ACT,101,Canberra,66154,Special Hospital Team 4,B,33700,0,B Ticket Votes,The Greens,9
+ACT,101,Canberra,66154,Special Hospital Team 4,B,32210,1,"KYBURZ, Penny",The Greens,2
+ACT,101,Canberra,66154,Special Hospital Team 4,B,32212,2,"DAVIDSON, Emma",The Greens,0
+ACT,101,Canberra,66154,Special Hospital Team 4,C,33706,0,C Ticket Votes,,2
+ACT,101,Canberra,66154,Special Hospital Team 4,C,33572,1,"PESEC, Anthony",,3
+ACT,101,Canberra,66154,Special Hospital Team 4,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,66154,Special Hospital Team 4,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,66154,Special Hospital Team 4,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,66154,Special Hospital Team 4,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,66154,Special Hospital Team 4,E,33702,0,E Ticket Votes,United Australia Party,2
+ACT,101,Canberra,66154,Special Hospital Team 4,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,F,33703,0,F Ticket Votes,Sustainable Australia,2
+ACT,101,Canberra,66154,Special Hospital Team 4,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,66154,Special Hospital Team 4,G,33701,0,G Ticket Votes,Australian Labor Party,53
+ACT,101,Canberra,66154,Special Hospital Team 4,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,8
+ACT,101,Canberra,66154,Special Hospital Team 4,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,66154,Special Hospital Team 4,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,66154,Special Hospital Team 4,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,66154,Special Hospital Team 4,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,66154,Special Hospital Team 4,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,82525,Downer,A,33704,0,A Ticket Votes,Liberal,147
+ACT,101,Canberra,82525,Downer,A,32766,1,"SESELJA, Zed",Liberal,19
+ACT,101,Canberra,82525,Downer,A,32779,2,"GUNNING, Robert",Liberal,6
+ACT,101,Canberra,82525,Downer,B,33700,0,B Ticket Votes,The Greens,287
+ACT,101,Canberra,82525,Downer,B,32210,1,"KYBURZ, Penny",The Greens,148
+ACT,101,Canberra,82525,Downer,B,32212,2,"DAVIDSON, Emma",The Greens,12
+ACT,101,Canberra,82525,Downer,C,33706,0,C Ticket Votes,,7
+ACT,101,Canberra,82525,Downer,C,33572,1,"PESEC, Anthony",,25
+ACT,101,Canberra,82525,Downer,C,33576,2,"KENT, Gary",,1
+ACT,101,Canberra,82525,Downer,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,5
+ACT,101,Canberra,82525,Downer,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,82525,Downer,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,82525,Downer,E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,82525,Downer,E,32246,1,"WALTER, Peter",United Australia Party,4
+ACT,101,Canberra,82525,Downer,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,82525,Downer,F,33703,0,F Ticket Votes,Sustainable Australia,14
+ACT,101,Canberra,82525,Downer,F,32254,1,"HAYDON, John",Sustainable Australia,6
+ACT,101,Canberra,82525,Downer,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,82525,Downer,G,33701,0,G Ticket Votes,Australian Labor Party,324
+ACT,101,Canberra,82525,Downer,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,91
+ACT,101,Canberra,82525,Downer,G,32593,2,"WAITES, Nancy",Australian Labor Party,6
+ACT,101,Canberra,82525,Downer,UG,33618,1,"HOUSTON, Nick",Independent,4
+ACT,101,Canberra,82525,Downer,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,82525,Downer,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),3
+ACT,101,Canberra,82525,Downer,ZZ,0,99,INFORMAL,,35
+ACT,101,Canberra,83849,Bruce (Canberra),A,33704,0,A Ticket Votes,Liberal,240
+ACT,101,Canberra,83849,Bruce (Canberra),A,32766,1,"SESELJA, Zed",Liberal,35
+ACT,101,Canberra,83849,Bruce (Canberra),A,32779,2,"GUNNING, Robert",Liberal,13
+ACT,101,Canberra,83849,Bruce (Canberra),B,33700,0,B Ticket Votes,The Greens,225
+ACT,101,Canberra,83849,Bruce (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,58
+ACT,101,Canberra,83849,Bruce (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,11
+ACT,101,Canberra,83849,Bruce (Canberra),C,33706,0,C Ticket Votes,,28
+ACT,101,Canberra,83849,Bruce (Canberra),C,33572,1,"PESEC, Anthony",,43
+ACT,101,Canberra,83849,Bruce (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,83849,Bruce (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,83849,Bruce (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,83849,Bruce (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,83849,Bruce (Canberra),E,33702,0,E Ticket Votes,United Australia Party,4
+ACT,101,Canberra,83849,Bruce (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,2
+ACT,101,Canberra,83849,Bruce (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,83849,Bruce (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,11
+ACT,101,Canberra,83849,Bruce (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,5
+ACT,101,Canberra,83849,Bruce (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,2
+ACT,101,Canberra,83849,Bruce (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,320
+ACT,101,Canberra,83849,Bruce (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,99
+ACT,101,Canberra,83849,Bruce (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,3
+ACT,101,Canberra,83849,Bruce (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,83849,Bruce (Canberra),UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,83849,Bruce (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),10
+ACT,101,Canberra,83849,Bruce (Canberra),ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,83852,Dickson East,A,33704,0,A Ticket Votes,Liberal,121
+ACT,101,Canberra,83852,Dickson East,A,32766,1,"SESELJA, Zed",Liberal,11
+ACT,101,Canberra,83852,Dickson East,A,32779,2,"GUNNING, Robert",Liberal,5
+ACT,101,Canberra,83852,Dickson East,B,33700,0,B Ticket Votes,The Greens,230
+ACT,101,Canberra,83852,Dickson East,B,32210,1,"KYBURZ, Penny",The Greens,106
+ACT,101,Canberra,83852,Dickson East,B,32212,2,"DAVIDSON, Emma",The Greens,13
+ACT,101,Canberra,83852,Dickson East,C,33706,0,C Ticket Votes,,16
+ACT,101,Canberra,83852,Dickson East,C,33572,1,"PESEC, Anthony",,33
+ACT,101,Canberra,83852,Dickson East,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,83852,Dickson East,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,3
+ACT,101,Canberra,83852,Dickson East,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,83852,Dickson East,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,83852,Dickson East,E,33702,0,E Ticket Votes,United Australia Party,11
+ACT,101,Canberra,83852,Dickson East,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,83852,Dickson East,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,83852,Dickson East,F,33703,0,F Ticket Votes,Sustainable Australia,12
+ACT,101,Canberra,83852,Dickson East,F,32254,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,83852,Dickson East,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,83852,Dickson East,G,33701,0,G Ticket Votes,Australian Labor Party,210
+ACT,101,Canberra,83852,Dickson East,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,84
+ACT,101,Canberra,83852,Dickson East,G,32593,2,"WAITES, Nancy",Australian Labor Party,4
+ACT,101,Canberra,83852,Dickson East,UG,33618,1,"HOUSTON, Nick",Independent,4
+ACT,101,Canberra,83852,Dickson East,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,83852,Dickson East,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,83852,Dickson East,ZZ,0,99,INFORMAL,,4
+ACT,101,Canberra,83856,Lyneham East,A,33704,0,A Ticket Votes,Liberal,118
+ACT,101,Canberra,83856,Lyneham East,A,32766,1,"SESELJA, Zed",Liberal,13
+ACT,101,Canberra,83856,Lyneham East,A,32779,2,"GUNNING, Robert",Liberal,9
+ACT,101,Canberra,83856,Lyneham East,B,33700,0,B Ticket Votes,The Greens,171
+ACT,101,Canberra,83856,Lyneham East,B,32210,1,"KYBURZ, Penny",The Greens,94
+ACT,101,Canberra,83856,Lyneham East,B,32212,2,"DAVIDSON, Emma",The Greens,7
+ACT,101,Canberra,83856,Lyneham East,C,33706,0,C Ticket Votes,,7
+ACT,101,Canberra,83856,Lyneham East,C,33572,1,"PESEC, Anthony",,26
+ACT,101,Canberra,83856,Lyneham East,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,83856,Lyneham East,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,10
+ACT,101,Canberra,83856,Lyneham East,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,83856,Lyneham East,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,83856,Lyneham East,E,33702,0,E Ticket Votes,United Australia Party,9
+ACT,101,Canberra,83856,Lyneham East,E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,83856,Lyneham East,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,83856,Lyneham East,F,33703,0,F Ticket Votes,Sustainable Australia,6
+ACT,101,Canberra,83856,Lyneham East,F,32254,1,"HAYDON, John",Sustainable Australia,4
+ACT,101,Canberra,83856,Lyneham East,F,32256,2,"ANGEL, Joy",Sustainable Australia,2
+ACT,101,Canberra,83856,Lyneham East,G,33701,0,G Ticket Votes,Australian Labor Party,225
+ACT,101,Canberra,83856,Lyneham East,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,83
+ACT,101,Canberra,83856,Lyneham East,G,32593,2,"WAITES, Nancy",Australian Labor Party,3
+ACT,101,Canberra,83856,Lyneham East,UG,33618,1,"HOUSTON, Nick",Independent,1
+ACT,101,Canberra,83856,Lyneham East,UG,32090,2,"COWTON, Gary",Independent,4
+ACT,101,Canberra,83856,Lyneham East,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),2
+ACT,101,Canberra,83856,Lyneham East,ZZ,0,99,INFORMAL,,9
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,153
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,13
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,8
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,73
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,16
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,6
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,C,33706,0,C Ticket Votes,,7
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,10
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,C,33576,2,"KENT, Gary",,3
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,6
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,13
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,9
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,2
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,163
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,25
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,5
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),1
+ACT,101,Canberra,93960,Tuggeranong CANBERRA PPVC,ZZ,0,99,INFORMAL,,7
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,A,33704,0,A Ticket Votes,Liberal,1696
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,A,32766,1,"SESELJA, Zed",Liberal,155
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,A,32779,2,"GUNNING, Robert",Liberal,85
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,B,33700,0,B Ticket Votes,The Greens,585
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,B,32210,1,"KYBURZ, Penny",The Greens,149
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,B,32212,2,"DAVIDSON, Emma",The Greens,27
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,C,33706,0,C Ticket Votes,,98
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,C,33572,1,"PESEC, Anthony",,156
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,C,33576,2,"KENT, Gary",,6
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,18
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,11
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,E,33702,0,E Ticket Votes,United Australia Party,62
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,E,32246,1,"WALTER, Peter",United Australia Party,7
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,2
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,F,33703,0,F Ticket Votes,Sustainable Australia,38
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,F,32254,1,"HAYDON, John",Sustainable Australia,25
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,F,32256,2,"ANGEL, Joy",Sustainable Australia,3
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,G,33701,0,G Ticket Votes,Australian Labor Party,1325
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,341
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,G,32593,2,"WAITES, Nancy",Australian Labor Party,19
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,UG,33618,1,"HOUSTON, Nick",Independent,30
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,UG,32090,2,"COWTON, Gary",Independent,3
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),18
+ACT,101,Canberra,93961,Woden CANBERRA PPVC,ZZ,0,99,INFORMAL,,137
+ACT,101,Canberra,93968,Belconnen (Canberra),A,33704,0,A Ticket Votes,Liberal,108
+ACT,101,Canberra,93968,Belconnen (Canberra),A,32766,1,"SESELJA, Zed",Liberal,11
+ACT,101,Canberra,93968,Belconnen (Canberra),A,32779,2,"GUNNING, Robert",Liberal,4
+ACT,101,Canberra,93968,Belconnen (Canberra),B,33700,0,B Ticket Votes,The Greens,97
+ACT,101,Canberra,93968,Belconnen (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,20
+ACT,101,Canberra,93968,Belconnen (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,8
+ACT,101,Canberra,93968,Belconnen (Canberra),C,33706,0,C Ticket Votes,,8
+ACT,101,Canberra,93968,Belconnen (Canberra),C,33572,1,"PESEC, Anthony",,5
+ACT,101,Canberra,93968,Belconnen (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,93968,Belconnen (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,93968,Belconnen (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93968,Belconnen (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93968,Belconnen (Canberra),E,33702,0,E Ticket Votes,United Australia Party,7
+ACT,101,Canberra,93968,Belconnen (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,3
+ACT,101,Canberra,93968,Belconnen (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,93968,Belconnen (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,7
+ACT,101,Canberra,93968,Belconnen (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,93968,Belconnen (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,1
+ACT,101,Canberra,93968,Belconnen (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,144
+ACT,101,Canberra,93968,Belconnen (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,33
+ACT,101,Canberra,93968,Belconnen (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,3
+ACT,101,Canberra,93968,Belconnen (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,1
+ACT,101,Canberra,93968,Belconnen (Canberra),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,93968,Belconnen (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),5
+ACT,101,Canberra,93968,Belconnen (Canberra),ZZ,0,99,INFORMAL,,9
+ACT,101,Canberra,93976,Page (Canberra),A,33704,0,A Ticket Votes,Liberal,131
+ACT,101,Canberra,93976,Page (Canberra),A,32766,1,"SESELJA, Zed",Liberal,14
+ACT,101,Canberra,93976,Page (Canberra),A,32779,2,"GUNNING, Robert",Liberal,7
+ACT,101,Canberra,93976,Page (Canberra),B,33700,0,B Ticket Votes,The Greens,64
+ACT,101,Canberra,93976,Page (Canberra),B,32210,1,"KYBURZ, Penny",The Greens,15
+ACT,101,Canberra,93976,Page (Canberra),B,32212,2,"DAVIDSON, Emma",The Greens,4
+ACT,101,Canberra,93976,Page (Canberra),C,33706,0,C Ticket Votes,,9
+ACT,101,Canberra,93976,Page (Canberra),C,33572,1,"PESEC, Anthony",,21
+ACT,101,Canberra,93976,Page (Canberra),C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,93976,Page (Canberra),D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,4
+ACT,101,Canberra,93976,Page (Canberra),D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93976,Page (Canberra),D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93976,Page (Canberra),E,33702,0,E Ticket Votes,United Australia Party,8
+ACT,101,Canberra,93976,Page (Canberra),E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,93976,Page (Canberra),E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,93976,Page (Canberra),F,33703,0,F Ticket Votes,Sustainable Australia,2
+ACT,101,Canberra,93976,Page (Canberra),F,32254,1,"HAYDON, John",Sustainable Australia,3
+ACT,101,Canberra,93976,Page (Canberra),F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,93976,Page (Canberra),G,33701,0,G Ticket Votes,Australian Labor Party,127
+ACT,101,Canberra,93976,Page (Canberra),G,32588,1,"GALLAGHER, Katy",Australian Labor Party,35
+ACT,101,Canberra,93976,Page (Canberra),G,32593,2,"WAITES, Nancy",Australian Labor Party,5
+ACT,101,Canberra,93976,Page (Canberra),UG,33618,1,"HOUSTON, Nick",Independent,2
+ACT,101,Canberra,93976,Page (Canberra),UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,93976,Page (Canberra),UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,93976,Page (Canberra),ZZ,0,99,INFORMAL,,11
+ACT,101,Canberra,93983,Special Hospital Team 5,A,33704,0,A Ticket Votes,Liberal,10
+ACT,101,Canberra,93983,Special Hospital Team 5,A,32766,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,93983,Special Hospital Team 5,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,93983,Special Hospital Team 5,B,33700,0,B Ticket Votes,The Greens,1
+ACT,101,Canberra,93983,Special Hospital Team 5,B,32210,1,"KYBURZ, Penny",The Greens,1
+ACT,101,Canberra,93983,Special Hospital Team 5,B,32212,2,"DAVIDSON, Emma",The Greens,0
+ACT,101,Canberra,93983,Special Hospital Team 5,C,33706,0,C Ticket Votes,,1
+ACT,101,Canberra,93983,Special Hospital Team 5,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,93983,Special Hospital Team 5,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,93983,Special Hospital Team 5,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,93983,Special Hospital Team 5,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93983,Special Hospital Team 5,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93983,Special Hospital Team 5,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,93983,Special Hospital Team 5,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,93983,Special Hospital Team 5,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,93983,Special Hospital Team 5,F,33703,0,F Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,93983,Special Hospital Team 5,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,93983,Special Hospital Team 5,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,93983,Special Hospital Team 5,G,33701,0,G Ticket Votes,Australian Labor Party,3
+ACT,101,Canberra,93983,Special Hospital Team 5,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,101,Canberra,93983,Special Hospital Team 5,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,93983,Special Hospital Team 5,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,93983,Special Hospital Team 5,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,93983,Special Hospital Team 5,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,93983,Special Hospital Team 5,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,93984,Special Hospital Team 6,A,33704,0,A Ticket Votes,Liberal,13
+ACT,101,Canberra,93984,Special Hospital Team 6,A,32766,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,93984,Special Hospital Team 6,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,93984,Special Hospital Team 6,B,33700,0,B Ticket Votes,The Greens,9
+ACT,101,Canberra,93984,Special Hospital Team 6,B,32210,1,"KYBURZ, Penny",The Greens,1
+ACT,101,Canberra,93984,Special Hospital Team 6,B,32212,2,"DAVIDSON, Emma",The Greens,1
+ACT,101,Canberra,93984,Special Hospital Team 6,C,33706,0,C Ticket Votes,,0
+ACT,101,Canberra,93984,Special Hospital Team 6,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,93984,Special Hospital Team 6,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,93984,Special Hospital Team 6,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93984,Special Hospital Team 6,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93984,Special Hospital Team 6,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93984,Special Hospital Team 6,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,93984,Special Hospital Team 6,E,32246,1,"WALTER, Peter",United Australia Party,1
+ACT,101,Canberra,93984,Special Hospital Team 6,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,93984,Special Hospital Team 6,F,33703,0,F Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,93984,Special Hospital Team 6,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,93984,Special Hospital Team 6,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,93984,Special Hospital Team 6,G,33701,0,G Ticket Votes,Australian Labor Party,15
+ACT,101,Canberra,93984,Special Hospital Team 6,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,2
+ACT,101,Canberra,93984,Special Hospital Team 6,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,93984,Special Hospital Team 6,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,93984,Special Hospital Team 6,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,93984,Special Hospital Team 6,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,93984,Special Hospital Team 6,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,93998,Special Hospital Team 7,A,33704,0,A Ticket Votes,Liberal,15
+ACT,101,Canberra,93998,Special Hospital Team 7,A,32766,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,93998,Special Hospital Team 7,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,93998,Special Hospital Team 7,B,33700,0,B Ticket Votes,The Greens,4
+ACT,101,Canberra,93998,Special Hospital Team 7,B,32210,1,"KYBURZ, Penny",The Greens,0
+ACT,101,Canberra,93998,Special Hospital Team 7,B,32212,2,"DAVIDSON, Emma",The Greens,0
+ACT,101,Canberra,93998,Special Hospital Team 7,C,33706,0,C Ticket Votes,,0
+ACT,101,Canberra,93998,Special Hospital Team 7,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,93998,Special Hospital Team 7,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,93998,Special Hospital Team 7,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,2
+ACT,101,Canberra,93998,Special Hospital Team 7,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93998,Special Hospital Team 7,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,93998,Special Hospital Team 7,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,93998,Special Hospital Team 7,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,93998,Special Hospital Team 7,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,93998,Special Hospital Team 7,F,33703,0,F Ticket Votes,Sustainable Australia,1
+ACT,101,Canberra,93998,Special Hospital Team 7,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,93998,Special Hospital Team 7,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,93998,Special Hospital Team 7,G,33701,0,G Ticket Votes,Australian Labor Party,12
+ACT,101,Canberra,93998,Special Hospital Team 7,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,2
+ACT,101,Canberra,93998,Special Hospital Team 7,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,93998,Special Hospital Team 7,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,93998,Special Hospital Team 7,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,93998,Special Hospital Team 7,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,93998,Special Hospital Team 7,ZZ,0,99,INFORMAL,,2
+ACT,101,Canberra,97477,Special Hospital Team 8,A,33704,0,A Ticket Votes,Liberal,10
+ACT,101,Canberra,97477,Special Hospital Team 8,A,32766,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,97477,Special Hospital Team 8,A,32779,2,"GUNNING, Robert",Liberal,0
+ACT,101,Canberra,97477,Special Hospital Team 8,B,33700,0,B Ticket Votes,The Greens,9
+ACT,101,Canberra,97477,Special Hospital Team 8,B,32210,1,"KYBURZ, Penny",The Greens,4
+ACT,101,Canberra,97477,Special Hospital Team 8,B,32212,2,"DAVIDSON, Emma",The Greens,1
+ACT,101,Canberra,97477,Special Hospital Team 8,C,33706,0,C Ticket Votes,,1
+ACT,101,Canberra,97477,Special Hospital Team 8,C,33572,1,"PESEC, Anthony",,0
+ACT,101,Canberra,97477,Special Hospital Team 8,C,33576,2,"KENT, Gary",,0
+ACT,101,Canberra,97477,Special Hospital Team 8,D,33705,0,D Ticket Votes,FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,1
+ACT,101,Canberra,97477,Special Hospital Team 8,D,33574,1,"VAN DUREN, Shane",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,97477,Special Hospital Team 8,D,33584,2,"BIRKETT, Scott",FRASER ANNING'S CONSERVATIVE NATIONAL PARTY,0
+ACT,101,Canberra,97477,Special Hospital Team 8,E,33702,0,E Ticket Votes,United Australia Party,0
+ACT,101,Canberra,97477,Special Hospital Team 8,E,32246,1,"WALTER, Peter",United Australia Party,0
+ACT,101,Canberra,97477,Special Hospital Team 8,E,32248,2,"HODGSON, Rebecah Elen",United Australia Party,0
+ACT,101,Canberra,97477,Special Hospital Team 8,F,33703,0,F Ticket Votes,Sustainable Australia,0
+ACT,101,Canberra,97477,Special Hospital Team 8,F,32254,1,"HAYDON, John",Sustainable Australia,0
+ACT,101,Canberra,97477,Special Hospital Team 8,F,32256,2,"ANGEL, Joy",Sustainable Australia,0
+ACT,101,Canberra,97477,Special Hospital Team 8,G,33701,0,G Ticket Votes,Australian Labor Party,16
+ACT,101,Canberra,97477,Special Hospital Team 8,G,32588,1,"GALLAGHER, Katy",Australian Labor Party,5
+ACT,101,Canberra,97477,Special Hospital Team 8,G,32593,2,"WAITES, Nancy",Australian Labor Party,0
+ACT,101,Canberra,97477,Special Hospital Team 8,UG,33618,1,"HOUSTON, Nick",Independent,0
+ACT,101,Canberra,97477,Special Hospital Team 8,UG,32090,2,"COWTON, Gary",Independent,0
+ACT,101,Canberra,97477,Special Hospital Team 8,UG,33651,3,"KIM, David",Christian Democratic Party (Fred Nile Group),0
+ACT,101,Canberra,97477,Special Hospital Team 8,ZZ,0,99,INFORMAL,,0

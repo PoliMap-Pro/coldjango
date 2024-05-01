@@ -1,0 +1,660 @@
+2010 Federal Election Senate First Preferences By Polling Place for Division 102 [Event:15508 Phase:FinalResults Generated:2013-01-22T15:03:00 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,102,Fraser,8801,Ainslie North,A,22049,0,A Ticket Votes,Australian Labor Party,596
+ACT,102,Fraser,8801,Ainslie North,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,198
+ACT,102,Fraser,8801,Ainslie North,A,21072,2,"MATHEWS, David",Australian Labor Party,5
+ACT,102,Fraser,8801,Ainslie North,B,22050,0,B Ticket Votes,Australian Democrats,15
+ACT,102,Fraser,8801,Ainslie North,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,17
+ACT,102,Fraser,8801,Ainslie North,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8801,Ainslie North,C,22048,0,C Ticket Votes,The Greens,549
+ACT,102,Fraser,8801,Ainslie North,C,20838,1,"HATFIELD DODDS, Lin",The Greens,409
+ACT,102,Fraser,8801,Ainslie North,C,20840,2,"PARRIS, Hannah",The Greens,32
+ACT,102,Fraser,8801,Ainslie North,D,22047,0,D Ticket Votes,Liberal,391
+ACT,102,Fraser,8801,Ainslie North,D,20813,1,"HUMPHRIES, Gary",Liberal,73
+ACT,102,Fraser,8801,Ainslie North,D,20814,2,"WATTS, Matthew",Liberal,5
+ACT,102,Fraser,8801,Ainslie North,UG,21966,1,"GLYNN, John",Independent,24
+ACT,102,Fraser,8801,Ainslie North,ZZ,0,99,INFORMAL,,42
+ACT,102,Fraser,8802,Braddon,A,22049,0,A Ticket Votes,Australian Labor Party,498
+ACT,102,Fraser,8802,Braddon,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,197
+ACT,102,Fraser,8802,Braddon,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,102,Fraser,8802,Braddon,B,22050,0,B Ticket Votes,Australian Democrats,20
+ACT,102,Fraser,8802,Braddon,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,18
+ACT,102,Fraser,8802,Braddon,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,102,Fraser,8802,Braddon,C,22048,0,C Ticket Votes,The Greens,395
+ACT,102,Fraser,8802,Braddon,C,20838,1,"HATFIELD DODDS, Lin",The Greens,306
+ACT,102,Fraser,8802,Braddon,C,20840,2,"PARRIS, Hannah",The Greens,34
+ACT,102,Fraser,8802,Braddon,D,22047,0,D Ticket Votes,Liberal,359
+ACT,102,Fraser,8802,Braddon,D,20813,1,"HUMPHRIES, Gary",Liberal,82
+ACT,102,Fraser,8802,Braddon,D,20814,2,"WATTS, Matthew",Liberal,2
+ACT,102,Fraser,8802,Braddon,UG,21966,1,"GLYNN, John",Independent,16
+ACT,102,Fraser,8802,Braddon,ZZ,0,99,INFORMAL,,42
+ACT,102,Fraser,8803,Aranda,A,22049,0,A Ticket Votes,Australian Labor Party,753
+ACT,102,Fraser,8803,Aranda,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,257
+ACT,102,Fraser,8803,Aranda,A,21072,2,"MATHEWS, David",Australian Labor Party,24
+ACT,102,Fraser,8803,Aranda,B,22050,0,B Ticket Votes,Australian Democrats,21
+ACT,102,Fraser,8803,Aranda,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,12
+ACT,102,Fraser,8803,Aranda,B,21760,2,"DAVID, Anthony John",Australian Democrats,4
+ACT,102,Fraser,8803,Aranda,C,22048,0,C Ticket Votes,The Greens,542
+ACT,102,Fraser,8803,Aranda,C,20838,1,"HATFIELD DODDS, Lin",The Greens,449
+ACT,102,Fraser,8803,Aranda,C,20840,2,"PARRIS, Hannah",The Greens,38
+ACT,102,Fraser,8803,Aranda,D,22047,0,D Ticket Votes,Liberal,568
+ACT,102,Fraser,8803,Aranda,D,20813,1,"HUMPHRIES, Gary",Liberal,115
+ACT,102,Fraser,8803,Aranda,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,8803,Aranda,UG,21966,1,"GLYNN, John",Independent,31
+ACT,102,Fraser,8803,Aranda,ZZ,0,99,INFORMAL,,54
+ACT,102,Fraser,8804,Ainslie South,A,22049,0,A Ticket Votes,Australian Labor Party,226
+ACT,102,Fraser,8804,Ainslie South,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,71
+ACT,102,Fraser,8804,Ainslie South,A,21072,2,"MATHEWS, David",Australian Labor Party,10
+ACT,102,Fraser,8804,Ainslie South,B,22050,0,B Ticket Votes,Australian Democrats,7
+ACT,102,Fraser,8804,Ainslie South,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,7
+ACT,102,Fraser,8804,Ainslie South,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,8804,Ainslie South,C,22048,0,C Ticket Votes,The Greens,173
+ACT,102,Fraser,8804,Ainslie South,C,20838,1,"HATFIELD DODDS, Lin",The Greens,155
+ACT,102,Fraser,8804,Ainslie South,C,20840,2,"PARRIS, Hannah",The Greens,11
+ACT,102,Fraser,8804,Ainslie South,D,22047,0,D Ticket Votes,Liberal,132
+ACT,102,Fraser,8804,Ainslie South,D,20813,1,"HUMPHRIES, Gary",Liberal,31
+ACT,102,Fraser,8804,Ainslie South,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,102,Fraser,8804,Ainslie South,UG,21966,1,"GLYNN, John",Independent,11
+ACT,102,Fraser,8804,Ainslie South,ZZ,0,99,INFORMAL,,12
+ACT,102,Fraser,8805,Belconnen,A,22049,0,A Ticket Votes,Australian Labor Party,831
+ACT,102,Fraser,8805,Belconnen,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,185
+ACT,102,Fraser,8805,Belconnen,A,21072,2,"MATHEWS, David",Australian Labor Party,13
+ACT,102,Fraser,8805,Belconnen,B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,102,Fraser,8805,Belconnen,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,7
+ACT,102,Fraser,8805,Belconnen,B,21760,2,"DAVID, Anthony John",Australian Democrats,7
+ACT,102,Fraser,8805,Belconnen,C,22048,0,C Ticket Votes,The Greens,399
+ACT,102,Fraser,8805,Belconnen,C,20838,1,"HATFIELD DODDS, Lin",The Greens,229
+ACT,102,Fraser,8805,Belconnen,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,102,Fraser,8805,Belconnen,D,22047,0,D Ticket Votes,Liberal,642
+ACT,102,Fraser,8805,Belconnen,D,20813,1,"HUMPHRIES, Gary",Liberal,112
+ACT,102,Fraser,8805,Belconnen,D,20814,2,"WATTS, Matthew",Liberal,27
+ACT,102,Fraser,8805,Belconnen,UG,21966,1,"GLYNN, John",Independent,33
+ACT,102,Fraser,8805,Belconnen,ZZ,0,99,INFORMAL,,74
+ACT,102,Fraser,8806,Campbell,A,22049,0,A Ticket Votes,Australian Labor Party,396
+ACT,102,Fraser,8806,Campbell,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,133
+ACT,102,Fraser,8806,Campbell,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,102,Fraser,8806,Campbell,B,22050,0,B Ticket Votes,Australian Democrats,18
+ACT,102,Fraser,8806,Campbell,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,102,Fraser,8806,Campbell,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8806,Campbell,C,22048,0,C Ticket Votes,The Greens,299
+ACT,102,Fraser,8806,Campbell,C,20838,1,"HATFIELD DODDS, Lin",The Greens,206
+ACT,102,Fraser,8806,Campbell,C,20840,2,"PARRIS, Hannah",The Greens,19
+ACT,102,Fraser,8806,Campbell,D,22047,0,D Ticket Votes,Liberal,856
+ACT,102,Fraser,8806,Campbell,D,20813,1,"HUMPHRIES, Gary",Liberal,137
+ACT,102,Fraser,8806,Campbell,D,20814,2,"WATTS, Matthew",Liberal,16
+ACT,102,Fraser,8806,Campbell,UG,21966,1,"GLYNN, John",Independent,29
+ACT,102,Fraser,8806,Campbell,ZZ,0,99,INFORMAL,,35
+ACT,102,Fraser,8807,Charnwood,A,22049,0,A Ticket Votes,Australian Labor Party,1464
+ACT,102,Fraser,8807,Charnwood,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,247
+ACT,102,Fraser,8807,Charnwood,A,21072,2,"MATHEWS, David",Australian Labor Party,29
+ACT,102,Fraser,8807,Charnwood,B,22050,0,B Ticket Votes,Australian Democrats,39
+ACT,102,Fraser,8807,Charnwood,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,24
+ACT,102,Fraser,8807,Charnwood,B,21760,2,"DAVID, Anthony John",Australian Democrats,9
+ACT,102,Fraser,8807,Charnwood,C,22048,0,C Ticket Votes,The Greens,378
+ACT,102,Fraser,8807,Charnwood,C,20838,1,"HATFIELD DODDS, Lin",The Greens,182
+ACT,102,Fraser,8807,Charnwood,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,102,Fraser,8807,Charnwood,D,22047,0,D Ticket Votes,Liberal,937
+ACT,102,Fraser,8807,Charnwood,D,20813,1,"HUMPHRIES, Gary",Liberal,195
+ACT,102,Fraser,8807,Charnwood,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,8807,Charnwood,UG,21966,1,"GLYNN, John",Independent,53
+ACT,102,Fraser,8807,Charnwood,ZZ,0,99,INFORMAL,,155
+ACT,102,Fraser,8808,City,A,22049,0,A Ticket Votes,Australian Labor Party,373
+ACT,102,Fraser,8808,City,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,107
+ACT,102,Fraser,8808,City,A,21072,2,"MATHEWS, David",Australian Labor Party,9
+ACT,102,Fraser,8808,City,B,22050,0,B Ticket Votes,Australian Democrats,19
+ACT,102,Fraser,8808,City,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,16
+ACT,102,Fraser,8808,City,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8808,City,C,22048,0,C Ticket Votes,The Greens,324
+ACT,102,Fraser,8808,City,C,20838,1,"HATFIELD DODDS, Lin",The Greens,249
+ACT,102,Fraser,8808,City,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,102,Fraser,8808,City,D,22047,0,D Ticket Votes,Liberal,299
+ACT,102,Fraser,8808,City,D,20813,1,"HUMPHRIES, Gary",Liberal,65
+ACT,102,Fraser,8808,City,D,20814,2,"WATTS, Matthew",Liberal,4
+ACT,102,Fraser,8808,City,UG,21966,1,"GLYNN, John",Independent,20
+ACT,102,Fraser,8808,City,ZZ,0,99,INFORMAL,,32
+ACT,102,Fraser,8809,Dickson,A,22049,0,A Ticket Votes,Australian Labor Party,482
+ACT,102,Fraser,8809,Dickson,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,117
+ACT,102,Fraser,8809,Dickson,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,102,Fraser,8809,Dickson,B,22050,0,B Ticket Votes,Australian Democrats,18
+ACT,102,Fraser,8809,Dickson,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,102,Fraser,8809,Dickson,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,8809,Dickson,C,22048,0,C Ticket Votes,The Greens,295
+ACT,102,Fraser,8809,Dickson,C,20838,1,"HATFIELD DODDS, Lin",The Greens,202
+ACT,102,Fraser,8809,Dickson,C,20840,2,"PARRIS, Hannah",The Greens,22
+ACT,102,Fraser,8809,Dickson,D,22047,0,D Ticket Votes,Liberal,364
+ACT,102,Fraser,8809,Dickson,D,20813,1,"HUMPHRIES, Gary",Liberal,60
+ACT,102,Fraser,8809,Dickson,D,20814,2,"WATTS, Matthew",Liberal,4
+ACT,102,Fraser,8809,Dickson,UG,21966,1,"GLYNN, John",Independent,15
+ACT,102,Fraser,8809,Dickson,ZZ,0,99,INFORMAL,,45
+ACT,102,Fraser,8810,Downer,A,22049,0,A Ticket Votes,Australian Labor Party,401
+ACT,102,Fraser,8810,Downer,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,97
+ACT,102,Fraser,8810,Downer,A,21072,2,"MATHEWS, David",Australian Labor Party,10
+ACT,102,Fraser,8810,Downer,B,22050,0,B Ticket Votes,Australian Democrats,9
+ACT,102,Fraser,8810,Downer,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,102,Fraser,8810,Downer,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8810,Downer,C,22048,0,C Ticket Votes,The Greens,217
+ACT,102,Fraser,8810,Downer,C,20838,1,"HATFIELD DODDS, Lin",The Greens,193
+ACT,102,Fraser,8810,Downer,C,20840,2,"PARRIS, Hannah",The Greens,8
+ACT,102,Fraser,8810,Downer,D,22047,0,D Ticket Votes,Liberal,275
+ACT,102,Fraser,8810,Downer,D,20813,1,"HUMPHRIES, Gary",Liberal,43
+ACT,102,Fraser,8810,Downer,D,20814,2,"WATTS, Matthew",Liberal,1
+ACT,102,Fraser,8810,Downer,UG,21966,1,"GLYNN, John",Independent,13
+ACT,102,Fraser,8810,Downer,ZZ,0,99,INFORMAL,,41
+ACT,102,Fraser,8812,Evatt,A,22049,0,A Ticket Votes,Australian Labor Party,1306
+ACT,102,Fraser,8812,Evatt,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,237
+ACT,102,Fraser,8812,Evatt,A,21072,2,"MATHEWS, David",Australian Labor Party,29
+ACT,102,Fraser,8812,Evatt,B,22050,0,B Ticket Votes,Australian Democrats,49
+ACT,102,Fraser,8812,Evatt,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,16
+ACT,102,Fraser,8812,Evatt,B,21760,2,"DAVID, Anthony John",Australian Democrats,8
+ACT,102,Fraser,8812,Evatt,C,22048,0,C Ticket Votes,The Greens,412
+ACT,102,Fraser,8812,Evatt,C,20838,1,"HATFIELD DODDS, Lin",The Greens,206
+ACT,102,Fraser,8812,Evatt,C,20840,2,"PARRIS, Hannah",The Greens,15
+ACT,102,Fraser,8812,Evatt,D,22047,0,D Ticket Votes,Liberal,876
+ACT,102,Fraser,8812,Evatt,D,20813,1,"HUMPHRIES, Gary",Liberal,153
+ACT,102,Fraser,8812,Evatt,D,20814,2,"WATTS, Matthew",Liberal,12
+ACT,102,Fraser,8812,Evatt,UG,21966,1,"GLYNN, John",Independent,36
+ACT,102,Fraser,8812,Evatt,ZZ,0,99,INFORMAL,,111
+ACT,102,Fraser,8813,Evatt South,A,22049,0,A Ticket Votes,Australian Labor Party,539
+ACT,102,Fraser,8813,Evatt South,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,132
+ACT,102,Fraser,8813,Evatt South,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,102,Fraser,8813,Evatt South,B,22050,0,B Ticket Votes,Australian Democrats,15
+ACT,102,Fraser,8813,Evatt South,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,8
+ACT,102,Fraser,8813,Evatt South,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,8813,Evatt South,C,22048,0,C Ticket Votes,The Greens,223
+ACT,102,Fraser,8813,Evatt South,C,20838,1,"HATFIELD DODDS, Lin",The Greens,154
+ACT,102,Fraser,8813,Evatt South,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,102,Fraser,8813,Evatt South,D,22047,0,D Ticket Votes,Liberal,403
+ACT,102,Fraser,8813,Evatt South,D,20813,1,"HUMPHRIES, Gary",Liberal,74
+ACT,102,Fraser,8813,Evatt South,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,102,Fraser,8813,Evatt South,UG,21966,1,"GLYNN, John",Independent,27
+ACT,102,Fraser,8813,Evatt South,ZZ,0,99,INFORMAL,,71
+ACT,102,Fraser,8814,Florey,A,22049,0,A Ticket Votes,Australian Labor Party,777
+ACT,102,Fraser,8814,Florey,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,151
+ACT,102,Fraser,8814,Florey,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,102,Fraser,8814,Florey,B,22050,0,B Ticket Votes,Australian Democrats,14
+ACT,102,Fraser,8814,Florey,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,12
+ACT,102,Fraser,8814,Florey,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,8814,Florey,C,22048,0,C Ticket Votes,The Greens,246
+ACT,102,Fraser,8814,Florey,C,20838,1,"HATFIELD DODDS, Lin",The Greens,150
+ACT,102,Fraser,8814,Florey,C,20840,2,"PARRIS, Hannah",The Greens,15
+ACT,102,Fraser,8814,Florey,D,22047,0,D Ticket Votes,Liberal,548
+ACT,102,Fraser,8814,Florey,D,20813,1,"HUMPHRIES, Gary",Liberal,116
+ACT,102,Fraser,8814,Florey,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,102,Fraser,8814,Florey,UG,21966,1,"GLYNN, John",Independent,26
+ACT,102,Fraser,8814,Florey,ZZ,0,99,INFORMAL,,80
+ACT,102,Fraser,8816,Giralang,A,22049,0,A Ticket Votes,Australian Labor Party,696
+ACT,102,Fraser,8816,Giralang,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,163
+ACT,102,Fraser,8816,Giralang,A,21072,2,"MATHEWS, David",Australian Labor Party,14
+ACT,102,Fraser,8816,Giralang,B,22050,0,B Ticket Votes,Australian Democrats,28
+ACT,102,Fraser,8816,Giralang,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,14
+ACT,102,Fraser,8816,Giralang,B,21760,2,"DAVID, Anthony John",Australian Democrats,5
+ACT,102,Fraser,8816,Giralang,C,22048,0,C Ticket Votes,The Greens,235
+ACT,102,Fraser,8816,Giralang,C,20838,1,"HATFIELD DODDS, Lin",The Greens,152
+ACT,102,Fraser,8816,Giralang,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,8816,Giralang,D,22047,0,D Ticket Votes,Liberal,512
+ACT,102,Fraser,8816,Giralang,D,20813,1,"HUMPHRIES, Gary",Liberal,96
+ACT,102,Fraser,8816,Giralang,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,102,Fraser,8816,Giralang,UG,21966,1,"GLYNN, John",Independent,19
+ACT,102,Fraser,8816,Giralang,ZZ,0,99,INFORMAL,,79
+ACT,102,Fraser,8819,Hall,A,22049,0,A Ticket Votes,Australian Labor Party,64
+ACT,102,Fraser,8819,Hall,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,13
+ACT,102,Fraser,8819,Hall,A,21072,2,"MATHEWS, David",Australian Labor Party,2
+ACT,102,Fraser,8819,Hall,B,22050,0,B Ticket Votes,Australian Democrats,2
+ACT,102,Fraser,8819,Hall,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,102,Fraser,8819,Hall,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,8819,Hall,C,22048,0,C Ticket Votes,The Greens,36
+ACT,102,Fraser,8819,Hall,C,20838,1,"HATFIELD DODDS, Lin",The Greens,23
+ACT,102,Fraser,8819,Hall,C,20840,2,"PARRIS, Hannah",The Greens,1
+ACT,102,Fraser,8819,Hall,D,22047,0,D Ticket Votes,Liberal,118
+ACT,102,Fraser,8819,Hall,D,20813,1,"HUMPHRIES, Gary",Liberal,11
+ACT,102,Fraser,8819,Hall,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,102,Fraser,8819,Hall,UG,21966,1,"GLYNN, John",Independent,4
+ACT,102,Fraser,8819,Hall,ZZ,0,99,INFORMAL,,7
+ACT,102,Fraser,8821,Holt,A,22049,0,A Ticket Votes,Australian Labor Party,1031
+ACT,102,Fraser,8821,Holt,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,195
+ACT,102,Fraser,8821,Holt,A,21072,2,"MATHEWS, David",Australian Labor Party,22
+ACT,102,Fraser,8821,Holt,B,22050,0,B Ticket Votes,Australian Democrats,25
+ACT,102,Fraser,8821,Holt,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,102,Fraser,8821,Holt,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,102,Fraser,8821,Holt,C,22048,0,C Ticket Votes,The Greens,357
+ACT,102,Fraser,8821,Holt,C,20838,1,"HATFIELD DODDS, Lin",The Greens,212
+ACT,102,Fraser,8821,Holt,C,20840,2,"PARRIS, Hannah",The Greens,19
+ACT,102,Fraser,8821,Holt,D,22047,0,D Ticket Votes,Liberal,685
+ACT,102,Fraser,8821,Holt,D,20813,1,"HUMPHRIES, Gary",Liberal,130
+ACT,102,Fraser,8821,Holt,D,20814,2,"WATTS, Matthew",Liberal,13
+ACT,102,Fraser,8821,Holt,UG,21966,1,"GLYNN, John",Independent,23
+ACT,102,Fraser,8821,Holt,ZZ,0,99,INFORMAL,,94
+ACT,102,Fraser,8822,Jervis Bay,A,22049,0,A Ticket Votes,Australian Labor Party,18
+ACT,102,Fraser,8822,Jervis Bay,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,2
+ACT,102,Fraser,8822,Jervis Bay,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,102,Fraser,8822,Jervis Bay,B,22050,0,B Ticket Votes,Australian Democrats,0
+ACT,102,Fraser,8822,Jervis Bay,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,102,Fraser,8822,Jervis Bay,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,8822,Jervis Bay,C,22048,0,C Ticket Votes,The Greens,6
+ACT,102,Fraser,8822,Jervis Bay,C,20838,1,"HATFIELD DODDS, Lin",The Greens,4
+ACT,102,Fraser,8822,Jervis Bay,C,20840,2,"PARRIS, Hannah",The Greens,5
+ACT,102,Fraser,8822,Jervis Bay,D,22047,0,D Ticket Votes,Liberal,21
+ACT,102,Fraser,8822,Jervis Bay,D,20813,1,"HUMPHRIES, Gary",Liberal,2
+ACT,102,Fraser,8822,Jervis Bay,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,102,Fraser,8822,Jervis Bay,UG,21966,1,"GLYNN, John",Independent,1
+ACT,102,Fraser,8822,Jervis Bay,ZZ,0,99,INFORMAL,,0
+ACT,102,Fraser,8823,Kaleen,A,22049,0,A Ticket Votes,Australian Labor Party,1009
+ACT,102,Fraser,8823,Kaleen,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,232
+ACT,102,Fraser,8823,Kaleen,A,21072,2,"MATHEWS, David",Australian Labor Party,14
+ACT,102,Fraser,8823,Kaleen,B,22050,0,B Ticket Votes,Australian Democrats,49
+ACT,102,Fraser,8823,Kaleen,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,102,Fraser,8823,Kaleen,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,8823,Kaleen,C,22048,0,C Ticket Votes,The Greens,289
+ACT,102,Fraser,8823,Kaleen,C,20838,1,"HATFIELD DODDS, Lin",The Greens,207
+ACT,102,Fraser,8823,Kaleen,C,20840,2,"PARRIS, Hannah",The Greens,32
+ACT,102,Fraser,8823,Kaleen,D,22047,0,D Ticket Votes,Liberal,748
+ACT,102,Fraser,8823,Kaleen,D,20813,1,"HUMPHRIES, Gary",Liberal,137
+ACT,102,Fraser,8823,Kaleen,D,20814,2,"WATTS, Matthew",Liberal,19
+ACT,102,Fraser,8823,Kaleen,UG,21966,1,"GLYNN, John",Independent,15
+ACT,102,Fraser,8823,Kaleen,ZZ,0,99,INFORMAL,,94
+ACT,102,Fraser,8824,Kaleen South,A,22049,0,A Ticket Votes,Australian Labor Party,586
+ACT,102,Fraser,8824,Kaleen South,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,106
+ACT,102,Fraser,8824,Kaleen South,A,21072,2,"MATHEWS, David",Australian Labor Party,10
+ACT,102,Fraser,8824,Kaleen South,B,22050,0,B Ticket Votes,Australian Democrats,28
+ACT,102,Fraser,8824,Kaleen South,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,18
+ACT,102,Fraser,8824,Kaleen South,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8824,Kaleen South,C,22048,0,C Ticket Votes,The Greens,266
+ACT,102,Fraser,8824,Kaleen South,C,20838,1,"HATFIELD DODDS, Lin",The Greens,146
+ACT,102,Fraser,8824,Kaleen South,C,20840,2,"PARRIS, Hannah",The Greens,19
+ACT,102,Fraser,8824,Kaleen South,D,22047,0,D Ticket Votes,Liberal,479
+ACT,102,Fraser,8824,Kaleen South,D,20813,1,"HUMPHRIES, Gary",Liberal,84
+ACT,102,Fraser,8824,Kaleen South,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,102,Fraser,8824,Kaleen South,UG,21966,1,"GLYNN, John",Independent,20
+ACT,102,Fraser,8824,Kaleen South,ZZ,0,99,INFORMAL,,61
+ACT,102,Fraser,8825,Latham,A,22049,0,A Ticket Votes,Australian Labor Party,968
+ACT,102,Fraser,8825,Latham,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,162
+ACT,102,Fraser,8825,Latham,A,21072,2,"MATHEWS, David",Australian Labor Party,19
+ACT,102,Fraser,8825,Latham,B,22050,0,B Ticket Votes,Australian Democrats,38
+ACT,102,Fraser,8825,Latham,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,102,Fraser,8825,Latham,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,8825,Latham,C,22048,0,C Ticket Votes,The Greens,233
+ACT,102,Fraser,8825,Latham,C,20838,1,"HATFIELD DODDS, Lin",The Greens,169
+ACT,102,Fraser,8825,Latham,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,8825,Latham,D,22047,0,D Ticket Votes,Liberal,597
+ACT,102,Fraser,8825,Latham,D,20813,1,"HUMPHRIES, Gary",Liberal,97
+ACT,102,Fraser,8825,Latham,D,20814,2,"WATTS, Matthew",Liberal,12
+ACT,102,Fraser,8825,Latham,UG,21966,1,"GLYNN, John",Independent,36
+ACT,102,Fraser,8825,Latham,ZZ,0,99,INFORMAL,,58
+ACT,102,Fraser,8826,Lyneham,A,22049,0,A Ticket Votes,Australian Labor Party,859
+ACT,102,Fraser,8826,Lyneham,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,247
+ACT,102,Fraser,8826,Lyneham,A,21072,2,"MATHEWS, David",Australian Labor Party,20
+ACT,102,Fraser,8826,Lyneham,B,22050,0,B Ticket Votes,Australian Democrats,21
+ACT,102,Fraser,8826,Lyneham,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,102,Fraser,8826,Lyneham,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,8826,Lyneham,C,22048,0,C Ticket Votes,The Greens,685
+ACT,102,Fraser,8826,Lyneham,C,20838,1,"HATFIELD DODDS, Lin",The Greens,544
+ACT,102,Fraser,8826,Lyneham,C,20840,2,"PARRIS, Hannah",The Greens,54
+ACT,102,Fraser,8826,Lyneham,D,22047,0,D Ticket Votes,Liberal,490
+ACT,102,Fraser,8826,Lyneham,D,20813,1,"HUMPHRIES, Gary",Liberal,96
+ACT,102,Fraser,8826,Lyneham,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,8826,Lyneham,UG,21966,1,"GLYNN, John",Independent,27
+ACT,102,Fraser,8826,Lyneham,ZZ,0,99,INFORMAL,,60
+ACT,102,Fraser,8827,Macgregor,A,22049,0,A Ticket Votes,Australian Labor Party,858
+ACT,102,Fraser,8827,Macgregor,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,146
+ACT,102,Fraser,8827,Macgregor,A,21072,2,"MATHEWS, David",Australian Labor Party,9
+ACT,102,Fraser,8827,Macgregor,B,22050,0,B Ticket Votes,Australian Democrats,24
+ACT,102,Fraser,8827,Macgregor,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,12
+ACT,102,Fraser,8827,Macgregor,B,21760,2,"DAVID, Anthony John",Australian Democrats,5
+ACT,102,Fraser,8827,Macgregor,C,22048,0,C Ticket Votes,The Greens,266
+ACT,102,Fraser,8827,Macgregor,C,20838,1,"HATFIELD DODDS, Lin",The Greens,155
+ACT,102,Fraser,8827,Macgregor,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,8827,Macgregor,D,22047,0,D Ticket Votes,Liberal,529
+ACT,102,Fraser,8827,Macgregor,D,20813,1,"HUMPHRIES, Gary",Liberal,89
+ACT,102,Fraser,8827,Macgregor,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,102,Fraser,8827,Macgregor,UG,21966,1,"GLYNN, John",Independent,25
+ACT,102,Fraser,8827,Macgregor,ZZ,0,99,INFORMAL,,86
+ACT,102,Fraser,8828,Macquarie,A,22049,0,A Ticket Votes,Australian Labor Party,626
+ACT,102,Fraser,8828,Macquarie,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,122
+ACT,102,Fraser,8828,Macquarie,A,21072,2,"MATHEWS, David",Australian Labor Party,9
+ACT,102,Fraser,8828,Macquarie,B,22050,0,B Ticket Votes,Australian Democrats,21
+ACT,102,Fraser,8828,Macquarie,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,102,Fraser,8828,Macquarie,B,21760,2,"DAVID, Anthony John",Australian Democrats,4
+ACT,102,Fraser,8828,Macquarie,C,22048,0,C Ticket Votes,The Greens,342
+ACT,102,Fraser,8828,Macquarie,C,20838,1,"HATFIELD DODDS, Lin",The Greens,237
+ACT,102,Fraser,8828,Macquarie,C,20840,2,"PARRIS, Hannah",The Greens,20
+ACT,102,Fraser,8828,Macquarie,D,22047,0,D Ticket Votes,Liberal,392
+ACT,102,Fraser,8828,Macquarie,D,20813,1,"HUMPHRIES, Gary",Liberal,72
+ACT,102,Fraser,8828,Macquarie,D,20814,2,"WATTS, Matthew",Liberal,13
+ACT,102,Fraser,8828,Macquarie,UG,21966,1,"GLYNN, John",Independent,27
+ACT,102,Fraser,8828,Macquarie,ZZ,0,99,INFORMAL,,39
+ACT,102,Fraser,8830,Melba,A,22049,0,A Ticket Votes,Australian Labor Party,691
+ACT,102,Fraser,8830,Melba,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,181
+ACT,102,Fraser,8830,Melba,A,21072,2,"MATHEWS, David",Australian Labor Party,16
+ACT,102,Fraser,8830,Melba,B,22050,0,B Ticket Votes,Australian Democrats,13
+ACT,102,Fraser,8830,Melba,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,12
+ACT,102,Fraser,8830,Melba,B,21760,2,"DAVID, Anthony John",Australian Democrats,4
+ACT,102,Fraser,8830,Melba,C,22048,0,C Ticket Votes,The Greens,246
+ACT,102,Fraser,8830,Melba,C,20838,1,"HATFIELD DODDS, Lin",The Greens,180
+ACT,102,Fraser,8830,Melba,C,20840,2,"PARRIS, Hannah",The Greens,20
+ACT,102,Fraser,8830,Melba,D,22047,0,D Ticket Votes,Liberal,487
+ACT,102,Fraser,8830,Melba,D,20813,1,"HUMPHRIES, Gary",Liberal,104
+ACT,102,Fraser,8830,Melba,D,20814,2,"WATTS, Matthew",Liberal,15
+ACT,102,Fraser,8830,Melba,UG,21966,1,"GLYNN, John",Independent,25
+ACT,102,Fraser,8830,Melba,ZZ,0,99,INFORMAL,,35
+ACT,102,Fraser,8832,Page,A,22049,0,A Ticket Votes,Australian Labor Party,728
+ACT,102,Fraser,8832,Page,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,171
+ACT,102,Fraser,8832,Page,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,102,Fraser,8832,Page,B,22050,0,B Ticket Votes,Australian Democrats,20
+ACT,102,Fraser,8832,Page,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,19
+ACT,102,Fraser,8832,Page,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8832,Page,C,22048,0,C Ticket Votes,The Greens,307
+ACT,102,Fraser,8832,Page,C,20838,1,"HATFIELD DODDS, Lin",The Greens,161
+ACT,102,Fraser,8832,Page,C,20840,2,"PARRIS, Hannah",The Greens,18
+ACT,102,Fraser,8832,Page,D,22047,0,D Ticket Votes,Liberal,548
+ACT,102,Fraser,8832,Page,D,20813,1,"HUMPHRIES, Gary",Liberal,118
+ACT,102,Fraser,8832,Page,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,8832,Page,UG,21966,1,"GLYNN, John",Independent,26
+ACT,102,Fraser,8832,Page,ZZ,0,99,INFORMAL,,66
+ACT,102,Fraser,8833,Reid,A,22049,0,A Ticket Votes,Australian Labor Party,152
+ACT,102,Fraser,8833,Reid,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,47
+ACT,102,Fraser,8833,Reid,A,21072,2,"MATHEWS, David",Australian Labor Party,6
+ACT,102,Fraser,8833,Reid,B,22050,0,B Ticket Votes,Australian Democrats,4
+ACT,102,Fraser,8833,Reid,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,102,Fraser,8833,Reid,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8833,Reid,C,22048,0,C Ticket Votes,The Greens,130
+ACT,102,Fraser,8833,Reid,C,20838,1,"HATFIELD DODDS, Lin",The Greens,106
+ACT,102,Fraser,8833,Reid,C,20840,2,"PARRIS, Hannah",The Greens,8
+ACT,102,Fraser,8833,Reid,D,22047,0,D Ticket Votes,Liberal,204
+ACT,102,Fraser,8833,Reid,D,20813,1,"HUMPHRIES, Gary",Liberal,32
+ACT,102,Fraser,8833,Reid,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,102,Fraser,8833,Reid,UG,21966,1,"GLYNN, John",Independent,5
+ACT,102,Fraser,8833,Reid,ZZ,0,99,INFORMAL,,15
+ACT,102,Fraser,8834,Scullin,A,22049,0,A Ticket Votes,Australian Labor Party,688
+ACT,102,Fraser,8834,Scullin,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,112
+ACT,102,Fraser,8834,Scullin,A,21072,2,"MATHEWS, David",Australian Labor Party,10
+ACT,102,Fraser,8834,Scullin,B,22050,0,B Ticket Votes,Australian Democrats,21
+ACT,102,Fraser,8834,Scullin,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,102,Fraser,8834,Scullin,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,8834,Scullin,C,22048,0,C Ticket Votes,The Greens,267
+ACT,102,Fraser,8834,Scullin,C,20838,1,"HATFIELD DODDS, Lin",The Greens,134
+ACT,102,Fraser,8834,Scullin,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,8834,Scullin,D,22047,0,D Ticket Votes,Liberal,347
+ACT,102,Fraser,8834,Scullin,D,20813,1,"HUMPHRIES, Gary",Liberal,77
+ACT,102,Fraser,8834,Scullin,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,102,Fraser,8834,Scullin,UG,21966,1,"GLYNN, John",Independent,21
+ACT,102,Fraser,8834,Scullin,ZZ,0,99,INFORMAL,,59
+ACT,102,Fraser,8836,Turner,A,22049,0,A Ticket Votes,Australian Labor Party,523
+ACT,102,Fraser,8836,Turner,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,198
+ACT,102,Fraser,8836,Turner,A,21072,2,"MATHEWS, David",Australian Labor Party,13
+ACT,102,Fraser,8836,Turner,B,22050,0,B Ticket Votes,Australian Democrats,23
+ACT,102,Fraser,8836,Turner,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,18
+ACT,102,Fraser,8836,Turner,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,102,Fraser,8836,Turner,C,22048,0,C Ticket Votes,The Greens,469
+ACT,102,Fraser,8836,Turner,C,20838,1,"HATFIELD DODDS, Lin",The Greens,426
+ACT,102,Fraser,8836,Turner,C,20840,2,"PARRIS, Hannah",The Greens,37
+ACT,102,Fraser,8836,Turner,D,22047,0,D Ticket Votes,Liberal,354
+ACT,102,Fraser,8836,Turner,D,20813,1,"HUMPHRIES, Gary",Liberal,89
+ACT,102,Fraser,8836,Turner,D,20814,2,"WATTS, Matthew",Liberal,2
+ACT,102,Fraser,8836,Turner,UG,21966,1,"GLYNN, John",Independent,27
+ACT,102,Fraser,8836,Turner,ZZ,0,99,INFORMAL,,40
+ACT,102,Fraser,8837,Watson,A,22049,0,A Ticket Votes,Australian Labor Party,853
+ACT,102,Fraser,8837,Watson,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,239
+ACT,102,Fraser,8837,Watson,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,102,Fraser,8837,Watson,B,22050,0,B Ticket Votes,Australian Democrats,30
+ACT,102,Fraser,8837,Watson,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,18
+ACT,102,Fraser,8837,Watson,B,21760,2,"DAVID, Anthony John",Australian Democrats,5
+ACT,102,Fraser,8837,Watson,C,22048,0,C Ticket Votes,The Greens,643
+ACT,102,Fraser,8837,Watson,C,20838,1,"HATFIELD DODDS, Lin",The Greens,448
+ACT,102,Fraser,8837,Watson,C,20840,2,"PARRIS, Hannah",The Greens,36
+ACT,102,Fraser,8837,Watson,D,22047,0,D Ticket Votes,Liberal,568
+ACT,102,Fraser,8837,Watson,D,20813,1,"HUMPHRIES, Gary",Liberal,148
+ACT,102,Fraser,8837,Watson,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,8837,Watson,UG,21966,1,"GLYNN, John",Independent,23
+ACT,102,Fraser,8837,Watson,ZZ,0,99,INFORMAL,,66
+ACT,102,Fraser,8838,Weetangera,A,22049,0,A Ticket Votes,Australian Labor Party,637
+ACT,102,Fraser,8838,Weetangera,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,220
+ACT,102,Fraser,8838,Weetangera,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,102,Fraser,8838,Weetangera,B,22050,0,B Ticket Votes,Australian Democrats,19
+ACT,102,Fraser,8838,Weetangera,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,7
+ACT,102,Fraser,8838,Weetangera,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,8838,Weetangera,C,22048,0,C Ticket Votes,The Greens,308
+ACT,102,Fraser,8838,Weetangera,C,20838,1,"HATFIELD DODDS, Lin",The Greens,273
+ACT,102,Fraser,8838,Weetangera,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,8838,Weetangera,D,22047,0,D Ticket Votes,Liberal,636
+ACT,102,Fraser,8838,Weetangera,D,20813,1,"HUMPHRIES, Gary",Liberal,140
+ACT,102,Fraser,8838,Weetangera,D,20814,2,"WATTS, Matthew",Liberal,4
+ACT,102,Fraser,8838,Weetangera,UG,21966,1,"GLYNN, John",Independent,31
+ACT,102,Fraser,8838,Weetangera,ZZ,0,99,INFORMAL,,33
+ACT,102,Fraser,8839,Wreck Bay,A,22049,0,A Ticket Votes,Australian Labor Party,42
+ACT,102,Fraser,8839,Wreck Bay,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,7
+ACT,102,Fraser,8839,Wreck Bay,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,102,Fraser,8839,Wreck Bay,B,22050,0,B Ticket Votes,Australian Democrats,1
+ACT,102,Fraser,8839,Wreck Bay,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,102,Fraser,8839,Wreck Bay,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,8839,Wreck Bay,C,22048,0,C Ticket Votes,The Greens,9
+ACT,102,Fraser,8839,Wreck Bay,C,20838,1,"HATFIELD DODDS, Lin",The Greens,4
+ACT,102,Fraser,8839,Wreck Bay,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,102,Fraser,8839,Wreck Bay,D,22047,0,D Ticket Votes,Liberal,3
+ACT,102,Fraser,8839,Wreck Bay,D,20813,1,"HUMPHRIES, Gary",Liberal,0
+ACT,102,Fraser,8839,Wreck Bay,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,102,Fraser,8839,Wreck Bay,UG,21966,1,"GLYNN, John",Independent,0
+ACT,102,Fraser,8839,Wreck Bay,ZZ,0,99,INFORMAL,,1
+ACT,102,Fraser,12073,Bruce,A,22049,0,A Ticket Votes,Australian Labor Party,325
+ACT,102,Fraser,12073,Bruce,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,52
+ACT,102,Fraser,12073,Bruce,A,21072,2,"MATHEWS, David",Australian Labor Party,5
+ACT,102,Fraser,12073,Bruce,B,22050,0,B Ticket Votes,Australian Democrats,9
+ACT,102,Fraser,12073,Bruce,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,8
+ACT,102,Fraser,12073,Bruce,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,12073,Bruce,C,22048,0,C Ticket Votes,The Greens,115
+ACT,102,Fraser,12073,Bruce,C,20838,1,"HATFIELD DODDS, Lin",The Greens,74
+ACT,102,Fraser,12073,Bruce,C,20840,2,"PARRIS, Hannah",The Greens,9
+ACT,102,Fraser,12073,Bruce,D,22047,0,D Ticket Votes,Liberal,265
+ACT,102,Fraser,12073,Bruce,D,20813,1,"HUMPHRIES, Gary",Liberal,40
+ACT,102,Fraser,12073,Bruce,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,102,Fraser,12073,Bruce,UG,21966,1,"GLYNN, John",Independent,9
+ACT,102,Fraser,12073,Bruce,ZZ,0,99,INFORMAL,,15
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),A,22049,0,A Ticket Votes,Australian Labor Party,653
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,212
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),A,21072,2,"MATHEWS, David",Australian Labor Party,18
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,23
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),C,22048,0,C Ticket Votes,The Greens,472
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),C,20838,1,"HATFIELD DODDS, Lin",The Greens,364
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),C,20840,2,"PARRIS, Hannah",The Greens,38
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),D,22047,0,D Ticket Votes,Liberal,550
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),D,20813,1,"HUMPHRIES, Gary",Liberal,116
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),UG,21966,1,"GLYNN, John",Independent,23
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,32
+ACT,102,Fraser,31626,Palmerston,A,22049,0,A Ticket Votes,Australian Labor Party,1010
+ACT,102,Fraser,31626,Palmerston,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,170
+ACT,102,Fraser,31626,Palmerston,A,21072,2,"MATHEWS, David",Australian Labor Party,18
+ACT,102,Fraser,31626,Palmerston,B,22050,0,B Ticket Votes,Australian Democrats,20
+ACT,102,Fraser,31626,Palmerston,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,102,Fraser,31626,Palmerston,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,31626,Palmerston,C,22048,0,C Ticket Votes,The Greens,295
+ACT,102,Fraser,31626,Palmerston,C,20838,1,"HATFIELD DODDS, Lin",The Greens,146
+ACT,102,Fraser,31626,Palmerston,C,20840,2,"PARRIS, Hannah",The Greens,21
+ACT,102,Fraser,31626,Palmerston,D,22047,0,D Ticket Votes,Liberal,698
+ACT,102,Fraser,31626,Palmerston,D,20813,1,"HUMPHRIES, Gary",Liberal,108
+ACT,102,Fraser,31626,Palmerston,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,102,Fraser,31626,Palmerston,UG,21966,1,"GLYNN, John",Independent,25
+ACT,102,Fraser,31626,Palmerston,ZZ,0,99,INFORMAL,,80
+ACT,102,Fraser,32081,Nicholls,A,22049,0,A Ticket Votes,Australian Labor Party,1045
+ACT,102,Fraser,32081,Nicholls,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,221
+ACT,102,Fraser,32081,Nicholls,A,21072,2,"MATHEWS, David",Australian Labor Party,19
+ACT,102,Fraser,32081,Nicholls,B,22050,0,B Ticket Votes,Australian Democrats,32
+ACT,102,Fraser,32081,Nicholls,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,102,Fraser,32081,Nicholls,B,21760,2,"DAVID, Anthony John",Australian Democrats,5
+ACT,102,Fraser,32081,Nicholls,C,22048,0,C Ticket Votes,The Greens,320
+ACT,102,Fraser,32081,Nicholls,C,20838,1,"HATFIELD DODDS, Lin",The Greens,143
+ACT,102,Fraser,32081,Nicholls,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,102,Fraser,32081,Nicholls,D,22047,0,D Ticket Votes,Liberal,1158
+ACT,102,Fraser,32081,Nicholls,D,20813,1,"HUMPHRIES, Gary",Liberal,183
+ACT,102,Fraser,32081,Nicholls,D,20814,2,"WATTS, Matthew",Liberal,13
+ACT,102,Fraser,32081,Nicholls,UG,21966,1,"GLYNN, John",Independent,23
+ACT,102,Fraser,32081,Nicholls,ZZ,0,99,INFORMAL,,76
+ACT,102,Fraser,32463,Ngunnawal,A,22049,0,A Ticket Votes,Australian Labor Party,838
+ACT,102,Fraser,32463,Ngunnawal,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,184
+ACT,102,Fraser,32463,Ngunnawal,A,21072,2,"MATHEWS, David",Australian Labor Party,23
+ACT,102,Fraser,32463,Ngunnawal,B,22050,0,B Ticket Votes,Australian Democrats,30
+ACT,102,Fraser,32463,Ngunnawal,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,16
+ACT,102,Fraser,32463,Ngunnawal,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,32463,Ngunnawal,C,22048,0,C Ticket Votes,The Greens,282
+ACT,102,Fraser,32463,Ngunnawal,C,20838,1,"HATFIELD DODDS, Lin",The Greens,155
+ACT,102,Fraser,32463,Ngunnawal,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,102,Fraser,32463,Ngunnawal,D,22047,0,D Ticket Votes,Liberal,583
+ACT,102,Fraser,32463,Ngunnawal,D,20813,1,"HUMPHRIES, Gary",Liberal,81
+ACT,102,Fraser,32463,Ngunnawal,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,102,Fraser,32463,Ngunnawal,UG,21966,1,"GLYNN, John",Independent,29
+ACT,102,Fraser,32463,Ngunnawal,ZZ,0,99,INFORMAL,,79
+ACT,102,Fraser,32464,Belconnen PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,2591
+ACT,102,Fraser,32464,Belconnen PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,482
+ACT,102,Fraser,32464,Belconnen PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,43
+ACT,102,Fraser,32464,Belconnen PPVC,B,22050,0,B Ticket Votes,Australian Democrats,113
+ACT,102,Fraser,32464,Belconnen PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,38
+ACT,102,Fraser,32464,Belconnen PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,102,Fraser,32464,Belconnen PPVC,C,22048,0,C Ticket Votes,The Greens,970
+ACT,102,Fraser,32464,Belconnen PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,542
+ACT,102,Fraser,32464,Belconnen PPVC,C,20840,2,"PARRIS, Hannah",The Greens,46
+ACT,102,Fraser,32464,Belconnen PPVC,D,22047,0,D Ticket Votes,Liberal,2132
+ACT,102,Fraser,32464,Belconnen PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,369
+ACT,102,Fraser,32464,Belconnen PPVC,D,20814,2,"WATTS, Matthew",Liberal,32
+ACT,102,Fraser,32464,Belconnen PPVC,UG,21966,1,"GLYNN, John",Independent,95
+ACT,102,Fraser,32464,Belconnen PPVC,ZZ,0,99,INFORMAL,,189
+ACT,102,Fraser,32465,City FRASER PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,1320
+ACT,102,Fraser,32465,City FRASER PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,359
+ACT,102,Fraser,32465,City FRASER PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,14
+ACT,102,Fraser,32465,City FRASER PPVC,B,22050,0,B Ticket Votes,Australian Democrats,40
+ACT,102,Fraser,32465,City FRASER PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,20
+ACT,102,Fraser,32465,City FRASER PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,12
+ACT,102,Fraser,32465,City FRASER PPVC,C,22048,0,C Ticket Votes,The Greens,758
+ACT,102,Fraser,32465,City FRASER PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,497
+ACT,102,Fraser,32465,City FRASER PPVC,C,20840,2,"PARRIS, Hannah",The Greens,48
+ACT,102,Fraser,32465,City FRASER PPVC,D,22047,0,D Ticket Votes,Liberal,1077
+ACT,102,Fraser,32465,City FRASER PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,157
+ACT,102,Fraser,32465,City FRASER PPVC,D,20814,2,"WATTS, Matthew",Liberal,23
+ACT,102,Fraser,32465,City FRASER PPVC,UG,21966,1,"GLYNN, John",Independent,49
+ACT,102,Fraser,32465,City FRASER PPVC,ZZ,0,99,INFORMAL,,74
+ACT,102,Fraser,32467,Special Hospital Team 1,A,22049,0,A Ticket Votes,Australian Labor Party,80
+ACT,102,Fraser,32467,Special Hospital Team 1,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,5
+ACT,102,Fraser,32467,Special Hospital Team 1,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,102,Fraser,32467,Special Hospital Team 1,B,22050,0,B Ticket Votes,Australian Democrats,0
+ACT,102,Fraser,32467,Special Hospital Team 1,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,102,Fraser,32467,Special Hospital Team 1,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,32467,Special Hospital Team 1,C,22048,0,C Ticket Votes,The Greens,15
+ACT,102,Fraser,32467,Special Hospital Team 1,C,20838,1,"HATFIELD DODDS, Lin",The Greens,5
+ACT,102,Fraser,32467,Special Hospital Team 1,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,102,Fraser,32467,Special Hospital Team 1,D,22047,0,D Ticket Votes,Liberal,48
+ACT,102,Fraser,32467,Special Hospital Team 1,D,20813,1,"HUMPHRIES, Gary",Liberal,9
+ACT,102,Fraser,32467,Special Hospital Team 1,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,102,Fraser,32467,Special Hospital Team 1,UG,21966,1,"GLYNN, John",Independent,0
+ACT,102,Fraser,32467,Special Hospital Team 1,ZZ,0,99,INFORMAL,,16
+ACT,102,Fraser,32468,Special Hospital Team 2,A,22049,0,A Ticket Votes,Australian Labor Party,45
+ACT,102,Fraser,32468,Special Hospital Team 2,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,1
+ACT,102,Fraser,32468,Special Hospital Team 2,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,102,Fraser,32468,Special Hospital Team 2,B,22050,0,B Ticket Votes,Australian Democrats,3
+ACT,102,Fraser,32468,Special Hospital Team 2,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,102,Fraser,32468,Special Hospital Team 2,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,102,Fraser,32468,Special Hospital Team 2,C,22048,0,C Ticket Votes,The Greens,8
+ACT,102,Fraser,32468,Special Hospital Team 2,C,20838,1,"HATFIELD DODDS, Lin",The Greens,0
+ACT,102,Fraser,32468,Special Hospital Team 2,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,102,Fraser,32468,Special Hospital Team 2,D,22047,0,D Ticket Votes,Liberal,45
+ACT,102,Fraser,32468,Special Hospital Team 2,D,20813,1,"HUMPHRIES, Gary",Liberal,1
+ACT,102,Fraser,32468,Special Hospital Team 2,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,102,Fraser,32468,Special Hospital Team 2,UG,21966,1,"GLYNN, John",Independent,0
+ACT,102,Fraser,32468,Special Hospital Team 2,ZZ,0,99,INFORMAL,,12
+ACT,102,Fraser,34238,Fraser Central,A,22049,0,A Ticket Votes,Australian Labor Party,1135
+ACT,102,Fraser,34238,Fraser Central,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,259
+ACT,102,Fraser,34238,Fraser Central,A,21072,2,"MATHEWS, David",Australian Labor Party,27
+ACT,102,Fraser,34238,Fraser Central,B,22050,0,B Ticket Votes,Australian Democrats,32
+ACT,102,Fraser,34238,Fraser Central,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,102,Fraser,34238,Fraser Central,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,34238,Fraser Central,C,22048,0,C Ticket Votes,The Greens,383
+ACT,102,Fraser,34238,Fraser Central,C,20838,1,"HATFIELD DODDS, Lin",The Greens,241
+ACT,102,Fraser,34238,Fraser Central,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,102,Fraser,34238,Fraser Central,D,22047,0,D Ticket Votes,Liberal,868
+ACT,102,Fraser,34238,Fraser Central,D,20813,1,"HUMPHRIES, Gary",Liberal,160
+ACT,102,Fraser,34238,Fraser Central,D,20814,2,"WATTS, Matthew",Liberal,14
+ACT,102,Fraser,34238,Fraser Central,UG,21966,1,"GLYNN, John",Independent,30
+ACT,102,Fraser,34238,Fraser Central,ZZ,0,99,INFORMAL,,78
+ACT,102,Fraser,34239,Ngunnawal South,A,22049,0,A Ticket Votes,Australian Labor Party,397
+ACT,102,Fraser,34239,Ngunnawal South,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,70
+ACT,102,Fraser,34239,Ngunnawal South,A,21072,2,"MATHEWS, David",Australian Labor Party,3
+ACT,102,Fraser,34239,Ngunnawal South,B,22050,0,B Ticket Votes,Australian Democrats,11
+ACT,102,Fraser,34239,Ngunnawal South,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,4
+ACT,102,Fraser,34239,Ngunnawal South,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,102,Fraser,34239,Ngunnawal South,C,22048,0,C Ticket Votes,The Greens,128
+ACT,102,Fraser,34239,Ngunnawal South,C,20838,1,"HATFIELD DODDS, Lin",The Greens,61
+ACT,102,Fraser,34239,Ngunnawal South,C,20840,2,"PARRIS, Hannah",The Greens,5
+ACT,102,Fraser,34239,Ngunnawal South,D,22047,0,D Ticket Votes,Liberal,271
+ACT,102,Fraser,34239,Ngunnawal South,D,20813,1,"HUMPHRIES, Gary",Liberal,48
+ACT,102,Fraser,34239,Ngunnawal South,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,102,Fraser,34239,Ngunnawal South,UG,21966,1,"GLYNN, John",Independent,16
+ACT,102,Fraser,34239,Ngunnawal South,ZZ,0,99,INFORMAL,,34
+ACT,102,Fraser,34240,Gungahlin,A,22049,0,A Ticket Votes,Australian Labor Party,976
+ACT,102,Fraser,34240,Gungahlin,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,122
+ACT,102,Fraser,34240,Gungahlin,A,21072,2,"MATHEWS, David",Australian Labor Party,13
+ACT,102,Fraser,34240,Gungahlin,B,22050,0,B Ticket Votes,Australian Democrats,37
+ACT,102,Fraser,34240,Gungahlin,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,102,Fraser,34240,Gungahlin,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,34240,Gungahlin,C,22048,0,C Ticket Votes,The Greens,322
+ACT,102,Fraser,34240,Gungahlin,C,20838,1,"HATFIELD DODDS, Lin",The Greens,127
+ACT,102,Fraser,34240,Gungahlin,C,20840,2,"PARRIS, Hannah",The Greens,21
+ACT,102,Fraser,34240,Gungahlin,D,22047,0,D Ticket Votes,Liberal,985
+ACT,102,Fraser,34240,Gungahlin,D,20813,1,"HUMPHRIES, Gary",Liberal,116
+ACT,102,Fraser,34240,Gungahlin,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,102,Fraser,34240,Gungahlin,UG,21966,1,"GLYNN, John",Independent,34
+ACT,102,Fraser,34240,Gungahlin,ZZ,0,99,INFORMAL,,81
+ACT,102,Fraser,38197,Amaroo,A,22049,0,A Ticket Votes,Australian Labor Party,1106
+ACT,102,Fraser,38197,Amaroo,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,170
+ACT,102,Fraser,38197,Amaroo,A,21072,2,"MATHEWS, David",Australian Labor Party,23
+ACT,102,Fraser,38197,Amaroo,B,22050,0,B Ticket Votes,Australian Democrats,36
+ACT,102,Fraser,38197,Amaroo,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,102,Fraser,38197,Amaroo,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,102,Fraser,38197,Amaroo,C,22048,0,C Ticket Votes,The Greens,313
+ACT,102,Fraser,38197,Amaroo,C,20838,1,"HATFIELD DODDS, Lin",The Greens,134
+ACT,102,Fraser,38197,Amaroo,C,20840,2,"PARRIS, Hannah",The Greens,15
+ACT,102,Fraser,38197,Amaroo,D,22047,0,D Ticket Votes,Liberal,1069
+ACT,102,Fraser,38197,Amaroo,D,20813,1,"HUMPHRIES, Gary",Liberal,162
+ACT,102,Fraser,38197,Amaroo,D,20814,2,"WATTS, Matthew",Liberal,17
+ACT,102,Fraser,38197,Amaroo,UG,21966,1,"GLYNN, John",Independent,29
+ACT,102,Fraser,38197,Amaroo,ZZ,0,99,INFORMAL,,69
+ACT,102,Fraser,38198,O'Connor,A,22049,0,A Ticket Votes,Australian Labor Party,249
+ACT,102,Fraser,38198,O'Connor,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,76
+ACT,102,Fraser,38198,O'Connor,A,21072,2,"MATHEWS, David",Australian Labor Party,3
+ACT,102,Fraser,38198,O'Connor,B,22050,0,B Ticket Votes,Australian Democrats,7
+ACT,102,Fraser,38198,O'Connor,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,4
+ACT,102,Fraser,38198,O'Connor,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,38198,O'Connor,C,22048,0,C Ticket Votes,The Greens,178
+ACT,102,Fraser,38198,O'Connor,C,20838,1,"HATFIELD DODDS, Lin",The Greens,125
+ACT,102,Fraser,38198,O'Connor,C,20840,2,"PARRIS, Hannah",The Greens,20
+ACT,102,Fraser,38198,O'Connor,D,22047,0,D Ticket Votes,Liberal,213
+ACT,102,Fraser,38198,O'Connor,D,20813,1,"HUMPHRIES, Gary",Liberal,28
+ACT,102,Fraser,38198,O'Connor,D,20814,2,"WATTS, Matthew",Liberal,1
+ACT,102,Fraser,38198,O'Connor,UG,21966,1,"GLYNN, John",Independent,9
+ACT,102,Fraser,38198,O'Connor,ZZ,0,99,INFORMAL,,26
+ACT,102,Fraser,38504,Gungahlin PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,1283
+ACT,102,Fraser,38504,Gungahlin PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,172
+ACT,102,Fraser,38504,Gungahlin PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,14
+ACT,102,Fraser,38504,Gungahlin PPVC,B,22050,0,B Ticket Votes,Australian Democrats,55
+ACT,102,Fraser,38504,Gungahlin PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,102,Fraser,38504,Gungahlin PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,102,Fraser,38504,Gungahlin PPVC,C,22048,0,C Ticket Votes,The Greens,362
+ACT,102,Fraser,38504,Gungahlin PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,133
+ACT,102,Fraser,38504,Gungahlin PPVC,C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,102,Fraser,38504,Gungahlin PPVC,D,22047,0,D Ticket Votes,Liberal,1380
+ACT,102,Fraser,38504,Gungahlin PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,187
+ACT,102,Fraser,38504,Gungahlin PPVC,D,20814,2,"WATTS, Matthew",Liberal,14
+ACT,102,Fraser,38504,Gungahlin PPVC,UG,21966,1,"GLYNN, John",Independent,33
+ACT,102,Fraser,38504,Gungahlin PPVC,ZZ,0,99,INFORMAL,,75
+ACT,102,Fraser,47681,Harrison,A,22049,0,A Ticket Votes,Australian Labor Party,678
+ACT,102,Fraser,47681,Harrison,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,103
+ACT,102,Fraser,47681,Harrison,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,102,Fraser,47681,Harrison,B,22050,0,B Ticket Votes,Australian Democrats,18
+ACT,102,Fraser,47681,Harrison,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,102,Fraser,47681,Harrison,B,21760,2,"DAVID, Anthony John",Australian Democrats,7
+ACT,102,Fraser,47681,Harrison,C,22048,0,C Ticket Votes,The Greens,228
+ACT,102,Fraser,47681,Harrison,C,20838,1,"HATFIELD DODDS, Lin",The Greens,114
+ACT,102,Fraser,47681,Harrison,C,20840,2,"PARRIS, Hannah",The Greens,11
+ACT,102,Fraser,47681,Harrison,D,22047,0,D Ticket Votes,Liberal,745
+ACT,102,Fraser,47681,Harrison,D,20813,1,"HUMPHRIES, Gary",Liberal,121
+ACT,102,Fraser,47681,Harrison,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,102,Fraser,47681,Harrison,UG,21966,1,"GLYNN, John",Independent,19
+ACT,102,Fraser,47681,Harrison,ZZ,0,99,INFORMAL,,46

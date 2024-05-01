@@ -60,3 +60,11 @@ class Transition(models.Model):
     reason = models.CharField(max_length=127)
     date_of_change = models.DateField()
     created = models.DateTimeField(auto_now_add=True)
+
+
+class VoteRecord(models.Model):
+    class Meta:
+        abstract = True
+
+    primary_votes = models.IntegerField()
+    created = models.DateTimeField(auto_now_add=True)

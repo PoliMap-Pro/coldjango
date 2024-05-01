@@ -86,9 +86,9 @@ class ElectionReader(AECCodeReader):
         return candidate, person
 
     @staticmethod
-    def get_election_items():
+    def get_election_items(sort_key=itemgetter(0)):
         election_items = list(ELECTION_DIRECTORIES.items())
-        election_items.sort(key=itemgetter(0))
+        election_items.sort(key=sort_key)
         election_items.reverse()
         return election_items
 
@@ -98,12 +98,12 @@ class ElectionReader(AECCodeReader):
                 'other_names': row[ElectionReader.OTHER_NAMES_HEADER], }
 
     @staticmethod
-    def fetch_party(row):
+    def fetch_party(row, bind=models.Party):
         party_name = row[StringCode.PARTY_NAME_HEADER]
         if party_name:
             party_abbreviation = row[StringCode.PARTY_ABBREVIATION_HEADER]
             if party_abbreviation:
-                party, _ = models.Party.objects.get_or_create(
+                party, _ = bind.objects.get_or_create(
                     name=party_name, abbreviation=party_abbreviation)
                 return party
         return None

@@ -2,7 +2,7 @@ from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
 from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
-    Transition, BallotEntry
+    Transition, BallotEntry, VoteRecord
 from .model_fields import StateName
 
 """ 
@@ -301,11 +301,13 @@ class BoothChange(Transition):
                                  blank=True, related_name="from_via")
 
 
-class Party(TrackedName):
+class Party(models.Model):
     class Meta:
         verbose_name_plural = "Parties"
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
+    name = models.CharField(max_length=63, unique=True)
+    created = models.DateTimeField(auto_now_add=True)
 
 
 class PartyAlias(TrackedName):
@@ -406,7 +408,22 @@ class SenateCandidate(models.Model):
                               null=True, blank=True)
 
 
-class VoteTally(models.Model):
+class VoteStack(VoteRecord):
+    class Meta:
+        constraints = [UniqueConstraint(
+            fields=['floor', 'election', 'candidate', ],
+            name='floor_election_and_candidate')]
+
+    state = models.CharField(max_length=9, choices=StateName.choices)
+    floor = models.ForeignKey(Floor, on_delete=models.CASCADE, null=True)
+    lighthouse = models.ForeignKey(Lighthouse, on_delete=models.CASCADE,
+                                   null=True)
+    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
+    candidate = models.ForeignKey(SenateCandidate, on_delete=models.CASCADE)
+    tpp_votes = models.IntegerField(null=True, blank=True)
+
+
+class VoteTally(VoteRecord):
     class Meta:
         verbose_name_plural = "Vote Tallies"
         constraints = [UniqueConstraint(
@@ -416,9 +433,7 @@ class VoteTally(models.Model):
     booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    primary_votes = models.IntegerField()
     tcp_votes = models.IntegerField(null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):

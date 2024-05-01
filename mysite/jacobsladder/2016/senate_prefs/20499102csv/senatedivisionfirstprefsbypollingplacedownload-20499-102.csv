@@ -1,0 +1,1487 @@
+2016 Federal Election Senate First Preferences By Polling Place for Division 102 [Event:20499 Phase:FinalResults Generated:2017-05-11T17:37:54 Cycle:a45ea4bc-bff6-48cb-94c5-1bbaae0c7c0d Created:2017-05-11T17:29:15 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.5.84.43192]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,102,Fenner,8801,Ainslie North,A,29670,0,A Ticket Votes,Liberal Democratic Party,32
+ACT,102,Fenner,8801,Ainslie North,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8801,Ainslie North,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8801,Ainslie North,B,29669,0,B Ticket Votes,Secular Party of Australia,13
+ACT,102,Fenner,8801,Ainslie North,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,8801,Ainslie North,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8801,Ainslie North,C,29663,0,C Ticket Votes,Australian Labor Party,663
+ACT,102,Fenner,8801,Ainslie North,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,164
+ACT,102,Fenner,8801,Ainslie North,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,102,Fenner,8801,Ainslie North,D,29672,0,D Ticket Votes,Rise Up Australia Party,6
+ACT,102,Fenner,8801,Ainslie North,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,8801,Ainslie North,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,8801,Ainslie North,E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,102,Fenner,8801,Ainslie North,E,28468,1,"HAYDON, John",Sustainable Australia,7
+ACT,102,Fenner,8801,Ainslie North,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,102,Fenner,8801,Ainslie North,F,29667,0,F Ticket Votes,Liberal,419
+ACT,102,Fenner,8801,Ainslie North,F,28773,1,"SESELJA, Zed",Liberal,22
+ACT,102,Fenner,8801,Ainslie North,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,102,Fenner,8801,Ainslie North,G,29664,0,G Ticket Votes,Animal Justice Party,30
+ACT,102,Fenner,8801,Ainslie North,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,8801,Ainslie North,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8801,Ainslie North,H,29665,0,H Ticket Votes,The Greens,525
+ACT,102,Fenner,8801,Ainslie North,H,28306,1,"HOBBS, Christina",The Greens,225
+ACT,102,Fenner,8801,Ainslie North,H,28308,2,"WAREHAM, Sue",The Greens,14
+ACT,102,Fenner,8801,Ainslie North,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),11
+ACT,102,Fenner,8801,Ainslie North,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8801,Ainslie North,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8801,Ainslie North,J,29671,0,J Ticket Votes,Australian Sex Party,44
+ACT,102,Fenner,8801,Ainslie North,J,29390,1,"BAILEY, Steven",Australian Sex Party,19
+ACT,102,Fenner,8801,Ainslie North,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8801,Ainslie North,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,13
+ACT,102,Fenner,8801,Ainslie North,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,8801,Ainslie North,ZZ,0,99,INFORMAL,,43
+ACT,102,Fenner,8803,Aranda,A,29670,0,A Ticket Votes,Liberal Democratic Party,44
+ACT,102,Fenner,8803,Aranda,A,29611,1,"DONNELLY, Matt",Liberal Democrats,9
+ACT,102,Fenner,8803,Aranda,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8803,Aranda,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,102,Fenner,8803,Aranda,B,28933,1,"EDWARDS, David",Secular Party of Australia,8
+ACT,102,Fenner,8803,Aranda,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8803,Aranda,C,29663,0,C Ticket Votes,Australian Labor Party,742
+ACT,102,Fenner,8803,Aranda,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,185
+ACT,102,Fenner,8803,Aranda,C,28149,2,"SMITH, David",Australian Labor Party,11
+ACT,102,Fenner,8803,Aranda,D,29672,0,D Ticket Votes,Rise Up Australia Party,9
+ACT,102,Fenner,8803,Aranda,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,102,Fenner,8803,Aranda,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8803,Aranda,E,29666,0,E Ticket Votes,Sustainable Australia,32
+ACT,102,Fenner,8803,Aranda,E,28468,1,"HAYDON, John",Sustainable Australia,14
+ACT,102,Fenner,8803,Aranda,E,28469,2,"TYE, Martin",Sustainable Australia,6
+ACT,102,Fenner,8803,Aranda,F,29667,0,F Ticket Votes,Liberal,509
+ACT,102,Fenner,8803,Aranda,F,28773,1,"SESELJA, Zed",Liberal,48
+ACT,102,Fenner,8803,Aranda,F,28782,2,"HIATT, Jane",Liberal,13
+ACT,102,Fenner,8803,Aranda,G,29664,0,G Ticket Votes,Animal Justice Party,25
+ACT,102,Fenner,8803,Aranda,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,8803,Aranda,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,8803,Aranda,H,29665,0,H Ticket Votes,The Greens,488
+ACT,102,Fenner,8803,Aranda,H,28306,1,"HOBBS, Christina",The Greens,181
+ACT,102,Fenner,8803,Aranda,H,28308,2,"WAREHAM, Sue",The Greens,12
+ACT,102,Fenner,8803,Aranda,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),11
+ACT,102,Fenner,8803,Aranda,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8803,Aranda,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8803,Aranda,J,29671,0,J Ticket Votes,Australian Sex Party,65
+ACT,102,Fenner,8803,Aranda,J,29390,1,"BAILEY, Steven",Australian Sex Party,26
+ACT,102,Fenner,8803,Aranda,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,102,Fenner,8803,Aranda,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,102,Fenner,8803,Aranda,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,8803,Aranda,ZZ,0,99,INFORMAL,,42
+ACT,102,Fenner,8805,Belconnen,A,29670,0,A Ticket Votes,Liberal Democratic Party,87
+ACT,102,Fenner,8805,Belconnen,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8805,Belconnen,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8805,Belconnen,B,29669,0,B Ticket Votes,Secular Party of Australia,15
+ACT,102,Fenner,8805,Belconnen,B,28933,1,"EDWARDS, David",Secular Party of Australia,11
+ACT,102,Fenner,8805,Belconnen,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8805,Belconnen,C,29663,0,C Ticket Votes,Australian Labor Party,963
+ACT,102,Fenner,8805,Belconnen,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,129
+ACT,102,Fenner,8805,Belconnen,C,28149,2,"SMITH, David",Australian Labor Party,11
+ACT,102,Fenner,8805,Belconnen,D,29672,0,D Ticket Votes,Rise Up Australia Party,16
+ACT,102,Fenner,8805,Belconnen,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,102,Fenner,8805,Belconnen,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,8805,Belconnen,E,29666,0,E Ticket Votes,Sustainable Australia,27
+ACT,102,Fenner,8805,Belconnen,E,28468,1,"HAYDON, John",Sustainable Australia,7
+ACT,102,Fenner,8805,Belconnen,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,102,Fenner,8805,Belconnen,F,29667,0,F Ticket Votes,Liberal,674
+ACT,102,Fenner,8805,Belconnen,F,28773,1,"SESELJA, Zed",Liberal,37
+ACT,102,Fenner,8805,Belconnen,F,28782,2,"HIATT, Jane",Liberal,10
+ACT,102,Fenner,8805,Belconnen,G,29664,0,G Ticket Votes,Animal Justice Party,73
+ACT,102,Fenner,8805,Belconnen,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,8805,Belconnen,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,102,Fenner,8805,Belconnen,H,29665,0,H Ticket Votes,The Greens,404
+ACT,102,Fenner,8805,Belconnen,H,28306,1,"HOBBS, Christina",The Greens,125
+ACT,102,Fenner,8805,Belconnen,H,28308,2,"WAREHAM, Sue",The Greens,8
+ACT,102,Fenner,8805,Belconnen,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),44
+ACT,102,Fenner,8805,Belconnen,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),10
+ACT,102,Fenner,8805,Belconnen,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8805,Belconnen,J,29671,0,J Ticket Votes,Australian Sex Party,115
+ACT,102,Fenner,8805,Belconnen,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,8805,Belconnen,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,8805,Belconnen,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,8805,Belconnen,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,8805,Belconnen,ZZ,0,99,INFORMAL,,57
+ACT,102,Fenner,8807,Charnwood,A,29670,0,A Ticket Votes,Liberal Democratic Party,73
+ACT,102,Fenner,8807,Charnwood,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,8807,Charnwood,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,3
+ACT,102,Fenner,8807,Charnwood,B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,102,Fenner,8807,Charnwood,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,102,Fenner,8807,Charnwood,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8807,Charnwood,C,29663,0,C Ticket Votes,Australian Labor Party,963
+ACT,102,Fenner,8807,Charnwood,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,120
+ACT,102,Fenner,8807,Charnwood,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,8807,Charnwood,D,29672,0,D Ticket Votes,Rise Up Australia Party,33
+ACT,102,Fenner,8807,Charnwood,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,8
+ACT,102,Fenner,8807,Charnwood,D,29518,2,"WYATT, Jess",Rise Up Australia Party,2
+ACT,102,Fenner,8807,Charnwood,E,29666,0,E Ticket Votes,Sustainable Australia,16
+ACT,102,Fenner,8807,Charnwood,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,102,Fenner,8807,Charnwood,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8807,Charnwood,F,29667,0,F Ticket Votes,Liberal,651
+ACT,102,Fenner,8807,Charnwood,F,28773,1,"SESELJA, Zed",Liberal,41
+ACT,102,Fenner,8807,Charnwood,F,28782,2,"HIATT, Jane",Liberal,5
+ACT,102,Fenner,8807,Charnwood,G,29664,0,G Ticket Votes,Animal Justice Party,36
+ACT,102,Fenner,8807,Charnwood,G,28254,1,"FIELD, Deborah",Animal Justice Party,9
+ACT,102,Fenner,8807,Charnwood,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8807,Charnwood,H,29665,0,H Ticket Votes,The Greens,189
+ACT,102,Fenner,8807,Charnwood,H,28306,1,"HOBBS, Christina",The Greens,73
+ACT,102,Fenner,8807,Charnwood,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,102,Fenner,8807,Charnwood,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),30
+ACT,102,Fenner,8807,Charnwood,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,102,Fenner,8807,Charnwood,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8807,Charnwood,J,29671,0,J Ticket Votes,Australian Sex Party,123
+ACT,102,Fenner,8807,Charnwood,J,29390,1,"BAILEY, Steven",Australian Sex Party,28
+ACT,102,Fenner,8807,Charnwood,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,102,Fenner,8807,Charnwood,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,102,Fenner,8807,Charnwood,UG,28150,2,"HANSON, Anthony",Mature Australia,7
+ACT,102,Fenner,8807,Charnwood,ZZ,0,99,INFORMAL,,94
+ACT,102,Fenner,8809,Dickson,A,29670,0,A Ticket Votes,Liberal Democratic Party,28
+ACT,102,Fenner,8809,Dickson,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,102,Fenner,8809,Dickson,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8809,Dickson,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,102,Fenner,8809,Dickson,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,8809,Dickson,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8809,Dickson,C,29663,0,C Ticket Votes,Australian Labor Party,369
+ACT,102,Fenner,8809,Dickson,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,62
+ACT,102,Fenner,8809,Dickson,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,102,Fenner,8809,Dickson,D,29672,0,D Ticket Votes,Rise Up Australia Party,6
+ACT,102,Fenner,8809,Dickson,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,8809,Dickson,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8809,Dickson,E,29666,0,E Ticket Votes,Sustainable Australia,20
+ACT,102,Fenner,8809,Dickson,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,102,Fenner,8809,Dickson,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,8809,Dickson,F,29667,0,F Ticket Votes,Liberal,303
+ACT,102,Fenner,8809,Dickson,F,28773,1,"SESELJA, Zed",Liberal,29
+ACT,102,Fenner,8809,Dickson,F,28782,2,"HIATT, Jane",Liberal,8
+ACT,102,Fenner,8809,Dickson,G,29664,0,G Ticket Votes,Animal Justice Party,12
+ACT,102,Fenner,8809,Dickson,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,8809,Dickson,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8809,Dickson,H,29665,0,H Ticket Votes,The Greens,279
+ACT,102,Fenner,8809,Dickson,H,28306,1,"HOBBS, Christina",The Greens,77
+ACT,102,Fenner,8809,Dickson,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,102,Fenner,8809,Dickson,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),5
+ACT,102,Fenner,8809,Dickson,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8809,Dickson,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8809,Dickson,J,29671,0,J Ticket Votes,Australian Sex Party,37
+ACT,102,Fenner,8809,Dickson,J,29390,1,"BAILEY, Steven",Australian Sex Party,12
+ACT,102,Fenner,8809,Dickson,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,102,Fenner,8809,Dickson,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,102,Fenner,8809,Dickson,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,8809,Dickson,ZZ,0,99,INFORMAL,,29
+ACT,102,Fenner,8812,Evatt,A,29670,0,A Ticket Votes,Liberal Democratic Party,96
+ACT,102,Fenner,8812,Evatt,A,29611,1,"DONNELLY, Matt",Liberal Democrats,15
+ACT,102,Fenner,8812,Evatt,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8812,Evatt,B,29669,0,B Ticket Votes,Secular Party of Australia,15
+ACT,102,Fenner,8812,Evatt,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,8812,Evatt,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8812,Evatt,C,29663,0,C Ticket Votes,Australian Labor Party,1110
+ACT,102,Fenner,8812,Evatt,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,165
+ACT,102,Fenner,8812,Evatt,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,102,Fenner,8812,Evatt,D,29672,0,D Ticket Votes,Rise Up Australia Party,33
+ACT,102,Fenner,8812,Evatt,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,102,Fenner,8812,Evatt,D,29518,2,"WYATT, Jess",Rise Up Australia Party,2
+ACT,102,Fenner,8812,Evatt,E,29666,0,E Ticket Votes,Sustainable Australia,30
+ACT,102,Fenner,8812,Evatt,E,28468,1,"HAYDON, John",Sustainable Australia,11
+ACT,102,Fenner,8812,Evatt,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8812,Evatt,F,29667,0,F Ticket Votes,Liberal,911
+ACT,102,Fenner,8812,Evatt,F,28773,1,"SESELJA, Zed",Liberal,69
+ACT,102,Fenner,8812,Evatt,F,28782,2,"HIATT, Jane",Liberal,15
+ACT,102,Fenner,8812,Evatt,G,29664,0,G Ticket Votes,Animal Justice Party,38
+ACT,102,Fenner,8812,Evatt,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,102,Fenner,8812,Evatt,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8812,Evatt,H,29665,0,H Ticket Votes,The Greens,366
+ACT,102,Fenner,8812,Evatt,H,28306,1,"HOBBS, Christina",The Greens,106
+ACT,102,Fenner,8812,Evatt,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,8812,Evatt,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),33
+ACT,102,Fenner,8812,Evatt,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),10
+ACT,102,Fenner,8812,Evatt,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8812,Evatt,J,29671,0,J Ticket Votes,Australian Sex Party,97
+ACT,102,Fenner,8812,Evatt,J,29390,1,"BAILEY, Steven",Australian Sex Party,29
+ACT,102,Fenner,8812,Evatt,J,29391,2,"SWAN, Robbie",Australian Sex Party,6
+ACT,102,Fenner,8812,Evatt,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,102,Fenner,8812,Evatt,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,8812,Evatt,ZZ,0,99,INFORMAL,,102
+ACT,102,Fenner,8814,Florey,A,29670,0,A Ticket Votes,Liberal Democratic Party,56
+ACT,102,Fenner,8814,Florey,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,102,Fenner,8814,Florey,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8814,Florey,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,102,Fenner,8814,Florey,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,102,Fenner,8814,Florey,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,8814,Florey,C,29663,0,C Ticket Votes,Australian Labor Party,758
+ACT,102,Fenner,8814,Florey,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,122
+ACT,102,Fenner,8814,Florey,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,102,Fenner,8814,Florey,D,29672,0,D Ticket Votes,Rise Up Australia Party,16
+ACT,102,Fenner,8814,Florey,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,8814,Florey,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8814,Florey,E,29666,0,E Ticket Votes,Sustainable Australia,16
+ACT,102,Fenner,8814,Florey,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,8814,Florey,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,8814,Florey,F,29667,0,F Ticket Votes,Liberal,536
+ACT,102,Fenner,8814,Florey,F,28773,1,"SESELJA, Zed",Liberal,38
+ACT,102,Fenner,8814,Florey,F,28782,2,"HIATT, Jane",Liberal,14
+ACT,102,Fenner,8814,Florey,G,29664,0,G Ticket Votes,Animal Justice Party,23
+ACT,102,Fenner,8814,Florey,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,8814,Florey,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,8814,Florey,H,29665,0,H Ticket Votes,The Greens,190
+ACT,102,Fenner,8814,Florey,H,28306,1,"HOBBS, Christina",The Greens,60
+ACT,102,Fenner,8814,Florey,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,102,Fenner,8814,Florey,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),18
+ACT,102,Fenner,8814,Florey,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,102,Fenner,8814,Florey,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8814,Florey,J,29671,0,J Ticket Votes,Australian Sex Party,64
+ACT,102,Fenner,8814,Florey,J,29390,1,"BAILEY, Steven",Australian Sex Party,10
+ACT,102,Fenner,8814,Florey,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8814,Florey,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,102,Fenner,8814,Florey,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,8814,Florey,ZZ,0,99,INFORMAL,,51
+ACT,102,Fenner,8816,Giralang,A,29670,0,A Ticket Votes,Liberal Democratic Party,49
+ACT,102,Fenner,8816,Giralang,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,8816,Giralang,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8816,Giralang,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,102,Fenner,8816,Giralang,B,28933,1,"EDWARDS, David",Secular Party of Australia,7
+ACT,102,Fenner,8816,Giralang,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,102,Fenner,8816,Giralang,C,29663,0,C Ticket Votes,Australian Labor Party,573
+ACT,102,Fenner,8816,Giralang,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,111
+ACT,102,Fenner,8816,Giralang,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,102,Fenner,8816,Giralang,D,29672,0,D Ticket Votes,Rise Up Australia Party,16
+ACT,102,Fenner,8816,Giralang,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,8816,Giralang,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8816,Giralang,E,29666,0,E Ticket Votes,Sustainable Australia,25
+ACT,102,Fenner,8816,Giralang,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,8816,Giralang,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8816,Giralang,F,29667,0,F Ticket Votes,Liberal,425
+ACT,102,Fenner,8816,Giralang,F,28773,1,"SESELJA, Zed",Liberal,32
+ACT,102,Fenner,8816,Giralang,F,28782,2,"HIATT, Jane",Liberal,5
+ACT,102,Fenner,8816,Giralang,G,29664,0,G Ticket Votes,Animal Justice Party,27
+ACT,102,Fenner,8816,Giralang,G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,102,Fenner,8816,Giralang,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8816,Giralang,H,29665,0,H Ticket Votes,The Greens,226
+ACT,102,Fenner,8816,Giralang,H,28306,1,"HOBBS, Christina",The Greens,81
+ACT,102,Fenner,8816,Giralang,H,28308,2,"WAREHAM, Sue",The Greens,11
+ACT,102,Fenner,8816,Giralang,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),25
+ACT,102,Fenner,8816,Giralang,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,8816,Giralang,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8816,Giralang,J,29671,0,J Ticket Votes,Australian Sex Party,45
+ACT,102,Fenner,8816,Giralang,J,29390,1,"BAILEY, Steven",Australian Sex Party,11
+ACT,102,Fenner,8816,Giralang,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,102,Fenner,8816,Giralang,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,102,Fenner,8816,Giralang,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,8816,Giralang,ZZ,0,99,INFORMAL,,58
+ACT,102,Fenner,8821,Holt,A,29670,0,A Ticket Votes,Liberal Democratic Party,106
+ACT,102,Fenner,8821,Holt,A,29611,1,"DONNELLY, Matt",Liberal Democrats,16
+ACT,102,Fenner,8821,Holt,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8821,Holt,B,29669,0,B Ticket Votes,Secular Party of Australia,10
+ACT,102,Fenner,8821,Holt,B,28933,1,"EDWARDS, David",Secular Party of Australia,9
+ACT,102,Fenner,8821,Holt,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,8821,Holt,C,29663,0,C Ticket Votes,Australian Labor Party,1083
+ACT,102,Fenner,8821,Holt,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,179
+ACT,102,Fenner,8821,Holt,C,28149,2,"SMITH, David",Australian Labor Party,13
+ACT,102,Fenner,8821,Holt,D,29672,0,D Ticket Votes,Rise Up Australia Party,57
+ACT,102,Fenner,8821,Holt,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,7
+ACT,102,Fenner,8821,Holt,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8821,Holt,E,29666,0,E Ticket Votes,Sustainable Australia,15
+ACT,102,Fenner,8821,Holt,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,102,Fenner,8821,Holt,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,8821,Holt,F,29667,0,F Ticket Votes,Liberal,666
+ACT,102,Fenner,8821,Holt,F,28773,1,"SESELJA, Zed",Liberal,43
+ACT,102,Fenner,8821,Holt,F,28782,2,"HIATT, Jane",Liberal,12
+ACT,102,Fenner,8821,Holt,G,29664,0,G Ticket Votes,Animal Justice Party,43
+ACT,102,Fenner,8821,Holt,G,28254,1,"FIELD, Deborah",Animal Justice Party,6
+ACT,102,Fenner,8821,Holt,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,102,Fenner,8821,Holt,H,29665,0,H Ticket Votes,The Greens,282
+ACT,102,Fenner,8821,Holt,H,28306,1,"HOBBS, Christina",The Greens,105
+ACT,102,Fenner,8821,Holt,H,28308,2,"WAREHAM, Sue",The Greens,6
+ACT,102,Fenner,8821,Holt,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),48
+ACT,102,Fenner,8821,Holt,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),8
+ACT,102,Fenner,8821,Holt,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8821,Holt,J,29671,0,J Ticket Votes,Australian Sex Party,141
+ACT,102,Fenner,8821,Holt,J,29390,1,"BAILEY, Steven",Australian Sex Party,37
+ACT,102,Fenner,8821,Holt,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,102,Fenner,8821,Holt,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,10
+ACT,102,Fenner,8821,Holt,UG,28150,2,"HANSON, Anthony",Mature Australia,7
+ACT,102,Fenner,8821,Holt,ZZ,0,99,INFORMAL,,112
+ACT,102,Fenner,8823,Kaleen,A,29670,0,A Ticket Votes,Liberal Democratic Party,65
+ACT,102,Fenner,8823,Kaleen,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,102,Fenner,8823,Kaleen,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,102,Fenner,8823,Kaleen,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,102,Fenner,8823,Kaleen,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,8823,Kaleen,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8823,Kaleen,C,29663,0,C Ticket Votes,Australian Labor Party,806
+ACT,102,Fenner,8823,Kaleen,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,142
+ACT,102,Fenner,8823,Kaleen,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,8823,Kaleen,D,29672,0,D Ticket Votes,Rise Up Australia Party,12
+ACT,102,Fenner,8823,Kaleen,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,8823,Kaleen,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8823,Kaleen,E,29666,0,E Ticket Votes,Sustainable Australia,24
+ACT,102,Fenner,8823,Kaleen,E,28468,1,"HAYDON, John",Sustainable Australia,9
+ACT,102,Fenner,8823,Kaleen,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,102,Fenner,8823,Kaleen,F,29667,0,F Ticket Votes,Liberal,729
+ACT,102,Fenner,8823,Kaleen,F,28773,1,"SESELJA, Zed",Liberal,35
+ACT,102,Fenner,8823,Kaleen,F,28782,2,"HIATT, Jane",Liberal,6
+ACT,102,Fenner,8823,Kaleen,G,29664,0,G Ticket Votes,Animal Justice Party,26
+ACT,102,Fenner,8823,Kaleen,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,8823,Kaleen,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8823,Kaleen,H,29665,0,H Ticket Votes,The Greens,230
+ACT,102,Fenner,8823,Kaleen,H,28306,1,"HOBBS, Christina",The Greens,94
+ACT,102,Fenner,8823,Kaleen,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,102,Fenner,8823,Kaleen,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),25
+ACT,102,Fenner,8823,Kaleen,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,102,Fenner,8823,Kaleen,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8823,Kaleen,J,29671,0,J Ticket Votes,Australian Sex Party,91
+ACT,102,Fenner,8823,Kaleen,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,8823,Kaleen,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,8823,Kaleen,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,102,Fenner,8823,Kaleen,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,102,Fenner,8823,Kaleen,ZZ,0,99,INFORMAL,,64
+ACT,102,Fenner,8824,Kaleen South,A,29670,0,A Ticket Votes,Liberal Democratic Party,44
+ACT,102,Fenner,8824,Kaleen South,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8824,Kaleen South,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8824,Kaleen South,B,29669,0,B Ticket Votes,Secular Party of Australia,5
+ACT,102,Fenner,8824,Kaleen South,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,8824,Kaleen South,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,8824,Kaleen South,C,29663,0,C Ticket Votes,Australian Labor Party,549
+ACT,102,Fenner,8824,Kaleen South,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,97
+ACT,102,Fenner,8824,Kaleen South,C,28149,2,"SMITH, David",Australian Labor Party,5
+ACT,102,Fenner,8824,Kaleen South,D,29672,0,D Ticket Votes,Rise Up Australia Party,9
+ACT,102,Fenner,8824,Kaleen South,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,8824,Kaleen South,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8824,Kaleen South,E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,102,Fenner,8824,Kaleen South,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,8824,Kaleen South,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,8824,Kaleen South,F,29667,0,F Ticket Votes,Liberal,489
+ACT,102,Fenner,8824,Kaleen South,F,28773,1,"SESELJA, Zed",Liberal,35
+ACT,102,Fenner,8824,Kaleen South,F,28782,2,"HIATT, Jane",Liberal,16
+ACT,102,Fenner,8824,Kaleen South,G,29664,0,G Ticket Votes,Animal Justice Party,21
+ACT,102,Fenner,8824,Kaleen South,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,8824,Kaleen South,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8824,Kaleen South,H,29665,0,H Ticket Votes,The Greens,206
+ACT,102,Fenner,8824,Kaleen South,H,28306,1,"HOBBS, Christina",The Greens,86
+ACT,102,Fenner,8824,Kaleen South,H,28308,2,"WAREHAM, Sue",The Greens,14
+ACT,102,Fenner,8824,Kaleen South,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),26
+ACT,102,Fenner,8824,Kaleen South,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,102,Fenner,8824,Kaleen South,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8824,Kaleen South,J,29671,0,J Ticket Votes,Australian Sex Party,46
+ACT,102,Fenner,8824,Kaleen South,J,29390,1,"BAILEY, Steven",Australian Sex Party,7
+ACT,102,Fenner,8824,Kaleen South,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,8824,Kaleen South,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,102,Fenner,8824,Kaleen South,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,8824,Kaleen South,ZZ,0,99,INFORMAL,,37
+ACT,102,Fenner,8825,Latham,A,29670,0,A Ticket Votes,Liberal Democratic Party,30
+ACT,102,Fenner,8825,Latham,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8825,Latham,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8825,Latham,B,29669,0,B Ticket Votes,Secular Party of Australia,14
+ACT,102,Fenner,8825,Latham,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,8825,Latham,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8825,Latham,C,29663,0,C Ticket Votes,Australian Labor Party,660
+ACT,102,Fenner,8825,Latham,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,92
+ACT,102,Fenner,8825,Latham,C,28149,2,"SMITH, David",Australian Labor Party,6
+ACT,102,Fenner,8825,Latham,D,29672,0,D Ticket Votes,Rise Up Australia Party,22
+ACT,102,Fenner,8825,Latham,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,8825,Latham,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,8825,Latham,E,29666,0,E Ticket Votes,Sustainable Australia,15
+ACT,102,Fenner,8825,Latham,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,8825,Latham,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,8825,Latham,F,29667,0,F Ticket Votes,Liberal,446
+ACT,102,Fenner,8825,Latham,F,28773,1,"SESELJA, Zed",Liberal,24
+ACT,102,Fenner,8825,Latham,F,28782,2,"HIATT, Jane",Liberal,9
+ACT,102,Fenner,8825,Latham,G,29664,0,G Ticket Votes,Animal Justice Party,23
+ACT,102,Fenner,8825,Latham,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,8825,Latham,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8825,Latham,H,29665,0,H Ticket Votes,The Greens,180
+ACT,102,Fenner,8825,Latham,H,28306,1,"HOBBS, Christina",The Greens,56
+ACT,102,Fenner,8825,Latham,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,102,Fenner,8825,Latham,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),19
+ACT,102,Fenner,8825,Latham,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,8825,Latham,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8825,Latham,J,29671,0,J Ticket Votes,Australian Sex Party,50
+ACT,102,Fenner,8825,Latham,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,102,Fenner,8825,Latham,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,102,Fenner,8825,Latham,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,102,Fenner,8825,Latham,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,8825,Latham,ZZ,0,99,INFORMAL,,46
+ACT,102,Fenner,8826,Lyneham,A,29670,0,A Ticket Votes,Liberal Democratic Party,55
+ACT,102,Fenner,8826,Lyneham,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,8826,Lyneham,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,102,Fenner,8826,Lyneham,B,29669,0,B Ticket Votes,Secular Party of Australia,15
+ACT,102,Fenner,8826,Lyneham,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,8826,Lyneham,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8826,Lyneham,C,29663,0,C Ticket Votes,Australian Labor Party,911
+ACT,102,Fenner,8826,Lyneham,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,235
+ACT,102,Fenner,8826,Lyneham,C,28149,2,"SMITH, David",Australian Labor Party,14
+ACT,102,Fenner,8826,Lyneham,D,29672,0,D Ticket Votes,Rise Up Australia Party,18
+ACT,102,Fenner,8826,Lyneham,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,8826,Lyneham,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8826,Lyneham,E,29666,0,E Ticket Votes,Sustainable Australia,20
+ACT,102,Fenner,8826,Lyneham,E,28468,1,"HAYDON, John",Sustainable Australia,16
+ACT,102,Fenner,8826,Lyneham,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,8826,Lyneham,F,29667,0,F Ticket Votes,Liberal,605
+ACT,102,Fenner,8826,Lyneham,F,28773,1,"SESELJA, Zed",Liberal,47
+ACT,102,Fenner,8826,Lyneham,F,28782,2,"HIATT, Jane",Liberal,23
+ACT,102,Fenner,8826,Lyneham,G,29664,0,G Ticket Votes,Animal Justice Party,55
+ACT,102,Fenner,8826,Lyneham,G,28254,1,"FIELD, Deborah",Animal Justice Party,14
+ACT,102,Fenner,8826,Lyneham,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,8826,Lyneham,H,29665,0,H Ticket Votes,The Greens,722
+ACT,102,Fenner,8826,Lyneham,H,28306,1,"HOBBS, Christina",The Greens,263
+ACT,102,Fenner,8826,Lyneham,H,28308,2,"WAREHAM, Sue",The Greens,13
+ACT,102,Fenner,8826,Lyneham,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),29
+ACT,102,Fenner,8826,Lyneham,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),10
+ACT,102,Fenner,8826,Lyneham,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,8826,Lyneham,J,29671,0,J Ticket Votes,Australian Sex Party,83
+ACT,102,Fenner,8826,Lyneham,J,29390,1,"BAILEY, Steven",Australian Sex Party,25
+ACT,102,Fenner,8826,Lyneham,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,8826,Lyneham,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,15
+ACT,102,Fenner,8826,Lyneham,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,102,Fenner,8826,Lyneham,ZZ,0,99,INFORMAL,,63
+ACT,102,Fenner,8827,Macgregor,A,29670,0,A Ticket Votes,Liberal Democratic Party,72
+ACT,102,Fenner,8827,Macgregor,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8827,Macgregor,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8827,Macgregor,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,102,Fenner,8827,Macgregor,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,8827,Macgregor,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,8827,Macgregor,C,29663,0,C Ticket Votes,Australian Labor Party,1035
+ACT,102,Fenner,8827,Macgregor,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,146
+ACT,102,Fenner,8827,Macgregor,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,102,Fenner,8827,Macgregor,D,29672,0,D Ticket Votes,Rise Up Australia Party,26
+ACT,102,Fenner,8827,Macgregor,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,102,Fenner,8827,Macgregor,D,29518,2,"WYATT, Jess",Rise Up Australia Party,3
+ACT,102,Fenner,8827,Macgregor,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,102,Fenner,8827,Macgregor,E,28468,1,"HAYDON, John",Sustainable Australia,11
+ACT,102,Fenner,8827,Macgregor,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,8827,Macgregor,F,29667,0,F Ticket Votes,Liberal,641
+ACT,102,Fenner,8827,Macgregor,F,28773,1,"SESELJA, Zed",Liberal,49
+ACT,102,Fenner,8827,Macgregor,F,28782,2,"HIATT, Jane",Liberal,7
+ACT,102,Fenner,8827,Macgregor,G,29664,0,G Ticket Votes,Animal Justice Party,40
+ACT,102,Fenner,8827,Macgregor,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,102,Fenner,8827,Macgregor,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,8827,Macgregor,H,29665,0,H Ticket Votes,The Greens,267
+ACT,102,Fenner,8827,Macgregor,H,28306,1,"HOBBS, Christina",The Greens,68
+ACT,102,Fenner,8827,Macgregor,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,102,Fenner,8827,Macgregor,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),39
+ACT,102,Fenner,8827,Macgregor,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),7
+ACT,102,Fenner,8827,Macgregor,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8827,Macgregor,J,29671,0,J Ticket Votes,Australian Sex Party,136
+ACT,102,Fenner,8827,Macgregor,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,8827,Macgregor,J,29391,2,"SWAN, Robbie",Australian Sex Party,5
+ACT,102,Fenner,8827,Macgregor,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,9
+ACT,102,Fenner,8827,Macgregor,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,8827,Macgregor,ZZ,0,99,INFORMAL,,74
+ACT,102,Fenner,8828,Macquarie,A,29670,0,A Ticket Votes,Liberal Democratic Party,40
+ACT,102,Fenner,8828,Macquarie,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,102,Fenner,8828,Macquarie,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8828,Macquarie,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,102,Fenner,8828,Macquarie,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,102,Fenner,8828,Macquarie,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8828,Macquarie,C,29663,0,C Ticket Votes,Australian Labor Party,516
+ACT,102,Fenner,8828,Macquarie,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,117
+ACT,102,Fenner,8828,Macquarie,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,102,Fenner,8828,Macquarie,D,29672,0,D Ticket Votes,Rise Up Australia Party,15
+ACT,102,Fenner,8828,Macquarie,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,102,Fenner,8828,Macquarie,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8828,Macquarie,E,29666,0,E Ticket Votes,Sustainable Australia,21
+ACT,102,Fenner,8828,Macquarie,E,28468,1,"HAYDON, John",Sustainable Australia,13
+ACT,102,Fenner,8828,Macquarie,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,8828,Macquarie,F,29667,0,F Ticket Votes,Liberal,345
+ACT,102,Fenner,8828,Macquarie,F,28773,1,"SESELJA, Zed",Liberal,31
+ACT,102,Fenner,8828,Macquarie,F,28782,2,"HIATT, Jane",Liberal,7
+ACT,102,Fenner,8828,Macquarie,G,29664,0,G Ticket Votes,Animal Justice Party,19
+ACT,102,Fenner,8828,Macquarie,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,8828,Macquarie,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,8828,Macquarie,H,29665,0,H Ticket Votes,The Greens,288
+ACT,102,Fenner,8828,Macquarie,H,28306,1,"HOBBS, Christina",The Greens,94
+ACT,102,Fenner,8828,Macquarie,H,28308,2,"WAREHAM, Sue",The Greens,8
+ACT,102,Fenner,8828,Macquarie,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),11
+ACT,102,Fenner,8828,Macquarie,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,8828,Macquarie,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8828,Macquarie,J,29671,0,J Ticket Votes,Australian Sex Party,55
+ACT,102,Fenner,8828,Macquarie,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,102,Fenner,8828,Macquarie,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8828,Macquarie,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,102,Fenner,8828,Macquarie,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,8828,Macquarie,ZZ,0,99,INFORMAL,,31
+ACT,102,Fenner,8830,Melba,A,29670,0,A Ticket Votes,Liberal Democratic Party,40
+ACT,102,Fenner,8830,Melba,A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,102,Fenner,8830,Melba,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8830,Melba,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,102,Fenner,8830,Melba,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,102,Fenner,8830,Melba,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8830,Melba,C,29663,0,C Ticket Votes,Australian Labor Party,848
+ACT,102,Fenner,8830,Melba,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,147
+ACT,102,Fenner,8830,Melba,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,102,Fenner,8830,Melba,D,29672,0,D Ticket Votes,Rise Up Australia Party,25
+ACT,102,Fenner,8830,Melba,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,5
+ACT,102,Fenner,8830,Melba,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8830,Melba,E,29666,0,E Ticket Votes,Sustainable Australia,22
+ACT,102,Fenner,8830,Melba,E,28468,1,"HAYDON, John",Sustainable Australia,10
+ACT,102,Fenner,8830,Melba,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,8830,Melba,F,29667,0,F Ticket Votes,Liberal,590
+ACT,102,Fenner,8830,Melba,F,28773,1,"SESELJA, Zed",Liberal,50
+ACT,102,Fenner,8830,Melba,F,28782,2,"HIATT, Jane",Liberal,14
+ACT,102,Fenner,8830,Melba,G,29664,0,G Ticket Votes,Animal Justice Party,26
+ACT,102,Fenner,8830,Melba,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,102,Fenner,8830,Melba,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,102,Fenner,8830,Melba,H,29665,0,H Ticket Votes,The Greens,261
+ACT,102,Fenner,8830,Melba,H,28306,1,"HOBBS, Christina",The Greens,116
+ACT,102,Fenner,8830,Melba,H,28308,2,"WAREHAM, Sue",The Greens,12
+ACT,102,Fenner,8830,Melba,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),25
+ACT,102,Fenner,8830,Melba,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,8830,Melba,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8830,Melba,J,29671,0,J Ticket Votes,Australian Sex Party,94
+ACT,102,Fenner,8830,Melba,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,102,Fenner,8830,Melba,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8830,Melba,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,8830,Melba,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,8830,Melba,ZZ,0,99,INFORMAL,,58
+ACT,102,Fenner,8832,Page,A,29670,0,A Ticket Votes,Liberal Democratic Party,31
+ACT,102,Fenner,8832,Page,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,102,Fenner,8832,Page,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8832,Page,B,29669,0,B Ticket Votes,Secular Party of Australia,9
+ACT,102,Fenner,8832,Page,B,28933,1,"EDWARDS, David",Secular Party of Australia,6
+ACT,102,Fenner,8832,Page,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8832,Page,C,29663,0,C Ticket Votes,Australian Labor Party,639
+ACT,102,Fenner,8832,Page,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,108
+ACT,102,Fenner,8832,Page,C,28149,2,"SMITH, David",Australian Labor Party,9
+ACT,102,Fenner,8832,Page,D,29672,0,D Ticket Votes,Rise Up Australia Party,11
+ACT,102,Fenner,8832,Page,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,102,Fenner,8832,Page,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,8832,Page,E,29666,0,E Ticket Votes,Sustainable Australia,20
+ACT,102,Fenner,8832,Page,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,102,Fenner,8832,Page,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8832,Page,F,29667,0,F Ticket Votes,Liberal,460
+ACT,102,Fenner,8832,Page,F,28773,1,"SESELJA, Zed",Liberal,43
+ACT,102,Fenner,8832,Page,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,102,Fenner,8832,Page,G,29664,0,G Ticket Votes,Animal Justice Party,23
+ACT,102,Fenner,8832,Page,G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,102,Fenner,8832,Page,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8832,Page,H,29665,0,H Ticket Votes,The Greens,257
+ACT,102,Fenner,8832,Page,H,28306,1,"HOBBS, Christina",The Greens,75
+ACT,102,Fenner,8832,Page,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,8832,Page,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),24
+ACT,102,Fenner,8832,Page,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,102,Fenner,8832,Page,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8832,Page,J,29671,0,J Ticket Votes,Australian Sex Party,54
+ACT,102,Fenner,8832,Page,J,29390,1,"BAILEY, Steven",Australian Sex Party,14
+ACT,102,Fenner,8832,Page,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8832,Page,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,8832,Page,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,8832,Page,ZZ,0,99,INFORMAL,,33
+ACT,102,Fenner,8834,Scullin,A,29670,0,A Ticket Votes,Liberal Democratic Party,27
+ACT,102,Fenner,8834,Scullin,A,29611,1,"DONNELLY, Matt",Liberal Democrats,3
+ACT,102,Fenner,8834,Scullin,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,8834,Scullin,B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,102,Fenner,8834,Scullin,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,8834,Scullin,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8834,Scullin,C,29663,0,C Ticket Votes,Australian Labor Party,461
+ACT,102,Fenner,8834,Scullin,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,75
+ACT,102,Fenner,8834,Scullin,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,102,Fenner,8834,Scullin,D,29672,0,D Ticket Votes,Rise Up Australia Party,13
+ACT,102,Fenner,8834,Scullin,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,102,Fenner,8834,Scullin,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8834,Scullin,E,29666,0,E Ticket Votes,Sustainable Australia,7
+ACT,102,Fenner,8834,Scullin,E,28468,1,"HAYDON, John",Sustainable Australia,3
+ACT,102,Fenner,8834,Scullin,E,28469,2,"TYE, Martin",Sustainable Australia,3
+ACT,102,Fenner,8834,Scullin,F,29667,0,F Ticket Votes,Liberal,252
+ACT,102,Fenner,8834,Scullin,F,28773,1,"SESELJA, Zed",Liberal,26
+ACT,102,Fenner,8834,Scullin,F,28782,2,"HIATT, Jane",Liberal,6
+ACT,102,Fenner,8834,Scullin,G,29664,0,G Ticket Votes,Animal Justice Party,21
+ACT,102,Fenner,8834,Scullin,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,8834,Scullin,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8834,Scullin,H,29665,0,H Ticket Votes,The Greens,156
+ACT,102,Fenner,8834,Scullin,H,28306,1,"HOBBS, Christina",The Greens,59
+ACT,102,Fenner,8834,Scullin,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,102,Fenner,8834,Scullin,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),25
+ACT,102,Fenner,8834,Scullin,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,102,Fenner,8834,Scullin,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,8834,Scullin,J,29671,0,J Ticket Votes,Australian Sex Party,59
+ACT,102,Fenner,8834,Scullin,J,29390,1,"BAILEY, Steven",Australian Sex Party,11
+ACT,102,Fenner,8834,Scullin,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,102,Fenner,8834,Scullin,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,102,Fenner,8834,Scullin,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,8834,Scullin,ZZ,0,99,INFORMAL,,37
+ACT,102,Fenner,8836,Turner (Fenner),A,29670,0,A Ticket Votes,Liberal Democratic Party,37
+ACT,102,Fenner,8836,Turner (Fenner),A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,102,Fenner,8836,Turner (Fenner),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,102,Fenner,8836,Turner (Fenner),B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,102,Fenner,8836,Turner (Fenner),B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,8836,Turner (Fenner),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8836,Turner (Fenner),C,29663,0,C Ticket Votes,Australian Labor Party,449
+ACT,102,Fenner,8836,Turner (Fenner),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,139
+ACT,102,Fenner,8836,Turner (Fenner),C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,102,Fenner,8836,Turner (Fenner),D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,102,Fenner,8836,Turner (Fenner),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,8836,Turner (Fenner),D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,8836,Turner (Fenner),E,29666,0,E Ticket Votes,Sustainable Australia,6
+ACT,102,Fenner,8836,Turner (Fenner),E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,102,Fenner,8836,Turner (Fenner),E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8836,Turner (Fenner),F,29667,0,F Ticket Votes,Liberal,278
+ACT,102,Fenner,8836,Turner (Fenner),F,28773,1,"SESELJA, Zed",Liberal,30
+ACT,102,Fenner,8836,Turner (Fenner),F,28782,2,"HIATT, Jane",Liberal,9
+ACT,102,Fenner,8836,Turner (Fenner),G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,102,Fenner,8836,Turner (Fenner),G,28254,1,"FIELD, Deborah",Animal Justice Party,4
+ACT,102,Fenner,8836,Turner (Fenner),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8836,Turner (Fenner),H,29665,0,H Ticket Votes,The Greens,421
+ACT,102,Fenner,8836,Turner (Fenner),H,28306,1,"HOBBS, Christina",The Greens,189
+ACT,102,Fenner,8836,Turner (Fenner),H,28308,2,"WAREHAM, Sue",The Greens,6
+ACT,102,Fenner,8836,Turner (Fenner),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),11
+ACT,102,Fenner,8836,Turner (Fenner),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,102,Fenner,8836,Turner (Fenner),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8836,Turner (Fenner),J,29671,0,J Ticket Votes,Australian Sex Party,50
+ACT,102,Fenner,8836,Turner (Fenner),J,29390,1,"BAILEY, Steven",Australian Sex Party,18
+ACT,102,Fenner,8836,Turner (Fenner),J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,8836,Turner (Fenner),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,8836,Turner (Fenner),UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,8836,Turner (Fenner),ZZ,0,99,INFORMAL,,21
+ACT,102,Fenner,8837,Watson,A,29670,0,A Ticket Votes,Liberal Democratic Party,47
+ACT,102,Fenner,8837,Watson,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,8837,Watson,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8837,Watson,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,102,Fenner,8837,Watson,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,8837,Watson,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,8837,Watson,C,29663,0,C Ticket Votes,Australian Labor Party,650
+ACT,102,Fenner,8837,Watson,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,143
+ACT,102,Fenner,8837,Watson,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,8837,Watson,D,29672,0,D Ticket Votes,Rise Up Australia Party,7
+ACT,102,Fenner,8837,Watson,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,6
+ACT,102,Fenner,8837,Watson,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8837,Watson,E,29666,0,E Ticket Votes,Sustainable Australia,26
+ACT,102,Fenner,8837,Watson,E,28468,1,"HAYDON, John",Sustainable Australia,11
+ACT,102,Fenner,8837,Watson,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,8837,Watson,F,29667,0,F Ticket Votes,Liberal,526
+ACT,102,Fenner,8837,Watson,F,28773,1,"SESELJA, Zed",Liberal,38
+ACT,102,Fenner,8837,Watson,F,28782,2,"HIATT, Jane",Liberal,16
+ACT,102,Fenner,8837,Watson,G,29664,0,G Ticket Votes,Animal Justice Party,31
+ACT,102,Fenner,8837,Watson,G,28254,1,"FIELD, Deborah",Animal Justice Party,11
+ACT,102,Fenner,8837,Watson,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,8837,Watson,H,29665,0,H Ticket Votes,The Greens,591
+ACT,102,Fenner,8837,Watson,H,28306,1,"HOBBS, Christina",The Greens,236
+ACT,102,Fenner,8837,Watson,H,28308,2,"WAREHAM, Sue",The Greens,10
+ACT,102,Fenner,8837,Watson,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),26
+ACT,102,Fenner,8837,Watson,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,8837,Watson,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,8837,Watson,J,29671,0,J Ticket Votes,Australian Sex Party,65
+ACT,102,Fenner,8837,Watson,J,29390,1,"BAILEY, Steven",Australian Sex Party,20
+ACT,102,Fenner,8837,Watson,J,29391,2,"SWAN, Robbie",Australian Sex Party,6
+ACT,102,Fenner,8837,Watson,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,10
+ACT,102,Fenner,8837,Watson,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,8837,Watson,ZZ,0,99,INFORMAL,,50
+ACT,102,Fenner,8838,Weetangera,A,29670,0,A Ticket Votes,Liberal Democratic Party,33
+ACT,102,Fenner,8838,Weetangera,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,8838,Weetangera,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,8838,Weetangera,B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,102,Fenner,8838,Weetangera,B,28933,1,"EDWARDS, David",Secular Party of Australia,4
+ACT,102,Fenner,8838,Weetangera,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,8838,Weetangera,C,29663,0,C Ticket Votes,Australian Labor Party,679
+ACT,102,Fenner,8838,Weetangera,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,140
+ACT,102,Fenner,8838,Weetangera,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,8838,Weetangera,D,29672,0,D Ticket Votes,Rise Up Australia Party,7
+ACT,102,Fenner,8838,Weetangera,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,8838,Weetangera,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,8838,Weetangera,E,29666,0,E Ticket Votes,Sustainable Australia,22
+ACT,102,Fenner,8838,Weetangera,E,28468,1,"HAYDON, John",Sustainable Australia,6
+ACT,102,Fenner,8838,Weetangera,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,8838,Weetangera,F,29667,0,F Ticket Votes,Liberal,597
+ACT,102,Fenner,8838,Weetangera,F,28773,1,"SESELJA, Zed",Liberal,56
+ACT,102,Fenner,8838,Weetangera,F,28782,2,"HIATT, Jane",Liberal,24
+ACT,102,Fenner,8838,Weetangera,G,29664,0,G Ticket Votes,Animal Justice Party,20
+ACT,102,Fenner,8838,Weetangera,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,8838,Weetangera,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,8838,Weetangera,H,29665,0,H Ticket Votes,The Greens,278
+ACT,102,Fenner,8838,Weetangera,H,28306,1,"HOBBS, Christina",The Greens,99
+ACT,102,Fenner,8838,Weetangera,H,28308,2,"WAREHAM, Sue",The Greens,5
+ACT,102,Fenner,8838,Weetangera,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),15
+ACT,102,Fenner,8838,Weetangera,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,8838,Weetangera,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,8838,Weetangera,J,29671,0,J Ticket Votes,Australian Sex Party,49
+ACT,102,Fenner,8838,Weetangera,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,102,Fenner,8838,Weetangera,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,102,Fenner,8838,Weetangera,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,6
+ACT,102,Fenner,8838,Weetangera,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,8838,Weetangera,ZZ,0,99,INFORMAL,,30
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),A,29670,0,A Ticket Votes,Liberal Democratic Party,5
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),C,29663,0,C Ticket Votes,Australian Labor Party,76
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,19
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),E,29666,0,E Ticket Votes,Sustainable Australia,3
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),F,29667,0,F Ticket Votes,Liberal,50
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),F,28773,1,"SESELJA, Zed",Liberal,4
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),F,28782,2,"HIATT, Jane",Liberal,2
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),G,29664,0,G Ticket Votes,Animal Justice Party,3
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),H,29665,0,H Ticket Votes,The Greens,36
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),H,28306,1,"HOBBS, Christina",The Greens,9
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),J,29671,0,J Ticket Votes,Australian Sex Party,6
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),J,29390,1,"BAILEY, Steven",Australian Sex Party,4
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,2
+ACT,102,Fenner,31626,Palmerston,A,29670,0,A Ticket Votes,Liberal Democratic Party,68
+ACT,102,Fenner,31626,Palmerston,A,29611,1,"DONNELLY, Matt",Liberal Democrats,11
+ACT,102,Fenner,31626,Palmerston,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,31626,Palmerston,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,102,Fenner,31626,Palmerston,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,31626,Palmerston,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,31626,Palmerston,C,29663,0,C Ticket Votes,Australian Labor Party,1007
+ACT,102,Fenner,31626,Palmerston,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,114
+ACT,102,Fenner,31626,Palmerston,C,28149,2,"SMITH, David",Australian Labor Party,17
+ACT,102,Fenner,31626,Palmerston,D,29672,0,D Ticket Votes,Rise Up Australia Party,22
+ACT,102,Fenner,31626,Palmerston,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,31626,Palmerston,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,31626,Palmerston,E,29666,0,E Ticket Votes,Sustainable Australia,22
+ACT,102,Fenner,31626,Palmerston,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,102,Fenner,31626,Palmerston,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,31626,Palmerston,F,29667,0,F Ticket Votes,Liberal,865
+ACT,102,Fenner,31626,Palmerston,F,28773,1,"SESELJA, Zed",Liberal,42
+ACT,102,Fenner,31626,Palmerston,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,102,Fenner,31626,Palmerston,G,29664,0,G Ticket Votes,Animal Justice Party,33
+ACT,102,Fenner,31626,Palmerston,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,31626,Palmerston,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,31626,Palmerston,H,29665,0,H Ticket Votes,The Greens,253
+ACT,102,Fenner,31626,Palmerston,H,28306,1,"HOBBS, Christina",The Greens,80
+ACT,102,Fenner,31626,Palmerston,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,102,Fenner,31626,Palmerston,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),52
+ACT,102,Fenner,31626,Palmerston,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),8
+ACT,102,Fenner,31626,Palmerston,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,31626,Palmerston,J,29671,0,J Ticket Votes,Australian Sex Party,98
+ACT,102,Fenner,31626,Palmerston,J,29390,1,"BAILEY, Steven",Australian Sex Party,19
+ACT,102,Fenner,31626,Palmerston,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,31626,Palmerston,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,15
+ACT,102,Fenner,31626,Palmerston,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,31626,Palmerston,ZZ,0,99,INFORMAL,,82
+ACT,102,Fenner,32081,Nicholls,A,29670,0,A Ticket Votes,Liberal Democratic Party,91
+ACT,102,Fenner,32081,Nicholls,A,29611,1,"DONNELLY, Matt",Liberal Democrats,10
+ACT,102,Fenner,32081,Nicholls,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,32081,Nicholls,B,29669,0,B Ticket Votes,Secular Party of Australia,9
+ACT,102,Fenner,32081,Nicholls,B,28933,1,"EDWARDS, David",Secular Party of Australia,1
+ACT,102,Fenner,32081,Nicholls,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,32081,Nicholls,C,29663,0,C Ticket Votes,Australian Labor Party,1192
+ACT,102,Fenner,32081,Nicholls,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,156
+ACT,102,Fenner,32081,Nicholls,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,32081,Nicholls,D,29672,0,D Ticket Votes,Rise Up Australia Party,43
+ACT,102,Fenner,32081,Nicholls,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,10
+ACT,102,Fenner,32081,Nicholls,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,32081,Nicholls,E,29666,0,E Ticket Votes,Sustainable Australia,24
+ACT,102,Fenner,32081,Nicholls,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,32081,Nicholls,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,32081,Nicholls,F,29667,0,F Ticket Votes,Liberal,1592
+ACT,102,Fenner,32081,Nicholls,F,28773,1,"SESELJA, Zed",Liberal,89
+ACT,102,Fenner,32081,Nicholls,F,28782,2,"HIATT, Jane",Liberal,27
+ACT,102,Fenner,32081,Nicholls,G,29664,0,G Ticket Votes,Animal Justice Party,31
+ACT,102,Fenner,32081,Nicholls,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,32081,Nicholls,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,32081,Nicholls,H,29665,0,H Ticket Votes,The Greens,302
+ACT,102,Fenner,32081,Nicholls,H,28306,1,"HOBBS, Christina",The Greens,84
+ACT,102,Fenner,32081,Nicholls,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,32081,Nicholls,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),63
+ACT,102,Fenner,32081,Nicholls,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,102,Fenner,32081,Nicholls,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,32081,Nicholls,J,29671,0,J Ticket Votes,Australian Sex Party,102
+ACT,102,Fenner,32081,Nicholls,J,29390,1,"BAILEY, Steven",Australian Sex Party,15
+ACT,102,Fenner,32081,Nicholls,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,102,Fenner,32081,Nicholls,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,102,Fenner,32081,Nicholls,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,102,Fenner,32081,Nicholls,ZZ,0,99,INFORMAL,,74
+ACT,102,Fenner,32463,Ngunnawal,A,29670,0,A Ticket Votes,Liberal Democratic Party,68
+ACT,102,Fenner,32463,Ngunnawal,A,29611,1,"DONNELLY, Matt",Liberal Democrats,14
+ACT,102,Fenner,32463,Ngunnawal,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,32463,Ngunnawal,B,29669,0,B Ticket Votes,Secular Party of Australia,11
+ACT,102,Fenner,32463,Ngunnawal,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,32463,Ngunnawal,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,32463,Ngunnawal,C,29663,0,C Ticket Votes,Australian Labor Party,1223
+ACT,102,Fenner,32463,Ngunnawal,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,167
+ACT,102,Fenner,32463,Ngunnawal,C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,102,Fenner,32463,Ngunnawal,D,29672,0,D Ticket Votes,Rise Up Australia Party,29
+ACT,102,Fenner,32463,Ngunnawal,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,10
+ACT,102,Fenner,32463,Ngunnawal,D,29518,2,"WYATT, Jess",Rise Up Australia Party,2
+ACT,102,Fenner,32463,Ngunnawal,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,102,Fenner,32463,Ngunnawal,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,32463,Ngunnawal,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,32463,Ngunnawal,F,29667,0,F Ticket Votes,Liberal,881
+ACT,102,Fenner,32463,Ngunnawal,F,28773,1,"SESELJA, Zed",Liberal,61
+ACT,102,Fenner,32463,Ngunnawal,F,28782,2,"HIATT, Jane",Liberal,15
+ACT,102,Fenner,32463,Ngunnawal,G,29664,0,G Ticket Votes,Animal Justice Party,36
+ACT,102,Fenner,32463,Ngunnawal,G,28254,1,"FIELD, Deborah",Animal Justice Party,9
+ACT,102,Fenner,32463,Ngunnawal,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,102,Fenner,32463,Ngunnawal,H,29665,0,H Ticket Votes,The Greens,357
+ACT,102,Fenner,32463,Ngunnawal,H,28306,1,"HOBBS, Christina",The Greens,105
+ACT,102,Fenner,32463,Ngunnawal,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,32463,Ngunnawal,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),45
+ACT,102,Fenner,32463,Ngunnawal,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),11
+ACT,102,Fenner,32463,Ngunnawal,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,32463,Ngunnawal,J,29671,0,J Ticket Votes,Australian Sex Party,147
+ACT,102,Fenner,32463,Ngunnawal,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,32463,Ngunnawal,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,32463,Ngunnawal,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,32463,Ngunnawal,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,32463,Ngunnawal,ZZ,0,99,INFORMAL,,74
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,411
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,43
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,45
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,20
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,5471
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,792
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,C,28149,2,"SMITH, David",Australian Labor Party,54
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,121
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,29
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,3
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,158
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,40
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,9
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,F,29667,0,F Ticket Votes,Liberal,4744
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,F,28773,1,"SESELJA, Zed",Liberal,274
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,F,28782,2,"HIATT, Jane",Liberal,65
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,214
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,28
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,5
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,H,29665,0,H Ticket Votes,The Greens,1518
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,H,28306,1,"HOBBS, Christina",The Greens,402
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,H,28308,2,"WAREHAM, Sue",The Greens,39
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),146
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),25
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),6
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,470
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,78
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,14
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,40
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,25
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,ZZ,0,99,INFORMAL,,411
+ACT,102,Fenner,32465,City FENNER PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,102
+ACT,102,Fenner,32465,City FENNER PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,18
+ACT,102,Fenner,32465,City FENNER PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,2
+ACT,102,Fenner,32465,City FENNER PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,23
+ACT,102,Fenner,32465,City FENNER PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,32465,City FENNER PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,32465,City FENNER PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,1671
+ACT,102,Fenner,32465,City FENNER PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,351
+ACT,102,Fenner,32465,City FENNER PPVC,C,28149,2,"SMITH, David",Australian Labor Party,26
+ACT,102,Fenner,32465,City FENNER PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,19
+ACT,102,Fenner,32465,City FENNER PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,102,Fenner,32465,City FENNER PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,32465,City FENNER PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,48
+ACT,102,Fenner,32465,City FENNER PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,16
+ACT,102,Fenner,32465,City FENNER PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,2
+ACT,102,Fenner,32465,City FENNER PPVC,F,29667,0,F Ticket Votes,Liberal,1385
+ACT,102,Fenner,32465,City FENNER PPVC,F,28773,1,"SESELJA, Zed",Liberal,87
+ACT,102,Fenner,32465,City FENNER PPVC,F,28782,2,"HIATT, Jane",Liberal,42
+ACT,102,Fenner,32465,City FENNER PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,46
+ACT,102,Fenner,32465,City FENNER PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,12
+ACT,102,Fenner,32465,City FENNER PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,32465,City FENNER PPVC,H,29665,0,H Ticket Votes,The Greens,943
+ACT,102,Fenner,32465,City FENNER PPVC,H,28306,1,"HOBBS, Christina",The Greens,310
+ACT,102,Fenner,32465,City FENNER PPVC,H,28308,2,"WAREHAM, Sue",The Greens,25
+ACT,102,Fenner,32465,City FENNER PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),44
+ACT,102,Fenner,32465,City FENNER PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),10
+ACT,102,Fenner,32465,City FENNER PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32465,City FENNER PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,136
+ACT,102,Fenner,32465,City FENNER PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,42
+ACT,102,Fenner,32465,City FENNER PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,32465,City FENNER PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,23
+ACT,102,Fenner,32465,City FENNER PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,5
+ACT,102,Fenner,32465,City FENNER PPVC,ZZ,0,99,INFORMAL,,66
+ACT,102,Fenner,32467,Special Hospital Team 1,A,29670,0,A Ticket Votes,Liberal Democratic Party,28
+ACT,102,Fenner,32467,Special Hospital Team 1,A,29611,1,"DONNELLY, Matt",Liberal Democrats,2
+ACT,102,Fenner,32467,Special Hospital Team 1,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,32467,Special Hospital Team 1,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,102,Fenner,32467,Special Hospital Team 1,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,C,29663,0,C Ticket Votes,Australian Labor Party,142
+ACT,102,Fenner,32467,Special Hospital Team 1,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,19
+ACT,102,Fenner,32467,Special Hospital Team 1,C,28149,2,"SMITH, David",Australian Labor Party,1
+ACT,102,Fenner,32467,Special Hospital Team 1,D,29672,0,D Ticket Votes,Rise Up Australia Party,4
+ACT,102,Fenner,32467,Special Hospital Team 1,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,32467,Special Hospital Team 1,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,32467,Special Hospital Team 1,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,F,29667,0,F Ticket Votes,Liberal,156
+ACT,102,Fenner,32467,Special Hospital Team 1,F,28773,1,"SESELJA, Zed",Liberal,9
+ACT,102,Fenner,32467,Special Hospital Team 1,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,102,Fenner,32467,Special Hospital Team 1,G,29664,0,G Ticket Votes,Animal Justice Party,2
+ACT,102,Fenner,32467,Special Hospital Team 1,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,32467,Special Hospital Team 1,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,32467,Special Hospital Team 1,H,29665,0,H Ticket Votes,The Greens,21
+ACT,102,Fenner,32467,Special Hospital Team 1,H,28306,1,"HOBBS, Christina",The Greens,5
+ACT,102,Fenner,32467,Special Hospital Team 1,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,32467,Special Hospital Team 1,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,32467,Special Hospital Team 1,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32467,Special Hospital Team 1,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32467,Special Hospital Team 1,J,29671,0,J Ticket Votes,Australian Sex Party,3
+ACT,102,Fenner,32467,Special Hospital Team 1,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,102,Fenner,32467,Special Hospital Team 1,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,32467,Special Hospital Team 1,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,32467,Special Hospital Team 1,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,32467,Special Hospital Team 1,ZZ,0,99,INFORMAL,,10
+ACT,102,Fenner,32468,Special Hospital Team 2,A,29670,0,A Ticket Votes,Liberal Democratic Party,4
+ACT,102,Fenner,32468,Special Hospital Team 2,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,102,Fenner,32468,Special Hospital Team 2,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,32468,Special Hospital Team 2,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,102,Fenner,32468,Special Hospital Team 2,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,C,29663,0,C Ticket Votes,Australian Labor Party,47
+ACT,102,Fenner,32468,Special Hospital Team 2,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,C,28149,2,"SMITH, David",Australian Labor Party,1
+ACT,102,Fenner,32468,Special Hospital Team 2,D,29672,0,D Ticket Votes,Rise Up Australia Party,1
+ACT,102,Fenner,32468,Special Hospital Team 2,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,F,29667,0,F Ticket Votes,Liberal,47
+ACT,102,Fenner,32468,Special Hospital Team 2,F,28773,1,"SESELJA, Zed",Liberal,0
+ACT,102,Fenner,32468,Special Hospital Team 2,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,102,Fenner,32468,Special Hospital Team 2,G,29664,0,G Ticket Votes,Animal Justice Party,1
+ACT,102,Fenner,32468,Special Hospital Team 2,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,H,29665,0,H Ticket Votes,The Greens,6
+ACT,102,Fenner,32468,Special Hospital Team 2,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,102,Fenner,32468,Special Hospital Team 2,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,32468,Special Hospital Team 2,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32468,Special Hospital Team 2,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32468,Special Hospital Team 2,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,32468,Special Hospital Team 2,J,29671,0,J Ticket Votes,Australian Sex Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,32468,Special Hospital Team 2,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,32468,Special Hospital Team 2,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,32468,Special Hospital Team 2,ZZ,0,99,INFORMAL,,1
+ACT,102,Fenner,34238,Fraser Central,A,29670,0,A Ticket Votes,Liberal Democratic Party,65
+ACT,102,Fenner,34238,Fraser Central,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,102,Fenner,34238,Fraser Central,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,4
+ACT,102,Fenner,34238,Fraser Central,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,102,Fenner,34238,Fraser Central,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,34238,Fraser Central,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,34238,Fraser Central,C,29663,0,C Ticket Votes,Australian Labor Party,1080
+ACT,102,Fenner,34238,Fraser Central,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,178
+ACT,102,Fenner,34238,Fraser Central,C,28149,2,"SMITH, David",Australian Labor Party,10
+ACT,102,Fenner,34238,Fraser Central,D,29672,0,D Ticket Votes,Rise Up Australia Party,46
+ACT,102,Fenner,34238,Fraser Central,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,9
+ACT,102,Fenner,34238,Fraser Central,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,34238,Fraser Central,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,102,Fenner,34238,Fraser Central,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,34238,Fraser Central,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,34238,Fraser Central,F,29667,0,F Ticket Votes,Liberal,853
+ACT,102,Fenner,34238,Fraser Central,F,28773,1,"SESELJA, Zed",Liberal,46
+ACT,102,Fenner,34238,Fraser Central,F,28782,2,"HIATT, Jane",Liberal,14
+ACT,102,Fenner,34238,Fraser Central,G,29664,0,G Ticket Votes,Animal Justice Party,48
+ACT,102,Fenner,34238,Fraser Central,G,28254,1,"FIELD, Deborah",Animal Justice Party,10
+ACT,102,Fenner,34238,Fraser Central,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,34238,Fraser Central,H,29665,0,H Ticket Votes,The Greens,296
+ACT,102,Fenner,34238,Fraser Central,H,28306,1,"HOBBS, Christina",The Greens,107
+ACT,102,Fenner,34238,Fraser Central,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,102,Fenner,34238,Fraser Central,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),44
+ACT,102,Fenner,34238,Fraser Central,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),12
+ACT,102,Fenner,34238,Fraser Central,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,34238,Fraser Central,J,29671,0,J Ticket Votes,Australian Sex Party,121
+ACT,102,Fenner,34238,Fraser Central,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,34238,Fraser Central,J,29391,2,"SWAN, Robbie",Australian Sex Party,7
+ACT,102,Fenner,34238,Fraser Central,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,102,Fenner,34238,Fraser Central,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,34238,Fraser Central,ZZ,0,99,INFORMAL,,87
+ACT,102,Fenner,34240,Gungahlin,A,29670,0,A Ticket Votes,Liberal Democratic Party,78
+ACT,102,Fenner,34240,Gungahlin,A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,34240,Gungahlin,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,3
+ACT,102,Fenner,34240,Gungahlin,B,29669,0,B Ticket Votes,Secular Party of Australia,7
+ACT,102,Fenner,34240,Gungahlin,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,34240,Gungahlin,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,34240,Gungahlin,C,29663,0,C Ticket Votes,Australian Labor Party,985
+ACT,102,Fenner,34240,Gungahlin,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,115
+ACT,102,Fenner,34240,Gungahlin,C,28149,2,"SMITH, David",Australian Labor Party,14
+ACT,102,Fenner,34240,Gungahlin,D,29672,0,D Ticket Votes,Rise Up Australia Party,21
+ACT,102,Fenner,34240,Gungahlin,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,102,Fenner,34240,Gungahlin,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,34240,Gungahlin,E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,102,Fenner,34240,Gungahlin,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,102,Fenner,34240,Gungahlin,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,34240,Gungahlin,F,29667,0,F Ticket Votes,Liberal,975
+ACT,102,Fenner,34240,Gungahlin,F,28773,1,"SESELJA, Zed",Liberal,60
+ACT,102,Fenner,34240,Gungahlin,F,28782,2,"HIATT, Jane",Liberal,11
+ACT,102,Fenner,34240,Gungahlin,G,29664,0,G Ticket Votes,Animal Justice Party,55
+ACT,102,Fenner,34240,Gungahlin,G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,34240,Gungahlin,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,34240,Gungahlin,H,29665,0,H Ticket Votes,The Greens,280
+ACT,102,Fenner,34240,Gungahlin,H,28306,1,"HOBBS, Christina",The Greens,49
+ACT,102,Fenner,34240,Gungahlin,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,102,Fenner,34240,Gungahlin,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),42
+ACT,102,Fenner,34240,Gungahlin,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,102,Fenner,34240,Gungahlin,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,34240,Gungahlin,J,29671,0,J Ticket Votes,Australian Sex Party,95
+ACT,102,Fenner,34240,Gungahlin,J,29390,1,"BAILEY, Steven",Australian Sex Party,23
+ACT,102,Fenner,34240,Gungahlin,J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,34240,Gungahlin,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,34240,Gungahlin,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,34240,Gungahlin,ZZ,0,99,INFORMAL,,74
+ACT,102,Fenner,38197,Amaroo,A,29670,0,A Ticket Votes,Liberal Democratic Party,79
+ACT,102,Fenner,38197,Amaroo,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,38197,Amaroo,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,38197,Amaroo,B,29669,0,B Ticket Votes,Secular Party of Australia,6
+ACT,102,Fenner,38197,Amaroo,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,38197,Amaroo,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,38197,Amaroo,C,29663,0,C Ticket Votes,Australian Labor Party,988
+ACT,102,Fenner,38197,Amaroo,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,108
+ACT,102,Fenner,38197,Amaroo,C,28149,2,"SMITH, David",Australian Labor Party,5
+ACT,102,Fenner,38197,Amaroo,D,29672,0,D Ticket Votes,Rise Up Australia Party,40
+ACT,102,Fenner,38197,Amaroo,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,38197,Amaroo,D,29518,2,"WYATT, Jess",Rise Up Australia Party,2
+ACT,102,Fenner,38197,Amaroo,E,29666,0,E Ticket Votes,Sustainable Australia,18
+ACT,102,Fenner,38197,Amaroo,E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,102,Fenner,38197,Amaroo,E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,38197,Amaroo,F,29667,0,F Ticket Votes,Liberal,933
+ACT,102,Fenner,38197,Amaroo,F,28773,1,"SESELJA, Zed",Liberal,48
+ACT,102,Fenner,38197,Amaroo,F,28782,2,"HIATT, Jane",Liberal,19
+ACT,102,Fenner,38197,Amaroo,G,29664,0,G Ticket Votes,Animal Justice Party,45
+ACT,102,Fenner,38197,Amaroo,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,38197,Amaroo,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,38197,Amaroo,H,29665,0,H Ticket Votes,The Greens,211
+ACT,102,Fenner,38197,Amaroo,H,28306,1,"HOBBS, Christina",The Greens,61
+ACT,102,Fenner,38197,Amaroo,H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,38197,Amaroo,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),23
+ACT,102,Fenner,38197,Amaroo,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,102,Fenner,38197,Amaroo,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,38197,Amaroo,J,29671,0,J Ticket Votes,Australian Sex Party,104
+ACT,102,Fenner,38197,Amaroo,J,29390,1,"BAILEY, Steven",Australian Sex Party,13
+ACT,102,Fenner,38197,Amaroo,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,102,Fenner,38197,Amaroo,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,4
+ACT,102,Fenner,38197,Amaroo,UG,28150,2,"HANSON, Anthony",Mature Australia,2
+ACT,102,Fenner,38197,Amaroo,ZZ,0,99,INFORMAL,,75
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,282
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,31
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,27
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,2837
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,319
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,C,28149,2,"SMITH, David",Australian Labor Party,22
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,67
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,11
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,56
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,13
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,5
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,F,29667,0,F Ticket Votes,Liberal,3228
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,F,28773,1,"SESELJA, Zed",Liberal,196
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,F,28782,2,"HIATT, Jane",Liberal,33
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,102
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,8
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,H,29665,0,H Ticket Votes,The Greens,589
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,H,28306,1,"HOBBS, Christina",The Greens,125
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,H,28308,2,"WAREHAM, Sue",The Greens,4
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),84
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),9
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,247
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,35
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,16
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,9
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,ZZ,0,99,INFORMAL,,163
+ACT,102,Fenner,47681,Harrison,A,29670,0,A Ticket Votes,Liberal Democratic Party,108
+ACT,102,Fenner,47681,Harrison,A,29611,1,"DONNELLY, Matt",Liberal Democrats,8
+ACT,102,Fenner,47681,Harrison,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,47681,Harrison,B,29669,0,B Ticket Votes,Secular Party of Australia,12
+ACT,102,Fenner,47681,Harrison,B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,102,Fenner,47681,Harrison,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,2
+ACT,102,Fenner,47681,Harrison,C,29663,0,C Ticket Votes,Australian Labor Party,1091
+ACT,102,Fenner,47681,Harrison,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,155
+ACT,102,Fenner,47681,Harrison,C,28149,2,"SMITH, David",Australian Labor Party,12
+ACT,102,Fenner,47681,Harrison,D,29672,0,D Ticket Votes,Rise Up Australia Party,22
+ACT,102,Fenner,47681,Harrison,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,102,Fenner,47681,Harrison,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,47681,Harrison,E,29666,0,E Ticket Votes,Sustainable Australia,14
+ACT,102,Fenner,47681,Harrison,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,102,Fenner,47681,Harrison,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,47681,Harrison,F,29667,0,F Ticket Votes,Liberal,1193
+ACT,102,Fenner,47681,Harrison,F,28773,1,"SESELJA, Zed",Liberal,69
+ACT,102,Fenner,47681,Harrison,F,28782,2,"HIATT, Jane",Liberal,21
+ACT,102,Fenner,47681,Harrison,G,29664,0,G Ticket Votes,Animal Justice Party,34
+ACT,102,Fenner,47681,Harrison,G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,47681,Harrison,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,47681,Harrison,H,29665,0,H Ticket Votes,The Greens,341
+ACT,102,Fenner,47681,Harrison,H,28306,1,"HOBBS, Christina",The Greens,81
+ACT,102,Fenner,47681,Harrison,H,28308,2,"WAREHAM, Sue",The Greens,3
+ACT,102,Fenner,47681,Harrison,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),51
+ACT,102,Fenner,47681,Harrison,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),8
+ACT,102,Fenner,47681,Harrison,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,47681,Harrison,J,29671,0,J Ticket Votes,Australian Sex Party,97
+ACT,102,Fenner,47681,Harrison,J,29390,1,"BAILEY, Steven",Australian Sex Party,19
+ACT,102,Fenner,47681,Harrison,J,29391,2,"SWAN, Robbie",Australian Sex Party,1
+ACT,102,Fenner,47681,Harrison,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,8
+ACT,102,Fenner,47681,Harrison,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,47681,Harrison,ZZ,0,99,INFORMAL,,57
+ACT,102,Fenner,64584,Woden FENNER PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,20
+ACT,102,Fenner,64584,Woden FENNER PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,102,Fenner,64584,Woden FENNER PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,4
+ACT,102,Fenner,64584,Woden FENNER PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,5
+ACT,102,Fenner,64584,Woden FENNER PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,333
+ACT,102,Fenner,64584,Woden FENNER PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,54
+ACT,102,Fenner,64584,Woden FENNER PPVC,C,28149,2,"SMITH, David",Australian Labor Party,4
+ACT,102,Fenner,64584,Woden FENNER PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,3
+ACT,102,Fenner,64584,Woden FENNER PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,4
+ACT,102,Fenner,64584,Woden FENNER PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,6
+ACT,102,Fenner,64584,Woden FENNER PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,64584,Woden FENNER PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,F,29667,0,F Ticket Votes,Liberal,317
+ACT,102,Fenner,64584,Woden FENNER PPVC,F,28773,1,"SESELJA, Zed",Liberal,29
+ACT,102,Fenner,64584,Woden FENNER PPVC,F,28782,2,"HIATT, Jane",Liberal,2
+ACT,102,Fenner,64584,Woden FENNER PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,12
+ACT,102,Fenner,64584,Woden FENNER PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,3
+ACT,102,Fenner,64584,Woden FENNER PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,H,29665,0,H Ticket Votes,The Greens,131
+ACT,102,Fenner,64584,Woden FENNER PPVC,H,28306,1,"HOBBS, Christina",The Greens,45
+ACT,102,Fenner,64584,Woden FENNER PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),14
+ACT,102,Fenner,64584,Woden FENNER PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,64584,Woden FENNER PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,64584,Woden FENNER PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,33
+ACT,102,Fenner,64584,Woden FENNER PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,102,Fenner,64584,Woden FENNER PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,3
+ACT,102,Fenner,64584,Woden FENNER PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,102,Fenner,64584,Woden FENNER PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,64584,Woden FENNER PPVC,ZZ,0,99,INFORMAL,,14
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,12
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,175
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,26
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,2
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,2
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,F,29667,0,F Ticket Votes,Liberal,148
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,F,28773,1,"SESELJA, Zed",Liberal,6
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,F,28782,2,"HIATT, Jane",Liberal,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,8
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,H,29665,0,H Ticket Votes,The Greens,39
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,H,28306,1,"HOBBS, Christina",The Greens,7
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,16
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,1
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,ZZ,0,99,INFORMAL,,15
+ACT,102,Fenner,65493,Forde,A,29670,0,A Ticket Votes,Liberal Democratic Party,42
+ACT,102,Fenner,65493,Forde,A,29611,1,"DONNELLY, Matt",Liberal Democrats,6
+ACT,102,Fenner,65493,Forde,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,65493,Forde,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,102,Fenner,65493,Forde,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,65493,Forde,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,65493,Forde,C,29663,0,C Ticket Votes,Australian Labor Party,495
+ACT,102,Fenner,65493,Forde,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,75
+ACT,102,Fenner,65493,Forde,C,28149,2,"SMITH, David",Australian Labor Party,1
+ACT,102,Fenner,65493,Forde,D,29672,0,D Ticket Votes,Rise Up Australia Party,16
+ACT,102,Fenner,65493,Forde,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,3
+ACT,102,Fenner,65493,Forde,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,65493,Forde,E,29666,0,E Ticket Votes,Sustainable Australia,6
+ACT,102,Fenner,65493,Forde,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,65493,Forde,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,65493,Forde,F,29667,0,F Ticket Votes,Liberal,703
+ACT,102,Fenner,65493,Forde,F,28773,1,"SESELJA, Zed",Liberal,44
+ACT,102,Fenner,65493,Forde,F,28782,2,"HIATT, Jane",Liberal,5
+ACT,102,Fenner,65493,Forde,G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,102,Fenner,65493,Forde,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,102,Fenner,65493,Forde,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,65493,Forde,H,29665,0,H Ticket Votes,The Greens,162
+ACT,102,Fenner,65493,Forde,H,28306,1,"HOBBS, Christina",The Greens,30
+ACT,102,Fenner,65493,Forde,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,102,Fenner,65493,Forde,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),22
+ACT,102,Fenner,65493,Forde,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,65493,Forde,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65493,Forde,J,29671,0,J Ticket Votes,Australian Sex Party,40
+ACT,102,Fenner,65493,Forde,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,102,Fenner,65493,Forde,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,65493,Forde,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,7
+ACT,102,Fenner,65493,Forde,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,65493,Forde,ZZ,0,99,INFORMAL,,19
+ACT,102,Fenner,65505,BLV Fenner PPVC,A,29670,0,A Ticket Votes,Liberal Democratic Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,C,29663,0,C Ticket Votes,Australian Labor Party,15
+ACT,102,Fenner,65505,BLV Fenner PPVC,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,1
+ACT,102,Fenner,65505,BLV Fenner PPVC,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,D,29672,0,D Ticket Votes,Rise Up Australia Party,1
+ACT,102,Fenner,65505,BLV Fenner PPVC,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,F,29667,0,F Ticket Votes,Liberal,5
+ACT,102,Fenner,65505,BLV Fenner PPVC,F,28773,1,"SESELJA, Zed",Liberal,1
+ACT,102,Fenner,65505,BLV Fenner PPVC,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,G,29664,0,G Ticket Votes,Animal Justice Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,H,29665,0,H Ticket Votes,The Greens,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,H,28306,1,"HOBBS, Christina",The Greens,1
+ACT,102,Fenner,65505,BLV Fenner PPVC,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65505,BLV Fenner PPVC,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65505,BLV Fenner PPVC,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65505,BLV Fenner PPVC,J,29671,0,J Ticket Votes,Australian Sex Party,1
+ACT,102,Fenner,65505,BLV Fenner PPVC,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,65505,BLV Fenner PPVC,ZZ,0,99,INFORMAL,,0
+ACT,102,Fenner,65695,Bonner,A,29670,0,A Ticket Votes,Liberal Democratic Party,70
+ACT,102,Fenner,65695,Bonner,A,29611,1,"DONNELLY, Matt",Liberal Democrats,4
+ACT,102,Fenner,65695,Bonner,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,65695,Bonner,B,29669,0,B Ticket Votes,Secular Party of Australia,2
+ACT,102,Fenner,65695,Bonner,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,65695,Bonner,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,65695,Bonner,C,29663,0,C Ticket Votes,Australian Labor Party,877
+ACT,102,Fenner,65695,Bonner,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,96
+ACT,102,Fenner,65695,Bonner,C,28149,2,"SMITH, David",Australian Labor Party,5
+ACT,102,Fenner,65695,Bonner,D,29672,0,D Ticket Votes,Rise Up Australia Party,19
+ACT,102,Fenner,65695,Bonner,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,102,Fenner,65695,Bonner,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,65695,Bonner,E,29666,0,E Ticket Votes,Sustainable Australia,9
+ACT,102,Fenner,65695,Bonner,E,28468,1,"HAYDON, John",Sustainable Australia,2
+ACT,102,Fenner,65695,Bonner,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,65695,Bonner,F,29667,0,F Ticket Votes,Liberal,631
+ACT,102,Fenner,65695,Bonner,F,28773,1,"SESELJA, Zed",Liberal,45
+ACT,102,Fenner,65695,Bonner,F,28782,2,"HIATT, Jane",Liberal,6
+ACT,102,Fenner,65695,Bonner,G,29664,0,G Ticket Votes,Animal Justice Party,17
+ACT,102,Fenner,65695,Bonner,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,102,Fenner,65695,Bonner,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,65695,Bonner,H,29665,0,H Ticket Votes,The Greens,190
+ACT,102,Fenner,65695,Bonner,H,28306,1,"HOBBS, Christina",The Greens,48
+ACT,102,Fenner,65695,Bonner,H,28308,2,"WAREHAM, Sue",The Greens,1
+ACT,102,Fenner,65695,Bonner,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),26
+ACT,102,Fenner,65695,Bonner,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),3
+ACT,102,Fenner,65695,Bonner,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65695,Bonner,J,29671,0,J Ticket Votes,Australian Sex Party,63
+ACT,102,Fenner,65695,Bonner,J,29390,1,"BAILEY, Steven",Australian Sex Party,9
+ACT,102,Fenner,65695,Bonner,J,29391,2,"SWAN, Robbie",Australian Sex Party,2
+ACT,102,Fenner,65695,Bonner,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,5
+ACT,102,Fenner,65695,Bonner,UG,28150,2,"HANSON, Anthony",Mature Australia,3
+ACT,102,Fenner,65695,Bonner,ZZ,0,99,INFORMAL,,52
+ACT,102,Fenner,65743,Parkes (Fenner),A,29670,0,A Ticket Votes,Liberal Democratic Party,15
+ACT,102,Fenner,65743,Parkes (Fenner),A,29611,1,"DONNELLY, Matt",Liberal Democrats,7
+ACT,102,Fenner,65743,Parkes (Fenner),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,65743,Parkes (Fenner),B,29669,0,B Ticket Votes,Secular Party of Australia,8
+ACT,102,Fenner,65743,Parkes (Fenner),B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,65743,Parkes (Fenner),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,65743,Parkes (Fenner),C,29663,0,C Ticket Votes,Australian Labor Party,397
+ACT,102,Fenner,65743,Parkes (Fenner),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,151
+ACT,102,Fenner,65743,Parkes (Fenner),C,28149,2,"SMITH, David",Australian Labor Party,8
+ACT,102,Fenner,65743,Parkes (Fenner),D,29672,0,D Ticket Votes,Rise Up Australia Party,5
+ACT,102,Fenner,65743,Parkes (Fenner),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,65743,Parkes (Fenner),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,65743,Parkes (Fenner),E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,102,Fenner,65743,Parkes (Fenner),E,28468,1,"HAYDON, John",Sustainable Australia,5
+ACT,102,Fenner,65743,Parkes (Fenner),E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,65743,Parkes (Fenner),F,29667,0,F Ticket Votes,Liberal,298
+ACT,102,Fenner,65743,Parkes (Fenner),F,28773,1,"SESELJA, Zed",Liberal,31
+ACT,102,Fenner,65743,Parkes (Fenner),F,28782,2,"HIATT, Jane",Liberal,17
+ACT,102,Fenner,65743,Parkes (Fenner),G,29664,0,G Ticket Votes,Animal Justice Party,15
+ACT,102,Fenner,65743,Parkes (Fenner),G,28254,1,"FIELD, Deborah",Animal Justice Party,7
+ACT,102,Fenner,65743,Parkes (Fenner),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,65743,Parkes (Fenner),H,29665,0,H Ticket Votes,The Greens,323
+ACT,102,Fenner,65743,Parkes (Fenner),H,28306,1,"HOBBS, Christina",The Greens,194
+ACT,102,Fenner,65743,Parkes (Fenner),H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,102,Fenner,65743,Parkes (Fenner),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),14
+ACT,102,Fenner,65743,Parkes (Fenner),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),5
+ACT,102,Fenner,65743,Parkes (Fenner),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,65743,Parkes (Fenner),J,29671,0,J Ticket Votes,Australian Sex Party,50
+ACT,102,Fenner,65743,Parkes (Fenner),J,29390,1,"BAILEY, Steven",Australian Sex Party,28
+ACT,102,Fenner,65743,Parkes (Fenner),J,29391,2,"SWAN, Robbie",Australian Sex Party,8
+ACT,102,Fenner,65743,Parkes (Fenner),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,13
+ACT,102,Fenner,65743,Parkes (Fenner),UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,65743,Parkes (Fenner),ZZ,0,99,INFORMAL,,18
+ACT,102,Fenner,65840,Other Mobile Team 1,A,29670,0,A Ticket Votes,Liberal Democratic Party,1
+ACT,102,Fenner,65840,Other Mobile Team 1,A,29611,1,"DONNELLY, Matt",Liberal Democrats,0
+ACT,102,Fenner,65840,Other Mobile Team 1,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,65840,Other Mobile Team 1,B,29669,0,B Ticket Votes,Secular Party of Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,C,29663,0,C Ticket Votes,Australian Labor Party,47
+ACT,102,Fenner,65840,Other Mobile Team 1,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,2
+ACT,102,Fenner,65840,Other Mobile Team 1,C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,102,Fenner,65840,Other Mobile Team 1,D,29672,0,D Ticket Votes,Rise Up Australia Party,1
+ACT,102,Fenner,65840,Other Mobile Team 1,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,E,29666,0,E Ticket Votes,Sustainable Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,E,28468,1,"HAYDON, John",Sustainable Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,F,29667,0,F Ticket Votes,Liberal,4
+ACT,102,Fenner,65840,Other Mobile Team 1,F,28773,1,"SESELJA, Zed",Liberal,1
+ACT,102,Fenner,65840,Other Mobile Team 1,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,102,Fenner,65840,Other Mobile Team 1,G,29664,0,G Ticket Votes,Animal Justice Party,1
+ACT,102,Fenner,65840,Other Mobile Team 1,G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,H,29665,0,H Ticket Votes,The Greens,4
+ACT,102,Fenner,65840,Other Mobile Team 1,H,28306,1,"HOBBS, Christina",The Greens,0
+ACT,102,Fenner,65840,Other Mobile Team 1,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,65840,Other Mobile Team 1,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65840,Other Mobile Team 1,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65840,Other Mobile Team 1,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,65840,Other Mobile Team 1,J,29671,0,J Ticket Votes,Australian Sex Party,1
+ACT,102,Fenner,65840,Other Mobile Team 1,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,65840,Other Mobile Team 1,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,65840,Other Mobile Team 1,UG,28150,2,"HANSON, Anthony",Mature Australia,0
+ACT,102,Fenner,65840,Other Mobile Team 1,ZZ,0,99,INFORMAL,,0
+ACT,102,Fenner,66142,Braddon (Fenner),A,29670,0,A Ticket Votes,Liberal Democratic Party,27
+ACT,102,Fenner,66142,Braddon (Fenner),A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,102,Fenner,66142,Braddon (Fenner),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,66142,Braddon (Fenner),B,29669,0,B Ticket Votes,Secular Party of Australia,10
+ACT,102,Fenner,66142,Braddon (Fenner),B,28933,1,"EDWARDS, David",Secular Party of Australia,2
+ACT,102,Fenner,66142,Braddon (Fenner),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,66142,Braddon (Fenner),C,29663,0,C Ticket Votes,Australian Labor Party,424
+ACT,102,Fenner,66142,Braddon (Fenner),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,88
+ACT,102,Fenner,66142,Braddon (Fenner),C,28149,2,"SMITH, David",Australian Labor Party,3
+ACT,102,Fenner,66142,Braddon (Fenner),D,29672,0,D Ticket Votes,Rise Up Australia Party,6
+ACT,102,Fenner,66142,Braddon (Fenner),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,1
+ACT,102,Fenner,66142,Braddon (Fenner),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,66142,Braddon (Fenner),E,29666,0,E Ticket Votes,Sustainable Australia,12
+ACT,102,Fenner,66142,Braddon (Fenner),E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,66142,Braddon (Fenner),E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,66142,Braddon (Fenner),F,29667,0,F Ticket Votes,Liberal,273
+ACT,102,Fenner,66142,Braddon (Fenner),F,28773,1,"SESELJA, Zed",Liberal,23
+ACT,102,Fenner,66142,Braddon (Fenner),F,28782,2,"HIATT, Jane",Liberal,13
+ACT,102,Fenner,66142,Braddon (Fenner),G,29664,0,G Ticket Votes,Animal Justice Party,11
+ACT,102,Fenner,66142,Braddon (Fenner),G,28254,1,"FIELD, Deborah",Animal Justice Party,5
+ACT,102,Fenner,66142,Braddon (Fenner),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,102,Fenner,66142,Braddon (Fenner),H,29665,0,H Ticket Votes,The Greens,334
+ACT,102,Fenner,66142,Braddon (Fenner),H,28306,1,"HOBBS, Christina",The Greens,156
+ACT,102,Fenner,66142,Braddon (Fenner),H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,102,Fenner,66142,Braddon (Fenner),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),13
+ACT,102,Fenner,66142,Braddon (Fenner),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,66142,Braddon (Fenner),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,66142,Braddon (Fenner),J,29671,0,J Ticket Votes,Australian Sex Party,25
+ACT,102,Fenner,66142,Braddon (Fenner),J,29390,1,"BAILEY, Steven",Australian Sex Party,6
+ACT,102,Fenner,66142,Braddon (Fenner),J,29391,2,"SWAN, Robbie",Australian Sex Party,4
+ACT,102,Fenner,66142,Braddon (Fenner),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,2
+ACT,102,Fenner,66142,Braddon (Fenner),UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,66142,Braddon (Fenner),ZZ,0,99,INFORMAL,,15
+ACT,102,Fenner,66144,City (Fenner),A,29670,0,A Ticket Votes,Liberal Democratic Party,18
+ACT,102,Fenner,66144,City (Fenner),A,29611,1,"DONNELLY, Matt",Liberal Democrats,2
+ACT,102,Fenner,66144,City (Fenner),A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,66144,City (Fenner),B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,102,Fenner,66144,City (Fenner),B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,66144,City (Fenner),B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,66144,City (Fenner),C,29663,0,C Ticket Votes,Australian Labor Party,201
+ACT,102,Fenner,66144,City (Fenner),C,28147,1,"GALLAGHER, Katy",Australian Labor Party,27
+ACT,102,Fenner,66144,City (Fenner),C,28149,2,"SMITH, David",Australian Labor Party,2
+ACT,102,Fenner,66144,City (Fenner),D,29672,0,D Ticket Votes,Rise Up Australia Party,2
+ACT,102,Fenner,66144,City (Fenner),D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,66144,City (Fenner),D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,66144,City (Fenner),E,29666,0,E Ticket Votes,Sustainable Australia,1
+ACT,102,Fenner,66144,City (Fenner),E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,66144,City (Fenner),E,28469,2,"TYE, Martin",Sustainable Australia,1
+ACT,102,Fenner,66144,City (Fenner),F,29667,0,F Ticket Votes,Liberal,131
+ACT,102,Fenner,66144,City (Fenner),F,28773,1,"SESELJA, Zed",Liberal,5
+ACT,102,Fenner,66144,City (Fenner),F,28782,2,"HIATT, Jane",Liberal,8
+ACT,102,Fenner,66144,City (Fenner),G,29664,0,G Ticket Votes,Animal Justice Party,18
+ACT,102,Fenner,66144,City (Fenner),G,28254,1,"FIELD, Deborah",Animal Justice Party,0
+ACT,102,Fenner,66144,City (Fenner),G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,66144,City (Fenner),H,29665,0,H Ticket Votes,The Greens,125
+ACT,102,Fenner,66144,City (Fenner),H,28306,1,"HOBBS, Christina",The Greens,40
+ACT,102,Fenner,66144,City (Fenner),H,28308,2,"WAREHAM, Sue",The Greens,2
+ACT,102,Fenner,66144,City (Fenner),I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),6
+ACT,102,Fenner,66144,City (Fenner),I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),1
+ACT,102,Fenner,66144,City (Fenner),I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,66144,City (Fenner),J,29671,0,J Ticket Votes,Australian Sex Party,16
+ACT,102,Fenner,66144,City (Fenner),J,29390,1,"BAILEY, Steven",Australian Sex Party,7
+ACT,102,Fenner,66144,City (Fenner),J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,66144,City (Fenner),UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,1
+ACT,102,Fenner,66144,City (Fenner),UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,66144,City (Fenner),ZZ,0,99,INFORMAL,,11
+ACT,102,Fenner,82488,Special Hospital Team 3,A,29670,0,A Ticket Votes,Liberal Democratic Party,3
+ACT,102,Fenner,82488,Special Hospital Team 3,A,29611,1,"DONNELLY, Matt",Liberal Democrats,2
+ACT,102,Fenner,82488,Special Hospital Team 3,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,0
+ACT,102,Fenner,82488,Special Hospital Team 3,B,29669,0,B Ticket Votes,Secular Party of Australia,3
+ACT,102,Fenner,82488,Special Hospital Team 3,B,28933,1,"EDWARDS, David",Secular Party of Australia,0
+ACT,102,Fenner,82488,Special Hospital Team 3,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,0
+ACT,102,Fenner,82488,Special Hospital Team 3,C,29663,0,C Ticket Votes,Australian Labor Party,70
+ACT,102,Fenner,82488,Special Hospital Team 3,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,10
+ACT,102,Fenner,82488,Special Hospital Team 3,C,28149,2,"SMITH, David",Australian Labor Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,D,29672,0,D Ticket Votes,Rise Up Australia Party,2
+ACT,102,Fenner,82488,Special Hospital Team 3,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,E,29666,0,E Ticket Votes,Sustainable Australia,1
+ACT,102,Fenner,82488,Special Hospital Team 3,E,28468,1,"HAYDON, John",Sustainable Australia,1
+ACT,102,Fenner,82488,Special Hospital Team 3,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,82488,Special Hospital Team 3,F,29667,0,F Ticket Votes,Liberal,41
+ACT,102,Fenner,82488,Special Hospital Team 3,F,28773,1,"SESELJA, Zed",Liberal,1
+ACT,102,Fenner,82488,Special Hospital Team 3,F,28782,2,"HIATT, Jane",Liberal,0
+ACT,102,Fenner,82488,Special Hospital Team 3,G,29664,0,G Ticket Votes,Animal Justice Party,4
+ACT,102,Fenner,82488,Special Hospital Team 3,G,28254,1,"FIELD, Deborah",Animal Justice Party,1
+ACT,102,Fenner,82488,Special Hospital Team 3,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,H,29665,0,H Ticket Votes,The Greens,13
+ACT,102,Fenner,82488,Special Hospital Team 3,H,28306,1,"HOBBS, Christina",The Greens,2
+ACT,102,Fenner,82488,Special Hospital Team 3,H,28308,2,"WAREHAM, Sue",The Greens,0
+ACT,102,Fenner,82488,Special Hospital Team 3,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),2
+ACT,102,Fenner,82488,Special Hospital Team 3,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,82488,Special Hospital Team 3,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,82488,Special Hospital Team 3,J,29671,0,J Ticket Votes,Australian Sex Party,4
+ACT,102,Fenner,82488,Special Hospital Team 3,J,29390,1,"BAILEY, Steven",Australian Sex Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,J,29391,2,"SWAN, Robbie",Australian Sex Party,0
+ACT,102,Fenner,82488,Special Hospital Team 3,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,0
+ACT,102,Fenner,82488,Special Hospital Team 3,UG,28150,2,"HANSON, Anthony",Mature Australia,1
+ACT,102,Fenner,82488,Special Hospital Team 3,ZZ,0,99,INFORMAL,,3
+ACT,102,Fenner,82525,Downer,A,29670,0,A Ticket Votes,Liberal Democratic Party,23
+ACT,102,Fenner,82525,Downer,A,29611,1,"DONNELLY, Matt",Liberal Democrats,5
+ACT,102,Fenner,82525,Downer,A,29612,2,"HENNINGS, Cawley",Liberal Democrats,1
+ACT,102,Fenner,82525,Downer,B,29669,0,B Ticket Votes,Secular Party of Australia,1
+ACT,102,Fenner,82525,Downer,B,28933,1,"EDWARDS, David",Secular Party of Australia,3
+ACT,102,Fenner,82525,Downer,B,28937,2,"MIHALJEVIC, Denis",Secular Party of Australia,1
+ACT,102,Fenner,82525,Downer,C,29663,0,C Ticket Votes,Australian Labor Party,450
+ACT,102,Fenner,82525,Downer,C,28147,1,"GALLAGHER, Katy",Australian Labor Party,90
+ACT,102,Fenner,82525,Downer,C,28149,2,"SMITH, David",Australian Labor Party,7
+ACT,102,Fenner,82525,Downer,D,29672,0,D Ticket Votes,Rise Up Australia Party,9
+ACT,102,Fenner,82525,Downer,D,29514,1,"O'CONNOR, Sandie",Rise Up Australia Party,2
+ACT,102,Fenner,82525,Downer,D,29518,2,"WYATT, Jess",Rise Up Australia Party,0
+ACT,102,Fenner,82525,Downer,E,29666,0,E Ticket Votes,Sustainable Australia,13
+ACT,102,Fenner,82525,Downer,E,28468,1,"HAYDON, John",Sustainable Australia,4
+ACT,102,Fenner,82525,Downer,E,28469,2,"TYE, Martin",Sustainable Australia,0
+ACT,102,Fenner,82525,Downer,F,29667,0,F Ticket Votes,Liberal,264
+ACT,102,Fenner,82525,Downer,F,28773,1,"SESELJA, Zed",Liberal,13
+ACT,102,Fenner,82525,Downer,F,28782,2,"HIATT, Jane",Liberal,4
+ACT,102,Fenner,82525,Downer,G,29664,0,G Ticket Votes,Animal Justice Party,18
+ACT,102,Fenner,82525,Downer,G,28254,1,"FIELD, Deborah",Animal Justice Party,2
+ACT,102,Fenner,82525,Downer,G,28256,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,102,Fenner,82525,Downer,H,29665,0,H Ticket Votes,The Greens,323
+ACT,102,Fenner,82525,Downer,H,28306,1,"HOBBS, Christina",The Greens,134
+ACT,102,Fenner,82525,Downer,H,28308,2,"WAREHAM, Sue",The Greens,7
+ACT,102,Fenner,82525,Downer,I,29668,0,I Ticket Votes,Christian Democratic Party (Fred Nile Group),8
+ACT,102,Fenner,82525,Downer,I,28760,1,"KIM, David William",Christian Democratic Party (Fred Nile Group),4
+ACT,102,Fenner,82525,Downer,I,28763,2,"TADROS, Elizabeth",Christian Democratic Party (Fred Nile Group),0
+ACT,102,Fenner,82525,Downer,J,29671,0,J Ticket Votes,Australian Sex Party,37
+ACT,102,Fenner,82525,Downer,J,29390,1,"BAILEY, Steven",Australian Sex Party,21
+ACT,102,Fenner,82525,Downer,J,29391,2,"SWAN, Robbie",Australian Sex Party,7
+ACT,102,Fenner,82525,Downer,UG,29520,1,"HAY, Michael Gerard",VOTEFLUX.ORG | Upgrade Democracy!,3
+ACT,102,Fenner,82525,Downer,UG,28150,2,"HANSON, Anthony",Mature Australia,4
+ACT,102,Fenner,82525,Downer,ZZ,0,99,INFORMAL,,45

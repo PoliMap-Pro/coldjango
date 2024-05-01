@@ -1,0 +1,2134 @@
+2013 Federal Election Senate First Preferences By Polling Place for Division 101 [Event:17496 Phase:FinalResults Generated:2014-10-28T11:24:18 Cycle:570ee0da-3d7a-4f7e-8aa1-3c32a4f287ed Created:2014-05-16T14:24:09 Environment:PROD Site:PARKES Server:ACT01 Version:9.1.17.21449]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,101,Canberra,8761,Chapman,A,25070,0,A Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,8761,Chapman,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,7
+ACT,101,Canberra,8761,Chapman,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8761,Chapman,B,25067,0,B Ticket Votes,Katter's Australian Party,7
+ACT,101,Canberra,8761,Chapman,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8761,Chapman,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8761,Chapman,C,25075,0,C Ticket Votes,Australian Greens,323
+ACT,101,Canberra,8761,Chapman,C,24907,1,"SHEIKH, Simon",Australian Greens,202
+ACT,101,Canberra,8761,Chapman,C,24912,2,"ESGUERRA, Indra",Australian Greens,6
+ACT,101,Canberra,8761,Chapman,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8761,Chapman,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,8761,Chapman,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8761,Chapman,E,25065,0,E Ticket Votes,Bullet Train For Australia,23
+ACT,101,Canberra,8761,Chapman,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,17
+ACT,101,Canberra,8761,Chapman,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8761,Chapman,F,25076,0,F Ticket Votes,Drug Law Reform,5
+ACT,101,Canberra,8761,Chapman,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8761,Chapman,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8761,Chapman,G,25069,0,G Ticket Votes,Sex Party,43
+ACT,101,Canberra,8761,Chapman,G,24113,1,"AVERY, Deborah",Sex Party,20
+ACT,101,Canberra,8761,Chapman,G,24117,2,"MILLER, Jamie",Sex Party,4
+ACT,101,Canberra,8761,Chapman,H,25073,0,H Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8761,Chapman,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,3
+ACT,101,Canberra,8761,Chapman,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8761,Chapman,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,21
+ACT,101,Canberra,8761,Chapman,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,22
+ACT,101,Canberra,8761,Chapman,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8761,Chapman,J,25072,0,J Ticket Votes,Palmer United Party,36
+ACT,101,Canberra,8761,Chapman,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,8761,Chapman,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8761,Chapman,K,25074,0,K Ticket Votes,Liberal,740
+ACT,101,Canberra,8761,Chapman,K,24925,1,"SESELJA, Zed",Liberal,62
+ACT,101,Canberra,8761,Chapman,K,24928,2,"NASH, Merinda",Liberal,33
+ACT,101,Canberra,8761,Chapman,L,25066,0,L Ticket Votes,Australian Labor Party,597
+ACT,101,Canberra,8761,Chapman,L,23761,1,"LUNDY, Kate",Australian Labor Party,152
+ACT,101,Canberra,8761,Chapman,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,8761,Chapman,M,25071,0,M Ticket Votes,Australian Independents,6
+ACT,101,Canberra,8761,Chapman,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8761,Chapman,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8761,Chapman,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,10
+ACT,101,Canberra,8761,Chapman,ZZ,0,99,INFORMAL,,49
+ACT,101,Canberra,8763,Chisholm,A,25070,0,A Ticket Votes,Animal Justice Party,15
+ACT,101,Canberra,8763,Chisholm,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,3
+ACT,101,Canberra,8763,Chisholm,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8763,Chisholm,B,25067,0,B Ticket Votes,Katter's Australian Party,13
+ACT,101,Canberra,8763,Chisholm,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,8763,Chisholm,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8763,Chisholm,C,25075,0,C Ticket Votes,Australian Greens,139
+ACT,101,Canberra,8763,Chisholm,C,24907,1,"SHEIKH, Simon",Australian Greens,74
+ACT,101,Canberra,8763,Chisholm,C,24912,2,"ESGUERRA, Indra",Australian Greens,2
+ACT,101,Canberra,8763,Chisholm,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,8763,Chisholm,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,8763,Chisholm,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8763,Chisholm,E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,8763,Chisholm,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,10
+ACT,101,Canberra,8763,Chisholm,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8763,Chisholm,F,25076,0,F Ticket Votes,Drug Law Reform,12
+ACT,101,Canberra,8763,Chisholm,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8763,Chisholm,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8763,Chisholm,G,25069,0,G Ticket Votes,Sex Party,69
+ACT,101,Canberra,8763,Chisholm,G,24113,1,"AVERY, Deborah",Sex Party,14
+ACT,101,Canberra,8763,Chisholm,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8763,Chisholm,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8763,Chisholm,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,2
+ACT,101,Canberra,8763,Chisholm,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8763,Chisholm,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,16
+ACT,101,Canberra,8763,Chisholm,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,6
+ACT,101,Canberra,8763,Chisholm,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8763,Chisholm,J,25072,0,J Ticket Votes,Palmer United Party,49
+ACT,101,Canberra,8763,Chisholm,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,6
+ACT,101,Canberra,8763,Chisholm,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8763,Chisholm,K,25074,0,K Ticket Votes,Liberal,546
+ACT,101,Canberra,8763,Chisholm,K,24925,1,"SESELJA, Zed",Liberal,42
+ACT,101,Canberra,8763,Chisholm,K,24928,2,"NASH, Merinda",Liberal,6
+ACT,101,Canberra,8763,Chisholm,L,25066,0,L Ticket Votes,Australian Labor Party,467
+ACT,101,Canberra,8763,Chisholm,L,23761,1,"LUNDY, Kate",Australian Labor Party,67
+ACT,101,Canberra,8763,Chisholm,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,8763,Chisholm,M,25071,0,M Ticket Votes,Australian Independents,3
+ACT,101,Canberra,8763,Chisholm,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,4
+ACT,101,Canberra,8763,Chisholm,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8763,Chisholm,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8763,Chisholm,ZZ,0,99,INFORMAL,,47
+ACT,101,Canberra,8764,Curtin,A,25070,0,A Ticket Votes,Animal Justice Party,21
+ACT,101,Canberra,8764,Curtin,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,13
+ACT,101,Canberra,8764,Curtin,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,4
+ACT,101,Canberra,8764,Curtin,B,25067,0,B Ticket Votes,Katter's Australian Party,9
+ACT,101,Canberra,8764,Curtin,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8764,Curtin,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8764,Curtin,C,25075,0,C Ticket Votes,Australian Greens,370
+ACT,101,Canberra,8764,Curtin,C,24907,1,"SHEIKH, Simon",Australian Greens,270
+ACT,101,Canberra,8764,Curtin,C,24912,2,"ESGUERRA, Indra",Australian Greens,10
+ACT,101,Canberra,8764,Curtin,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8764,Curtin,D,23291,1,"O'CONNOR, Mark",Stable Population Party,7
+ACT,101,Canberra,8764,Curtin,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8764,Curtin,E,25065,0,E Ticket Votes,Bullet Train For Australia,21
+ACT,101,Canberra,8764,Curtin,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,23
+ACT,101,Canberra,8764,Curtin,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8764,Curtin,F,25076,0,F Ticket Votes,Drug Law Reform,6
+ACT,101,Canberra,8764,Curtin,F,24919,1,"CUBITT, Paul",Drug Law Reform,7
+ACT,101,Canberra,8764,Curtin,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8764,Curtin,G,25069,0,G Ticket Votes,Sex Party,42
+ACT,101,Canberra,8764,Curtin,G,24113,1,"AVERY, Deborah",Sex Party,19
+ACT,101,Canberra,8764,Curtin,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8764,Curtin,H,25073,0,H Ticket Votes,Rise Up Australia Party,7
+ACT,101,Canberra,8764,Curtin,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8764,Curtin,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8764,Curtin,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,28
+ACT,101,Canberra,8764,Curtin,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,26
+ACT,101,Canberra,8764,Curtin,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8764,Curtin,J,25072,0,J Ticket Votes,Palmer United Party,29
+ACT,101,Canberra,8764,Curtin,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,8764,Curtin,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8764,Curtin,K,25074,0,K Ticket Votes,Liberal,634
+ACT,101,Canberra,8764,Curtin,K,24925,1,"SESELJA, Zed",Liberal,60
+ACT,101,Canberra,8764,Curtin,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,8764,Curtin,L,25066,0,L Ticket Votes,Australian Labor Party,551
+ACT,101,Canberra,8764,Curtin,L,23761,1,"LUNDY, Kate",Australian Labor Party,156
+ACT,101,Canberra,8764,Curtin,L,23765,2,"SANT, Chris",Australian Labor Party,4
+ACT,101,Canberra,8764,Curtin,M,25071,0,M Ticket Votes,Australian Independents,9
+ACT,101,Canberra,8764,Curtin,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8764,Curtin,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,8764,Curtin,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8764,Curtin,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8766,Deakin,A,25070,0,A Ticket Votes,Animal Justice Party,4
+ACT,101,Canberra,8766,Deakin,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,9
+ACT,101,Canberra,8766,Deakin,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8766,Deakin,B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,8766,Deakin,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,8766,Deakin,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8766,Deakin,C,25075,0,C Ticket Votes,Australian Greens,166
+ACT,101,Canberra,8766,Deakin,C,24907,1,"SHEIKH, Simon",Australian Greens,78
+ACT,101,Canberra,8766,Deakin,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8766,Deakin,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,8766,Deakin,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,8766,Deakin,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8766,Deakin,E,25065,0,E Ticket Votes,Bullet Train For Australia,16
+ACT,101,Canberra,8766,Deakin,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,13
+ACT,101,Canberra,8766,Deakin,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8766,Deakin,F,25076,0,F Ticket Votes,Drug Law Reform,1
+ACT,101,Canberra,8766,Deakin,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8766,Deakin,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8766,Deakin,G,25069,0,G Ticket Votes,Sex Party,9
+ACT,101,Canberra,8766,Deakin,G,24113,1,"AVERY, Deborah",Sex Party,6
+ACT,101,Canberra,8766,Deakin,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8766,Deakin,H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,8766,Deakin,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8766,Deakin,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8766,Deakin,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,28
+ACT,101,Canberra,8766,Deakin,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,24
+ACT,101,Canberra,8766,Deakin,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8766,Deakin,J,25072,0,J Ticket Votes,Palmer United Party,8
+ACT,101,Canberra,8766,Deakin,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,6
+ACT,101,Canberra,8766,Deakin,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8766,Deakin,K,25074,0,K Ticket Votes,Liberal,701
+ACT,101,Canberra,8766,Deakin,K,24925,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8766,Deakin,K,24928,2,"NASH, Merinda",Liberal,20
+ACT,101,Canberra,8766,Deakin,L,25066,0,L Ticket Votes,Australian Labor Party,241
+ACT,101,Canberra,8766,Deakin,L,23761,1,"LUNDY, Kate",Australian Labor Party,78
+ACT,101,Canberra,8766,Deakin,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,8766,Deakin,M,25071,0,M Ticket Votes,Australian Independents,3
+ACT,101,Canberra,8766,Deakin,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8766,Deakin,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8766,Deakin,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,5
+ACT,101,Canberra,8766,Deakin,ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,8767,Duffy,A,25070,0,A Ticket Votes,Animal Justice Party,14
+ACT,101,Canberra,8767,Duffy,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,2
+ACT,101,Canberra,8767,Duffy,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8767,Duffy,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8767,Duffy,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,8767,Duffy,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8767,Duffy,C,25075,0,C Ticket Votes,Australian Greens,250
+ACT,101,Canberra,8767,Duffy,C,24907,1,"SHEIKH, Simon",Australian Greens,193
+ACT,101,Canberra,8767,Duffy,C,24912,2,"ESGUERRA, Indra",Australian Greens,8
+ACT,101,Canberra,8767,Duffy,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8767,Duffy,D,23291,1,"O'CONNOR, Mark",Stable Population Party,4
+ACT,101,Canberra,8767,Duffy,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8767,Duffy,E,25065,0,E Ticket Votes,Bullet Train For Australia,18
+ACT,101,Canberra,8767,Duffy,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,19
+ACT,101,Canberra,8767,Duffy,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8767,Duffy,F,25076,0,F Ticket Votes,Drug Law Reform,6
+ACT,101,Canberra,8767,Duffy,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,8767,Duffy,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8767,Duffy,G,25069,0,G Ticket Votes,Sex Party,42
+ACT,101,Canberra,8767,Duffy,G,24113,1,"AVERY, Deborah",Sex Party,12
+ACT,101,Canberra,8767,Duffy,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8767,Duffy,H,25073,0,H Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8767,Duffy,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,3
+ACT,101,Canberra,8767,Duffy,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8767,Duffy,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,15
+ACT,101,Canberra,8767,Duffy,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,13
+ACT,101,Canberra,8767,Duffy,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8767,Duffy,J,25072,0,J Ticket Votes,Palmer United Party,28
+ACT,101,Canberra,8767,Duffy,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,7
+ACT,101,Canberra,8767,Duffy,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8767,Duffy,K,25074,0,K Ticket Votes,Liberal,530
+ACT,101,Canberra,8767,Duffy,K,24925,1,"SESELJA, Zed",Liberal,35
+ACT,101,Canberra,8767,Duffy,K,24928,2,"NASH, Merinda",Liberal,16
+ACT,101,Canberra,8767,Duffy,L,25066,0,L Ticket Votes,Australian Labor Party,482
+ACT,101,Canberra,8767,Duffy,L,23761,1,"LUNDY, Kate",Australian Labor Party,102
+ACT,101,Canberra,8767,Duffy,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8767,Duffy,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,8767,Duffy,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8767,Duffy,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8767,Duffy,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,6
+ACT,101,Canberra,8767,Duffy,ZZ,0,99,INFORMAL,,31
+ACT,101,Canberra,8768,Fadden,A,25070,0,A Ticket Votes,Animal Justice Party,13
+ACT,101,Canberra,8768,Fadden,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,2
+ACT,101,Canberra,8768,Fadden,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8768,Fadden,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8768,Fadden,B,24114,1,"BAILEY, Steven",Katter's Australian Party,6
+ACT,101,Canberra,8768,Fadden,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8768,Fadden,C,25075,0,C Ticket Votes,Australian Greens,201
+ACT,101,Canberra,8768,Fadden,C,24907,1,"SHEIKH, Simon",Australian Greens,130
+ACT,101,Canberra,8768,Fadden,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,8768,Fadden,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,8768,Fadden,D,23291,1,"O'CONNOR, Mark",Stable Population Party,3
+ACT,101,Canberra,8768,Fadden,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8768,Fadden,E,25065,0,E Ticket Votes,Bullet Train For Australia,28
+ACT,101,Canberra,8768,Fadden,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,10
+ACT,101,Canberra,8768,Fadden,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8768,Fadden,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,8768,Fadden,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8768,Fadden,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8768,Fadden,G,25069,0,G Ticket Votes,Sex Party,48
+ACT,101,Canberra,8768,Fadden,G,24113,1,"AVERY, Deborah",Sex Party,19
+ACT,101,Canberra,8768,Fadden,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8768,Fadden,H,25073,0,H Ticket Votes,Rise Up Australia Party,6
+ACT,101,Canberra,8768,Fadden,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,6
+ACT,101,Canberra,8768,Fadden,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8768,Fadden,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,16
+ACT,101,Canberra,8768,Fadden,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,15
+ACT,101,Canberra,8768,Fadden,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8768,Fadden,J,25072,0,J Ticket Votes,Palmer United Party,40
+ACT,101,Canberra,8768,Fadden,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,16
+ACT,101,Canberra,8768,Fadden,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,2
+ACT,101,Canberra,8768,Fadden,K,25074,0,K Ticket Votes,Liberal,752
+ACT,101,Canberra,8768,Fadden,K,24925,1,"SESELJA, Zed",Liberal,68
+ACT,101,Canberra,8768,Fadden,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,8768,Fadden,L,25066,0,L Ticket Votes,Australian Labor Party,508
+ACT,101,Canberra,8768,Fadden,L,23761,1,"LUNDY, Kate",Australian Labor Party,114
+ACT,101,Canberra,8768,Fadden,L,23765,2,"SANT, Chris",Australian Labor Party,7
+ACT,101,Canberra,8768,Fadden,M,25071,0,M Ticket Votes,Australian Independents,9
+ACT,101,Canberra,8768,Fadden,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,5
+ACT,101,Canberra,8768,Fadden,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8768,Fadden,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8768,Fadden,ZZ,0,99,INFORMAL,,34
+ACT,101,Canberra,8769,Farrer,A,25070,0,A Ticket Votes,Animal Justice Party,16
+ACT,101,Canberra,8769,Farrer,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,8769,Farrer,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8769,Farrer,B,25067,0,B Ticket Votes,Katter's Australian Party,5
+ACT,101,Canberra,8769,Farrer,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8769,Farrer,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8769,Farrer,C,25075,0,C Ticket Votes,Australian Greens,288
+ACT,101,Canberra,8769,Farrer,C,24907,1,"SHEIKH, Simon",Australian Greens,149
+ACT,101,Canberra,8769,Farrer,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,8769,Farrer,D,25064,0,D Ticket Votes,Stable Population Party,5
+ACT,101,Canberra,8769,Farrer,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,8769,Farrer,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8769,Farrer,E,25065,0,E Ticket Votes,Bullet Train For Australia,23
+ACT,101,Canberra,8769,Farrer,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,9
+ACT,101,Canberra,8769,Farrer,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8769,Farrer,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,8769,Farrer,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8769,Farrer,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8769,Farrer,G,25069,0,G Ticket Votes,Sex Party,47
+ACT,101,Canberra,8769,Farrer,G,24113,1,"AVERY, Deborah",Sex Party,16
+ACT,101,Canberra,8769,Farrer,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8769,Farrer,H,25073,0,H Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,8769,Farrer,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,6
+ACT,101,Canberra,8769,Farrer,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8769,Farrer,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,29
+ACT,101,Canberra,8769,Farrer,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,24
+ACT,101,Canberra,8769,Farrer,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8769,Farrer,J,25072,0,J Ticket Votes,Palmer United Party,16
+ACT,101,Canberra,8769,Farrer,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,8
+ACT,101,Canberra,8769,Farrer,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8769,Farrer,K,25074,0,K Ticket Votes,Liberal,834
+ACT,101,Canberra,8769,Farrer,K,24925,1,"SESELJA, Zed",Liberal,67
+ACT,101,Canberra,8769,Farrer,K,24928,2,"NASH, Merinda",Liberal,22
+ACT,101,Canberra,8769,Farrer,L,25066,0,L Ticket Votes,Australian Labor Party,515
+ACT,101,Canberra,8769,Farrer,L,23761,1,"LUNDY, Kate",Australian Labor Party,112
+ACT,101,Canberra,8769,Farrer,L,23765,2,"SANT, Chris",Australian Labor Party,7
+ACT,101,Canberra,8769,Farrer,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,8769,Farrer,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8769,Farrer,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8769,Farrer,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,4
+ACT,101,Canberra,8769,Farrer,ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,8771,Gilmore,A,25070,0,A Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,8771,Gilmore,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,4
+ACT,101,Canberra,8771,Gilmore,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8771,Gilmore,B,25067,0,B Ticket Votes,Katter's Australian Party,6
+ACT,101,Canberra,8771,Gilmore,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,8771,Gilmore,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8771,Gilmore,C,25075,0,C Ticket Votes,Australian Greens,157
+ACT,101,Canberra,8771,Gilmore,C,24907,1,"SHEIKH, Simon",Australian Greens,70
+ACT,101,Canberra,8771,Gilmore,C,24912,2,"ESGUERRA, Indra",Australian Greens,2
+ACT,101,Canberra,8771,Gilmore,D,25064,0,D Ticket Votes,Stable Population Party,4
+ACT,101,Canberra,8771,Gilmore,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,8771,Gilmore,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8771,Gilmore,E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,8771,Gilmore,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,7
+ACT,101,Canberra,8771,Gilmore,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8771,Gilmore,F,25076,0,F Ticket Votes,Drug Law Reform,8
+ACT,101,Canberra,8771,Gilmore,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8771,Gilmore,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8771,Gilmore,G,25069,0,G Ticket Votes,Sex Party,85
+ACT,101,Canberra,8771,Gilmore,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,8771,Gilmore,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8771,Gilmore,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8771,Gilmore,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8771,Gilmore,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8771,Gilmore,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,22
+ACT,101,Canberra,8771,Gilmore,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,7
+ACT,101,Canberra,8771,Gilmore,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8771,Gilmore,J,25072,0,J Ticket Votes,Palmer United Party,59
+ACT,101,Canberra,8771,Gilmore,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,8
+ACT,101,Canberra,8771,Gilmore,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8771,Gilmore,K,25074,0,K Ticket Votes,Liberal,644
+ACT,101,Canberra,8771,Gilmore,K,24925,1,"SESELJA, Zed",Liberal,62
+ACT,101,Canberra,8771,Gilmore,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8771,Gilmore,L,25066,0,L Ticket Votes,Australian Labor Party,593
+ACT,101,Canberra,8771,Gilmore,L,23761,1,"LUNDY, Kate",Australian Labor Party,75
+ACT,101,Canberra,8771,Gilmore,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8771,Gilmore,M,25071,0,M Ticket Votes,Australian Independents,6
+ACT,101,Canberra,8771,Gilmore,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8771,Gilmore,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8771,Gilmore,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8771,Gilmore,ZZ,0,99,INFORMAL,,100
+ACT,101,Canberra,8772,Gowrie,A,25070,0,A Ticket Votes,Animal Justice Party,12
+ACT,101,Canberra,8772,Gowrie,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,2
+ACT,101,Canberra,8772,Gowrie,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8772,Gowrie,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8772,Gowrie,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,8772,Gowrie,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8772,Gowrie,C,25075,0,C Ticket Votes,Australian Greens,181
+ACT,101,Canberra,8772,Gowrie,C,24907,1,"SHEIKH, Simon",Australian Greens,80
+ACT,101,Canberra,8772,Gowrie,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,8772,Gowrie,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8772,Gowrie,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,8772,Gowrie,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8772,Gowrie,E,25065,0,E Ticket Votes,Bullet Train For Australia,26
+ACT,101,Canberra,8772,Gowrie,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,10
+ACT,101,Canberra,8772,Gowrie,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8772,Gowrie,F,25076,0,F Ticket Votes,Drug Law Reform,4
+ACT,101,Canberra,8772,Gowrie,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,8772,Gowrie,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8772,Gowrie,G,25069,0,G Ticket Votes,Sex Party,65
+ACT,101,Canberra,8772,Gowrie,G,24113,1,"AVERY, Deborah",Sex Party,9
+ACT,101,Canberra,8772,Gowrie,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8772,Gowrie,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8772,Gowrie,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8772,Gowrie,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8772,Gowrie,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,20
+ACT,101,Canberra,8772,Gowrie,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,16
+ACT,101,Canberra,8772,Gowrie,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8772,Gowrie,J,25072,0,J Ticket Votes,Palmer United Party,47
+ACT,101,Canberra,8772,Gowrie,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,7
+ACT,101,Canberra,8772,Gowrie,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8772,Gowrie,K,25074,0,K Ticket Votes,Liberal,568
+ACT,101,Canberra,8772,Gowrie,K,24925,1,"SESELJA, Zed",Liberal,48
+ACT,101,Canberra,8772,Gowrie,K,24928,2,"NASH, Merinda",Liberal,14
+ACT,101,Canberra,8772,Gowrie,L,25066,0,L Ticket Votes,Australian Labor Party,503
+ACT,101,Canberra,8772,Gowrie,L,23761,1,"LUNDY, Kate",Australian Labor Party,81
+ACT,101,Canberra,8772,Gowrie,L,23765,2,"SANT, Chris",Australian Labor Party,2
+ACT,101,Canberra,8772,Gowrie,M,25071,0,M Ticket Votes,Australian Independents,9
+ACT,101,Canberra,8772,Gowrie,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,6
+ACT,101,Canberra,8772,Gowrie,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8772,Gowrie,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8772,Gowrie,ZZ,0,99,INFORMAL,,51
+ACT,101,Canberra,8773,Holder,A,25070,0,A Ticket Votes,Animal Justice Party,16
+ACT,101,Canberra,8773,Holder,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,6
+ACT,101,Canberra,8773,Holder,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,8773,Holder,B,25067,0,B Ticket Votes,Katter's Australian Party,9
+ACT,101,Canberra,8773,Holder,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8773,Holder,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8773,Holder,C,25075,0,C Ticket Votes,Australian Greens,185
+ACT,101,Canberra,8773,Holder,C,24907,1,"SHEIKH, Simon",Australian Greens,153
+ACT,101,Canberra,8773,Holder,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8773,Holder,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,8773,Holder,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,8773,Holder,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8773,Holder,E,25065,0,E Ticket Votes,Bullet Train For Australia,22
+ACT,101,Canberra,8773,Holder,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,28
+ACT,101,Canberra,8773,Holder,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8773,Holder,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,8773,Holder,F,24919,1,"CUBITT, Paul",Drug Law Reform,5
+ACT,101,Canberra,8773,Holder,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8773,Holder,G,25069,0,G Ticket Votes,Sex Party,24
+ACT,101,Canberra,8773,Holder,G,24113,1,"AVERY, Deborah",Sex Party,9
+ACT,101,Canberra,8773,Holder,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8773,Holder,H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,8773,Holder,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,8773,Holder,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8773,Holder,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,22
+ACT,101,Canberra,8773,Holder,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,13
+ACT,101,Canberra,8773,Holder,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8773,Holder,J,25072,0,J Ticket Votes,Palmer United Party,32
+ACT,101,Canberra,8773,Holder,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,5
+ACT,101,Canberra,8773,Holder,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8773,Holder,K,25074,0,K Ticket Votes,Liberal,528
+ACT,101,Canberra,8773,Holder,K,24925,1,"SESELJA, Zed",Liberal,51
+ACT,101,Canberra,8773,Holder,K,24928,2,"NASH, Merinda",Liberal,17
+ACT,101,Canberra,8773,Holder,L,25066,0,L Ticket Votes,Australian Labor Party,472
+ACT,101,Canberra,8773,Holder,L,23761,1,"LUNDY, Kate",Australian Labor Party,99
+ACT,101,Canberra,8773,Holder,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8773,Holder,M,25071,0,M Ticket Votes,Australian Independents,5
+ACT,101,Canberra,8773,Holder,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8773,Holder,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,8773,Holder,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8773,Holder,ZZ,0,99,INFORMAL,,38
+ACT,101,Canberra,8774,Hughes,A,25070,0,A Ticket Votes,Animal Justice Party,11
+ACT,101,Canberra,8774,Hughes,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,9
+ACT,101,Canberra,8774,Hughes,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8774,Hughes,B,25067,0,B Ticket Votes,Katter's Australian Party,5
+ACT,101,Canberra,8774,Hughes,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8774,Hughes,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8774,Hughes,C,25075,0,C Ticket Votes,Australian Greens,246
+ACT,101,Canberra,8774,Hughes,C,24907,1,"SHEIKH, Simon",Australian Greens,184
+ACT,101,Canberra,8774,Hughes,C,24912,2,"ESGUERRA, Indra",Australian Greens,6
+ACT,101,Canberra,8774,Hughes,D,25064,0,D Ticket Votes,Stable Population Party,7
+ACT,101,Canberra,8774,Hughes,D,23291,1,"O'CONNOR, Mark",Stable Population Party,8
+ACT,101,Canberra,8774,Hughes,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8774,Hughes,E,25065,0,E Ticket Votes,Bullet Train For Australia,19
+ACT,101,Canberra,8774,Hughes,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,23
+ACT,101,Canberra,8774,Hughes,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8774,Hughes,F,25076,0,F Ticket Votes,Drug Law Reform,6
+ACT,101,Canberra,8774,Hughes,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8774,Hughes,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8774,Hughes,G,25069,0,G Ticket Votes,Sex Party,26
+ACT,101,Canberra,8774,Hughes,G,24113,1,"AVERY, Deborah",Sex Party,21
+ACT,101,Canberra,8774,Hughes,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8774,Hughes,H,25073,0,H Ticket Votes,Rise Up Australia Party,1
+ACT,101,Canberra,8774,Hughes,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8774,Hughes,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8774,Hughes,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,29
+ACT,101,Canberra,8774,Hughes,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,26
+ACT,101,Canberra,8774,Hughes,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8774,Hughes,J,25072,0,J Ticket Votes,Palmer United Party,15
+ACT,101,Canberra,8774,Hughes,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,8774,Hughes,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8774,Hughes,K,25074,0,K Ticket Votes,Liberal,540
+ACT,101,Canberra,8774,Hughes,K,24925,1,"SESELJA, Zed",Liberal,46
+ACT,101,Canberra,8774,Hughes,K,24928,2,"NASH, Merinda",Liberal,16
+ACT,101,Canberra,8774,Hughes,L,25066,0,L Ticket Votes,Australian Labor Party,454
+ACT,101,Canberra,8774,Hughes,L,23761,1,"LUNDY, Kate",Australian Labor Party,97
+ACT,101,Canberra,8774,Hughes,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8774,Hughes,M,25071,0,M Ticket Votes,Australian Independents,7
+ACT,101,Canberra,8774,Hughes,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8774,Hughes,M,24736,2,"PETERSEN, Valma",Australian Independents,2
+ACT,101,Canberra,8774,Hughes,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8774,Hughes,ZZ,0,99,INFORMAL,,41
+ACT,101,Canberra,8776,Kambah North,A,25070,0,A Ticket Votes,Animal Justice Party,8
+ACT,101,Canberra,8776,Kambah North,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,1
+ACT,101,Canberra,8776,Kambah North,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8776,Kambah North,B,25067,0,B Ticket Votes,Katter's Australian Party,1
+ACT,101,Canberra,8776,Kambah North,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,8776,Kambah North,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8776,Kambah North,C,25075,0,C Ticket Votes,Australian Greens,115
+ACT,101,Canberra,8776,Kambah North,C,24907,1,"SHEIKH, Simon",Australian Greens,85
+ACT,101,Canberra,8776,Kambah North,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,8776,Kambah North,D,25064,0,D Ticket Votes,Stable Population Party,4
+ACT,101,Canberra,8776,Kambah North,D,23291,1,"O'CONNOR, Mark",Stable Population Party,3
+ACT,101,Canberra,8776,Kambah North,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8776,Kambah North,E,25065,0,E Ticket Votes,Bullet Train For Australia,6
+ACT,101,Canberra,8776,Kambah North,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,7
+ACT,101,Canberra,8776,Kambah North,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8776,Kambah North,F,25076,0,F Ticket Votes,Drug Law Reform,3
+ACT,101,Canberra,8776,Kambah North,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8776,Kambah North,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8776,Kambah North,G,25069,0,G Ticket Votes,Sex Party,36
+ACT,101,Canberra,8776,Kambah North,G,24113,1,"AVERY, Deborah",Sex Party,9
+ACT,101,Canberra,8776,Kambah North,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8776,Kambah North,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8776,Kambah North,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,8
+ACT,101,Canberra,8776,Kambah North,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8776,Kambah North,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,9
+ACT,101,Canberra,8776,Kambah North,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,8
+ACT,101,Canberra,8776,Kambah North,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8776,Kambah North,J,25072,0,J Ticket Votes,Palmer United Party,16
+ACT,101,Canberra,8776,Kambah North,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,8776,Kambah North,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8776,Kambah North,K,25074,0,K Ticket Votes,Liberal,268
+ACT,101,Canberra,8776,Kambah North,K,24925,1,"SESELJA, Zed",Liberal,24
+ACT,101,Canberra,8776,Kambah North,K,24928,2,"NASH, Merinda",Liberal,6
+ACT,101,Canberra,8776,Kambah North,L,25066,0,L Ticket Votes,Australian Labor Party,249
+ACT,101,Canberra,8776,Kambah North,L,23761,1,"LUNDY, Kate",Australian Labor Party,45
+ACT,101,Canberra,8776,Kambah North,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8776,Kambah North,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,8776,Kambah North,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8776,Kambah North,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8776,Kambah North,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8776,Kambah North,ZZ,0,99,INFORMAL,,18
+ACT,101,Canberra,8777,Kambah South,A,25070,0,A Ticket Votes,Animal Justice Party,32
+ACT,101,Canberra,8777,Kambah South,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,11
+ACT,101,Canberra,8777,Kambah South,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,4
+ACT,101,Canberra,8777,Kambah South,B,25067,0,B Ticket Votes,Katter's Australian Party,4
+ACT,101,Canberra,8777,Kambah South,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,8777,Kambah South,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8777,Kambah South,C,25075,0,C Ticket Votes,Australian Greens,268
+ACT,101,Canberra,8777,Kambah South,C,24907,1,"SHEIKH, Simon",Australian Greens,171
+ACT,101,Canberra,8777,Kambah South,C,24912,2,"ESGUERRA, Indra",Australian Greens,8
+ACT,101,Canberra,8777,Kambah South,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8777,Kambah South,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,8777,Kambah South,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8777,Kambah South,E,25065,0,E Ticket Votes,Bullet Train For Australia,27
+ACT,101,Canberra,8777,Kambah South,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,14
+ACT,101,Canberra,8777,Kambah South,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,3
+ACT,101,Canberra,8777,Kambah South,F,25076,0,F Ticket Votes,Drug Law Reform,7
+ACT,101,Canberra,8777,Kambah South,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,8777,Kambah South,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8777,Kambah South,G,25069,0,G Ticket Votes,Sex Party,102
+ACT,101,Canberra,8777,Kambah South,G,24113,1,"AVERY, Deborah",Sex Party,25
+ACT,101,Canberra,8777,Kambah South,G,24117,2,"MILLER, Jamie",Sex Party,4
+ACT,101,Canberra,8777,Kambah South,H,25073,0,H Ticket Votes,Rise Up Australia Party,9
+ACT,101,Canberra,8777,Kambah South,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,5
+ACT,101,Canberra,8777,Kambah South,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8777,Kambah South,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,23
+ACT,101,Canberra,8777,Kambah South,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,23
+ACT,101,Canberra,8777,Kambah South,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8777,Kambah South,J,25072,0,J Ticket Votes,Palmer United Party,56
+ACT,101,Canberra,8777,Kambah South,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,11
+ACT,101,Canberra,8777,Kambah South,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8777,Kambah South,K,25074,0,K Ticket Votes,Liberal,623
+ACT,101,Canberra,8777,Kambah South,K,24925,1,"SESELJA, Zed",Liberal,64
+ACT,101,Canberra,8777,Kambah South,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8777,Kambah South,L,25066,0,L Ticket Votes,Australian Labor Party,766
+ACT,101,Canberra,8777,Kambah South,L,23761,1,"LUNDY, Kate",Australian Labor Party,126
+ACT,101,Canberra,8777,Kambah South,L,23765,2,"SANT, Chris",Australian Labor Party,1
+ACT,101,Canberra,8777,Kambah South,M,25071,0,M Ticket Votes,Australian Independents,9
+ACT,101,Canberra,8777,Kambah South,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8777,Kambah South,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8777,Kambah South,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,5
+ACT,101,Canberra,8777,Kambah South,ZZ,0,99,INFORMAL,,55
+ACT,101,Canberra,8778,Kambah West,A,25070,0,A Ticket Votes,Animal Justice Party,27
+ACT,101,Canberra,8778,Kambah West,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,8778,Kambah West,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8778,Kambah West,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,8778,Kambah West,B,24114,1,"BAILEY, Steven",Katter's Australian Party,6
+ACT,101,Canberra,8778,Kambah West,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8778,Kambah West,C,25075,0,C Ticket Votes,Australian Greens,306
+ACT,101,Canberra,8778,Kambah West,C,24907,1,"SHEIKH, Simon",Australian Greens,163
+ACT,101,Canberra,8778,Kambah West,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,8778,Kambah West,D,25064,0,D Ticket Votes,Stable Population Party,7
+ACT,101,Canberra,8778,Kambah West,D,23291,1,"O'CONNOR, Mark",Stable Population Party,8
+ACT,101,Canberra,8778,Kambah West,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8778,Kambah West,E,25065,0,E Ticket Votes,Bullet Train For Australia,21
+ACT,101,Canberra,8778,Kambah West,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,15
+ACT,101,Canberra,8778,Kambah West,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8778,Kambah West,F,25076,0,F Ticket Votes,Drug Law Reform,8
+ACT,101,Canberra,8778,Kambah West,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8778,Kambah West,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8778,Kambah West,G,25069,0,G Ticket Votes,Sex Party,89
+ACT,101,Canberra,8778,Kambah West,G,24113,1,"AVERY, Deborah",Sex Party,30
+ACT,101,Canberra,8778,Kambah West,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8778,Kambah West,H,25073,0,H Ticket Votes,Rise Up Australia Party,22
+ACT,101,Canberra,8778,Kambah West,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,7
+ACT,101,Canberra,8778,Kambah West,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8778,Kambah West,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,37
+ACT,101,Canberra,8778,Kambah West,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,10
+ACT,101,Canberra,8778,Kambah West,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8778,Kambah West,J,25072,0,J Ticket Votes,Palmer United Party,55
+ACT,101,Canberra,8778,Kambah West,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,8778,Kambah West,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8778,Kambah West,K,25074,0,K Ticket Votes,Liberal,811
+ACT,101,Canberra,8778,Kambah West,K,24925,1,"SESELJA, Zed",Liberal,65
+ACT,101,Canberra,8778,Kambah West,K,24928,2,"NASH, Merinda",Liberal,16
+ACT,101,Canberra,8778,Kambah West,L,25066,0,L Ticket Votes,Australian Labor Party,748
+ACT,101,Canberra,8778,Kambah West,L,23761,1,"LUNDY, Kate",Australian Labor Party,165
+ACT,101,Canberra,8778,Kambah West,L,23765,2,"SANT, Chris",Australian Labor Party,4
+ACT,101,Canberra,8778,Kambah West,M,25071,0,M Ticket Votes,Australian Independents,11
+ACT,101,Canberra,8778,Kambah West,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8778,Kambah West,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,8778,Kambah West,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8778,Kambah West,ZZ,0,99,INFORMAL,,79
+ACT,101,Canberra,8779,Lyons,A,25070,0,A Ticket Votes,Animal Justice Party,13
+ACT,101,Canberra,8779,Lyons,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,11
+ACT,101,Canberra,8779,Lyons,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8779,Lyons,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8779,Lyons,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8779,Lyons,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,2
+ACT,101,Canberra,8779,Lyons,C,25075,0,C Ticket Votes,Australian Greens,173
+ACT,101,Canberra,8779,Lyons,C,24907,1,"SHEIKH, Simon",Australian Greens,93
+ACT,101,Canberra,8779,Lyons,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,8779,Lyons,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8779,Lyons,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,8779,Lyons,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8779,Lyons,E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,8779,Lyons,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,10
+ACT,101,Canberra,8779,Lyons,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8779,Lyons,F,25076,0,F Ticket Votes,Drug Law Reform,3
+ACT,101,Canberra,8779,Lyons,F,24919,1,"CUBITT, Paul",Drug Law Reform,8
+ACT,101,Canberra,8779,Lyons,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8779,Lyons,G,25069,0,G Ticket Votes,Sex Party,28
+ACT,101,Canberra,8779,Lyons,G,24113,1,"AVERY, Deborah",Sex Party,20
+ACT,101,Canberra,8779,Lyons,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8779,Lyons,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8779,Lyons,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,2
+ACT,101,Canberra,8779,Lyons,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8779,Lyons,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,18
+ACT,101,Canberra,8779,Lyons,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,11
+ACT,101,Canberra,8779,Lyons,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8779,Lyons,J,25072,0,J Ticket Votes,Palmer United Party,20
+ACT,101,Canberra,8779,Lyons,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,1
+ACT,101,Canberra,8779,Lyons,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8779,Lyons,K,25074,0,K Ticket Votes,Liberal,365
+ACT,101,Canberra,8779,Lyons,K,24925,1,"SESELJA, Zed",Liberal,24
+ACT,101,Canberra,8779,Lyons,K,24928,2,"NASH, Merinda",Liberal,7
+ACT,101,Canberra,8779,Lyons,L,25066,0,L Ticket Votes,Australian Labor Party,390
+ACT,101,Canberra,8779,Lyons,L,23761,1,"LUNDY, Kate",Australian Labor Party,58
+ACT,101,Canberra,8779,Lyons,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8779,Lyons,M,25071,0,M Ticket Votes,Australian Independents,5
+ACT,101,Canberra,8779,Lyons,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8779,Lyons,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8779,Lyons,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8779,Lyons,ZZ,0,99,INFORMAL,,26
+ACT,101,Canberra,8780,Mawson,A,25070,0,A Ticket Votes,Animal Justice Party,14
+ACT,101,Canberra,8780,Mawson,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,8780,Mawson,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8780,Mawson,B,25067,0,B Ticket Votes,Katter's Australian Party,4
+ACT,101,Canberra,8780,Mawson,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,8780,Mawson,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8780,Mawson,C,25075,0,C Ticket Votes,Australian Greens,278
+ACT,101,Canberra,8780,Mawson,C,24907,1,"SHEIKH, Simon",Australian Greens,166
+ACT,101,Canberra,8780,Mawson,C,24912,2,"ESGUERRA, Indra",Australian Greens,7
+ACT,101,Canberra,8780,Mawson,D,25064,0,D Ticket Votes,Stable Population Party,5
+ACT,101,Canberra,8780,Mawson,D,23291,1,"O'CONNOR, Mark",Stable Population Party,8
+ACT,101,Canberra,8780,Mawson,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8780,Mawson,E,25065,0,E Ticket Votes,Bullet Train For Australia,30
+ACT,101,Canberra,8780,Mawson,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,15
+ACT,101,Canberra,8780,Mawson,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8780,Mawson,F,25076,0,F Ticket Votes,Drug Law Reform,5
+ACT,101,Canberra,8780,Mawson,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8780,Mawson,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8780,Mawson,G,25069,0,G Ticket Votes,Sex Party,40
+ACT,101,Canberra,8780,Mawson,G,24113,1,"AVERY, Deborah",Sex Party,28
+ACT,101,Canberra,8780,Mawson,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8780,Mawson,H,25073,0,H Ticket Votes,Rise Up Australia Party,7
+ACT,101,Canberra,8780,Mawson,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,8780,Mawson,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,2
+ACT,101,Canberra,8780,Mawson,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,30
+ACT,101,Canberra,8780,Mawson,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,15
+ACT,101,Canberra,8780,Mawson,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8780,Mawson,J,25072,0,J Ticket Votes,Palmer United Party,19
+ACT,101,Canberra,8780,Mawson,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,8780,Mawson,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8780,Mawson,K,25074,0,K Ticket Votes,Liberal,727
+ACT,101,Canberra,8780,Mawson,K,24925,1,"SESELJA, Zed",Liberal,45
+ACT,101,Canberra,8780,Mawson,K,24928,2,"NASH, Merinda",Liberal,13
+ACT,101,Canberra,8780,Mawson,L,25066,0,L Ticket Votes,Australian Labor Party,598
+ACT,101,Canberra,8780,Mawson,L,23761,1,"LUNDY, Kate",Australian Labor Party,115
+ACT,101,Canberra,8780,Mawson,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8780,Mawson,M,25071,0,M Ticket Votes,Australian Independents,16
+ACT,101,Canberra,8780,Mawson,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8780,Mawson,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,8780,Mawson,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,4
+ACT,101,Canberra,8780,Mawson,ZZ,0,99,INFORMAL,,55
+ACT,101,Canberra,8781,Monash,A,25070,0,A Ticket Votes,Animal Justice Party,29
+ACT,101,Canberra,8781,Monash,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,13
+ACT,101,Canberra,8781,Monash,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,8781,Monash,B,25067,0,B Ticket Votes,Katter's Australian Party,6
+ACT,101,Canberra,8781,Monash,B,24114,1,"BAILEY, Steven",Katter's Australian Party,7
+ACT,101,Canberra,8781,Monash,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8781,Monash,C,25075,0,C Ticket Votes,Australian Greens,214
+ACT,101,Canberra,8781,Monash,C,24907,1,"SHEIKH, Simon",Australian Greens,100
+ACT,101,Canberra,8781,Monash,C,24912,2,"ESGUERRA, Indra",Australian Greens,1
+ACT,101,Canberra,8781,Monash,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8781,Monash,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,8781,Monash,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8781,Monash,E,25065,0,E Ticket Votes,Bullet Train For Australia,29
+ACT,101,Canberra,8781,Monash,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,13
+ACT,101,Canberra,8781,Monash,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,3
+ACT,101,Canberra,8781,Monash,F,25076,0,F Ticket Votes,Drug Law Reform,4
+ACT,101,Canberra,8781,Monash,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8781,Monash,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8781,Monash,G,25069,0,G Ticket Votes,Sex Party,93
+ACT,101,Canberra,8781,Monash,G,24113,1,"AVERY, Deborah",Sex Party,12
+ACT,101,Canberra,8781,Monash,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8781,Monash,H,25073,0,H Ticket Votes,Rise Up Australia Party,11
+ACT,101,Canberra,8781,Monash,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,8
+ACT,101,Canberra,8781,Monash,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8781,Monash,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,25
+ACT,101,Canberra,8781,Monash,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,10
+ACT,101,Canberra,8781,Monash,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8781,Monash,J,25072,0,J Ticket Votes,Palmer United Party,46
+ACT,101,Canberra,8781,Monash,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,8
+ACT,101,Canberra,8781,Monash,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8781,Monash,K,25074,0,K Ticket Votes,Liberal,810
+ACT,101,Canberra,8781,Monash,K,24925,1,"SESELJA, Zed",Liberal,56
+ACT,101,Canberra,8781,Monash,K,24928,2,"NASH, Merinda",Liberal,14
+ACT,101,Canberra,8781,Monash,L,25066,0,L Ticket Votes,Australian Labor Party,706
+ACT,101,Canberra,8781,Monash,L,23761,1,"LUNDY, Kate",Australian Labor Party,131
+ACT,101,Canberra,8781,Monash,L,23765,2,"SANT, Chris",Australian Labor Party,2
+ACT,101,Canberra,8781,Monash,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,8781,Monash,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8781,Monash,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8781,Monash,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,8
+ACT,101,Canberra,8781,Monash,ZZ,0,99,INFORMAL,,56
+ACT,101,Canberra,8782,Narrabundah,A,25070,0,A Ticket Votes,Animal Justice Party,12
+ACT,101,Canberra,8782,Narrabundah,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,11
+ACT,101,Canberra,8782,Narrabundah,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8782,Narrabundah,B,25067,0,B Ticket Votes,Katter's Australian Party,9
+ACT,101,Canberra,8782,Narrabundah,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8782,Narrabundah,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8782,Narrabundah,C,25075,0,C Ticket Votes,Australian Greens,194
+ACT,101,Canberra,8782,Narrabundah,C,24907,1,"SHEIKH, Simon",Australian Greens,118
+ACT,101,Canberra,8782,Narrabundah,C,24912,2,"ESGUERRA, Indra",Australian Greens,6
+ACT,101,Canberra,8782,Narrabundah,D,25064,0,D Ticket Votes,Stable Population Party,5
+ACT,101,Canberra,8782,Narrabundah,D,23291,1,"O'CONNOR, Mark",Stable Population Party,8
+ACT,101,Canberra,8782,Narrabundah,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8782,Narrabundah,E,25065,0,E Ticket Votes,Bullet Train For Australia,12
+ACT,101,Canberra,8782,Narrabundah,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,15
+ACT,101,Canberra,8782,Narrabundah,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8782,Narrabundah,F,25076,0,F Ticket Votes,Drug Law Reform,4
+ACT,101,Canberra,8782,Narrabundah,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8782,Narrabundah,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8782,Narrabundah,G,25069,0,G Ticket Votes,Sex Party,63
+ACT,101,Canberra,8782,Narrabundah,G,24113,1,"AVERY, Deborah",Sex Party,8
+ACT,101,Canberra,8782,Narrabundah,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8782,Narrabundah,H,25073,0,H Ticket Votes,Rise Up Australia Party,9
+ACT,101,Canberra,8782,Narrabundah,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8782,Narrabundah,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8782,Narrabundah,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,26
+ACT,101,Canberra,8782,Narrabundah,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,18
+ACT,101,Canberra,8782,Narrabundah,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8782,Narrabundah,J,25072,0,J Ticket Votes,Palmer United Party,46
+ACT,101,Canberra,8782,Narrabundah,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,6
+ACT,101,Canberra,8782,Narrabundah,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8782,Narrabundah,K,25074,0,K Ticket Votes,Liberal,430
+ACT,101,Canberra,8782,Narrabundah,K,24925,1,"SESELJA, Zed",Liberal,39
+ACT,101,Canberra,8782,Narrabundah,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8782,Narrabundah,L,25066,0,L Ticket Votes,Australian Labor Party,582
+ACT,101,Canberra,8782,Narrabundah,L,23761,1,"LUNDY, Kate",Australian Labor Party,81
+ACT,101,Canberra,8782,Narrabundah,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8782,Narrabundah,M,25071,0,M Ticket Votes,Australian Independents,8
+ACT,101,Canberra,8782,Narrabundah,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8782,Narrabundah,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8782,Narrabundah,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,6
+ACT,101,Canberra,8782,Narrabundah,ZZ,0,99,INFORMAL,,57
+ACT,101,Canberra,8783,Oaks Estate,A,25070,0,A Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,8783,Oaks Estate,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,8783,Oaks Estate,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8783,Oaks Estate,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,8783,Oaks Estate,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8783,Oaks Estate,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8783,Oaks Estate,C,25075,0,C Ticket Votes,Australian Greens,25
+ACT,101,Canberra,8783,Oaks Estate,C,24907,1,"SHEIKH, Simon",Australian Greens,10
+ACT,101,Canberra,8783,Oaks Estate,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,8783,Oaks Estate,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,8783,Oaks Estate,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,8783,Oaks Estate,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8783,Oaks Estate,E,25065,0,E Ticket Votes,Bullet Train For Australia,2
+ACT,101,Canberra,8783,Oaks Estate,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,1
+ACT,101,Canberra,8783,Oaks Estate,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8783,Oaks Estate,F,25076,0,F Ticket Votes,Drug Law Reform,3
+ACT,101,Canberra,8783,Oaks Estate,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8783,Oaks Estate,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8783,Oaks Estate,G,25069,0,G Ticket Votes,Sex Party,13
+ACT,101,Canberra,8783,Oaks Estate,G,24113,1,"AVERY, Deborah",Sex Party,1
+ACT,101,Canberra,8783,Oaks Estate,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8783,Oaks Estate,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8783,Oaks Estate,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,1
+ACT,101,Canberra,8783,Oaks Estate,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8783,Oaks Estate,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8783,Oaks Estate,J,25072,0,J Ticket Votes,Palmer United Party,10
+ACT,101,Canberra,8783,Oaks Estate,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,8783,Oaks Estate,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8783,Oaks Estate,K,25074,0,K Ticket Votes,Liberal,47
+ACT,101,Canberra,8783,Oaks Estate,K,24925,1,"SESELJA, Zed",Liberal,4
+ACT,101,Canberra,8783,Oaks Estate,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,8783,Oaks Estate,L,25066,0,L Ticket Votes,Australian Labor Party,51
+ACT,101,Canberra,8783,Oaks Estate,L,23761,1,"LUNDY, Kate",Australian Labor Party,4
+ACT,101,Canberra,8783,Oaks Estate,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,8783,Oaks Estate,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,8783,Oaks Estate,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8783,Oaks Estate,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8783,Oaks Estate,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8783,Oaks Estate,ZZ,0,99,INFORMAL,,3
+ACT,101,Canberra,8784,Pearce,A,25070,0,A Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,8784,Pearce,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,12
+ACT,101,Canberra,8784,Pearce,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,5
+ACT,101,Canberra,8784,Pearce,B,25067,0,B Ticket Votes,Katter's Australian Party,5
+ACT,101,Canberra,8784,Pearce,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8784,Pearce,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8784,Pearce,C,25075,0,C Ticket Votes,Australian Greens,328
+ACT,101,Canberra,8784,Pearce,C,24907,1,"SHEIKH, Simon",Australian Greens,189
+ACT,101,Canberra,8784,Pearce,C,24912,2,"ESGUERRA, Indra",Australian Greens,8
+ACT,101,Canberra,8784,Pearce,D,25064,0,D Ticket Votes,Stable Population Party,5
+ACT,101,Canberra,8784,Pearce,D,23291,1,"O'CONNOR, Mark",Stable Population Party,8
+ACT,101,Canberra,8784,Pearce,D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,8784,Pearce,E,25065,0,E Ticket Votes,Bullet Train For Australia,26
+ACT,101,Canberra,8784,Pearce,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,21
+ACT,101,Canberra,8784,Pearce,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,6
+ACT,101,Canberra,8784,Pearce,F,25076,0,F Ticket Votes,Drug Law Reform,8
+ACT,101,Canberra,8784,Pearce,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8784,Pearce,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8784,Pearce,G,25069,0,G Ticket Votes,Sex Party,59
+ACT,101,Canberra,8784,Pearce,G,24113,1,"AVERY, Deborah",Sex Party,20
+ACT,101,Canberra,8784,Pearce,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8784,Pearce,H,25073,0,H Ticket Votes,Rise Up Australia Party,5
+ACT,101,Canberra,8784,Pearce,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,5
+ACT,101,Canberra,8784,Pearce,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8784,Pearce,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,19
+ACT,101,Canberra,8784,Pearce,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,14
+ACT,101,Canberra,8784,Pearce,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,2
+ACT,101,Canberra,8784,Pearce,J,25072,0,J Ticket Votes,Palmer United Party,33
+ACT,101,Canberra,8784,Pearce,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,8784,Pearce,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,2
+ACT,101,Canberra,8784,Pearce,K,25074,0,K Ticket Votes,Liberal,747
+ACT,101,Canberra,8784,Pearce,K,24925,1,"SESELJA, Zed",Liberal,74
+ACT,101,Canberra,8784,Pearce,K,24928,2,"NASH, Merinda",Liberal,22
+ACT,101,Canberra,8784,Pearce,L,25066,0,L Ticket Votes,Australian Labor Party,741
+ACT,101,Canberra,8784,Pearce,L,23761,1,"LUNDY, Kate",Australian Labor Party,161
+ACT,101,Canberra,8784,Pearce,L,23765,2,"SANT, Chris",Australian Labor Party,9
+ACT,101,Canberra,8784,Pearce,M,25071,0,M Ticket Votes,Australian Independents,8
+ACT,101,Canberra,8784,Pearce,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8784,Pearce,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8784,Pearce,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8784,Pearce,ZZ,0,99,INFORMAL,,47
+ACT,101,Canberra,8785,Red Hill,A,25070,0,A Ticket Votes,Animal Justice Party,12
+ACT,101,Canberra,8785,Red Hill,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,8785,Red Hill,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8785,Red Hill,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8785,Red Hill,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,8785,Red Hill,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8785,Red Hill,C,25075,0,C Ticket Votes,Australian Greens,337
+ACT,101,Canberra,8785,Red Hill,C,24907,1,"SHEIKH, Simon",Australian Greens,202
+ACT,101,Canberra,8785,Red Hill,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,8785,Red Hill,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,8785,Red Hill,D,23291,1,"O'CONNOR, Mark",Stable Population Party,4
+ACT,101,Canberra,8785,Red Hill,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8785,Red Hill,E,25065,0,E Ticket Votes,Bullet Train For Australia,27
+ACT,101,Canberra,8785,Red Hill,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,22
+ACT,101,Canberra,8785,Red Hill,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8785,Red Hill,F,25076,0,F Ticket Votes,Drug Law Reform,3
+ACT,101,Canberra,8785,Red Hill,F,24919,1,"CUBITT, Paul",Drug Law Reform,7
+ACT,101,Canberra,8785,Red Hill,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8785,Red Hill,G,25069,0,G Ticket Votes,Sex Party,34
+ACT,101,Canberra,8785,Red Hill,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,8785,Red Hill,G,24117,2,"MILLER, Jamie",Sex Party,3
+ACT,101,Canberra,8785,Red Hill,H,25073,0,H Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,8785,Red Hill,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8785,Red Hill,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8785,Red Hill,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,23
+ACT,101,Canberra,8785,Red Hill,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,30
+ACT,101,Canberra,8785,Red Hill,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8785,Red Hill,J,25072,0,J Ticket Votes,Palmer United Party,20
+ACT,101,Canberra,8785,Red Hill,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,4
+ACT,101,Canberra,8785,Red Hill,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8785,Red Hill,K,25074,0,K Ticket Votes,Liberal,758
+ACT,101,Canberra,8785,Red Hill,K,24925,1,"SESELJA, Zed",Liberal,84
+ACT,101,Canberra,8785,Red Hill,K,24928,2,"NASH, Merinda",Liberal,16
+ACT,101,Canberra,8785,Red Hill,L,25066,0,L Ticket Votes,Australian Labor Party,503
+ACT,101,Canberra,8785,Red Hill,L,23761,1,"LUNDY, Kate",Australian Labor Party,116
+ACT,101,Canberra,8785,Red Hill,L,23765,2,"SANT, Chris",Australian Labor Party,1
+ACT,101,Canberra,8785,Red Hill,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,8785,Red Hill,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8785,Red Hill,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8785,Red Hill,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,6
+ACT,101,Canberra,8785,Red Hill,ZZ,0,99,INFORMAL,,39
+ACT,101,Canberra,8786,Richardson,A,25070,0,A Ticket Votes,Animal Justice Party,14
+ACT,101,Canberra,8786,Richardson,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,1
+ACT,101,Canberra,8786,Richardson,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8786,Richardson,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8786,Richardson,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8786,Richardson,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,2
+ACT,101,Canberra,8786,Richardson,C,25075,0,C Ticket Votes,Australian Greens,105
+ACT,101,Canberra,8786,Richardson,C,24907,1,"SHEIKH, Simon",Australian Greens,43
+ACT,101,Canberra,8786,Richardson,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,8786,Richardson,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8786,Richardson,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,8786,Richardson,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8786,Richardson,E,25065,0,E Ticket Votes,Bullet Train For Australia,14
+ACT,101,Canberra,8786,Richardson,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,7
+ACT,101,Canberra,8786,Richardson,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8786,Richardson,F,25076,0,F Ticket Votes,Drug Law Reform,7
+ACT,101,Canberra,8786,Richardson,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8786,Richardson,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8786,Richardson,G,25069,0,G Ticket Votes,Sex Party,84
+ACT,101,Canberra,8786,Richardson,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,8786,Richardson,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8786,Richardson,H,25073,0,H Ticket Votes,Rise Up Australia Party,7
+ACT,101,Canberra,8786,Richardson,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,8786,Richardson,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8786,Richardson,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,18
+ACT,101,Canberra,8786,Richardson,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,12
+ACT,101,Canberra,8786,Richardson,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8786,Richardson,J,25072,0,J Ticket Votes,Palmer United Party,44
+ACT,101,Canberra,8786,Richardson,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,8786,Richardson,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8786,Richardson,K,25074,0,K Ticket Votes,Liberal,412
+ACT,101,Canberra,8786,Richardson,K,24925,1,"SESELJA, Zed",Liberal,32
+ACT,101,Canberra,8786,Richardson,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8786,Richardson,L,25066,0,L Ticket Votes,Australian Labor Party,507
+ACT,101,Canberra,8786,Richardson,L,23761,1,"LUNDY, Kate",Australian Labor Party,54
+ACT,101,Canberra,8786,Richardson,L,23765,2,"SANT, Chris",Australian Labor Party,2
+ACT,101,Canberra,8786,Richardson,M,25071,0,M Ticket Votes,Australian Independents,13
+ACT,101,Canberra,8786,Richardson,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8786,Richardson,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8786,Richardson,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8786,Richardson,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8788,Tharwa,A,25070,0,A Ticket Votes,Animal Justice Party,1
+ACT,101,Canberra,8788,Tharwa,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,1
+ACT,101,Canberra,8788,Tharwa,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8788,Tharwa,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8788,Tharwa,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,8788,Tharwa,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8788,Tharwa,C,25075,0,C Ticket Votes,Australian Greens,22
+ACT,101,Canberra,8788,Tharwa,C,24907,1,"SHEIKH, Simon",Australian Greens,7
+ACT,101,Canberra,8788,Tharwa,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,8788,Tharwa,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,8788,Tharwa,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,8788,Tharwa,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8788,Tharwa,E,25065,0,E Ticket Votes,Bullet Train For Australia,2
+ACT,101,Canberra,8788,Tharwa,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,8788,Tharwa,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8788,Tharwa,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,8788,Tharwa,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8788,Tharwa,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8788,Tharwa,G,25069,0,G Ticket Votes,Sex Party,6
+ACT,101,Canberra,8788,Tharwa,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,8788,Tharwa,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8788,Tharwa,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8788,Tharwa,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8788,Tharwa,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8788,Tharwa,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,8788,Tharwa,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8788,Tharwa,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8788,Tharwa,J,25072,0,J Ticket Votes,Palmer United Party,1
+ACT,101,Canberra,8788,Tharwa,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,2
+ACT,101,Canberra,8788,Tharwa,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8788,Tharwa,K,25074,0,K Ticket Votes,Liberal,43
+ACT,101,Canberra,8788,Tharwa,K,24925,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,8788,Tharwa,K,24928,2,"NASH, Merinda",Liberal,1
+ACT,101,Canberra,8788,Tharwa,L,25066,0,L Ticket Votes,Australian Labor Party,11
+ACT,101,Canberra,8788,Tharwa,L,23761,1,"LUNDY, Kate",Australian Labor Party,4
+ACT,101,Canberra,8788,Tharwa,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,8788,Tharwa,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,8788,Tharwa,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8788,Tharwa,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8788,Tharwa,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8788,Tharwa,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,8790,Wanniassa,A,25070,0,A Ticket Votes,Animal Justice Party,20
+ACT,101,Canberra,8790,Wanniassa,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,7
+ACT,101,Canberra,8790,Wanniassa,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8790,Wanniassa,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8790,Wanniassa,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8790,Wanniassa,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8790,Wanniassa,C,25075,0,C Ticket Votes,Australian Greens,202
+ACT,101,Canberra,8790,Wanniassa,C,24907,1,"SHEIKH, Simon",Australian Greens,123
+ACT,101,Canberra,8790,Wanniassa,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8790,Wanniassa,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8790,Wanniassa,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,8790,Wanniassa,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8790,Wanniassa,E,25065,0,E Ticket Votes,Bullet Train For Australia,36
+ACT,101,Canberra,8790,Wanniassa,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,15
+ACT,101,Canberra,8790,Wanniassa,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8790,Wanniassa,F,25076,0,F Ticket Votes,Drug Law Reform,16
+ACT,101,Canberra,8790,Wanniassa,F,24919,1,"CUBITT, Paul",Drug Law Reform,3
+ACT,101,Canberra,8790,Wanniassa,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8790,Wanniassa,G,25069,0,G Ticket Votes,Sex Party,90
+ACT,101,Canberra,8790,Wanniassa,G,24113,1,"AVERY, Deborah",Sex Party,22
+ACT,101,Canberra,8790,Wanniassa,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8790,Wanniassa,H,25073,0,H Ticket Votes,Rise Up Australia Party,7
+ACT,101,Canberra,8790,Wanniassa,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,3
+ACT,101,Canberra,8790,Wanniassa,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8790,Wanniassa,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,15
+ACT,101,Canberra,8790,Wanniassa,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,2
+ACT,101,Canberra,8790,Wanniassa,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8790,Wanniassa,J,25072,0,J Ticket Votes,Palmer United Party,42
+ACT,101,Canberra,8790,Wanniassa,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,12
+ACT,101,Canberra,8790,Wanniassa,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8790,Wanniassa,K,25074,0,K Ticket Votes,Liberal,561
+ACT,101,Canberra,8790,Wanniassa,K,24925,1,"SESELJA, Zed",Liberal,41
+ACT,101,Canberra,8790,Wanniassa,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8790,Wanniassa,L,25066,0,L Ticket Votes,Australian Labor Party,653
+ACT,101,Canberra,8790,Wanniassa,L,23761,1,"LUNDY, Kate",Australian Labor Party,113
+ACT,101,Canberra,8790,Wanniassa,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8790,Wanniassa,M,25071,0,M Ticket Votes,Australian Independents,13
+ACT,101,Canberra,8790,Wanniassa,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8790,Wanniassa,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8790,Wanniassa,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8790,Wanniassa,ZZ,0,99,INFORMAL,,63
+ACT,101,Canberra,8791,Wanniassa Hills,A,25070,0,A Ticket Votes,Animal Justice Party,22
+ACT,101,Canberra,8791,Wanniassa Hills,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,11
+ACT,101,Canberra,8791,Wanniassa Hills,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,4
+ACT,101,Canberra,8791,Wanniassa Hills,B,25067,0,B Ticket Votes,Katter's Australian Party,6
+ACT,101,Canberra,8791,Wanniassa Hills,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,8791,Wanniassa Hills,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8791,Wanniassa Hills,C,25075,0,C Ticket Votes,Australian Greens,231
+ACT,101,Canberra,8791,Wanniassa Hills,C,24907,1,"SHEIKH, Simon",Australian Greens,162
+ACT,101,Canberra,8791,Wanniassa Hills,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8791,Wanniassa Hills,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8791,Wanniassa Hills,D,23291,1,"O'CONNOR, Mark",Stable Population Party,4
+ACT,101,Canberra,8791,Wanniassa Hills,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8791,Wanniassa Hills,E,25065,0,E Ticket Votes,Bullet Train For Australia,20
+ACT,101,Canberra,8791,Wanniassa Hills,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,17
+ACT,101,Canberra,8791,Wanniassa Hills,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8791,Wanniassa Hills,F,25076,0,F Ticket Votes,Drug Law Reform,4
+ACT,101,Canberra,8791,Wanniassa Hills,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,8791,Wanniassa Hills,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8791,Wanniassa Hills,G,25069,0,G Ticket Votes,Sex Party,74
+ACT,101,Canberra,8791,Wanniassa Hills,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,8791,Wanniassa Hills,G,24117,2,"MILLER, Jamie",Sex Party,4
+ACT,101,Canberra,8791,Wanniassa Hills,H,25073,0,H Ticket Votes,Rise Up Australia Party,6
+ACT,101,Canberra,8791,Wanniassa Hills,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,7
+ACT,101,Canberra,8791,Wanniassa Hills,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8791,Wanniassa Hills,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,18
+ACT,101,Canberra,8791,Wanniassa Hills,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,12
+ACT,101,Canberra,8791,Wanniassa Hills,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8791,Wanniassa Hills,J,25072,0,J Ticket Votes,Palmer United Party,37
+ACT,101,Canberra,8791,Wanniassa Hills,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,12
+ACT,101,Canberra,8791,Wanniassa Hills,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8791,Wanniassa Hills,K,25074,0,K Ticket Votes,Liberal,580
+ACT,101,Canberra,8791,Wanniassa Hills,K,24925,1,"SESELJA, Zed",Liberal,57
+ACT,101,Canberra,8791,Wanniassa Hills,K,24928,2,"NASH, Merinda",Liberal,11
+ACT,101,Canberra,8791,Wanniassa Hills,L,25066,0,L Ticket Votes,Australian Labor Party,584
+ACT,101,Canberra,8791,Wanniassa Hills,L,23761,1,"LUNDY, Kate",Australian Labor Party,123
+ACT,101,Canberra,8791,Wanniassa Hills,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,8791,Wanniassa Hills,M,25071,0,M Ticket Votes,Australian Independents,5
+ACT,101,Canberra,8791,Wanniassa Hills,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,8791,Wanniassa Hills,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8791,Wanniassa Hills,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,4
+ACT,101,Canberra,8791,Wanniassa Hills,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8792,Waramanga,A,25070,0,A Ticket Votes,Animal Justice Party,13
+ACT,101,Canberra,8792,Waramanga,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,7
+ACT,101,Canberra,8792,Waramanga,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,8792,Waramanga,B,25067,0,B Ticket Votes,Katter's Australian Party,7
+ACT,101,Canberra,8792,Waramanga,B,24114,1,"BAILEY, Steven",Katter's Australian Party,7
+ACT,101,Canberra,8792,Waramanga,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8792,Waramanga,C,25075,0,C Ticket Votes,Australian Greens,310
+ACT,101,Canberra,8792,Waramanga,C,24907,1,"SHEIKH, Simon",Australian Greens,202
+ACT,101,Canberra,8792,Waramanga,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8792,Waramanga,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8792,Waramanga,D,23291,1,"O'CONNOR, Mark",Stable Population Party,7
+ACT,101,Canberra,8792,Waramanga,D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,8792,Waramanga,E,25065,0,E Ticket Votes,Bullet Train For Australia,23
+ACT,101,Canberra,8792,Waramanga,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,14
+ACT,101,Canberra,8792,Waramanga,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8792,Waramanga,F,25076,0,F Ticket Votes,Drug Law Reform,11
+ACT,101,Canberra,8792,Waramanga,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8792,Waramanga,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8792,Waramanga,G,25069,0,G Ticket Votes,Sex Party,49
+ACT,101,Canberra,8792,Waramanga,G,24113,1,"AVERY, Deborah",Sex Party,15
+ACT,101,Canberra,8792,Waramanga,G,24117,2,"MILLER, Jamie",Sex Party,3
+ACT,101,Canberra,8792,Waramanga,H,25073,0,H Ticket Votes,Rise Up Australia Party,10
+ACT,101,Canberra,8792,Waramanga,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,7
+ACT,101,Canberra,8792,Waramanga,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8792,Waramanga,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,18
+ACT,101,Canberra,8792,Waramanga,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,19
+ACT,101,Canberra,8792,Waramanga,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8792,Waramanga,J,25072,0,J Ticket Votes,Palmer United Party,30
+ACT,101,Canberra,8792,Waramanga,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,11
+ACT,101,Canberra,8792,Waramanga,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8792,Waramanga,K,25074,0,K Ticket Votes,Liberal,653
+ACT,101,Canberra,8792,Waramanga,K,24925,1,"SESELJA, Zed",Liberal,56
+ACT,101,Canberra,8792,Waramanga,K,24928,2,"NASH, Merinda",Liberal,18
+ACT,101,Canberra,8792,Waramanga,L,25066,0,L Ticket Votes,Australian Labor Party,640
+ACT,101,Canberra,8792,Waramanga,L,23761,1,"LUNDY, Kate",Australian Labor Party,145
+ACT,101,Canberra,8792,Waramanga,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8792,Waramanga,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,8792,Waramanga,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8792,Waramanga,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8792,Waramanga,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,5
+ACT,101,Canberra,8792,Waramanga,ZZ,0,99,INFORMAL,,50
+ACT,101,Canberra,8793,Weston,A,25070,0,A Ticket Votes,Animal Justice Party,10
+ACT,101,Canberra,8793,Weston,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,8
+ACT,101,Canberra,8793,Weston,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8793,Weston,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,8793,Weston,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8793,Weston,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8793,Weston,C,25075,0,C Ticket Votes,Australian Greens,170
+ACT,101,Canberra,8793,Weston,C,24907,1,"SHEIKH, Simon",Australian Greens,115
+ACT,101,Canberra,8793,Weston,C,24912,2,"ESGUERRA, Indra",Australian Greens,2
+ACT,101,Canberra,8793,Weston,D,25064,0,D Ticket Votes,Stable Population Party,4
+ACT,101,Canberra,8793,Weston,D,23291,1,"O'CONNOR, Mark",Stable Population Party,4
+ACT,101,Canberra,8793,Weston,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8793,Weston,E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,8793,Weston,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,13
+ACT,101,Canberra,8793,Weston,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,8793,Weston,F,25076,0,F Ticket Votes,Drug Law Reform,5
+ACT,101,Canberra,8793,Weston,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,8793,Weston,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8793,Weston,G,25069,0,G Ticket Votes,Sex Party,24
+ACT,101,Canberra,8793,Weston,G,24113,1,"AVERY, Deborah",Sex Party,10
+ACT,101,Canberra,8793,Weston,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,8793,Weston,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,8793,Weston,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,8793,Weston,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8793,Weston,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,18
+ACT,101,Canberra,8793,Weston,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,19
+ACT,101,Canberra,8793,Weston,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8793,Weston,J,25072,0,J Ticket Votes,Palmer United Party,18
+ACT,101,Canberra,8793,Weston,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,8793,Weston,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8793,Weston,K,25074,0,K Ticket Votes,Liberal,367
+ACT,101,Canberra,8793,Weston,K,24925,1,"SESELJA, Zed",Liberal,30
+ACT,101,Canberra,8793,Weston,K,24928,2,"NASH, Merinda",Liberal,9
+ACT,101,Canberra,8793,Weston,L,25066,0,L Ticket Votes,Australian Labor Party,407
+ACT,101,Canberra,8793,Weston,L,23761,1,"LUNDY, Kate",Australian Labor Party,98
+ACT,101,Canberra,8793,Weston,L,23765,2,"SANT, Chris",Australian Labor Party,8
+ACT,101,Canberra,8793,Weston,M,25071,0,M Ticket Votes,Australian Independents,7
+ACT,101,Canberra,8793,Weston,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8793,Weston,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8793,Weston,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,2
+ACT,101,Canberra,8793,Weston,ZZ,0,99,INFORMAL,,29
+ACT,101,Canberra,8794,Garran,A,25070,0,A Ticket Votes,Animal Justice Party,9
+ACT,101,Canberra,8794,Garran,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,2
+ACT,101,Canberra,8794,Garran,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,8794,Garran,B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,8794,Garran,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8794,Garran,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8794,Garran,C,25075,0,C Ticket Votes,Australian Greens,174
+ACT,101,Canberra,8794,Garran,C,24907,1,"SHEIKH, Simon",Australian Greens,99
+ACT,101,Canberra,8794,Garran,C,24912,2,"ESGUERRA, Indra",Australian Greens,2
+ACT,101,Canberra,8794,Garran,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,8794,Garran,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,8794,Garran,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8794,Garran,E,25065,0,E Ticket Votes,Bullet Train For Australia,9
+ACT,101,Canberra,8794,Garran,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,7
+ACT,101,Canberra,8794,Garran,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8794,Garran,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,8794,Garran,F,24919,1,"CUBITT, Paul",Drug Law Reform,1
+ACT,101,Canberra,8794,Garran,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8794,Garran,G,25069,0,G Ticket Votes,Sex Party,14
+ACT,101,Canberra,8794,Garran,G,24113,1,"AVERY, Deborah",Sex Party,12
+ACT,101,Canberra,8794,Garran,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8794,Garran,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8794,Garran,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,8794,Garran,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,8794,Garran,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,24
+ACT,101,Canberra,8794,Garran,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,12
+ACT,101,Canberra,8794,Garran,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,8794,Garran,J,25072,0,J Ticket Votes,Palmer United Party,13
+ACT,101,Canberra,8794,Garran,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,5
+ACT,101,Canberra,8794,Garran,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8794,Garran,K,25074,0,K Ticket Votes,Liberal,405
+ACT,101,Canberra,8794,Garran,K,24925,1,"SESELJA, Zed",Liberal,27
+ACT,101,Canberra,8794,Garran,K,24928,2,"NASH, Merinda",Liberal,10
+ACT,101,Canberra,8794,Garran,L,25066,0,L Ticket Votes,Australian Labor Party,316
+ACT,101,Canberra,8794,Garran,L,23761,1,"LUNDY, Kate",Australian Labor Party,61
+ACT,101,Canberra,8794,Garran,L,23765,2,"SANT, Chris",Australian Labor Party,2
+ACT,101,Canberra,8794,Garran,M,25071,0,M Ticket Votes,Australian Independents,4
+ACT,101,Canberra,8794,Garran,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,5
+ACT,101,Canberra,8794,Garran,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8794,Garran,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8794,Garran,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,8817,Griffith,A,25070,0,A Ticket Votes,Animal Justice Party,11
+ACT,101,Canberra,8817,Griffith,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,3
+ACT,101,Canberra,8817,Griffith,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8817,Griffith,B,25067,0,B Ticket Votes,Katter's Australian Party,4
+ACT,101,Canberra,8817,Griffith,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8817,Griffith,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8817,Griffith,C,25075,0,C Ticket Votes,Australian Greens,180
+ACT,101,Canberra,8817,Griffith,C,24907,1,"SHEIKH, Simon",Australian Greens,108
+ACT,101,Canberra,8817,Griffith,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,8817,Griffith,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8817,Griffith,D,23291,1,"O'CONNOR, Mark",Stable Population Party,6
+ACT,101,Canberra,8817,Griffith,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8817,Griffith,E,25065,0,E Ticket Votes,Bullet Train For Australia,17
+ACT,101,Canberra,8817,Griffith,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,13
+ACT,101,Canberra,8817,Griffith,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,3
+ACT,101,Canberra,8817,Griffith,F,25076,0,F Ticket Votes,Drug Law Reform,5
+ACT,101,Canberra,8817,Griffith,F,24919,1,"CUBITT, Paul",Drug Law Reform,1
+ACT,101,Canberra,8817,Griffith,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8817,Griffith,G,25069,0,G Ticket Votes,Sex Party,31
+ACT,101,Canberra,8817,Griffith,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,8817,Griffith,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,8817,Griffith,H,25073,0,H Ticket Votes,Rise Up Australia Party,3
+ACT,101,Canberra,8817,Griffith,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8817,Griffith,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8817,Griffith,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,13
+ACT,101,Canberra,8817,Griffith,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,11
+ACT,101,Canberra,8817,Griffith,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8817,Griffith,J,25072,0,J Ticket Votes,Palmer United Party,19
+ACT,101,Canberra,8817,Griffith,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,4
+ACT,101,Canberra,8817,Griffith,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8817,Griffith,K,25074,0,K Ticket Votes,Liberal,466
+ACT,101,Canberra,8817,Griffith,K,24925,1,"SESELJA, Zed",Liberal,44
+ACT,101,Canberra,8817,Griffith,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,8817,Griffith,L,25066,0,L Ticket Votes,Australian Labor Party,309
+ACT,101,Canberra,8817,Griffith,L,23761,1,"LUNDY, Kate",Australian Labor Party,83
+ACT,101,Canberra,8817,Griffith,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,8817,Griffith,M,25071,0,M Ticket Votes,Australian Independents,6
+ACT,101,Canberra,8817,Griffith,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8817,Griffith,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8817,Griffith,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8817,Griffith,ZZ,0,99,INFORMAL,,24
+ACT,101,Canberra,8829,Barton,A,25070,0,A Ticket Votes,Animal Justice Party,12
+ACT,101,Canberra,8829,Barton,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,3
+ACT,101,Canberra,8829,Barton,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,8829,Barton,B,25067,0,B Ticket Votes,Katter's Australian Party,8
+ACT,101,Canberra,8829,Barton,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,8829,Barton,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,2
+ACT,101,Canberra,8829,Barton,C,25075,0,C Ticket Votes,Australian Greens,320
+ACT,101,Canberra,8829,Barton,C,24907,1,"SHEIKH, Simon",Australian Greens,212
+ACT,101,Canberra,8829,Barton,C,24912,2,"ESGUERRA, Indra",Australian Greens,7
+ACT,101,Canberra,8829,Barton,D,25064,0,D Ticket Votes,Stable Population Party,5
+ACT,101,Canberra,8829,Barton,D,23291,1,"O'CONNOR, Mark",Stable Population Party,7
+ACT,101,Canberra,8829,Barton,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8829,Barton,E,25065,0,E Ticket Votes,Bullet Train For Australia,22
+ACT,101,Canberra,8829,Barton,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,33
+ACT,101,Canberra,8829,Barton,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,8829,Barton,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,8829,Barton,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,8829,Barton,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8829,Barton,G,25069,0,G Ticket Votes,Sex Party,31
+ACT,101,Canberra,8829,Barton,G,24113,1,"AVERY, Deborah",Sex Party,21
+ACT,101,Canberra,8829,Barton,G,24117,2,"MILLER, Jamie",Sex Party,3
+ACT,101,Canberra,8829,Barton,H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,8829,Barton,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,3
+ACT,101,Canberra,8829,Barton,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8829,Barton,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,25
+ACT,101,Canberra,8829,Barton,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,23
+ACT,101,Canberra,8829,Barton,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8829,Barton,J,25072,0,J Ticket Votes,Palmer United Party,21
+ACT,101,Canberra,8829,Barton,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,5
+ACT,101,Canberra,8829,Barton,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,8829,Barton,K,25074,0,K Ticket Votes,Liberal,643
+ACT,101,Canberra,8829,Barton,K,24925,1,"SESELJA, Zed",Liberal,35
+ACT,101,Canberra,8829,Barton,K,24928,2,"NASH, Merinda",Liberal,20
+ACT,101,Canberra,8829,Barton,L,25066,0,L Ticket Votes,Australian Labor Party,437
+ACT,101,Canberra,8829,Barton,L,23761,1,"LUNDY, Kate",Australian Labor Party,138
+ACT,101,Canberra,8829,Barton,L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,8829,Barton,M,25071,0,M Ticket Votes,Australian Independents,11
+ACT,101,Canberra,8829,Barton,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,8829,Barton,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8829,Barton,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,4
+ACT,101,Canberra,8829,Barton,ZZ,0,99,INFORMAL,,26
+ACT,101,Canberra,8840,Yarralumla,A,25070,0,A Ticket Votes,Animal Justice Party,10
+ACT,101,Canberra,8840,Yarralumla,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,8840,Yarralumla,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,8840,Yarralumla,B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,8840,Yarralumla,B,24114,1,"BAILEY, Steven",Katter's Australian Party,1
+ACT,101,Canberra,8840,Yarralumla,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,8840,Yarralumla,C,25075,0,C Ticket Votes,Australian Greens,232
+ACT,101,Canberra,8840,Yarralumla,C,24907,1,"SHEIKH, Simon",Australian Greens,132
+ACT,101,Canberra,8840,Yarralumla,C,24912,2,"ESGUERRA, Indra",Australian Greens,2
+ACT,101,Canberra,8840,Yarralumla,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,8840,Yarralumla,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,8840,Yarralumla,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8840,Yarralumla,E,25065,0,E Ticket Votes,Bullet Train For Australia,18
+ACT,101,Canberra,8840,Yarralumla,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,17
+ACT,101,Canberra,8840,Yarralumla,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8840,Yarralumla,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,8840,Yarralumla,F,24919,1,"CUBITT, Paul",Drug Law Reform,1
+ACT,101,Canberra,8840,Yarralumla,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,8840,Yarralumla,G,25069,0,G Ticket Votes,Sex Party,19
+ACT,101,Canberra,8840,Yarralumla,G,24113,1,"AVERY, Deborah",Sex Party,11
+ACT,101,Canberra,8840,Yarralumla,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8840,Yarralumla,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8840,Yarralumla,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,38
+ACT,101,Canberra,8840,Yarralumla,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,28
+ACT,101,Canberra,8840,Yarralumla,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8840,Yarralumla,J,25072,0,J Ticket Votes,Palmer United Party,12
+ACT,101,Canberra,8840,Yarralumla,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,4
+ACT,101,Canberra,8840,Yarralumla,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8840,Yarralumla,K,25074,0,K Ticket Votes,Liberal,527
+ACT,101,Canberra,8840,Yarralumla,K,24925,1,"SESELJA, Zed",Liberal,42
+ACT,101,Canberra,8840,Yarralumla,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,8840,Yarralumla,L,25066,0,L Ticket Votes,Australian Labor Party,321
+ACT,101,Canberra,8840,Yarralumla,L,23761,1,"LUNDY, Kate",Australian Labor Party,64
+ACT,101,Canberra,8840,Yarralumla,L,23765,2,"SANT, Chris",Australian Labor Party,5
+ACT,101,Canberra,8840,Yarralumla,M,25071,0,M Ticket Votes,Australian Independents,0
+ACT,101,Canberra,8840,Yarralumla,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,8840,Yarralumla,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,8840,Yarralumla,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,8840,Yarralumla,ZZ,0,99,INFORMAL,,22
+ACT,101,Canberra,8884,Isabella Plains,A,25070,0,A Ticket Votes,Animal Justice Party,32
+ACT,101,Canberra,8884,Isabella Plains,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,8884,Isabella Plains,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,8884,Isabella Plains,B,25067,0,B Ticket Votes,Katter's Australian Party,10
+ACT,101,Canberra,8884,Isabella Plains,B,24114,1,"BAILEY, Steven",Katter's Australian Party,2
+ACT,101,Canberra,8884,Isabella Plains,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,8884,Isabella Plains,C,25075,0,C Ticket Votes,Australian Greens,182
+ACT,101,Canberra,8884,Isabella Plains,C,24907,1,"SHEIKH, Simon",Australian Greens,91
+ACT,101,Canberra,8884,Isabella Plains,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,8884,Isabella Plains,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,8884,Isabella Plains,D,23291,1,"O'CONNOR, Mark",Stable Population Party,3
+ACT,101,Canberra,8884,Isabella Plains,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,8884,Isabella Plains,E,25065,0,E Ticket Votes,Bullet Train For Australia,26
+ACT,101,Canberra,8884,Isabella Plains,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,8
+ACT,101,Canberra,8884,Isabella Plains,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,8884,Isabella Plains,F,25076,0,F Ticket Votes,Drug Law Reform,10
+ACT,101,Canberra,8884,Isabella Plains,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,8884,Isabella Plains,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,8884,Isabella Plains,G,25069,0,G Ticket Votes,Sex Party,120
+ACT,101,Canberra,8884,Isabella Plains,G,24113,1,"AVERY, Deborah",Sex Party,20
+ACT,101,Canberra,8884,Isabella Plains,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,8884,Isabella Plains,H,25073,0,H Ticket Votes,Rise Up Australia Party,9
+ACT,101,Canberra,8884,Isabella Plains,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,8884,Isabella Plains,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,8884,Isabella Plains,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,6
+ACT,101,Canberra,8884,Isabella Plains,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,8
+ACT,101,Canberra,8884,Isabella Plains,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,8884,Isabella Plains,J,25072,0,J Ticket Votes,Palmer United Party,45
+ACT,101,Canberra,8884,Isabella Plains,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,6
+ACT,101,Canberra,8884,Isabella Plains,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,8884,Isabella Plains,K,25074,0,K Ticket Votes,Liberal,628
+ACT,101,Canberra,8884,Isabella Plains,K,24925,1,"SESELJA, Zed",Liberal,37
+ACT,101,Canberra,8884,Isabella Plains,K,24928,2,"NASH, Merinda",Liberal,13
+ACT,101,Canberra,8884,Isabella Plains,L,25066,0,L Ticket Votes,Australian Labor Party,757
+ACT,101,Canberra,8884,Isabella Plains,L,23761,1,"LUNDY, Kate",Australian Labor Party,108
+ACT,101,Canberra,8884,Isabella Plains,L,23765,2,"SANT, Chris",Australian Labor Party,8
+ACT,101,Canberra,8884,Isabella Plains,M,25071,0,M Ticket Votes,Australian Independents,11
+ACT,101,Canberra,8884,Isabella Plains,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,8884,Isabella Plains,M,24736,2,"PETERSEN, Valma",Australian Independents,2
+ACT,101,Canberra,8884,Isabella Plains,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,8884,Isabella Plains,ZZ,0,99,INFORMAL,,71
+ACT,101,Canberra,11452,Calwell,A,25070,0,A Ticket Votes,Animal Justice Party,13
+ACT,101,Canberra,11452,Calwell,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,11452,Calwell,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,11452,Calwell,B,25067,0,B Ticket Votes,Katter's Australian Party,6
+ACT,101,Canberra,11452,Calwell,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,11452,Calwell,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,11452,Calwell,C,25075,0,C Ticket Votes,Australian Greens,197
+ACT,101,Canberra,11452,Calwell,C,24907,1,"SHEIKH, Simon",Australian Greens,99
+ACT,101,Canberra,11452,Calwell,C,24912,2,"ESGUERRA, Indra",Australian Greens,5
+ACT,101,Canberra,11452,Calwell,D,25064,0,D Ticket Votes,Stable Population Party,4
+ACT,101,Canberra,11452,Calwell,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,11452,Calwell,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,11452,Calwell,E,25065,0,E Ticket Votes,Bullet Train For Australia,25
+ACT,101,Canberra,11452,Calwell,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,8
+ACT,101,Canberra,11452,Calwell,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,11452,Calwell,F,25076,0,F Ticket Votes,Drug Law Reform,7
+ACT,101,Canberra,11452,Calwell,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,11452,Calwell,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,11452,Calwell,G,25069,0,G Ticket Votes,Sex Party,98
+ACT,101,Canberra,11452,Calwell,G,24113,1,"AVERY, Deborah",Sex Party,26
+ACT,101,Canberra,11452,Calwell,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,11452,Calwell,H,25073,0,H Ticket Votes,Rise Up Australia Party,6
+ACT,101,Canberra,11452,Calwell,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,5
+ACT,101,Canberra,11452,Calwell,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,11452,Calwell,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,21
+ACT,101,Canberra,11452,Calwell,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,14
+ACT,101,Canberra,11452,Calwell,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,11452,Calwell,J,25072,0,J Ticket Votes,Palmer United Party,49
+ACT,101,Canberra,11452,Calwell,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,11452,Calwell,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,11452,Calwell,K,25074,0,K Ticket Votes,Liberal,705
+ACT,101,Canberra,11452,Calwell,K,24925,1,"SESELJA, Zed",Liberal,52
+ACT,101,Canberra,11452,Calwell,K,24928,2,"NASH, Merinda",Liberal,15
+ACT,101,Canberra,11452,Calwell,L,25066,0,L Ticket Votes,Australian Labor Party,699
+ACT,101,Canberra,11452,Calwell,L,23761,1,"LUNDY, Kate",Australian Labor Party,104
+ACT,101,Canberra,11452,Calwell,L,23765,2,"SANT, Chris",Australian Labor Party,6
+ACT,101,Canberra,11452,Calwell,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,11452,Calwell,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,11452,Calwell,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,11452,Calwell,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,3
+ACT,101,Canberra,11452,Calwell,ZZ,0,99,INFORMAL,,48
+ACT,101,Canberra,11877,Bonython,A,25070,0,A Ticket Votes,Animal Justice Party,10
+ACT,101,Canberra,11877,Bonython,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,6
+ACT,101,Canberra,11877,Bonython,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,11877,Bonython,B,25067,0,B Ticket Votes,Katter's Australian Party,10
+ACT,101,Canberra,11877,Bonython,B,24114,1,"BAILEY, Steven",Katter's Australian Party,4
+ACT,101,Canberra,11877,Bonython,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,11877,Bonython,C,25075,0,C Ticket Votes,Australian Greens,202
+ACT,101,Canberra,11877,Bonython,C,24907,1,"SHEIKH, Simon",Australian Greens,88
+ACT,101,Canberra,11877,Bonython,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,11877,Bonython,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,11877,Bonython,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,11877,Bonython,D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,11877,Bonython,E,25065,0,E Ticket Votes,Bullet Train For Australia,22
+ACT,101,Canberra,11877,Bonython,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,9
+ACT,101,Canberra,11877,Bonython,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,11877,Bonython,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,11877,Bonython,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,11877,Bonython,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,11877,Bonython,G,25069,0,G Ticket Votes,Sex Party,68
+ACT,101,Canberra,11877,Bonython,G,24113,1,"AVERY, Deborah",Sex Party,14
+ACT,101,Canberra,11877,Bonython,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,11877,Bonython,H,25073,0,H Ticket Votes,Rise Up Australia Party,8
+ACT,101,Canberra,11877,Bonython,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,11877,Bonython,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,11877,Bonython,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,19
+ACT,101,Canberra,11877,Bonython,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,14
+ACT,101,Canberra,11877,Bonython,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,11877,Bonython,J,25072,0,J Ticket Votes,Palmer United Party,38
+ACT,101,Canberra,11877,Bonython,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,3
+ACT,101,Canberra,11877,Bonython,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,2
+ACT,101,Canberra,11877,Bonython,K,25074,0,K Ticket Votes,Liberal,537
+ACT,101,Canberra,11877,Bonython,K,24925,1,"SESELJA, Zed",Liberal,38
+ACT,101,Canberra,11877,Bonython,K,24928,2,"NASH, Merinda",Liberal,6
+ACT,101,Canberra,11877,Bonython,L,25066,0,L Ticket Votes,Australian Labor Party,589
+ACT,101,Canberra,11877,Bonython,L,23761,1,"LUNDY, Kate",Australian Labor Party,89
+ACT,101,Canberra,11877,Bonython,L,23765,2,"SANT, Chris",Australian Labor Party,4
+ACT,101,Canberra,11877,Bonython,M,25071,0,M Ticket Votes,Australian Independents,10
+ACT,101,Canberra,11877,Bonython,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,11877,Bonython,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,11877,Bonython,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,11877,Bonython,ZZ,0,99,INFORMAL,,55
+ACT,101,Canberra,11878,Theodore,A,25070,0,A Ticket Votes,Animal Justice Party,19
+ACT,101,Canberra,11878,Theodore,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,5
+ACT,101,Canberra,11878,Theodore,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,11878,Theodore,B,25067,0,B Ticket Votes,Katter's Australian Party,5
+ACT,101,Canberra,11878,Theodore,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,11878,Theodore,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,11878,Theodore,C,25075,0,C Ticket Votes,Australian Greens,127
+ACT,101,Canberra,11878,Theodore,C,24907,1,"SHEIKH, Simon",Australian Greens,57
+ACT,101,Canberra,11878,Theodore,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,11878,Theodore,D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,11878,Theodore,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,11878,Theodore,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,11878,Theodore,E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,11878,Theodore,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,4
+ACT,101,Canberra,11878,Theodore,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,11878,Theodore,F,25076,0,F Ticket Votes,Drug Law Reform,4
+ACT,101,Canberra,11878,Theodore,F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,11878,Theodore,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,11878,Theodore,G,25069,0,G Ticket Votes,Sex Party,78
+ACT,101,Canberra,11878,Theodore,G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,11878,Theodore,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,11878,Theodore,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,11878,Theodore,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,1
+ACT,101,Canberra,11878,Theodore,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,11878,Theodore,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,19
+ACT,101,Canberra,11878,Theodore,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,8
+ACT,101,Canberra,11878,Theodore,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,11878,Theodore,J,25072,0,J Ticket Votes,Palmer United Party,47
+ACT,101,Canberra,11878,Theodore,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,5
+ACT,101,Canberra,11878,Theodore,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,11878,Theodore,K,25074,0,K Ticket Votes,Liberal,485
+ACT,101,Canberra,11878,Theodore,K,24925,1,"SESELJA, Zed",Liberal,36
+ACT,101,Canberra,11878,Theodore,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,11878,Theodore,L,25066,0,L Ticket Votes,Australian Labor Party,452
+ACT,101,Canberra,11878,Theodore,L,23761,1,"LUNDY, Kate",Australian Labor Party,76
+ACT,101,Canberra,11878,Theodore,L,23765,2,"SANT, Chris",Australian Labor Party,4
+ACT,101,Canberra,11878,Theodore,M,25071,0,M Ticket Votes,Australian Independents,7
+ACT,101,Canberra,11878,Theodore,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,11878,Theodore,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,11878,Theodore,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,11878,Theodore,ZZ,0,99,INFORMAL,,39
+ACT,101,Canberra,12072,Gordon,A,25070,0,A Ticket Votes,Animal Justice Party,40
+ACT,101,Canberra,12072,Gordon,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,8
+ACT,101,Canberra,12072,Gordon,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,12072,Gordon,B,25067,0,B Ticket Votes,Katter's Australian Party,16
+ACT,101,Canberra,12072,Gordon,B,24114,1,"BAILEY, Steven",Katter's Australian Party,7
+ACT,101,Canberra,12072,Gordon,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,12072,Gordon,C,25075,0,C Ticket Votes,Australian Greens,352
+ACT,101,Canberra,12072,Gordon,C,24907,1,"SHEIKH, Simon",Australian Greens,137
+ACT,101,Canberra,12072,Gordon,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,12072,Gordon,D,25064,0,D Ticket Votes,Stable Population Party,6
+ACT,101,Canberra,12072,Gordon,D,23291,1,"O'CONNOR, Mark",Stable Population Party,4
+ACT,101,Canberra,12072,Gordon,D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,12072,Gordon,E,25065,0,E Ticket Votes,Bullet Train For Australia,42
+ACT,101,Canberra,12072,Gordon,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,14
+ACT,101,Canberra,12072,Gordon,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,12072,Gordon,F,25076,0,F Ticket Votes,Drug Law Reform,12
+ACT,101,Canberra,12072,Gordon,F,24919,1,"CUBITT, Paul",Drug Law Reform,5
+ACT,101,Canberra,12072,Gordon,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,12072,Gordon,G,25069,0,G Ticket Votes,Sex Party,171
+ACT,101,Canberra,12072,Gordon,G,24113,1,"AVERY, Deborah",Sex Party,20
+ACT,101,Canberra,12072,Gordon,G,24117,2,"MILLER, Jamie",Sex Party,3
+ACT,101,Canberra,12072,Gordon,H,25073,0,H Ticket Votes,Rise Up Australia Party,11
+ACT,101,Canberra,12072,Gordon,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,10
+ACT,101,Canberra,12072,Gordon,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,1
+ACT,101,Canberra,12072,Gordon,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,16
+ACT,101,Canberra,12072,Gordon,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,13
+ACT,101,Canberra,12072,Gordon,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,12072,Gordon,J,25072,0,J Ticket Votes,Palmer United Party,95
+ACT,101,Canberra,12072,Gordon,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,12
+ACT,101,Canberra,12072,Gordon,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,12072,Gordon,K,25074,0,K Ticket Votes,Liberal,1190
+ACT,101,Canberra,12072,Gordon,K,24925,1,"SESELJA, Zed",Liberal,109
+ACT,101,Canberra,12072,Gordon,K,24928,2,"NASH, Merinda",Liberal,29
+ACT,101,Canberra,12072,Gordon,L,25066,0,L Ticket Votes,Australian Labor Party,1203
+ACT,101,Canberra,12072,Gordon,L,23761,1,"LUNDY, Kate",Australian Labor Party,160
+ACT,101,Canberra,12072,Gordon,L,23765,2,"SANT, Chris",Australian Labor Party,7
+ACT,101,Canberra,12072,Gordon,M,25071,0,M Ticket Votes,Australian Independents,22
+ACT,101,Canberra,12072,Gordon,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,1
+ACT,101,Canberra,12072,Gordon,M,24736,2,"PETERSEN, Valma",Australian Independents,1
+ACT,101,Canberra,12072,Gordon,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,6
+ACT,101,Canberra,12072,Gordon,ZZ,0,99,INFORMAL,,100
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,25070,0,A Ticket Votes,Animal Justice Party,9
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,24222,1,"FILLINGER, Marcus",Animal Justice Party,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,24114,1,"BAILEY, Steven",Katter's Australian Party,6
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,25075,0,C Ticket Votes,Australian Greens,260
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,24907,1,"SHEIKH, Simon",Australian Greens,127
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,24912,2,"ESGUERRA, Indra",Australian Greens,9
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,25064,0,D Ticket Votes,Stable Population Party,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,25065,0,E Ticket Votes,Bullet Train For Australia,21
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,16
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,25069,0,G Ticket Votes,Sex Party,32
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,24113,1,"AVERY, Deborah",Sex Party,13
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,24700,1,"ROSS, Irwin",Rise Up Australia Party,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,15
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,29
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,25072,0,J Ticket Votes,Palmer United Party,23
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,4
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),K,25074,0,K Ticket Votes,Liberal,498
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),K,24925,1,"SESELJA, Zed",Liberal,46
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),K,24928,2,"NASH, Merinda",Liberal,19
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),L,25066,0,L Ticket Votes,Australian Labor Party,409
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),L,23761,1,"LUNDY, Kate",Australian Labor Party,85
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),L,23765,2,"SANT, Chris",Australian Labor Party,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),M,25071,0,M Ticket Votes,Australian Independents,13
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),M,24736,2,"PETERSEN, Valma",Australian Independents,3
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,25
+ACT,101,Canberra,31298,Conder,A,25070,0,A Ticket Votes,Animal Justice Party,32
+ACT,101,Canberra,31298,Conder,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,8
+ACT,101,Canberra,31298,Conder,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,31298,Conder,B,25067,0,B Ticket Votes,Katter's Australian Party,8
+ACT,101,Canberra,31298,Conder,B,24114,1,"BAILEY, Steven",Katter's Australian Party,8
+ACT,101,Canberra,31298,Conder,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,31298,Conder,C,25075,0,C Ticket Votes,Australian Greens,246
+ACT,101,Canberra,31298,Conder,C,24907,1,"SHEIKH, Simon",Australian Greens,108
+ACT,101,Canberra,31298,Conder,C,24912,2,"ESGUERRA, Indra",Australian Greens,4
+ACT,101,Canberra,31298,Conder,D,25064,0,D Ticket Votes,Stable Population Party,3
+ACT,101,Canberra,31298,Conder,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,31298,Conder,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,31298,Conder,E,25065,0,E Ticket Votes,Bullet Train For Australia,34
+ACT,101,Canberra,31298,Conder,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,9
+ACT,101,Canberra,31298,Conder,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,31298,Conder,F,25076,0,F Ticket Votes,Drug Law Reform,11
+ACT,101,Canberra,31298,Conder,F,24919,1,"CUBITT, Paul",Drug Law Reform,4
+ACT,101,Canberra,31298,Conder,F,24921,2,"DOWSON, Stacey",Drug Law Reform,1
+ACT,101,Canberra,31298,Conder,G,25069,0,G Ticket Votes,Sex Party,158
+ACT,101,Canberra,31298,Conder,G,24113,1,"AVERY, Deborah",Sex Party,15
+ACT,101,Canberra,31298,Conder,G,24117,2,"MILLER, Jamie",Sex Party,3
+ACT,101,Canberra,31298,Conder,H,25073,0,H Ticket Votes,Rise Up Australia Party,13
+ACT,101,Canberra,31298,Conder,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,6
+ACT,101,Canberra,31298,Conder,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,31298,Conder,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,23
+ACT,101,Canberra,31298,Conder,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,15
+ACT,101,Canberra,31298,Conder,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,31298,Conder,J,25072,0,J Ticket Votes,Palmer United Party,88
+ACT,101,Canberra,31298,Conder,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,10
+ACT,101,Canberra,31298,Conder,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,2
+ACT,101,Canberra,31298,Conder,K,25074,0,K Ticket Votes,Liberal,837
+ACT,101,Canberra,31298,Conder,K,24925,1,"SESELJA, Zed",Liberal,87
+ACT,101,Canberra,31298,Conder,K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,31298,Conder,L,25066,0,L Ticket Votes,Australian Labor Party,959
+ACT,101,Canberra,31298,Conder,L,23761,1,"LUNDY, Kate",Australian Labor Party,132
+ACT,101,Canberra,31298,Conder,L,23765,2,"SANT, Chris",Australian Labor Party,8
+ACT,101,Canberra,31298,Conder,M,25071,0,M Ticket Votes,Australian Independents,18
+ACT,101,Canberra,31298,Conder,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,3
+ACT,101,Canberra,31298,Conder,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,31298,Conder,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,1
+ACT,101,Canberra,31298,Conder,ZZ,0,99,INFORMAL,,81
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,178
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,42
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,7
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,65
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,28
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,9
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,25075,0,C Ticket Votes,Australian Greens,1318
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,463
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,20
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,25064,0,D Ticket Votes,Stable Population Party,26
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,13
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,2
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,202
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,65
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,7
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,25
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,12
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,2
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,25069,0,G Ticket Votes,Sex Party,465
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,24113,1,"AVERY, Deborah",Sex Party,69
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,G,24117,2,"MILLER, Jamie",Sex Party,11
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,64
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,29
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,3
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,153
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,83
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,3
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,25072,0,J Ticket Votes,Palmer United Party,379
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,56
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,3
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,K,25074,0,K Ticket Votes,Liberal,5278
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,K,24925,1,"SESELJA, Zed",Liberal,347
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,K,24928,2,"NASH, Merinda",Liberal,61
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,4696
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,515
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,29
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,M,25071,0,M Ticket Votes,Australian Independents,111
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,7
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,4
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,10
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,ZZ,0,99,INFORMAL,,335
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,102
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,24
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,7
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,49
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,24
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,25075,0,C Ticket Votes,Australian Greens,1365
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,691
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,38
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,25064,0,D Ticket Votes,Stable Population Party,28
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,29
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,168
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,85
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,5
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,17
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,14
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,25069,0,G Ticket Votes,Sex Party,205
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,24113,1,"AVERY, Deborah",Sex Party,69
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,G,24117,2,"MILLER, Jamie",Sex Party,8
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,31
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,14
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,196
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,127
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,25072,0,J Ticket Votes,Palmer United Party,210
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,31
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,3
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,K,25074,0,K Ticket Votes,Liberal,4430
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,K,24925,1,"SESELJA, Zed",Liberal,313
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,K,24928,2,"NASH, Merinda",Liberal,96
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,3456
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,595
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,21
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,M,25071,0,M Ticket Votes,Australian Independents,70
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,16
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,2
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,16
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,ZZ,0,99,INFORMAL,,223
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,25075,0,C Ticket Votes,Australian Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,G,25069,0,G Ticket Votes,Sex Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,J,25072,0,J Ticket Votes,Palmer United Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,K,25074,0,K Ticket Votes,Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,K,24925,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,M,25071,0,M Ticket Votes,Australian Independents,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,32712,Special Hospital Team 1,A,25070,0,A Ticket Votes,Animal Justice Party,4
+ACT,101,Canberra,32712,Special Hospital Team 1,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,25067,0,B Ticket Votes,Katter's Australian Party,3
+ACT,101,Canberra,32712,Special Hospital Team 1,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,C,25075,0,C Ticket Votes,Australian Greens,18
+ACT,101,Canberra,32712,Special Hospital Team 1,C,24907,1,"SHEIKH, Simon",Australian Greens,2
+ACT,101,Canberra,32712,Special Hospital Team 1,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,E,25065,0,E Ticket Votes,Bullet Train For Australia,2
+ACT,101,Canberra,32712,Special Hospital Team 1,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,1
+ACT,101,Canberra,32712,Special Hospital Team 1,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,32712,Special Hospital Team 1,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,32712,Special Hospital Team 1,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,32712,Special Hospital Team 1,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,32712,Special Hospital Team 1,G,25069,0,G Ticket Votes,Sex Party,3
+ACT,101,Canberra,32712,Special Hospital Team 1,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,3
+ACT,101,Canberra,32712,Special Hospital Team 1,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,J,25072,0,J Ticket Votes,Palmer United Party,4
+ACT,101,Canberra,32712,Special Hospital Team 1,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,K,25074,0,K Ticket Votes,Liberal,90
+ACT,101,Canberra,32712,Special Hospital Team 1,K,24925,1,"SESELJA, Zed",Liberal,3
+ACT,101,Canberra,32712,Special Hospital Team 1,K,24928,2,"NASH, Merinda",Liberal,1
+ACT,101,Canberra,32712,Special Hospital Team 1,L,25066,0,L Ticket Votes,Australian Labor Party,88
+ACT,101,Canberra,32712,Special Hospital Team 1,L,23761,1,"LUNDY, Kate",Australian Labor Party,1
+ACT,101,Canberra,32712,Special Hospital Team 1,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,32712,Special Hospital Team 1,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,32712,Special Hospital Team 1,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,32712,Special Hospital Team 1,ZZ,0,99,INFORMAL,,4
+ACT,101,Canberra,46425,Stirling,A,25070,0,A Ticket Votes,Animal Justice Party,6
+ACT,101,Canberra,46425,Stirling,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,4
+ACT,101,Canberra,46425,Stirling,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,46425,Stirling,B,25067,0,B Ticket Votes,Katter's Australian Party,5
+ACT,101,Canberra,46425,Stirling,B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,46425,Stirling,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,46425,Stirling,C,25075,0,C Ticket Votes,Australian Greens,88
+ACT,101,Canberra,46425,Stirling,C,24907,1,"SHEIKH, Simon",Australian Greens,39
+ACT,101,Canberra,46425,Stirling,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,46425,Stirling,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,46425,Stirling,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,46425,Stirling,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,46425,Stirling,E,25065,0,E Ticket Votes,Bullet Train For Australia,7
+ACT,101,Canberra,46425,Stirling,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,10
+ACT,101,Canberra,46425,Stirling,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,46425,Stirling,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,46425,Stirling,F,24919,1,"CUBITT, Paul",Drug Law Reform,1
+ACT,101,Canberra,46425,Stirling,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,46425,Stirling,G,25069,0,G Ticket Votes,Sex Party,20
+ACT,101,Canberra,46425,Stirling,G,24113,1,"AVERY, Deborah",Sex Party,4
+ACT,101,Canberra,46425,Stirling,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,46425,Stirling,H,25073,0,H Ticket Votes,Rise Up Australia Party,1
+ACT,101,Canberra,46425,Stirling,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,46425,Stirling,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,46425,Stirling,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,7
+ACT,101,Canberra,46425,Stirling,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,5
+ACT,101,Canberra,46425,Stirling,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,46425,Stirling,J,25072,0,J Ticket Votes,Palmer United Party,13
+ACT,101,Canberra,46425,Stirling,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,5
+ACT,101,Canberra,46425,Stirling,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,46425,Stirling,K,25074,0,K Ticket Votes,Liberal,282
+ACT,101,Canberra,46425,Stirling,K,24925,1,"SESELJA, Zed",Liberal,20
+ACT,101,Canberra,46425,Stirling,K,24928,2,"NASH, Merinda",Liberal,4
+ACT,101,Canberra,46425,Stirling,L,25066,0,L Ticket Votes,Australian Labor Party,235
+ACT,101,Canberra,46425,Stirling,L,23761,1,"LUNDY, Kate",Australian Labor Party,43
+ACT,101,Canberra,46425,Stirling,L,23765,2,"SANT, Chris",Australian Labor Party,4
+ACT,101,Canberra,46425,Stirling,M,25071,0,M Ticket Votes,Australian Independents,7
+ACT,101,Canberra,46425,Stirling,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,46425,Stirling,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,46425,Stirling,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,46425,Stirling,ZZ,0,99,INFORMAL,,23
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,37
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,6
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,2
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,23
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,10
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,1
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,25075,0,C Ticket Votes,Australian Greens,494
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,273
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,17
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,25064,0,D Ticket Votes,Stable Population Party,8
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,5
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,1
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,73
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,37
+ACT,101,Canberra,58708,City CANBERRA PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,4
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,11
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,9
+ACT,101,Canberra,58708,City CANBERRA PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,25069,0,G Ticket Votes,Sex Party,67
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,24113,1,"AVERY, Deborah",Sex Party,35
+ACT,101,Canberra,58708,City CANBERRA PPVC,G,24117,2,"MILLER, Jamie",Sex Party,2
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,14
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,2
+ACT,101,Canberra,58708,City CANBERRA PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,32
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,28
+ACT,101,Canberra,58708,City CANBERRA PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,25072,0,J Ticket Votes,Palmer United Party,56
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,12
+ACT,101,Canberra,58708,City CANBERRA PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,2
+ACT,101,Canberra,58708,City CANBERRA PPVC,K,25074,0,K Ticket Votes,Liberal,1176
+ACT,101,Canberra,58708,City CANBERRA PPVC,K,24925,1,"SESELJA, Zed",Liberal,103
+ACT,101,Canberra,58708,City CANBERRA PPVC,K,24928,2,"NASH, Merinda",Liberal,21
+ACT,101,Canberra,58708,City CANBERRA PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,1051
+ACT,101,Canberra,58708,City CANBERRA PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,214
+ACT,101,Canberra,58708,City CANBERRA PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,10
+ACT,101,Canberra,58708,City CANBERRA PPVC,M,25071,0,M Ticket Votes,Australian Independents,22
+ACT,101,Canberra,58708,City CANBERRA PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,5
+ACT,101,Canberra,58708,City CANBERRA PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,3
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,9
+ACT,101,Canberra,58708,City CANBERRA PPVC,ZZ,0,99,INFORMAL,,47
+ACT,101,Canberra,58810,Special Hospital Team 2,A,25070,0,A Ticket Votes,Animal Justice Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,C,25075,0,C Ticket Votes,Australian Greens,10
+ACT,101,Canberra,58810,Special Hospital Team 2,C,24907,1,"SHEIKH, Simon",Australian Greens,1
+ACT,101,Canberra,58810,Special Hospital Team 2,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,25065,0,E Ticket Votes,Bullet Train For Australia,1
+ACT,101,Canberra,58810,Special Hospital Team 2,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,58810,Special Hospital Team 2,F,25076,0,F Ticket Votes,Drug Law Reform,2
+ACT,101,Canberra,58810,Special Hospital Team 2,F,24919,1,"CUBITT, Paul",Drug Law Reform,1
+ACT,101,Canberra,58810,Special Hospital Team 2,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,58810,Special Hospital Team 2,G,25069,0,G Ticket Votes,Sex Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,58810,Special Hospital Team 2,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,4
+ACT,101,Canberra,58810,Special Hospital Team 2,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,J,25072,0,J Ticket Votes,Palmer United Party,3
+ACT,101,Canberra,58810,Special Hospital Team 2,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,K,25074,0,K Ticket Votes,Liberal,122
+ACT,101,Canberra,58810,Special Hospital Team 2,K,24925,1,"SESELJA, Zed",Liberal,1
+ACT,101,Canberra,58810,Special Hospital Team 2,K,24928,2,"NASH, Merinda",Liberal,1
+ACT,101,Canberra,58810,Special Hospital Team 2,L,25066,0,L Ticket Votes,Australian Labor Party,88
+ACT,101,Canberra,58810,Special Hospital Team 2,L,23761,1,"LUNDY, Kate",Australian Labor Party,3
+ACT,101,Canberra,58810,Special Hospital Team 2,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,58810,Special Hospital Team 2,M,25071,0,M Ticket Votes,Australian Independents,0
+ACT,101,Canberra,58810,Special Hospital Team 2,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,58810,Special Hospital Team 2,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,58810,Special Hospital Team 2,ZZ,0,99,INFORMAL,,14
+ACT,101,Canberra,58811,Special Hospital Team 3,A,25070,0,A Ticket Votes,Animal Justice Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,25067,0,B Ticket Votes,Katter's Australian Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,25075,0,C Ticket Votes,Australian Greens,12
+ACT,101,Canberra,58811,Special Hospital Team 3,C,24907,1,"SHEIKH, Simon",Australian Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,23291,1,"O'CONNOR, Mark",Stable Population Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,1
+ACT,101,Canberra,58811,Special Hospital Team 3,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,58811,Special Hospital Team 3,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,58811,Special Hospital Team 3,G,25069,0,G Ticket Votes,Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,H,25073,0,H Ticket Votes,Rise Up Australia Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,J,25072,0,J Ticket Votes,Palmer United Party,2
+ACT,101,Canberra,58811,Special Hospital Team 3,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,2
+ACT,101,Canberra,58811,Special Hospital Team 3,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,K,25074,0,K Ticket Votes,Liberal,91
+ACT,101,Canberra,58811,Special Hospital Team 3,K,24925,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,58811,Special Hospital Team 3,K,24928,2,"NASH, Merinda",Liberal,1
+ACT,101,Canberra,58811,Special Hospital Team 3,L,25066,0,L Ticket Votes,Australian Labor Party,61
+ACT,101,Canberra,58811,Special Hospital Team 3,L,23761,1,"LUNDY, Kate",Australian Labor Party,2
+ACT,101,Canberra,58811,Special Hospital Team 3,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,58811,Special Hospital Team 3,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,58811,Special Hospital Team 3,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,58811,Special Hospital Team 3,ZZ,0,99,INFORMAL,,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,9
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,6
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,25075,0,C Ticket Votes,Australian Greens,118
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,55
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,25064,0,D Ticket Votes,Stable Population Party,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,19
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,8
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,25069,0,G Ticket Votes,Sex Party,37
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,24113,1,"AVERY, Deborah",Sex Party,10
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,G,24117,2,"MILLER, Jamie",Sex Party,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,4
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,4
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,11
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,25072,0,J Ticket Votes,Palmer United Party,21
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,K,25074,0,K Ticket Votes,Liberal,240
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,K,24925,1,"SESELJA, Zed",Liberal,31
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,K,24928,2,"NASH, Merinda",Liberal,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,293
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,39
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,1
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,M,25071,0,M Ticket Votes,Australian Independents,6
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,3
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,ZZ,0,99,INFORMAL,,33
+ACT,101,Canberra,65158,Other Mobile Team 1,A,25070,0,A Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,C,25075,0,C Ticket Votes,Australian Greens,1
+ACT,101,Canberra,65158,Other Mobile Team 1,C,24907,1,"SHEIKH, Simon",Australian Greens,0
+ACT,101,Canberra,65158,Other Mobile Team 1,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,65158,Other Mobile Team 1,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,65158,Other Mobile Team 1,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,65158,Other Mobile Team 1,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,65158,Other Mobile Team 1,G,25069,0,G Ticket Votes,Sex Party,4
+ACT,101,Canberra,65158,Other Mobile Team 1,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,J,25072,0,J Ticket Votes,Palmer United Party,2
+ACT,101,Canberra,65158,Other Mobile Team 1,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,K,25074,0,K Ticket Votes,Liberal,1
+ACT,101,Canberra,65158,Other Mobile Team 1,K,24925,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65158,Other Mobile Team 1,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,65158,Other Mobile Team 1,L,25066,0,L Ticket Votes,Australian Labor Party,8
+ACT,101,Canberra,65158,Other Mobile Team 1,L,23761,1,"LUNDY, Kate",Australian Labor Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,65158,Other Mobile Team 1,M,25071,0,M Ticket Votes,Australian Independents,0
+ACT,101,Canberra,65158,Other Mobile Team 1,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,65158,Other Mobile Team 1,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,65158,Other Mobile Team 1,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,65158,Other Mobile Team 1,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,1
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,25075,0,C Ticket Votes,Australian Greens,3
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,25069,0,G Ticket Votes,Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,25072,0,J Ticket Votes,Palmer United Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,K,25074,0,K Ticket Votes,Liberal,7
+ACT,101,Canberra,65504,BLV Canberra PPVC,K,24925,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,7
+ACT,101,Canberra,65504,BLV Canberra PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,M,25071,0,M Ticket Votes,Australian Independents,2
+ACT,101,Canberra,65504,BLV Canberra PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,65504,BLV Canberra PPVC,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,65739,Norfolk Island,A,25070,0,A Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,65739,Norfolk Island,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,65739,Norfolk Island,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65739,Norfolk Island,B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,65739,Norfolk Island,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,65739,Norfolk Island,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,65739,Norfolk Island,C,25075,0,C Ticket Votes,Australian Greens,6
+ACT,101,Canberra,65739,Norfolk Island,C,24907,1,"SHEIKH, Simon",Australian Greens,4
+ACT,101,Canberra,65739,Norfolk Island,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,65739,Norfolk Island,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,65739,Norfolk Island,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,65739,Norfolk Island,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,65739,Norfolk Island,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,65739,Norfolk Island,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,65739,Norfolk Island,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,65739,Norfolk Island,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,65739,Norfolk Island,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,65739,Norfolk Island,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,65739,Norfolk Island,G,25069,0,G Ticket Votes,Sex Party,0
+ACT,101,Canberra,65739,Norfolk Island,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,65739,Norfolk Island,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,65739,Norfolk Island,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65739,Norfolk Island,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,65739,Norfolk Island,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,65739,Norfolk Island,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,1
+ACT,101,Canberra,65739,Norfolk Island,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65739,Norfolk Island,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65739,Norfolk Island,J,25072,0,J Ticket Votes,Palmer United Party,1
+ACT,101,Canberra,65739,Norfolk Island,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,1
+ACT,101,Canberra,65739,Norfolk Island,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,65739,Norfolk Island,K,25074,0,K Ticket Votes,Liberal,30
+ACT,101,Canberra,65739,Norfolk Island,K,24925,1,"SESELJA, Zed",Liberal,2
+ACT,101,Canberra,65739,Norfolk Island,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,65739,Norfolk Island,L,25066,0,L Ticket Votes,Australian Labor Party,34
+ACT,101,Canberra,65739,Norfolk Island,L,23761,1,"LUNDY, Kate",Australian Labor Party,1
+ACT,101,Canberra,65739,Norfolk Island,L,23765,2,"SANT, Chris",Australian Labor Party,1
+ACT,101,Canberra,65739,Norfolk Island,M,25071,0,M Ticket Votes,Australian Independents,1
+ACT,101,Canberra,65739,Norfolk Island,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,65739,Norfolk Island,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,65739,Norfolk Island,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,65739,Norfolk Island,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,65741,Parkes (Canberra),A,25070,0,A Ticket Votes,Animal Justice Party,10
+ACT,101,Canberra,65741,Parkes (Canberra),A,24222,1,"FILLINGER, Marcus",Animal Justice Party,10
+ACT,101,Canberra,65741,Parkes (Canberra),A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),B,25067,0,B Ticket Votes,Katter's Australian Party,2
+ACT,101,Canberra,65741,Parkes (Canberra),B,24114,1,"BAILEY, Steven",Katter's Australian Party,3
+ACT,101,Canberra,65741,Parkes (Canberra),B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),C,25075,0,C Ticket Votes,Australian Greens,220
+ACT,101,Canberra,65741,Parkes (Canberra),C,24907,1,"SHEIKH, Simon",Australian Greens,220
+ACT,101,Canberra,65741,Parkes (Canberra),C,24912,2,"ESGUERRA, Indra",Australian Greens,9
+ACT,101,Canberra,65741,Parkes (Canberra),D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),D,23291,1,"O'CONNOR, Mark",Stable Population Party,6
+ACT,101,Canberra,65741,Parkes (Canberra),D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),E,25065,0,E Ticket Votes,Bullet Train For Australia,15
+ACT,101,Canberra,65741,Parkes (Canberra),E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,29
+ACT,101,Canberra,65741,Parkes (Canberra),E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,2
+ACT,101,Canberra,65741,Parkes (Canberra),F,25076,0,F Ticket Votes,Drug Law Reform,1
+ACT,101,Canberra,65741,Parkes (Canberra),F,24919,1,"CUBITT, Paul",Drug Law Reform,2
+ACT,101,Canberra,65741,Parkes (Canberra),F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,65741,Parkes (Canberra),G,25069,0,G Ticket Votes,Sex Party,24
+ACT,101,Canberra,65741,Parkes (Canberra),G,24113,1,"AVERY, Deborah",Sex Party,10
+ACT,101,Canberra,65741,Parkes (Canberra),G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),H,25073,0,H Ticket Votes,Rise Up Australia Party,2
+ACT,101,Canberra,65741,Parkes (Canberra),H,24700,1,"ROSS, Irwin",Rise Up Australia Party,2
+ACT,101,Canberra,65741,Parkes (Canberra),H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,65741,Parkes (Canberra),I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,1
+ACT,101,Canberra,65741,Parkes (Canberra),I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,18
+ACT,101,Canberra,65741,Parkes (Canberra),I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,4
+ACT,101,Canberra,65741,Parkes (Canberra),J,25072,0,J Ticket Votes,Palmer United Party,8
+ACT,101,Canberra,65741,Parkes (Canberra),J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,1
+ACT,101,Canberra,65741,Parkes (Canberra),J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,1
+ACT,101,Canberra,65741,Parkes (Canberra),K,25074,0,K Ticket Votes,Liberal,296
+ACT,101,Canberra,65741,Parkes (Canberra),K,24925,1,"SESELJA, Zed",Liberal,43
+ACT,101,Canberra,65741,Parkes (Canberra),K,24928,2,"NASH, Merinda",Liberal,12
+ACT,101,Canberra,65741,Parkes (Canberra),L,25066,0,L Ticket Votes,Australian Labor Party,241
+ACT,101,Canberra,65741,Parkes (Canberra),L,23761,1,"LUNDY, Kate",Australian Labor Party,129
+ACT,101,Canberra,65741,Parkes (Canberra),L,23765,2,"SANT, Chris",Australian Labor Party,3
+ACT,101,Canberra,65741,Parkes (Canberra),M,25071,0,M Ticket Votes,Australian Independents,2
+ACT,101,Canberra,65741,Parkes (Canberra),M,24734,1,"FERNIE, Anthony Watson",Australian Independents,2
+ACT,101,Canberra,65741,Parkes (Canberra),M,24736,2,"PETERSEN, Valma",Australian Independents,2
+ACT,101,Canberra,65741,Parkes (Canberra),UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,4
+ACT,101,Canberra,65741,Parkes (Canberra),ZZ,0,99,INFORMAL,,13
+ACT,101,Canberra,65742,Parkes PPVC,A,25070,0,A Ticket Votes,Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,A,24222,1,"FILLINGER, Marcus",Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,A,24225,2,"MONTAGNE, Jessica",Animal Justice Party,0
+ACT,101,Canberra,65742,Parkes PPVC,B,25067,0,B Ticket Votes,Katter's Australian Party,0
+ACT,101,Canberra,65742,Parkes PPVC,B,24114,1,"BAILEY, Steven",Katter's Australian Party,0
+ACT,101,Canberra,65742,Parkes PPVC,B,24120,2,"ARNOLD, Joe",Katter's Australian Party,0
+ACT,101,Canberra,65742,Parkes PPVC,C,25075,0,C Ticket Votes,Australian Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,C,24907,1,"SHEIKH, Simon",Australian Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,C,24912,2,"ESGUERRA, Indra",Australian Greens,0
+ACT,101,Canberra,65742,Parkes PPVC,D,25064,0,D Ticket Votes,Stable Population Party,0
+ACT,101,Canberra,65742,Parkes PPVC,D,23291,1,"O'CONNOR, Mark",Stable Population Party,0
+ACT,101,Canberra,65742,Parkes PPVC,D,23293,2,"GRAHAM, Greg",Stable Population Party,0
+ACT,101,Canberra,65742,Parkes PPVC,E,25065,0,E Ticket Votes,Bullet Train For Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,E,23693,1,"BUCKNELL, Chris",Bullet Train For Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,E,23694,2,"LEMMEY, Michael James",Bullet Train For Australia,0
+ACT,101,Canberra,65742,Parkes PPVC,F,25076,0,F Ticket Votes,Drug Law Reform,0
+ACT,101,Canberra,65742,Parkes PPVC,F,24919,1,"CUBITT, Paul",Drug Law Reform,0
+ACT,101,Canberra,65742,Parkes PPVC,F,24921,2,"DOWSON, Stacey",Drug Law Reform,0
+ACT,101,Canberra,65742,Parkes PPVC,G,25069,0,G Ticket Votes,Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,G,24113,1,"AVERY, Deborah",Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,G,24117,2,"MILLER, Jamie",Sex Party,0
+ACT,101,Canberra,65742,Parkes PPVC,H,25073,0,H Ticket Votes,Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,H,24700,1,"ROSS, Irwin",Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,H,24702,2,"HENRIQUEZ, Jose",Rise Up Australia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,I,25068,0,I Ticket Votes,Voluntary Euthanasia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,I,24125,1,"NITSCHKE, Philip",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,I,24127,2,"MACDOUGALL, Susan",Voluntary Euthanasia Party,0
+ACT,101,Canberra,65742,Parkes PPVC,J,25072,0,J Ticket Votes,Palmer United Party,0
+ACT,101,Canberra,65742,Parkes PPVC,J,24721,1,"SLATTERY, Wayne Kenneth",Palmer United Party,0
+ACT,101,Canberra,65742,Parkes PPVC,J,24725,2,"TEERMAN, Paul Gerard",Palmer United Party,0
+ACT,101,Canberra,65742,Parkes PPVC,K,25074,0,K Ticket Votes,Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,K,24925,1,"SESELJA, Zed",Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,K,24928,2,"NASH, Merinda",Liberal,0
+ACT,101,Canberra,65742,Parkes PPVC,L,25066,0,L Ticket Votes,Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,L,23761,1,"LUNDY, Kate",Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,L,23765,2,"SANT, Chris",Australian Labor Party,0
+ACT,101,Canberra,65742,Parkes PPVC,M,25071,0,M Ticket Votes,Australian Independents,0
+ACT,101,Canberra,65742,Parkes PPVC,M,24734,1,"FERNIE, Anthony Watson",Australian Independents,0
+ACT,101,Canberra,65742,Parkes PPVC,M,24736,2,"PETERSEN, Valma",Australian Independents,0
+ACT,101,Canberra,65742,Parkes PPVC,UG,24665,1,"EZEKIEL-HART, Emmanuel",Independent,0
+ACT,101,Canberra,65742,Parkes PPVC,ZZ,0,99,INFORMAL,,0

@@ -95,9 +95,22 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             'Group'], election=election)
         candidate.group = group
         candidate.save()
-        '''
-        vote_tally, _ = models.VoteTally.objects.get_or_create(
-            booth=booth, election=election,
+        try:
+            party, _ = models.Party.objects.get_or_create(name=row[
+                aec_codes.StringCode.PARTY_NAME_HEADER])
+        except models.Party.MultipleObjectsReturned:
+            shortest = models.Party._meta.get_field('abbreviation').max_length
+            for faction in models.Party.objects.filter(name=row[
+                    aec_codes.StringCode.PARTY_NAME_HEADER]):
+                abbreviation_length = len(faction.abbreviation)
+                if abbreviation_length > 0:
+                    if abbreviation_length < shortest:
+                        shortest = abbreviation_length
+                        party = faction
+        selection, _ = models.Selection.objects.get_or_create(
+            person=candidate.person, party=party, election=election)
+        vote_stack, _ = models.VoteStack.objects.get_or_create(
+            floor=floor, election=election, lighthouse=lighthouse,
             candidate=candidate,
+            state=row[aec_codes.StringCode.STATE_ABBREVIATION_HEADER].lower(),
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
-        '''

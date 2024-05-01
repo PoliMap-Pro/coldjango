@@ -1,0 +1,660 @@
+2010 Federal Election Senate First Preferences By Polling Place for Division 101 [Event:15508 Phase:FinalResults Generated:2013-01-22T15:03:00 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+ACT,101,Canberra,8761,Chapman,A,22049,0,A Ticket Votes,Australian Labor Party,845
+ACT,101,Canberra,8761,Chapman,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,240
+ACT,101,Canberra,8761,Chapman,A,21072,2,"MATHEWS, David",Australian Labor Party,15
+ACT,101,Canberra,8761,Chapman,B,22050,0,B Ticket Votes,Australian Democrats,17
+ACT,101,Canberra,8761,Chapman,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,17
+ACT,101,Canberra,8761,Chapman,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8761,Chapman,C,22048,0,C Ticket Votes,The Greens,378
+ACT,101,Canberra,8761,Chapman,C,20838,1,"HATFIELD DODDS, Lin",The Greens,275
+ACT,101,Canberra,8761,Chapman,C,20840,2,"PARRIS, Hannah",The Greens,22
+ACT,101,Canberra,8761,Chapman,D,22047,0,D Ticket Votes,Liberal,842
+ACT,101,Canberra,8761,Chapman,D,20813,1,"HUMPHRIES, Gary",Liberal,201
+ACT,101,Canberra,8761,Chapman,D,20814,2,"WATTS, Matthew",Liberal,15
+ACT,101,Canberra,8761,Chapman,UG,21966,1,"GLYNN, John",Independent,32
+ACT,101,Canberra,8761,Chapman,ZZ,0,99,INFORMAL,,63
+ACT,101,Canberra,8763,Chisholm,A,22049,0,A Ticket Votes,Australian Labor Party,719
+ACT,101,Canberra,8763,Chisholm,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,107
+ACT,101,Canberra,8763,Chisholm,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8763,Chisholm,B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,101,Canberra,8763,Chisholm,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,7
+ACT,101,Canberra,8763,Chisholm,B,21760,2,"DAVID, Anthony John",Australian Democrats,5
+ACT,101,Canberra,8763,Chisholm,C,22048,0,C Ticket Votes,The Greens,201
+ACT,101,Canberra,8763,Chisholm,C,20838,1,"HATFIELD DODDS, Lin",The Greens,79
+ACT,101,Canberra,8763,Chisholm,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,101,Canberra,8763,Chisholm,D,22047,0,D Ticket Votes,Liberal,562
+ACT,101,Canberra,8763,Chisholm,D,20813,1,"HUMPHRIES, Gary",Liberal,93
+ACT,101,Canberra,8763,Chisholm,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,101,Canberra,8763,Chisholm,UG,21966,1,"GLYNN, John",Independent,29
+ACT,101,Canberra,8763,Chisholm,ZZ,0,99,INFORMAL,,69
+ACT,101,Canberra,8764,Curtin,A,22049,0,A Ticket Votes,Australian Labor Party,848
+ACT,101,Canberra,8764,Curtin,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,211
+ACT,101,Canberra,8764,Curtin,A,21072,2,"MATHEWS, David",Australian Labor Party,15
+ACT,101,Canberra,8764,Curtin,B,22050,0,B Ticket Votes,Australian Democrats,24
+ACT,101,Canberra,8764,Curtin,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,21
+ACT,101,Canberra,8764,Curtin,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8764,Curtin,C,22048,0,C Ticket Votes,The Greens,467
+ACT,101,Canberra,8764,Curtin,C,20838,1,"HATFIELD DODDS, Lin",The Greens,359
+ACT,101,Canberra,8764,Curtin,C,20840,2,"PARRIS, Hannah",The Greens,30
+ACT,101,Canberra,8764,Curtin,D,22047,0,D Ticket Votes,Liberal,790
+ACT,101,Canberra,8764,Curtin,D,20813,1,"HUMPHRIES, Gary",Liberal,182
+ACT,101,Canberra,8764,Curtin,D,20814,2,"WATTS, Matthew",Liberal,12
+ACT,101,Canberra,8764,Curtin,UG,21966,1,"GLYNN, John",Independent,44
+ACT,101,Canberra,8764,Curtin,ZZ,0,99,INFORMAL,,53
+ACT,101,Canberra,8766,Deakin,A,22049,0,A Ticket Votes,Australian Labor Party,211
+ACT,101,Canberra,8766,Deakin,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,87
+ACT,101,Canberra,8766,Deakin,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8766,Deakin,B,22050,0,B Ticket Votes,Australian Democrats,6
+ACT,101,Canberra,8766,Deakin,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,8
+ACT,101,Canberra,8766,Deakin,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8766,Deakin,C,22048,0,C Ticket Votes,The Greens,383
+ACT,101,Canberra,8766,Deakin,C,20838,1,"HATFIELD DODDS, Lin",The Greens,147
+ACT,101,Canberra,8766,Deakin,C,20840,2,"PARRIS, Hannah",The Greens,10
+ACT,101,Canberra,8766,Deakin,D,22047,0,D Ticket Votes,Liberal,750
+ACT,101,Canberra,8766,Deakin,D,20813,1,"HUMPHRIES, Gary",Liberal,92
+ACT,101,Canberra,8766,Deakin,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,101,Canberra,8766,Deakin,UG,21966,1,"GLYNN, John",Independent,9
+ACT,101,Canberra,8766,Deakin,ZZ,0,99,INFORMAL,,26
+ACT,101,Canberra,8767,Duffy,A,22049,0,A Ticket Votes,Australian Labor Party,649
+ACT,101,Canberra,8767,Duffy,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,177
+ACT,101,Canberra,8767,Duffy,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8767,Duffy,B,22050,0,B Ticket Votes,Australian Democrats,14
+ACT,101,Canberra,8767,Duffy,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,101,Canberra,8767,Duffy,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8767,Duffy,C,22048,0,C Ticket Votes,The Greens,279
+ACT,101,Canberra,8767,Duffy,C,20838,1,"HATFIELD DODDS, Lin",The Greens,226
+ACT,101,Canberra,8767,Duffy,C,20840,2,"PARRIS, Hannah",The Greens,21
+ACT,101,Canberra,8767,Duffy,D,22047,0,D Ticket Votes,Liberal,501
+ACT,101,Canberra,8767,Duffy,D,20813,1,"HUMPHRIES, Gary",Liberal,112
+ACT,101,Canberra,8767,Duffy,D,20814,2,"WATTS, Matthew",Liberal,4
+ACT,101,Canberra,8767,Duffy,UG,21966,1,"GLYNN, John",Independent,32
+ACT,101,Canberra,8767,Duffy,ZZ,0,99,INFORMAL,,53
+ACT,101,Canberra,8768,Fadden,A,22049,0,A Ticket Votes,Australian Labor Party,750
+ACT,101,Canberra,8768,Fadden,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,170
+ACT,101,Canberra,8768,Fadden,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8768,Fadden,B,22050,0,B Ticket Votes,Australian Democrats,15
+ACT,101,Canberra,8768,Fadden,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,101,Canberra,8768,Fadden,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8768,Fadden,C,22048,0,C Ticket Votes,The Greens,259
+ACT,101,Canberra,8768,Fadden,C,20838,1,"HATFIELD DODDS, Lin",The Greens,150
+ACT,101,Canberra,8768,Fadden,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,101,Canberra,8768,Fadden,D,22047,0,D Ticket Votes,Liberal,811
+ACT,101,Canberra,8768,Fadden,D,20813,1,"HUMPHRIES, Gary",Liberal,154
+ACT,101,Canberra,8768,Fadden,D,20814,2,"WATTS, Matthew",Liberal,13
+ACT,101,Canberra,8768,Fadden,UG,21966,1,"GLYNN, John",Independent,26
+ACT,101,Canberra,8768,Fadden,ZZ,0,99,INFORMAL,,43
+ACT,101,Canberra,8769,Farrer,A,22049,0,A Ticket Votes,Australian Labor Party,783
+ACT,101,Canberra,8769,Farrer,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,181
+ACT,101,Canberra,8769,Farrer,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8769,Farrer,B,22050,0,B Ticket Votes,Australian Democrats,18
+ACT,101,Canberra,8769,Farrer,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,101,Canberra,8769,Farrer,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8769,Farrer,C,22048,0,C Ticket Votes,The Greens,333
+ACT,101,Canberra,8769,Farrer,C,20838,1,"HATFIELD DODDS, Lin",The Greens,207
+ACT,101,Canberra,8769,Farrer,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,101,Canberra,8769,Farrer,D,22047,0,D Ticket Votes,Liberal,997
+ACT,101,Canberra,8769,Farrer,D,20813,1,"HUMPHRIES, Gary",Liberal,182
+ACT,101,Canberra,8769,Farrer,D,20814,2,"WATTS, Matthew",Liberal,5
+ACT,101,Canberra,8769,Farrer,UG,21966,1,"GLYNN, John",Independent,73
+ACT,101,Canberra,8769,Farrer,ZZ,0,99,INFORMAL,,65
+ACT,101,Canberra,8771,Gilmore,A,22049,0,A Ticket Votes,Australian Labor Party,856
+ACT,101,Canberra,8771,Gilmore,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,145
+ACT,101,Canberra,8771,Gilmore,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8771,Gilmore,B,22050,0,B Ticket Votes,Australian Democrats,36
+ACT,101,Canberra,8771,Gilmore,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,101,Canberra,8771,Gilmore,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8771,Gilmore,C,22048,0,C Ticket Votes,The Greens,226
+ACT,101,Canberra,8771,Gilmore,C,20838,1,"HATFIELD DODDS, Lin",The Greens,93
+ACT,101,Canberra,8771,Gilmore,C,20840,2,"PARRIS, Hannah",The Greens,5
+ACT,101,Canberra,8771,Gilmore,D,22047,0,D Ticket Votes,Liberal,694
+ACT,101,Canberra,8771,Gilmore,D,20813,1,"HUMPHRIES, Gary",Liberal,122
+ACT,101,Canberra,8771,Gilmore,D,20814,2,"WATTS, Matthew",Liberal,8
+ACT,101,Canberra,8771,Gilmore,UG,21966,1,"GLYNN, John",Independent,28
+ACT,101,Canberra,8771,Gilmore,ZZ,0,99,INFORMAL,,74
+ACT,101,Canberra,8772,Gowrie,A,22049,0,A Ticket Votes,Australian Labor Party,707
+ACT,101,Canberra,8772,Gowrie,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,136
+ACT,101,Canberra,8772,Gowrie,A,21072,2,"MATHEWS, David",Australian Labor Party,16
+ACT,101,Canberra,8772,Gowrie,B,22050,0,B Ticket Votes,Australian Democrats,22
+ACT,101,Canberra,8772,Gowrie,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,101,Canberra,8772,Gowrie,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8772,Gowrie,C,22048,0,C Ticket Votes,The Greens,269
+ACT,101,Canberra,8772,Gowrie,C,20838,1,"HATFIELD DODDS, Lin",The Greens,127
+ACT,101,Canberra,8772,Gowrie,C,20840,2,"PARRIS, Hannah",The Greens,15
+ACT,101,Canberra,8772,Gowrie,D,22047,0,D Ticket Votes,Liberal,644
+ACT,101,Canberra,8772,Gowrie,D,20813,1,"HUMPHRIES, Gary",Liberal,107
+ACT,101,Canberra,8772,Gowrie,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,101,Canberra,8772,Gowrie,UG,21966,1,"GLYNN, John",Independent,14
+ACT,101,Canberra,8772,Gowrie,ZZ,0,99,INFORMAL,,76
+ACT,101,Canberra,8773,Holder,A,22049,0,A Ticket Votes,Australian Labor Party,614
+ACT,101,Canberra,8773,Holder,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,150
+ACT,101,Canberra,8773,Holder,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8773,Holder,B,22050,0,B Ticket Votes,Australian Democrats,23
+ACT,101,Canberra,8773,Holder,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,101,Canberra,8773,Holder,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,101,Canberra,8773,Holder,C,22048,0,C Ticket Votes,The Greens,240
+ACT,101,Canberra,8773,Holder,C,20838,1,"HATFIELD DODDS, Lin",The Greens,166
+ACT,101,Canberra,8773,Holder,C,20840,2,"PARRIS, Hannah",The Greens,12
+ACT,101,Canberra,8773,Holder,D,22047,0,D Ticket Votes,Liberal,547
+ACT,101,Canberra,8773,Holder,D,20813,1,"HUMPHRIES, Gary",Liberal,117
+ACT,101,Canberra,8773,Holder,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8773,Holder,UG,21966,1,"GLYNN, John",Independent,28
+ACT,101,Canberra,8773,Holder,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8774,Hughes,A,22049,0,A Ticket Votes,Australian Labor Party,771
+ACT,101,Canberra,8774,Hughes,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,202
+ACT,101,Canberra,8774,Hughes,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8774,Hughes,B,22050,0,B Ticket Votes,Australian Democrats,24
+ACT,101,Canberra,8774,Hughes,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,20
+ACT,101,Canberra,8774,Hughes,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8774,Hughes,C,22048,0,C Ticket Votes,The Greens,425
+ACT,101,Canberra,8774,Hughes,C,20838,1,"HATFIELD DODDS, Lin",The Greens,299
+ACT,101,Canberra,8774,Hughes,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,101,Canberra,8774,Hughes,D,22047,0,D Ticket Votes,Liberal,875
+ACT,101,Canberra,8774,Hughes,D,20813,1,"HUMPHRIES, Gary",Liberal,148
+ACT,101,Canberra,8774,Hughes,D,20814,2,"WATTS, Matthew",Liberal,5
+ACT,101,Canberra,8774,Hughes,UG,21966,1,"GLYNN, John",Independent,22
+ACT,101,Canberra,8774,Hughes,ZZ,0,99,INFORMAL,,54
+ACT,101,Canberra,8776,Kambah North,A,22049,0,A Ticket Votes,Australian Labor Party,856
+ACT,101,Canberra,8776,Kambah North,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,197
+ACT,101,Canberra,8776,Kambah North,A,21072,2,"MATHEWS, David",Australian Labor Party,19
+ACT,101,Canberra,8776,Kambah North,B,22050,0,B Ticket Votes,Australian Democrats,36
+ACT,101,Canberra,8776,Kambah North,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,101,Canberra,8776,Kambah North,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8776,Kambah North,C,22048,0,C Ticket Votes,The Greens,284
+ACT,101,Canberra,8776,Kambah North,C,20838,1,"HATFIELD DODDS, Lin",The Greens,175
+ACT,101,Canberra,8776,Kambah North,C,20840,2,"PARRIS, Hannah",The Greens,20
+ACT,101,Canberra,8776,Kambah North,D,22047,0,D Ticket Votes,Liberal,714
+ACT,101,Canberra,8776,Kambah North,D,20813,1,"HUMPHRIES, Gary",Liberal,133
+ACT,101,Canberra,8776,Kambah North,D,20814,2,"WATTS, Matthew",Liberal,9
+ACT,101,Canberra,8776,Kambah North,UG,21966,1,"GLYNN, John",Independent,42
+ACT,101,Canberra,8776,Kambah North,ZZ,0,99,INFORMAL,,62
+ACT,101,Canberra,8777,Kambah South,A,22049,0,A Ticket Votes,Australian Labor Party,738
+ACT,101,Canberra,8777,Kambah South,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,159
+ACT,101,Canberra,8777,Kambah South,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8777,Kambah South,B,22050,0,B Ticket Votes,Australian Democrats,15
+ACT,101,Canberra,8777,Kambah South,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,11
+ACT,101,Canberra,8777,Kambah South,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8777,Kambah South,C,22048,0,C Ticket Votes,The Greens,281
+ACT,101,Canberra,8777,Kambah South,C,20838,1,"HATFIELD DODDS, Lin",The Greens,148
+ACT,101,Canberra,8777,Kambah South,C,20840,2,"PARRIS, Hannah",The Greens,17
+ACT,101,Canberra,8777,Kambah South,D,22047,0,D Ticket Votes,Liberal,499
+ACT,101,Canberra,8777,Kambah South,D,20813,1,"HUMPHRIES, Gary",Liberal,91
+ACT,101,Canberra,8777,Kambah South,D,20814,2,"WATTS, Matthew",Liberal,11
+ACT,101,Canberra,8777,Kambah South,UG,21966,1,"GLYNN, John",Independent,34
+ACT,101,Canberra,8777,Kambah South,ZZ,0,99,INFORMAL,,62
+ACT,101,Canberra,8778,Kambah West,A,22049,0,A Ticket Votes,Australian Labor Party,1030
+ACT,101,Canberra,8778,Kambah West,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,212
+ACT,101,Canberra,8778,Kambah West,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,101,Canberra,8778,Kambah West,B,22050,0,B Ticket Votes,Australian Democrats,24
+ACT,101,Canberra,8778,Kambah West,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,17
+ACT,101,Canberra,8778,Kambah West,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8778,Kambah West,C,22048,0,C Ticket Votes,The Greens,367
+ACT,101,Canberra,8778,Kambah West,C,20838,1,"HATFIELD DODDS, Lin",The Greens,206
+ACT,101,Canberra,8778,Kambah West,C,20840,2,"PARRIS, Hannah",The Greens,22
+ACT,101,Canberra,8778,Kambah West,D,22047,0,D Ticket Votes,Liberal,780
+ACT,101,Canberra,8778,Kambah West,D,20813,1,"HUMPHRIES, Gary",Liberal,164
+ACT,101,Canberra,8778,Kambah West,D,20814,2,"WATTS, Matthew",Liberal,5
+ACT,101,Canberra,8778,Kambah West,UG,21966,1,"GLYNN, John",Independent,33
+ACT,101,Canberra,8778,Kambah West,ZZ,0,99,INFORMAL,,81
+ACT,101,Canberra,8779,Lyons,A,22049,0,A Ticket Votes,Australian Labor Party,531
+ACT,101,Canberra,8779,Lyons,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,109
+ACT,101,Canberra,8779,Lyons,A,21072,2,"MATHEWS, David",Australian Labor Party,14
+ACT,101,Canberra,8779,Lyons,B,22050,0,B Ticket Votes,Australian Democrats,17
+ACT,101,Canberra,8779,Lyons,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,16
+ACT,101,Canberra,8779,Lyons,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8779,Lyons,C,22048,0,C Ticket Votes,The Greens,248
+ACT,101,Canberra,8779,Lyons,C,20838,1,"HATFIELD DODDS, Lin",The Greens,132
+ACT,101,Canberra,8779,Lyons,C,20840,2,"PARRIS, Hannah",The Greens,18
+ACT,101,Canberra,8779,Lyons,D,22047,0,D Ticket Votes,Liberal,368
+ACT,101,Canberra,8779,Lyons,D,20813,1,"HUMPHRIES, Gary",Liberal,54
+ACT,101,Canberra,8779,Lyons,D,20814,2,"WATTS, Matthew",Liberal,2
+ACT,101,Canberra,8779,Lyons,UG,21966,1,"GLYNN, John",Independent,18
+ACT,101,Canberra,8779,Lyons,ZZ,0,99,INFORMAL,,54
+ACT,101,Canberra,8780,Mawson,A,22049,0,A Ticket Votes,Australian Labor Party,774
+ACT,101,Canberra,8780,Mawson,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,186
+ACT,101,Canberra,8780,Mawson,A,21072,2,"MATHEWS, David",Australian Labor Party,10
+ACT,101,Canberra,8780,Mawson,B,22050,0,B Ticket Votes,Australian Democrats,23
+ACT,101,Canberra,8780,Mawson,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,101,Canberra,8780,Mawson,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8780,Mawson,C,22048,0,C Ticket Votes,The Greens,340
+ACT,101,Canberra,8780,Mawson,C,20838,1,"HATFIELD DODDS, Lin",The Greens,207
+ACT,101,Canberra,8780,Mawson,C,20840,2,"PARRIS, Hannah",The Greens,10
+ACT,101,Canberra,8780,Mawson,D,22047,0,D Ticket Votes,Liberal,871
+ACT,101,Canberra,8780,Mawson,D,20813,1,"HUMPHRIES, Gary",Liberal,122
+ACT,101,Canberra,8780,Mawson,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,101,Canberra,8780,Mawson,UG,21966,1,"GLYNN, John",Independent,27
+ACT,101,Canberra,8780,Mawson,ZZ,0,99,INFORMAL,,69
+ACT,101,Canberra,8781,Monash,A,22049,0,A Ticket Votes,Australian Labor Party,1142
+ACT,101,Canberra,8781,Monash,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,178
+ACT,101,Canberra,8781,Monash,A,21072,2,"MATHEWS, David",Australian Labor Party,17
+ACT,101,Canberra,8781,Monash,B,22050,0,B Ticket Votes,Australian Democrats,25
+ACT,101,Canberra,8781,Monash,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,14
+ACT,101,Canberra,8781,Monash,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8781,Monash,C,22048,0,C Ticket Votes,The Greens,341
+ACT,101,Canberra,8781,Monash,C,20838,1,"HATFIELD DODDS, Lin",The Greens,154
+ACT,101,Canberra,8781,Monash,C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,101,Canberra,8781,Monash,D,22047,0,D Ticket Votes,Liberal,942
+ACT,101,Canberra,8781,Monash,D,20813,1,"HUMPHRIES, Gary",Liberal,145
+ACT,101,Canberra,8781,Monash,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8781,Monash,UG,21966,1,"GLYNN, John",Independent,27
+ACT,101,Canberra,8781,Monash,ZZ,0,99,INFORMAL,,102
+ACT,101,Canberra,8782,Narrabundah,A,22049,0,A Ticket Votes,Australian Labor Party,766
+ACT,101,Canberra,8782,Narrabundah,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,150
+ACT,101,Canberra,8782,Narrabundah,A,21072,2,"MATHEWS, David",Australian Labor Party,19
+ACT,101,Canberra,8782,Narrabundah,B,22050,0,B Ticket Votes,Australian Democrats,24
+ACT,101,Canberra,8782,Narrabundah,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,101,Canberra,8782,Narrabundah,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8782,Narrabundah,C,22048,0,C Ticket Votes,The Greens,331
+ACT,101,Canberra,8782,Narrabundah,C,20838,1,"HATFIELD DODDS, Lin",The Greens,191
+ACT,101,Canberra,8782,Narrabundah,C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,101,Canberra,8782,Narrabundah,D,22047,0,D Ticket Votes,Liberal,481
+ACT,101,Canberra,8782,Narrabundah,D,20813,1,"HUMPHRIES, Gary",Liberal,88
+ACT,101,Canberra,8782,Narrabundah,D,20814,2,"WATTS, Matthew",Liberal,4
+ACT,101,Canberra,8782,Narrabundah,UG,21966,1,"GLYNN, John",Independent,21
+ACT,101,Canberra,8782,Narrabundah,ZZ,0,99,INFORMAL,,99
+ACT,101,Canberra,8783,Oaks Estate,A,22049,0,A Ticket Votes,Australian Labor Party,51
+ACT,101,Canberra,8783,Oaks Estate,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,10
+ACT,101,Canberra,8783,Oaks Estate,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,101,Canberra,8783,Oaks Estate,B,22050,0,B Ticket Votes,Australian Democrats,3
+ACT,101,Canberra,8783,Oaks Estate,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,8783,Oaks Estate,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,8783,Oaks Estate,C,22048,0,C Ticket Votes,The Greens,29
+ACT,101,Canberra,8783,Oaks Estate,C,20838,1,"HATFIELD DODDS, Lin",The Greens,19
+ACT,101,Canberra,8783,Oaks Estate,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,101,Canberra,8783,Oaks Estate,D,22047,0,D Ticket Votes,Liberal,29
+ACT,101,Canberra,8783,Oaks Estate,D,20813,1,"HUMPHRIES, Gary",Liberal,4
+ACT,101,Canberra,8783,Oaks Estate,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,101,Canberra,8783,Oaks Estate,UG,21966,1,"GLYNN, John",Independent,3
+ACT,101,Canberra,8783,Oaks Estate,ZZ,0,99,INFORMAL,,7
+ACT,101,Canberra,8784,Pearce,A,22049,0,A Ticket Votes,Australian Labor Party,1018
+ACT,101,Canberra,8784,Pearce,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,229
+ACT,101,Canberra,8784,Pearce,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8784,Pearce,B,22050,0,B Ticket Votes,Australian Democrats,22
+ACT,101,Canberra,8784,Pearce,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,101,Canberra,8784,Pearce,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8784,Pearce,C,22048,0,C Ticket Votes,The Greens,455
+ACT,101,Canberra,8784,Pearce,C,20838,1,"HATFIELD DODDS, Lin",The Greens,244
+ACT,101,Canberra,8784,Pearce,C,20840,2,"PARRIS, Hannah",The Greens,15
+ACT,101,Canberra,8784,Pearce,D,22047,0,D Ticket Votes,Liberal,893
+ACT,101,Canberra,8784,Pearce,D,20813,1,"HUMPHRIES, Gary",Liberal,178
+ACT,101,Canberra,8784,Pearce,D,20814,2,"WATTS, Matthew",Liberal,5
+ACT,101,Canberra,8784,Pearce,UG,21966,1,"GLYNN, John",Independent,38
+ACT,101,Canberra,8784,Pearce,ZZ,0,99,INFORMAL,,87
+ACT,101,Canberra,8785,Red Hill,A,22049,0,A Ticket Votes,Australian Labor Party,600
+ACT,101,Canberra,8785,Red Hill,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,119
+ACT,101,Canberra,8785,Red Hill,A,21072,2,"MATHEWS, David",Australian Labor Party,7
+ACT,101,Canberra,8785,Red Hill,B,22050,0,B Ticket Votes,Australian Democrats,13
+ACT,101,Canberra,8785,Red Hill,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,101,Canberra,8785,Red Hill,B,21760,2,"DAVID, Anthony John",Australian Democrats,4
+ACT,101,Canberra,8785,Red Hill,C,22048,0,C Ticket Votes,The Greens,341
+ACT,101,Canberra,8785,Red Hill,C,20838,1,"HATFIELD DODDS, Lin",The Greens,217
+ACT,101,Canberra,8785,Red Hill,C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,101,Canberra,8785,Red Hill,D,22047,0,D Ticket Votes,Liberal,786
+ACT,101,Canberra,8785,Red Hill,D,20813,1,"HUMPHRIES, Gary",Liberal,125
+ACT,101,Canberra,8785,Red Hill,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8785,Red Hill,UG,21966,1,"GLYNN, John",Independent,17
+ACT,101,Canberra,8785,Red Hill,ZZ,0,99,INFORMAL,,44
+ACT,101,Canberra,8786,Richardson,A,22049,0,A Ticket Votes,Australian Labor Party,798
+ACT,101,Canberra,8786,Richardson,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,105
+ACT,101,Canberra,8786,Richardson,A,21072,2,"MATHEWS, David",Australian Labor Party,6
+ACT,101,Canberra,8786,Richardson,B,22050,0,B Ticket Votes,Australian Democrats,25
+ACT,101,Canberra,8786,Richardson,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,3
+ACT,101,Canberra,8786,Richardson,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8786,Richardson,C,22048,0,C Ticket Votes,The Greens,146
+ACT,101,Canberra,8786,Richardson,C,20838,1,"HATFIELD DODDS, Lin",The Greens,56
+ACT,101,Canberra,8786,Richardson,C,20840,2,"PARRIS, Hannah",The Greens,16
+ACT,101,Canberra,8786,Richardson,D,22047,0,D Ticket Votes,Liberal,518
+ACT,101,Canberra,8786,Richardson,D,20813,1,"HUMPHRIES, Gary",Liberal,90
+ACT,101,Canberra,8786,Richardson,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8786,Richardson,UG,21966,1,"GLYNN, John",Independent,17
+ACT,101,Canberra,8786,Richardson,ZZ,0,99,INFORMAL,,80
+ACT,101,Canberra,8788,Tharwa,A,22049,0,A Ticket Votes,Australian Labor Party,27
+ACT,101,Canberra,8788,Tharwa,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,10
+ACT,101,Canberra,8788,Tharwa,A,21072,2,"MATHEWS, David",Australian Labor Party,2
+ACT,101,Canberra,8788,Tharwa,B,22050,0,B Ticket Votes,Australian Democrats,1
+ACT,101,Canberra,8788,Tharwa,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,8788,Tharwa,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,8788,Tharwa,C,22048,0,C Ticket Votes,The Greens,15
+ACT,101,Canberra,8788,Tharwa,C,20838,1,"HATFIELD DODDS, Lin",The Greens,10
+ACT,101,Canberra,8788,Tharwa,C,20840,2,"PARRIS, Hannah",The Greens,2
+ACT,101,Canberra,8788,Tharwa,D,22047,0,D Ticket Votes,Liberal,48
+ACT,101,Canberra,8788,Tharwa,D,20813,1,"HUMPHRIES, Gary",Liberal,8
+ACT,101,Canberra,8788,Tharwa,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,101,Canberra,8788,Tharwa,UG,21966,1,"GLYNN, John",Independent,3
+ACT,101,Canberra,8788,Tharwa,ZZ,0,99,INFORMAL,,4
+ACT,101,Canberra,8790,Wanniassa,A,22049,0,A Ticket Votes,Australian Labor Party,1024
+ACT,101,Canberra,8790,Wanniassa,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,214
+ACT,101,Canberra,8790,Wanniassa,A,21072,2,"MATHEWS, David",Australian Labor Party,16
+ACT,101,Canberra,8790,Wanniassa,B,22050,0,B Ticket Votes,Australian Democrats,28
+ACT,101,Canberra,8790,Wanniassa,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,101,Canberra,8790,Wanniassa,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,101,Canberra,8790,Wanniassa,C,22048,0,C Ticket Votes,The Greens,282
+ACT,101,Canberra,8790,Wanniassa,C,20838,1,"HATFIELD DODDS, Lin",The Greens,183
+ACT,101,Canberra,8790,Wanniassa,C,20840,2,"PARRIS, Hannah",The Greens,18
+ACT,101,Canberra,8790,Wanniassa,D,22047,0,D Ticket Votes,Liberal,666
+ACT,101,Canberra,8790,Wanniassa,D,20813,1,"HUMPHRIES, Gary",Liberal,138
+ACT,101,Canberra,8790,Wanniassa,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8790,Wanniassa,UG,21966,1,"GLYNN, John",Independent,38
+ACT,101,Canberra,8790,Wanniassa,ZZ,0,99,INFORMAL,,107
+ACT,101,Canberra,8791,Wanniassa Hills,A,22049,0,A Ticket Votes,Australian Labor Party,878
+ACT,101,Canberra,8791,Wanniassa Hills,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,196
+ACT,101,Canberra,8791,Wanniassa Hills,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,8791,Wanniassa Hills,B,22050,0,B Ticket Votes,Australian Democrats,21
+ACT,101,Canberra,8791,Wanniassa Hills,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,101,Canberra,8791,Wanniassa Hills,B,21760,2,"DAVID, Anthony John",Australian Democrats,9
+ACT,101,Canberra,8791,Wanniassa Hills,C,22048,0,C Ticket Votes,The Greens,311
+ACT,101,Canberra,8791,Wanniassa Hills,C,20838,1,"HATFIELD DODDS, Lin",The Greens,200
+ACT,101,Canberra,8791,Wanniassa Hills,C,20840,2,"PARRIS, Hannah",The Greens,28
+ACT,101,Canberra,8791,Wanniassa Hills,D,22047,0,D Ticket Votes,Liberal,692
+ACT,101,Canberra,8791,Wanniassa Hills,D,20813,1,"HUMPHRIES, Gary",Liberal,118
+ACT,101,Canberra,8791,Wanniassa Hills,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,101,Canberra,8791,Wanniassa Hills,UG,21966,1,"GLYNN, John",Independent,42
+ACT,101,Canberra,8791,Wanniassa Hills,ZZ,0,99,INFORMAL,,52
+ACT,101,Canberra,8792,Waramanga,A,22049,0,A Ticket Votes,Australian Labor Party,935
+ACT,101,Canberra,8792,Waramanga,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,255
+ACT,101,Canberra,8792,Waramanga,A,21072,2,"MATHEWS, David",Australian Labor Party,23
+ACT,101,Canberra,8792,Waramanga,B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,101,Canberra,8792,Waramanga,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,16
+ACT,101,Canberra,8792,Waramanga,B,21760,2,"DAVID, Anthony John",Australian Democrats,6
+ACT,101,Canberra,8792,Waramanga,C,22048,0,C Ticket Votes,The Greens,362
+ACT,101,Canberra,8792,Waramanga,C,20838,1,"HATFIELD DODDS, Lin",The Greens,262
+ACT,101,Canberra,8792,Waramanga,C,20840,2,"PARRIS, Hannah",The Greens,24
+ACT,101,Canberra,8792,Waramanga,D,22047,0,D Ticket Votes,Liberal,738
+ACT,101,Canberra,8792,Waramanga,D,20813,1,"HUMPHRIES, Gary",Liberal,139
+ACT,101,Canberra,8792,Waramanga,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,101,Canberra,8792,Waramanga,UG,21966,1,"GLYNN, John",Independent,27
+ACT,101,Canberra,8792,Waramanga,ZZ,0,99,INFORMAL,,80
+ACT,101,Canberra,8793,Weston,A,22049,0,A Ticket Votes,Australian Labor Party,462
+ACT,101,Canberra,8793,Weston,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,106
+ACT,101,Canberra,8793,Weston,A,21072,2,"MATHEWS, David",Australian Labor Party,6
+ACT,101,Canberra,8793,Weston,B,22050,0,B Ticket Votes,Australian Democrats,11
+ACT,101,Canberra,8793,Weston,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,101,Canberra,8793,Weston,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8793,Weston,C,22048,0,C Ticket Votes,The Greens,225
+ACT,101,Canberra,8793,Weston,C,20838,1,"HATFIELD DODDS, Lin",The Greens,160
+ACT,101,Canberra,8793,Weston,C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,101,Canberra,8793,Weston,D,22047,0,D Ticket Votes,Liberal,383
+ACT,101,Canberra,8793,Weston,D,20813,1,"HUMPHRIES, Gary",Liberal,94
+ACT,101,Canberra,8793,Weston,D,20814,2,"WATTS, Matthew",Liberal,7
+ACT,101,Canberra,8793,Weston,UG,21966,1,"GLYNN, John",Independent,15
+ACT,101,Canberra,8793,Weston,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,8794,Canberra Hospital,A,22049,0,A Ticket Votes,Australian Labor Party,300
+ACT,101,Canberra,8794,Canberra Hospital,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,59
+ACT,101,Canberra,8794,Canberra Hospital,A,21072,2,"MATHEWS, David",Australian Labor Party,4
+ACT,101,Canberra,8794,Canberra Hospital,B,22050,0,B Ticket Votes,Australian Democrats,10
+ACT,101,Canberra,8794,Canberra Hospital,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,6
+ACT,101,Canberra,8794,Canberra Hospital,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,8794,Canberra Hospital,C,22048,0,C Ticket Votes,The Greens,140
+ACT,101,Canberra,8794,Canberra Hospital,C,20838,1,"HATFIELD DODDS, Lin",The Greens,51
+ACT,101,Canberra,8794,Canberra Hospital,C,20840,2,"PARRIS, Hannah",The Greens,6
+ACT,101,Canberra,8794,Canberra Hospital,D,22047,0,D Ticket Votes,Liberal,227
+ACT,101,Canberra,8794,Canberra Hospital,D,20813,1,"HUMPHRIES, Gary",Liberal,50
+ACT,101,Canberra,8794,Canberra Hospital,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,101,Canberra,8794,Canberra Hospital,UG,21966,1,"GLYNN, John",Independent,9
+ACT,101,Canberra,8794,Canberra Hospital,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,8817,Griffith,A,22049,0,A Ticket Votes,Australian Labor Party,453
+ACT,101,Canberra,8817,Griffith,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,142
+ACT,101,Canberra,8817,Griffith,A,21072,2,"MATHEWS, David",Australian Labor Party,13
+ACT,101,Canberra,8817,Griffith,B,22050,0,B Ticket Votes,Australian Democrats,17
+ACT,101,Canberra,8817,Griffith,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,10
+ACT,101,Canberra,8817,Griffith,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8817,Griffith,C,22048,0,C Ticket Votes,The Greens,269
+ACT,101,Canberra,8817,Griffith,C,20838,1,"HATFIELD DODDS, Lin",The Greens,198
+ACT,101,Canberra,8817,Griffith,C,20840,2,"PARRIS, Hannah",The Greens,17
+ACT,101,Canberra,8817,Griffith,D,22047,0,D Ticket Votes,Liberal,551
+ACT,101,Canberra,8817,Griffith,D,20813,1,"HUMPHRIES, Gary",Liberal,115
+ACT,101,Canberra,8817,Griffith,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,101,Canberra,8817,Griffith,UG,21966,1,"GLYNN, John",Independent,22
+ACT,101,Canberra,8817,Griffith,ZZ,0,99,INFORMAL,,42
+ACT,101,Canberra,8829,Barton,A,22049,0,A Ticket Votes,Australian Labor Party,492
+ACT,101,Canberra,8829,Barton,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,179
+ACT,101,Canberra,8829,Barton,A,21072,2,"MATHEWS, David",Australian Labor Party,12
+ACT,101,Canberra,8829,Barton,B,22050,0,B Ticket Votes,Australian Democrats,17
+ACT,101,Canberra,8829,Barton,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,13
+ACT,101,Canberra,8829,Barton,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,8829,Barton,C,22048,0,C Ticket Votes,The Greens,435
+ACT,101,Canberra,8829,Barton,C,20838,1,"HATFIELD DODDS, Lin",The Greens,307
+ACT,101,Canberra,8829,Barton,C,20840,2,"PARRIS, Hannah",The Greens,26
+ACT,101,Canberra,8829,Barton,D,22047,0,D Ticket Votes,Liberal,590
+ACT,101,Canberra,8829,Barton,D,20813,1,"HUMPHRIES, Gary",Liberal,106
+ACT,101,Canberra,8829,Barton,D,20814,2,"WATTS, Matthew",Liberal,12
+ACT,101,Canberra,8829,Barton,UG,21966,1,"GLYNN, John",Independent,25
+ACT,101,Canberra,8829,Barton,ZZ,0,99,INFORMAL,,54
+ACT,101,Canberra,8840,Yarralumla,A,22049,0,A Ticket Votes,Australian Labor Party,452
+ACT,101,Canberra,8840,Yarralumla,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,117
+ACT,101,Canberra,8840,Yarralumla,A,21072,2,"MATHEWS, David",Australian Labor Party,8
+ACT,101,Canberra,8840,Yarralumla,B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,101,Canberra,8840,Yarralumla,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,8
+ACT,101,Canberra,8840,Yarralumla,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,8840,Yarralumla,C,22048,0,C Ticket Votes,The Greens,296
+ACT,101,Canberra,8840,Yarralumla,C,20838,1,"HATFIELD DODDS, Lin",The Greens,205
+ACT,101,Canberra,8840,Yarralumla,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,101,Canberra,8840,Yarralumla,D,22047,0,D Ticket Votes,Liberal,569
+ACT,101,Canberra,8840,Yarralumla,D,20813,1,"HUMPHRIES, Gary",Liberal,140
+ACT,101,Canberra,8840,Yarralumla,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,101,Canberra,8840,Yarralumla,UG,21966,1,"GLYNN, John",Independent,16
+ACT,101,Canberra,8840,Yarralumla,ZZ,0,99,INFORMAL,,38
+ACT,101,Canberra,8884,Isabella Plains,A,22049,0,A Ticket Votes,Australian Labor Party,1149
+ACT,101,Canberra,8884,Isabella Plains,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,177
+ACT,101,Canberra,8884,Isabella Plains,A,21072,2,"MATHEWS, David",Australian Labor Party,13
+ACT,101,Canberra,8884,Isabella Plains,B,22050,0,B Ticket Votes,Australian Democrats,36
+ACT,101,Canberra,8884,Isabella Plains,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,17
+ACT,101,Canberra,8884,Isabella Plains,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,8884,Isabella Plains,C,22048,0,C Ticket Votes,The Greens,288
+ACT,101,Canberra,8884,Isabella Plains,C,20838,1,"HATFIELD DODDS, Lin",The Greens,104
+ACT,101,Canberra,8884,Isabella Plains,C,20840,2,"PARRIS, Hannah",The Greens,17
+ACT,101,Canberra,8884,Isabella Plains,D,22047,0,D Ticket Votes,Liberal,734
+ACT,101,Canberra,8884,Isabella Plains,D,20813,1,"HUMPHRIES, Gary",Liberal,108
+ACT,101,Canberra,8884,Isabella Plains,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,101,Canberra,8884,Isabella Plains,UG,21966,1,"GLYNN, John",Independent,29
+ACT,101,Canberra,8884,Isabella Plains,ZZ,0,99,INFORMAL,,116
+ACT,101,Canberra,11452,Calwell,A,22049,0,A Ticket Votes,Australian Labor Party,1084
+ACT,101,Canberra,11452,Calwell,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,147
+ACT,101,Canberra,11452,Calwell,A,21072,2,"MATHEWS, David",Australian Labor Party,11
+ACT,101,Canberra,11452,Calwell,B,22050,0,B Ticket Votes,Australian Democrats,30
+ACT,101,Canberra,11452,Calwell,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,20
+ACT,101,Canberra,11452,Calwell,B,21760,2,"DAVID, Anthony John",Australian Democrats,4
+ACT,101,Canberra,11452,Calwell,C,22048,0,C Ticket Votes,The Greens,302
+ACT,101,Canberra,11452,Calwell,C,20838,1,"HATFIELD DODDS, Lin",The Greens,114
+ACT,101,Canberra,11452,Calwell,C,20840,2,"PARRIS, Hannah",The Greens,14
+ACT,101,Canberra,11452,Calwell,D,22047,0,D Ticket Votes,Liberal,790
+ACT,101,Canberra,11452,Calwell,D,20813,1,"HUMPHRIES, Gary",Liberal,123
+ACT,101,Canberra,11452,Calwell,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,101,Canberra,11452,Calwell,UG,21966,1,"GLYNN, John",Independent,31
+ACT,101,Canberra,11452,Calwell,ZZ,0,99,INFORMAL,,92
+ACT,101,Canberra,11877,Bonython,A,22049,0,A Ticket Votes,Australian Labor Party,882
+ACT,101,Canberra,11877,Bonython,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,130
+ACT,101,Canberra,11877,Bonython,A,21072,2,"MATHEWS, David",Australian Labor Party,8
+ACT,101,Canberra,11877,Bonython,B,22050,0,B Ticket Votes,Australian Democrats,42
+ACT,101,Canberra,11877,Bonython,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,9
+ACT,101,Canberra,11877,Bonython,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,11877,Bonython,C,22048,0,C Ticket Votes,The Greens,216
+ACT,101,Canberra,11877,Bonython,C,20838,1,"HATFIELD DODDS, Lin",The Greens,93
+ACT,101,Canberra,11877,Bonython,C,20840,2,"PARRIS, Hannah",The Greens,10
+ACT,101,Canberra,11877,Bonython,D,22047,0,D Ticket Votes,Liberal,581
+ACT,101,Canberra,11877,Bonython,D,20813,1,"HUMPHRIES, Gary",Liberal,101
+ACT,101,Canberra,11877,Bonython,D,20814,2,"WATTS, Matthew",Liberal,6
+ACT,101,Canberra,11877,Bonython,UG,21966,1,"GLYNN, John",Independent,29
+ACT,101,Canberra,11877,Bonython,ZZ,0,99,INFORMAL,,54
+ACT,101,Canberra,11878,Theodore,A,22049,0,A Ticket Votes,Australian Labor Party,706
+ACT,101,Canberra,11878,Theodore,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,120
+ACT,101,Canberra,11878,Theodore,A,21072,2,"MATHEWS, David",Australian Labor Party,5
+ACT,101,Canberra,11878,Theodore,B,22050,0,B Ticket Votes,Australian Democrats,26
+ACT,101,Canberra,11878,Theodore,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,4
+ACT,101,Canberra,11878,Theodore,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,11878,Theodore,C,22048,0,C Ticket Votes,The Greens,216
+ACT,101,Canberra,11878,Theodore,C,20838,1,"HATFIELD DODDS, Lin",The Greens,73
+ACT,101,Canberra,11878,Theodore,C,20840,2,"PARRIS, Hannah",The Greens,6
+ACT,101,Canberra,11878,Theodore,D,22047,0,D Ticket Votes,Liberal,519
+ACT,101,Canberra,11878,Theodore,D,20813,1,"HUMPHRIES, Gary",Liberal,96
+ACT,101,Canberra,11878,Theodore,D,20814,2,"WATTS, Matthew",Liberal,3
+ACT,101,Canberra,11878,Theodore,UG,21966,1,"GLYNN, John",Independent,32
+ACT,101,Canberra,11878,Theodore,ZZ,0,99,INFORMAL,,37
+ACT,101,Canberra,12072,Gordon,A,22049,0,A Ticket Votes,Australian Labor Party,1714
+ACT,101,Canberra,12072,Gordon,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,247
+ACT,101,Canberra,12072,Gordon,A,21072,2,"MATHEWS, David",Australian Labor Party,24
+ACT,101,Canberra,12072,Gordon,B,22050,0,B Ticket Votes,Australian Democrats,58
+ACT,101,Canberra,12072,Gordon,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,15
+ACT,101,Canberra,12072,Gordon,B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,12072,Gordon,C,22048,0,C Ticket Votes,The Greens,391
+ACT,101,Canberra,12072,Gordon,C,20838,1,"HATFIELD DODDS, Lin",The Greens,153
+ACT,101,Canberra,12072,Gordon,C,20840,2,"PARRIS, Hannah",The Greens,20
+ACT,101,Canberra,12072,Gordon,D,22047,0,D Ticket Votes,Liberal,1252
+ACT,101,Canberra,12072,Gordon,D,20813,1,"HUMPHRIES, Gary",Liberal,199
+ACT,101,Canberra,12072,Gordon,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,101,Canberra,12072,Gordon,UG,21966,1,"GLYNN, John",Independent,33
+ACT,101,Canberra,12072,Gordon,ZZ,0,99,INFORMAL,,180
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,22049,0,A Ticket Votes,Australian Labor Party,476
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,128
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),A,21072,2,"MATHEWS, David",Australian Labor Party,9
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,22050,0,B Ticket Votes,Australian Democrats,18
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,14
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),B,21760,2,"DAVID, Anthony John",Australian Democrats,2
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,22048,0,C Ticket Votes,The Greens,238
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,20838,1,"HATFIELD DODDS, Lin",The Greens,183
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),C,20840,2,"PARRIS, Hannah",The Greens,13
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,22047,0,D Ticket Votes,Liberal,494
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,20813,1,"HUMPHRIES, Gary",Liberal,124
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),UG,21966,1,"GLYNN, John",Independent,12
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,41
+ACT,101,Canberra,31298,Conder,A,22049,0,A Ticket Votes,Australian Labor Party,1507
+ACT,101,Canberra,31298,Conder,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,204
+ACT,101,Canberra,31298,Conder,A,21072,2,"MATHEWS, David",Australian Labor Party,20
+ACT,101,Canberra,31298,Conder,B,22050,0,B Ticket Votes,Australian Democrats,58
+ACT,101,Canberra,31298,Conder,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,12
+ACT,101,Canberra,31298,Conder,B,21760,2,"DAVID, Anthony John",Australian Democrats,3
+ACT,101,Canberra,31298,Conder,C,22048,0,C Ticket Votes,The Greens,366
+ACT,101,Canberra,31298,Conder,C,20838,1,"HATFIELD DODDS, Lin",The Greens,141
+ACT,101,Canberra,31298,Conder,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,101,Canberra,31298,Conder,D,22047,0,D Ticket Votes,Liberal,1010
+ACT,101,Canberra,31298,Conder,D,20813,1,"HUMPHRIES, Gary",Liberal,179
+ACT,101,Canberra,31298,Conder,D,20814,2,"WATTS, Matthew",Liberal,14
+ACT,101,Canberra,31298,Conder,UG,21966,1,"GLYNN, John",Independent,47
+ACT,101,Canberra,31298,Conder,ZZ,0,99,INFORMAL,,130
+ACT,101,Canberra,32704,Tuggeranong PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,2898
+ACT,101,Canberra,32704,Tuggeranong PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,524
+ACT,101,Canberra,32704,Tuggeranong PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,35
+ACT,101,Canberra,32704,Tuggeranong PPVC,B,22050,0,B Ticket Votes,Australian Democrats,100
+ACT,101,Canberra,32704,Tuggeranong PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,40
+ACT,101,Canberra,32704,Tuggeranong PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,9
+ACT,101,Canberra,32704,Tuggeranong PPVC,C,22048,0,C Ticket Votes,The Greens,804
+ACT,101,Canberra,32704,Tuggeranong PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,353
+ACT,101,Canberra,32704,Tuggeranong PPVC,C,20840,2,"PARRIS, Hannah",The Greens,41
+ACT,101,Canberra,32704,Tuggeranong PPVC,D,22047,0,D Ticket Votes,Liberal,2389
+ACT,101,Canberra,32704,Tuggeranong PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,385
+ACT,101,Canberra,32704,Tuggeranong PPVC,D,20814,2,"WATTS, Matthew",Liberal,35
+ACT,101,Canberra,32704,Tuggeranong PPVC,UG,21966,1,"GLYNN, John",Independent,81
+ACT,101,Canberra,32704,Tuggeranong PPVC,ZZ,0,99,INFORMAL,,278
+ACT,101,Canberra,32705,Woden PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,2008
+ACT,101,Canberra,32705,Woden PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,428
+ACT,101,Canberra,32705,Woden PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,30
+ACT,101,Canberra,32705,Woden PPVC,B,22050,0,B Ticket Votes,Australian Democrats,50
+ACT,101,Canberra,32705,Woden PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,27
+ACT,101,Canberra,32705,Woden PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,9
+ACT,101,Canberra,32705,Woden PPVC,C,22048,0,C Ticket Votes,The Greens,965
+ACT,101,Canberra,32705,Woden PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,523
+ACT,101,Canberra,32705,Woden PPVC,C,20840,2,"PARRIS, Hannah",The Greens,38
+ACT,101,Canberra,32705,Woden PPVC,D,22047,0,D Ticket Votes,Liberal,2159
+ACT,101,Canberra,32705,Woden PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,366
+ACT,101,Canberra,32705,Woden PPVC,D,20814,2,"WATTS, Matthew",Liberal,13
+ACT,101,Canberra,32705,Woden PPVC,UG,21966,1,"GLYNN, John",Independent,40
+ACT,101,Canberra,32705,Woden PPVC,ZZ,0,99,INFORMAL,,166
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,22050,0,B Ticket Votes,Australian Democrats,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,22048,0,C Ticket Votes,The Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,22047,0,D Ticket Votes,Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,UG,21966,1,"GLYNN, John",Independent,0
+ACT,101,Canberra,32706,Norfolk Island PPVC,ZZ,0,99,INFORMAL,,0
+ACT,101,Canberra,32712,Special Hospital Team 1,A,22049,0,A Ticket Votes,Australian Labor Party,57
+ACT,101,Canberra,32712,Special Hospital Team 1,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,2
+ACT,101,Canberra,32712,Special Hospital Team 1,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,22050,0,B Ticket Votes,Australian Democrats,2
+ACT,101,Canberra,32712,Special Hospital Team 1,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,32712,Special Hospital Team 1,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,32712,Special Hospital Team 1,C,22048,0,C Ticket Votes,The Greens,11
+ACT,101,Canberra,32712,Special Hospital Team 1,C,20838,1,"HATFIELD DODDS, Lin",The Greens,2
+ACT,101,Canberra,32712,Special Hospital Team 1,C,20840,2,"PARRIS, Hannah",The Greens,1
+ACT,101,Canberra,32712,Special Hospital Team 1,D,22047,0,D Ticket Votes,Liberal,50
+ACT,101,Canberra,32712,Special Hospital Team 1,D,20813,1,"HUMPHRIES, Gary",Liberal,4
+ACT,101,Canberra,32712,Special Hospital Team 1,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,101,Canberra,32712,Special Hospital Team 1,UG,21966,1,"GLYNN, John",Independent,0
+ACT,101,Canberra,32712,Special Hospital Team 1,ZZ,0,99,INFORMAL,,3
+ACT,101,Canberra,46425,Stirling,A,22049,0,A Ticket Votes,Australian Labor Party,311
+ACT,101,Canberra,46425,Stirling,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,57
+ACT,101,Canberra,46425,Stirling,A,21072,2,"MATHEWS, David",Australian Labor Party,9
+ACT,101,Canberra,46425,Stirling,B,22050,0,B Ticket Votes,Australian Democrats,7
+ACT,101,Canberra,46425,Stirling,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,3
+ACT,101,Canberra,46425,Stirling,B,21760,2,"DAVID, Anthony John",Australian Democrats,1
+ACT,101,Canberra,46425,Stirling,C,22048,0,C Ticket Votes,The Greens,126
+ACT,101,Canberra,46425,Stirling,C,20838,1,"HATFIELD DODDS, Lin",The Greens,74
+ACT,101,Canberra,46425,Stirling,C,20840,2,"PARRIS, Hannah",The Greens,5
+ACT,101,Canberra,46425,Stirling,D,22047,0,D Ticket Votes,Liberal,300
+ACT,101,Canberra,46425,Stirling,D,20813,1,"HUMPHRIES, Gary",Liberal,60
+ACT,101,Canberra,46425,Stirling,D,20814,2,"WATTS, Matthew",Liberal,1
+ACT,101,Canberra,46425,Stirling,UG,21966,1,"GLYNN, John",Independent,9
+ACT,101,Canberra,46425,Stirling,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,22049,0,A Ticket Votes,Australian Labor Party,579
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,148
+ACT,101,Canberra,58708,City CANBERRA PPVC,A,21072,2,"MATHEWS, David",Australian Labor Party,21
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,22050,0,B Ticket Votes,Australian Democrats,31
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,19
+ACT,101,Canberra,58708,City CANBERRA PPVC,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,22048,0,C Ticket Votes,The Greens,339
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,20838,1,"HATFIELD DODDS, Lin",The Greens,211
+ACT,101,Canberra,58708,City CANBERRA PPVC,C,20840,2,"PARRIS, Hannah",The Greens,27
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,22047,0,D Ticket Votes,Liberal,474
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,20813,1,"HUMPHRIES, Gary",Liberal,147
+ACT,101,Canberra,58708,City CANBERRA PPVC,D,20814,2,"WATTS, Matthew",Liberal,10
+ACT,101,Canberra,58708,City CANBERRA PPVC,UG,21966,1,"GLYNN, John",Independent,21
+ACT,101,Canberra,58708,City CANBERRA PPVC,ZZ,0,99,INFORMAL,,19
+ACT,101,Canberra,58809,Prison Mobile Team 1,A,22049,0,A Ticket Votes,Australian Labor Party,4
+ACT,101,Canberra,58809,Prison Mobile Team 1,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,2
+ACT,101,Canberra,58809,Prison Mobile Team 1,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,B,22050,0,B Ticket Votes,Australian Democrats,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,C,22048,0,C Ticket Votes,The Greens,1
+ACT,101,Canberra,58809,Prison Mobile Team 1,C,20838,1,"HATFIELD DODDS, Lin",The Greens,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,D,22047,0,D Ticket Votes,Liberal,3
+ACT,101,Canberra,58809,Prison Mobile Team 1,D,20813,1,"HUMPHRIES, Gary",Liberal,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,101,Canberra,58809,Prison Mobile Team 1,UG,21966,1,"GLYNN, John",Independent,1
+ACT,101,Canberra,58809,Prison Mobile Team 1,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,58810,Special Hospital Team 2,A,22049,0,A Ticket Votes,Australian Labor Party,57
+ACT,101,Canberra,58810,Special Hospital Team 2,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,A,21072,2,"MATHEWS, David",Australian Labor Party,1
+ACT,101,Canberra,58810,Special Hospital Team 2,B,22050,0,B Ticket Votes,Australian Democrats,2
+ACT,101,Canberra,58810,Special Hospital Team 2,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,58810,Special Hospital Team 2,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,58810,Special Hospital Team 2,C,22048,0,C Ticket Votes,The Greens,16
+ACT,101,Canberra,58810,Special Hospital Team 2,C,20838,1,"HATFIELD DODDS, Lin",The Greens,0
+ACT,101,Canberra,58810,Special Hospital Team 2,C,20840,2,"PARRIS, Hannah",The Greens,1
+ACT,101,Canberra,58810,Special Hospital Team 2,D,22047,0,D Ticket Votes,Liberal,70
+ACT,101,Canberra,58810,Special Hospital Team 2,D,20813,1,"HUMPHRIES, Gary",Liberal,1
+ACT,101,Canberra,58810,Special Hospital Team 2,D,20814,2,"WATTS, Matthew",Liberal,1
+ACT,101,Canberra,58810,Special Hospital Team 2,UG,21966,1,"GLYNN, John",Independent,0
+ACT,101,Canberra,58810,Special Hospital Team 2,ZZ,0,99,INFORMAL,,1
+ACT,101,Canberra,58811,Special Hospital Team 3,A,22049,0,A Ticket Votes,Australian Labor Party,45
+ACT,101,Canberra,58811,Special Hospital Team 3,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,1
+ACT,101,Canberra,58811,Special Hospital Team 3,A,21072,2,"MATHEWS, David",Australian Labor Party,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,22050,0,B Ticket Votes,Australian Democrats,3
+ACT,101,Canberra,58811,Special Hospital Team 3,B,21758,1,"CHURCHILL, Darren Mark",Australian Democrats,0
+ACT,101,Canberra,58811,Special Hospital Team 3,B,21760,2,"DAVID, Anthony John",Australian Democrats,0
+ACT,101,Canberra,58811,Special Hospital Team 3,C,22048,0,C Ticket Votes,The Greens,10
+ACT,101,Canberra,58811,Special Hospital Team 3,C,20838,1,"HATFIELD DODDS, Lin",The Greens,1
+ACT,101,Canberra,58811,Special Hospital Team 3,C,20840,2,"PARRIS, Hannah",The Greens,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,22047,0,D Ticket Votes,Liberal,45
+ACT,101,Canberra,58811,Special Hospital Team 3,D,20813,1,"HUMPHRIES, Gary",Liberal,0
+ACT,101,Canberra,58811,Special Hospital Team 3,D,20814,2,"WATTS, Matthew",Liberal,0
+ACT,101,Canberra,58811,Special Hospital Team 3,UG,21966,1,"GLYNN, John",Independent,0
+ACT,101,Canberra,58811,Special Hospital Team 3,ZZ,0,99,INFORMAL,,3
