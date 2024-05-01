@@ -304,9 +304,11 @@ class BoothChange(Transition):
 class Party(models.Model):
     class Meta:
         verbose_name_plural = "Parties"
+        constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
+                                        name='abbreviation_and_name')]
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
-    name = models.CharField(max_length=63, unique=True)
+    name = models.CharField(max_length=255)
     created = models.DateTimeField(auto_now_add=True)
 
 

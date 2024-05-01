@@ -107,8 +107,12 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                     if abbreviation_length < shortest:
                         shortest = abbreviation_length
                         party = faction
-        selection, _ = models.Selection.objects.get_or_create(
-            person=candidate.person, party=party, election=election)
+        try:
+            selection = models.Selection.objects.get(person=candidate.person,
+                                                     election=election)
+        except models.Selection.DoesNotExist:
+            selection = models.Selection.objects.create(
+                person=candidate.person, election=election, party=faction)
         vote_stack, _ = models.VoteStack.objects.get_or_create(
             floor=floor, election=election, lighthouse=lighthouse,
             candidate=candidate,
