@@ -38,6 +38,14 @@ class Crown(models.Model):
                                  on_delete=models.CASCADE)
 
 
+class Transfer(models.Model):
+    class Meta:
+        abstract = True
+
+    votes_transferred = models.IntegerField()
+    created = models.DateTimeField(auto_now_add=True)
+
+
 class BallotEntry(Crown):
     class Meta:
         abstract = True
@@ -67,4 +75,20 @@ class VoteRecord(models.Model):
         abstract = True
 
     primary_votes = models.IntegerField()
+    created = models.DateTimeField(auto_now_add=True)
+
+
+class Contest(models.Model):
+    class Meta:
+        abstract = True
+
+    state = models.CharField(max_length=9, choices=StateName.choices)
+    election = models.ForeignKey("SenateElection", on_delete=models.CASCADE)
+
+
+class Round(models.Model):
+    class Meta:
+        abstract = True
+
+    round_number = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)

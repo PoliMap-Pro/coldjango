@@ -3,7 +3,7 @@ from datetime import datetime
 from django.core.management.base import BaseCommand
 from ... import models, csv_to_db
 from ...constants import BOOTHS_DIRECTORY_RELATIVE, \
-    PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE, SEATS_DIRECTORY_RELATIVE, \
+    HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE, SEATS_DIRECTORY_RELATIVE, \
     TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE
 from ...aec_codes import StringCode
 
@@ -351,6 +351,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             election_date=type_of_date(year=election_year, month=1, day=1))
         return os.path.join(folder, BOOTHS_DIRECTORY_RELATIVE), \
             house_election, os.path.join(
-            folder, PREFERENCE_DISTRIBUTION_DIRECTORY_RELATIVE), \
+            folder, HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE), \
             os.path.join(folder, SEATS_DIRECTORY_RELATIVE), \
             os.path.join(folder, TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)

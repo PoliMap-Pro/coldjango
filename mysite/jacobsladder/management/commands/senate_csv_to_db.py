@@ -3,28 +3,32 @@ from datetime import datetime
 from django.core.management.base import BaseCommand
 from ... import models, csv_to_db, aec_codes
 from ...constants import CANDIDATE_DIRECTORY_RELATIVE, \
-    LIGHTHOUSES_DIRECTORY_RELATIVE, FLOORS_DIRECTORY_RELATIVE
+    LIGHTHOUSES_DIRECTORY_RELATIVE, FLOORS_DIRECTORY_RELATIVE, \
+    SENATE_DISTRIBUTION_DIRECTORY_RELATIVE
 
 
 class Command(BaseCommand, csv_to_db.ElectionReader):
     RELATIVE_DIRECTORIES = (CANDIDATE_DIRECTORY_RELATIVE,
                             LIGHTHOUSES_DIRECTORY_RELATIVE,
-                            FLOORS_DIRECTORY_RELATIVE, )
+                            FLOORS_DIRECTORY_RELATIVE,
+                            SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
     FLOOR_NAME_HEADER = 'PollingPlaceNm'
+    ALTERNATIVE_GROUP_HEADER = 'Ticket'
 
     help = 'Add elections from csv files'
 
     def __call__(self, election_year, folder, type_of_date=datetime,
                  print_before_year="Election", quiet=False):
         Command.print_year(election_year, print_before_year, quiet)
-        candidate_directory, lighthouses_directory, floors_directory = [
-            os.path.join(folder, relative_directory) for relative_directory in
-            Command.RELATIVE_DIRECTORIES]
+        candidate_directory, lighthouses_directory, floors_directory, \
+            pref_directory = [os.path.join(folder, relative_directory) for
+                          relative_directory in Command.RELATIVE_DIRECTORIES]
         senate_election, _ = models.SenateElection.objects.get_or_create(
             election_date=type_of_date(year=election_year, month=1, day=1))
         self.add_candidates(senate_election, candidate_directory)
         self.add_lighthouses(senate_election, lighthouses_directory)
         self.add_floors(senate_election, floors_directory)
+        self.add_preferences(senate_election, pref_directory)
 
     def handle(self, *arguments, **keywordarguments):
         election_items = Command.get_election_items()
@@ -52,6 +56,13 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         self.map_report_with_blank_line(directory, election, quiet,
                                         single_create_method, text_to_print)
 
+    def add_preferences(self, election, directory,
+                        single_create_method='add_one_preference',
+                        text_to_print="Reading files in preferences directory",
+                        quiet=False):
+        self.map_report_with_blank_line(directory, election, quiet,
+                                        single_create_method, text_to_print)
+
     @staticmethod
     def add_one_candidate(election, row):
         candidate, person = Command.find_person(
@@ -59,6 +70,31 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             Command.get_standard_person_attributes(row), row)
         selection, _ = models.Selection.objects.get_or_create(
             person=person, party=Command.fetch_party(row), election=election)
+
+    @staticmethod
+    def add_one_preference(election, row):
+        pool, _ = models.Pool.objects.get_or_create(
+            election=election, state=row['State'],
+            vacancies=int(row['No Of Vacancies']),
+            formal_papers=int(row['Total Formal Papers']),
+            quota=int(row['Quota']))
+        senate_round, _ = models.SenateRound.objects.get_or_create(
+            pool=pool, round_number=int(row['Count']))
+        candidate, _ = Command.find_person(
+            models.SenateCandidate.objects,
+            Command.get_standard_person_attributes(row), row)
+        assert candidate.group.abbreviation == \
+               row(Command.ALTERNATIVE_GROUP_HEADER)
+        senate_pref, _ = models.SenatePreference.objects.get_or_create(
+            round=senate_round, election=election, candidate=candidate,
+            ballot_position=int(row[Command.BALLOT_ORDER_HEADER]),
+            papers=int(row['Papers']),
+            votes_transferred=int(row['VoteTransferred']),
+            progressive_total=int(row['ProgressiveVoteTotal']),
+            transfer_value=row['TransferValue'],
+            status=row['Status'],
+            order_elected=row['Order Elected'],
+            comment=row['Comment'])
 
     @staticmethod
     def add_one_lighthouse(election, row):
@@ -91,8 +127,12 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                                                       election=election)
         stand.ballot_position = int(row[Command.BALLOT_ORDER_HEADER])
         stand.save()
-        group, _ = models.SenateGroup.objects.get_or_create(abbreviation=row[
-            'Group'], election=election)
+        try:
+            abbreviation = row['Group']
+        except KeyError:
+            abbreviation = row[Command.ALTERNATIVE_GROUP_HEADER]
+        group, _ = models.SenateGroup.objects.get_or_create(
+            abbreviation=abbreviation, election=election)
         candidate.group = group
         candidate.save()
         try:

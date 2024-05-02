@@ -2,7 +2,7 @@ from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
 from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
-    Transition, BallotEntry, VoteRecord
+    Transition, BallotEntry, VoteRecord, Contest, Round, Transfer
 from .model_fields import StateName
 
 """ 
@@ -410,19 +410,27 @@ class SenateCandidate(models.Model):
                               null=True, blank=True)
 
 
-class VoteStack(VoteRecord):
+class VoteStack(VoteRecord, Contest):
     class Meta:
         constraints = [UniqueConstraint(
             fields=['floor', 'election', 'candidate', ],
             name='floor_election_and_candidate')]
 
-    state = models.CharField(max_length=9, choices=StateName.choices)
     floor = models.ForeignKey(Floor, on_delete=models.CASCADE, null=True)
     lighthouse = models.ForeignKey(Lighthouse, on_delete=models.CASCADE,
                                    null=True)
-    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(SenateCandidate, on_delete=models.CASCADE)
     tpp_votes = models.IntegerField(null=True, blank=True)
+
+
+class Pool(Contest):
+    class Meta:
+        constraints = [UniqueConstraint(fields=['state', 'election',],
+                                        name='pool_state_and_election')]
+
+    formal_papers = models.PositiveIntegerField()
+    vacancies = models.PositiveSmallIntegerField()
+    quota = models.PositiveIntegerField()
 
 
 class VoteTally(VoteRecord):
@@ -451,20 +459,43 @@ class VoteTally(VoteRecord):
                    f"at {self.booth} in {self.election} ({self.pk})")
 
 
-class PreferenceRound(Crown):
+class SenateRound(Round):
+    pool = models.ForeignKey(Pool, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"Round {self.round_number} for {self.pool.state} in " \
+               f"{self.pool.election}"
+
+
+class PreferenceRound(Crown, Round):
     class Meta:
         constraints = [UniqueConstraint(
             fields=['seat', 'election', 'round_number',],
             name='unique_combination_of_seat_election_round_number')]
 
-    round_number = models.IntegerField()
-    created = models.DateTimeField(auto_now_add=True)
-
     def __str__(self):
         return f"Round {self.round_number} of {self.seat} in {self.election}"
 
 
-class CandidatePreference(models.Model):
+class SenatePreference(Transfer):
+    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
+    candidate = models.ForeignKey(SenateCandidate, on_delete=models.CASCADE,
+                                  related_name="target_senate")
+    source_candidate = models.ForeignKey(SenateCandidate,
+                                         on_delete=models.SET_NULL,
+                                         related_name="source_senate",
+                                         null=True, blank=True)
+    round = models.ForeignKey(SenateRound, on_delete=models.CASCADE)
+    ballot_position = models.PositiveSmallIntegerField(default=0)
+    order_elected = models.PositiveSmallIntegerField(null=True, blank=True)
+    papers = models.PositiveIntegerField()
+    progressive_total = models.PositiveIntegerField()
+    transfer_value = models.DecimalField(max_digits=31, decimal_places=29)
+    status = models.CharField(max_length=15, null=True, blank=True)
+    comment = models.TextField(null=True, blank=True)
+
+
+class CandidatePreference(Transfer):
     class Meta:
         constraints = [UniqueConstraint(
             fields=['candidate', 'round', 'seat', 'election'],
@@ -477,14 +508,12 @@ class CandidatePreference(models.Model):
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
                                   related_name="target_preference")
     source_candidate = models.ForeignKey(HouseCandidate,
-                                         on_delete=models.CASCADE,
+                                         on_delete=models.SET_NULL,
                                          related_name="source_preference",
                                          null=True, blank=True)
     round = models.ForeignKey(PreferenceRound, on_delete=models.CASCADE)
     votes_received = models.IntegerField()
-    votes_transferred = models.IntegerField()
     votes_remaining = models.IntegerField(null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
         return f"{self.candidate} in {self.round} ({self.pk})"
