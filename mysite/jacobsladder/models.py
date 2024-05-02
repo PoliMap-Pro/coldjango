@@ -488,7 +488,7 @@ class SenatePreference(Transfer):
     round = models.ForeignKey(SenateRound, on_delete=models.CASCADE)
     ballot_position = models.PositiveSmallIntegerField(default=0)
     order_elected = models.PositiveSmallIntegerField(null=True, blank=True)
-    papers = models.PositiveIntegerField()
+    papers = models.IntegerField()
     progressive_total = models.PositiveIntegerField()
     transfer_value = models.DecimalField(max_digits=31, decimal_places=29)
     status = models.CharField(max_length=15, null=True, blank=True)
