@@ -8,28 +8,33 @@ from .constants import ELECTION_DIRECTORIES
 
 
 class AECCodeReader(object):
+    ALTERNATIVE_BALLOT_ORDER_HEADER = 'Ballot Position'
     BALLOT_ORDER_HEADER = 'BallotPosition'
     KIND_OF_VOTES_HEADER = 'CalculationType'
     NUMBER_OF_VOTES_HEADER = 'CalculationValue'
     ORDINARY_VOTES_HEADER = 'OrdinaryVotes'
 
-    def add_one(self, filename, election, single_create_method):
+    def add_one(self, filename, election, single_create_method,
+                line_before_headers=True):
         with open(filename, "r") as in_file:
-            reader = self.fetch_reader(filename, in_file)
+            reader = self.fetch_reader(filename, in_file,
+                                       line_before_headers=line_before_headers)
             method = getattr(self.__class__, single_create_method)
             [method(election, row) for row in reader]
 
     def map_report(self, directory, election, quiet, single_create_method,
-                   text_to_print, blank_line):
+                   text_to_print, blank_line, line_before_headers=True):
         aec_codes.StringCode.echo(quiet, text_to_print, blank_line)
-        [self.add_one(filename, election, single_create_method) for filename
-         in aec_codes.StringCode.walk(directory)]
+        [self.add_one(filename, election, single_create_method,
+                      line_before_headers) for filename in
+         aec_codes.StringCode.walk(directory)]
 
     @staticmethod
     def fetch_reader(filename, in_file, type_of_reader=csv.DictReader,
-                     quiet=False):
+                     quiet=False, line_before_headers=True):
         aec_codes.StringCode.echo(quiet, filename, False)
-        next(in_file)
+        if line_before_headers:
+            next(in_file)
         return type_of_reader(in_file)
 
     @staticmethod
@@ -68,20 +73,27 @@ class ElectionReader(AECCodeReader):
     SEAT_NAME_HEADER = 'DivisionNm'
 
     def map_report_with_blank_line(self, directory, election, quiet,
-                                   single_create_method, text_to_print):
+                                   single_create_method, text_to_print,
+                                   line_before_headers=True):
         self.map_report(directory, election, quiet, single_create_method,
-                        text_to_print, True)
+                        text_to_print, True, line_before_headers)
 
     def map_report_without_blank_line(self, directory, election, quiet,
-                                      single_create_method, text_to_print):
+                                      single_create_method, text_to_print,
+                                      line_before_headers=True):
         self.map_report(directory, election, quiet, single_create_method,
-                        text_to_print, False)
+                        text_to_print, False, line_before_headers)
 
     @classmethod
     def find_person(cls, candidate_objects, person_attributes, row):
-        person = cls.fetch_by_aec_code(
-            person_attributes, models.Person.objects, models.PersonCode.objects,
-            'person', int(row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
+        try:
+            candidate_code = int(
+                row[aec_codes.StringCode.CANDIDATE_CODE_HEADER])
+            person = cls.fetch_by_aec_code(
+                person_attributes, models.Person.objects,
+                models.PersonCode.objects, 'person', candidate_code)
+        except KeyError:
+            person, _ = models.Person.objects.get_or_create(**person_attributes)
         candidate, _ = candidate_objects.get_or_create(person=person)
         return candidate, person
 

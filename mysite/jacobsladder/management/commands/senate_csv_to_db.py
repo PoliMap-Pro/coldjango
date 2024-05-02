@@ -25,9 +25,9 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                           relative_directory in Command.RELATIVE_DIRECTORIES]
         senate_election, _ = models.SenateElection.objects.get_or_create(
             election_date=type_of_date(year=election_year, month=1, day=1))
-        self.add_candidates(senate_election, candidate_directory)
-        self.add_lighthouses(senate_election, lighthouses_directory)
-        self.add_floors(senate_election, floors_directory)
+        #self.add_candidates(senate_election, candidate_directory)
+        #self.add_lighthouses(senate_election, lighthouses_directory)
+        #self.add_floors(senate_election, floors_directory)
         self.add_preferences(senate_election, pref_directory)
 
     def handle(self, *arguments, **keywordarguments):
@@ -61,7 +61,8 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                         text_to_print="Reading files in preferences directory",
                         quiet=False):
         self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print)
+                                        single_create_method, text_to_print,
+                                        False)
 
     @staticmethod
     def add_one_candidate(election, row):
@@ -83,15 +84,20 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         candidate, _ = Command.find_person(
             models.SenateCandidate.objects,
             Command.get_standard_person_attributes(row), row)
-        assert candidate.group.abbreviation == \
-               row(Command.ALTERNATIVE_GROUP_HEADER)
+        if candidate.group:
+            assert candidate.group.abbreviation.lower().strip() == \
+                   row[Command.ALTERNATIVE_GROUP_HEADER].lower().strip()
+        try:
+            ballot_position = int(row[Command.BALLOT_ORDER_HEADER])
+        except KeyError:
+            ballot_position = int(row[Command.ALTERNATIVE_BALLOT_ORDER_HEADER])
         senate_pref, _ = models.SenatePreference.objects.get_or_create(
             round=senate_round, election=election, candidate=candidate,
-            ballot_position=int(row[Command.BALLOT_ORDER_HEADER]),
+            ballot_position=ballot_position,
             papers=int(row['Papers']),
             votes_transferred=int(row['VoteTransferred']),
             progressive_total=int(row['ProgressiveVoteTotal']),
-            transfer_value=row['TransferValue'],
+            transfer_value=row['Transfer Value'],
             status=row['Status'],
             order_elected=row['Order Elected'],
             comment=row['Comment'])
