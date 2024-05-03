@@ -12,6 +12,13 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                             LIGHTHOUSES_DIRECTORY_RELATIVE,
                             FLOORS_DIRECTORY_RELATIVE,
                             SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
+    MAPS = (('add_one_candidate', "Reading files in candidates directory"),
+            ('add_one_lighthouse', "Reading files in lighthouses directory"),
+            ('add_one_floor', "Reading files in floors directory"),
+            ('add_one_preference',
+             "First pass: reading files in preferences directory"),
+            ('add_one_source',
+             "Second pass: reading files in preferences directory"))
     FLOOR_NAME_HEADER = 'PollingPlaceNm'
     ALTERNATIVE_GROUP_HEADER = 'Ticket'
 
@@ -20,49 +27,18 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     def __call__(self, election_year, folder, type_of_date=datetime,
                  print_before_year="Election", quiet=False):
         Command.print_year(election_year, print_before_year, quiet)
-        candidate_directory, lighthouses_directory, floors_directory, \
-            pref_directory = [os.path.join(folder, relative_directory) for
-                          relative_directory in Command.RELATIVE_DIRECTORIES]
         senate_election, _ = models.SenateElection.objects.get_or_create(
             election_date=type_of_date(year=election_year, month=1, day=1))
-        #self.add_candidates(senate_election, candidate_directory)
-        #self.add_lighthouses(senate_election, lighthouses_directory)
-        #self.add_floors(senate_election, floors_directory)
-        self.add_preferences(senate_election, pref_directory)
+        [self.map_report_with_blank_line(
+            direct, senate_election, False, single_meth, text_to_print) for
+            direct, (single_meth, text_to_print) in zip(
+            [os.path.join(folder, relative_directory) for relative_directory in
+             Command.RELATIVE_DIRECTORIES], Command.MAPS)]
 
     def handle(self, *arguments, **keywordarguments):
         election_items = Command.get_election_items()
         [self(election_year, folder) for election_year, folder in
          election_items]
-
-    def add_candidates(self, election, directory,
-                       single_create_method='add_one_candidate',
-                       text_to_print="Reading files in candidates directory",
-                       quiet=False):
-        self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print)
-
-    def add_lighthouses(self, election, directory,
-                        single_create_method='add_one_lighthouse',
-                        text_to_print="Reading files in lighthouses directory",
-                        quiet=False):
-        self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print)
-
-    def add_floors(self, election, directory,
-                   single_create_method='add_one_floor',
-                   text_to_print="Reading files in floors directory",
-                   quiet=False):
-        self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print)
-
-    def add_preferences(self, election, directory,
-                        single_create_method='add_one_preference',
-                        text_to_print="Reading files in preferences directory",
-                        quiet=False):
-        self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print,
-                                        False)
 
     @staticmethod
     def add_one_candidate(election, row):
@@ -70,7 +46,45 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             models.SenateCandidate.objects,
             Command.get_standard_person_attributes(row), row)
         selection, _ = models.Selection.objects.get_or_create(
-            person=person, party=Command.fetch_party(row), election=election)
+            person=person, election=election)
+        selection.party = Command.fetch_party(row)
+        selection.save()
+
+    @staticmethod
+    def add_source_preference(election, row):
+        pool = models.Pool.objects.get(
+            election=election, state=row['State'],
+            vacancies=int(row['No Of Vacancies']),
+            formal_papers=int(row['Total Formal Papers']),
+            quota=int(row['Quota']))
+        senate_round = models.SenateRound.objects.get(
+            pool=pool, round_number=int(row['Count']))
+        person_attributes = Command.get_standard_person_attributes(row)
+        try:
+            person = Command.fetch_by_aec_code(
+                person_attributes, models.Person.objects,
+                models.PersonCode.objects, 'person', int(
+                    row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
+        except KeyError:
+            person = models.Person.objects.get(**person_attributes)
+        candidate = models.SenateCandidate.get(person=person)
+        if candidate.group:
+            assert candidate.group.abbreviation.lower().strip() == \
+                   row[Command.ALTERNATIVE_GROUP_HEADER].lower().strip()
+        try:
+            ballot_position = int(row[Command.BALLOT_ORDER_HEADER])
+        except KeyError:
+            ballot_position = int(row[Command.ALTERNATIVE_BALLOT_ORDER_HEADER])
+        senate_pref = models.SenatePreference.objects.get(
+            round=senate_round, election=election, candidate=candidate,
+            ballot_position=ballot_position,
+            papers=int(row['Papers']),
+            votes_transferred=int(row['VoteTransferred']),
+            progressive_total=int(row['ProgressiveVoteTotal']),
+            transfer_value=row['Transfer Value'],
+            status=row['Status'],
+            order_elected=row['Order Elected'],
+            comment=row['Comment'])
 
     @staticmethod
     def add_one_preference(election, row):

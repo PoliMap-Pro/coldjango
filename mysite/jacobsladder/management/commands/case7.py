@@ -23,7 +23,7 @@ class Command(BaseCommand):
                             contention.candidate, house_election_2022) /
                                  all_votes)
                         if ratio > 0.1:
-                            return seat
+                            return seat, ratio, contention.candidate
 
         print(models.Seat.per(prime)(house_election_2022))
 

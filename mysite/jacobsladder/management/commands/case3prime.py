@@ -1,7 +1,7 @@
 from datetime import datetime
 from django.core.management.base import BaseCommand
 
-import mysite.jacobsladder.model_fields
+from ... import model_fields
 from ... import models
 
 
@@ -11,7 +11,7 @@ class Command(BaseCommand):
     def handle(self, *arguments, **keywordarguments):
         twenty_twenty_two = datetime(year=2022, month=1, day=1)
         house_election_2022 = models.HouseElection.objects.get(election_date=twenty_twenty_two)
-        seat1 = models.Seat.objects.get(name="Bennelong", state=mysite.jacobsladder.model_fields.StateName.NSW)
+        seat1 = models.Seat.objects.get(name="Aston", state=model_fields.StateName.VIC)
         models.Booth.per(Command.show_major_parties_candidate)(seat1, house_election_2022)
 
     @staticmethod

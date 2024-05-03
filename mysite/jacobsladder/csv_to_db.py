@@ -87,11 +87,10 @@ class ElectionReader(AECCodeReader):
     @classmethod
     def find_person(cls, candidate_objects, person_attributes, row):
         try:
-            candidate_code = int(
-                row[aec_codes.StringCode.CANDIDATE_CODE_HEADER])
             person = cls.fetch_by_aec_code(
                 person_attributes, models.Person.objects,
-                models.PersonCode.objects, 'person', candidate_code)
+                models.PersonCode.objects, 'person', int(
+                    row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
         except KeyError:
             person, _ = models.Person.objects.get_or_create(**person_attributes)
         candidate, _ = candidate_objects.get_or_create(person=person)
