@@ -1,12 +1,12 @@
 from django.core.management.base import BaseCommand
 from datetime import datetime
-from ....models import HouseElection, Seat, Booth, VoteTally, Person, \
+from ...models import HouseElection, Seat, Booth, VoteTally, Person, \
     HouseCandidate
-from ....model_fields import StateName
+from ...model_fields import StateName
 
 
 class Command(BaseCommand):
-    help = 'Command test'
+    help = 'Primary ordinary votes at different levels'
 
     def handle(self, *arguments, **keywordarguments):
         twenty_twenty_two = datetime(year=2022, month=1, day=1)
