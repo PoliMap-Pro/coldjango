@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from .... import models
+from ... import models
 
 
 class Command(BaseCommand):
