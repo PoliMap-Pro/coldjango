@@ -3,7 +3,8 @@ from .... import models
 
 
 class Command(BaseCommand):
-    help = 'Case 1'
+    help = 'Print primary votes by candidate for every booth in every seat in' \
+           'every election in the house'
 
     def handle(self, *arguments, **keywordarguments):
         for election in models.HouseElection.objects.all().order_by(

@@ -12,13 +12,15 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                             LIGHTHOUSES_DIRECTORY_RELATIVE,
                             FLOORS_DIRECTORY_RELATIVE,
                             SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
-    MAPS = (('add_one_candidate', "Reading files in candidates directory"),
-            ('add_one_lighthouse', "Reading files in lighthouses directory"),
-            ('add_one_floor', "Reading files in floors directory"),
+    MAPS = (('add_one_candidate', "Reading files in candidates directory",
+             True),
+            ('add_one_lighthouse', "Reading files in lighthouses directory",
+             True),
+            ('add_one_floor', "Reading files in floors directory", True),
             ('add_one_preference',
-             "First pass: reading files in preferences directory"),
+             "First pass: reading files in preferences directory", False),
             ('add_one_source',
-             "Second pass: reading files in preferences directory"))
+             "Second pass: reading files in preferences directory", False))
     ALTERNATIVE_GROUP_HEADER = 'Ticket'
     COMMENT_HEADER = 'Comment'
     FLOOR_NAME_HEADER = 'PollingPlaceNm'
@@ -42,8 +44,9 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         senate_election, _ = models.SenateElection.objects.get_or_create(
             election_date=type_of_date(year=election_year, month=1, day=1))
         [self.map_report_with_blank_line(
-            direct, senate_election, False, single_meth, text_to_print) for
-            direct, (single_meth, text_to_print) in zip(
+            direct, senate_election, False, single_meth, text_to_print,
+            two_headers) for direct, (single_meth, text_to_print,
+                                      two_headers) in zip(
             [os.path.join(folder, relative_directory) for relative_directory in
              Command.RELATIVE_DIRECTORIES], Command.MAPS)]
 
