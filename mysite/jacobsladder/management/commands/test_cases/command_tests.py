@@ -1,9 +1,8 @@
 from django.core.management.base import BaseCommand
 from datetime import datetime
-
-from ...models import HouseElection, Seat, Booth, VoteTally, Person, \
+from ....models import HouseElection, Seat, Booth, VoteTally, Person, \
     HouseCandidate
-from ...model_fields import StateName
+from ....model_fields import StateName
 
 
 class Command(BaseCommand):

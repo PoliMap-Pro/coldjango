@@ -129,7 +129,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         booth = Command.fetch_by_aec_code(
             booth_attributes, models.Booth.objects, models.BoothCode.objects,
             'booth', int(row[Command.BOOTH_CODE_HEADER]))
-
         try:
             Command.get_two_candidate_pref_votes(booth, candidate,
                                                  house_election, row)
@@ -178,17 +177,14 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     @staticmethod
     def add_source(candidate, current_round, house_election, pref_objects,
                    received, remaining, seat, transferred):
-        preference_attributes = {
-            'candidate': candidate,
-            'election': house_election,
-            'round': current_round,
-            'votes_received': received,
-            'votes_transferred': transferred,
-        }
+        preference_attributes = {'candidate': candidate,
+                                 'election': house_election,
+                                 'round': current_round,
+                                 'votes_received': received,
+                                 'votes_transferred': transferred,}
         try:
             Command.single_preference(current_round, house_election,
-                                      pref_objects, preference_attributes,
-                                      seat)
+                                      pref_objects, preference_attributes, seat)
         except models.CandidatePreference.MultipleObjectsReturned:
             assert all([pref.source_candidate for pref in
                         pref_objects.filter(**preference_attributes)])
@@ -224,9 +220,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
 
     @staticmethod
     def find_seat(house_election, row, beacon_objects=models.Seat.objects):
-        seat, _ = beacon_objects.get_or_create(name=row[
-            Command.SEAT_NAME_HEADER])
-        seat.elections.add(house_election)
+        seat = Command.set_seat_election(beacon_objects, house_election, row)
         seat.state = row[StringCode.STATE_ABBREVIATION_HEADER].lower()
         seat.save()
         return seat

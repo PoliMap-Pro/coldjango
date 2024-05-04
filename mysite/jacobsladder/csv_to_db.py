@@ -4,7 +4,7 @@ from operator import itemgetter
 from . import models, aec_codes
 from .aec_codes import StringCode
 from .constants import ELECTION_DIRECTORIES
-#from .management.commands.house_csv_to_db import Command
+
 
 
 class AECCodeReader(object):
@@ -123,3 +123,10 @@ class ElectionReader(AECCodeReader):
     def get_standard_beacon_attributes(row):
         return {'name': row[ElectionReader.SEAT_NAME_HEADER],
                 'state': row[StringCode.STATE_ABBREVIATION_HEADER].lower(), }
+
+    @staticmethod
+    def set_seat_election(beacon_objects, house_election, row):
+        seat, _ = beacon_objects.get_or_create(name=row[
+            ElectionReader.SEAT_NAME_HEADER])
+        seat.elections.add(house_election)
+        return seat

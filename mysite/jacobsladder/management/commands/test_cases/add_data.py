@@ -1,9 +1,7 @@
 from datetime import datetime
-
 from django.core.management.base import BaseCommand
-
-import mysite.jacobsladder.model_fields
-from ... import models
+from .... import model_fields
+from .... import models
 
 
 class Command(BaseCommand):
@@ -16,11 +14,11 @@ class Command(BaseCommand):
         house_election_2010.save()
         house_election_2013 = models.HouseElection(election_date=twenty_thirteen)
         house_election_2013.save()
-        seat1 = models.Seat(name="Frank", state=mysite.jacobsladder.model_fields.StateName.VIC)
+        seat1 = models.Seat(name="Frank", state=model_fields.StateName.VIC)
         seat1.save()
         seat1.elections.add(house_election_2010)
         seat1.elections.add(house_election_2013)
-        seat2 = models.Seat(name="Yossarian", state=mysite.jacobsladder.model_fields.StateName.VIC)
+        seat2 = models.Seat(name="Yossarian", state=model_fields.StateName.VIC)
         seat2.save()
         seat2.elections.add(house_election_2010)
         seat2.elections.add(house_election_2013)
