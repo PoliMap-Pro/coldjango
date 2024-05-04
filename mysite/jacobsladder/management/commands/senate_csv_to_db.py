@@ -141,15 +141,25 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
 
     @staticmethod
     def add_one_floor(election, row):
+        candidate, floor, lighthouse = Command.floor_setup(election, row)
+        try:
+            abbreviation = row['Group']
+        except KeyError:
+            abbreviation = row[Command.ALTERNATIVE_GROUP_HEADER]
+        Command.fetch_stack(abbreviation, candidate, election, floor,
+                            lighthouse, row)
+
+    @staticmethod
+    def floor_setup(election, row):
         floor, lighthouse = Command.get_floor(row)
         person_attributes = Command.divide_name(row)
         candidate, _ = Command.find_person(models.SenateCandidate.objects,
                                            person_attributes, row)
         Command.get_stand(candidate, election, row)
-        try:
-            abbreviation = row['Group']
-        except KeyError:
-            abbreviation = row[Command.ALTERNATIVE_GROUP_HEADER]
+        return candidate, floor, lighthouse
+
+    @staticmethod
+    def fetch_stack(abbreviation, candidate, election, floor, lighthouse, row):
         Command.set_group(abbreviation, candidate, election)
         Command.fetch_selection(candidate, election,
                                 Command.short_abbreviation(row))
@@ -158,6 +168,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             candidate=candidate,
             state=row[aec_codes.StringCode.STATE_ABBREVIATION_HEADER].lower(),
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
+        return vote_stack
 
     @staticmethod
     def short_abbreviation(row):
@@ -167,7 +178,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         except models.Party.MultipleObjectsReturned:
             shortest = models.Party._meta.get_field('abbreviation').max_length
             for faction in models.Party.objects.filter(name=row[
-                aec_codes.StringCode.PARTY_NAME_HEADER]):
+                    aec_codes.StringCode.PARTY_NAME_HEADER]):
                 abbreviation_length = len(faction.abbreviation)
                 if abbreviation_length > 0:
                     if abbreviation_length < shortest:
