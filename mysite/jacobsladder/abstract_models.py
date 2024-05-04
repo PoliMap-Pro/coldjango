@@ -34,8 +34,7 @@ class Crown(models.Model):
         abstract = True
 
     seat = models.ForeignKey('Seat', on_delete=models.CASCADE)
-    election = models.ForeignKey('HouseElection',
-                                 on_delete=models.CASCADE)
+    election = models.ForeignKey('HouseElection', on_delete=models.CASCADE)
 
 
 class Transfer(models.Model):

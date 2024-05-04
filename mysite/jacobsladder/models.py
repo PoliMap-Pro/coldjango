@@ -517,26 +517,3 @@ class CandidatePreference(Transfer):
 
     def __str__(self):
         return f"{self.candidate} in {self.round} ({self.pk})"
-
-
-# not using VoteTransfer and VoteDistribution
-class VoteTransfer(models.Model):
-    source_candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
-                                         related_name="to_via")
-    target_candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
-                                         related_name="from_via")
-    round = models.ForeignKey(PreferenceRound, on_delete=models.CASCADE)
-    created = models.DateTimeField(auto_now_add=True)
-
-
-class VoteDistribution(models.Model):
-    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
-    round_number = models.IntegerField()
-    candidate = models.ForeignKey(SenateCandidate, on_delete=models.CASCADE)
-    source_tally = models.ForeignKey(VoteTally, on_delete=models.CASCADE)
-    vote_count_change = models.IntegerField()
-    reason = models.CharField(max_length=127)
-    created = models.DateTimeField(auto_now_add=True)
-
-
-

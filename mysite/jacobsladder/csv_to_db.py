@@ -1,10 +1,8 @@
 import csv
 from operator import itemgetter
-
 from . import models, aec_codes
 from .aec_codes import StringCode
 from .constants import ELECTION_DIRECTORIES
-
 
 
 class AECCodeReader(object):
