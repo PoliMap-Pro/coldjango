@@ -1,11 +1,12 @@
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from .... import model_fields
-from .... import models
+from ... import model_fields
+from ... import models
 
 
 class Command(BaseCommand):
-    help = 'Case 3'
+    help = 'Primary ordinary votes by booth for ALP, GRN, LP in the ' \
+           'seat of Aston'
 
     def handle(self, *arguments, **keywordarguments):
         twenty_twenty_two = datetime(year=2022, month=1, day=1)
