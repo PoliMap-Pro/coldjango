@@ -8,34 +8,31 @@ class Command(BaseCommand):
            "over time from 2001\n\n" \
            ""
 
-    SENATE_RESULTS = {('seat', '2022'): 0000,
-                      ('seat', '2019'): 0000,
-                      ('seat', '2007'): 0000,
-                      ('seat', '2013'): 0000,
-                      ('seat', '2010'): 0000,
-                      ('seat', '2001'): 0000,
-                      ('seat', '2022'): 0000,
-                      ('seat', '2022'): 0000,
-                      ('seat', '2004'): 0000,
-                      ('seat', '2016'): 0000,
+    SENATE_RESULTS = {('Bennelong', '2016'): 5599,
+                     ('Boothby', '2019'): 11612,
+                     ('Bruce', '2007'): 0,
+                     ('Fraser', '2010'): 0,
+                     ('Gellibrand', '2019'): 9771,
+                     ('Grayndler', '2013'): 0,
+                     ('Hasluck', '2022'): 0,
+                     ('Lingiari', '2004'): 0,
+                     ('Newcastle', '2022'): 0,
+                     ('Wide Bay', '2019'): 0, }
 
 
 
-                      }
-    HOUSE_RESULTS = {('Newcastle', '2022'): 21195,
+
+
+    HOUSE_RESULTS = {('Bennelong', '2016'): 6660,
                      ('Boothby', '2019'): 10695,
-                     ('seat', '2007'): 0000,
-                     ('seat', '2013'): 0000,
-                     ('seat', '2010'): 0000,
-                     ('seat', '2001'): 0000,
-                     ('Wide Bay', '2019'): 7486,
+                     ('Bruce', '2007'): 3231,
+                     ('Fraser', '2010'): 19435,
                      ('Gellibrand', '2019'): 13077,
-                     ('seat', '2004'): 0000,
-                     ('seat', '2016'): 0000,
-
-
-
-                     }
+                     ('Grayndler', '2013'): 16882,
+                     ('Hasluck', '2022'): 7928,
+                     ('Lingiari', '2004'): 1893,
+                     ('Newcastle', '2022'): 21195,
+                     ('Wide Bay', '2019'): 7486, }
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
