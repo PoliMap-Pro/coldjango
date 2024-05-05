@@ -334,14 +334,14 @@ class MetaParty(Confederation):
     pass
 
 
-class HouseAlliance(HouseElectionName):
+class HouseAlliance(TrackedName):
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.name} at {self.election} ({self.pk})")
 
 
-class SenateAlliance(SenateElectionName):
+class SenateAlliance(TrackedName):
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
     def __str__(self):
