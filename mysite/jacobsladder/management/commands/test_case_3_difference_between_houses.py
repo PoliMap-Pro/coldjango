@@ -8,21 +8,16 @@ class Command(BaseCommand):
            "over time from 2001\n\n" \
            ""
 
-    SENATE_RESULTS = {('Bennelong', '2016'): 5599,
-                     ('Boothby', '2019'): 11612,
-                     ('Bruce', '2007'): 0,
-                     ('Fraser', '2010'): 0,
-                     ('Gellibrand', '2019'): 9771,
-                     ('Grayndler', '2013'): 0,
-                     ('Hasluck', '2022'): 0,
-                     ('Lingiari', '2004'): 0,
-                     ('Newcastle', '2022'): 0,
-                     ('Wide Bay', '2019'): 0, }
-
-
-
-
-
+    SENATE_RESULTS = {('Bennelong', '2016'): 6210,
+                     ('Boothby', '2019'): 14185,
+                     ('Bruce', '2007'): 4004,
+                     ('Fraser', '2010'): 25156,
+                     ('Gellibrand', '2019'): 11638,
+                     ('Grayndler', '2013'): 18625,
+                     ('Hasluck', '2022'): 9829,
+                     ('Lingiari', '2004'): 2554,
+                     ('Newcastle', '2022'): 17868,
+                     ('Wide Bay', '2019'): 6771, }
     HOUSE_RESULTS = {('Bennelong', '2016'): 6660,
                      ('Boothby', '2019'): 10695,
                      ('Bruce', '2007'): 3231,
