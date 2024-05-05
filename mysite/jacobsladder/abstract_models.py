@@ -60,6 +60,14 @@ class TrackedName(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
 
+class Confederation(TrackedName):
+    class Meta:
+        abstract = True
+
+    def __str__(self):
+        return self.name
+
+
 class Transition(models.Model):
     class Meta:
         abstract = True

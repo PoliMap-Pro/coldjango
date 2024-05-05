@@ -158,8 +158,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     def find_candidate_for_seat(house_election, row):
         seat = Command.fetch_by_aec_code(
             Command.get_standard_beacon_attributes(row), models.Seat.objects,
-            models.SeatCode.objects, 'seat',
-            int(row[Command.SEAT_CODE_HEADER]))
+            models.SeatCode.objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
         candidate = Command.pull_candidate(
             house_election, Command.get_standard_person_attributes(row), row,
             seat)

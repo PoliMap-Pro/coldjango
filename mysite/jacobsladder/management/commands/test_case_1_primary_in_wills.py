@@ -37,19 +37,26 @@ class Command(BaseCommand):
         wills = models.Seat.objects.get(name="Wills", state="vic")
         print(Command.help)
         print("\n")
-        for election in models.HouseElection.objects.all().order_by(
-                'election_date'):
-            print(f"Election on {election.election_date}")
-            for party_abbreviation in ('ALP', 'GRN'):
-                repre = models.Representation.objects.get(
-                    election=election,
-                    party__abbreviation__iexact=party_abbreviation,
-                    person__candidate__contention__seat=wills,
-                    person__candidate__contention__election=election
-                )
-                ordinary_primary = wills.candidate_for(
-                    repre.person.candidate, election)
-                assert ordinary_primary == Command.AEC_RESULTS[(
-                    party_abbreviation, election.election_date.year, )]
-                print(party_abbreviation, ordinary_primary)
-            print()
+        [Command.check_election(election, wills) for election in
+         models.HouseElection.objects.all().order_by('election_date')]
+
+    @staticmethod
+    def check_election(election, wills):
+        print(f"Election on {election.election_date}")
+        [Command.check_primary(election, party_abbreviation, wills) for
+         party_abbreviation in ('ALP', 'GRN')]
+        print()
+
+    @staticmethod
+    def check_primary(election, party_abbreviation, wills):
+        repre = models.Representation.objects.get(
+            election=election,
+            party__abbreviation__iexact=party_abbreviation,
+            person__candidate__contention__seat=wills,
+            person__candidate__contention__election=election
+        )
+        ordinary_primary = wills.candidate_for(
+            repre.person.candidate, election)
+        assert ordinary_primary == Command.AEC_RESULTS[(
+            party_abbreviation, election.election_date.year,)]
+        print(party_abbreviation, ordinary_primary)

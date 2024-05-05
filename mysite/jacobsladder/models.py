@@ -2,7 +2,8 @@ from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
 from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
-    Transition, BallotEntry, VoteRecord, Contest, Round, Transfer
+    Transition, BallotEntry, VoteRecord, Contest, Round, Transfer, \
+    Confederation
 from .model_fields import StateName
 
 """ 
@@ -273,7 +274,7 @@ class Booth(Pin):
                              booth=booth, **keyword_arguments)
                     for booth in [collection.booth for collection in
                                   Collection.objects.filter(
-                    booth__seat=seat, election=election)]]
+                                      booth__seat=seat, election=election)]]
 
 
             return [callback(*arguments, election=election, seat=seat,
@@ -316,6 +317,8 @@ class Party(models.Model):
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
     name = models.CharField(max_length=255)
+    meta_party = models.ForeignKey('MetaParty', null=True, blank=True,
+                                   on_delete=models.SET_NULL)
     created = models.DateTimeField(auto_now_add=True)
 
 
@@ -325,6 +328,24 @@ class PartyAlias(TrackedName):
 
     party = models.ForeignKey(Party, on_delete=models.CASCADE)
     elections = models.ManyToManyField(HouseElection, blank=True)
+
+
+class MetaParty(Confederation):
+    pass
+
+
+class HouseAlliance(HouseElectionName):
+    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return str(f"{self.name} at {self.election} ({self.pk})")
+
+
+class SenateAlliance(SenateElectionName):
+    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return str(f"{self.name} at {self.election} ({self.pk})")
 
 
 class PersonCode(models.Model):
@@ -386,6 +407,8 @@ class Contention(BallotEntry):
             name='unique_seat_candidate_election')]
 
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
+    alliance = models.ForeignKey(HouseAlliance, null=True, blank=True,
+                                 on_delete=models.SET_NULL)
 
     def __str__(self):
         return str(f"{self.candidate} for {self.seat} "
@@ -399,6 +422,9 @@ class Stand(models.Model):
 
     candidate = models.ForeignKey('SenateCandidate', on_delete=models.CASCADE)
     election = models.ForeignKey('SenateElection', on_delete=models.CASCADE)
+    alliance = models.ForeignKey(SenateAlliance, null=True, blank=True,
+                                 on_delete=models.SET_NULL)
+
     ballot_position = models.PositiveSmallIntegerField(default=0)
 
     def __str__(self):
