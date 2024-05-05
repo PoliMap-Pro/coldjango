@@ -60,6 +60,9 @@ class Command(BaseCommand):
             person__candidate__contention__election=election
         )
         result = seat.candidate_for(representation.person.candidate, election)
+        key = seat.name, election.election_year.year
+        if key in Command.HOUSE_RESULTS:
+            assert Command.HOUSE_RESULTS[key] == result
         print('House', result)
         return result
 
@@ -72,6 +75,9 @@ class Command(BaseCommand):
                       for votack in models.VoteStack.objects.filter(
                         election=election, floor=floor, lighthouse=lighthouse,
                         candidate=selection.person.candidate)])
+        key = lighthouse.name, election.election_year.year
+        if key in Command.HOUSE_RESULTS:
+            assert Command.SENATE_RESULTS[key] == result
         print('Senate', result)
         return result
 
