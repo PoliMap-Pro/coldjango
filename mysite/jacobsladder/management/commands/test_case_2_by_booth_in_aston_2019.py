@@ -3,14 +3,6 @@ from datetime import datetime
 from django.core.management.base import BaseCommand
 from ... import models
 
-"""
-Use Cases
-- Get me the Greens senate first pref vote in each seat, as well as the reps first pref vote, and calculate the delta. Do this over time from 2001
-- Look at these N seats. How do preferences flow from the Libs to ALP/Greens in the 2016 election, and how about 2022 (where the Lib recommendation was different?)
-- Get the top 10 greens seats by primary for each of the last 5 elections
-- Get all the seats in 2022 where a non-Greens/ALP/Lib polled more than 10% primary
-- How many voters put Greens in the top 3 for the senate in 2022.
-"""
 
 class Command(BaseCommand):
     help = "Show me the ALP/Lib primary for each booth in Aston in 2019\n\n" \
@@ -198,22 +190,31 @@ class Command(BaseCommand):
     @staticmethod
     def primary(election, seat, booth):
         print(booth)
-        for party_abbreviation in ('ALP', 'LP'):
-            repre = models.Representation.objects.get(
-                election=election,
-                party__abbreviation__iexact=party_abbreviation,
-                person__candidate__contention__seat=seat,
-                person__candidate__contention__election=election
-            )
-            try:
-                vote_tally = models.VoteTally.objects.get(
-                    booth=booth, election=election,
-                    candidate=repre.person.candidate
-                )
-                primary_votes = vote_tally.primary_votes
-                assert primary_votes == Command.AEC_RESULTS[(
-                    party_abbreviation, booth.name, )]
-                print(party_abbreviation, vote_tally.primary_votes)
-            except models.VoteTally.DoesNotExist:
-                print(party_abbreviation, "DID NOT RUN A CANDIDATE")
+        [Command.by_representation(
+            booth, election, party_abbreviation, seat) for party_abbreviation
+            in ('ALP', 'LP')]
         print()
+
+    @staticmethod
+    def by_representation(booth, election, party_abbreviation, seat):
+        repre = models.Representation.objects.get(
+            election=election,
+            party__abbreviation__iexact=party_abbreviation,
+            person__candidate__contention__seat=seat,
+            person__candidate__contention__election=election
+        )
+        try:
+            vote_tally = models.VoteTally.objects.get(
+                booth=booth, election=election,
+                candidate=repre.person.candidate
+            )
+            Command.check_tally(booth, party_abbreviation, vote_tally)
+        except models.VoteTally.DoesNotExist:
+            print(party_abbreviation, "DID NOT RUN A CANDIDATE")
+
+    @staticmethod
+    def check_tally(booth, party_abbreviation, vote_tally):
+        primary_votes = vote_tally.primary_votes
+        assert primary_votes == Command.AEC_RESULTS[(
+            party_abbreviation, booth.name,)]
+        print(party_abbreviation, vote_tally.primary_votes)
