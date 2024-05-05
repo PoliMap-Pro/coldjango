@@ -41,14 +41,14 @@ class Command(BaseCommand):
                 'election_date'):
             print(f"Election on {election.election_date}")
             for party_abbreviation in ('ALP', 'GRN'):
-                alp_representation = models.Representation.objects.get(
+                repre = models.Representation.objects.get(
                     election=election,
                     party__abbreviation__iexact=party_abbreviation,
                     person__candidate__contention__seat=wills,
                     person__candidate__contention__election=election
                 )
                 ordinary_primary = wills.candidate_for(
-                    alp_representation.person.candidate, election)
+                    repre.person.candidate, election)
                 assert ordinary_primary == Command.AEC_RESULTS[(
                     party_abbreviation, election.election_date.year, )]
                 print(party_abbreviation, ordinary_primary)
