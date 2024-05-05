@@ -33,7 +33,7 @@ class Command(BaseCommand):
         print(Command.help)
         print("\n")
         for election in models.SenateElection.objects.all().order_by(
-                '-election_date'):
+                'election_date'):
             print(f"Election on {election.election_date}")
             all_lighthouses = election.lighthouse_set.all().order_by('name')
             house_election = models.HouseElection.objects.get(
