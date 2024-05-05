@@ -268,6 +268,8 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         vote_tally, _ = bind.objects.get_or_create(
             booth=booth, election=house_election, candidate=candidate,
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
+        collection, _ = models.Collection.objects.get_or_create(
+            booth=booth, election=house_election)
 
     @staticmethod
     def set_ballot_position(candidate, house_election, party, person, row,

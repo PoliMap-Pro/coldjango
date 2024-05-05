@@ -271,8 +271,15 @@ class Booth(Pin):
         def wrapper(seat, election):
             return [callback(*arguments, election=election, seat=seat,
                              booth=booth, **keyword_arguments)
+                    for booth in [collection.booth for collection in
+                                  Collection.objects.filter(
+                    booth__seat=seat, election=election)]]
+
+
+            return [callback(*arguments, election=election, seat=seat,
+                             booth=booth, **keyword_arguments)
                     for booth in Booth.objects.filter(
-                    seat=seat)]
+                    seat=seat, collection__election=election)]
         return wrapper
 
     def __str__(self):
