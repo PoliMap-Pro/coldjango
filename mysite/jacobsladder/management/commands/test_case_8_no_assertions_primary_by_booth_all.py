@@ -10,14 +10,18 @@ class Command(BaseCommand):
         for election in models.HouseElection.objects.all().order_by(
                 'election_date'):
             print(f"Election on {election.election_date}")
-            for seat in election.seat_set.all():
-                print(f"\tSeat of {seat.name}")
-                for booth in seat.booth_set.all():
-                    print(f"\t\t{booth}")
-                    models.VoteTally.per(Command.show_candidate)(
-                        booth, seat=seat, election=election)
-                print()
+            [Command.show_seat(election, seat) for seat in
+             election.seat_set.all()]
             print()
+
+    @staticmethod
+    def show_seat(election, seat):
+        print(f"\tSeat of {seat.name}")
+        for booth in seat.booth_set.all():
+            print(f"\t\t{booth}")
+            models.VoteTally.per(Command.show_candidate)(
+                booth, seat=seat, election=election)
+        print()
 
     @staticmethod
     def show_candidate(election, seat, booth, vote_tally):
