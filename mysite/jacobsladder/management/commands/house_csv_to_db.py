@@ -1,14 +1,9 @@
-import os
-from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, csv_to_db
-from ...constants import BOOTHS_DIRECTORY_RELATIVE, \
-    HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE, SEATS_DIRECTORY_RELATIVE, \
-    TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE
-from ...aec_codes import StringCode
-s
+from ... import models
+from ...aec_codes import StringCode, BaseCode
 
-class Command(BaseCommand, csv_to_db.ElectionReader):
+
+class Command(BaseCommand, BaseCode):
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
 
@@ -23,12 +18,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                                     round_objects)
         self.second_pass_preferences(house_election, pref_objects,
                                      preference_distribution_directory)
-
-    def setup(self, booths_directory, house_election, seats_directory,
-              two_candidate_preferred_directory):
-        self.add_seats(house_election, seats_directory)
-        self.add_booths(booths_directory, house_election)
-        self.add_votes(house_election, two_candidate_preferred_directory)
 
     def first_pass_preferences(self, house_election, pref_objects,
                                preference_distribution_directory,
@@ -60,29 +49,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
                     except StopIteration:
                         StringCode.echo(quiet, "", False)
                         break
-
-    def add_booths(self, directory, election,
-                   single_create_method='add_one_booth',
-                   text_to_print="Reading files in booths directory",
-                   quiet=False):
-        self.map_report_with_blank_line(directory, election, quiet,
-                                        single_create_method, text_to_print)
-
-    def add_votes(self, election, directory,
-                  single_create_method='add_one_tally',
-                  text_to_print="Reading files in two candidate preferred "
-                                "directory", quiet=False):
-        StringCode.echo(quiet, text_to_print)
-        for filename in StringCode.walk(directory):
-            self.add_one(filename, election, single_create_method)
-            StringCode.echo(quiet, "", False)
-
-    def add_seats(self, election, directory,
-                  single_create_method='add_one_seat',
-                  text_to_print="Reading files in seats directory",
-                  quiet=False):
-        self.map_report_without_blank_line(directory, election, quiet,
-                                           single_create_method, text_to_print)
 
     def handle(self, *arguments, **keywordarguments):
         pref_objects = models.CandidatePreference.objects
@@ -133,27 +99,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             print()
 
     @staticmethod
-    def fetch_candidate(house_election, row, seat, tag=models.Party):
-        candidate = Command.pull_candidate(
-            house_election, Command.get_standard_person_attributes(row), row,
-            seat)
-        party, _ = tag.objects.get_or_create(name=row[
-            StringCode.PARTY_NAME_HEADER], abbreviation=row[
-            StringCode.PARTY_ABBREVIATION_HEADER])
-        return candidate, party, candidate.person
-
-    @staticmethod
-    def set_booth_from_row(row, code_objects=models.SeatCode.objects):
-        seat = Command.fetch_by_aec_code(
-            Command.get_standard_beacon_attributes(row), models.Seat.objects,
-            code_objects, 'seat', int(row[Command.SEAT_CODE_HEADER]))
-        booth, _ = models.Booth.objects.get_or_create(
-            name=row[Command.BOOTH_NAME_HEADER], seat=seat)
-        booth_code, _ = models.BoothCode.objects.get_or_create(
-            booth=booth, number=int(row[Command.BOOTH_CODE_HEADER]))
-        return booth, seat
-
-    @staticmethod
     def transfer(house_election, pref_objects, reader, row):
         current_round_numb = int(row[Command.ROUND_NUMBER_HEADER])
         if current_round_numb > 0:
@@ -177,16 +122,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
         collection, _ = models.Collection.objects.get_or_create(
             booth=booth, election=house_election)
-
-    @staticmethod
-    def set_ballot_position(candidate, house_election, party, person, row,
-                            seat):
-        representation, _ = models.Representation.objects.get_or_create(
-            person=person, party=party, election=house_election)
-        contention, _ = models.Contention.objects.get_or_create(
-            seat=seat, candidate=candidate, election=house_election)
-        contention.ballot_position = row[Command.BALLOT_ORDER_HEADER]
-        contention.save()
 
     @staticmethod
     def set_pref(house_election, pref_objects, reader, round_objects):
@@ -220,14 +155,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             preference_attributes, seat
 
     @staticmethod
-    def remove_extras(model_objects, attribute_dict):
-        if model_objects.filter(**attribute_dict).count() > 1:
-            modls = model_objects.filter(**attribute_dict)
-            [extra.delete() for extra in modls[1:]]
-            return modls[0]
-        return False
-
-    @staticmethod
     def set_all_preferences(house_election, pref_objects, reader,
                             round_objects):
         while True:
@@ -245,15 +172,3 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         if not pref.election:
             pref.election = house_election
             pref.save()
-
-    @staticmethod
-    def start_election(election_year, folder, type_of_date=datetime,
-                       print_before_year="Election", quiet=False):
-        Command.print_year(election_year, print_before_year, quiet)
-        house_election, _ = models.HouseElection.objects.get_or_create(
-            election_date=type_of_date(year=election_year, month=1, day=1))
-        return os.path.join(folder, BOOTHS_DIRECTORY_RELATIVE), \
-            house_election, os.path.join(
-            folder, HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE), \
-            os.path.join(folder, SEATS_DIRECTORY_RELATIVE), \
-            os.path.join(folder, TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)
