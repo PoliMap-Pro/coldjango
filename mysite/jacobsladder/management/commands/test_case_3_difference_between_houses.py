@@ -6,7 +6,31 @@ class Command(BaseCommand):
     help = "Get me the Greens senate first pref vote in each seat, as well " \
            "as the reps first pref vote, and calculate the delta. Do this " \
            "over time from 2001\n\n" \
-           ""
+           "Fetches the number of primary votes for each seat in both houses.\n\n" \
+           "Asserts that a sample of ten from each house match the numbers " \
+           "from https://results.aec.gov.au, which are:\n\n" \
+           "SENATE\n" \
+           "('Bennelong', '2016'): 6210,\n" \
+           "('Boothby', '2019'): 14185,\n" \
+           "('Bruce', '2007'): 4004,\n" \
+           "('Fraser', '2010'): 25156,\n" \
+           "('Gellibrand', '2019'): 11638,\n" \
+           "('Grayndler', '2013'): 18625,\n" \
+           "('Hasluck', '2022'): 9829,\n" \
+           "('Lingiari', '2004'): 2554,\n" \
+           "('Newcastle', '2022'): 17868,\n" \
+           "('Wide Bay', '2019'): 6771\n\n" \
+           "HOUSE\n" \
+           "('Bennelong', '2016'): 6660,\n" \
+           "('Boothby', '2019'): 10695,\n" \
+           "('Bruce', '2007'): 3231,\n" \
+           "('Fraser', '2010'): 19435,\n" \
+           "('Gellibrand', '2019'): 13077,\n" \
+           "('Grayndler', '2013'): 16882,\n" \
+           "('Hasluck', '2022'): 7928,\n" \
+           "('Lingiari', '2004'): 1893,\n" \
+           "('Newcastle', '2022'): 21195,\n" \
+           "('Wide Bay', '2019'): 7486"
 
     SENATE_RESULTS = {('Bennelong', '2016'): 6210,
                      ('Boothby', '2019'): 14185,
