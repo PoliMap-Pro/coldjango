@@ -7,13 +7,13 @@ from ... import models, csv_to_db, constants
 class Command(BaseCommand, csv_to_db.ElectionReader):
     RELATIVE_DIRECTORIES = (constants.CANDIDATE_DIRECTORY_RELATIVE,
                             constants.LIGHTHOUSES_DIRECTORY_RELATIVE,
-                            #constants.FLOORS_DIRECTORY_RELATIVE,
+                            constants.FLOORS_DIRECTORY_RELATIVE,
                             constants.SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
     MAPS = (('add_one_candidate', "Reading files in candidates directory",
              True, (),),
             ('add_one_lighthouse', "Reading files in lighthouses directory",
              True, (),),
-            #('add_one_floor', "Reading files in floors directory", True),
+            ('add_one_floor', "Reading files in floors directory", True, (), ),
             ('add_one_preference',
              "First pass: reading files in preferences directory", False, (),),
             ('add_one_source',
@@ -117,10 +117,6 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             Command.get_standard_person_attributes(row), row,
             row[Command.ALTERNATIVE_GROUP_HEADER], election)
         if candidate.group:
-            #print(candidate.person)
-            #print(candidate.group)
-            #print(candidate.group.abbreviation)
-            #print(row[Command.ALTERNATIVE_GROUP_HEADER])
             assert candidate.group.abbreviation.lower().strip() == \
                    row[Command.ALTERNATIVE_GROUP_HEADER].lower().strip()
         try:
