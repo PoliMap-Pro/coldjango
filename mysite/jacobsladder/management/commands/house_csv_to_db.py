@@ -1,9 +1,10 @@
 from django.core.management.base import BaseCommand
-from ... import models
-from ...aec_codes import StringCode, BaseCode
+
+import mysite.jacobsladder.base_code
+from ... import models, aec_codes
 
 
-class Command(BaseCommand, BaseCode):
+class Command(BaseCommand, mysite.jacobsladder.base_code.BaseCode):
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
 
@@ -38,8 +39,9 @@ class Command(BaseCommand, BaseCode):
                                 text_to_print="Second Pass: Reading files in "
                                               "preference distribution "
                                               "directory", quiet=False):
-        StringCode.echo(quiet, text_to_print)
-        for filename in StringCode.walk(preference_distribution_directory):
+        aec_codes.StringCode.echo(quiet, text_to_print)
+        for filename in aec_codes.StringCode.walk(
+                preference_distribution_directory):
             with open(filename, "r") as in_file:
                 reader = self.fetch_reader(filename, in_file)
                 while True:
@@ -47,7 +49,7 @@ class Command(BaseCommand, BaseCode):
                         Command.transfer_if_preference(house_election,
                                                        pref_objects, reader)
                     except StopIteration:
-                        StringCode.echo(quiet, "", False)
+                        aec_codes.StringCode.echo(quiet, "", False)
                         break
 
     def handle(self, *arguments, **keywordarguments):

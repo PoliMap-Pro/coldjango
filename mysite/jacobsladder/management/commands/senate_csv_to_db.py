@@ -1,26 +1,24 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, csv_to_db, aec_codes
-from ...constants import CANDIDATE_DIRECTORY_RELATIVE, \
-    LIGHTHOUSES_DIRECTORY_RELATIVE, FLOORS_DIRECTORY_RELATIVE, \
-    SENATE_DISTRIBUTION_DIRECTORY_RELATIVE
+from ... import models, csv_to_db, constants
 
 
 class Command(BaseCommand, csv_to_db.ElectionReader):
-    RELATIVE_DIRECTORIES = (CANDIDATE_DIRECTORY_RELATIVE,
-                            LIGHTHOUSES_DIRECTORY_RELATIVE,
-                            FLOORS_DIRECTORY_RELATIVE,
-                            SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
+    RELATIVE_DIRECTORIES = (constants.CANDIDATE_DIRECTORY_RELATIVE,
+                            constants.LIGHTHOUSES_DIRECTORY_RELATIVE,
+                            #constants.FLOORS_DIRECTORY_RELATIVE,
+                            constants.SENATE_DISTRIBUTION_DIRECTORY_RELATIVE)
     MAPS = (('add_one_candidate', "Reading files in candidates directory",
-             True),
+             True, (),),
             ('add_one_lighthouse', "Reading files in lighthouses directory",
-             True),
-            ('add_one_floor', "Reading files in floors directory", True),
+             True, (),),
+            #('add_one_floor', "Reading files in floors directory", True),
             ('add_one_preference',
-             "First pass: reading files in preferences directory", False),
+             "First pass: reading files in preferences directory", False, (),),
             ('add_one_source',
-             "Second pass: reading files in preferences directory", False))
+             "Second pass: reading files in preferences directory", False, (),
+             ))
     ALTERNATIVE_GROUP_HEADER = 'Ticket'
     COMMENT_HEADER = 'Comment'
     FLOOR_NAME_HEADER = 'PollingPlaceNm'
@@ -45,8 +43,8 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             election_date=type_of_date(year=election_year, month=1, day=1))
         [self.map_report_with_blank_line(
             direct, senate_election, False, single_meth, text_to_print,
-            two_headers) for direct, (single_meth, text_to_print,
-                                      two_headers) in zip(
+            two_headers, two_header_years, election_year) for direct, (
+            single_meth, text_to_print, two_headers, two_header_years) in zip(
             [os.path.join(folder, relative_directory) for relative_directory in
              Command.RELATIVE_DIRECTORIES], Command.MAPS)]
 
@@ -79,7 +77,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             person = Command.fetch_by_aec_code(
                 person_attributes, models.Person.objects,
                 models.PersonCode.objects, 'person', int(
-                    row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
+                    row[constants.CANDIDATE_CODE_HEADER]))
         except KeyError:
             person = models.Person.objects.get(**person_attributes)
         candidate = models.SenateCandidate.get(person=person)
@@ -103,8 +101,12 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
 
     @staticmethod
     def add_one_preference(election, row):
+        if Command.SENATE_STATE_HEADER in row:
+            state_key = Command.SENATE_STATE_HEADER
+        else:
+            state_key = constants.STATE_ABBREVIATION_HEADER
         pool, _ = models.Pool.objects.get_or_create(
-            election=election, state=row[Command.SENATE_STATE_HEADER],
+            election=election, state=row[state_key],
             vacancies=int(row[Command.VACANCIES_HEADER]),
             formal_papers=int(row[Command.TOTAL_FORMAL_HEADER]),
             quota=int(row[Command.QUOTA_HEADER]))
@@ -112,8 +114,13 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
             pool=pool, round_number=int(row[Command.SENATE_ROUND_HEADER]))
         candidate, _ = Command.find_person(
             models.SenateCandidate.objects,
-            Command.get_standard_person_attributes(row), row)
+            Command.get_standard_person_attributes(row), row,
+            row[Command.ALTERNATIVE_GROUP_HEADER], election)
         if candidate.group:
+            #print(candidate.person)
+            #print(candidate.group)
+            #print(candidate.group.abbreviation)
+            #print(row[Command.ALTERNATIVE_GROUP_HEADER])
             assert candidate.group.abbreviation.lower().strip() == \
                    row[Command.ALTERNATIVE_GROUP_HEADER].lower().strip()
         try:
@@ -136,8 +143,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         lighthouse, _ = models.Lighthouse.objects.get_or_create(
             name=row[Command.SEAT_NAME_HEADER])
         lighthouse.elections.add(election)
-        lighthouse.state = row[
-            aec_codes.StringCode.STATE_ABBREVIATION_HEADER].lower()
+        lighthouse.state = row[constants.STATE_ABBREVIATION_HEADER].lower()
         lighthouse.save()
         lighthouse_code, _ = models.LighthouseCode.objects.get_or_create(
             lighthouse=lighthouse, number=int(row[Command.SEAT_CODE_HEADER]))
@@ -169,7 +175,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         vote_stack, _ = models.VoteStack.objects.get_or_create(
             floor=floor, election=election, lighthouse=lighthouse,
             candidate=candidate,
-            state=row[aec_codes.StringCode.STATE_ABBREVIATION_HEADER].lower(),
+            state=row[constants.STATE_ABBREVIATION_HEADER].lower(),
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
         return vote_stack
 
@@ -177,11 +183,11 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     def short_abbreviation(row):
         try:
             party, _ = models.Party.objects.get_or_create(name=row[
-                aec_codes.StringCode.PARTY_NAME_HEADER])
+                constants.PARTY_NAME_HEADER])
         except models.Party.MultipleObjectsReturned:
             shortest = models.Party._meta.get_field('abbreviation').max_length
             for faction in models.Party.objects.filter(name=row[
-                    aec_codes.StringCode.PARTY_NAME_HEADER]):
+                    constants.PARTY_NAME_HEADER]):
                 abbreviation_length = len(faction.abbreviation)
                 if abbreviation_length > 0:
                     if abbreviation_length < shortest:

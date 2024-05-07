@@ -1,5 +1,5 @@
 from django.db import models
-from .model_fields import StateName
+from . import model_fields
 
 
 class Election(models.Model):
@@ -26,7 +26,8 @@ class Beacon(Pin):
     class Meta:
         abstract = True
 
-    state = models.CharField(max_length=9, choices=StateName.choices)
+    state = models.CharField(max_length=9,
+                             choices=model_fields.StateName.choices)
 
 
 class Crown(models.Model):
@@ -89,7 +90,8 @@ class Contest(models.Model):
     class Meta:
         abstract = True
 
-    state = models.CharField(max_length=9, choices=StateName.choices)
+    state = models.CharField(max_length=9,
+                             choices=model_fields.StateName.choices)
     election = models.ForeignKey("SenateElection", on_delete=models.CASCADE)
 
 

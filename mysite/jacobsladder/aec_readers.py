@@ -1,6 +1,5 @@
 import csv
-
-from ..jacobsladder import aec_codes, models
+from . import models, constants, folder_reader
 
 
 class AECReader(object):
@@ -10,18 +9,23 @@ class AECReader(object):
     SEAT_CODE_HEADER = 'DivisionID'
 
     def add_one(self, filename, election, single_create_method,
-                line_before_headers=True):
+                line_before_headers=True, two_header_years=None,
+                election_year=None):
         with open(filename, "r") as in_file:
             reader = self.fetch_reader(filename, in_file,
-                                       line_before_headers=line_before_headers)
+                                       line_before_headers=line_before_headers,
+                                       two_header_years=two_header_years,
+                                       election_year=election_year)
             method = getattr(self.__class__, single_create_method)
             [method(election, row) for row in reader]
 
     @staticmethod
     def fetch_reader(filename, in_file, type_of_reader=csv.DictReader,
-                     quiet=False, line_before_headers=True):
-        aec_codes.StringCode.echo(quiet, filename, False)
-        if line_before_headers:
+                     quiet=False, line_before_headers=True,
+                     two_header_years=None, election_year=None):
+        folder_reader.FolderReader.echo(quiet, filename, False)
+        if line_before_headers or (two_header_years and election_year and
+                                   (election_year in two_header_years)):
             next(in_file)
         return type_of_reader(in_file)
 
@@ -46,19 +50,32 @@ class AECReader(object):
     @staticmethod
     def get_standard_beacon_attributes(row):
         return {'name': row[AECReader.SEAT_NAME_HEADER],
-                'state': row[
-                    aec_codes.StringCode.STATE_ABBREVIATION_HEADER].lower(), }
+                'state': row[constants.STATE_ABBREVIATION_HEADER].lower(), }
 
     @classmethod
-    def find_person(cls, candidate_objects, person_attributes, row):
+    def find_person(cls, candidate_objects, person_attributes, row,
+                    group_abbreviation=None, election=None):
         try:
             person = cls.fetch_by_aec_code(
                 person_attributes, models.Person.objects,
                 models.PersonCode.objects, 'person', int(
-                    row[aec_codes.StringCode.CANDIDATE_CODE_HEADER]))
+                    row[constants.CANDIDATE_CODE_HEADER]))
         except KeyError:
             person, _ = models.Person.objects.get_or_create(**person_attributes)
-        candidate, _ = candidate_objects.get_or_create(person=person)
+        if group_abbreviation:
+            group_abbreviation = group_abbreviation.strip()
+            try:
+                candidate = candidate_objects.get(
+                        person=person, group__abbreviation=group_abbreviation)
+            except models.SenateCandidate.DoesNotExist:
+                if election:
+                    group, _ = models.SenateGroup.objects.get_or_create(
+                        abbreviation=group_abbreviation, election=election)
+                    candidate = candidate_objects.get(person=person)
+                    candidate.group = group
+                    candidate.save()
+        else:
+            candidate, _ = candidate_objects.get_or_create(person=person)
         return candidate, person
 
     @staticmethod
@@ -96,7 +113,8 @@ class AECReader(object):
                                  'votes_transferred': transferred,}
         try:
             AECReader.single_preference(current_round, house_election,
-                                      pref_objects, preference_attributes, seat)
+                                        pref_objects, preference_attributes,
+                                        seat)
         except models.CandidatePreference.MultipleObjectsReturned:
             assert all([pref.source_candidate for pref in
                         pref_objects.filter(**preference_attributes)])
@@ -111,54 +129,3 @@ class AECReader(object):
                                                  election=house_election,
                                                  seat=seat).candidate
         pref.save()
-
-
-class AECCodeReader(AECReader):
-    ALTERNATIVE_BALLOT_ORDER_HEADER = 'Ballot Position'
-    BALLOT_ORDER_HEADER = 'BallotPosition'
-    KIND_OF_VOTES_HEADER = 'CalculationType'
-    NUMBER_OF_VOTES_HEADER = 'CalculationValue'
-    ORDINARY_VOTES_HEADER = 'OrdinaryVotes'
-
-    def map_report(self, directory, election, quiet, single_create_method,
-                   text_to_print, blank_line, line_before_headers=True):
-        aec_codes.StringCode.echo(quiet, text_to_print, blank_line)
-        [self.add_one(filename, election, single_create_method,
-                      line_before_headers) for filename in
-         aec_codes.StringCode.walk(directory)]
-
-    @staticmethod
-    def print_year(election_year, print_before_year, quiet):
-        if not quiet:
-            print(print_before_year, election_year)
-            print()
-
-    @staticmethod
-    def set_seat_election(beacon_objects, house_election, row):
-        seat, _ = beacon_objects.get_or_create(name=row[
-            AECReader.SEAT_NAME_HEADER])
-        seat.elections.add(house_election)
-        return seat
-
-    @staticmethod
-    def fetch_candid(house_election, row):
-        """
-        Fetch the person, then use it to fetch the candidate
-        """
-
-        candidate, seat = AECCodeReader.find_candidate_for_seat(house_election,
-                                                                row)
-        return candidate, int(row[AECCodeReader.NUMBER_OF_VOTES_HEADER]), seat
-
-    @staticmethod
-    def advance(reader):
-        next(reader)
-        return int(next(reader)[AECCodeReader.NUMBER_OF_VOTES_HEADER])
-
-    @staticmethod
-    def get_two_candidate_pref_votes(booth, candidate, house_election, row):
-        vote_tally = models.VoteTally.objects.get(booth=booth,
-                                                  election=house_election,
-                                                  candidate=candidate)
-        vote_tally.tcp_votes = int(row[AECCodeReader.ORDINARY_VOTES_HEADER])
-        vote_tally.save()
