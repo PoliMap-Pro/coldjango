@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dessie Kocher (2834)_Charlton_2013" {
-	graph [label="Charlton 2013" labelloc=t]
+	graph [label="Charlton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dessie Kocher (2834)" [label="Dessie Kocher (2834)
 The Greens"]

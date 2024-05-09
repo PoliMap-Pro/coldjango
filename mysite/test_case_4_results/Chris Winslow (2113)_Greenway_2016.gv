@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Winslow (2113)_Greenway_2016" {
-	graph [label="Greenway 2016" labelloc=t]
+	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Winslow (2113)" [label="Chris Winslow (2113)
 The Greens"]

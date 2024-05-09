@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Morris (2129)_Hunter_2016" {
-	graph [label="Hunter 2016" labelloc=t]
+	graph [label="Hunter 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Morris (2129)" [label="Peter Morris (2129)
 The Greens"]

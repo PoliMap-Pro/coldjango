@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Bradley (277)_Parramatta_2022" {
-	graph [label="Parramatta 2022" labelloc=t]
+	graph [label="Parramatta 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Bradley (277)" [label="Phil Bradley (277)
 The Greens"]

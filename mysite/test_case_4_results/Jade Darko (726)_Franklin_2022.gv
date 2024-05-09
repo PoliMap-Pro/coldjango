@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jade Darko (726)_Franklin_2022" {
-	graph [label="Franklin 2022" labelloc=t]
+	graph [label="Franklin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jade Darko (726)" [label="Jade Darko (726)
 The Greens"]

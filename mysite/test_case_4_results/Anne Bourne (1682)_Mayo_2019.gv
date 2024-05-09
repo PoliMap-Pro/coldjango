@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anne Bourne (1682)_Mayo_2019" {
-	graph [label="Mayo 2019" labelloc=t]
+	graph [label="Mayo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anne Bourne (1682)" [label="Anne Bourne (1682)
 The Greens"]

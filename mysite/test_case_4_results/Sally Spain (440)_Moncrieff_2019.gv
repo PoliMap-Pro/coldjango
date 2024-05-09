@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sally Spain (440)_Moncrieff_2019" {
-	graph [label="Moncrieff 2019" labelloc=t]
+	graph [label="Moncrieff 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sally Spain (440)" [label="Sally Spain (440)
 The Greens"]

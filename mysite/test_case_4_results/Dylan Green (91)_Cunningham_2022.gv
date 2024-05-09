@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dylan Green (91)_Cunningham_2022" {
-	graph [label="Cunningham 2022" labelloc=t]
+	graph [label="Cunningham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dylan Green (91)" [label="Dylan Green (91)
 The Greens"]

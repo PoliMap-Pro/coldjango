@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carly Saeedi (2031)_Fenner_2016" {
-	graph [label="Fenner 2016" labelloc=t]
+	graph [label="Fenner 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carly Saeedi (2031)" [label="Carly Saeedi (2031)
 The Greens"]

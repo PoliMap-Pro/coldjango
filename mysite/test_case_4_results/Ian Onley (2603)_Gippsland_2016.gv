@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Onley (2603)_Gippsland_2016" {
-	graph [label="Gippsland 2016" labelloc=t]
+	graph [label="Gippsland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Onley (2603)" [label="Ian Onley (2603)
 The Greens"]

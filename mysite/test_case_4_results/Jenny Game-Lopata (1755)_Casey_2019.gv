@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jenny Game-Lopata (1755)_Casey_2019" {
-	graph [label="Casey 2019" labelloc=t]
+	graph [label="Casey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
 The Greens (VIC)"]

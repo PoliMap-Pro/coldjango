@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jane Macallister (3492)_Mallee_2013" {
-	graph [label="Mallee 2013" labelloc=t]
+	graph [label="Mallee 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jane Macallister (3492)" [label="Jane Macallister (3492)
 The Greens"]

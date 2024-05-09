@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Jones (2053)_Bradfield_2016" {
-	graph [label="Bradfield 2016" labelloc=t]
+	graph [label="Bradfield 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Jones (2053)" [label="Adrian Jones (2053)
 The Greens"]

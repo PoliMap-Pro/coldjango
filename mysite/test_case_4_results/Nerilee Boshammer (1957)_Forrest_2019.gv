@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nerilee Boshammer (1957)_Forrest_2019" {
-	graph [label="Forrest 2019" labelloc=t]
+	graph [label="Forrest 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nerilee Boshammer (1957)" [label="Nerilee Boshammer (1957)
 The Greens (WA)"]

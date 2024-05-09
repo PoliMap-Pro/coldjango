@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Claire Garton (563)_Moreton_2022" {
-	graph [label="Moreton 2022" labelloc=t]
+	graph [label="Moreton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Claire Garton (563)" [label="Claire Garton (563)
 Queensland Greens"]

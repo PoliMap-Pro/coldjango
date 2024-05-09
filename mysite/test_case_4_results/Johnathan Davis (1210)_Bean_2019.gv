@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Johnathan Davis (1210)_Bean_2019" {
-	graph [label="Bean 2019" labelloc=t]
+	graph [label="Bean 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Johnathan Davis (1210)" [label="Johnathan Davis (1210)
 The Greens"]

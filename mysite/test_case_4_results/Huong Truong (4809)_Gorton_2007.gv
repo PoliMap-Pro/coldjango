@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Huong Truong (4809)_Gorton_2007" {
+	graph [label="Gorton 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Huong Truong (4809)" [label="Huong Truong (4809)
+Australian Greens"]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Huong Truong (4809)" [label="Huong Truong (4809)
+Australian Greens"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Scott Amberley (3432)" -> "Huong Truong (4809)" [label=944]
+	"Vern Hughes (4807)" -> "Scott Amberley (3432)" [label=458]
+	"Vern Hughes (4807)" -> "Huong Truong (4809)" [label=416]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Kwon (2318)_Fadden_2016" {
-	graph [label="Fadden 2016" labelloc=t]
+	graph [label="Fadden 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Kwon (2318)" [label="Daniel Kwon (2318)
 The Greens"]

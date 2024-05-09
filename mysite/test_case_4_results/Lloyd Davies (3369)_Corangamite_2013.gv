@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lloyd Davies (3369)_Corangamite_2013" {
-	graph [label="Corangamite 2013" labelloc=t]
+	graph [label="Corangamite 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
 The Greens"]

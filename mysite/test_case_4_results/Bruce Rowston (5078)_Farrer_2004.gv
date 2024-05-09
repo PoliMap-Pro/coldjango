@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Bruce Rowston (5078)_Farrer_2004" {
+	graph [label="Farrer 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"John Burbidge (5075)" -> "Bruce Rowston (5078)" [label=799]
+	"Jennifer Weller (5072)" -> "John Burbidge (5075)" [label=380]
+	"Ray Jones (5076)" -> "Jennifer Weller (5072)" [label=233]
+	"Ian Paul Burn (5077)" -> "Ray Jones (5076)" [label=97]
+	"Matt Morgan (5073)" -> "Ian Paul Burn (5077)" [label=13]
+	"Frank Kovacs (5074)" -> "Matt Morgan (5073)" [label=53]
+	"Chris Lahy (984)" -> "Frank Kovacs (5074)" [label=21]
+	"Jennifer Weller (5072)" -> "Bruce Rowston (5078)" [label=160]
+	"Ray Jones (5076)" -> "Bruce Rowston (5078)" [label=218]
+	"Ian Paul Burn (5077)" -> "Bruce Rowston (5078)" [label=57]
+	"Matt Morgan (5073)" -> "Bruce Rowston (5078)" [label=61]
+	"Frank Kovacs (5074)" -> "Bruce Rowston (5078)" [label=91]
+	"Chris Lahy (984)" -> "Bruce Rowston (5078)" [label=15]
+	"Chris Lahy (984)" -> "Matt Morgan (5073)" [label=50]
+	"Frank Kovacs (5074)" -> "Ian Paul Burn (5077)" [label=10]
+	"Chris Lahy (984)" -> "Ian Paul Burn (5077)" [label=19]
+	"Matt Morgan (5073)" -> "Ray Jones (5076)" [label=35]
+	"Frank Kovacs (5074)" -> "Ray Jones (5076)" [label=18]
+	"Chris Lahy (984)" -> "Ray Jones (5076)" [label=17]
+	"Ian Paul Burn (5077)" -> "Jennifer Weller (5072)" [label=246]
+	"Matt Morgan (5073)" -> "Jennifer Weller (5072)" [label=133]
+	"Frank Kovacs (5074)" -> "Jennifer Weller (5072)" [label=18]
+	"Chris Lahy (984)" -> "Jennifer Weller (5072)" [label=24]
+	"Ray Jones (5076)" -> "John Burbidge (5075)" [label=542]
+	"Ian Paul Burn (5077)" -> "John Burbidge (5075)" [label=45]
+	"Matt Morgan (5073)" -> "John Burbidge (5075)" [label=260]
+	"Frank Kovacs (5074)" -> "John Burbidge (5075)" [label=89]
+	"Chris Lahy (984)" -> "John Burbidge (5075)" [label=25]
+}

@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Belinda Coates (4047)_Ballarat_2010" {
+	graph [label="Ballarat 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Belinda Coates (4047)" [label="Belinda Coates (4047)
+Australian Greens"]
+	"Jim Rainey (4049)" [label="Jim Rainey (4049)
+Family First"]
+	"Jim Rainey (4049)" [label="Jim Rainey (4049)
+Family First"]
+	"Jim Rainey (4049)" -> "Belinda Coates (4047)" [label=523]
+}

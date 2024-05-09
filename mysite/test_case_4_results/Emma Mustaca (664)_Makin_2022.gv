@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Mustaca (664)_Makin_2022" {
-	graph [label="Makin 2022" labelloc=t]
+	graph [label="Makin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Mustaca (664)" [label="Emma Mustaca (664)
 The Greens"]

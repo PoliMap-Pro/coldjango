@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Pheasant (1019)_Menzies_2022" {
-	graph [label="Menzies 2022" labelloc=t]
+	graph [label="Menzies 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
 The Greens"]

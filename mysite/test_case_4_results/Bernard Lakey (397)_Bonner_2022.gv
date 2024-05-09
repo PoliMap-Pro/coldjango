@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bernard Lakey (397)_Bonner_2022" {
-	graph [label="Bonner 2022" labelloc=t]
+	graph [label="Bonner 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bernard Lakey (397)" [label="Bernard Lakey (397)
 Queensland Greens"]

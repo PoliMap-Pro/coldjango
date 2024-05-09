@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chetan Sahai (335)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chetan Sahai (335)" [label="Chetan Sahai (335)
 The Greens"]

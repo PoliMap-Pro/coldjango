@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carmel Mary Mccallum (1297)_Gilmore_2019" {
-	graph [label="Gilmore 2019" labelloc=t]
+	graph [label="Gilmore 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
 The Greens"]

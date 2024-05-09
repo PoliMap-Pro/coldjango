@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Christoe (1035)_Nicholls_2022" {
-	graph [label="Nicholls 2022" labelloc=t]
+	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Christoe (1035)" [label="Ian Christoe (1035)
 The Greens"]

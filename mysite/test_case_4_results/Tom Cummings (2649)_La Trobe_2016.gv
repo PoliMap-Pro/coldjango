@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tom Cummings (2649)_La Trobe_2016" {
-	graph [label="La Trobe 2016" labelloc=t]
+	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tom Cummings (2649)" [label="Tom Cummings (2649)
 The Greens"]

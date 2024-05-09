@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Asher Cookson (737)_Aston_2022" {
-	graph [label="Aston 2022" labelloc=t]
+	graph [label="Aston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Asher Cookson (737)" [label="Asher Cookson (737)
 The Greens"]

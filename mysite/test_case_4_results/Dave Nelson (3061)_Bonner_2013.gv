@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dave Nelson (3061)_Bonner_2013" {
-	graph [label="Bonner 2013" labelloc=t]
+	graph [label="Bonner 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dave Nelson (3061)" [label="Dave Nelson (3061)
 The Greens"]

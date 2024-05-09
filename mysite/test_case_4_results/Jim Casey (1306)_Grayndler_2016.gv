@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Casey (1306)_Grayndler_2016" {
-	graph [label="Grayndler 2016" labelloc=t]
+	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Casey (1306)" [label="Jim Casey (1306)
 The Greens"]

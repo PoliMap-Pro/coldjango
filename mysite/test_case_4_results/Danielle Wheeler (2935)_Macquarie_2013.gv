@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Danielle Wheeler (2935)_Macquarie_2013" {
-	graph [label="Macquarie 2013" labelloc=t]
+	graph [label="Macquarie 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
 The Greens"]

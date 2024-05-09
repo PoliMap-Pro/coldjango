@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Anne Walker (3279)_Sturt_2013" {
+	graph [label="Sturt 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anne Walker (3279)" [label="Anne Walker (3279)
+Australian Greens"]
+	"Kylie Barnes (3276)" [label="Kylie Barnes (3276)
+Family First"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Anne Walker (3279)" [label="Anne Walker (3279)
+Australian Greens"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Kylie Barnes (3276)" [label="Kylie Barnes (3276)
+Family First"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Kylie Barnes (3276)" -> "Anne Walker (3279)" [label=1014]
+	"Gabriella Alexandra Scali (3278)" -> "Kylie Barnes (3276)" [label=631]
+	"Gabriella Alexandra Scali (3278)" -> "Anne Walker (3279)" [label=603]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Daniell (2481)_Mayo_2016" {
-	graph [label="Mayo 2016" labelloc=t]
+	graph [label="Mayo 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Daniell (2481)" [label="Nathan Daniell (2481)
 The Greens"]

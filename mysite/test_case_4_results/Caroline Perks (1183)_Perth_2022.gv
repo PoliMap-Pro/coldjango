@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Caroline Perks (1183)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Caroline Perks (1183)" [label="Caroline Perks (1183)
 The Greens (WA)"]

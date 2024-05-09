@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandra Bayley (2431)_Ryan_2016" {
-	graph [label="Ryan 2016" labelloc=t]
+	graph [label="Ryan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
 The Greens"]

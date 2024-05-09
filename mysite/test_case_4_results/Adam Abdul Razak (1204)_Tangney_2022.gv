@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Abdul Razak (1204)_Tangney_2022" {
-	graph [label="Tangney 2022" labelloc=t]
+	graph [label="Tangney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Abdul Razak (1204)" [label="Adam Abdul Razak (1204)
 The Greens (WA)"]

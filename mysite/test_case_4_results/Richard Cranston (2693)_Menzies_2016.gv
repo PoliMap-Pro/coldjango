@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Cranston (2693)_Menzies_2016" {
-	graph [label="Menzies 2016" labelloc=t]
+	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Cranston (2693)" [label="Richard Cranston (2693)
 The Greens"]

@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Tim Long (4129)_Maribyrnong_2010" {
+	graph [label="Maribyrnong 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tim Long (4129)" [label="Tim Long (4129)
+Australian Greens"]
+	"Colin Moyle (4128)" [label="Colin Moyle (4128)
+Family First"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Tim Long (4129)" [label="Tim Long (4129)
+Australian Greens"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Colin Moyle (4128)" [label="Colin Moyle (4128)
+Family First"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Colin Moyle (4128)" -> "Tim Long (4129)" [label=759]
+	"Robert Livesay (4130)" -> "Colin Moyle (4128)" [label=151]
+	"Robert Livesay (4130)" -> "Tim Long (4129)" [label=322]
+}

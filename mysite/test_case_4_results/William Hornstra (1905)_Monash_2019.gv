@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Hornstra (1905)_Monash_2019" {
-	graph [label="Monash 2019" labelloc=t]
+	graph [label="Monash 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Hornstra (1905)" [label="William Hornstra (1905)
 The Greens (VIC)"]

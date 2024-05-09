@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Phil Bradley (277)_Parramatta_2013" {
+	graph [label="Parramatta 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Alex Sharah (2969)" [label="Alex Sharah (2969)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
+One Nation"]
+	"Ganesh Sahadev Loke (1395)" -> "Phil Bradley (277)" [label=675]
+	"Alex Sharah (2969)" -> "Ganesh Sahadev Loke (1395)" [label=329]
+	"Miechele Williams (2965)" -> "Alex Sharah (2969)" [label=141]
+	"Kalpesh Patel (2966)" -> "Miechele Williams (2965)" [label=123]
+	"Tania Rollinson (2968)" -> "Kalpesh Patel (2966)" [label=67]
+	"Alex Sharah (2969)" -> "Phil Bradley (277)" [label=203]
+	"Miechele Williams (2965)" -> "Phil Bradley (277)" [label=181]
+	"Kalpesh Patel (2966)" -> "Phil Bradley (277)" [label=163]
+	"Tania Rollinson (2968)" -> "Phil Bradley (277)" [label=75]
+	"Tania Rollinson (2968)" -> "Miechele Williams (2965)" [label=53]
+	"Kalpesh Patel (2966)" -> "Alex Sharah (2969)" [label=54]
+	"Tania Rollinson (2968)" -> "Alex Sharah (2969)" [label=160]
+	"Miechele Williams (2965)" -> "Ganesh Sahadev Loke (1395)" [label=815]
+	"Kalpesh Patel (2966)" -> "Ganesh Sahadev Loke (1395)" [label=348]
+	"Tania Rollinson (2968)" -> "Ganesh Sahadev Loke (1395)" [label=138]
+}

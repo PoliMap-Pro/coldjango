@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Giz Watson (1158)_O'Connor_2016" {
-	graph [label="O'Connor 2016" labelloc=t]
+	graph [label="O'Connor 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Giz Watson (1158)" [label="Giz Watson (1158)
 The Greens (WA)"]

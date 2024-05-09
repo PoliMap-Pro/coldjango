@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Hammond (2841)_Chifley_2013" {
-	graph [label="Chifley 2013" labelloc=t]
+	graph [label="Chifley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Hammond (2841)" [label="Ben Hammond (2841)
 The Greens"]

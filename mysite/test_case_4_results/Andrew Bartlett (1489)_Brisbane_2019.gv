@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Bartlett (1489)_Brisbane_2019" {
-	graph [label="Brisbane 2019" labelloc=t]
+	graph [label="Brisbane 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Bartlett (1489)" [label="Andrew Bartlett (1489)
 The Greens"]

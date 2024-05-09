@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sheridan Young (2733)_Cowan_2016" {
-	graph [label="Cowan 2016" labelloc=t]
+	graph [label="Cowan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sheridan Young (2733)" [label="Sheridan Young (2733)
 The Greens (WA)"]

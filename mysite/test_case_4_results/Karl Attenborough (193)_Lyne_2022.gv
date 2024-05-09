@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karl Attenborough (193)_Lyne_2022" {
-	graph [label="Lyne 2022" labelloc=t]
+	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karl Attenborough (193)" [label="Karl Attenborough (193)
 The Greens"]

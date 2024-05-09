@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicole Thompson (608)_Wright_2022" {
-	graph [label="Wright 2022" labelloc=t]
+	graph [label="Wright 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicole Thompson (608)" [label="Nicole Thompson (608)
 Queensland Greens"]

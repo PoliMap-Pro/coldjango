@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philippa Clark (2033)_Banks_2016" {
-	graph [label="Banks 2016" labelloc=t]
+	graph [label="Banks 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philippa Clark (2033)" [label="Philippa Clark (2033)
 The Greens"]

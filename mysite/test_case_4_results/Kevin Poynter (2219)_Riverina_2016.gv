@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Poynter (2219)_Riverina_2016" {
-	graph [label="Riverina 2016" labelloc=t]
+	graph [label="Riverina 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
 The Greens"]

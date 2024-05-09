@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ethan Hrnjak (206)_Mackellar_2022" {
-	graph [label="Mackellar 2022" labelloc=t]
+	graph [label="Mackellar 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ethan Hrnjak (206)" [label="Ethan Hrnjak (206)
 The Greens"]

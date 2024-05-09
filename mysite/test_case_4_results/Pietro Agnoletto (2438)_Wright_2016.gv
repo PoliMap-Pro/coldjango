@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pietro Agnoletto (2438)_Wright_2016" {
-	graph [label="Wright 2016" labelloc=t]
+	graph [label="Wright 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pietro Agnoletto (2438)" [label="Pietro Agnoletto (2438)
 The Greens"]

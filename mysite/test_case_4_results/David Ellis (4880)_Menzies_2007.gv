@@ -1,0 +1,55 @@
+// House preference flow
+digraph "David Ellis (4880)_Menzies_2007" {
+	graph [label="Menzies 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Ellis (4880)" [label="David Ellis (4880)
+Australian Greens"]
+	"Philip Nitschke (4881)" [label="Philip Nitschke (4881)
+Independent"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"David Ellis (4880)" [label="David Ellis (4880)
+Australian Greens"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"David Ellis (4880)" [label="David Ellis (4880)
+Australian Greens"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Philip Nitschke (4881)" [label="Philip Nitschke (4881)
+Independent"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Philip Nitschke (4881)" [label="Philip Nitschke (4881)
+Independent"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"Philip Nitschke (4881)" -> "David Ellis (4880)" [label=1795]
+	"Ken Smithies (3326)" -> "Philip Nitschke (4881)" [label=142]
+	"Damian Wise (4883)" -> "Ken Smithies (3326)" [label=65]
+	"Ken Smithies (3326)" -> "David Ellis (4880)" [label=314]
+	"Damian Wise (4883)" -> "David Ellis (4880)" [label=237]
+	"Damian Wise (4883)" -> "Philip Nitschke (4881)" [label=174]
+}

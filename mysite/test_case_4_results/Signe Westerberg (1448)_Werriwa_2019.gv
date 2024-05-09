@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Signe Westerberg (1448)_Werriwa_2019" {
-	graph [label="Werriwa 2019" labelloc=t]
+	graph [label="Werriwa 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
 The Greens"]

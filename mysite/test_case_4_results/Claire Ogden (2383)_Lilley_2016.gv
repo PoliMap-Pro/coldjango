@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Claire Ogden (2383)_Lilley_2016" {
-	graph [label="Lilley 2016" labelloc=t]
+	graph [label="Lilley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Claire Ogden (2383)" [label="Claire Ogden (2383)
 The Greens"]

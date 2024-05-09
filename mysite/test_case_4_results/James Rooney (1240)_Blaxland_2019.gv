@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Rooney (1240)_Blaxland_2019" {
-	graph [label="Blaxland 2019" labelloc=t]
+	graph [label="Blaxland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Rooney (1240)" [label="James Rooney (1240)
 The Greens"]

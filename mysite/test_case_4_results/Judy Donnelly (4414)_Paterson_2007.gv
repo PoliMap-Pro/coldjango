@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Judy Donnelly (4414)_Paterson_2007" {
+	graph [label="Paterson 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Judy Donnelly (4414)" [label="Judy Donnelly (4414)
+The Greens"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Judy Donnelly (4414)" [label="Judy Donnelly (4414)
+The Greens"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Judy Donnelly (4414)" [label="Judy Donnelly (4414)
+The Greens"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Judy Donnelly (4414)" [label="Judy Donnelly (4414)
+The Greens"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Judy Donnelly (4414)" [label="Judy Donnelly (4414)
+The Greens"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Heather Haynes (4417)" [label="Heather Haynes (4417)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"John Hamberger (4418)" [label="John Hamberger (4418)
+One Nation"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Christopher Stokes (4415)" [label="Christopher Stokes (4415)
+Family First"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Paul Hennelly (3817)" -> "Judy Donnelly (4414)" [label=413]
+	"Heather Haynes (4417)" -> "Paul Hennelly (3817)" [label=125]
+	"John Hamberger (4418)" -> "Heather Haynes (4417)" [label=114]
+	"Christopher Stokes (4415)" -> "John Hamberger (4418)" [label=46]
+	"Tony King (4416)" -> "Christopher Stokes (4415)" [label=39]
+	"Heather Haynes (4417)" -> "Judy Donnelly (4414)" [label=169]
+	"John Hamberger (4418)" -> "Judy Donnelly (4414)" [label=138]
+	"Christopher Stokes (4415)" -> "Judy Donnelly (4414)" [label=147]
+	"Tony King (4416)" -> "Judy Donnelly (4414)" [label=30]
+	"Tony King (4416)" -> "John Hamberger (4418)" [label=42]
+	"Christopher Stokes (4415)" -> "Heather Haynes (4417)" [label=102]
+	"Tony King (4416)" -> "Heather Haynes (4417)" [label=33]
+	"John Hamberger (4418)" -> "Paul Hennelly (3817)" [label=184]
+	"Christopher Stokes (4415)" -> "Paul Hennelly (3817)" [label=69]
+	"Tony King (4416)" -> "Paul Hennelly (3817)" [label=39]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aiya Goodrich Carttling (380)_Solomon_2022" {
-	graph [label="Solomon 2022" labelloc=t]
+	graph [label="Solomon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aiya Goodrich Carttling (380)" [label="Aiya Goodrich Carttling (380)
 The Greens"]

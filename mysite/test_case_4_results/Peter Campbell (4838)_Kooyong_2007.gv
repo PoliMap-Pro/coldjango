@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Peter Campbell (4838)_Kooyong_2007" {
+	graph [label="Kooyong 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Campbell (4838)" [label="Peter Campbell (4838)
+Australian Greens"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Peter Campbell (4838)" [label="Peter Campbell (4838)
+Australian Greens"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Peter Campbell (4838)" [label="Peter Campbell (4838)
+Australian Greens"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"John Laidler (4114)" -> "Peter Campbell (4838)" [label=215]
+	"David Collyer (4140)" -> "John Laidler (4114)" [label=78]
+	"Pierre Curtis (4837)" -> "David Collyer (4140)" [label=43]
+	"David Collyer (4140)" -> "Peter Campbell (4838)" [label=589]
+	"Pierre Curtis (4837)" -> "Peter Campbell (4838)" [label=38]
+	"Pierre Curtis (4837)" -> "John Laidler (4114)" [label=29]
+}

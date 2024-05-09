@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Rob Cassidy (4753)_Bruce_2007" {
+	graph [label="Bruce 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rob Cassidy (4753)" [label="Rob Cassidy (4753)
+Australian Greens"]
+	"Bronwyn Rawlins (4749)" [label="Bronwyn Rawlins (4749)
+Family First"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Rob Cassidy (4753)" [label="Rob Cassidy (4753)
+Australian Greens"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Rob Cassidy (4753)" [label="Rob Cassidy (4753)
+Australian Greens"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Rob Cassidy (4753)" [label="Rob Cassidy (4753)
+Australian Greens"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Bronwyn Rawlins (4749)" [label="Bronwyn Rawlins (4749)
+Family First"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Bronwyn Rawlins (4749)" [label="Bronwyn Rawlins (4749)
+Family First"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Bronwyn Rawlins (4749)" [label="Bronwyn Rawlins (4749)
+Family First"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Bronwyn Rawlins (4749)" -> "Rob Cassidy (4753)" [label=478]
+	"Richard Grossi (4750)" -> "Bronwyn Rawlins (4749)" [label=197]
+	"Sandra Joy Herrmann (4751)" -> "Richard Grossi (4750)" [label=82]
+	"Neil Henry Smith (4752)" -> "Sandra Joy Herrmann (4751)" [label=49]
+	"Richard Grossi (4750)" -> "Rob Cassidy (4753)" [label=392]
+	"Sandra Joy Herrmann (4751)" -> "Rob Cassidy (4753)" [label=76]
+	"Neil Henry Smith (4752)" -> "Rob Cassidy (4753)" [label=121]
+	"Neil Henry Smith (4752)" -> "Richard Grossi (4750)" [label=30]
+	"Sandra Joy Herrmann (4751)" -> "Bronwyn Rawlins (4749)" [label=233]
+	"Neil Henry Smith (4752)" -> "Bronwyn Rawlins (4749)" [label=59]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Lonsdale (1068)_Brand_2022" {
-	graph [label="Brand 2022" labelloc=t]
+	graph [label="Brand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Lonsdale (1068)" [label="Heather Lonsdale (1068)
 The Greens (WA)"]

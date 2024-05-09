@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Desley Banks (2962)_Page_2013" {
+	graph [label="Page 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Desley Banks (2962)" [label="Desley Banks (2962)
+The Greens"]
+	"Stephen Bruce Janes (2961)" [label="Stephen Bruce Janes (2961)
+Palmer United Party"]
+	"Carol Ordish (2960)" [label="Carol Ordish (2960)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Desley Banks (2962)" [label="Desley Banks (2962)
+The Greens"]
+	"Carol Ordish (2960)" [label="Carol Ordish (2960)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Desley Banks (2962)" [label="Desley Banks (2962)
+The Greens"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Carol Ordish (2960)" [label="Carol Ordish (2960)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Stephen Bruce Janes (2961)" [label="Stephen Bruce Janes (2961)
+Palmer United Party"]
+	"Carol Ordish (2960)" [label="Carol Ordish (2960)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Stephen Bruce Janes (2961)" [label="Stephen Bruce Janes (2961)
+Palmer United Party"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Carol Ordish (2960)" [label="Carol Ordish (2960)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+One Nation"]
+	"Stephen Bruce Janes (2961)" -> "Desley Banks (2962)" [label=916]
+	"Carol Ordish (2960)" -> "Stephen Bruce Janes (2961)" [label=250]
+	"Rod Smith (1642)" -> "Carol Ordish (2960)" [label=125]
+	"Carol Ordish (2960)" -> "Desley Banks (2962)" [label=86]
+	"Rod Smith (1642)" -> "Desley Banks (2962)" [label=196]
+	"Rod Smith (1642)" -> "Stephen Bruce Janes (2961)" [label=403]
+}

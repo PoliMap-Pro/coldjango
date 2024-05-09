@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jenny O'Connor (2635)_Indi_2016" {
-	graph [label="Indi 2016" labelloc=t]
+	graph [label="Indi 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Timothy Parish (1464)_Solomon_2019" {
-	graph [label="Solomon 2019" labelloc=t]
+	graph [label="Solomon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Timothy Parish (1464)" [label="Timothy Parish (1464)
 The Greens"]

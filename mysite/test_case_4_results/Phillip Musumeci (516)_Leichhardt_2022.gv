@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phillip Musumeci (516)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phillip Musumeci (516)" [label="Phillip Musumeci (516)
 Queensland Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephanie Hodgins-May (3320)_Ballarat_2013" {
-	graph [label="Ballarat 2013" labelloc=t]
+	graph [label="Ballarat 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephanie Hodgins-May (3320)" [label="Stephanie Hodgins-May (3320)
 The Greens"]

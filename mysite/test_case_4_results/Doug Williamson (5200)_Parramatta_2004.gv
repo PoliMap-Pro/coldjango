@@ -1,0 +1,1811 @@
+// House preference flow
+digraph "Doug Williamson (5200)_Parramatta_2004" {
+	graph [label="Parramatta 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Sam Baissari (4413)" -> "Doug Williamson (5200)" [label=328]
+	"Mark Antony Guest (5193)" -> "Sam Baissari (4413)" [label=1205]
+	"John Satchwell (5194)" -> "Mark Antony Guest (5193)" [label=300]
+	"Andrew Markwell (5196)" -> "John Satchwell (5194)" [label=112]
+	"Alex Peniazev (5192)" -> "Andrew Markwell (5196)" [label=60]
+	"Rob Mcfarlane (5197)" -> "Alex Peniazev (5192)" [label=23]
+	"Simon Saad (5195)" -> "Rob Mcfarlane (5197)" [label=14]
+	"Margaret Bloor (5199)" -> "Simon Saad (5195)" [label=13]
+	"Mark Antony Guest (5193)" -> "Doug Williamson (5200)" [label=224]
+	"John Satchwell (5194)" -> "Doug Williamson (5200)" [label=157]
+	"Andrew Markwell (5196)" -> "Doug Williamson (5200)" [label=137]
+	"Alex Peniazev (5192)" -> "Doug Williamson (5200)" [label=46]
+	"Rob Mcfarlane (5197)" -> "Doug Williamson (5200)" [label=278]
+	"Simon Saad (5195)" -> "Doug Williamson (5200)" [label=55]
+	"Margaret Bloor (5199)" -> "Doug Williamson (5200)" [label=52]
+	"Margaret Bloor (5199)" -> "Rob Mcfarlane (5197)" [label=9]
+	"Simon Saad (5195)" -> "Alex Peniazev (5192)" [label=41]
+	"Margaret Bloor (5199)" -> "Alex Peniazev (5192)" [label=17]
+	"Rob Mcfarlane (5197)" -> "Andrew Markwell (5196)" [label=35]
+	"Simon Saad (5195)" -> "Andrew Markwell (5196)" [label=157]
+	"Margaret Bloor (5199)" -> "Andrew Markwell (5196)" [label=12]
+	"Alex Peniazev (5192)" -> "John Satchwell (5194)" [label=96]
+	"Rob Mcfarlane (5197)" -> "John Satchwell (5194)" [label=25]
+	"Simon Saad (5195)" -> "John Satchwell (5194)" [label=75]
+	"Margaret Bloor (5199)" -> "John Satchwell (5194)" [label=15]
+	"Andrew Markwell (5196)" -> "Mark Antony Guest (5193)" [label=140]
+	"Alex Peniazev (5192)" -> "Mark Antony Guest (5193)" [label=534]
+	"Rob Mcfarlane (5197)" -> "Mark Antony Guest (5193)" [label=28]
+	"Simon Saad (5195)" -> "Mark Antony Guest (5193)" [label=43]
+	"Margaret Bloor (5199)" -> "Mark Antony Guest (5193)" [label=10]
+	"John Satchwell (5194)" -> "Sam Baissari (4413)" [label=231]
+	"Andrew Markwell (5196)" -> "Sam Baissari (4413)" [label=205]
+	"Alex Peniazev (5192)" -> "Sam Baissari (4413)" [label=35]
+	"Rob Mcfarlane (5197)" -> "Sam Baissari (4413)" [label=37]
+	"Simon Saad (5195)" -> "Sam Baissari (4413)" [label=51]
+	"Margaret Bloor (5199)" -> "Sam Baissari (4413)" [label=5]
+}

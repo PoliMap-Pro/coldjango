@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liberty Cramer (2013)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liberty Cramer (2013)" [label="Liberty Cramer (2013)
 The Greens (WA)"]

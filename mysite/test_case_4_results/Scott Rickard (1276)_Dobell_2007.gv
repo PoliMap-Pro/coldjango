@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Scott Rickard (1276)_Dobell_2007" {
+	graph [label="Dobell 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Doug Eaton (4296)" [label="Doug Eaton (4296)
+Independent"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Graeme Bird (4294)" [label="Graeme Bird (4294)
+LDP"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Steve Hughes (4295)" [label="Steve Hughes (4295)
+Citizens Electoral Council"]
+	"Michael Darby (4293)" -> "Scott Rickard (1276)" [label=947]
+	"Doug Eaton (4296)" -> "Michael Darby (4293)" [label=269]
+	"Hadden Ervin (957)" -> "Doug Eaton (4296)" [label=139]
+	"Graeme Bird (4294)" -> "Hadden Ervin (957)" [label=43]
+	"Steve Hughes (4295)" -> "Graeme Bird (4294)" [label=13]
+	"Doug Eaton (4296)" -> "Scott Rickard (1276)" [label=436]
+	"Hadden Ervin (957)" -> "Scott Rickard (1276)" [label=281]
+	"Graeme Bird (4294)" -> "Scott Rickard (1276)" [label=48]
+	"Steve Hughes (4295)" -> "Scott Rickard (1276)" [label=34]
+	"Steve Hughes (4295)" -> "Hadden Ervin (957)" [label=19]
+	"Graeme Bird (4294)" -> "Doug Eaton (4296)" [label=25]
+	"Steve Hughes (4295)" -> "Doug Eaton (4296)" [label=30]
+	"Hadden Ervin (957)" -> "Michael Darby (4293)" [label=625]
+	"Graeme Bird (4294)" -> "Michael Darby (4293)" [label=40]
+	"Steve Hughes (4295)" -> "Michael Darby (4293)" [label=14]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terrill Riley-Gibson (2500)_Bass_2016" {
-	graph [label="Bass 2016" labelloc=t]
+	graph [label="Bass 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terrill Riley-Gibson (2500)" [label="Terrill Riley-Gibson (2500)
 The Greens"]

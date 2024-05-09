@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Organ (312)_Riverina_2022" {
-	graph [label="Riverina 2022" labelloc=t]
+	graph [label="Riverina 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Organ (312)" [label="Michael Organ (312)
 The Greens"]

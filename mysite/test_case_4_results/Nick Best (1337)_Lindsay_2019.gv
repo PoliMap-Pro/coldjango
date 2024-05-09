@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nick Best (1337)_Lindsay_2019" {
-	graph [label="Lindsay 2019" labelloc=t]
+	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nick Best (1337)" [label="Nick Best (1337)
 The Greens"]

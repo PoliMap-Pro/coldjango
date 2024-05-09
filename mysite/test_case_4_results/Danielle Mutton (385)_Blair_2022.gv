@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Danielle Mutton (385)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Danielle Mutton (385)" [label="Danielle Mutton (385)
 Queensland Greens"]

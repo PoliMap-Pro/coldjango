@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lee-Anne Miles (1974)_Pearce_2016" {
-	graph [label="Pearce 2016" labelloc=t]
+	graph [label="Pearce 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
 The Greens (WA)"]

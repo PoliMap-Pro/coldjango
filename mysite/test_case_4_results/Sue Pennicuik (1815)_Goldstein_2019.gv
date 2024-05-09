@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Pennicuik (1815)_Goldstein_2019" {
-	graph [label="Goldstein 2019" labelloc=t]
+	graph [label="Goldstein 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Pennicuik (1815)" [label="Sue Pennicuik (1815)
 The Greens (VIC)"]

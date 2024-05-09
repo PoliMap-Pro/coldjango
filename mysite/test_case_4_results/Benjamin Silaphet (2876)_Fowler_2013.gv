@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Benjamin Silaphet (2876)_Fowler_2013" {
-	graph [label="Fowler 2013" labelloc=t]
+	graph [label="Fowler 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Benjamin Silaphet (2876)" [label="Benjamin Silaphet (2876)
 The Greens"]

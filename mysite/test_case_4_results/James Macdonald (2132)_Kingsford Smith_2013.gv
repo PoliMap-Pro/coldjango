@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Macdonald (2132)_Kingsford Smith_2013" {
-	graph [label="Kingsford Smith 2013" labelloc=t]
+	graph [label="Kingsford Smith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Macdonald (2132)" [label="James Macdonald (2132)
 The Greens"]

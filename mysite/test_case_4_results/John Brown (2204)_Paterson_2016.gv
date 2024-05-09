@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Brown (2204)_Paterson_2016" {
-	graph [label="Paterson 2016" labelloc=t]
+	graph [label="Paterson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Brown (2204)" [label="John Brown (2204)
 The Greens"]

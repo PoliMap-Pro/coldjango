@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lauren Edwards (1264)_Cowper_2019" {
-	graph [label="Cowper 2019" labelloc=t]
+	graph [label="Cowper 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lauren Edwards (1264)" [label="Lauren Edwards (1264)
 The Greens"]

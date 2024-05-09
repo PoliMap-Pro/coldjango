@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dawn Walker (2215)_Richmond_2016" {
-	graph [label="Richmond 2016" labelloc=t]
+	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dawn Walker (2215)" [label="Dawn Walker (2215)
 The Greens"]

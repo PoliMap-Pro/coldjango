@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Hoad (2271)_Lingiari_2016" {
-	graph [label="Lingiari 2016" labelloc=t]
+	graph [label="Lingiari 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Hoad (2271)" [label="Rob Hoad (2271)
 The Greens"]

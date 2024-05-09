@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Natalie Abboud (765)_Calwell_2016" {
-	graph [label="Calwell 2016" labelloc=t]
+	graph [label="Calwell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Natalie Abboud (765)" [label="Natalie Abboud (765)
 The Greens"]

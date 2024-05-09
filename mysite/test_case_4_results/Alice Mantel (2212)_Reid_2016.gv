@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alice Mantel (2212)_Reid_2016" {
-	graph [label="Reid 2016" labelloc=t]
+	graph [label="Reid 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alice Mantel (2212)" [label="Alice Mantel (2212)
 The Greens"]

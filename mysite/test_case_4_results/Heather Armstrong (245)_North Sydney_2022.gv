@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Armstrong (245)_North Sydney_2022" {
-	graph [label="North Sydney 2022" labelloc=t]
+	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Armstrong (245)" [label="Heather Armstrong (245)
 The Greens"]

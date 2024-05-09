@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aeron Blundell-Camden (2728)_Canning_2016" {
-	graph [label="Canning 2016" labelloc=t]
+	graph [label="Canning 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aeron Blundell-Camden (2728)" [label="Aeron Blundell-Camden (2728)
 The Greens (WA)"]

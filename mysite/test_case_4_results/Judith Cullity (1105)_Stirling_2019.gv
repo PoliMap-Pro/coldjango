@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Judith Cullity (1105)_Stirling_2019" {
-	graph [label="Stirling 2019" labelloc=t]
+	graph [label="Stirling 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Judith Cullity (1105)" [label="Judith Cullity (1105)
 The Greens (WA)"]

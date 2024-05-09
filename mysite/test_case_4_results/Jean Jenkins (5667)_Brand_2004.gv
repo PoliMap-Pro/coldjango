@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jean Jenkins (5667)_Brand_2004" {
+	graph [label="Brand 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jean Jenkins (5667)" [label="Jean Jenkins (5667)
+The Greens"]
+	"Garth Stockden (5669)" [label="Garth Stockden (5669)
+Pauline Hanson's One Nation"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Jean Jenkins (5667)" [label="Jean Jenkins (5667)
+The Greens"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Jean Jenkins (5667)" [label="Jean Jenkins (5667)
+The Greens"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Jean Jenkins (5667)" [label="Jean Jenkins (5667)
+The Greens"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Jean Jenkins (5667)" [label="Jean Jenkins (5667)
+The Greens"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Garth Stockden (5669)" [label="Garth Stockden (5669)
+Pauline Hanson's One Nation"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Garth Stockden (5669)" [label="Garth Stockden (5669)
+Pauline Hanson's One Nation"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Garth Stockden (5669)" [label="Garth Stockden (5669)
+Pauline Hanson's One Nation"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Garth Stockden (5669)" [label="Garth Stockden (5669)
+Pauline Hanson's One Nation"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
+CDP Christian Party"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Gerard Kettle (5668)" [label="Gerard Kettle (5668)
+Independent"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"Garth Stockden (5669)" -> "Jean Jenkins (5667)" [label=948]
+	"Rajesh Vettoor (5666)" -> "Garth Stockden (5669)" [label=198]
+	"Gerard Kettle (5668)" -> "Rajesh Vettoor (5666)" [label=88]
+	"Rob Totten (4900)" -> "Gerard Kettle (5668)" [label=72]
+	"John Partridge (5670)" -> "Rob Totten (4900)" [label=33]
+	"Rajesh Vettoor (5666)" -> "Jean Jenkins (5667)" [label=548]
+	"Gerard Kettle (5668)" -> "Jean Jenkins (5667)" [label=362]
+	"Rob Totten (4900)" -> "Jean Jenkins (5667)" [label=196]
+	"John Partridge (5670)" -> "Jean Jenkins (5667)" [label=143]
+	"John Partridge (5670)" -> "Gerard Kettle (5668)" [label=87]
+	"Rob Totten (4900)" -> "Rajesh Vettoor (5666)" [label=59]
+	"John Partridge (5670)" -> "Rajesh Vettoor (5666)" [label=23]
+	"Gerard Kettle (5668)" -> "Garth Stockden (5669)" [label=170]
+	"Rob Totten (4900)" -> "Garth Stockden (5669)" [label=119]
+	"John Partridge (5670)" -> "Garth Stockden (5669)" [label=57]
+}

@@ -49,7 +49,8 @@ class Command(BaseCommand):
                         comment='House preference flow',
                         node_attr={'shape': Command.NODE_SHAPE},
                         graph_attr={'labelloc': 't',
-                                    'label': f"{seat.name} {year}" },
+                                    'label': f"{seat.name} {year}",
+                                    'mclimit': '10', },
                         engine='dot')
                     edges = []
                     nodes = []
@@ -116,13 +117,13 @@ class Command(BaseCommand):
                         result.append(candidate)
                     node_name = str(candidate)
                     new_node = node_name, node_name
+                    try:
+                        rep = models.Representation.objects.get(
+                            person=candidate.person, election=election)
+                    except models.Representation.MultipleObjectsReturned:
+                        rep = models.Representation.objects.filter(
+                            person=candidate.person, election=election)[0]
                     if new_node not in nodes:
-                        try:
-                            rep = models.Representation.objects.get(
-                                person=candidate.person, election=election)
-                        except models.Representation.MultipleObjectsReturned:
-                            rep = models.Representation.objects.filter(
-                                person=candidate.person, election=election)[0]
                         nodes.append((node_name,
                                       f"{node_name}\n{rep.party.name}"), )
                     if last_candidate:

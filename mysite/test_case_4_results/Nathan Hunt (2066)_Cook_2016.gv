@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Hunt (2066)_Cook_2016" {
-	graph [label="Cook 2016" labelloc=t]
+	graph [label="Cook 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Hunt (2066)" [label="Nathan Hunt (2066)
 The Greens"]

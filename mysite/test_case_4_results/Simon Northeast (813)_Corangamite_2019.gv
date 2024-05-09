@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Northeast (813)_Corangamite_2019" {
-	graph [label="Corangamite 2019" labelloc=t]
+	graph [label="Corangamite 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Northeast (813)" [label="Simon Northeast (813)
 The Greens (VIC)"]

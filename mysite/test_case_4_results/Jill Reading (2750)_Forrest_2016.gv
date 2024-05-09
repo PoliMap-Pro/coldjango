@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jill Reading (2750)_Forrest_2016" {
-	graph [label="Forrest 2016" labelloc=t]
+	graph [label="Forrest 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jill Reading (2750)" [label="Jill Reading (2750)
 The Greens (WA)"]

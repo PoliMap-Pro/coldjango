@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Berkman (2316)_Dickson_2016" {
-	graph [label="Dickson 2016" labelloc=t]
+	graph [label="Dickson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Berkman (2316)" [label="Michael Berkman (2316)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alana Galli-Mcrostie (869)_Goldstein_2022" {
-	graph [label="Goldstein 2022" labelloc=t]
+	graph [label="Goldstein 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Weber (2421)_Petrie_2016" {
-	graph [label="Petrie 2016" labelloc=t]
+	graph [label="Petrie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Weber (2421)" [label="Sue Weber (2421)
 The Greens"]

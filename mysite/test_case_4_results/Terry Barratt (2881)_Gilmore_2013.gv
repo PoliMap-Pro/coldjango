@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Barratt (2881)_Gilmore_2013" {
-	graph [label="Gilmore 2013" labelloc=t]
+	graph [label="Gilmore 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Barratt (2881)" [label="Terry Barratt (2881)
 The Greens"]

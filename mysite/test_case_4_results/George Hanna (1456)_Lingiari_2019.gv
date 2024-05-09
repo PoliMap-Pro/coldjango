@@ -1,6 +1,6 @@
 // House preference flow
 digraph "George Hanna (1456)_Lingiari_2019" {
-	graph [label="Lingiari 2019" labelloc=t]
+	graph [label="Lingiari 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"George Hanna (1456)" [label="George Hanna (1456)
 The Greens"]

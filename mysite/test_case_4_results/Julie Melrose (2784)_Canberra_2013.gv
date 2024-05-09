@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Melrose (2784)_Canberra_2013" {
-	graph [label="Canberra 2013" labelloc=t]
+	graph [label="Canberra 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Melrose (2784)" [label="Julie Melrose (2784)
 Australian Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Patrick Hyslop (2755)_Hasluck_2016" {
-	graph [label="Hasluck 2016" labelloc=t]
+	graph [label="Hasluck 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Patrick Hyslop (2755)" [label="Patrick Hyslop (2755)
 The Greens (WA)"]

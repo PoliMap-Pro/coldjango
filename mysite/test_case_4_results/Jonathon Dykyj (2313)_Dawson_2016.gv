@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jonathon Dykyj (2313)_Dawson_2016" {
-	graph [label="Dawson 2016" labelloc=t]
+	graph [label="Dawson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
 The Greens"]

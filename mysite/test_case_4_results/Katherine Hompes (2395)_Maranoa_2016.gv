@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katherine Hompes (2395)_Maranoa_2016" {
-	graph [label="Maranoa 2016" labelloc=t]
+	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katherine Hompes (2395)" [label="Katherine Hompes (2395)
 The Greens"]

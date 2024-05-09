@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rose Read (3421)_Goldstein_2013" {
-	graph [label="Goldstein 2013" labelloc=t]
+	graph [label="Goldstein 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rose Read (3421)" [label="Rose Read (3421)
 The Greens"]

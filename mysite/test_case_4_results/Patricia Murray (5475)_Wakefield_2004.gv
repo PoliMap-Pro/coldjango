@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Patricia Murray (5475)_Wakefield_2004" {
+	graph [label="Wakefield 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Patricia Murray (5475)" [label="Patricia Murray (5475)
+The Greens"]
+	"David Dwyer (1184)" [label="David Dwyer (1184)
+One Nation"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"Patricia Murray (5475)" [label="Patricia Murray (5475)
+The Greens"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"David Dwyer (1184)" [label="David Dwyer (1184)
+One Nation"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"David Dwyer (1184)" -> "Patricia Murray (5475)" [label=350]
+	"Richard Way (5472)" -> "David Dwyer (1184)" [label=210]
+	"Richard Way (5472)" -> "Patricia Murray (5475)" [label=322]
+}

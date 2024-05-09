@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hilary Mcallister (1050)_Wannon_2022" {
-	graph [label="Wannon 2022" labelloc=t]
+	graph [label="Wannon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hilary Mcallister (1050)" [label="Hilary Mcallister (1050)
 The Greens"]

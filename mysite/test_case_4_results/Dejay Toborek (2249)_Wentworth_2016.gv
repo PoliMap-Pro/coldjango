@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dejay Toborek (2249)_Wentworth_2016" {
-	graph [label="Wentworth 2016" labelloc=t]
+	graph [label="Wentworth 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dejay Toborek (2249)" [label="Dejay Toborek (2249)
 The Greens"]

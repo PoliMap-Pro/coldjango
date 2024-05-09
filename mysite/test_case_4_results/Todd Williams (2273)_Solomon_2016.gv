@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Todd Williams (2273)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t]
+	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Todd Williams (2273)" [label="Todd Williams (2273)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charles Jago (294)_Reid_2019" {
-	graph [label="Reid 2019" labelloc=t]
+	graph [label="Reid 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charles Jago (294)" [label="Charles Jago (294)
 The Greens"]

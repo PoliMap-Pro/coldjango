@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Neil Cotter (579)_Rankin_2007" {
+	graph [label="Rankin 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Bert Van Manen (466)" [label="Bert Van Manen (466)
+Family First"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Bert Van Manen (466)" [label="Bert Van Manen (466)
+Family First"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Bert Van Manen (466)" [label="Bert Van Manen (466)
+Family First"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Bert Van Manen (466)" [label="Bert Van Manen (466)
+Family First"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Bert Van Manen (466)" -> "Neil Cotter (579)" [label=807]
+	"Salam El-Merebi (4632)" -> "Bert Van Manen (466)" [label=203]
+	"Liam Tjia (4631)" -> "Salam El-Merebi (4632)" [label=26]
+	"Robert Meyers (4633)" -> "Liam Tjia (4631)" [label=6]
+	"Salam El-Merebi (4632)" -> "Neil Cotter (579)" [label=252]
+	"Liam Tjia (4631)" -> "Neil Cotter (579)" [label=93]
+	"Robert Meyers (4633)" -> "Neil Cotter (579)" [label=41]
+	"Robert Meyers (4633)" -> "Salam El-Merebi (4632)" [label=94]
+	"Liam Tjia (4631)" -> "Bert Van Manen (466)" [label=59]
+	"Robert Meyers (4633)" -> "Bert Van Manen (466)" [label=74]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mercurius Goldstein (2178)_New England_2016" {
-	graph [label="New England 2016" labelloc=t]
+	graph [label="New England 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mercurius Goldstein (2178)" [label="Mercurius Goldstein (2178)
 The Greens"]

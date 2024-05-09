@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Johnstone (734)_Lyons_2022" {
-	graph [label="Lyons 2022" labelloc=t]
+	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Johnstone (734)" [label="Liz Johnstone (734)
 The Greens"]

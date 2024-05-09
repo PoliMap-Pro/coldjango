@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Jim Mcdonald (867)_Wide Bay_2010" {
+	graph [label="Wide Bay 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+The Greens"]
+	"Ken Herschell (3978)" [label="Ken Herschell (3978)
+Family First"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+The Greens"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Ken Herschell (3978)" [label="Ken Herschell (3978)
+Family First"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Ken Herschell (3978)" -> "Jim Mcdonald (867)" [label=1283]
+	"Santo Ferraro (3977)" -> "Ken Herschell (3978)" [label=845]
+	"Santo Ferraro (3977)" -> "Jim Mcdonald (867)" [label=225]
+}

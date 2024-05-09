@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Ky (2819)_Blaxland_2013" {
-	graph [label="Blaxland 2013" labelloc=t]
+	graph [label="Blaxland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Ky (2819)" [label="John Ky (2819)
 The Greens"]

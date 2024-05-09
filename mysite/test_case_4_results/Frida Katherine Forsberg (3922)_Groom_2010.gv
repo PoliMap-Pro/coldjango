@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Frida Katherine Forsberg (3922)_Groom_2010" {
+	graph [label="Groom 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Frida Katherine Forsberg (3922)" [label="Frida Katherine Forsberg (3922)
+The Greens"]
+	"Rose Kirkwood (3921)" [label="Rose Kirkwood (3921)
+Family First"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Frida Katherine Forsberg (3922)" [label="Frida Katherine Forsberg (3922)
+The Greens"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Rose Kirkwood (3921)" [label="Rose Kirkwood (3921)
+Family First"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Rose Kirkwood (3921)" -> "Frida Katherine Forsberg (3922)" [label=1838]
+	"Rod Jeanneret (1490)" -> "Rose Kirkwood (3921)" [label=961]
+	"Rod Jeanneret (1490)" -> "Frida Katherine Forsberg (3922)" [label=554]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Briers (2583)_Deakin_2016" {
-	graph [label="Deakin 2016" labelloc=t]
+	graph [label="Deakin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Briers (2583)" [label="Joshua Briers (2583)
 The Greens"]

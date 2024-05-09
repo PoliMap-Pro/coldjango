@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Anderson (2346)_Griffith_2016" {
-	graph [label="Griffith 2016" labelloc=t]
+	graph [label="Griffith 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Anderson (2346)" [label="Karen Anderson (2346)
 The Greens"]

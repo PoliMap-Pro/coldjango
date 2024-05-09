@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Quinn (1597)_McPherson_2019" {
-	graph [label="McPherson 2019" labelloc=t]
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Quinn (1597)" [label="Alan Quinn (1597)
 The Greens"]

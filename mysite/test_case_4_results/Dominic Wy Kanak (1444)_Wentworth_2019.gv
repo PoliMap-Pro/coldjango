@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dominic Wy Kanak (1444)_Wentworth_2019" {
-	graph [label="Wentworth 2019" labelloc=t]
+	graph [label="Wentworth 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dominic Wy Kanak (1444)" [label="Dominic Wy Kanak (1444)
 The Greens"]

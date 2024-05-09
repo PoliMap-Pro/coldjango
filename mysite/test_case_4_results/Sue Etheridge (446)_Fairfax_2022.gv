@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Etheridge (446)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Etheridge (446)" [label="Sue Etheridge (446)
 Queensland Greens"]

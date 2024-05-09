@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Raymond (2524)_Aston_2013" {
-	graph [label="Aston 2013" labelloc=t]
+	graph [label="Aston 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Raymond (2524)" [label="Steve Raymond (2524)
 The Greens"]

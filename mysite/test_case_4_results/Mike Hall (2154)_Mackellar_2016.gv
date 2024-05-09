@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mike Hall (2154)_Mackellar_2016" {
-	graph [label="Mackellar 2016" labelloc=t]
+	graph [label="Mackellar 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mike Hall (2154)" [label="Mike Hall (2154)
 The Greens"]

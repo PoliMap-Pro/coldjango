@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Bambrick (459)_Capricornia_2013" {
-	graph [label="Capricornia 2013" labelloc=t]
+	graph [label="Capricornia 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Bambrick (459)" [label="Paul Bambrick (459)
 The Greens"]

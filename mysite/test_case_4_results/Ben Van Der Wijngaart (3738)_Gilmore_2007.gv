@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Ben Van Der Wijngaart (3738)_Gilmore_2007" {
+	graph [label="Gilmore 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
+Family First"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
+LDP"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
+Citizens Electoral Council"]
+	"Bohdan Brumerskyj (3737)" -> "Ben Van Der Wijngaart (3738)" [label=284]
+	"Of The Above None (4312)" -> "Bohdan Brumerskyj (3737)" [label=132]
+	"Brett Greenhalgh (4313)" -> "Of The Above None (4312)" [label=82]
+	"Simon Blake (4311)" -> "Brett Greenhalgh (4313)" [label=16]
+	"Kevin Ramsey (4315)" -> "Simon Blake (4311)" [label=6]
+	"Warwick William Hunt (4314)" -> "Kevin Ramsey (4315)" [label=3]
+	"Of The Above None (4312)" -> "Ben Van Der Wijngaart (3738)" [label=274]
+	"Brett Greenhalgh (4313)" -> "Ben Van Der Wijngaart (3738)" [label=76]
+	"Simon Blake (4311)" -> "Ben Van Der Wijngaart (3738)" [label=115]
+	"Kevin Ramsey (4315)" -> "Ben Van Der Wijngaart (3738)" [label=13]
+	"Warwick William Hunt (4314)" -> "Ben Van Der Wijngaart (3738)" [label=4]
+	"Warwick William Hunt (4314)" -> "Simon Blake (4311)" [label=2]
+	"Kevin Ramsey (4315)" -> "Brett Greenhalgh (4313)" [label=15]
+	"Warwick William Hunt (4314)" -> "Brett Greenhalgh (4313)" [label=8]
+	"Simon Blake (4311)" -> "Of The Above None (4312)" [label=26]
+	"Kevin Ramsey (4315)" -> "Of The Above None (4312)" [label=18]
+	"Warwick William Hunt (4314)" -> "Of The Above None (4312)" [label=12]
+	"Brett Greenhalgh (4313)" -> "Bohdan Brumerskyj (3737)" [label=88]
+	"Simon Blake (4311)" -> "Bohdan Brumerskyj (3737)" [label=19]
+	"Kevin Ramsey (4315)" -> "Bohdan Brumerskyj (3737)" [label=51]
+	"Warwick William Hunt (4314)" -> "Bohdan Brumerskyj (3737)" [label=7]
+}

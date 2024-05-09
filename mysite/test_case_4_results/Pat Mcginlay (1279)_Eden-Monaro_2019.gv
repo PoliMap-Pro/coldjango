@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Mcginlay (1279)_Eden-Monaro_2019" {
-	graph [label="Eden-Monaro 2019" labelloc=t]
+	graph [label="Eden-Monaro 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carol Sparks (233)_New England_2022" {
-	graph [label="New England 2022" labelloc=t]
+	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carol Sparks (233)" [label="Carol Sparks (233)
 The Greens"]

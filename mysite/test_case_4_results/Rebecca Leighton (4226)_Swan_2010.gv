@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Rebecca Leighton (4226)_Swan_2010" {
+	graph [label="Swan 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rebecca Leighton (4226)" [label="Rebecca Leighton (4226)
+The Greens"]
+	"Bret Treasure (4228)" [label="Bret Treasure (4228)
+Australian Sex Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Rebecca Leighton (4226)" [label="Rebecca Leighton (4226)
+The Greens"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Rebecca Leighton (4226)" [label="Rebecca Leighton (4226)
+The Greens"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Rebecca Leighton (4226)" [label="Rebecca Leighton (4226)
+The Greens"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Bret Treasure (4228)" [label="Bret Treasure (4228)
+Australian Sex Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Bret Treasure (4228)" [label="Bret Treasure (4228)
+Australian Sex Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Bret Treasure (4228)" [label="Bret Treasure (4228)
+Australian Sex Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Bret Treasure (4228)" -> "Rebecca Leighton (4226)" [label=1110]
+	"Steve Klomp (2009)" -> "Bret Treasure (4228)" [label=128]
+	"Barry Drennan (4227)" -> "Steve Klomp (2009)" [label=339]
+	"Joe Lopez (4225)" -> "Barry Drennan (4227)" [label=33]
+	"Steve Klomp (2009)" -> "Rebecca Leighton (4226)" [label=284]
+	"Barry Drennan (4227)" -> "Rebecca Leighton (4226)" [label=203]
+	"Joe Lopez (4225)" -> "Rebecca Leighton (4226)" [label=132]
+	"Joe Lopez (4225)" -> "Steve Klomp (2009)" [label=45]
+	"Barry Drennan (4227)" -> "Bret Treasure (4228)" [label=126]
+	"Joe Lopez (4225)" -> "Bret Treasure (4228)" [label=54]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ivan Macfadyen (2226)_Shortland_2016" {
-	graph [label="Shortland 2016" labelloc=t]
+	graph [label="Shortland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ivan Macfadyen (2226)" [label="Ivan Macfadyen (2226)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Smith (3140)_Groom_2013" {
-	graph [label="Groom 2013" labelloc=t]
+	graph [label="Groom 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Smith (3140)" [label="Trevor Smith (3140)
 The Greens"]

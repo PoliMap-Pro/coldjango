@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simone Dejun (1587)_Longman_2019" {
-	graph [label="Longman 2019" labelloc=t]
+	graph [label="Longman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simone Dejun (1587)" [label="Simone Dejun (1587)
 The Greens"]

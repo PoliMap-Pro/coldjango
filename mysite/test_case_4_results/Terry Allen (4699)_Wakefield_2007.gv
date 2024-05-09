@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Terry Allen (4699)_Wakefield_2007" {
+	graph [label="Wakefield 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Terry Allen (4699)" [label="Terry Allen (4699)
+The Greens"]
+	"Felicity Martin (4702)" [label="Felicity Martin (4702)
+Australian Democrats"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Terry Allen (4699)" [label="Terry Allen (4699)
+The Greens"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Terry Allen (4699)" [label="Terry Allen (4699)
+The Greens"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Terry Allen (4699)" [label="Terry Allen (4699)
+The Greens"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Felicity Martin (4702)" [label="Felicity Martin (4702)
+Australian Democrats"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Felicity Martin (4702)" [label="Felicity Martin (4702)
+Australian Democrats"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Felicity Martin (4702)" [label="Felicity Martin (4702)
+Australian Democrats"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Martin Walsh (4701)" [label="Martin Walsh (4701)
+LDP"]
+	"Felicity Martin (4702)" -> "Terry Allen (4699)" [label=457]
+	"Peter Fitzpatrick (4698)" -> "Felicity Martin (4702)" [label=70]
+	"Pauline Edmunds (4697)" -> "Peter Fitzpatrick (4698)" [label=70]
+	"Martin Walsh (4701)" -> "Pauline Edmunds (4697)" [label=11]
+	"Peter Fitzpatrick (4698)" -> "Terry Allen (4699)" [label=187]
+	"Pauline Edmunds (4697)" -> "Terry Allen (4699)" [label=110]
+	"Martin Walsh (4701)" -> "Terry Allen (4699)" [label=46]
+	"Martin Walsh (4701)" -> "Peter Fitzpatrick (4698)" [label=27]
+	"Pauline Edmunds (4697)" -> "Felicity Martin (4702)" [label=57]
+	"Martin Walsh (4701)" -> "Felicity Martin (4702)" [label=68]
+}

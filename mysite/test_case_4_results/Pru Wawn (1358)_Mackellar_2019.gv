@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pru Wawn (1358)_Mackellar_2019" {
-	graph [label="Mackellar 2019" labelloc=t]
+	graph [label="Mackellar 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pru Wawn (1358)" [label="Pru Wawn (1358)
 The Greens"]

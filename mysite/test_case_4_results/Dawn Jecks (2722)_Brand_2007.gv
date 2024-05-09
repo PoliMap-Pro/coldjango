@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Dawn Jecks (2722)_Brand_2007" {
+	graph [label="Brand 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Brent Tremain (4899)" -> "Dawn Jecks (2722)" [label=518]
+	"Andrew Newhouse (3569)" -> "Brent Tremain (4899)" [label=688]
+	"Robin Scott (4902)" -> "Andrew Newhouse (3569)" [label=263]
+	"Huw Grossmith (4901)" -> "Robin Scott (4902)" [label=71]
+	"Rob Totten (4900)" -> "Huw Grossmith (4901)" [label=33]
+	"Andrew Newhouse (3569)" -> "Dawn Jecks (2722)" [label=372]
+	"Robin Scott (4902)" -> "Dawn Jecks (2722)" [label=354]
+	"Huw Grossmith (4901)" -> "Dawn Jecks (2722)" [label=65]
+	"Rob Totten (4900)" -> "Dawn Jecks (2722)" [label=39]
+	"Rob Totten (4900)" -> "Robin Scott (4902)" [label=55]
+	"Huw Grossmith (4901)" -> "Andrew Newhouse (3569)" [label=90]
+	"Rob Totten (4900)" -> "Andrew Newhouse (3569)" [label=71]
+	"Robin Scott (4902)" -> "Brent Tremain (4899)" [label=154]
+	"Huw Grossmith (4901)" -> "Brent Tremain (4899)" [label=41]
+	"Rob Totten (4900)" -> "Brent Tremain (4899)" [label=39]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lyle Burness (1567)_Kennedy_2019" {
-	graph [label="Kennedy 2019" labelloc=t]
+	graph [label="Kennedy 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lyle Burness (1567)" [label="Lyle Burness (1567)
 The Greens"]

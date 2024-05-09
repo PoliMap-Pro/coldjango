@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Seamus Lee (1295)_Fowler_2019" {
-	graph [label="Fowler 2019" labelloc=t]
+	graph [label="Fowler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Seamus Lee (1295)" [label="Seamus Lee (1295)
 The Greens"]

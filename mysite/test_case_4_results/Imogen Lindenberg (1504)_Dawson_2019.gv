@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Imogen Lindenberg (1504)_Dawson_2019" {
-	graph [label="Dawson 2019" labelloc=t]
+	graph [label="Dawson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Imogen Lindenberg (1504)" [label="Imogen Lindenberg (1504)
 The Greens"]

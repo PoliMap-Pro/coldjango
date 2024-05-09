@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kudra Falla-Ricketts (2192)_Page_2016" {
-	graph [label="Page 2016" labelloc=t]
+	graph [label="Page 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kudra Falla-Ricketts (2192)" [label="Kudra Falla-Ricketts (2192)
 The Greens"]

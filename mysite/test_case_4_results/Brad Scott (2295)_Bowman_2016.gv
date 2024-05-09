@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brad Scott (2295)_Bowman_2016" {
-	graph [label="Bowman 2016" labelloc=t]
+	graph [label="Bowman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brad Scott (2295)" [label="Brad Scott (2295)
 The Greens"]

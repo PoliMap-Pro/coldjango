@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Mallard (2830)_Calare_2013" {
-	graph [label="Calare 2013" labelloc=t]
+	graph [label="Calare 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Mallard (2830)" [label="David Mallard (2830)
 The Greens"]

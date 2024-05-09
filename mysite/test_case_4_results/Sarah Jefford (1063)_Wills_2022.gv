@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Jefford (1063)_Wills_2022" {
-	graph [label="Wills 2022" labelloc=t]
+	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Jefford (1063)" [label="Sarah Jefford (1063)
 The Greens"]

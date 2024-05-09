@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Roberts (2366)_Hinkler_2016" {
-	graph [label="Hinkler 2016" labelloc=t]
+	graph [label="Hinkler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Roberts (2366)" [label="Tim Roberts (2366)
 The Greens"]

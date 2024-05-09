@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Jane Williamson (5388)_Moreton_2004" {
+	graph [label="Moreton 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jane Williamson (5388)" [label="Jane Williamson (5388)
+The Greens"]
+	"Terence Tam (5389)" [label="Terence Tam (5389)
+Family First"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Jane Williamson (5388)" [label="Jane Williamson (5388)
+The Greens"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Jane Williamson (5388)" [label="Jane Williamson (5388)
+The Greens"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Jane Williamson (5388)" [label="Jane Williamson (5388)
+The Greens"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Terence Tam (5389)" [label="Terence Tam (5389)
+Family First"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Terence Tam (5389)" [label="Terence Tam (5389)
+Family First"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Terence Tam (5389)" [label="Terence Tam (5389)
+Family First"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Terence Tam (5389)" -> "Jane Williamson (5388)" [label=564]
+	"Frederika E Steen (5387)" -> "Terence Tam (5389)" [label=117]
+	"Barry Weedon (5390)" -> "Frederika E Steen (5387)" [label=112]
+	"Andrew Lamb (4619)" -> "Barry Weedon (5390)" [label=104]
+	"Frederika E Steen (5387)" -> "Jane Williamson (5388)" [label=567]
+	"Barry Weedon (5390)" -> "Jane Williamson (5388)" [label=144]
+	"Andrew Lamb (4619)" -> "Jane Williamson (5388)" [label=133]
+	"Andrew Lamb (4619)" -> "Frederika E Steen (5387)" [label=116]
+	"Barry Weedon (5390)" -> "Terence Tam (5389)" [label=293]
+	"Andrew Lamb (4619)" -> "Terence Tam (5389)" [label=129]
+}

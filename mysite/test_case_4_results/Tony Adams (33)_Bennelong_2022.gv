@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Adams (33)_Bennelong_2022" {
-	graph [label="Bennelong 2022" labelloc=t]
+	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Adams (33)" [label="Tony Adams (33)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eli Davern (111)_Farrer_2022" {
-	graph [label="Farrer 2022" labelloc=t]
+	graph [label="Farrer 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eli Davern (111)" [label="Eli Davern (111)
 The Greens"]

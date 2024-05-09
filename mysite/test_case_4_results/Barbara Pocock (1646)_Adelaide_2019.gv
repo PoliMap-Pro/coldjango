@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barbara Pocock (1646)_Adelaide_2019" {
-	graph [label="Adelaide 2019" labelloc=t]
+	graph [label="Adelaide 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barbara Pocock (1646)" [label="Barbara Pocock (1646)
 The Greens"]

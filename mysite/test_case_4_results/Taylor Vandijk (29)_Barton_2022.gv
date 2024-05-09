@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Taylor Vandijk (29)_Barton_2022" {
-	graph [label="Barton 2022" labelloc=t]
+	graph [label="Barton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Taylor Vandijk (29)" [label="Taylor Vandijk (29)
 The Greens"]

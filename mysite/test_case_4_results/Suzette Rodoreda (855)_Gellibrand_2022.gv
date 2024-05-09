@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Suzette Rodoreda (855)_Gellibrand_2022" {
-	graph [label="Gellibrand 2022" labelloc=t]
+	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Suzette Rodoreda (855)" [label="Suzette Rodoreda (855)
 The Greens"]

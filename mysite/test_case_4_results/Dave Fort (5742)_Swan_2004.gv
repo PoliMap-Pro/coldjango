@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Dave Fort (5742)_Swan_2004" {
+	graph [label="Swan 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Dave Fort (5742)" [label="Dave Fort (5742)
+The Greens"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" [label="Gwen Hamence (5744)
+CDP Christian Party"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Ted Vermeer (5746)" [label="Ted Vermeer (5746)
+Pauline Hanson's One Nation"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Mark Reynolds (4993)" [label="Mark Reynolds (4993)
+Australian Democrats"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Gwen Hamence (5744)" -> "Dave Fort (5742)" [label=381]
+	"Ted Vermeer (5746)" -> "Gwen Hamence (5744)" [label=374]
+	"Mark Reynolds (4993)" -> "Ted Vermeer (5746)" [label=93]
+	"Teresa Van Lieshout (5748)" -> "Mark Reynolds (4993)" [label=194]
+	"Peter Greaves (5745)" -> "Teresa Van Lieshout (5748)" [label=47]
+	"Azmi Johari (5743)" -> "Peter Greaves (5745)" [label=16]
+	"Ted Vermeer (5746)" -> "Dave Fort (5742)" [label=385]
+	"Mark Reynolds (4993)" -> "Dave Fort (5742)" [label=620]
+	"Teresa Van Lieshout (5748)" -> "Dave Fort (5742)" [label=263]
+	"Peter Greaves (5745)" -> "Dave Fort (5742)" [label=94]
+	"Azmi Johari (5743)" -> "Dave Fort (5742)" [label=62]
+	"Azmi Johari (5743)" -> "Teresa Van Lieshout (5748)" [label=16]
+	"Peter Greaves (5745)" -> "Mark Reynolds (4993)" [label=26]
+	"Azmi Johari (5743)" -> "Mark Reynolds (4993)" [label=7]
+	"Teresa Van Lieshout (5748)" -> "Ted Vermeer (5746)" [label=99]
+	"Peter Greaves (5745)" -> "Ted Vermeer (5746)" [label=46]
+	"Azmi Johari (5743)" -> "Ted Vermeer (5746)" [label=9]
+	"Mark Reynolds (4993)" -> "Gwen Hamence (5744)" [label=75]
+	"Teresa Van Lieshout (5748)" -> "Gwen Hamence (5744)" [label=83]
+	"Peter Greaves (5745)" -> "Gwen Hamence (5744)" [label=141]
+	"Azmi Johari (5743)" -> "Gwen Hamence (5744)" [label=20]
+}

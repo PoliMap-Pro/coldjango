@@ -1,0 +1,26 @@
+// House preference flow
+digraph "David Petersen (5512)_Bendigo_2004" {
+	graph [label="Bendigo 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Petersen (5512)" [label="David Petersen (5512)
+Australian Greens"]
+	"Nathan Hulls (5510)" [label="Nathan Hulls (5510)
+Family First"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"David Petersen (5512)" [label="David Petersen (5512)
+Australian Greens"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"Nathan Hulls (5510)" [label="Nathan Hulls (5510)
+Family First"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"Nathan Hulls (5510)" -> "David Petersen (5512)" [label=407]
+	"Vern White (5511)" -> "Nathan Hulls (5510)" [label=134]
+	"Vern White (5511)" -> "David Petersen (5512)" [label=98]
+}

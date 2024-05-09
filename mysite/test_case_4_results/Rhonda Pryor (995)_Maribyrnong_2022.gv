@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rhonda Pryor (995)_Maribyrnong_2022" {
-	graph [label="Maribyrnong 2022" labelloc=t]
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
 The Greens"]

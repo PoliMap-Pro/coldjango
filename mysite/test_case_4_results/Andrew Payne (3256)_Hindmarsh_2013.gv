@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Payne (3256)_Hindmarsh_2013" {
-	graph [label="Hindmarsh 2013" labelloc=t]
+	graph [label="Hindmarsh 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Payne (3256)" [label="Andrew Payne (3256)
 Australian Greens"]

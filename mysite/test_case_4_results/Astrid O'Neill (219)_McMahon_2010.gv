@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Astrid O'Neill (219)_McMahon_2010" {
+	graph [label="McMahon 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Manny Poularas (2939)" [label="Manny Poularas (2939)
+Christian Democratic Party (Fred Nile Group)"]
+	"Manny Poularas (2939)" [label="Manny Poularas (2939)
+Christian Democratic Party (Fred Nile Group)"]
+	"Manny Poularas (2939)" -> "Astrid O'Neill (219)" [label=667]
+}

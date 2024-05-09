@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamie Dixon (369)_Whitlam_2022" {
-	graph [label="Whitlam 2022" labelloc=t]
+	graph [label="Whitlam 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamie Dixon (369)" [label="Jamie Dixon (369)
 The Greens"]

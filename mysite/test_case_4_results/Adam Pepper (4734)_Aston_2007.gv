@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Adam Pepper (4734)_Aston_2007" {
+	graph [label="Aston 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Adam Pepper (4734)" [label="Adam Pepper (4734)
+Australian Greens"]
+	"Peter Lake (4070)" [label="Peter Lake (4070)
+Family First"]
+	"Rachal Aza (4730)" [label="Rachal Aza (4730)
+Australian Democrats"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Adam Pepper (4734)" [label="Adam Pepper (4734)
+Australian Greens"]
+	"Rachal Aza (4730)" [label="Rachal Aza (4730)
+Australian Democrats"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Adam Pepper (4734)" [label="Adam Pepper (4734)
+Australian Greens"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Rachal Aza (4730)" [label="Rachal Aza (4730)
+Australian Democrats"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Peter Lake (4070)" [label="Peter Lake (4070)
+Family First"]
+	"Rachal Aza (4730)" [label="Rachal Aza (4730)
+Australian Democrats"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Peter Lake (4070)" [label="Peter Lake (4070)
+Family First"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Rachal Aza (4730)" [label="Rachal Aza (4730)
+Australian Democrats"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Peter Lake (4070)" -> "Adam Pepper (4734)" [label=628]
+	"Rachal Aza (4730)" -> "Peter Lake (4070)" [label=104]
+	"Doug Mitchell (4731)" -> "Rachal Aza (4730)" [label=62]
+	"Rachal Aza (4730)" -> "Adam Pepper (4734)" [label=388]
+	"Doug Mitchell (4731)" -> "Adam Pepper (4734)" [label=32]
+	"Doug Mitchell (4731)" -> "Peter Lake (4070)" [label=33]
+}

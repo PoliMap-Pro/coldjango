@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Hickey (212)_Macquarie_2022" {
-	graph [label="Macquarie 2022" labelloc=t]
+	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Hickey (212)" [label="Tony Hickey (212)
 The Greens"]

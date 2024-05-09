@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dawn Jecks (2722)_Brand_2013" {
-	graph [label="Brand 2013" labelloc=t]
+	graph [label="Brand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
 The Greens (WA)"]

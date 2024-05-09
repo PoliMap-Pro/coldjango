@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Clifford (2769)_Perth_2016" {
-	graph [label="Perth 2016" labelloc=t]
+	graph [label="Perth 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Clifford (2769)" [label="Tim Clifford (2769)
 The Greens (WA)"]

@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Des Benson (4113)_Kooyong_2010" {
+	graph [label="Kooyong 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Des Benson (4113)" [label="Des Benson (4113)
+Australian Greens"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"John Laidler (4114)" -> "Des Benson (4113)" [label=276]
+}

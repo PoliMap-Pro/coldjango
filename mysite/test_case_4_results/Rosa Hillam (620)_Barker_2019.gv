@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rosa Hillam (620)_Barker_2019" {
-	graph [label="Barker 2019" labelloc=t]
+	graph [label="Barker 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rosa Hillam (620)" [label="Rosa Hillam (620)
 The Greens"]

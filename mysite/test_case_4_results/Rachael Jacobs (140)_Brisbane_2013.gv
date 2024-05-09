@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rachael Jacobs (140)_Brisbane_2013" {
-	graph [label="Brisbane 2013" labelloc=t]
+	graph [label="Brisbane 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
 The Greens"]

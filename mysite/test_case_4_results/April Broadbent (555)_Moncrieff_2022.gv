@@ -1,6 +1,6 @@
 // House preference flow
 digraph "April Broadbent (555)_Moncrieff_2022" {
-	graph [label="Moncrieff 2022" labelloc=t]
+	graph [label="Moncrieff 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"April Broadbent (555)" [label="April Broadbent (555)
 Queensland Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Will Simon (572)_Petrie_2022" {
-	graph [label="Petrie 2022" labelloc=t]
+	graph [label="Petrie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Will Simon (572)" [label="Will Simon (572)
 Queensland Greens"]

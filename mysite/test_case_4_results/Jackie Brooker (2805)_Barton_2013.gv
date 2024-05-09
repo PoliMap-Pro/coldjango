@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jackie Brooker (2805)_Barton_2013" {
-	graph [label="Barton 2013" labelloc=t]
+	graph [label="Barton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
 The Greens"]

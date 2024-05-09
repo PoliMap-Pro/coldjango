@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stefanie Bauer (2554)_Bruce_2016" {
-	graph [label="Bruce 2016" labelloc=t]
+	graph [label="Bruce 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stefanie Bauer (2554)" [label="Stefanie Bauer (2554)
 The Greens"]

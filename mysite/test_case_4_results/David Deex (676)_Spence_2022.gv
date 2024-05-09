@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Deex (676)_Spence_2022" {
-	graph [label="Spence 2022" labelloc=t]
+	graph [label="Spence 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Deex (676)" [label="David Deex (676)
 The Greens"]

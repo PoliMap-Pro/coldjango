@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marjorie Thorpe (866)_Gippsland_2022" {
-	graph [label="Gippsland 2022" labelloc=t]
+	graph [label="Gippsland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marjorie Thorpe (866)" [label="Marjorie Thorpe (866)
 The Greens"]

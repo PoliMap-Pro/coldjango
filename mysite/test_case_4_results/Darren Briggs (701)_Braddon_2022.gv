@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darren Briggs (701)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darren Briggs (701)" [label="Darren Briggs (701)
 The Greens"]

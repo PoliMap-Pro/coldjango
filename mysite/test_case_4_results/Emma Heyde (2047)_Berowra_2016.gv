@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Heyde (2047)_Berowra_2016" {
-	graph [label="Berowra 2016" labelloc=t]
+	graph [label="Berowra 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Heyde (2047)" [label="Emma Heyde (2047)
 The Greens"]

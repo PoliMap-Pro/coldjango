@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Joy Ringrose (3229)_Casey_2004" {
+	graph [label="Casey 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+Australian Greens"]
+	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
+Family First"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+Australian Greens"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+Australian Greens"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+Australian Greens"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
+Family First"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
+Family First"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
+Family First"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Andrew Rushton (5522)" -> "Joy Ringrose (3229)" [label=675]
+	"Jos Vandersman (5523)" -> "Andrew Rushton (5522)" [label=224]
+	"Daniel Chapman (5521)" -> "Jos Vandersman (5523)" [label=89]
+	"Jeremy Beck (4826)" -> "Daniel Chapman (5521)" [label=33]
+	"Jos Vandersman (5523)" -> "Joy Ringrose (3229)" [label=352]
+	"Daniel Chapman (5521)" -> "Joy Ringrose (3229)" [label=179]
+	"Jeremy Beck (4826)" -> "Joy Ringrose (3229)" [label=21]
+	"Jeremy Beck (4826)" -> "Jos Vandersman (5523)" [label=32]
+	"Daniel Chapman (5521)" -> "Andrew Rushton (5522)" [label=142]
+	"Jeremy Beck (4826)" -> "Andrew Rushton (5522)" [label=34]
+}

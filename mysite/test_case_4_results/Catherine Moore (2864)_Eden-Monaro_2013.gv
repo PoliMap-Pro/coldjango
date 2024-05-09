@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Catherine Moore (2864)_Eden-Monaro_2013" {
-	graph [label="Eden-Monaro 2013" labelloc=t]
+	graph [label="Eden-Monaro 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Catherine Moore (2864)" [label="Catherine Moore (2864)
 The Greens"]

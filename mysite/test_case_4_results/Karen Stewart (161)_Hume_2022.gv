@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Stewart (161)_Hume_2022" {
-	graph [label="Hume 2022" labelloc=t]
+	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Stewart (161)" [label="Karen Stewart (161)
 The Greens"]

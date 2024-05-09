@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Delanie Sky (2056)_Calare_2016" {
-	graph [label="Calare 2016" labelloc=t]
+	graph [label="Calare 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Delanie Sky (2056)" [label="Delanie Sky (2056)
 The Greens"]

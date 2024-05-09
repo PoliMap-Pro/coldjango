@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandra Miles (3462)_Isaacs_2013" {
-	graph [label="Isaacs 2013" labelloc=t]
+	graph [label="Isaacs 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandra Miles (3462)" [label="Sandra Miles (3462)
 The Greens"]

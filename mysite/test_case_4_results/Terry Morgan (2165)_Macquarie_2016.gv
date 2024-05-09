@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Morgan (2165)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t]
+	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Morgan (2165)" [label="Terry Morgan (2165)
 The Greens"]

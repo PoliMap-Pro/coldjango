@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Brisbane (2407)_Moncrieff_2016" {
-	graph [label="Moncrieff 2016" labelloc=t]
+	graph [label="Moncrieff 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Brisbane (2407)" [label="Roger Brisbane (2407)
 The Greens"]

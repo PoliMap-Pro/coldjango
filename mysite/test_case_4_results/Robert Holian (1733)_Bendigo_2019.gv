@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Holian (1733)_Bendigo_2019" {
-	graph [label="Bendigo 2019" labelloc=t]
+	graph [label="Bendigo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Holian (1733)" [label="Robert Holian (1733)
 The Greens (VIC)"]

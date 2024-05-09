@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dan Reid (1388)_Page_2019" {
-	graph [label="Page 2019" labelloc=t]
+	graph [label="Page 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dan Reid (1388)" [label="Dan Reid (1388)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Willisa Hogarth (2597)_Flinders_2016" {
-	graph [label="Flinders 2016" labelloc=t]
+	graph [label="Flinders 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Willisa Hogarth (2597)" [label="Willisa Hogarth (2597)
 The Greens"]

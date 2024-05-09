@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jess Gonsalvez (1831)_Hotham_2019" {
-	graph [label="Hotham 2019" labelloc=t]
+	graph [label="Hotham 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jess Gonsalvez (1831)" [label="Jess Gonsalvez (1831)
 The Greens (VIC)"]

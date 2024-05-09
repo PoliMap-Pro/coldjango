@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ken Austin (2291)_Bonner_2016" {
-	graph [label="Bonner 2016" labelloc=t]
+	graph [label="Bonner 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ken Austin (2291)" [label="Ken Austin (2291)
 The Greens"]

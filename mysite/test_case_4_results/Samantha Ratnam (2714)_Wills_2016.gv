@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Samantha Ratnam (2714)_Wills_2016" {
-	graph [label="Wills 2016" labelloc=t]
+	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Samantha Ratnam (2714)" [label="Samantha Ratnam (2714)
 The Greens"]

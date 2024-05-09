@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lorna Wyatt (3448)_Hotham_2013" {
-	graph [label="Hotham 2013" labelloc=t]
+	graph [label="Hotham 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lorna Wyatt (3448)" [label="Lorna Wyatt (3448)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janet Shelley (714)_Clark_2022" {
-	graph [label="Clark 2022" labelloc=t]
+	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janet Shelley (714)" [label="Janet Shelley (714)
 The Greens"]

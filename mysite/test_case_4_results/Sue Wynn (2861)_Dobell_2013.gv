@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Wynn (2861)_Dobell_2013" {
-	graph [label="Dobell 2013" labelloc=t]
+	graph [label="Dobell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Wynn (2861)" [label="Sue Wynn (2861)
 The Greens"]

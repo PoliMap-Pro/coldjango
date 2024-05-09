@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Susan Etheridge (2323)_Fairfax_2016" {
-	graph [label="Fairfax 2016" labelloc=t]
+	graph [label="Fairfax 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
 The Greens"]

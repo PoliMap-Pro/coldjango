@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Simone Francis (3676)_Barton_2010" {
+	graph [label="Barton 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Simone Francis (3676)" [label="Simone Francis (3676)
+The Greens"]
+}

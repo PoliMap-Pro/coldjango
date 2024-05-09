@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Steve Wilson (4090)_Gorton_2010" {
+	graph [label="Gorton 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steve Wilson (4090)" [label="Steve Wilson (4090)
+Australian Greens"]
+	"Sean Robert Major (4089)" [label="Sean Robert Major (4089)
+Family First"]
+	"Sean Robert Major (4089)" [label="Sean Robert Major (4089)
+Family First"]
+	"Sean Robert Major (4089)" -> "Steve Wilson (4090)" [label=1632]
+}

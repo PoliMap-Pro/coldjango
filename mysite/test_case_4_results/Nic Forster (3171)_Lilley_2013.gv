@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nic Forster (3171)_Lilley_2013" {
-	graph [label="Lilley 2013" labelloc=t]
+	graph [label="Lilley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nic Forster (3171)" [label="Nic Forster (3171)
 The Greens"]

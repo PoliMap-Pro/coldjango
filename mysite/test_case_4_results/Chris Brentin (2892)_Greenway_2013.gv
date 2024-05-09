@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Brentin (2892)_Greenway_2013" {
-	graph [label="Greenway 2013" labelloc=t]
+	graph [label="Greenway 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Brentin (2892)" [label="Chris Brentin (2892)
 The Greens"]

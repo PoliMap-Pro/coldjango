@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kirsty Petersen (1537)_Forde_2019" {
-	graph [label="Forde 2019" labelloc=t]
+	graph [label="Forde 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kirsty Petersen (1537)" [label="Kirsty Petersen (1537)
 The Greens"]

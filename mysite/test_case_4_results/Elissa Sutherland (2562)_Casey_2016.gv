@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elissa Sutherland (2562)_Casey_2016" {
-	graph [label="Casey 2016" labelloc=t]
+	graph [label="Casey 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elissa Sutherland (2562)" [label="Elissa Sutherland (2562)
 The Greens"]

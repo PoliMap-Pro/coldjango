@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Rush (3407)_Flinders_2013" {
-	graph [label="Flinders 2013" labelloc=t]
+	graph [label="Flinders 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Rush (3407)" [label="Martin Rush (3407)
 The Greens"]

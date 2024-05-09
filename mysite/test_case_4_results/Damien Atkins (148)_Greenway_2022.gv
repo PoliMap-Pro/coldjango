@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damien Atkins (148)_Greenway_2022" {
-	graph [label="Greenway 2022" labelloc=t]
+	graph [label="Greenway 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damien Atkins (148)" [label="Damien Atkins (148)
 The Greens"]

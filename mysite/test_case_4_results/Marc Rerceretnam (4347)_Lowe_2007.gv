@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Marc Rerceretnam (4347)_Lowe_2007" {
+	graph [label="Lowe 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Marc Rerceretnam (4347)" [label="Marc Rerceretnam (4347)
+The Greens"]
+	"Bill Shailer (2982)" [label="Bill Shailer (2982)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bill Shailer (2982)" [label="Bill Shailer (2982)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bill Shailer (2982)" -> "Marc Rerceretnam (4347)" [label=230]
+}

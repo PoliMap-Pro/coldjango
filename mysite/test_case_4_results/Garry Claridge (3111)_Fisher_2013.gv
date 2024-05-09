@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Garry Claridge (3111)_Fisher_2013" {
-	graph [label="Fisher 2013" labelloc=t]
+	graph [label="Fisher 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Garry Claridge (3111)" [label="Garry Claridge (3111)
 The Greens"]

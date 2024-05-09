@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Healy (2662)_Mallee_2016" {
-	graph [label="Mallee 2016" labelloc=t]
+	graph [label="Mallee 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Healy (2662)" [label="Helen Healy (2662)
 The Greens"]

@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Philip Myers (5086)_Grayndler_2004" {
+	graph [label="Grayndler 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Philip Myers (5086)" [label="Philip Myers (5086)
+The Greens"]
+	"Jen Harrison (5088)" [label="Jen Harrison (5088)
+Australian Democrats"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Philip Myers (5086)" [label="Philip Myers (5086)
+The Greens"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Jen Harrison (5088)" [label="Jen Harrison (5088)
+Australian Democrats"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Jen Harrison (5088)" -> "Philip Myers (5086)" [label=803]
+	"Sue Johnson (5087)" -> "Jen Harrison (5088)" [label=140]
+	"Sue Johnson (5087)" -> "Philip Myers (5086)" [label=669]
+}

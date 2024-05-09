@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sally Spain (440)_Forde_2016" {
-	graph [label="Forde 2016" labelloc=t]
+	graph [label="Forde 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sally Spain (440)" [label="Sally Spain (440)
 The Greens"]

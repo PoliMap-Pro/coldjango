@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tamara Ryan (2090)_Eden-Monaro_2016" {
-	graph [label="Eden-Monaro 2016" labelloc=t]
+	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tamara Ryan (2090)" [label="Tamara Ryan (2090)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Benedict Coyne (1507)_Dickson_2019" {
-	graph [label="Dickson 2019" labelloc=t]
+	graph [label="Dickson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Benedict Coyne (1507)" [label="Benedict Coyne (1507)
 The Greens"]

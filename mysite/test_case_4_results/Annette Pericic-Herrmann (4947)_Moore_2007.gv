@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Annette Pericic-Herrmann (4947)_Moore_2007" {
+	graph [label="Moore 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Annette Pericic-Herrmann (4947)" [label="Annette Pericic-Herrmann (4947)
+The Greens"]
+	"Lachlan Dunjey (4946)" [label="Lachlan Dunjey (4946)
+Christian Democratic Party"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Annette Pericic-Herrmann (4947)" [label="Annette Pericic-Herrmann (4947)
+The Greens"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Annette Pericic-Herrmann (4947)" [label="Annette Pericic-Herrmann (4947)
+The Greens"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Annette Pericic-Herrmann (4947)" [label="Annette Pericic-Herrmann (4947)
+The Greens"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Lachlan Dunjey (4946)" [label="Lachlan Dunjey (4946)
+Christian Democratic Party"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Lachlan Dunjey (4946)" [label="Lachlan Dunjey (4946)
+Christian Democratic Party"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Lachlan Dunjey (4946)" [label="Lachlan Dunjey (4946)
+Christian Democratic Party"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"Lachlan Dunjey (4946)" -> "Annette Pericic-Herrmann (4947)" [label=358]
+	"Douglas Croker (4949)" -> "Lachlan Dunjey (4946)" [label=252]
+	"George Gault (4199)" -> "Douglas Croker (4949)" [label=105]
+	"Arthur Harvey (4948)" -> "George Gault (4199)" [label=20]
+	"Douglas Croker (4949)" -> "Annette Pericic-Herrmann (4947)" [label=257]
+	"George Gault (4199)" -> "Annette Pericic-Herrmann (4947)" [label=192]
+	"Arthur Harvey (4948)" -> "Annette Pericic-Herrmann (4947)" [label=24]
+	"Arthur Harvey (4948)" -> "Douglas Croker (4949)" [label=30]
+	"George Gault (4199)" -> "Lachlan Dunjey (4946)" [label=86]
+	"Arthur Harvey (4948)" -> "Lachlan Dunjey (4946)" [label=5]
+}

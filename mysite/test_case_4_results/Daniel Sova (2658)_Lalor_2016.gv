@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Sova (2658)_Lalor_2016" {
-	graph [label="Lalor 2016" labelloc=t]
+	graph [label="Lalor 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Sova (2658)" [label="Daniel Sova (2658)
 The Greens"]

@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Katrina Bercov (5738)_Stirling_2004" {
+	graph [label="Stirling 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Katrina Bercov (5738)" [label="Katrina Bercov (5738)
+The Greens"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Katrina Bercov (5738)" [label="Katrina Bercov (5738)
+The Greens"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Katrina Bercov (5738)" [label="Katrina Bercov (5738)
+The Greens"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Katrina Bercov (5738)" [label="Katrina Bercov (5738)
+The Greens"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Katrina Bercov (5738)" [label="Katrina Bercov (5738)
+The Greens"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Ray Moran (4981)" -> "Katrina Bercov (5738)" [label=330]
+	"Giuseppe Coletti (5737)" -> "Ray Moran (4981)" [label=89]
+	"Alex K Patrick (5741)" -> "Giuseppe Coletti (5737)" [label=138]
+	"Leone Pearson (5736)" -> "Alex K Patrick (5741)" [label=43]
+	"Marcus Anderson (5740)" -> "Leone Pearson (5736)" [label=61]
+	"Giuseppe Coletti (5737)" -> "Katrina Bercov (5738)" [label=1106]
+	"Alex K Patrick (5741)" -> "Katrina Bercov (5738)" [label=233]
+	"Leone Pearson (5736)" -> "Katrina Bercov (5738)" [label=127]
+	"Marcus Anderson (5740)" -> "Katrina Bercov (5738)" [label=162]
+	"Marcus Anderson (5740)" -> "Alex K Patrick (5741)" [label=58]
+	"Leone Pearson (5736)" -> "Giuseppe Coletti (5737)" [label=456]
+	"Marcus Anderson (5740)" -> "Giuseppe Coletti (5737)" [label=77]
+	"Alex K Patrick (5741)" -> "Ray Moran (4981)" [label=321]
+	"Leone Pearson (5736)" -> "Ray Moran (4981)" [label=33]
+	"Marcus Anderson (5740)" -> "Ray Moran (4981)" [label=34]
+}

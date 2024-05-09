@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm Mckelvie (3511)_McMillan_2013" {
-	graph [label="McMillan 2013" labelloc=t]
+	graph [label="McMillan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm Mckelvie (3511)" [label="Malcolm Mckelvie (3511)
 The Greens"]

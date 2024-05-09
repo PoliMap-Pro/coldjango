@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Verwey (2792)_Fraser_2013" {
-	graph [label="Fraser 2013" labelloc=t]
+	graph [label="Fraser 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Verwey (2792)" [label="Adam Verwey (2792)
 Australian Greens"]

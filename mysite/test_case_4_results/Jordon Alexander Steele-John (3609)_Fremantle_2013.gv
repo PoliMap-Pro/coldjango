@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jordon Alexander Steele-John (3609)_Fremantle_2013" {
-	graph [label="Fremantle 2013" labelloc=t]
+	graph [label="Fremantle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jordon Alexander Steele-John (3609)" [label="Jordon Alexander Steele-John (3609)
 The Greens (WA)"]

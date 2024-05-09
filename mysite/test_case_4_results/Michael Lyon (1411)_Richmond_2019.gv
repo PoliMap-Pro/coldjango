@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Lyon (1411)_Richmond_2019" {
-	graph [label="Richmond 2019" labelloc=t]
+	graph [label="Richmond 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Lyon (1411)" [label="Michael Lyon (1411)
 The Greens"]

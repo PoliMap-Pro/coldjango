@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeremy Carter (625)_Boothby_2022" {
-	graph [label="Boothby 2022" labelloc=t]
+	graph [label="Boothby 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeremy Carter (625)" [label="Jeremy Carter (625)
 The Greens"]

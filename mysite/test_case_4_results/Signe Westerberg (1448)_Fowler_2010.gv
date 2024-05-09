@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Signe Westerberg (1448)_Fowler_2010" {
+	graph [label="Fowler 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
+The Greens"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+Socialist Equality Party"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+Socialist Equality Party"]
+	"Mike Head (1617)" -> "Signe Westerberg (1448)" [label=586]
+}

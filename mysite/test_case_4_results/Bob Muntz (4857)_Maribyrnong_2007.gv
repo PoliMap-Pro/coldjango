@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Bob Muntz (4857)_Maribyrnong_2007" {
+	graph [label="Maribyrnong 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bob Muntz (4857)" [label="Bob Muntz (4857)
+Australian Greens"]
+	"Ian Keeling (4856)" [label="Ian Keeling (4856)
+Family First"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Bob Muntz (4857)" [label="Bob Muntz (4857)
+Australian Greens"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Bob Muntz (4857)" [label="Bob Muntz (4857)
+Australian Greens"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Ian Keeling (4856)" [label="Ian Keeling (4856)
+Family First"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Ian Keeling (4856)" [label="Ian Keeling (4856)
+Family First"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Ian Keeling (4856)" -> "Bob Muntz (4857)" [label=472]
+	"Robert Livesay (4130)" -> "Ian Keeling (4856)" [label=216]
+	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=676]
+	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=436]
+	"Andre Kozlowski (4854)" -> "Bob Muntz (4857)" [label=87]
+	"Andre Kozlowski (4854)" -> "Ian Keeling (4856)" [label=85]
+}

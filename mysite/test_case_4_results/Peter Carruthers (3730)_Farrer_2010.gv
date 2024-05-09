@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Peter Carruthers (3730)_Farrer_2010" {
+	graph [label="Farrer 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Carruthers (3730)" [label="Peter Carruthers (3730)
+The Greens"]
+	"James Male (3735)" [label="James Male (3735)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Peter Carruthers (3730)" [label="Peter Carruthers (3730)
+The Greens"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Peter Carruthers (3730)" [label="Peter Carruthers (3730)
+The Greens"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Peter Carruthers (3730)" [label="Peter Carruthers (3730)
+The Greens"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"James Male (3735)" [label="James Male (3735)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"James Male (3735)" [label="James Male (3735)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"James Male (3735)" [label="James Male (3735)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"James Male (3735)" -> "Peter Carruthers (3730)" [label=169]
+	"Mathew Bruce Crothers (3729)" -> "James Male (3735)" [label=52]
+	"Jason C Clancy (3731)" -> "Mathew Bruce Crothers (3729)" [label=89]
+	"Stephen Bingle (3734)" -> "Jason C Clancy (3731)" [label=29]
+	"Mathew Bruce Crothers (3729)" -> "Peter Carruthers (3730)" [label=721]
+	"Jason C Clancy (3731)" -> "Peter Carruthers (3730)" [label=180]
+	"Stephen Bingle (3734)" -> "Peter Carruthers (3730)" [label=92]
+	"Stephen Bingle (3734)" -> "Mathew Bruce Crothers (3729)" [label=30]
+	"Jason C Clancy (3731)" -> "James Male (3735)" [label=44]
+	"Stephen Bingle (3734)" -> "James Male (3735)" [label=81]
+}

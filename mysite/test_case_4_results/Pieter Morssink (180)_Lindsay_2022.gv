@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pieter Morssink (180)_Lindsay_2022" {
-	graph [label="Lindsay 2022" labelloc=t]
+	graph [label="Lindsay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pieter Morssink (180)" [label="Pieter Morssink (180)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim White (635)_Grey_2022" {
-	graph [label="Grey 2022" labelloc=t]
+	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim White (635)" [label="Tim White (635)
 The Greens"]

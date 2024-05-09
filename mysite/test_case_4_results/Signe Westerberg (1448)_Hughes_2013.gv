@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Signe Westerberg (1448)_Hughes_2013" {
-	graph [label="Hughes 2013" labelloc=t]
+	graph [label="Hughes 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
 The Greens"]

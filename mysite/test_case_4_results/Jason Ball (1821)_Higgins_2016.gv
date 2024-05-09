@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Ball (1821)_Higgins_2016" {
-	graph [label="Higgins 2016" labelloc=t]
+	graph [label="Higgins 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Ball (1821)" [label="Jason Ball (1821)
 The Greens"]

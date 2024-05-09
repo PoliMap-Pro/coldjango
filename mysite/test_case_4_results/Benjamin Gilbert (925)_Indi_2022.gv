@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Benjamin Gilbert (925)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Benjamin Gilbert (925)" [label="Benjamin Gilbert (925)
 The Greens"]

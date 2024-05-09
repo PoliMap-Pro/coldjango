@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kate Davis (2753)_Fremantle_2016" {
-	graph [label="Fremantle 2016" labelloc=t]
+	graph [label="Fremantle 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kate Davis (2753)" [label="Kate Davis (2753)
 The Greens (WA)"]

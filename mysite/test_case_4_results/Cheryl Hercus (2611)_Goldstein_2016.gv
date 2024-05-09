@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cheryl Hercus (2611)_Goldstein_2016" {
-	graph [label="Goldstein 2016" labelloc=t]
+	graph [label="Goldstein 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
 The Greens"]

@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Jeff Wrathall (4799)_Gippsland_2007" {
+	graph [label="Gippsland 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeff Wrathall (4799)" [label="Jeff Wrathall (4799)
+Australian Greens"]
+	"Michael Rowell (4800)" [label="Michael Rowell (4800)
+Family First"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Jeff Wrathall (4799)" [label="Jeff Wrathall (4799)
+Australian Greens"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Jeff Wrathall (4799)" [label="Jeff Wrathall (4799)
+Australian Greens"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Michael Rowell (4800)" [label="Michael Rowell (4800)
+Family First"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Michael Rowell (4800)" [label="Michael Rowell (4800)
+Family First"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Michael Rowell (4800)" -> "Jeff Wrathall (4799)" [label=1064]
+	"Ben Buckley (2610)" -> "Michael Rowell (4800)" [label=620]
+	"Helen Mcadam (4798)" -> "Ben Buckley (2610)" [label=148]
+	"Ben Buckley (2610)" -> "Jeff Wrathall (4799)" [label=412]
+	"Helen Mcadam (4798)" -> "Jeff Wrathall (4799)" [label=765]
+	"Helen Mcadam (4798)" -> "Michael Rowell (4800)" [label=380]
+}

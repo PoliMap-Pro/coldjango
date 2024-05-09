@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Patchouli Paterson (1040)_Corangamite_2016" {
-	graph [label="Corangamite 2016" labelloc=t]
+	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Patchouli Paterson (1040)" [label="Patchouli Paterson (1040)
 The Greens"]

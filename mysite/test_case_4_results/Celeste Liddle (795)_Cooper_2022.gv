@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Celeste Liddle (795)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Celeste Liddle (795)" [label="Celeste Liddle (795)
 The Greens"]

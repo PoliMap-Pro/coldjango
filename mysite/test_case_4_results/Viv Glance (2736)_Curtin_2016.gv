@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Viv Glance (2736)_Curtin_2016" {
-	graph [label="Curtin 2016" labelloc=t]
+	graph [label="Curtin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Viv Glance (2736)" [label="Viv Glance (2736)
 The Greens (WA)"]

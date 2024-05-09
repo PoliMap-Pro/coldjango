@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Bandt (1007)_Melbourne_2016" {
-	graph [label="Melbourne 2016" labelloc=t]
+	graph [label="Melbourne 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Bandt (1007)" [label="Adam Bandt (1007)
 The Greens"]

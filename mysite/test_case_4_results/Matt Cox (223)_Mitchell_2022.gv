@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Cox (223)_Mitchell_2022" {
-	graph [label="Mitchell 2022" labelloc=t]
+	graph [label="Mitchell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Cox (223)" [label="Matt Cox (223)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Josh Fergeus (2569)_Chisholm_2013" {
-	graph [label="Chisholm 2013" labelloc=t]
+	graph [label="Chisholm 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Josh Fergeus (2569)" [label="Josh Fergeus (2569)
 The Greens"]

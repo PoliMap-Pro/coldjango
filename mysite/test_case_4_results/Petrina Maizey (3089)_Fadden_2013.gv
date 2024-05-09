@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Petrina Maizey (3089)_Fadden_2013" {
-	graph [label="Fadden 2013" labelloc=t]
+	graph [label="Fadden 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
 The Greens"]

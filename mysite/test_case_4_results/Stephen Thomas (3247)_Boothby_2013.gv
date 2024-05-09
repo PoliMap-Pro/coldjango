@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Thomas (3247)_Boothby_2013" {
-	graph [label="Boothby 2013" labelloc=t]
+	graph [label="Boothby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Thomas (3247)" [label="Stephen Thomas (3247)
 Australian Greens"]

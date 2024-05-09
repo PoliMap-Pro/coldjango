@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cate Sinclair (753)_Bendigo_2022" {
-	graph [label="Bendigo 2022" labelloc=t]
+	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cate Sinclair (753)" [label="Cate Sinclair (753)
 The Greens"]

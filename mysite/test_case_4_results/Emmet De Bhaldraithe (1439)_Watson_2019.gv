@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emmet De Bhaldraithe (1439)_Watson_2019" {
-	graph [label="Watson 2019" labelloc=t]
+	graph [label="Watson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emmet De Bhaldraithe (1439)" [label="Emmet De Bhaldraithe (1439)
 The Greens"]

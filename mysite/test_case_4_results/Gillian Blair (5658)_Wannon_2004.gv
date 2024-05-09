@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Gillian Blair (5658)_Wannon_2004" {
+	graph [label="Wannon 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gillian Blair (5658)" [label="Gillian Blair (5658)
+Australian Greens"]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Gillian Blair (5658)" [label="Gillian Blair (5658)
+Australian Greens"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Gillian Blair (5658)" [label="Gillian Blair (5658)
+Australian Greens"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Gillian Blair (5658)" [label="Gillian Blair (5658)
+Australian Greens"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Ruth Hazelton (5657)" -> "Gillian Blair (5658)" [label=627]
+	"Leigh Mcdonald (5659)" -> "Ruth Hazelton (5657)" [label=357]
+	"Kerre Willsher (5656)" -> "Leigh Mcdonald (5659)" [label=107]
+	"Robert Barwick (4740)" -> "Kerre Willsher (5656)" [label=7]
+	"Leigh Mcdonald (5659)" -> "Gillian Blair (5658)" [label=456]
+	"Kerre Willsher (5656)" -> "Gillian Blair (5658)" [label=216]
+	"Robert Barwick (4740)" -> "Gillian Blair (5658)" [label=27]
+	"Robert Barwick (4740)" -> "Leigh Mcdonald (5659)" [label=66]
+	"Kerre Willsher (5656)" -> "Ruth Hazelton (5657)" [label=81]
+	"Robert Barwick (4740)" -> "Ruth Hazelton (5657)" [label=19]
+}

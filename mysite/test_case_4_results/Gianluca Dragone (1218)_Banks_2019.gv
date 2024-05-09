@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gianluca Dragone (1218)_Banks_2019" {
-	graph [label="Banks 2019" labelloc=t]
+	graph [label="Banks 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gianluca Dragone (1218)" [label="Gianluca Dragone (1218)
 The Greens"]

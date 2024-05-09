@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pete Thompson (150)_Hughes_2022" {
-	graph [label="Hughes 2022" labelloc=t]
+	graph [label="Hughes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pete Thompson (150)" [label="Pete Thompson (150)
 The Greens"]

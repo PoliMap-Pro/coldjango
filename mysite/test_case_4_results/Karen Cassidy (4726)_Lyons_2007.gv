@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Karen Cassidy (4726)_Lyons_2007" {
+	graph [label="Lyons 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
+The Greens"]
+	"Ben Quin (4727)" [label="Ben Quin (4727)
+Independent"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
+The Greens"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
+The Greens"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ben Quin (4727)" [label="Ben Quin (4727)
+Independent"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ben Quin (4727)" [label="Ben Quin (4727)
+Independent"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Ben Quin (4727)" -> "Karen Cassidy (4726)" [label=3181]
+	"Amy Parsons (4728)" -> "Ben Quin (4727)" [label=368]
+	"Ray Williams (4725)" -> "Amy Parsons (4728)" [label=82]
+	"Amy Parsons (4728)" -> "Karen Cassidy (4726)" [label=177]
+	"Ray Williams (4725)" -> "Karen Cassidy (4726)" [label=314]
+	"Ray Williams (4725)" -> "Ben Quin (4727)" [label=145]
+}

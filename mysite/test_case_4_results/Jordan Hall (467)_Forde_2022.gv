@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jordan Hall (467)_Forde_2022" {
-	graph [label="Forde 2022" labelloc=t]
+	graph [label="Forde 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jordan Hall (467)" [label="Jordan Hall (467)
 Queensland Greens"]

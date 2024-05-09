@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rose Ljubicic (2705)_Scullin_2016" {
-	graph [label="Scullin 2016" labelloc=t]
+	graph [label="Scullin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rose Ljubicic (2705)" [label="Rose Ljubicic (2705)
 The Greens"]

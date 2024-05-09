@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Knobel (3101)_Fairfax_2013" {
-	graph [label="Fairfax 2013" labelloc=t]
+	graph [label="Fairfax 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Knobel (3101)" [label="David Knobel (3101)
 The Greens"]

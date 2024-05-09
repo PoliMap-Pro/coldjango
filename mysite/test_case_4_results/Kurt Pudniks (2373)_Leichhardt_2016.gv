@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kurt Pudniks (2373)_Leichhardt_2016" {
-	graph [label="Leichhardt 2016" labelloc=t]
+	graph [label="Leichhardt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kurt Pudniks (2373)" [label="Kurt Pudniks (2373)
 The Greens"]

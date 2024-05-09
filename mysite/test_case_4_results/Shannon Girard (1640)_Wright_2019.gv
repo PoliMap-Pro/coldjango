@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shannon Girard (1640)_Wright_2019" {
-	graph [label="Wright 2019" labelloc=t]
+	graph [label="Wright 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shannon Girard (1640)" [label="Shannon Girard (1640)
 The Greens"]

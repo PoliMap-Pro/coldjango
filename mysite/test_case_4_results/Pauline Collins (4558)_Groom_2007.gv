@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Pauline Collins (4558)_Groom_2007" {
+	graph [label="Groom 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Pauline Collins (4558)" [label="Pauline Collins (4558)
+The Greens"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" [label="Peter Charles Findlay (4561)
+Family First"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rob Berry (4562)" [label="Rob Berry (4562)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Peter Charles Findlay (4561)" -> "Pauline Collins (4558)" [label=1114]
+	"Rob Berry (4562)" -> "Peter Charles Findlay (4561)" [label=433]
+	"Grahame Arthur Volker (4559)" -> "Rob Berry (4562)" [label=376]
+	"Shalina Najeeb (4563)" -> "Grahame Arthur Volker (4559)" [label=51]
+	"Rod Jeanneret (1490)" -> "Shalina Najeeb (4563)" [label=32]
+	"Irene Jones (4560)" -> "Rod Jeanneret (1490)" [label=17]
+	"Rob Berry (4562)" -> "Pauline Collins (4558)" [label=339]
+	"Grahame Arthur Volker (4559)" -> "Pauline Collins (4558)" [label=194]
+	"Shalina Najeeb (4563)" -> "Pauline Collins (4558)" [label=228]
+	"Rod Jeanneret (1490)" -> "Pauline Collins (4558)" [label=40]
+	"Irene Jones (4560)" -> "Pauline Collins (4558)" [label=42]
+	"Irene Jones (4560)" -> "Shalina Najeeb (4563)" [label=14]
+	"Rod Jeanneret (1490)" -> "Grahame Arthur Volker (4559)" [label=107]
+	"Irene Jones (4560)" -> "Grahame Arthur Volker (4559)" [label=79]
+	"Shalina Najeeb (4563)" -> "Rob Berry (4562)" [label=77]
+	"Rod Jeanneret (1490)" -> "Rob Berry (4562)" [label=137]
+	"Irene Jones (4560)" -> "Rob Berry (4562)" [label=34]
+	"Grahame Arthur Volker (4559)" -> "Peter Charles Findlay (4561)" [label=133]
+	"Shalina Najeeb (4563)" -> "Peter Charles Findlay (4561)" [label=46]
+	"Rod Jeanneret (1490)" -> "Peter Charles Findlay (4561)" [label=48]
+	"Irene Jones (4560)" -> "Peter Charles Findlay (4561)" [label=29]
+}

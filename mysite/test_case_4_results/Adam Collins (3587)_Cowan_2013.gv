@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Collins (3587)_Cowan_2013" {
-	graph [label="Cowan 2013" labelloc=t]
+	graph [label="Cowan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Collins (3587)" [label="Adam Collins (3587)
 The Greens (WA)"]

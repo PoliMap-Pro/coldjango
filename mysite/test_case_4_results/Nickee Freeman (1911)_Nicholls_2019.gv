@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nickee Freeman (1911)_Nicholls_2019" {
-	graph [label="Nicholls 2019" labelloc=t]
+	graph [label="Nicholls 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nickee Freeman (1911)" [label="Nickee Freeman (1911)
 The Greens (VIC)"]

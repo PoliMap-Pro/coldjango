@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hannah Rubenach-Quinn (2522)_Lyons_2016" {
-	graph [label="Lyons 2016" labelloc=t]
+	graph [label="Lyons 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hannah Rubenach-Quinn (2522)" [label="Hannah Rubenach-Quinn (2522)
 The Greens"]

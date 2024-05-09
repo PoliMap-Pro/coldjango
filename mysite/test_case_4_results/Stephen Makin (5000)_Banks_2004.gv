@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Stephen Makin (5000)_Banks_2004" {
+	graph [label="Banks 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Janne Peterson (5004)" -> "Stephen Makin (5000)" [label=343]
+	"Harry Stavrinos (4262)" -> "Janne Peterson (5004)" [label=253]
+	"Mark Clyburn (5003)" -> "Harry Stavrinos (4262)" [label=53]
+	"Greg Briscoe-Hough (5002)" -> "Mark Clyburn (5003)" [label=78]
+	"Harry Stavrinos (4262)" -> "Stephen Makin (5000)" [label=852]
+	"Mark Clyburn (5003)" -> "Stephen Makin (5000)" [label=215]
+	"Greg Briscoe-Hough (5002)" -> "Stephen Makin (5000)" [label=112]
+	"Greg Briscoe-Hough (5002)" -> "Harry Stavrinos (4262)" [label=74]
+	"Mark Clyburn (5003)" -> "Janne Peterson (5004)" [label=64]
+	"Greg Briscoe-Hough (5002)" -> "Janne Peterson (5004)" [label=106]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tom Webster (2776)_Stirling_2016" {
-	graph [label="Stirling 2016" labelloc=t]
+	graph [label="Stirling 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tom Webster (2776)" [label="Tom Webster (2776)
 The Greens (WA)"]

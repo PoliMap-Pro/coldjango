@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Arthur Chesterfield-Evans (1382)_North Sydney_2016" {
-	graph [label="North Sydney 2016" labelloc=t]
+	graph [label="North Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
 The Greens"]

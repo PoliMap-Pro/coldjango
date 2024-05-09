@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Christoe (1035)_Murray_2016" {
-	graph [label="Murray 2016" labelloc=t]
+	graph [label="Murray 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Christoe (1035)" [label="Ian Christoe (1035)
 The Greens"]

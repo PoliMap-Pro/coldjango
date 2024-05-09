@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Farrell (1672)_Hindmarsh_2019" {
-	graph [label="Hindmarsh 2019" labelloc=t]
+	graph [label="Hindmarsh 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Farrell (1672)" [label="Matt Farrell (1672)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lynda Wheelock (893)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lynda Wheelock (893)" [label="Lynda Wheelock (893)
 The Greens"]

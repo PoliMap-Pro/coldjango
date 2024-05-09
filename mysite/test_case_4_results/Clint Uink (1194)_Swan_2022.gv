@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clint Uink (1194)_Swan_2022" {
-	graph [label="Swan 2022" labelloc=t]
+	graph [label="Swan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clint Uink (1194)" [label="Clint Uink (1194)
 The Greens (WA)"]

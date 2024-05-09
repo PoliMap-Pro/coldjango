@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stuart Watson (1349)_Lyne_2019" {
-	graph [label="Lyne 2019" labelloc=t]
+	graph [label="Lyne 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stuart Watson (1349)" [label="Stuart Watson (1349)
 The Greens"]

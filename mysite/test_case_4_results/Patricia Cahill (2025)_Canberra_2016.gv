@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Patricia Cahill (2025)_Canberra_2016" {
-	graph [label="Canberra 2016" labelloc=t]
+	graph [label="Canberra 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Patricia Cahill (2025)" [label="Patricia Cahill (2025)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rebecca Galdies (613)_Sturt_2016" {
-	graph [label="Sturt 2016" labelloc=t]
+	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
 The Greens"]

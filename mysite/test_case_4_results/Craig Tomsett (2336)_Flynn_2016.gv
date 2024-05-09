@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Tomsett (2336)_Flynn_2016" {
-	graph [label="Flynn 2016" labelloc=t]
+	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Tomsett (2336)" [label="Craig Tomsett (2336)
 The Greens"]

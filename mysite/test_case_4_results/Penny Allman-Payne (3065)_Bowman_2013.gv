@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Penny Allman-Payne (3065)_Bowman_2013" {
-	graph [label="Bowman 2013" labelloc=t]
+	graph [label="Bowman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Penny Allman-Payne (3065)" [label="Penny Allman-Payne (3065)
 The Greens"]

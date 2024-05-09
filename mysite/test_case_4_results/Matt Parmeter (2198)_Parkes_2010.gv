@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Matt Parmeter (2198)_Parkes_2010" {
+	graph [label="Parkes 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
+The Greens"]
+	"Mick Colless (3811)" [label="Mick Colless (3811)
+Independent"]
+	"Mick Colless (3811)" [label="Mick Colless (3811)
+Independent"]
+	"Mick Colless (3811)" -> "Matt Parmeter (2198)" [label=279]
+}

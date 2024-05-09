@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Turner (546)_McPherson_2022" {
-	graph [label="McPherson 2022" labelloc=t]
+	graph [label="McPherson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Turner (546)" [label="Scott Turner (546)
 Queensland Greens"]

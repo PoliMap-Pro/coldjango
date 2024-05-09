@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Barker (998)_McEwen_2016" {
-	graph [label="McEwen 2016" labelloc=t]
+	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Barker (998)" [label="Neil Barker (998)
 The Greens"]

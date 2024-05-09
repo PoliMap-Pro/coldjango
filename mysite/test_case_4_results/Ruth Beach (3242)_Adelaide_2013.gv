@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ruth Beach (3242)_Adelaide_2013" {
-	graph [label="Adelaide 2013" labelloc=t]
+	graph [label="Adelaide 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ruth Beach (3242)" [label="Ruth Beach (3242)
 Australian Greens"]

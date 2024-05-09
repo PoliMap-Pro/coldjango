@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sylvie Ellsmore (2232)_Sydney_2016" {
-	graph [label="Sydney 2016" labelloc=t]
+	graph [label="Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sylvie Ellsmore (2232)" [label="Sylvie Ellsmore (2232)
 The Greens"]

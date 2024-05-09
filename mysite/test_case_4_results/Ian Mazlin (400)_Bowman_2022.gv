@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Mazlin (400)_Bowman_2022" {
-	graph [label="Bowman 2022" labelloc=t]
+	graph [label="Bowman 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Mazlin (400)" [label="Ian Mazlin (400)
 Queensland Greens"]

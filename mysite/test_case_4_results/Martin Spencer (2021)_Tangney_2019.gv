@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Spencer (2021)_Tangney_2019" {
-	graph [label="Tangney 2019" labelloc=t]
+	graph [label="Tangney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Spencer (2021)" [label="Martin Spencer (2021)
 The Greens (WA)"]

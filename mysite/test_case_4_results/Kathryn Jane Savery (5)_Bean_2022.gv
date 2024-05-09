@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kathryn Jane Savery (5)_Bean_2022" {
-	graph [label="Bean 2022" labelloc=t]
+	graph [label="Bean 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kathryn Jane Savery (5)" [label="Kathryn Jane Savery (5)
 The Greens"]

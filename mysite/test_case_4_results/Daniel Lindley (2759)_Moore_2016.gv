@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Lindley (2759)_Moore_2016" {
-	graph [label="Moore 2016" labelloc=t]
+	graph [label="Moore 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Lindley (2759)" [label="Daniel Lindley (2759)
 The Greens (WA)"]

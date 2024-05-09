@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Bates (406)_Brisbane_2022" {
-	graph [label="Brisbane 2022" labelloc=t]
+	graph [label="Brisbane 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Bates (406)" [label="Stephen Bates (406)
 Queensland Greens"]

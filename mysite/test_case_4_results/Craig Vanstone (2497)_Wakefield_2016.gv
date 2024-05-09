@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Vanstone (2497)_Wakefield_2016" {
-	graph [label="Wakefield 2016" labelloc=t]
+	graph [label="Wakefield 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
 The Greens"]

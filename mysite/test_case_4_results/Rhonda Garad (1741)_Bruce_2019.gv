@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rhonda Garad (1741)_Bruce_2019" {
-	graph [label="Bruce 2019" labelloc=t]
+	graph [label="Bruce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rhonda Garad (1741)" [label="Rhonda Garad (1741)
 The Greens (VIC)"]

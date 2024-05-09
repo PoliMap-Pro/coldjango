@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jack Boddeke (971)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jack Boddeke (971)" [label="Jack Boddeke (971)
 The Greens"]

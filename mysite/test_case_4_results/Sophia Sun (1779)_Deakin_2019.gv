@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sophia Sun (1779)_Deakin_2019" {
-	graph [label="Deakin 2019" labelloc=t]
+	graph [label="Deakin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sophia Sun (1779)" [label="Sophia Sun (1779)
 The Greens (VIC)"]

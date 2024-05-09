@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Susie Gemmell (3696)_Bradfield_2010" {
+	graph [label="Bradfield 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susie Gemmell (3696)" [label="Susie Gemmell (3696)
+The Greens"]
+}

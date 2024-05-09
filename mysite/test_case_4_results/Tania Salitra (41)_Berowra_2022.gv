@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tania Salitra (41)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tania Salitra (41)" [label="Tania Salitra (41)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Apurva Shukla (361)_Werriwa_2022" {
-	graph [label="Werriwa 2022" labelloc=t]
+	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Apurva Shukla (361)" [label="Apurva Shukla (361)
 The Greens"]

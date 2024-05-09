@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Duncan (1474)_Blair_2019" {
-	graph [label="Blair 2019" labelloc=t]
+	graph [label="Blair 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Duncan (1474)" [label="Michelle Duncan (1474)
 The Greens"]

@@ -1,0 +1,1811 @@
+// House preference flow
+digraph "Michael Organ (312)_Cunningham_2004" {
+	graph [label="Cunningham 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"David Moulds (5056)" [label="David Moulds (5056)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"James Stewart Keene (5050)" [label="James Stewart Keene (5050)
+Progressive Labour Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Tony Evans (5051)" [label="Tony Evans (5051)
+Australian Democrats"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Christopher Scrogie (5053)" [label="Christopher Scrogie (5053)
+liberals for forests"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"Jeff Dakers (5052)" -> "Michael Organ (312)" [label=580]
+	"David Moulds (5056)" -> "Jeff Dakers (5052)" [label=239]
+	"James Stewart Keene (5050)" -> "David Moulds (5056)" [label=99]
+	"Tony Evans (5051)" -> "James Stewart Keene (5050)" [label=138]
+	"Christopher Scrogie (5053)" -> "Tony Evans (5051)" [label=30]
+	"Paul Wilcock (5054)" -> "Christopher Scrogie (5053)" [label=33]
+	"John Flanagan (1270)" -> "Paul Wilcock (5054)" [label=13]
+	"Chris Williams (5055)" -> "John Flanagan (1270)" [label=2]
+	"David Moulds (5056)" -> "Michael Organ (312)" [label=560]
+	"James Stewart Keene (5050)" -> "Michael Organ (312)" [label=1176]
+	"Tony Evans (5051)" -> "Michael Organ (312)" [label=235]
+	"Christopher Scrogie (5053)" -> "Michael Organ (312)" [label=79]
+	"Paul Wilcock (5054)" -> "Michael Organ (312)" [label=39]
+	"John Flanagan (1270)" -> "Michael Organ (312)" [label=69]
+	"Chris Williams (5055)" -> "Michael Organ (312)" [label=173]
+	"Chris Williams (5055)" -> "Paul Wilcock (5054)" [label=11]
+	"John Flanagan (1270)" -> "Christopher Scrogie (5053)" [label=18]
+	"Chris Williams (5055)" -> "Christopher Scrogie (5053)" [label=7]
+	"Paul Wilcock (5054)" -> "Tony Evans (5051)" [label=19]
+	"John Flanagan (1270)" -> "Tony Evans (5051)" [label=39]
+	"Chris Williams (5055)" -> "Tony Evans (5051)" [label=10]
+	"Christopher Scrogie (5053)" -> "James Stewart Keene (5050)" [label=44]
+	"Paul Wilcock (5054)" -> "James Stewart Keene (5050)" [label=25]
+	"John Flanagan (1270)" -> "James Stewart Keene (5050)" [label=23]
+	"Chris Williams (5055)" -> "James Stewart Keene (5050)" [label=19]
+	"Tony Evans (5051)" -> "David Moulds (5056)" [label=111]
+	"Christopher Scrogie (5053)" -> "David Moulds (5056)" [label=49]
+	"Paul Wilcock (5054)" -> "David Moulds (5056)" [label=166]
+	"John Flanagan (1270)" -> "David Moulds (5056)" [label=24]
+	"Chris Williams (5055)" -> "David Moulds (5056)" [label=28]
+	"James Stewart Keene (5050)" -> "Jeff Dakers (5052)" [label=182]
+	"Tony Evans (5051)" -> "Jeff Dakers (5052)" [label=66]
+	"Christopher Scrogie (5053)" -> "Jeff Dakers (5052)" [label=62]
+	"Paul Wilcock (5054)" -> "Jeff Dakers (5052)" [label=17]
+	"John Flanagan (1270)" -> "Jeff Dakers (5052)" [label=93]
+	"Chris Williams (5055)" -> "Jeff Dakers (5052)" [label=6]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Felicity Townsend (1135)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Felicity Townsend (1135)" [label="Felicity Townsend (1135)
 The Greens (WA)"]

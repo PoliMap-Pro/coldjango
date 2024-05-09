@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colin Lane (843)_Flinders_2022" {
-	graph [label="Flinders 2022" labelloc=t]
+	graph [label="Flinders 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colin Lane (843)" [label="Colin Lane (843)
 The Greens"]

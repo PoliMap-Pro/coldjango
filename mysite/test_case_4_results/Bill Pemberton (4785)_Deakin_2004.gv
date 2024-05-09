@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Bill Pemberton (4785)_Deakin_2004" {
+	graph [label="Deakin 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
+Australian Greens"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
+Australian Greens"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
+Australian Greens"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
+Australian Greens"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Yasmin De Zilwa (3384)" -> "Bill Pemberton (4785)" [label=372]
+	"Alan Bailey (5538)" -> "Yasmin De Zilwa (3384)" [label=166]
+	"Steve Raskovy (3387)" -> "Alan Bailey (5538)" [label=148]
+	"Simon Tait (5539)" -> "Steve Raskovy (3387)" [label=36]
+	"Alan Bailey (5538)" -> "Bill Pemberton (4785)" [label=651]
+	"Steve Raskovy (3387)" -> "Bill Pemberton (4785)" [label=171]
+	"Simon Tait (5539)" -> "Bill Pemberton (4785)" [label=24]
+	"Simon Tait (5539)" -> "Alan Bailey (5538)" [label=30]
+	"Steve Raskovy (3387)" -> "Yasmin De Zilwa (3384)" [label=125]
+	"Simon Tait (5539)" -> "Yasmin De Zilwa (3384)" [label=16]
+}

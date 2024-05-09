@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Simon Roberts (5610)_Mallee_2004" {
+	graph [label="Mallee 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Simon Roberts (5610)" [label="Simon Roberts (5610)
+Australian Greens"]
+	"Stephen Parr (5612)" [label="Stephen Parr (5612)
+Democrats"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Simon Roberts (5610)" [label="Simon Roberts (5610)
+Australian Greens"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Stephen Parr (5612)" [label="Stephen Parr (5612)
+Democrats"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Stephen Parr (5612)" -> "Simon Roberts (5610)" [label=344]
+	"Trudy Campbell (3048)" -> "Stephen Parr (5612)" [label=272]
+	"Trudy Campbell (3048)" -> "Simon Roberts (5610)" [label=88]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Harrison (3437)_Higgins_2013" {
-	graph [label="Higgins 2013" labelloc=t]
+	graph [label="Higgins 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Harrison (3437)" [label="James Harrison (3437)
 The Greens"]

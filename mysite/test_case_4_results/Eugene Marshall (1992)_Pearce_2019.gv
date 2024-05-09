@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eugene Marshall (1992)_Pearce_2019" {
-	graph [label="Pearce 2019" labelloc=t]
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eugene Marshall (1992)" [label="Eugene Marshall (1992)
 The Greens (WA)"]

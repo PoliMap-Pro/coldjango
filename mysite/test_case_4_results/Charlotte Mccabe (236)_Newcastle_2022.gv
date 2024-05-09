@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charlotte Mccabe (236)_Newcastle_2022" {
-	graph [label="Newcastle 2022" labelloc=t]
+	graph [label="Newcastle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charlotte Mccabe (236)" [label="Charlotte Mccabe (236)
 The Greens"]

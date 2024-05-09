@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Michele Mckenzie (4244)_Barton_2007" {
+	graph [label="Barton 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michele Mckenzie (4244)" [label="Michele Mckenzie (4244)
+The Greens"]
+	"Chris Svolos (4245)" [label="Chris Svolos (4245)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Svolos (4245)" [label="Chris Svolos (4245)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chris Svolos (4245)" -> "Michele Mckenzie (4244)" [label=501]
+}

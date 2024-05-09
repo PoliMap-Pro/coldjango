@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Fairweather (3179)_Longman_2013" {
-	graph [label="Longman 2013" labelloc=t]
+	graph [label="Longman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Fairweather (3179)" [label="Helen Fairweather (3179)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mickey Berry (481)_Groom_2022" {
-	graph [label="Groom 2022" labelloc=t]
+	graph [label="Groom 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mickey Berry (481)" [label="Mickey Berry (481)
 Queensland Greens"]

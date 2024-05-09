@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mick Jones (413)_Capricornia_2022" {
-	graph [label="Capricornia 2022" labelloc=t]
+	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mick Jones (413)" [label="Mick Jones (413)
 Queensland Greens"]

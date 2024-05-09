@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wendy Tubman (2360)_Herbert_2016" {
-	graph [label="Herbert 2016" labelloc=t]
+	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wendy Tubman (2360)" [label="Wendy Tubman (2360)
 The Greens"]

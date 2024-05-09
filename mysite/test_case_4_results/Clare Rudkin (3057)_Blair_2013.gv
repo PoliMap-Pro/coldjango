@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clare Rudkin (3057)_Blair_2013" {
-	graph [label="Blair 2013" labelloc=t]
+	graph [label="Blair 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clare Rudkin (3057)" [label="Clare Rudkin (3057)
 The Greens"]

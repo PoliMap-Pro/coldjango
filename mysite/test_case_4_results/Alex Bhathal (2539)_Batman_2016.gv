@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alex Bhathal (2539)_Batman_2016" {
-	graph [label="Batman 2016" labelloc=t]
+	graph [label="Batman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alex Bhathal (2539)" [label="Alex Bhathal (2539)
 The Greens"]

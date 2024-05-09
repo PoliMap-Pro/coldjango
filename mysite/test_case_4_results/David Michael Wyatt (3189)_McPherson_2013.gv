@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Michael Wyatt (3189)_McPherson_2013" {
-	graph [label="McPherson 2013" labelloc=t]
+	graph [label="McPherson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Michael Wyatt (3189)" [label="David Michael Wyatt (3189)
 The Greens"]

@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Erland Merlin Howden (5012)_Berowra_2004" {
+	graph [label="Berowra 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Erland Merlin Howden (5012)" [label="Erland Merlin Howden (5012)
+The Greens"]
+	"Bruce Coleman (5016)" [label="Bruce Coleman (5016)
+Christian Democratic Party (Fred Nile Group)"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Erland Merlin Howden (5012)" [label="Erland Merlin Howden (5012)
+The Greens"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Erland Merlin Howden (5012)" [label="Erland Merlin Howden (5012)
+The Greens"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Erland Merlin Howden (5012)" [label="Erland Merlin Howden (5012)
+The Greens"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Erland Merlin Howden (5012)" [label="Erland Merlin Howden (5012)
+The Greens"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Bruce Coleman (5016)" [label="Bruce Coleman (5016)
+Christian Democratic Party (Fred Nile Group)"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Bruce Coleman (5016)" [label="Bruce Coleman (5016)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Bruce Coleman (5016)" [label="Bruce Coleman (5016)
+Christian Democratic Party (Fred Nile Group)"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Bruce Coleman (5016)" [label="Bruce Coleman (5016)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Margaret Van De Weg (5014)" [label="Margaret Van De Weg (5014)
+Australian Democrats"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Matthew Benson (5013)" [label="Matthew Benson (5013)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Lance Clark (5015)" [label="Lance Clark (5015)
+Family First"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Ross Blade (5017)" [label="Ross Blade (5017)
+Independent"]
+	"Bruce Coleman (5016)" -> "Erland Merlin Howden (5012)" [label=489]
+	"Margaret Van De Weg (5014)" -> "Bruce Coleman (5016)" [label=158]
+	"Matthew Benson (5013)" -> "Margaret Van De Weg (5014)" [label=204]
+	"Lance Clark (5015)" -> "Matthew Benson (5013)" [label=86]
+	"Ross Blade (5017)" -> "Lance Clark (5015)" [label=49]
+	"Margaret Van De Weg (5014)" -> "Erland Merlin Howden (5012)" [label=747]
+	"Matthew Benson (5013)" -> "Erland Merlin Howden (5012)" [label=447]
+	"Lance Clark (5015)" -> "Erland Merlin Howden (5012)" [label=112]
+	"Ross Blade (5017)" -> "Erland Merlin Howden (5012)" [label=87]
+	"Ross Blade (5017)" -> "Matthew Benson (5013)" [label=273]
+	"Lance Clark (5015)" -> "Margaret Van De Weg (5014)" [label=68]
+	"Ross Blade (5017)" -> "Margaret Van De Weg (5014)" [label=57]
+	"Matthew Benson (5013)" -> "Bruce Coleman (5016)" [label=105]
+	"Lance Clark (5015)" -> "Bruce Coleman (5016)" [label=319]
+	"Ross Blade (5017)" -> "Bruce Coleman (5016)" [label=71]
+}

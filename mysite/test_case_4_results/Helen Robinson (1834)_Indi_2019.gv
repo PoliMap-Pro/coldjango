@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Robinson (1834)_Indi_2019" {
-	graph [label="Indi 2019" labelloc=t]
+	graph [label="Indi 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Robinson (1834)" [label="Helen Robinson (1834)
 The Greens (VIC)"]

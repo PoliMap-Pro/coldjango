@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Bill Weller (4672)_Kingston_2007" {
+	graph [label="Kingston 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Robert Brokenshire (4674)" -> "Bill Weller (4672)" [label=990]
+	"Matthew Fowler (4673)" -> "Robert Brokenshire (4674)" [label=109]
+	"Barry J Becker (4671)" -> "Matthew Fowler (4673)" [label=109]
+	"Alex Kusznir (4675)" -> "Barry J Becker (4671)" [label=138]
+	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
+	"Matthew Fowler (4673)" -> "Bill Weller (4672)" [label=471]
+	"Barry J Becker (4671)" -> "Bill Weller (4672)" [label=200]
+	"Alex Kusznir (4675)" -> "Bill Weller (4672)" [label=51]
+	"Lachlan Peter Smith (4676)" -> "Bill Weller (4672)" [label=28]
+	"Lachlan Peter Smith (4676)" -> "Barry J Becker (4671)" [label=24]
+	"Alex Kusznir (4675)" -> "Matthew Fowler (4673)" [label=36]
+	"Lachlan Peter Smith (4676)" -> "Matthew Fowler (4673)" [label=13]
+	"Barry J Becker (4671)" -> "Robert Brokenshire (4674)" [label=98]
+	"Alex Kusznir (4675)" -> "Robert Brokenshire (4674)" [label=113]
+	"Lachlan Peter Smith (4676)" -> "Robert Brokenshire (4674)" [label=48]
+}

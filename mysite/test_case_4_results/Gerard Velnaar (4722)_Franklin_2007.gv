@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Gerard Velnaar (4722)_Franklin_2007" {
+	graph [label="Franklin 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gerard Velnaar (4722)" [label="Gerard Velnaar (4722)
+The Greens"]
+	"Gino Papiccio (4724)" [label="Gino Papiccio (4724)
+Family First"]
+	"Matt Holloway (4723)" [label="Matt Holloway (4723)
+Socialist Alliance"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Gerard Velnaar (4722)" [label="Gerard Velnaar (4722)
+The Greens"]
+	"Matt Holloway (4723)" [label="Matt Holloway (4723)
+Socialist Alliance"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Gerard Velnaar (4722)" [label="Gerard Velnaar (4722)
+The Greens"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Matt Holloway (4723)" [label="Matt Holloway (4723)
+Socialist Alliance"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Gino Papiccio (4724)" [label="Gino Papiccio (4724)
+Family First"]
+	"Matt Holloway (4723)" [label="Matt Holloway (4723)
+Socialist Alliance"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Gino Papiccio (4724)" [label="Gino Papiccio (4724)
+Family First"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Matt Holloway (4723)" [label="Matt Holloway (4723)
+Socialist Alliance"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Roger Honey (4721)" [label="Roger Honey (4721)
+Citizens Electoral Council"]
+	"Gino Papiccio (4724)" -> "Gerard Velnaar (4722)" [label=368]
+	"Matt Holloway (4723)" -> "Gino Papiccio (4724)" [label=84]
+	"Roger Honey (4721)" -> "Matt Holloway (4723)" [label=45]
+	"Matt Holloway (4723)" -> "Gerard Velnaar (4722)" [label=165]
+	"Roger Honey (4721)" -> "Gerard Velnaar (4722)" [label=42]
+	"Roger Honey (4721)" -> "Gino Papiccio (4724)" [label=44]
+}

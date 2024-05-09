@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Valerie Weier (2368)_Kennedy_2016" {
-	graph [label="Kennedy 2016" labelloc=t]
+	graph [label="Kennedy 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Valerie Weier (2368)" [label="Valerie Weier (2368)
 The Greens"]

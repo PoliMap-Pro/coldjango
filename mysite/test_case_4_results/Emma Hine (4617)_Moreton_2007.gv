@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Emma Hine (4617)_Moreton_2007" {
+	graph [label="Moreton 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Emma Hine (4617)" [label="Emma Hine (4617)
+The Greens"]
+	"Steve Christian (3961)" [label="Steve Christian (3961)
+Family First"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emma Hine (4617)" [label="Emma Hine (4617)
+The Greens"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emma Hine (4617)" [label="Emma Hine (4617)
+The Greens"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emma Hine (4617)" [label="Emma Hine (4617)
+The Greens"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Steve Christian (3961)" [label="Steve Christian (3961)
+Family First"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Steve Christian (3961)" [label="Steve Christian (3961)
+Family First"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Steve Christian (3961)" [label="Steve Christian (3961)
+Family First"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Emad Soliman (4620)" [label="Emad Soliman (4620)
+Democrats"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Shane Brown (4618)" [label="Shane Brown (4618)
+LDP"]
+	"Steve Christian (3961)" -> "Emma Hine (4617)" [label=387]
+	"Emad Soliman (4620)" -> "Steve Christian (3961)" [label=86]
+	"Andrew Lamb (4619)" -> "Emad Soliman (4620)" [label=105]
+	"Shane Brown (4618)" -> "Andrew Lamb (4619)" [label=30]
+	"Emad Soliman (4620)" -> "Emma Hine (4617)" [label=407]
+	"Andrew Lamb (4619)" -> "Emma Hine (4617)" [label=172]
+	"Shane Brown (4618)" -> "Emma Hine (4617)" [label=76]
+	"Shane Brown (4618)" -> "Emad Soliman (4620)" [label=17]
+	"Andrew Lamb (4619)" -> "Steve Christian (3961)" [label=168]
+	"Shane Brown (4618)" -> "Steve Christian (3961)" [label=67]
+}

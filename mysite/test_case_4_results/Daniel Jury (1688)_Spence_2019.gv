@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Jury (1688)_Spence_2019" {
-	graph [label="Spence 2019" labelloc=t]
+	graph [label="Spence 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Jury (1688)" [label="Daniel Jury (1688)
 The Greens"]

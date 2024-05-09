@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bianca Mcneair (1118)_Durack_2022" {
-	graph [label="Durack 2022" labelloc=t]
+	graph [label="Durack 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bianca Mcneair (1118)" [label="Bianca Mcneair (1118)
 The Greens (WA)"]

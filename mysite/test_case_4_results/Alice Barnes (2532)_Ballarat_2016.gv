@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alice Barnes (2532)_Ballarat_2016" {
-	graph [label="Ballarat 2016" labelloc=t]
+	graph [label="Ballarat 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alice Barnes (2532)" [label="Alice Barnes (2532)
 The Greens"]

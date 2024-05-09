@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Ray Goodlass (4436)_Riverina_2004" {
+	graph [label="Riverina 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ray Goodlass (4436)" [label="Ray Goodlass (4436)
+The Greens"]
+	"Neil Turner (280)" [label="Neil Turner (280)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Neil Turner (280)" [label="Neil Turner (280)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Neil Turner (280)" -> "Ray Goodlass (4436)" [label=230]
+}

@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Craig Smith (5601)_La Trobe_2004" {
+	graph [label="La Trobe 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Craig Smith (5601)" [label="Craig Smith (5601)
+Australian Greens"]
+	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
+Family First"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Craig Smith (5601)" [label="Craig Smith (5601)
+Australian Greens"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Craig Smith (5601)" [label="Craig Smith (5601)
+Australian Greens"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Craig Smith (5601)" [label="Craig Smith (5601)
+Australian Greens"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Craig Smith (5601)" [label="Craig Smith (5601)
+Australian Greens"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
+Family First"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
+Family First"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
+Family First"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
+Family First"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Darryl Bridges (5606)" -> "Craig Smith (5601)" [label=455]
+	"Tony Holland (5602)" -> "Darryl Bridges (5606)" [label=129]
+	"Frank Dean (5604)" -> "Tony Holland (5602)" [label=150]
+	"Wolf Voigt (5605)" -> "Frank Dean (5604)" [label=20]
+	"Kurt Beilharz (4842)" -> "Wolf Voigt (5605)" [label=17]
+	"Tony Holland (5602)" -> "Craig Smith (5601)" [label=538]
+	"Frank Dean (5604)" -> "Craig Smith (5601)" [label=173]
+	"Wolf Voigt (5605)" -> "Craig Smith (5601)" [label=21]
+	"Kurt Beilharz (4842)" -> "Craig Smith (5601)" [label=28]
+	"Kurt Beilharz (4842)" -> "Frank Dean (5604)" [label=19]
+	"Wolf Voigt (5605)" -> "Tony Holland (5602)" [label=14]
+	"Kurt Beilharz (4842)" -> "Tony Holland (5602)" [label=11]
+	"Frank Dean (5604)" -> "Darryl Bridges (5606)" [label=139]
+	"Wolf Voigt (5605)" -> "Darryl Bridges (5606)" [label=203]
+	"Kurt Beilharz (4842)" -> "Darryl Bridges (5606)" [label=22]
+}

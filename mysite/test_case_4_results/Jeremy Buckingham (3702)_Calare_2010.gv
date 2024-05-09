@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Jeremy Buckingham (3702)_Calare_2010" {
+	graph [label="Calare 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeremy Buckingham (3702)" [label="Jeremy Buckingham (3702)
+The Greens"]
+	"Karen Romano (3701)" [label="Karen Romano (3701)
+Independent"]
+	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Jeremy Buckingham (3702)" [label="Jeremy Buckingham (3702)
+The Greens"]
+	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Jeremy Buckingham (3702)" [label="Jeremy Buckingham (3702)
+The Greens"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Karen Romano (3701)" [label="Karen Romano (3701)
+Independent"]
+	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Karen Romano (3701)" [label="Karen Romano (3701)
+Independent"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Karen Romano (3701)" -> "Jeremy Buckingham (3702)" [label=436]
+	"Jessyka Norsworthy (3698)" -> "Karen Romano (3701)" [label=180]
+	"Macgregor Ross (2828)" -> "Jessyka Norsworthy (3698)" [label=76]
+	"Jessyka Norsworthy (3698)" -> "Jeremy Buckingham (3702)" [label=91]
+	"Macgregor Ross (2828)" -> "Jeremy Buckingham (3702)" [label=204]
+	"Macgregor Ross (2828)" -> "Karen Romano (3701)" [label=467]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Terrantroy (1123)_Forrest_2022" {
-	graph [label="Forrest 2022" labelloc=t]
+	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Terrantroy (1123)" [label="Christine Terrantroy (1123)
 The Greens (WA)"]

@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Adam Bandt (1007)_Melbourne_2007" {
+	graph [label="Melbourne 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+Australian Greens"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" [label="Andrea Del Ciotto (4871)
+Liberal"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Tim Wright (4872)" [label="Tim Wright (4872)
+Australian Democrats"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrew Reed (4869)" [label="Andrew Reed (4869)
+Citizens Electoral Council"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Andrea Del Ciotto (4871)" -> "Adam Bandt (1007)" [label=17671]
+	"Tim Wright (4872)" -> "Andrea Del Ciotto (4871)" [label=266]
+	"Georgia Pearson (4139)" -> "Tim Wright (4872)" [label=84]
+	"Andrew Reed (4869)" -> "Georgia Pearson (4139)" [label=98]
+	"Kylie Mcgregor (4873)" -> "Andrew Reed (4869)" [label=41]
+	"Will Marshall (4870)" -> "Kylie Mcgregor (4873)" [label=26]
+	"Tim Wright (4872)" -> "Adam Bandt (1007)" [label=831]
+	"Georgia Pearson (4139)" -> "Adam Bandt (1007)" [label=374]
+	"Andrew Reed (4869)" -> "Adam Bandt (1007)" [label=422]
+	"Kylie Mcgregor (4873)" -> "Adam Bandt (1007)" [label=241]
+	"Will Marshall (4870)" -> "Adam Bandt (1007)" [label=161]
+	"Will Marshall (4870)" -> "Andrew Reed (4869)" [label=39]
+	"Kylie Mcgregor (4873)" -> "Georgia Pearson (4139)" [label=41]
+	"Will Marshall (4870)" -> "Georgia Pearson (4139)" [label=51]
+	"Andrew Reed (4869)" -> "Tim Wright (4872)" [label=41]
+	"Kylie Mcgregor (4873)" -> "Tim Wright (4872)" [label=60]
+	"Will Marshall (4870)" -> "Tim Wright (4872)" [label=35]
+	"Georgia Pearson (4139)" -> "Andrea Del Ciotto (4871)" [label=409]
+	"Andrew Reed (4869)" -> "Andrea Del Ciotto (4871)" [label=41]
+	"Kylie Mcgregor (4873)" -> "Andrea Del Ciotto (4871)" [label=66]
+	"Will Marshall (4870)" -> "Andrea Del Ciotto (4871)" [label=46]
+}

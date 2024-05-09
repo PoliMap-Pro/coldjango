@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nikki Mortier (1674)_Kingston_2019" {
-	graph [label="Kingston 2019" labelloc=t]
+	graph [label="Kingston 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nikki Mortier (1674)" [label="Nikki Mortier (1674)
 The Greens"]

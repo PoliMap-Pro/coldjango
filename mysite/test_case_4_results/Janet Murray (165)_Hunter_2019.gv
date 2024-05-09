@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janet Murray (165)_Hunter_2019" {
-	graph [label="Hunter 2019" labelloc=t]
+	graph [label="Hunter 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janet Murray (165)" [label="Janet Murray (165)
 The Greens"]

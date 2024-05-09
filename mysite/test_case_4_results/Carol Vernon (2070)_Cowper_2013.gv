@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carol Vernon (2070)_Cowper_2013" {
-	graph [label="Cowper 2013" labelloc=t]
+	graph [label="Cowper 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carol Vernon (2070)" [label="Carol Vernon (2070)
 The Greens"]

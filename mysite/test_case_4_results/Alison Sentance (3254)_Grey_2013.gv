@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alison Sentance (3254)_Grey_2013" {
-	graph [label="Grey 2013" labelloc=t]
+	graph [label="Grey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alison Sentance (3254)" [label="Alison Sentance (3254)
 Australian Greens"]

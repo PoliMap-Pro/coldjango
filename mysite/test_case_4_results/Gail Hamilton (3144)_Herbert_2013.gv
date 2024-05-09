@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gail Hamilton (3144)_Herbert_2013" {
-	graph [label="Herbert 2013" labelloc=t]
+	graph [label="Herbert 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gail Hamilton (3144)" [label="Gail Hamilton (3144)
 The Greens"]

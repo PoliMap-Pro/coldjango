@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wylie Campbell (1422)_Shortland_2019" {
-	graph [label="Shortland 2019" labelloc=t]
+	graph [label="Shortland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wylie Campbell (1422)" [label="Wylie Campbell (1422)
 The Greens"]

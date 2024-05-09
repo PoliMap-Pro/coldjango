@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Mcaloon (1730)_Ballarat_2019" {
-	graph [label="Ballarat 2019" labelloc=t]
+	graph [label="Ballarat 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
 The Greens (VIC)"]

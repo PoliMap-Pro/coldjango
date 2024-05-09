@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lindsay Peters (2807)_Bennelong_2013" {
-	graph [label="Bennelong 2013" labelloc=t]
+	graph [label="Bennelong 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
 The Greens"]

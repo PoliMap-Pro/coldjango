@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dinesh Jayasuriya (3425)_Gorton_2013" {
-	graph [label="Gorton 2013" labelloc=t]
+	graph [label="Gorton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dinesh Jayasuriya (3425)" [label="Dinesh Jayasuriya (3425)
 The Greens"]

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Elissa Jenkins (3204)_Bonner_2004" {
+	graph [label="Bonner 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
+The Greens"]
+	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
+Family First"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
+The Greens"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
+The Greens"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
+The Greens"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
+Family First"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
+Family First"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
+Family First"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Trevor Hunt (5281)" -> "Elissa Jenkins (3204)" [label=561]
+	"Barry Myatt (5279)" -> "Trevor Hunt (5281)" [label=442]
+	"Chad Smith (5282)" -> "Barry Myatt (5279)" [label=42]
+	"William Raymond Wheeler (5278)" -> "Chad Smith (5282)" [label=16]
+	"Barry Myatt (5279)" -> "Elissa Jenkins (3204)" [label=232]
+	"Chad Smith (5282)" -> "Elissa Jenkins (3204)" [label=496]
+	"William Raymond Wheeler (5278)" -> "Elissa Jenkins (3204)" [label=29]
+	"William Raymond Wheeler (5278)" -> "Barry Myatt (5279)" [label=85]
+	"Chad Smith (5282)" -> "Trevor Hunt (5281)" [label=89]
+	"William Raymond Wheeler (5278)" -> "Trevor Hunt (5281)" [label=34]
+}

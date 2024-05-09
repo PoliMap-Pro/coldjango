@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brent John Robertson (1253)_Chifley_2019" {
-	graph [label="Chifley 2019" labelloc=t]
+	graph [label="Chifley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brent John Robertson (1253)" [label="Brent John Robertson (1253)
 The Greens"]

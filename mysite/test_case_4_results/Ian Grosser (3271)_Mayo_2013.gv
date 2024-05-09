@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Grosser (3271)_Mayo_2013" {
-	graph [label="Mayo 2013" labelloc=t]
+	graph [label="Mayo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Grosser (3271)" [label="Ian Grosser (3271)
 Australian Greens"]

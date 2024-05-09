@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Stefan Zibell (4056)_Bruce_2010" {
+	graph [label="Bruce 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stefan Zibell (4056)" [label="Stefan Zibell (4056)
+Australian Greens"]
+	"Felicity Hemmersbach (4057)" [label="Felicity Hemmersbach (4057)
+Family First"]
+	"Felicity Hemmersbach (4057)" [label="Felicity Hemmersbach (4057)
+Family First"]
+	"Felicity Hemmersbach (4057)" -> "Stefan Zibell (4056)" [label=897]
+}

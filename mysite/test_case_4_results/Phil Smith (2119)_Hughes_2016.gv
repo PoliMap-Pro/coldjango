@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Smith (2119)_Hughes_2016" {
-	graph [label="Hughes 2016" labelloc=t]
+	graph [label="Hughes 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Smith (2119)" [label="Phil Smith (2119)
 The Greens"]

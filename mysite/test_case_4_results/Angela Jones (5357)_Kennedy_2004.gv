@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Angela Jones (5357)_Kennedy_2004" {
+	graph [label="Kennedy 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Angela Jones (5357)" [label="Angela Jones (5357)
+The Greens"]
+	"Keith Douglas (3120)" [label="Keith Douglas (3120)
+Family First"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Angela Jones (5357)" [label="Angela Jones (5357)
+The Greens"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Angela Jones (5357)" [label="Angela Jones (5357)
+The Greens"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Keith Douglas (3120)" [label="Keith Douglas (3120)
+Family First"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Keith Douglas (3120)" [label="Keith Douglas (3120)
+Family First"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"Keith Douglas (3120)" -> "Angela Jones (5357)" [label=273]
+	"Terry Hennessey (5360)" -> "Keith Douglas (3120)" [label=62]
+	"Judith A Harris (5359)" -> "Terry Hennessey (5360)" [label=36]
+	"Terry Hennessey (5360)" -> "Angela Jones (5357)" [label=138]
+	"Judith A Harris (5359)" -> "Angela Jones (5357)" [label=41]
+	"Judith A Harris (5359)" -> "Keith Douglas (3120)" [label=35]
+}

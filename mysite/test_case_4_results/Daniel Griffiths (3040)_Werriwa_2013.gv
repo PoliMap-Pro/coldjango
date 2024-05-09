@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Daniel Griffiths (3040)_Werriwa_2013" {
+	graph [label="Werriwa 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Daniel Griffiths (3040)" [label="Daniel Griffiths (3040)
+The Greens"]
+	"Michael Byrne (3036)" [label="Michael Byrne (3036)
+Democratic Labour Party (DLP)"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Daniel Griffiths (3040)" [label="Daniel Griffiths (3040)
+The Greens"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Daniel Griffiths (3040)" [label="Daniel Griffiths (3040)
+The Greens"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Michael Byrne (3036)" [label="Michael Byrne (3036)
+Democratic Labour Party (DLP)"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Michael Byrne (3036)" [label="Michael Byrne (3036)
+Democratic Labour Party (DLP)"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Michael Byrne (3036)" -> "Daniel Griffiths (3040)" [label=157]
+	"Marella Harris (3038)" -> "Michael Byrne (3036)" [label=96]
+	"Kerryn Ball (3042)" -> "Marella Harris (3038)" [label=67]
+	"Marella Harris (3038)" -> "Daniel Griffiths (3040)" [label=174]
+	"Kerryn Ball (3042)" -> "Daniel Griffiths (3040)" [label=85]
+	"Kerryn Ball (3042)" -> "Michael Byrne (3036)" [label=32]
+}

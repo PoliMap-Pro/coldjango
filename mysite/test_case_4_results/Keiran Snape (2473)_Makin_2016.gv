@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keiran Snape (2473)_Makin_2016" {
-	graph [label="Makin 2016" labelloc=t]
+	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keiran Snape (2473)" [label="Keiran Snape (2473)
 The Greens"]

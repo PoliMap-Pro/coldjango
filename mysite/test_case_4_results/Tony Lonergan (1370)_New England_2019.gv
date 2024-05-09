@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Lonergan (1370)_New England_2019" {
-	graph [label="New England 2019" labelloc=t]
+	graph [label="New England 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Lonergan (1370)" [label="Tony Lonergan (1370)
 The Greens"]

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Saeed Khan (4319)_Grayndler_2007" {
+	graph [label="Grayndler 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Saeed Khan (4319)" [label="Saeed Khan (4319)
+The Greens"]
+	"Pip Hinman (3745)" [label="Pip Hinman (3745)
+Socialist Alliance"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Saeed Khan (4319)" [label="Saeed Khan (4319)
+The Greens"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Saeed Khan (4319)" [label="Saeed Khan (4319)
+The Greens"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Saeed Khan (4319)" [label="Saeed Khan (4319)
+The Greens"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Pip Hinman (3745)" [label="Pip Hinman (3745)
+Socialist Alliance"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Pip Hinman (3745)" [label="Pip Hinman (3745)
+Socialist Alliance"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Pip Hinman (3745)" [label="Pip Hinman (3745)
+Socialist Alliance"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Pip Hinman (3745)" -> "Saeed Khan (4319)" [label=685]
+	"Jeffrey Gabriel (4320)" -> "Pip Hinman (3745)" [label=122]
+	"Ehab Hennien (4317)" -> "Jeffrey Gabriel (4320)" [label=86]
+	"Patrick O'Connor (4318)" -> "Ehab Hennien (4317)" [label=16]
+	"Jeffrey Gabriel (4320)" -> "Saeed Khan (4319)" [label=781]
+	"Ehab Hennien (4317)" -> "Saeed Khan (4319)" [label=91]
+	"Patrick O'Connor (4318)" -> "Saeed Khan (4319)" [label=94]
+	"Patrick O'Connor (4318)" -> "Jeffrey Gabriel (4320)" [label=28]
+	"Ehab Hennien (4317)" -> "Pip Hinman (3745)" [label=69]
+	"Patrick O'Connor (4318)" -> "Pip Hinman (3745)" [label=99]
+}

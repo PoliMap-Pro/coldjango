@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Glen George (5678)_Cowan_2004" {
+	graph [label="Cowan 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Glen George (5678)" [label="Glen George (5678)
+The Greens"]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Glen George (5678)" [label="Glen George (5678)
+The Greens"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Glen George (5678)" [label="Glen George (5678)
+The Greens"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Glen George (5678)" [label="Glen George (5678)
+The Greens"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Richard Leeder (5681)" -> "Glen George (5678)" [label=414]
+	"Clem Winton (5682)" -> "Richard Leeder (5681)" [label=349]
+	"Sarah Gilfillan (5680)" -> "Clem Winton (5682)" [label=112]
+	"Basil Atkins (5679)" -> "Sarah Gilfillan (5680)" [label=59]
+	"Clem Winton (5682)" -> "Glen George (5678)" [label=384]
+	"Sarah Gilfillan (5680)" -> "Glen George (5678)" [label=438]
+	"Basil Atkins (5679)" -> "Glen George (5678)" [label=107]
+	"Basil Atkins (5679)" -> "Clem Winton (5682)" [label=34]
+	"Sarah Gilfillan (5680)" -> "Richard Leeder (5681)" [label=110]
+	"Basil Atkins (5679)" -> "Richard Leeder (5681)" [label=42]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vinnie Batten (434)_Dickson_2022" {
-	graph [label="Dickson 2022" labelloc=t]
+	graph [label="Dickson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vinnie Batten (434)" [label="Vinnie Batten (434)
 Queensland Greens"]

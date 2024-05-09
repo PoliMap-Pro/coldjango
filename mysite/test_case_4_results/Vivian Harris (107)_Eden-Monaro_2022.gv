@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vivian Harris (107)_Eden-Monaro_2022" {
-	graph [label="Eden-Monaro 2022" labelloc=t]
+	graph [label="Eden-Monaro 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vivian Harris (107)" [label="Vivian Harris (107)
 The Greens"]

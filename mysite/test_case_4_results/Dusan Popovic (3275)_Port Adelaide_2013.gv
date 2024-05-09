@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Dusan Popovic (3275)_Port Adelaide_2013" {
+	graph [label="Port Adelaide 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dusan Popovic (3275)" [label="Dusan Popovic (3275)
+Australian Greens"]
+	"Ngoc Chau Huynh (3272)" [label="Ngoc Chau Huynh (3272)
+Palmer United Party"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Dusan Popovic (3275)" [label="Dusan Popovic (3275)
+Australian Greens"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Ngoc Chau Huynh (3272)" [label="Ngoc Chau Huynh (3272)
+Palmer United Party"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Ngoc Chau Huynh (3272)" -> "Dusan Popovic (3275)" [label=624]
+	"Terry Cooksley (3273)" -> "Ngoc Chau Huynh (3272)" [label=291]
+	"Terry Cooksley (3273)" -> "Dusan Popovic (3275)" [label=117]
+}

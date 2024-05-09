@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Humphreys (820)_Deakin_2022" {
-	graph [label="Deakin 2022" labelloc=t]
+	graph [label="Deakin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Humphreys (820)" [label="Rob Humphreys (820)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brent Heber (2039)_Barton_2016" {
-	graph [label="Barton 2016" labelloc=t]
+	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brent Heber (2039)" [label="Brent Heber (2039)
 The Greens"]

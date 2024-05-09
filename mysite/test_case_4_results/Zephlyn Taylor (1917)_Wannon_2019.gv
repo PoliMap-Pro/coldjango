@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zephlyn Taylor (1917)_Wannon_2019" {
-	graph [label="Wannon 2019" labelloc=t]
+	graph [label="Wannon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zephlyn Taylor (1917)" [label="Zephlyn Taylor (1917)
 The Greens (VIC)"]

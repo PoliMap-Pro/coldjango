@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kim Samiotis (1840)_Isaacs_2019" {
-	graph [label="Isaacs 2019" labelloc=t]
+	graph [label="Isaacs 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kim Samiotis (1840)" [label="Kim Samiotis (1840)
 The Greens (VIC)"]

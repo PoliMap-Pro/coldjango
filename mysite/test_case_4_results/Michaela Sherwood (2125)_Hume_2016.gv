@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michaela Sherwood (2125)_Hume_2016" {
-	graph [label="Hume 2016" labelloc=t]
+	graph [label="Hume 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michaela Sherwood (2125)" [label="Michaela Sherwood (2125)
 The Greens"]

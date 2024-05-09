@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Elliott (669)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Elliott (669)" [label="Greg Elliott (669)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stuart Davis (174)_Kingsford Smith_2022" {
-	graph [label="Kingsford Smith 2022" labelloc=t]
+	graph [label="Kingsford Smith 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stuart Davis (174)" [label="Stuart Davis (174)
 The Greens"]

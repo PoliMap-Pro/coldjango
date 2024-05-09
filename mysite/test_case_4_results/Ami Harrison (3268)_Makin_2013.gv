@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ami Harrison (3268)_Makin_2013" {
-	graph [label="Makin 2013" labelloc=t]
+	graph [label="Makin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ami Harrison (3268)" [label="Ami Harrison (3268)
 Australian Greens"]

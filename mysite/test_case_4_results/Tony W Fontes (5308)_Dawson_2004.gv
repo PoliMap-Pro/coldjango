@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Tony W Fontes (5308)_Dawson_2004" {
+	graph [label="Dawson 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony W Fontes (5308)" [label="Tony W Fontes (5308)
+The Greens"]
+	"Lewis Arroita (5305)" [label="Lewis Arroita (5305)
+One Nation"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Tony W Fontes (5308)" [label="Tony W Fontes (5308)
+The Greens"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Tony W Fontes (5308)" [label="Tony W Fontes (5308)
+The Greens"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Tony W Fontes (5308)" [label="Tony W Fontes (5308)
+The Greens"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Tony W Fontes (5308)" [label="Tony W Fontes (5308)
+The Greens"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Lewis Arroita (5305)" [label="Lewis Arroita (5305)
+One Nation"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Lewis Arroita (5305)" [label="Lewis Arroita (5305)
+One Nation"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Lewis Arroita (5305)" [label="Lewis Arroita (5305)
+One Nation"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Lewis Arroita (5305)" [label="Lewis Arroita (5305)
+One Nation"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Bev Smith (5303)" [label="Bev Smith (5303)
+Family First"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Lewis Arroita (5305)" -> "Tony W Fontes (5308)" [label=417]
+	"Bev Smith (5303)" -> "Lewis Arroita (5305)" [label=284]
+	"Jan Pukallus (3123)" -> "Bev Smith (5303)" [label=166]
+	"Archie Julien (5307)" -> "Jan Pukallus (3123)" [label=37]
+	"Debbie Lowis (5304)" -> "Archie Julien (5307)" [label=18]
+	"Bev Smith (5303)" -> "Tony W Fontes (5308)" [label=194]
+	"Jan Pukallus (3123)" -> "Tony W Fontes (5308)" [label=575]
+	"Archie Julien (5307)" -> "Tony W Fontes (5308)" [label=200]
+	"Debbie Lowis (5304)" -> "Tony W Fontes (5308)" [label=16]
+	"Debbie Lowis (5304)" -> "Jan Pukallus (3123)" [label=24]
+	"Archie Julien (5307)" -> "Bev Smith (5303)" [label=27]
+	"Debbie Lowis (5304)" -> "Bev Smith (5303)" [label=60]
+	"Jan Pukallus (3123)" -> "Lewis Arroita (5305)" [label=308]
+	"Archie Julien (5307)" -> "Lewis Arroita (5305)" [label=46]
+	"Debbie Lowis (5304)" -> "Lewis Arroita (5305)" [label=183]
+}

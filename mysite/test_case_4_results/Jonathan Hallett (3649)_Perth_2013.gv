@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jonathan Hallett (3649)_Perth_2013" {
+	graph [label="Perth 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Ant Clark (3647)" [label="Ant Clark (3647)
+Independent"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Gabriel Hasib Harfouche (3652)" -> "Jonathan Hallett (3649)" [label=996]
+	"Paul Michael Connelly (3646)" -> "Gabriel Hasib Harfouche (3652)" [label=288]
+	"Ant Clark (3647)" -> "Paul Michael Connelly (3646)" [label=196]
+	"Lesley Croll (3651)" -> "Ant Clark (3647)" [label=116]
+	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
+	"Paul Michael Connelly (3646)" -> "Jonathan Hallett (3649)" [label=273]
+	"Ant Clark (3647)" -> "Jonathan Hallett (3649)" [label=365]
+	"Lesley Croll (3651)" -> "Jonathan Hallett (3649)" [label=146]
+	"Evelyn Patricia Edney (3650)" -> "Jonathan Hallett (3649)" [label=60]
+	"Evelyn Patricia Edney (3650)" -> "Ant Clark (3647)" [label=55]
+	"Lesley Croll (3651)" -> "Paul Michael Connelly (3646)" [label=144]
+	"Evelyn Patricia Edney (3650)" -> "Paul Michael Connelly (3646)" [label=76]
+	"Ant Clark (3647)" -> "Gabriel Hasib Harfouche (3652)" [label=184]
+	"Lesley Croll (3651)" -> "Gabriel Hasib Harfouche (3652)" [label=136]
+	"Evelyn Patricia Edney (3650)" -> "Gabriel Hasib Harfouche (3652)" [label=45]
+}

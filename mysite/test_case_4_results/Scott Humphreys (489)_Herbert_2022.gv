@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Humphreys (489)_Herbert_2022" {
-	graph [label="Herbert 2022" labelloc=t]
+	graph [label="Herbert 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Humphreys (489)" [label="Scott Humphreys (489)
 Queensland Greens"]

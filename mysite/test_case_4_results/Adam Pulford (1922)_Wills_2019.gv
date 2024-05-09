@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Pulford (1922)_Wills_2019" {
-	graph [label="Wills 2019" labelloc=t]
+	graph [label="Wills 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Pulford (1922)" [label="Adam Pulford (1922)
 The Greens (VIC)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jon Doig (1257)_Cook_2019" {
-	graph [label="Cook 2019" labelloc=t]
+	graph [label="Cook 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jon Doig (1257)" [label="Jon Doig (1257)
 The Greens"]

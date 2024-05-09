@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Paula Nadas (5283)_Bowman_2004" {
+	graph [label="Bowman 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Paula Nadas (5283)" [label="Paula Nadas (5283)
+The Greens"]
+	"Mal Cayley (5284)" [label="Mal Cayley (5284)
+Family First"]
+	"Joe Ross (5286)" [label="Joe Ross (5286)
+The Nationals"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Paula Nadas (5283)" [label="Paula Nadas (5283)
+The Greens"]
+	"Joe Ross (5286)" [label="Joe Ross (5286)
+The Nationals"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Paula Nadas (5283)" [label="Paula Nadas (5283)
+The Greens"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Joe Ross (5286)" [label="Joe Ross (5286)
+The Nationals"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Mal Cayley (5284)" [label="Mal Cayley (5284)
+Family First"]
+	"Joe Ross (5286)" [label="Joe Ross (5286)
+The Nationals"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Mal Cayley (5284)" [label="Mal Cayley (5284)
+Family First"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Joe Ross (5286)" [label="Joe Ross (5286)
+The Nationals"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Robert H Bromwich (5285)" [label="Robert H Bromwich (5285)
+Australian Democrats"]
+	"Mal Cayley (5284)" -> "Paula Nadas (5283)" [label=777]
+	"Joe Ross (5286)" -> "Mal Cayley (5284)" [label=270]
+	"Robert H Bromwich (5285)" -> "Joe Ross (5286)" [label=84]
+	"Joe Ross (5286)" -> "Paula Nadas (5283)" [label=178]
+	"Robert H Bromwich (5285)" -> "Paula Nadas (5283)" [label=299]
+	"Robert H Bromwich (5285)" -> "Mal Cayley (5284)" [label=129]
+}

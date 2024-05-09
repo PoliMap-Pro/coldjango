@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gordon Tayler (3604)_Forrest_2013" {
-	graph [label="Forrest 2013" labelloc=t]
+	graph [label="Forrest 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gordon Tayler (3604)" [label="Gordon Tayler (3604)
 The Greens (WA)"]

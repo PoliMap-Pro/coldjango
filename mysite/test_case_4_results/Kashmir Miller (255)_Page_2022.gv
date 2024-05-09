@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kashmir Miller (255)_Page_2022" {
-	graph [label="Page 2022" labelloc=t]
+	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kashmir Miller (255)" [label="Kashmir Miller (255)
 The Greens"]

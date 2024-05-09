@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Abigail Boyd (2082)_Dobell_2016" {
-	graph [label="Dobell 2016" labelloc=t]
+	graph [label="Dobell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
 The Greens"]

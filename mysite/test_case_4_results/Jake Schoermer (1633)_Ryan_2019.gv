@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jake Schoermer (1633)_Ryan_2019" {
-	graph [label="Ryan 2019" labelloc=t]
+	graph [label="Ryan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
 The Greens"]

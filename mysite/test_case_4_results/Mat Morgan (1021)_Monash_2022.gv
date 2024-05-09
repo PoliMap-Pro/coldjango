@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mat Morgan (1021)_Monash_2022" {
-	graph [label="Monash 2022" labelloc=t]
+	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mat Morgan (1021)" [label="Mat Morgan (1021)
 The Greens"]

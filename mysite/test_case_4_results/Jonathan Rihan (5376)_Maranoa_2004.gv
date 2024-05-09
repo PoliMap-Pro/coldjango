@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Jonathan Rihan (5376)_Maranoa_2004" {
+	graph [label="Maranoa 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jonathan Rihan (5376)" [label="Jonathan Rihan (5376)
+The Greens"]
+	"Greg Ridge (5373)" [label="Greg Ridge (5373)
+Australian Democrats"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"Jonathan Rihan (5376)" [label="Jonathan Rihan (5376)
+The Greens"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"Greg Ridge (5373)" [label="Greg Ridge (5373)
+Australian Democrats"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"Greg Ridge (5373)" -> "Jonathan Rihan (5376)" [label=107]
+	"David Klingsporn (5377)" -> "Greg Ridge (5373)" [label=15]
+	"David Klingsporn (5377)" -> "Jonathan Rihan (5376)" [label=26]
+}

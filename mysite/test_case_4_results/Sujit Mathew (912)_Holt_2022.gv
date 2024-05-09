@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sujit Mathew (912)_Holt_2022" {
-	graph [label="Holt 2022" labelloc=t]
+	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sujit Mathew (912)" [label="Sujit Mathew (912)
 The Greens"]

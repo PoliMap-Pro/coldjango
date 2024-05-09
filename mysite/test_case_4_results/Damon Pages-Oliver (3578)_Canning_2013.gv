@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damon Pages-Oliver (3578)_Canning_2013" {
-	graph [label="Canning 2013" labelloc=t]
+	graph [label="Canning 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damon Pages-Oliver (3578)" [label="Damon Pages-Oliver (3578)
 The Greens (WA)"]

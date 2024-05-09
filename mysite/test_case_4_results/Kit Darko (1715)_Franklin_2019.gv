@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kit Darko (1715)_Franklin_2019" {
-	graph [label="Franklin 2019" labelloc=t]
+	graph [label="Franklin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kit Darko (1715)" [label="Kit Darko (1715)
 The Greens"]

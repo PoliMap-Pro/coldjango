@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bradley Schott (350)_Watson_2022" {
-	graph [label="Watson 2022" labelloc=t]
+	graph [label="Watson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bradley Schott (350)" [label="Bradley Schott (350)
 The Greens"]

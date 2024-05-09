@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Kingsley Gibson (4926)_Forrest_2007" {
+	graph [label="Forrest 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"John Lewis (4923)" -> "Kingsley Gibson (4926)" [label=151]
+	"Leighton Knoll (4922)" -> "John Lewis (4923)" [label=217]
+	"Jodie Yardley (4924)" -> "Leighton Knoll (4922)" [label=93]
+	"Ian Tuffnell (3605)" -> "Jodie Yardley (4924)" [label=16]
+	"Leighton Knoll (4922)" -> "Kingsley Gibson (4926)" [label=165]
+	"Jodie Yardley (4924)" -> "Kingsley Gibson (4926)" [label=165]
+	"Ian Tuffnell (3605)" -> "Kingsley Gibson (4926)" [label=39]
+	"Ian Tuffnell (3605)" -> "Leighton Knoll (4922)" [label=9]
+	"Jodie Yardley (4924)" -> "John Lewis (4923)" [label=67]
+	"Ian Tuffnell (3605)" -> "John Lewis (4923)" [label=9]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Burgoyne (2400)_McPherson_2016" {
-	graph [label="McPherson 2016" labelloc=t]
+	graph [label="McPherson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Burgoyne (2400)" [label="Peter Burgoyne (2400)
 The Greens"]

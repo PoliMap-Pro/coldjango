@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trish Frail (270)_Parkes_2022" {
-	graph [label="Parkes 2022" labelloc=t]
+	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trish Frail (270)" [label="Trish Frail (270)
 The Greens"]

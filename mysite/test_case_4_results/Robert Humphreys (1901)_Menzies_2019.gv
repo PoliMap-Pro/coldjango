@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Humphreys (1901)_Menzies_2019" {
-	graph [label="Menzies 2019" labelloc=t]
+	graph [label="Menzies 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Humphreys (1901)" [label="Robert Humphreys (1901)
 The Greens (VIC)"]

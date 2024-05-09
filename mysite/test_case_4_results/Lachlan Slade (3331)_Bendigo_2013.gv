@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lachlan Slade (3331)_Bendigo_2013" {
-	graph [label="Bendigo 2013" labelloc=t]
+	graph [label="Bendigo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lachlan Slade (3331)" [label="Lachlan Slade (3331)
 The Greens"]

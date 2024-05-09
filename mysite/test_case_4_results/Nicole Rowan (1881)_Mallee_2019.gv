@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicole Rowan (1881)_Mallee_2019" {
-	graph [label="Mallee 2019" labelloc=t]
+	graph [label="Mallee 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicole Rowan (1881)" [label="Nicole Rowan (1881)
 The Greens (VIC)"]

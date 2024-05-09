@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Jonathon Dykyj (2313)_Dawson_2010" {
+	graph [label="Dawson 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Damian Herrington (3896)" [label="Damian Herrington (3896)
+Family First"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Damian Herrington (3896)" [label="Damian Herrington (3896)
+Family First"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Damian Herrington (3896)" -> "Jonathon Dykyj (2313)" [label=1423]
+	"Bill Ingrey (3894)" -> "Damian Herrington (3896)" [label=460]
+	"Bill Ingrey (3894)" -> "Jonathon Dykyj (2313)" [label=128]
+}

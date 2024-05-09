@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Lisa Owen (4163)_Wannon_2010" {
+	graph [label="Wannon 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
+Family First"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
+Independent"]
+	"Katrina Rainsford (4165)" -> "Lisa Owen (4163)" [label=926]
+	"Ralph Leutton (4159)" -> "Katrina Rainsford (4165)" [label=476]
+	"Jahzeel Concepcion (4162)" -> "Ralph Leutton (4159)" [label=112]
+	"Allan Marsh (4160)" -> "Jahzeel Concepcion (4162)" [label=67]
+	"Robert O'Brien (4164)" -> "Allan Marsh (4160)" [label=67]
+	"Ralph Leutton (4159)" -> "Lisa Owen (4163)" [label=207]
+	"Jahzeel Concepcion (4162)" -> "Lisa Owen (4163)" [label=286]
+	"Allan Marsh (4160)" -> "Lisa Owen (4163)" [label=97]
+	"Robert O'Brien (4164)" -> "Lisa Owen (4163)" [label=93]
+	"Robert O'Brien (4164)" -> "Jahzeel Concepcion (4162)" [label=35]
+	"Allan Marsh (4160)" -> "Ralph Leutton (4159)" [label=174]
+	"Robert O'Brien (4164)" -> "Ralph Leutton (4159)" [label=61]
+	"Jahzeel Concepcion (4162)" -> "Katrina Rainsford (4165)" [label=227]
+	"Allan Marsh (4160)" -> "Katrina Rainsford (4165)" [label=128]
+	"Robert O'Brien (4164)" -> "Katrina Rainsford (4165)" [label=229]
+}

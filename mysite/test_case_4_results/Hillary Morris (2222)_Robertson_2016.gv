@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hillary Morris (2222)_Robertson_2016" {
-	graph [label="Robertson 2016" labelloc=t]
+	graph [label="Robertson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hillary Morris (2222)" [label="Hillary Morris (2222)
 The Greens"]

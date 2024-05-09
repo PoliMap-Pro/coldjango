@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Garlett (1077)_Burt_2022" {
-	graph [label="Burt 2022" labelloc=t]
+	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Garlett (1077)" [label="Daniel Garlett (1077)
 The Greens (WA)"]

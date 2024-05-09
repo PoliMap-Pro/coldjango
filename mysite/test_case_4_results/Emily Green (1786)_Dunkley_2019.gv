@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emily Green (1786)_Dunkley_2019" {
-	graph [label="Dunkley 2019" labelloc=t]
+	graph [label="Dunkley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emily Green (1786)" [label="Emily Green (1786)
 The Greens (VIC)"]

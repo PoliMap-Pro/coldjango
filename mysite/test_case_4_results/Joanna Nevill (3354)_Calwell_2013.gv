@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joanna Nevill (3354)_Calwell_2013" {
-	graph [label="Calwell 2013" labelloc=t]
+	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joanna Nevill (3354)" [label="Joanna Nevill (3354)
 The Greens"]

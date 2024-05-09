@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pip Brinklow (3308)_Lyons_2013" {
-	graph [label="Lyons 2013" labelloc=t]
+	graph [label="Lyons 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pip Brinklow (3308)" [label="Pip Brinklow (3308)
 Australian Greens"]

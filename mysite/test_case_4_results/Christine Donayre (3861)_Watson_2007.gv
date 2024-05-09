@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Christine Donayre (3861)_Watson_2007" {
+	graph [label="Watson 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Christine Donayre (3861)" [label="Christine Donayre (3861)
+The Greens"]
+	"Merry Foy (4460)" [label="Merry Foy (4460)
+Family First"]
+	"Josephine Sammut (4462)" [label="Josephine Sammut (4462)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Christine Donayre (3861)" [label="Christine Donayre (3861)
+The Greens"]
+	"Josephine Sammut (4462)" [label="Josephine Sammut (4462)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Christine Donayre (3861)" [label="Christine Donayre (3861)
+The Greens"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Josephine Sammut (4462)" [label="Josephine Sammut (4462)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Merry Foy (4460)" [label="Merry Foy (4460)
+Family First"]
+	"Josephine Sammut (4462)" [label="Josephine Sammut (4462)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Merry Foy (4460)" [label="Merry Foy (4460)
+Family First"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Josephine Sammut (4462)" [label="Josephine Sammut (4462)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Merry Foy (4460)" -> "Christine Donayre (3861)" [label=447]
+	"Josephine Sammut (4462)" -> "Merry Foy (4460)" [label=446]
+	"Ronald Poulsen (3694)" -> "Josephine Sammut (4462)" [label=32]
+	"Josephine Sammut (4462)" -> "Christine Donayre (3861)" [label=264]
+	"Ronald Poulsen (3694)" -> "Christine Donayre (3861)" [label=53]
+	"Ronald Poulsen (3694)" -> "Merry Foy (4460)" [label=152]
+}

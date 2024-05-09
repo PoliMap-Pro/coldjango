@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Max Chandler-Mather (475)_Griffith_2019" {
-	graph [label="Griffith 2019" labelloc=t]
+	graph [label="Griffith 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Max Chandler-Mather (475)" [label="Max Chandler-Mather (475)
 The Greens"]

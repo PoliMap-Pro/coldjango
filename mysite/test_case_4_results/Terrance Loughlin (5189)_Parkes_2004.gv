@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Terrance Loughlin (5189)_Parkes_2004" {
+	graph [label="Parkes 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Terrance Loughlin (5189)" [label="Terrance Loughlin (5189)
+The Greens"]
+	"Makere Rangihaeata (5191)" [label="Makere Rangihaeata (5191)
+Citizens Electoral Council"]
+	"Makere Rangihaeata (5191)" [label="Makere Rangihaeata (5191)
+Citizens Electoral Council"]
+	"Makere Rangihaeata (5191)" -> "Terrance Loughlin (5189)" [label=69]
+}

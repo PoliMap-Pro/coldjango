@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martine Delaney (2517)_Franklin_2016" {
-	graph [label="Franklin 2016" labelloc=t]
+	graph [label="Franklin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martine Delaney (2517)" [label="Martine Delaney (2517)
 The Greens"]

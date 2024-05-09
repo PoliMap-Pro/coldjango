@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Brett Constable (5535)_Corio_2004" {
+	graph [label="Corio 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Brett Constable (5535)" [label="Brett Constable (5535)
+Australian Greens"]
+	"Steve Malesic (5533)" [label="Steve Malesic (5533)
+Independent"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Brett Constable (5535)" [label="Brett Constable (5535)
+Australian Greens"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Brett Constable (5535)" [label="Brett Constable (5535)
+Australian Greens"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Brett Constable (5535)" [label="Brett Constable (5535)
+Australian Greens"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steve Malesic (5533)" [label="Steve Malesic (5533)
+Independent"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steve Malesic (5533)" [label="Steve Malesic (5533)
+Independent"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steve Malesic (5533)" [label="Steve Malesic (5533)
+Independent"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steve Malesic (5533)" -> "Brett Constable (5535)" [label=2000]
+	"Gordon Alderson (4777)" -> "Steve Malesic (5533)" [label=534]
+	"Tim Gooden (5536)" -> "Gordon Alderson (4777)" [label=31]
+	"Steven Bird (5534)" -> "Tim Gooden (5536)" [label=8]
+	"Gordon Alderson (4777)" -> "Brett Constable (5535)" [label=345]
+	"Tim Gooden (5536)" -> "Brett Constable (5535)" [label=234]
+	"Steven Bird (5534)" -> "Brett Constable (5535)" [label=36]
+	"Steven Bird (5534)" -> "Gordon Alderson (4777)" [label=73]
+	"Tim Gooden (5536)" -> "Steve Malesic (5533)" [label=55]
+	"Steven Bird (5534)" -> "Steve Malesic (5533)" [label=95]
+}

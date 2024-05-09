@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kim Grierson (330)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kim Grierson (330)" [label="Kim Grierson (330)
 The Greens"]

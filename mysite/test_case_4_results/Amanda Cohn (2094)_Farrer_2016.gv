@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amanda Cohn (2094)_Farrer_2016" {
-	graph [label="Farrer 2016" labelloc=t]
+	graph [label="Farrer 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amanda Cohn (2094)" [label="Amanda Cohn (2094)
 The Greens"]

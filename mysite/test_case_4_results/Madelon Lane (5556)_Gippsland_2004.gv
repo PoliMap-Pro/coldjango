@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Madelon Lane (5556)_Gippsland_2004" {
+	graph [label="Gippsland 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Madelon Lane (5556)" [label="Madelon Lane (5556)
+Australian Greens"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+One Nation"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Madelon Lane (5556)" [label="Madelon Lane (5556)
+Australian Greens"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Madelon Lane (5556)" [label="Madelon Lane (5556)
+Australian Greens"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Madelon Lane (5556)" [label="Madelon Lane (5556)
+Australian Greens"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Madelon Lane (5556)" [label="Madelon Lane (5556)
+Australian Greens"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+One Nation"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+One Nation"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+One Nation"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+One Nation"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
+Family First"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Christina Sindt (5554)" [label="Christina Sindt (5554)
+"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"David Leonard Langmore (5557)" [label="David Leonard Langmore (5557)
+Democrats"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Heather Stanton (5555)" [label="Heather Stanton (5555)
+Citizens Electoral Council"]
+	"Ben Buckley (2610)" -> "Madelon Lane (5556)" [label=247]
+	"Doug Lillyman (5559)" -> "Ben Buckley (2610)" [label=322]
+	"Christina Sindt (5554)" -> "Doug Lillyman (5559)" [label=121]
+	"David Leonard Langmore (5557)" -> "Christina Sindt (5554)" [label=82]
+	"Heather Stanton (5555)" -> "David Leonard Langmore (5557)" [label=25]
+	"Doug Lillyman (5559)" -> "Madelon Lane (5556)" [label=177]
+	"Christina Sindt (5554)" -> "Madelon Lane (5556)" [label=165]
+	"David Leonard Langmore (5557)" -> "Madelon Lane (5556)" [label=460]
+	"Heather Stanton (5555)" -> "Madelon Lane (5556)" [label=31]
+	"Heather Stanton (5555)" -> "Christina Sindt (5554)" [label=55]
+	"David Leonard Langmore (5557)" -> "Doug Lillyman (5559)" [label=88]
+	"Heather Stanton (5555)" -> "Doug Lillyman (5559)" [label=16]
+	"Christina Sindt (5554)" -> "Ben Buckley (2610)" [label=115]
+	"David Leonard Langmore (5557)" -> "Ben Buckley (2610)" [label=46]
+	"Heather Stanton (5555)" -> "Ben Buckley (2610)" [label=15]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sonya Semmens (905)_Higgins_2022" {
-	graph [label="Higgins 2022" labelloc=t]
+	graph [label="Higgins 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sonya Semmens (905)" [label="Sonya Semmens (905)
 The Greens"]

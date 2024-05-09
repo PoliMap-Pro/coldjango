@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Bennett (2630)_Hotham_2016" {
-	graph [label="Hotham 2016" labelloc=t]
+	graph [label="Hotham 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Bennett (2630)" [label="James Bennett (2630)
 The Greens"]

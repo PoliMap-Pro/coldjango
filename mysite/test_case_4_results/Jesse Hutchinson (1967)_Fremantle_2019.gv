@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jesse Hutchinson (1967)_Fremantle_2019" {
-	graph [label="Fremantle 2019" labelloc=t]
+	graph [label="Fremantle 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
 The Greens (WA)"]

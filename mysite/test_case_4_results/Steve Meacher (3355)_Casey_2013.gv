@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Meacher (3355)_Casey_2013" {
-	graph [label="Casey 2013" labelloc=t]
+	graph [label="Casey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Meacher (3355)" [label="Steve Meacher (3355)
 The Greens"]

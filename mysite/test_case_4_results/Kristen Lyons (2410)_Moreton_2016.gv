@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kristen Lyons (2410)_Moreton_2016" {
-	graph [label="Moreton 2016" labelloc=t]
+	graph [label="Moreton 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kristen Lyons (2410)" [label="Kristen Lyons (2410)
 The Greens"]

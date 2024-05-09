@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christina Sobey (2874)_Farrer_2013" {
-	graph [label="Farrer 2013" labelloc=t]
+	graph [label="Farrer 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christina Sobey (2874)" [label="Christina Sobey (2874)
 The Greens"]

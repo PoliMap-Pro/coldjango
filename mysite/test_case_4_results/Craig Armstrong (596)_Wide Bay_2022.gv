@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Armstrong (596)_Wide Bay_2022" {
-	graph [label="Wide Bay 2022" labelloc=t]
+	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Armstrong (596)" [label="Craig Armstrong (596)
 Queensland Greens"]

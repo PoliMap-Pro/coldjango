@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Timothy Nott (86)_Cowper_2022" {
-	graph [label="Cowper 2022" labelloc=t]
+	graph [label="Cowper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Timothy Nott (86)" [label="Timothy Nott (86)
 The Greens"]

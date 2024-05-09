@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Ben Raue (4357)_Werriwa_2004" {
+	graph [label="Werriwa 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ben Raue (4357)" [label="Ben Raue (4357)
+The Greens"]
+	"Charles Doggett (5260)" [label="Charles Doggett (5260)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Ben Raue (4357)" [label="Ben Raue (4357)
+The Greens"]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Ben Raue (4357)" [label="Ben Raue (4357)
+The Greens"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Charles Doggett (5260)" [label="Charles Doggett (5260)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Charles Doggett (5260)" [label="Charles Doggett (5260)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Mike Head (1617)" [label="Mike Head (1617)
+"]
+	"Charles Doggett (5260)" -> "Ben Raue (4357)" [label=378]
+	"Patrick Briscoe-Hough (5259)" -> "Charles Doggett (5260)" [label=107]
+	"Mike Head (1617)" -> "Patrick Briscoe-Hough (5259)" [label=38]
+	"Patrick Briscoe-Hough (5259)" -> "Ben Raue (4357)" [label=209]
+	"Mike Head (1617)" -> "Ben Raue (4357)" [label=51]
+	"Mike Head (1617)" -> "Charles Doggett (5260)" [label=42]
+}

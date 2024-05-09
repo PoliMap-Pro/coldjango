@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julian Burnside (1853)_Kooyong_2019" {
-	graph [label="Kooyong 2019" labelloc=t]
+	graph [label="Kooyong 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julian Burnside (1853)" [label="Julian Burnside (1853)
 The Greens (VIC)"]

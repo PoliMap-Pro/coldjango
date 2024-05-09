@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Photakis (656)_Kingston_2022" {
-	graph [label="Kingston 2022" labelloc=t]
+	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Photakis (656)" [label="John Photakis (656)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Hollo (12)_Canberra_2022" {
-	graph [label="Canberra 2022" labelloc=t]
+	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Hollo (12)" [label="Tim Hollo (12)
 The Greens"]

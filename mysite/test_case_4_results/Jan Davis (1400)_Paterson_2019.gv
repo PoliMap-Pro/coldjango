@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jan Davis (1400)_Paterson_2019" {
-	graph [label="Paterson 2019" labelloc=t]
+	graph [label="Paterson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jan Davis (1400)" [label="Jan Davis (1400)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rowan Huxtable (1268)_Cunningham_2019" {
-	graph [label="Cunningham 2019" labelloc=t]
+	graph [label="Cunningham 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rowan Huxtable (1268)" [label="Rowan Huxtable (1268)
 The Greens"]

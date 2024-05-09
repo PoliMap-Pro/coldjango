@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Neale Adams (4786)_Dunkley_2007" {
+	graph [label="Dunkley 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Neale Adams (4786)" [label="Neale Adams (4786)
+Australian Greens"]
+	"Steven Ashdown (4787)" [label="Steven Ashdown (4787)
+Family First"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Neale Adams (4786)" [label="Neale Adams (4786)
+Australian Greens"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Steven Ashdown (4787)" [label="Steven Ashdown (4787)
+Family First"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Steven Ashdown (4787)" -> "Neale Adams (4786)" [label=659]
+	"Karen Bailey (4789)" -> "Steven Ashdown (4787)" [label=125]
+	"Karen Bailey (4789)" -> "Neale Adams (4786)" [label=545]
+}

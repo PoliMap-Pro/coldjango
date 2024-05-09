@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Campbell-Smith (3418)_Gippsland_2013" {
-	graph [label="Gippsland 2013" labelloc=t]
+	graph [label="Gippsland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Campbell-Smith (3418)" [label="Scott Campbell-Smith (3418)
 The Greens"]

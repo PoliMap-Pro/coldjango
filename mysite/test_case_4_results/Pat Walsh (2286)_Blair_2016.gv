@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Walsh (2286)_Blair_2016" {
-	graph [label="Blair 2016" labelloc=t]
+	graph [label="Blair 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Walsh (2286)" [label="Pat Walsh (2286)
 The Greens"]

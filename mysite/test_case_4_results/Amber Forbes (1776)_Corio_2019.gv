@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amber Forbes (1776)_Corio_2019" {
-	graph [label="Corio 2019" labelloc=t]
+	graph [label="Corio 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amber Forbes (1776)" [label="Amber Forbes (1776)
 The Greens (VIC)"]

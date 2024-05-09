@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Meyer (1579)_Lilley_2019" {
-	graph [label="Lilley 2019" labelloc=t]
+	graph [label="Lilley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Meyer (1579)" [label="John Meyer (1579)
 The Greens"]

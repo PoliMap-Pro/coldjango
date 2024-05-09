@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Bryar (1635)_Wide Bay_2019" {
-	graph [label="Wide Bay 2019" labelloc=t]
+	graph [label="Wide Bay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
 The Greens"]

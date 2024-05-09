@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeanette Swain (2588)_Dunkley_2016" {
-	graph [label="Dunkley 2016" labelloc=t]
+	graph [label="Dunkley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeanette Swain (2588)" [label="Jeanette Swain (2588)
 The Greens"]

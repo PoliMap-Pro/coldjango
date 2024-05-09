@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elizabeth Watson-Brown (589)_Ryan_2022" {
-	graph [label="Ryan 2022" labelloc=t]
+	graph [label="Ryan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
 Queensland Greens"]

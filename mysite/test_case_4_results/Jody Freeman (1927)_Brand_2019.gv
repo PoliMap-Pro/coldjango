@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jody Freeman (1927)_Brand_2019" {
-	graph [label="Brand 2019" labelloc=t]
+	graph [label="Brand 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jody Freeman (1927)" [label="Jody Freeman (1927)
 The Greens (WA)"]

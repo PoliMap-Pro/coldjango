@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jodie Moffat (1089)_Canning_2019" {
-	graph [label="Canning 2019" labelloc=t]
+	graph [label="Canning 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
 The Greens (WA)"]

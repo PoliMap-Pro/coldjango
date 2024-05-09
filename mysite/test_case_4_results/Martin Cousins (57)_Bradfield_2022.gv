@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Cousins (57)_Bradfield_2022" {
-	graph [label="Bradfield 2022" labelloc=t]
+	graph [label="Bradfield 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Cousins (57)" [label="Martin Cousins (57)
 The Greens"]

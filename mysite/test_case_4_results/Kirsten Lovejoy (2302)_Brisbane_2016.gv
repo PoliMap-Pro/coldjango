@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kirsten Lovejoy (2302)_Brisbane_2016" {
-	graph [label="Brisbane 2016" labelloc=t]
+	graph [label="Brisbane 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kirsten Lovejoy (2302)" [label="Kirsten Lovejoy (2302)
 The Greens"]

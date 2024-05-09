@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Donna Nelson (1166)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t]
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Donna Nelson (1166)" [label="Donna Nelson (1166)
 The Greens (WA)"]

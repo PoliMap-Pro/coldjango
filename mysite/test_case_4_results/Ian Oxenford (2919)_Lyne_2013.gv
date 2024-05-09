@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Oxenford (2919)_Lyne_2013" {
-	graph [label="Lyne 2013" labelloc=t]
+	graph [label="Lyne 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Oxenford (2919)" [label="Ian Oxenford (2919)
 The Greens"]

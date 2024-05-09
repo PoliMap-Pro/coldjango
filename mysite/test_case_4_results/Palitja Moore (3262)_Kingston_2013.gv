@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Palitja Moore (3262)_Kingston_2013" {
-	graph [label="Kingston 2013" labelloc=t]
+	graph [label="Kingston 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Palitja Moore (3262)" [label="Palitja Moore (3262)
 Australian Greens"]

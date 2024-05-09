@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Justin Alick (2043)_Bennelong_2016" {
-	graph [label="Bennelong 2016" labelloc=t]
+	graph [label="Bennelong 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Justin Alick (2043)" [label="Justin Alick (2043)
 The Greens"]

@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Susie Russell (4349)_Lyne_2007" {
+	graph [label="Lyne 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Susie Russell (4349)" [label="Susie Russell (4349)
+The Greens"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" [label="Jamie Harrison (4353)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Jamie Harrison (4353)" -> "Susie Russell (4349)" [label=981]
+	"Robert L Waldron (4356)" -> "Jamie Harrison (4353)" [label=365]
+	"Barry Wright (3778)" -> "Robert L Waldron (4356)" [label=65]
+	"Stewart Gordon Scott-Irving (4352)" -> "Barry Wright (3778)" [label=76]
+	"Rodger Riach (4354)" -> "Stewart Gordon Scott-Irving (4352)" [label=25]
+	"Graeme Muldoon (4355)" -> "Rodger Riach (4354)" [label=29]
+	"Robert L Waldron (4356)" -> "Susie Russell (4349)" [label=168]
+	"Barry Wright (3778)" -> "Susie Russell (4349)" [label=468]
+	"Stewart Gordon Scott-Irving (4352)" -> "Susie Russell (4349)" [label=43]
+	"Rodger Riach (4354)" -> "Susie Russell (4349)" [label=18]
+	"Graeme Muldoon (4355)" -> "Susie Russell (4349)" [label=12]
+	"Graeme Muldoon (4355)" -> "Stewart Gordon Scott-Irving (4352)" [label=10]
+	"Rodger Riach (4354)" -> "Barry Wright (3778)" [label=43]
+	"Graeme Muldoon (4355)" -> "Barry Wright (3778)" [label=17]
+	"Stewart Gordon Scott-Irving (4352)" -> "Robert L Waldron (4356)" [label=21]
+	"Rodger Riach (4354)" -> "Robert L Waldron (4356)" [label=26]
+	"Graeme Muldoon (4355)" -> "Robert L Waldron (4356)" [label=40]
+	"Barry Wright (3778)" -> "Jamie Harrison (4353)" [label=281]
+	"Stewart Gordon Scott-Irving (4352)" -> "Jamie Harrison (4353)" [label=117]
+	"Rodger Riach (4354)" -> "Jamie Harrison (4353)" [label=94]
+	"Graeme Muldoon (4355)" -> "Jamie Harrison (4353)" [label=24]
+}

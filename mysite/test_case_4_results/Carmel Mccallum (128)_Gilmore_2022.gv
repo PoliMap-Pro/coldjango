@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carmel Mccallum (128)_Gilmore_2022" {
-	graph [label="Gilmore 2022" labelloc=t]
+	graph [label="Gilmore 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
 The Greens"]

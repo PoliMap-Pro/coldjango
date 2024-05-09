@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Mackenzie (1373)_Newcastle_2019" {
-	graph [label="Newcastle 2019" labelloc=t]
+	graph [label="Newcastle 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Mackenzie (1373)" [label="John Mackenzie (1373)
 The Greens"]

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "David Wyatt (4495)_Bonner_2007" {
+	graph [label="Bonner 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Wyatt (4495)" [label="David Wyatt (4495)
+The Greens"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"David Wyatt (4495)" [label="David Wyatt (4495)
+The Greens"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"David Wyatt (4495)" [label="David Wyatt (4495)
+The Greens"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"David Wyatt (4495)" [label="David Wyatt (4495)
+The Greens"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Stephen Gellatly (4492)" -> "David Wyatt (4495)" [label=374]
+	"Shane Boese (4494)" -> "Stephen Gellatly (4492)" [label=208]
+	"Vicki Stocks (4493)" -> "Shane Boese (4494)" [label=66]
+	"Lisa Charles (4491)" -> "Vicki Stocks (4493)" [label=22]
+	"Shane Boese (4494)" -> "David Wyatt (4495)" [label=367]
+	"Vicki Stocks (4493)" -> "David Wyatt (4495)" [label=394]
+	"Lisa Charles (4491)" -> "David Wyatt (4495)" [label=20]
+	"Lisa Charles (4491)" -> "Shane Boese (4494)" [label=19]
+	"Vicki Stocks (4493)" -> "Stephen Gellatly (4492)" [label=65]
+	"Lisa Charles (4491)" -> "Stephen Gellatly (4492)" [label=22]
+}

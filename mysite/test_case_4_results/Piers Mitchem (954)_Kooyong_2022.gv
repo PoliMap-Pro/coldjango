@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Piers Mitchem (954)_Kooyong_2022" {
-	graph [label="Kooyong 2022" labelloc=t]
+	graph [label="Kooyong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Piers Mitchem (954)" [label="Piers Mitchem (954)
 The Greens"]

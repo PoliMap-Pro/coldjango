@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Ebbs (3132)_Griffith_2013" {
-	graph [label="Griffith 2013" labelloc=t]
+	graph [label="Griffith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Ebbs (3132)" [label="Geoff Ebbs (3132)
 The Greens"]

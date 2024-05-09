@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jake Tilton (2627)_Holt_2016" {
-	graph [label="Holt 2016" labelloc=t]
+	graph [label="Holt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jake Tilton (2627)" [label="Jake Tilton (2627)
 The Greens"]

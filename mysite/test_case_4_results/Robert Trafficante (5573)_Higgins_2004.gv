@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Robert Trafficante (5573)_Higgins_2004" {
+	graph [label="Higgins 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Robert Trafficante (5573)" [label="Robert Trafficante (5573)
+Australian Greens"]
+	"Adam Mcbeth (5570)" [label="Adam Mcbeth (5570)
+Democrats"]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Robert Trafficante (5573)" [label="Robert Trafficante (5573)
+Australian Greens"]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Robert Trafficante (5573)" [label="Robert Trafficante (5573)
+Australian Greens"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Adam Mcbeth (5570)" [label="Adam Mcbeth (5570)
+Democrats"]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Adam Mcbeth (5570)" [label="Adam Mcbeth (5570)
+Democrats"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Adam Mcbeth (5570)" -> "Robert Trafficante (5573)" [label=779]
+	"Glen Pringle (5572)" -> "Adam Mcbeth (5570)" [label=130]
+	"Katherine Reid (5571)" -> "Glen Pringle (5572)" [label=74]
+	"Glen Pringle (5572)" -> "Robert Trafficante (5573)" [label=153]
+	"Katherine Reid (5571)" -> "Robert Trafficante (5573)" [label=40]
+	"Katherine Reid (5571)" -> "Adam Mcbeth (5570)" [label=61]
+}

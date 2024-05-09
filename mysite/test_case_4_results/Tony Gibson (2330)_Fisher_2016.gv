@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Gibson (2330)_Fisher_2016" {
-	graph [label="Fisher 2016" labelloc=t]
+	graph [label="Fisher 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Gibson (2330)" [label="Tony Gibson (2330)
 The Greens"]

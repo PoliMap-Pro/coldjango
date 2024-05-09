@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Lacey (3382)_Corio_2013" {
-	graph [label="Corio 2013" labelloc=t]
+	graph [label="Corio 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Lacey (3382)" [label="Greg Lacey (3382)
 The Greens"]

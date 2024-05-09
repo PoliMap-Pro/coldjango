@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Juniper Shaw (1713)_Clark_2019" {
-	graph [label="Clark 2019" labelloc=t]
+	graph [label="Clark 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Juniper Shaw (1713)" [label="Juniper Shaw (1713)
 The Greens"]

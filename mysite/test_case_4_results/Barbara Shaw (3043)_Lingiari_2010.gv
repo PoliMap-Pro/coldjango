@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Barbara Shaw (3043)_Lingiari_2010" {
+	graph [label="Lingiari 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Barbara Shaw (3043)" [label="Barbara Shaw (3043)
+The Greens"]
+	"Deirdre Finter (3869)" [label="Deirdre Finter (3869)
+Independent"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Barbara Shaw (3043)" [label="Barbara Shaw (3043)
+The Greens"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Barbara Shaw (3043)" [label="Barbara Shaw (3043)
+The Greens"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Deirdre Finter (3869)" [label="Deirdre Finter (3869)
+Independent"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Deirdre Finter (3869)" [label="Deirdre Finter (3869)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Deirdre Finter (3869)" -> "Barbara Shaw (3043)" [label=1161]
+	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
+	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
+	"Kenny Lechleitner (3868)" -> "Barbara Shaw (3043)" [label=462]
+	"Peter Flynn (2270)" -> "Barbara Shaw (3043)" [label=230]
+	"Peter Flynn (2270)" -> "Deirdre Finter (3869)" [label=145]
+}

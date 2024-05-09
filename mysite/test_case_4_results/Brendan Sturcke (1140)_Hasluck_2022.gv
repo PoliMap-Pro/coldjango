@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brendan Sturcke (1140)_Hasluck_2022" {
-	graph [label="Hasluck 2022" labelloc=t]
+	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brendan Sturcke (1140)" [label="Brendan Sturcke (1140)
 The Greens (WA)"]

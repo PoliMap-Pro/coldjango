@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Grant Newson (3181)_Maranoa_2013" {
-	graph [label="Maranoa 2013" labelloc=t]
+	graph [label="Maranoa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Grant Newson (3181)" [label="Grant Newson (3181)
 The Greens"]

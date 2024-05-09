@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Barnes (742)_Ballarat_2022" {
-	graph [label="Ballarat 2022" labelloc=t]
+	graph [label="Ballarat 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Barnes (742)" [label="John Barnes (742)
 The Greens"]

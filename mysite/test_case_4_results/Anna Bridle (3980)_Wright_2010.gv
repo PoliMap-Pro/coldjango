@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Anna Bridle (3980)_Wright_2010" {
+	graph [label="Wright 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anna Bridle (3980)" [label="Anna Bridle (3980)
+The Greens"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Ken Degen (3982)" [label="Ken Degen (3982)
+Independent"]
+	"Anna Bridle (3980)" [label="Anna Bridle (3980)
+The Greens"]
+	"Ken Degen (3982)" [label="Ken Degen (3982)
+Independent"]
+	"Ken Degen (3982)" [label="Ken Degen (3982)
+Independent"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Ken Degen (3982)" [label="Ken Degen (3982)
+Independent"]
+	"Ken Degen (3982)" [label="Ken Degen (3982)
+Independent"]
+	"Jeremy John Fredericks (3090)" -> "Anna Bridle (3980)" [label=1374]
+	"Ken Degen (3982)" -> "Jeremy John Fredericks (3090)" [label=1017]
+	"Ken Degen (3982)" -> "Anna Bridle (3980)" [label=589]
+}

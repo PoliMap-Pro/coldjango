@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Gabrielle Worrall (5124)_Lindsay_2004" {
+	graph [label="Lindsay 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Gabrielle Worrall (5124)" [label="Gabrielle Worrall (5124)
+The Greens"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" [label="Barbie Bates (5126)
+Save the ADI Site Party"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Barbie Bates (5126)" -> "Gabrielle Worrall (5124)" [label=1694]
+	"John Phillips (3775)" -> "Barbie Bates (5126)" [label=262]
+	"Louise Kedwell (3710)" -> "John Phillips (3775)" [label=142]
+	"Garth Derrig (5120)" -> "Louise Kedwell (3710)" [label=118]
+	"Megan Watson (5123)" -> "Garth Derrig (5120)" [label=146]
+	"Geraldine Waters (5125)" -> "Megan Watson (5123)" [label=24]
+	"Bruce Anderson (5121)" -> "Geraldine Waters (5125)" [label=6]
+	"John Phillips (3775)" -> "Gabrielle Worrall (5124)" [label=174]
+	"Louise Kedwell (3710)" -> "Gabrielle Worrall (5124)" [label=185]
+	"Garth Derrig (5120)" -> "Gabrielle Worrall (5124)" [label=164]
+	"Megan Watson (5123)" -> "Gabrielle Worrall (5124)" [label=72]
+	"Geraldine Waters (5125)" -> "Gabrielle Worrall (5124)" [label=170]
+	"Bruce Anderson (5121)" -> "Gabrielle Worrall (5124)" [label=6]
+	"Bruce Anderson (5121)" -> "Megan Watson (5123)" [label=24]
+	"Geraldine Waters (5125)" -> "Garth Derrig (5120)" [label=29]
+	"Bruce Anderson (5121)" -> "Garth Derrig (5120)" [label=44]
+	"Megan Watson (5123)" -> "Louise Kedwell (3710)" [label=56]
+	"Geraldine Waters (5125)" -> "Louise Kedwell (3710)" [label=32]
+	"Bruce Anderson (5121)" -> "Louise Kedwell (3710)" [label=9]
+	"Garth Derrig (5120)" -> "John Phillips (3775)" [label=109]
+	"Megan Watson (5123)" -> "John Phillips (3775)" [label=173]
+	"Geraldine Waters (5125)" -> "John Phillips (3775)" [label=24]
+	"Bruce Anderson (5121)" -> "John Phillips (3775)" [label=18]
+	"Louise Kedwell (3710)" -> "Barbie Bates (5126)" [label=589]
+	"Garth Derrig (5120)" -> "Barbie Bates (5126)" [label=124]
+	"Megan Watson (5123)" -> "Barbie Bates (5126)" [label=91]
+	"Geraldine Waters (5125)" -> "Barbie Bates (5126)" [label=117]
+	"Bruce Anderson (5121)" -> "Barbie Bates (5126)" [label=1]
+}

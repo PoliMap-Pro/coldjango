@@ -1,0 +1,55 @@
+// House preference flow
+digraph "John Carty (4287)_Cowper_2004" {
+	graph [label="Cowper 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"John Carty (4287)" [label="John Carty (4287)
+The Greens"]
+	"Allan Stokes (5049)" [label="Allan Stokes (5049)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"John Carty (4287)" [label="John Carty (4287)
+The Greens"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"John Carty (4287)" [label="John Carty (4287)
+The Greens"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Allan Stokes (5049)" [label="Allan Stokes (5049)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Allan Stokes (5049)" [label="Allan Stokes (5049)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"Allan Stokes (5049)" -> "John Carty (4287)" [label=733]
+	"Norm Mann (5048)" -> "Allan Stokes (5049)" [label=758]
+	"Trevor Kapeen (5047)" -> "Norm Mann (5048)" [label=152]
+	"Norm Mann (5048)" -> "John Carty (4287)" [label=392]
+	"Trevor Kapeen (5047)" -> "John Carty (4287)" [label=340]
+	"Trevor Kapeen (5047)" -> "Allan Stokes (5049)" [label=122]
+}

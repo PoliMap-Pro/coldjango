@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Susan Roberts (3756)_Hughes_2010" {
+	graph [label="Hughes 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susan Roberts (3756)" [label="Susan Roberts (3756)
+The Greens"]
+	"Scott Nailon (3758)" [label="Scott Nailon (3758)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Susan Roberts (3756)" [label="Susan Roberts (3756)
+The Greens"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Susan Roberts (3756)" [label="Susan Roberts (3756)
+The Greens"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Susan Roberts (3756)" [label="Susan Roberts (3756)
+The Greens"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Scott Nailon (3758)" [label="Scott Nailon (3758)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Scott Nailon (3758)" [label="Scott Nailon (3758)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Scott Nailon (3758)" [label="Scott Nailon (3758)
+Christian Democratic Party (Fred Nile Group)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Scott Nailon (3758)" -> "Susan Roberts (3756)" [label=503]
+	"Peter Bussa (3755)" -> "Scott Nailon (3758)" [label=248]
+	"Stan Hurley (3757)" -> "Peter Bussa (3755)" [label=174]
+	"Don Nguyen (3759)" -> "Stan Hurley (3757)" [label=91]
+	"Peter Bussa (3755)" -> "Susan Roberts (3756)" [label=340]
+	"Stan Hurley (3757)" -> "Susan Roberts (3756)" [label=281]
+	"Don Nguyen (3759)" -> "Susan Roberts (3756)" [label=94]
+	"Don Nguyen (3759)" -> "Peter Bussa (3755)" [label=50]
+	"Stan Hurley (3757)" -> "Scott Nailon (3758)" [label=300]
+	"Don Nguyen (3759)" -> "Scott Nailon (3758)" [label=85]
+}

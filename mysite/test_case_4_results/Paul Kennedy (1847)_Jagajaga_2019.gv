@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Kennedy (1847)_Jagajaga_2019" {
-	graph [label="Jagajaga 2019" labelloc=t]
+	graph [label="Jagajaga 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Kennedy (1847)" [label="Paul Kennedy (1847)
 The Greens (VIC)"]

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Judith Summers (3234)_Wright_2013" {
+	graph [label="Wright 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Judith Summers (3234)" [label="Judith Summers (3234)
+The Greens"]
+	"David Neuendorf (3235)" [label="David Neuendorf (3235)
+Katter's Australian Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Judith Summers (3234)" [label="Judith Summers (3234)
+The Greens"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Judith Summers (3234)" [label="Judith Summers (3234)
+The Greens"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Judith Summers (3234)" [label="Judith Summers (3234)
+The Greens"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"David Neuendorf (3235)" [label="David Neuendorf (3235)
+Katter's Australian Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"David Neuendorf (3235)" [label="David Neuendorf (3235)
+Katter's Australian Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"David Neuendorf (3235)" [label="David Neuendorf (3235)
+Katter's Australian Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Family First"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Independent"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"Tony Maunder (3233)" [label="Tony Maunder (3233)
+Rise Up Australia Party"]
+	"David Neuendorf (3235)" -> "Judith Summers (3234)" [label=662]
+	"Stephen Lynch (2143)" -> "David Neuendorf (3235)" [label=382]
+	"Matthew Wright (2490)" -> "Stephen Lynch (2143)" [label=261]
+	"Tony Maunder (3233)" -> "Matthew Wright (2490)" [label=29]
+	"Stephen Lynch (2143)" -> "Judith Summers (3234)" [label=915]
+	"Matthew Wright (2490)" -> "Judith Summers (3234)" [label=419]
+	"Tony Maunder (3233)" -> "Judith Summers (3234)" [label=54]
+	"Tony Maunder (3233)" -> "Stephen Lynch (2143)" [label=268]
+	"Matthew Wright (2490)" -> "David Neuendorf (3235)" [label=202]
+	"Tony Maunder (3233)" -> "David Neuendorf (3235)" [label=69]
+}

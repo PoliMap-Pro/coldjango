@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Pidgeon (1110)_Curtin_2022" {
-	graph [label="Curtin 2022" labelloc=t]
+	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Pidgeon (1110)" [label="Cameron Pidgeon (1110)
 The Greens (WA)"]

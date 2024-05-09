@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nelson Blake Gilmour (1982)_O'Connor_2019" {
-	graph [label="O'Connor 2019" labelloc=t]
+	graph [label="O'Connor 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nelson Blake Gilmour (1982)" [label="Nelson Blake Gilmour (1982)
 The Greens (WA)"]

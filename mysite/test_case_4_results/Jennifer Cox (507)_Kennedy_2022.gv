@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Cox (507)_Kennedy_2022" {
-	graph [label="Kennedy 2022" labelloc=t]
+	graph [label="Kennedy 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Cox (507)" [label="Jennifer Cox (507)
 Queensland Greens"]

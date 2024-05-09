@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alyce Nelligan (1544)_Groom_2019" {
-	graph [label="Groom 2019" labelloc=t]
+	graph [label="Groom 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alyce Nelligan (1544)" [label="Alyce Nelligan (1544)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sophie Guy (2443)_Adelaide_2016" {
-	graph [label="Adelaide 2016" labelloc=t]
+	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sophie Guy (2443)" [label="Sophie Guy (2443)
 The Greens"]

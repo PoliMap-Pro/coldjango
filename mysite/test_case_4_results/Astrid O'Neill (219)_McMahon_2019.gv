@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Astrid O'Neill (219)_McMahon_2019" {
-	graph [label="McMahon 2019" labelloc=t]
+	graph [label="McMahon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
 The Greens"]

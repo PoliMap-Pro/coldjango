@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sally Spain (440)_Fadden_2022" {
-	graph [label="Fadden 2022" labelloc=t]
+	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sally Spain (440)" [label="Sally Spain (440)
 Queensland Greens"]

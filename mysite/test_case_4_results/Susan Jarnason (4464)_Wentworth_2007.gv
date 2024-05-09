@@ -1,0 +1,1811 @@
+// House preference flow
+digraph "Susan Jarnason (4464)_Wentworth_2007" {
+	graph [label="Wentworth 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Susan Jarnason (4464)" [label="Susan Jarnason (4464)
+The Greens"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" [label="Dixie Coulton (4465)
+Climate Change Coalition"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Bradley Molony (4469)" [label="Bradley Molony (4469)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"James Adams (4466)" [label="James Adams (4466)
+Family First"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Dixie Coulton (4465)" -> "Susan Jarnason (4464)" [label=1110]
+	"Dani Ecuyer (4463)" -> "Dixie Coulton (4465)" [label=160]
+	"Pierce Field (4471)" -> "Dani Ecuyer (4463)" [label=108]
+	"Bradley Molony (4469)" -> "Pierce Field (4471)" [label=24]
+	"Pat Sheil (2107)" -> "Bradley Molony (4469)" [label=38]
+	"James Adams (4466)" -> "Pat Sheil (2107)" [label=20]
+	"Jonatan Kelu (4468)" -> "James Adams (4466)" [label=13]
+	"John Jamieson (4467)" -> "Jonatan Kelu (4468)" [label=17]
+	"Dani Ecuyer (4463)" -> "Susan Jarnason (4464)" [label=610]
+	"Pierce Field (4471)" -> "Susan Jarnason (4464)" [label=266]
+	"Bradley Molony (4469)" -> "Susan Jarnason (4464)" [label=31]
+	"Pat Sheil (2107)" -> "Susan Jarnason (4464)" [label=44]
+	"James Adams (4466)" -> "Susan Jarnason (4464)" [label=49]
+	"Jonatan Kelu (4468)" -> "Susan Jarnason (4464)" [label=15]
+	"John Jamieson (4467)" -> "Susan Jarnason (4464)" [label=5]
+	"John Jamieson (4467)" -> "James Adams (4466)" [label=8]
+	"Jonatan Kelu (4468)" -> "Pat Sheil (2107)" [label=37]
+	"John Jamieson (4467)" -> "Pat Sheil (2107)" [label=6]
+	"James Adams (4466)" -> "Bradley Molony (4469)" [label=38]
+	"Jonatan Kelu (4468)" -> "Bradley Molony (4469)" [label=7]
+	"John Jamieson (4467)" -> "Bradley Molony (4469)" [label=5]
+	"Pat Sheil (2107)" -> "Pierce Field (4471)" [label=24]
+	"James Adams (4466)" -> "Pierce Field (4471)" [label=17]
+	"Jonatan Kelu (4468)" -> "Pierce Field (4471)" [label=5]
+	"John Jamieson (4467)" -> "Pierce Field (4471)" [label=5]
+	"Bradley Molony (4469)" -> "Dani Ecuyer (4463)" [label=31]
+	"Pat Sheil (2107)" -> "Dani Ecuyer (4463)" [label=98]
+	"James Adams (4466)" -> "Dani Ecuyer (4463)" [label=30]
+	"Jonatan Kelu (4468)" -> "Dani Ecuyer (4463)" [label=13]
+	"John Jamieson (4467)" -> "Dani Ecuyer (4463)" [label=8]
+	"Pierce Field (4471)" -> "Dixie Coulton (4465)" [label=96]
+	"Bradley Molony (4469)" -> "Dixie Coulton (4465)" [label=45]
+	"Pat Sheil (2107)" -> "Dixie Coulton (4465)" [label=33]
+	"James Adams (4466)" -> "Dixie Coulton (4465)" [label=45]
+	"Jonatan Kelu (4468)" -> "Dixie Coulton (4465)" [label=11]
+	"John Jamieson (4467)" -> "Dixie Coulton (4465)" [label=4]
+}

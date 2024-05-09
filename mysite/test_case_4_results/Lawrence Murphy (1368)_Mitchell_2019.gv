@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lawrence Murphy (1368)_Mitchell_2019" {
-	graph [label="Mitchell 2019" labelloc=t]
+	graph [label="Mitchell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lawrence Murphy (1368)" [label="Lawrence Murphy (1368)
 The Greens"]

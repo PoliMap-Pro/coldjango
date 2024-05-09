@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Don Ardin (5598)_Jagajaga_2004" {
+	graph [label="Jagajaga 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Jennifer Barton (5594)" -> "Don Ardin (5598)" [label=394]
+	"Cate Hayward (5596)" -> "Jennifer Barton (5594)" [label=113]
+	"Barry Minster (5599)" -> "Cate Hayward (5596)" [label=49]
+	"Gary Schorel-Hlavka (5597)" -> "Barry Minster (5599)" [label=76]
+	"Stephen Lele (4832)" -> "Gary Schorel-Hlavka (5597)" [label=13]
+	"Cate Hayward (5596)" -> "Don Ardin (5598)" [label=423]
+	"Barry Minster (5599)" -> "Don Ardin (5598)" [label=133]
+	"Gary Schorel-Hlavka (5597)" -> "Don Ardin (5598)" [label=51]
+	"Stephen Lele (4832)" -> "Don Ardin (5598)" [label=17]
+	"Stephen Lele (4832)" -> "Barry Minster (5599)" [label=21]
+	"Gary Schorel-Hlavka (5597)" -> "Cate Hayward (5596)" [label=34]
+	"Stephen Lele (4832)" -> "Cate Hayward (5596)" [label=23]
+	"Barry Minster (5599)" -> "Jennifer Barton (5594)" [label=185]
+	"Gary Schorel-Hlavka (5597)" -> "Jennifer Barton (5594)" [label=40]
+	"Stephen Lele (4832)" -> "Jennifer Barton (5594)" [label=19]
+}

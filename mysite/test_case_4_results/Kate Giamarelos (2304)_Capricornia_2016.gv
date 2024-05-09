@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kate Giamarelos (2304)_Capricornia_2016" {
-	graph [label="Capricornia 2016" labelloc=t]
+	graph [label="Capricornia 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kate Giamarelos (2304)" [label="Kate Giamarelos (2304)
 The Greens"]

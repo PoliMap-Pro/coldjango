@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kingsley Liu (1361)_Lindsay_2016" {
-	graph [label="Lindsay 2016" labelloc=t]
+	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kingsley Liu (1361)" [label="Kingsley Liu (1361)
 The Greens"]

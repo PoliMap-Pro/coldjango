@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Graeme Maizey (3904)_Fadden_2010" {
+	graph [label="Fadden 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Graeme Maizey (3904)" [label="Graeme Maizey (3904)
+The Greens"]
+	"Barrie Sinclair Nicholson (3190)" [label="Barrie Sinclair Nicholson (3190)
+Family First"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Graeme Maizey (3904)" [label="Graeme Maizey (3904)
+The Greens"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Barrie Sinclair Nicholson (3190)" [label="Barrie Sinclair Nicholson (3190)
+Family First"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Barrie Sinclair Nicholson (3190)" -> "Graeme Maizey (3904)" [label=951]
+	"Ian Rossiter (3903)" -> "Barrie Sinclair Nicholson (3190)" [label=349]
+	"Ian Rossiter (3903)" -> "Graeme Maizey (3904)" [label=295]
+}

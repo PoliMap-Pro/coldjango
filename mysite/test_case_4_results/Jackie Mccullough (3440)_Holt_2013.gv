@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jackie Mccullough (3440)_Holt_2013" {
-	graph [label="Holt 2013" labelloc=t]
+	graph [label="Holt 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jackie Mccullough (3440)" [label="Jackie Mccullough (3440)
 The Greens"]

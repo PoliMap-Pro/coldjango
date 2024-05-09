@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Cotter (579)_Rankin_2022" {
-	graph [label="Rankin 2022" labelloc=t]
+	graph [label="Rankin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Cotter (579)" [label="Neil Cotter (579)
 Queensland Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steph Hodgins-May (979)_Melbourne Ports_2016" {
-	graph [label="Melbourne Ports 2016" labelloc=t]
+	graph [label="Melbourne Ports 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steph Hodgins-May (979)" [label="Steph Hodgins-May (979)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Schilling (958)_La Trobe_2022" {
-	graph [label="La Trobe 2022" labelloc=t]
+	graph [label="La Trobe 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Schilling (958)" [label="Michael Schilling (958)
 The Greens"]

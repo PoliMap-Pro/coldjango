@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Louisa Willoughby (916)_Hotham_2022" {
-	graph [label="Hotham 2022" labelloc=t]
+	graph [label="Hotham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zaza Chevalier (2901)_Hume_2013" {
-	graph [label="Hume 2013" labelloc=t]
+	graph [label="Hume 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zaza Chevalier (2901)" [label="Zaza Chevalier (2901)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Vujcich (1975)_Moore_2019" {
-	graph [label="Moore 2019" labelloc=t]
+	graph [label="Moore 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Vujcich (1975)" [label="Daniel Vujcich (1975)
 The Greens (WA)"]

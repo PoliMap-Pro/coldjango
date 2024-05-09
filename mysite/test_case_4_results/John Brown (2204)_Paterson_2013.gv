@@ -1,0 +1,55 @@
+// House preference flow
+digraph "John Brown (2204)_Paterson_2013" {
+	graph [label="Paterson 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"John Brown (2204)" [label="John Brown (2204)
+The Greens"]
+	"Anna Balfour (2970)" [label="Anna Balfour (2970)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bob Holz (2973)" [label="Bob Holz (2973)
+Rise Up Australia Party"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"John Brown (2204)" [label="John Brown (2204)
+The Greens"]
+	"Bob Holz (2973)" [label="Bob Holz (2973)
+Rise Up Australia Party"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"John Brown (2204)" [label="John Brown (2204)
+The Greens"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Bob Holz (2973)" [label="Bob Holz (2973)
+Rise Up Australia Party"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Anna Balfour (2970)" [label="Anna Balfour (2970)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bob Holz (2973)" [label="Bob Holz (2973)
+Rise Up Australia Party"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Anna Balfour (2970)" [label="Anna Balfour (2970)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Bob Holz (2973)" [label="Bob Holz (2973)
+Rise Up Australia Party"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Peter J Davis (2972)" [label="Peter J Davis (2972)
+Citizens Electoral Council"]
+	"Anna Balfour (2970)" -> "John Brown (2204)" [label=148]
+	"Bob Holz (2973)" -> "Anna Balfour (2970)" [label=235]
+	"Peter J Davis (2972)" -> "Bob Holz (2973)" [label=98]
+	"Bob Holz (2973)" -> "John Brown (2204)" [label=186]
+	"Peter J Davis (2972)" -> "John Brown (2204)" [label=49]
+	"Peter J Davis (2972)" -> "Anna Balfour (2970)" [label=47]
+}

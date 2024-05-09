@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Williams (1883)_Maribyrnong_2019" {
-	graph [label="Maribyrnong 2019" labelloc=t]
+	graph [label="Maribyrnong 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Williams (1883)" [label="James Williams (1883)
 The Greens (VIC)"]

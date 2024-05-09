@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alexandra Kaur Bhathal (3328)_Batman_2013" {
-	graph [label="Batman 2013" labelloc=t]
+	graph [label="Batman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alexandra Kaur Bhathal (3328)" [label="Alexandra Kaur Bhathal (3328)
 The Greens"]

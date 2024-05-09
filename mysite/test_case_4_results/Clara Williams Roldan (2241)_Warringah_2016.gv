@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clara Williams Roldan (2241)_Warringah_2016" {
-	graph [label="Warringah 2016" labelloc=t]
+	graph [label="Warringah 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clara Williams Roldan (2241)" [label="Clara Williams Roldan (2241)
 The Greens"]

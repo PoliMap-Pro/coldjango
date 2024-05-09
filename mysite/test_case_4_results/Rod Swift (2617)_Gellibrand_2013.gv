@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Swift (2617)_Gellibrand_2013" {
-	graph [label="Gellibrand 2013" labelloc=t]
+	graph [label="Gellibrand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Swift (2617)" [label="Rod Swift (2617)
 The Greens"]

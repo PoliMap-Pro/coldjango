@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda Eisler (52)_Blaxland_2022" {
-	graph [label="Blaxland 2022" labelloc=t]
+	graph [label="Blaxland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda Eisler (52)" [label="Linda Eisler (52)
 The Greens"]

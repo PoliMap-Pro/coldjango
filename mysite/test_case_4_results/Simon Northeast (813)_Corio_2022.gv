@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Northeast (813)_Corio_2022" {
-	graph [label="Corio 2022" labelloc=t]
+	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Northeast (813)" [label="Simon Northeast (813)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anna Reynolds (3295)_Denison_2013" {
-	graph [label="Denison 2013" labelloc=t]
+	graph [label="Denison 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anna Reynolds (3295)" [label="Anna Reynolds (3295)
 Australian Greens"]

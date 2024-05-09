@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Moroney (2151)_Macarthur_2016" {
-	graph [label="Macarthur 2016" labelloc=t]
+	graph [label="Macarthur 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Moroney (2151)" [label="Ben Moroney (2151)
 The Greens"]

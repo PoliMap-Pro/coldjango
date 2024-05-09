@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deb Foskey (1811)_Gippsland_2019" {
-	graph [label="Gippsland 2019" labelloc=t]
+	graph [label="Gippsland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deb Foskey (1811)" [label="Deb Foskey (1811)
 The Greens (VIC)"]

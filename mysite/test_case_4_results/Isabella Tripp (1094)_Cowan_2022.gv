@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Isabella Tripp (1094)_Cowan_2022" {
-	graph [label="Cowan 2022" labelloc=t]
+	graph [label="Cowan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Isabella Tripp (1094)" [label="Isabella Tripp (1094)
 The Greens (WA)"]

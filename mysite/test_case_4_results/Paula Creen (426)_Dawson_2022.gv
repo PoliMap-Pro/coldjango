@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paula Creen (426)_Dawson_2022" {
-	graph [label="Dawson 2022" labelloc=t]
+	graph [label="Dawson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paula Creen (426)" [label="Paula Creen (426)
 Queensland Greens"]

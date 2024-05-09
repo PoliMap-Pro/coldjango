@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Schilling (958)_La Trobe_2013" {
-	graph [label="La Trobe 2013" labelloc=t]
+	graph [label="La Trobe 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Schilling (958)" [label="Michael Schilling (958)
 The Greens"]

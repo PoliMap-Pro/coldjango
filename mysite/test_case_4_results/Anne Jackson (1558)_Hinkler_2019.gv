@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anne Jackson (1558)_Hinkler_2019" {
-	graph [label="Hinkler 2019" labelloc=t]
+	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anne Jackson (1558)" [label="Anne Jackson (1558)
 The Greens"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bron Marsh (2435)_Wide Bay_2016" {
-	graph [label="Wide Bay 2016" labelloc=t]
+	graph [label="Wide Bay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bron Marsh (2435)" [label="Bron Marsh (2435)
 The Greens"]

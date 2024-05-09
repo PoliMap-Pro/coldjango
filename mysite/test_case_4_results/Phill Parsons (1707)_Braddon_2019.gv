@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phill Parsons (1707)_Braddon_2019" {
-	graph [label="Braddon 2019" labelloc=t]
+	graph [label="Braddon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phill Parsons (1707)" [label="Phill Parsons (1707)
 The Greens"]
