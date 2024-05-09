@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Avery Howard (125)_Fowler_2022" {
+	graph [label="Fowler 2022" labelloc=t]
+	node [shape=box]
+	"Avery Howard (125)" [label="Avery Howard (125)
+The Greens"]
+	"Tony Margos (124)" [label="Tony Margos (124)
+Pauline Hanson's One Nation"]
+	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
+Liberal Democrats"]
+	"Avery Howard (125)" [label="Avery Howard (125)
+The Greens"]
+	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
+Liberal Democrats"]
+	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
+Liberal Democrats"]
+	"Tony Margos (124)" [label="Tony Margos (124)
+Pauline Hanson's One Nation"]
+	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
+Liberal Democrats"]
+	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
+Liberal Democrats"]
+	"Tony Margos (124)" -> "Avery Howard (125)" [label=353]
+	"Peter Ronald Runge (121)" -> "Tony Margos (124)" [label=143]
+	"Peter Ronald Runge (121)" -> "Avery Howard (125)" [label=72]
+}

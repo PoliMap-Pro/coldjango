@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Bernard Lakey (397)_Bonner_2022" {
+	graph [label="Bonner 2022" labelloc=t]
+	node [shape=box]
+	"Bernard Lakey (397)" [label="Bernard Lakey (397)
+Queensland Greens"]
+	"Amanda Neil (394)" [label="Amanda Neil (394)
+Pauline Hanson's One Nation"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Bernard Lakey (397)" [label="Bernard Lakey (397)
+Queensland Greens"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Amanda Neil (394)" [label="Amanda Neil (394)
+Pauline Hanson's One Nation"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Amanda Neil (394)" -> "Bernard Lakey (397)" [label=1725]
+	"Serge Diklich (395)" -> "Amanda Neil (394)" [label=1852]
+	"Serge Diklich (395)" -> "Bernard Lakey (397)" [label=350]
+}

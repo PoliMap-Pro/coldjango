@@ -1,0 +1,26 @@
+// House preference flow
+digraph "David Deex (676)_Spence_2022" {
+	graph [label="Spence 2022" labelloc=t]
+	node [shape=box]
+	"David Deex (676)" [label="David Deex (676)
+The Greens"]
+	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
+United Australia Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"David Deex (676)" [label="David Deex (676)
+The Greens"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
+United Australia Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Alvin Eric Warren (674)" -> "David Deex (676)" [label=1255]
+	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
+	"Matilda Bawden (677)" -> "David Deex (676)" [label=320]
+}

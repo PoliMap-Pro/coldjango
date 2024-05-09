@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Elizabeth Watson-Brown (589)_Ryan_2022" {
+	graph [label="Ryan 2022" labelloc=t]
+	node [shape=box]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Elizabeth Watson-Brown (589)" [label="Elizabeth Watson-Brown (589)
+Queensland Greens"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Peter Cossar (590)" -> "Elizabeth Watson-Brown (589)" [label=19249]
+	"Damian Coory (585)" -> "Peter Cossar (590)" [label=753]
+	"Joel Love (587)" -> "Damian Coory (585)" [label=1787]
+	"Kathryn Pollard (584)" -> "Joel Love (587)" [label=937]
+	"Jina Lipman (588)" -> "Kathryn Pollard (584)" [label=111]
+	"Janine Rees (586)" -> "Jina Lipman (588)" [label=129]
+	"Axel Dancoisne (592)" -> "Janine Rees (586)" [label=43]
+	"Damian Coory (585)" -> "Elizabeth Watson-Brown (589)" [label=1372]
+	"Joel Love (587)" -> "Elizabeth Watson-Brown (589)" [label=537]
+	"Kathryn Pollard (584)" -> "Elizabeth Watson-Brown (589)" [label=224]
+	"Jina Lipman (588)" -> "Elizabeth Watson-Brown (589)" [label=621]
+	"Janine Rees (586)" -> "Elizabeth Watson-Brown (589)" [label=255]
+	"Axel Dancoisne (592)" -> "Elizabeth Watson-Brown (589)" [label=25]
+	"Axel Dancoisne (592)" -> "Jina Lipman (588)" [label=44]
+	"Janine Rees (586)" -> "Kathryn Pollard (584)" [label=40]
+	"Axel Dancoisne (592)" -> "Kathryn Pollard (584)" [label=39]
+	"Jina Lipman (588)" -> "Joel Love (587)" [label=124]
+	"Janine Rees (586)" -> "Joel Love (587)" [label=32]
+	"Axel Dancoisne (592)" -> "Joel Love (587)" [label=65]
+	"Kathryn Pollard (584)" -> "Damian Coory (585)" [label=656]
+	"Jina Lipman (588)" -> "Damian Coory (585)" [label=109]
+	"Janine Rees (586)" -> "Damian Coory (585)" [label=67]
+	"Axel Dancoisne (592)" -> "Damian Coory (585)" [label=52]
+	"Joel Love (587)" -> "Peter Cossar (590)" [label=263]
+	"Kathryn Pollard (584)" -> "Peter Cossar (590)" [label=148]
+	"Jina Lipman (588)" -> "Peter Cossar (590)" [label=180]
+	"Janine Rees (586)" -> "Peter Cossar (590)" [label=83]
+	"Axel Dancoisne (592)" -> "Peter Cossar (590)" [label=28]
+}

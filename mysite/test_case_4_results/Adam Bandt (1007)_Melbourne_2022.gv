@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Adam Bandt (1007)_Melbourne_2022" {
+	graph [label="Melbourne 2022" labelloc=t]
+	node [shape=box]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" [label="James Damches (1008)
+Liberal"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"James Damches (1008)" -> "Adam Bandt (1007)" [label=5314]
+	"Colleen Bolger (1013)" -> "James Damches (1008)" [label=662]
+	"Justin Borg (1005)" -> "Colleen Bolger (1013)" [label=847]
+	"Richard Peppard (1009)" -> "Justin Borg (1005)" [label=985]
+	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
+	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
+	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
+	"Colleen Bolger (1013)" -> "Adam Bandt (1007)" [label=3310]
+	"Justin Borg (1005)" -> "Adam Bandt (1007)" [label=360]
+	"Richard Peppard (1009)" -> "Adam Bandt (1007)" [label=188]
+	"Bruce Poon (1012)" -> "Adam Bandt (1007)" [label=691]
+	"Scott Robson (1010)" -> "Adam Bandt (1007)" [label=269]
+	"Walter Stragan (1011)" -> "Adam Bandt (1007)" [label=35]
+	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
+	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
+	"Walter Stragan (1011)" -> "Richard Peppard (1009)" [label=241]
+	"Bruce Poon (1012)" -> "Justin Borg (1005)" [label=99]
+	"Scott Robson (1010)" -> "Justin Borg (1005)" [label=144]
+	"Walter Stragan (1011)" -> "Justin Borg (1005)" [label=335]
+	"Richard Peppard (1009)" -> "Colleen Bolger (1013)" [label=110]
+	"Bruce Poon (1012)" -> "Colleen Bolger (1013)" [label=365]
+	"Scott Robson (1010)" -> "Colleen Bolger (1013)" [label=97]
+	"Walter Stragan (1011)" -> "Colleen Bolger (1013)" [label=24]
+	"Justin Borg (1005)" -> "James Damches (1008)" [label=1387]
+	"Richard Peppard (1009)" -> "James Damches (1008)" [label=659]
+	"Bruce Poon (1012)" -> "James Damches (1008)" [label=122]
+	"Scott Robson (1010)" -> "James Damches (1008)" [label=141]
+	"Walter Stragan (1011)" -> "James Damches (1008)" [label=102]
+}

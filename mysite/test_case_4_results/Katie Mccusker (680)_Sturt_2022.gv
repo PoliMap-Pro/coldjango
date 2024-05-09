@@ -1,0 +1,1811 @@
+// House preference flow
+digraph "Katie Mccusker (680)_Sturt_2022" {
+	graph [label="Sturt 2022" labelloc=t]
+	node [shape=box]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Katie Mccusker (680)" [label="Katie Mccusker (680)
+The Greens"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" [label="Stephen Grant (685)
+United Australia Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Alexander Allwood (683)" [label="Alexander Allwood (683)
+Pauline Hanson's One Nation"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"David Sherlock (687)" [label="David Sherlock (687)
+Animal Justice Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Thomas Mcmahon (688)" [label="Thomas Mcmahon (688)
+Liberal Democrats"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Inty Elham (689)" [label="Inty Elham (689)
+Drew Pavlou Democratic Alliance"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
+Australian Federation Party"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Angela Fulco (684)" [label="Angela Fulco (684)
+Australian Progressives"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Chris Schmidt (682)" [label="Chris Schmidt (682)
+TNL"]
+	"Stephen Grant (685)" -> "Katie Mccusker (680)" [label=1734]
+	"Alexander Allwood (683)" -> "Stephen Grant (685)" [label=2501]
+	"David Sherlock (687)" -> "Alexander Allwood (683)" [label=202]
+	"Thomas Mcmahon (688)" -> "David Sherlock (687)" [label=131]
+	"Inty Elham (689)" -> "Thomas Mcmahon (688)" [label=104]
+	"Kathy Scarborough (686)" -> "Inty Elham (689)" [label=65]
+	"Angela Fulco (684)" -> "Kathy Scarborough (686)" [label=35]
+	"Chris Schmidt (682)" -> "Angela Fulco (684)" [label=46]
+	"Alexander Allwood (683)" -> "Katie Mccusker (680)" [label=388]
+	"David Sherlock (687)" -> "Katie Mccusker (680)" [label=847]
+	"Thomas Mcmahon (688)" -> "Katie Mccusker (680)" [label=144]
+	"Inty Elham (689)" -> "Katie Mccusker (680)" [label=310]
+	"Kathy Scarborough (686)" -> "Katie Mccusker (680)" [label=38]
+	"Angela Fulco (684)" -> "Katie Mccusker (680)" [label=155]
+	"Chris Schmidt (682)" -> "Katie Mccusker (680)" [label=60]
+	"Chris Schmidt (682)" -> "Kathy Scarborough (686)" [label=9]
+	"Angela Fulco (684)" -> "Inty Elham (689)" [label=37]
+	"Chris Schmidt (682)" -> "Inty Elham (689)" [label=15]
+	"Kathy Scarborough (686)" -> "Thomas Mcmahon (688)" [label=166]
+	"Angela Fulco (684)" -> "Thomas Mcmahon (688)" [label=13]
+	"Chris Schmidt (682)" -> "Thomas Mcmahon (688)" [label=7]
+	"Inty Elham (689)" -> "David Sherlock (687)" [label=107]
+	"Kathy Scarborough (686)" -> "David Sherlock (687)" [label=51]
+	"Angela Fulco (684)" -> "David Sherlock (687)" [label=67]
+	"Chris Schmidt (682)" -> "David Sherlock (687)" [label=19]
+	"Thomas Mcmahon (688)" -> "Alexander Allwood (683)" [label=291]
+	"Inty Elham (689)" -> "Alexander Allwood (683)" [label=67]
+	"Kathy Scarborough (686)" -> "Alexander Allwood (683)" [label=220]
+	"Angela Fulco (684)" -> "Alexander Allwood (683)" [label=41]
+	"Chris Schmidt (682)" -> "Alexander Allwood (683)" [label=24]
+	"David Sherlock (687)" -> "Stephen Grant (685)" [label=273]
+	"Thomas Mcmahon (688)" -> "Stephen Grant (685)" [label=243]
+	"Inty Elham (689)" -> "Stephen Grant (685)" [label=73]
+	"Kathy Scarborough (686)" -> "Stephen Grant (685)" [label=153]
+	"Angela Fulco (684)" -> "Stephen Grant (685)" [label=56]
+	"Chris Schmidt (682)" -> "Stephen Grant (685)" [label=10]
+}

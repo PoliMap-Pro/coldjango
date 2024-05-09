@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Monica Tan (1232)_Berowra_2019" {
+	graph [label="Berowra 2019" labelloc=t]
+	node [shape=box]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Monica Tan (1232)" [label="Monica Tan (1232)
+The Greens"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
+Christian Democratic Party (Fred Nile Group)"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Mick Gallagher (1235)" -> "Monica Tan (1232)" [label=1064]
+	"Simon Alan Taylor (1234)" -> "Mick Gallagher (1235)" [label=521]
+	"Brendan Michael Clarke (44)" -> "Simon Alan Taylor (1234)" [label=112]
+	"Craig Steven Mclachlan (1233)" -> "Brendan Michael Clarke (44)" [label=158]
+	"Justin Thomas (1237)" -> "Craig Steven Mclachlan (1233)" [label=95]
+	"Roger Woodward (47)" -> "Justin Thomas (1237)" [label=28]
+	"Simon Alan Taylor (1234)" -> "Monica Tan (1232)" [label=129]
+	"Brendan Michael Clarke (44)" -> "Monica Tan (1232)" [label=757]
+	"Craig Steven Mclachlan (1233)" -> "Monica Tan (1232)" [label=137]
+	"Justin Thomas (1237)" -> "Monica Tan (1232)" [label=335]
+	"Roger Woodward (47)" -> "Monica Tan (1232)" [label=32]
+	"Roger Woodward (47)" -> "Craig Steven Mclachlan (1233)" [label=17]
+	"Justin Thomas (1237)" -> "Brendan Michael Clarke (44)" [label=235]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=22]
+	"Craig Steven Mclachlan (1233)" -> "Simon Alan Taylor (1234)" [label=211]
+	"Justin Thomas (1237)" -> "Simon Alan Taylor (1234)" [label=70]
+	"Roger Woodward (47)" -> "Simon Alan Taylor (1234)" [label=16]
+	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=348]
+	"Craig Steven Mclachlan (1233)" -> "Mick Gallagher (1235)" [label=256]
+	"Justin Thomas (1237)" -> "Mick Gallagher (1235)" [label=263]
+	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=307]
+}

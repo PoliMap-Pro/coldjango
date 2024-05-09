@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Delanie Sky (2056)_Calare_2016" {
+	graph [label="Calare 2016" labelloc=t]
+	node [shape=box]
+	"Delanie Sky (2056)" [label="Delanie Sky (2056)
+The Greens"]
+	"Glen Davis (2057)" [label="Glen Davis (2057)
+Liberal Democrats"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Delanie Sky (2056)" [label="Delanie Sky (2056)
+The Greens"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Delanie Sky (2056)" [label="Delanie Sky (2056)
+The Greens"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Delanie Sky (2056)" [label="Delanie Sky (2056)
+The Greens"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Glen Davis (2057)" [label="Glen Davis (2057)
+Liberal Democrats"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Glen Davis (2057)" [label="Glen Davis (2057)
+Liberal Democrats"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Glen Davis (2057)" [label="Glen Davis (2057)
+Liberal Democrats"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+	"Glen Davis (2057)" -> "Delanie Sky (2056)" [label=1068]
+	"Rod Bloomfield (2060)" -> "Glen Davis (2057)" [label=1053]
+	"Anthony Gerard Craig (2059)" -> "Rod Bloomfield (2060)" [label=1156]
+	"Bernie Gesling (2058)" -> "Anthony Gerard Craig (2059)" [label=390]
+	"Rod Bloomfield (2060)" -> "Delanie Sky (2056)" [label=1281]
+	"Anthony Gerard Craig (2059)" -> "Delanie Sky (2056)" [label=543]
+	"Bernie Gesling (2058)" -> "Delanie Sky (2056)" [label=91]
+	"Bernie Gesling (2058)" -> "Rod Bloomfield (2060)" [label=264]
+	"Anthony Gerard Craig (2059)" -> "Glen Davis (2057)" [label=530]
+	"Bernie Gesling (2058)" -> "Glen Davis (2057)" [label=371]
+}

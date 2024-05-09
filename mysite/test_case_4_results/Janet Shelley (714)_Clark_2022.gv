@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Janet Shelley (714)_Clark_2022" {
+	graph [label="Clark 2022" labelloc=t]
+	node [shape=box]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
+	"Michelle Cameron (710)" [label="Michelle Cameron (710)
+Pauline Hanson's One Nation"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Michelle Cameron (710)" [label="Michelle Cameron (710)
+Pauline Hanson's One Nation"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Michelle Cameron (710)" [label="Michelle Cameron (710)
+Pauline Hanson's One Nation"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Michelle Cameron (710)" [label="Michelle Cameron (710)
+Pauline Hanson's One Nation"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Sandra Galloway (717)" [label="Sandra Galloway (717)
+United Australia Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Michelle Cameron (710)" -> "Janet Shelley (714)" [label=209]
+	"Sandra Galloway (717)" -> "Michelle Cameron (710)" [label=490]
+	"Casey Davies (716)" -> "Sandra Galloway (717)" [label=114]
+	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
+	"Sandra Galloway (717)" -> "Janet Shelley (714)" [label=111]
+	"Casey Davies (716)" -> "Janet Shelley (714)" [label=229]
+	"Ian Ramsden (712)" -> "Janet Shelley (714)" [label=33]
+	"Ian Ramsden (712)" -> "Sandra Galloway (717)" [label=104]
+	"Casey Davies (716)" -> "Michelle Cameron (710)" [label=80]
+	"Ian Ramsden (712)" -> "Michelle Cameron (710)" [label=116]
+}

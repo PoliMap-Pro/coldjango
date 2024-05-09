@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Jen Brown (2515)_Denison_2016" {
+	graph [label="Denison 2016" labelloc=t]
+	node [shape=box]
+	"Jen Brown (2515)" [label="Jen Brown (2515)
+The Greens"]
+	"Amanda Excell (2511)" [label="Amanda Excell (2511)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+Democratic Labour Party (DLP)"]
+	"Jen Brown (2515)" [label="Jen Brown (2515)
+The Greens"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+Democratic Labour Party (DLP)"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+Democratic Labour Party (DLP)"]
+	"Amanda Excell (2511)" [label="Amanda Excell (2511)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+Democratic Labour Party (DLP)"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+Democratic Labour Party (DLP)"]
+	"Amanda Excell (2511)" -> "Jen Brown (2515)" [label=58]
+	"Wayne Williams (2514)" -> "Amanda Excell (2511)" [label=80]
+	"Wayne Williams (2514)" -> "Jen Brown (2515)" [label=57]
+}

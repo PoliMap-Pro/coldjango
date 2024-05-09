@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Sujit Mathew (912)_Holt_2022" {
+	graph [label="Holt 2022" labelloc=t]
+	node [shape=box]
+	"Sujit Mathew (912)" [label="Sujit Mathew (912)
+The Greens"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sujit Mathew (912)" [label="Sujit Mathew (912)
+The Greens"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sujit Mathew (912)" [label="Sujit Mathew (912)
+The Greens"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sujit Mathew (912)" [label="Sujit Mathew (912)
+The Greens"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
+Australian Federation Party"]
+	"Sandy Ambard (909)" -> "Sujit Mathew (912)" [label=557]
+	"Ravi Ragupathy (906)" -> "Sandy Ambard (909)" [label=409]
+	"Matthew Nunez-Silva (911)" -> "Ravi Ragupathy (906)" [label=148]
+	"Gregory Saldanha (910)" -> "Matthew Nunez-Silva (911)" [label=108]
+	"Ravi Ragupathy (906)" -> "Sujit Mathew (912)" [label=476]
+	"Matthew Nunez-Silva (911)" -> "Sujit Mathew (912)" [label=235]
+	"Gregory Saldanha (910)" -> "Sujit Mathew (912)" [label=59]
+	"Gregory Saldanha (910)" -> "Ravi Ragupathy (906)" [label=114]
+	"Matthew Nunez-Silva (911)" -> "Sandy Ambard (909)" [label=517]
+	"Gregory Saldanha (910)" -> "Sandy Ambard (909)" [label=196]
+}

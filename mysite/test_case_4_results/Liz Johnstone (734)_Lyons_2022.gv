@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Liz Johnstone (734)_Lyons_2022" {
+	graph [label="Lyons 2022" labelloc=t]
+	node [shape=box]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
+	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
+	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
+	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
+	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
+	"Anna Megan Gralton (730)" -> "Liz Johnstone (734)" [label=374]
+	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
+	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]
+	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
+	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
+}

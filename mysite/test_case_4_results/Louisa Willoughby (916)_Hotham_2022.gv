@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Louisa Willoughby (916)_Hotham_2022" {
+	graph [label="Hotham 2022" labelloc=t]
+	node [shape=box]
+	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
+The Greens"]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
+The Greens"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
+The Greens"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Edward Sok (914)" -> "Louisa Willoughby (916)" [label=1580]
+	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
+	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
+	"Bruce Scott Ridgway (917)" -> "Louisa Willoughby (916)" [label=1391]
+	"Roger Tull (918)" -> "Louisa Willoughby (916)" [label=223]
+	"Roger Tull (918)" -> "Edward Sok (914)" [label=728]
+}

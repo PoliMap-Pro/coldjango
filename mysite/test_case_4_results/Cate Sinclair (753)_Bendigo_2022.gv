@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Cate Sinclair (753)_Bendigo_2022" {
+	graph [label="Bendigo 2022" labelloc=t]
+	node [shape=box]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+	"Ben Mihail (755)" -> "Cate Sinclair (753)" [label=2151]
+	"Elijah Suares (756)" -> "Ben Mihail (755)" [label=3997]
+	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
+	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
+	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
+	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
+	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
+	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
+	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
+	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
+}

@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Barbara Pocock (1646)_Adelaide_2019" {
+	graph [label="Adelaide 2019" labelloc=t]
+	node [shape=box]
+	"Barbara Pocock (1646)" [label="Barbara Pocock (1646)
+The Greens"]
+	"Antonio Rea (1649)" [label="Antonio Rea (1649)
+United Australia Party"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Barbara Pocock (1646)" [label="Barbara Pocock (1646)
+The Greens"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Barbara Pocock (1646)" [label="Barbara Pocock (1646)
+The Greens"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Antonio Rea (1649)" [label="Antonio Rea (1649)
+United Australia Party"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Antonio Rea (1649)" [label="Antonio Rea (1649)
+United Australia Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Antonio Rea (1649)" -> "Barbara Pocock (1646)" [label=1047]
+	"Deanna Kangas (1647)" -> "Antonio Rea (1649)" [label=428]
+	"Chris James (1645)" -> "Deanna Kangas (1647)" [label=223]
+	"Deanna Kangas (1647)" -> "Barbara Pocock (1646)" [label=1615]
+	"Chris James (1645)" -> "Barbara Pocock (1646)" [label=908]
+	"Chris James (1645)" -> "Antonio Rea (1649)" [label=175]
+}

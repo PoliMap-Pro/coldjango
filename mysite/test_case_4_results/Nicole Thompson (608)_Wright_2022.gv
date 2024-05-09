@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Nicole Thompson (608)_Wright_2022" {
+	graph [label="Wright 2022" labelloc=t]
+	node [shape=box]
+	"Nicole Thompson (608)" [label="Nicole Thompson (608)
+Queensland Greens"]
+	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
+United Australia Party"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Nicole Thompson (608)" [label="Nicole Thompson (608)
+Queensland Greens"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
+United Australia Party"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Cassandra Deanne Duffill (604)" -> "Nicole Thompson (608)" [label=736]
+	"Shonna-Lee Banasiak (606)" -> "Cassandra Deanne Duffill (604)" [label=357]
+	"Shonna-Lee Banasiak (606)" -> "Nicole Thompson (608)" [label=272]
+}

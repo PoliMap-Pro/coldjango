@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Piers Mitchem (954)_Kooyong_2022" {
+	graph [label="Kooyong 2022" labelloc=t]
+	node [shape=box]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Piers Mitchem (954)" [label="Piers Mitchem (954)
+The Greens"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" [label="Alexandra Thom (947)
+Liberal Democrats"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Scott Andrew Hardiman (946)" [label="Scott Andrew Hardiman (946)
+United Australia Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Josh Coyne (949)" [label="Josh Coyne (949)
+Pauline Hanson's One Nation"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Alexandra Thom (947)" -> "Piers Mitchem (954)" [label=113]
+	"Scott Andrew Hardiman (946)" -> "Alexandra Thom (947)" [label=709]
+	"Josh Coyne (949)" -> "Scott Andrew Hardiman (946)" [label=312]
+	"Rachael Nehmer (953)" -> "Josh Coyne (949)" [label=19]
+	"Will Anderson (950)" -> "Rachael Nehmer (953)" [label=19]
+	"Michele Dale (948)" -> "Will Anderson (950)" [label=10]
+	"David Connolly (955)" -> "Michele Dale (948)" [label=7]
+	"Scott Andrew Hardiman (946)" -> "Piers Mitchem (954)" [label=75]
+	"Josh Coyne (949)" -> "Piers Mitchem (954)" [label=25]
+	"Rachael Nehmer (953)" -> "Piers Mitchem (954)" [label=248]
+	"Will Anderson (950)" -> "Piers Mitchem (954)" [label=19]
+	"Michele Dale (948)" -> "Piers Mitchem (954)" [label=9]
+	"David Connolly (955)" -> "Piers Mitchem (954)" [label=29]
+	"David Connolly (955)" -> "Will Anderson (950)" [label=9]
+	"Michele Dale (948)" -> "Rachael Nehmer (953)" [label=21]
+	"David Connolly (955)" -> "Rachael Nehmer (953)" [label=11]
+	"Will Anderson (950)" -> "Josh Coyne (949)" [label=23]
+	"Michele Dale (948)" -> "Josh Coyne (949)" [label=25]
+	"David Connolly (955)" -> "Josh Coyne (949)" [label=15]
+	"Rachael Nehmer (953)" -> "Scott Andrew Hardiman (946)" [label=21]
+	"Will Anderson (950)" -> "Scott Andrew Hardiman (946)" [label=20]
+	"Michele Dale (948)" -> "Scott Andrew Hardiman (946)" [label=11]
+	"David Connolly (955)" -> "Scott Andrew Hardiman (946)" [label=11]
+	"Josh Coyne (949)" -> "Alexandra Thom (947)" [label=271]
+	"Rachael Nehmer (953)" -> "Alexandra Thom (947)" [label=31]
+	"Will Anderson (950)" -> "Alexandra Thom (947)" [label=22]
+	"Michele Dale (948)" -> "Alexandra Thom (947)" [label=18]
+	"David Connolly (955)" -> "Alexandra Thom (947)" [label=15]
+}

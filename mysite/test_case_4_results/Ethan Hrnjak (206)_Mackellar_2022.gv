@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Ethan Hrnjak (206)_Mackellar_2022" {
+	graph [label="Mackellar 2022" labelloc=t]
+	node [shape=box]
+	"Ethan Hrnjak (206)" [label="Ethan Hrnjak (206)
+The Greens"]
+	"Christopher Thomas Ball (205)" [label="Christopher Thomas Ball (205)
+United Australia Party"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Ethan Hrnjak (206)" [label="Ethan Hrnjak (206)
+The Greens"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Ethan Hrnjak (206)" [label="Ethan Hrnjak (206)
+The Greens"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Christopher Thomas Ball (205)" [label="Christopher Thomas Ball (205)
+United Australia Party"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Christopher Thomas Ball (205)" [label="Christopher Thomas Ball (205)
+United Australia Party"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Christopher Thomas Ball (205)" -> "Ethan Hrnjak (206)" [label=453]
+	"Darren Dickson (201)" -> "Christopher Thomas Ball (205)" [label=1645]
+	"Barry Steele (200)" -> "Darren Dickson (201)" [label=225]
+	"Darren Dickson (201)" -> "Ethan Hrnjak (206)" [label=95]
+	"Barry Steele (200)" -> "Ethan Hrnjak (206)" [label=70]
+	"Barry Steele (200)" -> "Christopher Thomas Ball (205)" [label=34]
+}

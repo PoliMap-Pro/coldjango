@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Craig Armstrong (596)_Wide Bay_2022" {
+	graph [label="Wide Bay 2022" labelloc=t]
+	node [shape=box]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Craig Armstrong (596)" [label="Craig Armstrong (596)
+Queensland Greens"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Andrea Newland (602)" [label="Andrea Newland (602)
+Informed Medical Options Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"Kelli Jacobi (593)" -> "Craig Armstrong (596)" [label=1650]
+	"Tracy Bennett (595)" -> "Kelli Jacobi (593)" [label=795]
+	"Tim Jerome (599)" -> "Tracy Bennett (595)" [label=215]
+	"Andrea Newland (602)" -> "Tim Jerome (599)" [label=429]
+	"Daniel Williams (601)" -> "Andrea Newland (602)" [label=203]
+	"John Woodward (598)" -> "Daniel Williams (601)" [label=54]
+	"Tracy Bennett (595)" -> "Craig Armstrong (596)" [label=303]
+	"Tim Jerome (599)" -> "Craig Armstrong (596)" [label=333]
+	"Andrea Newland (602)" -> "Craig Armstrong (596)" [label=166]
+	"Daniel Williams (601)" -> "Craig Armstrong (596)" [label=90]
+	"John Woodward (598)" -> "Craig Armstrong (596)" [label=33]
+	"John Woodward (598)" -> "Andrea Newland (602)" [label=58]
+	"Daniel Williams (601)" -> "Tim Jerome (599)" [label=147]
+	"John Woodward (598)" -> "Tim Jerome (599)" [label=65]
+	"Andrea Newland (602)" -> "Tracy Bennett (595)" [label=252]
+	"Daniel Williams (601)" -> "Tracy Bennett (595)" [label=62]
+	"John Woodward (598)" -> "Tracy Bennett (595)" [label=44]
+	"Tim Jerome (599)" -> "Kelli Jacobi (593)" [label=1700]
+	"Andrea Newland (602)" -> "Kelli Jacobi (593)" [label=584]
+	"Daniel Williams (601)" -> "Kelli Jacobi (593)" [label=123]
+	"John Woodward (598)" -> "Kelli Jacobi (593)" [label=76]
+}

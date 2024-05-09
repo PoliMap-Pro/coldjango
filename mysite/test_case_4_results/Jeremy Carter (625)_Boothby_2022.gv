@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Jeremy Carter (625)_Boothby_2022" {
+	graph [label="Boothby 2022" labelloc=t]
+	node [shape=box]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
+Liberal Democrats"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Frankie Bray (630)" [label="Frankie Bray (630)
+Animal Justice Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
+	"Jo Dyer (632)" -> "Jeremy Carter (625)" [label=5448]
+	"Graeme Clark (626)" -> "Jo Dyer (632)" [label=1943]
+	"Bob Couch (634)" -> "Graeme Clark (626)" [label=1671]
+	"Aleksandra Nikolic (628)" -> "Bob Couch (634)" [label=382]
+	"Frankie Bray (630)" -> "Aleksandra Nikolic (628)" [label=52]
+	"Paul Busuttil (629)" -> "Frankie Bray (630)" [label=69]
+	"Peter Harris (627)" -> "Paul Busuttil (629)" [label=58]
+	"Graeme Clark (626)" -> "Jeremy Carter (625)" [label=736]
+	"Bob Couch (634)" -> "Jeremy Carter (625)" [label=181]
+	"Aleksandra Nikolic (628)" -> "Jeremy Carter (625)" [label=198]
+	"Frankie Bray (630)" -> "Jeremy Carter (625)" [label=586]
+	"Paul Busuttil (629)" -> "Jeremy Carter (625)" [label=94]
+	"Peter Harris (627)" -> "Jeremy Carter (625)" [label=41]
+	"Peter Harris (627)" -> "Frankie Bray (630)" [label=17]
+	"Paul Busuttil (629)" -> "Aleksandra Nikolic (628)" [label=231]
+	"Peter Harris (627)" -> "Aleksandra Nikolic (628)" [label=108]
+	"Frankie Bray (630)" -> "Bob Couch (634)" [label=90]
+	"Paul Busuttil (629)" -> "Bob Couch (634)" [label=156]
+	"Peter Harris (627)" -> "Bob Couch (634)" [label=104]
+	"Aleksandra Nikolic (628)" -> "Graeme Clark (626)" [label=312]
+	"Frankie Bray (630)" -> "Graeme Clark (626)" [label=76]
+	"Paul Busuttil (629)" -> "Graeme Clark (626)" [label=116]
+	"Peter Harris (627)" -> "Graeme Clark (626)" [label=122]
+	"Bob Couch (634)" -> "Jo Dyer (632)" [label=539]
+	"Aleksandra Nikolic (628)" -> "Jo Dyer (632)" [label=135]
+	"Frankie Bray (630)" -> "Jo Dyer (632)" [label=245]
+	"Paul Busuttil (629)" -> "Jo Dyer (632)" [label=313]
+	"Peter Harris (627)" -> "Jo Dyer (632)" [label=22]
+}

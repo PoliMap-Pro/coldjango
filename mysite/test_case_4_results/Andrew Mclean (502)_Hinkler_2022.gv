@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Andrew Mclean (502)_Hinkler_2022" {
+	graph [label="Hinkler 2022" labelloc=t]
+	node [shape=box]
+	"Andrew Mclean (502)" [label="Andrew Mclean (502)
+Queensland Greens"]
+}

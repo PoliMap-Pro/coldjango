@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Tim White (635)_Grey_2022" {
+	graph [label="Grey 2022" labelloc=t]
+	node [shape=box]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Suzanne Waters (636)" -> "Tim White (635)" [label=739]
+	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
+	"Richard Carmody (642)" -> "Peter Miller (637)" [label=42]
+	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
+	"Peter Miller (637)" -> "Tim White (635)" [label=185]
+	"Richard Carmody (642)" -> "Tim White (635)" [label=148]
+	"Tracey Dempsey (641)" -> "Tim White (635)" [label=57]
+	"Tracey Dempsey (641)" -> "Peter Miller (637)" [label=91]
+	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
+	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
+}

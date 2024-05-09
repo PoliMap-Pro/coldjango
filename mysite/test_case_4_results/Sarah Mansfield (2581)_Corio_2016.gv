@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Sarah Mansfield (2581)_Corio_2016" {
+	graph [label="Corio 2016" labelloc=t]
+	node [shape=box]
+	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
+The Greens"]
+	"Jamie Overend (2580)" [label="Jamie Overend (2580)
+Animal Justice Party"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
+The Greens"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
+The Greens"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
+The Greens"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jamie Overend (2580)" [label="Jamie Overend (2580)
+Animal Justice Party"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jamie Overend (2580)" [label="Jamie Overend (2580)
+Animal Justice Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jamie Overend (2580)" [label="Jamie Overend (2580)
+Animal Justice Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jamie Overend (2580)" -> "Sarah Mansfield (2581)" [label=2262]
+	"Ash Puvimanasinghe (1842)" -> "Jamie Overend (2580)" [label=891]
+	"Jeff Moran (2579)" -> "Ash Puvimanasinghe (1842)" [label=264]
+	"Sue Bull (810)" -> "Jeff Moran (2579)" [label=78]
+	"Ash Puvimanasinghe (1842)" -> "Sarah Mansfield (2581)" [label=168]
+	"Jeff Moran (2579)" -> "Sarah Mansfield (2581)" [label=168]
+	"Sue Bull (810)" -> "Sarah Mansfield (2581)" [label=342]
+	"Sue Bull (810)" -> "Ash Puvimanasinghe (1842)" [label=179]
+	"Jeff Moran (2579)" -> "Jamie Overend (2580)" [label=377]
+	"Sue Bull (810)" -> "Jamie Overend (2580)" [label=142]
+}

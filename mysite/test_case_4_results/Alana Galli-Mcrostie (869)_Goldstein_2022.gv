@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Alana Galli-Mcrostie (869)_Goldstein_2022" {
+	graph [label="Goldstein 2022" labelloc=t]
+	node [shape=box]
+	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
+The Greens"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
+The Greens"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
+The Greens"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
+The Greens"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Alana Galli-Mcrostie (869)" [label="Alana Galli-Mcrostie (869)
+The Greens"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Lisa Stark (874)" [label="Lisa Stark (874)
+Pauline Hanson's One Nation"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"David Segal (872)" -> "Alana Galli-Mcrostie (869)" [label=236]
+	"Catherine Frances Reynolds (875)" -> "David Segal (872)" [label=1154]
+	"Lisa Stark (874)" -> "Catherine Frances Reynolds (875)" [label=524]
+	"Ellie Jean Sullivan (870)" -> "Lisa Stark (874)" [label=83]
+	"Brandon Hoult (871)" -> "Ellie Jean Sullivan (870)" [label=74]
+	"Catherine Frances Reynolds (875)" -> "Alana Galli-Mcrostie (869)" [label=164]
+	"Lisa Stark (874)" -> "Alana Galli-Mcrostie (869)" [label=56]
+	"Ellie Jean Sullivan (870)" -> "Alana Galli-Mcrostie (869)" [label=162]
+	"Brandon Hoult (871)" -> "Alana Galli-Mcrostie (869)" [label=108]
+	"Brandon Hoult (871)" -> "Lisa Stark (874)" [label=29]
+	"Ellie Jean Sullivan (870)" -> "Catherine Frances Reynolds (875)" [label=37]
+	"Brandon Hoult (871)" -> "Catherine Frances Reynolds (875)" [label=24]
+	"Lisa Stark (874)" -> "David Segal (872)" [label=436]
+	"Ellie Jean Sullivan (870)" -> "David Segal (872)" [label=71]
+	"Brandon Hoult (871)" -> "David Segal (872)" [label=46]
+}

@@ -71,7 +71,8 @@ class AECReader(object):
                 if election:
                     group, _ = models.SenateGroup.objects.get_or_create(
                         abbreviation=group_abbreviation, election=election)
-                    candidate = candidate_objects.get(person=person)
+                    candidate, _ = candidate_objects.get_or_create(
+                        person=person)
                     candidate.group = group
                     candidate.save()
         else:

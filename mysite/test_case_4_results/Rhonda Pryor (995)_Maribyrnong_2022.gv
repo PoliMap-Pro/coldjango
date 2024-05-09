@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Rhonda Pryor (995)_Maribyrnong_2022" {
+	graph [label="Maribyrnong 2022" labelloc=t]
+	node [shape=box]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Darren Besanko (993)" -> "Rhonda Pryor (995)" [label=1464]
+	"Cameron Smith (997)" -> "Darren Besanko (993)" [label=2596]
+	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
+	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
+	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
+	"Cameron Smith (997)" -> "Rhonda Pryor (995)" [label=441]
+	"Jodie Tindal (992)" -> "Rhonda Pryor (995)" [label=214]
+	"Mark Michael Hobart (989)" -> "Rhonda Pryor (995)" [label=114]
+	"Daniel Nair Dadich (990)" -> "Rhonda Pryor (995)" [label=1224]
+	"Alexander Anthony Ansalone (996)" -> "Rhonda Pryor (995)" [label=85]
+	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
+	"Daniel Nair Dadich (990)" -> "Jodie Tindal (992)" [label=55]
+	"Alexander Anthony Ansalone (996)" -> "Jodie Tindal (992)" [label=48]
+	"Mark Michael Hobart (989)" -> "Cameron Smith (997)" [label=260]
+	"Daniel Nair Dadich (990)" -> "Cameron Smith (997)" [label=25]
+	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
+	"Jodie Tindal (992)" -> "Darren Besanko (993)" [label=1328]
+	"Mark Michael Hobart (989)" -> "Darren Besanko (993)" [label=469]
+	"Daniel Nair Dadich (990)" -> "Darren Besanko (993)" [label=51]
+	"Alexander Anthony Ansalone (996)" -> "Darren Besanko (993)" [label=45]
+}

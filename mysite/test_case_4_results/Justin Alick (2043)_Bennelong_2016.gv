@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Justin Alick (2043)_Bennelong_2016" {
+	graph [label="Bennelong 2016" labelloc=t]
+	node [shape=box]
+	"Justin Alick (2043)" [label="Justin Alick (2043)
+The Greens"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Justin Alick (2043)" [label="Justin Alick (2043)
+The Greens"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Justin Alick (2043)" [label="Justin Alick (2043)
+The Greens"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Justin Alick (2043)" [label="Justin Alick (2043)
+The Greens"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
+The Arts Party"]
+	"Julie Worsley (1231)" -> "Justin Alick (2043)" [label=690]
+	"Martin Mulcare (2045)" -> "Julie Worsley (1231)" [label=583]
+	"John Peter August (2042)" -> "Martin Mulcare (2045)" [label=352]
+	"Christopher Gordon (2044)" -> "John Peter August (2042)" [label=132]
+	"Martin Mulcare (2045)" -> "Justin Alick (2043)" [label=857]
+	"John Peter August (2042)" -> "Justin Alick (2043)" [label=451]
+	"Christopher Gordon (2044)" -> "Justin Alick (2043)" [label=311]
+	"Christopher Gordon (2044)" -> "Martin Mulcare (2045)" [label=176]
+	"John Peter August (2042)" -> "Julie Worsley (1231)" [label=111]
+	"Christopher Gordon (2044)" -> "Julie Worsley (1231)" [label=70]
+}

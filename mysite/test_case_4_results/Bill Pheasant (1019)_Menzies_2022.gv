@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Bill Pheasant (1019)_Menzies_2022" {
+	graph [label="Menzies 2022" labelloc=t]
+	node [shape=box]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Nathan Scaglione (1020)" -> "Bill Pheasant (1019)" [label=1547]
+	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
+	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+	"Greg Cheesman (1016)" -> "Bill Pheasant (1019)" [label=314]
+	"John Hayes (1017)" -> "Bill Pheasant (1019)" [label=199]
+	"Sanjeev Sabhlok (1015)" -> "Bill Pheasant (1019)" [label=112]
+	"Sanjeev Sabhlok (1015)" -> "Greg Cheesman (1016)" [label=277]
+	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
+	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
+}

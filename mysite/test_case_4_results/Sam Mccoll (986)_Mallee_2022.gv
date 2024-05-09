@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Sam Mccoll (986)_Mallee_2022" {
+	graph [label="Mallee 2022" labelloc=t]
+	node [shape=box]
+	"Sam Mccoll (986)" [label="Sam Mccoll (986)
+The Greens"]
+	"Claudia Haenel (983)" [label="Claudia Haenel (983)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Sam Mccoll (986)" [label="Sam Mccoll (986)
+The Greens"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Claudia Haenel (983)" [label="Claudia Haenel (983)
+Independent"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
+	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
+	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
+}

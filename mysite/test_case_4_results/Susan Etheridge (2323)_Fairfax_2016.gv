@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Susan Etheridge (2323)_Fairfax_2016" {
+	graph [label="Fairfax 2016" labelloc=t]
+	node [shape=box]
+	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
+The Greens"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
+The Greens"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
+The Greens"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
+The Greens"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
+The Greens"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Pasquali (2329)" -> "Susan Etheridge (2323)" [label=3162]
+	"Keith Alexander Campbell (2325)" -> "Robert Pasquali (2329)" [label=1137]
+	"David Rees (2324)" -> "Keith Alexander Campbell (2325)" [label=453]
+	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
+	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
+	"Keith Alexander Campbell (2325)" -> "Susan Etheridge (2323)" [label=1265]
+	"David Rees (2324)" -> "Susan Etheridge (2323)" [label=479]
+	"Robert Dickson (2328)" -> "Susan Etheridge (2323)" [label=176]
+	"Kris Bullen (2327)" -> "Susan Etheridge (2323)" [label=147]
+	"Kris Bullen (2327)" -> "David Rees (2324)" [label=47]
+	"Robert Dickson (2328)" -> "Keith Alexander Campbell (2325)" [label=744]
+	"Kris Bullen (2327)" -> "Keith Alexander Campbell (2325)" [label=101]
+	"David Rees (2324)" -> "Robert Pasquali (2329)" [label=667]
+	"Robert Dickson (2328)" -> "Robert Pasquali (2329)" [label=587]
+	"Kris Bullen (2327)" -> "Robert Pasquali (2329)" [label=79]
+}

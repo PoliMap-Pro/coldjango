@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Kay Nankervis (64)_Calare_2022" {
+	graph [label="Calare 2022" labelloc=t]
+	node [shape=box]
+	"Kay Nankervis (64)" [label="Kay Nankervis (64)
+The Greens"]
+	"Adam John Jannis (67)" [label="Adam John Jannis (67)
+United Australia Party"]
+	"Adam John Jannis (67)" [label="Adam John Jannis (67)
+United Australia Party"]
+	"Adam John Jannis (67)" -> "Kay Nankervis (64)" [label=153]
+}

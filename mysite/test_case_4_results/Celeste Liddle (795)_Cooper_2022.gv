@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Celeste Liddle (795)_Cooper_2022" {
+	graph [label="Cooper 2022" labelloc=t]
+	node [shape=box]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Celeste Liddle (795)" [label="Celeste Liddle (795)
+The Greens"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Jadon Atkinson (797)" -> "Celeste Liddle (795)" [label=6351]
+	"Adam La Rosa (798)" -> "Jadon Atkinson (797)" [label=3351]
+	"Kath Larkin (794)" -> "Adam La Rosa (798)" [label=369]
+	"William Tristan Turner (799)" -> "Kath Larkin (794)" [label=225]
+	"Rabin Bangaar (793)" -> "William Tristan Turner (799)" [label=126]
+	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+	"Adam La Rosa (798)" -> "Celeste Liddle (795)" [label=1731]
+	"Kath Larkin (794)" -> "Celeste Liddle (795)" [label=3503]
+	"William Tristan Turner (799)" -> "Celeste Liddle (795)" [label=129]
+	"Rabin Bangaar (793)" -> "Celeste Liddle (795)" [label=778]
+	"Adrian Whitehead (796)" -> "Celeste Liddle (795)" [label=604]
+	"Adrian Whitehead (796)" -> "William Tristan Turner (799)" [label=41]
+	"Rabin Bangaar (793)" -> "Kath Larkin (794)" [label=803]
+	"Adrian Whitehead (796)" -> "Kath Larkin (794)" [label=289]
+	"William Tristan Turner (799)" -> "Adam La Rosa (798)" [label=2017]
+	"Rabin Bangaar (793)" -> "Adam La Rosa (798)" [label=180]
+	"Adrian Whitehead (796)" -> "Adam La Rosa (798)" [label=66]
+	"Kath Larkin (794)" -> "Jadon Atkinson (797)" [label=150]
+	"William Tristan Turner (799)" -> "Jadon Atkinson (797)" [label=311]
+	"Rabin Bangaar (793)" -> "Jadon Atkinson (797)" [label=191]
+	"Adrian Whitehead (796)" -> "Jadon Atkinson (797)" [label=104]
+}

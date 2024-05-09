@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Matthew Kirwan (762)_Bruce_2022" {
+	graph [label="Bruce 2022" labelloc=t]
+	node [shape=box]
+	"Matthew Kirwan (762)" [label="Matthew Kirwan (762)
+The Greens"]
+	"Christine Skrobo (757)" [label="Christine Skrobo (757)
+Liberal Democrats"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Matthew Kirwan (762)" [label="Matthew Kirwan (762)
+The Greens"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Christine Skrobo (757)" [label="Christine Skrobo (757)
+Liberal Democrats"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Christine Skrobo (757)" -> "Matthew Kirwan (762)" [label=311]
+	"Hayley Deans (759)" -> "Christine Skrobo (757)" [label=956]
+	"Hayley Deans (759)" -> "Matthew Kirwan (762)" [label=382]
+}

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Alex Breskin (934)_Isaacs_2022" {
+	graph [label="Isaacs 2022" labelloc=t]
+	node [shape=box]
+	"Alex Breskin (934)" [label="Alex Breskin (934)
+The Greens"]
+	"Scott Anson Mccamish (936)" [label="Scott Anson Mccamish (936)
+United Australia Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alex Breskin (934)" [label="Alex Breskin (934)
+The Greens"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alex Breskin (934)" [label="Alex Breskin (934)
+The Greens"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alex Breskin (934)" [label="Alex Breskin (934)
+The Greens"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Scott Anson Mccamish (936)" [label="Scott Anson Mccamish (936)
+United Australia Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Scott Anson Mccamish (936)" [label="Scott Anson Mccamish (936)
+United Australia Party"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Scott Anson Mccamish (936)" [label="Scott Anson Mccamish (936)
+United Australia Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
+Liberal Democrats"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
+Pauline Hanson's One Nation"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Alix Livingstone (935)" [label="Alix Livingstone (935)
+Animal Justice Party"]
+	"Scott Anson Mccamish (936)" -> "Alex Breskin (934)" [label=2244]
+	"Sarah O'Donnell (932)" -> "Scott Anson Mccamish (936)" [label=2680]
+	"Boris Sokiransky (930)" -> "Sarah O'Donnell (932)" [label=776]
+	"Alix Livingstone (935)" -> "Boris Sokiransky (930)" [label=179]
+	"Sarah O'Donnell (932)" -> "Alex Breskin (934)" [label=445]
+	"Boris Sokiransky (930)" -> "Alex Breskin (934)" [label=204]
+	"Alix Livingstone (935)" -> "Alex Breskin (934)" [label=1127]
+	"Alix Livingstone (935)" -> "Sarah O'Donnell (932)" [label=131]
+	"Boris Sokiransky (930)" -> "Scott Anson Mccamish (936)" [label=1268]
+	"Alix Livingstone (935)" -> "Scott Anson Mccamish (936)" [label=279]
+}

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Karen Mcaloon (1730)_Ballarat_2019" {
+	graph [label="Ballarat 2019" labelloc=t]
+	node [shape=box]
+	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
+The Greens (VIC)"]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
+The Greens (VIC)"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
+The Greens (VIC)"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
+The Greens (VIC)"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Peter Cozyn (1728)" -> "Karen Mcaloon (1730)" [label=2370]
+	"Bryn Hills (1727)" -> "Peter Cozyn (1728)" [label=1595]
+	"Nick Shady (1729)" -> "Bryn Hills (1727)" [label=639]
+	"Alex Graham (744)" -> "Nick Shady (1729)" [label=1061]
+	"Bryn Hills (1727)" -> "Karen Mcaloon (1730)" [label=1840]
+	"Nick Shady (1729)" -> "Karen Mcaloon (1730)" [label=433]
+	"Alex Graham (744)" -> "Karen Mcaloon (1730)" [label=98]
+	"Alex Graham (744)" -> "Bryn Hills (1727)" [label=120]
+	"Nick Shady (1729)" -> "Peter Cozyn (1728)" [label=846]
+	"Alex Graham (744)" -> "Peter Cozyn (1728)" [label=150]
+}
