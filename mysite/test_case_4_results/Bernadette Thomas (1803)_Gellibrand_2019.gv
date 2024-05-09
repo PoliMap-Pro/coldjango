@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Bernadette Thomas (1803)_Gellibrand_2019" {
+	graph [label="Gellibrand 2019" labelloc=t]
+	node [shape=box]
+	"Bernadette Thomas (1803)" [label="Bernadette Thomas (1803)
+The Greens (VIC)"]
+	"Lisa Maree Bentley (1805)" [label="Lisa Maree Bentley (1805)
+United Australia Party"]
+	"Lisa Maree Bentley (1805)" [label="Lisa Maree Bentley (1805)
+United Australia Party"]
+	"Lisa Maree Bentley (1805)" -> "Bernadette Thomas (1803)" [label=1085]
+}

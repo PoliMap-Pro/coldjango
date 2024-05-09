@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Dan Reid (1388)_Page_2019" {
+	graph [label="Page 2019" labelloc=t]
+	node [shape=box]
+	"Dan Reid (1388)" [label="Dan Reid (1388)
+The Greens"]
+	"Fiona Leviny (1384)" [label="Fiona Leviny (1384)
+Independent"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dan Reid (1388)" [label="Dan Reid (1388)
+The Greens"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dan Reid (1388)" [label="Dan Reid (1388)
+The Greens"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dan Reid (1388)" [label="Dan Reid (1388)
+The Greens"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Fiona Leviny (1384)" [label="Fiona Leviny (1384)
+Independent"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Fiona Leviny (1384)" [label="Fiona Leviny (1384)
+Independent"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Fiona Leviny (1384)" [label="Fiona Leviny (1384)
+Independent"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
+United Australia Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alison Waters (1385)" [label="Alison Waters (1385)
+Animal Justice Party"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Walker (1386)" [label="Peter Walker (1386)
+Christian Democratic Party (Fred Nile Group)"]
+	"Fiona Leviny (1384)" -> "Dan Reid (1388)" [label=3065]
+	"John Damian Mudge (1387)" -> "Fiona Leviny (1384)" [label=1485]
+	"Alison Waters (1385)" -> "John Damian Mudge (1387)" [label=292]
+	"Peter Walker (1386)" -> "Alison Waters (1385)" [label=168]
+	"John Damian Mudge (1387)" -> "Dan Reid (1388)" [label=397]
+	"Alison Waters (1385)" -> "Dan Reid (1388)" [label=1022]
+	"Peter Walker (1386)" -> "Dan Reid (1388)" [label=61]
+	"Peter Walker (1386)" -> "John Damian Mudge (1387)" [label=250]
+	"Alison Waters (1385)" -> "Fiona Leviny (1384)" [label=846]
+	"Peter Walker (1386)" -> "Fiona Leviny (1384)" [label=270]
+}

@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Jonathon Marsden (2600)_Gellibrand_2016" {
+	graph [label="Gellibrand 2016" labelloc=t]
+	node [shape=box]
+	"Jonathon Marsden (2600)" [label="Jonathon Marsden (2600)
+The Greens"]
+	"David Tran (2602)" [label="David Tran (2602)
+Independent"]
+	"David Tran (2602)" [label="David Tran (2602)
+Independent"]
+	"David Tran (2602)" -> "Jonathon Marsden (2600)" [label=1439]
+}

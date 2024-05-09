@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Tyrone D'Lisle (3085)_Dickson_2013" {
+	graph [label="Dickson 2013" labelloc=t]
+	node [shape=box]
+	"Tyrone D'Lisle (3085)" [label="Tyrone D'Lisle (3085)
+The Greens"]
+	"Michael Mcdowell (3084)" [label="Michael Mcdowell (3084)
+Family First"]
+	"Jim Cornwell (3088)" [label="Jim Cornwell (3088)
+Katter's Australian Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Tyrone D'Lisle (3085)" [label="Tyrone D'Lisle (3085)
+The Greens"]
+	"Jim Cornwell (3088)" [label="Jim Cornwell (3088)
+Katter's Australian Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Tyrone D'Lisle (3085)" [label="Tyrone D'Lisle (3085)
+The Greens"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Jim Cornwell (3088)" [label="Jim Cornwell (3088)
+Katter's Australian Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Michael Mcdowell (3084)" [label="Michael Mcdowell (3084)
+Family First"]
+	"Jim Cornwell (3088)" [label="Jim Cornwell (3088)
+Katter's Australian Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Michael Mcdowell (3084)" [label="Michael Mcdowell (3084)
+Family First"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Jim Cornwell (3088)" [label="Jim Cornwell (3088)
+Katter's Australian Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
+Rise Up Australia Party"]
+	"Michael Mcdowell (3084)" -> "Tyrone D'Lisle (3085)" [label=351]
+	"Jim Cornwell (3088)" -> "Michael Mcdowell (3084)" [label=119]
+	"Geoffrey Taylor (3083)" -> "Jim Cornwell (3088)" [label=52]
+	"Jim Cornwell (3088)" -> "Tyrone D'Lisle (3085)" [label=127]
+	"Geoffrey Taylor (3083)" -> "Tyrone D'Lisle (3085)" [label=56]
+	"Geoffrey Taylor (3083)" -> "Michael Mcdowell (3084)" [label=241]
+}

@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Danielle Wheeler (2935)_Macquarie_2013" {
+	graph [label="Macquarie 2013" labelloc=t]
+	node [shape=box]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Philip Daniel Maxwell (2933)" -> "Danielle Wheeler (2935)" [label=1363]
+	"Tony Piper (2931)" -> "Philip Daniel Maxwell (2933)" [label=266]
+	"Mark Littlejohn (2936)" -> "Tony Piper (2931)" [label=100]
+	"Matt Hodgson (2934)" -> "Mark Littlejohn (2936)" [label=154]
+	"Teresa Elaro (2932)" -> "Matt Hodgson (2934)" [label=30]
+	"Tony Piper (2931)" -> "Danielle Wheeler (2935)" [label=160]
+	"Mark Littlejohn (2936)" -> "Danielle Wheeler (2935)" [label=785]
+	"Matt Hodgson (2934)" -> "Danielle Wheeler (2935)" [label=114]
+	"Teresa Elaro (2932)" -> "Danielle Wheeler (2935)" [label=65]
+	"Teresa Elaro (2932)" -> "Mark Littlejohn (2936)" [label=33]
+	"Matt Hodgson (2934)" -> "Tony Piper (2931)" [label=77]
+	"Teresa Elaro (2932)" -> "Tony Piper (2931)" [label=75]
+	"Mark Littlejohn (2936)" -> "Philip Daniel Maxwell (2933)" [label=394]
+	"Matt Hodgson (2934)" -> "Philip Daniel Maxwell (2933)" [label=199]
+	"Teresa Elaro (2932)" -> "Philip Daniel Maxwell (2933)" [label=81]
+}

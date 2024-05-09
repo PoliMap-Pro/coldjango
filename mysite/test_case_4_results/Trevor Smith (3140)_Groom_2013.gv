@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Trevor Smith (3140)_Groom_2013" {
+	graph [label="Groom 2013" labelloc=t]
+	node [shape=box]
+	"Trevor Smith (3140)" [label="Trevor Smith (3140)
+The Greens"]
+	"Chris Whitty (3138)" [label="Chris Whitty (3138)
+Katter's Australian Party"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Trevor Smith (3140)" [label="Trevor Smith (3140)
+The Greens"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Trevor Smith (3140)" [label="Trevor Smith (3140)
+The Greens"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Trevor Smith (3140)" [label="Trevor Smith (3140)
+The Greens"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Chris Whitty (3138)" [label="Chris Whitty (3138)
+Katter's Australian Party"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Chris Whitty (3138)" [label="Chris Whitty (3138)
+Katter's Australian Party"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Chris Whitty (3138)" [label="Chris Whitty (3138)
+Katter's Australian Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Chris Whitty (3138)" -> "Trevor Smith (3140)" [label=390]
+	"Alex J Todd (3143)" -> "Chris Whitty (3138)" [label=429]
+	"Rick Armitage (3141)" -> "Alex J Todd (3143)" [label=564]
+	"Robert Henry Thies (3136)" -> "Rick Armitage (3141)" [label=54]
+	"Alex J Todd (3143)" -> "Trevor Smith (3140)" [label=329]
+	"Rick Armitage (3141)" -> "Trevor Smith (3140)" [label=67]
+	"Robert Henry Thies (3136)" -> "Trevor Smith (3140)" [label=41]
+	"Robert Henry Thies (3136)" -> "Alex J Todd (3143)" [label=64]
+	"Rick Armitage (3141)" -> "Chris Whitty (3138)" [label=100]
+	"Robert Henry Thies (3136)" -> "Chris Whitty (3138)" [label=126]
+}

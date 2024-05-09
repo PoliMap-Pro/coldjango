@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Paul Kennedy (1847)_Jagajaga_2019" {
+	graph [label="Jagajaga 2019" labelloc=t]
+	node [shape=box]
+	"Paul Kennedy (1847)" [label="Paul Kennedy (1847)
+The Greens (VIC)"]
+	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
+United Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Paul Kennedy (1847)" [label="Paul Kennedy (1847)
+The Greens (VIC)"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
+United Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Maria Marcia Rigoni (1845)" -> "Paul Kennedy (1847)" [label=735]
+	"Jeff Truscott (1846)" -> "Maria Marcia Rigoni (1845)" [label=567]
+	"Jeff Truscott (1846)" -> "Paul Kennedy (1847)" [label=160]
+}

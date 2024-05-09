@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Lauren Edwards (1264)_Cowper_2019" {
+	graph [label="Cowper 2019" labelloc=t]
+	node [shape=box]
+	"Lauren Edwards (1264)" [label="Lauren Edwards (1264)
+The Greens"]
+	"Alexander Stewart (1261)" [label="Alexander Stewart (1261)
+United Australia Party"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Lauren Edwards (1264)" [label="Lauren Edwards (1264)
+The Greens"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Lauren Edwards (1264)" [label="Lauren Edwards (1264)
+The Greens"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Lauren Edwards (1264)" [label="Lauren Edwards (1264)
+The Greens"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Alexander Stewart (1261)" [label="Alexander Stewart (1261)
+United Australia Party"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Alexander Stewart (1261)" [label="Alexander Stewart (1261)
+United Australia Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Alexander Stewart (1261)" [label="Alexander Stewart (1261)
+United Australia Party"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Alexander Stewart (1261)" -> "Lauren Edwards (1264)" [label=438]
+	"Kellie Pearce (1265)" -> "Alexander Stewart (1261)" [label=292]
+	"Ruth Meads (1260)" -> "Kellie Pearce (1265)" [label=166]
+	"Allan Green (1266)" -> "Ruth Meads (1260)" [label=84]
+	"Kellie Pearce (1265)" -> "Lauren Edwards (1264)" [label=1125]
+	"Ruth Meads (1260)" -> "Lauren Edwards (1264)" [label=62]
+	"Allan Green (1266)" -> "Lauren Edwards (1264)" [label=215]
+	"Allan Green (1266)" -> "Kellie Pearce (1265)" [label=360]
+	"Ruth Meads (1260)" -> "Alexander Stewart (1261)" [label=332]
+	"Allan Green (1266)" -> "Alexander Stewart (1261)" [label=99]
+}

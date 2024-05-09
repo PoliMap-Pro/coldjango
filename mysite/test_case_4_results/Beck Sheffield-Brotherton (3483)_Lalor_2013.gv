@@ -1,0 +1,1811 @@
+// House preference flow
+digraph "Beck Sheffield-Brotherton (3483)_Lalor_2013" {
+	graph [label="Lalor 2013" labelloc=t]
+	node [shape=box]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Beck Sheffield-Brotherton (3483)" [label="Beck Sheffield-Brotherton (3483)
+The Greens"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" [label="Joe Zappia (3484)
+Palmer United Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Michael Freeman (3481)" [label="Michael Freeman (3481)
+DLP Democratic Labour"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
+Family First Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Angel Harwood (3485)" [label="Angel Harwood (3485)
+Sex Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Nathan Mullins (3482)" [label="Nathan Mullins (3482)
+Independent"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Geoff Rogers (3479)" [label="Geoff Rogers (3479)
+Australian Christians"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Jonathan Page (3480)" [label="Jonathan Page (3480)
+Stable Population Party"]
+	"Joe Zappia (3484)" -> "Beck Sheffield-Brotherton (3483)" [label=3291]
+	"Michael Freeman (3481)" -> "Joe Zappia (3484)" [label=1149]
+	"Daryl Andrew Pollard (3487)" -> "Michael Freeman (3481)" [label=733]
+	"Angel Harwood (3485)" -> "Daryl Andrew Pollard (3487)" [label=536]
+	"Marion Vale (2657)" -> "Angel Harwood (3485)" [label=108]
+	"Nathan Mullins (3482)" -> "Marion Vale (2657)" [label=158]
+	"Geoff Rogers (3479)" -> "Nathan Mullins (3482)" [label=87]
+	"Jonathan Page (3480)" -> "Geoff Rogers (3479)" [label=60]
+	"Michael Freeman (3481)" -> "Beck Sheffield-Brotherton (3483)" [label=1975]
+	"Daryl Andrew Pollard (3487)" -> "Beck Sheffield-Brotherton (3483)" [label=589]
+	"Angel Harwood (3485)" -> "Beck Sheffield-Brotherton (3483)" [label=658]
+	"Marion Vale (2657)" -> "Beck Sheffield-Brotherton (3483)" [label=165]
+	"Nathan Mullins (3482)" -> "Beck Sheffield-Brotherton (3483)" [label=348]
+	"Geoff Rogers (3479)" -> "Beck Sheffield-Brotherton (3483)" [label=73]
+	"Jonathan Page (3480)" -> "Beck Sheffield-Brotherton (3483)" [label=39]
+	"Jonathan Page (3480)" -> "Nathan Mullins (3482)" [label=46]
+	"Geoff Rogers (3479)" -> "Marion Vale (2657)" [label=263]
+	"Jonathan Page (3480)" -> "Marion Vale (2657)" [label=65]
+	"Nathan Mullins (3482)" -> "Angel Harwood (3485)" [label=170]
+	"Geoff Rogers (3479)" -> "Angel Harwood (3485)" [label=22]
+	"Jonathan Page (3480)" -> "Angel Harwood (3485)" [label=21]
+	"Marion Vale (2657)" -> "Daryl Andrew Pollard (3487)" [label=230]
+	"Nathan Mullins (3482)" -> "Daryl Andrew Pollard (3487)" [label=136]
+	"Geoff Rogers (3479)" -> "Daryl Andrew Pollard (3487)" [label=331]
+	"Jonathan Page (3480)" -> "Daryl Andrew Pollard (3487)" [label=20]
+	"Angel Harwood (3485)" -> "Michael Freeman (3481)" [label=270]
+	"Marion Vale (2657)" -> "Michael Freeman (3481)" [label=1258]
+	"Nathan Mullins (3482)" -> "Michael Freeman (3481)" [label=233]
+	"Geoff Rogers (3479)" -> "Michael Freeman (3481)" [label=406]
+	"Jonathan Page (3480)" -> "Michael Freeman (3481)" [label=30]
+	"Daryl Andrew Pollard (3487)" -> "Joe Zappia (3484)" [label=534]
+	"Angel Harwood (3485)" -> "Joe Zappia (3484)" [label=618]
+	"Marion Vale (2657)" -> "Joe Zappia (3484)" [label=181]
+	"Nathan Mullins (3482)" -> "Joe Zappia (3484)" [label=470]
+	"Geoff Rogers (3479)" -> "Joe Zappia (3484)" [label=58]
+	"Jonathan Page (3480)" -> "Joe Zappia (3484)" [label=28]
+}

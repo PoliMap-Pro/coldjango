@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Rachael Jacobs (140)_Brisbane_2013" {
+	graph [label="Brisbane 2013" labelloc=t]
+	node [shape=box]
+	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
+The Greens"]
+	"Veronica Mary Ann Ford (3071)" [label="Veronica Mary Ann Ford (3071)
+Palmer United Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
+The Greens"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
+The Greens"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
+The Greens"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
+The Greens"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Veronica Mary Ann Ford (3071)" [label="Veronica Mary Ann Ford (3071)
+Palmer United Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Veronica Mary Ann Ford (3071)" [label="Veronica Mary Ann Ford (3071)
+Palmer United Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Veronica Mary Ann Ford (3071)" [label="Veronica Mary Ann Ford (3071)
+Palmer United Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Veronica Mary Ann Ford (3071)" [label="Veronica Mary Ann Ford (3071)
+Palmer United Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Connie Cicchini (3070)" [label="Connie Cicchini (3070)
+Katter's Australian Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Tony Rose (3068)" [label="Tony Rose (3068)
+Secular Party of Australia"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"Veronica Mary Ann Ford (3071)" -> "Rachael Jacobs (140)" [label=1303]
+	"Connie Cicchini (3070)" -> "Veronica Mary Ann Ford (3071)" [label=558]
+	"Tony Rose (3068)" -> "Connie Cicchini (3070)" [label=95]
+	"Sharyn Joyner (3072)" -> "Tony Rose (3068)" [label=43]
+	"John Roles (3067)" -> "Sharyn Joyner (3072)" [label=19]
+	"Connie Cicchini (3070)" -> "Rachael Jacobs (140)" [label=160]
+	"Tony Rose (3068)" -> "Rachael Jacobs (140)" [label=302]
+	"Sharyn Joyner (3072)" -> "Rachael Jacobs (140)" [label=131]
+	"John Roles (3067)" -> "Rachael Jacobs (140)" [label=74]
+	"John Roles (3067)" -> "Tony Rose (3068)" [label=281]
+	"Sharyn Joyner (3072)" -> "Connie Cicchini (3070)" [label=96]
+	"John Roles (3067)" -> "Connie Cicchini (3070)" [label=43]
+	"Tony Rose (3068)" -> "Veronica Mary Ann Ford (3071)" [label=81]
+	"Sharyn Joyner (3072)" -> "Veronica Mary Ann Ford (3071)" [label=121]
+	"John Roles (3067)" -> "Veronica Mary Ann Ford (3071)" [label=29]
+}

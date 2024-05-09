@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Emmeline Chidley (1593)_Maranoa_2019" {
+	graph [label="Maranoa 2019" labelloc=t]
+	node [shape=box]
+	"Emmeline Chidley (1593)" [label="Emmeline Chidley (1593)
+The Greens"]
+	"Darren Lee Christiansen (1591)" [label="Darren Lee Christiansen (1591)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Darren Lee Christiansen (1591)" [label="Darren Lee Christiansen (1591)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Darren Lee Christiansen (1591)" -> "Emmeline Chidley (1593)" [label=76]
+}

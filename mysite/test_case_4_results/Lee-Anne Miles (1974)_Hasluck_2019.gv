@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Lee-Anne Miles (1974)_Hasluck_2019" {
+	graph [label="Hasluck 2019" labelloc=t]
+	node [shape=box]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Tim Orr (1972)" -> "Lee-Anne Miles (1974)" [label=2034]
+	"Fiona White-Hartig (1969)" -> "Tim Orr (1972)" [label=1084]
+	"Mike Dale (1973)" -> "Fiona White-Hartig (1969)" [label=249]
+	"Brady John Williams (1971)" -> "Mike Dale (1973)" [label=95]
+	"Stephen Phelan (1078)" -> "Brady John Williams (1971)" [label=78]
+	"Fiona White-Hartig (1969)" -> "Lee-Anne Miles (1974)" [label=606]
+	"Mike Dale (1973)" -> "Lee-Anne Miles (1974)" [label=331]
+	"Brady John Williams (1971)" -> "Lee-Anne Miles (1974)" [label=128]
+	"Stephen Phelan (1078)" -> "Lee-Anne Miles (1974)" [label=231]
+	"Stephen Phelan (1078)" -> "Mike Dale (1973)" [label=130]
+	"Brady John Williams (1971)" -> "Fiona White-Hartig (1969)" [label=159]
+	"Stephen Phelan (1078)" -> "Fiona White-Hartig (1969)" [label=334]
+	"Mike Dale (1973)" -> "Tim Orr (1972)" [label=768]
+	"Brady John Williams (1971)" -> "Tim Orr (1972)" [label=195]
+	"Stephen Phelan (1078)" -> "Tim Orr (1972)" [label=153]
+}

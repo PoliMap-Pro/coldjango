@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Sue Wynn (2861)_Dobell_2013" {
+	graph [label="Dobell 2013" labelloc=t]
+	node [shape=box]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Bullet Train For Australia"]
+	"Craig Thomson (2858)" -> "Sue Wynn (2861)" [label=833]
+	"Kate Angelique Mcgill (2860)" -> "Craig Thomson (2858)" [label=326]
+	"Hadden Ervin (957)" -> "Kate Angelique Mcgill (2860)" [label=121]
+	"Greg Owen (2857)" -> "Hadden Ervin (957)" [label=20]
+	"Christian Kunde (2096)" -> "Greg Owen (2857)" [label=54]
+	"Kate Angelique Mcgill (2860)" -> "Sue Wynn (2861)" [label=420]
+	"Hadden Ervin (957)" -> "Sue Wynn (2861)" [label=66]
+	"Greg Owen (2857)" -> "Sue Wynn (2861)" [label=48]
+	"Christian Kunde (2096)" -> "Sue Wynn (2861)" [label=77]
+	"Christian Kunde (2096)" -> "Hadden Ervin (957)" [label=21]
+	"Greg Owen (2857)" -> "Kate Angelique Mcgill (2860)" [label=56]
+	"Christian Kunde (2096)" -> "Kate Angelique Mcgill (2860)" [label=83]
+	"Hadden Ervin (957)" -> "Craig Thomson (2858)" [label=61]
+	"Greg Owen (2857)" -> "Craig Thomson (2858)" [label=415]
+	"Christian Kunde (2096)" -> "Craig Thomson (2858)" [label=86]
+}

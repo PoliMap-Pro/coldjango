@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Valerie Weier (2368)_Kennedy_2016" {
+	graph [label="Kennedy 2016" labelloc=t]
+	node [shape=box]
+	"Valerie Weier (2368)" [label="Valerie Weier (2368)
+The Greens"]
+	"Donna Maree Gallehawk (2369)" [label="Donna Maree Gallehawk (2369)
+Family First"]
+	"Donna Maree Gallehawk (2369)" [label="Donna Maree Gallehawk (2369)
+Family First"]
+	"Donna Maree Gallehawk (2369)" -> "Valerie Weier (2368)" [label=746]
+}

@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Paul Bambrick (459)_Capricornia_2013" {
+	graph [label="Capricornia 2013" labelloc=t]
+	node [shape=box]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+The Greens"]
+	"Bruce Diamond (3077)" [label="Bruce Diamond (3077)
+"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+The Greens"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Bruce Diamond (3077)" [label="Bruce Diamond (3077)
+"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Bruce Diamond (3077)" -> "Paul Bambrick (459)" [label=258]
+	"Paul Lewis (3075)" -> "Bruce Diamond (3077)" [label=39]
+	"Paul Lewis (3075)" -> "Paul Bambrick (459)" [label=50]
+}

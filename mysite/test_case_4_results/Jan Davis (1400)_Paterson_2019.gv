@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Jan Davis (1400)_Paterson_2019" {
+	graph [label="Paterson 2019" labelloc=t]
+	node [shape=box]
+	"Jan Davis (1400)" [label="Jan Davis (1400)
+The Greens"]
+	"Graham Burston (1399)" [label="Graham Burston (1399)
+United Australia Party"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jan Davis (1400)" [label="Jan Davis (1400)
+The Greens"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graham Burston (1399)" [label="Graham Burston (1399)
+United Australia Party"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graham Burston (1399)" -> "Jan Davis (1400)" [label=473]
+	"Christopher Arthur Vale (1401)" -> "Graham Burston (1399)" [label=237]
+	"Christopher Arthur Vale (1401)" -> "Jan Davis (1400)" [label=213]
+}

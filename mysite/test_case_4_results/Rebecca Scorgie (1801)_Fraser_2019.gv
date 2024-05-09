@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Rebecca Scorgie (1801)_Fraser_2019" {
+	graph [label="Fraser 2019" labelloc=t]
+	node [shape=box]
+	"Rebecca Scorgie (1801)" [label="Rebecca Scorgie (1801)
+The Greens (VIC)"]
+	"Van Tran (1802)" [label="Van Tran (1802)
+Independent"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Rebecca Scorgie (1801)" [label="Rebecca Scorgie (1801)
+The Greens (VIC)"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Van Tran (1802)" [label="Van Tran (1802)
+Independent"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Van Tran (1802)" -> "Rebecca Scorgie (1801)" [label=1773]
+	"Tony Dobran (884)" -> "Van Tran (1802)" [label=258]
+	"Tony Dobran (884)" -> "Rebecca Scorgie (1801)" [label=283]
+}

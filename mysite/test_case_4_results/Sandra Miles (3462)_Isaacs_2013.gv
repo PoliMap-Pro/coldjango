@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Sandra Miles (3462)_Isaacs_2013" {
+	graph [label="Isaacs 2013" labelloc=t]
+	node [shape=box]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Sandra Miles (3462)" [label="Sandra Miles (3462)
+The Greens"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" [label="John Elliott (3458)
+Family First Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Avtar Singh Gill (3461)" [label="Avtar Singh Gill (3461)
+Palmer United Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Laith Graham (3463)" [label="Laith Graham (3463)
+Sex Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"James Leach (3459)" [label="James Leach (3459)
+DLP Democratic Labour"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
+Rise Up Australia Party"]
+	"John Elliott (3458)" -> "Sandra Miles (3462)" [label=1165]
+	"Avtar Singh Gill (3461)" -> "John Elliott (3458)" [label=1163]
+	"Laith Graham (3463)" -> "Avtar Singh Gill (3461)" [label=389]
+	"James Leach (3459)" -> "Laith Graham (3463)" [label=54]
+	"Karen Dobby (2582)" -> "James Leach (3459)" [label=139]
+	"Nadia Seaman (3460)" -> "Karen Dobby (2582)" [label=73]
+	"Avtar Singh Gill (3461)" -> "Sandra Miles (3462)" [label=577]
+	"Laith Graham (3463)" -> "Sandra Miles (3462)" [label=705]
+	"James Leach (3459)" -> "Sandra Miles (3462)" [label=107]
+	"Karen Dobby (2582)" -> "Sandra Miles (3462)" [label=60]
+	"Nadia Seaman (3460)" -> "Sandra Miles (3462)" [label=43]
+	"Nadia Seaman (3460)" -> "James Leach (3459)" [label=142]
+	"Karen Dobby (2582)" -> "Laith Graham (3463)" [label=37]
+	"Nadia Seaman (3460)" -> "Laith Graham (3463)" [label=28]
+	"James Leach (3459)" -> "Avtar Singh Gill (3461)" [label=182]
+	"Karen Dobby (2582)" -> "Avtar Singh Gill (3461)" [label=75]
+	"Nadia Seaman (3460)" -> "Avtar Singh Gill (3461)" [label=57]
+	"Laith Graham (3463)" -> "John Elliott (3458)" [label=321]
+	"James Leach (3459)" -> "John Elliott (3458)" [label=663]
+	"Karen Dobby (2582)" -> "John Elliott (3458)" [label=252]
+	"Nadia Seaman (3460)" -> "John Elliott (3458)" [label=118]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "David Paull (1390)_Parkes_2019" {
+	graph [label="Parkes 2019" labelloc=t]
+	node [shape=box]
+	"David Paull (1390)" [label="David Paull (1390)
+The Greens"]
+}

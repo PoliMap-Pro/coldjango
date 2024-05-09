@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Jayden Rivera (194)_Macarthur_2019" {
+	graph [label="Macarthur 2019" labelloc=t]
+	node [shape=box]
+	"Jayden Rivera (194)" [label="Jayden Rivera (194)
+The Greens"]
+	"James Gent (1350)" [label="James Gent (1350)
+Christian Democratic Party (Fred Nile Group)"]
+	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
+United Australia Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Jayden Rivera (194)" [label="Jayden Rivera (194)
+The Greens"]
+	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
+United Australia Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Jayden Rivera (194)" [label="Jayden Rivera (194)
+The Greens"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
+United Australia Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"James Gent (1350)" [label="James Gent (1350)
+Christian Democratic Party (Fred Nile Group)"]
+	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
+United Australia Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"James Gent (1350)" [label="James Gent (1350)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
+United Australia Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+	"James Gent (1350)" -> "Jayden Rivera (194)" [label=283]
+	"Nathan John Murphy (1354)" -> "James Gent (1350)" [label=165]
+	"Matt Stellino (1351)" -> "Nathan John Murphy (1354)" [label=147]
+	"Nathan John Murphy (1354)" -> "Jayden Rivera (194)" [label=350]
+	"Matt Stellino (1351)" -> "Jayden Rivera (194)" [label=638]
+	"Matt Stellino (1351)" -> "James Gent (1350)" [label=157]
+}

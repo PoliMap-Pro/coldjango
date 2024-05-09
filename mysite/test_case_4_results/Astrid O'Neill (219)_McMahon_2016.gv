@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Astrid O'Neill (219)_McMahon_2016" {
+	graph [label="McMahon 2016" labelloc=t]
+	node [shape=box]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
+Independent"]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
+Independent"]
+	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
+Independent"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
+Independent"]
+	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
+Independent"]
+	"Victor Waterson (37)" -> "Astrid O'Neill (219)" [label=400]
+	"Fadhel Shamasha (2166)" -> "Victor Waterson (37)" [label=182]
+	"Fadhel Shamasha (2166)" -> "Astrid O'Neill (219)" [label=203]
+}

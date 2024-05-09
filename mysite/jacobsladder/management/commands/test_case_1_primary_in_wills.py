@@ -23,7 +23,7 @@ class Command(BaseCommand):
            "-234.htm) and\n" \
            "('ALP', 2004): 37537, ('GRN', 2004): 8384 (https://results." \
            "aec.gov.au/12246/results/HouseDivisionFirstPrefsByVoteType-12246" \
-           "-234.htm)"
+           "-234.htm)\n\n"
 
     AEC_RESULTS = {('ALP', 2022): 25643, ('GRN', 2022): 18503,
                    ('ALP', 2019): 34021, ('GRN', 2019): 19994,
@@ -36,7 +36,6 @@ class Command(BaseCommand):
     def handle(self, *arguments, **keywordarguments):
         wills = models.Seat.objects.get(name="Wills", state="vic")
         print(Command.help)
-        print("\n")
         [Command.check_election(election, wills) for election in
          models.HouseElection.objects.all().order_by('election_date')]
 

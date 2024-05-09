@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Caroline Perks (1183)_Perth_2019" {
+	graph [label="Perth 2019" labelloc=t]
+	node [shape=box]
+	"Caroline Perks (1183)" [label="Caroline Perks (1183)
+The Greens (WA)"]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Caroline Perks (1183)" [label="Caroline Perks (1183)
+The Greens (WA)"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Caroline Perks (1183)" [label="Caroline Perks (1183)
+The Greens (WA)"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Caroline Perks (1183)" [label="Caroline Perks (1183)
+The Greens (WA)"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Caroline Perks (1183)" [label="Caroline Perks (1183)
+The Greens (WA)"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Mel Lownds (2001)" -> "Caroline Perks (1183)" [label=985]
+	"Jane Boxall (1997)" -> "Mel Lownds (2001)" [label=379]
+	"Chas Hopkins (2000)" -> "Jane Boxall (1997)" [label=237]
+	"Gary Davies (1999)" -> "Chas Hopkins (2000)" [label=74]
+	"Curtis Greening (2002)" -> "Gary Davies (1999)" [label=133]
+	"Jane Boxall (1997)" -> "Caroline Perks (1183)" [label=614]
+	"Chas Hopkins (2000)" -> "Caroline Perks (1183)" [label=225]
+	"Gary Davies (1999)" -> "Caroline Perks (1183)" [label=531]
+	"Curtis Greening (2002)" -> "Caroline Perks (1183)" [label=169]
+	"Curtis Greening (2002)" -> "Chas Hopkins (2000)" [label=28]
+	"Gary Davies (1999)" -> "Jane Boxall (1997)" [label=335]
+	"Curtis Greening (2002)" -> "Jane Boxall (1997)" [label=74]
+	"Chas Hopkins (2000)" -> "Mel Lownds (2001)" [label=484]
+	"Gary Davies (1999)" -> "Mel Lownds (2001)" [label=52]
+	"Curtis Greening (2002)" -> "Mel Lownds (2001)" [label=80]
+}

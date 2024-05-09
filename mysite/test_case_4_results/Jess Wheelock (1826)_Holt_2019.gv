@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Jess Wheelock (1826)_Holt_2019" {
+	graph [label="Holt 2019" labelloc=t]
+	node [shape=box]
+	"Jess Wheelock (1826)" [label="Jess Wheelock (1826)
+The Greens (VIC)"]
+	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
+United Australia Party"]
+	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
+United Australia Party"]
+	"Jatinder Singh (1827)" -> "Jess Wheelock (1826)" [label=1355]
+}

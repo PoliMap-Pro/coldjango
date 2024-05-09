@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Adam Collins (3587)_Cowan_2013" {
+	graph [label="Cowan 2013" labelloc=t]
+	node [shape=box]
+	"Adam Collins (3587)" [label="Adam Collins (3587)
+The Greens (WA)"]
+	"Vimal Kumar Sharma (3589)" [label="Vimal Kumar Sharma (3589)
+Palmer United Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Adam Collins (3587)" [label="Adam Collins (3587)
+The Greens (WA)"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Adam Collins (3587)" [label="Adam Collins (3587)
+The Greens (WA)"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Adam Collins (3587)" [label="Adam Collins (3587)
+The Greens (WA)"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Vimal Kumar Sharma (3589)" [label="Vimal Kumar Sharma (3589)
+Palmer United Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Vimal Kumar Sharma (3589)" [label="Vimal Kumar Sharma (3589)
+Palmer United Party"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Vimal Kumar Sharma (3589)" [label="Vimal Kumar Sharma (3589)
+Palmer United Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Australian Christians"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
+Family First Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Rise Up Australia Party"]
+	"Vimal Kumar Sharma (3589)" -> "Adam Collins (3587)" [label=1716]
+	"David Kingston (2379)" -> "Vimal Kumar Sharma (3589)" [label=313]
+	"Che Tam Nguyen (3588)" -> "David Kingston (2379)" [label=283]
+	"Sheila Mundy (1942)" -> "Che Tam Nguyen (3588)" [label=114]
+	"David Kingston (2379)" -> "Adam Collins (3587)" [label=305]
+	"Che Tam Nguyen (3588)" -> "Adam Collins (3587)" [label=372]
+	"Sheila Mundy (1942)" -> "Adam Collins (3587)" [label=129]
+	"Sheila Mundy (1942)" -> "David Kingston (2379)" [label=228]
+	"Che Tam Nguyen (3588)" -> "Vimal Kumar Sharma (3589)" [label=248]
+	"Sheila Mundy (1942)" -> "Vimal Kumar Sharma (3589)" [label=119]
+}

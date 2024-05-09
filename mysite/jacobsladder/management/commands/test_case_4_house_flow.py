@@ -8,31 +8,35 @@ from ... import models
 
 class Command(BaseCommand):
     N = 200
-    YEARS = (2022, 2019, 2016, 2013, 2010, 2007, 2004, )
+    #YEARS = (2022, 2016, )
+    YEARS = (2022, 2019, 2016, 2013, 2010, 2007, 2004,)
+    PARTY_ABBREVIATION = 'GRN'
+    NODE_SHAPE = 'box'
+    RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
     PREF = models.CandidatePreference.objects
 
     help = "Look at these N seats. How do preferences flow from the Libs to " \
            "ALP/Greens in the 2016 election, and how about 2022 (where the " \
            "Lib recommendation was different?)\n\n"
 
-
-
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        print("\n")
         seat_list = list(models.Seat.objects.all().order_by('name'))[:Command.N]
         for year in Command.YEARS:
             election = models.HouseElection.objects.get(
                 election_date=datetime(year=year, month=1, day=1))
             print(election)
+            print()
             for seat in seat_list:
                 print(seat)
+                print()
                 pref_rounds = list(models.PreferenceRound.objects.filter(
                     election=election, seat=seat).order_by('round_number'))
                 representing_candidates = [
                     representation.person.candidate.pk for representation in
                     models.Representation.objects.filter(
-                        election=election, party__abbreviation__iexact='GRN')]
+                        election=election,
+                        party__abbreviation__iexact=Command.PARTY_ABBREVIATION)]
                 targets = [contention.candidate for contention in
                            models.Contention.objects.filter(
                                election=election, seat=seat
@@ -43,9 +47,10 @@ class Command(BaseCommand):
                     dot = graphviz.Digraph(
                         f"{str(target)}_{seat.name}_{year}", format='png',
                         comment='House preference flow',
-                        node_attr={'shape': 'box'},
+                        node_attr={'shape': Command.NODE_SHAPE},
                         graph_attr={'labelloc': 't',
-                                    'label': f"{seat.name} {year}" })
+                                    'label': f"{seat.name} {year}" },
+                        engine='dot')
                     edges = []
                     nodes = []
                     queue = [targets[0]]
@@ -57,8 +62,7 @@ class Command(BaseCommand):
                             queue += new_targets
                     [dot.node(*node) for node in nodes]
                     [dot.edge(*edge) for edge in edges]
-                    dot.render(directory=os.path.join(".",
-                                                      "test_case_4_results"))
+                    dot.render(directory=Command.RESULTS_DIRECTORY)
 
     @staticmethod
     def add_candidate(edges, election, nodes, pref_rounds, seat, target):
@@ -102,7 +106,7 @@ class Command(BaseCommand):
                         candidate=last_pref.source_candidate,
                         round=pref_rounds[trail_index])
                     proximate = last_pref.votes_received - \
-                                previous.votes_received
+                        previous.votes_received
                     trail.append((last_pref.candidate,
                                   proximate,
                                   last_pref.round.round_number), )
@@ -128,7 +132,6 @@ class Command(BaseCommand):
                             edges.append(new_edge)
                     last_candidate = node_name
                 print(trail)
-        print()
         return result
 
 

@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Jodie Moffat (1089)_Canning_2019" {
+	graph [label="Canning 2019" labelloc=t]
+	node [shape=box]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Clarke (1939)" -> "Jodie Moffat (1089)" [label=537]
+	"Steve Veevers (1937)" -> "Brett Clarke (1939)" [label=292]
+	"Jamie Van Burgel (1936)" -> "Steve Veevers (1937)" [label=109]
+	"Malcolm Phillip Heffernan (25)" -> "Jamie Van Burgel (1936)" [label=107]
+	"Steve Veevers (1937)" -> "Jodie Moffat (1089)" [label=199]
+	"Jamie Van Burgel (1936)" -> "Jodie Moffat (1089)" [label=84]
+	"Malcolm Phillip Heffernan (25)" -> "Jodie Moffat (1089)" [label=65]
+	"Malcolm Phillip Heffernan (25)" -> "Steve Veevers (1937)" [label=93]
+	"Jamie Van Burgel (1936)" -> "Brett Clarke (1939)" [label=107]
+	"Malcolm Phillip Heffernan (25)" -> "Brett Clarke (1939)" [label=152]
+}

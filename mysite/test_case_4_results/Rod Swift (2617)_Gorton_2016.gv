@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Rod Swift (2617)_Gorton_2016" {
+	graph [label="Gorton 2016" labelloc=t]
+	node [shape=box]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+}

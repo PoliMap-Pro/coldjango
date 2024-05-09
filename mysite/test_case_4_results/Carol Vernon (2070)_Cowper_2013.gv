@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Carol Vernon (2070)_Cowper_2013" {
+	graph [label="Cowper 2013" labelloc=t]
+	node [shape=box]
+	"Carol Vernon (2070)" [label="Carol Vernon (2070)
+The Greens"]
+	"Rodney Norman Jeanneret (2850)" [label="Rodney Norman Jeanneret (2850)
+Palmer United Party"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
+	"Carol Vernon (2070)" [label="Carol Vernon (2070)
+The Greens"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Norman Jeanneret (2850)" [label="Rodney Norman Jeanneret (2850)
+Palmer United Party"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Norman Jeanneret (2850)" -> "Carol Vernon (2070)" [label=1094]
+	"Bethany Mcalpine (2849)" -> "Rodney Norman Jeanneret (2850)" [label=318]
+	"Bethany Mcalpine (2849)" -> "Carol Vernon (2070)" [label=258]
+}

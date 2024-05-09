@@ -1,0 +1,113 @@
+// House preference flow
+digraph "David Lenton (2911)_Lindsay_2013" {
+	graph [label="Lindsay 2013" labelloc=t]
+	node [shape=box]
+	"David Lenton (2911)" [label="David Lenton (2911)
+The Greens"]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"David Lenton (2911)" [label="David Lenton (2911)
+The Greens"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"David Lenton (2911)" [label="David Lenton (2911)
+The Greens"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"David Lenton (2911)" [label="David Lenton (2911)
+The Greens"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
+One Nation"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
+	"Andrew Green (2915)" -> "David Lenton (2911)" [label=275]
+	"Jeffrey Wayne Lawson (319)" -> "Andrew Green (2915)" [label=208]
+	"Mick Saunders (2912)" -> "Jeffrey Wayne Lawson (319)" [label=216]
+	"Geoff Brown (1340)" -> "Mick Saunders (2912)" [label=43]
+	"Jeffrey Wayne Lawson (319)" -> "David Lenton (2911)" [label=782]
+	"Mick Saunders (2912)" -> "David Lenton (2911)" [label=87]
+	"Geoff Brown (1340)" -> "David Lenton (2911)" [label=69]
+	"Geoff Brown (1340)" -> "Jeffrey Wayne Lawson (319)" [label=56]
+	"Mick Saunders (2912)" -> "Andrew Green (2915)" [label=38]
+	"Geoff Brown (1340)" -> "Andrew Green (2915)" [label=32]
+}

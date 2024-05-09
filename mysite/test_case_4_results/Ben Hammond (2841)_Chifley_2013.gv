@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Ben Hammond (2841)_Chifley_2013" {
+	graph [label="Chifley 2013" labelloc=t]
+	node [shape=box]
+	"Ben Hammond (2841)" [label="Ben Hammond (2841)
+The Greens"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ben Hammond (2841)" [label="Ben Hammond (2841)
+The Greens"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ben Hammond (2841)" [label="Ben Hammond (2841)
+The Greens"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ben Hammond (2841)" [label="Ben Hammond (2841)
+The Greens"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
+One Nation"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Michael Wright (2838)" [label="Michael Wright (2838)
+Democratic Labour Party (DLP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Ammar Khan (70)" -> "Ben Hammond (2841)" [label=218]
+	"Elizabeth May Power (2842)" -> "Ammar Khan (70)" [label=116]
+	"Michael Wright (2838)" -> "Elizabeth May Power (2842)" [label=52]
+	"Alex Norwick (2840)" -> "Michael Wright (2838)" [label=43]
+	"Elizabeth May Power (2842)" -> "Ben Hammond (2841)" [label=185]
+	"Michael Wright (2838)" -> "Ben Hammond (2841)" [label=80]
+	"Alex Norwick (2840)" -> "Ben Hammond (2841)" [label=64]
+	"Alex Norwick (2840)" -> "Elizabeth May Power (2842)" [label=101]
+	"Michael Wright (2838)" -> "Ammar Khan (70)" [label=93]
+	"Alex Norwick (2840)" -> "Ammar Khan (70)" [label=45]
+}

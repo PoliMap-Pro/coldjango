@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Petrina Maizey (3089)_Fadden_2013" {
+	graph [label="Fadden 2013" labelloc=t]
+	node [shape=box]
+	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
+The Greens"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
+The Greens"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
+The Greens"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
+The Greens"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Jeremy John Fredericks (3090)" -> "Petrina Maizey (3089)" [label=482]
+	"Billy Lawrence (3092)" -> "Jeremy John Fredericks (3090)" [label=141]
+	"Maurie Carroll (3093)" -> "Billy Lawrence (3092)" [label=121]
+	"Stewart Boyd (3094)" -> "Maurie Carroll (3093)" [label=80]
+	"Billy Lawrence (3092)" -> "Petrina Maizey (3089)" [label=132]
+	"Maurie Carroll (3093)" -> "Petrina Maizey (3089)" [label=163]
+	"Stewart Boyd (3094)" -> "Petrina Maizey (3089)" [label=41]
+	"Stewart Boyd (3094)" -> "Billy Lawrence (3092)" [label=50]
+	"Maurie Carroll (3093)" -> "Jeremy John Fredericks (3090)" [label=88]
+	"Stewart Boyd (3094)" -> "Jeremy John Fredericks (3090)" [label=60]
+}

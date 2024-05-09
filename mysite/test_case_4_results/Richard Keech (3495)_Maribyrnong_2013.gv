@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Richard Keech (3495)_Maribyrnong_2013" {
+	graph [label="Maribyrnong 2013" labelloc=t]
+	node [shape=box]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Richard Keech (3495)" [label="Richard Keech (3495)
+The Greens"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" [label="Philip William Cutler (3497)
+Palmer United Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Amy Myers (3499)" [label="Amy Myers (3499)
+Sex Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Marguerita Kavanagh (3498)" [label="Marguerita Kavanagh (3498)
+DLP Democratic Labour"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Philip William Cutler (3497)" -> "Richard Keech (3495)" [label=967]
+	"Amy Myers (3499)" -> "Philip William Cutler (3497)" [label=532]
+	"Marguerita Kavanagh (3498)" -> "Amy Myers (3499)" [label=136]
+	"Hayleigh Carlson (3500)" -> "Marguerita Kavanagh (3498)" [label=141]
+	"Joe Paterno (3496)" -> "Hayleigh Carlson (3500)" [label=218]
+	"Jeff Truscott (1846)" -> "Joe Paterno (3496)" [label=19]
+	"Amy Myers (3499)" -> "Richard Keech (3495)" [label=947]
+	"Marguerita Kavanagh (3498)" -> "Richard Keech (3495)" [label=272]
+	"Hayleigh Carlson (3500)" -> "Richard Keech (3495)" [label=229]
+	"Joe Paterno (3496)" -> "Richard Keech (3495)" [label=167]
+	"Jeff Truscott (1846)" -> "Richard Keech (3495)" [label=50]
+	"Jeff Truscott (1846)" -> "Hayleigh Carlson (3500)" [label=155]
+	"Joe Paterno (3496)" -> "Marguerita Kavanagh (3498)" [label=86]
+	"Jeff Truscott (1846)" -> "Marguerita Kavanagh (3498)" [label=30]
+	"Hayleigh Carlson (3500)" -> "Amy Myers (3499)" [label=260]
+	"Joe Paterno (3496)" -> "Amy Myers (3499)" [label=35]
+	"Jeff Truscott (1846)" -> "Amy Myers (3499)" [label=47]
+	"Marguerita Kavanagh (3498)" -> "Philip William Cutler (3497)" [label=210]
+	"Hayleigh Carlson (3500)" -> "Philip William Cutler (3497)" [label=172]
+	"Joe Paterno (3496)" -> "Philip William Cutler (3497)" [label=92]
+	"Jeff Truscott (1846)" -> "Philip William Cutler (3497)" [label=25]
+}

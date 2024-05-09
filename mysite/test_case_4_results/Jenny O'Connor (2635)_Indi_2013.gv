@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Jenny O'Connor (2635)_Indi_2013" {
+	graph [label="Indi 2013" labelloc=t]
+	node [shape=box]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" [label="Robert Denis Murphy (3456)
+Palmer United Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
+Family First Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
+Sex Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Dudley (3450)" [label="Robert Dudley (3450)
+Rise Up Australia Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Jennifer Podesta (3457)" [label="Jennifer Podesta (3457)
+Independent"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Phil Rourke (3455)" [label="Phil Rourke (3455)
+Katter's Australian Party"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"William Hayes (3453)" [label="William Hayes (3453)
+Bullet Train For Australia"]
+	"Robert Denis Murphy (3456)" -> "Jenny O'Connor (2635)" [label=517]
+	"Rick Leeworthy (3451)" -> "Robert Denis Murphy (3456)" [label=354]
+	"Helma Aschenbrenner (3452)" -> "Rick Leeworthy (3451)" [label=283]
+	"Robert Dudley (3450)" -> "Helma Aschenbrenner (3452)" [label=57]
+	"Jennifer Podesta (3457)" -> "Robert Dudley (3450)" [label=37]
+	"Phil Rourke (3455)" -> "Jennifer Podesta (3457)" [label=40]
+	"William Hayes (3453)" -> "Phil Rourke (3455)" [label=17]
+	"Rick Leeworthy (3451)" -> "Jenny O'Connor (2635)" [label=147]
+	"Helma Aschenbrenner (3452)" -> "Jenny O'Connor (2635)" [label=252]
+	"Robert Dudley (3450)" -> "Jenny O'Connor (2635)" [label=20]
+	"Jennifer Podesta (3457)" -> "Jenny O'Connor (2635)" [label=102]
+	"Phil Rourke (3455)" -> "Jenny O'Connor (2635)" [label=18]
+	"William Hayes (3453)" -> "Jenny O'Connor (2635)" [label=46]
+	"William Hayes (3453)" -> "Jennifer Podesta (3457)" [label=24]
+	"Phil Rourke (3455)" -> "Robert Dudley (3450)" [label=33]
+	"William Hayes (3453)" -> "Robert Dudley (3450)" [label=24]
+	"Jennifer Podesta (3457)" -> "Helma Aschenbrenner (3452)" [label=40]
+	"Phil Rourke (3455)" -> "Helma Aschenbrenner (3452)" [label=35]
+	"William Hayes (3453)" -> "Helma Aschenbrenner (3452)" [label=108]
+	"Robert Dudley (3450)" -> "Rick Leeworthy (3451)" [label=251]
+	"Jennifer Podesta (3457)" -> "Rick Leeworthy (3451)" [label=31]
+	"Phil Rourke (3455)" -> "Rick Leeworthy (3451)" [label=27]
+	"William Hayes (3453)" -> "Rick Leeworthy (3451)" [label=35]
+	"Helma Aschenbrenner (3452)" -> "Robert Denis Murphy (3456)" [label=230]
+	"Robert Dudley (3450)" -> "Robert Denis Murphy (3456)" [label=63]
+	"Jennifer Podesta (3457)" -> "Robert Denis Murphy (3456)" [label=172]
+	"Phil Rourke (3455)" -> "Robert Denis Murphy (3456)" [label=211]
+	"William Hayes (3453)" -> "Robert Denis Murphy (3456)" [label=35]
+}

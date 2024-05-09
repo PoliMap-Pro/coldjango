@@ -30,7 +30,7 @@ class Command(BaseCommand):
            "('Hasluck', '2022'): 7928,\n" \
            "('Lingiari', '2004'): 1893,\n" \
            "('Newcastle', '2022'): 21195,\n" \
-           "('Wide Bay', '2019'): 7486"
+           "('Wide Bay', '2019'): 7486\n\n"
 
     SENATE_RESULTS = {('Bennelong', '2016'): 6210,
                      ('Boothby', '2019'): 14185,
@@ -55,7 +55,6 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        print("\n")
         for election in models.SenateElection.objects.all().order_by(
                 'election_date'):
             print(f"Election on {election.election_date}")

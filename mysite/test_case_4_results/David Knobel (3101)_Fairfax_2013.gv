@@ -1,0 +1,113 @@
+// House preference flow
+digraph "David Knobel (3101)_Fairfax_2013" {
+	graph [label="Fairfax 2013" labelloc=t]
+	node [shape=box]
+	"David Knobel (3101)" [label="David Knobel (3101)
+The Greens"]
+	"Ray Sawyer (3102)" [label="Ray Sawyer (3102)
+Katter's Australian Party"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"David Knobel (3101)" [label="David Knobel (3101)
+The Greens"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"David Knobel (3101)" [label="David Knobel (3101)
+The Greens"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"David Knobel (3101)" [label="David Knobel (3101)
+The Greens"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Ray Sawyer (3102)" [label="Ray Sawyer (3102)
+Katter's Australian Party"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Ray Sawyer (3102)" [label="Ray Sawyer (3102)
+Katter's Australian Party"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Ray Sawyer (3102)" [label="Ray Sawyer (3102)
+Katter's Australian Party"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Angela Meyer (3099)" [label="Angela Meyer (3099)
+Family First"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Trudy Byrnes (3097)" [label="Trudy Byrnes (3097)
+Independent"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Mike Holt (3096)" [label="Mike Holt (3096)
+One Nation"]
+	"Ray Sawyer (3102)" -> "David Knobel (3101)" [label=392]
+	"Angela Meyer (3099)" -> "Ray Sawyer (3102)" [label=176]
+	"Trudy Byrnes (3097)" -> "Angela Meyer (3099)" [label=130]
+	"Mike Holt (3096)" -> "Trudy Byrnes (3097)" [label=263]
+	"Angela Meyer (3099)" -> "David Knobel (3101)" [label=251]
+	"Trudy Byrnes (3097)" -> "David Knobel (3101)" [label=280]
+	"Mike Holt (3096)" -> "David Knobel (3101)" [label=34]
+	"Mike Holt (3096)" -> "Angela Meyer (3099)" [label=63]
+	"Trudy Byrnes (3097)" -> "Ray Sawyer (3102)" [label=94]
+	"Mike Holt (3096)" -> "Ray Sawyer (3102)" [label=74]
+}

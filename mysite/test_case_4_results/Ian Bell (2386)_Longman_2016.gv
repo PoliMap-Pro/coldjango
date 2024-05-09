@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Ian Bell (2386)_Longman_2016" {
+	graph [label="Longman 2016" labelloc=t]
+	node [shape=box]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Will Smith (2393)" -> "Ian Bell (2386)" [label=799]
+	"Frances Mcdonald (2384)" -> "Will Smith (2393)" [label=479]
+	"Brad Kennedy (2389)" -> "Frances Mcdonald (2384)" [label=141]
+	"Greg Riddell (2391)" -> "Brad Kennedy (2389)" [label=227]
+	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
+	"Caleb Wells (2388)" -> "Rob Law (2392)" [label=30]
+	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
+	"Frances Mcdonald (2384)" -> "Ian Bell (2386)" [label=530]
+	"Brad Kennedy (2389)" -> "Ian Bell (2386)" [label=141]
+	"Greg Riddell (2391)" -> "Ian Bell (2386)" [label=187]
+	"Rob Law (2392)" -> "Ian Bell (2386)" [label=82]
+	"Caleb Wells (2388)" -> "Ian Bell (2386)" [label=19]
+	"Stephen Beck (2390)" -> "Ian Bell (2386)" [label=46]
+	"Stephen Beck (2390)" -> "Rob Law (2392)" [label=15]
+	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
+	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
+	"Rob Law (2392)" -> "Brad Kennedy (2389)" [label=43]
+	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=37]
+	"Stephen Beck (2390)" -> "Brad Kennedy (2389)" [label=6]
+	"Greg Riddell (2391)" -> "Frances Mcdonald (2384)" [label=140]
+	"Rob Law (2392)" -> "Frances Mcdonald (2384)" [label=50]
+	"Caleb Wells (2388)" -> "Frances Mcdonald (2384)" [label=26]
+	"Stephen Beck (2390)" -> "Frances Mcdonald (2384)" [label=36]
+	"Brad Kennedy (2389)" -> "Will Smith (2393)" [label=483]
+	"Greg Riddell (2391)" -> "Will Smith (2393)" [label=424]
+	"Rob Law (2392)" -> "Will Smith (2393)" [label=117]
+	"Caleb Wells (2388)" -> "Will Smith (2393)" [label=72]
+	"Stephen Beck (2390)" -> "Will Smith (2393)" [label=21]
+}

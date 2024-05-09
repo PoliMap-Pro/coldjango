@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jackie Brooker (2805)_Barton_2013" {
+	graph [label="Barton 2013" labelloc=t]
+	node [shape=box]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
+	"Edward Caruana (2800)" [label="Edward Caruana (2800)
+Palmer United Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Edward Caruana (2800)" [label="Edward Caruana (2800)
+Palmer United Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Edward Caruana (2800)" [label="Edward Caruana (2800)
+Palmer United Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Edward Caruana (2800)" [label="Edward Caruana (2800)
+Palmer United Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Edward Caruana (2800)" [label="Edward Caruana (2800)
+Palmer United Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Edward Caruana (2800)" -> "Jackie Brooker (2805)" [label=808]
+	"Michael Nagi (2801)" -> "Edward Caruana (2800)" [label=909]
+	"Kylie Mary French (2804)" -> "Michael Nagi (2801)" [label=174]
+	"Perry Theo (2802)" -> "Kylie Mary French (2804)" [label=76]
+	"Rodney Tim Wyse (2806)" -> "Perry Theo (2802)" [label=52]
+	"Michael Nagi (2801)" -> "Jackie Brooker (2805)" [label=412]
+	"Kylie Mary French (2804)" -> "Jackie Brooker (2805)" [label=202]
+	"Perry Theo (2802)" -> "Jackie Brooker (2805)" [label=60]
+	"Rodney Tim Wyse (2806)" -> "Jackie Brooker (2805)" [label=113]
+	"Rodney Tim Wyse (2806)" -> "Kylie Mary French (2804)" [label=115]
+	"Perry Theo (2802)" -> "Michael Nagi (2801)" [label=133]
+	"Rodney Tim Wyse (2806)" -> "Michael Nagi (2801)" [label=64]
+	"Kylie Mary French (2804)" -> "Edward Caruana (2800)" [label=178]
+	"Perry Theo (2802)" -> "Edward Caruana (2800)" [label=162]
+	"Rodney Tim Wyse (2806)" -> "Edward Caruana (2800)" [label=105]
+}

@@ -1,0 +1,3610 @@
+// House preference flow
+digraph "Lloyd Davies (3369)_Corangamite_2013" {
+	graph [label="Corangamite 2013" labelloc=t]
+	node [shape=box]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Lloyd Davies (3369)" [label="Lloyd Davies (3369)
+The Greens"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" [label="Buddy Igor Rojek (3375)
+Palmer United Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Jayden Millard (3373)" [label="Jayden Millard (3373)
+Sex Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Buddy Igor Rojek (3375)" -> "Lloyd Davies (3369)" [label=940]
+	"Jayden Millard (3373)" -> "Buddy Igor Rojek (3375)" [label=506]
+	"Peter Wray (3372)" -> "Jayden Millard (3373)" [label=150]
+	"Adrian Whitehead (796)" -> "Peter Wray (3372)" [label=107]
+	"Andrew Black (3376)" -> "Adrian Whitehead (796)" [label=37]
+	"Alan Barron (2572)" -> "Andrew Black (3376)" [label=19]
+	"Warren Jackman (3374)" -> "Alan Barron (2572)" [label=14]
+	"Helen Rashleigh (3370)" -> "Warren Jackman (3374)" [label=9]
+	"Nick Steel (2573)" -> "Helen Rashleigh (3370)" [label=14]
+	"Jayden Millard (3373)" -> "Lloyd Davies (3369)" [label=724]
+	"Peter Wray (3372)" -> "Lloyd Davies (3369)" [label=196]
+	"Adrian Whitehead (796)" -> "Lloyd Davies (3369)" [label=285]
+	"Andrew Black (3376)" -> "Lloyd Davies (3369)" [label=52]
+	"Alan Barron (2572)" -> "Lloyd Davies (3369)" [label=43]
+	"Warren Jackman (3374)" -> "Lloyd Davies (3369)" [label=21]
+	"Helen Rashleigh (3370)" -> "Lloyd Davies (3369)" [label=41]
+	"Nick Steel (2573)" -> "Lloyd Davies (3369)" [label=13]
+	"Nick Steel (2573)" -> "Warren Jackman (3374)" [label=11]
+	"Helen Rashleigh (3370)" -> "Alan Barron (2572)" [label=103]
+	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=2]
+	"Warren Jackman (3374)" -> "Andrew Black (3376)" [label=39]
+	"Helen Rashleigh (3370)" -> "Andrew Black (3376)" [label=8]
+	"Nick Steel (2573)" -> "Andrew Black (3376)" [label=24]
+	"Alan Barron (2572)" -> "Adrian Whitehead (796)" [label=28]
+	"Warren Jackman (3374)" -> "Adrian Whitehead (796)" [label=36]
+	"Helen Rashleigh (3370)" -> "Adrian Whitehead (796)" [label=18]
+	"Nick Steel (2573)" -> "Adrian Whitehead (796)" [label=13]
+	"Andrew Black (3376)" -> "Peter Wray (3372)" [label=49]
+	"Alan Barron (2572)" -> "Peter Wray (3372)" [label=342]
+	"Warren Jackman (3374)" -> "Peter Wray (3372)" [label=44]
+	"Helen Rashleigh (3370)" -> "Peter Wray (3372)" [label=34]
+	"Nick Steel (2573)" -> "Peter Wray (3372)" [label=10]
+	"Adrian Whitehead (796)" -> "Jayden Millard (3373)" [label=103]
+	"Andrew Black (3376)" -> "Jayden Millard (3373)" [label=45]
+	"Alan Barron (2572)" -> "Jayden Millard (3373)" [label=14]
+	"Warren Jackman (3374)" -> "Jayden Millard (3373)" [label=56]
+	"Helen Rashleigh (3370)" -> "Jayden Millard (3373)" [label=10]
+	"Nick Steel (2573)" -> "Jayden Millard (3373)" [label=10]
+	"Peter Wray (3372)" -> "Buddy Igor Rojek (3375)" [label=254]
+	"Adrian Whitehead (796)" -> "Buddy Igor Rojek (3375)" [label=81]
+	"Andrew Black (3376)" -> "Buddy Igor Rojek (3375)" [label=50]
+	"Alan Barron (2572)" -> "Buddy Igor Rojek (3375)" [label=31]
+	"Warren Jackman (3374)" -> "Buddy Igor Rojek (3375)" [label=63]
+	"Helen Rashleigh (3370)" -> "Buddy Igor Rojek (3375)" [label=15]
+	"Nick Steel (2573)" -> "Buddy Igor Rojek (3375)" [label=9]
+}

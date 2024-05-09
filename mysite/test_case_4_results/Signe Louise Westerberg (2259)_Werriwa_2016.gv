@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Signe Louise Westerberg (2259)_Werriwa_2016" {
+	graph [label="Werriwa 2016" labelloc=t]
+	node [shape=box]
+	"Signe Louise Westerberg (2259)" [label="Signe Louise Westerberg (2259)
+The Greens"]
+}

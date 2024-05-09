@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Jake Schoermer (1633)_Ryan_2019" {
+	graph [label="Ryan 2019" labelloc=t]
+	node [shape=box]
+	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
+The Greens"]
+	"Rodney Miles (1632)" [label="Rodney Miles (1632)
+Pauline Hanson's One Nation"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
+The Greens"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
+The Greens"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
+The Greens"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rodney Miles (1632)" [label="Rodney Miles (1632)
+Pauline Hanson's One Nation"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rodney Miles (1632)" [label="Rodney Miles (1632)
+Pauline Hanson's One Nation"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rodney Miles (1632)" [label="Rodney Miles (1632)
+Pauline Hanson's One Nation"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rodney Miles (1632)" -> "Jake Schoermer (1633)" [label=685]
+	"Joanne Webb (1631)" -> "Rodney Miles (1632)" [label=298]
+	"Larry Edward Crouch (1630)" -> "Joanne Webb (1631)" [label=175]
+	"Andrew Banks (1634)" -> "Larry Edward Crouch (1630)" [label=139]
+	"Joanne Webb (1631)" -> "Jake Schoermer (1633)" [label=1040]
+	"Larry Edward Crouch (1630)" -> "Jake Schoermer (1633)" [label=117]
+	"Andrew Banks (1634)" -> "Jake Schoermer (1633)" [label=57]
+	"Andrew Banks (1634)" -> "Joanne Webb (1631)" [label=66]
+	"Larry Edward Crouch (1630)" -> "Rodney Miles (1632)" [label=564]
+	"Andrew Banks (1634)" -> "Rodney Miles (1632)" [label=480]
+}

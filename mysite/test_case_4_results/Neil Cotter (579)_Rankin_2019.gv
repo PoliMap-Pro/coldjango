@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Neil Cotter (579)_Rankin_2019" {
+	graph [label="Rankin 2019" labelloc=t]
+	node [shape=box]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Shyamal Reddy (1624)" [label="Shyamal Reddy (1624)
+United Australia Party"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Shyamal Reddy (1624)" [label="Shyamal Reddy (1624)
+United Australia Party"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Shyamal Reddy (1624)" [label="Shyamal Reddy (1624)
+United Australia Party"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Shyamal Reddy (1624)" [label="Shyamal Reddy (1624)
+United Australia Party"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Peter James Andrews (1626)" [label="Peter James Andrews (1626)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
+"]
+	"Shyamal Reddy (1624)" -> "Neil Cotter (579)" [label=548]
+	"Ric Davies (1627)" -> "Shyamal Reddy (1624)" [label=228]
+	"Peter James Andrews (1626)" -> "Ric Davies (1627)" [label=276]
+	"Yusuf Mohammad (1629)" -> "Peter James Andrews (1626)" [label=71]
+	"Ric Davies (1627)" -> "Neil Cotter (579)" [label=254]
+	"Peter James Andrews (1626)" -> "Neil Cotter (579)" [label=125]
+	"Yusuf Mohammad (1629)" -> "Neil Cotter (579)" [label=203]
+	"Yusuf Mohammad (1629)" -> "Ric Davies (1627)" [label=67]
+	"Peter James Andrews (1626)" -> "Shyamal Reddy (1624)" [label=221]
+	"Yusuf Mohammad (1629)" -> "Shyamal Reddy (1624)" [label=61]
+}

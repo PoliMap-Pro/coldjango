@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Sophia Sun (1779)_Deakin_2019" {
+	graph [label="Deakin 2019" labelloc=t]
+	node [shape=box]
+	"Sophia Sun (1779)" [label="Sophia Sun (1779)
+The Greens (VIC)"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Sophia Sun (1779)" [label="Sophia Sun (1779)
+The Greens (VIC)"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Sophia Sun (1779)" [label="Sophia Sun (1779)
+The Greens (VIC)"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Sophia Sun (1779)" [label="Sophia Sun (1779)
+The Greens (VIC)"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Sophia Sun (1779)" [label="Sophia Sun (1779)
+The Greens (VIC)"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+United Australia Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
+Animal Justice Party"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Vickie Janson (1778)" [label="Vickie Janson (1778)
+Independent"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Joel Van Der Horst (1783)" [label="Joel Van Der Horst (1783)
+Labour DLP"]
+	"Ellie Jean Sullivan (870)" -> "Sophia Sun (1779)" [label=1754]
+	"Milton Wilde (1780)" -> "Ellie Jean Sullivan (870)" [label=759]
+	"Vinita Costantino (1781)" -> "Milton Wilde (1780)" [label=177]
+	"Vickie Janson (1778)" -> "Vinita Costantino (1781)" [label=157]
+	"Joel Van Der Horst (1783)" -> "Vickie Janson (1778)" [label=106]
+	"Milton Wilde (1780)" -> "Sophia Sun (1779)" [label=221]
+	"Vinita Costantino (1781)" -> "Sophia Sun (1779)" [label=945]
+	"Vickie Janson (1778)" -> "Sophia Sun (1779)" [label=283]
+	"Joel Van Der Horst (1783)" -> "Sophia Sun (1779)" [label=117]
+	"Joel Van Der Horst (1783)" -> "Vinita Costantino (1781)" [label=83]
+	"Vickie Janson (1778)" -> "Milton Wilde (1780)" [label=171]
+	"Joel Van Der Horst (1783)" -> "Milton Wilde (1780)" [label=185]
+	"Vinita Costantino (1781)" -> "Ellie Jean Sullivan (870)" [label=457]
+	"Vickie Janson (1778)" -> "Ellie Jean Sullivan (870)" [label=379]
+	"Joel Van Der Horst (1783)" -> "Ellie Jean Sullivan (870)" [label=130]
+}

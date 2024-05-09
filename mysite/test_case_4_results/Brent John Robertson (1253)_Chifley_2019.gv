@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Brent John Robertson (1253)_Chifley_2019" {
+	graph [label="Chifley 2019" labelloc=t]
+	node [shape=box]
+	"Brent John Robertson (1253)" [label="Brent John Robertson (1253)
+The Greens"]
+	"Joseph Oscar O'Connor (1252)" [label="Joseph Oscar O'Connor (1252)
+United Australia Party"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Brent John Robertson (1253)" [label="Brent John Robertson (1253)
+The Greens"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Joseph Oscar O'Connor (1252)" [label="Joseph Oscar O'Connor (1252)
+United Australia Party"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Joseph Oscar O'Connor (1252)" -> "Brent John Robertson (1253)" [label=902]
+	"Ammar Aziz Khan (1251)" -> "Joseph Oscar O'Connor (1252)" [label=332]
+	"Ammar Aziz Khan (1251)" -> "Brent John Robertson (1253)" [label=227]
+}

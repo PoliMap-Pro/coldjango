@@ -92,7 +92,7 @@ class Command(BaseCommand):
            "('ALP', 'Wantirna West'): 377,\n" \
            "('LP', 'Wantirna West'): 756,\n" \
            "('ALP', 'Watersedge'): 357,\n" \
-           "('LP', 'Watersedge'): 632\n"
+           "('LP', 'Watersedge'): 632\n\n\n"
 
     AEC_RESULTS = {('ALP', 'Bayswater'): 724,
                    ('LP', 'Bayswater'): 880,
@@ -181,7 +181,6 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        print("\n")
         twenty_nineteen = models.HouseElection.objects.get(
             election_date=datetime(year=2019, month=1, day=1))
         aston = models.Seat.objects.get(name="Aston", state="vic")

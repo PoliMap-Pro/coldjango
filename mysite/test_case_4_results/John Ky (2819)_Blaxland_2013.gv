@@ -1,0 +1,113 @@
+// House preference flow
+digraph "John Ky (2819)_Blaxland_2013" {
+	graph [label="Blaxland 2013" labelloc=t]
+	node [shape=box]
+	"John Ky (2819)" [label="John Ky (2819)
+The Greens"]
+	"Zali Burrows (2817)" [label="Zali Burrows (2817)
+Palmer United Party"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"John Ky (2819)" [label="John Ky (2819)
+The Greens"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"John Ky (2819)" [label="John Ky (2819)
+The Greens"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"John Ky (2819)" [label="John Ky (2819)
+The Greens"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Zali Burrows (2817)" [label="Zali Burrows (2817)
+Palmer United Party"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Zali Burrows (2817)" [label="Zali Burrows (2817)
+Palmer United Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Zali Burrows (2817)" [label="Zali Burrows (2817)
+Palmer United Party"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Zali Burrows (2817)" -> "John Ky (2819)" [label=616]
+	"Nafez Taleb (2815)" -> "Zali Burrows (2817)" [label=360]
+	"Juliat Nasr (2818)" -> "Nafez Taleb (2815)" [label=151]
+	"Boutros Zalloua (2820)" -> "Juliat Nasr (2818)" [label=173]
+	"Nafez Taleb (2815)" -> "John Ky (2819)" [label=150]
+	"Juliat Nasr (2818)" -> "John Ky (2819)" [label=244]
+	"Boutros Zalloua (2820)" -> "John Ky (2819)" [label=177]
+	"Boutros Zalloua (2820)" -> "Nafez Taleb (2815)" [label=68]
+	"Juliat Nasr (2818)" -> "Zali Burrows (2817)" [label=156]
+	"Boutros Zalloua (2820)" -> "Zali Burrows (2817)" [label=35]
+}

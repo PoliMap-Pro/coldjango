@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Adam Verwey (2792)_Fraser_2013" {
+	graph [label="Fraser 2013" labelloc=t]
+	node [shape=box]
+	"Adam Verwey (2792)" [label="Adam Verwey (2792)
+Australian Greens"]
+	"Sam Huggins (2791)" [label="Sam Huggins (2791)
+Bullet Train For Australia"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Adam Verwey (2792)" [label="Adam Verwey (2792)
+Australian Greens"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Adam Verwey (2792)" [label="Adam Verwey (2792)
+Australian Greens"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Adam Verwey (2792)" [label="Adam Verwey (2792)
+Australian Greens"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Sam Huggins (2791)" [label="Sam Huggins (2791)
+Bullet Train For Australia"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Sam Huggins (2791)" [label="Sam Huggins (2791)
+Bullet Train For Australia"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Sam Huggins (2791)" [label="Sam Huggins (2791)
+Bullet Train For Australia"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Sam Huggins (2791)" -> "Adam Verwey (2792)" [label=2746]
+	"Freddy Alejandro Alcazar (2789)" -> "Sam Huggins (2791)" [label=1137]
+	"Darren Mark Churchill (2787)" -> "Freddy Alejandro Alcazar (2789)" [label=215]
+	"Jill Elizabeth Ross (2790)" -> "Darren Mark Churchill (2787)" [label=131]
+	"Freddy Alejandro Alcazar (2789)" -> "Adam Verwey (2792)" [label=441]
+	"Darren Mark Churchill (2787)" -> "Adam Verwey (2792)" [label=536]
+	"Jill Elizabeth Ross (2790)" -> "Adam Verwey (2792)" [label=108]
+	"Jill Elizabeth Ross (2790)" -> "Freddy Alejandro Alcazar (2789)" [label=203]
+	"Darren Mark Churchill (2787)" -> "Sam Huggins (2791)" [label=297]
+	"Jill Elizabeth Ross (2790)" -> "Sam Huggins (2791)" [label=325]
+}

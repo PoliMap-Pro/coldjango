@@ -1,0 +1,55 @@
+// House preference flow
+digraph "William Hornstra (1905)_Monash_2019" {
+	graph [label="Monash 2019" labelloc=t]
+	node [shape=box]
+	"William Hornstra (1905)" [label="William Hornstra (1905)
+The Greens (VIC)"]
+	"Michael Stewart Fozard (1903)" [label="Michael Stewart Fozard (1903)
+Independent"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"William Hornstra (1905)" [label="William Hornstra (1905)
+The Greens (VIC)"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"William Hornstra (1905)" [label="William Hornstra (1905)
+The Greens (VIC)"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Michael Stewart Fozard (1903)" [label="Michael Stewart Fozard (1903)
+Independent"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Michael Stewart Fozard (1903)" [label="Michael Stewart Fozard (1903)
+Independent"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Michael Stewart Fozard (1903)" -> "William Hornstra (1905)" [label=795]
+	"Matthew Sherry (1906)" -> "Michael Stewart Fozard (1903)" [label=508]
+	"John Verhoeven (1902)" -> "Matthew Sherry (1906)" [label=174]
+	"Matthew Sherry (1906)" -> "William Hornstra (1905)" [label=246]
+	"John Verhoeven (1902)" -> "William Hornstra (1905)" [label=73]
+	"John Verhoeven (1902)" -> "Michael Stewart Fozard (1903)" [label=1690]
+}

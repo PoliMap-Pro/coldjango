@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Pat Mcginlay (1279)_Eden-Monaro_2019" {
+	graph [label="Eden-Monaro 2019" labelloc=t]
+	node [shape=box]
+	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
+The Greens"]
+	"Sophie Wade (1281)" [label="Sophie Wade (1281)
+The Nationals"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
+The Greens"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
+The Greens"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
+The Greens"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Pat Mcginlay (1279)" [label="Pat Mcginlay (1279)
+The Greens"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sophie Wade (1281)" [label="Sophie Wade (1281)
+The Nationals"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sophie Wade (1281)" [label="Sophie Wade (1281)
+The Nationals"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sophie Wade (1281)" [label="Sophie Wade (1281)
+The Nationals"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sophie Wade (1281)" [label="Sophie Wade (1281)
+The Nationals"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"David William Sheldon (1280)" [label="David William Sheldon (1280)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sophie Wade (1281)" -> "Pat Mcginlay (1279)" [label=1421]
+	"David William Sheldon (1280)" -> "Sophie Wade (1281)" [label=1651]
+	"Chandra Singh (1283)" -> "David William Sheldon (1280)" [label=902]
+	"James Holgate (101)" -> "Chandra Singh (1283)" [label=304]
+	"Thomas Harris (1282)" -> "James Holgate (101)" [label=122]
+	"David William Sheldon (1280)" -> "Pat Mcginlay (1279)" [label=812]
+	"Chandra Singh (1283)" -> "Pat Mcginlay (1279)" [label=164]
+	"James Holgate (101)" -> "Pat Mcginlay (1279)" [label=128]
+	"Thomas Harris (1282)" -> "Pat Mcginlay (1279)" [label=26]
+	"Thomas Harris (1282)" -> "Chandra Singh (1283)" [label=215]
+	"James Holgate (101)" -> "David William Sheldon (1280)" [label=1055]
+	"Thomas Harris (1282)" -> "David William Sheldon (1280)" [label=81]
+	"Chandra Singh (1283)" -> "Sophie Wade (1281)" [label=923]
+	"James Holgate (101)" -> "Sophie Wade (1281)" [label=163]
+	"Thomas Harris (1282)" -> "Sophie Wade (1281)" [label=193]
+}

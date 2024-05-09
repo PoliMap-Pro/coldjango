@@ -1,0 +1,26 @@
+// House preference flow
+digraph "Johani Mamid (1953)_Durack_2019" {
+	graph [label="Durack 2019" labelloc=t]
+	node [shape=box]
+	"Johani Mamid (1953)" [label="Johani Mamid (1953)
+The Greens (WA)"]
+	"Gary Mounsey (1951)" [label="Gary Mounsey (1951)
+WESTERN AUSTRALIA PARTY"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Johani Mamid (1953)" [label="Johani Mamid (1953)
+The Greens (WA)"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Gary Mounsey (1951)" [label="Gary Mounsey (1951)
+WESTERN AUSTRALIA PARTY"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Gary Mounsey (1951)" -> "Johani Mamid (1953)" [label=525]
+	"Brenden Hatton (1955)" -> "Gary Mounsey (1951)" [label=258]
+	"Brenden Hatton (1955)" -> "Johani Mamid (1953)" [label=149]
+}

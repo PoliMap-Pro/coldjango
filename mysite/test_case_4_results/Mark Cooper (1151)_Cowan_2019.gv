@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Mark Cooper (1151)_Cowan_2019" {
+	graph [label="Cowan 2019" labelloc=t]
+	node [shape=box]
+	"Mark Cooper (1151)" [label="Mark Cooper (1151)
+The Greens (WA)"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Pauline Hanson's One Nation"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Mark Cooper (1151)" [label="Mark Cooper (1151)
+The Greens (WA)"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Mark Cooper (1151)" [label="Mark Cooper (1151)
+The Greens (WA)"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Mark Cooper (1151)" [label="Mark Cooper (1151)
+The Greens (WA)"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Pauline Hanson's One Nation"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Pauline Hanson's One Nation"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
+Pauline Hanson's One Nation"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Sheila Mundy (1942)" -> "Mark Cooper (1151)" [label=1723]
+	"Peter Westcott (1940)" -> "Sheila Mundy (1942)" [label=959]
+	"Andre Lebrasse (1941)" -> "Peter Westcott (1940)" [label=242]
+	"Paul James Bedford (1943)" -> "Andre Lebrasse (1941)" [label=126]
+	"Peter Westcott (1940)" -> "Mark Cooper (1151)" [label=429]
+	"Andre Lebrasse (1941)" -> "Mark Cooper (1151)" [label=199]
+	"Paul James Bedford (1943)" -> "Mark Cooper (1151)" [label=248]
+	"Paul James Bedford (1943)" -> "Peter Westcott (1940)" [label=184]
+	"Andre Lebrasse (1941)" -> "Sheila Mundy (1942)" [label=424]
+	"Paul James Bedford (1943)" -> "Sheila Mundy (1942)" [label=468]
+}

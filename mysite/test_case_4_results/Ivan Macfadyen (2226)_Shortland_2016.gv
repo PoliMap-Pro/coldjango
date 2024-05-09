@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Ivan Macfadyen (2226)_Shortland_2016" {
+	graph [label="Shortland 2016" labelloc=t]
+	node [shape=box]
+	"Ivan Macfadyen (2226)" [label="Ivan Macfadyen (2226)
+The Greens"]
+	"Morgan Cox (1407)" [label="Morgan Cox (1407)
+Christian Democratic Party (Fred Nile Group)"]
+	"Morgan Cox (1407)" [label="Morgan Cox (1407)
+Christian Democratic Party (Fred Nile Group)"]
+	"Morgan Cox (1407)" -> "Ivan Macfadyen (2226)" [label=774]
+}

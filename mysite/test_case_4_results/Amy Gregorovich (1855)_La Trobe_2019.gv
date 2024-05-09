@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Amy Gregorovich (1855)_La Trobe_2019" {
+	graph [label="La Trobe 2019" labelloc=t]
+	node [shape=box]
+	"Amy Gregorovich (1855)" [label="Amy Gregorovich (1855)
+The Greens (VIC)"]
+	"Esther Baker (1857)" [label="Esther Baker (1857)
+Pauline Hanson's One Nation"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Amy Gregorovich (1855)" [label="Amy Gregorovich (1855)
+The Greens (VIC)"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Amy Gregorovich (1855)" [label="Amy Gregorovich (1855)
+The Greens (VIC)"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Amy Gregorovich (1855)" [label="Amy Gregorovich (1855)
+The Greens (VIC)"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Esther Baker (1857)" [label="Esther Baker (1857)
+Pauline Hanson's One Nation"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Esther Baker (1857)" [label="Esther Baker (1857)
+Pauline Hanson's One Nation"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Esther Baker (1857)" [label="Esther Baker (1857)
+Pauline Hanson's One Nation"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Esther Baker (1857)" -> "Amy Gregorovich (1855)" [label=1237]
+	"Asher Joseph Calwell-Browne (1860)" -> "Esther Baker (1857)" [label=944]
+	"Duncan Dean (1858)" -> "Asher Joseph Calwell-Browne (1860)" [label=393]
+	"Norman Baker (1856)" -> "Duncan Dean (1858)" [label=133]
+	"Asher Joseph Calwell-Browne (1860)" -> "Amy Gregorovich (1855)" [label=683]
+	"Duncan Dean (1858)" -> "Amy Gregorovich (1855)" [label=192]
+	"Norman Baker (1856)" -> "Amy Gregorovich (1855)" [label=108]
+	"Norman Baker (1856)" -> "Asher Joseph Calwell-Browne (1860)" [label=70]
+	"Duncan Dean (1858)" -> "Esther Baker (1857)" [label=723]
+	"Norman Baker (1856)" -> "Esther Baker (1857)" [label=250]
+}

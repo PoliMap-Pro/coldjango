@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Tom Hunt (2261)_Whitlam_2016" {
+	graph [label="Whitlam 2016" labelloc=t]
+	node [shape=box]
+	"Tom Hunt (2261)" [label="Tom Hunt (2261)
+The Greens"]
+	"Jan Mandelson (2262)" [label="Jan Mandelson (2262)
+The Nationals"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Tom Hunt (2261)" [label="Tom Hunt (2261)
+The Greens"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Tom Hunt (2261)" [label="Tom Hunt (2261)
+The Greens"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Jan Mandelson (2262)" [label="Jan Mandelson (2262)
+The Nationals"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Jan Mandelson (2262)" [label="Jan Mandelson (2262)
+The Nationals"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Jan Mandelson (2262)" -> "Tom Hunt (2261)" [label=1227]
+	"Susan Pinsuti (2264)" -> "Jan Mandelson (2262)" [label=1146]
+	"Wayne Hartman (2263)" -> "Susan Pinsuti (2264)" [label=428]
+	"Susan Pinsuti (2264)" -> "Tom Hunt (2261)" [label=357]
+	"Wayne Hartman (2263)" -> "Tom Hunt (2261)" [label=405]
+	"Wayne Hartman (2263)" -> "Jan Mandelson (2262)" [label=466]
+}

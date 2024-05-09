@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Lorna Wyatt (3448)_Hotham_2013" {
+	graph [label="Hotham 2013" labelloc=t]
+	node [shape=box]
+	"Lorna Wyatt (3448)" [label="Lorna Wyatt (3448)
+The Greens"]
+	"Samuel Warren Porter (3449)" [label="Samuel Warren Porter (3449)
+Palmer United Party"]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Lorna Wyatt (3448)" [label="Lorna Wyatt (3448)
+The Greens"]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Lorna Wyatt (3448)" [label="Lorna Wyatt (3448)
+The Greens"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Samuel Warren Porter (3449)" [label="Samuel Warren Porter (3449)
+Palmer United Party"]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Samuel Warren Porter (3449)" [label="Samuel Warren Porter (3449)
+Palmer United Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Samuel Warren Porter (3449)" -> "Lorna Wyatt (3448)" [label=1524]
+	"Stephen Nowland (3446)" -> "Samuel Warren Porter (3449)" [label=410]
+	"Peter Vassiliou (2632)" -> "Stephen Nowland (3446)" [label=342]
+	"Stephen Nowland (3446)" -> "Lorna Wyatt (3448)" [label=373]
+	"Peter Vassiliou (2632)" -> "Lorna Wyatt (3448)" [label=150]
+	"Peter Vassiliou (2632)" -> "Samuel Warren Porter (3449)" [label=390]
+}

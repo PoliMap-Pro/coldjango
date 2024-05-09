@@ -10,7 +10,6 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        print("\n")
 
 
 

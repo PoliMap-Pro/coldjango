@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Scott Turner (546)_Fadden_2019" {
+	graph [label="Fadden 2019" labelloc=t]
+	node [shape=box]
+	"Scott Turner (546)" [label="Scott Turner (546)
+The Greens"]
+	"Mara Krischker (1516)" [label="Mara Krischker (1516)
+United Australia Party"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+The Greens"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+The Greens"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mara Krischker (1516)" [label="Mara Krischker (1516)
+United Australia Party"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mara Krischker (1516)" [label="Mara Krischker (1516)
+United Australia Party"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mara Krischker (1516)" -> "Scott Turner (546)" [label=650]
+	"Jake Welch (1512)" -> "Mara Krischker (1516)" [label=379]
+	"Allan Barber (1515)" -> "Jake Welch (1512)" [label=201]
+	"Jake Welch (1512)" -> "Scott Turner (546)" [label=475]
+	"Allan Barber (1515)" -> "Scott Turner (546)" [label=156]
+	"Allan Barber (1515)" -> "Mara Krischker (1516)" [label=221]
+}

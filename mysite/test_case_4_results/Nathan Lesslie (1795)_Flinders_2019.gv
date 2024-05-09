@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Nathan Lesslie (1795)_Flinders_2019" {
+	graph [label="Flinders 2019" labelloc=t]
+	node [shape=box]
+	"Nathan Lesslie (1795)" [label="Nathan Lesslie (1795)
+The Greens (VIC)"]
+	"James Persson (1791)" [label="James Persson (1791)
+Animal Justice Party"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Nathan Lesslie (1795)" [label="Nathan Lesslie (1795)
+The Greens (VIC)"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Nathan Lesslie (1795)" [label="Nathan Lesslie (1795)
+The Greens (VIC)"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Nathan Lesslie (1795)" [label="Nathan Lesslie (1795)
+The Greens (VIC)"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Nathan Lesslie (1795)" [label="Nathan Lesslie (1795)
+The Greens (VIC)"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"James Persson (1791)" [label="James Persson (1791)
+Animal Justice Party"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"James Persson (1791)" [label="James Persson (1791)
+Animal Justice Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"James Persson (1791)" [label="James Persson (1791)
+Animal Justice Party"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"James Persson (1791)" [label="James Persson (1791)
+Animal Justice Party"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
+United Australia Party"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Sustainable Australia"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Susie Beveridge (1798)" [label="Susie Beveridge (1798)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"Harry Dreger (1790)" [label="Harry Dreger (1790)
+Independent"]
+	"James Persson (1791)" -> "Nathan Lesslie (1795)" [label=1143]
+	"Christine Mcshane (1796)" -> "James Persson (1791)" [label=391]
+	"Reade Smith (1793)" -> "Christine Mcshane (1796)" [label=119]
+	"Susie Beveridge (1798)" -> "Reade Smith (1793)" [label=80]
+	"Harry Dreger (1790)" -> "Susie Beveridge (1798)" [label=106]
+	"Christine Mcshane (1796)" -> "Nathan Lesslie (1795)" [label=185]
+	"Reade Smith (1793)" -> "Nathan Lesslie (1795)" [label=267]
+	"Susie Beveridge (1798)" -> "Nathan Lesslie (1795)" [label=77]
+	"Harry Dreger (1790)" -> "Nathan Lesslie (1795)" [label=29]
+	"Harry Dreger (1790)" -> "Reade Smith (1793)" [label=55]
+	"Susie Beveridge (1798)" -> "Christine Mcshane (1796)" [label=78]
+	"Harry Dreger (1790)" -> "Christine Mcshane (1796)" [label=37]
+	"Reade Smith (1793)" -> "James Persson (1791)" [label=243]
+	"Susie Beveridge (1798)" -> "James Persson (1791)" [label=73]
+	"Harry Dreger (1790)" -> "James Persson (1791)" [label=371]
+}

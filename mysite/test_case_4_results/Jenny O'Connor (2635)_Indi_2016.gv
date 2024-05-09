@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jenny O'Connor (2635)_Indi_2016" {
+	graph [label="Indi 2016" labelloc=t]
+	node [shape=box]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Julian Fidge (928)" -> "Jenny O'Connor (2635)" [label=185]
+	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
+	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
+	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Alan James Lappin (2633)" -> "Jenny O'Connor (2635)" [label=279]
+	"Vincent Ferrando (2640)" -> "Jenny O'Connor (2635)" [label=32]
+	"Tim Quilty (2636)" -> "Jenny O'Connor (2635)" [label=70]
+	"Ray Dyer (2638)" -> "Jenny O'Connor (2635)" [label=26]
+	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
+	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
+	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
+	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
+	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
+	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
+}

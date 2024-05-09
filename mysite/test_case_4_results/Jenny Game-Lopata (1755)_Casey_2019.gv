@@ -1,0 +1,909 @@
+// House preference flow
+digraph "Jenny Game-Lopata (1755)_Casey_2019" {
+	graph [label="Casey 2019" labelloc=t]
+	node [shape=box]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jenny Game-Lopata (1755)" [label="Jenny Game-Lopata (1755)
+The Greens (VIC)"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" [label="Travis Barker (1751)
+Animal Justice Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ryan Leslie Clark (1753)" [label="Ryan Leslie Clark (1753)
+Derryn Hinch's Justice Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
+United Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Travis Barker (1751)" -> "Jenny Game-Lopata (1755)" [label=2763]
+	"Ryan Leslie Clark (1753)" -> "Travis Barker (1751)" [label=1673]
+	"Wendy Starkey (1752)" -> "Ryan Leslie Clark (1753)" [label=1022]
+	"Peter Charleton (1748)" -> "Wendy Starkey (1752)" [label=461]
+	"Ross Mcphee (1750)" -> "Peter Charleton (1748)" [label=335]
+	"Antony Calabro (1749)" -> "Ross Mcphee (1750)" [label=91]
+	"Jayden O'Connor (1756)" -> "Antony Calabro (1749)" [label=118]
+	"Ryan Leslie Clark (1753)" -> "Jenny Game-Lopata (1755)" [label=548]
+	"Wendy Starkey (1752)" -> "Jenny Game-Lopata (1755)" [label=189]
+	"Peter Charleton (1748)" -> "Jenny Game-Lopata (1755)" [label=266]
+	"Ross Mcphee (1750)" -> "Jenny Game-Lopata (1755)" [label=217]
+	"Antony Calabro (1749)" -> "Jenny Game-Lopata (1755)" [label=24]
+	"Jayden O'Connor (1756)" -> "Jenny Game-Lopata (1755)" [label=118]
+	"Jayden O'Connor (1756)" -> "Ross Mcphee (1750)" [label=60]
+	"Antony Calabro (1749)" -> "Peter Charleton (1748)" [label=216]
+	"Jayden O'Connor (1756)" -> "Peter Charleton (1748)" [label=120]
+	"Ross Mcphee (1750)" -> "Wendy Starkey (1752)" [label=202]
+	"Antony Calabro (1749)" -> "Wendy Starkey (1752)" [label=230]
+	"Jayden O'Connor (1756)" -> "Wendy Starkey (1752)" [label=98]
+	"Peter Charleton (1748)" -> "Ryan Leslie Clark (1753)" [label=495]
+	"Ross Mcphee (1750)" -> "Ryan Leslie Clark (1753)" [label=199]
+	"Antony Calabro (1749)" -> "Ryan Leslie Clark (1753)" [label=73]
+	"Jayden O'Connor (1756)" -> "Ryan Leslie Clark (1753)" [label=67]
+	"Wendy Starkey (1752)" -> "Travis Barker (1751)" [label=661]
+	"Peter Charleton (1748)" -> "Travis Barker (1751)" [label=992]
+	"Ross Mcphee (1750)" -> "Travis Barker (1751)" [label=266]
+	"Antony Calabro (1749)" -> "Travis Barker (1751)" [label=92]
+	"Jayden O'Connor (1756)" -> "Travis Barker (1751)" [label=57]
+}

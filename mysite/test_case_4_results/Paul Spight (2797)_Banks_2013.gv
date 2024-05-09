@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Paul Spight (2797)_Banks_2013" {
+	graph [label="Banks 2013" labelloc=t]
+	node [shape=box]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
+	"Jake John Wellham (2794)" [label="Jake John Wellham (2794)
+Palmer United Party"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Jake John Wellham (2794)" [label="Jake John Wellham (2794)
+Palmer United Party"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Jake John Wellham (2794)" [label="Jake John Wellham (2794)
+Palmer United Party"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Jake John Wellham (2794)" [label="Jake John Wellham (2794)
+Palmer United Party"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Jake John Wellham (2794)" [label="Jake John Wellham (2794)
+Palmer United Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Mark Falanga (2798)" [label="Mark Falanga (2798)
+Christian Democratic Party (Fred Nile Group)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Jake John Wellham (2794)" -> "Paul Spight (2797)" [label=644]
+	"Mark Falanga (2798)" -> "Jake John Wellham (2794)" [label=209]
+	"Sayed Khedr (2795)" -> "Mark Falanga (2798)" [label=75]
+	"Ross Richardson (2796)" -> "Sayed Khedr (2795)" [label=89]
+	"Robert Michael Haddad (2799)" -> "Ross Richardson (2796)" [label=17]
+	"Mark Falanga (2798)" -> "Paul Spight (2797)" [label=201]
+	"Sayed Khedr (2795)" -> "Paul Spight (2797)" [label=230]
+	"Ross Richardson (2796)" -> "Paul Spight (2797)" [label=86]
+	"Robert Michael Haddad (2799)" -> "Paul Spight (2797)" [label=48]
+	"Robert Michael Haddad (2799)" -> "Sayed Khedr (2795)" [label=39]
+	"Ross Richardson (2796)" -> "Mark Falanga (2798)" [label=49]
+	"Robert Michael Haddad (2799)" -> "Mark Falanga (2798)" [label=135]
+	"Sayed Khedr (2795)" -> "Jake John Wellham (2794)" [label=166]
+	"Ross Richardson (2796)" -> "Jake John Wellham (2794)" [label=148]
+	"Robert Michael Haddad (2799)" -> "Jake John Wellham (2794)" [label=25]
+}

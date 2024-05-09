@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Ben Moroney (2151)_Macarthur_2016" {
+	graph [label="Macarthur 2016" labelloc=t]
+	node [shape=box]
+	"Ben Moroney (2151)" [label="Ben Moroney (2151)
+The Greens"]
+	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
+Nick Xenophon Team"]
+	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
+Nick Xenophon Team"]
+	"Richard Heltay Bakoss (2149)" -> "Ben Moroney (2151)" [label=489]
+}

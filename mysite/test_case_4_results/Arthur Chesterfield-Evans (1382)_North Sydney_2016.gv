@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Arthur Chesterfield-Evans (1382)_North Sydney_2016" {
+	graph [label="North Sydney 2016" labelloc=t]
+	node [shape=box]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+The Greens"]
+	"Sharon Martin (2186)" [label="Sharon Martin (2186)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+The Greens"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+The Greens"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+The Greens"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Sharon Martin (2186)" [label="Sharon Martin (2186)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Sharon Martin (2186)" [label="Sharon Martin (2186)
+Christian Democratic Party (Fred Nile Group)"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Sharon Martin (2186)" [label="Sharon Martin (2186)
+Christian Democratic Party (Fred Nile Group)"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Sharon Martin (2186)" -> "Arthur Chesterfield-Evans (1382)" [label=132]
+	"James Coffey (2190)" -> "Sharon Martin (2186)" [label=65]
+	"Daniel Leahy (2189)" -> "James Coffey (2190)" [label=155]
+	"Eddy Ku (2187)" -> "Daniel Leahy (2189)" [label=39]
+	"James Coffey (2190)" -> "Arthur Chesterfield-Evans (1382)" [label=556]
+	"Daniel Leahy (2189)" -> "Arthur Chesterfield-Evans (1382)" [label=91]
+	"Eddy Ku (2187)" -> "Arthur Chesterfield-Evans (1382)" [label=89]
+	"Eddy Ku (2187)" -> "James Coffey (2190)" [label=55]
+	"Daniel Leahy (2189)" -> "Sharon Martin (2186)" [label=125]
+	"Eddy Ku (2187)" -> "Sharon Martin (2186)" [label=133]
+}

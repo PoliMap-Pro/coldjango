@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Jason Ball (1821)_Higgins_2019" {
+	graph [label="Higgins 2019" labelloc=t]
+	node [shape=box]
+	"Jason Ball (1821)" [label="Jason Ball (1821)
+The Greens (VIC)"]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Jason Ball (1821)" [label="Jason Ball (1821)
+The Greens (VIC)"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Jason Ball (1821)" [label="Jason Ball (1821)
+The Greens (VIC)"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Alicia Walker (900)" -> "Jason Ball (1821)" [label=1295]
+	"Michaela Moran (1822)" -> "Alicia Walker (900)" [label=470]
+	"Tim Ryan (1824)" -> "Michaela Moran (1822)" [label=178]
+	"Michaela Moran (1822)" -> "Jason Ball (1821)" [label=424]
+	"Tim Ryan (1824)" -> "Jason Ball (1821)" [label=128]
+	"Tim Ryan (1824)" -> "Alicia Walker (900)" [label=143]
+}

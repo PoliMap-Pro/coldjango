@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Judith Cullity (1105)_Curtin_2013" {
+	graph [label="Curtin 2013" labelloc=t]
+	node [shape=box]
+	"Judith Cullity (1105)" [label="Judith Cullity (1105)
+The Greens (WA)"]
+	"Glenn Phillip Baker (3592)" [label="Glenn Phillip Baker (3592)
+Palmer United Party"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Judith Cullity (1105)" [label="Judith Cullity (1105)
+The Greens (WA)"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Judith Cullity (1105)" [label="Judith Cullity (1105)
+The Greens (WA)"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Glenn Phillip Baker (3592)" [label="Glenn Phillip Baker (3592)
+Palmer United Party"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Glenn Phillip Baker (3592)" [label="Glenn Phillip Baker (3592)
+Palmer United Party"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Glenn Phillip Baker (3592)" -> "Judith Cullity (1105)" [label=730]
+	"Gail Forder (3590)" -> "Glenn Phillip Baker (3592)" [label=164]
+	"Jennifer Whately (2747)" -> "Gail Forder (3590)" [label=129]
+	"Gail Forder (3590)" -> "Judith Cullity (1105)" [label=160]
+	"Jennifer Whately (2747)" -> "Judith Cullity (1105)" [label=323]
+	"Jennifer Whately (2747)" -> "Glenn Phillip Baker (3592)" [label=83]
+}

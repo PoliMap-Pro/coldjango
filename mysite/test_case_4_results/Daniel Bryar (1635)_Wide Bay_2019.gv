@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Daniel Bryar (1635)_Wide Bay_2019" {
+	graph [label="Wide Bay 2019" labelloc=t]
+	node [shape=box]
+	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
+The Greens"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
+United Australia Party"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
+The Greens"]
+	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
+United Australia Party"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
+The Greens"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
+United Australia Party"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
+United Australia Party"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
+United Australia Party"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Tim Jerome (599)" -> "Daniel Bryar (1635)" [label=1021]
+	"Andrew Schebella (1636)" -> "Tim Jerome (599)" [label=485]
+	"Jasmine Smith (1637)" -> "Andrew Schebella (1636)" [label=198]
+	"Andrew Schebella (1636)" -> "Daniel Bryar (1635)" [label=259]
+	"Jasmine Smith (1637)" -> "Daniel Bryar (1635)" [label=84]
+	"Jasmine Smith (1637)" -> "Tim Jerome (599)" [label=526]
+}

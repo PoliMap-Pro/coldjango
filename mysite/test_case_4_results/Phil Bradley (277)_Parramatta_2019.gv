@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Phil Bradley (277)_Parramatta_2019" {
+	graph [label="Parramatta 2019" labelloc=t]
+	node [shape=box]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Asma Payara (1396)" [label="Asma Payara (1396)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+United Australia Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+United Australia Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+United Australia Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Asma Payara (1396)" [label="Asma Payara (1396)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+United Australia Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Asma Payara (1396)" [label="Asma Payara (1396)
+Christian Democratic Party (Fred Nile Group)"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+United Australia Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
+	"Asma Payara (1396)" -> "Phil Bradley (277)" [label=559]
+	"Ganesh Sahadev Loke (1395)" -> "Asma Payara (1396)" [label=432]
+	"Oscar Grenfell (1397)" -> "Ganesh Sahadev Loke (1395)" [label=79]
+	"Ganesh Sahadev Loke (1395)" -> "Phil Bradley (277)" [label=400]
+	"Oscar Grenfell (1397)" -> "Phil Bradley (277)" [label=226]
+	"Oscar Grenfell (1397)" -> "Asma Payara (1396)" [label=184]
+}

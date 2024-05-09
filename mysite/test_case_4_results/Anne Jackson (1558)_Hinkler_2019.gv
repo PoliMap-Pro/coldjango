@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Anne Jackson (1558)_Hinkler_2019" {
+	graph [label="Hinkler 2019" labelloc=t]
+	node [shape=box]
+	"Anne Jackson (1558)" [label="Anne Jackson (1558)
+The Greens"]
+	"Moe Turaga (1560)" [label="Moe Turaga (1560)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Anne Jackson (1558)" [label="Anne Jackson (1558)
+The Greens"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Anne Jackson (1558)" [label="Anne Jackson (1558)
+The Greens"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Anne Jackson (1558)" [label="Anne Jackson (1558)
+The Greens"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Anne Jackson (1558)" [label="Anne Jackson (1558)
+The Greens"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Moe Turaga (1560)" [label="Moe Turaga (1560)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Moe Turaga (1560)" [label="Moe Turaga (1560)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Moe Turaga (1560)" [label="Moe Turaga (1560)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Moe Turaga (1560)" [label="Moe Turaga (1560)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Moe Turaga (1560)" -> "Anne Jackson (1558)" [label=844]
+	"Aaron Erskine (1561)" -> "Moe Turaga (1560)" [label=249]
+	"Amy Byrnes (1563)" -> "Aaron Erskine (1561)" [label=130]
+	"David Norman (1559)" -> "Amy Byrnes (1563)" [label=55]
+	"Adrian Jacob Wone (1565)" -> "David Norman (1559)" [label=106]
+	"Aaron Erskine (1561)" -> "Anne Jackson (1558)" [label=66]
+	"Amy Byrnes (1563)" -> "Anne Jackson (1558)" [label=429]
+	"David Norman (1559)" -> "Anne Jackson (1558)" [label=101]
+	"Adrian Jacob Wone (1565)" -> "Anne Jackson (1558)" [label=18]
+	"Adrian Jacob Wone (1565)" -> "Amy Byrnes (1563)" [label=78]
+	"David Norman (1559)" -> "Aaron Erskine (1561)" [label=63]
+	"Adrian Jacob Wone (1565)" -> "Aaron Erskine (1561)" [label=32]
+	"Amy Byrnes (1563)" -> "Moe Turaga (1560)" [label=273]
+	"David Norman (1559)" -> "Moe Turaga (1560)" [label=725]
+	"Adrian Jacob Wone (1565)" -> "Moe Turaga (1560)" [label=164]
+}

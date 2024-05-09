@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Lindsay Peters (2807)_Bennelong_2013" {
+	graph [label="Bennelong 2013" labelloc=t]
+	node [shape=box]
+	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
+The Greens"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
+The Greens"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
+The Greens"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
+The Greens"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lindsay Peters (2807)" [label="Lindsay Peters (2807)
+The Greens"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+Palmer United Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Julie Worsley (1231)" -> "Lindsay Peters (2807)" [label=369]
+	"Robert James Marks (304)" -> "Julie Worsley (1231)" [label=267]
+	"John August (32)" -> "Robert James Marks (304)" [label=114]
+	"Lachlan Patrick Mccaffrey (2809)" -> "John August (32)" [label=49]
+	"Victor Waterson (37)" -> "Lachlan Patrick Mccaffrey (2809)" [label=41]
+	"Robert James Marks (304)" -> "Lindsay Peters (2807)" [label=395]
+	"John August (32)" -> "Lindsay Peters (2807)" [label=259]
+	"Lachlan Patrick Mccaffrey (2809)" -> "Lindsay Peters (2807)" [label=90]
+	"Victor Waterson (37)" -> "Lindsay Peters (2807)" [label=47]
+	"Victor Waterson (37)" -> "John August (32)" [label=123]
+	"Lachlan Patrick Mccaffrey (2809)" -> "Robert James Marks (304)" [label=77]
+	"Victor Waterson (37)" -> "Robert James Marks (304)" [label=79]
+	"John August (32)" -> "Julie Worsley (1231)" [label=46]
+	"Lachlan Patrick Mccaffrey (2809)" -> "Julie Worsley (1231)" [label=111]
+	"Victor Waterson (37)" -> "Julie Worsley (1231)" [label=30]
+}

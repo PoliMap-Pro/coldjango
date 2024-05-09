@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Roger Brisbane (2407)_Moncrieff_2016" {
+	graph [label="Moncrieff 2016" labelloc=t]
+	node [shape=box]
+	"Roger Brisbane (2407)" [label="Roger Brisbane (2407)
+The Greens"]
+	"Julie Rose (2406)" [label="Julie Rose (2406)
+Family First"]
+	"Julie Rose (2406)" [label="Julie Rose (2406)
+Family First"]
+	"Julie Rose (2406)" -> "Roger Brisbane (2407)" [label=1861]
+}

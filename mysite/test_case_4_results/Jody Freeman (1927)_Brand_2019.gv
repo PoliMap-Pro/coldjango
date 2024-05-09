@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jody Freeman (1927)_Brand_2019" {
+	graph [label="Brand 2019" labelloc=t]
+	node [shape=box]
+	"Jody Freeman (1927)" [label="Jody Freeman (1927)
+The Greens (WA)"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jody Freeman (1927)" [label="Jody Freeman (1927)
+The Greens (WA)"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jody Freeman (1927)" [label="Jody Freeman (1927)
+The Greens (WA)"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jody Freeman (1927)" [label="Jody Freeman (1927)
+The Greens (WA)"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jody Freeman (1927)" [label="Jody Freeman (1927)
+The Greens (WA)"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Travis Carter (1075)" -> "Jody Freeman (1927)" [label=3394]
+	"Trevor Jones (1662)" -> "Travis Carter (1075)" [label=1700]
+	"Janine Joy Vander Ven (1924)" -> "Trevor Jones (1662)" [label=229]
+	"Blake Phelan (1928)" -> "Janine Joy Vander Ven (1924)" [label=175]
+	"Karen-Lee Mills (1926)" -> "Blake Phelan (1928)" [label=114]
+	"Trevor Jones (1662)" -> "Jody Freeman (1927)" [label=512]
+	"Janine Joy Vander Ven (1924)" -> "Jody Freeman (1927)" [label=276]
+	"Blake Phelan (1928)" -> "Jody Freeman (1927)" [label=467]
+	"Karen-Lee Mills (1926)" -> "Jody Freeman (1927)" [label=97]
+	"Karen-Lee Mills (1926)" -> "Janine Joy Vander Ven (1924)" [label=169]
+	"Blake Phelan (1928)" -> "Trevor Jones (1662)" [label=425]
+	"Karen-Lee Mills (1926)" -> "Trevor Jones (1662)" [label=175]
+	"Janine Joy Vander Ven (1924)" -> "Travis Carter (1075)" [label=385]
+	"Blake Phelan (1928)" -> "Travis Carter (1075)" [label=574]
+	"Karen-Lee Mills (1926)" -> "Travis Carter (1075)" [label=556]
+}

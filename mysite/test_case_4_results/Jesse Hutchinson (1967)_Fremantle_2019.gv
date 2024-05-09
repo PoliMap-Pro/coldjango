@@ -1,0 +1,228 @@
+// House preference flow
+digraph "Jesse Hutchinson (1967)_Fremantle_2019" {
+	graph [label="Fremantle 2019" labelloc=t]
+	node [shape=box]
+	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
+The Greens (WA)"]
+	"Brett Weary (1964)" [label="Brett Weary (1964)
+Pauline Hanson's One Nation"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
+The Greens (WA)"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
+The Greens (WA)"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
+The Greens (WA)"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Jesse Hutchinson (1967)" [label="Jesse Hutchinson (1967)
+The Greens (WA)"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Brett Weary (1964)" [label="Brett Weary (1964)
+Pauline Hanson's One Nation"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Brett Weary (1964)" [label="Brett Weary (1964)
+Pauline Hanson's One Nation"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Brett Weary (1964)" [label="Brett Weary (1964)
+Pauline Hanson's One Nation"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Brett Weary (1964)" [label="Brett Weary (1964)
+Pauline Hanson's One Nation"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Fatima Lever (1965)" [label="Fatima Lever (1965)
+United Australia Party"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Laetisia Mulder (1968)" [label="Laetisia Mulder (1968)
+Australian Christians"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Brett Weary (1964)" -> "Jesse Hutchinson (1967)" [label=1101]
+	"Janetia Knapp (1137)" -> "Brett Weary (1964)" [label=596]
+	"Fatima Lever (1965)" -> "Janetia Knapp (1137)" [label=293]
+	"Laetisia Mulder (1968)" -> "Fatima Lever (1965)" [label=82]
+	"Sam Wainwright (1130)" -> "Laetisia Mulder (1968)" [label=22]
+	"Janetia Knapp (1137)" -> "Jesse Hutchinson (1967)" [label=544]
+	"Fatima Lever (1965)" -> "Jesse Hutchinson (1967)" [label=183]
+	"Laetisia Mulder (1968)" -> "Jesse Hutchinson (1967)" [label=151]
+	"Sam Wainwright (1130)" -> "Jesse Hutchinson (1967)" [label=587]
+	"Sam Wainwright (1130)" -> "Fatima Lever (1965)" [label=56]
+	"Laetisia Mulder (1968)" -> "Janetia Knapp (1137)" [label=173]
+	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=76]
+	"Fatima Lever (1965)" -> "Brett Weary (1964)" [label=636]
+	"Laetisia Mulder (1968)" -> "Brett Weary (1964)" [label=126]
+	"Sam Wainwright (1130)" -> "Brett Weary (1964)" [label=32]
+}

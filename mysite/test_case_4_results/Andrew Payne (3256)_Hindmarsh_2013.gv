@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Andrew Payne (3256)_Hindmarsh_2013" {
+	graph [label="Hindmarsh 2013" labelloc=t]
+	node [shape=box]
+	"Andrew Payne (3256)" [label="Andrew Payne (3256)
+Australian Greens"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Andrew Payne (3256)" [label="Andrew Payne (3256)
+Australian Greens"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Andrew Payne (3256)" [label="Andrew Payne (3256)
+Australian Greens"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Andrew Payne (3256)" [label="Andrew Payne (3256)
+Australian Greens"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Bob Randall (3260)" -> "Andrew Payne (3256)" [label=1077]
+	"George Peter Melissourgos (3257)" -> "Bob Randall (3260)" [label=607]
+	"David Mccabe (3258)" -> "George Peter Melissourgos (3257)" [label=131]
+	"Kym Mckay (3259)" -> "David Mccabe (3258)" [label=62]
+	"George Peter Melissourgos (3257)" -> "Andrew Payne (3256)" [label=483]
+	"David Mccabe (3258)" -> "Andrew Payne (3256)" [label=206]
+	"Kym Mckay (3259)" -> "Andrew Payne (3256)" [label=69]
+	"Kym Mckay (3259)" -> "George Peter Melissourgos (3257)" [label=166]
+	"David Mccabe (3258)" -> "Bob Randall (3260)" [label=149]
+	"Kym Mckay (3259)" -> "Bob Randall (3260)" [label=83]
+}

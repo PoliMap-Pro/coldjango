@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Carmel Mary Mccallum (1297)_Gilmore_2016" {
+	graph [label="Gilmore 2016" labelloc=t]
+	node [shape=box]
+	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
+The Greens"]
+	"Steve Ryan (2102)" [label="Steve Ryan (2102)
+Christian Democratic Party (Fred Nile Group)"]
+	"Steve Ryan (2102)" [label="Steve Ryan (2102)
+Christian Democratic Party (Fred Nile Group)"]
+	"Steve Ryan (2102)" -> "Carmel Mary Mccallum (1297)" [label=765]
+}

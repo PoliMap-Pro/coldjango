@@ -1,0 +1,113 @@
+// House preference flow
+digraph "Rod Swift (2617)_Gellibrand_2013" {
+	graph [label="Gellibrand 2013" labelloc=t]
+	node [shape=box]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+	"Dwayne Robert Singleton (3410)" [label="Dwayne Robert Singleton (3410)
+Palmer United Party"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Dwayne Robert Singleton (3410)" [label="Dwayne Robert Singleton (3410)
+Palmer United Party"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Dwayne Robert Singleton (3410)" [label="Dwayne Robert Singleton (3410)
+Palmer United Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Dwayne Robert Singleton (3410)" [label="Dwayne Robert Singleton (3410)
+Palmer United Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Kerry Arch (3408)" [label="Kerry Arch (3408)
+Family First Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Dwayne Robert Singleton (3410)" -> "Rod Swift (2617)" [label=1620]
+	"Kerry Arch (3408)" -> "Dwayne Robert Singleton (3410)" [label=409]
+	"Allan Cashion (3411)" -> "Kerry Arch (3408)" [label=247]
+	"Anthony O'Neill (2665)" -> "Allan Cashion (3411)" [label=30]
+	"Kerry Arch (3408)" -> "Rod Swift (2617)" [label=404]
+	"Allan Cashion (3411)" -> "Rod Swift (2617)" [label=1188]
+	"Anthony O'Neill (2665)" -> "Rod Swift (2617)" [label=60]
+	"Anthony O'Neill (2665)" -> "Kerry Arch (3408)" [label=395]
+	"Allan Cashion (3411)" -> "Dwayne Robert Singleton (3410)" [label=373]
+	"Anthony O'Neill (2665)" -> "Dwayne Robert Singleton (3410)" [label=89]
+}

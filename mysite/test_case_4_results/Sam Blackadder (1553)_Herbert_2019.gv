@@ -1,0 +1,55 @@
+// House preference flow
+digraph "Sam Blackadder (1553)_Herbert_2019" {
+	graph [label="Herbert 2019" labelloc=t]
+	node [shape=box]
+	"Sam Blackadder (1553)" [label="Sam Blackadder (1553)
+The Greens"]
+	"Greg Dowling (1551)" [label="Greg Dowling (1551)
+United Australia Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Sam Blackadder (1553)" [label="Sam Blackadder (1553)
+The Greens"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Sam Blackadder (1553)" [label="Sam Blackadder (1553)
+The Greens"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Greg Dowling (1551)" [label="Greg Dowling (1551)
+United Australia Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Greg Dowling (1551)" [label="Greg Dowling (1551)
+United Australia Party"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Greg Dowling (1551)" -> "Sam Blackadder (1553)" [label=258]
+	"Tamara Durant (1554)" -> "Greg Dowling (1551)" [label=202]
+	"Mackenzie Severns (1555)" -> "Tamara Durant (1554)" [label=167]
+	"Tamara Durant (1554)" -> "Sam Blackadder (1553)" [label=104]
+	"Mackenzie Severns (1555)" -> "Sam Blackadder (1553)" [label=602]
+	"Mackenzie Severns (1555)" -> "Greg Dowling (1551)" [label=76]
+}

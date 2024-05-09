@@ -1,0 +1,456 @@
+// House preference flow
+digraph "Luke Arthur (1759)_Chisholm_2019" {
+	graph [label="Chisholm 2019" labelloc=t]
+	node [shape=box]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Luke Arthur (1759)" [label="Luke Arthur (1759)
+The Greens (VIC)"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" [label="Ian Dobby (1757)
+Independent"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Anne Wicks (1761)" [label="Anne Wicks (1761)
+Derryn Hinch's Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
+Animal Justice Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Philip Jenkins (1764)" [label="Philip Jenkins (1764)
+Labour DLP"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"George Zoraya (1762)" [label="George Zoraya (1762)
+United Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
+Rise Up Australia Party"]
+	"Ian Dobby (1757)" -> "Luke Arthur (1759)" [label=1676]
+	"Anne Wicks (1761)" -> "Ian Dobby (1757)" [label=984]
+	"Rosemary Lavin (1760)" -> "Anne Wicks (1761)" [label=338]
+	"Philip Jenkins (1764)" -> "Rosemary Lavin (1760)" [label=86]
+	"George Zoraya (1762)" -> "Philip Jenkins (1764)" [label=70]
+	"Angela Mary Dorian (1758)" -> "George Zoraya (1762)" [label=89]
+	"Anne Wicks (1761)" -> "Luke Arthur (1759)" [label=550]
+	"Rosemary Lavin (1760)" -> "Luke Arthur (1759)" [label=915]
+	"Philip Jenkins (1764)" -> "Luke Arthur (1759)" [label=194]
+	"George Zoraya (1762)" -> "Luke Arthur (1759)" [label=121]
+	"Angela Mary Dorian (1758)" -> "Luke Arthur (1759)" [label=67]
+	"Angela Mary Dorian (1758)" -> "Philip Jenkins (1764)" [label=58]
+	"George Zoraya (1762)" -> "Rosemary Lavin (1760)" [label=114]
+	"Angela Mary Dorian (1758)" -> "Rosemary Lavin (1760)" [label=41]
+	"Philip Jenkins (1764)" -> "Anne Wicks (1761)" [label=132]
+	"George Zoraya (1762)" -> "Anne Wicks (1761)" [label=283]
+	"Angela Mary Dorian (1758)" -> "Anne Wicks (1761)" [label=52]
+	"Rosemary Lavin (1760)" -> "Ian Dobby (1757)" [label=248]
+	"Philip Jenkins (1764)" -> "Ian Dobby (1757)" [label=290]
+	"George Zoraya (1762)" -> "Ian Dobby (1757)" [label=214]
+	"Angela Mary Dorian (1758)" -> "Ian Dobby (1757)" [label=115]
+}

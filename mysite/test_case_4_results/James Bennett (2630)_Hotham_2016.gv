@@ -1,0 +1,55 @@
+// House preference flow
+digraph "James Bennett (2630)_Hotham_2016" {
+	graph [label="Hotham 2016" labelloc=t]
+	node [shape=box]
+	"James Bennett (2630)" [label="James Bennett (2630)
+The Greens"]
+	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
+Family First Party"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"James Bennett (2630)" [label="James Bennett (2630)
+The Greens"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"James Bennett (2630)" [label="James Bennett (2630)
+The Greens"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
+Family First Party"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Tatiana Rathbone (2631)" -> "James Bennett (2630)" [label=1193]
+	"Helen Ann Jeges (2629)" -> "Tatiana Rathbone (2631)" [label=550]
+	"Peter Vassiliou (2632)" -> "Helen Ann Jeges (2629)" [label=220]
+	"Helen Ann Jeges (2629)" -> "James Bennett (2630)" [label=1034]
+	"Peter Vassiliou (2632)" -> "James Bennett (2630)" [label=245]
+	"Peter Vassiliou (2632)" -> "Tatiana Rathbone (2631)" [label=959]
+}

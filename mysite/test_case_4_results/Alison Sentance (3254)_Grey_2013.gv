@@ -1,0 +1,12 @@
+// House preference flow
+digraph "Alison Sentance (3254)_Grey_2013" {
+	graph [label="Grey 2013" labelloc=t]
+	node [shape=box]
+	"Alison Sentance (3254)" [label="Alison Sentance (3254)
+Australian Greens"]
+	"Greg Fidge (3255)" [label="Greg Fidge (3255)
+Independent"]
+	"Greg Fidge (3255)" [label="Greg Fidge (3255)
+Independent"]
+	"Greg Fidge (3255)" -> "Alison Sentance (3254)" [label=450]
+}
