@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jannette Langley (868)_Gippsland_2022" {
+	graph [label="Gippsland 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jannette Langley (868)" [label="Jannette Langley (868)
+Australian Labor Party"]
+	"Greg Hansford (863)" [label="Greg Hansford (863)
+Pauline Hanson's One Nation"]
+	"Marjorie Thorpe (866)" [label="Marjorie Thorpe (866)
+The Greens"]
+	"Gregory Emil Forster (865)" [label="Gregory Emil Forster (865)
+United Australia Party"]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+Liberal Democrats"]
+	"Greg Hansford (863)" -> "Jannette Langley (868)" [label=2590]
+	"Marjorie Thorpe (866)" -> "Greg Hansford (863)" [label=600]
+	"Gregory Emil Forster (865)" -> "Marjorie Thorpe (866)" [label=284]
+	"Jim Mcdonald (867)" -> "Gregory Emil Forster (865)" [label=590]
+	"Marjorie Thorpe (866)" -> "Jannette Langley (868)" [label=6709]
+	"Gregory Emil Forster (865)" -> "Jannette Langley (868)" [label=403]
+	"Jim Mcdonald (867)" -> "Jannette Langley (868)" [label=595]
+	"Jim Mcdonald (867)" -> "Marjorie Thorpe (866)" [label=336]
+	"Gregory Emil Forster (865)" -> "Greg Hansford (863)" [label=3355]
+	"Jim Mcdonald (867)" -> "Greg Hansford (863)" [label=1098]
+}

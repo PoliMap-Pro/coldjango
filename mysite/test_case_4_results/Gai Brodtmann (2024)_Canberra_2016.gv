@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Gai Brodtmann (2024)_Canberra_2016" {
+	graph [label="Canberra 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gai Brodtmann (2024)" [label="Gai Brodtmann (2024)
+Australian Labor Party"]
+	"Patricia Cahill (2025)" [label="Patricia Cahill (2025)
+The Greens"]
+	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
+Bullet Train For Australia"]
+	"Patricia Cahill (2025)" -> "Gai Brodtmann (2024)" [label=18251]
+	"Christopher D'Arcy Bucknell (2026)" -> "Patricia Cahill (2025)" [label=2077]
+	"Christopher D'Arcy Bucknell (2026)" -> "Gai Brodtmann (2024)" [label=1905]
+}

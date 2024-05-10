@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Bowen (215)_McMahon_2019" {
+	graph [label="McMahon 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Bowen (215)" [label="Chris Bowen (215)
+Labor"]
+	"Damian Commane (1364)" [label="Damian Commane (1364)
+Pauline Hanson's One Nation"]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Meg Libby Wrightson (1363)" [label="Meg Libby Wrightson (1363)
+United Australia Party"]
+	"Zeeshan Philip Francis (1365)" [label="Zeeshan Philip Francis (1365)
+Christian Democratic Party (Fred Nile Group)"]
+	"Damian Commane (1364)" -> "Chris Bowen (215)" [label=4726]
+	"Astrid O'Neill (219)" -> "Damian Commane (1364)" [label=597]
+	"Meg Libby Wrightson (1363)" -> "Astrid O'Neill (219)" [label=369]
+	"Zeeshan Philip Francis (1365)" -> "Meg Libby Wrightson (1363)" [label=301]
+	"Astrid O'Neill (219)" -> "Chris Bowen (215)" [label=3205]
+	"Meg Libby Wrightson (1363)" -> "Chris Bowen (215)" [label=563]
+	"Zeeshan Philip Francis (1365)" -> "Chris Bowen (215)" [label=519]
+	"Zeeshan Philip Francis (1365)" -> "Astrid O'Neill (219)" [label=187]
+	"Meg Libby Wrightson (1363)" -> "Damian Commane (1364)" [label=2031]
+	"Zeeshan Philip Francis (1365)" -> "Damian Commane (1364)" [label=614]
+}

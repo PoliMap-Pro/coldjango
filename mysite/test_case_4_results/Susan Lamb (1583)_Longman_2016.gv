@@ -1,0 +1,70 @@
+// House preference flow
+digraph "Susan Lamb (1583)_Longman_2016" {
+	graph [label="Longman 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susan Lamb (1583)" [label="Susan Lamb (1583)
+Australian Labor Party"]
+	"Michelle Pedersen (2385)" [label="Michelle Pedersen (2385)
+Pauline Hanson's One Nation"]
+	"Ian Bell (2386)" [label="Ian Bell (2386)
+The Greens"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
+Drug Law Reform"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Michelle Pedersen (2385)" -> "Susan Lamb (1583)" [label=7581]
+	"Ian Bell (2386)" -> "Michelle Pedersen (2385)" [label=1290]
+	"Will Smith (2393)" -> "Ian Bell (2386)" [label=799]
+	"Frances Mcdonald (2384)" -> "Will Smith (2393)" [label=479]
+	"Brad Kennedy (2389)" -> "Frances Mcdonald (2384)" [label=141]
+	"Greg Riddell (2391)" -> "Brad Kennedy (2389)" [label=227]
+	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
+	"Caleb Wells (2388)" -> "Rob Law (2392)" [label=30]
+	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
+	"Ian Bell (2386)" -> "Susan Lamb (1583)" [label=3454]
+	"Will Smith (2393)" -> "Susan Lamb (1583)" [label=784]
+	"Frances Mcdonald (2384)" -> "Susan Lamb (1583)" [label=1131]
+	"Brad Kennedy (2389)" -> "Susan Lamb (1583)" [label=223]
+	"Greg Riddell (2391)" -> "Susan Lamb (1583)" [label=222]
+	"Rob Law (2392)" -> "Susan Lamb (1583)" [label=106]
+	"Caleb Wells (2388)" -> "Susan Lamb (1583)" [label=35]
+	"Stephen Beck (2390)" -> "Susan Lamb (1583)" [label=32]
+	"Stephen Beck (2390)" -> "Rob Law (2392)" [label=15]
+	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
+	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
+	"Rob Law (2392)" -> "Brad Kennedy (2389)" [label=43]
+	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=37]
+	"Stephen Beck (2390)" -> "Brad Kennedy (2389)" [label=6]
+	"Greg Riddell (2391)" -> "Frances Mcdonald (2384)" [label=140]
+	"Rob Law (2392)" -> "Frances Mcdonald (2384)" [label=50]
+	"Caleb Wells (2388)" -> "Frances Mcdonald (2384)" [label=26]
+	"Stephen Beck (2390)" -> "Frances Mcdonald (2384)" [label=36]
+	"Brad Kennedy (2389)" -> "Will Smith (2393)" [label=483]
+	"Greg Riddell (2391)" -> "Will Smith (2393)" [label=424]
+	"Rob Law (2392)" -> "Will Smith (2393)" [label=117]
+	"Caleb Wells (2388)" -> "Will Smith (2393)" [label=72]
+	"Stephen Beck (2390)" -> "Will Smith (2393)" [label=21]
+	"Frances Mcdonald (2384)" -> "Ian Bell (2386)" [label=530]
+	"Brad Kennedy (2389)" -> "Ian Bell (2386)" [label=141]
+	"Greg Riddell (2391)" -> "Ian Bell (2386)" [label=187]
+	"Rob Law (2392)" -> "Ian Bell (2386)" [label=82]
+	"Caleb Wells (2388)" -> "Ian Bell (2386)" [label=19]
+	"Stephen Beck (2390)" -> "Ian Bell (2386)" [label=46]
+	"Will Smith (2393)" -> "Michelle Pedersen (2385)" [label=1719]
+	"Frances Mcdonald (2384)" -> "Michelle Pedersen (2385)" [label=608]
+	"Brad Kennedy (2389)" -> "Michelle Pedersen (2385)" [label=627]
+	"Greg Riddell (2391)" -> "Michelle Pedersen (2385)" [label=276]
+	"Rob Law (2392)" -> "Michelle Pedersen (2385)" [label=64]
+	"Caleb Wells (2388)" -> "Michelle Pedersen (2385)" [label=464]
+	"Stephen Beck (2390)" -> "Michelle Pedersen (2385)" [label=9]
+}

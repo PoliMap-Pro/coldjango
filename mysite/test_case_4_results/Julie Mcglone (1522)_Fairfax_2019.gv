@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Julie Mcglone (1522)_Fairfax_2019" {
+	graph [label="Fairfax 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Julie Mcglone (1522)" [label="Julie Mcglone (1522)
+Australian Labor Party"]
+	"Sue Etheridge (446)" [label="Sue Etheridge (446)
+The Greens"]
+	"Paul Henselin (138)" [label="Paul Henselin (138)
+Pauline Hanson's One Nation"]
+	"Kylie Natasha Cowling (1517)" [label="Kylie Natasha Cowling (1517)
+United Australia Party"]
+	"Richard Belcher (1519)" [label="Richard Belcher (1519)
+Sustainable Australia"]
+	"Jake Luke Ryan (1518)" [label="Jake Luke Ryan (1518)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Sinim Australie (1520)" [label="Sinim Australie (1520)
+Independent"]
+	"Bertrand Cadart (1521)" [label="Bertrand Cadart (1521)
+Liberal Democrats"]
+	"Sue Etheridge (446)" -> "Julie Mcglone (1522)" [label=11339]
+	"Paul Henselin (138)" -> "Sue Etheridge (446)" [label=2448]
+	"Kylie Natasha Cowling (1517)" -> "Paul Henselin (138)" [label=1361]
+	"Richard Belcher (1519)" -> "Kylie Natasha Cowling (1517)" [label=203]
+	"Jake Luke Ryan (1518)" -> "Richard Belcher (1519)" [label=136]
+	"Sinim Australie (1520)" -> "Jake Luke Ryan (1518)" [label=116]
+	"Bertrand Cadart (1521)" -> "Sinim Australie (1520)" [label=105]
+	"Paul Henselin (138)" -> "Julie Mcglone (1522)" [label=2303]
+	"Kylie Natasha Cowling (1517)" -> "Julie Mcglone (1522)" [label=342]
+	"Richard Belcher (1519)" -> "Julie Mcglone (1522)" [label=260]
+	"Jake Luke Ryan (1518)" -> "Julie Mcglone (1522)" [label=71]
+	"Sinim Australie (1520)" -> "Julie Mcglone (1522)" [label=248]
+	"Bertrand Cadart (1521)" -> "Julie Mcglone (1522)" [label=157]
+	"Bertrand Cadart (1521)" -> "Jake Luke Ryan (1518)" [label=47]
+	"Sinim Australie (1520)" -> "Richard Belcher (1519)" [label=349]
+	"Bertrand Cadart (1521)" -> "Richard Belcher (1519)" [label=49]
+	"Jake Luke Ryan (1518)" -> "Kylie Natasha Cowling (1517)" [label=285]
+	"Sinim Australie (1520)" -> "Kylie Natasha Cowling (1517)" [label=104]
+	"Bertrand Cadart (1521)" -> "Kylie Natasha Cowling (1517)" [label=76]
+	"Richard Belcher (1519)" -> "Paul Henselin (138)" [label=308]
+	"Jake Luke Ryan (1518)" -> "Paul Henselin (138)" [label=734]
+	"Sinim Australie (1520)" -> "Paul Henselin (138)" [label=193]
+	"Bertrand Cadart (1521)" -> "Paul Henselin (138)" [label=173]
+	"Kylie Natasha Cowling (1517)" -> "Sue Etheridge (446)" [label=894]
+	"Richard Belcher (1519)" -> "Sue Etheridge (446)" [label=811]
+	"Jake Luke Ryan (1518)" -> "Sue Etheridge (446)" [label=121]
+	"Sinim Australie (1520)" -> "Sue Etheridge (446)" [label=225]
+	"Bertrand Cadart (1521)" -> "Sue Etheridge (446)" [label=110]
+}

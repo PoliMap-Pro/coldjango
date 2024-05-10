@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tim Watts (862)_Gellibrand_2016" {
+	graph [label="Gellibrand 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tim Watts (862)" [label="Tim Watts (862)
+Australian Labor Party"]
+	"Jonathon Marsden (2600)" [label="Jonathon Marsden (2600)
+The Greens"]
+	"David Tran (2602)" [label="David Tran (2602)
+Independent"]
+	"Jonathon Marsden (2600)" -> "Tim Watts (862)" [label=18345]
+	"David Tran (2602)" -> "Jonathon Marsden (2600)" [label=1439]
+	"David Tran (2602)" -> "Tim Watts (862)" [label=1375]
+}

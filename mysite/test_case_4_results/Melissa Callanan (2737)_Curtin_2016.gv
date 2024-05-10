@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Melissa Callanan (2737)_Curtin_2016" {
+	graph [label="Curtin 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Melissa Callanan (2737)" [label="Melissa Callanan (2737)
+Australian Labor Party"]
+	"Viv Glance (2736)" [label="Viv Glance (2736)
+The Greens (WA)"]
+	"Sandra Boulter (2738)" [label="Sandra Boulter (2738)
+Independent"]
+	"David Archibald (2735)" [label="David Archibald (2735)
+Australian Liberty Alliance"]
+	"Viv Glance (2736)" -> "Melissa Callanan (2737)" [label=10763]
+	"Sandra Boulter (2738)" -> "Viv Glance (2736)" [label=1007]
+	"David Archibald (2735)" -> "Sandra Boulter (2738)" [label=587]
+	"Sandra Boulter (2738)" -> "Melissa Callanan (2737)" [label=778]
+	"David Archibald (2735)" -> "Melissa Callanan (2737)" [label=116]
+	"David Archibald (2735)" -> "Viv Glance (2736)" [label=267]
+}

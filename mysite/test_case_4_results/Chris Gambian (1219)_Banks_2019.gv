@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Gambian (1219)_Banks_2019" {
+	graph [label="Banks 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Gambian (1219)" [label="Chris Gambian (1219)
+Labor"]
+	"Gianluca Dragone (1218)" [label="Gianluca Dragone (1218)
+The Greens"]
+	"Ki Man Ho (1222)" [label="Ki Man Ho (1222)
+Christian Democratic Party (Fred Nile Group)"]
+	"Reginald Keith Wright (1220)" [label="Reginald Keith Wright (1220)
+United Australia Party"]
+	"Anjali Thakur (1221)" [label="Anjali Thakur (1221)
+Animal Justice Party"]
+	"Gianluca Dragone (1218)" -> "Chris Gambian (1219)" [label=5305]
+	"Ki Man Ho (1222)" -> "Gianluca Dragone (1218)" [label=482]
+	"Reginald Keith Wright (1220)" -> "Ki Man Ho (1222)" [label=525]
+	"Anjali Thakur (1221)" -> "Reginald Keith Wright (1220)" [label=230]
+	"Ki Man Ho (1222)" -> "Chris Gambian (1219)" [label=591]
+	"Reginald Keith Wright (1220)" -> "Chris Gambian (1219)" [label=495]
+	"Anjali Thakur (1221)" -> "Chris Gambian (1219)" [label=389]
+	"Anjali Thakur (1221)" -> "Ki Man Ho (1222)" [label=217]
+	"Reginald Keith Wright (1220)" -> "Gianluca Dragone (1218)" [label=343]
+	"Anjali Thakur (1221)" -> "Gianluca Dragone (1218)" [label=571]
+}

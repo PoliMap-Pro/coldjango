@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Anne Maree Stanley (360)_Werriwa_2019" {
+	graph [label="Werriwa 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anne Maree Stanley (360)" [label="Anne Maree Stanley (360)
+Labor"]
+	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
+The Greens"]
+	"Narelle Storey (1446)" [label="Narelle Storey (1446)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ignatios Tsiriplis (1450)" [label="Ignatios Tsiriplis (1450)
+United Australia Party"]
+	"Michael White (1449)" [label="Michael White (1449)
+Independent"]
+	"Signe Westerberg (1448)" -> "Anne Maree Stanley (360)" [label=4565]
+	"Narelle Storey (1446)" -> "Signe Westerberg (1448)" [label=998]
+	"Ignatios Tsiriplis (1450)" -> "Narelle Storey (1446)" [label=888]
+	"Michael White (1449)" -> "Ignatios Tsiriplis (1450)" [label=543]
+	"Narelle Storey (1446)" -> "Anne Maree Stanley (360)" [label=1007]
+	"Ignatios Tsiriplis (1450)" -> "Anne Maree Stanley (360)" [label=1259]
+	"Michael White (1449)" -> "Anne Maree Stanley (360)" [label=437]
+	"Michael White (1449)" -> "Narelle Storey (1446)" [label=303]
+	"Ignatios Tsiriplis (1450)" -> "Signe Westerberg (1448)" [label=758]
+	"Michael White (1449)" -> "Signe Westerberg (1448)" [label=468]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Linda Little (1588)_Maranoa_2019" {
+	graph [label="Maranoa 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Linda Little (1588)" [label="Linda Little (1588)
+Australian Labor Party"]
+	"Anthony Wallis (1589)" [label="Anthony Wallis (1589)
+Katter's Australian Party (KAP)"]
+	"Julie Marie Saunders (1590)" [label="Julie Marie Saunders (1590)
+United Australia Party"]
+	"Emmeline Chidley (1593)" [label="Emmeline Chidley (1593)
+The Greens"]
+	"Darren Lee Christiansen (1591)" [label="Darren Lee Christiansen (1591)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Anthony Wallis (1589)" -> "Linda Little (1588)" [label=759]
+	"Julie Marie Saunders (1590)" -> "Anthony Wallis (1589)" [label=874]
+	"Emmeline Chidley (1593)" -> "Julie Marie Saunders (1590)" [label=239]
+	"Darren Lee Christiansen (1591)" -> "Emmeline Chidley (1593)" [label=76]
+	"Julie Marie Saunders (1590)" -> "Linda Little (1588)" [label=448]
+	"Emmeline Chidley (1593)" -> "Linda Little (1588)" [label=1908]
+	"Darren Lee Christiansen (1591)" -> "Linda Little (1588)" [label=51]
+	"Darren Lee Christiansen (1591)" -> "Julie Marie Saunders (1590)" [label=212]
+	"Emmeline Chidley (1593)" -> "Anthony Wallis (1589)" [label=232]
+	"Darren Lee Christiansen (1591)" -> "Anthony Wallis (1589)" [label=513]
+}

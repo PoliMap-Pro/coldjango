@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Mike Freelander (196)_Macarthur_2022" {
+	graph [label="Macarthur 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Mike Freelander (196)" [label="Mike Freelander (196)
+Labor"]
+	"Adam Zahra (199)" [label="Adam Zahra (199)
+Pauline Hanson's One Nation"]
+	"Jayden Rivera (194)" [label="Jayden Rivera (194)
+The Greens"]
+	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
+United Australia Party"]
+	"Scott Korman (198)" [label="Scott Korman (198)
+Liberal Democrats"]
+	"Adam Zahra (199)" -> "Mike Freelander (196)" [label=6425]
+	"Jayden Rivera (194)" -> "Adam Zahra (199)" [label=1155]
+	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
+	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
+	"Jayden Rivera (194)" -> "Mike Freelander (196)" [label=5977]
+	"Rosa Antonia Sicari (197)" -> "Mike Freelander (196)" [label=1264]
+	"Scott Korman (198)" -> "Mike Freelander (196)" [label=372]
+	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
+	"Rosa Antonia Sicari (197)" -> "Adam Zahra (199)" [label=4023]
+	"Scott Korman (198)" -> "Adam Zahra (199)" [label=470]
+}

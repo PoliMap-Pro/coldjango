@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Kim Travers (1989)_Pearce_2019" {
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kim Travers (1989)" [label="Kim Travers (1989)
+Australian Labor Party"]
+	"Sandy Old (1988)" [label="Sandy Old (1988)
+Pauline Hanson's One Nation"]
+	"Eugene Marshall (1992)" [label="Eugene Marshall (1992)
+The Greens (WA)"]
+	"Ross Williamson (1995)" [label="Ross Williamson (1995)
+Shooters, Fishers and Farmers"]
+	"Rob Forster (1994)" [label="Rob Forster (1994)
+United Australia Party"]
+	"Magdeleen Strauss (1991)" [label="Magdeleen Strauss (1991)
+Australian Christians"]
+	"Colin Butland (1996)" [label="Colin Butland (1996)
+Independent"]
+	"Steve Blyth (1993)" [label="Steve Blyth (1993)
+The Nationals"]
+	"Michael Calautti (1096)" [label="Michael Calautti (1096)
+WESTERN AUSTRALIA PARTY"]
+	"Sandy Old (1988)" -> "Kim Travers (1989)" [label=5651]
+	"Eugene Marshall (1992)" -> "Sandy Old (1988)" [label=1723]
+	"Ross Williamson (1995)" -> "Eugene Marshall (1992)" [label=970]
+	"Rob Forster (1994)" -> "Ross Williamson (1995)" [label=511]
+	"Magdeleen Strauss (1991)" -> "Rob Forster (1994)" [label=116]
+	"Colin Butland (1996)" -> "Magdeleen Strauss (1991)" [label=73]
+	"Steve Blyth (1993)" -> "Colin Butland (1996)" [label=89]
+	"Michael Calautti (1096)" -> "Steve Blyth (1993)" [label=58]
+	"Eugene Marshall (1992)" -> "Kim Travers (1989)" [label=6502]
+	"Ross Williamson (1995)" -> "Kim Travers (1989)" [label=381]
+	"Rob Forster (1994)" -> "Kim Travers (1989)" [label=260]
+	"Magdeleen Strauss (1991)" -> "Kim Travers (1989)" [label=153]
+	"Colin Butland (1996)" -> "Kim Travers (1989)" [label=224]
+	"Steve Blyth (1993)" -> "Kim Travers (1989)" [label=68]
+	"Michael Calautti (1096)" -> "Kim Travers (1989)" [label=179]
+	"Michael Calautti (1096)" -> "Colin Butland (1996)" [label=156]
+	"Steve Blyth (1993)" -> "Magdeleen Strauss (1991)" [label=40]
+	"Michael Calautti (1096)" -> "Magdeleen Strauss (1991)" [label=92]
+	"Colin Butland (1996)" -> "Rob Forster (1994)" [label=199]
+	"Steve Blyth (1993)" -> "Rob Forster (1994)" [label=86]
+	"Michael Calautti (1096)" -> "Rob Forster (1994)" [label=85]
+	"Magdeleen Strauss (1991)" -> "Ross Williamson (1995)" [label=421]
+	"Colin Butland (1996)" -> "Ross Williamson (1995)" [label=491]
+	"Steve Blyth (1993)" -> "Ross Williamson (1995)" [label=74]
+	"Michael Calautti (1096)" -> "Ross Williamson (1995)" [label=85]
+	"Rob Forster (1994)" -> "Eugene Marshall (1992)" [label=393]
+	"Magdeleen Strauss (1991)" -> "Eugene Marshall (1992)" [label=175]
+	"Colin Butland (1996)" -> "Eugene Marshall (1992)" [label=273]
+	"Steve Blyth (1993)" -> "Eugene Marshall (1992)" [label=115]
+	"Michael Calautti (1096)" -> "Eugene Marshall (1992)" [label=220]
+	"Ross Williamson (1995)" -> "Sandy Old (1988)" [label=1427]
+	"Rob Forster (1994)" -> "Sandy Old (1988)" [label=940]
+	"Magdeleen Strauss (1991)" -> "Sandy Old (1988)" [label=195]
+	"Colin Butland (1996)" -> "Sandy Old (1988)" [label=235]
+	"Steve Blyth (1993)" -> "Sandy Old (1988)" [label=101]
+	"Michael Calautti (1096)" -> "Sandy Old (1988)" [label=187]
+}

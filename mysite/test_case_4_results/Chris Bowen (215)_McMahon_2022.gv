@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Bowen (215)_McMahon_2022" {
+	graph [label="McMahon 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Bowen (215)" [label="Chris Bowen (215)
+Labor"]
+	"Marie Saliba (216)" [label="Marie Saliba (216)
+United Australia Party"]
+	"Scott Ford (217)" [label="Scott Ford (217)
+Pauline Hanson's One Nation"]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
+Liberal Democrats"]
+	"Marie Saliba (216)" -> "Chris Bowen (215)" [label=4909]
+	"Scott Ford (217)" -> "Marie Saliba (216)" [label=3476]
+	"Astrid O'Neill (219)" -> "Scott Ford (217)" [label=359]
+	"Cameron Shamsabad (220)" -> "Astrid O'Neill (219)" [label=314]
+	"Scott Ford (217)" -> "Chris Bowen (215)" [label=1002]
+	"Astrid O'Neill (219)" -> "Chris Bowen (215)" [label=3478]
+	"Cameron Shamsabad (220)" -> "Chris Bowen (215)" [label=367]
+	"Cameron Shamsabad (220)" -> "Scott Ford (217)" [label=722]
+	"Astrid O'Neill (219)" -> "Marie Saliba (216)" [label=559]
+	"Cameron Shamsabad (220)" -> "Marie Saliba (216)" [label=490]
+}

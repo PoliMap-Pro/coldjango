@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jessica O'Donnell (1026)_Monash_2019" {
+	graph [label="Monash 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jessica O'Donnell (1026)" [label="Jessica O'Donnell (1026)
+Australian Labor Party"]
+	"Jeff Waddell (1904)" [label="Jeff Waddell (1904)
+Pauline Hanson's One Nation"]
+	"William Hornstra (1905)" [label="William Hornstra (1905)
+The Greens (VIC)"]
+	"Michael Stewart Fozard (1903)" [label="Michael Stewart Fozard (1903)
+Independent"]
+	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
+United Australia Party"]
+	"John Verhoeven (1902)" [label="John Verhoeven (1902)
+Independent"]
+	"Jeff Waddell (1904)" -> "Jessica O'Donnell (1026)" [label=5296]
+	"William Hornstra (1905)" -> "Jeff Waddell (1904)" [label=718]
+	"Michael Stewart Fozard (1903)" -> "William Hornstra (1905)" [label=795]
+	"Matthew Sherry (1906)" -> "Michael Stewart Fozard (1903)" [label=508]
+	"John Verhoeven (1902)" -> "Matthew Sherry (1906)" [label=174]
+	"William Hornstra (1905)" -> "Jessica O'Donnell (1026)" [label=6139]
+	"Michael Stewart Fozard (1903)" -> "Jessica O'Donnell (1026)" [label=1202]
+	"Matthew Sherry (1906)" -> "Jessica O'Donnell (1026)" [label=339]
+	"John Verhoeven (1902)" -> "Jessica O'Donnell (1026)" [label=218]
+	"John Verhoeven (1902)" -> "Michael Stewart Fozard (1903)" [label=1690]
+	"Matthew Sherry (1906)" -> "William Hornstra (1905)" [label=246]
+	"John Verhoeven (1902)" -> "William Hornstra (1905)" [label=73]
+	"Michael Stewart Fozard (1903)" -> "Jeff Waddell (1904)" [label=1884]
+	"Matthew Sherry (1906)" -> "Jeff Waddell (1904)" [label=1344]
+	"John Verhoeven (1902)" -> "Jeff Waddell (1904)" [label=252]
+}

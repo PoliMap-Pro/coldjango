@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ed Husic (74)_Chifley_2019" {
+	graph [label="Chifley 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ed Husic (74)" [label="Ed Husic (74)
+Labor"]
+	"Josh Green (1250)" [label="Josh Green (1250)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brent John Robertson (1253)" [label="Brent John Robertson (1253)
+The Greens"]
+	"Joseph Oscar O'Connor (1252)" [label="Joseph Oscar O'Connor (1252)
+United Australia Party"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Josh Green (1250)" -> "Ed Husic (74)" [label=2644]
+	"Brent John Robertson (1253)" -> "Josh Green (1250)" [label=1292]
+	"Joseph Oscar O'Connor (1252)" -> "Brent John Robertson (1253)" [label=902]
+	"Ammar Aziz Khan (1251)" -> "Joseph Oscar O'Connor (1252)" [label=332]
+	"Brent John Robertson (1253)" -> "Ed Husic (74)" [label=3184]
+	"Joseph Oscar O'Connor (1252)" -> "Ed Husic (74)" [label=1041]
+	"Ammar Aziz Khan (1251)" -> "Ed Husic (74)" [label=474]
+	"Ammar Aziz Khan (1251)" -> "Brent John Robertson (1253)" [label=227]
+	"Joseph Oscar O'Connor (1252)" -> "Josh Green (1250)" [label=1203]
+	"Ammar Aziz Khan (1251)" -> "Josh Green (1250)" [label=368]
+}

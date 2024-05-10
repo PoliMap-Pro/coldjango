@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Mark Dreyfus (931)_Isaacs_2019" {
+	graph [label="Isaacs 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Mark Dreyfus (931)" [label="Mark Dreyfus (931)
+Australian Labor Party"]
+	"Kim Samiotis (1840)" [label="Kim Samiotis (1840)
+The Greens (VIC)"]
+	"Tony Seals (1844)" [label="Tony Seals (1844)
+United Australia Party"]
+	"Bronwyn Currie (1843)" [label="Bronwyn Currie (1843)
+Animal Justice Party"]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Kim Samiotis (1840)" -> "Mark Dreyfus (931)" [label=9143]
+	"Tony Seals (1844)" -> "Kim Samiotis (1840)" [label=931]
+	"Bronwyn Currie (1843)" -> "Tony Seals (1844)" [label=572]
+	"Ash Puvimanasinghe (1842)" -> "Bronwyn Currie (1843)" [label=237]
+	"Tony Seals (1844)" -> "Mark Dreyfus (931)" [label=1093]
+	"Bronwyn Currie (1843)" -> "Mark Dreyfus (931)" [label=939]
+	"Ash Puvimanasinghe (1842)" -> "Mark Dreyfus (931)" [label=106]
+	"Ash Puvimanasinghe (1842)" -> "Tony Seals (1844)" [label=269]
+	"Bronwyn Currie (1843)" -> "Kim Samiotis (1840)" [label=1685]
+	"Ash Puvimanasinghe (1842)" -> "Kim Samiotis (1840)" [label=128]
+}

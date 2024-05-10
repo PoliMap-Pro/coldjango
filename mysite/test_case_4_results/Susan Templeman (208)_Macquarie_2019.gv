@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Susan Templeman (208)_Macquarie_2019" {
+	graph [label="Macquarie 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susan Templeman (208)" [label="Susan Templeman (208)
+Labor"]
+	"Kingsley Liu (1361)" [label="Kingsley Liu (1361)
+The Greens"]
+	"Tony Bryan Pettitt (1362)" [label="Tony Bryan Pettitt (1362)
+United Australia Party"]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
+	"Kingsley Liu (1361)" -> "Susan Templeman (208)" [label=9569]
+	"Tony Bryan Pettitt (1362)" -> "Kingsley Liu (1361)" [label=878]
+	"Greg Keightley (211)" -> "Tony Bryan Pettitt (1362)" [label=700]
+	"Tony Bryan Pettitt (1362)" -> "Susan Templeman (208)" [label=1196]
+	"Greg Keightley (211)" -> "Susan Templeman (208)" [label=790]
+	"Greg Keightley (211)" -> "Kingsley Liu (1361)" [label=1570]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Kate Stewart (2195)_Parkes_2016" {
+	graph [label="Parkes 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kate Stewart (2195)" [label="Kate Stewart (2195)
+Labor"]
+	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
+The Greens"]
+	"Glen Ryan (2196)" [label="Glen Ryan (2196)
+Christian Democratic Party (Fred Nile Group)"]
+	"Philip John Ayton (2197)" [label="Philip John Ayton (2197)
+Online Direct Democracy - (Empowering the People!)"]
+	"Matt Parmeter (2198)" -> "Kate Stewart (2195)" [label=4276]
+	"Glen Ryan (2196)" -> "Matt Parmeter (2198)" [label=779]
+	"Philip John Ayton (2197)" -> "Glen Ryan (2196)" [label=724]
+	"Glen Ryan (2196)" -> "Kate Stewart (2195)" [label=1179]
+	"Philip John Ayton (2197)" -> "Kate Stewart (2195)" [label=463]
+	"Philip John Ayton (2197)" -> "Matt Parmeter (2198)" [label=443]
+}

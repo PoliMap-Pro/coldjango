@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jack Ayoub (269)_Parkes_2019" {
+	graph [label="Parkes 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jack Ayoub (269)" [label="Jack Ayoub (269)
+Labor"]
+	"Will Landers (1391)" [label="Will Landers (1391)
+Independent"]
+	"Daniel J Jones (1389)" [label="Daniel J Jones (1389)
+Liberal Democrats"]
+	"Petrus Joannes Gijsbertus Van Der Steen (1392)" [label="Petrus Joannes Gijsbertus Van Der Steen (1392)
+United Australia Party"]
+	"David Paull (1390)" [label="David Paull (1390)
+The Greens"]
+	"Will Landers (1391)" -> "Jack Ayoub (269)" [label=5336]
+	"Daniel J Jones (1389)" -> "Will Landers (1391)" [label=2066]
+	"Petrus Joannes Gijsbertus Van Der Steen (1392)" -> "Daniel J Jones (1389)" [label=868]
+	"David Paull (1390)" -> "Petrus Joannes Gijsbertus Van Der Steen (1392)" [label=239]
+	"Daniel J Jones (1389)" -> "Jack Ayoub (269)" [label=1148]
+	"Petrus Joannes Gijsbertus Van Der Steen (1392)" -> "Jack Ayoub (269)" [label=694]
+	"David Paull (1390)" -> "Jack Ayoub (269)" [label=1780]
+	"David Paull (1390)" -> "Daniel J Jones (1389)" [label=389]
+	"Petrus Joannes Gijsbertus Van Der Steen (1392)" -> "Will Landers (1391)" [label=2868]
+	"David Paull (1390)" -> "Will Landers (1391)" [label=764]
+}

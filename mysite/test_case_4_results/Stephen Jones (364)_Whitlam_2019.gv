@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Stephen Jones (364)_Whitlam_2019" {
+	graph [label="Whitlam 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stephen Jones (364)" [label="Stephen Jones (364)
+Labor"]
+	"Jamie Dixon (369)" [label="Jamie Dixon (369)
+The Greens"]
+	"Angelo Cuda (1451)" [label="Angelo Cuda (1451)
+United Australia Party"]
+	"Frank Rodolfo Nero (1452)" [label="Frank Rodolfo Nero (1452)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ken Davis (1454)" [label="Ken Davis (1454)
+Sustainable Australia"]
+	"Jamie Dixon (369)" -> "Stephen Jones (364)" [label=8764]
+	"Angelo Cuda (1451)" -> "Jamie Dixon (369)" [label=1622]
+	"Frank Rodolfo Nero (1452)" -> "Angelo Cuda (1451)" [label=1103]
+	"Ken Davis (1454)" -> "Frank Rodolfo Nero (1452)" [label=316]
+	"Angelo Cuda (1451)" -> "Stephen Jones (364)" [label=2354]
+	"Frank Rodolfo Nero (1452)" -> "Stephen Jones (364)" [label=645]
+	"Ken Davis (1454)" -> "Stephen Jones (364)" [label=676]
+	"Ken Davis (1454)" -> "Angelo Cuda (1451)" [label=761]
+	"Frank Rodolfo Nero (1452)" -> "Jamie Dixon (369)" [label=292]
+	"Ken Davis (1454)" -> "Jamie Dixon (369)" [label=1318]
+}

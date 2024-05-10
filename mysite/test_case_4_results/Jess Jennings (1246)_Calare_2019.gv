@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jess Jennings (1246)_Calare_2019" {
+	graph [label="Calare 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jess Jennings (1246)" [label="Jess Jennings (1246)
+Labor"]
+	"Sam Romano (1244)" [label="Sam Romano (1244)
+Shooters, Fishers and Farmers"]
+	"Stephanie Luke (1249)" [label="Stephanie Luke (1249)
+The Greens"]
+	"Stephen Bisgrove (1248)" [label="Stephen Bisgrove (1248)
+Liberal Democrats"]
+	"Beverley T. Cameron (1247)" [label="Beverley T. Cameron (1247)
+United Australia Party"]
+	"Shuyi Chen (1245)" [label="Shuyi Chen (1245)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sam Romano (1244)" -> "Jess Jennings (1246)" [label=9733]
+	"Stephanie Luke (1249)" -> "Sam Romano (1244)" [label=1190]
+	"Stephen Bisgrove (1248)" -> "Stephanie Luke (1249)" [label=561]
+	"Beverley T. Cameron (1247)" -> "Stephen Bisgrove (1248)" [label=364]
+	"Shuyi Chen (1245)" -> "Beverley T. Cameron (1247)" [label=204]
+	"Stephanie Luke (1249)" -> "Jess Jennings (1246)" [label=4329]
+	"Stephen Bisgrove (1248)" -> "Jess Jennings (1246)" [label=531]
+	"Beverley T. Cameron (1247)" -> "Jess Jennings (1246)" [label=446]
+	"Shuyi Chen (1245)" -> "Jess Jennings (1246)" [label=169]
+	"Shuyi Chen (1245)" -> "Stephen Bisgrove (1248)" [label=241]
+	"Beverley T. Cameron (1247)" -> "Stephanie Luke (1249)" [label=241]
+	"Shuyi Chen (1245)" -> "Stephanie Luke (1249)" [label=71]
+	"Stephen Bisgrove (1248)" -> "Sam Romano (1244)" [label=1350]
+	"Beverley T. Cameron (1247)" -> "Sam Romano (1244)" [label=1423]
+	"Shuyi Chen (1245)" -> "Sam Romano (1244)" [label=440]
+}

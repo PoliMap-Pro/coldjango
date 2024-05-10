@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jacqui Pedersen (2419)_Petrie_2016" {
+	graph [label="Petrie 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jacqui Pedersen (2419)" [label="Jacqui Pedersen (2419)
+Australian Labor Party"]
+	"Sue Weber (2421)" [label="Sue Weber (2421)
+The Greens"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
+	"Catherine Buckley (2418)" [label="Catherine Buckley (2418)
+Liberal Democrats"]
+	"Andrew Charles Tyrrell (2422)" [label="Andrew Charles Tyrrell (2422)
+The Arts Party"]
+	"Sue Weber (2421)" -> "Jacqui Pedersen (2419)" [label=7203]
+	"Mark A White (2420)" -> "Sue Weber (2421)" [label=2009]
+	"Catherine Buckley (2418)" -> "Mark A White (2420)" [label=659]
+	"Andrew Charles Tyrrell (2422)" -> "Catherine Buckley (2418)" [label=120]
+	"Mark A White (2420)" -> "Jacqui Pedersen (2419)" [label=1424]
+	"Catherine Buckley (2418)" -> "Jacqui Pedersen (2419)" [label=464]
+	"Andrew Charles Tyrrell (2422)" -> "Jacqui Pedersen (2419)" [label=160]
+	"Andrew Charles Tyrrell (2422)" -> "Mark A White (2420)" [label=348]
+	"Catherine Buckley (2418)" -> "Sue Weber (2421)" [label=295]
+	"Andrew Charles Tyrrell (2422)" -> "Sue Weber (2421)" [label=511]
+}

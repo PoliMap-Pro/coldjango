@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Zhi Soon (26)_Banks_2022" {
+	graph [label="Banks 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Zhi Soon (26)" [label="Zhi Soon (26)
+Labor"]
+	"Natalie Hanna (23)" [label="Natalie Hanna (23)
+The Greens"]
+	"Marika Momircevski (22)" [label="Marika Momircevski (22)
+United Australia Party"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+Pauline Hanson's One Nation"]
+	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
+Liberal Democrats"]
+	"Steve Khouw (24)" [label="Steve Khouw (24)
+"]
+	"Natalie Hanna (23)" -> "Zhi Soon (26)" [label=8027]
+	"Marika Momircevski (22)" -> "Natalie Hanna (23)" [label=1683]
+	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
+	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
+	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
+	"Marika Momircevski (22)" -> "Zhi Soon (26)" [label=1889]
+	"Malcolm Phillip Heffernan (25)" -> "Zhi Soon (26)" [label=366]
+	"Elouise Ivy Cocker (21)" -> "Zhi Soon (26)" [label=116]
+	"Steve Khouw (24)" -> "Zhi Soon (26)" [label=219]
+	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
+	"Elouise Ivy Cocker (21)" -> "Marika Momircevski (22)" [label=558]
+	"Steve Khouw (24)" -> "Marika Momircevski (22)" [label=118]
+	"Malcolm Phillip Heffernan (25)" -> "Natalie Hanna (23)" [label=249]
+	"Elouise Ivy Cocker (21)" -> "Natalie Hanna (23)" [label=92]
+	"Steve Khouw (24)" -> "Natalie Hanna (23)" [label=231]
+}

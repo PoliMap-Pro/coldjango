@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Graham Perrett (562)_Moreton_2019" {
+	graph [label="Moreton 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Graham Perrett (562)" [label="Graham Perrett (562)
+Australian Labor Party"]
+	"Patsy O'Brien (1609)" [label="Patsy O'Brien (1609)
+The Greens"]
+	"William Lawrence (1610)" [label="William Lawrence (1610)
+Pauline Hanson's One Nation"]
+	"Jenny-Rebecca Brown (1612)" [label="Jenny-Rebecca Brown (1612)
+United Australia Party"]
+	"Aaron Nieass (1608)" [label="Aaron Nieass (1608)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Patsy O'Brien (1609)" -> "Graham Perrett (562)" [label=13675]
+	"William Lawrence (1610)" -> "Patsy O'Brien (1609)" [label=944]
+	"Jenny-Rebecca Brown (1612)" -> "William Lawrence (1610)" [label=745]
+	"Aaron Nieass (1608)" -> "Jenny-Rebecca Brown (1612)" [label=228]
+	"William Lawrence (1610)" -> "Graham Perrett (562)" [label=890]
+	"Jenny-Rebecca Brown (1612)" -> "Graham Perrett (562)" [label=302]
+	"Aaron Nieass (1608)" -> "Graham Perrett (562)" [label=314]
+	"Aaron Nieass (1608)" -> "William Lawrence (1610)" [label=546]
+	"Jenny-Rebecca Brown (1612)" -> "Patsy O'Brien (1609)" [label=279]
+	"Aaron Nieass (1608)" -> "Patsy O'Brien (1609)" [label=133]
+}

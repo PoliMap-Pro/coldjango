@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Terri Butler (476)_Griffith_2019" {
+	graph [label="Griffith 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Terri Butler (476)" [label="Terri Butler (476)
+Australian Labor Party"]
+	"Max Chandler-Mather (475)" [label="Max Chandler-Mather (475)
+The Greens"]
+	"Julie Darlington (1542)" [label="Julie Darlington (1542)
+Pauline Hanson's One Nation"]
+	"Christian John Julius (1541)" [label="Christian John Julius (1541)
+United Australia Party"]
+	"Tony Murray (1543)" [label="Tony Murray (1543)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Max Chandler-Mather (475)" -> "Terri Butler (476)" [label=20980]
+	"Julie Darlington (1542)" -> "Max Chandler-Mather (475)" [label=852]
+	"Christian John Julius (1541)" -> "Julie Darlington (1542)" [label=588]
+	"Tony Murray (1543)" -> "Christian John Julius (1541)" [label=128]
+	"Julie Darlington (1542)" -> "Terri Butler (476)" [label=586]
+	"Christian John Julius (1541)" -> "Terri Butler (476)" [label=200]
+	"Tony Murray (1543)" -> "Terri Butler (476)" [label=57]
+	"Tony Murray (1543)" -> "Julie Darlington (1542)" [label=448]
+	"Christian John Julius (1541)" -> "Max Chandler-Mather (475)" [label=232]
+	"Tony Murray (1543)" -> "Max Chandler-Mather (475)" [label=62]
+}

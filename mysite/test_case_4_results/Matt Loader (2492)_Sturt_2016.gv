@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Matt Loader (2492)_Sturt_2016" {
+	graph [label="Sturt 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Matt Loader (2492)" [label="Matt Loader (2492)
+Australian Labor Party"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Nick Xenophon Team"]
+	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
+The Greens"]
+	"Craig Bowyer (2491)" [label="Craig Bowyer (2491)
+Family First"]
+	"Geoff Russell (1655)" [label="Geoff Russell (1655)
+Animal Justice Party"]
+	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
+Independent"]
+	"Matthew Wright (2490)" -> "Matt Loader (2492)" [label=15750]
+	"Rebecca Galdies (613)" -> "Matthew Wright (2490)" [label=2987]
+	"Craig Bowyer (2491)" -> "Rebecca Galdies (613)" [label=432]
+	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
+	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
+	"Rebecca Galdies (613)" -> "Matt Loader (2492)" [label=3952]
+	"Craig Bowyer (2491)" -> "Matt Loader (2492)" [label=436]
+	"Geoff Russell (1655)" -> "Matt Loader (2492)" [label=157]
+	"Neil Aitchison (2494)" -> "Matt Loader (2492)" [label=86]
+	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
+	"Geoff Russell (1655)" -> "Rebecca Galdies (613)" [label=493]
+	"Neil Aitchison (2494)" -> "Rebecca Galdies (613)" [label=66]
+	"Craig Bowyer (2491)" -> "Matthew Wright (2490)" [label=752]
+	"Geoff Russell (1655)" -> "Matthew Wright (2490)" [label=299]
+	"Neil Aitchison (2494)" -> "Matthew Wright (2490)" [label=135]
+}

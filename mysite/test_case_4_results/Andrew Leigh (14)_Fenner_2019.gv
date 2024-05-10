@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Andrew Leigh (14)_Fenner_2019" {
+	graph [label="Fenner 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Leigh (14)" [label="Andrew Leigh (14)
+Australian Labor Party"]
+	"Andrew Braddock (1216)" [label="Andrew Braddock (1216)
+The Greens"]
+	"Glen J Hodgson (1214)" [label="Glen J Hodgson (1214)
+United Australia Party"]
+	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
+Australian Progressives"]
+	"Andrew Braddock (1216)" -> "Andrew Leigh (14)" [label=12338]
+	"Glen J Hodgson (1214)" -> "Andrew Braddock (1216)" [label=1205]
+	"Kagiso Ratlhagane (1215)" -> "Glen J Hodgson (1214)" [label=364]
+	"Glen J Hodgson (1214)" -> "Andrew Leigh (14)" [label=832]
+	"Kagiso Ratlhagane (1215)" -> "Andrew Leigh (14)" [label=428]
+	"Kagiso Ratlhagane (1215)" -> "Andrew Braddock (1216)" [label=707]
+}

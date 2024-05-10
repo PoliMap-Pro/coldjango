@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Linda Burney (27)_Barton_2022" {
+	graph [label="Barton 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Linda Burney (27)" [label="Linda Burney (27)
+Labor"]
+	"Taylor Vandijk (29)" [label="Taylor Vandijk (29)
+The Greens"]
+	"Dimitri Honos (28)" [label="Dimitri Honos (28)
+United Australia Party"]
+	"Phillip Pollard (31)" [label="Phillip Pollard (31)
+Pauline Hanson's One Nation"]
+	"Taylor Vandijk (29)" -> "Linda Burney (27)" [label=11282]
+	"Dimitri Honos (28)" -> "Taylor Vandijk (29)" [label=1933]
+	"Phillip Pollard (31)" -> "Dimitri Honos (28)" [label=2850]
+	"Dimitri Honos (28)" -> "Linda Burney (27)" [label=2154]
+	"Phillip Pollard (31)" -> "Linda Burney (27)" [label=412]
+	"Phillip Pollard (31)" -> "Taylor Vandijk (29)" [label=314]
+}

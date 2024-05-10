@@ -2,7 +2,7 @@ import os
 import graphviz
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models
+from ... import models, constants
 
 
 class Command(BaseCommand):
@@ -20,37 +20,43 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        seat_list = list(models.Seat.objects.all().order_by(
-            'name'))[:Command.N]
-        [Command.year_flow(seat_list, year) for year in Command.YEARS]
+        #seat_list = list(models.Seat.objects.all().order_by(
+        #    'name'))[:Command.N]
+        #[Command.year_flow(seat_list, year) for year in Command.YEARS]
+        for abbreviation in constants.ABBREVIATION_LIST:
+            print(abbreviation)
+            seat_list = list(models.Seat.objects.all().order_by(
+                'name'))[:Command.N]
+            [Command.year_flow(seat_list, year, abbreviation) for year in
+             Command.YEARS]
 
     @staticmethod
-    def year_flow(seat_list, year):
+    def year_flow(seat_list, year, abbreviation=None):
         election = Command.get_election(year)
-        [Command.seat_flow(election, seat, year) for seat in seat_list]
+        [Command.seat_flow(election, seat, year, abbreviation) for seat
+         in seat_list]
 
     @staticmethod
-    def seat_flow(election, seat, year):
+    def seat_flow(election, seat, year, abbreviation=None):
         print(seat)
         print()
-        pref_rounds, targets = Command.get_targets(election, seat)
+        pref_rounds, targets = Command.get_targets(election, seat,
+                                                   abbreviation)
         if targets:
-            Command.get_flow(election, pref_rounds, seat, targets,
-                             year)
+            Command.get_flow(election, pref_rounds, seat, targets, year)
 
     @staticmethod
     def get_flow(election, pref_rounds, seat, targets, year):
         dot, edges, nodes, queue = Command.setup_queue(seat, targets, year)
         while queue:
-            queue = Command.one_target(edges, election, nodes,
-                                       pref_rounds, queue, seat)
+            queue = Command.one_target(edges, election, nodes, pref_rounds,
+                                       queue, seat)
         Command.render_dot_file(dot, edges, nodes)
 
     @staticmethod
     def setup_queue(seat, targets, year):
         target = targets[0]
-        dot, edges, nodes = Command.setup_dot_file(seat, target,
-                                                   year)
+        dot, edges, nodes = Command.setup_dot_file(seat, target, year)
         return dot, edges, nodes, [targets[0], ]
 
     @staticmethod
@@ -79,18 +85,20 @@ class Command(BaseCommand):
             engine='dot'), [], []
 
     @staticmethod
-    def get_targets(election, seat):
+    def get_targets(election, seat, abbreviation=None):
         pref_rounds = list(models.PreferenceRound.objects.filter(
             election=election, seat=seat).order_by('round_number'))
         representing_candidates = [
             representation.person.candidate.pk for representation in
             models.Representation.objects.filter(
                 election=election,
-                party__abbreviation__iexact=Command.PARTY_ABBREVIATION)]
+                party__abbreviation__iexact=abbreviation if abbreviation else
+                Command.PARTY_ABBREVIATION)]
         return pref_rounds, [contention.candidate for contention in
                              models.Contention.objects.filter(
                                  election=election, seat=seat) if
-                             contention.candidate.pk in representing_candidates]
+                             contention.candidate.pk in
+                             representing_candidates]
 
     @staticmethod
     def get_election(year):
@@ -115,8 +123,8 @@ class Command(BaseCommand):
     @staticmethod
     def new_trail(edges, election, last_pref, nodes, pref_rounds, result,
                   round_obj, seat, target):
-        trail = Command.add_trail(election, last_pref, pref_rounds,
-                                  round_obj, seat)
+        trail = Command.add_trail(election, last_pref, pref_rounds, round_obj,
+                                  seat)
         last_candidate = None
         for n, (candidate, _, _) in enumerate(trail):
             last_candidate = Command.update_candidate(
@@ -125,8 +133,8 @@ class Command(BaseCommand):
         print(trail)
 
     @staticmethod
-    def update_candidate(candidate, edges, election, last_candidate, n,
-                         nodes, result, target, trail):
+    def update_candidate(candidate, edges, election, last_candidate, n, nodes,
+                         result, target, trail):
         if (candidate != target) and (candidate not in result):
             result.append(candidate)
         new_node, node_name = Command.new_dot_node(candidate, election)
@@ -142,11 +150,11 @@ class Command(BaseCommand):
     def new_dot_node(candidate, election):
         node_name = str(candidate)
         try:
-            rep = models.Representation.objects.get(
-                person=candidate.person, election=election)
+            rep = models.Representation.objects.get(person=candidate.person,
+                                                    election=election)
         except models.Representation.MultipleObjectsReturned:
-            rep = models.Representation.objects.filter(
-                person=candidate.person, election=election)[0]
+            rep = models.Representation.objects.filter(person=candidate.person,
+                                                       election=election)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
     @staticmethod

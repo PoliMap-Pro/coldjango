@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Joanne Ryan (967)_Lalor_2022" {
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Joanne Ryan (967)" [label="Joanne Ryan (967)
+Australian Labor Party"]
+	"Juanita Coral Paterson (966)" [label="Juanita Coral Paterson (966)
+United Australia Party"]
+	"Jack Boddeke (971)" [label="Jack Boddeke (971)
+The Greens"]
+	"James Ingarfill (970)" [label="James Ingarfill (970)
+Pauline Hanson's One Nation"]
+	"Patrizia Barcatta (968)" [label="Patrizia Barcatta (968)
+Liberal Democrats"]
+	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
+Independent"]
+	"Claudio Uribe (965)" [label="Claudio Uribe (965)
+Victorian Socialists"]
+	"Peter Malliaros (969)" [label="Peter Malliaros (969)
+Australian Federation Party"]
+	"Juanita Coral Paterson (966)" -> "Joanne Ryan (967)" [label=6209]
+	"Jack Boddeke (971)" -> "Juanita Coral Paterson (966)" [label=1580]
+	"James Ingarfill (970)" -> "Jack Boddeke (971)" [label=667]
+	"Patrizia Barcatta (968)" -> "James Ingarfill (970)" [label=696]
+	"Aijaz Moinuddin (964)" -> "Patrizia Barcatta (968)" [label=253]
+	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
+	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
+	"Jack Boddeke (971)" -> "Joanne Ryan (967)" [label=7847]
+	"James Ingarfill (970)" -> "Joanne Ryan (967)" [label=701]
+	"Patrizia Barcatta (968)" -> "Joanne Ryan (967)" [label=663]
+	"Aijaz Moinuddin (964)" -> "Joanne Ryan (967)" [label=676]
+	"Claudio Uribe (965)" -> "Joanne Ryan (967)" [label=327]
+	"Peter Malliaros (969)" -> "Joanne Ryan (967)" [label=143]
+	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
+	"Claudio Uribe (965)" -> "Patrizia Barcatta (968)" [label=69]
+	"Peter Malliaros (969)" -> "Patrizia Barcatta (968)" [label=197]
+	"Aijaz Moinuddin (964)" -> "James Ingarfill (970)" [label=211]
+	"Claudio Uribe (965)" -> "James Ingarfill (970)" [label=60]
+	"Peter Malliaros (969)" -> "James Ingarfill (970)" [label=175]
+	"Patrizia Barcatta (968)" -> "Jack Boddeke (971)" [label=341]
+	"Aijaz Moinuddin (964)" -> "Jack Boddeke (971)" [label=440]
+	"Claudio Uribe (965)" -> "Jack Boddeke (971)" [label=600]
+	"Peter Malliaros (969)" -> "Jack Boddeke (971)" [label=82]
+	"James Ingarfill (970)" -> "Juanita Coral Paterson (966)" [label=2595]
+	"Patrizia Barcatta (968)" -> "Juanita Coral Paterson (966)" [label=1205]
+	"Aijaz Moinuddin (964)" -> "Juanita Coral Paterson (966)" [label=991]
+	"Claudio Uribe (965)" -> "Juanita Coral Paterson (966)" [label=167]
+	"Peter Malliaros (969)" -> "Juanita Coral Paterson (966)" [label=110]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Allistair Smith (2439)_Wright_2016" {
+	graph [label="Wright 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Allistair Smith (2439)" [label="Allistair Smith (2439)
+Australian Labor Party"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+Pauline Hanson's One Nation"]
+	"Pietro Agnoletto (2438)" [label="Pietro Agnoletto (2438)
+The Greens"]
+	"Barry Austin (2441)" [label="Barry Austin (2441)
+Family First"]
+	"Mark M Stone (2442)" [label="Mark M Stone (2442)
+Liberal Democrats"]
+	"John Cox (2440)" [label="John Cox (2440)
+Mature Australia"]
+	"Rod Smith (1642)" -> "Allistair Smith (2439)" [label=10114]
+	"Pietro Agnoletto (2438)" -> "Rod Smith (1642)" [label=1983]
+	"Barry Austin (2441)" -> "Pietro Agnoletto (2438)" [label=655]
+	"Mark M Stone (2442)" -> "Barry Austin (2441)" [label=441]
+	"John Cox (2440)" -> "Mark M Stone (2442)" [label=76]
+	"Pietro Agnoletto (2438)" -> "Allistair Smith (2439)" [label=4358]
+	"Barry Austin (2441)" -> "Allistair Smith (2439)" [label=732]
+	"Mark M Stone (2442)" -> "Allistair Smith (2439)" [label=230]
+	"John Cox (2440)" -> "Allistair Smith (2439)" [label=123]
+	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
+	"Mark M Stone (2442)" -> "Pietro Agnoletto (2438)" [label=202]
+	"John Cox (2440)" -> "Pietro Agnoletto (2438)" [label=108]
+	"Barry Austin (2441)" -> "Rod Smith (1642)" [label=1210]
+	"Mark M Stone (2442)" -> "Rod Smith (1642)" [label=481]
+	"John Cox (2440)" -> "Rod Smith (1642)" [label=222]
+}

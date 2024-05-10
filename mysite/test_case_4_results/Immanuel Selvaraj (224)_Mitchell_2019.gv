@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Immanuel Selvaraj (224)_Mitchell_2019" {
+	graph [label="Mitchell 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Immanuel Selvaraj (224)" [label="Immanuel Selvaraj (224)
+Labor"]
+	"Lawrence Murphy (1368)" [label="Lawrence Murphy (1368)
+The Greens"]
+	"Craig L Hall (1367)" [label="Craig L Hall (1367)
+Christian Democratic Party (Fred Nile Group)"]
+	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
+United Australia Party"]
+	"Lawrence Murphy (1368)" -> "Immanuel Selvaraj (224)" [label=6470]
+	"Craig L Hall (1367)" -> "Lawrence Murphy (1368)" [label=500]
+	"Roy Peter Hoppenbrouwer (1366)" -> "Craig L Hall (1367)" [label=639]
+	"Craig L Hall (1367)" -> "Immanuel Selvaraj (224)" [label=462]
+	"Roy Peter Hoppenbrouwer (1366)" -> "Immanuel Selvaraj (224)" [label=388]
+	"Roy Peter Hoppenbrouwer (1366)" -> "Lawrence Murphy (1368)" [label=333]
+}

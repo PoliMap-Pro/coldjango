@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Peter Khalil (1061)_Wills_2022" {
+	graph [label="Wills 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Khalil (1061)" [label="Peter Khalil (1061)
+Australian Labor Party"]
+	"Tom Wright (1055)" [label="Tom Wright (1055)
+Liberal"]
+	"Irene Zivkovic (1060)" [label="Irene Zivkovic (1060)
+United Australia Party"]
+	"Sue Bolton (1059)" [label="Sue Bolton (1059)
+Socialist Alliance"]
+	"Emma Black (1057)" [label="Emma Black (1057)
+Victorian Socialists"]
+	"Jill Tindal (1056)" [label="Jill Tindal (1056)
+Pauline Hanson's One Nation"]
+	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
+Animal Justice Party"]
+	"Sam Sergi (1058)" [label="Sam Sergi (1058)
+Australian Federation Party"]
+	"Tom Wright (1055)" -> "Peter Khalil (1061)" [label=14549]
+	"Irene Zivkovic (1060)" -> "Tom Wright (1055)" [label=3007]
+	"Sue Bolton (1059)" -> "Irene Zivkovic (1060)" [label=517]
+	"Emma Black (1057)" -> "Sue Bolton (1059)" [label=1705]
+	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
+	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
+	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
+	"Irene Zivkovic (1060)" -> "Peter Khalil (1061)" [label=1607]
+	"Sue Bolton (1059)" -> "Peter Khalil (1061)" [label=938]
+	"Emma Black (1057)" -> "Peter Khalil (1061)" [label=266]
+	"Jill Tindal (1056)" -> "Peter Khalil (1061)" [label=208]
+	"Leah Horsfall (1062)" -> "Peter Khalil (1061)" [label=329]
+	"Sam Sergi (1058)" -> "Peter Khalil (1061)" [label=69]
+	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
+	"Leah Horsfall (1062)" -> "Emma Black (1057)" [label=151]
+	"Sam Sergi (1058)" -> "Emma Black (1057)" [label=82]
+	"Jill Tindal (1056)" -> "Sue Bolton (1059)" [label=150]
+	"Leah Horsfall (1062)" -> "Sue Bolton (1059)" [label=165]
+	"Sam Sergi (1058)" -> "Sue Bolton (1059)" [label=72]
+	"Emma Black (1057)" -> "Irene Zivkovic (1060)" [label=126]
+	"Jill Tindal (1056)" -> "Irene Zivkovic (1060)" [label=1810]
+	"Leah Horsfall (1062)" -> "Irene Zivkovic (1060)" [label=117]
+	"Sam Sergi (1058)" -> "Irene Zivkovic (1060)" [label=137]
+	"Sue Bolton (1059)" -> "Tom Wright (1055)" [label=248]
+	"Emma Black (1057)" -> "Tom Wright (1055)" [label=170]
+	"Jill Tindal (1056)" -> "Tom Wright (1055)" [label=418]
+	"Leah Horsfall (1062)" -> "Tom Wright (1055)" [label=122]
+	"Sam Sergi (1058)" -> "Tom Wright (1055)" [label=102]
+}

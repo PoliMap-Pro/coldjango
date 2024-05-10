@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Jeremiah Riley (1115)_Durack_2022" {
+	graph [label="Durack 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeremiah Riley (1115)" [label="Jeremiah Riley (1115)
+Australian Labor Party"]
+	"Ian Blayney (1117)" [label="Ian Blayney (1117)
+The Nationals"]
+	"Brenton Johannsen (1116)" [label="Brenton Johannsen (1116)
+Pauline Hanson's One Nation"]
+	"Bianca Mcneair (1118)" [label="Bianca Mcneair (1118)
+The Greens (WA)"]
+	"Adrian Mcrae (1113)" [label="Adrian Mcrae (1113)
+The Great Australian Party"]
+	"Anthony James Fels (1114)" [label="Anthony James Fels (1114)
+WESTERN AUSTRALIA PARTY"]
+	"Andrew Charles Middleton (1119)" [label="Andrew Charles Middleton (1119)
+United Australia Party"]
+	"Craig Shore (1111)" [label="Craig Shore (1111)
+Australian Federation Party"]
+	"Ian Blayney (1117)" -> "Jeremiah Riley (1115)" [label=6417]
+	"Brenton Johannsen (1116)" -> "Ian Blayney (1117)" [label=7006]
+	"Bianca Mcneair (1118)" -> "Brenton Johannsen (1116)" [label=842]
+	"Adrian Mcrae (1113)" -> "Bianca Mcneair (1118)" [label=352]
+	"Anthony James Fels (1114)" -> "Adrian Mcrae (1113)" [label=694]
+	"Andrew Charles Middleton (1119)" -> "Anthony James Fels (1114)" [label=194]
+	"Craig Shore (1111)" -> "Andrew Charles Middleton (1119)" [label=90]
+	"Brenton Johannsen (1116)" -> "Jeremiah Riley (1115)" [label=1618]
+	"Bianca Mcneair (1118)" -> "Jeremiah Riley (1115)" [label=5656]
+	"Adrian Mcrae (1113)" -> "Jeremiah Riley (1115)" [label=425]
+	"Anthony James Fels (1114)" -> "Jeremiah Riley (1115)" [label=541]
+	"Andrew Charles Middleton (1119)" -> "Jeremiah Riley (1115)" [label=121]
+	"Craig Shore (1111)" -> "Jeremiah Riley (1115)" [label=69]
+	"Craig Shore (1111)" -> "Anthony James Fels (1114)" [label=126]
+	"Andrew Charles Middleton (1119)" -> "Adrian Mcrae (1113)" [label=294]
+	"Craig Shore (1111)" -> "Adrian Mcrae (1113)" [label=419]
+	"Anthony James Fels (1114)" -> "Bianca Mcneair (1118)" [label=340]
+	"Andrew Charles Middleton (1119)" -> "Bianca Mcneair (1118)" [label=287]
+	"Craig Shore (1111)" -> "Bianca Mcneair (1118)" [label=36]
+	"Adrian Mcrae (1113)" -> "Brenton Johannsen (1116)" [label=2531]
+	"Anthony James Fels (1114)" -> "Brenton Johannsen (1116)" [label=450]
+	"Andrew Charles Middleton (1119)" -> "Brenton Johannsen (1116)" [label=994]
+	"Craig Shore (1111)" -> "Brenton Johannsen (1116)" [label=92]
+	"Bianca Mcneair (1118)" -> "Ian Blayney (1117)" [label=1830]
+	"Adrian Mcrae (1113)" -> "Ian Blayney (1117)" [label=388]
+	"Anthony James Fels (1114)" -> "Ian Blayney (1117)" [label=329]
+	"Andrew Charles Middleton (1119)" -> "Ian Blayney (1117)" [label=206]
+	"Craig Shore (1111)" -> "Ian Blayney (1117)" [label=54]
+}

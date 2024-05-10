@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Tony Zappia (660)_Makin_2016" {
+	graph [label="Makin 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Craig Bossie (2478)" [label="Craig Bossie (2478)
+Nick Xenophon Team"]
+	"Keiran Snape (2473)" [label="Keiran Snape (2473)
+The Greens"]
+	"Paul Coombe (2474)" [label="Paul Coombe (2474)
+Family First"]
+	"Mark Aldridge (2475)" [label="Mark Aldridge (2475)
+Independent"]
+	"Zarina Greenberg (2476)" [label="Zarina Greenberg (2476)
+Animal Justice Party"]
+	"Craig Bossie (2478)" -> "Tony Zappia (660)" [label=11575]
+	"Keiran Snape (2473)" -> "Craig Bossie (2478)" [label=1759]
+	"Paul Coombe (2474)" -> "Keiran Snape (2473)" [label=834]
+	"Mark Aldridge (2475)" -> "Paul Coombe (2474)" [label=533]
+	"Zarina Greenberg (2476)" -> "Mark Aldridge (2475)" [label=204]
+	"Keiran Snape (2473)" -> "Tony Zappia (660)" [label=3490]
+	"Paul Coombe (2474)" -> "Tony Zappia (660)" [label=846]
+	"Mark Aldridge (2475)" -> "Tony Zappia (660)" [label=561]
+	"Zarina Greenberg (2476)" -> "Tony Zappia (660)" [label=286]
+	"Zarina Greenberg (2476)" -> "Paul Coombe (2474)" [label=222]
+	"Mark Aldridge (2475)" -> "Keiran Snape (2473)" [label=280]
+	"Zarina Greenberg (2476)" -> "Keiran Snape (2473)" [label=382]
+	"Paul Coombe (2474)" -> "Craig Bossie (2478)" [label=971]
+	"Mark Aldridge (2475)" -> "Craig Bossie (2478)" [label=698]
+	"Zarina Greenberg (2476)" -> "Craig Bossie (2478)" [label=248]
+}

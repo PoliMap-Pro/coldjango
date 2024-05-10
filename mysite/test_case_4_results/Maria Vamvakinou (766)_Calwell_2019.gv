@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Maria Vamvakinou (766)_Calwell_2019" {
+	graph [label="Calwell 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Maria Vamvakinou (766)" [label="Maria Vamvakinou (766)
+Australian Labor Party"]
+	"Polly Morgan (1743)" [label="Polly Morgan (1743)
+The Greens (VIC)"]
+	"Jerome Small (768)" [label="Jerome Small (768)
+Victorian Socialists"]
+	"Prakul Chhabra (1745)" [label="Prakul Chhabra (1745)
+United Australia Party"]
+	"Keith Kerr (1742)" [label="Keith Kerr (1742)
+Citizens Electoral Council"]
+	"Adam Vail (1744)" [label="Adam Vail (1744)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Byrne (1746)" [label="Peter Byrne (1746)
+Socialist Equality Party"]
+	"Polly Morgan (1743)" -> "Maria Vamvakinou (766)" [label=8125]
+	"Jerome Small (768)" -> "Polly Morgan (1743)" [label=1866]
+	"Prakul Chhabra (1745)" -> "Jerome Small (768)" [label=797]
+	"Keith Kerr (1742)" -> "Prakul Chhabra (1745)" [label=298]
+	"Adam Vail (1744)" -> "Keith Kerr (1742)" [label=339]
+	"Peter Byrne (1746)" -> "Adam Vail (1744)" [label=61]
+	"Jerome Small (768)" -> "Maria Vamvakinou (766)" [label=2641]
+	"Prakul Chhabra (1745)" -> "Maria Vamvakinou (766)" [label=947]
+	"Keith Kerr (1742)" -> "Maria Vamvakinou (766)" [label=866]
+	"Adam Vail (1744)" -> "Maria Vamvakinou (766)" [label=322]
+	"Peter Byrne (1746)" -> "Maria Vamvakinou (766)" [label=148]
+	"Peter Byrne (1746)" -> "Keith Kerr (1742)" [label=101]
+	"Adam Vail (1744)" -> "Prakul Chhabra (1745)" [label=487]
+	"Peter Byrne (1746)" -> "Prakul Chhabra (1745)" [label=132]
+	"Keith Kerr (1742)" -> "Jerome Small (768)" [label=358]
+	"Adam Vail (1744)" -> "Jerome Small (768)" [label=213]
+	"Peter Byrne (1746)" -> "Jerome Small (768)" [label=164]
+	"Prakul Chhabra (1745)" -> "Polly Morgan (1743)" [label=618]
+	"Keith Kerr (1742)" -> "Polly Morgan (1743)" [label=1387]
+	"Adam Vail (1744)" -> "Polly Morgan (1743)" [label=125]
+	"Peter Byrne (1746)" -> "Polly Morgan (1743)" [label=111]
+}

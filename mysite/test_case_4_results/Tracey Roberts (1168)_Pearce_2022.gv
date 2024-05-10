@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Tracey Roberts (1168)_Pearce_2022" {
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tracey Roberts (1168)" [label="Tracey Roberts (1168)
+Australian Labor Party"]
+	"Donna Nelson (1166)" [label="Donna Nelson (1166)
+The Greens (WA)"]
+	"Aaron Malloy (1171)" [label="Aaron Malloy (1171)
+Pauline Hanson's One Nation"]
+	"Trevor Richard Dalby (1169)" [label="Trevor Richard Dalby (1169)
+United Australia Party"]
+	"Jim Paice (1170)" [label="Jim Paice (1170)
+WESTERN AUSTRALIA PARTY"]
+	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
+The Great Australian Party"]
+	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
+Australian Christians"]
+	"David Marshall (1167)" [label="David Marshall (1167)
+Liberal Democrats"]
+	"Nigel March (1174)" [label="Nigel March (1174)
+Australian Federation Party"]
+	"Donna Nelson (1166)" -> "Tracey Roberts (1168)" [label=12197]
+	"Aaron Malloy (1171)" -> "Donna Nelson (1166)" [label=3203]
+	"Trevor Richard Dalby (1169)" -> "Aaron Malloy (1171)" [label=2574]
+	"Jim Paice (1170)" -> "Trevor Richard Dalby (1169)" [label=440]
+	"Roslyn Stewart (1165)" -> "Jim Paice (1170)" [label=368]
+	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
+	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
+	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
+	"Aaron Malloy (1171)" -> "Tracey Roberts (1168)" [label=1577]
+	"Trevor Richard Dalby (1169)" -> "Tracey Roberts (1168)" [label=383]
+	"Jim Paice (1170)" -> "Tracey Roberts (1168)" [label=634]
+	"Roslyn Stewart (1165)" -> "Tracey Roberts (1168)" [label=162]
+	"Vanessa Montgomery (1173)" -> "Tracey Roberts (1168)" [label=177]
+	"David Marshall (1167)" -> "Tracey Roberts (1168)" [label=287]
+	"Nigel March (1174)" -> "Tracey Roberts (1168)" [label=27]
+	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
+	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
+	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
+	"Vanessa Montgomery (1173)" -> "Jim Paice (1170)" [label=172]
+	"David Marshall (1167)" -> "Jim Paice (1170)" [label=151]
+	"Nigel March (1174)" -> "Jim Paice (1170)" [label=65]
+	"Roslyn Stewart (1165)" -> "Trevor Richard Dalby (1169)" [label=552]
+	"Vanessa Montgomery (1173)" -> "Trevor Richard Dalby (1169)" [label=158]
+	"David Marshall (1167)" -> "Trevor Richard Dalby (1169)" [label=146]
+	"Nigel March (1174)" -> "Trevor Richard Dalby (1169)" [label=36]
+	"Jim Paice (1170)" -> "Aaron Malloy (1171)" [label=667]
+	"Roslyn Stewart (1165)" -> "Aaron Malloy (1171)" [label=687]
+	"Vanessa Montgomery (1173)" -> "Aaron Malloy (1171)" [label=459]
+	"David Marshall (1167)" -> "Aaron Malloy (1171)" [label=190]
+	"Nigel March (1174)" -> "Aaron Malloy (1171)" [label=117]
+	"Trevor Richard Dalby (1169)" -> "Donna Nelson (1166)" [label=518]
+	"Jim Paice (1170)" -> "Donna Nelson (1166)" [label=659]
+	"Roslyn Stewart (1165)" -> "Donna Nelson (1166)" [label=761]
+	"Vanessa Montgomery (1173)" -> "Donna Nelson (1166)" [label=131]
+	"David Marshall (1167)" -> "Donna Nelson (1166)" [label=199]
+	"Nigel March (1174)" -> "Donna Nelson (1166)" [label=47]
+}

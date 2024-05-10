@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Daniel Mulino (849)_Fraser_2019" {
+	graph [label="Fraser 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Daniel Mulino (849)" [label="Daniel Mulino (849)
+Australian Labor Party"]
+	"Vinh Van Chau (1799)" [label="Vinh Van Chau (1799)
+United Australia Party"]
+	"Rebecca Scorgie (1801)" [label="Rebecca Scorgie (1801)
+The Greens (VIC)"]
+	"Van Tran (1802)" [label="Van Tran (1802)
+Independent"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Vinh Van Chau (1799)" -> "Daniel Mulino (849)" [label=4055]
+	"Rebecca Scorgie (1801)" -> "Vinh Van Chau (1799)" [label=1314]
+	"Van Tran (1802)" -> "Rebecca Scorgie (1801)" [label=1773]
+	"Tony Dobran (884)" -> "Van Tran (1802)" [label=258]
+	"Rebecca Scorgie (1801)" -> "Daniel Mulino (849)" [label=7160]
+	"Van Tran (1802)" -> "Daniel Mulino (849)" [label=1042]
+	"Tony Dobran (884)" -> "Daniel Mulino (849)" [label=437]
+	"Tony Dobran (884)" -> "Rebecca Scorgie (1801)" [label=283]
+	"Van Tran (1802)" -> "Vinh Van Chau (1799)" [label=2017]
+	"Tony Dobran (884)" -> "Vinh Van Chau (1799)" [label=413]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Anne Stanley (2260)_Werriwa_2016" {
+	graph [label="Werriwa 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anne Stanley (2260)" [label="Anne Stanley (2260)
+Labor"]
+	"Daniel Edwards (2258)" [label="Daniel Edwards (2258)
+Christian Democratic Party (Fred Nile Group)"]
+	"Signe Louise Westerberg (2259)" [label="Signe Louise Westerberg (2259)
+The Greens"]
+	"Daniel Edwards (2258)" -> "Anne Stanley (2260)" [label=2813]
+	"Signe Louise Westerberg (2259)" -> "Daniel Edwards (2258)" [label=803]
+	"Signe Louise Westerberg (2259)" -> "Anne Stanley (2260)" [label=2596]
+}

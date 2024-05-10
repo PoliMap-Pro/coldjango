@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Dave Kerrigan (538)_Maranoa_2022" {
+	graph [label="Maranoa 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dave Kerrigan (538)" [label="Dave Kerrigan (538)
+Australian Labor Party"]
+	"Mike Kelly (541)" [label="Mike Kelly (541)
+Pauline Hanson's One Nation"]
+	"Nathan John Mcdonald (539)" [label="Nathan John Mcdonald (539)
+United Australia Party"]
+	"Ellisa Parker (540)" [label="Ellisa Parker (540)
+Queensland Greens"]
+	"Malcolm J Richardson (537)" [label="Malcolm J Richardson (537)
+Shooters, Fishers and Farmers Party"]
+	"Brett James Tunbridge (542)" [label="Brett James Tunbridge (542)
+Australian Federation Party"]
+	"Mike Kelly (541)" -> "Dave Kerrigan (538)" [label=7200]
+	"Nathan John Mcdonald (539)" -> "Mike Kelly (541)" [label=5081]
+	"Ellisa Parker (540)" -> "Nathan John Mcdonald (539)" [label=448]
+	"Malcolm J Richardson (537)" -> "Ellisa Parker (540)" [label=328]
+	"Brett James Tunbridge (542)" -> "Malcolm J Richardson (537)" [label=223]
+	"Nathan John Mcdonald (539)" -> "Dave Kerrigan (538)" [label=816]
+	"Ellisa Parker (540)" -> "Dave Kerrigan (538)" [label=3078]
+	"Malcolm J Richardson (537)" -> "Dave Kerrigan (538)" [label=557]
+	"Brett James Tunbridge (542)" -> "Dave Kerrigan (538)" [label=75]
+	"Brett James Tunbridge (542)" -> "Ellisa Parker (540)" [label=105]
+	"Malcolm J Richardson (537)" -> "Nathan John Mcdonald (539)" [label=679]
+	"Brett James Tunbridge (542)" -> "Nathan John Mcdonald (539)" [label=136]
+	"Ellisa Parker (540)" -> "Mike Kelly (541)" [label=693]
+	"Malcolm J Richardson (537)" -> "Mike Kelly (541)" [label=1364]
+	"Brett James Tunbridge (542)" -> "Mike Kelly (541)" [label=364]
+}

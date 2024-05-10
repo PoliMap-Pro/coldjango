@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ali France (433)_Dickson_2022" {
+	graph [label="Dickson 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ali France (433)" [label="Ali France (433)
+Australian Labor Party"]
+	"Vinnie Batten (434)" [label="Vinnie Batten (434)
+Queensland Greens"]
+	"Tamera Gibson (431)" [label="Tamera Gibson (431)
+Pauline Hanson's One Nation"]
+	"Alan Buchbach (427)" [label="Alan Buchbach (427)
+Independent"]
+	"Alina Karen Ward (432)" [label="Alina Karen Ward (432)
+United Australia Party"]
+	"Thor Prohaska (430)" [label="Thor Prohaska (430)
+Independent"]
+	"Lloyd Russell (428)" [label="Lloyd Russell (428)
+Liberal Democrats"]
+	"Vinnie Batten (434)" -> "Ali France (433)" [label=13570]
+	"Tamera Gibson (431)" -> "Vinnie Batten (434)" [label=2156]
+	"Alan Buchbach (427)" -> "Tamera Gibson (431)" [label=1436]
+	"Alina Karen Ward (432)" -> "Alan Buchbach (427)" [label=540]
+	"Thor Prohaska (430)" -> "Alina Karen Ward (432)" [label=84]
+	"Lloyd Russell (428)" -> "Thor Prohaska (430)" [label=75]
+	"Tamera Gibson (431)" -> "Ali France (433)" [label=1726]
+	"Alan Buchbach (427)" -> "Ali France (433)" [label=551]
+	"Alina Karen Ward (432)" -> "Ali France (433)" [label=297]
+	"Thor Prohaska (430)" -> "Ali France (433)" [label=203]
+	"Lloyd Russell (428)" -> "Ali France (433)" [label=90]
+	"Lloyd Russell (428)" -> "Alina Karen Ward (432)" [label=126]
+	"Thor Prohaska (430)" -> "Alan Buchbach (427)" [label=897]
+	"Lloyd Russell (428)" -> "Alan Buchbach (427)" [label=198]
+	"Alina Karen Ward (432)" -> "Tamera Gibson (431)" [label=1449]
+	"Thor Prohaska (430)" -> "Tamera Gibson (431)" [label=155]
+	"Lloyd Russell (428)" -> "Tamera Gibson (431)" [label=237]
+	"Alan Buchbach (427)" -> "Vinnie Batten (434)" [label=943]
+	"Alina Karen Ward (432)" -> "Vinnie Batten (434)" [label=278]
+	"Thor Prohaska (430)" -> "Vinnie Batten (434)" [label=208]
+	"Lloyd Russell (428)" -> "Vinnie Batten (434)" [label=86]
+}

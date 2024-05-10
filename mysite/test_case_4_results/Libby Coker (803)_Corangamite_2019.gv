@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Libby Coker (803)_Corangamite_2019" {
+	graph [label="Corangamite 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Libby Coker (803)" [label="Libby Coker (803)
+Australian Labor Party"]
+	"Simon Northeast (813)" [label="Simon Northeast (813)
+The Greens (VIC)"]
+	"Damien Cole (1771)" [label="Damien Cole (1771)
+Independent"]
+	"Mandy Grimley (1774)" [label="Mandy Grimley (1774)
+Derryn Hinch's Justice Party"]
+	"Neil Harvey (1773)" [label="Neil Harvey (1773)
+United Australia Party"]
+	"Naomi Adams (815)" [label="Naomi Adams (815)
+Animal Justice Party"]
+	"Ian Erskine (1770)" [label="Ian Erskine (1770)
+Rise Up Australia Party"]
+	"Simon Northeast (813)" -> "Libby Coker (803)" [label=11852]
+	"Damien Cole (1771)" -> "Simon Northeast (813)" [label=3634]
+	"Mandy Grimley (1774)" -> "Damien Cole (1771)" [label=1490]
+	"Neil Harvey (1773)" -> "Mandy Grimley (1774)" [label=793]
+	"Naomi Adams (815)" -> "Neil Harvey (1773)" [label=94]
+	"Ian Erskine (1770)" -> "Naomi Adams (815)" [label=76]
+	"Damien Cole (1771)" -> "Libby Coker (803)" [label=2203]
+	"Mandy Grimley (1774)" -> "Libby Coker (803)" [label=872]
+	"Neil Harvey (1773)" -> "Libby Coker (803)" [label=300]
+	"Naomi Adams (815)" -> "Libby Coker (803)" [label=321]
+	"Ian Erskine (1770)" -> "Libby Coker (803)" [label=300]
+	"Ian Erskine (1770)" -> "Neil Harvey (1773)" [label=223]
+	"Naomi Adams (815)" -> "Mandy Grimley (1774)" [label=297]
+	"Ian Erskine (1770)" -> "Mandy Grimley (1774)" [label=107]
+	"Neil Harvey (1773)" -> "Damien Cole (1771)" [label=398]
+	"Naomi Adams (815)" -> "Damien Cole (1771)" [label=519]
+	"Ian Erskine (1770)" -> "Damien Cole (1771)" [label=88]
+	"Mandy Grimley (1774)" -> "Simon Northeast (813)" [label=523]
+	"Neil Harvey (1773)" -> "Simon Northeast (813)" [label=140]
+	"Naomi Adams (815)" -> "Simon Northeast (813)" [label=773]
+	"Ian Erskine (1770)" -> "Simon Northeast (813)" [label=83]
+}

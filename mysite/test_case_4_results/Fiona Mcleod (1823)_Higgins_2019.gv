@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Fiona Mcleod (1823)_Higgins_2019" {
+	graph [label="Higgins 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Fiona Mcleod (1823)" [label="Fiona Mcleod (1823)
+Australian Labor Party"]
+	"Jason Ball (1821)" [label="Jason Ball (1821)
+The Greens (VIC)"]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Michaela Moran (1822)" [label="Michaela Moran (1822)
+Sustainable Australia"]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+	"Jason Ball (1821)" -> "Fiona Mcleod (1823)" [label=19986]
+	"Alicia Walker (900)" -> "Jason Ball (1821)" [label=1295]
+	"Michaela Moran (1822)" -> "Alicia Walker (900)" [label=470]
+	"Tim Ryan (1824)" -> "Michaela Moran (1822)" [label=178]
+	"Alicia Walker (900)" -> "Fiona Mcleod (1823)" [label=448]
+	"Michaela Moran (1822)" -> "Fiona Mcleod (1823)" [label=218]
+	"Tim Ryan (1824)" -> "Fiona Mcleod (1823)" [label=189]
+	"Tim Ryan (1824)" -> "Alicia Walker (900)" [label=143]
+	"Michaela Moran (1822)" -> "Jason Ball (1821)" [label=424]
+	"Tim Ryan (1824)" -> "Jason Ball (1821)" [label=128]
+}

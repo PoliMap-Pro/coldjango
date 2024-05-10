@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Tony Zappia (660)_Makin_2022" {
+	graph [label="Makin 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Emma Mustaca (664)" [label="Emma Mustaca (664)
+The Greens"]
+	"Rajan Vaid (662)" [label="Rajan Vaid (662)
+Pauline Hanson's One Nation"]
+	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
+United Australia Party"]
+	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
+Australian Federation Party"]
+	"Emma Mustaca (664)" -> "Tony Zappia (660)" [label=11912]
+	"Rajan Vaid (662)" -> "Emma Mustaca (664)" [label=2131]
+	"Kimberley Drozdoff (661)" -> "Rajan Vaid (662)" [label=2892]
+	"Abram Nicholas Lazootin (659)" -> "Kimberley Drozdoff (661)" [label=441]
+	"Rajan Vaid (662)" -> "Tony Zappia (660)" [label=2187]
+	"Kimberley Drozdoff (661)" -> "Tony Zappia (660)" [label=943]
+	"Abram Nicholas Lazootin (659)" -> "Tony Zappia (660)" [label=559]
+	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
+	"Kimberley Drozdoff (661)" -> "Emma Mustaca (664)" [label=606]
+	"Abram Nicholas Lazootin (659)" -> "Emma Mustaca (664)" [label=161]
+}

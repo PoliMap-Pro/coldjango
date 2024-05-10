@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Sharon Bird (1269)_Cunningham_2019" {
+	graph [label="Cunningham 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sharon Bird (1269)" [label="Sharon Bird (1269)
+Labor"]
+	"Rowan Huxtable (1268)" [label="Rowan Huxtable (1268)
+The Greens"]
+	"Grace Louise Younger (1272)" [label="Grace Louise Younger (1272)
+United Australia Party"]
+	"John Gill (1271)" [label="John Gill (1271)
+Sustainable Australia"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Rowan Huxtable (1268)" -> "Sharon Bird (1269)" [label=14514]
+	"Grace Louise Younger (1272)" -> "Rowan Huxtable (1268)" [label=975]
+	"John Gill (1271)" -> "Grace Louise Younger (1272)" [label=737]
+	"John Flanagan (1270)" -> "John Gill (1271)" [label=420]
+	"Grace Louise Younger (1272)" -> "Sharon Bird (1269)" [label=1535]
+	"John Gill (1271)" -> "Sharon Bird (1269)" [label=643]
+	"John Flanagan (1270)" -> "Sharon Bird (1269)" [label=221]
+	"John Flanagan (1270)" -> "Grace Louise Younger (1272)" [label=192]
+	"John Gill (1271)" -> "Rowan Huxtable (1268)" [label=910]
+	"John Flanagan (1270)" -> "Rowan Huxtable (1268)" [label=118]
+}

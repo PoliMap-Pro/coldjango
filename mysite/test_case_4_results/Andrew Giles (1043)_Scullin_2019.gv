@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Giles (1043)_Scullin_2019" {
+	graph [label="Scullin 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Giles (1043)" [label="Andrew Giles (1043)
+Australian Labor Party"]
+	"Cynthia Smith (1914)" [label="Cynthia Smith (1914)
+The Greens (VIC)"]
+	"Firas Hasan (1913)" [label="Firas Hasan (1913)
+United Australia Party"]
+	"Rod Whitfield (785)" [label="Rod Whitfield (785)
+Animal Justice Party"]
+	"Yassin Akram Albarri (1916)" [label="Yassin Akram Albarri (1916)
+Independent"]
+	"Cynthia Smith (1914)" -> "Andrew Giles (1043)" [label=6994]
+	"Firas Hasan (1913)" -> "Cynthia Smith (1914)" [label=1253]
+	"Rod Whitfield (785)" -> "Firas Hasan (1913)" [label=677]
+	"Yassin Akram Albarri (1916)" -> "Rod Whitfield (785)" [label=314]
+	"Firas Hasan (1913)" -> "Andrew Giles (1043)" [label=1992]
+	"Rod Whitfield (785)" -> "Andrew Giles (1043)" [label=981]
+	"Yassin Akram Albarri (1916)" -> "Andrew Giles (1043)" [label=353]
+	"Yassin Akram Albarri (1916)" -> "Firas Hasan (1913)" [label=345]
+	"Rod Whitfield (785)" -> "Cynthia Smith (1914)" [label=1609]
+	"Yassin Akram Albarri (1916)" -> "Cynthia Smith (1914)" [label=202]
+}

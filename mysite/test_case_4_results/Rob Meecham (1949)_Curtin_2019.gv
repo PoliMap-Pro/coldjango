@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Rob Meecham (1949)_Curtin_2019" {
+	graph [label="Curtin 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rob Meecham (1949)" [label="Rob Meecham (1949)
+Australian Labor Party"]
+	"Cameron Pidgeon (1110)" [label="Cameron Pidgeon (1110)
+The Greens (WA)"]
+	"Louise Stewart (1946)" [label="Louise Stewart (1946)
+Independent"]
+	"Andrew Mangano (1950)" [label="Andrew Mangano (1950)
+WESTERN AUSTRALIA PARTY"]
+	"Joan Anne Lever (1945)" [label="Joan Anne Lever (1945)
+United Australia Party"]
+	"Bill Edgar (1947)" [label="Bill Edgar (1947)
+Pauline Hanson's One Nation"]
+	"Deonne Kingsford (1948)" [label="Deonne Kingsford (1948)
+Australian Christians"]
+	"Cameron Pidgeon (1110)" -> "Rob Meecham (1949)" [label=13560]
+	"Louise Stewart (1946)" -> "Cameron Pidgeon (1110)" [label=2883]
+	"Andrew Mangano (1950)" -> "Louise Stewart (1946)" [label=579]
+	"Joan Anne Lever (1945)" -> "Andrew Mangano (1950)" [label=274]
+	"Bill Edgar (1947)" -> "Joan Anne Lever (1945)" [label=329]
+	"Deonne Kingsford (1948)" -> "Bill Edgar (1947)" [label=68]
+	"Louise Stewart (1946)" -> "Rob Meecham (1949)" [label=1899]
+	"Andrew Mangano (1950)" -> "Rob Meecham (1949)" [label=354]
+	"Joan Anne Lever (1945)" -> "Rob Meecham (1949)" [label=94]
+	"Bill Edgar (1947)" -> "Rob Meecham (1949)" [label=100]
+	"Deonne Kingsford (1948)" -> "Rob Meecham (1949)" [label=67]
+	"Deonne Kingsford (1948)" -> "Joan Anne Lever (1945)" [label=41]
+	"Bill Edgar (1947)" -> "Andrew Mangano (1950)" [label=175]
+	"Deonne Kingsford (1948)" -> "Andrew Mangano (1950)" [label=87]
+	"Joan Anne Lever (1945)" -> "Louise Stewart (1946)" [label=160]
+	"Bill Edgar (1947)" -> "Louise Stewart (1946)" [label=132]
+	"Deonne Kingsford (1948)" -> "Louise Stewart (1946)" [label=51]
+	"Andrew Mangano (1950)" -> "Cameron Pidgeon (1110)" [label=332]
+	"Joan Anne Lever (1945)" -> "Cameron Pidgeon (1110)" [label=302]
+	"Bill Edgar (1947)" -> "Cameron Pidgeon (1110)" [label=94]
+	"Deonne Kingsford (1948)" -> "Cameron Pidgeon (1110)" [label=32]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Rob Mitchell (1004)_McEwen_2019" {
+	graph [label="McEwen 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
+Australian Labor Party"]
+	"Neil Barker (998)" [label="Neil Barker (998)
+The Greens (VIC)"]
+	"Ronnie Graham (1049)" [label="Ronnie Graham (1049)
+Pauline Hanson's One Nation"]
+	"Deb Butler (1887)" [label="Deb Butler (1887)
+Derryn Hinch's Justice Party"]
+	"Chris Hayman (1889)" [label="Chris Hayman (1889)
+United Australia Party"]
+	"Ruth Parramore (1885)" [label="Ruth Parramore (1885)
+Animal Justice Party"]
+	"Robert James Hyndman (1888)" [label="Robert James Hyndman (1888)
+Independent"]
+	"Neil Barker (998)" -> "Rob Mitchell (1004)" [label=9945]
+	"Ronnie Graham (1049)" -> "Neil Barker (998)" [label=1805]
+	"Deb Butler (1887)" -> "Ronnie Graham (1049)" [label=1749]
+	"Chris Hayman (1889)" -> "Deb Butler (1887)" [label=454]
+	"Ruth Parramore (1885)" -> "Chris Hayman (1889)" [label=174]
+	"Robert James Hyndman (1888)" -> "Ruth Parramore (1885)" [label=134]
+	"Ronnie Graham (1049)" -> "Rob Mitchell (1004)" [label=2586]
+	"Deb Butler (1887)" -> "Rob Mitchell (1004)" [label=1332]
+	"Chris Hayman (1889)" -> "Rob Mitchell (1004)" [label=362]
+	"Ruth Parramore (1885)" -> "Rob Mitchell (1004)" [label=508]
+	"Robert James Hyndman (1888)" -> "Rob Mitchell (1004)" [label=248]
+	"Robert James Hyndman (1888)" -> "Chris Hayman (1889)" [label=130]
+	"Ruth Parramore (1885)" -> "Deb Butler (1887)" [label=532]
+	"Robert James Hyndman (1888)" -> "Deb Butler (1887)" [label=278]
+	"Chris Hayman (1889)" -> "Ronnie Graham (1049)" [label=1454]
+	"Ruth Parramore (1885)" -> "Ronnie Graham (1049)" [label=249]
+	"Robert James Hyndman (1888)" -> "Ronnie Graham (1049)" [label=188]
+	"Deb Butler (1887)" -> "Neil Barker (998)" [label=827]
+	"Chris Hayman (1889)" -> "Neil Barker (998)" [label=248]
+	"Ruth Parramore (1885)" -> "Neil Barker (998)" [label=1269]
+	"Robert James Hyndman (1888)" -> "Neil Barker (998)" [label=158]
+}

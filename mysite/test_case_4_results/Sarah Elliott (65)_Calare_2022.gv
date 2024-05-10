@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Sarah Elliott (65)_Calare_2022" {
+	graph [label="Calare 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sarah Elliott (65)" [label="Sarah Elliott (65)
+Labor"]
+	"Stacey Whittaker (63)" [label="Stacey Whittaker (63)
+Pauline Hanson's One Nation"]
+	"Kay Nankervis (64)" [label="Kay Nankervis (64)
+The Greens"]
+	"Adam John Jannis (67)" [label="Adam John Jannis (67)
+United Australia Party"]
+	"Stacey Whittaker (63)" -> "Sarah Elliott (65)" [label=1446]
+	"Kay Nankervis (64)" -> "Stacey Whittaker (63)" [label=332]
+	"Adam John Jannis (67)" -> "Kay Nankervis (64)" [label=153]
+	"Kay Nankervis (64)" -> "Sarah Elliott (65)" [label=1886]
+	"Adam John Jannis (67)" -> "Sarah Elliott (65)" [label=311]
+	"Adam John Jannis (67)" -> "Stacey Whittaker (63)" [label=2055]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Robert Pearson (2777)_Stirling_2016" {
+	graph [label="Stirling 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Robert Pearson (2777)" [label="Robert Pearson (2777)
+Australian Labor Party"]
+	"Tom Webster (2776)" [label="Tom Webster (2776)
+The Greens (WA)"]
+	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
+Independent"]
+	"Kevin Host (2006)" [label="Kevin Host (2006)
+Australian Christians"]
+	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
+Rise Up Australia Party"]
+	"Tom Webster (2776)" -> "Robert Pearson (2777)" [label=8530]
+	"Kim Mubarak (2773)" -> "Tom Webster (2776)" [label=977]
+	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
+	"Alison L Rowe (2774)" -> "Kevin Host (2006)" [label=343]
+	"Kim Mubarak (2773)" -> "Robert Pearson (2777)" [label=720]
+	"Kevin Host (2006)" -> "Robert Pearson (2777)" [label=319]
+	"Alison L Rowe (2774)" -> "Robert Pearson (2777)" [label=133]
+	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
+	"Kevin Host (2006)" -> "Tom Webster (2776)" [label=194]
+	"Alison L Rowe (2774)" -> "Tom Webster (2776)" [label=124]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Cathy O'Toole (1556)_Herbert_2019" {
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Cathy O'Toole (1556)" [label="Cathy O'Toole (1556)
+Australian Labor Party"]
+	"Amy Lohse (1550)" [label="Amy Lohse (1550)
+Pauline Hanson's One Nation"]
+	"Nanette Radeck (1552)" [label="Nanette Radeck (1552)
+Katter's Australian Party (KAP)"]
+	"Sam Blackadder (1553)" [label="Sam Blackadder (1553)
+The Greens"]
+	"Greg Dowling (1551)" [label="Greg Dowling (1551)
+United Australia Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Amy Lohse (1550)" -> "Cathy O'Toole (1556)" [label=6653]
+	"Nanette Radeck (1552)" -> "Amy Lohse (1550)" [label=6446]
+	"Sam Blackadder (1553)" -> "Nanette Radeck (1552)" [label=828]
+	"Greg Dowling (1551)" -> "Sam Blackadder (1553)" [label=258]
+	"Tamara Durant (1554)" -> "Greg Dowling (1551)" [label=202]
+	"Mackenzie Severns (1555)" -> "Tamara Durant (1554)" [label=167]
+	"Nanette Radeck (1552)" -> "Cathy O'Toole (1556)" [label=2167]
+	"Sam Blackadder (1553)" -> "Cathy O'Toole (1556)" [label=5274]
+	"Greg Dowling (1551)" -> "Cathy O'Toole (1556)" [label=422]
+	"Tamara Durant (1554)" -> "Cathy O'Toole (1556)" [label=101]
+	"Mackenzie Severns (1555)" -> "Cathy O'Toole (1556)" [label=266]
+	"Mackenzie Severns (1555)" -> "Greg Dowling (1551)" [label=76]
+	"Tamara Durant (1554)" -> "Sam Blackadder (1553)" [label=104]
+	"Mackenzie Severns (1555)" -> "Sam Blackadder (1553)" [label=602]
+	"Greg Dowling (1551)" -> "Nanette Radeck (1552)" [label=1258]
+	"Tamara Durant (1554)" -> "Nanette Radeck (1552)" [label=414]
+	"Mackenzie Severns (1555)" -> "Nanette Radeck (1552)" [label=141]
+	"Sam Blackadder (1553)" -> "Amy Lohse (1550)" [label=643]
+	"Greg Dowling (1551)" -> "Amy Lohse (1550)" [label=2000]
+	"Tamara Durant (1554)" -> "Amy Lohse (1550)" [label=617]
+	"Mackenzie Severns (1555)" -> "Amy Lohse (1550)" [label=164]
+}

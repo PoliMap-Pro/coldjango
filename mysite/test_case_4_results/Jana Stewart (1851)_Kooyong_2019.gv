@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jana Stewart (1851)_Kooyong_2019" {
+	graph [label="Kooyong 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jana Stewart (1851)" [label="Jana Stewart (1851)
+Australian Labor Party"]
+	"Oliver Yates (1849)" [label="Oliver Yates (1849)
+Independent"]
+	"Steven D'Elia (1848)" [label="Steven D'Elia (1848)
+United Australia Party"]
+	"Davina Hinkley (1852)" [label="Davina Hinkley (1852)
+Animal Justice Party"]
+	"Bill Chandler (1854)" [label="Bill Chandler (1854)
+Independent"]
+	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+Independent"]
+	"Oliver Yates (1849)" -> "Jana Stewart (1851)" [label=2310]
+	"Steven D'Elia (1848)" -> "Oliver Yates (1849)" [label=476]
+	"Davina Hinkley (1852)" -> "Steven D'Elia (1848)" [label=65]
+	"Bill Chandler (1854)" -> "Davina Hinkley (1852)" [label=41]
+	"Angelina Zubac (1850)" -> "Bill Chandler (1854)" [label=89]
+	"Steven D'Elia (1848)" -> "Jana Stewart (1851)" [label=111]
+	"Davina Hinkley (1852)" -> "Jana Stewart (1851)" [label=156]
+	"Bill Chandler (1854)" -> "Jana Stewart (1851)" [label=70]
+	"Angelina Zubac (1850)" -> "Jana Stewart (1851)" [label=75]
+	"Angelina Zubac (1850)" -> "Davina Hinkley (1852)" [label=31]
+	"Bill Chandler (1854)" -> "Steven D'Elia (1848)" [label=23]
+	"Angelina Zubac (1850)" -> "Steven D'Elia (1848)" [label=28]
+	"Davina Hinkley (1852)" -> "Oliver Yates (1849)" [label=190]
+	"Bill Chandler (1854)" -> "Oliver Yates (1849)" [label=353]
+	"Angelina Zubac (1850)" -> "Oliver Yates (1849)" [label=169]
+}

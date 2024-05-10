@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Tabatha Young (396)_Bonner_2022" {
+	graph [label="Bonner 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tabatha Young (396)" [label="Tabatha Young (396)
+Australian Labor Party"]
+	"Bernard Lakey (397)" [label="Bernard Lakey (397)
+Queensland Greens"]
+	"Amanda Neil (394)" [label="Amanda Neil (394)
+Pauline Hanson's One Nation"]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+	"Bernard Lakey (397)" -> "Tabatha Young (396)" [label=14840]
+	"Amanda Neil (394)" -> "Bernard Lakey (397)" [label=1725]
+	"Serge Diklich (395)" -> "Amanda Neil (394)" [label=1852]
+	"Amanda Neil (394)" -> "Tabatha Young (396)" [label=1244]
+	"Serge Diklich (395)" -> "Tabatha Young (396)" [label=328]
+	"Serge Diklich (395)" -> "Bernard Lakey (397)" [label=350]
+}

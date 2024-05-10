@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Brian Mitchell (729)_Lyons_2016" {
+	graph [label="Lyons 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Brian Mitchell (729)" [label="Brian Mitchell (729)
+Australian Labor Party"]
+	"Hannah Rubenach-Quinn (2522)" [label="Hannah Rubenach-Quinn (2522)
+The Greens"]
+	"Shelley Shay (2520)" [label="Shelley Shay (2520)
+Australian Recreational Fishers Party"]
+	"Duncan Livingston (2521)" [label="Duncan Livingston (2521)
+Renewable Energy Party"]
+	"Gene Mawer (2523)" [label="Gene Mawer (2523)
+Christian Democratic Party (Fred Nile Group)"]
+	"Hannah Rubenach-Quinn (2522)" -> "Brian Mitchell (729)" [label=6748]
+	"Shelley Shay (2520)" -> "Hannah Rubenach-Quinn (2522)" [label=1247]
+	"Duncan Livingston (2521)" -> "Shelley Shay (2520)" [label=763]
+	"Gene Mawer (2523)" -> "Duncan Livingston (2521)" [label=195]
+	"Shelley Shay (2520)" -> "Brian Mitchell (729)" [label=2211]
+	"Duncan Livingston (2521)" -> "Brian Mitchell (729)" [label=297]
+	"Gene Mawer (2523)" -> "Brian Mitchell (729)" [label=156]
+	"Gene Mawer (2523)" -> "Shelley Shay (2520)" [label=213]
+	"Duncan Livingston (2521)" -> "Hannah Rubenach-Quinn (2522)" [label=464]
+	"Gene Mawer (2523)" -> "Hannah Rubenach-Quinn (2522)" [label=83]
+}

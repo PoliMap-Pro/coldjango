@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Andrew Woodward (1262)_Warringah_2016" {
+	graph [label="Warringah 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Woodward (1262)" [label="Andrew Woodward (1262)
+Labor"]
+	"James Mathison (2240)" [label="James Mathison (2240)
+Independent"]
+	"Marie Rowland (2236)" [label="Marie Rowland (2236)
+Nick Xenophon Team"]
+	"June Scifo (2237)" [label="June Scifo (2237)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marc Giordano (2238)" [label="Marc Giordano (2238)
+Science Party"]
+	"Shea Caplice (2239)" [label="Shea Caplice (2239)
+The Arts Party"]
+	"Tony Backhouse (2243)" [label="Tony Backhouse (2243)
+Independent"]
+	"David Barrow (2242)" [label="David Barrow (2242)
+Independent"]
+	"James Mathison (2240)" -> "Andrew Woodward (1262)" [label=3128]
+	"Marie Rowland (2236)" -> "James Mathison (2240)" [label=1669]
+	"June Scifo (2237)" -> "Marie Rowland (2236)" [label=166]
+	"Marc Giordano (2238)" -> "June Scifo (2237)" [label=50]
+	"Shea Caplice (2239)" -> "Marc Giordano (2238)" [label=106]
+	"Tony Backhouse (2243)" -> "Shea Caplice (2239)" [label=21]
+	"David Barrow (2242)" -> "Tony Backhouse (2243)" [label=138]
+	"Marie Rowland (2236)" -> "Andrew Woodward (1262)" [label=1512]
+	"June Scifo (2237)" -> "Andrew Woodward (1262)" [label=90]
+	"Marc Giordano (2238)" -> "Andrew Woodward (1262)" [label=109]
+	"Shea Caplice (2239)" -> "Andrew Woodward (1262)" [label=75]
+	"Tony Backhouse (2243)" -> "Andrew Woodward (1262)" [label=39]
+	"David Barrow (2242)" -> "Andrew Woodward (1262)" [label=17]
+	"David Barrow (2242)" -> "Shea Caplice (2239)" [label=7]
+	"Tony Backhouse (2243)" -> "Marc Giordano (2238)" [label=23]
+	"David Barrow (2242)" -> "Marc Giordano (2238)" [label=3]
+	"Shea Caplice (2239)" -> "June Scifo (2237)" [label=23]
+	"Tony Backhouse (2243)" -> "June Scifo (2237)" [label=22]
+	"David Barrow (2242)" -> "June Scifo (2237)" [label=3]
+	"Marc Giordano (2238)" -> "Marie Rowland (2236)" [label=160]
+	"Shea Caplice (2239)" -> "Marie Rowland (2236)" [label=58]
+	"Tony Backhouse (2243)" -> "Marie Rowland (2236)" [label=30]
+	"David Barrow (2242)" -> "Marie Rowland (2236)" [label=15]
+	"June Scifo (2237)" -> "James Mathison (2240)" [label=130]
+	"Marc Giordano (2238)" -> "James Mathison (2240)" [label=214]
+	"Shea Caplice (2239)" -> "James Mathison (2240)" [label=165]
+	"Tony Backhouse (2243)" -> "James Mathison (2240)" [label=171]
+	"David Barrow (2242)" -> "James Mathison (2240)" [label=28]
+}

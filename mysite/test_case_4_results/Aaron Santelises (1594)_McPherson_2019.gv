@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Aaron Santelises (1594)_McPherson_2019" {
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Aaron Santelises (1594)" [label="Aaron Santelises (1594)
+Australian Labor Party"]
+	"Alan Quinn (1597)" [label="Alan Quinn (1597)
+The Greens"]
+	"John Spellman (1601)" [label="John Spellman (1601)
+Pauline Hanson's One Nation"]
+	"Scott Crowe (1595)" [label="Scott Crowe (1595)
+Liberal Democrats"]
+	"Fiona Kay Mackenzie (1600)" [label="Fiona Kay Mackenzie (1600)
+United Australia Party"]
+	"Renee Stewart (1599)" [label="Renee Stewart (1599)
+Animal Justice Party"]
+	"Michael Kaff (1596)" [label="Michael Kaff (1596)
+Independent"]
+	"Sean Gordon Gaffy (1598)" [label="Sean Gordon Gaffy (1598)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Alan Quinn (1597)" -> "Aaron Santelises (1594)" [label=10366]
+	"John Spellman (1601)" -> "Alan Quinn (1597)" [label=2076]
+	"Scott Crowe (1595)" -> "John Spellman (1601)" [label=682]
+	"Fiona Kay Mackenzie (1600)" -> "Scott Crowe (1595)" [label=201]
+	"Renee Stewart (1599)" -> "Fiona Kay Mackenzie (1600)" [label=293]
+	"Michael Kaff (1596)" -> "Renee Stewart (1599)" [label=287]
+	"Sean Gordon Gaffy (1598)" -> "Michael Kaff (1596)" [label=50]
+	"John Spellman (1601)" -> "Aaron Santelises (1594)" [label=1779]
+	"Scott Crowe (1595)" -> "Aaron Santelises (1594)" [label=764]
+	"Fiona Kay Mackenzie (1600)" -> "Aaron Santelises (1594)" [label=285]
+	"Renee Stewart (1599)" -> "Aaron Santelises (1594)" [label=323]
+	"Michael Kaff (1596)" -> "Aaron Santelises (1594)" [label=288]
+	"Sean Gordon Gaffy (1598)" -> "Aaron Santelises (1594)" [label=33]
+	"Sean Gordon Gaffy (1598)" -> "Renee Stewart (1599)" [label=57]
+	"Michael Kaff (1596)" -> "Fiona Kay Mackenzie (1600)" [label=125]
+	"Sean Gordon Gaffy (1598)" -> "Fiona Kay Mackenzie (1600)" [label=114]
+	"Renee Stewart (1599)" -> "Scott Crowe (1595)" [label=186]
+	"Michael Kaff (1596)" -> "Scott Crowe (1595)" [label=172]
+	"Sean Gordon Gaffy (1598)" -> "Scott Crowe (1595)" [label=100]
+	"Fiona Kay Mackenzie (1600)" -> "John Spellman (1601)" [label=1696]
+	"Renee Stewart (1599)" -> "John Spellman (1601)" [label=352]
+	"Michael Kaff (1596)" -> "John Spellman (1601)" [label=157]
+	"Sean Gordon Gaffy (1598)" -> "John Spellman (1601)" [label=349]
+	"Scott Crowe (1595)" -> "Alan Quinn (1597)" [label=686]
+	"Fiona Kay Mackenzie (1600)" -> "Alan Quinn (1597)" [label=351]
+	"Renee Stewart (1599)" -> "Alan Quinn (1597)" [label=1262]
+	"Michael Kaff (1596)" -> "Alan Quinn (1597)" [label=414]
+	"Sean Gordon Gaffy (1598)" -> "Alan Quinn (1597)" [label=26]
+}

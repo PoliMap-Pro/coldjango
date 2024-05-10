@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Lorrae Loud (2749)_Forrest_2016" {
+	graph [label="Forrest 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Lorrae Loud (2749)" [label="Lorrae Loud (2749)
+Australian Labor Party"]
+	"Jill Reading (2750)" [label="Jill Reading (2750)
+The Greens (WA)"]
+	"Ross Maitland Slater (2744)" [label="Ross Maitland Slater (2744)
+Independent"]
+	"Luke Pilkington (2748)" [label="Luke Pilkington (2748)
+The Nationals"]
+	"David Fishlock (2746)" [label="David Fishlock (2746)
+Outdoor Recreation Party (Stop The Greens)"]
+	"Edward Dabrowski (2745)" [label="Edward Dabrowski (2745)
+Australian Christians"]
+	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
+Rise Up Australia Party"]
+	"Jill Reading (2750)" -> "Lorrae Loud (2749)" [label=9437]
+	"Ross Maitland Slater (2744)" -> "Jill Reading (2750)" [label=1793]
+	"Luke Pilkington (2748)" -> "Ross Maitland Slater (2744)" [label=862]
+	"David Fishlock (2746)" -> "Luke Pilkington (2748)" [label=424]
+	"Edward Dabrowski (2745)" -> "David Fishlock (2746)" [label=274]
+	"Jennifer Whately (2747)" -> "Edward Dabrowski (2745)" [label=259]
+	"Ross Maitland Slater (2744)" -> "Lorrae Loud (2749)" [label=1552]
+	"Luke Pilkington (2748)" -> "Lorrae Loud (2749)" [label=529]
+	"David Fishlock (2746)" -> "Lorrae Loud (2749)" [label=337]
+	"Edward Dabrowski (2745)" -> "Lorrae Loud (2749)" [label=130]
+	"Jennifer Whately (2747)" -> "Lorrae Loud (2749)" [label=129]
+	"Jennifer Whately (2747)" -> "David Fishlock (2746)" [label=489]
+	"Edward Dabrowski (2745)" -> "Luke Pilkington (2748)" [label=243]
+	"Jennifer Whately (2747)" -> "Luke Pilkington (2748)" [label=119]
+	"David Fishlock (2746)" -> "Ross Maitland Slater (2744)" [label=1489]
+	"Edward Dabrowski (2745)" -> "Ross Maitland Slater (2744)" [label=487]
+	"Jennifer Whately (2747)" -> "Ross Maitland Slater (2744)" [label=383]
+	"Luke Pilkington (2748)" -> "Jill Reading (2750)" [label=541]
+	"David Fishlock (2746)" -> "Jill Reading (2750)" [label=211]
+	"Edward Dabrowski (2745)" -> "Jill Reading (2750)" [label=85]
+	"Jennifer Whately (2747)" -> "Jill Reading (2750)" [label=111]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Jason Clare (53)_Blaxland_2019" {
+	graph [label="Blaxland 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jason Clare (53)" [label="Jason Clare (53)
+Labor"]
+	"James Rooney (1240)" [label="James Rooney (1240)
+The Greens"]
+	"Veronica Rowe (1238)" [label="Veronica Rowe (1238)
+Christian Democratic Party (Fred Nile Group)"]
+	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
+United Australia Party"]
+	"James Rooney (1240)" -> "Jason Clare (53)" [label=4013]
+	"Veronica Rowe (1238)" -> "James Rooney (1240)" [label=433]
+	"Nadeem Ashraf (1239)" -> "Veronica Rowe (1238)" [label=421]
+	"Veronica Rowe (1238)" -> "Jason Clare (53)" [label=856]
+	"Nadeem Ashraf (1239)" -> "Jason Clare (53)" [label=741]
+	"Nadeem Ashraf (1239)" -> "James Rooney (1240)" [label=491]
+}

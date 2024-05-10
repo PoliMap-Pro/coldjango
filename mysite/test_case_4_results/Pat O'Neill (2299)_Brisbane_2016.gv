@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Pat O'Neill (2299)_Brisbane_2016" {
+	graph [label="Brisbane 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Pat O'Neill (2299)" [label="Pat O'Neill (2299)
+Australian Labor Party"]
+	"Kirsten Lovejoy (2302)" [label="Kirsten Lovejoy (2302)
+The Greens"]
+	"John Humphreys (2300)" [label="John Humphreys (2300)
+Liberal Democrats"]
+	"Mark Vegar (2303)" [label="Mark Vegar (2303)
+Family First"]
+	"Bridget Clinch (2301)" [label="Bridget Clinch (2301)
+Veterans Party"]
+	"Kirsten Lovejoy (2302)" -> "Pat O'Neill (2299)" [label=16150]
+	"John Humphreys (2300)" -> "Kirsten Lovejoy (2302)" [label=561]
+	"Mark Vegar (2303)" -> "John Humphreys (2300)" [label=560]
+	"Bridget Clinch (2301)" -> "Mark Vegar (2303)" [label=265]
+	"John Humphreys (2300)" -> "Pat O'Neill (2299)" [label=559]
+	"Mark Vegar (2303)" -> "Pat O'Neill (2299)" [label=193]
+	"Bridget Clinch (2301)" -> "Pat O'Neill (2299)" [label=130]
+	"Bridget Clinch (2301)" -> "John Humphreys (2300)" [label=129]
+	"Mark Vegar (2303)" -> "Kirsten Lovejoy (2302)" [label=473]
+	"Bridget Clinch (2301)" -> "Kirsten Lovejoy (2302)" [label=258]
+}

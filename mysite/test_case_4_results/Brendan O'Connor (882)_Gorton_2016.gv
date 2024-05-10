@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Brendan O'Connor (882)_Gorton_2016" {
+	graph [label="Gorton 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Brendan O'Connor (882)" [label="Brendan O'Connor (882)
+Australian Labor Party"]
+	"Rod Swift (2617)" [label="Rod Swift (2617)
+The Greens"]
+	"Rod Swift (2617)" -> "Brendan O'Connor (882)" [label=7025]
+}

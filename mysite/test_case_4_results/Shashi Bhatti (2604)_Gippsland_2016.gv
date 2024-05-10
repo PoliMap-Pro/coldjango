@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Shashi Bhatti (2604)_Gippsland_2016" {
+	graph [label="Gippsland 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Shashi Bhatti (2604)" [label="Shashi Bhatti (2604)
+Australian Labor Party"]
+	"Ian Onley (2603)" [label="Ian Onley (2603)
+The Greens"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Liberal Democrats"]
+	"Brian Heath (2606)" [label="Brian Heath (2606)
+Family First Party"]
+	"Cherie Smith (2607)" [label="Cherie Smith (2607)
+Independent"]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Rise Up Australia Party"]
+	"Christine Sindt (2605)" [label="Christine Sindt (2605)
+Independent"]
+	"Peter Gardner (2609)" [label="Peter Gardner (2609)
+Renewable Energy Party"]
+	"Ashleigh Belsar (2608)" [label="Ashleigh Belsar (2608)
+Australian Christians"]
+	"Ian Onley (2603)" -> "Shashi Bhatti (2604)" [label=7188]
+	"Ben Buckley (2610)" -> "Ian Onley (2603)" [label=915]
+	"Brian Heath (2606)" -> "Ben Buckley (2610)" [label=1454]
+	"Cherie Smith (2607)" -> "Brian Heath (2606)" [label=660]
+	"Peter Dorian (1832)" -> "Cherie Smith (2607)" [label=353]
+	"Christine Sindt (2605)" -> "Peter Dorian (1832)" [label=152]
+	"Peter Gardner (2609)" -> "Christine Sindt (2605)" [label=84]
+	"Ashleigh Belsar (2608)" -> "Peter Gardner (2609)" [label=36]
+	"Ben Buckley (2610)" -> "Shashi Bhatti (2604)" [label=1072]
+	"Brian Heath (2606)" -> "Shashi Bhatti (2604)" [label=882]
+	"Cherie Smith (2607)" -> "Shashi Bhatti (2604)" [label=571]
+	"Peter Dorian (1832)" -> "Shashi Bhatti (2604)" [label=229]
+	"Christine Sindt (2605)" -> "Shashi Bhatti (2604)" [label=194]
+	"Peter Gardner (2609)" -> "Shashi Bhatti (2604)" [label=140]
+	"Ashleigh Belsar (2608)" -> "Shashi Bhatti (2604)" [label=40]
+	"Ashleigh Belsar (2608)" -> "Christine Sindt (2605)" [label=47]
+	"Peter Gardner (2609)" -> "Peter Dorian (1832)" [label=73]
+	"Ashleigh Belsar (2608)" -> "Peter Dorian (1832)" [label=45]
+	"Christine Sindt (2605)" -> "Cherie Smith (2607)" [label=603]
+	"Peter Gardner (2609)" -> "Cherie Smith (2607)" [label=195]
+	"Ashleigh Belsar (2608)" -> "Cherie Smith (2607)" [label=33]
+	"Peter Dorian (1832)" -> "Brian Heath (2606)" [label=636]
+	"Christine Sindt (2605)" -> "Brian Heath (2606)" [label=190]
+	"Peter Gardner (2609)" -> "Brian Heath (2606)" [label=116]
+	"Ashleigh Belsar (2608)" -> "Brian Heath (2606)" [label=356]
+	"Cherie Smith (2607)" -> "Ben Buckley (2610)" [label=399]
+	"Peter Dorian (1832)" -> "Ben Buckley (2610)" [label=161]
+	"Christine Sindt (2605)" -> "Ben Buckley (2610)" [label=83]
+	"Peter Gardner (2609)" -> "Ben Buckley (2610)" [label=152]
+	"Ashleigh Belsar (2608)" -> "Ben Buckley (2610)" [label=53]
+	"Brian Heath (2606)" -> "Ian Onley (2603)" [label=722]
+	"Cherie Smith (2607)" -> "Ian Onley (2603)" [label=468]
+	"Peter Dorian (1832)" -> "Ian Onley (2603)" [label=135]
+	"Christine Sindt (2605)" -> "Ian Onley (2603)" [label=108]
+	"Peter Gardner (2609)" -> "Ian Onley (2603)" [label=466]
+	"Ashleigh Belsar (2608)" -> "Ian Onley (2603)" [label=24]
+}

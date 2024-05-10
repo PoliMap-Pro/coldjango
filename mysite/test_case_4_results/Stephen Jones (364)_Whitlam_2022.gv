@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Stephen Jones (364)_Whitlam_2022" {
+	graph [label="Whitlam 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stephen Jones (364)" [label="Stephen Jones (364)
+Labor"]
+	"Jamie Dixon (369)" [label="Jamie Dixon (369)
+The Greens"]
+	"Colin Hughes (366)" [label="Colin Hughes (366)
+Pauline Hanson's One Nation"]
+	"Allan Wode (368)" [label="Allan Wode (368)
+United Australia Party"]
+	"Michael Wheeler (365)" [label="Michael Wheeler (365)
+Liberal Democrats"]
+	"Jamie Dixon (369)" -> "Stephen Jones (364)" [label=11544]
+	"Colin Hughes (366)" -> "Jamie Dixon (369)" [label=2716]
+	"Allan Wode (368)" -> "Colin Hughes (366)" [label=3303]
+	"Michael Wheeler (365)" -> "Allan Wode (368)" [label=664]
+	"Colin Hughes (366)" -> "Stephen Jones (364)" [label=3304]
+	"Allan Wode (368)" -> "Stephen Jones (364)" [label=886]
+	"Michael Wheeler (365)" -> "Stephen Jones (364)" [label=731]
+	"Michael Wheeler (365)" -> "Colin Hughes (366)" [label=746]
+	"Allan Wode (368)" -> "Jamie Dixon (369)" [label=806]
+	"Michael Wheeler (365)" -> "Jamie Dixon (369)" [label=206]
+}

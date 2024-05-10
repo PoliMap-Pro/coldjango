@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Saskia Gerhardy (1685)_Mayo_2019" {
+	graph [label="Mayo 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Saskia Gerhardy (1685)" [label="Saskia Gerhardy (1685)
+Australian Labor Party"]
+	"Anne Bourne (1682)" [label="Anne Bourne (1682)
+The Greens"]
+	"Michael Cane (1684)" [label="Michael Cane (1684)
+United Australia Party"]
+	"Helen Dowland (1683)" [label="Helen Dowland (1683)
+Animal Justice Party"]
+	"Anne Bourne (1682)" -> "Saskia Gerhardy (1685)" [label=4917]
+	"Michael Cane (1684)" -> "Anne Bourne (1682)" [label=574]
+	"Helen Dowland (1683)" -> "Michael Cane (1684)" [label=314]
+	"Michael Cane (1684)" -> "Saskia Gerhardy (1685)" [label=537]
+	"Helen Dowland (1683)" -> "Saskia Gerhardy (1685)" [label=233]
+	"Helen Dowland (1683)" -> "Anne Bourne (1682)" [label=1096]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Karin Bolton (1664)_Grey_2019" {
+	graph [label="Grey 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Karin Bolton (1664)" [label="Karin Bolton (1664)
+Australian Labor Party"]
+	"David Stone (1665)" [label="David Stone (1665)
+Pauline Hanson's One Nation"]
+	"Andrea Broadfoot (1667)" [label="Andrea Broadfoot (1667)
+Centre Alliance"]
+	"Candace Champion (1668)" [label="Candace Champion (1668)
+The Greens"]
+	"Alexander David Warren (1666)" [label="Alexander David Warren (1666)
+United Australia Party"]
+	"Jacqui Edgecombe (1663)" [label="Jacqui Edgecombe (1663)
+Animal Justice Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"David Stone (1665)" -> "Karin Bolton (1664)" [label=6465]
+	"Andrea Broadfoot (1667)" -> "David Stone (1665)" [label=1832]
+	"Candace Champion (1668)" -> "Andrea Broadfoot (1667)" [label=1674]
+	"Alexander David Warren (1666)" -> "Candace Champion (1668)" [label=310]
+	"Jacqui Edgecombe (1663)" -> "Alexander David Warren (1666)" [label=196]
+	"Richard Carmody (642)" -> "Jacqui Edgecombe (1663)" [label=219]
+	"Andrea Broadfoot (1667)" -> "Karin Bolton (1664)" [label=3522]
+	"Candace Champion (1668)" -> "Karin Bolton (1664)" [label=2535]
+	"Alexander David Warren (1666)" -> "Karin Bolton (1664)" [label=527]
+	"Jacqui Edgecombe (1663)" -> "Karin Bolton (1664)" [label=1011]
+	"Richard Carmody (642)" -> "Karin Bolton (1664)" [label=271]
+	"Richard Carmody (642)" -> "Alexander David Warren (1666)" [label=246]
+	"Jacqui Edgecombe (1663)" -> "Candace Champion (1668)" [label=661]
+	"Richard Carmody (642)" -> "Candace Champion (1668)" [label=217]
+	"Alexander David Warren (1666)" -> "Andrea Broadfoot (1667)" [label=410]
+	"Jacqui Edgecombe (1663)" -> "Andrea Broadfoot (1667)" [label=229]
+	"Richard Carmody (642)" -> "Andrea Broadfoot (1667)" [label=209]
+	"Candace Champion (1668)" -> "David Stone (1665)" [label=737]
+	"Alexander David Warren (1666)" -> "David Stone (1665)" [label=1786]
+	"Jacqui Edgecombe (1663)" -> "David Stone (1665)" [label=573]
+	"Richard Carmody (642)" -> "David Stone (1665)" [label=331]
+}

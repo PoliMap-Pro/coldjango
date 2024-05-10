@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Peter Cossar (590)_Ryan_2022" {
+	graph [label="Ryan 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Damian Coory (585)" [label="Damian Coory (585)
+Liberal Democrats"]
+	"Joel Love (587)" [label="Joel Love (587)
+Pauline Hanson's One Nation"]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Damian Coory (585)" -> "Peter Cossar (590)" [label=753]
+	"Joel Love (587)" -> "Damian Coory (585)" [label=1787]
+	"Kathryn Pollard (584)" -> "Joel Love (587)" [label=937]
+	"Jina Lipman (588)" -> "Kathryn Pollard (584)" [label=111]
+	"Janine Rees (586)" -> "Jina Lipman (588)" [label=129]
+	"Axel Dancoisne (592)" -> "Janine Rees (586)" [label=43]
+	"Joel Love (587)" -> "Peter Cossar (590)" [label=263]
+	"Kathryn Pollard (584)" -> "Peter Cossar (590)" [label=148]
+	"Jina Lipman (588)" -> "Peter Cossar (590)" [label=180]
+	"Janine Rees (586)" -> "Peter Cossar (590)" [label=83]
+	"Axel Dancoisne (592)" -> "Peter Cossar (590)" [label=28]
+	"Axel Dancoisne (592)" -> "Jina Lipman (588)" [label=44]
+	"Janine Rees (586)" -> "Kathryn Pollard (584)" [label=40]
+	"Axel Dancoisne (592)" -> "Kathryn Pollard (584)" [label=39]
+	"Jina Lipman (588)" -> "Joel Love (587)" [label=124]
+	"Janine Rees (586)" -> "Joel Love (587)" [label=32]
+	"Axel Dancoisne (592)" -> "Joel Love (587)" [label=65]
+	"Kathryn Pollard (584)" -> "Damian Coory (585)" [label=656]
+	"Jina Lipman (588)" -> "Damian Coory (585)" [label=109]
+	"Janine Rees (586)" -> "Damian Coory (585)" [label=67]
+	"Axel Dancoisne (592)" -> "Damian Coory (585)" [label=52]
+}

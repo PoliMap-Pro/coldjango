@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bill Leadbetter (2756)_Hasluck_2016" {
+	graph [label="Hasluck 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bill Leadbetter (2756)" [label="Bill Leadbetter (2756)
+Australian Labor Party"]
+	"Patrick Hyslop (2755)" [label="Patrick Hyslop (2755)
+The Greens (WA)"]
+	"Henry John Barnard (2758)" [label="Henry John Barnard (2758)
+Rise Up Australia Party"]
+	"Phil Twiss (2757)" [label="Phil Twiss (2757)
+Australian Christians"]
+	"Patrick Hyslop (2755)" -> "Bill Leadbetter (2756)" [label=8830]
+	"Henry John Barnard (2758)" -> "Patrick Hyslop (2755)" [label=1105]
+	"Phil Twiss (2757)" -> "Henry John Barnard (2758)" [label=1272]
+	"Henry John Barnard (2758)" -> "Bill Leadbetter (2756)" [label=1144]
+	"Phil Twiss (2757)" -> "Bill Leadbetter (2756)" [label=331]
+	"Phil Twiss (2757)" -> "Patrick Hyslop (2755)" [label=220]
+}

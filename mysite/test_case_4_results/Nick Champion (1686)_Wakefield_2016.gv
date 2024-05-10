@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Nick Champion (1686)_Wakefield_2016" {
+	graph [label="Wakefield 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Nick Champion (1686)" [label="Nick Champion (1686)
+Australian Labor Party"]
+	"Richard Inwood (2495)" [label="Richard Inwood (2495)
+Nick Xenophon Team"]
+	"Marilyn Phillips (2496)" [label="Marilyn Phillips (2496)
+Family First"]
+	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
+The Greens"]
+	"John Bolton (2499)" [label="John Bolton (2499)
+Independent"]
+	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
+Christian Democratic Party (Fred Nile Group)"]
+	"Richard Inwood (2495)" -> "Nick Champion (1686)" [label=15679]
+	"Marilyn Phillips (2496)" -> "Richard Inwood (2495)" [label=2909]
+	"Craig Vanstone (2497)" -> "Marilyn Phillips (2496)" [label=926]
+	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
+	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
+	"Marilyn Phillips (2496)" -> "Nick Champion (1686)" [label=2061]
+	"Craig Vanstone (2497)" -> "Nick Champion (1686)" [label=2064]
+	"John Bolton (2499)" -> "Nick Champion (1686)" [label=442]
+	"Ralph Anderson (2498)" -> "Nick Champion (1686)" [label=51]
+	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
+	"John Bolton (2499)" -> "Marilyn Phillips (2496)" [label=772]
+	"Ralph Anderson (2498)" -> "Marilyn Phillips (2496)" [label=280]
+	"Craig Vanstone (2497)" -> "Richard Inwood (2495)" [label=1156]
+	"John Bolton (2499)" -> "Richard Inwood (2495)" [label=804]
+	"Ralph Anderson (2498)" -> "Richard Inwood (2495)" [label=66]
+}

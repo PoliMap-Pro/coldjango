@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Shayne Neumann (389)_Blair_2022" {
+	graph [label="Blair 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Shayne Neumann (389)" [label="Shayne Neumann (389)
+Australian Labor Party"]
+	"Liz Suduk (388)" [label="Liz Suduk (388)
+Pauline Hanson's One Nation"]
+	"Danielle Mutton (385)" [label="Danielle Mutton (385)
+Queensland Greens"]
+	"Quinton Stewart Cunningham (387)" [label="Quinton Stewart Cunningham (387)
+United Australia Party"]
+	"Michelle Jaques (386)" [label="Michelle Jaques (386)
+Liberal Democrats"]
+	"Angela Lowery (391)" [label="Angela Lowery (391)
+Animal Justice Party"]
+	"Maria Pitman (390)" [label="Maria Pitman (390)
+Australian Values Party"]
+	"Liz Suduk (388)" -> "Shayne Neumann (389)" [label=8775]
+	"Danielle Mutton (385)" -> "Liz Suduk (388)" [label=3433]
+	"Quinton Stewart Cunningham (387)" -> "Danielle Mutton (385)" [label=1124]
+	"Michelle Jaques (386)" -> "Quinton Stewart Cunningham (387)" [label=659]
+	"Angela Lowery (391)" -> "Michelle Jaques (386)" [label=185]
+	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
+	"Danielle Mutton (385)" -> "Shayne Neumann (389)" [label=10222]
+	"Quinton Stewart Cunningham (387)" -> "Shayne Neumann (389)" [label=870]
+	"Michelle Jaques (386)" -> "Shayne Neumann (389)" [label=477]
+	"Angela Lowery (391)" -> "Shayne Neumann (389)" [label=463]
+	"Maria Pitman (390)" -> "Shayne Neumann (389)" [label=274]
+	"Maria Pitman (390)" -> "Michelle Jaques (386)" [label=175]
+	"Angela Lowery (391)" -> "Quinton Stewart Cunningham (387)" [label=342]
+	"Maria Pitman (390)" -> "Quinton Stewart Cunningham (387)" [label=213]
+	"Michelle Jaques (386)" -> "Danielle Mutton (385)" [label=542]
+	"Angela Lowery (391)" -> "Danielle Mutton (385)" [label=1055]
+	"Maria Pitman (390)" -> "Danielle Mutton (385)" [label=219]
+	"Quinton Stewart Cunningham (387)" -> "Liz Suduk (388)" [label=4622]
+	"Michelle Jaques (386)" -> "Liz Suduk (388)" [label=736]
+	"Angela Lowery (391)" -> "Liz Suduk (388)" [label=593]
+	"Maria Pitman (390)" -> "Liz Suduk (388)" [label=414]
+}

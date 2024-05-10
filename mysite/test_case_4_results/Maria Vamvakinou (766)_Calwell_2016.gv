@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Maria Vamvakinou (766)_Calwell_2016" {
+	graph [label="Calwell 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Maria Vamvakinou (766)" [label="Maria Vamvakinou (766)
+Australian Labor Party"]
+	"Natalie Abboud (765)" [label="Natalie Abboud (765)
+The Greens"]
+	"Megan Deanne Searls (2560)" [label="Megan Deanne Searls (2560)
+Animal Justice Party"]
+	"Michael Amon Lakkis (2561)" [label="Michael Amon Lakkis (2561)
+Independent"]
+	"Natalie Abboud (765)" -> "Maria Vamvakinou (766)" [label=8076]
+	"Megan Deanne Searls (2560)" -> "Natalie Abboud (765)" [label=2297]
+	"Michael Amon Lakkis (2561)" -> "Megan Deanne Searls (2560)" [label=1286]
+	"Megan Deanne Searls (2560)" -> "Maria Vamvakinou (766)" [label=1242]
+	"Michael Amon Lakkis (2561)" -> "Maria Vamvakinou (766)" [label=620]
+	"Michael Amon Lakkis (2561)" -> "Natalie Abboud (765)" [label=529]
+}

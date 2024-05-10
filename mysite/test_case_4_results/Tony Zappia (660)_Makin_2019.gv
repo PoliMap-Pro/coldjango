@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Tony Zappia (660)_Makin_2019" {
+	graph [label="Makin 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Stephanie Stewart (1679)" [label="Stephanie Stewart (1679)
+The Greens"]
+	"Rachel Collis (1680)" [label="Rachel Collis (1680)
+United Australia Party"]
+	"Lyn Gaston (1678)" [label="Lyn Gaston (1678)
+Animal Justice Party"]
+	"Stephanie Stewart (1679)" -> "Tony Zappia (660)" [label=9178]
+	"Rachel Collis (1680)" -> "Stephanie Stewart (1679)" [label=2027]
+	"Lyn Gaston (1678)" -> "Rachel Collis (1680)" [label=726]
+	"Rachel Collis (1680)" -> "Tony Zappia (660)" [label=2003]
+	"Lyn Gaston (1678)" -> "Tony Zappia (660)" [label=879]
+	"Lyn Gaston (1678)" -> "Stephanie Stewart (1679)" [label=1766]
+}

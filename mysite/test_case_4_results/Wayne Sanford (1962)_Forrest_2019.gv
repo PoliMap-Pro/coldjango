@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Wayne Sanford (1962)_Forrest_2019" {
+	graph [label="Forrest 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Wayne Sanford (1962)" [label="Wayne Sanford (1962)
+Australian Labor Party"]
+	"Nerilee Boshammer (1957)" [label="Nerilee Boshammer (1957)
+The Greens (WA)"]
+	"Kalven Wayne Jamieson (1959)" [label="Kalven Wayne Jamieson (1959)
+Pauline Hanson's One Nation"]
+	"Mark Mccall (1958)" [label="Mark Mccall (1958)
+Shooters, Fishers and Farmers"]
+	"Dale Geoffrey Bromley (1963)" [label="Dale Geoffrey Bromley (1963)
+United Australia Party"]
+	"Alexander Marsden (1960)" [label="Alexander Marsden (1960)
+Independent"]
+	"Ian Bruce Molyneux (1961)" [label="Ian Bruce Molyneux (1961)
+WESTERN AUSTRALIA PARTY"]
+	"Nerilee Boshammer (1957)" -> "Wayne Sanford (1962)" [label=9860]
+	"Kalven Wayne Jamieson (1959)" -> "Nerilee Boshammer (1957)" [label=2038]
+	"Mark Mccall (1958)" -> "Kalven Wayne Jamieson (1959)" [label=1356]
+	"Dale Geoffrey Bromley (1963)" -> "Mark Mccall (1958)" [label=297]
+	"Alexander Marsden (1960)" -> "Dale Geoffrey Bromley (1963)" [label=158]
+	"Ian Bruce Molyneux (1961)" -> "Alexander Marsden (1960)" [label=197]
+	"Kalven Wayne Jamieson (1959)" -> "Wayne Sanford (1962)" [label=1874]
+	"Mark Mccall (1958)" -> "Wayne Sanford (1962)" [label=475]
+	"Dale Geoffrey Bromley (1963)" -> "Wayne Sanford (1962)" [label=255]
+	"Alexander Marsden (1960)" -> "Wayne Sanford (1962)" [label=258]
+	"Ian Bruce Molyneux (1961)" -> "Wayne Sanford (1962)" [label=209]
+	"Ian Bruce Molyneux (1961)" -> "Dale Geoffrey Bromley (1963)" [label=130]
+	"Alexander Marsden (1960)" -> "Mark Mccall (1958)" [label=270]
+	"Ian Bruce Molyneux (1961)" -> "Mark Mccall (1958)" [label=132]
+	"Dale Geoffrey Bromley (1963)" -> "Kalven Wayne Jamieson (1959)" [label=557]
+	"Alexander Marsden (1960)" -> "Kalven Wayne Jamieson (1959)" [label=179]
+	"Ian Bruce Molyneux (1961)" -> "Kalven Wayne Jamieson (1959)" [label=110]
+	"Mark Mccall (1958)" -> "Nerilee Boshammer (1957)" [label=785]
+	"Dale Geoffrey Bromley (1963)" -> "Nerilee Boshammer (1957)" [label=231]
+	"Alexander Marsden (1960)" -> "Nerilee Boshammer (1957)" [label=286]
+	"Ian Bruce Molyneux (1961)" -> "Nerilee Boshammer (1957)" [label=168]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Phil Golding (3245)_Barker_2013" {
+	graph [label="Barker 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Phil Golding (3245)" [label="Phil Golding (3245)
+Australian Labor Party"]
+	"Kristin Lambert (3243)" [label="Kristin Lambert (3243)
+Family First"]
+	"Richard Sage (3246)" [label="Richard Sage (3246)
+Independent"]
+	"Mark Keough (2452)" [label="Mark Keough (2452)
+Australian Greens"]
+	"Miles Hannemann (1653)" [label="Miles Hannemann (1653)
+National Party"]
+	"Balwinder Singh Jhandi (3244)" [label="Balwinder Singh Jhandi (3244)
+Palmer United Party"]
+	"Kristin Lambert (3243)" -> "Phil Golding (3245)" [label=7829]
+	"Richard Sage (3246)" -> "Kristin Lambert (3243)" [label=3015]
+	"Mark Keough (2452)" -> "Richard Sage (3246)" [label=1024]
+	"Miles Hannemann (1653)" -> "Mark Keough (2452)" [label=258]
+	"Balwinder Singh Jhandi (3244)" -> "Miles Hannemann (1653)" [label=372]
+	"Richard Sage (3246)" -> "Phil Golding (3245)" [label=2876]
+	"Mark Keough (2452)" -> "Phil Golding (3245)" [label=2168]
+	"Miles Hannemann (1653)" -> "Phil Golding (3245)" [label=429]
+	"Balwinder Singh Jhandi (3244)" -> "Phil Golding (3245)" [label=658]
+	"Balwinder Singh Jhandi (3244)" -> "Mark Keough (2452)" [label=390]
+	"Miles Hannemann (1653)" -> "Richard Sage (3246)" [label=703]
+	"Balwinder Singh Jhandi (3244)" -> "Richard Sage (3246)" [label=627]
+	"Mark Keough (2452)" -> "Kristin Lambert (3243)" [label=2149]
+	"Miles Hannemann (1653)" -> "Kristin Lambert (3243)" [label=562]
+	"Balwinder Singh Jhandi (3244)" -> "Kristin Lambert (3243)" [label=885]
+}

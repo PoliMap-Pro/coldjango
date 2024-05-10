@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Surbhi Snowball (845)_Flinders_2022" {
+	graph [label="Flinders 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Surbhi Snowball (845)" [label="Surbhi Snowball (845)
+Australian Labor Party"]
+	"Despi O'Connor (846)" [label="Despi O'Connor (846)
+Independent"]
+	"Colin Lane (843)" [label="Colin Lane (843)
+The Greens"]
+	"Alex Van Der End (838)" [label="Alex Van Der End (838)
+United Australia Party"]
+	"Sarah Russell (844)" [label="Sarah Russell (844)
+Independent"]
+	"Cyndi Marr (839)" [label="Cyndi Marr (839)
+Pauline Hanson's One Nation"]
+	"Chrysten Abraham (840)" [label="Chrysten Abraham (840)
+Liberal Democrats"]
+	"Pamela Engelander (847)" [label="Pamela Engelander (847)
+Animal Justice Party"]
+	"Jefferson Earl (842)" [label="Jefferson Earl (842)
+Australian Federation Party"]
+	"Despi O'Connor (846)" -> "Surbhi Snowball (845)" [label=13163]
+	"Colin Lane (843)" -> "Despi O'Connor (846)" [label=5781]
+	"Alex Van Der End (838)" -> "Colin Lane (843)" [label=766]
+	"Sarah Russell (844)" -> "Alex Van Der End (838)" [label=354]
+	"Cyndi Marr (839)" -> "Sarah Russell (844)" [label=378]
+	"Chrysten Abraham (840)" -> "Cyndi Marr (839)" [label=751]
+	"Pamela Engelander (847)" -> "Chrysten Abraham (840)" [label=26]
+	"Jefferson Earl (842)" -> "Pamela Engelander (847)" [label=11]
+	"Colin Lane (843)" -> "Surbhi Snowball (845)" [label=5277]
+	"Alex Van Der End (838)" -> "Surbhi Snowball (845)" [label=772]
+	"Sarah Russell (844)" -> "Surbhi Snowball (845)" [label=1456]
+	"Cyndi Marr (839)" -> "Surbhi Snowball (845)" [label=221]
+	"Chrysten Abraham (840)" -> "Surbhi Snowball (845)" [label=70]
+	"Pamela Engelander (847)" -> "Surbhi Snowball (845)" [label=353]
+	"Jefferson Earl (842)" -> "Surbhi Snowball (845)" [label=28]
+	"Jefferson Earl (842)" -> "Chrysten Abraham (840)" [label=96]
+	"Pamela Engelander (847)" -> "Cyndi Marr (839)" [label=161]
+	"Jefferson Earl (842)" -> "Cyndi Marr (839)" [label=110]
+	"Chrysten Abraham (840)" -> "Sarah Russell (844)" [label=134]
+	"Pamela Engelander (847)" -> "Sarah Russell (844)" [label=218]
+	"Jefferson Earl (842)" -> "Sarah Russell (844)" [label=56]
+	"Cyndi Marr (839)" -> "Alex Van Der End (838)" [label=2781]
+	"Chrysten Abraham (840)" -> "Alex Van Der End (838)" [label=781]
+	"Pamela Engelander (847)" -> "Alex Van Der End (838)" [label=111]
+	"Jefferson Earl (842)" -> "Alex Van Der End (838)" [label=72]
+	"Sarah Russell (844)" -> "Colin Lane (843)" [label=1321]
+	"Cyndi Marr (839)" -> "Colin Lane (843)" [label=190]
+	"Chrysten Abraham (840)" -> "Colin Lane (843)" [label=105]
+	"Pamela Engelander (847)" -> "Colin Lane (843)" [label=595]
+	"Jefferson Earl (842)" -> "Colin Lane (843)" [label=39]
+	"Alex Van Der End (838)" -> "Despi O'Connor (846)" [label=2985]
+	"Sarah Russell (844)" -> "Despi O'Connor (846)" [label=2419]
+	"Cyndi Marr (839)" -> "Despi O'Connor (846)" [label=264]
+	"Chrysten Abraham (840)" -> "Despi O'Connor (846)" [label=87]
+	"Pamela Engelander (847)" -> "Despi O'Connor (846)" [label=448]
+	"Jefferson Earl (842)" -> "Despi O'Connor (846)" [label=30]
+}

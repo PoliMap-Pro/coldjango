@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Justine Elliot (300)_Richmond_2019" {
+	graph [label="Richmond 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Justine Elliot (300)" [label="Justine Elliot (300)
+Labor"]
+	"Michael Lyon (1411)" [label="Michael Lyon (1411)
+The Greens"]
+	"Hamish Jenkin Mitchell (1406)" [label="Hamish Jenkin Mitchell (1406)
+United Australia Party"]
+	"Ronald Mcdonald (1405)" [label="Ronald Mcdonald (1405)
+Sustainable Australia"]
+	"Ray Karam (1408)" [label="Ray Karam (1408)
+Independent"]
+	"Morgan Cox (1407)" [label="Morgan Cox (1407)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tom Barnett (1409)" [label="Tom Barnett (1409)
+Involuntary Medication Objectors (Vaccination/Fluoride) Party"]
+	"Michael Lyon (1411)" -> "Justine Elliot (300)" [label=19399]
+	"Hamish Jenkin Mitchell (1406)" -> "Michael Lyon (1411)" [label=1036]
+	"Ronald Mcdonald (1405)" -> "Hamish Jenkin Mitchell (1406)" [label=1434]
+	"Ray Karam (1408)" -> "Ronald Mcdonald (1405)" [label=509]
+	"Morgan Cox (1407)" -> "Ray Karam (1408)" [label=140]
+	"Tom Barnett (1409)" -> "Morgan Cox (1407)" [label=94]
+	"Hamish Jenkin Mitchell (1406)" -> "Justine Elliot (300)" [label=1776]
+	"Ronald Mcdonald (1405)" -> "Justine Elliot (300)" [label=725]
+	"Ray Karam (1408)" -> "Justine Elliot (300)" [label=307]
+	"Morgan Cox (1407)" -> "Justine Elliot (300)" [label=141]
+	"Tom Barnett (1409)" -> "Justine Elliot (300)" [label=96]
+	"Tom Barnett (1409)" -> "Ray Karam (1408)" [label=142]
+	"Morgan Cox (1407)" -> "Ronald Mcdonald (1405)" [label=168]
+	"Tom Barnett (1409)" -> "Ronald Mcdonald (1405)" [label=326]
+	"Ray Karam (1408)" -> "Hamish Jenkin Mitchell (1406)" [label=235]
+	"Morgan Cox (1407)" -> "Hamish Jenkin Mitchell (1406)" [label=271]
+	"Tom Barnett (1409)" -> "Hamish Jenkin Mitchell (1406)" [label=83]
+	"Ronald Mcdonald (1405)" -> "Michael Lyon (1411)" [label=1408]
+	"Ray Karam (1408)" -> "Michael Lyon (1411)" [label=375]
+	"Morgan Cox (1407)" -> "Michael Lyon (1411)" [label=75]
+	"Tom Barnett (1409)" -> "Michael Lyon (1411)" [label=380]
+}
