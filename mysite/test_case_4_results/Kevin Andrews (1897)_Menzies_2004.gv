@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kevin Andrews (1897)_Menzies_2004" {
+	graph [label="Menzies 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Andrews (1897)" [label="Kevin Andrews (1897)
+Liberal"]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Australian Greens"]
+	"John Bridge (5645)" [label="John Bridge (5645)
+Family First"]
+	"Anne Page (5646)" [label="Anne Page (5646)
+Democrats"]
+	"Jordon Davidson (5644)" [label="Jordon Davidson (5644)
+Citizens Electoral Council"]
+	"Matthew Wright (2490)" -> "Kevin Andrews (1897)" [label=1588]
+	"John Bridge (5645)" -> "Matthew Wright (2490)" [label=316]
+	"Anne Page (5646)" -> "John Bridge (5645)" [label=152]
+	"Jordon Davidson (5644)" -> "Anne Page (5646)" [label=38]
+	"John Bridge (5645)" -> "Kevin Andrews (1897)" [label=1226]
+	"Anne Page (5646)" -> "Kevin Andrews (1897)" [label=311]
+	"Jordon Davidson (5644)" -> "Kevin Andrews (1897)" [label=31]
+	"Jordon Davidson (5644)" -> "John Bridge (5645)" [label=83]
+	"Anne Page (5646)" -> "Matthew Wright (2490)" [label=488]
+	"Jordon Davidson (5644)" -> "Matthew Wright (2490)" [label=21]
+}

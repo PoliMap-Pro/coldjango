@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brendan Nelson (4265)_Bradfield_2004" {
+	graph [label="Bradfield 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brendan Nelson (4265)" [label="Brendan Nelson (4265)
+Liberal"]
+	"Robert H Goodwill (5023)" [label="Robert H Goodwill (5023)
+The Greens"]
+	"Jeannette Tsoulos (5025)" [label="Jeannette Tsoulos (5025)
+Australian Democrats"]
+	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
+Family First"]
+	"Robert H Goodwill (5023)" -> "Brendan Nelson (4265)" [label=2585]
+	"Jeannette Tsoulos (5025)" -> "Robert H Goodwill (5023)" [label=916]
+	"Sarah Montgomery (5024)" -> "Jeannette Tsoulos (5025)" [label=259]
+	"Jeannette Tsoulos (5025)" -> "Brendan Nelson (4265)" [label=688]
+	"Sarah Montgomery (5024)" -> "Brendan Nelson (4265)" [label=707]
+	"Sarah Montgomery (5024)" -> "Robert H Goodwill (5023)" [label=318]
+}

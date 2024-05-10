@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ethelyn King (787)_Chisholm_2022" {
+	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ethelyn King (787)" [label="Ethelyn King (787)
+Liberal Democrats"]
+	"Aaron Tyrrell (784)" [label="Aaron Tyrrell (784)
+Pauline Hanson's One Nation"]
+	"Rod Whitfield (785)" [label="Rod Whitfield (785)
+Animal Justice Party"]
+	"Thomas Stanfield (782)" [label="Thomas Stanfield (782)
+Derryn Hinch's Justice Party"]
+	"Wayne Tseng (791)" [label="Wayne Tseng (791)
+Independent"]
+	"Anthea Antonie (783)" [label="Anthea Antonie (783)
+Australian Federation Party"]
+	"Ryan Dare (786)" [label="Ryan Dare (786)
+Citizens Party"]
+	"Aaron Tyrrell (784)" -> "Ethelyn King (787)" [label=509]
+	"Rod Whitfield (785)" -> "Aaron Tyrrell (784)" [label=123]
+	"Thomas Stanfield (782)" -> "Rod Whitfield (785)" [label=133]
+	"Wayne Tseng (791)" -> "Thomas Stanfield (782)" [label=30]
+	"Anthea Antonie (783)" -> "Wayne Tseng (791)" [label=13]
+	"Ryan Dare (786)" -> "Anthea Antonie (783)" [label=19]
+	"Rod Whitfield (785)" -> "Ethelyn King (787)" [label=97]
+	"Thomas Stanfield (782)" -> "Ethelyn King (787)" [label=91]
+	"Wayne Tseng (791)" -> "Ethelyn King (787)" [label=18]
+	"Anthea Antonie (783)" -> "Ethelyn King (787)" [label=107]
+	"Ryan Dare (786)" -> "Ethelyn King (787)" [label=33]
+	"Ryan Dare (786)" -> "Wayne Tseng (791)" [label=48]
+	"Anthea Antonie (783)" -> "Thomas Stanfield (782)" [label=49]
+	"Ryan Dare (786)" -> "Thomas Stanfield (782)" [label=22]
+	"Wayne Tseng (791)" -> "Rod Whitfield (785)" [label=26]
+	"Anthea Antonie (783)" -> "Rod Whitfield (785)" [label=38]
+	"Ryan Dare (786)" -> "Rod Whitfield (785)" [label=51]
+	"Thomas Stanfield (782)" -> "Aaron Tyrrell (784)" [label=208]
+	"Wayne Tseng (791)" -> "Aaron Tyrrell (784)" [label=12]
+	"Anthea Antonie (783)" -> "Aaron Tyrrell (784)" [label=72]
+	"Ryan Dare (786)" -> "Aaron Tyrrell (784)" [label=28]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Pavlo Samios (227)_New England_2022" {
+	graph [label="New England 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pavlo Samios (227)" [label="Pavlo Samios (227)
+Liberal Democrats"]
+	"Natasha Ledger (229)" [label="Natasha Ledger (229)
+Independent"]
+	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
+United Australia Party"]
+	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
+	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
+	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
+}

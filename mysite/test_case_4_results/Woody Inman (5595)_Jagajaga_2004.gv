@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Woody Inman (5595)_Jagajaga_2004" {
+	graph [label="Jagajaga 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Woody Inman (5595)" [label="Woody Inman (5595)
+Liberal"]
+	"Don Ardin (5598)" [label="Don Ardin (5598)
+Australian Greens"]
+	"Jennifer Barton (5594)" [label="Jennifer Barton (5594)
+Family First"]
+	"Cate Hayward (5596)" [label="Cate Hayward (5596)
+Democrats"]
+	"Barry Minster (5599)" [label="Barry Minster (5599)
+Ex-Service, Service & Veterans Party"]
+	"Gary Schorel-Hlavka (5597)" [label="Gary Schorel-Hlavka (5597)
+The Aged and Disability Pensioners Party"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Don Ardin (5598)" -> "Woody Inman (5595)" [label=1214]
+	"Jennifer Barton (5594)" -> "Don Ardin (5598)" [label=394]
+	"Cate Hayward (5596)" -> "Jennifer Barton (5594)" [label=113]
+	"Barry Minster (5599)" -> "Cate Hayward (5596)" [label=49]
+	"Gary Schorel-Hlavka (5597)" -> "Barry Minster (5599)" [label=76]
+	"Stephen Lele (4832)" -> "Gary Schorel-Hlavka (5597)" [label=13]
+	"Jennifer Barton (5594)" -> "Woody Inman (5595)" [label=1085]
+	"Cate Hayward (5596)" -> "Woody Inman (5595)" [label=262]
+	"Barry Minster (5599)" -> "Woody Inman (5595)" [label=147]
+	"Gary Schorel-Hlavka (5597)" -> "Woody Inman (5595)" [label=41]
+	"Stephen Lele (4832)" -> "Woody Inman (5595)" [label=47]
+	"Stephen Lele (4832)" -> "Barry Minster (5599)" [label=21]
+	"Gary Schorel-Hlavka (5597)" -> "Cate Hayward (5596)" [label=34]
+	"Stephen Lele (4832)" -> "Cate Hayward (5596)" [label=23]
+	"Barry Minster (5599)" -> "Jennifer Barton (5594)" [label=185]
+	"Gary Schorel-Hlavka (5597)" -> "Jennifer Barton (5594)" [label=40]
+	"Stephen Lele (4832)" -> "Jennifer Barton (5594)" [label=19]
+	"Cate Hayward (5596)" -> "Don Ardin (5598)" [label=423]
+	"Barry Minster (5599)" -> "Don Ardin (5598)" [label=133]
+	"Gary Schorel-Hlavka (5597)" -> "Don Ardin (5598)" [label=51]
+	"Stephen Lele (4832)" -> "Don Ardin (5598)" [label=17]
+}

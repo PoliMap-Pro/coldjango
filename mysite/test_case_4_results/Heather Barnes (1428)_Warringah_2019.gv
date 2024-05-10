@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Heather Barnes (1428)_Warringah_2019" {
+	graph [label="Warringah 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Heather Barnes (1428)" [label="Heather Barnes (1428)
+Animal Justice Party"]
+	"Susan Moylan (1429)" [label="Susan Moylan (1429)
+Independent"]
+	"Emanuele Paletto (1431)" [label="Emanuele Paletto (1431)
+Sustainable Australia"]
+	"Suellen Marree Wrightson (1432)" [label="Suellen Marree Wrightson (1432)
+United Australia Party"]
+	"Jason Blaiklock (1435)" [label="Jason Blaiklock (1435)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Clare (1434)" [label="Brian Clare (1434)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Susan Moylan (1429)" -> "Heather Barnes (1428)" [label=190]
+	"Emanuele Paletto (1431)" -> "Susan Moylan (1429)" [label=110]
+	"Suellen Marree Wrightson (1432)" -> "Emanuele Paletto (1431)" [label=91]
+	"Jason Blaiklock (1435)" -> "Suellen Marree Wrightson (1432)" [label=27]
+	"Brian Clare (1434)" -> "Jason Blaiklock (1435)" [label=26]
+	"Emanuele Paletto (1431)" -> "Heather Barnes (1428)" [label=151]
+	"Suellen Marree Wrightson (1432)" -> "Heather Barnes (1428)" [label=73]
+	"Jason Blaiklock (1435)" -> "Heather Barnes (1428)" [label=29]
+	"Brian Clare (1434)" -> "Heather Barnes (1428)" [label=17]
+	"Brian Clare (1434)" -> "Suellen Marree Wrightson (1432)" [label=55]
+	"Jason Blaiklock (1435)" -> "Emanuele Paletto (1431)" [label=24]
+	"Brian Clare (1434)" -> "Emanuele Paletto (1431)" [label=18]
+	"Suellen Marree Wrightson (1432)" -> "Susan Moylan (1429)" [label=58]
+	"Jason Blaiklock (1435)" -> "Susan Moylan (1429)" [label=25]
+	"Brian Clare (1434)" -> "Susan Moylan (1429)" [label=8]
+}

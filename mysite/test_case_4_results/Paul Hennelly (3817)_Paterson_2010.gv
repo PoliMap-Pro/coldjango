@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Paul Hennelly (3817)_Paterson_2010" {
+	graph [label="Paterson 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+"]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Roslyn Stewart (1165)_Pearce_2022" {
+	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
+The Great Australian Party"]
+	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
+Australian Christians"]
+	"David Marshall (1167)" [label="David Marshall (1167)
+Liberal Democrats"]
+	"Nigel March (1174)" [label="Nigel March (1174)
+Australian Federation Party"]
+	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
+	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
+	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
+	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
+	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
+	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
+}

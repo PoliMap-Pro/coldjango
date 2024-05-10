@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Aaron Erskine (1561)_Hinkler_2019" {
+	graph [label="Hinkler 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
+Animal Justice Party"]
+	"David Norman (1559)" [label="David Norman (1559)
+Independent"]
+	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"Amy Byrnes (1563)" -> "Aaron Erskine (1561)" [label=130]
+	"David Norman (1559)" -> "Amy Byrnes (1563)" [label=55]
+	"Adrian Jacob Wone (1565)" -> "David Norman (1559)" [label=106]
+	"David Norman (1559)" -> "Aaron Erskine (1561)" [label=63]
+	"Adrian Jacob Wone (1565)" -> "Aaron Erskine (1561)" [label=32]
+	"Adrian Jacob Wone (1565)" -> "Amy Byrnes (1563)" [label=78]
+}

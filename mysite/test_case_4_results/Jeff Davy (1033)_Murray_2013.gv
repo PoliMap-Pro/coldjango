@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jeff Davy (1033)_Murray_2013" {
+	graph [label="Murray 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
+}

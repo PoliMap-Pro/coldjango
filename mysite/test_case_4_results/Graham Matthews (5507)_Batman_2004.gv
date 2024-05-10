@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Graham Matthews (5507)_Batman_2004" {
+	graph [label="Batman 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Graham Matthews (5507)" [label="Graham Matthews (5507)
+Socialist Alliance"]
+	"Peter Byrne (1746)" [label="Peter Byrne (1746)
+"]
+	"Walter Hernan Mellado (5504)" [label="Walter Hernan Mellado (5504)
+Citizens Electoral Council"]
+	"Peter Byrne (1746)" -> "Graham Matthews (5507)" [label=28]
+	"Walter Hernan Mellado (5504)" -> "Peter Byrne (1746)" [label=5]
+	"Walter Hernan Mellado (5504)" -> "Graham Matthews (5507)" [label=4]
+}

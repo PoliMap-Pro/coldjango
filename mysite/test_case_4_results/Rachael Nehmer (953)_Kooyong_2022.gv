@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rachael Nehmer (953)_Kooyong_2022" {
+	graph [label="Kooyong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rachael Nehmer (953)" [label="Rachael Nehmer (953)
+Animal Justice Party"]
+	"Will Anderson (950)" [label="Will Anderson (950)
+Independent"]
+	"Michele Dale (948)" [label="Michele Dale (948)
+Derryn Hinch's Justice Party"]
+	"David Connolly (955)" [label="David Connolly (955)
+Australian Values Party"]
+	"Will Anderson (950)" -> "Rachael Nehmer (953)" [label=19]
+	"Michele Dale (948)" -> "Will Anderson (950)" [label=10]
+	"David Connolly (955)" -> "Michele Dale (948)" [label=7]
+	"Michele Dale (948)" -> "Rachael Nehmer (953)" [label=21]
+	"David Connolly (955)" -> "Rachael Nehmer (953)" [label=11]
+	"David Connolly (955)" -> "Will Anderson (950)" [label=9]
+}

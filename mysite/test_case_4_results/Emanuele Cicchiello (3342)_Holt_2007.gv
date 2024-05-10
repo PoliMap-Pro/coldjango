@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Emanuele Cicchiello (3342)_Holt_2007" {
+	graph [label="Holt 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Emanuele Cicchiello (3342)" [label="Emanuele Cicchiello (3342)
+Liberal"]
+	"Lynette Keleher (3345)" [label="Lynette Keleher (3345)
+Australian Greens"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Ken Seymour (4817)" [label="Ken Seymour (4817)
+Australian Democrats"]
+	"Chris Morgan (4818)" [label="Chris Morgan (4818)
+Citizens Electoral Council"]
+	"Lynette Keleher (3345)" -> "Emanuele Cicchiello (3342)" [label=1383]
+	"Yasmin De Zilwa (3384)" -> "Lynette Keleher (3345)" [label=811]
+	"Ken Seymour (4817)" -> "Yasmin De Zilwa (3384)" [label=150]
+	"Chris Morgan (4818)" -> "Ken Seymour (4817)" [label=88]
+	"Yasmin De Zilwa (3384)" -> "Emanuele Cicchiello (3342)" [label=2237]
+	"Ken Seymour (4817)" -> "Emanuele Cicchiello (3342)" [label=195]
+	"Chris Morgan (4818)" -> "Emanuele Cicchiello (3342)" [label=38]
+	"Chris Morgan (4818)" -> "Yasmin De Zilwa (3384)" [label=68]
+	"Ken Seymour (4817)" -> "Lynette Keleher (3345)" [label=568]
+	"Chris Morgan (4818)" -> "Lynette Keleher (3345)" [label=113]
+}

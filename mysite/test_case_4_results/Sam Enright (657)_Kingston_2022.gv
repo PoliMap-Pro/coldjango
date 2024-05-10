@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Sam Enright (657)_Kingston_2022" {
+	graph [label="Kingston 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sam Enright (657)" [label="Sam Enright (657)
+Australian Federation Party"]
+}

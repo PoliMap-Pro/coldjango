@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Ron Delezio (3027)_Watson_2013" {
+	graph [label="Watson 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ron Delezio (3027)" [label="Ron Delezio (3027)
+Liberal"]
+	"Barbara Bloch (2247)" [label="Barbara Bloch (2247)
+The Greens"]
+	"Zaher Nasser (3029)" [label="Zaher Nasser (3029)
+Palmer United Party"]
+	"David Fraser (3031)" [label="David Fraser (3031)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stephen Rawson (3028)" [label="Stephen Rawson (3028)
+Democratic Labour Party (DLP)"]
+	"Paul Kamlade (3030)" [label="Paul Kamlade (3030)
+Rise Up Australia Party"]
+	"Barbara Bloch (2247)" -> "Ron Delezio (3027)" [label=1410]
+	"Zaher Nasser (3029)" -> "Barbara Bloch (2247)" [label=604]
+	"David Fraser (3031)" -> "Zaher Nasser (3029)" [label=252]
+	"Stephen Rawson (3028)" -> "David Fraser (3031)" [label=136]
+	"Paul Kamlade (3030)" -> "Stephen Rawson (3028)" [label=23]
+	"Zaher Nasser (3029)" -> "Ron Delezio (3027)" [label=752]
+	"David Fraser (3031)" -> "Ron Delezio (3027)" [label=1090]
+	"Stephen Rawson (3028)" -> "Ron Delezio (3027)" [label=230]
+	"Paul Kamlade (3030)" -> "Ron Delezio (3027)" [label=36]
+	"Paul Kamlade (3030)" -> "David Fraser (3031)" [label=112]
+	"Stephen Rawson (3028)" -> "Zaher Nasser (3029)" [label=88]
+	"Paul Kamlade (3030)" -> "Zaher Nasser (3029)" [label=69]
+	"David Fraser (3031)" -> "Barbara Bloch (2247)" [label=181]
+	"Stephen Rawson (3028)" -> "Barbara Bloch (2247)" [label=212]
+	"Paul Kamlade (3030)" -> "Barbara Bloch (2247)" [label=53]
+}

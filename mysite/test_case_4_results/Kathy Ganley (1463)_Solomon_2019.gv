@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kathy Ganley (1463)_Solomon_2019" {
+	graph [label="Solomon 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kathy Ganley (1463)" [label="Kathy Ganley (1463)
+Country Liberals (NT)"]
+	"Timothy Parish (1464)" [label="Timothy Parish (1464)
+The Greens"]
+	"Sue Fraser-Adams (1466)" [label="Sue Fraser-Adams (1466)
+Independent"]
+	"Raj Samson Rajwin (1465)" [label="Raj Samson Rajwin (1465)
+United Australia Party"]
+	"Lorraine Gimini (1462)" [label="Lorraine Gimini (1462)
+Rise Up Australia Party"]
+	"Timothy Parish (1464)" -> "Kathy Ganley (1463)" [label=2372]
+	"Sue Fraser-Adams (1466)" -> "Timothy Parish (1464)" [label=1324]
+	"Raj Samson Rajwin (1465)" -> "Sue Fraser-Adams (1466)" [label=686]
+	"Lorraine Gimini (1462)" -> "Raj Samson Rajwin (1465)" [label=254]
+	"Sue Fraser-Adams (1466)" -> "Kathy Ganley (1463)" [label=1424]
+	"Raj Samson Rajwin (1465)" -> "Kathy Ganley (1463)" [label=652]
+	"Lorraine Gimini (1462)" -> "Kathy Ganley (1463)" [label=434]
+	"Lorraine Gimini (1462)" -> "Sue Fraser-Adams (1466)" [label=207]
+	"Raj Samson Rajwin (1465)" -> "Timothy Parish (1464)" [label=234]
+	"Lorraine Gimini (1462)" -> "Timothy Parish (1464)" [label=149]
+}

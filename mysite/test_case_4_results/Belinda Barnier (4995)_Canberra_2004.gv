@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Belinda Barnier (4995)_Canberra_2004" {
+	graph [label="Canberra 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Belinda Barnier (4995)" [label="Belinda Barnier (4995)
+Liberal"]
+	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
+The Greens"]
+	"Aaron Matthews (4996)" [label="Aaron Matthews (4996)
+Australian Democrats"]
+	"Jim Arnold (4238)" [label="Jim Arnold (4238)
+Citizens Electoral Council"]
+	"Sue Ellerman (3670)" -> "Belinda Barnier (4995)" [label=2629]
+	"Aaron Matthews (4996)" -> "Sue Ellerman (3670)" [label=958]
+	"Jim Arnold (4238)" -> "Aaron Matthews (4996)" [label=196]
+	"Aaron Matthews (4996)" -> "Belinda Barnier (4995)" [label=548]
+	"Jim Arnold (4238)" -> "Belinda Barnier (4995)" [label=234]
+	"Jim Arnold (4238)" -> "Sue Ellerman (3670)" [label=149]
+}

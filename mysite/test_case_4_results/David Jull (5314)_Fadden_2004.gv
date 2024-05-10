@@ -1,0 +1,32 @@
+// House preference flow
+digraph "David Jull (5314)_Fadden_2004" {
+	graph [label="Fadden 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Jull (5314)" [label="David Jull (5314)
+Liberal"]
+	"Willy Bach (4554)" [label="Willy Bach (4554)
+The Greens"]
+	"Lyn Rees (2319)" [label="Lyn Rees (2319)
+Family First"]
+	"John Walter (4517)" [label="John Walter (4517)
+One Nation"]
+	"Suzanne Wilson (5315)" [label="Suzanne Wilson (5315)
+Australian Democrats"]
+	"Ken Martin (4516)" [label="Ken Martin (4516)
+Citizens Electoral Council"]
+	"Willy Bach (4554)" -> "David Jull (5314)" [label=1457]
+	"Lyn Rees (2319)" -> "Willy Bach (4554)" [label=892]
+	"John Walter (4517)" -> "Lyn Rees (2319)" [label=413]
+	"Suzanne Wilson (5315)" -> "John Walter (4517)" [label=109]
+	"Ken Martin (4516)" -> "Suzanne Wilson (5315)" [label=27]
+	"Lyn Rees (2319)" -> "David Jull (5314)" [label=1708]
+	"John Walter (4517)" -> "David Jull (5314)" [label=518]
+	"Suzanne Wilson (5315)" -> "David Jull (5314)" [label=342]
+	"Ken Martin (4516)" -> "David Jull (5314)" [label=40]
+	"Ken Martin (4516)" -> "John Walter (4517)" [label=37]
+	"Suzanne Wilson (5315)" -> "Lyn Rees (2319)" [label=138]
+	"Ken Martin (4516)" -> "Lyn Rees (2319)" [label=105]
+	"John Walter (4517)" -> "Willy Bach (4554)" [label=320]
+	"Suzanne Wilson (5315)" -> "Willy Bach (4554)" [label=323]
+	"Ken Martin (4516)" -> "Willy Bach (4554)" [label=352]
+}

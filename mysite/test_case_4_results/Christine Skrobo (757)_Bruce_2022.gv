@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Christine Skrobo (757)_Bruce_2022" {
+	graph [label="Bruce 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christine Skrobo (757)" [label="Christine Skrobo (757)
+Liberal Democrats"]
+	"Hayley Deans (759)" [label="Hayley Deans (759)
+Pauline Hanson's One Nation"]
+	"Hayley Deans (759)" -> "Christine Skrobo (757)" [label=956]
+}

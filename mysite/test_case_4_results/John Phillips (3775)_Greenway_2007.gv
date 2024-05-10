@@ -1,0 +1,19 @@
+// House preference flow
+digraph "John Phillips (3775)_Greenway_2007" {
+	graph [label="Greenway 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"F Ivor (4321)" [label="F Ivor (4321)
+Independent"]
+	"Joanne Muller (4325)" [label="Joanne Muller (4325)
+Family First"]
+	"Goran Reves (4323)" [label="Goran Reves (4323)
+Citizens Electoral Council"]
+	"F Ivor (4321)" -> "John Phillips (3775)" [label=132]
+	"Joanne Muller (4325)" -> "F Ivor (4321)" [label=177]
+	"Goran Reves (4323)" -> "Joanne Muller (4325)" [label=24]
+	"Joanne Muller (4325)" -> "John Phillips (3775)" [label=240]
+	"Goran Reves (4323)" -> "John Phillips (3775)" [label=37]
+	"Goran Reves (4323)" -> "F Ivor (4321)" [label=40]
+}

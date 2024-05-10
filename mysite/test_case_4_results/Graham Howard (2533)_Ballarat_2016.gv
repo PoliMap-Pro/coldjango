@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Graham Howard (2533)_Ballarat_2016" {
+	graph [label="Ballarat 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Graham Howard (2533)" [label="Graham Howard (2533)
+Family First Party"]
+	"Dianne Colbert (2529)" [label="Dianne Colbert (2529)
+Australian Christians"]
+	"Bren Eckel (2531)" [label="Bren Eckel (2531)
+Independent"]
+	"Tran Tran (2534)" [label="Tran Tran (2534)
+Rise Up Australia Party"]
+	"Dianne Colbert (2529)" -> "Graham Howard (2533)" [label=1171]
+	"Bren Eckel (2531)" -> "Dianne Colbert (2529)" [label=189]
+	"Tran Tran (2534)" -> "Bren Eckel (2531)" [label=273]
+	"Bren Eckel (2531)" -> "Graham Howard (2533)" [label=448]
+	"Tran Tran (2534)" -> "Graham Howard (2533)" [label=314]
+	"Tran Tran (2534)" -> "Dianne Colbert (2529)" [label=144]
+}

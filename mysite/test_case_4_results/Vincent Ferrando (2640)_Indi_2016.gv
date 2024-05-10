@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Vincent Ferrando (2640)_Indi_2016" {
+	graph [label="Indi 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
+}

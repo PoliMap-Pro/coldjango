@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Philip Ruddock (2812)_Berowra_2010" {
+	graph [label="Berowra 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Philip Ruddock (2812)" [label="Philip Ruddock (2812)
+Liberal"]
+	"Toni Wright-Turner (3686)" [label="Toni Wright-Turner (3686)
+The Greens"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Steve Evans (3685)" [label="Steve Evans (3685)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christian Ellis (3688)" [label="Christian Ellis (3688)
+Family First"]
+	"Toni Wright-Turner (3686)" -> "Philip Ruddock (2812)" [label=2352]
+	"Mick Gallagher (1235)" -> "Toni Wright-Turner (3686)" [label=963]
+	"Steve Evans (3685)" -> "Mick Gallagher (1235)" [label=348]
+	"Christian Ellis (3688)" -> "Steve Evans (3685)" [label=239]
+	"Mick Gallagher (1235)" -> "Philip Ruddock (2812)" [label=1041]
+	"Steve Evans (3685)" -> "Philip Ruddock (2812)" [label=1728]
+	"Christian Ellis (3688)" -> "Philip Ruddock (2812)" [label=215]
+	"Christian Ellis (3688)" -> "Mick Gallagher (1235)" [label=146]
+	"Steve Evans (3685)" -> "Toni Wright-Turner (3686)" [label=227]
+	"Christian Ellis (3688)" -> "Toni Wright-Turner (3686)" [label=118]
+}

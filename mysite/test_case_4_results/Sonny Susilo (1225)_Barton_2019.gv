@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sonny Susilo (1225)_Barton_2019" {
+	graph [label="Barton 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ben Tung Liu (1224)" [label="Ben Tung Liu (1224)
+United Australia Party"]
+	"Ben Tung Liu (1224)" -> "Sonny Susilo (1225)" [label=233]
+}

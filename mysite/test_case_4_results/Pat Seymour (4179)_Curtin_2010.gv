@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Pat Seymour (4179)_Curtin_2010" {
+	graph [label="Curtin 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pat Seymour (4179)" [label="Pat Seymour (4179)
+Christian Democratic Party"]
+}

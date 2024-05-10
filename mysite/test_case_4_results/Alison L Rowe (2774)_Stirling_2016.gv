@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Alison L Rowe (2774)_Stirling_2016" {
+	graph [label="Stirling 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
+Rise Up Australia Party"]
+}

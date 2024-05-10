@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Peter Curtis (4845)_Lalor_2007" {
+	graph [label="Lalor 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Curtis (4845)" [label="Peter Curtis (4845)
+Liberal"]
+	"Steve Gleeson (4846)" [label="Steve Gleeson (4846)
+Family First"]
+	"Jay Tilley (4848)" [label="Jay Tilley (4848)
+Australian Greens"]
+	"Libby Krepp (4847)" [label="Libby Krepp (4847)
+D.L.P. - Democratic Labor Party"]
+	"Roger Howe (4849)" [label="Roger Howe (4849)
+Australian Democrats"]
+	"Steve Gleeson (4846)" -> "Peter Curtis (4845)" [label=3543]
+	"Jay Tilley (4848)" -> "Steve Gleeson (4846)" [label=929]
+	"Libby Krepp (4847)" -> "Jay Tilley (4848)" [label=220]
+	"Roger Howe (4849)" -> "Libby Krepp (4847)" [label=109]
+	"Jay Tilley (4848)" -> "Peter Curtis (4845)" [label=611]
+	"Libby Krepp (4847)" -> "Peter Curtis (4845)" [label=175]
+	"Roger Howe (4849)" -> "Peter Curtis (4845)" [label=162]
+	"Roger Howe (4849)" -> "Jay Tilley (4848)" [label=284]
+	"Libby Krepp (4847)" -> "Steve Gleeson (4846)" [label=354]
+	"Roger Howe (4849)" -> "Steve Gleeson (4846)" [label=68]
+}

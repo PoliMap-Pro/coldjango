@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Tanya Denison (3294)_Denison_2013" {
+	graph [label="Denison 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tanya Denison (3294)" [label="Tanya Denison (3294)
+Liberal"]
+	"Anna Reynolds (3295)" [label="Anna Reynolds (3295)
+Australian Greens"]
+	"Debra Joyce Thurley (3298)" [label="Debra Joyce Thurley (3298)
+Palmer United Party"]
+	"Bob Butler (3296)" [label="Bob Butler (3296)
+Sex Party"]
+	"Trevlyn Mccallum (3297)" [label="Trevlyn Mccallum (3297)
+Family First"]
+	"Wayne Williams (2514)" [label="Wayne Williams (2514)
+DLP Democratic Labour"]
+	"Graeme Devlin (3299)" [label="Graeme Devlin (3299)
+Rise Up Australia Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Stable Population Party"]
+	"Anna Reynolds (3295)" -> "Tanya Denison (3294)" [label=194]
+	"Debra Joyce Thurley (3298)" -> "Anna Reynolds (3295)" [label=143]
+	"Bob Butler (3296)" -> "Debra Joyce Thurley (3298)" [label=186]
+	"Trevlyn Mccallum (3297)" -> "Bob Butler (3296)" [label=69]
+	"Wayne Williams (2514)" -> "Trevlyn Mccallum (3297)" [label=105]
+	"Graeme Devlin (3299)" -> "Wayne Williams (2514)" [label=16]
+	"Brandon Hoult (871)" -> "Graeme Devlin (3299)" [label=9]
+	"Debra Joyce Thurley (3298)" -> "Tanya Denison (3294)" [label=448]
+	"Bob Butler (3296)" -> "Tanya Denison (3294)" [label=127]
+	"Trevlyn Mccallum (3297)" -> "Tanya Denison (3294)" [label=264]
+	"Wayne Williams (2514)" -> "Tanya Denison (3294)" [label=84]
+	"Graeme Devlin (3299)" -> "Tanya Denison (3294)" [label=20]
+	"Brandon Hoult (871)" -> "Tanya Denison (3294)" [label=18]
+	"Brandon Hoult (871)" -> "Wayne Williams (2514)" [label=5]
+	"Graeme Devlin (3299)" -> "Trevlyn Mccallum (3297)" [label=30]
+	"Brandon Hoult (871)" -> "Trevlyn Mccallum (3297)" [label=7]
+	"Wayne Williams (2514)" -> "Bob Butler (3296)" [label=46]
+	"Graeme Devlin (3299)" -> "Bob Butler (3296)" [label=12]
+	"Brandon Hoult (871)" -> "Bob Butler (3296)" [label=26]
+	"Trevlyn Mccallum (3297)" -> "Debra Joyce Thurley (3298)" [label=88]
+	"Wayne Williams (2514)" -> "Debra Joyce Thurley (3298)" [label=27]
+	"Graeme Devlin (3299)" -> "Debra Joyce Thurley (3298)" [label=26]
+	"Brandon Hoult (871)" -> "Debra Joyce Thurley (3298)" [label=7]
+	"Bob Butler (3296)" -> "Anna Reynolds (3295)" [label=209]
+	"Trevlyn Mccallum (3297)" -> "Anna Reynolds (3295)" [label=33]
+	"Wayne Williams (2514)" -> "Anna Reynolds (3295)" [label=52]
+	"Graeme Devlin (3299)" -> "Anna Reynolds (3295)" [label=6]
+	"Brandon Hoult (871)" -> "Anna Reynolds (3295)" [label=17]
+}

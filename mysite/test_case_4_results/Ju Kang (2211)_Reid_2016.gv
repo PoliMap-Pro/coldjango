@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ju Kang (2211)_Reid_2016" {
+	graph [label="Reid 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ju Kang (2211)" [label="Ju Kang (2211)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marylou Carter (2208)" [label="Marylou Carter (2208)
+Family First"]
+	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
+}

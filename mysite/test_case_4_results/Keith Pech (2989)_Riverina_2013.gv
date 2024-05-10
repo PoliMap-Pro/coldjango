@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Keith Pech (2989)_Riverina_2013" {
+	graph [label="Riverina 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Pech (2989)" [label="Keith Pech (2989)
+Christian Democratic Party (Fred Nile Group)"]
+	"Lorraine Sharp (2987)" [label="Lorraine Sharp (2987)
+Australia First Party"]
+	"Norm Dunn (2990)" [label="Norm Dunn (2990)
+Katter's Australian Party"]
+	"Kim Heath (2993)" [label="Kim Heath (2993)
+Rise Up Australia Party"]
+	"Lorraine Sharp (2987)" -> "Keith Pech (2989)" [label=120]
+	"Norm Dunn (2990)" -> "Lorraine Sharp (2987)" [label=111]
+	"Kim Heath (2993)" -> "Norm Dunn (2990)" [label=64]
+	"Norm Dunn (2990)" -> "Keith Pech (2989)" [label=75]
+	"Kim Heath (2993)" -> "Keith Pech (2989)" [label=175]
+	"Kim Heath (2993)" -> "Lorraine Sharp (2987)" [label=90]
+}

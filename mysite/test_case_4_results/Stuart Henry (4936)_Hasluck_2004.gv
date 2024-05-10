@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Stuart Henry (4936)_Hasluck_2004" {
+	graph [label="Hasluck 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stuart Henry (4936)" [label="Stuart Henry (4936)
+Liberal"]
+	"Jane Bremmer (4933)" [label="Jane Bremmer (4933)
+The Greens"]
+	"Terry Ryan (5704)" [label="Terry Ryan (5704)
+CDP Christian Party"]
+	"Paul Nield (5705)" [label="Paul Nield (5705)
+Pauline Hanson's One Nation"]
+	"Nicola Hannah (5706)" [label="Nicola Hannah (5706)
+Australian Democrats"]
+	"Simon Joseph Hall (5703)" [label="Simon Joseph Hall (5703)
+Citizens Electoral Council"]
+	"Jane Bremmer (4933)" -> "Stuart Henry (4936)" [label=1719]
+	"Terry Ryan (5704)" -> "Jane Bremmer (4933)" [label=1178]
+	"Paul Nield (5705)" -> "Terry Ryan (5704)" [label=832]
+	"Nicola Hannah (5706)" -> "Paul Nield (5705)" [label=177]
+	"Simon Joseph Hall (5703)" -> "Nicola Hannah (5706)" [label=87]
+	"Terry Ryan (5704)" -> "Stuart Henry (4936)" [label=1989]
+	"Paul Nield (5705)" -> "Stuart Henry (4936)" [label=644]
+	"Nicola Hannah (5706)" -> "Stuart Henry (4936)" [label=207]
+	"Simon Joseph Hall (5703)" -> "Stuart Henry (4936)" [label=62]
+	"Simon Joseph Hall (5703)" -> "Paul Nield (5705)" [label=144]
+	"Nicola Hannah (5706)" -> "Terry Ryan (5704)" [label=124]
+	"Simon Joseph Hall (5703)" -> "Terry Ryan (5704)" [label=478]
+	"Paul Nield (5705)" -> "Jane Bremmer (4933)" [label=756]
+	"Nicola Hannah (5706)" -> "Jane Bremmer (4933)" [label=582]
+	"Simon Joseph Hall (5703)" -> "Jane Bremmer (4933)" [label=64]
+}

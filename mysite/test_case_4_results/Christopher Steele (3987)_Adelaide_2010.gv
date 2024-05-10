@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Christopher Steele (3987)_Adelaide_2010" {
+	graph [label="Adelaide 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christopher Steele (3987)" [label="Christopher Steele (3987)
+Liberal Democrats (LDP)"]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Siou Hong Chia (4934)_Hasluck_2007" {
+	graph [label="Hasluck 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Siou Hong Chia (4934)" [label="Siou Hong Chia (4934)
+LDP"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Toni Mclennan (108)_Eden-Monaro_2022" {
+	graph [label="Eden-Monaro 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Toni Mclennan (108)" [label="Toni Mclennan (108)
+Informed Medical Options Party"]
+	"Greg Butler (104)" [label="Greg Butler (104)
+Australian Democrats"]
+	"Greg Butler (104)" -> "Toni Mclennan (108)" [label=18]
+}

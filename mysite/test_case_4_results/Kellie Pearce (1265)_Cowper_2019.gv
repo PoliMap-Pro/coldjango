@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Kellie Pearce (1265)_Cowper_2019" {
+	graph [label="Cowper 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kellie Pearce (1265)" [label="Kellie Pearce (1265)
+Animal Justice Party"]
+	"Ruth Meads (1260)" [label="Ruth Meads (1260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Independent"]
+	"Ruth Meads (1260)" -> "Kellie Pearce (1265)" [label=166]
+	"Allan Green (1266)" -> "Ruth Meads (1260)" [label=84]
+	"Allan Green (1266)" -> "Kellie Pearce (1265)" [label=360]
+}

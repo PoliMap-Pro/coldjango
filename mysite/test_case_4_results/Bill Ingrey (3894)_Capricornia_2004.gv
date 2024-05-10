@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Bill Ingrey (3894)_Capricornia_2004" {
+	graph [label="Capricornia 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+}

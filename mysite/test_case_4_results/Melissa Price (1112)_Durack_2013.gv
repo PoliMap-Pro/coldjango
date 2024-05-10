@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Melissa Price (1112)_Durack_2013" {
+	graph [label="Durack 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Melissa Price (1112)" [label="Melissa Price (1112)
+Liberal"]
+	"Daron Keogh (3598)" [label="Daron Keogh (3598)
+Australian Labor Party"]
+	"Desmond John Headland (3593)" [label="Desmond John Headland (3593)
+Palmer United Party"]
+	"Ian James (2740)" [label="Ian James (2740)
+The Greens (WA)"]
+	"Grahame Gould (1952)" [label="Grahame Gould (1952)
+Australian Christians"]
+	"Shane Foreman (3594)" [label="Shane Foreman (3594)
+Rise Up Australia Party"]
+	"Aaron Todd (3599)" [label="Aaron Todd (3599)
+Katter's Australian Party"]
+	"Ian Rose (3597)" [label="Ian Rose (3597)
+Family First Party"]
+	"Judy F Sudholz (3596)" [label="Judy F Sudholz (3596)
+Citizens Electoral Council"]
+	"Daron Keogh (3598)" -> "Melissa Price (1112)" [label=7722]
+	"Desmond John Headland (3593)" -> "Daron Keogh (3598)" [label=2296]
+	"Ian James (2740)" -> "Desmond John Headland (3593)" [label=1593]
+	"Grahame Gould (1952)" -> "Ian James (2740)" [label=132]
+	"Shane Foreman (3594)" -> "Grahame Gould (1952)" [label=327]
+	"Aaron Todd (3599)" -> "Shane Foreman (3594)" [label=74]
+	"Ian Rose (3597)" -> "Aaron Todd (3599)" [label=59]
+	"Judy F Sudholz (3596)" -> "Ian Rose (3597)" [label=20]
+	"Desmond John Headland (3593)" -> "Melissa Price (1112)" [label=2539]
+	"Ian James (2740)" -> "Melissa Price (1112)" [label=716]
+	"Grahame Gould (1952)" -> "Melissa Price (1112)" [label=478]
+	"Shane Foreman (3594)" -> "Melissa Price (1112)" [label=146]
+	"Aaron Todd (3599)" -> "Melissa Price (1112)" [label=96]
+	"Ian Rose (3597)" -> "Melissa Price (1112)" [label=103]
+	"Judy F Sudholz (3596)" -> "Melissa Price (1112)" [label=22]
+	"Judy F Sudholz (3596)" -> "Aaron Todd (3599)" [label=15]
+	"Ian Rose (3597)" -> "Shane Foreman (3594)" [label=80]
+	"Judy F Sudholz (3596)" -> "Shane Foreman (3594)" [label=32]
+	"Aaron Todd (3599)" -> "Grahame Gould (1952)" [label=51]
+	"Ian Rose (3597)" -> "Grahame Gould (1952)" [label=134]
+	"Judy F Sudholz (3596)" -> "Grahame Gould (1952)" [label=21]
+	"Shane Foreman (3594)" -> "Ian James (2740)" [label=127]
+	"Aaron Todd (3599)" -> "Ian James (2740)" [label=53]
+	"Ian Rose (3597)" -> "Ian James (2740)" [label=103]
+	"Judy F Sudholz (3596)" -> "Ian James (2740)" [label=11]
+	"Grahame Gould (1952)" -> "Desmond John Headland (3593)" [label=207]
+	"Shane Foreman (3594)" -> "Desmond John Headland (3593)" [label=173]
+	"Aaron Todd (3599)" -> "Desmond John Headland (3593)" [label=234]
+	"Ian Rose (3597)" -> "Desmond John Headland (3593)" [label=67]
+	"Judy F Sudholz (3596)" -> "Desmond John Headland (3593)" [label=20]
+	"Ian James (2740)" -> "Daron Keogh (3598)" [label=2155]
+	"Grahame Gould (1952)" -> "Daron Keogh (3598)" [label=203]
+	"Shane Foreman (3594)" -> "Daron Keogh (3598)" [label=68]
+	"Aaron Todd (3599)" -> "Daron Keogh (3598)" [label=221]
+	"Ian Rose (3597)" -> "Daron Keogh (3598)" [label=144]
+	"Judy F Sudholz (3596)" -> "Daron Keogh (3598)" [label=7]
+}

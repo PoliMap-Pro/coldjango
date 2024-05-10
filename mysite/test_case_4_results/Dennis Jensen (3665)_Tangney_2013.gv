@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Dennis Jensen (3665)_Tangney_2013" {
+	graph [label="Tangney 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dennis Jensen (3665)" [label="Dennis Jensen (3665)
+Liberal"]
+	"Peter Best (3668)" [label="Peter Best (3668)
+The Greens (WA)"]
+	"Wayne Robert Driver (3666)" [label="Wayne Robert Driver (3666)
+Palmer United Party"]
+	"John Wieske (2781)" [label="John Wieske (2781)
+Australian Christians"]
+	"Stephen Andrew Carson (3664)" [label="Stephen Andrew Carson (3664)
+Rise Up Australia Party"]
+	"Peter Best (3668)" -> "Dennis Jensen (3665)" [label=2565]
+	"Wayne Robert Driver (3666)" -> "Peter Best (3668)" [label=1145]
+	"John Wieske (2781)" -> "Wayne Robert Driver (3666)" [label=249]
+	"Stephen Andrew Carson (3664)" -> "John Wieske (2781)" [label=125]
+	"Wayne Robert Driver (3666)" -> "Dennis Jensen (3665)" [label=1914]
+	"John Wieske (2781)" -> "Dennis Jensen (3665)" [label=1525]
+	"Stephen Andrew Carson (3664)" -> "Dennis Jensen (3665)" [label=388]
+	"Stephen Andrew Carson (3664)" -> "Wayne Robert Driver (3666)" [label=223]
+	"John Wieske (2781)" -> "Peter Best (3668)" [label=267]
+	"Stephen Andrew Carson (3664)" -> "Peter Best (3668)" [label=106]
+}

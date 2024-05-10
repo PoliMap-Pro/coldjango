@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Julie Bishop (2739)_Curtin_2010" {
+	graph [label="Curtin 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julie Bishop (2739)" [label="Julie Bishop (2739)
+Liberal"]
+	"George Crisp (4177)" [label="George Crisp (4177)
+The Greens"]
+	"Pat Seymour (4179)" [label="Pat Seymour (4179)
+Christian Democratic Party"]
+	"George Crisp (4177)" -> "Julie Bishop (2739)" [label=3165]
+	"Pat Seymour (4179)" -> "George Crisp (4177)" [label=278]
+	"Pat Seymour (4179)" -> "Julie Bishop (2739)" [label=969]
+}

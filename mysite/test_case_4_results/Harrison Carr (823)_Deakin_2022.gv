@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Harrison Carr (823)_Deakin_2022" {
+	graph [label="Deakin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Harrison Carr (823)" [label="Harrison Carr (823)
+Liberal Democrats"]
+	"Katherine Dolheguy (822)" [label="Katherine Dolheguy (822)
+Animal Justice Party"]
+	"Qian Liu (821)" [label="Qian Liu (821)
+Independent"]
+	"Judith Thompson (825)" [label="Judith Thompson (825)
+Derryn Hinch's Justice Party"]
+	"Samantha Bastin (827)" [label="Samantha Bastin (827)
+Australian Federation Party"]
+	"Katherine Dolheguy (822)" -> "Harrison Carr (823)" [label=142]
+	"Qian Liu (821)" -> "Katherine Dolheguy (822)" [label=248]
+	"Judith Thompson (825)" -> "Qian Liu (821)" [label=116]
+	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
+	"Qian Liu (821)" -> "Harrison Carr (823)" [label=99]
+	"Judith Thompson (825)" -> "Harrison Carr (823)" [label=86]
+	"Samantha Bastin (827)" -> "Harrison Carr (823)" [label=229]
+	"Samantha Bastin (827)" -> "Qian Liu (821)" [label=44]
+	"Judith Thompson (825)" -> "Katherine Dolheguy (822)" [label=176]
+	"Samantha Bastin (827)" -> "Katherine Dolheguy (822)" [label=49]
+}

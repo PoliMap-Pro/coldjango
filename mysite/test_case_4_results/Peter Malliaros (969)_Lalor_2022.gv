@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Peter Malliaros (969)_Lalor_2022" {
+	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Malliaros (969)" [label="Peter Malliaros (969)
+Australian Federation Party"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jenny Whately (4223)_Stirling_2010" {
+	graph [label="Stirling 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jenny Whately (4223)" [label="Jenny Whately (4223)
+Christian Democratic Party"]
+	"Peter Clifford (4224)" [label="Peter Clifford (4224)
+Family First"]
+	"Peter Clifford (4224)" -> "Jenny Whately (4223)" [label=203]
+}

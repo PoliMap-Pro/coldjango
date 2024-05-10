@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Flynn (2270)_Lingiari_2013" {
+	graph [label="Lingiari 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Kenneth Immanuel Lechleitner (3046)" [label="Kenneth Immanuel Lechleitner (3046)
+A.F.N.P.P."]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
+	"Alf Gould (3044)" [label="Alf Gould (3044)
+Independent"]
+	"Kenneth Immanuel Lechleitner (3046)" -> "Peter Flynn (2270)" [label=136]
+	"Regina Mccarthy (1458)" -> "Kenneth Immanuel Lechleitner (3046)" [label=94]
+	"Alf Gould (3044)" -> "Regina Mccarthy (1458)" [label=91]
+	"Regina Mccarthy (1458)" -> "Peter Flynn (2270)" [label=193]
+	"Alf Gould (3044)" -> "Peter Flynn (2270)" [label=112]
+	"Alf Gould (3044)" -> "Kenneth Immanuel Lechleitner (3046)" [label=29]
+}

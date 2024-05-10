@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ian Soylemez (4855)_Maribyrnong_2007" {
+	graph [label="Maribyrnong 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Soylemez (4855)" [label="Ian Soylemez (4855)
+Liberal"]
+	"Bob Muntz (4857)" [label="Bob Muntz (4857)
+Australian Greens"]
+	"Ian Keeling (4856)" [label="Ian Keeling (4856)
+Family First"]
+	"Robert Livesay (4130)" [label="Robert Livesay (4130)
+Australian Democrats"]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+	"Bob Muntz (4857)" -> "Ian Soylemez (4855)" [label=1340]
+	"Ian Keeling (4856)" -> "Bob Muntz (4857)" [label=472]
+	"Robert Livesay (4130)" -> "Ian Keeling (4856)" [label=216]
+	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=676]
+	"Ian Keeling (4856)" -> "Ian Soylemez (4855)" [label=1211]
+	"Robert Livesay (4130)" -> "Ian Soylemez (4855)" [label=929]
+	"Andre Kozlowski (4854)" -> "Ian Soylemez (4855)" [label=209]
+	"Andre Kozlowski (4854)" -> "Ian Keeling (4856)" [label=85]
+	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=436]
+	"Andre Kozlowski (4854)" -> "Bob Muntz (4857)" [label=87]
+}

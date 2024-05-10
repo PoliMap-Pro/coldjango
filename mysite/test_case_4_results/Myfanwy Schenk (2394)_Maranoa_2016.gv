@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Myfanwy Schenk (2394)_Maranoa_2016" {
+	graph [label="Maranoa 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
+Family First"]
+	"Katherine Hompes (2395)" [label="Katherine Hompes (2395)
+The Greens"]
+	"Luke Arbuckle (2397)" [label="Luke Arbuckle (2397)
+CountryMinded"]
+	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
+Rise Up Australia Party"]
+	"Katherine Hompes (2395)" -> "Myfanwy Schenk (2394)" [label=647]
+	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
+	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
+	"Luke Arbuckle (2397)" -> "Myfanwy Schenk (2394)" [label=330]
+	"Sherrilyn Church (2396)" -> "Myfanwy Schenk (2394)" [label=203]
+	"Sherrilyn Church (2396)" -> "Katherine Hompes (2395)" [label=96]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bruce Morrow (4243)_Barton_2004" {
+	graph [label="Barton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bruce Morrow (4243)" [label="Bruce Morrow (4243)
+Liberal"]
+	"Angelo Mourikis (5007)" [label="Angelo Mourikis (5007)
+The Greens"]
+	"Eoin Coghlan (5005)" [label="Eoin Coghlan (5005)
+Australian Democrats"]
+	"Neil Baird (5006)" [label="Neil Baird (5006)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Angelo Mourikis (5007)" -> "Bruce Morrow (4243)" [label=1291]
+	"Eoin Coghlan (5005)" -> "Angelo Mourikis (5007)" [label=466]
+	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
+	"Eoin Coghlan (5005)" -> "Bruce Morrow (4243)" [label=374]
+	"Neil Baird (5006)" -> "Bruce Morrow (4243)" [label=573]
+	"Neil Baird (5006)" -> "Angelo Mourikis (5007)" [label=182]
+}

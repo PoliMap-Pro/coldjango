@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Yusuf Tahir (4252)_Bennelong_2007" {
+	graph [label="Bennelong 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Yusuf Tahir (4252)" [label="Yusuf Tahir (4252)
+"]
+	"David Leyonhjelm (4247)" [label="David Leyonhjelm (4247)
+LDP"]
+	"Gavin Spencer (4248)" [label="Gavin Spencer (4248)
+Citizens Electoral Council"]
+	"David Leyonhjelm (4247)" -> "Yusuf Tahir (4252)" [label=1]
+	"Gavin Spencer (4248)" -> "David Leyonhjelm (4247)" [label=10]
+	"Gavin Spencer (4248)" -> "Yusuf Tahir (4252)" [label=3]
+}

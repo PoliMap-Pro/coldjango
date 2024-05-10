@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Natalie Colbert (4232)_Canberra_2007" {
+	graph [label="Canberra 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Natalie Colbert (4232)" [label="Natalie Colbert (4232)
+Liberal"]
+	"Amanda Bresnan (4231)" [label="Amanda Bresnan (4231)
+The Greens"]
+	"John Holder (4234)" [label="John Holder (4234)
+Citizens Electoral Council"]
+	"Amanda Bresnan (4231)" -> "Natalie Colbert (4232)" [label=3220]
+	"John Holder (4234)" -> "Amanda Bresnan (4231)" [label=342]
+	"John Holder (4234)" -> "Natalie Colbert (4232)" [label=292]
+}

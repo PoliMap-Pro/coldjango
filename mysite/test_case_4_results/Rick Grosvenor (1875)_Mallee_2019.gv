@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rick Grosvenor (1875)_Mallee_2019" {
+	graph [label="Mallee 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rick Grosvenor (1875)" [label="Rick Grosvenor (1875)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Philip Mollison (1876)" [label="Philip Mollison (1876)
+Rise Up Australia Party"]
+	"Leigh Firman (1877)" [label="Leigh Firman (1877)
+Science Party"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Philip Mollison (1876)" -> "Rick Grosvenor (1875)" [label=104]
+	"Leigh Firman (1877)" -> "Philip Mollison (1876)" [label=31]
+	"Chris Lahy (984)" -> "Leigh Firman (1877)" [label=20]
+	"Leigh Firman (1877)" -> "Rick Grosvenor (1875)" [label=23]
+	"Chris Lahy (984)" -> "Rick Grosvenor (1875)" [label=25]
+	"Chris Lahy (984)" -> "Philip Mollison (1876)" [label=56]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Susan Pinsuti (2264)_Whitlam_2016" {
+	graph [label="Whitlam 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Wayne Hartman (2263)" -> "Susan Pinsuti (2264)" [label=428]
+}

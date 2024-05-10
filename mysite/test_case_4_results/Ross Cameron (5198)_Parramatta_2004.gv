@@ -1,0 +1,70 @@
+// House preference flow
+digraph "Ross Cameron (5198)_Parramatta_2004" {
+	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ross Cameron (5198)" [label="Ross Cameron (5198)
+Liberal"]
+	"Doug Williamson (5200)" [label="Doug Williamson (5200)
+The Greens"]
+	"Sam Baissari (4413)" [label="Sam Baissari (4413)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Antony Guest (5193)" [label="Mark Antony Guest (5193)
+liberals for forests"]
+	"John Satchwell (5194)" [label="John Satchwell (5194)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Doug Williamson (5200)" -> "Ross Cameron (5198)" [label=1196]
+	"Sam Baissari (4413)" -> "Doug Williamson (5200)" [label=328]
+	"Mark Antony Guest (5193)" -> "Sam Baissari (4413)" [label=1205]
+	"John Satchwell (5194)" -> "Mark Antony Guest (5193)" [label=300]
+	"Andrew Markwell (5196)" -> "John Satchwell (5194)" [label=112]
+	"Alex Peniazev (5192)" -> "Andrew Markwell (5196)" [label=60]
+	"Rob Mcfarlane (5197)" -> "Alex Peniazev (5192)" [label=23]
+	"Simon Saad (5195)" -> "Rob Mcfarlane (5197)" [label=14]
+	"Margaret Bloor (5199)" -> "Simon Saad (5195)" [label=13]
+	"Sam Baissari (4413)" -> "Ross Cameron (5198)" [label=1623]
+	"Mark Antony Guest (5193)" -> "Ross Cameron (5198)" [label=345]
+	"John Satchwell (5194)" -> "Ross Cameron (5198)" [label=245]
+	"Andrew Markwell (5196)" -> "Ross Cameron (5198)" [label=165]
+	"Alex Peniazev (5192)" -> "Ross Cameron (5198)" [label=45]
+	"Rob Mcfarlane (5197)" -> "Ross Cameron (5198)" [label=159]
+	"Simon Saad (5195)" -> "Ross Cameron (5198)" [label=52]
+	"Margaret Bloor (5199)" -> "Ross Cameron (5198)" [label=23]
+	"Margaret Bloor (5199)" -> "Rob Mcfarlane (5197)" [label=9]
+	"Simon Saad (5195)" -> "Alex Peniazev (5192)" [label=41]
+	"Margaret Bloor (5199)" -> "Alex Peniazev (5192)" [label=17]
+	"Rob Mcfarlane (5197)" -> "Andrew Markwell (5196)" [label=35]
+	"Simon Saad (5195)" -> "Andrew Markwell (5196)" [label=157]
+	"Margaret Bloor (5199)" -> "Andrew Markwell (5196)" [label=12]
+	"Alex Peniazev (5192)" -> "John Satchwell (5194)" [label=96]
+	"Rob Mcfarlane (5197)" -> "John Satchwell (5194)" [label=25]
+	"Simon Saad (5195)" -> "John Satchwell (5194)" [label=75]
+	"Margaret Bloor (5199)" -> "John Satchwell (5194)" [label=15]
+	"Andrew Markwell (5196)" -> "Mark Antony Guest (5193)" [label=140]
+	"Alex Peniazev (5192)" -> "Mark Antony Guest (5193)" [label=534]
+	"Rob Mcfarlane (5197)" -> "Mark Antony Guest (5193)" [label=28]
+	"Simon Saad (5195)" -> "Mark Antony Guest (5193)" [label=43]
+	"Margaret Bloor (5199)" -> "Mark Antony Guest (5193)" [label=10]
+	"John Satchwell (5194)" -> "Sam Baissari (4413)" [label=231]
+	"Andrew Markwell (5196)" -> "Sam Baissari (4413)" [label=205]
+	"Alex Peniazev (5192)" -> "Sam Baissari (4413)" [label=35]
+	"Rob Mcfarlane (5197)" -> "Sam Baissari (4413)" [label=37]
+	"Simon Saad (5195)" -> "Sam Baissari (4413)" [label=51]
+	"Margaret Bloor (5199)" -> "Sam Baissari (4413)" [label=5]
+	"Mark Antony Guest (5193)" -> "Doug Williamson (5200)" [label=224]
+	"John Satchwell (5194)" -> "Doug Williamson (5200)" [label=157]
+	"Andrew Markwell (5196)" -> "Doug Williamson (5200)" [label=137]
+	"Alex Peniazev (5192)" -> "Doug Williamson (5200)" [label=46]
+	"Rob Mcfarlane (5197)" -> "Doug Williamson (5200)" [label=278]
+	"Simon Saad (5195)" -> "Doug Williamson (5200)" [label=55]
+	"Margaret Bloor (5199)" -> "Doug Williamson (5200)" [label=52]
+}

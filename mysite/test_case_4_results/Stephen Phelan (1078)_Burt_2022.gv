@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Stephen Phelan (1078)_Burt_2022" {
+	graph [label="Burt 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
+United Australia Party"]
+	"Michele Castle (1074)" [label="Michele Castle (1074)
+Australian Federation Party"]
+	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
+	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
+	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
+}

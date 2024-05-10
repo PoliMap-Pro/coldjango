@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Donna Gordin (3576)_Brand_2010" {
+	graph [label="Brand 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Donna Gordin (3576)" [label="Donna Gordin (3576)
+Liberal"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robert Burdett (2721)" [label="Robert Burdett (2721)
+Christian Democratic Party"]
+	"Dawn Jecks (2722)" -> "Donna Gordin (3576)" [label=3653]
+	"Andrew Newhouse (3569)" -> "Dawn Jecks (2722)" [label=1013]
+	"Robert Burdett (2721)" -> "Andrew Newhouse (3569)" [label=1163]
+	"Andrew Newhouse (3569)" -> "Donna Gordin (3576)" [label=1652]
+	"Robert Burdett (2721)" -> "Donna Gordin (3576)" [label=382]
+	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=122]
+}

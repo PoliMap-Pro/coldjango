@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Maurice Foley (4483)_Solomon_2004" {
+	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Maurice Foley (4483)" [label="Maurice Foley (4483)
+"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" -> "Maurice Foley (4483)" [label=37]
+}

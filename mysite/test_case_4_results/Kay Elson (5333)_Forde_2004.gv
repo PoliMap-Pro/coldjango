@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kay Elson (5333)_Forde_2004" {
+	graph [label="Forde 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kay Elson (5333)" [label="Kay Elson (5333)
+Liberal"]
+	"Daniel Lloyd (5330)" [label="Daniel Lloyd (5330)
+The Greens"]
+	"Aaron Heaps (5327)" [label="Aaron Heaps (5327)
+One Nation"]
+	"Shereen Hinds (5329)" [label="Shereen Hinds (5329)
+Family First"]
+	"Anita Martin (5332)" [label="Anita Martin (5332)
+Australian Democrats"]
+	"David Gordon Howse (5328)" [label="David Gordon Howse (5328)
+"]
+	"Daniel Hope (5331)" [label="Daniel Hope (5331)
+Citizens Electoral Council"]
+	"Daniel Lloyd (5330)" -> "Kay Elson (5333)" [label=2693]
+	"Aaron Heaps (5327)" -> "Daniel Lloyd (5330)" [label=1685]
+	"Shereen Hinds (5329)" -> "Aaron Heaps (5327)" [label=600]
+	"Anita Martin (5332)" -> "Shereen Hinds (5329)" [label=94]
+	"David Gordon Howse (5328)" -> "Anita Martin (5332)" [label=47]
+	"Daniel Hope (5331)" -> "David Gordon Howse (5328)" [label=15]
+	"Aaron Heaps (5327)" -> "Kay Elson (5333)" [label=1371]
+	"Shereen Hinds (5329)" -> "Kay Elson (5333)" [label=1714]
+	"Anita Martin (5332)" -> "Kay Elson (5333)" [label=268]
+	"David Gordon Howse (5328)" -> "Kay Elson (5333)" [label=101]
+	"Daniel Hope (5331)" -> "Kay Elson (5333)" [label=20]
+	"Daniel Hope (5331)" -> "Anita Martin (5332)" [label=28]
+	"David Gordon Howse (5328)" -> "Shereen Hinds (5329)" [label=79]
+	"Daniel Hope (5331)" -> "Shereen Hinds (5329)" [label=24]
+	"Anita Martin (5332)" -> "Aaron Heaps (5327)" [label=104]
+	"David Gordon Howse (5328)" -> "Aaron Heaps (5327)" [label=144]
+	"Daniel Hope (5331)" -> "Aaron Heaps (5327)" [label=30]
+	"Shereen Hinds (5329)" -> "Daniel Lloyd (5330)" [label=467]
+	"Anita Martin (5332)" -> "Daniel Lloyd (5330)" [label=368]
+	"David Gordon Howse (5328)" -> "Daniel Lloyd (5330)" [label=84]
+	"Daniel Hope (5331)" -> "Daniel Lloyd (5330)" [label=40]
+}

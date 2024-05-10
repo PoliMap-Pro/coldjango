@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Thong Sum Lee (372)_Lingiari_2022" {
+	graph [label="Lingiari 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Thong Sum Lee (372)" [label="Thong Sum Lee (372)
+Citizens Party"]
+	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
+Independent"]
+	"Imelda Adamson Agars (376)" -> "Thong Sum Lee (372)" [label=9]
+}

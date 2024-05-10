@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Doug Behn (3808)_Page_2004" {
+	graph [label="Page 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Doug Behn (3808)" [label="Doug Behn (3808)
+"]
+	"Angela Griffiths (5181)" [label="Angela Griffiths (5181)
+Citizens Electoral Council"]
+	"Tom Flanagan (5185)" [label="Tom Flanagan (5185)
+Socialist Alliance"]
+	"Angela Griffiths (5181)" -> "Doug Behn (3808)" [label=91]
+	"Tom Flanagan (5185)" -> "Angela Griffiths (5181)" [label=34]
+	"Tom Flanagan (5185)" -> "Doug Behn (3808)" [label=32]
+}

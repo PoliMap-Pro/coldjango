@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Mailee Dunn (1122)_Forrest_2022" {
+	graph [label="Forrest 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
+Australian Federation Party"]
+}

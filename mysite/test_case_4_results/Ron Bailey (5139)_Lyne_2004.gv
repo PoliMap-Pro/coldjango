@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Ron Bailey (5139)_Lyne_2004" {
+	graph [label="Lyne 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ron Bailey (5139)" [label="Ron Bailey (5139)
+Socialist Alliance"]
+}

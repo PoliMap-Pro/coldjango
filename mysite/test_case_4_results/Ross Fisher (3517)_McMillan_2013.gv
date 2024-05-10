@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ross Fisher (3517)_McMillan_2013" {
+	graph [label="McMillan 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ross Fisher (3517)" [label="Ross Fisher (3517)
+Country Alliance"]
+	"Leigh Gatt (3516)" [label="Leigh Gatt (3516)
+Independent"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Gary Patton (3509)" [label="Gary Patton (3509)
+Senator Online (Internet Voting Bills/Issues)"]
+	"Leigh Gatt (3516)" -> "Ross Fisher (3517)" [label=95]
+	"Norman Baker (1856)" -> "Leigh Gatt (3516)" [label=25]
+	"Gary Patton (3509)" -> "Norman Baker (1856)" [label=5]
+	"Norman Baker (1856)" -> "Ross Fisher (3517)" [label=17]
+	"Gary Patton (3509)" -> "Ross Fisher (3517)" [label=5]
+	"Gary Patton (3509)" -> "Leigh Gatt (3516)" [label=6]
+}

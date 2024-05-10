@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Stewart Mcarthur (4772)_Corangamite_2004" {
+	graph [label="Corangamite 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stewart Mcarthur (4772)" [label="Stewart Mcarthur (4772)
+Liberal"]
+	"Stephen Chenery (5529)" [label="Stephen Chenery (5529)
+Australian Greens"]
+	"Christine Modra (5530)" [label="Christine Modra (5530)
+Family First"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Socialist Alliance"]
+	"Andrew Bailey (5532)" [label="Andrew Bailey (5532)
+Citizens Electoral Council"]
+	"Stephen Chenery (5529)" -> "Stewart Mcarthur (4772)" [label=1271]
+	"Christine Modra (5530)" -> "Stephen Chenery (5529)" [label=514]
+	"Chris Johnson (3558)" -> "Christine Modra (5530)" [label=102]
+	"Andrew Bailey (5532)" -> "Chris Johnson (3558)" [label=69]
+	"Christine Modra (5530)" -> "Stewart Mcarthur (4772)" [label=1400]
+	"Chris Johnson (3558)" -> "Stewart Mcarthur (4772)" [label=48]
+	"Andrew Bailey (5532)" -> "Stewart Mcarthur (4772)" [label=49]
+	"Andrew Bailey (5532)" -> "Christine Modra (5530)" [label=76]
+	"Chris Johnson (3558)" -> "Stephen Chenery (5529)" [label=236]
+	"Andrew Bailey (5532)" -> "Stephen Chenery (5529)" [label=39]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Julie Worsley (1231)_Bennelong_2019" {
+	graph [label="Bennelong 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julie Worsley (1231)" [label="Julie Worsley (1231)
+Christian Democratic Party (Fred Nile Group)"]
+	"Andrew Marks (1228)" [label="Andrew Marks (1228)
+United Australia Party"]
+	"Andrew Marks (1228)" -> "Julie Worsley (1231)" [label=402]
+}

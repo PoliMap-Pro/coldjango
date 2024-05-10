@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bronwyn Ablett (2347)_Griffith_2016" {
+	graph [label="Griffith 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bronwyn Ablett (2347)" [label="Bronwyn Ablett (2347)
+Liberal Democrats"]
+	"Matt Darragh (2345)" [label="Matt Darragh (2345)
+Australian Liberty Alliance"]
+	"Karel Boele (2348)" [label="Karel Boele (2348)
+Independent"]
+	"Theresa Graham (2351)" [label="Theresa Graham (2351)
+Family First"]
+	"Matt Darragh (2345)" -> "Bronwyn Ablett (2347)" [label=457]
+	"Karel Boele (2348)" -> "Matt Darragh (2345)" [label=242]
+	"Theresa Graham (2351)" -> "Karel Boele (2348)" [label=172]
+	"Karel Boele (2348)" -> "Bronwyn Ablett (2347)" [label=139]
+	"Theresa Graham (2351)" -> "Bronwyn Ablett (2347)" [label=91]
+	"Theresa Graham (2351)" -> "Matt Darragh (2345)" [label=254]
+}

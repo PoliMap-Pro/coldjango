@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Kylie Mary French (2804)_Barton_2013" {
+	graph [label="Barton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
+Christian Democratic Party (Fred Nile Group)"]
+	"Perry Theo (2802)" [label="Perry Theo (2802)
+One Nation"]
+	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
+Katter's Australian Party"]
+	"Perry Theo (2802)" -> "Kylie Mary French (2804)" [label=76]
+	"Rodney Tim Wyse (2806)" -> "Perry Theo (2802)" [label=52]
+	"Rodney Tim Wyse (2806)" -> "Kylie Mary French (2804)" [label=115]
+}

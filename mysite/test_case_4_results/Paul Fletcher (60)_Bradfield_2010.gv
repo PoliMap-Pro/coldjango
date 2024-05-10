@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Paul Fletcher (60)_Bradfield_2010" {
+	graph [label="Bradfield 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Fletcher (60)" [label="Paul Fletcher (60)
+Liberal"]
+	"Susie Gemmell (3696)" [label="Susie Gemmell (3696)
+The Greens"]
+	"Susie Gemmell (3696)" -> "Paul Fletcher (60)" [label=3254]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Barbara Jean Raymond (4432)_Richmond_2007" {
+	graph [label="Richmond 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Barbara Jean Raymond (4432)" [label="Barbara Jean Raymond (4432)
+Christian Democratic Party (Fred Nile Group)"]
+	"Scott Sledge (4431)" [label="Scott Sledge (4431)
+Democrats"]
+	"Graham Mccallum (4430)" [label="Graham Mccallum (4430)
+Citizens Electoral Council"]
+	"Scott Sledge (4431)" -> "Barbara Jean Raymond (4432)" [label=102]
+	"Graham Mccallum (4430)" -> "Scott Sledge (4431)" [label=41]
+	"Graham Mccallum (4430)" -> "Barbara Jean Raymond (4432)" [label=25]
+}

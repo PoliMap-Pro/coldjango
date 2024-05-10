@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Michael Gough (2069)_Lyne_2013" {
+	graph [label="Lyne 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Gough (2069)" [label="Michael Gough (2069)
+Citizens Electoral Council"]
+}

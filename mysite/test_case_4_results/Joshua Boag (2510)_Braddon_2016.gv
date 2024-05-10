@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Joshua Boag (2510)_Braddon_2016" {
+	graph [label="Braddon 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joshua Boag (2510)" [label="Joshua Boag (2510)
+Liberal Democrats"]
+	"Graham Hodge (2508)" [label="Graham Hodge (2508)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ka-Ren Chew (4230)_Tangney_2010" {
+	graph [label="Tangney 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ka-Ren Chew (4230)" [label="Ka-Ren Chew (4230)
+Christian Democratic Party"]
+	"Moyna Rapp (3661)" [label="Moyna Rapp (3661)
+Family First"]
+	"Moyna Rapp (3661)" -> "Ka-Ren Chew (4230)" [label=480]
+}

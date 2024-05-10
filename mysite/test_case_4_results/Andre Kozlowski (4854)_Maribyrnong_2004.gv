@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Andre Kozlowski (4854)_Maribyrnong_2004" {
+	graph [label="Maribyrnong 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
+}

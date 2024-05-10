@@ -1,0 +1,49 @@
+// House preference flow
+digraph "John Nguyen (3364)_Chisholm_2013" {
+	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Nguyen (3364)" [label="John Nguyen (3364)
+Liberal"]
+	"Josh Fergeus (2569)" [label="Josh Fergeus (2569)
+The Greens"]
+	"Luzio Grossi (3363)" [label="Luzio Grossi (3363)
+Sex Party"]
+	"Brian Clifford Woods (3365)" [label="Brian Clifford Woods (3365)
+Palmer United Party"]
+	"Martin Myszka (3366)" [label="Martin Myszka (3366)
+Family First Party"]
+	"Pat Shea (3368)" [label="Pat Shea (3368)
+DLP Democratic Labour"]
+	"Melanie Vassiliou (2566)" [label="Melanie Vassiliou (2566)
+Rise Up Australia Party"]
+	"Vidura Nalin Jayaratne (3367)" [label="Vidura Nalin Jayaratne (3367)
+Secular Party of Australia"]
+	"Josh Fergeus (2569)" -> "John Nguyen (3364)" [label=1496]
+	"Luzio Grossi (3363)" -> "Josh Fergeus (2569)" [label=1254]
+	"Brian Clifford Woods (3365)" -> "Luzio Grossi (3363)" [label=404]
+	"Martin Myszka (3366)" -> "Brian Clifford Woods (3365)" [label=258]
+	"Pat Shea (3368)" -> "Martin Myszka (3366)" [label=252]
+	"Melanie Vassiliou (2566)" -> "Pat Shea (3368)" [label=56]
+	"Vidura Nalin Jayaratne (3367)" -> "Melanie Vassiliou (2566)" [label=2]
+	"Luzio Grossi (3363)" -> "John Nguyen (3364)" [label=534]
+	"Brian Clifford Woods (3365)" -> "John Nguyen (3364)" [label=727]
+	"Martin Myszka (3366)" -> "John Nguyen (3364)" [label=605]
+	"Pat Shea (3368)" -> "John Nguyen (3364)" [label=171]
+	"Melanie Vassiliou (2566)" -> "John Nguyen (3364)" [label=122]
+	"Vidura Nalin Jayaratne (3367)" -> "John Nguyen (3364)" [label=33]
+	"Vidura Nalin Jayaratne (3367)" -> "Pat Shea (3368)" [label=18]
+	"Melanie Vassiliou (2566)" -> "Martin Myszka (3366)" [label=169]
+	"Vidura Nalin Jayaratne (3367)" -> "Martin Myszka (3366)" [label=13]
+	"Pat Shea (3368)" -> "Brian Clifford Woods (3365)" [label=53]
+	"Melanie Vassiliou (2566)" -> "Brian Clifford Woods (3365)" [label=53]
+	"Vidura Nalin Jayaratne (3367)" -> "Brian Clifford Woods (3365)" [label=15]
+	"Martin Myszka (3366)" -> "Luzio Grossi (3363)" [label=85]
+	"Pat Shea (3368)" -> "Luzio Grossi (3363)" [label=45]
+	"Melanie Vassiliou (2566)" -> "Luzio Grossi (3363)" [label=85]
+	"Vidura Nalin Jayaratne (3367)" -> "Luzio Grossi (3363)" [label=119]
+	"Brian Clifford Woods (3365)" -> "Josh Fergeus (2569)" [label=279]
+	"Martin Myszka (3366)" -> "Josh Fergeus (2569)" [label=180]
+	"Pat Shea (3368)" -> "Josh Fergeus (2569)" [label=116]
+	"Melanie Vassiliou (2566)" -> "Josh Fergeus (2569)" [label=78]
+	"Vidura Nalin Jayaratne (3367)" -> "Josh Fergeus (2569)" [label=78]
+}

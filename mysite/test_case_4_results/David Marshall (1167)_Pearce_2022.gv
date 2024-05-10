@@ -1,0 +1,10 @@
+// House preference flow
+digraph "David Marshall (1167)_Pearce_2022" {
+	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Marshall (1167)" [label="David Marshall (1167)
+Liberal Democrats"]
+	"Nigel March (1174)" [label="Nigel March (1174)
+Australian Federation Party"]
+	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
+}

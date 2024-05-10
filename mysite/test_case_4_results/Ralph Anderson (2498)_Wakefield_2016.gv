@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Ralph Anderson (2498)_Wakefield_2016" {
+	graph [label="Wakefield 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
+Christian Democratic Party (Fred Nile Group)"]
+}

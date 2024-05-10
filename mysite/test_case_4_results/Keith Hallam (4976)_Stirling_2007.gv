@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Keith Hallam (4976)_Stirling_2007" {
+	graph [label="Stirling 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Hallam (4976)" [label="Keith Hallam (4976)
+Citizens Electoral Council"]
+}

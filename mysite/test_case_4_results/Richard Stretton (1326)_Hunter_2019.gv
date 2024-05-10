@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Richard Stretton (1326)_Hunter_2019" {
+	graph [label="Hunter 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
+	"Max Boddy (1328)" [label="Max Boddy (1328)
+Socialist Equality Party"]
+	"Max Boddy (1328)" -> "Richard Stretton (1326)" [label=67]
+}

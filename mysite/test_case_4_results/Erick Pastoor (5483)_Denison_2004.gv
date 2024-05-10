@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Erick Pastoor (5483)_Denison_2004" {
+	graph [label="Denison 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Erick Pastoor (5483)" [label="Erick Pastoor (5483)
+Liberal"]
+	"Helen Burnet (5482)" [label="Helen Burnet (5482)
+Australian Greens"]
+	"Gino Papiccio (4724)" [label="Gino Papiccio (4724)
+Family First"]
+	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
+Socialist Alliance"]
+	"Helen Burnet (5482)" -> "Erick Pastoor (5483)" [label=1818]
+	"Gino Papiccio (4724)" -> "Helen Burnet (5482)" [label=282]
+	"Kamala Emanuel (1492)" -> "Gino Papiccio (4724)" [label=115]
+	"Gino Papiccio (4724)" -> "Erick Pastoor (5483)" [label=782]
+	"Kamala Emanuel (1492)" -> "Erick Pastoor (5483)" [label=45]
+	"Kamala Emanuel (1492)" -> "Helen Burnet (5482)" [label=254]
+}

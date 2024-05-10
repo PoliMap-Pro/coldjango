@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jake Luke Ryan (1518)_Fairfax_2019" {
+	graph [label="Fairfax 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jake Luke Ryan (1518)" [label="Jake Luke Ryan (1518)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Sinim Australie (1520)" [label="Sinim Australie (1520)
+Independent"]
+	"Bertrand Cadart (1521)" [label="Bertrand Cadart (1521)
+Liberal Democrats"]
+	"Sinim Australie (1520)" -> "Jake Luke Ryan (1518)" [label=116]
+	"Bertrand Cadart (1521)" -> "Sinim Australie (1520)" [label=105]
+	"Bertrand Cadart (1521)" -> "Jake Luke Ryan (1518)" [label=47]
+}

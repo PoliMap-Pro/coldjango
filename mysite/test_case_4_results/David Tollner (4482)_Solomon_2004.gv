@@ -1,0 +1,32 @@
+// House preference flow
+digraph "David Tollner (4482)_Solomon_2004" {
+	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Tollner (4482)" [label="David Tollner (4482)
+CLP-The Territory Party"]
+	"Ilana Eldridge (5268)" [label="Ilana Eldridge (5268)
+The Greens"]
+	"Mark West (5269)" [label="Mark West (5269)
+Family First"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+Australian Democrats"]
+	"Maurice Foley (4483)" [label="Maurice Foley (4483)
+"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Ilana Eldridge (5268)" -> "David Tollner (4482)" [label=1041]
+	"Mark West (5269)" -> "Ilana Eldridge (5268)" [label=509]
+	"Duncan Dean (1858)" -> "Mark West (5269)" [label=212]
+	"Maurice Foley (4483)" -> "Duncan Dean (1858)" [label=60]
+	"Peter Flynn (2270)" -> "Maurice Foley (4483)" [label=37]
+	"Mark West (5269)" -> "David Tollner (4482)" [label=512]
+	"Duncan Dean (1858)" -> "David Tollner (4482)" [label=220]
+	"Maurice Foley (4483)" -> "David Tollner (4482)" [label=148]
+	"Peter Flynn (2270)" -> "David Tollner (4482)" [label=21]
+	"Peter Flynn (2270)" -> "Duncan Dean (1858)" [label=40]
+	"Maurice Foley (4483)" -> "Mark West (5269)" [label=104]
+	"Peter Flynn (2270)" -> "Mark West (5269)" [label=90]
+	"Duncan Dean (1858)" -> "Ilana Eldridge (5268)" [label=331]
+	"Maurice Foley (4483)" -> "Ilana Eldridge (5268)" [label=95]
+	"Peter Flynn (2270)" -> "Ilana Eldridge (5268)" [label=27]
+}

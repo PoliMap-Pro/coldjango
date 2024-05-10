@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Adrian Watts (4033)_Bass_2010" {
+	graph [label="Bass 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adrian Watts (4033)" [label="Adrian Watts (4033)
+Citizens Electoral Council"]
+}

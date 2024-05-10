@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Amanda Nickson (2311)_Dawson_2016" {
+	graph [label="Dawson 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Amanda Nickson (2311)" [label="Amanda Nickson (2311)
+Family First"]
+}

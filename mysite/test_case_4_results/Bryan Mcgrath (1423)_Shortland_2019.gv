@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Bryan Mcgrath (1423)_Shortland_2019" {
+	graph [label="Shortland 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bryan Mcgrath (1423)" [label="Bryan Mcgrath (1423)
+Animal Justice Party"]
+	"Susan Newbury (1419)" [label="Susan Newbury (1419)
+Sustainable Australia"]
+	"Xing Yu (1420)" [label="Xing Yu (1420)
+Christian Democratic Party (Fred Nile Group)"]
+	"Susan Newbury (1419)" -> "Bryan Mcgrath (1423)" [label=689]
+	"Xing Yu (1420)" -> "Susan Newbury (1419)" [label=253]
+	"Xing Yu (1420)" -> "Bryan Mcgrath (1423)" [label=103]
+}

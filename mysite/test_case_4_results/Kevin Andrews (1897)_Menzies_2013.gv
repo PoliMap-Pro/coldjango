@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kevin Andrews (1897)_Menzies_2013" {
+	graph [label="Menzies 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Andrews (1897)" [label="Kevin Andrews (1897)
+Liberal"]
+	"Richard Cranston (2693)" [label="Richard Cranston (2693)
+The Greens"]
+	"Agostino Guardiani (3540)" [label="Agostino Guardiani (3540)
+Palmer United Party"]
+	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
+Family First Party"]
+	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
+Independent"]
+	"Phil Baker (2338)" [label="Phil Baker (2338)
+Rise Up Australia Party"]
+	"Richard Cranston (2693)" -> "Kevin Andrews (1897)" [label=2322]
+	"Agostino Guardiani (3540)" -> "Richard Cranston (2693)" [label=865]
+	"Andrew Conlon (3541)" -> "Agostino Guardiani (3540)" [label=684]
+	"Ramon Robinson (2691)" -> "Andrew Conlon (3541)" [label=231]
+	"Phil Baker (2338)" -> "Ramon Robinson (2691)" [label=69]
+	"Agostino Guardiani (3540)" -> "Kevin Andrews (1897)" [label=1283]
+	"Andrew Conlon (3541)" -> "Kevin Andrews (1897)" [label=979]
+	"Ramon Robinson (2691)" -> "Kevin Andrews (1897)" [label=262]
+	"Phil Baker (2338)" -> "Kevin Andrews (1897)" [label=99]
+	"Phil Baker (2338)" -> "Andrew Conlon (3541)" [label=214]
+	"Ramon Robinson (2691)" -> "Agostino Guardiani (3540)" [label=234]
+	"Phil Baker (2338)" -> "Agostino Guardiani (3540)" [label=50]
+	"Andrew Conlon (3541)" -> "Richard Cranston (2693)" [label=369]
+	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=333]
+	"Phil Baker (2338)" -> "Richard Cranston (2693)" [label=36]
+}

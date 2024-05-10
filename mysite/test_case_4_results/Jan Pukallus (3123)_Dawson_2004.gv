@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jan Pukallus (3123)_Dawson_2004" {
+	graph [label="Dawson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Archie Julien (5307)" [label="Archie Julien (5307)
+Australian Democrats"]
+	"Debbie Lowis (5304)" [label="Debbie Lowis (5304)
+New Country"]
+	"Archie Julien (5307)" -> "Jan Pukallus (3123)" [label=37]
+	"Debbie Lowis (5304)" -> "Archie Julien (5307)" [label=18]
+	"Debbie Lowis (5304)" -> "Jan Pukallus (3123)" [label=24]
+}

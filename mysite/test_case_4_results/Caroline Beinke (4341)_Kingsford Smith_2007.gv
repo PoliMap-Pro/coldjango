@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Caroline Beinke (4341)_Kingsford Smith_2007" {
+	graph [label="Kingsford Smith 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Caroline Beinke (4341)" [label="Caroline Beinke (4341)
+Liberal"]
+	"Sue Mahony (4339)" [label="Sue Mahony (4339)
+The Greens"]
+	"Marcus Campbell (4340)" [label="Marcus Campbell (4340)
+Christian Democratic Party (Fred Nile Group)"]
+	"Alex Safari (4338)" [label="Alex Safari (4338)
+Socialist Equality Party"]
+	"Sue Mahony (4339)" -> "Caroline Beinke (4341)" [label=1555]
+	"Marcus Campbell (4340)" -> "Sue Mahony (4339)" [label=275]
+	"Alex Safari (4338)" -> "Marcus Campbell (4340)" [label=78]
+	"Marcus Campbell (4340)" -> "Caroline Beinke (4341)" [label=781]
+	"Alex Safari (4338)" -> "Caroline Beinke (4341)" [label=99]
+	"Alex Safari (4338)" -> "Sue Mahony (4339)" [label=737]
+}

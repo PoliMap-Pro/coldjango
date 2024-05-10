@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Damian Poole (5695)_Fremantle_2004" {
+	graph [label="Fremantle 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Damian Poole (5695)" [label="Damian Poole (5695)
+Citizens Electoral Council"]
+	"Ian Jamieson (5698)" [label="Ian Jamieson (5698)
+Socialist Alliance"]
+	"Ian Jamieson (5698)" -> "Damian Poole (5695)" [label=29]
+}

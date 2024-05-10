@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sarah Ramsay (2922)_Macarthur_2013" {
+	graph [label="Macarthur 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sarah Ramsay (2922)" [label="Sarah Ramsay (2922)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mick Williams (2921)" [label="Mick Williams (2921)
+Katter's Australian Party"]
+	"Mick Williams (2921)" -> "Sarah Ramsay (2922)" [label=228]
+}

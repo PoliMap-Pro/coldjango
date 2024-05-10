@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Tracey Dempsey (641)_Grey_2022" {
+	graph [label="Grey 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+}

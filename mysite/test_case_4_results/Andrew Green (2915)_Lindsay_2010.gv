@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Andrew Green (2915)_Lindsay_2010" {
+	graph [label="Lindsay 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Independent"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Family First"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Geoff Brown (1340)" -> "Andrew Green (2915)" [label=527]
+	"John Phillips (3775)" -> "Geoff Brown (1340)" [label=228]
+	"Mick Saunders (2912)" -> "John Phillips (3775)" [label=187]
+	"John Phillips (3775)" -> "Andrew Green (2915)" [label=233]
+	"Mick Saunders (2912)" -> "Andrew Green (2915)" [label=96]
+	"Mick Saunders (2912)" -> "Geoff Brown (1340)" [label=328]
+}

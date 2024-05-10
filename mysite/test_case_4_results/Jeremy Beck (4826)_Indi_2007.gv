@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jeremy Beck (4826)_Indi_2007" {
+	graph [label="Indi 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+}

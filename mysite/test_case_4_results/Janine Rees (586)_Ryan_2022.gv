@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Janine Rees (586)_Ryan_2022" {
+	graph [label="Ryan 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Axel Dancoisne (592)" -> "Janine Rees (586)" [label=43]
+}

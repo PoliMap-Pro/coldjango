@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Martin Myszka (3366)_Chisholm_2013" {
+	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Martin Myszka (3366)" [label="Martin Myszka (3366)
+Family First Party"]
+	"Pat Shea (3368)" [label="Pat Shea (3368)
+DLP Democratic Labour"]
+	"Melanie Vassiliou (2566)" [label="Melanie Vassiliou (2566)
+Rise Up Australia Party"]
+	"Vidura Nalin Jayaratne (3367)" [label="Vidura Nalin Jayaratne (3367)
+Secular Party of Australia"]
+	"Pat Shea (3368)" -> "Martin Myszka (3366)" [label=252]
+	"Melanie Vassiliou (2566)" -> "Pat Shea (3368)" [label=56]
+	"Vidura Nalin Jayaratne (3367)" -> "Melanie Vassiliou (2566)" [label=2]
+	"Melanie Vassiliou (2566)" -> "Martin Myszka (3366)" [label=169]
+	"Vidura Nalin Jayaratne (3367)" -> "Martin Myszka (3366)" [label=13]
+	"Vidura Nalin Jayaratne (3367)" -> "Pat Shea (3368)" [label=18]
+}

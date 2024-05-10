@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Paul Spajic (3191)_Moncrieff_2013" {
+	graph [label="Moncrieff 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Spajic (3191)" [label="Paul Spajic (3191)
+Citizens Electoral Council"]
+}

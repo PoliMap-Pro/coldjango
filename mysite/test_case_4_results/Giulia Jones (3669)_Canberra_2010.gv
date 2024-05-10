@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Giulia Jones (3669)_Canberra_2010" {
+	graph [label="Canberra 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Giulia Jones (3669)" [label="Giulia Jones (3669)
+Liberal"]
+	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
+The Greens"]
+	"Sue Ellerman (3670)" -> "Giulia Jones (3669)" [label=4089]
+}

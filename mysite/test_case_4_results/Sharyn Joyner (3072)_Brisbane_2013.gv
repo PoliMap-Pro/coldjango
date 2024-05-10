@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sharyn Joyner (3072)_Brisbane_2013" {
+	graph [label="Brisbane 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sharyn Joyner (3072)" [label="Sharyn Joyner (3072)
+Family First"]
+	"John Roles (3067)" [label="John Roles (3067)
+Stable Population Party"]
+	"John Roles (3067)" -> "Sharyn Joyner (3072)" [label=19]
+}

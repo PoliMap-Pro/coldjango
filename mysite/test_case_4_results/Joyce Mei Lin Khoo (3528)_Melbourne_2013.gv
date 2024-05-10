@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Joyce Mei Lin Khoo (3528)_Melbourne_2013" {
+	graph [label="Melbourne 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joyce Mei Lin Khoo (3528)" [label="Joyce Mei Lin Khoo (3528)
+Rise Up Australia Party"]
+}

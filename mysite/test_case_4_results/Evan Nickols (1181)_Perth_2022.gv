@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Evan Nickols (1181)_Perth_2022" {
+	graph [label="Perth 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Evan Nickols (1181)" [label="Evan Nickols (1181)
+Liberal Democrats"]
+	"Aiden Gyuru (1185)" [label="Aiden Gyuru (1185)
+Australian Federation Party"]
+	"Sean Connor (1177)" [label="Sean Connor (1177)
+The Great Australian Party"]
+	"Aiden Gyuru (1185)" -> "Evan Nickols (1181)" [label=198]
+	"Sean Connor (1177)" -> "Aiden Gyuru (1185)" [label=178]
+	"Sean Connor (1177)" -> "Evan Nickols (1181)" [label=19]
+}

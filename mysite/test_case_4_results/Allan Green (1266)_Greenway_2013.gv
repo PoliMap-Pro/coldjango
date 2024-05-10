@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Allan Green (1266)_Greenway_2013" {
+	graph [label="Greenway 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Allan Green (1266)" [label="Allan Green (1266)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tom Lillicrap (2890)" [label="Tom Lillicrap (2890)
+Sex Party"]
+	"Maree Nichols (2893)" [label="Maree Nichols (2893)
+Rise Up Australia Party"]
+	"Anthony Gino Belcastro (2891)" [label="Anthony Gino Belcastro (2891)
+Katter's Australian Party"]
+	"Jamie Cavanough (2888)" [label="Jamie Cavanough (2888)
+Australian Voice"]
+	"Tom Lillicrap (2890)" -> "Allan Green (1266)" [label=135]
+	"Maree Nichols (2893)" -> "Tom Lillicrap (2890)" [label=113]
+	"Anthony Gino Belcastro (2891)" -> "Maree Nichols (2893)" [label=57]
+	"Jamie Cavanough (2888)" -> "Anthony Gino Belcastro (2891)" [label=33]
+	"Maree Nichols (2893)" -> "Allan Green (1266)" [label=179]
+	"Anthony Gino Belcastro (2891)" -> "Allan Green (1266)" [label=80]
+	"Jamie Cavanough (2888)" -> "Allan Green (1266)" [label=44]
+	"Jamie Cavanough (2888)" -> "Maree Nichols (2893)" [label=62]
+	"Anthony Gino Belcastro (2891)" -> "Tom Lillicrap (2890)" [label=54]
+	"Jamie Cavanough (2888)" -> "Tom Lillicrap (2890)" [label=76]
+}

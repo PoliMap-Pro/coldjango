@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Anthea Antonie (783)_Chisholm_2022" {
+	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Anthea Antonie (783)" [label="Anthea Antonie (783)
+Australian Federation Party"]
+	"Ryan Dare (786)" [label="Ryan Dare (786)
+Citizens Party"]
+	"Ryan Dare (786)" -> "Anthea Antonie (783)" [label=19]
+}

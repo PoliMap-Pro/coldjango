@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Nigel Mckenna (3274)_Port Adelaide_2013" {
+	graph [label="Port Adelaide 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nigel Mckenna (3274)" [label="Nigel Mckenna (3274)
+Liberal"]
+	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
+Family First"]
+	"Dusan Popovic (3275)" [label="Dusan Popovic (3275)
+Australian Greens"]
+	"Ngoc Chau Huynh (3272)" [label="Ngoc Chau Huynh (3272)
+Palmer United Party"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Bruce Hambour (2485)" -> "Nigel Mckenna (3274)" [label=6385]
+	"Dusan Popovic (3275)" -> "Bruce Hambour (2485)" [label=2022]
+	"Ngoc Chau Huynh (3272)" -> "Dusan Popovic (3275)" [label=624]
+	"Terry Cooksley (3273)" -> "Ngoc Chau Huynh (3272)" [label=291]
+	"Dusan Popovic (3275)" -> "Nigel Mckenna (3274)" [label=1022]
+	"Ngoc Chau Huynh (3272)" -> "Nigel Mckenna (3274)" [label=1194]
+	"Terry Cooksley (3273)" -> "Nigel Mckenna (3274)" [label=182]
+	"Terry Cooksley (3273)" -> "Dusan Popovic (3275)" [label=117]
+	"Ngoc Chau Huynh (3272)" -> "Bruce Hambour (2485)" [label=2196]
+	"Terry Cooksley (3273)" -> "Bruce Hambour (2485)" [label=374]
+}

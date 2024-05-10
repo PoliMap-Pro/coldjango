@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Kevin Ekendahl (3538)_Melbourne Ports_2013" {
+	graph [label="Melbourne Ports 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Ekendahl (3538)" [label="Kevin Ekendahl (3538)
+Liberal"]
+	"Ann Birrell (3537)" [label="Ann Birrell (3537)
+The Greens"]
+	"Melissa Star (3533)" [label="Melissa Star (3533)
+Sex Party"]
+	"Toby Simon Stodart (3535)" [label="Toby Simon Stodart (3535)
+Palmer United Party"]
+	"Vince Stefano (3536)" [label="Vince Stefano (3536)
+DLP Democratic Labour"]
+	"Robert Keenan (3534)" [label="Robert Keenan (3534)
+Family First Party"]
+	"Steven Armstrong (1866)" [label="Steven Armstrong (1866)
+Stable Population Party"]
+	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
+Rise Up Australia Party"]
+	"Ann Birrell (3537)" -> "Kevin Ekendahl (3538)" [label=2845]
+	"Melissa Star (3533)" -> "Ann Birrell (3537)" [label=1445]
+	"Toby Simon Stodart (3535)" -> "Melissa Star (3533)" [label=340]
+	"Vince Stefano (3536)" -> "Toby Simon Stodart (3535)" [label=112]
+	"Robert Keenan (3534)" -> "Vince Stefano (3536)" [label=72]
+	"Steven Armstrong (1866)" -> "Robert Keenan (3534)" [label=25]
+	"Margaret Quinn (2653)" -> "Steven Armstrong (1866)" [label=48]
+	"Melissa Star (3533)" -> "Kevin Ekendahl (3538)" [label=703]
+	"Toby Simon Stodart (3535)" -> "Kevin Ekendahl (3538)" [label=439]
+	"Vince Stefano (3536)" -> "Kevin Ekendahl (3538)" [label=159]
+	"Robert Keenan (3534)" -> "Kevin Ekendahl (3538)" [label=119]
+	"Steven Armstrong (1866)" -> "Kevin Ekendahl (3538)" [label=83]
+	"Margaret Quinn (2653)" -> "Kevin Ekendahl (3538)" [label=28]
+	"Margaret Quinn (2653)" -> "Robert Keenan (3534)" [label=24]
+	"Steven Armstrong (1866)" -> "Vince Stefano (3536)" [label=25]
+	"Margaret Quinn (2653)" -> "Vince Stefano (3536)" [label=22]
+	"Robert Keenan (3534)" -> "Toby Simon Stodart (3535)" [label=62]
+	"Steven Armstrong (1866)" -> "Toby Simon Stodart (3535)" [label=34]
+	"Margaret Quinn (2653)" -> "Toby Simon Stodart (3535)" [label=13]
+	"Vince Stefano (3536)" -> "Melissa Star (3533)" [label=52]
+	"Robert Keenan (3534)" -> "Melissa Star (3533)" [label=67]
+	"Steven Armstrong (1866)" -> "Melissa Star (3533)" [label=91]
+	"Margaret Quinn (2653)" -> "Melissa Star (3533)" [label=18]
+	"Toby Simon Stodart (3535)" -> "Ann Birrell (3537)" [label=265]
+	"Vince Stefano (3536)" -> "Ann Birrell (3537)" [label=126]
+	"Robert Keenan (3534)" -> "Ann Birrell (3537)" [label=101]
+	"Steven Armstrong (1866)" -> "Ann Birrell (3537)" [label=75]
+	"Margaret Quinn (2653)" -> "Ann Birrell (3537)" [label=27]
+}

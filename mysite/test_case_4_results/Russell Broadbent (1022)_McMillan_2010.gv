@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Russell Broadbent (1022)_McMillan_2010" {
+	graph [label="McMillan 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
+Liberal"]
+	"Malcolm Mckelvie (3511)" [label="Malcolm Mckelvie (3511)
+Australian Greens"]
+	"Linden Stokes (4138)" [label="Linden Stokes (4138)
+Family First"]
+	"Leigh Samuel Gatt (4137)" [label="Leigh Samuel Gatt (4137)
+Independent"]
+	"Malcolm Mckelvie (3511)" -> "Russell Broadbent (1022)" [label=2180]
+	"Linden Stokes (4138)" -> "Malcolm Mckelvie (3511)" [label=654]
+	"Leigh Samuel Gatt (4137)" -> "Linden Stokes (4138)" [label=568]
+	"Linden Stokes (4138)" -> "Russell Broadbent (1022)" [label=1811]
+	"Leigh Samuel Gatt (4137)" -> "Russell Broadbent (1022)" [label=368]
+	"Leigh Samuel Gatt (4137)" -> "Malcolm Mckelvie (3511)" [label=286]
+}

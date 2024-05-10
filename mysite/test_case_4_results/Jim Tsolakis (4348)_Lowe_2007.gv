@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jim Tsolakis (4348)_Lowe_2007" {
+	graph [label="Lowe 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jim Tsolakis (4348)" [label="Jim Tsolakis (4348)
+Liberal"]
+	"Marc Rerceretnam (4347)" [label="Marc Rerceretnam (4347)
+The Greens"]
+	"Bill Shailer (2982)" [label="Bill Shailer (2982)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marc Rerceretnam (4347)" -> "Jim Tsolakis (4348)" [label=1206]
+	"Bill Shailer (2982)" -> "Marc Rerceretnam (4347)" [label=230]
+	"Bill Shailer (2982)" -> "Jim Tsolakis (4348)" [label=814]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Alex Hawke (226)_Mitchell_2010" {
+	graph [label="Mitchell 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alex Hawke (226)" [label="Alex Hawke (226)
+Liberal"]
+	"Colin Dawson (3794)" [label="Colin Dawson (3794)
+The Greens"]
+	"Brendon Phillip Prentice (3792)" [label="Brendon Phillip Prentice (3792)
+Christian Democratic Party (Fred Nile Group)"]
+	"Colin Dawson (3794)" -> "Alex Hawke (226)" [label=1983]
+	"Brendon Phillip Prentice (3792)" -> "Colin Dawson (3794)" [label=382]
+	"Brendon Phillip Prentice (3792)" -> "Alex Hawke (226)" [label=1781]
+}

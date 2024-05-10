@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Scott Morrison (77)_Cook_2010" {
+	graph [label="Cook 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Morrison (77)" [label="Scott Morrison (77)
+Liberal"]
+	"Naomi Waizer (3714)" [label="Naomi Waizer (3714)
+The Greens"]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Richard Putral (3715)" [label="Richard Putral (3715)
+One Nation"]
+	"Merelyn Foy (3713)" [label="Merelyn Foy (3713)
+Family First"]
+	"Naomi Waizer (3714)" -> "Scott Morrison (77)" [label=1977]
+	"Beth Smith (2846)" -> "Naomi Waizer (3714)" [label=452]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=186]
+	"Richard Putral (3715)" -> "Graeme Strang (2848)" [label=219]
+	"Merelyn Foy (3713)" -> "Richard Putral (3715)" [label=65]
+	"Beth Smith (2846)" -> "Scott Morrison (77)" [label=1399]
+	"Graeme Strang (2848)" -> "Scott Morrison (77)" [label=449]
+	"Richard Putral (3715)" -> "Scott Morrison (77)" [label=307]
+	"Merelyn Foy (3713)" -> "Scott Morrison (77)" [label=154]
+	"Merelyn Foy (3713)" -> "Graeme Strang (2848)" [label=99]
+	"Richard Putral (3715)" -> "Beth Smith (2846)" [label=217]
+	"Merelyn Foy (3713)" -> "Beth Smith (2846)" [label=113]
+	"Graeme Strang (2848)" -> "Naomi Waizer (3714)" [label=452]
+	"Richard Putral (3715)" -> "Naomi Waizer (3714)" [label=172]
+	"Merelyn Foy (3713)" -> "Naomi Waizer (3714)" [label=161]
+}

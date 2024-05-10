@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Phil Barresi (4073)_Deakin_2004" {
+	graph [label="Deakin 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Phil Barresi (4073)" [label="Phil Barresi (4073)
+Liberal"]
+	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
+Australian Greens"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Alan Bailey (5538)" [label="Alan Bailey (5538)
+Democrats"]
+	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
+Independent"]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+	"Bill Pemberton (4785)" -> "Phil Barresi (4073)" [label=1330]
+	"Yasmin De Zilwa (3384)" -> "Bill Pemberton (4785)" [label=372]
+	"Alan Bailey (5538)" -> "Yasmin De Zilwa (3384)" [label=166]
+	"Steve Raskovy (3387)" -> "Alan Bailey (5538)" [label=148]
+	"Simon Tait (5539)" -> "Steve Raskovy (3387)" [label=36]
+	"Yasmin De Zilwa (3384)" -> "Phil Barresi (4073)" [label=1433]
+	"Alan Bailey (5538)" -> "Phil Barresi (4073)" [label=613]
+	"Steve Raskovy (3387)" -> "Phil Barresi (4073)" [label=150]
+	"Simon Tait (5539)" -> "Phil Barresi (4073)" [label=14]
+	"Simon Tait (5539)" -> "Alan Bailey (5538)" [label=30]
+	"Steve Raskovy (3387)" -> "Yasmin De Zilwa (3384)" [label=125]
+	"Simon Tait (5539)" -> "Yasmin De Zilwa (3384)" [label=16]
+	"Alan Bailey (5538)" -> "Bill Pemberton (4785)" [label=651]
+	"Steve Raskovy (3387)" -> "Bill Pemberton (4785)" [label=171]
+	"Simon Tait (5539)" -> "Bill Pemberton (4785)" [label=24]
+}

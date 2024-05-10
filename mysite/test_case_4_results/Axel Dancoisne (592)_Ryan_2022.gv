@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Axel Dancoisne (592)_Ryan_2022" {
+	graph [label="Ryan 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+}

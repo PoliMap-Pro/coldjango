@@ -1,0 +1,32 @@
+// House preference flow
+digraph "John Phillips (3775)_Lindsay_2004" {
+	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garth Derrig (5120)" [label="Garth Derrig (5120)
+No GST"]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Louise Kedwell (3710)" -> "John Phillips (3775)" [label=142]
+	"Garth Derrig (5120)" -> "Louise Kedwell (3710)" [label=118]
+	"Megan Watson (5123)" -> "Garth Derrig (5120)" [label=146]
+	"Geraldine Waters (5125)" -> "Megan Watson (5123)" [label=24]
+	"Bruce Anderson (5121)" -> "Geraldine Waters (5125)" [label=6]
+	"Garth Derrig (5120)" -> "John Phillips (3775)" [label=109]
+	"Megan Watson (5123)" -> "John Phillips (3775)" [label=173]
+	"Geraldine Waters (5125)" -> "John Phillips (3775)" [label=24]
+	"Bruce Anderson (5121)" -> "John Phillips (3775)" [label=18]
+	"Bruce Anderson (5121)" -> "Megan Watson (5123)" [label=24]
+	"Geraldine Waters (5125)" -> "Garth Derrig (5120)" [label=29]
+	"Bruce Anderson (5121)" -> "Garth Derrig (5120)" [label=44]
+	"Megan Watson (5123)" -> "Louise Kedwell (3710)" [label=56]
+	"Geraldine Waters (5125)" -> "Louise Kedwell (3710)" [label=32]
+	"Bruce Anderson (5121)" -> "Louise Kedwell (3710)" [label=9]
+}

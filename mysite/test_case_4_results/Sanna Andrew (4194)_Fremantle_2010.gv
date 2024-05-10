@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sanna Andrew (4194)_Fremantle_2010" {
+	graph [label="Fremantle 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sanna Andrew (4194)" [label="Sanna Andrew (4194)
+Socialist Alliance"]
+	"Keith John Mcencroe (4193)" [label="Keith John Mcencroe (4193)
+D.L.P. - Democratic Labor Party"]
+	"Keith John Mcencroe (4193)" -> "Sanna Andrew (4194)" [label=69]
+}

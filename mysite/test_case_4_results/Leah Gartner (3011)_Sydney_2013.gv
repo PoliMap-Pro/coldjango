@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Leah Gartner (3011)_Sydney_2013" {
+	graph [label="Sydney 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leah Gartner (3011)" [label="Leah Gartner (3011)
+Bullet Train For Australia"]
+	"Lesley Mason (3008)" [label="Lesley Mason (3008)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Boyle (2233)" [label="Peter Boyle (2233)
+Socialist Alliance"]
+	"Joanna Rzetelski (3009)" [label="Joanna Rzetelski (3009)
+Independent"]
+	"Lesley Mason (3008)" -> "Leah Gartner (3011)" [label=56]
+	"Peter Boyle (2233)" -> "Lesley Mason (3008)" [label=30]
+	"Joanna Rzetelski (3009)" -> "Peter Boyle (2233)" [label=26]
+	"Peter Boyle (2233)" -> "Leah Gartner (3011)" [label=41]
+	"Joanna Rzetelski (3009)" -> "Leah Gartner (3011)" [label=36]
+	"Joanna Rzetelski (3009)" -> "Lesley Mason (3008)" [label=34]
+}

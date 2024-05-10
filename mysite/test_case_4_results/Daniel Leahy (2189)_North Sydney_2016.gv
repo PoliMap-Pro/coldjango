@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Daniel Leahy (2189)_North Sydney_2016" {
+	graph [label="North Sydney 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Eddy Ku (2187)" [label="Eddy Ku (2187)
+Family First"]
+	"Eddy Ku (2187)" -> "Daniel Leahy (2189)" [label=39]
+}

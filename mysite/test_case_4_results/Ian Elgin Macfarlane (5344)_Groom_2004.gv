@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ian Elgin Macfarlane (5344)_Groom_2004" {
+	graph [label="Groom 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Elgin Macfarlane (5344)" [label="Ian Elgin Macfarlane (5344)
+Liberal"]
+	"Peter C Findlay (5341)" [label="Peter C Findlay (5341)
+Family First"]
+	"Karey Harrison (5345)" [label="Karey Harrison (5345)
+The Greens"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Noel Wieck (5346)" [label="Noel Wieck (5346)
+The Great Australians"]
+	"Christoph Donges (5342)" [label="Christoph Donges (5342)
+Australian Democrats"]
+	"Oliver Carter (5343)" [label="Oliver Carter (5343)
+Citizens Electoral Council"]
+	"Peter C Findlay (5341)" -> "Ian Elgin Macfarlane (5344)" [label=4954]
+	"Karey Harrison (5345)" -> "Peter C Findlay (5341)" [label=809]
+	"Rod Jeanneret (1490)" -> "Karey Harrison (5345)" [label=388]
+	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
+	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
+	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
+	"Karey Harrison (5345)" -> "Ian Elgin Macfarlane (5344)" [label=927]
+	"Rod Jeanneret (1490)" -> "Ian Elgin Macfarlane (5344)" [label=583]
+	"Noel Wieck (5346)" -> "Ian Elgin Macfarlane (5344)" [label=300]
+	"Christoph Donges (5342)" -> "Ian Elgin Macfarlane (5344)" [label=172]
+	"Oliver Carter (5343)" -> "Ian Elgin Macfarlane (5344)" [label=54]
+	"Oliver Carter (5343)" -> "Noel Wieck (5346)" [label=39]
+	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
+	"Oliver Carter (5343)" -> "Rod Jeanneret (1490)" [label=65]
+	"Noel Wieck (5346)" -> "Karey Harrison (5345)" [label=188]
+	"Christoph Donges (5342)" -> "Karey Harrison (5345)" [label=233]
+	"Oliver Carter (5343)" -> "Karey Harrison (5345)" [label=28]
+	"Rod Jeanneret (1490)" -> "Peter C Findlay (5341)" [label=869]
+	"Noel Wieck (5346)" -> "Peter C Findlay (5341)" [label=347]
+	"Christoph Donges (5342)" -> "Peter C Findlay (5341)" [label=134]
+	"Oliver Carter (5343)" -> "Peter C Findlay (5341)" [label=70]
+}

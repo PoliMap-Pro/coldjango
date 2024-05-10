@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ehab Hennien (4317)_Grayndler_2007" {
+	graph [label="Grayndler 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Patrick O'Connor (4318)" -> "Ehab Hennien (4317)" [label=16]
+}

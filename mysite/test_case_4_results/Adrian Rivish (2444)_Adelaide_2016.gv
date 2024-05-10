@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Adrian Rivish (2444)_Adelaide_2016" {
+	graph [label="Adelaide 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
+Family First"]
+	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
+Animal Justice Party"]
+	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
+Liberal Democrats"]
+	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
+	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
+	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
+}

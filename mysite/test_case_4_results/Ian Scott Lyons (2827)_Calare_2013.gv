@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ian Scott Lyons (2827)_Calare_2013" {
+	graph [label="Calare 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Scott Lyons (2827)" [label="Ian Scott Lyons (2827)
+Christian Democratic Party (Fred Nile Group)"]
+	"Billie Kirkland (2826)" [label="Billie Kirkland (2826)
+Katter's Australian Party"]
+	"Peter Schultze (2831)" [label="Peter Schultze (2831)
+Australia First Party"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Democratic Labour Party (DLP)"]
+	"Billie Kirkland (2826)" -> "Ian Scott Lyons (2827)" [label=162]
+	"Peter Schultze (2831)" -> "Billie Kirkland (2826)" [label=130]
+	"Anthony Gerard Craig (2059)" -> "Peter Schultze (2831)" [label=115]
+	"Peter Schultze (2831)" -> "Ian Scott Lyons (2827)" [label=37]
+	"Anthony Gerard Craig (2059)" -> "Ian Scott Lyons (2827)" [label=60]
+	"Anthony Gerard Craig (2059)" -> "Billie Kirkland (2826)" [label=22]
+}

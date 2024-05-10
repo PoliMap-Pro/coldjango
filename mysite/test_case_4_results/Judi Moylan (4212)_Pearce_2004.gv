@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Judi Moylan (4212)_Pearce_2004" {
+	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Judi Moylan (4212)" [label="Judi Moylan (4212)
+Liberal"]
+	"Dominique Lieb (5726)" [label="Dominique Lieb (5726)
+The Greens"]
+	"David Gunnyon (4959)" [label="David Gunnyon (4959)
+Pauline Hanson's One Nation"]
+	"Robert Merrells (5724)" [label="Robert Merrells (5724)
+CDP Christian Party"]
+	"Donella Mclean (5725)" [label="Donella Mclean (5725)
+Australian Democrats"]
+	"Jeanette Radisich (5728)" [label="Jeanette Radisich (5728)
+New Country Party"]
+	"Ron Mclean (5727)" [label="Ron Mclean (5727)
+Citizens Electoral Council"]
+	"Annolies Truman (4964)" [label="Annolies Truman (4964)
+Socialist Alliance"]
+	"Dominique Lieb (5726)" -> "Judi Moylan (4212)" [label=3484]
+	"David Gunnyon (4959)" -> "Dominique Lieb (5726)" [label=1715]
+	"Robert Merrells (5724)" -> "David Gunnyon (4959)" [label=800]
+	"Donella Mclean (5725)" -> "Robert Merrells (5724)" [label=96]
+	"Jeanette Radisich (5728)" -> "Donella Mclean (5725)" [label=86]
+	"Ron Mclean (5727)" -> "Jeanette Radisich (5728)" [label=63]
+	"Annolies Truman (4964)" -> "Ron Mclean (5727)" [label=7]
+	"David Gunnyon (4959)" -> "Judi Moylan (4212)" [label=1527]
+	"Robert Merrells (5724)" -> "Judi Moylan (4212)" [label=1156]
+	"Donella Mclean (5725)" -> "Judi Moylan (4212)" [label=272]
+	"Jeanette Radisich (5728)" -> "Judi Moylan (4212)" [label=385]
+	"Ron Mclean (5727)" -> "Judi Moylan (4212)" [label=77]
+	"Annolies Truman (4964)" -> "Judi Moylan (4212)" [label=18]
+	"Annolies Truman (4964)" -> "Jeanette Radisich (5728)" [label=11]
+	"Ron Mclean (5727)" -> "Donella Mclean (5725)" [label=35]
+	"Annolies Truman (4964)" -> "Donella Mclean (5725)" [label=37]
+	"Jeanette Radisich (5728)" -> "Robert Merrells (5724)" [label=55]
+	"Ron Mclean (5727)" -> "Robert Merrells (5724)" [label=27]
+	"Annolies Truman (4964)" -> "Robert Merrells (5724)" [label=68]
+	"Donella Mclean (5725)" -> "David Gunnyon (4959)" [label=150]
+	"Jeanette Radisich (5728)" -> "David Gunnyon (4959)" [label=100]
+	"Ron Mclean (5727)" -> "David Gunnyon (4959)" [label=69]
+	"Annolies Truman (4964)" -> "David Gunnyon (4959)" [label=20]
+	"Robert Merrells (5724)" -> "Dominique Lieb (5726)" [label=266]
+	"Donella Mclean (5725)" -> "Dominique Lieb (5726)" [label=581]
+	"Jeanette Radisich (5728)" -> "Dominique Lieb (5726)" [label=152]
+	"Ron Mclean (5727)" -> "Dominique Lieb (5726)" [label=39]
+	"Annolies Truman (4964)" -> "Dominique Lieb (5726)" [label=107]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Geoff Peet (4332)_Hume_2004" {
+	graph [label="Hume 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Peet (4332)" [label="Geoff Peet (4332)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Martin (5104)" [label="Peter Martin (5104)
+Independent"]
+	"Arthur Schofield (5105)" [label="Arthur Schofield (5105)
+Independent"]
+	"Giuseppe Minissale (5103)" [label="Giuseppe Minissale (5103)
+Australian Democrats"]
+	"Lindsay Cosgrove (5108)" [label="Lindsay Cosgrove (5108)
+Citizens Electoral Council"]
+	"Peter Martin (5104)" -> "Geoff Peet (4332)" [label=428]
+	"Arthur Schofield (5105)" -> "Peter Martin (5104)" [label=481]
+	"Giuseppe Minissale (5103)" -> "Arthur Schofield (5105)" [label=67]
+	"Lindsay Cosgrove (5108)" -> "Giuseppe Minissale (5103)" [label=18]
+	"Arthur Schofield (5105)" -> "Geoff Peet (4332)" [label=127]
+	"Giuseppe Minissale (5103)" -> "Geoff Peet (4332)" [label=128]
+	"Lindsay Cosgrove (5108)" -> "Geoff Peet (4332)" [label=59]
+	"Lindsay Cosgrove (5108)" -> "Arthur Schofield (5105)" [label=61]
+	"Giuseppe Minissale (5103)" -> "Peter Martin (5104)" [label=166]
+	"Lindsay Cosgrove (5108)" -> "Peter Martin (5104)" [label=41]
+}

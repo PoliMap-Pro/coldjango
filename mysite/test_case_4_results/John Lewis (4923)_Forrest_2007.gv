@@ -1,0 +1,19 @@
+// House preference flow
+digraph "John Lewis (4923)_Forrest_2007" {
+	graph [label="Forrest 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Leighton Knoll (4922)" -> "John Lewis (4923)" [label=217]
+	"Jodie Yardley (4924)" -> "Leighton Knoll (4922)" [label=93]
+	"Ian Tuffnell (3605)" -> "Jodie Yardley (4924)" [label=16]
+	"Jodie Yardley (4924)" -> "John Lewis (4923)" [label=67]
+	"Ian Tuffnell (3605)" -> "John Lewis (4923)" [label=9]
+	"Ian Tuffnell (3605)" -> "Leighton Knoll (4922)" [label=9]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Colin Ross Morgan Campbell (5569)_Gorton_2004" {
+	graph [label="Gorton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Colin Ross Morgan Campbell (5569)" [label="Colin Ross Morgan Campbell (5569)
+Citizens Electoral Council"]
+}

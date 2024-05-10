@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Katrina Love (725)_Franklin_2022" {
+	graph [label="Franklin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Katrina Love (725)" [label="Katrina Love (725)
+Animal Justice Party"]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Shem Bennett (4116)_La Trobe_2010" {
+	graph [label="La Trobe 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shem Bennett (4116)" [label="Shem Bennett (4116)
+Liberal Democrats (LDP)"]
+}

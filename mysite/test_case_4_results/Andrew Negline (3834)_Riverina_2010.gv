@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Andrew Negline (3834)_Riverina_2010" {
+	graph [label="Riverina 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Negline (3834)" [label="Andrew Negline (3834)
+Liberal"]
+	"Matthew Hogg (3831)" [label="Matthew Hogg (3831)
+Independent"]
+	"David Fletcher (3836)" [label="David Fletcher (3836)
+The Greens"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats (LDP)"]
+	"Craig Hesketh (3832)" [label="Craig Hesketh (3832)
+One Nation"]
+	"Sylvia Mulholland (3835)" [label="Sylvia Mulholland (3835)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rhonda Lever (3830)" [label="Rhonda Lever (3830)
+Family First"]
+	"Matthew Hogg (3831)" -> "Andrew Negline (3834)" [label=1468]
+	"David Fletcher (3836)" -> "Matthew Hogg (3831)" [label=1194]
+	"Tim Quilty (2636)" -> "David Fletcher (3836)" [label=94]
+	"Craig Hesketh (3832)" -> "Tim Quilty (2636)" [label=144]
+	"Sylvia Mulholland (3835)" -> "Craig Hesketh (3832)" [label=84]
+	"Rhonda Lever (3830)" -> "Sylvia Mulholland (3835)" [label=71]
+	"David Fletcher (3836)" -> "Andrew Negline (3834)" [label=633]
+	"Tim Quilty (2636)" -> "Andrew Negline (3834)" [label=433]
+	"Craig Hesketh (3832)" -> "Andrew Negline (3834)" [label=190]
+	"Sylvia Mulholland (3835)" -> "Andrew Negline (3834)" [label=311]
+	"Rhonda Lever (3830)" -> "Andrew Negline (3834)" [label=64]
+	"Rhonda Lever (3830)" -> "Craig Hesketh (3832)" [label=97]
+	"Sylvia Mulholland (3835)" -> "Tim Quilty (2636)" [label=72]
+	"Rhonda Lever (3830)" -> "Tim Quilty (2636)" [label=174]
+	"Craig Hesketh (3832)" -> "David Fletcher (3836)" [label=154]
+	"Sylvia Mulholland (3835)" -> "David Fletcher (3836)" [label=100]
+	"Rhonda Lever (3830)" -> "David Fletcher (3836)" [label=112]
+	"Tim Quilty (2636)" -> "Matthew Hogg (3831)" [label=1000]
+	"Craig Hesketh (3832)" -> "Matthew Hogg (3831)" [label=373]
+	"Sylvia Mulholland (3835)" -> "Matthew Hogg (3831)" [label=128]
+	"Rhonda Lever (3830)" -> "Matthew Hogg (3831)" [label=190]
+}

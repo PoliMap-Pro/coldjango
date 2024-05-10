@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Judy F Sudholz (3596)_Durack_2013" {
+	graph [label="Durack 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Judy F Sudholz (3596)" [label="Judy F Sudholz (3596)
+Citizens Electoral Council"]
+}

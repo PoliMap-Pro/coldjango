@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Mark Majewski (3693)_Blaxland_2010" {
+	graph [label="Blaxland 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mark Majewski (3693)" [label="Mark Majewski (3693)
+Liberal"]
+	"Malikeh Michels (3690)" [label="Malikeh Michels (3690)
+The Greens"]
+	"Abdul Charaf (3692)" [label="Abdul Charaf (3692)
+Independent"]
+	"Richard Phillips (3689)" [label="Richard Phillips (3689)
+Socialist Equality Party"]
+	"Bob Vinnicombe (3695)" [label="Bob Vinnicombe (3695)
+One Nation"]
+	"David Daniel Ball (3691)" [label="David Daniel Ball (3691)
+Independent"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Malikeh Michels (3690)" -> "Mark Majewski (3693)" [label=1716]
+	"Abdul Charaf (3692)" -> "Malikeh Michels (3690)" [label=1374]
+	"Richard Phillips (3689)" -> "Abdul Charaf (3692)" [label=238]
+	"Bob Vinnicombe (3695)" -> "Richard Phillips (3689)" [label=202]
+	"David Daniel Ball (3691)" -> "Bob Vinnicombe (3695)" [label=78]
+	"Ronald Poulsen (3694)" -> "David Daniel Ball (3691)" [label=32]
+	"Abdul Charaf (3692)" -> "Mark Majewski (3693)" [label=516]
+	"Richard Phillips (3689)" -> "Mark Majewski (3693)" [label=175]
+	"Bob Vinnicombe (3695)" -> "Mark Majewski (3693)" [label=692]
+	"David Daniel Ball (3691)" -> "Mark Majewski (3693)" [label=142]
+	"Ronald Poulsen (3694)" -> "Mark Majewski (3693)" [label=58]
+	"Ronald Poulsen (3694)" -> "Bob Vinnicombe (3695)" [label=56]
+	"David Daniel Ball (3691)" -> "Richard Phillips (3689)" [label=180]
+	"Ronald Poulsen (3694)" -> "Richard Phillips (3689)" [label=31]
+	"Bob Vinnicombe (3695)" -> "Abdul Charaf (3692)" [label=152]
+	"David Daniel Ball (3691)" -> "Abdul Charaf (3692)" [label=358]
+	"Ronald Poulsen (3694)" -> "Abdul Charaf (3692)" [label=33]
+	"Richard Phillips (3689)" -> "Malikeh Michels (3690)" [label=1730]
+	"Bob Vinnicombe (3695)" -> "Malikeh Michels (3690)" [label=142]
+	"David Daniel Ball (3691)" -> "Malikeh Michels (3690)" [label=246]
+	"Ronald Poulsen (3694)" -> "Malikeh Michels (3690)" [label=18]
+}

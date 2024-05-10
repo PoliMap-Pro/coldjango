@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Ferguson (4708)_Bass_2007" {
+	graph [label="Bass 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Ferguson (4708)" [label="Michael Ferguson (4708)
+Liberal"]
+	"Tom Millen (4706)" [label="Tom Millen (4706)
+The Greens"]
+	"Sven Wiener (4703)" [label="Sven Wiener (4703)
+Independent"]
+	"Ixa De Haan (4707)" [label="Ixa De Haan (4707)
+Family First"]
+	"Shem Bennett (4116)" [label="Shem Bennett (4116)
+LDP"]
+	"Adrian Ronald Watts (4704)" [label="Adrian Ronald Watts (4704)
+Citizens Electoral Council"]
+	"Tom Millen (4706)" -> "Michael Ferguson (4708)" [label=2712]
+	"Sven Wiener (4703)" -> "Tom Millen (4706)" [label=497]
+	"Ixa De Haan (4707)" -> "Sven Wiener (4703)" [label=185]
+	"Shem Bennett (4116)" -> "Ixa De Haan (4707)" [label=76]
+	"Adrian Ronald Watts (4704)" -> "Shem Bennett (4116)" [label=9]
+	"Sven Wiener (4703)" -> "Michael Ferguson (4708)" [label=278]
+	"Ixa De Haan (4707)" -> "Michael Ferguson (4708)" [label=435]
+	"Shem Bennett (4116)" -> "Michael Ferguson (4708)" [label=73]
+	"Adrian Ronald Watts (4704)" -> "Michael Ferguson (4708)" [label=15]
+	"Adrian Ronald Watts (4704)" -> "Ixa De Haan (4707)" [label=23]
+	"Shem Bennett (4116)" -> "Sven Wiener (4703)" [label=41]
+	"Adrian Ronald Watts (4704)" -> "Sven Wiener (4703)" [label=95]
+	"Ixa De Haan (4707)" -> "Tom Millen (4706)" [label=168]
+	"Shem Bennett (4116)" -> "Tom Millen (4706)" [label=44]
+	"Adrian Ronald Watts (4704)" -> "Tom Millen (4706)" [label=32]
+}

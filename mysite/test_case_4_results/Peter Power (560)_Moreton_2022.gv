@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Peter Power (560)_Moreton_2022" {
+	graph [label="Moreton 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Power (560)" [label="Peter Power (560)
+Australian Federation Party"]
+}

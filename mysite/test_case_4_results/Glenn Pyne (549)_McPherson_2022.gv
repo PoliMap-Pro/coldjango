@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Glenn Pyne (549)_McPherson_2022" {
+	graph [label="McPherson 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glenn Pyne (549)" [label="Glenn Pyne (549)
+Liberal Democrats"]
+	"Gary Pead (545)" [label="Gary Pead (545)
+Australian Federation Party"]
+	"Gary Pead (545)" -> "Glenn Pyne (549)" [label=37]
+}

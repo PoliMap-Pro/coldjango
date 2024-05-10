@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Samantha Bastin (827)_Deakin_2022" {
+	graph [label="Deakin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Samantha Bastin (827)" [label="Samantha Bastin (827)
+Australian Federation Party"]
+}

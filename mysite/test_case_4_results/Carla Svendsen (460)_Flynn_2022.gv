@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Carla Svendsen (460)_Flynn_2022" {
+	graph [label="Flynn 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carla Svendsen (460)" [label="Carla Svendsen (460)
+The Great Australian Party"]
+}

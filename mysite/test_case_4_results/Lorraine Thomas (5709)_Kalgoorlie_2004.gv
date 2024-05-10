@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Lorraine Thomas (5709)_Kalgoorlie_2004" {
+	graph [label="Kalgoorlie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lorraine Thomas (5709)" [label="Lorraine Thomas (5709)
+Citizens Electoral Council"]
+	"Nabil Haji Rowland (5714)" [label="Nabil Haji Rowland (5714)
+Independent"]
+	"Nabil Haji Rowland (5714)" -> "Lorraine Thomas (5709)" [label=7]
+}

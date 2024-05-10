@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Scott James Robertson (4192)_Fremantle_2010" {
+	graph [label="Fremantle 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott James Robertson (4192)" [label="Scott James Robertson (4192)
+Christian Democratic Party"]
+	"Sanna Andrew (4194)" [label="Sanna Andrew (4194)
+Socialist Alliance"]
+	"Keith John Mcencroe (4193)" [label="Keith John Mcencroe (4193)
+D.L.P. - Democratic Labor Party"]
+	"Sanna Andrew (4194)" -> "Scott James Robertson (4192)" [label=80]
+	"Keith John Mcencroe (4193)" -> "Sanna Andrew (4194)" [label=69]
+	"Keith John Mcencroe (4193)" -> "Scott James Robertson (4192)" [label=62]
+}

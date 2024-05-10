@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Michael Calautti (1096)_Pearce_2019" {
+	graph [label="Pearce 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Calautti (1096)" [label="Michael Calautti (1096)
+WESTERN AUSTRALIA PARTY"]
+}

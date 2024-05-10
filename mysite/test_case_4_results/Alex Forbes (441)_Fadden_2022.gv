@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Alex Forbes (441)_Fadden_2022" {
+	graph [label="Fadden 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alex Forbes (441)" [label="Alex Forbes (441)
+Liberal Democrats"]
+}

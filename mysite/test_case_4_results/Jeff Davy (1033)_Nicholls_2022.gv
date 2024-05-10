@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jeff Davy (1033)_Nicholls_2022" {
+	graph [label="Nicholls 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Party"]
+	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
+Australian Federation Party"]
+	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
+}

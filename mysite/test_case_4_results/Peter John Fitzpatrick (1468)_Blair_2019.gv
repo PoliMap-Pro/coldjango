@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Peter John Fitzpatrick (1468)_Blair_2019" {
+	graph [label="Blair 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter John Fitzpatrick (1468)" [label="Peter John Fitzpatrick (1468)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+}

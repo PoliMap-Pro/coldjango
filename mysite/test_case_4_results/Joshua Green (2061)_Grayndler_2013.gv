@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Joshua Green (2061)_Grayndler_2013" {
+	graph [label="Grayndler 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joshua Green (2061)" [label="Joshua Green (2061)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mohanadas Balasingham (2886)" [label="Mohanadas Balasingham (2886)
+Palmer United Party"]
+	"Joel Scully (2883)" [label="Joel Scully (2883)
+Bullet Train For Australia"]
+	"Mohanadas Balasingham (2886)" -> "Joshua Green (2061)" [label=257]
+	"Joel Scully (2883)" -> "Mohanadas Balasingham (2886)" [label=158]
+	"Joel Scully (2883)" -> "Joshua Green (2061)" [label=111]
+}

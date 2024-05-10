@@ -1,0 +1,14 @@
+// House preference flow
+digraph "James Keith Milligan (3671)_Fraser_2010" {
+	graph [label="Fraser 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Keith Milligan (3671)" [label="James Keith Milligan (3671)
+Liberal"]
+	"Indra Esguerra (3673)" [label="Indra Esguerra (3673)
+The Greens"]
+	"Quintin Hedges-Phillips (3672)" [label="Quintin Hedges-Phillips (3672)
+Secular Party of Australia"]
+	"Indra Esguerra (3673)" -> "James Keith Milligan (3671)" [label=3136]
+	"Quintin Hedges-Phillips (3672)" -> "Indra Esguerra (3673)" [label=907]
+	"Quintin Hedges-Phillips (3672)" -> "James Keith Milligan (3671)" [label=644]
+}

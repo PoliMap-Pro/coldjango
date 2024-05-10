@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Robert Barwick (4740)_Wannon_2004" {
+	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+}

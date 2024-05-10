@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jassmine Wood (4004)_Hindmarsh_2010" {
+	graph [label="Hindmarsh 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jassmine Wood (4004)" [label="Jassmine Wood (4004)
+Liberal"]
+	"Matthew Fisher (4003)" [label="Matthew Fisher (4003)
+The Greens"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"Greg Croke (4006)" [label="Greg Croke (4006)
+Australian Democrats"]
+	"Adrian Graeme Paech (4005)" [label="Adrian Graeme Paech (4005)
+The Climate Sceptics"]
+	"Matthew Fisher (4003)" -> "Jassmine Wood (4004)" [label=3113]
+	"Bob Randall (3260)" -> "Matthew Fisher (4003)" [label=812]
+	"Greg Croke (4006)" -> "Bob Randall (3260)" [label=151]
+	"Adrian Graeme Paech (4005)" -> "Greg Croke (4006)" [label=79]
+	"Bob Randall (3260)" -> "Jassmine Wood (4004)" [label=1270]
+	"Greg Croke (4006)" -> "Jassmine Wood (4004)" [label=145]
+	"Adrian Graeme Paech (4005)" -> "Jassmine Wood (4004)" [label=167]
+	"Adrian Graeme Paech (4005)" -> "Bob Randall (3260)" [label=78]
+	"Greg Croke (4006)" -> "Matthew Fisher (4003)" [label=318]
+	"Adrian Graeme Paech (4005)" -> "Matthew Fisher (4003)" [label=123]
+}

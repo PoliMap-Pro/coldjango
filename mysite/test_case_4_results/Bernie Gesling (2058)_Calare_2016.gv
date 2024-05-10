@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Bernie Gesling (2058)_Calare_2016" {
+	graph [label="Calare 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
+Christian Democratic Party (Fred Nile Group)"]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Andrew Broughton (2294)_Bonner_2016" {
+	graph [label="Bonner 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Broughton (2294)" [label="Andrew Broughton (2294)
+Family First"]
+	"Matthew Linney (2290)" [label="Matthew Linney (2290)
+Liberal Democrats"]
+	"Jarrod John Wirth (2292)" [label="Jarrod John Wirth (2292)
+Independent"]
+	"Matthew Linney (2290)" -> "Andrew Broughton (2294)" [label=588]
+	"Jarrod John Wirth (2292)" -> "Matthew Linney (2290)" [label=368]
+	"Jarrod John Wirth (2292)" -> "Andrew Broughton (2294)" [label=633]
+}

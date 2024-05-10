@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Christian Porter (1990)_Pearce_2013" {
+	graph [label="Pearce 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christian Porter (1990)" [label="Christian Porter (1990)
+Liberal"]
+	"Sarah Nielsen-Harvey (2778)" [label="Sarah Nielsen-Harvey (2778)
+The Greens (WA)"]
+	"Francis Carson Hough (3645)" [label="Francis Carson Hough (3645)
+Palmer United Party"]
+	"Craig Mcallister (3638)" [label="Craig Mcallister (3638)
+The Nationals"]
+	"Danielle Maree Canas (3643)" [label="Danielle Maree Canas (3643)
+Australian Christians"]
+	"Diane Davies (3644)" [label="Diane Davies (3644)
+Rise Up Australia Party"]
+	"Eddie Richards (3640)" [label="Eddie Richards (3640)
+Katter's Australian Party"]
+	"Matthew Corica (3642)" [label="Matthew Corica (3642)
+Australian Democrats"]
+	"Norman Gay (3639)" [label="Norman Gay (3639)
+Citizens Electoral Council"]
+	"Sarah Nielsen-Harvey (2778)" -> "Christian Porter (1990)" [label=3455]
+	"Francis Carson Hough (3645)" -> "Sarah Nielsen-Harvey (2778)" [label=2563]
+	"Craig Mcallister (3638)" -> "Francis Carson Hough (3645)" [label=644]
+	"Danielle Maree Canas (3643)" -> "Craig Mcallister (3638)" [label=261]
+	"Diane Davies (3644)" -> "Danielle Maree Canas (3643)" [label=185]
+	"Eddie Richards (3640)" -> "Diane Davies (3644)" [label=87]
+	"Matthew Corica (3642)" -> "Eddie Richards (3640)" [label=43]
+	"Norman Gay (3639)" -> "Matthew Corica (3642)" [label=26]
+	"Francis Carson Hough (3645)" -> "Christian Porter (1990)" [label=3465]
+	"Craig Mcallister (3638)" -> "Christian Porter (1990)" [label=2585]
+	"Danielle Maree Canas (3643)" -> "Christian Porter (1990)" [label=1082]
+	"Diane Davies (3644)" -> "Christian Porter (1990)" [label=164]
+	"Eddie Richards (3640)" -> "Christian Porter (1990)" [label=85]
+	"Matthew Corica (3642)" -> "Christian Porter (1990)" [label=73]
+	"Norman Gay (3639)" -> "Christian Porter (1990)" [label=22]
+	"Norman Gay (3639)" -> "Eddie Richards (3640)" [label=62]
+	"Matthew Corica (3642)" -> "Diane Davies (3644)" [label=47]
+	"Norman Gay (3639)" -> "Diane Davies (3644)" [label=36]
+	"Eddie Richards (3640)" -> "Danielle Maree Canas (3643)" [label=45]
+	"Matthew Corica (3642)" -> "Danielle Maree Canas (3643)" [label=47]
+	"Norman Gay (3639)" -> "Danielle Maree Canas (3643)" [label=17]
+	"Diane Davies (3644)" -> "Craig Mcallister (3638)" [label=98]
+	"Eddie Richards (3640)" -> "Craig Mcallister (3638)" [label=138]
+	"Matthew Corica (3642)" -> "Craig Mcallister (3638)" [label=86]
+	"Norman Gay (3639)" -> "Craig Mcallister (3638)" [label=99]
+	"Danielle Maree Canas (3643)" -> "Francis Carson Hough (3645)" [label=270]
+	"Diane Davies (3644)" -> "Francis Carson Hough (3645)" [label=249]
+	"Eddie Richards (3640)" -> "Francis Carson Hough (3645)" [label=203]
+	"Matthew Corica (3642)" -> "Francis Carson Hough (3645)" [label=48]
+	"Norman Gay (3639)" -> "Francis Carson Hough (3645)" [label=36]
+	"Craig Mcallister (3638)" -> "Sarah Nielsen-Harvey (2778)" [label=1184]
+	"Danielle Maree Canas (3643)" -> "Sarah Nielsen-Harvey (2778)" [label=206]
+	"Diane Davies (3644)" -> "Sarah Nielsen-Harvey (2778)" [label=153]
+	"Eddie Richards (3640)" -> "Sarah Nielsen-Harvey (2778)" [label=112]
+	"Matthew Corica (3642)" -> "Sarah Nielsen-Harvey (2778)" [label=148]
+	"Norman Gay (3639)" -> "Sarah Nielsen-Harvey (2778)" [label=83]
+}

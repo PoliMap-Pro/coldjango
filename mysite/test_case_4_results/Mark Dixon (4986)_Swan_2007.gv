@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mark Dixon (4986)_Swan_2007" {
+	graph [label="Swan 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mark Dixon (4986)" [label="Mark Dixon (4986)
+LDP"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Norman R Gay (4988)" [label="Norman R Gay (4988)
+Citizens Electoral Council"]
+	"Joe Lopez (4225)" -> "Mark Dixon (4986)" [label=7]
+	"Norman R Gay (4988)" -> "Joe Lopez (4225)" [label=14]
+	"Norman R Gay (4988)" -> "Mark Dixon (4986)" [label=5]
+}

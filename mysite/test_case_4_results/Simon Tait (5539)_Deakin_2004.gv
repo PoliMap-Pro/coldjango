@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Simon Tait (5539)_Deakin_2004" {
+	graph [label="Deakin 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Simon Tait (5539)" [label="Simon Tait (5539)
+Citizens Electoral Council"]
+}

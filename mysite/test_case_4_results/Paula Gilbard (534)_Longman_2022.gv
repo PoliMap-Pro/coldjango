@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Paula Gilbard (534)_Longman_2022" {
+	graph [label="Longman 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paula Gilbard (534)" [label="Paula Gilbard (534)
+Animal Justice Party"]
+	"Jens Lipponer (533)" [label="Jens Lipponer (533)
+Liberal Democrats"]
+	"Jens Lipponer (533)" -> "Paula Gilbard (534)" [label=169]
+}

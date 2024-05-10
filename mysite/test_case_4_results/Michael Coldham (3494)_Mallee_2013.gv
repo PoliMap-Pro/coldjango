@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Michael Coldham (3494)_Mallee_2013" {
+	graph [label="Mallee 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Coldham (3494)" [label="Michael Coldham (3494)
+Country Alliance"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Chris Lahy (984)" -> "Michael Coldham (3494)" [label=1]
+}

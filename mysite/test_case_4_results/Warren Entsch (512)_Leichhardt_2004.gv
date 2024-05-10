@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Warren Entsch (512)_Leichhardt_2004" {
+	graph [label="Leichhardt 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Warren Entsch (512)" [label="Warren Entsch (512)
+Liberal"]
+	"Neville St John-Wood (3938)" [label="Neville St John-Wood (3938)
+The Greens"]
+	"Jen Sackley (506)" [label="Jen Sackley (506)
+Independent"]
+	"Ric Lippmann (5361)" [label="Ric Lippmann (5361)
+Family First"]
+	"Allen Reid (5362)" [label="Allen Reid (5362)
+Australian Democrats"]
+	"Neville St John-Wood (3938)" -> "Warren Entsch (512)" [label=1616]
+	"Jen Sackley (506)" -> "Neville St John-Wood (3938)" [label=1055]
+	"Ric Lippmann (5361)" -> "Jen Sackley (506)" [label=757]
+	"Allen Reid (5362)" -> "Ric Lippmann (5361)" [label=91]
+	"Jen Sackley (506)" -> "Warren Entsch (512)" [label=2473]
+	"Ric Lippmann (5361)" -> "Warren Entsch (512)" [label=860]
+	"Allen Reid (5362)" -> "Warren Entsch (512)" [label=215]
+	"Allen Reid (5362)" -> "Jen Sackley (506)" [label=158]
+	"Ric Lippmann (5361)" -> "Neville St John-Wood (3938)" [label=216]
+	"Allen Reid (5362)" -> "Neville St John-Wood (3938)" [label=245]
+}

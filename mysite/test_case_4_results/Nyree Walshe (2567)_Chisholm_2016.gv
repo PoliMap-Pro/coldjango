@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Nyree Walshe (2567)_Chisholm_2016" {
+	graph [label="Chisholm 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nyree Walshe (2567)" [label="Nyree Walshe (2567)
+Animal Justice Party"]
+	"Melanie Vassiliou (2566)" [label="Melanie Vassiliou (2566)
+Rise Up Australia Party"]
+	"Melanie Vassiliou (2566)" -> "Nyree Walshe (2567)" [label=548]
+}

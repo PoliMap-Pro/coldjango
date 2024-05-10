@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Michelle Ryan (2078)_Cunningham_2016" {
+	graph [label="Cunningham 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
+Christian Democratic Party (Fred Nile Group)"]
+	"Nathan Waters (2076)" [label="Nathan Waters (2076)
+Science Party"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Nathan Waters (2076)" -> "Michelle Ryan (2078)" [label=396]
+	"John Flanagan (1270)" -> "Nathan Waters (2076)" [label=395]
+	"John Flanagan (1270)" -> "Michelle Ryan (2078)" [label=342]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Philip Clifford (2852)_Cunningham_2013" {
+	graph [label="Cunningham 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Philip Clifford (2852)" [label="Philip Clifford (2852)
+Liberal"]
+	"Helen Wilson (2854)" [label="Helen Wilson (2854)
+The Greens"]
+	"Christopher James Atlee (2853)" [label="Christopher James Atlee (2853)
+Palmer United Party"]
+	"Rob George (2855)" [label="Rob George (2855)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"John Leslie Bursill (2856)" [label="John Leslie Bursill (2856)
+Katter's Australian Party"]
+	"Helen Wilson (2854)" -> "Philip Clifford (2852)" [label=2001]
+	"Christopher James Atlee (2853)" -> "Helen Wilson (2854)" [label=1151]
+	"Rob George (2855)" -> "Christopher James Atlee (2853)" [label=362]
+	"John Flanagan (1270)" -> "Rob George (2855)" [label=186]
+	"John Leslie Bursill (2856)" -> "John Flanagan (1270)" [label=98]
+	"Christopher James Atlee (2853)" -> "Philip Clifford (2852)" [label=2215]
+	"Rob George (2855)" -> "Philip Clifford (2852)" [label=1388]
+	"John Flanagan (1270)" -> "Philip Clifford (2852)" [label=151]
+	"John Leslie Bursill (2856)" -> "Philip Clifford (2852)" [label=142]
+	"John Leslie Bursill (2856)" -> "Rob George (2855)" [label=81]
+	"John Flanagan (1270)" -> "Christopher James Atlee (2853)" [label=185]
+	"John Leslie Bursill (2856)" -> "Christopher James Atlee (2853)" [label=302]
+	"Rob George (2855)" -> "Helen Wilson (2854)" [label=215]
+	"John Flanagan (1270)" -> "Helen Wilson (2854)" [label=163]
+	"John Leslie Bursill (2856)" -> "Helen Wilson (2854)" [label=85]
+}

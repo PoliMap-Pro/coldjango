@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Sussan Ley (112)_Farrer_2010" {
+	graph [label="Farrer 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sussan Ley (112)" [label="Sussan Ley (112)
+Liberal"]
+	"Louise Burge (3733)" [label="Louise Burge (3733)
+Independent"]
+	"Peter Carruthers (3730)" [label="Peter Carruthers (3730)
+The Greens"]
+	"James Male (3735)" [label="James Male (3735)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
+Secular Party of Australia"]
+	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
+"]
+	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
+Australian Democrats"]
+	"Louise Burge (3733)" -> "Sussan Ley (112)" [label=7574]
+	"Peter Carruthers (3730)" -> "Louise Burge (3733)" [label=1442]
+	"James Male (3735)" -> "Peter Carruthers (3730)" [label=169]
+	"Mathew Bruce Crothers (3729)" -> "James Male (3735)" [label=52]
+	"Jason C Clancy (3731)" -> "Mathew Bruce Crothers (3729)" [label=89]
+	"Stephen Bingle (3734)" -> "Jason C Clancy (3731)" [label=29]
+	"Peter Carruthers (3730)" -> "Sussan Ley (112)" [label=1744]
+	"James Male (3735)" -> "Sussan Ley (112)" [label=1097]
+	"Mathew Bruce Crothers (3729)" -> "Sussan Ley (112)" [label=174]
+	"Jason C Clancy (3731)" -> "Sussan Ley (112)" [label=166]
+	"Stephen Bingle (3734)" -> "Sussan Ley (112)" [label=112]
+	"Stephen Bingle (3734)" -> "Mathew Bruce Crothers (3729)" [label=30]
+	"Jason C Clancy (3731)" -> "James Male (3735)" [label=44]
+	"Stephen Bingle (3734)" -> "James Male (3735)" [label=81]
+	"Mathew Bruce Crothers (3729)" -> "Peter Carruthers (3730)" [label=721]
+	"Jason C Clancy (3731)" -> "Peter Carruthers (3730)" [label=180]
+	"Stephen Bingle (3734)" -> "Peter Carruthers (3730)" [label=92]
+	"James Male (3735)" -> "Louise Burge (3733)" [label=1314]
+	"Mathew Bruce Crothers (3729)" -> "Louise Burge (3733)" [label=122]
+	"Jason C Clancy (3731)" -> "Louise Burge (3733)" [label=152]
+	"Stephen Bingle (3734)" -> "Louise Burge (3733)" [label=161]
+}

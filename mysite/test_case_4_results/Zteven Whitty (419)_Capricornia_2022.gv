@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Zteven Whitty (419)_Capricornia_2022" {
+	graph [label="Capricornia 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Zteven Whitty (419)" [label="Zteven Whitty (419)
+The Great Australian Party"]
+	"Steve Murphy (415)" [label="Steve Murphy (415)
+Liberal Democrats"]
+	"Paula Ganfield (412)" [label="Paula Ganfield (412)
+Informed Medical Options Party"]
+	"Steve Murphy (415)" -> "Zteven Whitty (419)" [label=81]
+	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
+	"Paula Ganfield (412)" -> "Zteven Whitty (419)" [label=276]
+}

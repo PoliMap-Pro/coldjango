@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Russell Matheson (2150)_Macarthur_2013" {
+	graph [label="Macarthur 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Russell Matheson (2150)" [label="Russell Matheson (2150)
+Liberal"]
+	"Goetz Robert Uwe Grosche (2923)" [label="Goetz Robert Uwe Grosche (2923)
+Palmer United Party"]
+	"Patrick Darley-Jones (2925)" [label="Patrick Darley-Jones (2925)
+The Greens"]
+	"Sarah Ramsay (2922)" [label="Sarah Ramsay (2922)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mick Williams (2921)" [label="Mick Williams (2921)
+Katter's Australian Party"]
+	"Goetz Robert Uwe Grosche (2923)" -> "Russell Matheson (2150)" [label=3151]
+	"Patrick Darley-Jones (2925)" -> "Goetz Robert Uwe Grosche (2923)" [label=1021]
+	"Sarah Ramsay (2922)" -> "Patrick Darley-Jones (2925)" [label=191]
+	"Mick Williams (2921)" -> "Sarah Ramsay (2922)" [label=228]
+	"Patrick Darley-Jones (2925)" -> "Russell Matheson (2150)" [label=618]
+	"Sarah Ramsay (2922)" -> "Russell Matheson (2150)" [label=1420]
+	"Mick Williams (2921)" -> "Russell Matheson (2150)" [label=787]
+	"Mick Williams (2921)" -> "Patrick Darley-Jones (2925)" [label=116]
+	"Sarah Ramsay (2922)" -> "Goetz Robert Uwe Grosche (2923)" [label=398]
+	"Mick Williams (2921)" -> "Goetz Robert Uwe Grosche (2923)" [label=379]
+}

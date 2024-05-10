@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Nino Marolla (3146)_Herbert_2013" {
+	graph [label="Herbert 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nino Marolla (3146)" [label="Nino Marolla (3146)
+Rise Up Australia Party"]
+	"Margaret Bell (3149)" [label="Margaret Bell (3149)
+Australian Voice"]
+	"Margaret Bell (3149)" -> "Nino Marolla (3146)" [label=18]
+}

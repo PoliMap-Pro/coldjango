@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Geoff Payne (4098)_Newcastle_2007" {
+	graph [label="Newcastle 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Payne (4098)" [label="Geoff Payne (4098)
+Socialist Alliance"]
+	"Noel Holt (3799)" [label="Noel Holt (3799)
+Socialist Equality Party"]
+	"Noel Holt (3799)" -> "Geoff Payne (4098)" [label=53]
+}

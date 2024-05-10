@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kym Richardson (4670)_Kingston_2004" {
+	graph [label="Kingston 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kym Richardson (4670)" [label="Kym Richardson (4670)
+Liberal"]
+	"Yvonne Darlington (5449)" [label="Yvonne Darlington (5449)
+The Greens"]
+	"Andrew Cole (4658)" [label="Andrew Cole (4658)
+Family First"]
+	"Deirdre Albrighton (5450)" [label="Deirdre Albrighton (5450)
+Australian Democrats"]
+	"Laurel Payne (5447)" [label="Laurel Payne (5447)
+One Nation"]
+	"Yvonne Darlington (5449)" -> "Kym Richardson (4670)" [label=1673]
+	"Andrew Cole (4658)" -> "Yvonne Darlington (5449)" [label=936]
+	"Deirdre Albrighton (5450)" -> "Andrew Cole (4658)" [label=264]
+	"Laurel Payne (5447)" -> "Deirdre Albrighton (5450)" [label=64]
+	"Andrew Cole (4658)" -> "Kym Richardson (4670)" [label=3264]
+	"Deirdre Albrighton (5450)" -> "Kym Richardson (4670)" [label=315]
+	"Laurel Payne (5447)" -> "Kym Richardson (4670)" [label=227]
+	"Laurel Payne (5447)" -> "Andrew Cole (4658)" [label=300]
+	"Deirdre Albrighton (5450)" -> "Yvonne Darlington (5449)" [label=819]
+	"Laurel Payne (5447)" -> "Yvonne Darlington (5449)" [label=99]
+}

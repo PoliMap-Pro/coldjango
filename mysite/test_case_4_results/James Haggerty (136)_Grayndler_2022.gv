@@ -1,0 +1,10 @@
+// House preference flow
+digraph "James Haggerty (136)_Grayndler_2022" {
+	graph [label="Grayndler 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Haggerty (136)" [label="James Haggerty (136)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Michael Armando Dello-Iacovo (139)" [label="Michael Armando Dello-Iacovo (139)
+Animal Justice Party"]
+	"Michael Armando Dello-Iacovo (139)" -> "James Haggerty (136)" [label=110]
+}

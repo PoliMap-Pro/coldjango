@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Rod Whitfield (785)_Scullin_2019" {
+	graph [label="Scullin 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rod Whitfield (785)" [label="Rod Whitfield (785)
+Animal Justice Party"]
+	"Yassin Akram Albarri (1916)" [label="Yassin Akram Albarri (1916)
+Independent"]
+	"Yassin Akram Albarri (1916)" -> "Rod Whitfield (785)" [label=314]
+}

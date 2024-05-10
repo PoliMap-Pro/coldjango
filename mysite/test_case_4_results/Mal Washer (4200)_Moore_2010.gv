@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Mal Washer (4200)_Moore_2010" {
+	graph [label="Moore 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mal Washer (4200)" [label="Mal Washer (4200)
+Liberal"]
+	"Sheridan Young (2733)" [label="Sheridan Young (2733)
+The Greens"]
+	"Meg Birch (4201)" [label="Meg Birch (4201)
+Christian Democratic Party"]
+	"Paul Barrett (4202)" [label="Paul Barrett (4202)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation"]
+	"Sheridan Young (2733)" -> "Mal Washer (4200)" [label=3177]
+	"Meg Birch (4201)" -> "Sheridan Young (2733)" [label=602]
+	"Paul Barrett (4202)" -> "Meg Birch (4201)" [label=576]
+	"George Gault (4199)" -> "Paul Barrett (4202)" [label=256]
+	"Meg Birch (4201)" -> "Mal Washer (4200)" [label=1564]
+	"Paul Barrett (4202)" -> "Mal Washer (4200)" [label=412]
+	"George Gault (4199)" -> "Mal Washer (4200)" [label=631]
+	"George Gault (4199)" -> "Meg Birch (4201)" [label=177]
+	"Paul Barrett (4202)" -> "Sheridan Young (2733)" [label=580]
+	"George Gault (4199)" -> "Sheridan Young (2733)" [label=210]
+}

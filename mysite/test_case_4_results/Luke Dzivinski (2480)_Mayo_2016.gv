@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Luke Dzivinski (2480)_Mayo_2016" {
+	graph [label="Mayo 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Luke Dzivinski (2480)" [label="Luke Dzivinski (2480)
+Liberal Democrats"]
+}

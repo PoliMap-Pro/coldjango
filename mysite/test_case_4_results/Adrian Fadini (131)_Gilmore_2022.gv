@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Adrian Fadini (131)_Gilmore_2022" {
+	graph [label="Gilmore 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adrian Fadini (131)" [label="Adrian Fadini (131)
+Liberal Democrats"]
+}

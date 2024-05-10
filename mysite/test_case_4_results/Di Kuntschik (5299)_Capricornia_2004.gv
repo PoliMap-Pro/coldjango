@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Di Kuntschik (5299)_Capricornia_2004" {
+	graph [label="Capricornia 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Di Kuntschik (5299)" [label="Di Kuntschik (5299)
+Liberal"]
+	"Alan J Spackman (5301)" [label="Alan J Spackman (5301)
+Family First"]
+	"Larry H Coleman (5297)" [label="Larry H Coleman (5297)
+One Nation"]
+	"Michael Kane (5300)" [label="Michael Kane (5300)
+The Greens"]
+	"Naomi Johns (5295)" [label="Naomi Johns (5295)
+Australian Democrats"]
+	"Judy Canales (5298)" [label="Judy Canales (5298)
+Help End Marijuana Prohibition"]
+	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
+Citizens Electoral Council"]
+	"Alan J Spackman (5301)" -> "Di Kuntschik (5299)" [label=991]
+	"Larry H Coleman (5297)" -> "Alan J Spackman (5301)" [label=1069]
+	"Michael Kane (5300)" -> "Larry H Coleman (5297)" [label=190]
+	"Naomi Johns (5295)" -> "Michael Kane (5300)" [label=197]
+	"Judy Canales (5298)" -> "Naomi Johns (5295)" [label=53]
+	"Bill Ingrey (3894)" -> "Judy Canales (5298)" [label=9]
+	"Larry H Coleman (5297)" -> "Di Kuntschik (5299)" [label=417]
+	"Michael Kane (5300)" -> "Di Kuntschik (5299)" [label=140]
+	"Naomi Johns (5295)" -> "Di Kuntschik (5299)" [label=97]
+	"Judy Canales (5298)" -> "Di Kuntschik (5299)" [label=81]
+	"Bill Ingrey (3894)" -> "Di Kuntschik (5299)" [label=11]
+	"Bill Ingrey (3894)" -> "Naomi Johns (5295)" [label=14]
+	"Judy Canales (5298)" -> "Michael Kane (5300)" [label=200]
+	"Bill Ingrey (3894)" -> "Michael Kane (5300)" [label=32]
+	"Naomi Johns (5295)" -> "Larry H Coleman (5297)" [label=144]
+	"Judy Canales (5298)" -> "Larry H Coleman (5297)" [label=115]
+	"Bill Ingrey (3894)" -> "Larry H Coleman (5297)" [label=80]
+	"Michael Kane (5300)" -> "Alan J Spackman (5301)" [label=430]
+	"Naomi Johns (5295)" -> "Alan J Spackman (5301)" [label=71]
+	"Judy Canales (5298)" -> "Alan J Spackman (5301)" [label=75]
+	"Bill Ingrey (3894)" -> "Alan J Spackman (5301)" [label=52]
+}

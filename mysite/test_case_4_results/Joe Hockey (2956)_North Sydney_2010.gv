@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Joe Hockey (2956)_North Sydney_2010" {
+	graph [label="North Sydney 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joe Hockey (2956)" [label="Joe Hockey (2956)
+Liberal"]
+	"Andrew Robjohns (3803)" [label="Andrew Robjohns (3803)
+The Greens"]
+	"Daniel Pearce (3802)" [label="Daniel Pearce (3802)
+Australian Democrats"]
+	"Daniel Le (3804)" [label="Daniel Le (3804)
+Family First"]
+	"Andrew Robjohns (3803)" -> "Joe Hockey (2956)" [label=2920]
+	"Daniel Pearce (3802)" -> "Andrew Robjohns (3803)" [label=661]
+	"Daniel Le (3804)" -> "Daniel Pearce (3802)" [label=176]
+	"Daniel Pearce (3802)" -> "Joe Hockey (2956)" [label=403]
+	"Daniel Le (3804)" -> "Joe Hockey (2956)" [label=399]
+	"Daniel Le (3804)" -> "Andrew Robjohns (3803)" [label=254]
+}

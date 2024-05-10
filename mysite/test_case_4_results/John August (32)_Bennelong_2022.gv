@@ -1,0 +1,19 @@
+// House preference flow
+digraph "John August (32)_Bennelong_2022" {
+	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"John August (32)" [label="John August (32)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Pauline Hanson's One Nation"]
+	"Dougal Cameron (34)" [label="Dougal Cameron (34)
+Liberal Democrats"]
+	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
+Democratic Alliance"]
+	"Victor Waterson (37)" -> "John August (32)" [label=166]
+	"Dougal Cameron (34)" -> "Victor Waterson (37)" [label=320]
+	"Kyinzom Dhongdue (39)" -> "Dougal Cameron (34)" [label=73]
+	"Dougal Cameron (34)" -> "John August (32)" [label=82]
+	"Kyinzom Dhongdue (39)" -> "John August (32)" [label=202]
+	"Kyinzom Dhongdue (39)" -> "Victor Waterson (37)" [label=47]
+}

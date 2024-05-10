@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Stephen Juhasz (801)_Corangamite_2022" {
+	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
+Australian Federation Party"]
+}

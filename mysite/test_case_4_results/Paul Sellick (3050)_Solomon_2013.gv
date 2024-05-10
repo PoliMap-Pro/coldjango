@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Paul Sellick (3050)_Solomon_2013" {
+	graph [label="Solomon 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Sellick (3050)" [label="Paul Sellick (3050)
+Rise Up Australia Party"]
+	"Eileen Cummings (3052)" [label="Eileen Cummings (3052)
+A.F.N.P.P."]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Eileen Cummings (3052)" -> "Paul Sellick (3050)" [label=43]
+	"Trudy Campbell (3048)" -> "Eileen Cummings (3052)" [label=11]
+	"Trudy Campbell (3048)" -> "Paul Sellick (3050)" [label=16]
+}

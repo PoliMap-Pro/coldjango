@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Beresford Thomas (2252)_Wentworth_2013" {
+	graph [label="Wentworth 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
+Christian Democratic Party (Fred Nile Group)"]
+}

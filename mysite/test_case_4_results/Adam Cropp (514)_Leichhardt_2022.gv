@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Adam Cropp (514)_Leichhardt_2022" {
+	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Cropp (514)" [label="Adam Cropp (514)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Paul Roe (519)" [label="Paul Roe (519)
+Australian Federation Party"]
+	"Paul Roe (519)" -> "Adam Cropp (514)" [label=18]
+}

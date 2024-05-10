@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jens Lipponer (533)_Longman_2022" {
+	graph [label="Longman 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jens Lipponer (533)" [label="Jens Lipponer (533)
+Liberal Democrats"]
+}

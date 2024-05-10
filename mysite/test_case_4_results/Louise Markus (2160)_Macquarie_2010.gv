@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Louise Markus (2160)_Macquarie_2010" {
+	graph [label="Macquarie 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Louise Markus (2160)" [label="Louise Markus (2160)
+Liberal"]
+	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
+The Greens"]
+	"Peter Whelan (2175)" [label="Peter Whelan (2175)
+Liberal Democrats (LDP)"]
+	"Luke Portelli (3789)" [label="Luke Portelli (3789)
+Christian Democratic Party (Fred Nile Group)"]
+	"Amy Bell (3786)" [label="Amy Bell (3786)
+Independent"]
+	"Jason Cornelius (3790)" [label="Jason Cornelius (3790)
+Family First"]
+	"John Bates (3788)" [label="John Bates (3788)
+Australia First Party"]
+	"Terry Tremethick (3787)" [label="Terry Tremethick (3787)
+Carers Alliance"]
+	"Carmel Mccallum (128)" -> "Louise Markus (2160)" [label=2186]
+	"Peter Whelan (2175)" -> "Carmel Mccallum (128)" [label=1149]
+	"Luke Portelli (3789)" -> "Peter Whelan (2175)" [label=385]
+	"Amy Bell (3786)" -> "Luke Portelli (3789)" [label=256]
+	"Jason Cornelius (3790)" -> "Amy Bell (3786)" [label=213]
+	"John Bates (3788)" -> "Jason Cornelius (3790)" [label=172]
+	"Terry Tremethick (3787)" -> "John Bates (3788)" [label=43]
+	"Peter Whelan (2175)" -> "Louise Markus (2160)" [label=1499]
+	"Luke Portelli (3789)" -> "Louise Markus (2160)" [label=1467]
+	"Amy Bell (3786)" -> "Louise Markus (2160)" [label=334]
+	"Jason Cornelius (3790)" -> "Louise Markus (2160)" [label=273]
+	"John Bates (3788)" -> "Louise Markus (2160)" [label=103]
+	"Terry Tremethick (3787)" -> "Louise Markus (2160)" [label=72]
+	"Terry Tremethick (3787)" -> "Jason Cornelius (3790)" [label=64]
+	"John Bates (3788)" -> "Amy Bell (3786)" [label=141]
+	"Terry Tremethick (3787)" -> "Amy Bell (3786)" [label=112]
+	"Jason Cornelius (3790)" -> "Luke Portelli (3789)" [label=301]
+	"John Bates (3788)" -> "Luke Portelli (3789)" [label=81]
+	"Terry Tremethick (3787)" -> "Luke Portelli (3789)" [label=40]
+	"Amy Bell (3786)" -> "Peter Whelan (2175)" [label=412]
+	"Jason Cornelius (3790)" -> "Peter Whelan (2175)" [label=72]
+	"John Bates (3788)" -> "Peter Whelan (2175)" [label=55]
+	"Terry Tremethick (3787)" -> "Peter Whelan (2175)" [label=33]
+	"Luke Portelli (3789)" -> "Carmel Mccallum (128)" [label=298]
+	"Amy Bell (3786)" -> "Carmel Mccallum (128)" [label=817]
+	"Jason Cornelius (3790)" -> "Carmel Mccallum (128)" [label=156]
+	"John Bates (3788)" -> "Carmel Mccallum (128)" [label=66]
+	"Terry Tremethick (3787)" -> "Carmel Mccallum (128)" [label=135]
+}

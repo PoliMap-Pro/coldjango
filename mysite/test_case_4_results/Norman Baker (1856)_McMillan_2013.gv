@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Norman Baker (1856)_McMillan_2013" {
+	graph [label="McMillan 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Gary Patton (3509)" [label="Gary Patton (3509)
+Senator Online (Internet Voting Bills/Issues)"]
+	"Gary Patton (3509)" -> "Norman Baker (1856)" [label=5]
+}

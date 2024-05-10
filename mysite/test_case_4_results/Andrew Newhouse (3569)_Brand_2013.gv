@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Newhouse (3569)_Brand_2013" {
+	graph [label="Brand 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First Party"]
+	"Bob Burdett (3575)" [label="Bob Burdett (3575)
+Australian Christians"]
+	"Gabrielle Lisanne Iriks (3574)" [label="Gabrielle Lisanne Iriks (3574)
+Rise Up Australia Party"]
+	"Paul James Young (3573)" [label="Paul James Young (3573)
+Australian Democrats"]
+	"Mick Le-Cocq (3572)" [label="Mick Le-Cocq (3572)
+Citizens Electoral Council"]
+	"Bob Burdett (3575)" -> "Andrew Newhouse (3569)" [label=980]
+	"Gabrielle Lisanne Iriks (3574)" -> "Bob Burdett (3575)" [label=96]
+	"Paul James Young (3573)" -> "Gabrielle Lisanne Iriks (3574)" [label=95]
+	"Mick Le-Cocq (3572)" -> "Paul James Young (3573)" [label=32]
+	"Gabrielle Lisanne Iriks (3574)" -> "Andrew Newhouse (3569)" [label=176]
+	"Paul James Young (3573)" -> "Andrew Newhouse (3569)" [label=74]
+	"Mick Le-Cocq (3572)" -> "Andrew Newhouse (3569)" [label=40]
+	"Mick Le-Cocq (3572)" -> "Gabrielle Lisanne Iriks (3574)" [label=37]
+	"Paul James Young (3573)" -> "Bob Burdett (3575)" [label=22]
+	"Mick Le-Cocq (3572)" -> "Bob Burdett (3575)" [label=7]
+}

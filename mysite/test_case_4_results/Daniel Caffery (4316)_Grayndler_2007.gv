@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Daniel Caffery (4316)_Grayndler_2007" {
+	graph [label="Grayndler 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Daniel Caffery (4316)" [label="Daniel Caffery (4316)
+Liberal"]
+	"Saeed Khan (4319)" [label="Saeed Khan (4319)
+The Greens"]
+	"Pip Hinman (3745)" [label="Pip Hinman (3745)
+Socialist Alliance"]
+	"Jeffrey Gabriel (4320)" [label="Jeffrey Gabriel (4320)
+Democrats"]
+	"Ehab Hennien (4317)" [label="Ehab Hennien (4317)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick O'Connor (4318)" [label="Patrick O'Connor (4318)
+Socialist Equality Party"]
+	"Saeed Khan (4319)" -> "Daniel Caffery (4316)" [label=1984]
+	"Pip Hinman (3745)" -> "Saeed Khan (4319)" [label=685]
+	"Jeffrey Gabriel (4320)" -> "Pip Hinman (3745)" [label=122]
+	"Ehab Hennien (4317)" -> "Jeffrey Gabriel (4320)" [label=86]
+	"Patrick O'Connor (4318)" -> "Ehab Hennien (4317)" [label=16]
+	"Pip Hinman (3745)" -> "Daniel Caffery (4316)" [label=726]
+	"Jeffrey Gabriel (4320)" -> "Daniel Caffery (4316)" [label=259]
+	"Ehab Hennien (4317)" -> "Daniel Caffery (4316)" [label=545]
+	"Patrick O'Connor (4318)" -> "Daniel Caffery (4316)" [label=20]
+	"Patrick O'Connor (4318)" -> "Jeffrey Gabriel (4320)" [label=28]
+	"Ehab Hennien (4317)" -> "Pip Hinman (3745)" [label=69]
+	"Patrick O'Connor (4318)" -> "Pip Hinman (3745)" [label=99]
+	"Jeffrey Gabriel (4320)" -> "Saeed Khan (4319)" [label=781]
+	"Ehab Hennien (4317)" -> "Saeed Khan (4319)" [label=91]
+	"Patrick O'Connor (4318)" -> "Saeed Khan (4319)" [label=94]
+}

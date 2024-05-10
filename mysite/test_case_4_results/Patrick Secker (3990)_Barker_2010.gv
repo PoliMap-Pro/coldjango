@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Patrick Secker (3990)_Barker_2010" {
+	graph [label="Barker 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Patrick Secker (3990)" [label="Patrick Secker (3990)
+Liberal"]
+	"Sean Moffat (3992)" [label="Sean Moffat (3992)
+The Greens"]
+	"Trevor Honeychurch (3991)" [label="Trevor Honeychurch (3991)
+Family First"]
+	"Steven Donald Davies (3989)" [label="Steven Donald Davies (3989)
+The Climate Sceptics"]
+	"Sean Moffat (3992)" -> "Patrick Secker (3990)" [label=3660]
+	"Trevor Honeychurch (3991)" -> "Sean Moffat (3992)" [label=1809]
+	"Steven Donald Davies (3989)" -> "Trevor Honeychurch (3991)" [label=479]
+	"Trevor Honeychurch (3991)" -> "Patrick Secker (3990)" [label=3330]
+	"Steven Donald Davies (3989)" -> "Patrick Secker (3990)" [label=478]
+	"Steven Donald Davies (3989)" -> "Sean Moffat (3992)" [label=233]
+}

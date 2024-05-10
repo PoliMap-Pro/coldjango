@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Peter Dutton (429)_Dickson_2007" {
+	graph [label="Dickson 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Dutton (429)" [label="Peter Dutton (429)
+Liberal"]
+	"Howard Nielsen (4514)" [label="Howard Nielsen (4514)
+The Greens"]
+	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
+Family First"]
+	"Peter Kerin (4515)" [label="Peter Kerin (4515)
+Democrats"]
+	"Connie Wood (4513)" [label="Connie Wood (4513)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brad Cornwell (4512)" [label="Brad Cornwell (4512)
+LDP"]
+	"Howard Nielsen (4514)" -> "Peter Dutton (429)" [label=1466]
+	"Dale Shuttleworth (4511)" -> "Howard Nielsen (4514)" [label=456]
+	"Peter Kerin (4515)" -> "Dale Shuttleworth (4511)" [label=72]
+	"Connie Wood (4513)" -> "Peter Kerin (4515)" [label=16]
+	"Brad Cornwell (4512)" -> "Connie Wood (4513)" [label=25]
+	"Dale Shuttleworth (4511)" -> "Peter Dutton (429)" [label=1517]
+	"Peter Kerin (4515)" -> "Peter Dutton (429)" [label=154]
+	"Connie Wood (4513)" -> "Peter Dutton (429)" [label=99]
+	"Brad Cornwell (4512)" -> "Peter Dutton (429)" [label=89]
+	"Brad Cornwell (4512)" -> "Peter Kerin (4515)" [label=15]
+	"Connie Wood (4513)" -> "Dale Shuttleworth (4511)" [label=143]
+	"Brad Cornwell (4512)" -> "Dale Shuttleworth (4511)" [label=40]
+	"Peter Kerin (4515)" -> "Howard Nielsen (4514)" [label=338]
+	"Connie Wood (4513)" -> "Howard Nielsen (4514)" [label=52]
+	"Brad Cornwell (4512)" -> "Howard Nielsen (4514)" [label=56]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "James Vassilopoulos (4997)_Fraser_2004" {
+	graph [label="Fraser 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
+Socialist Alliance"]
+}

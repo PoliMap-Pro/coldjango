@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Alicia Walker (900)_Higgins_2022" {
+	graph [label="Higgins 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Suzie Menoudakis (904)" [label="Suzie Menoudakis (904)
+Australian Federation Party"]
+	"Suzie Menoudakis (904)" -> "Alicia Walker (900)" [label=44]
+}

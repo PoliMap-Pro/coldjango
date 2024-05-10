@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Alan Boulton (5363)_Lilley_2004" {
+	graph [label="Lilley 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alan Boulton (5363)" [label="Alan Boulton (5363)
+Liberal"]
+	"Sue Meehan (5366)" [label="Sue Meehan (5366)
+The Greens"]
+	"Brad Hill (5364)" [label="Brad Hill (5364)
+Family First"]
+	"Dawn Forsyth (5365)" [label="Dawn Forsyth (5365)
+Australian Democrats"]
+	"Sue Meehan (5366)" -> "Alan Boulton (5363)" [label=1285]
+	"Brad Hill (5364)" -> "Sue Meehan (5366)" [label=412]
+	"Dawn Forsyth (5365)" -> "Brad Hill (5364)" [label=119]
+	"Brad Hill (5364)" -> "Alan Boulton (5363)" [label=1416]
+	"Dawn Forsyth (5365)" -> "Alan Boulton (5363)" [label=214]
+	"Dawn Forsyth (5365)" -> "Sue Meehan (5366)" [label=554]
+}

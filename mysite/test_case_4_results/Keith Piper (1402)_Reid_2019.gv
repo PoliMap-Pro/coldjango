@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Keith Piper (1402)_Reid_2019" {
+	graph [label="Reid 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Piper (1402)" [label="Keith Piper (1402)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
+Animal Justice Party"]
+	"Young Lee (1404)" [label="Young Lee (1404)
+United Australia Party"]
+	"Rohan Laxmanalal (272)" -> "Keith Piper (1402)" [label=282]
+	"Young Lee (1404)" -> "Rohan Laxmanalal (272)" [label=290]
+	"Young Lee (1404)" -> "Keith Piper (1402)" [label=237]
+}

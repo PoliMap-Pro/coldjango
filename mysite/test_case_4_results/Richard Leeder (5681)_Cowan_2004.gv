@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Richard Leeder (5681)_Cowan_2004" {
+	graph [label="Cowan 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Clem Winton (5682)" -> "Richard Leeder (5681)" [label=349]
+	"Sarah Gilfillan (5680)" -> "Clem Winton (5682)" [label=112]
+	"Basil Atkins (5679)" -> "Sarah Gilfillan (5680)" [label=59]
+	"Sarah Gilfillan (5680)" -> "Richard Leeder (5681)" [label=110]
+	"Basil Atkins (5679)" -> "Richard Leeder (5681)" [label=42]
+	"Basil Atkins (5679)" -> "Clem Winton (5682)" [label=34]
+}

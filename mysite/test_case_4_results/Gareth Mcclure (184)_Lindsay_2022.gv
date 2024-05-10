@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Gareth Mcclure (184)_Lindsay_2022" {
+	graph [label="Lindsay 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gareth Mcclure (184)" [label="Gareth Mcclure (184)
+Liberal Democrats"]
+}

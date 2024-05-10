@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Rabin Bangaar (793)_Cooper_2022" {
+	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+}

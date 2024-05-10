@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ken Nam (3860)_Watson_2010" {
+	graph [label="Watson 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ken Nam (3860)" [label="Ken Nam (3860)
+Liberal"]
+	"Christine Donayre (3861)" [label="Christine Donayre (3861)
+The Greens"]
+	"Mark Sharma (3859)" [label="Mark Sharma (3859)
+Independent"]
+	"Christine Donayre (3861)" -> "Ken Nam (3860)" [label=2078]
+	"Mark Sharma (3859)" -> "Christine Donayre (3861)" [label=594]
+	"Mark Sharma (3859)" -> "Ken Nam (3860)" [label=759]
+}

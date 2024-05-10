@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Kylie Bonanni (379)_Solomon_2022" {
+	graph [label="Solomon 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kylie Bonanni (379)" [label="Kylie Bonanni (379)
+Liberal Democrats"]
+	"Emily Lohse (383)" [label="Emily Lohse (383)
+Pauline Hanson's One Nation"]
+	"Tayla Elise Selfe (384)" [label="Tayla Elise Selfe (384)
+United Australia Party"]
+	"Emily Lohse (383)" -> "Kylie Bonanni (379)" [label=1696]
+	"Tayla Elise Selfe (384)" -> "Emily Lohse (383)" [label=1377]
+	"Tayla Elise Selfe (384)" -> "Kylie Bonanni (379)" [label=385]
+}

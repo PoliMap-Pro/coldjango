@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sam Eskaros (3866)_Werriwa_2010" {
+	graph [label="Werriwa 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sam Eskaros (3866)" [label="Sam Eskaros (3866)
+Liberal"]
+	"Lauren Moore (3865)" [label="Lauren Moore (3865)
+The Greens"]
+	"Lauren Moore (3865)" -> "Sam Eskaros (3866)" [label=3409]
+}

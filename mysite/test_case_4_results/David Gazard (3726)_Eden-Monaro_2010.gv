@@ -1,0 +1,40 @@
+// House preference flow
+digraph "David Gazard (3726)_Eden-Monaro_2010" {
+	graph [label="Eden-Monaro 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Gazard (3726)" [label="David Gazard (3726)
+Liberal"]
+	"Catherine Moore (2864)" [label="Catherine Moore (2864)
+The Greens"]
+	"Ray Buckley (2088)" [label="Ray Buckley (2088)
+Independent"]
+	"Olga Quilty (3725)" [label="Olga Quilty (3725)
+Liberal Democrats (LDP)"]
+	"Tom Gradwell (3728)" [label="Tom Gradwell (3728)
+Family First"]
+	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Fragiacomo (3727)" [label="Frank Fragiacomo (3727)
+Independent"]
+	"Catherine Moore (2864)" -> "David Gazard (3726)" [label=1553]
+	"Ray Buckley (2088)" -> "Catherine Moore (2864)" [label=689]
+	"Olga Quilty (3725)" -> "Ray Buckley (2088)" [label=149]
+	"Tom Gradwell (3728)" -> "Olga Quilty (3725)" [label=95]
+	"Ursula Bennett (2086)" -> "Tom Gradwell (3728)" [label=226]
+	"Frank Fragiacomo (3727)" -> "Ursula Bennett (2086)" [label=14]
+	"Ray Buckley (2088)" -> "David Gazard (3726)" [label=593]
+	"Olga Quilty (3725)" -> "David Gazard (3726)" [label=633]
+	"Tom Gradwell (3728)" -> "David Gazard (3726)" [label=278]
+	"Ursula Bennett (2086)" -> "David Gazard (3726)" [label=217]
+	"Frank Fragiacomo (3727)" -> "David Gazard (3726)" [label=75]
+	"Frank Fragiacomo (3727)" -> "Tom Gradwell (3728)" [label=22]
+	"Ursula Bennett (2086)" -> "Olga Quilty (3725)" [label=33]
+	"Frank Fragiacomo (3727)" -> "Olga Quilty (3725)" [label=45]
+	"Tom Gradwell (3728)" -> "Ray Buckley (2088)" [label=294]
+	"Ursula Bennett (2086)" -> "Ray Buckley (2088)" [label=40]
+	"Frank Fragiacomo (3727)" -> "Ray Buckley (2088)" [label=292]
+	"Olga Quilty (3725)" -> "Catherine Moore (2864)" [label=113]
+	"Tom Gradwell (3728)" -> "Catherine Moore (2864)" [label=165]
+	"Ursula Bennett (2086)" -> "Catherine Moore (2864)" [label=64]
+	"Frank Fragiacomo (3727)" -> "Catherine Moore (2864)" [label=31]
+}

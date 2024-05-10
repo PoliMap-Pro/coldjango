@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jessica Ward (2643)_Jagajaga_2016" {
+	graph [label="Jagajaga 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jessica Ward (2643)" [label="Jessica Ward (2643)
+Family First Party"]
+	"Nathan Peter Schram (2646)" [label="Nathan Peter Schram (2646)
+Animal Justice Party"]
+	"Nathan Peter Schram (2646)" -> "Jessica Ward (2643)" [label=433]
+}

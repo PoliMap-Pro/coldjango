@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Matt Bansemer (754)_Bendigo_2022" {
+	graph [label="Bendigo 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matt Bansemer (754)" [label="Matt Bansemer (754)
+Liberal Democrats"]
+}

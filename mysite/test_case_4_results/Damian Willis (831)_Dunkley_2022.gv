@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Damian Willis (831)_Dunkley_2022" {
+	graph [label="Dunkley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Damian Willis (831)" [label="Damian Willis (831)
+Liberal Democrats"]
+	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
+Animal Justice Party"]
+	"Kathryn Woods (836)" [label="Kathryn Woods (836)
+Australian Federation Party"]
+	"Elizabeth Johnston (832)" -> "Damian Willis (831)" [label=75]
+	"Kathryn Woods (836)" -> "Elizabeth Johnston (832)" [label=56]
+	"Kathryn Woods (836)" -> "Damian Willis (831)" [label=70]
+}

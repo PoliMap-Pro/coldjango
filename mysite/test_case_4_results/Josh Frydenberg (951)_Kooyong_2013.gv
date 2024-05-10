@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Josh Frydenberg (951)_Kooyong_2013" {
+	graph [label="Kooyong 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Josh Frydenberg (951)" [label="Josh Frydenberg (951)
+Liberal"]
+	"Helen Mcleod (2647)" [label="Helen Mcleod (2647)
+The Greens"]
+	"Tiffany Harrison (3469)" [label="Tiffany Harrison (3469)
+Independent"]
+	"Luke Gerard Mcnamara (3470)" [label="Luke Gerard Mcnamara (3470)
+Palmer United Party"]
+	"Jaxon Calder (3473)" [label="Jaxon Calder (3473)
+Family First Party"]
+	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+Independent"]
+	"Tim Kriedemann (3471)" [label="Tim Kriedemann (3471)
+Rise Up Australia Party"]
+	"Helen Mcleod (2647)" -> "Josh Frydenberg (951)" [label=2670]
+	"Tiffany Harrison (3469)" -> "Helen Mcleod (2647)" [label=1010]
+	"Luke Gerard Mcnamara (3470)" -> "Tiffany Harrison (3469)" [label=371]
+	"Jaxon Calder (3473)" -> "Luke Gerard Mcnamara (3470)" [label=119]
+	"Angelina Zubac (1850)" -> "Jaxon Calder (3473)" [label=27]
+	"Tim Kriedemann (3471)" -> "Angelina Zubac (1850)" [label=22]
+	"Tiffany Harrison (3469)" -> "Josh Frydenberg (951)" [label=823]
+	"Luke Gerard Mcnamara (3470)" -> "Josh Frydenberg (951)" [label=663]
+	"Jaxon Calder (3473)" -> "Josh Frydenberg (951)" [label=385]
+	"Angelina Zubac (1850)" -> "Josh Frydenberg (951)" [label=84]
+	"Tim Kriedemann (3471)" -> "Josh Frydenberg (951)" [label=77]
+	"Tim Kriedemann (3471)" -> "Jaxon Calder (3473)" [label=72]
+	"Angelina Zubac (1850)" -> "Luke Gerard Mcnamara (3470)" [label=23]
+	"Tim Kriedemann (3471)" -> "Luke Gerard Mcnamara (3470)" [label=54]
+	"Jaxon Calder (3473)" -> "Tiffany Harrison (3469)" [label=132]
+	"Angelina Zubac (1850)" -> "Tiffany Harrison (3469)" [label=279]
+	"Tim Kriedemann (3471)" -> "Tiffany Harrison (3469)" [label=27]
+	"Luke Gerard Mcnamara (3470)" -> "Helen Mcleod (2647)" [label=266]
+	"Jaxon Calder (3473)" -> "Helen Mcleod (2647)" [label=114]
+	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=127]
+	"Tim Kriedemann (3471)" -> "Helen Mcleod (2647)" [label=45]
+}

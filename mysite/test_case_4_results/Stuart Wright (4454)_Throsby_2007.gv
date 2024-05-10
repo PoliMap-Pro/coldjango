@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Stuart Wright (4454)_Throsby_2007" {
+	graph [label="Throsby 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stuart Wright (4454)" [label="Stuart Wright (4454)
+Liberal"]
+	"Peter Charles Moran (4451)" [label="Peter Charles Moran (4451)
+The Greens"]
+	"Scott Gordon Deakes (4453)" [label="Scott Gordon Deakes (4453)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Charles Moran (4451)" -> "Stuart Wright (4454)" [label=1491]
+	"Scott Gordon Deakes (4453)" -> "Peter Charles Moran (4451)" [label=352]
+	"Scott Gordon Deakes (4453)" -> "Stuart Wright (4454)" [label=1591]
+}

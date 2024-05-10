@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bill Shailer (2982)_Reid_2013" {
+	graph [label="Reid 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bill Shailer (2982)" [label="Bill Shailer (2982)
+Christian Democratic Party (Fred Nile Group)"]
+	"Raymond Palmer (2977)" [label="Raymond Palmer (2977)
+Australian Independents"]
+	"Emily Dunn (2981)" [label="Emily Dunn (2981)
+Democratic Labour Party (DLP)"]
+	"Bishrul Hafi Ameer Izadeen (2979)" [label="Bishrul Hafi Ameer Izadeen (2979)
+Katter's Australian Party"]
+	"Raymond Palmer (2977)" -> "Bill Shailer (2982)" [label=84]
+	"Emily Dunn (2981)" -> "Raymond Palmer (2977)" [label=59]
+	"Bishrul Hafi Ameer Izadeen (2979)" -> "Emily Dunn (2981)" [label=13]
+	"Emily Dunn (2981)" -> "Bill Shailer (2982)" [label=80]
+	"Bishrul Hafi Ameer Izadeen (2979)" -> "Bill Shailer (2982)" [label=19]
+	"Bishrul Hafi Ameer Izadeen (2979)" -> "Raymond Palmer (2977)" [label=31]
+}

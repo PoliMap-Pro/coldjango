@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Linda Mccarthy (473)_Forde_2022" {
+	graph [label="Forde 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Linda Mccarthy (473)" [label="Linda Mccarthy (473)
+Animal Justice Party"]
+	"Samuel Holland (468)" [label="Samuel Holland (468)
+TNL"]
+	"Samuel Holland (468)" -> "Linda Mccarthy (473)" [label=48]
+}

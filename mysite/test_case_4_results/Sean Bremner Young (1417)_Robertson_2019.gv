@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sean Bremner Young (1417)_Robertson_2019" {
+	graph [label="Robertson 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sean Bremner Young (1417)" [label="Sean Bremner Young (1417)
+Animal Justice Party"]
+	"Judy Singer (1414)" [label="Judy Singer (1414)
+Sustainable Australia"]
+	"Fiona Phoebe Stucken (1415)" [label="Fiona Phoebe Stucken (1415)
+Christian Democratic Party (Fred Nile Group)"]
+	"Judy Singer (1414)" -> "Sean Bremner Young (1417)" [label=216]
+	"Fiona Phoebe Stucken (1415)" -> "Judy Singer (1414)" [label=109]
+	"Fiona Phoebe Stucken (1415)" -> "Sean Bremner Young (1417)" [label=48]
+}

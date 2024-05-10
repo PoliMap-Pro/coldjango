@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Matt Stellino (1351)_Macarthur_2019" {
+	graph [label="Macarthur 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matt Stellino (1351)" [label="Matt Stellino (1351)
+Animal Justice Party"]
+}

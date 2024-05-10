@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Matthew Mcmillan (612)_Adelaide_2022" {
+	graph [label="Adelaide 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Mcmillan (612)" [label="Matthew Mcmillan (612)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Faith Gerhard (614)" [label="Faith Gerhard (614)
+Australian Federation Party"]
+	"Faith Gerhard (614)" -> "Matthew Mcmillan (612)" [label=125]
+}

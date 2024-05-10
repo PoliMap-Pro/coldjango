@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Sarah Mcmahon (5215)_Reid_2004" {
+	graph [label="Reid 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sarah Mcmahon (5215)" [label="Sarah Mcmahon (5215)
+Liberal"]
+	"Nicholas Khoury (5211)" [label="Nicholas Khoury (5211)
+No GST"]
+	"Wafaa Salti (5217)" [label="Wafaa Salti (5217)
+The Greens"]
+	"Kylie Mary Laurence (5214)" [label="Kylie Mary Laurence (5214)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neville Williams (5213)" [label="Neville Williams (5213)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Tony Yoo (5216)" [label="Tony Yoo (5216)
+Australian Democrats"]
+	"Lisa Macdonald (5212)" [label="Lisa Macdonald (5212)
+Socialist Alliance"]
+	"Nicholas Khoury (5211)" -> "Sarah Mcmahon (5215)" [label=1540]
+	"Wafaa Salti (5217)" -> "Nicholas Khoury (5211)" [label=855]
+	"Kylie Mary Laurence (5214)" -> "Wafaa Salti (5217)" [label=220]
+	"Neville Williams (5213)" -> "Kylie Mary Laurence (5214)" [label=265]
+	"Tony Yoo (5216)" -> "Neville Williams (5213)" [label=29]
+	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
+	"Wafaa Salti (5217)" -> "Sarah Mcmahon (5215)" [label=766]
+	"Kylie Mary Laurence (5214)" -> "Sarah Mcmahon (5215)" [label=1308]
+	"Neville Williams (5213)" -> "Sarah Mcmahon (5215)" [label=360]
+	"Tony Yoo (5216)" -> "Sarah Mcmahon (5215)" [label=156]
+	"Lisa Macdonald (5212)" -> "Sarah Mcmahon (5215)" [label=32]
+	"Lisa Macdonald (5212)" -> "Neville Williams (5213)" [label=104]
+	"Tony Yoo (5216)" -> "Kylie Mary Laurence (5214)" [label=52]
+	"Lisa Macdonald (5212)" -> "Kylie Mary Laurence (5214)" [label=79]
+	"Neville Williams (5213)" -> "Wafaa Salti (5217)" [label=131]
+	"Tony Yoo (5216)" -> "Wafaa Salti (5217)" [label=321]
+	"Lisa Macdonald (5212)" -> "Wafaa Salti (5217)" [label=133]
+	"Kylie Mary Laurence (5214)" -> "Nicholas Khoury (5211)" [label=486]
+	"Neville Williams (5213)" -> "Nicholas Khoury (5211)" [label=349]
+	"Tony Yoo (5216)" -> "Nicholas Khoury (5211)" [label=85]
+	"Lisa Macdonald (5212)" -> "Nicholas Khoury (5211)" [label=217]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Danna Vale (4326)_Hughes_2007" {
+	graph [label="Hughes 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Danna Vale (4326)" [label="Danna Vale (4326)
+Liberal"]
+	"Jamie Paterson (4328)" [label="Jamie Paterson (4328)
+The Greens"]
+	"John Vanderjagt (4330)" [label="John Vanderjagt (4330)
+Christian Democratic Party (Fred Nile Group)"]
+	"Julie Mezyed (4327)" [label="Julie Mezyed (4327)
+Family First"]
+	"Jamie Paterson (4328)" -> "Danna Vale (4326)" [label=1235]
+	"John Vanderjagt (4330)" -> "Jamie Paterson (4328)" [label=309]
+	"Julie Mezyed (4327)" -> "John Vanderjagt (4330)" [label=184]
+	"John Vanderjagt (4330)" -> "Danna Vale (4326)" [label=1685]
+	"Julie Mezyed (4327)" -> "Danna Vale (4326)" [label=308]
+	"Julie Mezyed (4327)" -> "Jamie Paterson (4328)" [label=281]
+}

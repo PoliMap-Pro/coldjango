@@ -1,0 +1,70 @@
+// House preference flow
+digraph "Bob Baldwin (2975)_Paterson_2004" {
+	graph [label="Paterson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bob Baldwin (2975)" [label="Bob Baldwin (2975)
+Liberal"]
+	"Aina Ranke (5207)" [label="Aina Ranke (5207)
+The Greens"]
+	"Charlie Griffith (5204)" [label="Charlie Griffith (5204)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Bruce Mckenzie (5201)" [label="Bruce Mckenzie (5201)
+Ex-Service, Service & Veterans Party"]
+	"Mike Tuffy (5203)" [label="Mike Tuffy (5203)
+Independent"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Larissa Robb (5205)" [label="Larissa Robb (5205)
+Family First"]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Neil Smith (5202)" [label="Neil Smith (5202)
+Independent"]
+	"Aina Ranke (5207)" -> "Bob Baldwin (2975)" [label=913]
+	"Charlie Griffith (5204)" -> "Aina Ranke (5207)" [label=518]
+	"Bruce Mckenzie (5201)" -> "Charlie Griffith (5204)" [label=332]
+	"Mike Tuffy (5203)" -> "Bruce Mckenzie (5201)" [label=273]
+	"Paul Hennelly (3817)" -> "Mike Tuffy (5203)" [label=137]
+	"Tony King (4416)" -> "Paul Hennelly (3817)" [label=43]
+	"Larissa Robb (5205)" -> "Tony King (4416)" [label=49]
+	"Brett Paterson (3850)" -> "Larissa Robb (5205)" [label=43]
+	"Neil Smith (5202)" -> "Brett Paterson (3850)" [label=15]
+	"Charlie Griffith (5204)" -> "Bob Baldwin (2975)" [label=1030]
+	"Bruce Mckenzie (5201)" -> "Bob Baldwin (2975)" [label=934]
+	"Mike Tuffy (5203)" -> "Bob Baldwin (2975)" [label=329]
+	"Paul Hennelly (3817)" -> "Bob Baldwin (2975)" [label=176]
+	"Tony King (4416)" -> "Bob Baldwin (2975)" [label=122]
+	"Larissa Robb (5205)" -> "Bob Baldwin (2975)" [label=286]
+	"Brett Paterson (3850)" -> "Bob Baldwin (2975)" [label=126]
+	"Neil Smith (5202)" -> "Bob Baldwin (2975)" [label=39]
+	"Neil Smith (5202)" -> "Larissa Robb (5205)" [label=6]
+	"Brett Paterson (3850)" -> "Tony King (4416)" [label=24]
+	"Neil Smith (5202)" -> "Tony King (4416)" [label=4]
+	"Larissa Robb (5205)" -> "Paul Hennelly (3817)" [label=32]
+	"Brett Paterson (3850)" -> "Paul Hennelly (3817)" [label=23]
+	"Neil Smith (5202)" -> "Paul Hennelly (3817)" [label=34]
+	"Tony King (4416)" -> "Mike Tuffy (5203)" [label=79]
+	"Larissa Robb (5205)" -> "Mike Tuffy (5203)" [label=46]
+	"Brett Paterson (3850)" -> "Mike Tuffy (5203)" [label=72]
+	"Neil Smith (5202)" -> "Mike Tuffy (5203)" [label=126]
+	"Paul Hennelly (3817)" -> "Bruce Mckenzie (5201)" [label=215]
+	"Tony King (4416)" -> "Bruce Mckenzie (5201)" [label=68]
+	"Larissa Robb (5205)" -> "Bruce Mckenzie (5201)" [label=52]
+	"Brett Paterson (3850)" -> "Bruce Mckenzie (5201)" [label=52]
+	"Neil Smith (5202)" -> "Bruce Mckenzie (5201)" [label=76]
+	"Mike Tuffy (5203)" -> "Charlie Griffith (5204)" [label=164]
+	"Paul Hennelly (3817)" -> "Charlie Griffith (5204)" [label=129]
+	"Tony King (4416)" -> "Charlie Griffith (5204)" [label=109]
+	"Larissa Robb (5205)" -> "Charlie Griffith (5204)" [label=70]
+	"Brett Paterson (3850)" -> "Charlie Griffith (5204)" [label=45]
+	"Neil Smith (5202)" -> "Charlie Griffith (5204)" [label=15]
+	"Bruce Mckenzie (5201)" -> "Aina Ranke (5207)" [label=216]
+	"Mike Tuffy (5203)" -> "Aina Ranke (5207)" [label=135]
+	"Paul Hennelly (3817)" -> "Aina Ranke (5207)" [label=112]
+	"Tony King (4416)" -> "Aina Ranke (5207)" [label=75]
+	"Larissa Robb (5205)" -> "Aina Ranke (5207)" [label=85]
+	"Brett Paterson (3850)" -> "Aina Ranke (5207)" [label=93]
+	"Neil Smith (5202)" -> "Aina Ranke (5207)" [label=14]
+}

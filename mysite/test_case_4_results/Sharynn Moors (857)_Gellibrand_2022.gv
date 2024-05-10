@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Sharynn Moors (857)_Gellibrand_2022" {
+	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sharynn Moors (857)" [label="Sharynn Moors (857)
+Australian Federation Party"]
+}

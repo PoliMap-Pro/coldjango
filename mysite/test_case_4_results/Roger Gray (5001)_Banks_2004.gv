@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Roger Gray (5001)_Banks_2004" {
+	graph [label="Banks 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Roger Gray (5001)" [label="Roger Gray (5001)
+Liberal"]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
+Family First"]
+	"Stephen Makin (5000)" -> "Roger Gray (5001)" [label=1726]
+	"Janne Peterson (5004)" -> "Stephen Makin (5000)" [label=343]
+	"Harry Stavrinos (4262)" -> "Janne Peterson (5004)" [label=253]
+	"Mark Clyburn (5003)" -> "Harry Stavrinos (4262)" [label=53]
+	"Greg Briscoe-Hough (5002)" -> "Mark Clyburn (5003)" [label=78]
+	"Janne Peterson (5004)" -> "Roger Gray (5001)" [label=2049]
+	"Harry Stavrinos (4262)" -> "Roger Gray (5001)" [label=870]
+	"Mark Clyburn (5003)" -> "Roger Gray (5001)" [label=168]
+	"Greg Briscoe-Hough (5002)" -> "Roger Gray (5001)" [label=174]
+	"Greg Briscoe-Hough (5002)" -> "Harry Stavrinos (4262)" [label=74]
+	"Mark Clyburn (5003)" -> "Janne Peterson (5004)" [label=64]
+	"Greg Briscoe-Hough (5002)" -> "Janne Peterson (5004)" [label=106]
+	"Harry Stavrinos (4262)" -> "Stephen Makin (5000)" [label=852]
+	"Mark Clyburn (5003)" -> "Stephen Makin (5000)" [label=215]
+	"Greg Briscoe-Hough (5002)" -> "Stephen Makin (5000)" [label=112]
+}

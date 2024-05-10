@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Garth Pywell (235)_Newcastle_2022" {
+	graph [label="Newcastle 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Garth Pywell (235)" [label="Garth Pywell (235)
+Australian Federation Party"]
+}

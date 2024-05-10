@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michael Keenan (2775)_Stirling_2010" {
+	graph [label="Stirling 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Keenan (2775)" [label="Michael Keenan (2775)
+Liberal"]
+	"Chris Martin (4221)" [label="Chris Martin (4221)
+The Greens"]
+	"Elizabeth Re (2005)" [label="Elizabeth Re (2005)
+Independent"]
+	"Jenny Whately (4223)" [label="Jenny Whately (4223)
+Christian Democratic Party"]
+	"Peter Clifford (4224)" [label="Peter Clifford (4224)
+Family First"]
+	"Chris Martin (4221)" -> "Michael Keenan (2775)" [label=2396]
+	"Elizabeth Re (2005)" -> "Chris Martin (4221)" [label=911]
+	"Jenny Whately (4223)" -> "Elizabeth Re (2005)" [label=335]
+	"Peter Clifford (4224)" -> "Jenny Whately (4223)" [label=203]
+	"Elizabeth Re (2005)" -> "Michael Keenan (2775)" [label=838]
+	"Jenny Whately (4223)" -> "Michael Keenan (2775)" [label=1113]
+	"Peter Clifford (4224)" -> "Michael Keenan (2775)" [label=200]
+	"Peter Clifford (4224)" -> "Elizabeth Re (2005)" [label=149]
+	"Jenny Whately (4223)" -> "Chris Martin (4221)" [label=178]
+	"Peter Clifford (4224)" -> "Chris Martin (4221)" [label=182]
+}

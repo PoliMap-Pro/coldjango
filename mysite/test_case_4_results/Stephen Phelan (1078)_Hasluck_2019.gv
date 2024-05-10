@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Stephen Phelan (1078)_Hasluck_2019" {
+	graph [label="Hasluck 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+}

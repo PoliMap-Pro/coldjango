@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Lawrence Pope (1892)_Melbourne_2019" {
+	graph [label="Melbourne 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lawrence Pope (1892)" [label="Lawrence Pope (1892)
+Animal Justice Party"]
+	"Dave Blake (1891)" [label="Dave Blake (1891)
+Independent"]
+	"Tony Pecora (1895)" [label="Tony Pecora (1895)
+United Australia Party"]
+	"Dave Blake (1891)" -> "Lawrence Pope (1892)" [label=185]
+	"Tony Pecora (1895)" -> "Dave Blake (1891)" [label=140]
+	"Tony Pecora (1895)" -> "Lawrence Pope (1892)" [label=100]
+}

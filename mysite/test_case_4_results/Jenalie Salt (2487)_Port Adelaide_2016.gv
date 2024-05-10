@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jenalie Salt (2487)_Port Adelaide_2016" {
+	graph [label="Port Adelaide 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
+Christian Democratic Party (Fred Nile Group)"]
+}

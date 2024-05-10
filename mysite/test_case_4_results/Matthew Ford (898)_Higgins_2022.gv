@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Matthew Ford (898)_Higgins_2022" {
+	graph [label="Higgins 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Ford (898)" [label="Matthew Ford (898)
+Liberal Democrats"]
+	"Ingram Magnus Spencer (899)" [label="Ingram Magnus Spencer (899)
+United Australia Party"]
+	"Andrew Johnson (902)" [label="Andrew Johnson (902)
+Reason Australia"]
+	"Alicia Walker (900)" [label="Alicia Walker (900)
+Animal Justice Party"]
+	"Suzie Menoudakis (904)" [label="Suzie Menoudakis (904)
+Australian Federation Party"]
+	"Ingram Magnus Spencer (899)" -> "Matthew Ford (898)" [label=1167]
+	"Andrew Johnson (902)" -> "Ingram Magnus Spencer (899)" [label=103]
+	"Alicia Walker (900)" -> "Andrew Johnson (902)" [label=182]
+	"Suzie Menoudakis (904)" -> "Alicia Walker (900)" [label=44]
+	"Andrew Johnson (902)" -> "Matthew Ford (898)" [label=130]
+	"Alicia Walker (900)" -> "Matthew Ford (898)" [label=67]
+	"Suzie Menoudakis (904)" -> "Matthew Ford (898)" [label=156]
+	"Suzie Menoudakis (904)" -> "Andrew Johnson (902)" [label=49]
+	"Alicia Walker (900)" -> "Ingram Magnus Spencer (899)" [label=136]
+	"Suzie Menoudakis (904)" -> "Ingram Magnus Spencer (899)" [label=98]
+}

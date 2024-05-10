@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Beth Smith (2846)_Cook_2007" {
+	graph [label="Cook 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Richard Putral (3715)" [label="Richard Putral (3715)
+One Nation"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Ari Katsoulas (4284)" [label="Ari Katsoulas (4284)
+Family First"]
+	"Patricia Poulos (4285)" [label="Patricia Poulos (4285)
+Independent"]
+	"Richard Putral (3715)" -> "Beth Smith (2846)" [label=294]
+	"Graeme Strang (2848)" -> "Richard Putral (3715)" [label=72]
+	"Ari Katsoulas (4284)" -> "Graeme Strang (2848)" [label=159]
+	"Patricia Poulos (4285)" -> "Ari Katsoulas (4284)" [label=90]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=88]
+	"Ari Katsoulas (4284)" -> "Beth Smith (2846)" [label=92]
+	"Patricia Poulos (4285)" -> "Beth Smith (2846)" [label=23]
+	"Patricia Poulos (4285)" -> "Graeme Strang (2848)" [label=127]
+	"Ari Katsoulas (4284)" -> "Richard Putral (3715)" [label=43]
+	"Patricia Poulos (4285)" -> "Richard Putral (3715)" [label=9]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Bethany Rachael Mcalpine (2193)_Page_2016" {
+	graph [label="Page 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bethany Rachael Mcalpine (2193)" [label="Bethany Rachael Mcalpine (2193)
+Christian Democratic Party (Fred Nile Group)"]
+}

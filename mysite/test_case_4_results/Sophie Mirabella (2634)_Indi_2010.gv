@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Sophie Mirabella (2634)_Indi_2010" {
+	graph [label="Indi 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sophie Mirabella (2634)" [label="Sophie Mirabella (2634)
+Liberal"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+Australian Greens"]
+	"Alan Lappin (4102)" [label="Alan Lappin (4102)
+Independent"]
+	"Robert Cavedon (4105)" [label="Robert Cavedon (4105)
+Family First"]
+	"Mark Carey (4104)" [label="Mark Carey (4104)
+Australian Democrats"]
+	"Jenny O'Connor (2635)" -> "Sophie Mirabella (2634)" [label=2526]
+	"Alan Lappin (4102)" -> "Jenny O'Connor (2635)" [label=2653]
+	"Robert Cavedon (4105)" -> "Alan Lappin (4102)" [label=803]
+	"Mark Carey (4104)" -> "Robert Cavedon (4105)" [label=84]
+	"Alan Lappin (4102)" -> "Sophie Mirabella (2634)" [label=1749]
+	"Robert Cavedon (4105)" -> "Sophie Mirabella (2634)" [label=1734]
+	"Mark Carey (4104)" -> "Sophie Mirabella (2634)" [label=191]
+	"Mark Carey (4104)" -> "Alan Lappin (4102)" [label=275]
+	"Robert Cavedon (4105)" -> "Jenny O'Connor (2635)" [label=315]
+	"Mark Carey (4104)" -> "Jenny O'Connor (2635)" [label=231]
+}

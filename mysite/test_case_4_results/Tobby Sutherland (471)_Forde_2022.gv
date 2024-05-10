@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tobby Sutherland (471)_Forde_2022" {
+	graph [label="Forde 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tobby Sutherland (471)" [label="Tobby Sutherland (471)
+Liberal Democrats"]
+	"Linda Mccarthy (473)" [label="Linda Mccarthy (473)
+Animal Justice Party"]
+	"Samuel Holland (468)" [label="Samuel Holland (468)
+TNL"]
+	"Linda Mccarthy (473)" -> "Tobby Sutherland (471)" [label=101]
+	"Samuel Holland (468)" -> "Linda Mccarthy (473)" [label=48]
+	"Samuel Holland (468)" -> "Tobby Sutherland (471)" [label=46]
+}

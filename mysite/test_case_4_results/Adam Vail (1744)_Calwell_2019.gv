@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Adam Vail (1744)_Calwell_2019" {
+	graph [label="Calwell 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Vail (1744)" [label="Adam Vail (1744)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Byrne (1746)" [label="Peter Byrne (1746)
+Socialist Equality Party"]
+	"Peter Byrne (1746)" -> "Adam Vail (1744)" [label=61]
+}

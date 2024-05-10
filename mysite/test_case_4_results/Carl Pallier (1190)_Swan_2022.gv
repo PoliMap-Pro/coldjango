@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Carl Pallier (1190)_Swan_2022" {
+	graph [label="Swan 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carl Pallier (1190)" [label="Carl Pallier (1190)
+Australian Federation Party"]
+}

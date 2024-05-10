@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Sam Wainwright (1130)_Fremantle_2019" {
+	graph [label="Fremantle 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+}

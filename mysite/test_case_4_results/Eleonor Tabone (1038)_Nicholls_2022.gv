@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Eleonor Tabone (1038)_Nicholls_2022" {
+	graph [label="Nicholls 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
+Australian Federation Party"]
+}

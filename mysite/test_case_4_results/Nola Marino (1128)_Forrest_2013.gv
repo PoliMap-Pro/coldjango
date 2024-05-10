@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Nola Marino (1128)_Forrest_2013" {
+	graph [label="Forrest 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nola Marino (1128)" [label="Nola Marino (1128)
+Liberal"]
+	"Gordon Tayler (3604)" [label="Gordon Tayler (3604)
+The Greens (WA)"]
+	"Michael Rose (3606)" [label="Michael Rose (3606)
+The Nationals"]
+	"Edward Gregory Dabrowski (3607)" [label="Edward Gregory Dabrowski (3607)
+Palmer United Party"]
+	"Wayne Barnett (3603)" [label="Wayne Barnett (3603)
+Australian Christians"]
+	"Bev Custers (3601)" [label="Bev Custers (3601)
+Family First Party"]
+	"Mark Morien (3602)" [label="Mark Morien (3602)
+Rise Up Australia Party"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Gordon Tayler (3604)" -> "Nola Marino (1128)" [label=3990]
+	"Michael Rose (3606)" -> "Gordon Tayler (3604)" [label=2391]
+	"Edward Gregory Dabrowski (3607)" -> "Michael Rose (3606)" [label=1965]
+	"Wayne Barnett (3603)" -> "Edward Gregory Dabrowski (3607)" [label=511]
+	"Bev Custers (3601)" -> "Wayne Barnett (3603)" [label=310]
+	"Mark Morien (3602)" -> "Bev Custers (3601)" [label=96]
+	"Ian Tuffnell (3605)" -> "Mark Morien (3602)" [label=23]
+	"Michael Rose (3606)" -> "Nola Marino (1128)" [label=4141]
+	"Edward Gregory Dabrowski (3607)" -> "Nola Marino (1128)" [label=1319]
+	"Wayne Barnett (3603)" -> "Nola Marino (1128)" [label=678]
+	"Bev Custers (3601)" -> "Nola Marino (1128)" [label=294]
+	"Mark Morien (3602)" -> "Nola Marino (1128)" [label=110]
+	"Ian Tuffnell (3605)" -> "Nola Marino (1128)" [label=26]
+	"Ian Tuffnell (3605)" -> "Bev Custers (3601)" [label=24]
+	"Mark Morien (3602)" -> "Wayne Barnett (3603)" [label=129]
+	"Ian Tuffnell (3605)" -> "Wayne Barnett (3603)" [label=17]
+	"Bev Custers (3601)" -> "Edward Gregory Dabrowski (3607)" [label=140]
+	"Mark Morien (3602)" -> "Edward Gregory Dabrowski (3607)" [label=92]
+	"Ian Tuffnell (3605)" -> "Edward Gregory Dabrowski (3607)" [label=21]
+	"Wayne Barnett (3603)" -> "Michael Rose (3606)" [label=263]
+	"Bev Custers (3601)" -> "Michael Rose (3606)" [label=104]
+	"Mark Morien (3602)" -> "Michael Rose (3606)" [label=54]
+	"Ian Tuffnell (3605)" -> "Michael Rose (3606)" [label=38]
+	"Edward Gregory Dabrowski (3607)" -> "Gordon Tayler (3604)" [label=778]
+	"Wayne Barnett (3603)" -> "Gordon Tayler (3604)" [label=218]
+	"Bev Custers (3601)" -> "Gordon Tayler (3604)" [label=266]
+	"Mark Morien (3602)" -> "Gordon Tayler (3604)" [label=59]
+	"Ian Tuffnell (3605)" -> "Gordon Tayler (3604)" [label=36]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kent Johns (3037)_Werriwa_2013" {
+	graph [label="Werriwa 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kent Johns (3037)" [label="Kent Johns (3037)
+Liberal"]
+	"Katryna Marie Thirup (3041)" [label="Katryna Marie Thirup (3041)
+Palmer United Party"]
+	"John Ramsay (3035)" [label="John Ramsay (3035)
+Christian Democratic Party (Fred Nile Group)"]
+	"Daniel Griffiths (3040)" [label="Daniel Griffiths (3040)
+The Greens"]
+	"Michael Byrne (3036)" [label="Michael Byrne (3036)
+Democratic Labour Party (DLP)"]
+	"Marella Harris (3038)" [label="Marella Harris (3038)
+One Nation"]
+	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
+Katter's Australian Party"]
+	"Katryna Marie Thirup (3041)" -> "Kent Johns (3037)" [label=2453]
+	"John Ramsay (3035)" -> "Katryna Marie Thirup (3041)" [label=600]
+	"Daniel Griffiths (3040)" -> "John Ramsay (3035)" [label=289]
+	"Michael Byrne (3036)" -> "Daniel Griffiths (3040)" [label=157]
+	"Marella Harris (3038)" -> "Michael Byrne (3036)" [label=96]
+	"Kerryn Ball (3042)" -> "Marella Harris (3038)" [label=67]
+	"John Ramsay (3035)" -> "Kent Johns (3037)" [label=2564]
+	"Daniel Griffiths (3040)" -> "Kent Johns (3037)" [label=407]
+	"Michael Byrne (3036)" -> "Kent Johns (3037)" [label=352]
+	"Marella Harris (3038)" -> "Kent Johns (3037)" [label=400]
+	"Kerryn Ball (3042)" -> "Kent Johns (3037)" [label=84]
+	"Kerryn Ball (3042)" -> "Michael Byrne (3036)" [label=32]
+	"Marella Harris (3038)" -> "Daniel Griffiths (3040)" [label=174]
+	"Kerryn Ball (3042)" -> "Daniel Griffiths (3040)" [label=85]
+	"Michael Byrne (3036)" -> "John Ramsay (3035)" [label=398]
+	"Marella Harris (3038)" -> "John Ramsay (3035)" [label=262]
+	"Kerryn Ball (3042)" -> "John Ramsay (3035)" [label=56]
+	"Daniel Griffiths (3040)" -> "Katryna Marie Thirup (3041)" [label=633]
+	"Michael Byrne (3036)" -> "Katryna Marie Thirup (3041)" [label=85]
+	"Marella Harris (3038)" -> "Katryna Marie Thirup (3041)" [label=322]
+	"Kerryn Ball (3042)" -> "Katryna Marie Thirup (3041)" [label=267]
+}

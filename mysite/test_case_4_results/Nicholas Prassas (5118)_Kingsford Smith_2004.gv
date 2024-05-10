@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Nicholas Prassas (5118)_Kingsford Smith_2004" {
+	graph [label="Kingsford Smith 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicholas Prassas (5118)" [label="Nicholas Prassas (5118)
+Liberal"]
+	"Hannah Robert (5117)" [label="Hannah Robert (5117)
+The Greens"]
+	"Charles Matthews (5113)" [label="Charles Matthews (5113)
+Independent"]
+	"Anna Winter (5116)" [label="Anna Winter (5116)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Nicole Tillotson (5115)" [label="Nicole Tillotson (5115)
+Australian Democrats"]
+	"Reg Stewart Gilroy (5114)" [label="Reg Stewart Gilroy (5114)
+No GST"]
+	"Maureen Frances (5119)" [label="Maureen Frances (5119)
+Socialist Alliance"]
+	"James Cogan (4278)" [label="James Cogan (4278)
+"]
+	"Hannah Robert (5117)" -> "Nicholas Prassas (5118)" [label=1463]
+	"Charles Matthews (5113)" -> "Hannah Robert (5117)" [label=670]
+	"Anna Winter (5116)" -> "Charles Matthews (5113)" [label=259]
+	"Nicole Tillotson (5115)" -> "Anna Winter (5116)" [label=83]
+	"Reg Stewart Gilroy (5114)" -> "Nicole Tillotson (5115)" [label=57]
+	"Maureen Frances (5119)" -> "Reg Stewart Gilroy (5114)" [label=4]
+	"James Cogan (4278)" -> "Maureen Frances (5119)" [label=10]
+	"Charles Matthews (5113)" -> "Nicholas Prassas (5118)" [label=1486]
+	"Anna Winter (5116)" -> "Nicholas Prassas (5118)" [label=296]
+	"Nicole Tillotson (5115)" -> "Nicholas Prassas (5118)" [label=126]
+	"Reg Stewart Gilroy (5114)" -> "Nicholas Prassas (5118)" [label=111]
+	"Maureen Frances (5119)" -> "Nicholas Prassas (5118)" [label=77]
+	"James Cogan (4278)" -> "Nicholas Prassas (5118)" [label=19]
+	"James Cogan (4278)" -> "Reg Stewart Gilroy (5114)" [label=25]
+	"Maureen Frances (5119)" -> "Nicole Tillotson (5115)" [label=11]
+	"James Cogan (4278)" -> "Nicole Tillotson (5115)" [label=15]
+	"Reg Stewart Gilroy (5114)" -> "Anna Winter (5116)" [label=67]
+	"Maureen Frances (5119)" -> "Anna Winter (5116)" [label=21]
+	"James Cogan (4278)" -> "Anna Winter (5116)" [label=8]
+	"Nicole Tillotson (5115)" -> "Charles Matthews (5113)" [label=150]
+	"Reg Stewart Gilroy (5114)" -> "Charles Matthews (5113)" [label=120]
+	"Maureen Frances (5119)" -> "Charles Matthews (5113)" [label=15]
+	"James Cogan (4278)" -> "Charles Matthews (5113)" [label=60]
+	"Anna Winter (5116)" -> "Hannah Robert (5117)" [label=209]
+	"Nicole Tillotson (5115)" -> "Hannah Robert (5117)" [label=265]
+	"Reg Stewart Gilroy (5114)" -> "Hannah Robert (5117)" [label=89]
+	"Maureen Frances (5119)" -> "Hannah Robert (5117)" [label=111]
+	"James Cogan (4278)" -> "Hannah Robert (5117)" [label=19]
+}

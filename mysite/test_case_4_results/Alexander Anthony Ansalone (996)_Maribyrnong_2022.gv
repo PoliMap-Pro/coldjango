@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Alexander Anthony Ansalone (996)_Maribyrnong_2022" {
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+}

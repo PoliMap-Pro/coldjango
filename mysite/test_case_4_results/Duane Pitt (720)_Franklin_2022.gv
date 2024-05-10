@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Duane Pitt (720)_Franklin_2022" {
+	graph [label="Franklin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Duane Pitt (720)" [label="Duane Pitt (720)
+Liberal Democrats"]
+	"Lisa Matthews (722)" [label="Lisa Matthews (722)
+United Australia Party"]
+	"Katrina Love (725)" [label="Katrina Love (725)
+Animal Justice Party"]
+	"Lisa Matthews (722)" -> "Duane Pitt (720)" [label=188]
+	"Katrina Love (725)" -> "Lisa Matthews (722)" [label=53]
+	"Katrina Love (725)" -> "Duane Pitt (720)" [label=23]
+}

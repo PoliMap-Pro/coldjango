@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Mark Hornshaw (191)_Lyne_2022" {
+	graph [label="Lyne 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mark Hornshaw (191)" [label="Mark Hornshaw (191)
+Liberal Democrats"]
+	"Steve Attkins (190)" [label="Steve Attkins (190)
+Independent"]
+	"Joel Putland (187)" [label="Joel Putland (187)
+United Australia Party"]
+	"Joanne Pearce (186)" [label="Joanne Pearce (186)
+Independent"]
+	"Steve Attkins (190)" -> "Mark Hornshaw (191)" [label=1079]
+	"Joel Putland (187)" -> "Steve Attkins (190)" [label=596]
+	"Joanne Pearce (186)" -> "Joel Putland (187)" [label=678]
+	"Joel Putland (187)" -> "Mark Hornshaw (191)" [label=1015]
+	"Joanne Pearce (186)" -> "Mark Hornshaw (191)" [label=107]
+	"Joanne Pearce (186)" -> "Steve Attkins (190)" [label=1590]
+}

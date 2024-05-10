@@ -1,0 +1,7 @@
+// House preference flow
+digraph "David Matthew Welsh (1025)_Monash_2022" {
+	graph [label="Monash 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Matthew Welsh (1025)" [label="David Matthew Welsh (1025)
+Australian Federation Party"]
+}

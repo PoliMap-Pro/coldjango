@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jacinta Price (1460)_Lingiari_2019" {
+	graph [label="Lingiari 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jacinta Price (1460)" [label="Jacinta Price (1460)
+Country Liberals (NT)"]
+	"George Hanna (1456)" [label="George Hanna (1456)
+The Greens"]
+	"Hamish Macfarlane (1459)" [label="Hamish Macfarlane (1459)
+Independent"]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
+	"Daniel Isaac Hodgson (1457)" [label="Daniel Isaac Hodgson (1457)
+United Australia Party"]
+	"George Hanna (1456)" -> "Jacinta Price (1460)" [label=1397]
+	"Hamish Macfarlane (1459)" -> "George Hanna (1456)" [label=953]
+	"Regina Mccarthy (1458)" -> "Hamish Macfarlane (1459)" [label=651]
+	"Daniel Isaac Hodgson (1457)" -> "Regina Mccarthy (1458)" [label=418]
+	"Hamish Macfarlane (1459)" -> "Jacinta Price (1460)" [label=1514]
+	"Regina Mccarthy (1458)" -> "Jacinta Price (1460)" [label=466]
+	"Daniel Isaac Hodgson (1457)" -> "Jacinta Price (1460)" [label=319]
+	"Daniel Isaac Hodgson (1457)" -> "Hamish Macfarlane (1459)" [label=298]
+	"Regina Mccarthy (1458)" -> "George Hanna (1456)" [label=224]
+	"Daniel Isaac Hodgson (1457)" -> "George Hanna (1456)" [label=129]
+}

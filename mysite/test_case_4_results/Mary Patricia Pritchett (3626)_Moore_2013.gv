@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Mary Patricia Pritchett (3626)_Moore_2013" {
+	graph [label="Moore 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mary Patricia Pritchett (3626)" [label="Mary Patricia Pritchett (3626)
+Rise Up Australia Party"]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kerry Bartlett (4371)_Macquarie_2007" {
+	graph [label="Macquarie 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kerry Bartlett (4371)" [label="Kerry Bartlett (4371)
+Liberal"]
+	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
+The Greens"]
+	"Tim Williams (4374)" [label="Tim Williams (4374)
+Independent"]
+	"Robert Gifford (4370)" [label="Robert Gifford (4370)
+Christian Democratic Party (Fred Nile Group)"]
+	"Charles Liptak (3761)" [label="Charles Liptak (3761)
+Family First"]
+	"Kirk Fletcher (4369)" [label="Kirk Fletcher (4369)
+LDP"]
+	"Michael Segedin (4373)" [label="Michael Segedin (4373)
+Citizens Electoral Council"]
+	"Carmel Mccallum (128)" -> "Kerry Bartlett (4371)" [label=1643]
+	"Tim Williams (4374)" -> "Carmel Mccallum (128)" [label=1792]
+	"Robert Gifford (4370)" -> "Tim Williams (4374)" [label=224]
+	"Charles Liptak (3761)" -> "Robert Gifford (4370)" [label=113]
+	"Kirk Fletcher (4369)" -> "Charles Liptak (3761)" [label=24]
+	"Michael Segedin (4373)" -> "Kirk Fletcher (4369)" [label=9]
+	"Tim Williams (4374)" -> "Kerry Bartlett (4371)" [label=1287]
+	"Robert Gifford (4370)" -> "Kerry Bartlett (4371)" [label=1372]
+	"Charles Liptak (3761)" -> "Kerry Bartlett (4371)" [label=120]
+	"Kirk Fletcher (4369)" -> "Kerry Bartlett (4371)" [label=59]
+	"Michael Segedin (4373)" -> "Kerry Bartlett (4371)" [label=12]
+	"Michael Segedin (4373)" -> "Charles Liptak (3761)" [label=11]
+	"Kirk Fletcher (4369)" -> "Robert Gifford (4370)" [label=206]
+	"Michael Segedin (4373)" -> "Robert Gifford (4370)" [label=7]
+	"Charles Liptak (3761)" -> "Tim Williams (4374)" [label=88]
+	"Kirk Fletcher (4369)" -> "Tim Williams (4374)" [label=27]
+	"Michael Segedin (4373)" -> "Tim Williams (4374)" [label=18]
+	"Robert Gifford (4370)" -> "Carmel Mccallum (128)" [label=104]
+	"Charles Liptak (3761)" -> "Carmel Mccallum (128)" [label=65]
+	"Kirk Fletcher (4369)" -> "Carmel Mccallum (128)" [label=17]
+	"Michael Segedin (4373)" -> "Carmel Mccallum (128)" [label=21]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Stephen Hartney (5525)_Chisholm_2004" {
+	graph [label="Chisholm 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Hartney (5525)" [label="Stephen Hartney (5525)
+Liberal"]
+	"Penny Harris (5528)" [label="Penny Harris (5528)
+Australian Greens"]
+	"James Bennett (2630)" [label="James Bennett (2630)
+Democrats"]
+	"Gary Ong (4100)" [label="Gary Ong (4100)
+Family First"]
+	"Owen Lysaght (5526)" [label="Owen Lysaght (5526)
+Independent"]
+	"Wayne Barwick (5527)" [label="Wayne Barwick (5527)
+Citizens Electoral Council"]
+	"Penny Harris (5528)" -> "Stephen Hartney (5525)" [label=1376]
+	"James Bennett (2630)" -> "Penny Harris (5528)" [label=655]
+	"Gary Ong (4100)" -> "James Bennett (2630)" [label=150]
+	"Owen Lysaght (5526)" -> "Gary Ong (4100)" [label=95]
+	"Wayne Barwick (5527)" -> "Owen Lysaght (5526)" [label=31]
+	"James Bennett (2630)" -> "Stephen Hartney (5525)" [label=348]
+	"Gary Ong (4100)" -> "Stephen Hartney (5525)" [label=944]
+	"Owen Lysaght (5526)" -> "Stephen Hartney (5525)" [label=216]
+	"Wayne Barwick (5527)" -> "Stephen Hartney (5525)" [label=21]
+	"Wayne Barwick (5527)" -> "Gary Ong (4100)" [label=10]
+	"Owen Lysaght (5526)" -> "James Bennett (2630)" [label=152]
+	"Wayne Barwick (5527)" -> "James Bennett (2630)" [label=19]
+	"Gary Ong (4100)" -> "Penny Harris (5528)" [label=152]
+	"Owen Lysaght (5526)" -> "Penny Harris (5528)" [label=176]
+	"Wayne Barwick (5527)" -> "Penny Harris (5528)" [label=33]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Olga Quilty (3725)_Eden-Monaro_2010" {
+	graph [label="Eden-Monaro 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Olga Quilty (3725)" [label="Olga Quilty (3725)
+Liberal Democrats (LDP)"]
+	"Tom Gradwell (3728)" [label="Tom Gradwell (3728)
+Family First"]
+	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Fragiacomo (3727)" [label="Frank Fragiacomo (3727)
+Independent"]
+	"Tom Gradwell (3728)" -> "Olga Quilty (3725)" [label=95]
+	"Ursula Bennett (2086)" -> "Tom Gradwell (3728)" [label=226]
+	"Frank Fragiacomo (3727)" -> "Ursula Bennett (2086)" [label=14]
+	"Ursula Bennett (2086)" -> "Olga Quilty (3725)" [label=33]
+	"Frank Fragiacomo (3727)" -> "Olga Quilty (3725)" [label=45]
+	"Frank Fragiacomo (3727)" -> "Tom Gradwell (3728)" [label=22]
+}

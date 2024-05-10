@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Alex Somlyay (3908)_Fairfax_2004" {
+	graph [label="Fairfax 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alex Somlyay (3908)" [label="Alex Somlyay (3908)
+Liberal"]
+	"David Norris (5321)" [label="David Norris (5321)
+The Greens"]
+	"Paula Hunt (5316)" [label="Paula Hunt (5316)
+Family First"]
+	"Patrick Rozanski (5318)" [label="Patrick Rozanski (5318)
+One Nation"]
+	"Debbie Campbell (5317)" [label="Debbie Campbell (5317)
+Australian Democrats"]
+	"Kev Watt (5319)" [label="Kev Watt (5319)
+Citizens Electoral Council"]
+	"David Norris (5321)" -> "Alex Somlyay (3908)" [label=2249]
+	"Paula Hunt (5316)" -> "David Norris (5321)" [label=930]
+	"Patrick Rozanski (5318)" -> "Paula Hunt (5316)" [label=960]
+	"Debbie Campbell (5317)" -> "Patrick Rozanski (5318)" [label=166]
+	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
+	"Paula Hunt (5316)" -> "Alex Somlyay (3908)" [label=2939]
+	"Patrick Rozanski (5318)" -> "Alex Somlyay (3908)" [label=730]
+	"Debbie Campbell (5317)" -> "Alex Somlyay (3908)" [label=419]
+	"Kev Watt (5319)" -> "Alex Somlyay (3908)" [label=40]
+	"Kev Watt (5319)" -> "Patrick Rozanski (5318)" [label=50]
+	"Debbie Campbell (5317)" -> "Paula Hunt (5316)" [label=224]
+	"Kev Watt (5319)" -> "Paula Hunt (5316)" [label=32]
+	"Patrick Rozanski (5318)" -> "David Norris (5321)" [label=376]
+	"Debbie Campbell (5317)" -> "David Norris (5321)" [label=745]
+	"Kev Watt (5319)" -> "David Norris (5321)" [label=34]
+}

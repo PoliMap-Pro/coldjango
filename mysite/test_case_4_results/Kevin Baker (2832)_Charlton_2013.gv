@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kevin Baker (2832)_Charlton_2013" {
+	graph [label="Charlton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Baker (2832)" [label="Kevin Baker (2832)
+Liberal"]
+	"Bronwyn Elizabeth Reid (2836)" [label="Bronwyn Elizabeth Reid (2836)
+Palmer United Party"]
+	"Dessie Kocher (2834)" [label="Dessie Kocher (2834)
+The Greens"]
+	"Steve Camilleri (2833)" [label="Steve Camilleri (2833)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Burston (2835)" [label="Brian Burston (2835)
+One Nation"]
+	"Trevor Anthoney (2123)" [label="Trevor Anthoney (2123)
+Bullet Train For Australia"]
+	"Bronwyn Elizabeth Reid (2836)" -> "Kevin Baker (2832)" [label=7454]
+	"Dessie Kocher (2834)" -> "Bronwyn Elizabeth Reid (2836)" [label=1443]
+	"Steve Camilleri (2833)" -> "Dessie Kocher (2834)" [label=314]
+	"Brian Burston (2835)" -> "Steve Camilleri (2833)" [label=242]
+	"Trevor Anthoney (2123)" -> "Brian Burston (2835)" [label=188]
+	"Dessie Kocher (2834)" -> "Kevin Baker (2832)" [label=918]
+	"Steve Camilleri (2833)" -> "Kevin Baker (2832)" [label=1510]
+	"Brian Burston (2835)" -> "Kevin Baker (2832)" [label=480]
+	"Trevor Anthoney (2123)" -> "Kevin Baker (2832)" [label=219]
+	"Trevor Anthoney (2123)" -> "Steve Camilleri (2833)" [label=55]
+	"Brian Burston (2835)" -> "Dessie Kocher (2834)" [label=283]
+	"Trevor Anthoney (2123)" -> "Dessie Kocher (2834)" [label=241]
+	"Steve Camilleri (2833)" -> "Bronwyn Elizabeth Reid (2836)" [label=736]
+	"Brian Burston (2835)" -> "Bronwyn Elizabeth Reid (2836)" [label=978]
+	"Trevor Anthoney (2123)" -> "Bronwyn Elizabeth Reid (2836)" [label=453]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Blake Phelan (1928)_Brand_2019" {
+	graph [label="Brand 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Karen-Lee Mills (1926)" -> "Blake Phelan (1928)" [label=114]
+}

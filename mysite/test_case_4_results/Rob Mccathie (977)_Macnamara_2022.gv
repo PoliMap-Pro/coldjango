@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rob Mccathie (977)_Macnamara_2022" {
+	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rob Mccathie (977)" [label="Rob Mccathie (977)
+Liberal Democrats"]
+	"John B Myers (973)" [label="John B Myers (973)
+Independent"]
+	"Ben Schultz (978)" [label="Ben Schultz (978)
+Animal Justice Party"]
+	"Debera Anne (976)" [label="Debera Anne (976)
+Pauline Hanson's One Nation"]
+	"John B Myers (973)" -> "Rob Mccathie (977)" [label=297]
+	"Ben Schultz (978)" -> "John B Myers (973)" [label=197]
+	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
+	"Ben Schultz (978)" -> "Rob Mccathie (977)" [label=84]
+	"Debera Anne (976)" -> "Rob Mccathie (977)" [label=302]
+	"Debera Anne (976)" -> "John B Myers (973)" [label=188]
+}

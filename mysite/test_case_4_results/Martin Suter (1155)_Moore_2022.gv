@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Martin Suter (1155)_Moore_2022" {
+	graph [label="Moore 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Martin Suter (1155)" [label="Martin Suter (1155)
+Australian Federation Party"]
+}

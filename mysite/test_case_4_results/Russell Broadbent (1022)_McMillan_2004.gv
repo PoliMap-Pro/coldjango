@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Russell Broadbent (1022)_McMillan_2004" {
+	graph [label="McMillan 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
+Liberal"]
+	"Bridget Mckenzie (5625)" [label="Bridget Mckenzie (5625)
+The Nationals"]
+	"Chris Aitken (5629)" [label="Chris Aitken (5629)
+Australian Greens"]
+	"Howard Emanuel (5623)" [label="Howard Emanuel (5623)
+Independent"]
+	"Harold Paul (5628)" [label="Harold Paul (5628)
+Family First"]
+	"A R Gizycki De Gozdawa (5621)" [label="A R Gizycki De Gozdawa (5621)
+One Nation"]
+	"Julie Grant (5624)" [label="Julie Grant (5624)
+Democrats"]
+	"Greg Byrne (5627)" [label="Greg Byrne (5627)
+D.L.P. - Democratic Labor Party"]
+	"Graeme Reid (5622)" [label="Graeme Reid (5622)
+Citizens Electoral Council"]
+	"Bridget Mckenzie (5625)" -> "Russell Broadbent (1022)" [label=6916]
+	"Chris Aitken (5629)" -> "Bridget Mckenzie (5625)" [label=754]
+	"Howard Emanuel (5623)" -> "Chris Aitken (5629)" [label=533]
+	"Harold Paul (5628)" -> "Howard Emanuel (5623)" [label=221]
+	"A R Gizycki De Gozdawa (5621)" -> "Harold Paul (5628)" [label=126]
+	"Julie Grant (5624)" -> "A R Gizycki De Gozdawa (5621)" [label=31]
+	"Greg Byrne (5627)" -> "Julie Grant (5624)" [label=13]
+	"Graeme Reid (5622)" -> "Greg Byrne (5627)" [label=4]
+	"Chris Aitken (5629)" -> "Russell Broadbent (1022)" [label=485]
+	"Howard Emanuel (5623)" -> "Russell Broadbent (1022)" [label=750]
+	"Harold Paul (5628)" -> "Russell Broadbent (1022)" [label=627]
+	"A R Gizycki De Gozdawa (5621)" -> "Russell Broadbent (1022)" [label=166]
+	"Julie Grant (5624)" -> "Russell Broadbent (1022)" [label=92]
+	"Greg Byrne (5627)" -> "Russell Broadbent (1022)" [label=39]
+	"Graeme Reid (5622)" -> "Russell Broadbent (1022)" [label=24]
+	"Graeme Reid (5622)" -> "Julie Grant (5624)" [label=8]
+	"Greg Byrne (5627)" -> "A R Gizycki De Gozdawa (5621)" [label=21]
+	"Graeme Reid (5622)" -> "A R Gizycki De Gozdawa (5621)" [label=36]
+	"Julie Grant (5624)" -> "Harold Paul (5628)" [label=27]
+	"Greg Byrne (5627)" -> "Harold Paul (5628)" [label=47]
+	"Graeme Reid (5622)" -> "Harold Paul (5628)" [label=6]
+	"A R Gizycki De Gozdawa (5621)" -> "Howard Emanuel (5623)" [label=590]
+	"Julie Grant (5624)" -> "Howard Emanuel (5623)" [label=123]
+	"Greg Byrne (5627)" -> "Howard Emanuel (5623)" [label=13]
+	"Graeme Reid (5622)" -> "Howard Emanuel (5623)" [label=27]
+	"Harold Paul (5628)" -> "Chris Aitken (5629)" [label=195]
+	"A R Gizycki De Gozdawa (5621)" -> "Chris Aitken (5629)" [label=74]
+	"Julie Grant (5624)" -> "Chris Aitken (5629)" [label=120]
+	"Greg Byrne (5627)" -> "Chris Aitken (5629)" [label=22]
+	"Graeme Reid (5622)" -> "Chris Aitken (5629)" [label=5]
+	"Howard Emanuel (5623)" -> "Bridget Mckenzie (5625)" [label=401]
+	"Harold Paul (5628)" -> "Bridget Mckenzie (5625)" [label=197]
+	"A R Gizycki De Gozdawa (5621)" -> "Bridget Mckenzie (5625)" [label=78]
+	"Julie Grant (5624)" -> "Bridget Mckenzie (5625)" [label=124]
+	"Greg Byrne (5627)" -> "Bridget Mckenzie (5625)" [label=52]
+	"Graeme Reid (5622)" -> "Bridget Mckenzie (5625)" [label=5]
+}

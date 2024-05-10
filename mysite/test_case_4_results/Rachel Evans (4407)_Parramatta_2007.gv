@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Rachel Evans (4407)_Parramatta_2007" {
+	graph [label="Parramatta 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rachel Evans (4407)" [label="Rachel Evans (4407)
+Socialist Alliance"]
+	"Rene Hernandez (4411)" [label="Rene Hernandez (4411)
+Family First"]
+	"Brian Buckley (4412)" [label="Brian Buckley (4412)
+Independent"]
+	"Graham Nickols (4408)" [label="Graham Nickols (4408)
+LDP"]
+	"Chris Gordon (3812)" [label="Chris Gordon (3812)
+Socialist Equality Party"]
+	"Alasdair Macdonald (4410)" [label="Alasdair Macdonald (4410)
+"]
+	"Rene Hernandez (4411)" -> "Rachel Evans (4407)" [label=114]
+	"Brian Buckley (4412)" -> "Rene Hernandez (4411)" [label=79]
+	"Graham Nickols (4408)" -> "Brian Buckley (4412)" [label=12]
+	"Chris Gordon (3812)" -> "Graham Nickols (4408)" [label=33]
+	"Alasdair Macdonald (4410)" -> "Chris Gordon (3812)" [label=4]
+	"Brian Buckley (4412)" -> "Rachel Evans (4407)" [label=72]
+	"Graham Nickols (4408)" -> "Rachel Evans (4407)" [label=92]
+	"Chris Gordon (3812)" -> "Rachel Evans (4407)" [label=106]
+	"Alasdair Macdonald (4410)" -> "Rachel Evans (4407)" [label=12]
+	"Alasdair Macdonald (4410)" -> "Graham Nickols (4408)" [label=11]
+	"Chris Gordon (3812)" -> "Brian Buckley (4412)" [label=11]
+	"Alasdair Macdonald (4410)" -> "Brian Buckley (4412)" [label=24]
+	"Graham Nickols (4408)" -> "Rene Hernandez (4411)" [label=15]
+	"Chris Gordon (3812)" -> "Rene Hernandez (4411)" [label=13]
+	"Alasdair Macdonald (4410)" -> "Rene Hernandez (4411)" [label=27]
+}

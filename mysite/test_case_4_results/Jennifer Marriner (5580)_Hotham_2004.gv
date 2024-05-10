@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jennifer Marriner (5580)_Hotham_2004" {
+	graph [label="Hotham 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jennifer Marriner (5580)" [label="Jennifer Marriner (5580)
+Liberal"]
+	"Kiera Perrott (5578)" [label="Kiera Perrott (5578)
+Australian Greens"]
+	"Roger Coombe (5577)" [label="Roger Coombe (5577)
+Family First"]
+	"Jessica Joss (5581)" [label="Jessica Joss (5581)
+Democrats"]
+	"Josephine Cox (5579)" [label="Josephine Cox (5579)
+Socialist Alliance"]
+	"Adam Ellery (5582)" [label="Adam Ellery (5582)
+Citizens Electoral Council"]
+	"Kiera Perrott (5578)" -> "Jennifer Marriner (5580)" [label=1661]
+	"Roger Coombe (5577)" -> "Kiera Perrott (5578)" [label=926]
+	"Jessica Joss (5581)" -> "Roger Coombe (5577)" [label=125]
+	"Josephine Cox (5579)" -> "Jessica Joss (5581)" [label=26]
+	"Adam Ellery (5582)" -> "Josephine Cox (5579)" [label=25]
+	"Roger Coombe (5577)" -> "Jennifer Marriner (5580)" [label=928]
+	"Jessica Joss (5581)" -> "Jennifer Marriner (5580)" [label=219]
+	"Josephine Cox (5579)" -> "Jennifer Marriner (5580)" [label=44]
+	"Adam Ellery (5582)" -> "Jennifer Marriner (5580)" [label=33]
+	"Adam Ellery (5582)" -> "Jessica Joss (5581)" [label=67]
+	"Josephine Cox (5579)" -> "Roger Coombe (5577)" [label=60]
+	"Adam Ellery (5582)" -> "Roger Coombe (5577)" [label=52]
+	"Jessica Joss (5581)" -> "Kiera Perrott (5578)" [label=352]
+	"Josephine Cox (5579)" -> "Kiera Perrott (5578)" [label=125]
+	"Adam Ellery (5582)" -> "Kiera Perrott (5578)" [label=18]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Steve Titmus (4031)_Bass_2010" {
+	graph [label="Bass 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steve Titmus (4031)" [label="Steve Titmus (4031)
+Liberal"]
+	"Sancia Geraldine Colgrave (4032)" [label="Sancia Geraldine Colgrave (4032)
+Australian Greens"]
+	"Adrian Watts (4033)" [label="Adrian Watts (4033)
+Citizens Electoral Council"]
+	"Sancia Geraldine Colgrave (4032)" -> "Steve Titmus (4031)" [label=2071]
+	"Adrian Watts (4033)" -> "Sancia Geraldine Colgrave (4032)" [label=339]
+	"Adrian Watts (4033)" -> "Steve Titmus (4031)" [label=256]
+}

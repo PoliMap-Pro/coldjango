@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Toni Mcmahon (487)_Herbert_2022" {
+	graph [label="Herbert 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Toni Mcmahon (487)" [label="Toni Mcmahon (487)
+Informed Medical Options Party"]
+	"Toni Mccormack (496)" [label="Toni Mccormack (496)
+Animal Justice Party"]
+	"Steven Clare (493)" [label="Steven Clare (493)
+Independent"]
+	"Larna Ballard (490)" [label="Larna Ballard (490)
+The Great Australian Party"]
+	"Toni Mccormack (496)" -> "Toni Mcmahon (487)" [label=193]
+	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
+	"Larna Ballard (490)" -> "Steven Clare (493)" [label=49]
+	"Steven Clare (493)" -> "Toni Mcmahon (487)" [label=87]
+	"Larna Ballard (490)" -> "Toni Mcmahon (487)" [label=157]
+	"Larna Ballard (490)" -> "Toni Mccormack (496)" [label=17]
+}

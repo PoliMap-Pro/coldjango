@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Elwyn Denman (3053)_Blair_2013" {
+	graph [label="Blair 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Elwyn Denman (3053)" [label="Elwyn Denman (3053)
+Family First"]
+	"Shannon Deguara (3058)" [label="Shannon Deguara (3058)
+Australian Independents"]
+	"Anthony Mackin (3055)" [label="Anthony Mackin (3055)
+Rise Up Australia Party"]
+	"Shannon Deguara (3058)" -> "Elwyn Denman (3053)" [label=190]
+	"Anthony Mackin (3055)" -> "Shannon Deguara (3058)" [label=41]
+	"Anthony Mackin (3055)" -> "Elwyn Denman (3053)" [label=147]
+}

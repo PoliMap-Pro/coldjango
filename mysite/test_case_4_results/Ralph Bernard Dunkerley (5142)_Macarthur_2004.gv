@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ralph Bernard Dunkerley (5142)_Macarthur_2004" {
+	graph [label="Macarthur 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ralph Bernard Dunkerley (5142)" [label="Ralph Bernard Dunkerley (5142)
+Christian Democratic Party (Fred Nile Group)"]
+	"Len Watkins (5144)" [label="Len Watkins (5144)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Lester Pearce (5147)" [label="Lester Pearce (5147)
+Australian Democrats"]
+	"Max Brazenall (5145)" [label="Max Brazenall (5145)
+Independent"]
+	"Len Watkins (5144)" -> "Ralph Bernard Dunkerley (5142)" [label=128]
+	"Lester Pearce (5147)" -> "Len Watkins (5144)" [label=42]
+	"Max Brazenall (5145)" -> "Lester Pearce (5147)" [label=69]
+	"Lester Pearce (5147)" -> "Ralph Bernard Dunkerley (5142)" [label=24]
+	"Max Brazenall (5145)" -> "Ralph Bernard Dunkerley (5142)" [label=14]
+	"Max Brazenall (5145)" -> "Len Watkins (5144)" [label=88]
+}

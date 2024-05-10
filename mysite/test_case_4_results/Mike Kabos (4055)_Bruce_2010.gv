@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mike Kabos (4055)_Bruce_2010" {
+	graph [label="Bruce 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mike Kabos (4055)" [label="Mike Kabos (4055)
+Liberal"]
+	"Stefan Zibell (4056)" [label="Stefan Zibell (4056)
+Australian Greens"]
+	"Felicity Hemmersbach (4057)" [label="Felicity Hemmersbach (4057)
+Family First"]
+	"Stefan Zibell (4056)" -> "Mike Kabos (4055)" [label=2140]
+	"Felicity Hemmersbach (4057)" -> "Stefan Zibell (4056)" [label=897]
+	"Felicity Hemmersbach (4057)" -> "Mike Kabos (4055)" [label=1424]
+}

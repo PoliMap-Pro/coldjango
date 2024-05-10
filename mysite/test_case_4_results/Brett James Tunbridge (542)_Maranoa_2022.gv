@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Brett James Tunbridge (542)_Maranoa_2022" {
+	graph [label="Maranoa 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett James Tunbridge (542)" [label="Brett James Tunbridge (542)
+Australian Federation Party"]
+}

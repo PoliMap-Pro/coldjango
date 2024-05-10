@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Andrew Nguyen (2878)_Oxley_2013" {
+	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Nguyen (2878)" [label="Andrew Nguyen (2878)
+Liberal"]
+	"Ricky Yue Mun Tang (3208)" [label="Ricky Yue Mun Tang (3208)
+Palmer United Party"]
+	"Martin Stephenson (3206)" [label="Martin Stephenson (3206)
+The Greens"]
+	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
+Family First"]
+	"Kathleen Hewlett (3207)" [label="Kathleen Hewlett (3207)
+Katter's Australian Party"]
+	"Frank Karg (3205)" [label="Frank Karg (3205)
+Democratic Labour Party (DLP)"]
+	"Scott Moerland (1618)" [label="Scott Moerland (1618)
+Rise Up Australia Party"]
+	"Ricky Yue Mun Tang (3208)" -> "Andrew Nguyen (2878)" [label=3662]
+	"Martin Stephenson (3206)" -> "Ricky Yue Mun Tang (3208)" [label=1110]
+	"Carrie Mccormack (2415)" -> "Martin Stephenson (3206)" [label=280]
+	"Kathleen Hewlett (3207)" -> "Carrie Mccormack (2415)" [label=168]
+	"Frank Karg (3205)" -> "Kathleen Hewlett (3207)" [label=105]
+	"Scott Moerland (1618)" -> "Frank Karg (3205)" [label=41]
+	"Martin Stephenson (3206)" -> "Andrew Nguyen (2878)" [label=917]
+	"Carrie Mccormack (2415)" -> "Andrew Nguyen (2878)" [label=638]
+	"Kathleen Hewlett (3207)" -> "Andrew Nguyen (2878)" [label=328]
+	"Frank Karg (3205)" -> "Andrew Nguyen (2878)" [label=282]
+	"Scott Moerland (1618)" -> "Andrew Nguyen (2878)" [label=70]
+	"Scott Moerland (1618)" -> "Kathleen Hewlett (3207)" [label=70]
+	"Frank Karg (3205)" -> "Carrie Mccormack (2415)" [label=145]
+	"Scott Moerland (1618)" -> "Carrie Mccormack (2415)" [label=61]
+	"Kathleen Hewlett (3207)" -> "Martin Stephenson (3206)" [label=201]
+	"Frank Karg (3205)" -> "Martin Stephenson (3206)" [label=256]
+	"Scott Moerland (1618)" -> "Martin Stephenson (3206)" [label=43]
+	"Carrie Mccormack (2415)" -> "Ricky Yue Mun Tang (3208)" [label=508]
+	"Kathleen Hewlett (3207)" -> "Ricky Yue Mun Tang (3208)" [label=697]
+	"Frank Karg (3205)" -> "Ricky Yue Mun Tang (3208)" [label=85]
+	"Scott Moerland (1618)" -> "Ricky Yue Mun Tang (3208)" [label=66]
+}

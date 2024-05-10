@@ -1,0 +1,10 @@
+// House preference flow
+digraph "John Kelly (2372)_Leichhardt_2016" {
+	graph [label="Leichhardt 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Kelly (2372)" [label="John Kelly (2372)
+Rise Up Australia Party"]
+	"Michael Newie (2377)" [label="Michael Newie (2377)
+Independent"]
+	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
+}

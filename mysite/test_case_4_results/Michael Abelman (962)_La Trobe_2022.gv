@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Michael Abelman (962)_La Trobe_2022" {
+	graph [label="La Trobe 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Abelman (962)" [label="Michael Abelman (962)
+Liberal Democrats"]
+	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
+Australian Federation Party"]
+	"Rebecca Skinner (961)" -> "Michael Abelman (962)" [label=166]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jeff Davy (1033)_Murray_2010" {
+	graph [label="Murray 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
+	"William Clarke-Hannaford (4150)" [label="William Clarke-Hannaford (4150)
+Secular Party of Australia"]
+	"William Clarke-Hannaford (4150)" -> "Jeff Davy (1033)" [label=109]
+}

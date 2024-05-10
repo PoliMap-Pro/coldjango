@@ -1,0 +1,25 @@
+// House preference flow
+digraph "June Scifo (2237)_Warringah_2016" {
+	graph [label="Warringah 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"June Scifo (2237)" [label="June Scifo (2237)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marc Giordano (2238)" [label="Marc Giordano (2238)
+Science Party"]
+	"Shea Caplice (2239)" [label="Shea Caplice (2239)
+The Arts Party"]
+	"Tony Backhouse (2243)" [label="Tony Backhouse (2243)
+Independent"]
+	"David Barrow (2242)" [label="David Barrow (2242)
+Independent"]
+	"Marc Giordano (2238)" -> "June Scifo (2237)" [label=50]
+	"Shea Caplice (2239)" -> "Marc Giordano (2238)" [label=106]
+	"Tony Backhouse (2243)" -> "Shea Caplice (2239)" [label=21]
+	"David Barrow (2242)" -> "Tony Backhouse (2243)" [label=138]
+	"Shea Caplice (2239)" -> "June Scifo (2237)" [label=23]
+	"Tony Backhouse (2243)" -> "June Scifo (2237)" [label=22]
+	"David Barrow (2242)" -> "June Scifo (2237)" [label=3]
+	"David Barrow (2242)" -> "Shea Caplice (2239)" [label=7]
+	"Tony Backhouse (2243)" -> "Marc Giordano (2238)" [label=23]
+	"David Barrow (2242)" -> "Marc Giordano (2238)" [label=3]
+}

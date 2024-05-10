@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Greg Bondar (2034)_Banks_2016" {
+	graph [label="Banks 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Bondar (2034)" [label="Greg Bondar (2034)
+Christian Democratic Party (Fred Nile Group)"]
+	"Roy Owen Barnes (2035)" [label="Roy Owen Barnes (2035)
+Animal Justice Party"]
+	"Sharon Wu (2032)" [label="Sharon Wu (2032)
+Family First"]
+	"Bob Spanswick (2036)" [label="Bob Spanswick (2036)
+Independent"]
+	"Roy Owen Barnes (2035)" -> "Greg Bondar (2034)" [label=578]
+	"Sharon Wu (2032)" -> "Roy Owen Barnes (2035)" [label=298]
+	"Bob Spanswick (2036)" -> "Sharon Wu (2032)" [label=184]
+	"Sharon Wu (2032)" -> "Greg Bondar (2034)" [label=386]
+	"Bob Spanswick (2036)" -> "Greg Bondar (2034)" [label=163]
+	"Bob Spanswick (2036)" -> "Roy Owen Barnes (2035)" [label=340]
+}

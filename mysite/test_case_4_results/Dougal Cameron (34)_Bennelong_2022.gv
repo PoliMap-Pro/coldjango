@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Dougal Cameron (34)_Bennelong_2022" {
+	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dougal Cameron (34)" [label="Dougal Cameron (34)
+Liberal Democrats"]
+	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
+Democratic Alliance"]
+	"Kyinzom Dhongdue (39)" -> "Dougal Cameron (34)" [label=73]
+}

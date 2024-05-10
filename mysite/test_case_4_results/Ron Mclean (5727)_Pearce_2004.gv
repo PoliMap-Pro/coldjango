@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ron Mclean (5727)_Pearce_2004" {
+	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ron Mclean (5727)" [label="Ron Mclean (5727)
+Citizens Electoral Council"]
+	"Annolies Truman (4964)" [label="Annolies Truman (4964)
+Socialist Alliance"]
+	"Annolies Truman (4964)" -> "Ron Mclean (5727)" [label=7]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Huu Khoa Nguyen (4242)_Banks_2007" {
+	graph [label="Banks 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Huu Khoa Nguyen (4242)" [label="Huu Khoa Nguyen (4242)
+Citizens Electoral Council"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+LDP"]
+	"Don Nguyen (3759)" -> "Huu Khoa Nguyen (4242)" [label=286]
+}

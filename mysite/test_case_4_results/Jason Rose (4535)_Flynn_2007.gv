@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Jason Rose (4535)_Flynn_2007" {
+	graph [label="Flynn 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jason Rose (4535)" [label="Jason Rose (4535)
+Liberal"]
+	"Mathew James Drysdale (4537)" [label="Mathew James Drysdale (4537)
+Family First"]
+	"Marella Pettinato (4541)" [label="Marella Pettinato (4541)
+The Greens"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"Phillip Martin Costello (4540)" [label="Phillip Martin Costello (4540)
+Independent"]
+	"Julie Noble (4538)" [label="Julie Noble (4538)
+Democrats"]
+	"Jarrah Job (4536)" [label="Jarrah Job (4536)
+LDP"]
+	"Mathew James Drysdale (4537)" -> "Jason Rose (4535)" [label=610]
+	"Marella Pettinato (4541)" -> "Mathew James Drysdale (4537)" [label=478]
+	"Duncan Scott (462)" -> "Marella Pettinato (4541)" [label=426]
+	"Phillip Martin Costello (4540)" -> "Duncan Scott (462)" [label=559]
+	"Julie Noble (4538)" -> "Phillip Martin Costello (4540)" [label=77]
+	"Jarrah Job (4536)" -> "Julie Noble (4538)" [label=9]
+	"Marella Pettinato (4541)" -> "Jason Rose (4535)" [label=181]
+	"Duncan Scott (462)" -> "Jason Rose (4535)" [label=123]
+	"Phillip Martin Costello (4540)" -> "Jason Rose (4535)" [label=51]
+	"Julie Noble (4538)" -> "Jason Rose (4535)" [label=46]
+	"Jarrah Job (4536)" -> "Jason Rose (4535)" [label=63]
+	"Jarrah Job (4536)" -> "Phillip Martin Costello (4540)" [label=11]
+	"Julie Noble (4538)" -> "Duncan Scott (462)" [label=43]
+	"Jarrah Job (4536)" -> "Duncan Scott (462)" [label=10]
+	"Phillip Martin Costello (4540)" -> "Marella Pettinato (4541)" [label=27]
+	"Julie Noble (4538)" -> "Marella Pettinato (4541)" [label=88]
+	"Jarrah Job (4536)" -> "Marella Pettinato (4541)" [label=7]
+	"Duncan Scott (462)" -> "Mathew James Drysdale (4537)" [label=338]
+	"Phillip Martin Costello (4540)" -> "Mathew James Drysdale (4537)" [label=53]
+	"Julie Noble (4538)" -> "Mathew James Drysdale (4537)" [label=79]
+	"Jarrah Job (4536)" -> "Mathew James Drysdale (4537)" [label=36]
+}

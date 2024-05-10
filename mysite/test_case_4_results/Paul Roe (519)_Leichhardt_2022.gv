@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Paul Roe (519)_Leichhardt_2022" {
+	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Roe (519)" [label="Paul Roe (519)
+Australian Federation Party"]
+}

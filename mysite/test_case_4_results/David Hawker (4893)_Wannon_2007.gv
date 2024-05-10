@@ -1,0 +1,14 @@
+// House preference flow
+digraph "David Hawker (4893)_Wannon_2007" {
+	graph [label="Wannon 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Hawker (4893)" [label="David Hawker (4893)
+Liberal"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Daniel Pech (4892)" [label="Daniel Pech (4892)
+Family First"]
+	"Lisa Owen (4163)" -> "David Hawker (4893)" [label=2167]
+	"Daniel Pech (4892)" -> "Lisa Owen (4163)" [label=894]
+	"Daniel Pech (4892)" -> "David Hawker (4893)" [label=2019]
+}

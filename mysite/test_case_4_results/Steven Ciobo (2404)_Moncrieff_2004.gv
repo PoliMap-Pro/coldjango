@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Steven Ciobo (2404)_Moncrieff_2004" {
+	graph [label="Moncrieff 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steven Ciobo (2404)" [label="Steven Ciobo (2404)
+Liberal"]
+	"Michael Beale (4522)" [label="Michael Beale (4522)
+The Greens"]
+	"James Tayler (553)" [label="James Tayler (553)
+Family First"]
+	"Mark Chapman Smith (5384)" [label="Mark Chapman Smith (5384)
+One Nation"]
+	"Ros Roberts (5386)" [label="Ros Roberts (5386)
+Australian Democrats"]
+	"Sandy Sanderson (5383)" [label="Sandy Sanderson (5383)
+Citizens Electoral Council"]
+	"Michael Beale (4522)" -> "Steven Ciobo (2404)" [label=1681]
+	"James Tayler (553)" -> "Michael Beale (4522)" [label=727]
+	"Mark Chapman Smith (5384)" -> "James Tayler (553)" [label=284]
+	"Ros Roberts (5386)" -> "Mark Chapman Smith (5384)" [label=74]
+	"Sandy Sanderson (5383)" -> "Ros Roberts (5386)" [label=35]
+	"James Tayler (553)" -> "Steven Ciobo (2404)" [label=1421]
+	"Mark Chapman Smith (5384)" -> "Steven Ciobo (2404)" [label=594]
+	"Ros Roberts (5386)" -> "Steven Ciobo (2404)" [label=168]
+	"Sandy Sanderson (5383)" -> "Steven Ciobo (2404)" [label=322]
+	"Sandy Sanderson (5383)" -> "Mark Chapman Smith (5384)" [label=140]
+	"Ros Roberts (5386)" -> "James Tayler (553)" [label=73]
+	"Sandy Sanderson (5383)" -> "James Tayler (553)" [label=53]
+	"Mark Chapman Smith (5384)" -> "Michael Beale (4522)" [label=272]
+	"Ros Roberts (5386)" -> "Michael Beale (4522)" [label=348]
+	"Sandy Sanderson (5383)" -> "Michael Beale (4522)" [label=40]
+}

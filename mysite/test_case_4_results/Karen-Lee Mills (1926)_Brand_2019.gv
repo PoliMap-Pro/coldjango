@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Karen-Lee Mills (1926)_Brand_2019" {
+	graph [label="Brand 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+}

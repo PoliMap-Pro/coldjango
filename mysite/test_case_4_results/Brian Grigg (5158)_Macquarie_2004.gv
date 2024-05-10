@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Brian Grigg (5158)_Macquarie_2004" {
+	graph [label="Macquarie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brian Grigg (5158)" [label="Brian Grigg (5158)
+Christian Democratic Party (Fred Nile Group)"]
+	"Troy Geri (5157)" [label="Troy Geri (5157)
+Family First"]
+	"John Haydon (5153)" [label="John Haydon (5153)
+Australian Democrats"]
+	"Matthew Derrig (5155)" [label="Matthew Derrig (5155)
+No GST"]
+	"Michael Segedin (4373)" [label="Michael Segedin (4373)
+Citizens Electoral Council"]
+	"Troy Geri (5157)" -> "Brian Grigg (5158)" [label=254]
+	"John Haydon (5153)" -> "Troy Geri (5157)" [label=51]
+	"Matthew Derrig (5155)" -> "John Haydon (5153)" [label=37]
+	"Michael Segedin (4373)" -> "Matthew Derrig (5155)" [label=5]
+	"John Haydon (5153)" -> "Brian Grigg (5158)" [label=24]
+	"Matthew Derrig (5155)" -> "Brian Grigg (5158)" [label=24]
+	"Michael Segedin (4373)" -> "Brian Grigg (5158)" [label=13]
+	"Michael Segedin (4373)" -> "John Haydon (5153)" [label=5]
+	"Matthew Derrig (5155)" -> "Troy Geri (5157)" [label=121]
+	"Michael Segedin (4373)" -> "Troy Geri (5157)" [label=9]
+}

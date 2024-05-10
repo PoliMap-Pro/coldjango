@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Richard Stringer (4405)_Gwydir_2004" {
+	graph [label="Gwydir 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Stringer (4405)" [label="Richard Stringer (4405)
+Citizens Electoral Council"]
+}

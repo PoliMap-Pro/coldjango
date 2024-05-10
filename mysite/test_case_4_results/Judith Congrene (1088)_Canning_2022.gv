@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Judith Congrene (1088)_Canning_2022" {
+	graph [label="Canning 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Judith Congrene (1088)" [label="Judith Congrene (1088)
+Informed Medical Options Party"]
+	"David Gardiner (1092)" [label="David Gardiner (1092)
+Liberal Democrats"]
+	"Anthony Gardyne (1085)" [label="Anthony Gardyne (1085)
+Australian Federation Party"]
+	"David Gardiner (1092)" -> "Judith Congrene (1088)" [label=54]
+	"Anthony Gardyne (1085)" -> "David Gardiner (1092)" [label=32]
+	"Anthony Gardyne (1085)" -> "Judith Congrene (1088)" [label=222]
+}

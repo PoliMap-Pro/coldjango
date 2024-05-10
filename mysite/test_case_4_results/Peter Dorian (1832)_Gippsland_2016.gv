@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Dorian (1832)_Gippsland_2016" {
+	graph [label="Gippsland 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Rise Up Australia Party"]
+	"Christine Sindt (2605)" [label="Christine Sindt (2605)
+Independent"]
+	"Peter Gardner (2609)" [label="Peter Gardner (2609)
+Renewable Energy Party"]
+	"Ashleigh Belsar (2608)" [label="Ashleigh Belsar (2608)
+Australian Christians"]
+	"Christine Sindt (2605)" -> "Peter Dorian (1832)" [label=152]
+	"Peter Gardner (2609)" -> "Christine Sindt (2605)" [label=84]
+	"Ashleigh Belsar (2608)" -> "Peter Gardner (2609)" [label=36]
+	"Peter Gardner (2609)" -> "Peter Dorian (1832)" [label=73]
+	"Ashleigh Belsar (2608)" -> "Peter Dorian (1832)" [label=45]
+	"Ashleigh Belsar (2608)" -> "Christine Sindt (2605)" [label=47]
+}

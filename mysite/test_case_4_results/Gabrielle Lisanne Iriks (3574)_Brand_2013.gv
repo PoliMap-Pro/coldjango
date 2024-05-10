@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Gabrielle Lisanne Iriks (3574)_Brand_2013" {
+	graph [label="Brand 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gabrielle Lisanne Iriks (3574)" [label="Gabrielle Lisanne Iriks (3574)
+Rise Up Australia Party"]
+	"Paul James Young (3573)" [label="Paul James Young (3573)
+Australian Democrats"]
+	"Mick Le-Cocq (3572)" [label="Mick Le-Cocq (3572)
+Citizens Electoral Council"]
+	"Paul James Young (3573)" -> "Gabrielle Lisanne Iriks (3574)" [label=95]
+	"Mick Le-Cocq (3572)" -> "Paul James Young (3573)" [label=32]
+	"Mick Le-Cocq (3572)" -> "Gabrielle Lisanne Iriks (3574)" [label=37]
+}

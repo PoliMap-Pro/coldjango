@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Liza Tazewell (275)_Parramatta_2022" {
+	graph [label="Parramatta 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Liza Tazewell (275)" [label="Liza Tazewell (275)
+Liberal Democrats"]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ken Lee (4909)_Cowan_2007" {
+	graph [label="Cowan 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ken Lee (4909)" [label="Ken Lee (4909)
+LDP"]
+	"Dave Tierney (4914)" [label="Dave Tierney (4914)
+One Nation WA"]
+	"Norm Ramsay (4913)" [label="Norm Ramsay (4913)
+Independent"]
+	"Roger Blakeway (4910)" [label="Roger Blakeway (4910)
+Citizens Electoral Council"]
+	"Dave Tierney (4914)" -> "Ken Lee (4909)" [label=61]
+	"Norm Ramsay (4913)" -> "Dave Tierney (4914)" [label=81]
+	"Roger Blakeway (4910)" -> "Norm Ramsay (4913)" [label=10]
+	"Norm Ramsay (4913)" -> "Ken Lee (4909)" [label=44]
+	"Roger Blakeway (4910)" -> "Ken Lee (4909)" [label=59]
+	"Roger Blakeway (4910)" -> "Dave Tierney (4914)" [label=3]
+}

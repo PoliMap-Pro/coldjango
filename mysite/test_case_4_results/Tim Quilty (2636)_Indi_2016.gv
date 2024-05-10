@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Tim Quilty (2636)_Indi_2016" {
+	graph [label="Indi 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+}

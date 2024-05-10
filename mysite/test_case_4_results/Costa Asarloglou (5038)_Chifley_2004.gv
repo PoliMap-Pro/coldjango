@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Costa Asarloglou (5038)_Chifley_2004" {
+	graph [label="Chifley 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Costa Asarloglou (5038)" [label="Costa Asarloglou (5038)
+Liberal"]
+	"Debbie Robertson (3708)" [label="Debbie Robertson (3708)
+The Greens"]
+	"Dave Vincent (2839)" [label="Dave Vincent (2839)
+Christian Democratic Party (Fred Nile Group)"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Robert Heathcote (5039)" [label="Robert Heathcote (5039)
+Family First"]
+	"Wayne Hyland (4280)" [label="Wayne Hyland (4280)
+Independent"]
+	"Graham Rand (5040)" [label="Graham Rand (5040)
+"]
+	"Debbie Robertson (3708)" -> "Costa Asarloglou (5038)" [label=2762]
+	"Dave Vincent (2839)" -> "Debbie Robertson (3708)" [label=445]
+	"Terry Cooksley (3273)" -> "Dave Vincent (2839)" [label=275]
+	"Robert Heathcote (5039)" -> "Terry Cooksley (3273)" [label=128]
+	"Wayne Hyland (4280)" -> "Robert Heathcote (5039)" [label=192]
+	"Graham Rand (5040)" -> "Wayne Hyland (4280)" [label=33]
+	"Dave Vincent (2839)" -> "Costa Asarloglou (5038)" [label=1833]
+	"Terry Cooksley (3273)" -> "Costa Asarloglou (5038)" [label=514]
+	"Robert Heathcote (5039)" -> "Costa Asarloglou (5038)" [label=410]
+	"Wayne Hyland (4280)" -> "Costa Asarloglou (5038)" [label=143]
+	"Graham Rand (5040)" -> "Costa Asarloglou (5038)" [label=24]
+	"Graham Rand (5040)" -> "Robert Heathcote (5039)" [label=20]
+	"Wayne Hyland (4280)" -> "Terry Cooksley (3273)" [label=101]
+	"Graham Rand (5040)" -> "Terry Cooksley (3273)" [label=114]
+	"Robert Heathcote (5039)" -> "Dave Vincent (2839)" [label=223]
+	"Wayne Hyland (4280)" -> "Dave Vincent (2839)" [label=77]
+	"Graham Rand (5040)" -> "Dave Vincent (2839)" [label=17]
+	"Terry Cooksley (3273)" -> "Debbie Robertson (3708)" [label=402]
+	"Robert Heathcote (5039)" -> "Debbie Robertson (3708)" [label=361]
+	"Wayne Hyland (4280)" -> "Debbie Robertson (3708)" [label=201]
+	"Graham Rand (5040)" -> "Debbie Robertson (3708)" [label=46]
+}

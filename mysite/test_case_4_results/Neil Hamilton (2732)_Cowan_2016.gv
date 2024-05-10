@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Neil Hamilton (2732)_Cowan_2016" {
+	graph [label="Cowan 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Neil Hamilton (2732)" [label="Neil Hamilton (2732)
+Liberal Democrats"]
+	"Steve Veness (2734)" [label="Steve Veness (2734)
+Mature Australia"]
+	"Steve Veness (2734)" -> "Neil Hamilton (2732)" [label=78]
+}

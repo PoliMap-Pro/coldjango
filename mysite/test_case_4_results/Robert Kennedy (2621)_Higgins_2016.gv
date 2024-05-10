@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Robert Kennedy (2621)_Higgins_2016" {
+	graph [label="Higgins 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Kennedy (2621)" [label="Robert Kennedy (2621)
+Liberal Democrats"]
+}

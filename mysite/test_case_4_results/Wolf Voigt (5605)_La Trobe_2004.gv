@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Wolf Voigt (5605)_La Trobe_2004" {
+	graph [label="La Trobe 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Kurt Beilharz (4842)" -> "Wolf Voigt (5605)" [label=17]
+}

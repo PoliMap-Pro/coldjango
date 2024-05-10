@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Chris Zanker (4008)_Kingston_2010" {
+	graph [label="Kingston 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Zanker (4008)" [label="Chris Zanker (4008)
+Liberal"]
+	"Palitja Moore (3262)" [label="Palitja Moore (3262)
+The Greens"]
+	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
+Family First"]
+	"Ron Baker (4007)" [label="Ron Baker (4007)
+Australian Democrats"]
+	"Palitja Moore (3262)" -> "Chris Zanker (4008)" [label=3451]
+	"Geoff Doecke (2470)" -> "Palitja Moore (3262)" [label=1471]
+	"Ron Baker (4007)" -> "Geoff Doecke (2470)" [label=253]
+	"Geoff Doecke (2470)" -> "Chris Zanker (4008)" [label=2691]
+	"Ron Baker (4007)" -> "Chris Zanker (4008)" [label=345]
+	"Ron Baker (4007)" -> "Palitja Moore (3262)" [label=836]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Conrad D'Souza (4131)_Jagajaga_2007" {
+	graph [label="Jagajaga 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Conrad D'Souza (4131)" [label="Conrad D'Souza (4131)
+Liberal"]
+	"Lisa Hodgson (4833)" [label="Lisa Hodgson (4833)
+Australian Greens"]
+	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
+Family First"]
+	"Jason Graham (4834)" [label="Jason Graham (4834)
+Australian Democrats"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Lisa Hodgson (4833)" -> "Conrad D'Souza (4131)" [label=1460]
+	"Andrew Conlon (3541)" -> "Lisa Hodgson (4833)" [label=408]
+	"Jason Graham (4834)" -> "Andrew Conlon (3541)" [label=95]
+	"Stephen Lele (4832)" -> "Jason Graham (4834)" [label=37]
+	"Andrew Conlon (3541)" -> "Conrad D'Souza (4131)" [label=1301]
+	"Jason Graham (4834)" -> "Conrad D'Souza (4131)" [label=236]
+	"Stephen Lele (4832)" -> "Conrad D'Souza (4131)" [label=38]
+	"Stephen Lele (4832)" -> "Andrew Conlon (3541)" [label=46]
+	"Jason Graham (4834)" -> "Lisa Hodgson (4833)" [label=406]
+	"Stephen Lele (4832)" -> "Lisa Hodgson (4833)" [label=82]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Lorraine Gimini (1462)_Solomon_2019" {
+	graph [label="Solomon 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lorraine Gimini (1462)" [label="Lorraine Gimini (1462)
+Rise Up Australia Party"]
+}

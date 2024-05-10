@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brett Clarke (1939)_Canning_2019" {
+	graph [label="Canning 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Veevers (1937)" -> "Brett Clarke (1939)" [label=292]
+	"Jamie Van Burgel (1936)" -> "Steve Veevers (1937)" [label=109]
+	"Malcolm Phillip Heffernan (25)" -> "Jamie Van Burgel (1936)" [label=107]
+	"Jamie Van Burgel (1936)" -> "Brett Clarke (1939)" [label=107]
+	"Malcolm Phillip Heffernan (25)" -> "Brett Clarke (1939)" [label=152]
+	"Malcolm Phillip Heffernan (25)" -> "Steve Veevers (1937)" [label=93]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michael Feneley (96)_Kingsford Smith_2010" {
+	graph [label="Kingsford Smith 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Feneley (96)" [label="Michael Feneley (96)
+Liberal"]
+	"Lindsay Shurey (3773)" [label="Lindsay Shurey (3773)
+The Greens"]
+	"Josh Carmont (3772)" [label="Josh Carmont (3772)
+Australian Democrats"]
+	"John Lawrence Cunningham (3774)" [label="John Lawrence Cunningham (3774)
+One Nation"]
+	"Zac Hambides (3771)" [label="Zac Hambides (3771)
+Socialist Equality Party"]
+	"Lindsay Shurey (3773)" -> "Michael Feneley (96)" [label=2213]
+	"Josh Carmont (3772)" -> "Lindsay Shurey (3773)" [label=599]
+	"John Lawrence Cunningham (3774)" -> "Josh Carmont (3772)" [label=236]
+	"Zac Hambides (3771)" -> "John Lawrence Cunningham (3774)" [label=45]
+	"Josh Carmont (3772)" -> "Michael Feneley (96)" [label=453]
+	"John Lawrence Cunningham (3774)" -> "Michael Feneley (96)" [label=201]
+	"Zac Hambides (3771)" -> "Michael Feneley (96)" [label=77]
+	"Zac Hambides (3771)" -> "Josh Carmont (3772)" [label=131]
+	"John Lawrence Cunningham (3774)" -> "Lindsay Shurey (3773)" [label=225]
+	"Zac Hambides (3771)" -> "Lindsay Shurey (3773)" [label=168]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "David Clark (2692)_Menzies_2016" {
+	graph [label="Menzies 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Clark (2692)" [label="David Clark (2692)
+Family First Party"]
+	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
+Animal Justice Party"]
+	"Jay Franklin (2695)" [label="Jay Franklin (2695)
+Voluntary Euthanasia Party"]
+	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
+Independent"]
+	"Antony John Hulbert (2690)" -> "David Clark (2692)" [label=820]
+	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
+	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
+	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
+	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
+	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
+}

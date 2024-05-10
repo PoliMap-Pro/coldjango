@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Narelle Davis (2867)_Farrer_2013" {
+	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Narelle Davis (2867)" [label="Narelle Davis (2867)
+Rise Up Australia Party"]
+	"Brendan Cattell (2868)" [label="Brendan Cattell (2868)
+Democratic Labour Party (DLP)"]
+	"Tracey Powell (2872)" [label="Tracey Powell (2872)
+Bullet Train For Australia"]
+	"Frank Horwill (2873)" [label="Frank Horwill (2873)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brendan Cattell (2868)" -> "Narelle Davis (2867)" [label=356]
+	"Tracey Powell (2872)" -> "Brendan Cattell (2868)" [label=58]
+	"Frank Horwill (2873)" -> "Tracey Powell (2872)" [label=51]
+	"Tracey Powell (2872)" -> "Narelle Davis (2867)" [label=138]
+	"Frank Horwill (2873)" -> "Narelle Davis (2867)" [label=127]
+	"Frank Horwill (2873)" -> "Brendan Cattell (2868)" [label=47]
+}

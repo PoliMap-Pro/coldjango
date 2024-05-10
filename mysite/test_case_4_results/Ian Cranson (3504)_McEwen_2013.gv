@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ian Cranson (3504)_McEwen_2013" {
+	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Cranson (3504)" [label="Ian Cranson (3504)
+Country Alliance"]
+	"Ferdie Verdan (3503)" [label="Ferdie Verdan (3503)
+Rise Up Australia Party"]
+	"Ferdie Verdan (3503)" -> "Ian Cranson (3504)" [label=54]
+}

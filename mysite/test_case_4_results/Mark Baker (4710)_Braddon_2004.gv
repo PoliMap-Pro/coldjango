@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mark Baker (4710)_Braddon_2004" {
+	graph [label="Braddon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mark Baker (4710)" [label="Mark Baker (4710)
+Liberal"]
+	"Michelle Foale (5480)" [label="Michelle Foale (5480)
+Australian Greens"]
+	"Wayne De Bomford (5481)" [label="Wayne De Bomford (5481)
+Family First"]
+	"Michelle Foale (5480)" -> "Mark Baker (4710)" [label=1002]
+	"Wayne De Bomford (5481)" -> "Michelle Foale (5480)" [label=351]
+	"Wayne De Bomford (5481)" -> "Mark Baker (4710)" [label=1444]
+}

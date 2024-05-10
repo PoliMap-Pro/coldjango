@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Petro Georgiou (4836)_Kooyong_2007" {
+	graph [label="Kooyong 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Petro Georgiou (4836)" [label="Petro Georgiou (4836)
+Liberal"]
+	"Peter Campbell (4838)" [label="Peter Campbell (4838)
+Australian Greens"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Pierre Curtis (4837)" [label="Pierre Curtis (4837)
+Citizens Electoral Council"]
+	"Peter Campbell (4838)" -> "Petro Georgiou (4836)" [label=2479]
+	"John Laidler (4114)" -> "Peter Campbell (4838)" [label=215]
+	"David Collyer (4140)" -> "John Laidler (4114)" [label=78]
+	"Pierre Curtis (4837)" -> "David Collyer (4140)" [label=43]
+	"John Laidler (4114)" -> "Petro Georgiou (4836)" [label=851]
+	"David Collyer (4140)" -> "Petro Georgiou (4836)" [label=241]
+	"Pierre Curtis (4837)" -> "Petro Georgiou (4836)" [label=32]
+	"Pierre Curtis (4837)" -> "John Laidler (4114)" [label=29]
+	"David Collyer (4140)" -> "Peter Campbell (4838)" [label=589]
+	"Pierre Curtis (4837)" -> "Peter Campbell (4838)" [label=38]
+}

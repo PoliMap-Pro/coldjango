@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jamie Witt (650)_Hindmarsh_2022" {
+	graph [label="Hindmarsh 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jamie Witt (650)" [label="Jamie Witt (650)
+The Great Australian Party"]
+	"Dianne Richards (648)" [label="Dianne Richards (648)
+Australian Federation Party"]
+	"Dianne Richards (648)" -> "Jamie Witt (650)" [label=158]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Greg Stephens (1124)_Forrest_2022" {
+	graph [label="Forrest 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Stephens (1124)" [label="Greg Stephens (1124)
+WESTERN AUSTRALIA PARTY"]
+	"Paul Markham (1121)" [label="Paul Markham (1121)
+Liberal Democrats"]
+	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
+Australian Federation Party"]
+	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
+	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
+	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Tim Gooden (5536)_Corio_2004" {
+	graph [label="Corio 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tim Gooden (5536)" [label="Tim Gooden (5536)
+Socialist Alliance"]
+	"Steven Bird (5534)" [label="Steven Bird (5534)
+Citizens Electoral Council"]
+	"Steven Bird (5534)" -> "Tim Gooden (5536)" [label=8]
+}

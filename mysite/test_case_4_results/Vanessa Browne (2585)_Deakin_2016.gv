@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Vanessa Browne (2585)_Deakin_2016" {
+	graph [label="Deakin 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Vanessa Browne (2585)" [label="Vanessa Browne (2585)
+Animal Justice Party"]
+	"Karen Dobby (2582)" [label="Karen Dobby (2582)
+Australian Christians"]
+	"Gary John Coombes (2586)" [label="Gary John Coombes (2586)
+Family First Party"]
+	"Karen Dobby (2582)" -> "Vanessa Browne (2585)" [label=416]
+	"Gary John Coombes (2586)" -> "Karen Dobby (2582)" [label=605]
+	"Gary John Coombes (2586)" -> "Vanessa Browne (2585)" [label=472]
+}

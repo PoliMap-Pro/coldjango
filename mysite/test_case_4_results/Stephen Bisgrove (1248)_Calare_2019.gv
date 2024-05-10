@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Stephen Bisgrove (1248)_Calare_2019" {
+	graph [label="Calare 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Bisgrove (1248)" [label="Stephen Bisgrove (1248)
+Liberal Democrats"]
+	"Beverley T. Cameron (1247)" [label="Beverley T. Cameron (1247)
+United Australia Party"]
+	"Shuyi Chen (1245)" [label="Shuyi Chen (1245)
+Christian Democratic Party (Fred Nile Group)"]
+	"Beverley T. Cameron (1247)" -> "Stephen Bisgrove (1248)" [label=364]
+	"Shuyi Chen (1245)" -> "Beverley T. Cameron (1247)" [label=204]
+	"Shuyi Chen (1245)" -> "Stephen Bisgrove (1248)" [label=241]
+}

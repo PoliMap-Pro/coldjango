@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Mike Hubbard (4365)_Mackellar_2007" {
+	graph [label="Mackellar 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mike Hubbard (4365)" [label="Mike Hubbard (4365)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Adams (4366)" [label="John Adams (4366)
+Climate Change Coalition"]
+	"Matt Mclellan (4363)" [label="Matt Mclellan (4363)
+Independent"]
+	"Clinton Barnes (4368)" [label="Clinton Barnes (4368)
+Democrats"]
+	"John Adams (4366)" -> "Mike Hubbard (4365)" [label=107]
+	"Matt Mclellan (4363)" -> "John Adams (4366)" [label=249]
+	"Clinton Barnes (4368)" -> "Matt Mclellan (4363)" [label=175]
+	"Matt Mclellan (4363)" -> "Mike Hubbard (4365)" [label=124]
+	"Clinton Barnes (4368)" -> "Mike Hubbard (4365)" [label=32]
+	"Clinton Barnes (4368)" -> "John Adams (4366)" [label=65]
+}

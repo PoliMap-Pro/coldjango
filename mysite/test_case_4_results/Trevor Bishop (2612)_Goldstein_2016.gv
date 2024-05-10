@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Trevor Bishop (2612)_Goldstein_2016" {
+	graph [label="Goldstein 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
+Family First Party"]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Melanie Vassiliou (2566)_Chisholm_2016" {
+	graph [label="Chisholm 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Melanie Vassiliou (2566)" [label="Melanie Vassiliou (2566)
+Rise Up Australia Party"]
+}

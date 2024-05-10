@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Deanna Kangas (1647)_Adelaide_2019" {
+	graph [label="Adelaide 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Chris James (1645)" -> "Deanna Kangas (1647)" [label=223]
+}

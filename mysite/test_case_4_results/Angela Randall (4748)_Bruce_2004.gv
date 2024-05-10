@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Angela Randall (4748)_Bruce_2004" {
+	graph [label="Bruce 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Angela Randall (4748)" [label="Angela Randall (4748)
+Liberal"]
+	"Tania Giles (5513)" [label="Tania Giles (5513)
+Australian Greens"]
+	"Richard Warner (5514)" [label="Richard Warner (5514)
+Family First"]
+	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
+Democrats"]
+	"William Larner (5516)" [label="William Larner (5516)
+Citizens Electoral Council"]
+	"Tania Giles (5513)" -> "Angela Randall (4748)" [label=1102]
+	"Richard Warner (5514)" -> "Tania Giles (5513)" [label=505]
+	"Paul Van Den Bergen (5515)" -> "Richard Warner (5514)" [label=177]
+	"William Larner (5516)" -> "Paul Van Den Bergen (5515)" [label=61]
+	"Richard Warner (5514)" -> "Angela Randall (4748)" [label=1274]
+	"Paul Van Den Bergen (5515)" -> "Angela Randall (4748)" [label=234]
+	"William Larner (5516)" -> "Angela Randall (4748)" [label=80]
+	"William Larner (5516)" -> "Richard Warner (5514)" [label=53]
+	"Paul Van Den Bergen (5515)" -> "Tania Giles (5513)" [label=435]
+	"William Larner (5516)" -> "Tania Giles (5513)" [label=36]
+}

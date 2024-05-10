@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Angela Lowery (391)_Blair_2022" {
+	graph [label="Blair 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Angela Lowery (391)" [label="Angela Lowery (391)
+Animal Justice Party"]
+	"Maria Pitman (390)" [label="Maria Pitman (390)
+Australian Values Party"]
+	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
+}

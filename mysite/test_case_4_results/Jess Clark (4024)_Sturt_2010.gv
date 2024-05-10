@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jess Clark (4024)_Sturt_2010" {
+	graph [label="Sturt 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jess Clark (4024)" [label="Jess Clark (4024)
+Liberal Democrats (LDP)"]
+	"Darren Andrews (4026)" [label="Darren Andrews (4026)
+Australian Democrats"]
+	"Jack King (4027)" [label="Jack King (4027)
+One Nation"]
+	"Darren Andrews (4026)" -> "Jess Clark (4024)" [label=69]
+	"Jack King (4027)" -> "Darren Andrews (4026)" [label=93]
+	"Jack King (4027)" -> "Jess Clark (4024)" [label=31]
+}

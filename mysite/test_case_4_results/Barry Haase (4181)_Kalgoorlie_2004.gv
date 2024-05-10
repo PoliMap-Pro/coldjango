@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Barry Haase (4181)_Kalgoorlie_2004" {
+	graph [label="Kalgoorlie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Barry Haase (4181)" [label="Barry Haase (4181)
+Liberal"]
+	"Graeme Campbell (5712)" [label="Graeme Campbell (5712)
+Independent"]
+	"Kado Muir (5707)" [label="Kado Muir (5707)
+The Greens"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+Pauline Hanson's One Nation"]
+	"Craig Hendry (5713)" [label="Craig Hendry (5713)
+CDP Christian Party"]
+	"Brendon Cook (5711)" [label="Brendon Cook (5711)
+Independent"]
+	"Don Hoddy (5708)" [label="Don Hoddy (5708)
+Australian Democrats"]
+	"Lorraine Thomas (5709)" [label="Lorraine Thomas (5709)
+Citizens Electoral Council"]
+	"Nabil Haji Rowland (5714)" [label="Nabil Haji Rowland (5714)
+Independent"]
+	"Graeme Campbell (5712)" -> "Barry Haase (4181)" [label=4371]
+	"Kado Muir (5707)" -> "Graeme Campbell (5712)" [label=1053]
+	"Robin Scott (4902)" -> "Kado Muir (5707)" [label=405]
+	"Craig Hendry (5713)" -> "Robin Scott (4902)" [label=72]
+	"Brendon Cook (5711)" -> "Craig Hendry (5713)" [label=36]
+	"Don Hoddy (5708)" -> "Brendon Cook (5711)" [label=55]
+	"Lorraine Thomas (5709)" -> "Don Hoddy (5708)" [label=43]
+	"Nabil Haji Rowland (5714)" -> "Lorraine Thomas (5709)" [label=7]
+	"Kado Muir (5707)" -> "Barry Haase (4181)" [label=1449]
+	"Robin Scott (4902)" -> "Barry Haase (4181)" [label=539]
+	"Craig Hendry (5713)" -> "Barry Haase (4181)" [label=416]
+	"Brendon Cook (5711)" -> "Barry Haase (4181)" [label=91]
+	"Don Hoddy (5708)" -> "Barry Haase (4181)" [label=85]
+	"Lorraine Thomas (5709)" -> "Barry Haase (4181)" [label=55]
+	"Nabil Haji Rowland (5714)" -> "Barry Haase (4181)" [label=21]
+	"Nabil Haji Rowland (5714)" -> "Don Hoddy (5708)" [label=10]
+	"Lorraine Thomas (5709)" -> "Brendon Cook (5711)" [label=41]
+	"Nabil Haji Rowland (5714)" -> "Brendon Cook (5711)" [label=30]
+	"Don Hoddy (5708)" -> "Craig Hendry (5713)" [label=7]
+	"Lorraine Thomas (5709)" -> "Craig Hendry (5713)" [label=18]
+	"Nabil Haji Rowland (5714)" -> "Craig Hendry (5713)" [label=54]
+	"Brendon Cook (5711)" -> "Robin Scott (4902)" [label=49]
+	"Don Hoddy (5708)" -> "Robin Scott (4902)" [label=72]
+	"Lorraine Thomas (5709)" -> "Robin Scott (4902)" [label=33]
+	"Nabil Haji Rowland (5714)" -> "Robin Scott (4902)" [label=9]
+	"Craig Hendry (5713)" -> "Kado Muir (5707)" [label=86]
+	"Brendon Cook (5711)" -> "Kado Muir (5707)" [label=74]
+	"Don Hoddy (5708)" -> "Kado Muir (5707)" [label=172]
+	"Lorraine Thomas (5709)" -> "Kado Muir (5707)" [label=53]
+	"Nabil Haji Rowland (5714)" -> "Kado Muir (5707)" [label=44]
+	"Robin Scott (4902)" -> "Graeme Campbell (5712)" [label=448]
+	"Craig Hendry (5713)" -> "Graeme Campbell (5712)" [label=217]
+	"Brendon Cook (5711)" -> "Graeme Campbell (5712)" [label=251]
+	"Don Hoddy (5708)" -> "Graeme Campbell (5712)" [label=40]
+	"Lorraine Thomas (5709)" -> "Graeme Campbell (5712)" [label=35]
+	"Nabil Haji Rowland (5714)" -> "Graeme Campbell (5712)" [label=54]
+}

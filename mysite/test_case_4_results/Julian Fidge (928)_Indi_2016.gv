@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Julian Fidge (928)_Indi_2016" {
+	graph [label="Indi 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+Independent"]
+	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
+	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
+	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
+	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
+	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
+	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
+	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
+	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
+}

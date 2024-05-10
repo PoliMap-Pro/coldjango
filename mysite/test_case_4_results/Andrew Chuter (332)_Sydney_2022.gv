@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Andrew Chuter (332)_Sydney_2022" {
+	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Chuter (332)" [label="Andrew Chuter (332)
+Socialist Alliance"]
+	"Wen Zhou (336)" [label="Wen Zhou (336)
+Citizens Party"]
+	"Wen Zhou (336)" -> "Andrew Chuter (332)" [label=106]
+}

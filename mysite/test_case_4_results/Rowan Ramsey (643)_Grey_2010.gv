@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Rowan Ramsey (643)_Grey_2010" {
+	graph [label="Grey 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rowan Ramsey (643)" [label="Rowan Ramsey (643)
+Liberal"]
+	"Andrew Colin Melville-Smith (4000)" [label="Andrew Colin Melville-Smith (4000)
+The Greens"]
+	"Sylvia Holland (4002)" [label="Sylvia Holland (4002)
+Family First"]
+	"Andrew Colin Melville-Smith (4000)" -> "Rowan Ramsey (643)" [label=2383]
+	"Sylvia Holland (4002)" -> "Andrew Colin Melville-Smith (4000)" [label=1262]
+	"Sylvia Holland (4002)" -> "Rowan Ramsey (643)" [label=2375]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Gary John Coombes (2586)_Deakin_2016" {
+	graph [label="Deakin 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gary John Coombes (2586)" [label="Gary John Coombes (2586)
+Family First Party"]
+}

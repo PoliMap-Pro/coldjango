@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jordon Davidson (5644)_Menzies_2004" {
+	graph [label="Menzies 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jordon Davidson (5644)" [label="Jordon Davidson (5644)
+Citizens Electoral Council"]
+}

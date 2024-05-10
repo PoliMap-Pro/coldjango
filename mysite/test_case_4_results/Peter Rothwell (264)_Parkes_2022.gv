@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Peter Rothwell (264)_Parkes_2022" {
+	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Rothwell (264)" [label="Peter Rothwell (264)
+Liberal Democrats"]
+	"Derek Hardman (263)" [label="Derek Hardman (263)
+Indigenous - Aboriginal Party of Australia"]
+	"Trish Frail (270)" [label="Trish Frail (270)
+The Greens"]
+	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
+United Australia Party"]
+	"Stuart Howe (268)" [label="Stuart Howe (268)
+Independent"]
+	"Benjamin Fox (271)" [label="Benjamin Fox (271)
+Informed Medical Options Party"]
+	"Derek Hardman (263)" -> "Peter Rothwell (264)" [label=1613]
+	"Trish Frail (270)" -> "Derek Hardman (263)" [label=1401]
+	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
+	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
+	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
+	"Trish Frail (270)" -> "Peter Rothwell (264)" [label=221]
+	"Petrus Van Der Steen (267)" -> "Peter Rothwell (264)" [label=400]
+	"Stuart Howe (268)" -> "Peter Rothwell (264)" [label=198]
+	"Benjamin Fox (271)" -> "Peter Rothwell (264)" [label=360]
+	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
+	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
+	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
+	"Petrus Van Der Steen (267)" -> "Derek Hardman (263)" [label=322]
+	"Stuart Howe (268)" -> "Derek Hardman (263)" [label=350]
+	"Benjamin Fox (271)" -> "Derek Hardman (263)" [label=167]
+}

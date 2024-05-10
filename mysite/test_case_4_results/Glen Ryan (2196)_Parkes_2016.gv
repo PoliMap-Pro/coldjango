@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Glen Ryan (2196)_Parkes_2016" {
+	graph [label="Parkes 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glen Ryan (2196)" [label="Glen Ryan (2196)
+Christian Democratic Party (Fred Nile Group)"]
+	"Philip John Ayton (2197)" [label="Philip John Ayton (2197)
+Online Direct Democracy - (Empowering the People!)"]
+	"Philip John Ayton (2197)" -> "Glen Ryan (2196)" [label=724]
+}

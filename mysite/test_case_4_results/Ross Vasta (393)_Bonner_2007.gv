@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Ross Vasta (393)_Bonner_2007" {
+	graph [label="Bonner 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ross Vasta (393)" [label="Ross Vasta (393)
+Liberal"]
+	"David Wyatt (4495)" [label="David Wyatt (4495)
+The Greens"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"David Wyatt (4495)" -> "Ross Vasta (393)" [label=1430]
+	"Stephen Gellatly (4492)" -> "David Wyatt (4495)" [label=374]
+	"Shane Boese (4494)" -> "Stephen Gellatly (4492)" [label=208]
+	"Vicki Stocks (4493)" -> "Shane Boese (4494)" [label=66]
+	"Lisa Charles (4491)" -> "Vicki Stocks (4493)" [label=22]
+	"Stephen Gellatly (4492)" -> "Ross Vasta (393)" [label=1110]
+	"Shane Boese (4494)" -> "Ross Vasta (393)" [label=251]
+	"Vicki Stocks (4493)" -> "Ross Vasta (393)" [label=126]
+	"Lisa Charles (4491)" -> "Ross Vasta (393)" [label=56]
+	"Lisa Charles (4491)" -> "Shane Boese (4494)" [label=19]
+	"Vicki Stocks (4493)" -> "Stephen Gellatly (4492)" [label=65]
+	"Lisa Charles (4491)" -> "Stephen Gellatly (4492)" [label=22]
+	"Shane Boese (4494)" -> "David Wyatt (4495)" [label=367]
+	"Vicki Stocks (4493)" -> "David Wyatt (4495)" [label=394]
+	"Lisa Charles (4491)" -> "David Wyatt (4495)" [label=20]
+}

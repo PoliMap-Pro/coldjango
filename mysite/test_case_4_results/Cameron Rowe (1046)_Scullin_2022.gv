@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Cameron Rowe (1046)_Scullin_2022" {
+	graph [label="Scullin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cameron Rowe (1046)" [label="Cameron Rowe (1046)
+Victorian Socialists"]
+}

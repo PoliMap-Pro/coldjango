@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Susan Austin (4717)_Denison_2007" {
+	graph [label="Denison 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Susan Austin (4717)" [label="Susan Austin (4717)
+Socialist Alliance"]
+	"Rob Larner (4716)" [label="Rob Larner (4716)
+Citizens Electoral Council"]
+	"Rob Larner (4716)" -> "Susan Austin (4717)" [label=55]
+}

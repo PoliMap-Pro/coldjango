@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Scott Morrison (77)_Cook_2013" {
+	graph [label="Cook 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Morrison (77)" [label="Scott Morrison (77)
+Liberal"]
+	"Mithra Cox (2847)" [label="Mithra Cox (2847)
+The Greens"]
+	"Matthew Gary Palise (2845)" [label="Matthew Gary Palise (2845)
+Palmer United Party"]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Jim Saleam (1342)" [label="Jim Saleam (1342)
+Australia First Party"]
+	"Mithra Cox (2847)" -> "Scott Morrison (77)" [label=1964]
+	"Matthew Gary Palise (2845)" -> "Mithra Cox (2847)" [label=1178]
+	"Beth Smith (2846)" -> "Matthew Gary Palise (2845)" [label=331]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=76]
+	"Jim Saleam (1342)" -> "Graeme Strang (2848)" [label=98]
+	"Matthew Gary Palise (2845)" -> "Scott Morrison (77)" [label=1741]
+	"Beth Smith (2846)" -> "Scott Morrison (77)" [label=1315]
+	"Graeme Strang (2848)" -> "Scott Morrison (77)" [label=385]
+	"Jim Saleam (1342)" -> "Scott Morrison (77)" [label=132]
+	"Jim Saleam (1342)" -> "Beth Smith (2846)" [label=125]
+	"Graeme Strang (2848)" -> "Matthew Gary Palise (2845)" [label=250]
+	"Jim Saleam (1342)" -> "Matthew Gary Palise (2845)" [label=121]
+	"Beth Smith (2846)" -> "Mithra Cox (2847)" [label=217]
+	"Graeme Strang (2848)" -> "Mithra Cox (2847)" [label=410]
+	"Jim Saleam (1342)" -> "Mithra Cox (2847)" [label=55]
+}

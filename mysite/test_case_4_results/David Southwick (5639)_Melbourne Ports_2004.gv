@@ -1,0 +1,40 @@
+// House preference flow
+digraph "David Southwick (5639)_Melbourne Ports_2004" {
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Southwick (5639)" [label="David Southwick (5639)
+Liberal"]
+	"Jo Lewis (5642)" [label="Jo Lewis (5642)
+Australian Greens"]
+	"Les Cameron (5638)" [label="Les Cameron (5638)
+Independent"]
+	"Craig Beale (4844)" [label="Craig Beale (4844)
+Democrats"]
+	"Graeme Jackel (5640)" [label="Graeme Jackel (5640)
+Family First"]
+	"Leonie Horin (5641)" [label="Leonie Horin (5641)
+Independent"]
+	"Aaron Isherwood (4879)" [label="Aaron Isherwood (4879)
+Citizens Electoral Council"]
+	"Jo Lewis (5642)" -> "David Southwick (5639)" [label=1691]
+	"Les Cameron (5638)" -> "Jo Lewis (5642)" [label=612]
+	"Craig Beale (4844)" -> "Les Cameron (5638)" [label=178]
+	"Graeme Jackel (5640)" -> "Craig Beale (4844)" [label=42]
+	"Leonie Horin (5641)" -> "Graeme Jackel (5640)" [label=30]
+	"Aaron Isherwood (4879)" -> "Leonie Horin (5641)" [label=28]
+	"Les Cameron (5638)" -> "David Southwick (5639)" [label=541]
+	"Craig Beale (4844)" -> "David Southwick (5639)" [label=205]
+	"Graeme Jackel (5640)" -> "David Southwick (5639)" [label=203]
+	"Leonie Horin (5641)" -> "David Southwick (5639)" [label=35]
+	"Aaron Isherwood (4879)" -> "David Southwick (5639)" [label=30]
+	"Aaron Isherwood (4879)" -> "Graeme Jackel (5640)" [label=15]
+	"Leonie Horin (5641)" -> "Craig Beale (4844)" [label=29]
+	"Aaron Isherwood (4879)" -> "Craig Beale (4844)" [label=13]
+	"Graeme Jackel (5640)" -> "Les Cameron (5638)" [label=77]
+	"Leonie Horin (5641)" -> "Les Cameron (5638)" [label=162]
+	"Aaron Isherwood (4879)" -> "Les Cameron (5638)" [label=17]
+	"Craig Beale (4844)" -> "Jo Lewis (5642)" [label=507]
+	"Graeme Jackel (5640)" -> "Jo Lewis (5642)" [label=72]
+	"Leonie Horin (5641)" -> "Jo Lewis (5642)" [label=102]
+	"Aaron Isherwood (4879)" -> "Jo Lewis (5642)" [label=25]
+}

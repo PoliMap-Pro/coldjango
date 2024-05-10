@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Bin Liu (2468)_Hindmarsh_2016" {
+	graph [label="Hindmarsh 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bin Liu (2468)" [label="Bin Liu (2468)
+Animal Justice Party"]
+	"Marina William (2467)" [label="Marina William (2467)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
+}

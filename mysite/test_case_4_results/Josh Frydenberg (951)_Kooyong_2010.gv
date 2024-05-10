@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Josh Frydenberg (951)_Kooyong_2010" {
+	graph [label="Kooyong 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Josh Frydenberg (951)" [label="Josh Frydenberg (951)
+Liberal"]
+	"Des Benson (4113)" [label="Des Benson (4113)
+Australian Greens"]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"Des Benson (4113)" -> "Josh Frydenberg (951)" [label=3289]
+	"John Laidler (4114)" -> "Des Benson (4113)" [label=276]
+	"John Laidler (4114)" -> "Josh Frydenberg (951)" [label=762]
+}

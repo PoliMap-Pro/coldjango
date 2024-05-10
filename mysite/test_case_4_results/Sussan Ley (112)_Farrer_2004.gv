@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Sussan Ley (112)_Farrer_2004" {
+	graph [label="Farrer 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sussan Ley (112)" [label="Sussan Ley (112)
+Liberal"]
+	"Bruce Rowston (5078)" [label="Bruce Rowston (5078)
+The Greens"]
+	"John Burbidge (5075)" [label="John Burbidge (5075)
+Independent"]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Bruce Rowston (5078)" -> "Sussan Ley (112)" [label=1150]
+	"John Burbidge (5075)" -> "Bruce Rowston (5078)" [label=799]
+	"Jennifer Weller (5072)" -> "John Burbidge (5075)" [label=380]
+	"Ray Jones (5076)" -> "Jennifer Weller (5072)" [label=233]
+	"Ian Paul Burn (5077)" -> "Ray Jones (5076)" [label=97]
+	"Matt Morgan (5073)" -> "Ian Paul Burn (5077)" [label=13]
+	"Frank Kovacs (5074)" -> "Matt Morgan (5073)" [label=53]
+	"Chris Lahy (984)" -> "Frank Kovacs (5074)" [label=21]
+	"John Burbidge (5075)" -> "Sussan Ley (112)" [label=1217]
+	"Jennifer Weller (5072)" -> "Sussan Ley (112)" [label=847]
+	"Ray Jones (5076)" -> "Sussan Ley (112)" [label=460]
+	"Ian Paul Burn (5077)" -> "Sussan Ley (112)" [label=809]
+	"Matt Morgan (5073)" -> "Sussan Ley (112)" [label=136]
+	"Frank Kovacs (5074)" -> "Sussan Ley (112)" [label=98]
+	"Chris Lahy (984)" -> "Sussan Ley (112)" [label=108]
+	"Chris Lahy (984)" -> "Matt Morgan (5073)" [label=50]
+	"Frank Kovacs (5074)" -> "Ian Paul Burn (5077)" [label=10]
+	"Chris Lahy (984)" -> "Ian Paul Burn (5077)" [label=19]
+	"Matt Morgan (5073)" -> "Ray Jones (5076)" [label=35]
+	"Frank Kovacs (5074)" -> "Ray Jones (5076)" [label=18]
+	"Chris Lahy (984)" -> "Ray Jones (5076)" [label=17]
+	"Ian Paul Burn (5077)" -> "Jennifer Weller (5072)" [label=246]
+	"Matt Morgan (5073)" -> "Jennifer Weller (5072)" [label=133]
+	"Frank Kovacs (5074)" -> "Jennifer Weller (5072)" [label=18]
+	"Chris Lahy (984)" -> "Jennifer Weller (5072)" [label=24]
+	"Ray Jones (5076)" -> "John Burbidge (5075)" [label=542]
+	"Ian Paul Burn (5077)" -> "John Burbidge (5075)" [label=45]
+	"Matt Morgan (5073)" -> "John Burbidge (5075)" [label=260]
+	"Frank Kovacs (5074)" -> "John Burbidge (5075)" [label=89]
+	"Chris Lahy (984)" -> "John Burbidge (5075)" [label=25]
+	"Jennifer Weller (5072)" -> "Bruce Rowston (5078)" [label=160]
+	"Ray Jones (5076)" -> "Bruce Rowston (5078)" [label=218]
+	"Ian Paul Burn (5077)" -> "Bruce Rowston (5078)" [label=57]
+	"Matt Morgan (5073)" -> "Bruce Rowston (5078)" [label=61]
+	"Frank Kovacs (5074)" -> "Bruce Rowston (5078)" [label=91]
+	"Chris Lahy (984)" -> "Bruce Rowston (5078)" [label=15]
+}

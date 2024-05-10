@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Alexandra Hafner (322)_Robertson_2022" {
+	graph [label="Robertson 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alexandra Hafner (322)" [label="Alexandra Hafner (322)
+Australian Federation Party"]
+}

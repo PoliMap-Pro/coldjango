@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Paul Treacy (1443)_Wentworth_2019" {
+	graph [label="Wentworth 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Treacy (1443)" [label="Paul Treacy (1443)
+Christian Democratic Party (Fred Nile Group)"]
+}

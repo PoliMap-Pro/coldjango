@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Elizabeth Lee (2788)_Fraser_2013" {
+	graph [label="Fraser 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Elizabeth Lee (2788)" [label="Elizabeth Lee (2788)
+Liberal"]
+	"Adam Verwey (2792)" [label="Adam Verwey (2792)
+Australian Greens"]
+	"Sam Huggins (2791)" [label="Sam Huggins (2791)
+Bullet Train For Australia"]
+	"Freddy Alejandro Alcazar (2789)" [label="Freddy Alejandro Alcazar (2789)
+Palmer United Party"]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Adam Verwey (2792)" -> "Elizabeth Lee (2788)" [label=2942]
+	"Sam Huggins (2791)" -> "Adam Verwey (2792)" [label=2746]
+	"Freddy Alejandro Alcazar (2789)" -> "Sam Huggins (2791)" [label=1137]
+	"Darren Mark Churchill (2787)" -> "Freddy Alejandro Alcazar (2789)" [label=215]
+	"Jill Elizabeth Ross (2790)" -> "Darren Mark Churchill (2787)" [label=131]
+	"Sam Huggins (2791)" -> "Elizabeth Lee (2788)" [label=1792]
+	"Freddy Alejandro Alcazar (2789)" -> "Elizabeth Lee (2788)" [label=1013]
+	"Darren Mark Churchill (2787)" -> "Elizabeth Lee (2788)" [label=933]
+	"Jill Elizabeth Ross (2790)" -> "Elizabeth Lee (2788)" [label=548]
+	"Jill Elizabeth Ross (2790)" -> "Freddy Alejandro Alcazar (2789)" [label=203]
+	"Darren Mark Churchill (2787)" -> "Sam Huggins (2791)" [label=297]
+	"Jill Elizabeth Ross (2790)" -> "Sam Huggins (2791)" [label=325]
+	"Freddy Alejandro Alcazar (2789)" -> "Adam Verwey (2792)" [label=441]
+	"Darren Mark Churchill (2787)" -> "Adam Verwey (2792)" [label=536]
+	"Jill Elizabeth Ross (2790)" -> "Adam Verwey (2792)" [label=108]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Tracey Powell (2872)_Farrer_2013" {
+	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tracey Powell (2872)" [label="Tracey Powell (2872)
+Bullet Train For Australia"]
+	"Frank Horwill (2873)" [label="Frank Horwill (2873)
+Christian Democratic Party (Fred Nile Group)"]
+	"Frank Horwill (2873)" -> "Tracey Powell (2872)" [label=51]
+}

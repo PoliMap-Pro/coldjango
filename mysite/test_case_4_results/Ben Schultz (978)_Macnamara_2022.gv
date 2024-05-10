@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ben Schultz (978)_Macnamara_2022" {
+	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Schultz (978)" [label="Ben Schultz (978)
+Animal Justice Party"]
+	"Debera Anne (976)" [label="Debera Anne (976)
+Pauline Hanson's One Nation"]
+	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
+}

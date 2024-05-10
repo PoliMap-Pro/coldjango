@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Matthew Squires (5018)_Blaxland_2004" {
+	graph [label="Blaxland 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Squires (5018)" [label="Matthew Squires (5018)
+Christian Democratic Party (Fred Nile Group)"]
+	"Martine Eve-Macleod (5020)" [label="Martine Eve-Macleod (5020)
+Australian Democrats"]
+	"Raul Bassi (4263)" [label="Raul Bassi (4263)
+Socialist Alliance"]
+	"Terry Boath (5021)" [label="Terry Boath (5021)
+Citizens Electoral Council"]
+	"Martine Eve-Macleod (5020)" -> "Matthew Squires (5018)" [label=86]
+	"Raul Bassi (4263)" -> "Martine Eve-Macleod (5020)" [label=48]
+	"Terry Boath (5021)" -> "Raul Bassi (4263)" [label=47]
+	"Raul Bassi (4263)" -> "Matthew Squires (5018)" [label=34]
+	"Terry Boath (5021)" -> "Matthew Squires (5018)" [label=18]
+	"Terry Boath (5021)" -> "Martine Eve-Macleod (5020)" [label=17]
+}

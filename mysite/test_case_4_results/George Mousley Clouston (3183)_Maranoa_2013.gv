@@ -1,0 +1,7 @@
+// House preference flow
+digraph "George Mousley Clouston (3183)_Maranoa_2013" {
+	graph [label="Maranoa 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
+Rise Up Australia Party"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jen Jacobs (1977)_Moore_2019" {
+	graph [label="Moore 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jen Jacobs (1977)" [label="Jen Jacobs (1977)
+WESTERN AUSTRALIA PARTY"]
+	"Rex Host (1976)" [label="Rex Host (1976)
+Australian Christians"]
+	"Rex Host (1976)" -> "Jen Jacobs (1977)" [label=103]
+}

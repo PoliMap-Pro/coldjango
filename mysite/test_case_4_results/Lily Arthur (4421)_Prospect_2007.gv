@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Lily Arthur (4421)_Prospect_2007" {
+	graph [label="Prospect 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lily Arthur (4421)" [label="Lily Arthur (4421)
+Liberal"]
+	"Lizza Gebilagin (4420)" [label="Lizza Gebilagin (4420)
+The Greens"]
+	"Carolyn Lever (4419)" [label="Carolyn Lever (4419)
+Family First"]
+	"Jason Callander (4422)" [label="Jason Callander (4422)
+Christian Democratic Party (Fred Nile Group)"]
+	"Lizza Gebilagin (4420)" -> "Lily Arthur (4421)" [label=2528]
+	"Carolyn Lever (4419)" -> "Lizza Gebilagin (4420)" [label=1620]
+	"Jason Callander (4422)" -> "Carolyn Lever (4419)" [label=604]
+	"Carolyn Lever (4419)" -> "Lily Arthur (4421)" [label=876]
+	"Jason Callander (4422)" -> "Lily Arthur (4421)" [label=864]
+	"Jason Callander (4422)" -> "Lizza Gebilagin (4420)" [label=162]
+}

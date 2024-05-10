@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Nolene Norsworthy (3782)_Cunningham_2007" {
+	graph [label="Cunningham 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nolene Norsworthy (3782)" [label="Nolene Norsworthy (3782)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jemma Tribe (4291)" [label="Jemma Tribe (4291)
+Family First"]
+	"Jess Moore (3721)" [label="Jess Moore (3721)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Jemma Tribe (4291)" -> "Nolene Norsworthy (3782)" [label=397]
+	"Jess Moore (3721)" -> "Jemma Tribe (4291)" [label=87]
+	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=44]
+	"Jess Moore (3721)" -> "Nolene Norsworthy (3782)" [label=47]
+	"John Flanagan (1270)" -> "Nolene Norsworthy (3782)" [label=105]
+	"John Flanagan (1270)" -> "Jemma Tribe (4291)" [label=80]
+}

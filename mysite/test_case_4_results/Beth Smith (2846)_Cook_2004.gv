@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Beth Smith (2846)_Cook_2004" {
+	graph [label="Cook 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Andy Frew (5045)" [label="Andy Frew (5045)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Peter Phillips (5041)" [label="Peter Phillips (5041)
+No GST"]
+	"David Mendelssohn (5043)" [label="David Mendelssohn (5043)
+Australian Democrats"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Andy Frew (5045)" -> "Beth Smith (2846)" [label=619]
+	"Peter Phillips (5041)" -> "Andy Frew (5045)" [label=90]
+	"David Mendelssohn (5043)" -> "Peter Phillips (5041)" [label=49]
+	"Graeme Strang (2848)" -> "David Mendelssohn (5043)" [label=54]
+	"Peter Phillips (5041)" -> "Beth Smith (2846)" [label=43]
+	"David Mendelssohn (5043)" -> "Beth Smith (2846)" [label=28]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=19]
+	"Graeme Strang (2848)" -> "Peter Phillips (5041)" [label=41]
+	"David Mendelssohn (5043)" -> "Andy Frew (5045)" [label=32]
+	"Graeme Strang (2848)" -> "Andy Frew (5045)" [label=61]
+}

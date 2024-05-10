@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Daniel Williams (601)_Wide Bay_2022" {
+	graph [label="Wide Bay 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Daniel Williams (601)" [label="Daniel Williams (601)
+Australian Values Party"]
+	"John Woodward (598)" [label="John Woodward (598)
+Australian Federation Party"]
+	"John Woodward (598)" -> "Daniel Williams (601)" [label=54]
+}

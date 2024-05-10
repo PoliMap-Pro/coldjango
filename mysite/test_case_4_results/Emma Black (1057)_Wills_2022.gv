@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Emma Black (1057)_Wills_2022" {
+	graph [label="Wills 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Emma Black (1057)" [label="Emma Black (1057)
+Victorian Socialists"]
+	"Jill Tindal (1056)" [label="Jill Tindal (1056)
+Pauline Hanson's One Nation"]
+	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
+Animal Justice Party"]
+	"Sam Sergi (1058)" [label="Sam Sergi (1058)
+Australian Federation Party"]
+	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
+	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
+	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
+	"Leah Horsfall (1062)" -> "Emma Black (1057)" [label=151]
+	"Sam Sergi (1058)" -> "Emma Black (1057)" [label=82]
+	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Jane Boxall (1997)_Perth_2019" {
+	graph [label="Perth 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Chas Hopkins (2000)" -> "Jane Boxall (1997)" [label=237]
+	"Gary Davies (1999)" -> "Chas Hopkins (2000)" [label=74]
+	"Curtis Greening (2002)" -> "Gary Davies (1999)" [label=133]
+	"Gary Davies (1999)" -> "Jane Boxall (1997)" [label=335]
+	"Curtis Greening (2002)" -> "Jane Boxall (1997)" [label=74]
+	"Curtis Greening (2002)" -> "Chas Hopkins (2000)" [label=28]
+}

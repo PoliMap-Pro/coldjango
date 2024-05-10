@@ -1,0 +1,7 @@
+// House preference flow
+digraph "George James Muskett (2518)_Franklin_2016" {
+	graph [label="Franklin 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"George James Muskett (2518)" [label="George James Muskett (2518)
+Christian Democratic Party (Fred Nile Group)"]
+}

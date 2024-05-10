@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Paul Fletcher (60)_Bradfield_2013" {
+	graph [label="Bradfield 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Fletcher (60)" [label="Paul Fletcher (60)
+Liberal"]
+	"Pippa Mcinnes (2824)" [label="Pippa Mcinnes (2824)
+The Greens"]
+	"Blake Buchanan (2821)" [label="Blake Buchanan (2821)
+Palmer United Party"]
+	"John Archer (2823)" [label="John Archer (2823)
+Christian Democratic Party (Fred Nile Group)"]
+	"Paul Harrold (2822)" [label="Paul Harrold (2822)
+Democratic Labour Party (DLP)"]
+	"Pippa Mcinnes (2824)" -> "Paul Fletcher (60)" [label=2857]
+	"Blake Buchanan (2821)" -> "Pippa Mcinnes (2824)" [label=604]
+	"John Archer (2823)" -> "Blake Buchanan (2821)" [label=253]
+	"Paul Harrold (2822)" -> "John Archer (2823)" [label=180]
+	"Blake Buchanan (2821)" -> "Paul Fletcher (60)" [label=1141]
+	"John Archer (2823)" -> "Paul Fletcher (60)" [label=1102]
+	"Paul Harrold (2822)" -> "Paul Fletcher (60)" [label=165]
+	"Paul Harrold (2822)" -> "Blake Buchanan (2821)" [label=184]
+	"John Archer (2823)" -> "Pippa Mcinnes (2824)" [label=158]
+	"Paul Harrold (2822)" -> "Pippa Mcinnes (2824)" [label=113]
+}

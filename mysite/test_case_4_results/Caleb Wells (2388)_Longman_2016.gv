@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Caleb Wells (2388)_Longman_2016" {
+	graph [label="Longman 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kelly O'Dwyer (2620)_Higgins_2013" {
+	graph [label="Higgins 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kelly O'Dwyer (2620)" [label="Kelly O'Dwyer (2620)
+Liberal"]
+	"James Harrison (3437)" [label="James Harrison (3437)
+The Greens"]
+	"Graeme B Weber (3438)" [label="Graeme B Weber (3438)
+Independent"]
+	"Phillip Leslie Dall (3436)" [label="Phillip Leslie Dall (3436)
+Palmer United Party"]
+	"Jamie Baldwin (3433)" [label="Jamie Baldwin (3433)
+Family First Party"]
+	"Leanne Price (3435)" [label="Leanne Price (3435)
+Rise Up Australia Party"]
+	"James Harrison (3437)" -> "Kelly O'Dwyer (2620)" [label=3047]
+	"Graeme B Weber (3438)" -> "James Harrison (3437)" [label=910]
+	"Phillip Leslie Dall (3436)" -> "Graeme B Weber (3438)" [label=413]
+	"Jamie Baldwin (3433)" -> "Phillip Leslie Dall (3436)" [label=93]
+	"Leanne Price (3435)" -> "Jamie Baldwin (3433)" [label=81]
+	"Graeme B Weber (3438)" -> "Kelly O'Dwyer (2620)" [label=920]
+	"Phillip Leslie Dall (3436)" -> "Kelly O'Dwyer (2620)" [label=487]
+	"Jamie Baldwin (3433)" -> "Kelly O'Dwyer (2620)" [label=341]
+	"Leanne Price (3435)" -> "Kelly O'Dwyer (2620)" [label=61]
+	"Leanne Price (3435)" -> "Phillip Leslie Dall (3436)" [label=60]
+	"Jamie Baldwin (3433)" -> "Graeme B Weber (3438)" [label=143]
+	"Leanne Price (3435)" -> "Graeme B Weber (3438)" [label=38]
+	"Phillip Leslie Dall (3436)" -> "James Harrison (3437)" [label=350]
+	"Jamie Baldwin (3433)" -> "James Harrison (3437)" [label=109]
+	"Leanne Price (3435)" -> "James Harrison (3437)" [label=45]
+}

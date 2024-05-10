@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Ben Rushton (1206)_Bean_2019" {
+	graph [label="Bean 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Rushton (1206)" [label="Ben Rushton (1206)
+The Great Australian Party"]
+}

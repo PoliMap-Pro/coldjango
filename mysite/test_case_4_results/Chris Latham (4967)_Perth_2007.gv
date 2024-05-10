@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chris Latham (4967)_Perth_2007" {
+	graph [label="Perth 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Latham (4967)" [label="Chris Latham (4967)
+Socialist Alliance"]
+	"Orm Girvan (4969)" [label="Orm Girvan (4969)
+Citizens Electoral Council"]
+	"Orm Girvan (4969)" -> "Chris Latham (4967)" [label=16]
+}

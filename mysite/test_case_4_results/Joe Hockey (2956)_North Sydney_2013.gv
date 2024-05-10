@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Joe Hockey (2956)_North Sydney_2013" {
+	graph [label="North Sydney 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joe Hockey (2956)" [label="Joe Hockey (2956)
+Liberal"]
+	"Alison Haines (2957)" [label="Alison Haines (2957)
+The Greens"]
+	"Raheam Khan (2955)" [label="Raheam Khan (2955)
+Palmer United Party"]
+	"Maureen Guthrie (2959)" [label="Maureen Guthrie (2959)
+Christian Democratic Party (Fred Nile Group)"]
+	"Angus Mccaffrey (2958)" [label="Angus Mccaffrey (2958)
+Democratic Labour Party (DLP)"]
+	"Alison Haines (2957)" -> "Joe Hockey (2956)" [label=2652]
+	"Raheam Khan (2955)" -> "Alison Haines (2957)" [label=438]
+	"Maureen Guthrie (2959)" -> "Raheam Khan (2955)" [label=147]
+	"Angus Mccaffrey (2958)" -> "Maureen Guthrie (2959)" [label=130]
+	"Raheam Khan (2955)" -> "Joe Hockey (2956)" [label=896]
+	"Maureen Guthrie (2959)" -> "Joe Hockey (2956)" [label=553]
+	"Angus Mccaffrey (2958)" -> "Joe Hockey (2956)" [label=182]
+	"Angus Mccaffrey (2958)" -> "Raheam Khan (2955)" [label=58]
+	"Maureen Guthrie (2959)" -> "Alison Haines (2957)" [label=107]
+	"Angus Mccaffrey (2958)" -> "Alison Haines (2957)" [label=169]
+}

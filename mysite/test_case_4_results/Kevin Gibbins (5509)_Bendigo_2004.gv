@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Kevin Gibbins (5509)_Bendigo_2004" {
+	graph [label="Bendigo 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Gibbins (5509)" [label="Kevin Gibbins (5509)
+Liberal"]
+	"David Petersen (5512)" [label="David Petersen (5512)
+Australian Greens"]
+	"Nathan Hulls (5510)" [label="Nathan Hulls (5510)
+Family First"]
+	"Vern White (5511)" [label="Vern White (5511)
+Citizens Electoral Council"]
+	"David Petersen (5512)" -> "Kevin Gibbins (5509)" [label=923]
+	"Nathan Hulls (5510)" -> "David Petersen (5512)" [label=407]
+	"Vern White (5511)" -> "Nathan Hulls (5510)" [label=134]
+	"Nathan Hulls (5510)" -> "Kevin Gibbins (5509)" [label=2199]
+	"Vern White (5511)" -> "Kevin Gibbins (5509)" [label=53]
+	"Vern White (5511)" -> "David Petersen (5512)" [label=98]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mark K.C. Moody-Basedow (1341)_Lindsay_2019" {
+	graph [label="Lindsay 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jim Saleam (1342)" [label="Jim Saleam (1342)
+Australia First Party"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Sustainable Australia"]
+	"Jim Saleam (1342)" -> "Mark K.C. Moody-Basedow (1341)" [label=306]
+	"Geoff Brown (1340)" -> "Jim Saleam (1342)" [label=147]
+	"Geoff Brown (1340)" -> "Mark K.C. Moody-Basedow (1341)" [label=76]
+}

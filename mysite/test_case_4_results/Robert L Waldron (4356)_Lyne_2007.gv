@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Robert L Waldron (4356)_Lyne_2007" {
+	graph [label="Lyne 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert L Waldron (4356)" [label="Robert L Waldron (4356)
+Christian Democratic Party (Fred Nile Group)"]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Barry Wright (3778)" -> "Robert L Waldron (4356)" [label=65]
+	"Stewart Gordon Scott-Irving (4352)" -> "Barry Wright (3778)" [label=76]
+	"Rodger Riach (4354)" -> "Stewart Gordon Scott-Irving (4352)" [label=25]
+	"Graeme Muldoon (4355)" -> "Rodger Riach (4354)" [label=29]
+	"Stewart Gordon Scott-Irving (4352)" -> "Robert L Waldron (4356)" [label=21]
+	"Rodger Riach (4354)" -> "Robert L Waldron (4356)" [label=26]
+	"Graeme Muldoon (4355)" -> "Robert L Waldron (4356)" [label=40]
+	"Graeme Muldoon (4355)" -> "Stewart Gordon Scott-Irving (4352)" [label=10]
+	"Rodger Riach (4354)" -> "Barry Wright (3778)" [label=43]
+	"Graeme Muldoon (4355)" -> "Barry Wright (3778)" [label=17]
+}

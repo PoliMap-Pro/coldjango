@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Gary Coombes (3356)_Casey_2013" {
+	graph [label="Casey 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gary Coombes (3356)" [label="Gary Coombes (3356)
+Family First Party"]
+	"Jeanette Mcrae (3360)" [label="Jeanette Mcrae (3360)
+Independent"]
+	"Mike Brown (3359)" [label="Mike Brown (3359)
+Australian Christians"]
+	"Jeffrey Andrew Leake (3358)" [label="Jeffrey Andrew Leake (3358)
+Country Alliance"]
+	"Paul Barbieri (3361)" [label="Paul Barbieri (3361)
+Rise Up Australia Party"]
+	"Jeanette Mcrae (3360)" -> "Gary Coombes (3356)" [label=236]
+	"Mike Brown (3359)" -> "Jeanette Mcrae (3360)" [label=99]
+	"Jeffrey Andrew Leake (3358)" -> "Mike Brown (3359)" [label=41]
+	"Paul Barbieri (3361)" -> "Jeffrey Andrew Leake (3358)" [label=34]
+	"Mike Brown (3359)" -> "Gary Coombes (3356)" [label=783]
+	"Jeffrey Andrew Leake (3358)" -> "Gary Coombes (3356)" [label=151]
+	"Paul Barbieri (3361)" -> "Gary Coombes (3356)" [label=51]
+	"Paul Barbieri (3361)" -> "Mike Brown (3359)" [label=139]
+	"Jeffrey Andrew Leake (3358)" -> "Jeanette Mcrae (3360)" [label=137]
+	"Paul Barbieri (3361)" -> "Jeanette Mcrae (3360)" [label=40]
+}

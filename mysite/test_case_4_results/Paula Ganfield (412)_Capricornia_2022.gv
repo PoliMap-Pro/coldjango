@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Paula Ganfield (412)_Capricornia_2022" {
+	graph [label="Capricornia 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paula Ganfield (412)" [label="Paula Ganfield (412)
+Informed Medical Options Party"]
+}

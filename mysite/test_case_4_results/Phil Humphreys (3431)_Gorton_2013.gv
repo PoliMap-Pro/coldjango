@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Phil Humphreys (3431)_Gorton_2013" {
+	graph [label="Gorton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Phil Humphreys (3431)" [label="Phil Humphreys (3431)
+Liberal"]
+	"Dinesh Jayasuriya (3425)" [label="Dinesh Jayasuriya (3425)
+The Greens"]
+	"Anthony Paul Barnes (3430)" [label="Anthony Paul Barnes (3430)
+Palmer United Party"]
+	"Rhiannon Hunter (3426)" [label="Rhiannon Hunter (3426)
+Sex Party"]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First Party"]
+	"Michael Deverala (3428)" [label="Michael Deverala (3428)
+DLP Democratic Labour"]
+	"Mabor Chadhuol (3427)" [label="Mabor Chadhuol (3427)
+Australian Christians"]
+	"Graham Macardy (3429)" [label="Graham Macardy (3429)
+Katter's Australian Party"]
+	"Dinesh Jayasuriya (3425)" -> "Phil Humphreys (3431)" [label=2222]
+	"Anthony Paul Barnes (3430)" -> "Dinesh Jayasuriya (3425)" [label=1768]
+	"Rhiannon Hunter (3426)" -> "Anthony Paul Barnes (3430)" [label=692]
+	"Scott Amberley (3432)" -> "Rhiannon Hunter (3426)" [label=358]
+	"Michael Deverala (3428)" -> "Scott Amberley (3432)" [label=525]
+	"Mabor Chadhuol (3427)" -> "Michael Deverala (3428)" [label=153]
+	"Graham Macardy (3429)" -> "Mabor Chadhuol (3427)" [label=52]
+	"Anthony Paul Barnes (3430)" -> "Phil Humphreys (3431)" [label=3377]
+	"Rhiannon Hunter (3426)" -> "Phil Humphreys (3431)" [label=397]
+	"Scott Amberley (3432)" -> "Phil Humphreys (3431)" [label=939]
+	"Michael Deverala (3428)" -> "Phil Humphreys (3431)" [label=175]
+	"Mabor Chadhuol (3427)" -> "Phil Humphreys (3431)" [label=157]
+	"Graham Macardy (3429)" -> "Phil Humphreys (3431)" [label=86]
+	"Graham Macardy (3429)" -> "Michael Deverala (3428)" [label=129]
+	"Mabor Chadhuol (3427)" -> "Scott Amberley (3432)" [label=332]
+	"Graham Macardy (3429)" -> "Scott Amberley (3432)" [label=57]
+	"Michael Deverala (3428)" -> "Rhiannon Hunter (3426)" [label=424]
+	"Mabor Chadhuol (3427)" -> "Rhiannon Hunter (3426)" [label=106]
+	"Graham Macardy (3429)" -> "Rhiannon Hunter (3426)" [label=79]
+	"Scott Amberley (3432)" -> "Anthony Paul Barnes (3430)" [label=811]
+	"Michael Deverala (3428)" -> "Anthony Paul Barnes (3430)" [label=153]
+	"Mabor Chadhuol (3427)" -> "Anthony Paul Barnes (3430)" [label=166]
+	"Graham Macardy (3429)" -> "Anthony Paul Barnes (3430)" [label=399]
+	"Rhiannon Hunter (3426)" -> "Dinesh Jayasuriya (3425)" [label=1677]
+	"Scott Amberley (3432)" -> "Dinesh Jayasuriya (3425)" [label=549]
+	"Michael Deverala (3428)" -> "Dinesh Jayasuriya (3425)" [label=455]
+	"Mabor Chadhuol (3427)" -> "Dinesh Jayasuriya (3425)" [label=112]
+	"Graham Macardy (3429)" -> "Dinesh Jayasuriya (3425)" [label=102]
+}

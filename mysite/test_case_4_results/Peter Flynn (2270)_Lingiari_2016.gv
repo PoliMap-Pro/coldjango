@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Peter Flynn (2270)_Lingiari_2016" {
+	graph [label="Lingiari 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+}

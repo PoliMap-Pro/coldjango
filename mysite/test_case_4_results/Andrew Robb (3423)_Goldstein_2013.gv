@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Robb (3423)_Goldstein_2013" {
+	graph [label="Goldstein 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Robb (3423)" [label="Andrew Robb (3423)
+Liberal"]
+	"Rose Read (3421)" [label="Rose Read (3421)
+The Greens"]
+	"Keith Rodney Ryder (3420)" [label="Keith Rodney Ryder (3420)
+Palmer United Party"]
+	"Ian Joyner (3424)" [label="Ian Joyner (3424)
+Family First Party"]
+	"Lynette Hannie (3422)" [label="Lynette Hannie (3422)
+Rise Up Australia Party"]
+	"Rose Read (3421)" -> "Andrew Robb (3423)" [label=2612]
+	"Keith Rodney Ryder (3420)" -> "Rose Read (3421)" [label=676]
+	"Ian Joyner (3424)" -> "Keith Rodney Ryder (3420)" [label=177]
+	"Lynette Hannie (3422)" -> "Ian Joyner (3424)" [label=186]
+	"Keith Rodney Ryder (3420)" -> "Andrew Robb (3423)" [label=973]
+	"Ian Joyner (3424)" -> "Andrew Robb (3423)" [label=378]
+	"Lynette Hannie (3422)" -> "Andrew Robb (3423)" [label=132]
+	"Lynette Hannie (3422)" -> "Keith Rodney Ryder (3420)" [label=98]
+	"Ian Joyner (3424)" -> "Rose Read (3421)" [label=232]
+	"Lynette Hannie (3422)" -> "Rose Read (3421)" [label=112]
+}

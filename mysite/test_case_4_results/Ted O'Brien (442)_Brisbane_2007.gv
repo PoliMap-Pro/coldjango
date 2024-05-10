@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Ted O'Brien (442)_Brisbane_2007" {
+	graph [label="Brisbane 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ted O'Brien (442)" [label="Ted O'Brien (442)
+Liberal"]
+	"Elizabeth Guthrie (4499)" [label="Elizabeth Guthrie (4499)
+The Greens"]
+	"Don Sinnamon (4500)" [label="Don Sinnamon (4500)
+Democrats"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
+	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
+Socialist Alliance"]
+	"Nick Contarino (3175)" [label="Nick Contarino (3175)
+Citizens Electoral Council"]
+	"Elizabeth Guthrie (4499)" -> "Ted O'Brien (442)" [label=2169]
+	"Don Sinnamon (4500)" -> "Elizabeth Guthrie (4499)" [label=929]
+	"Mark A White (2420)" -> "Don Sinnamon (4500)" [label=152]
+	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=28]
+	"Nick Contarino (3175)" -> "Ewan Saunders (3887)" [label=15]
+	"Don Sinnamon (4500)" -> "Ted O'Brien (442)" [label=231]
+	"Mark A White (2420)" -> "Ted O'Brien (442)" [label=607]
+	"Ewan Saunders (3887)" -> "Ted O'Brien (442)" [label=191]
+	"Nick Contarino (3175)" -> "Ted O'Brien (442)" [label=25]
+	"Nick Contarino (3175)" -> "Mark A White (2420)" [label=15]
+	"Ewan Saunders (3887)" -> "Don Sinnamon (4500)" [label=49]
+	"Nick Contarino (3175)" -> "Don Sinnamon (4500)" [label=17]
+	"Mark A White (2420)" -> "Elizabeth Guthrie (4499)" [label=227]
+	"Ewan Saunders (3887)" -> "Elizabeth Guthrie (4499)" [label=223]
+	"Nick Contarino (3175)" -> "Elizabeth Guthrie (4499)" [label=33]
+}

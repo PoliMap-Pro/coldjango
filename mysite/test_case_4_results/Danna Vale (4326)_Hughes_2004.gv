@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Danna Vale (4326)_Hughes_2004" {
+	graph [label="Hughes 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Danna Vale (4326)" [label="Danna Vale (4326)
+Liberal"]
+	"Lorraine Dixon (5101)" [label="Lorraine Dixon (5101)
+The Greens"]
+	"John Vanderjagt (4330)" [label="John Vanderjagt (4330)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bob Davis (5102)" [label="Bob Davis (5102)
+Ex-Service, Service & Veterans Party"]
+	"Rob Bunt (5100)" [label="Rob Bunt (5100)
+Australian Democrats"]
+	"Lorraine Dixon (5101)" -> "Danna Vale (4326)" [label=1460]
+	"John Vanderjagt (4330)" -> "Lorraine Dixon (5101)" [label=289]
+	"Bob Davis (5102)" -> "John Vanderjagt (4330)" [label=192]
+	"Rob Bunt (5100)" -> "Bob Davis (5102)" [label=124]
+	"John Vanderjagt (4330)" -> "Danna Vale (4326)" [label=2091]
+	"Bob Davis (5102)" -> "Danna Vale (4326)" [label=527]
+	"Rob Bunt (5100)" -> "Danna Vale (4326)" [label=475]
+	"Rob Bunt (5100)" -> "John Vanderjagt (4330)" [label=52]
+	"Bob Davis (5102)" -> "Lorraine Dixon (5101)" [label=562]
+	"Rob Bunt (5100)" -> "Lorraine Dixon (5101)" [label=229]
+}

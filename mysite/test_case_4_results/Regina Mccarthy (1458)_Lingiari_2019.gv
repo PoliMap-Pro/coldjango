@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Regina Mccarthy (1458)_Lingiari_2019" {
+	graph [label="Lingiari 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
+	"Daniel Isaac Hodgson (1457)" [label="Daniel Isaac Hodgson (1457)
+United Australia Party"]
+	"Daniel Isaac Hodgson (1457)" -> "Regina Mccarthy (1458)" [label=418]
+}

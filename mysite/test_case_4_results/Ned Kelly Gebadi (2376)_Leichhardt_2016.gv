@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ned Kelly Gebadi (2376)_Leichhardt_2016" {
+	graph [label="Leichhardt 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
+Family First"]
+	"John Kelly (2372)" [label="John Kelly (2372)
+Rise Up Australia Party"]
+	"Michael Newie (2377)" [label="Michael Newie (2377)
+Independent"]
+	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
+	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
+	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
+}

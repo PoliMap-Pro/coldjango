@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Margaret May (4607)_McPherson_2007" {
+	graph [label="McPherson 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Margaret May (4607)" [label="Margaret May (4607)
+Liberal"]
+	"Ben O'Callaghan (3957)" [label="Ben O'Callaghan (3957)
+The Greens"]
+	"Kevin Davis (4608)" [label="Kevin Davis (4608)
+Family First"]
+	"Lori Carnwell (4605)" [label="Lori Carnwell (4605)
+Democrats"]
+	"Tyrone Jackson (4606)" [label="Tyrone Jackson (4606)
+Independent"]
+	"Geoff Cornell (3215)" [label="Geoff Cornell (3215)
+Citizens Electoral Council"]
+	"Ben O'Callaghan (3957)" -> "Margaret May (4607)" [label=2238]
+	"Kevin Davis (4608)" -> "Ben O'Callaghan (3957)" [label=378]
+	"Lori Carnwell (4605)" -> "Kevin Davis (4608)" [label=66]
+	"Tyrone Jackson (4606)" -> "Lori Carnwell (4605)" [label=168]
+	"Geoff Cornell (3215)" -> "Tyrone Jackson (4606)" [label=18]
+	"Kevin Davis (4608)" -> "Margaret May (4607)" [label=668]
+	"Lori Carnwell (4605)" -> "Margaret May (4607)" [label=147]
+	"Tyrone Jackson (4606)" -> "Margaret May (4607)" [label=139]
+	"Geoff Cornell (3215)" -> "Margaret May (4607)" [label=24]
+	"Geoff Cornell (3215)" -> "Lori Carnwell (4605)" [label=10]
+	"Tyrone Jackson (4606)" -> "Kevin Davis (4608)" [label=110]
+	"Geoff Cornell (3215)" -> "Kevin Davis (4608)" [label=26]
+	"Lori Carnwell (4605)" -> "Ben O'Callaghan (3957)" [label=608]
+	"Tyrone Jackson (4606)" -> "Ben O'Callaghan (3957)" [label=169]
+	"Geoff Cornell (3215)" -> "Ben O'Callaghan (3957)" [label=11]
+}

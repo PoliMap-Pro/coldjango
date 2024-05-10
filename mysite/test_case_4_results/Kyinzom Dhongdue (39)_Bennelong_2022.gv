@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kyinzom Dhongdue (39)_Bennelong_2022" {
+	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
+Democratic Alliance"]
+}

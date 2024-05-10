@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Geoff Prosser (5694)_Forrest_2004" {
+	graph [label="Forrest 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Prosser (5694)" [label="Geoff Prosser (5694)
+Liberal"]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"Alan Giorgi (5692)" [label="Alan Giorgi (5692)
+Pauline Hanson's One Nation"]
+	"Shane Flanegan (5689)" [label="Shane Flanegan (5689)
+CDP Christian Party"]
+	"Adam Welch (5690)" [label="Adam Welch (5690)
+Australian Democrats"]
+	"Linda Rose (5691)" [label="Linda Rose (5691)
+Family First"]
+	"Ken Vagg (5688)" [label="Ken Vagg (5688)
+New Country Party"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Kingsley Gibson (4926)" -> "Geoff Prosser (5694)" [label=2240]
+	"Alan Giorgi (5692)" -> "Kingsley Gibson (4926)" [label=1057]
+	"Shane Flanegan (5689)" -> "Alan Giorgi (5692)" [label=914]
+	"Adam Welch (5690)" -> "Shane Flanegan (5689)" [label=283]
+	"Linda Rose (5691)" -> "Adam Welch (5690)" [label=175]
+	"Ken Vagg (5688)" -> "Linda Rose (5691)" [label=124]
+	"Ian Tuffnell (3605)" -> "Ken Vagg (5688)" [label=58]
+	"Alan Giorgi (5692)" -> "Geoff Prosser (5694)" [label=1444]
+	"Shane Flanegan (5689)" -> "Geoff Prosser (5694)" [label=897]
+	"Adam Welch (5690)" -> "Geoff Prosser (5694)" [label=302]
+	"Linda Rose (5691)" -> "Geoff Prosser (5694)" [label=315]
+	"Ken Vagg (5688)" -> "Geoff Prosser (5694)" [label=174]
+	"Ian Tuffnell (3605)" -> "Geoff Prosser (5694)" [label=77]
+	"Ian Tuffnell (3605)" -> "Linda Rose (5691)" [label=21]
+	"Ken Vagg (5688)" -> "Adam Welch (5690)" [label=151]
+	"Ian Tuffnell (3605)" -> "Adam Welch (5690)" [label=13]
+	"Linda Rose (5691)" -> "Shane Flanegan (5689)" [label=296]
+	"Ken Vagg (5688)" -> "Shane Flanegan (5689)" [label=489]
+	"Ian Tuffnell (3605)" -> "Shane Flanegan (5689)" [label=17]
+	"Adam Welch (5690)" -> "Alan Giorgi (5692)" [label=229]
+	"Linda Rose (5691)" -> "Alan Giorgi (5692)" [label=192]
+	"Ken Vagg (5688)" -> "Alan Giorgi (5692)" [label=80]
+	"Ian Tuffnell (3605)" -> "Alan Giorgi (5692)" [label=39]
+	"Shane Flanegan (5689)" -> "Kingsley Gibson (4926)" [label=218]
+	"Adam Welch (5690)" -> "Kingsley Gibson (4926)" [label=475]
+	"Linda Rose (5691)" -> "Kingsley Gibson (4926)" [label=222]
+	"Ken Vagg (5688)" -> "Kingsley Gibson (4926)" [label=61]
+	"Ian Tuffnell (3605)" -> "Kingsley Gibson (4926)" [label=71]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Leo Abbott (3867)_Lingiari_2010" {
+	graph [label="Lingiari 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leo Abbott (3867)" [label="Leo Abbott (3867)
+Country Liberals (NT)"]
+	"Barbara Shaw (3043)" [label="Barbara Shaw (3043)
+The Greens"]
+	"Deirdre Finter (3869)" [label="Deirdre Finter (3869)
+Independent"]
+	"Kenny Lechleitner (3868)" [label="Kenny Lechleitner (3868)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Barbara Shaw (3043)" -> "Leo Abbott (3867)" [label=2788]
+	"Deirdre Finter (3869)" -> "Barbara Shaw (3043)" [label=1161]
+	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
+	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
+	"Deirdre Finter (3869)" -> "Leo Abbott (3867)" [label=922]
+	"Kenny Lechleitner (3868)" -> "Leo Abbott (3867)" [label=480]
+	"Peter Flynn (2270)" -> "Leo Abbott (3867)" [label=978]
+	"Peter Flynn (2270)" -> "Deirdre Finter (3869)" [label=145]
+	"Kenny Lechleitner (3868)" -> "Barbara Shaw (3043)" [label=462]
+	"Peter Flynn (2270)" -> "Barbara Shaw (3043)" [label=230]
+}

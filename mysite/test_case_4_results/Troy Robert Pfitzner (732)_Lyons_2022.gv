@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Troy Robert Pfitzner (732)_Lyons_2022" {
+	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Troy Robert Pfitzner (732)" [label="Troy Robert Pfitzner (732)
+Jacqui Lambie Network"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Liz Johnstone (734)" -> "Troy Robert Pfitzner (732)" [label=3243]
+	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
+	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
+	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
+	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
+	"Emma Jane Goyne (733)" -> "Troy Robert Pfitzner (732)" [label=2630]
+	"Jason Evans (731)" -> "Troy Robert Pfitzner (732)" [label=639]
+	"Anna Megan Gralton (730)" -> "Troy Robert Pfitzner (732)" [label=293]
+	"Rhys Griffiths (728)" -> "Troy Robert Pfitzner (732)" [label=81]
+	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]
+	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
+	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
+	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
+	"Anna Megan Gralton (730)" -> "Liz Johnstone (734)" [label=374]
+	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
+}

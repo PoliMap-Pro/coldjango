@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Nicholas Andrew Robinson (1987)_O'Connor_2019" {
+	graph [label="O'Connor 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicholas Andrew Robinson (1987)" [label="Nicholas Andrew Robinson (1987)
+The Great Australian Party"]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Gunness (1149)_Moore_2022" {
+	graph [label="Moore 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Gunness (1149)" [label="Peter Gunness (1149)
+WESTERN AUSTRALIA PARTY"]
+	"Helen Watkinson (1154)" [label="Helen Watkinson (1154)
+United Australia Party"]
+	"Sue Andersson (1148)" [label="Sue Andersson (1148)
+The Great Australian Party"]
+	"Martin Suter (1155)" [label="Martin Suter (1155)
+Australian Federation Party"]
+	"Helen Watkinson (1154)" -> "Peter Gunness (1149)" [label=456]
+	"Sue Andersson (1148)" -> "Helen Watkinson (1154)" [label=420]
+	"Martin Suter (1155)" -> "Sue Andersson (1148)" [label=257]
+	"Sue Andersson (1148)" -> "Peter Gunness (1149)" [label=808]
+	"Martin Suter (1155)" -> "Peter Gunness (1149)" [label=96]
+	"Martin Suter (1155)" -> "Helen Watkinson (1154)" [label=170]
+}

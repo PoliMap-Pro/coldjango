@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Keith Piper (1402)_Parramatta_2016" {
+	graph [label="Parramatta 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Piper (1402)" [label="Keith Piper (1402)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
+Independent"]
+	"Mark Guest (2200)" [label="Mark Guest (2200)
+Liberal Democrats"]
+	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
+Family First"]
+	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
+Online Direct Democracy - (Empowering the People!)"]
+	"Mahesh Raj (2199)" -> "Keith Piper (1402)" [label=298]
+	"Mark Guest (2200)" -> "Mahesh Raj (2199)" [label=189]
+	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
+	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
+	"Mark Guest (2200)" -> "Keith Piper (1402)" [label=358]
+	"Mikaela Wu (2201)" -> "Keith Piper (1402)" [label=312]
+	"Andrew Driessen (2202)" -> "Keith Piper (1402)" [label=36]
+	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
+	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
+	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
+}

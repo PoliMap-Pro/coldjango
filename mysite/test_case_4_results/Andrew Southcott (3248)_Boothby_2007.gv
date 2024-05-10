@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Andrew Southcott (3248)_Boothby_2007" {
+	graph [label="Boothby 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Southcott (3248)" [label="Andrew Southcott (3248)
+Liberal"]
+	"Jodi Kirkby (4657)" [label="Jodi Kirkby (4657)
+The Greens"]
+	"Ray Mcghee (3993)" [label="Ray Mcghee (3993)
+Independent"]
+	"Andrew Cole (4658)" [label="Andrew Cole (4658)
+Family First Party"]
+	"Craig Bossie (2478)" [label="Craig Bossie (2478)
+Australian Democrats"]
+	"Barbara Pannach (4654)" [label="Barbara Pannach (4654)
+One Nation"]
+	"David Humphreys (4656)" [label="David Humphreys (4656)
+LDP"]
+	"Jodi Kirkby (4657)" -> "Andrew Southcott (3248)" [label=2997]
+	"Ray Mcghee (3993)" -> "Jodi Kirkby (4657)" [label=1633]
+	"Andrew Cole (4658)" -> "Ray Mcghee (3993)" [label=330]
+	"Craig Bossie (2478)" -> "Andrew Cole (4658)" [label=47]
+	"Barbara Pannach (4654)" -> "Craig Bossie (2478)" [label=35]
+	"David Humphreys (4656)" -> "Barbara Pannach (4654)" [label=15]
+	"Ray Mcghee (3993)" -> "Andrew Southcott (3248)" [label=1470]
+	"Andrew Cole (4658)" -> "Andrew Southcott (3248)" [label=1276]
+	"Craig Bossie (2478)" -> "Andrew Southcott (3248)" [label=161]
+	"Barbara Pannach (4654)" -> "Andrew Southcott (3248)" [label=50]
+	"David Humphreys (4656)" -> "Andrew Southcott (3248)" [label=25]
+	"David Humphreys (4656)" -> "Craig Bossie (2478)" [label=5]
+	"Barbara Pannach (4654)" -> "Andrew Cole (4658)" [label=55]
+	"David Humphreys (4656)" -> "Andrew Cole (4658)" [label=13]
+	"Craig Bossie (2478)" -> "Ray Mcghee (3993)" [label=296]
+	"Barbara Pannach (4654)" -> "Ray Mcghee (3993)" [label=78]
+	"David Humphreys (4656)" -> "Ray Mcghee (3993)" [label=18]
+	"Andrew Cole (4658)" -> "Jodi Kirkby (4657)" [label=328]
+	"Craig Bossie (2478)" -> "Jodi Kirkby (4657)" [label=607]
+	"Barbara Pannach (4654)" -> "Jodi Kirkby (4657)" [label=44]
+	"David Humphreys (4656)" -> "Jodi Kirkby (4657)" [label=39]
+}

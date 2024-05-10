@@ -1,0 +1,31 @@
+// House preference flow
+digraph "Josh Davidson (3527)_Melbourne_2013" {
+	graph [label="Melbourne 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Josh Davidson (3527)" [label="Josh Davidson (3527)
+Bullet Train For Australia"]
+	"Frazer Kirkman (3531)" [label="Frazer Kirkman (3531)
+Independent"]
+	"Royston Wilding (3529)" [label="Royston Wilding (3529)
+Secular Party of Australia"]
+	"Michael Bayliss (3525)" [label="Michael Bayliss (3525)
+Stable Population Party"]
+	"Paul Cummins (3532)" [label="Paul Cummins (3532)
+Australian Independents"]
+	"Joyce Mei Lin Khoo (3528)" [label="Joyce Mei Lin Khoo (3528)
+Rise Up Australia Party"]
+	"Frazer Kirkman (3531)" -> "Josh Davidson (3527)" [label=12]
+	"Royston Wilding (3529)" -> "Frazer Kirkman (3531)" [label=14]
+	"Michael Bayliss (3525)" -> "Royston Wilding (3529)" [label=16]
+	"Paul Cummins (3532)" -> "Michael Bayliss (3525)" [label=2]
+	"Joyce Mei Lin Khoo (3528)" -> "Paul Cummins (3532)" [label=4]
+	"Royston Wilding (3529)" -> "Josh Davidson (3527)" [label=20]
+	"Michael Bayliss (3525)" -> "Josh Davidson (3527)" [label=5]
+	"Paul Cummins (3532)" -> "Josh Davidson (3527)" [label=4]
+	"Joyce Mei Lin Khoo (3528)" -> "Josh Davidson (3527)" [label=14]
+	"Joyce Mei Lin Khoo (3528)" -> "Michael Bayliss (3525)" [label=8]
+	"Paul Cummins (3532)" -> "Royston Wilding (3529)" [label=9]
+	"Joyce Mei Lin Khoo (3528)" -> "Royston Wilding (3529)" [label=6]
+	"Michael Bayliss (3525)" -> "Frazer Kirkman (3531)" [label=8]
+	"Paul Cummins (3532)" -> "Frazer Kirkman (3531)" [label=77]
+}

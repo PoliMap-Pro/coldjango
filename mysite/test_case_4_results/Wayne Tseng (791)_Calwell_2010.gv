@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Wayne Tseng (791)_Calwell_2010" {
+	graph [label="Calwell 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wayne Tseng (791)" [label="Wayne Tseng (791)
+Liberal"]
+	"Lenka Thompson (4058)" [label="Lenka Thompson (4058)
+Australian Greens"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Family First"]
+	"Peter Byrne (1746)" [label="Peter Byrne (1746)
+Socialist Equality Party"]
+	"Lenka Thompson (4058)" -> "Wayne Tseng (791)" [label=2394]
+	"Jeff Truscott (1846)" -> "Lenka Thompson (4058)" [label=1384]
+	"Peter Byrne (1746)" -> "Jeff Truscott (1846)" [label=355]
+	"Jeff Truscott (1846)" -> "Wayne Tseng (791)" [label=1463]
+	"Peter Byrne (1746)" -> "Wayne Tseng (791)" [label=96]
+	"Peter Byrne (1746)" -> "Lenka Thompson (4058)" [label=508]
+}

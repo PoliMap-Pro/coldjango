@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Bronwyn Bishop (2930)_Mackellar_2010" {
+	graph [label="Mackellar 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bronwyn Bishop (2930)" [label="Bronwyn Bishop (2930)
+Liberal"]
+	"Jonathan King (2926)" [label="Jonathan King (2926)
+The Greens"]
+	"Jonathan King (2926)" -> "Bronwyn Bishop (2930)" [label=3135]
+}

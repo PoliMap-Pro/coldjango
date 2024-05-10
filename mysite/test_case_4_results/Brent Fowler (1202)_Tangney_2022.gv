@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Brent Fowler (1202)_Tangney_2022" {
+	graph [label="Tangney 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brent Fowler (1202)" [label="Brent Fowler (1202)
+Australian Federation Party"]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Sue Bull (810)_Corio_2016" {
+	graph [label="Corio 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+}

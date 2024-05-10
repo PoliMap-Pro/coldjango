@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Mal Brough (3105)_Longman_2007" {
+	graph [label="Longman 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mal Brough (3105)" [label="Mal Brough (3105)
+Liberal"]
+	"Paul Costin (4598)" [label="Paul Costin (4598)
+The Greens"]
+	"Peter Urquhart (4597)" [label="Peter Urquhart (4597)
+Family First"]
+	"Liz Oss-Emer (4595)" [label="Liz Oss-Emer (4595)
+Democrats"]
+	"Trent John Macdonald (4596)" [label="Trent John Macdonald (4596)
+LDP"]
+	"Dan Winniak (4599)" [label="Dan Winniak (4599)
+Citizens Electoral Council"]
+	"Paul Costin (4598)" -> "Mal Brough (3105)" [label=1231]
+	"Peter Urquhart (4597)" -> "Paul Costin (4598)" [label=977]
+	"Liz Oss-Emer (4595)" -> "Peter Urquhart (4597)" [label=492]
+	"Trent John Macdonald (4596)" -> "Liz Oss-Emer (4595)" [label=123]
+	"Dan Winniak (4599)" -> "Trent John Macdonald (4596)" [label=16]
+	"Peter Urquhart (4597)" -> "Mal Brough (3105)" [label=673]
+	"Liz Oss-Emer (4595)" -> "Mal Brough (3105)" [label=130]
+	"Trent John Macdonald (4596)" -> "Mal Brough (3105)" [label=76]
+	"Dan Winniak (4599)" -> "Mal Brough (3105)" [label=38]
+	"Dan Winniak (4599)" -> "Liz Oss-Emer (4595)" [label=17]
+	"Trent John Macdonald (4596)" -> "Peter Urquhart (4597)" [label=91]
+	"Dan Winniak (4599)" -> "Peter Urquhart (4597)" [label=33]
+	"Liz Oss-Emer (4595)" -> "Paul Costin (4598)" [label=455]
+	"Trent John Macdonald (4596)" -> "Paul Costin (4598)" [label=87]
+	"Dan Winniak (4599)" -> "Paul Costin (4598)" [label=26]
+}

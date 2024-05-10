@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Regina Mccarthy (1458)_Lingiari_2013" {
+	graph [label="Lingiari 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
+	"Alf Gould (3044)" [label="Alf Gould (3044)
+Independent"]
+	"Alf Gould (3044)" -> "Regina Mccarthy (1458)" [label=91]
+}

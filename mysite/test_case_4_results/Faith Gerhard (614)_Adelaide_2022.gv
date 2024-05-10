@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Faith Gerhard (614)_Adelaide_2022" {
+	graph [label="Adelaide 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Faith Gerhard (614)" [label="Faith Gerhard (614)
+Australian Federation Party"]
+}

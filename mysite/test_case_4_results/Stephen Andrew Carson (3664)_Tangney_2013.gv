@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Stephen Andrew Carson (3664)_Tangney_2013" {
+	graph [label="Tangney 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Andrew Carson (3664)" [label="Stephen Andrew Carson (3664)
+Rise Up Australia Party"]
+}

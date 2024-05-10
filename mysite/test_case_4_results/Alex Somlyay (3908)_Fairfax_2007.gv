@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Alex Somlyay (3908)_Fairfax_2007" {
+	graph [label="Fairfax 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alex Somlyay (3908)" [label="Alex Somlyay (3908)
+Liberal"]
+	"Dave Norris (4525)" [label="Dave Norris (4525)
+The Greens"]
+	"Lisa Woods (4526)" [label="Lisa Woods (4526)
+Family First"]
+	"Max Phillips (4529)" [label="Max Phillips (4529)
+Independent"]
+	"Janette Hashemi (4524)" [label="Janette Hashemi (4524)
+Democrats"]
+	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
+One Nation WA"]
+	"Kevin Watt (4523)" [label="Kevin Watt (4523)
+Citizens Electoral Council"]
+	"Dave Norris (4525)" -> "Alex Somlyay (3908)" [label=2192]
+	"Lisa Woods (4526)" -> "Dave Norris (4525)" [label=1101]
+	"Max Phillips (4529)" -> "Lisa Woods (4526)" [label=359]
+	"Janette Hashemi (4524)" -> "Max Phillips (4529)" [label=97]
+	"Kevin J Savage (4527)" -> "Janette Hashemi (4524)" [label=53]
+	"Kevin Watt (4523)" -> "Kevin J Savage (4527)" [label=24]
+	"Lisa Woods (4526)" -> "Alex Somlyay (3908)" [label=2136]
+	"Max Phillips (4529)" -> "Alex Somlyay (3908)" [label=439]
+	"Janette Hashemi (4524)" -> "Alex Somlyay (3908)" [label=102]
+	"Kevin J Savage (4527)" -> "Alex Somlyay (3908)" [label=183]
+	"Kevin Watt (4523)" -> "Alex Somlyay (3908)" [label=36]
+	"Kevin Watt (4523)" -> "Janette Hashemi (4524)" [label=266]
+	"Kevin J Savage (4527)" -> "Max Phillips (4529)" [label=153]
+	"Kevin Watt (4523)" -> "Max Phillips (4529)" [label=30]
+	"Janette Hashemi (4524)" -> "Lisa Woods (4526)" [label=96]
+	"Kevin J Savage (4527)" -> "Lisa Woods (4526)" [label=186]
+	"Kevin Watt (4523)" -> "Lisa Woods (4526)" [label=53]
+	"Max Phillips (4529)" -> "Dave Norris (4525)" [label=451]
+	"Janette Hashemi (4524)" -> "Dave Norris (4525)" [label=655]
+	"Kevin J Savage (4527)" -> "Dave Norris (4525)" [label=148]
+	"Kevin Watt (4523)" -> "Dave Norris (4525)" [label=85]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Milton Caine (2184)_Newcastle_2007" {
+	graph [label="Newcastle 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
+	"Aaron Johnson (4383)" [label="Aaron Johnson (4383)
+Democrats"]
+	"Joel Curry (4386)" [label="Joel Curry (4386)
+Independent"]
+	"Geoff Payne (4098)" [label="Geoff Payne (4098)
+Socialist Alliance"]
+	"Noel Holt (3799)" [label="Noel Holt (3799)
+Socialist Equality Party"]
+	"Aaron Johnson (4383)" -> "Milton Caine (2184)" [label=14]
+	"Joel Curry (4386)" -> "Aaron Johnson (4383)" [label=40]
+	"Geoff Payne (4098)" -> "Joel Curry (4386)" [label=16]
+	"Noel Holt (3799)" -> "Geoff Payne (4098)" [label=53]
+	"Joel Curry (4386)" -> "Milton Caine (2184)" [label=55]
+	"Geoff Payne (4098)" -> "Milton Caine (2184)" [label=8]
+	"Noel Holt (3799)" -> "Milton Caine (2184)" [label=6]
+	"Noel Holt (3799)" -> "Joel Curry (4386)" [label=21]
+	"Geoff Payne (4098)" -> "Aaron Johnson (4383)" [label=48]
+	"Noel Holt (3799)" -> "Aaron Johnson (4383)" [label=9]
+}

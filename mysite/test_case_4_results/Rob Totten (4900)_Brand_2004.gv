@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Rob Totten (4900)_Brand_2004" {
+	graph [label="Brand 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+	"John Partridge (5670)" -> "Rob Totten (4900)" [label=33]
+}

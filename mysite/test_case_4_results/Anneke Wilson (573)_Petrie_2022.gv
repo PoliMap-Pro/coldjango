@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Anneke Wilson (573)_Petrie_2022" {
+	graph [label="Petrie 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Anneke Wilson (573)" [label="Anneke Wilson (573)
+Liberal Democrats"]
+}

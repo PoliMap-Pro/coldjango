@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Andrew Banks (1634)_Ryan_2019" {
+	graph [label="Ryan 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ray Moran (4981)_Stirling_2004" {
+	graph [label="Stirling 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+CDP Christian Party"]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Giuseppe Coletti (5737)" -> "Ray Moran (4981)" [label=89]
+	"Alex K Patrick (5741)" -> "Giuseppe Coletti (5737)" [label=138]
+	"Leone Pearson (5736)" -> "Alex K Patrick (5741)" [label=43]
+	"Marcus Anderson (5740)" -> "Leone Pearson (5736)" [label=61]
+	"Alex K Patrick (5741)" -> "Ray Moran (4981)" [label=321]
+	"Leone Pearson (5736)" -> "Ray Moran (4981)" [label=33]
+	"Marcus Anderson (5740)" -> "Ray Moran (4981)" [label=34]
+	"Marcus Anderson (5740)" -> "Alex K Patrick (5741)" [label=58]
+	"Leone Pearson (5736)" -> "Giuseppe Coletti (5737)" [label=456]
+	"Marcus Anderson (5740)" -> "Giuseppe Coletti (5737)" [label=77]
+}

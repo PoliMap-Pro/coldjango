@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Susan Jennison (4808)_Gorton_2007" {
+	graph [label="Gorton 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Susan Jennison (4808)" [label="Susan Jennison (4808)
+Liberal"]
+	"Huong Truong (4809)" [label="Huong Truong (4809)
+Australian Greens"]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Huong Truong (4809)" -> "Susan Jennison (4808)" [label=1807]
+	"Scott Amberley (3432)" -> "Huong Truong (4809)" [label=944]
+	"Vern Hughes (4807)" -> "Scott Amberley (3432)" [label=458]
+	"Scott Amberley (3432)" -> "Susan Jennison (4808)" [label=2031]
+	"Vern Hughes (4807)" -> "Susan Jennison (4808)" [label=396]
+	"Vern Hughes (4807)" -> "Huong Truong (4809)" [label=416]
+}

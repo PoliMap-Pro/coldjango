@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Chloe Glasson (860)_Gellibrand_2022" {
+	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chloe Glasson (860)" [label="Chloe Glasson (860)
+Liberal Democrats"]
+	"Andrew Charles (858)" [label="Andrew Charles (858)
+Victorian Socialists"]
+	"Sharynn Moors (857)" [label="Sharynn Moors (857)
+Australian Federation Party"]
+	"Andrew Charles (858)" -> "Chloe Glasson (860)" [label=99]
+	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
+	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
+}

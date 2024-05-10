@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Luke Simpkins (2730)_Cowan_2007" {
+	graph [label="Cowan 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Luke Simpkins (2730)" [label="Luke Simpkins (2730)
+Liberal"]
+	"Johannes Herrmann (4911)" [label="Johannes Herrmann (4911)
+The Greens"]
+	"Rhonda Hamersley (4915)" [label="Rhonda Hamersley (4915)
+Family First"]
+	"Martin Firth (4912)" [label="Martin Firth (4912)
+Christian Democratic Party"]
+	"Ken Lee (4909)" [label="Ken Lee (4909)
+LDP"]
+	"Dave Tierney (4914)" [label="Dave Tierney (4914)
+One Nation WA"]
+	"Norm Ramsay (4913)" [label="Norm Ramsay (4913)
+Independent"]
+	"Roger Blakeway (4910)" [label="Roger Blakeway (4910)
+Citizens Electoral Council"]
+	"Johannes Herrmann (4911)" -> "Luke Simpkins (2730)" [label=2540]
+	"Rhonda Hamersley (4915)" -> "Johannes Herrmann (4911)" [label=615]
+	"Martin Firth (4912)" -> "Rhonda Hamersley (4915)" [label=910]
+	"Ken Lee (4909)" -> "Martin Firth (4912)" [label=56]
+	"Dave Tierney (4914)" -> "Ken Lee (4909)" [label=61]
+	"Norm Ramsay (4913)" -> "Dave Tierney (4914)" [label=81]
+	"Roger Blakeway (4910)" -> "Norm Ramsay (4913)" [label=10]
+	"Rhonda Hamersley (4915)" -> "Luke Simpkins (2730)" [label=1453]
+	"Martin Firth (4912)" -> "Luke Simpkins (2730)" [label=520]
+	"Ken Lee (4909)" -> "Luke Simpkins (2730)" [label=202]
+	"Dave Tierney (4914)" -> "Luke Simpkins (2730)" [label=164]
+	"Norm Ramsay (4913)" -> "Luke Simpkins (2730)" [label=93]
+	"Roger Blakeway (4910)" -> "Luke Simpkins (2730)" [label=39]
+	"Roger Blakeway (4910)" -> "Dave Tierney (4914)" [label=3]
+	"Norm Ramsay (4913)" -> "Ken Lee (4909)" [label=44]
+	"Roger Blakeway (4910)" -> "Ken Lee (4909)" [label=59]
+	"Dave Tierney (4914)" -> "Martin Firth (4912)" [label=78]
+	"Norm Ramsay (4913)" -> "Martin Firth (4912)" [label=49]
+	"Roger Blakeway (4910)" -> "Martin Firth (4912)" [label=17]
+	"Ken Lee (4909)" -> "Rhonda Hamersley (4915)" [label=63]
+	"Dave Tierney (4914)" -> "Rhonda Hamersley (4915)" [label=211]
+	"Norm Ramsay (4913)" -> "Rhonda Hamersley (4915)" [label=76]
+	"Roger Blakeway (4910)" -> "Rhonda Hamersley (4915)" [label=4]
+	"Martin Firth (4912)" -> "Johannes Herrmann (4911)" [label=188]
+	"Ken Lee (4909)" -> "Johannes Herrmann (4911)" [label=724]
+	"Dave Tierney (4914)" -> "Johannes Herrmann (4911)" [label=172]
+	"Norm Ramsay (4913)" -> "Johannes Herrmann (4911)" [label=123]
+	"Roger Blakeway (4910)" -> "Johannes Herrmann (4911)" [label=35]
+}

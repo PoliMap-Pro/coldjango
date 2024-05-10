@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Paul Green (5082)_Gilmore_2004" {
+	graph [label="Gilmore 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Green (5082)" [label="Paul Green (5082)
+Christian Democratic Party (Fred Nile Group)"]
+	"Col Harding (5081)" [label="Col Harding (5081)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Jean Mcclung (5085)" [label="Jean Mcclung (5085)
+Citizens Electoral Council"]
+	"Col Harding (5081)" -> "Paul Green (5082)" [label=612]
+	"Jean Mcclung (5085)" -> "Col Harding (5081)" [label=25]
+	"Jean Mcclung (5085)" -> "Paul Green (5082)" [label=23]
+}

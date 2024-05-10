@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jim Lloyd (4441)_Robertson_2004" {
+	graph [label="Robertson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jim Lloyd (4441)" [label="Jim Lloyd (4441)
+Liberal"]
+	"Terry Jones (4626)" [label="Terry Jones (4626)
+The Greens"]
+	"Don Parkes (5227)" [label="Don Parkes (5227)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Carolyn Dorhauer (5226)" [label="Carolyn Dorhauer (5226)
+Family First"]
+	"Nicholas Tomlin (4438)" [label="Nicholas Tomlin (4438)
+Citizens Electoral Council"]
+	"Terry Jones (4626)" -> "Jim Lloyd (4441)" [label=1380]
+	"Don Parkes (5227)" -> "Terry Jones (4626)" [label=489]
+	"Carolyn Dorhauer (5226)" -> "Don Parkes (5227)" [label=163]
+	"Nicholas Tomlin (4438)" -> "Carolyn Dorhauer (5226)" [label=41]
+	"Don Parkes (5227)" -> "Jim Lloyd (4441)" [label=555]
+	"Carolyn Dorhauer (5226)" -> "Jim Lloyd (4441)" [label=518]
+	"Nicholas Tomlin (4438)" -> "Jim Lloyd (4441)" [label=39]
+	"Nicholas Tomlin (4438)" -> "Don Parkes (5227)" [label=33]
+	"Carolyn Dorhauer (5226)" -> "Terry Jones (4626)" [label=395]
+	"Nicholas Tomlin (4438)" -> "Terry Jones (4626)" [label=47]
+}

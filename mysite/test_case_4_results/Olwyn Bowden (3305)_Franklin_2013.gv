@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Olwyn Bowden (3305)_Franklin_2013" {
+	graph [label="Franklin 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Olwyn Bowden (3305)" [label="Olwyn Bowden (3305)
+Rise Up Australia Party"]
+}

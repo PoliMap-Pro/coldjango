@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Bronwyn Bishop (2930)_Mackellar_2004" {
+	graph [label="Mackellar 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bronwyn Bishop (2930)" [label="Bronwyn Bishop (2930)
+Liberal"]
+	"Christian Downie (5152)" [label="Christian Downie (5152)
+The Greens"]
+	"Robert Thomas Dunn (5150)" [label="Robert Thomas Dunn (5150)
+Independent"]
+	"Roz Trestrail (5151)" [label="Roz Trestrail (5151)
+Family First"]
+	"Stephen Wells (5148)" [label="Stephen Wells (5148)
+Independent"]
+	"Mario Nicotra (5149)" [label="Mario Nicotra (5149)
+Australian Democrats"]
+	"Christian Downie (5152)" -> "Bronwyn Bishop (2930)" [label=3649]
+	"Robert Thomas Dunn (5150)" -> "Christian Downie (5152)" [label=3272]
+	"Roz Trestrail (5151)" -> "Robert Thomas Dunn (5150)" [label=299]
+	"Stephen Wells (5148)" -> "Roz Trestrail (5151)" [label=88]
+	"Mario Nicotra (5149)" -> "Stephen Wells (5148)" [label=138]
+	"Robert Thomas Dunn (5150)" -> "Bronwyn Bishop (2930)" [label=1940]
+	"Roz Trestrail (5151)" -> "Bronwyn Bishop (2930)" [label=722]
+	"Stephen Wells (5148)" -> "Bronwyn Bishop (2930)" [label=158]
+	"Mario Nicotra (5149)" -> "Bronwyn Bishop (2930)" [label=168]
+	"Mario Nicotra (5149)" -> "Roz Trestrail (5151)" [label=52]
+	"Stephen Wells (5148)" -> "Robert Thomas Dunn (5150)" [label=459]
+	"Mario Nicotra (5149)" -> "Robert Thomas Dunn (5150)" [label=171]
+	"Roz Trestrail (5151)" -> "Christian Downie (5152)" [label=252]
+	"Stephen Wells (5148)" -> "Christian Downie (5152)" [label=122]
+	"Mario Nicotra (5149)" -> "Christian Downie (5152)" [label=373]
+}

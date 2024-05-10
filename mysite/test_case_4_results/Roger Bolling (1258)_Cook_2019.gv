@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Roger Bolling (1258)_Cook_2019" {
+	graph [label="Cook 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Roger Bolling (1258)" [label="Roger Bolling (1258)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Kelly (1255)" [label="Peter Kelly (1255)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Kelly (1255)" -> "Roger Bolling (1258)" [label=36]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Susan Jennison (4808)_Gorton_2004" {
+	graph [label="Gorton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Susan Jennison (4808)" [label="Susan Jennison (4808)
+Liberal"]
+	"Steven Wilson (5567)" [label="Steven Wilson (5567)
+Australian Greens"]
+	"Ian Mallon (5568)" [label="Ian Mallon (5568)
+Family First"]
+	"Colin Ross Morgan Campbell (5569)" [label="Colin Ross Morgan Campbell (5569)
+Citizens Electoral Council"]
+	"Steven Wilson (5567)" -> "Susan Jennison (4808)" [label=1092]
+	"Ian Mallon (5568)" -> "Steven Wilson (5567)" [label=630]
+	"Colin Ross Morgan Campbell (5569)" -> "Ian Mallon (5568)" [label=143]
+	"Ian Mallon (5568)" -> "Susan Jennison (4808)" [label=940]
+	"Colin Ross Morgan Campbell (5569)" -> "Susan Jennison (4808)" [label=178]
+	"Colin Ross Morgan Campbell (5569)" -> "Steven Wilson (5567)" [label=91]
+}

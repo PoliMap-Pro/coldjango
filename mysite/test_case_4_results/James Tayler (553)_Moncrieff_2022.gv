@@ -1,0 +1,7 @@
+// House preference flow
+digraph "James Tayler (553)_Moncrieff_2022" {
+	graph [label="Moncrieff 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Tayler (553)" [label="James Tayler (553)
+Australian Federation Party"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Peter Britt (4629)_Petrie_2007" {
+	graph [label="Petrie 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Britt (4629)" [label="Peter Britt (4629)
+Christian Democratic Party (Fred Nile Group)"]
+	"Michael James Pope (4627)" [label="Michael James Pope (4627)
+LDP"]
+	"Michael James Pope (4627)" -> "Peter Britt (4629)" [label=12]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kathryn Woods (836)_Dunkley_2022" {
+	graph [label="Dunkley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kathryn Woods (836)" [label="Kathryn Woods (836)
+Australian Federation Party"]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Stephen Carson (2764)_O'Connor_2016" {
+	graph [label="O'Connor 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Carson (2764)" [label="Stephen Carson (2764)
+Rise Up Australia Party"]
+}

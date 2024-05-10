@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Dennis Jensen (3665)_Tangney_2007" {
+	graph [label="Tangney 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dennis Jensen (3665)" [label="Dennis Jensen (3665)
+Liberal"]
+	"Christine Ivan (4990)" [label="Christine Ivan (4990)
+The Greens"]
+	"Katherine Jackson (4994)" [label="Katherine Jackson (4994)
+Independent"]
+	"Ka-Ren Chew (4230)" [label="Ka-Ren Chew (4230)
+Christian Democratic Party"]
+	"Lisa Saladine (4992)" [label="Lisa Saladine (4992)
+Family First"]
+	"Lloyd Boon (4991)" [label="Lloyd Boon (4991)
+One Nation WA"]
+	"Christine Ivan (4990)" -> "Dennis Jensen (3665)" [label=2777]
+	"Katherine Jackson (4994)" -> "Christine Ivan (4990)" [label=1015]
+	"Ka-Ren Chew (4230)" -> "Katherine Jackson (4994)" [label=824]
+	"Lisa Saladine (4992)" -> "Ka-Ren Chew (4230)" [label=175]
+	"Lloyd Boon (4991)" -> "Lisa Saladine (4992)" [label=95]
+	"Katherine Jackson (4994)" -> "Dennis Jensen (3665)" [label=2093]
+	"Ka-Ren Chew (4230)" -> "Dennis Jensen (3665)" [label=749]
+	"Lisa Saladine (4992)" -> "Dennis Jensen (3665)" [label=287]
+	"Lloyd Boon (4991)" -> "Dennis Jensen (3665)" [label=168]
+	"Lloyd Boon (4991)" -> "Ka-Ren Chew (4230)" [label=34]
+	"Lisa Saladine (4992)" -> "Katherine Jackson (4994)" [label=127]
+	"Lloyd Boon (4991)" -> "Katherine Jackson (4994)" [label=91]
+	"Ka-Ren Chew (4230)" -> "Christine Ivan (4990)" [label=205]
+	"Lisa Saladine (4992)" -> "Christine Ivan (4990)" [label=164]
+	"Lloyd Boon (4991)" -> "Christine Ivan (4990)" [label=135]
+}

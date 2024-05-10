@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Fazal Cader (3447)_Hotham_2010" {
+	graph [label="Hotham 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Fazal Cader (3447)" [label="Fazal Cader (3447)
+Liberal"]
+	"Geoff Payne (4098)" [label="Geoff Payne (4098)
+Australian Greens"]
+	"Gary Ong (4100)" [label="Gary Ong (4100)
+Family First"]
+	"Trent Reardon (4099)" [label="Trent Reardon (4099)
+Secular Party of Australia"]
+	"Geoff Payne (4098)" -> "Fazal Cader (3447)" [label=2008]
+	"Gary Ong (4100)" -> "Geoff Payne (4098)" [label=506]
+	"Trent Reardon (4099)" -> "Gary Ong (4100)" [label=108]
+	"Gary Ong (4100)" -> "Fazal Cader (3447)" [label=727]
+	"Trent Reardon (4099)" -> "Fazal Cader (3447)" [label=121]
+	"Trent Reardon (4099)" -> "Geoff Payne (4098)" [label=244]
+}

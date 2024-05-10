@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Michael Keenan (2775)_Stirling_2007" {
+	graph [label="Stirling 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Keenan (2775)" [label="Michael Keenan (2775)
+Liberal"]
+	"Tamara Desiatov (4979)" [label="Tamara Desiatov (4979)
+The Greens"]
+	"Ray Moran (4981)" [label="Ray Moran (4981)
+Christian Democratic Party"]
+	"Sam Ward (4974)" [label="Sam Ward (4974)
+LDP"]
+	"Denise Hynd (4975)" [label="Denise Hynd (4975)
+What Women Want (Australia)"]
+	"Symia Hopkinson (4978)" [label="Symia Hopkinson (4978)
+Family First"]
+	"Alex Patrick (4980)" [label="Alex Patrick (4980)
+One Nation WA"]
+	"Keith Hallam (4976)" [label="Keith Hallam (4976)
+Citizens Electoral Council"]
+	"Tamara Desiatov (4979)" -> "Michael Keenan (2775)" [label=1841]
+	"Ray Moran (4981)" -> "Tamara Desiatov (4979)" [label=366]
+	"Sam Ward (4974)" -> "Ray Moran (4981)" [label=73]
+	"Denise Hynd (4975)" -> "Sam Ward (4974)" [label=137]
+	"Symia Hopkinson (4978)" -> "Denise Hynd (4975)" [label=100]
+	"Alex Patrick (4980)" -> "Symia Hopkinson (4978)" [label=65]
+	"Keith Hallam (4976)" -> "Alex Patrick (4980)" [label=9]
+	"Ray Moran (4981)" -> "Michael Keenan (2775)" [label=951]
+	"Sam Ward (4974)" -> "Michael Keenan (2775)" [label=141]
+	"Denise Hynd (4975)" -> "Michael Keenan (2775)" [label=107]
+	"Symia Hopkinson (4978)" -> "Michael Keenan (2775)" [label=133]
+	"Alex Patrick (4980)" -> "Michael Keenan (2775)" [label=108]
+	"Keith Hallam (4976)" -> "Michael Keenan (2775)" [label=19]
+	"Keith Hallam (4976)" -> "Symia Hopkinson (4978)" [label=30]
+	"Alex Patrick (4980)" -> "Denise Hynd (4975)" [label=24]
+	"Keith Hallam (4976)" -> "Denise Hynd (4975)" [label=31]
+	"Symia Hopkinson (4978)" -> "Sam Ward (4974)" [label=49]
+	"Alex Patrick (4980)" -> "Sam Ward (4974)" [label=23]
+	"Keith Hallam (4976)" -> "Sam Ward (4974)" [label=14]
+	"Denise Hynd (4975)" -> "Ray Moran (4981)" [label=76]
+	"Symia Hopkinson (4978)" -> "Ray Moran (4981)" [label=96]
+	"Alex Patrick (4980)" -> "Ray Moran (4981)" [label=72]
+	"Keith Hallam (4976)" -> "Ray Moran (4981)" [label=11]
+	"Sam Ward (4974)" -> "Tamara Desiatov (4979)" [label=131]
+	"Denise Hynd (4975)" -> "Tamara Desiatov (4979)" [label=248]
+	"Symia Hopkinson (4978)" -> "Tamara Desiatov (4979)" [label=118]
+	"Alex Patrick (4980)" -> "Tamara Desiatov (4979)" [label=145]
+	"Keith Hallam (4976)" -> "Tamara Desiatov (4979)" [label=15]
+}

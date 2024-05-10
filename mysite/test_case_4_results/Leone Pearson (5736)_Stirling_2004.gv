@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Leone Pearson (5736)_Stirling_2004" {
+	graph [label="Stirling 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Marcus Anderson (5740)" -> "Leone Pearson (5736)" [label=61]
+}

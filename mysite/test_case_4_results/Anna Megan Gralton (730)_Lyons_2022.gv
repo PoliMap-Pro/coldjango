@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Anna Megan Gralton (730)_Lyons_2022" {
+	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
+}

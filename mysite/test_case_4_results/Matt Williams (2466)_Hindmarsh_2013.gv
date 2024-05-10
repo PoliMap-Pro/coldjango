@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Matt Williams (2466)_Hindmarsh_2013" {
+	graph [label="Hindmarsh 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matt Williams (2466)" [label="Matt Williams (2466)
+Liberal"]
+	"Andrew Payne (3256)" [label="Andrew Payne (3256)
+Australian Greens"]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"Andrew Payne (3256)" -> "Matt Williams (2466)" [label=2834]
+	"Bob Randall (3260)" -> "Andrew Payne (3256)" [label=1077]
+	"George Peter Melissourgos (3257)" -> "Bob Randall (3260)" [label=607]
+	"David Mccabe (3258)" -> "George Peter Melissourgos (3257)" [label=131]
+	"Kym Mckay (3259)" -> "David Mccabe (3258)" [label=62]
+	"Bob Randall (3260)" -> "Matt Williams (2466)" [label=1525]
+	"George Peter Melissourgos (3257)" -> "Matt Williams (2466)" [label=821]
+	"David Mccabe (3258)" -> "Matt Williams (2466)" [label=137]
+	"Kym Mckay (3259)" -> "Matt Williams (2466)" [label=92]
+	"Kym Mckay (3259)" -> "George Peter Melissourgos (3257)" [label=166]
+	"David Mccabe (3258)" -> "Bob Randall (3260)" [label=149]
+	"Kym Mckay (3259)" -> "Bob Randall (3260)" [label=83]
+	"George Peter Melissourgos (3257)" -> "Andrew Payne (3256)" [label=483]
+	"David Mccabe (3258)" -> "Andrew Payne (3256)" [label=206]
+	"Kym Mckay (3259)" -> "Andrew Payne (3256)" [label=69]
+}

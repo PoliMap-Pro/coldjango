@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Gregory Romans (3916)_Griffith_2010" {
+	graph [label="Griffith 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gregory Romans (3916)" [label="Gregory Romans (3916)
+Liberal Democrats (LDP)"]
+	"Jesse Alexander Webb (3918)" [label="Jesse Alexander Webb (3918)
+Family First"]
+	"Hamish Chitts (3917)" [label="Hamish Chitts (3917)
+"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Jesse Alexander Webb (3918)" -> "Gregory Romans (3916)" [label=234]
+	"Hamish Chitts (3917)" -> "Jesse Alexander Webb (3918)" [label=130]
+	"Jan Pukallus (3123)" -> "Hamish Chitts (3917)" [label=41]
+	"Hamish Chitts (3917)" -> "Gregory Romans (3916)" [label=144]
+	"Jan Pukallus (3123)" -> "Gregory Romans (3916)" [label=12]
+	"Jan Pukallus (3123)" -> "Jesse Alexander Webb (3918)" [label=31]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Arie Baalbergen (4389)_North Sydney_2007" {
+	graph [label="North Sydney 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Arie Baalbergen (4389)" [label="Arie Baalbergen (4389)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marcus Aussie-Stone (4390)" [label="Marcus Aussie-Stone (4390)
+Independent"]
+	"John Cafferatta (4393)" [label="John Cafferatta (4393)
+Family First"]
+	"Kundan Misra (4388)" [label="Kundan Misra (4388)
+Citizens Electoral Council"]
+	"Marcus Aussie-Stone (4390)" -> "Arie Baalbergen (4389)" [label=64]
+	"John Cafferatta (4393)" -> "Marcus Aussie-Stone (4390)" [label=32]
+	"Kundan Misra (4388)" -> "John Cafferatta (4393)" [label=11]
+	"John Cafferatta (4393)" -> "Arie Baalbergen (4389)" [label=98]
+	"Kundan Misra (4388)" -> "Arie Baalbergen (4389)" [label=131]
+	"Kundan Misra (4388)" -> "Marcus Aussie-Stone (4390)" [label=30]
+}

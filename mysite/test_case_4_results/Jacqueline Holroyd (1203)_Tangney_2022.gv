@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jacqueline Holroyd (1203)_Tangney_2022" {
+	graph [label="Tangney 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jacqueline Holroyd (1203)" [label="Jacqueline Holroyd (1203)
+Liberal Democrats"]
+	"Brent Fowler (1202)" [label="Brent Fowler (1202)
+Australian Federation Party"]
+	"Brent Fowler (1202)" -> "Jacqueline Holroyd (1203)" [label=212]
+}

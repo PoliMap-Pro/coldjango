@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Peter Dorian (1832)_Gippsland_2013" {
+	graph [label="Gippsland 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Rise Up Australia Party"]
+	"Mark Guerin (3417)" [label="Mark Guerin (3417)
+Secular Party of Australia"]
+	"Mark Guerin (3417)" -> "Peter Dorian (1832)" [label=7]
+}

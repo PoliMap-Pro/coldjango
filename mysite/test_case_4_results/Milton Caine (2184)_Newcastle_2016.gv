@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Milton Caine (2184)_Newcastle_2016" {
+	graph [label="Newcastle 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stuart Southwell (2181)" [label="Stuart Southwell (2181)
+Democratic Labour Party (DLP)"]
+	"Stuart Southwell (2181)" -> "Milton Caine (2184)" [label=276]
+}

@@ -1,0 +1,69 @@
+// House preference flow
+digraph "Greg Tan (5093)_Greenway_2004" {
+	graph [label="Greenway 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Tan (5093)" [label="Greg Tan (5093)
+Christian Democratic Party (Fred Nile Group)"]
+	"Joe Chidiac (5091)" [label="Joe Chidiac (5091)
+The Fishing Party"]
+	"Tony Pettitt (207)" [label="Tony Pettitt (207)
+Pauline Hanson's One Nation (NSW Division)"]
+	"John Dorhauer (5094)" [label="John Dorhauer (5094)
+Family First"]
+	"Julie-Anne Houlton (5092)" [label="Julie-Anne Houlton (5092)
+liberals for forests"]
+	"Grant Bayley (4342)" [label="Grant Bayley (4342)
+Outdoor Recreation Party"]
+	"David King (1545)" [label="David King (1545)
+Australian Democrats"]
+	"F Ivor (4321)" [label="F Ivor (4321)
+Independent"]
+	"Amarjit Tanda (3752)" [label="Amarjit Tanda (3752)
+Independent"]
+	"Goran Reves (4323)" [label="Goran Reves (4323)
+Citizens Electoral Council"]
+	"Joe Chidiac (5091)" -> "Greg Tan (5093)" [label=93]
+	"Tony Pettitt (207)" -> "Joe Chidiac (5091)" [label=288]
+	"John Dorhauer (5094)" -> "Tony Pettitt (207)" [label=60]
+	"Julie-Anne Houlton (5092)" -> "John Dorhauer (5094)" [label=47]
+	"Grant Bayley (4342)" -> "Julie-Anne Houlton (5092)" [label=16]
+	"David King (1545)" -> "Grant Bayley (4342)" [label=64]
+	"F Ivor (4321)" -> "David King (1545)" [label=72]
+	"Amarjit Tanda (3752)" -> "F Ivor (4321)" [label=35]
+	"Goran Reves (4323)" -> "Amarjit Tanda (3752)" [label=5]
+	"Tony Pettitt (207)" -> "Greg Tan (5093)" [label=132]
+	"John Dorhauer (5094)" -> "Greg Tan (5093)" [label=135]
+	"Julie-Anne Houlton (5092)" -> "Greg Tan (5093)" [label=68]
+	"Grant Bayley (4342)" -> "Greg Tan (5093)" [label=12]
+	"David King (1545)" -> "Greg Tan (5093)" [label=25]
+	"F Ivor (4321)" -> "Greg Tan (5093)" [label=10]
+	"Amarjit Tanda (3752)" -> "Greg Tan (5093)" [label=24]
+	"Goran Reves (4323)" -> "Greg Tan (5093)" [label=3]
+	"Goran Reves (4323)" -> "F Ivor (4321)" [label=7]
+	"Amarjit Tanda (3752)" -> "David King (1545)" [label=7]
+	"Goran Reves (4323)" -> "David King (1545)" [label=3]
+	"F Ivor (4321)" -> "Grant Bayley (4342)" [label=59]
+	"Amarjit Tanda (3752)" -> "Grant Bayley (4342)" [label=5]
+	"David King (1545)" -> "Julie-Anne Houlton (5092)" [label=46]
+	"F Ivor (4321)" -> "Julie-Anne Houlton (5092)" [label=8]
+	"Amarjit Tanda (3752)" -> "Julie-Anne Houlton (5092)" [label=15]
+	"Goran Reves (4323)" -> "Julie-Anne Houlton (5092)" [label=5]
+	"Grant Bayley (4342)" -> "John Dorhauer (5094)" [label=48]
+	"David King (1545)" -> "John Dorhauer (5094)" [label=47]
+	"F Ivor (4321)" -> "John Dorhauer (5094)" [label=30]
+	"Amarjit Tanda (3752)" -> "John Dorhauer (5094)" [label=18]
+	"Goran Reves (4323)" -> "John Dorhauer (5094)" [label=18]
+	"Julie-Anne Houlton (5092)" -> "Tony Pettitt (207)" [label=74]
+	"Grant Bayley (4342)" -> "Tony Pettitt (207)" [label=50]
+	"David King (1545)" -> "Tony Pettitt (207)" [label=33]
+	"F Ivor (4321)" -> "Tony Pettitt (207)" [label=25]
+	"Amarjit Tanda (3752)" -> "Tony Pettitt (207)" [label=10]
+	"Goran Reves (4323)" -> "Tony Pettitt (207)" [label=2]
+	"John Dorhauer (5094)" -> "Joe Chidiac (5091)" [label=116]
+	"Julie-Anne Houlton (5092)" -> "Joe Chidiac (5091)" [label=36]
+	"Grant Bayley (4342)" -> "Joe Chidiac (5091)" [label=372]
+	"David King (1545)" -> "Joe Chidiac (5091)" [label=23]
+	"F Ivor (4321)" -> "Joe Chidiac (5091)" [label=28]
+	"Amarjit Tanda (3752)" -> "Joe Chidiac (5091)" [label=5]
+	"Goran Reves (4323)" -> "Joe Chidiac (5091)" [label=1]
+}

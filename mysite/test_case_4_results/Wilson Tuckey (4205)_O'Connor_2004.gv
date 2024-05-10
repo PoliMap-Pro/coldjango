@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Wilson Tuckey (4205)_O'Connor_2004" {
+	graph [label="O'Connor 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wilson Tuckey (4205)" [label="Wilson Tuckey (4205)
+Liberal"]
+	"Leigh Hardingham (5721)" [label="Leigh Hardingham (5721)
+The Nationals"]
+	"Adrian Price (4955)" [label="Adrian Price (4955)
+The Greens"]
+	"Brian Mcrae (5718)" [label="Brian Mcrae (5718)
+Pauline Hanson's One Nation"]
+	"George Giudice (4954)" [label="George Giudice (4954)
+Independent"]
+	"Justin Moseley (1161)" [label="Justin Moseley (1161)
+CDP Christian Party"]
+	"Jan Hough (5722)" [label="Jan Hough (5722)
+New Country Party"]
+	"David Thackrah (5723)" [label="David Thackrah (5723)
+Australian Democrats"]
+	"Callum Craig Payne (5720)" [label="Callum Craig Payne (5720)
+Citizens Electoral Council"]
+	"Leigh Hardingham (5721)" -> "Wilson Tuckey (4205)" [label=8716]
+	"Adrian Price (4955)" -> "Leigh Hardingham (5721)" [label=1505]
+	"Brian Mcrae (5718)" -> "Adrian Price (4955)" [label=1105]
+	"George Giudice (4954)" -> "Brian Mcrae (5718)" [label=414]
+	"Justin Moseley (1161)" -> "George Giudice (4954)" [label=140]
+	"Jan Hough (5722)" -> "Justin Moseley (1161)" [label=24]
+	"David Thackrah (5723)" -> "Jan Hough (5722)" [label=32]
+	"Callum Craig Payne (5720)" -> "David Thackrah (5723)" [label=11]
+	"Adrian Price (4955)" -> "Wilson Tuckey (4205)" [label=1025]
+	"Brian Mcrae (5718)" -> "Wilson Tuckey (4205)" [label=1038]
+	"George Giudice (4954)" -> "Wilson Tuckey (4205)" [label=748]
+	"Justin Moseley (1161)" -> "Wilson Tuckey (4205)" [label=661]
+	"Jan Hough (5722)" -> "Wilson Tuckey (4205)" [label=227]
+	"David Thackrah (5723)" -> "Wilson Tuckey (4205)" [label=63]
+	"Callum Craig Payne (5720)" -> "Wilson Tuckey (4205)" [label=33]
+	"Callum Craig Payne (5720)" -> "Jan Hough (5722)" [label=17]
+	"David Thackrah (5723)" -> "Justin Moseley (1161)" [label=17]
+	"Callum Craig Payne (5720)" -> "Justin Moseley (1161)" [label=34]
+	"Jan Hough (5722)" -> "George Giudice (4954)" [label=135]
+	"David Thackrah (5723)" -> "George Giudice (4954)" [label=128]
+	"Callum Craig Payne (5720)" -> "George Giudice (4954)" [label=36]
+	"Justin Moseley (1161)" -> "Brian Mcrae (5718)" [label=168]
+	"Jan Hough (5722)" -> "Brian Mcrae (5718)" [label=83]
+	"David Thackrah (5723)" -> "Brian Mcrae (5718)" [label=26]
+	"Callum Craig Payne (5720)" -> "Brian Mcrae (5718)" [label=90]
+	"George Giudice (4954)" -> "Adrian Price (4955)" [label=537]
+	"Justin Moseley (1161)" -> "Adrian Price (4955)" [label=110]
+	"Jan Hough (5722)" -> "Adrian Price (4955)" [label=72]
+	"David Thackrah (5723)" -> "Adrian Price (4955)" [label=124]
+	"Callum Craig Payne (5720)" -> "Adrian Price (4955)" [label=52]
+	"Brian Mcrae (5718)" -> "Leigh Hardingham (5721)" [label=1156]
+	"George Giudice (4954)" -> "Leigh Hardingham (5721)" [label=384]
+	"Justin Moseley (1161)" -> "Leigh Hardingham (5721)" [label=920]
+	"Jan Hough (5722)" -> "Leigh Hardingham (5721)" [label=104]
+	"David Thackrah (5723)" -> "Leigh Hardingham (5721)" [label=49]
+	"Callum Craig Payne (5720)" -> "Leigh Hardingham (5721)" [label=31]
+}

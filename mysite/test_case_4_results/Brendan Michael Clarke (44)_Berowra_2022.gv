@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Brendan Michael Clarke (44)_Berowra_2022" {
+	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"David James Louie (46)" [label="David James Louie (46)
+Australian Federation Party"]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=24]
+	"David James Louie (46)" -> "Roger Woodward (47)" [label=33]
+	"David James Louie (46)" -> "Brendan Michael Clarke (44)" [label=20]
+}

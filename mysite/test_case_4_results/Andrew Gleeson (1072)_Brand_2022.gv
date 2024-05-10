@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Andrew Gleeson (1072)_Brand_2022" {
+	graph [label="Brand 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Gleeson (1072)" [label="Andrew Gleeson (1072)
+The Great Australian Party"]
+	"Alison Marshall (1071)" [label="Alison Marshall (1071)
+Liberal Democrats"]
+	"Malcolm Heffernan (1065)" [label="Malcolm Heffernan (1065)
+Australian Federation Party"]
+	"Alison Marshall (1071)" -> "Andrew Gleeson (1072)" [label=114]
+	"Malcolm Heffernan (1065)" -> "Alison Marshall (1071)" [label=35]
+	"Malcolm Heffernan (1065)" -> "Andrew Gleeson (1072)" [label=129]
+}

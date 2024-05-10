@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Rob George (2855)_Cunningham_2013" {
+	graph [label="Cunningham 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rob George (2855)" [label="Rob George (2855)
+Christian Democratic Party (Fred Nile Group)"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"John Leslie Bursill (2856)" [label="John Leslie Bursill (2856)
+Katter's Australian Party"]
+	"John Flanagan (1270)" -> "Rob George (2855)" [label=186]
+	"John Leslie Bursill (2856)" -> "John Flanagan (1270)" [label=98]
+	"John Leslie Bursill (2856)" -> "Rob George (2855)" [label=81]
+}

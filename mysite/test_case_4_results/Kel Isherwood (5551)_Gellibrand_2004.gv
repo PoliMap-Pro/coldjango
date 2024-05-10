@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kel Isherwood (5551)_Gellibrand_2004" {
+	graph [label="Gellibrand 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kel Isherwood (5551)" [label="Kel Isherwood (5551)
+Citizens Electoral Council"]
+}

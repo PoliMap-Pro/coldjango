@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jim Mcdonald (867)_McMillan_2016" {
+	graph [label="McMillan 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+Liberal Democrats"]
+	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
+Australian Christians"]
+	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
+}

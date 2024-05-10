@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Ann Lawler (2905)_Hunter_2013" {
+	graph [label="Hunter 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ann Lawler (2905)" [label="Ann Lawler (2905)
+Citizens Electoral Council"]
+}

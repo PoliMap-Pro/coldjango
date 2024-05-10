@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kingsley Dickins (3112)_Flynn_2013" {
+	graph [label="Flynn 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kingsley Dickins (3112)" [label="Kingsley Dickins (3112)
+Rise Up Australia Party"]
+}

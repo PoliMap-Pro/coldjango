@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Steve Klomp (2009)_Swan_2010" {
+	graph [label="Swan 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steve Klomp (2009)" [label="Steve Klomp (2009)
+Christian Democratic Party"]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Barry Drennan (4227)" -> "Steve Klomp (2009)" [label=339]
+	"Joe Lopez (4225)" -> "Barry Drennan (4227)" [label=33]
+	"Joe Lopez (4225)" -> "Steve Klomp (2009)" [label=45]
+}

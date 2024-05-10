@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Benjamin Walsh (4072)_Deakin_2010" {
+	graph [label="Deakin 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Benjamin Walsh (4072)" [label="Benjamin Walsh (4072)
+Liberal Democrats (LDP)"]
+	"Alex Norwick (2840)" [label="Alex Norwick (2840)
+Australia First Party"]
+	"Alex Norwick (2840)" -> "Benjamin Walsh (4072)" [label=13]
+}

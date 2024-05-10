@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Rahme (5129)_Lowe_2004" {
+	graph [label="Lowe 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Rahme (5129)" [label="Peter Rahme (5129)
+Christian Democratic Party (Fred Nile Group)"]
+	"Biannca Pace (5130)" [label="Biannca Pace (5130)
+Australian Democrats"]
+	"Timothy Avery (5128)" [label="Timothy Avery (5128)
+liberals for forests"]
+	"John Mason (5131)" [label="John Mason (5131)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Biannca Pace (5130)" -> "Peter Rahme (5129)" [label=129]
+	"Timothy Avery (5128)" -> "Biannca Pace (5130)" [label=73]
+	"John Mason (5131)" -> "Timothy Avery (5128)" [label=43]
+	"Timothy Avery (5128)" -> "Peter Rahme (5129)" [label=85]
+	"John Mason (5131)" -> "Peter Rahme (5129)" [label=98]
+	"John Mason (5131)" -> "Biannca Pace (5130)" [label=61]
+}

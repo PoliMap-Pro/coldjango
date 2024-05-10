@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sleiman Yohanna (4756)_Calwell_2004" {
+	graph [label="Calwell 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sleiman Yohanna (4756)" [label="Sleiman Yohanna (4756)
+Citizens Electoral Council"]
+	"Denis Towers (5520)" [label="Denis Towers (5520)
+Independent"]
+	"Jonathon Gatt (5519)" [label="Jonathon Gatt (5519)
+Democrats"]
+	"Denis Towers (5520)" -> "Sleiman Yohanna (4756)" [label=82]
+	"Jonathon Gatt (5519)" -> "Denis Towers (5520)" [label=192]
+	"Jonathon Gatt (5519)" -> "Sleiman Yohanna (4756)" [label=40]
+}

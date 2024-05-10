@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Christopher Pyne (2493)_Sturt_2007" {
+	graph [label="Sturt 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christopher Pyne (2493)" [label="Christopher Pyne (2493)
+Liberal"]
+	"Sally Reid (4693)" [label="Sally Reid (4693)
+The Greens"]
+	"Carol Jansen (4691)" [label="Carol Jansen (4691)
+Family First Party"]
+	"Paul Rowse (4692)" [label="Paul Rowse (4692)
+Australian Democrats"]
+	"Felicity Tilbrook (4695)" [label="Felicity Tilbrook (4695)
+LDP"]
+	"Sally Reid (4693)" -> "Christopher Pyne (2493)" [label=1657]
+	"Carol Jansen (4691)" -> "Sally Reid (4693)" [label=1150]
+	"Paul Rowse (4692)" -> "Carol Jansen (4691)" [label=157]
+	"Felicity Tilbrook (4695)" -> "Paul Rowse (4692)" [label=37]
+	"Carol Jansen (4691)" -> "Christopher Pyne (2493)" [label=1499]
+	"Paul Rowse (4692)" -> "Christopher Pyne (2493)" [label=142]
+	"Felicity Tilbrook (4695)" -> "Christopher Pyne (2493)" [label=124]
+	"Felicity Tilbrook (4695)" -> "Carol Jansen (4691)" [label=43]
+	"Paul Rowse (4692)" -> "Sally Reid (4693)" [label=548]
+	"Felicity Tilbrook (4695)" -> "Sally Reid (4693)" [label=56]
+}

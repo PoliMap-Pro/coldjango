@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Greg Cheesman (1016)_Menzies_2022" {
+	graph [label="Menzies 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+	"Sanjeev Sabhlok (1015)" -> "Greg Cheesman (1016)" [label=277]
+}

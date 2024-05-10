@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Stuart Henry (4936)_Hasluck_2007" {
+	graph [label="Hasluck 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stuart Henry (4936)" [label="Stuart Henry (4936)
+Liberal"]
+	"Jane Bremmer (4933)" [label="Jane Bremmer (4933)
+The Greens"]
+	"Rob Merrells (4938)" [label="Rob Merrells (4938)
+Christian Democratic Party"]
+	"Bill Gaugg (4937)" [label="Bill Gaugg (4937)
+One Nation WA"]
+	"Stephen Bolt (4935)" [label="Stephen Bolt (4935)
+Family First"]
+	"Neil A Vincent (4932)" [label="Neil A Vincent (4932)
+Citizens Electoral Council"]
+	"Siou Hong Chia (4934)" [label="Siou Hong Chia (4934)
+LDP"]
+	"Jane Bremmer (4933)" -> "Stuart Henry (4936)" [label=1924]
+	"Rob Merrells (4938)" -> "Jane Bremmer (4933)" [label=493]
+	"Bill Gaugg (4937)" -> "Rob Merrells (4938)" [label=302]
+	"Stephen Bolt (4935)" -> "Bill Gaugg (4937)" [label=126]
+	"Neil A Vincent (4932)" -> "Stephen Bolt (4935)" [label=72]
+	"Siou Hong Chia (4934)" -> "Neil A Vincent (4932)" [label=38]
+	"Rob Merrells (4938)" -> "Stuart Henry (4936)" [label=1709]
+	"Bill Gaugg (4937)" -> "Stuart Henry (4936)" [label=301]
+	"Stephen Bolt (4935)" -> "Stuart Henry (4936)" [label=250]
+	"Neil A Vincent (4932)" -> "Stuart Henry (4936)" [label=39]
+	"Siou Hong Chia (4934)" -> "Stuart Henry (4936)" [label=41]
+	"Siou Hong Chia (4934)" -> "Stephen Bolt (4935)" [label=29]
+	"Neil A Vincent (4932)" -> "Bill Gaugg (4937)" [label=36]
+	"Siou Hong Chia (4934)" -> "Bill Gaugg (4937)" [label=18]
+	"Stephen Bolt (4935)" -> "Rob Merrells (4938)" [label=161]
+	"Neil A Vincent (4932)" -> "Rob Merrells (4938)" [label=35]
+	"Siou Hong Chia (4934)" -> "Rob Merrells (4938)" [label=10]
+	"Bill Gaugg (4937)" -> "Jane Bremmer (4933)" [label=390]
+	"Stephen Bolt (4935)" -> "Jane Bremmer (4933)" [label=228]
+	"Neil A Vincent (4932)" -> "Jane Bremmer (4933)" [label=467]
+	"Siou Hong Chia (4934)" -> "Jane Bremmer (4933)" [label=108]
+}

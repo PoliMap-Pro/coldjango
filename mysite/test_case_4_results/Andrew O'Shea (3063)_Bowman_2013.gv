@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Andrew O'Shea (3063)_Bowman_2013" {
+	graph [label="Bowman 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew O'Shea (3063)" [label="Andrew O'Shea (3063)
+Family First"]
+}

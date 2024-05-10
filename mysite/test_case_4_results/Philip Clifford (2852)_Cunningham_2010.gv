@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Philip Clifford (2852)_Cunningham_2010" {
+	graph [label="Cunningham 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Philip Clifford (2852)" [label="Philip Clifford (2852)
+Liberal"]
+	"George Takacs (3720)" [label="George Takacs (3720)
+The Greens"]
+	"Jess Moore (3721)" [label="Jess Moore (3721)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"George Takacs (3720)" -> "Philip Clifford (2852)" [label=2890]
+	"Jess Moore (3721)" -> "George Takacs (3720)" [label=995]
+	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=237]
+	"Jess Moore (3721)" -> "Philip Clifford (2852)" [label=227]
+	"John Flanagan (1270)" -> "Philip Clifford (2852)" [label=422]
+	"John Flanagan (1270)" -> "George Takacs (3720)" [label=277]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kevin Seaman (3478)_La Trobe_2013" {
+	graph [label="La Trobe 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Seaman (3478)" [label="Kevin Seaman (3478)
+Rise Up Australia Party"]
+}

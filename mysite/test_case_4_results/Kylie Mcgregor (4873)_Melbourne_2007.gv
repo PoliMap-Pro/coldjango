@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Kylie Mcgregor (4873)_Melbourne_2007" {
+	graph [label="Melbourne 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
+"]
+	"Will Marshall (4870)" [label="Will Marshall (4870)
+Socialist Equality Party"]
+	"Will Marshall (4870)" -> "Kylie Mcgregor (4873)" [label=26]
+}

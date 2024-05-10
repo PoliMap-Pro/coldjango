@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Rebecca Skinner (961)_La Trobe_2022" {
+	graph [label="La Trobe 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
+Australian Federation Party"]
+}

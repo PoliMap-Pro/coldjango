@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Edward Sok (914)_Hotham_2022" {
+	graph [label="Hotham 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
+	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
+	"Roger Tull (918)" -> "Edward Sok (914)" [label=728]
+}

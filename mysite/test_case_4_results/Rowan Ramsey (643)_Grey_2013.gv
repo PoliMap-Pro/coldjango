@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Rowan Ramsey (643)_Grey_2013" {
+	graph [label="Grey 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rowan Ramsey (643)" [label="Rowan Ramsey (643)
+Liberal"]
+	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
+Family First"]
+	"Kristian Rees (3253)" [label="Kristian Rees (3253)
+Palmer United Party"]
+	"Alison Sentance (3254)" [label="Alison Sentance (3254)
+Australian Greens"]
+	"Greg Fidge (3255)" [label="Greg Fidge (3255)
+Independent"]
+	"Cheryl Kaminski (2462)" -> "Rowan Ramsey (643)" [label=4258]
+	"Kristian Rees (3253)" -> "Cheryl Kaminski (2462)" [label=1969]
+	"Alison Sentance (3254)" -> "Kristian Rees (3253)" [label=559]
+	"Greg Fidge (3255)" -> "Alison Sentance (3254)" [label=450]
+	"Kristian Rees (3253)" -> "Rowan Ramsey (643)" [label=1506]
+	"Alison Sentance (3254)" -> "Rowan Ramsey (643)" [label=572]
+	"Greg Fidge (3255)" -> "Rowan Ramsey (643)" [label=660]
+	"Greg Fidge (3255)" -> "Kristian Rees (3253)" [label=426]
+	"Alison Sentance (3254)" -> "Cheryl Kaminski (2462)" [label=909]
+	"Greg Fidge (3255)" -> "Cheryl Kaminski (2462)" [label=404]
+}

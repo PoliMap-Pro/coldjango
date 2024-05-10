@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Steve Camilleri (2833)_Charlton_2013" {
+	graph [label="Charlton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steve Camilleri (2833)" [label="Steve Camilleri (2833)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Burston (2835)" [label="Brian Burston (2835)
+One Nation"]
+	"Trevor Anthoney (2123)" [label="Trevor Anthoney (2123)
+Bullet Train For Australia"]
+	"Brian Burston (2835)" -> "Steve Camilleri (2833)" [label=242]
+	"Trevor Anthoney (2123)" -> "Brian Burston (2835)" [label=188]
+	"Trevor Anthoney (2123)" -> "Steve Camilleri (2833)" [label=55]
+}

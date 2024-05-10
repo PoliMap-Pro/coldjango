@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Duncan Roden (3813)_Parramatta_2010" {
+	graph [label="Parramatta 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Duncan Roden (3813)" [label="Duncan Roden (3813)
+Socialist Alliance"]
+}

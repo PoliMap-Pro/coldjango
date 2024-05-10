@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Tony King (4416)_Paterson_2004" {
+	graph [label="Paterson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Larissa Robb (5205)" [label="Larissa Robb (5205)
+Family First"]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Neil Smith (5202)" [label="Neil Smith (5202)
+Independent"]
+	"Larissa Robb (5205)" -> "Tony King (4416)" [label=49]
+	"Brett Paterson (3850)" -> "Larissa Robb (5205)" [label=43]
+	"Neil Smith (5202)" -> "Brett Paterson (3850)" [label=15]
+	"Brett Paterson (3850)" -> "Tony King (4416)" [label=24]
+	"Neil Smith (5202)" -> "Tony King (4416)" [label=4]
+	"Neil Smith (5202)" -> "Larissa Robb (5205)" [label=6]
+}

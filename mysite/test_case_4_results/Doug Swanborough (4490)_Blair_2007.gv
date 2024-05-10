@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Doug Swanborough (4490)_Blair_2007" {
+	graph [label="Blair 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Doug Swanborough (4490)" [label="Doug Swanborough (4490)
+LDP"]
+	"Robert Thies (4489)" [label="Robert Thies (4489)
+Citizens Electoral Council"]
+	"Robert Thies (4489)" -> "Doug Swanborough (4490)" [label=21]
+}

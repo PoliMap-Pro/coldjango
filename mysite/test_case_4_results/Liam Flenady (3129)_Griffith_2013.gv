@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Liam Flenady (3129)_Griffith_2013" {
+	graph [label="Griffith 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Liam Flenady (3129)" [label="Liam Flenady (3129)
+Socialist Alliance"]
+	"Jan Mcnicol (3126)" [label="Jan Mcnicol (3126)
+Stable Population Party"]
+	"Jan Mcnicol (3126)" -> "Liam Flenady (3129)" [label=8]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Joanne Webb (1631)_Ryan_2019" {
+	graph [label="Ryan 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joanne Webb (1631)" [label="Joanne Webb (1631)
+Animal Justice Party"]
+	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
+United Australia Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Larry Edward Crouch (1630)" -> "Joanne Webb (1631)" [label=175]
+	"Andrew Banks (1634)" -> "Larry Edward Crouch (1630)" [label=139]
+	"Andrew Banks (1634)" -> "Joanne Webb (1631)" [label=66]
+}

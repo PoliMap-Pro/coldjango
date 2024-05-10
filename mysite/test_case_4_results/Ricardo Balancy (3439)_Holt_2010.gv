@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ricardo Balancy (3439)_Holt_2010" {
+	graph [label="Holt 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ricardo Balancy (3439)" [label="Ricardo Balancy (3439)
+Liberal"]
+	"Frank Di Mascolo (4095)" [label="Frank Di Mascolo (4095)
+Australian Greens"]
+	"Ian George (4097)" [label="Ian George (4097)
+Family First"]
+	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
+Secular Party of Australia"]
+	"Frank Di Mascolo (4095)" -> "Ricardo Balancy (3439)" [label=3539]
+	"Ian George (4097)" -> "Frank Di Mascolo (4095)" [label=1259]
+	"Mark Hitchins (4096)" -> "Ian George (4097)" [label=209]
+	"Ian George (4097)" -> "Ricardo Balancy (3439)" [label=2133]
+	"Mark Hitchins (4096)" -> "Ricardo Balancy (3439)" [label=207]
+	"Mark Hitchins (4096)" -> "Frank Di Mascolo (4095)" [label=229]
+}

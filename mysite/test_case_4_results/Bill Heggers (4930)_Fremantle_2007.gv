@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Bill Heggers (4930)_Fremantle_2007" {
+	graph [label="Fremantle 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bill Heggers (4930)" [label="Bill Heggers (4930)
+Christian Democratic Party"]
+	"Andriette Du Plessis (4929)" [label="Andriette Du Plessis (4929)
+Family First"]
+	"Sue Bateman (4931)" [label="Sue Bateman (4931)
+One Nation WA"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Paul Ellison (4928)" [label="Paul Ellison (4928)
+Citizens Electoral Council"]
+	"Andriette Du Plessis (4929)" -> "Bill Heggers (4930)" [label=265]
+	"Sue Bateman (4931)" -> "Andriette Du Plessis (4929)" [label=163]
+	"Sam Wainwright (1130)" -> "Sue Bateman (4931)" [label=20]
+	"Paul Ellison (4928)" -> "Sam Wainwright (1130)" [label=29]
+	"Sue Bateman (4931)" -> "Bill Heggers (4930)" [label=159]
+	"Sam Wainwright (1130)" -> "Bill Heggers (4930)" [label=26]
+	"Paul Ellison (4928)" -> "Bill Heggers (4930)" [label=5]
+	"Paul Ellison (4928)" -> "Sue Bateman (4931)" [label=17]
+	"Sam Wainwright (1130)" -> "Andriette Du Plessis (4929)" [label=47]
+	"Paul Ellison (4928)" -> "Andriette Du Plessis (4929)" [label=40]
+}

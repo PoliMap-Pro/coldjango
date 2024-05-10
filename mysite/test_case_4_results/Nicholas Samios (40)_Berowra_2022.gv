@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Nicholas Samios (40)_Berowra_2022" {
+	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicholas Samios (40)" [label="Nicholas Samios (40)
+Liberal Democrats"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"David James Louie (46)" [label="David James Louie (46)
+Australian Federation Party"]
+	"Brendan Michael Clarke (44)" -> "Nicholas Samios (40)" [label=63]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=24]
+	"David James Louie (46)" -> "Roger Woodward (47)" [label=33]
+	"Roger Woodward (47)" -> "Nicholas Samios (40)" [label=18]
+	"David James Louie (46)" -> "Nicholas Samios (40)" [label=60]
+	"David James Louie (46)" -> "Brendan Michael Clarke (44)" [label=20]
+}

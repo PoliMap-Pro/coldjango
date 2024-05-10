@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Matilda Bawden (677)_Spence_2022" {
+	graph [label="Spence 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+}

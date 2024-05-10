@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Lee Rumble (3584)_Canning_2013" {
+	graph [label="Canning 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lee Rumble (3584)" [label="Lee Rumble (3584)
+Rise Up Australia Party"]
+}

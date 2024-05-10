@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Geoff Page (4729)_Lyons_2007" {
+	graph [label="Lyons 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Page (4729)" [label="Geoff Page (4729)
+Liberal"]
+	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
+The Greens"]
+	"Ben Quin (4727)" [label="Ben Quin (4727)
+Independent"]
+	"Amy Parsons (4728)" [label="Amy Parsons (4728)
+Family First"]
+	"Ray Williams (4725)" [label="Ray Williams (4725)
+Citizens Electoral Council"]
+	"Karen Cassidy (4726)" -> "Geoff Page (4729)" [label=3111]
+	"Ben Quin (4727)" -> "Karen Cassidy (4726)" [label=3181]
+	"Amy Parsons (4728)" -> "Ben Quin (4727)" [label=368]
+	"Ray Williams (4725)" -> "Amy Parsons (4728)" [label=82]
+	"Ben Quin (4727)" -> "Geoff Page (4729)" [label=1809]
+	"Amy Parsons (4728)" -> "Geoff Page (4729)" [label=488]
+	"Ray Williams (4725)" -> "Geoff Page (4729)" [label=101]
+	"Ray Williams (4725)" -> "Ben Quin (4727)" [label=145]
+	"Amy Parsons (4728)" -> "Karen Cassidy (4726)" [label=177]
+	"Ray Williams (4725)" -> "Karen Cassidy (4726)" [label=314]
+}

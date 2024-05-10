@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ka-Ren Chew (4230)_Tangney_2007" {
+	graph [label="Tangney 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ka-Ren Chew (4230)" [label="Ka-Ren Chew (4230)
+Christian Democratic Party"]
+	"Lisa Saladine (4992)" [label="Lisa Saladine (4992)
+Family First"]
+	"Lloyd Boon (4991)" [label="Lloyd Boon (4991)
+One Nation WA"]
+	"Lisa Saladine (4992)" -> "Ka-Ren Chew (4230)" [label=175]
+	"Lloyd Boon (4991)" -> "Lisa Saladine (4992)" [label=95]
+	"Lloyd Boon (4991)" -> "Ka-Ren Chew (4230)" [label=34]
+}

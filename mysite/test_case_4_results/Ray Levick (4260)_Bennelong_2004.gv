@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ray Levick (4260)_Bennelong_2004" {
+	graph [label="Bennelong 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ray Levick (4260)" [label="Ray Levick (4260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Gary Hannah (5008)" [label="Gary Hannah (5008)
+Independent"]
+	"Peter Goldfinch (5011)" [label="Peter Goldfinch (5011)
+Australian Democrats"]
+	"Troy Rollo (5009)" [label="Troy Rollo (5009)
+Independent"]
+	"Gary Hannah (5008)" -> "Ray Levick (4260)" [label=161]
+	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
+	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
+	"Peter Goldfinch (5011)" -> "Ray Levick (4260)" [label=44]
+	"Troy Rollo (5009)" -> "Ray Levick (4260)" [label=20]
+	"Troy Rollo (5009)" -> "Gary Hannah (5008)" [label=198]
+}

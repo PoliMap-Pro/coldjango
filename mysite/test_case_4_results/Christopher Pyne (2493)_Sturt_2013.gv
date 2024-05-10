@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Christopher Pyne (2493)_Sturt_2013" {
+	graph [label="Sturt 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christopher Pyne (2493)" [label="Christopher Pyne (2493)
+Liberal"]
+	"Anne Walker (3279)" [label="Anne Walker (3279)
+Australian Greens"]
+	"Kylie Barnes (3276)" [label="Kylie Barnes (3276)
+Family First"]
+	"Gabriella Alexandra Scali (3278)" [label="Gabriella Alexandra Scali (3278)
+Palmer United Party"]
+	"Anne Walker (3279)" -> "Christopher Pyne (2493)" [label=2216]
+	"Kylie Barnes (3276)" -> "Anne Walker (3279)" [label=1014]
+	"Gabriella Alexandra Scali (3278)" -> "Kylie Barnes (3276)" [label=631]
+	"Kylie Barnes (3276)" -> "Christopher Pyne (2493)" [label=2189]
+	"Gabriella Alexandra Scali (3278)" -> "Christopher Pyne (2493)" [label=757]
+	"Gabriella Alexandra Scali (3278)" -> "Anne Walker (3279)" [label=603]
+}

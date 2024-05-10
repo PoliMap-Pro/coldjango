@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Anthony Cursio (850)_Fraser_2022" {
+	graph [label="Fraser 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Anthony Cursio (850)" [label="Anthony Cursio (850)
+Liberal Democrats"]
+}

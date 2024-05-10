@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Patrick Secker (3990)_Barker_2004" {
+	graph [label="Barker 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Patrick Secker (3990)" [label="Patrick Secker (3990)
+Liberal"]
+	"Tim Jackson (5428)" [label="Tim Jackson (5428)
+National Party"]
+	"Philip Cornish (5425)" [label="Philip Cornish (5425)
+Family First"]
+	"Pam Kelly (5427)" [label="Pam Kelly (5427)
+The Greens"]
+	"Rodger N Schmidt (5426)" [label="Rodger N Schmidt (5426)
+Independent"]
+	"Neil Russell-Taylor (5430)" [label="Neil Russell-Taylor (5430)
+One Nation"]
+	"Graham Mcnaughton (5429)" [label="Graham Mcnaughton (5429)
+Australian Democrats"]
+	"Tim Jackson (5428)" -> "Patrick Secker (3990)" [label=11027]
+	"Philip Cornish (5425)" -> "Tim Jackson (5428)" [label=3296]
+	"Pam Kelly (5427)" -> "Philip Cornish (5425)" [label=1118]
+	"Rodger N Schmidt (5426)" -> "Pam Kelly (5427)" [label=317]
+	"Neil Russell-Taylor (5430)" -> "Rodger N Schmidt (5426)" [label=239]
+	"Graham Mcnaughton (5429)" -> "Neil Russell-Taylor (5430)" [label=63]
+	"Philip Cornish (5425)" -> "Patrick Secker (3990)" [label=2684]
+	"Pam Kelly (5427)" -> "Patrick Secker (3990)" [label=530]
+	"Rodger N Schmidt (5426)" -> "Patrick Secker (3990)" [label=349]
+	"Neil Russell-Taylor (5430)" -> "Patrick Secker (3990)" [label=323]
+	"Graham Mcnaughton (5429)" -> "Patrick Secker (3990)" [label=246]
+	"Graham Mcnaughton (5429)" -> "Rodger N Schmidt (5426)" [label=129]
+	"Neil Russell-Taylor (5430)" -> "Pam Kelly (5427)" [label=159]
+	"Graham Mcnaughton (5429)" -> "Pam Kelly (5427)" [label=278]
+	"Rodger N Schmidt (5426)" -> "Philip Cornish (5425)" [label=595]
+	"Neil Russell-Taylor (5430)" -> "Philip Cornish (5425)" [label=289]
+	"Graham Mcnaughton (5429)" -> "Philip Cornish (5425)" [label=125]
+	"Pam Kelly (5427)" -> "Tim Jackson (5428)" [label=634]
+	"Rodger N Schmidt (5426)" -> "Tim Jackson (5428)" [label=380]
+	"Neil Russell-Taylor (5430)" -> "Tim Jackson (5428)" [label=205]
+	"Graham Mcnaughton (5429)" -> "Tim Jackson (5428)" [label=208]
+}

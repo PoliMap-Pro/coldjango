@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Bruce Billson (3399)_Dunkley_2010" {
+	graph [label="Dunkley 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bruce Billson (3399)" [label="Bruce Billson (3399)
+Liberal"]
+	"Simon Tiller (3394)" [label="Simon Tiller (3394)
+Australian Greens"]
+	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
+Family First"]
+	"Simon Tiller (3394)" -> "Bruce Billson (3399)" [label=2203]
+	"Yasmin De Zilwa (3384)" -> "Simon Tiller (3394)" [label=547]
+	"Yasmin De Zilwa (3384)" -> "Bruce Billson (3399)" [label=972]
+}
