@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrea Broadfoot (1667)_Grey_2019" {
+	graph [label="Grey 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrea Broadfoot (1667)" [label="Andrea Broadfoot (1667)
+Centre Alliance"]
+	"Candace Champion (1668)" [label="Candace Champion (1668)
+The Greens"]
+	"Alexander David Warren (1666)" [label="Alexander David Warren (1666)
+United Australia Party"]
+	"Jacqui Edgecombe (1663)" [label="Jacqui Edgecombe (1663)
+Animal Justice Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Candace Champion (1668)" -> "Andrea Broadfoot (1667)" [label=1674]
+	"Alexander David Warren (1666)" -> "Candace Champion (1668)" [label=310]
+	"Jacqui Edgecombe (1663)" -> "Alexander David Warren (1666)" [label=196]
+	"Richard Carmody (642)" -> "Jacqui Edgecombe (1663)" [label=219]
+	"Alexander David Warren (1666)" -> "Andrea Broadfoot (1667)" [label=410]
+	"Jacqui Edgecombe (1663)" -> "Andrea Broadfoot (1667)" [label=229]
+	"Richard Carmody (642)" -> "Andrea Broadfoot (1667)" [label=209]
+	"Richard Carmody (642)" -> "Alexander David Warren (1666)" [label=246]
+	"Jacqui Edgecombe (1663)" -> "Candace Champion (1668)" [label=661]
+	"Richard Carmody (642)" -> "Candace Champion (1668)" [label=217]
+}

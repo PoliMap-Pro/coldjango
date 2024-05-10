@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Melanie Woods (5032)_Calare_2004" {
+	graph [label="Calare 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Melanie Woods (5032)" [label="Melanie Woods (5032)
+Family First"]
+	"Heidi Van Schaik (5027)" [label="Heidi Van Schaik (5027)
+Citizens Electoral Council"]
+	"Heidi Van Schaik (5027)" -> "Melanie Woods (5032)" [label=25]
+}

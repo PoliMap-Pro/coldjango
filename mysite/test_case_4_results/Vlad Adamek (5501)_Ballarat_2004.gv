@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Vlad Adamek (5501)_Ballarat_2004" {
+	graph [label="Ballarat 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Vlad Adamek (5501)" [label="Vlad Adamek (5501)
+Family First"]
+	"Claire Lindorff (5499)" [label="Claire Lindorff (5499)
+D.L.P. - Democratic Labor Party"]
+	"Valiant Von Thule Halborg (5500)" [label="Valiant Von Thule Halborg (5500)
+Citizens Electoral Council"]
+	"Claire Lindorff (5499)" -> "Vlad Adamek (5501)" [label=312]
+	"Valiant Von Thule Halborg (5500)" -> "Claire Lindorff (5499)" [label=23]
+	"Valiant Von Thule Halborg (5500)" -> "Vlad Adamek (5501)" [label=73]
+}

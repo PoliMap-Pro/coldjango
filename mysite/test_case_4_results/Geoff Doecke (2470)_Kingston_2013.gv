@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Geoff Doecke (2470)_Kingston_2013" {
+	graph [label="Kingston 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
+Family First"]
+	"Mitchell Thomas Frost (3263)" [label="Mitchell Thomas Frost (3263)
+Palmer United Party"]
+	"Andy Snoswell (3261)" [label="Andy Snoswell (3261)
+Rise Up Australia Party"]
+	"Mitchell Thomas Frost (3263)" -> "Geoff Doecke (2470)" [label=1156]
+	"Andy Snoswell (3261)" -> "Mitchell Thomas Frost (3263)" [label=284]
+	"Andy Snoswell (3261)" -> "Geoff Doecke (2470)" [label=231]
+}

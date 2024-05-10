@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Graeme Jackel (5640)_Melbourne Ports_2004" {
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Graeme Jackel (5640)" [label="Graeme Jackel (5640)
+Family First"]
+	"Leonie Horin (5641)" [label="Leonie Horin (5641)
+Independent"]
+	"Aaron Isherwood (4879)" [label="Aaron Isherwood (4879)
+Citizens Electoral Council"]
+	"Leonie Horin (5641)" -> "Graeme Jackel (5640)" [label=30]
+	"Aaron Isherwood (4879)" -> "Leonie Horin (5641)" [label=28]
+	"Aaron Isherwood (4879)" -> "Graeme Jackel (5640)" [label=15]
+}

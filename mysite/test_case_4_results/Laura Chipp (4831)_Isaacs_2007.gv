@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Laura Chipp (4831)_Isaacs_2007" {
+	graph [label="Isaacs 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Laura Chipp (4831)" [label="Laura Chipp (4831)
+Australian Democrats"]
+	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
+Independent"]
+	"Robert Norrie (4827)" [label="Robert Norrie (4827)
+LDP"]
+	"Gordon W Ford (4108)" -> "Laura Chipp (4831)" [label=137]
+	"Robert Norrie (4827)" -> "Gordon W Ford (4108)" [label=220]
+	"Robert Norrie (4827)" -> "Laura Chipp (4831)" [label=19]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Josh Carmont (3772)_Kingsford Smith_2010" {
+	graph [label="Kingsford Smith 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Josh Carmont (3772)" [label="Josh Carmont (3772)
+Australian Democrats"]
+	"John Lawrence Cunningham (3774)" [label="John Lawrence Cunningham (3774)
+One Nation"]
+	"Zac Hambides (3771)" [label="Zac Hambides (3771)
+Socialist Equality Party"]
+	"John Lawrence Cunningham (3774)" -> "Josh Carmont (3772)" [label=236]
+	"Zac Hambides (3771)" -> "John Lawrence Cunningham (3774)" [label=45]
+	"Zac Hambides (3771)" -> "Josh Carmont (3772)" [label=131]
+}

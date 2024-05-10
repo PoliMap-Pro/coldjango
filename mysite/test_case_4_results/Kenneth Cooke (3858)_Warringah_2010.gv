@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Kenneth Cooke (3858)_Warringah_2010" {
+	graph [label="Warringah 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
+Secular Party of Australia"]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Tony Holland (5602)_La Trobe_2004" {
+	graph [label="La Trobe 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Frank Dean (5604)" [label="Frank Dean (5604)
+Independent"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Frank Dean (5604)" -> "Tony Holland (5602)" [label=150]
+	"Wolf Voigt (5605)" -> "Frank Dean (5604)" [label=20]
+	"Kurt Beilharz (4842)" -> "Wolf Voigt (5605)" [label=17]
+	"Wolf Voigt (5605)" -> "Tony Holland (5602)" [label=14]
+	"Kurt Beilharz (4842)" -> "Tony Holland (5602)" [label=11]
+	"Kurt Beilharz (4842)" -> "Frank Dean (5604)" [label=19]
+}

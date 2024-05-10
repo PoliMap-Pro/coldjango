@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Elizabeth Cunningham (3739)_Gilmore_2010" {
+	graph [label="Gilmore 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Elizabeth Cunningham (3739)" [label="Elizabeth Cunningham (3739)
+Family First"]
+	"Don Keys (3743)" [label="Don Keys (3743)
+Liberal Democrats (LDP)"]
+	"Annette Williams (3742)" [label="Annette Williams (3742)
+Secular Party of Australia"]
+	"Don Keys (3743)" -> "Elizabeth Cunningham (3739)" [label=41]
+	"Annette Williams (3742)" -> "Don Keys (3743)" [label=57]
+	"Annette Williams (3742)" -> "Elizabeth Cunningham (3739)" [label=32]
+}

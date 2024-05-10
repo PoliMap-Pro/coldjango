@@ -1,0 +1,25 @@
+// House preference flow
+digraph "David Snelling (1806)_Gippsland_2019" {
+	graph [label="Gippsland 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Snelling (1806)" [label="David Snelling (1806)
+Shooters, Fishers and Farmers"]
+	"Deb Foskey (1811)" [label="Deb Foskey (1811)
+The Greens (VIC)"]
+	"Kerri Jane Brewer (1808)" [label="Kerri Jane Brewer (1808)
+United Australia Party"]
+	"Sonia Buckley (1810)" [label="Sonia Buckley (1810)
+Independent"]
+	"Neville Phillip Tickner (1807)" [label="Neville Phillip Tickner (1807)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Deb Foskey (1811)" -> "David Snelling (1806)" [label=707]
+	"Kerri Jane Brewer (1808)" -> "Deb Foskey (1811)" [label=302]
+	"Sonia Buckley (1810)" -> "Kerri Jane Brewer (1808)" [label=427]
+	"Neville Phillip Tickner (1807)" -> "Sonia Buckley (1810)" [label=163]
+	"Kerri Jane Brewer (1808)" -> "David Snelling (1806)" [label=2031]
+	"Sonia Buckley (1810)" -> "David Snelling (1806)" [label=767]
+	"Neville Phillip Tickner (1807)" -> "David Snelling (1806)" [label=912]
+	"Neville Phillip Tickner (1807)" -> "Kerri Jane Brewer (1808)" [label=527]
+	"Sonia Buckley (1810)" -> "Deb Foskey (1811)" [label=462]
+	"Neville Phillip Tickner (1807)" -> "Deb Foskey (1811)" [label=25]
+}

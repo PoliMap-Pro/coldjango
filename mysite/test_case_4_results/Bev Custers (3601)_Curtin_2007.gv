@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Bev Custers (3601)_Curtin_2007" {
+	graph [label="Curtin 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bev Custers (3601)" [label="Bev Custers (3601)
+Family First"]
+	"Albert Caine (4919)" [label="Albert Caine (4919)
+One Nation WA"]
+	"Albert Caine (4919)" -> "Bev Custers (3601)" [label=55]
+}

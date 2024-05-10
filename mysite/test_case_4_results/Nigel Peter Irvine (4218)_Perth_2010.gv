@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Nigel Peter Irvine (4218)_Perth_2010" {
+	graph [label="Perth 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nigel Peter Irvine (4218)" [label="Nigel Peter Irvine (4218)
+Family First"]
+	"Alex Bainbridge (4219)" [label="Alex Bainbridge (4219)
+Socialist Alliance"]
+	"Alex Bainbridge (4219)" -> "Nigel Peter Irvine (4218)" [label=122]
+}

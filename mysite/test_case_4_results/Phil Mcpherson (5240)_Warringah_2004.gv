@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Phil Mcpherson (5240)_Warringah_2004" {
+	graph [label="Warringah 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Phil Mcpherson (5240)" [label="Phil Mcpherson (5240)
+Family First"]
+	"Peter Thyer (5243)" [label="Peter Thyer (5243)
+Independent"]
+	"Edward Kelly (5245)" [label="Edward Kelly (5245)
+The Fishing Party"]
+	"Dian Maie Underwood (5241)" [label="Dian Maie Underwood (5241)
+Independent"]
+	"Neil Francey (5244)" [label="Neil Francey (5244)
+Independent"]
+	"Peter Thyer (5243)" -> "Phil Mcpherson (5240)" [label=40]
+	"Edward Kelly (5245)" -> "Peter Thyer (5243)" [label=76]
+	"Dian Maie Underwood (5241)" -> "Edward Kelly (5245)" [label=6]
+	"Neil Francey (5244)" -> "Dian Maie Underwood (5241)" [label=21]
+	"Edward Kelly (5245)" -> "Phil Mcpherson (5240)" [label=57]
+	"Dian Maie Underwood (5241)" -> "Phil Mcpherson (5240)" [label=50]
+	"Neil Francey (5244)" -> "Phil Mcpherson (5240)" [label=12]
+	"Neil Francey (5244)" -> "Edward Kelly (5245)" [label=17]
+	"Dian Maie Underwood (5241)" -> "Peter Thyer (5243)" [label=73]
+	"Neil Francey (5244)" -> "Peter Thyer (5243)" [label=114]
+}

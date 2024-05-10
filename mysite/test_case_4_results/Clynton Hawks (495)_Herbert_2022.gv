@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Clynton Hawks (495)_Herbert_2022" {
+	graph [label="Herbert 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Clynton Hawks (495)" [label="Clynton Hawks (495)
+Katter's Australian Party (KAP)"]
+	"Scott Humphreys (489)" [label="Scott Humphreys (489)
+Queensland Greens"]
+	"Diane Pepe (497)" [label="Diane Pepe (497)
+Pauline Hanson's One Nation"]
+	"Angela Egan (492)" [label="Angela Egan (492)
+Independent"]
+	"Greg Ian Dowling (494)" [label="Greg Ian Dowling (494)
+United Australia Party"]
+	"Toni Mcmahon (487)" [label="Toni Mcmahon (487)
+Informed Medical Options Party"]
+	"Toni Mccormack (496)" [label="Toni Mccormack (496)
+Animal Justice Party"]
+	"Steven Clare (493)" [label="Steven Clare (493)
+Independent"]
+	"Larna Ballard (490)" [label="Larna Ballard (490)
+The Great Australian Party"]
+	"Scott Humphreys (489)" -> "Clynton Hawks (495)" [label=1625]
+	"Diane Pepe (497)" -> "Scott Humphreys (489)" [label=575]
+	"Angela Egan (492)" -> "Diane Pepe (497)" [label=579]
+	"Greg Ian Dowling (494)" -> "Angela Egan (492)" [label=218]
+	"Toni Mcmahon (487)" -> "Greg Ian Dowling (494)" [label=166]
+	"Toni Mccormack (496)" -> "Toni Mcmahon (487)" [label=193]
+	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
+	"Larna Ballard (490)" -> "Steven Clare (493)" [label=49]
+	"Diane Pepe (497)" -> "Clynton Hawks (495)" [label=4650]
+	"Angela Egan (492)" -> "Clynton Hawks (495)" [label=886]
+	"Greg Ian Dowling (494)" -> "Clynton Hawks (495)" [label=869]
+	"Toni Mcmahon (487)" -> "Clynton Hawks (495)" [label=355]
+	"Toni Mccormack (496)" -> "Clynton Hawks (495)" [label=116]
+	"Steven Clare (493)" -> "Clynton Hawks (495)" [label=79]
+	"Larna Ballard (490)" -> "Clynton Hawks (495)" [label=65]
+	"Larna Ballard (490)" -> "Toni Mccormack (496)" [label=17]
+	"Steven Clare (493)" -> "Toni Mcmahon (487)" [label=87]
+	"Larna Ballard (490)" -> "Toni Mcmahon (487)" [label=157]
+	"Toni Mccormack (496)" -> "Greg Ian Dowling (494)" [label=52]
+	"Steven Clare (493)" -> "Greg Ian Dowling (494)" [label=44]
+	"Larna Ballard (490)" -> "Greg Ian Dowling (494)" [label=79]
+	"Toni Mcmahon (487)" -> "Angela Egan (492)" [label=331]
+	"Toni Mccormack (496)" -> "Angela Egan (492)" [label=214]
+	"Steven Clare (493)" -> "Angela Egan (492)" [label=490]
+	"Larna Ballard (490)" -> "Angela Egan (492)" [label=85]
+	"Greg Ian Dowling (494)" -> "Diane Pepe (497)" [label=828]
+	"Toni Mcmahon (487)" -> "Diane Pepe (497)" [label=293]
+	"Toni Mccormack (496)" -> "Diane Pepe (497)" [label=183]
+	"Steven Clare (493)" -> "Diane Pepe (497)" [label=63]
+	"Larna Ballard (490)" -> "Diane Pepe (497)" [label=97]
+	"Angela Egan (492)" -> "Scott Humphreys (489)" [label=1438]
+	"Greg Ian Dowling (494)" -> "Scott Humphreys (489)" [label=112]
+	"Toni Mcmahon (487)" -> "Scott Humphreys (489)" [label=272]
+	"Toni Mccormack (496)" -> "Scott Humphreys (489)" [label=333]
+	"Steven Clare (493)" -> "Scott Humphreys (489)" [label=28]
+	"Larna Ballard (490)" -> "Scott Humphreys (489)" [label=70]
+}

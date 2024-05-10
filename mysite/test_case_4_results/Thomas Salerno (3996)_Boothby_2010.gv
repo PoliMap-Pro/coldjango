@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Thomas Salerno (3996)_Boothby_2010" {
+	graph [label="Boothby 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Thomas Salerno (3996)" [label="Thomas Salerno (3996)
+Australian Democrats"]
+	"Michael Daniel Noack (3997)" [label="Michael Daniel Noack (3997)
+Liberal Democrats (LDP)"]
+	"Stephen Skillitzi (3994)" [label="Stephen Skillitzi (3994)
+The Climate Sceptics"]
+	"Avi Chapman (3999)" [label="Avi Chapman (3999)
+Secular Party of Australia"]
+	"Michael Daniel Noack (3997)" -> "Thomas Salerno (3996)" [label=60]
+	"Stephen Skillitzi (3994)" -> "Michael Daniel Noack (3997)" [label=16]
+	"Avi Chapman (3999)" -> "Stephen Skillitzi (3994)" [label=21]
+	"Stephen Skillitzi (3994)" -> "Thomas Salerno (3996)" [label=19]
+	"Avi Chapman (3999)" -> "Thomas Salerno (3996)" [label=34]
+	"Avi Chapman (3999)" -> "Michael Daniel Noack (3997)" [label=27]
+}

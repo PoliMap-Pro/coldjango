@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jesse Alexander Webb (3918)_Griffith_2010" {
+	graph [label="Griffith 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jesse Alexander Webb (3918)" [label="Jesse Alexander Webb (3918)
+Family First"]
+	"Hamish Chitts (3917)" [label="Hamish Chitts (3917)
+"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Hamish Chitts (3917)" -> "Jesse Alexander Webb (3918)" [label=130]
+	"Jan Pukallus (3123)" -> "Hamish Chitts (3917)" [label=41]
+	"Jan Pukallus (3123)" -> "Jesse Alexander Webb (3918)" [label=31]
+}

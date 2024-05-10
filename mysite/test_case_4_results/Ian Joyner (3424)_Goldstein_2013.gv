@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ian Joyner (3424)_Goldstein_2013" {
+	graph [label="Goldstein 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Joyner (3424)" [label="Ian Joyner (3424)
+Family First Party"]
+	"Lynette Hannie (3422)" [label="Lynette Hannie (3422)
+Rise Up Australia Party"]
+	"Lynette Hannie (3422)" -> "Ian Joyner (3424)" [label=186]
+}

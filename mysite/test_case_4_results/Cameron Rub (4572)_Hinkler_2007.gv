@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Cameron Rub (4572)_Hinkler_2007" {
+	graph [label="Hinkler 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cameron Rub (4572)" [label="Cameron Rub (4572)
+Family First"]
+	"Roy D Wells (4575)" [label="Roy D Wells (4575)
+Independent"]
+	"Robert Bromwich (4574)" [label="Robert Bromwich (4574)
+Democrats"]
+	"Roy D Wells (4575)" -> "Cameron Rub (4572)" [label=465]
+	"Robert Bromwich (4574)" -> "Roy D Wells (4575)" [label=208]
+	"Robert Bromwich (4574)" -> "Cameron Rub (4572)" [label=41]
+}

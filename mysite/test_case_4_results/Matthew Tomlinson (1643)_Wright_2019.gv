@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Matthew Tomlinson (1643)_Wright_2019" {
+	graph [label="Wright 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Tomlinson (1643)" [label="Matthew Tomlinson (1643)
+Katter's Australian Party (KAP)"]
+	"Rod Smith (1642)" [label="Rod Smith (1642)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rod Smith (1642)" -> "Matthew Tomlinson (1643)" [label=646]
+}

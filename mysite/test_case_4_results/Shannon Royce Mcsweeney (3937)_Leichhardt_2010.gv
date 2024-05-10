@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Shannon Royce Mcsweeney (3937)_Leichhardt_2010" {
+	graph [label="Leichhardt 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shannon Royce Mcsweeney (3937)" [label="Shannon Royce Mcsweeney (3937)
+Family First"]
+	"Steve Lane (3940)" [label="Steve Lane (3940)
+Independent"]
+	"Steve Lane (3940)" -> "Shannon Royce Mcsweeney (3937)" [label=93]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rowell Walton (3185)_Maranoa_2013" {
+	graph [label="Maranoa 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rowell Walton (3185)" [label="Rowell Walton (3185)
+Katter's Australian Party"]
+	"John Spellman (1601)" [label="John Spellman (1601)
+Family First"]
+	"Grant Newson (3181)" [label="Grant Newson (3181)
+The Greens"]
+	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
+Rise Up Australia Party"]
+	"John Spellman (1601)" -> "Rowell Walton (3185)" [label=588]
+	"Grant Newson (3181)" -> "John Spellman (1601)" [label=401]
+	"George Mousley Clouston (3183)" -> "Grant Newson (3181)" [label=46]
+	"Grant Newson (3181)" -> "Rowell Walton (3185)" [label=284]
+	"George Mousley Clouston (3183)" -> "Rowell Walton (3185)" [label=92]
+	"George Mousley Clouston (3183)" -> "John Spellman (1601)" [label=351]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Debbie Campbell (5317)_Fairfax_2004" {
+	graph [label="Fairfax 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Debbie Campbell (5317)" [label="Debbie Campbell (5317)
+Australian Democrats"]
+	"Kev Watt (5319)" [label="Kev Watt (5319)
+Citizens Electoral Council"]
+	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
+}

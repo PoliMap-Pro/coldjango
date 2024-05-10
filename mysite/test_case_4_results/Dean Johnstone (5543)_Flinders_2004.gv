@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Dean Johnstone (5543)_Flinders_2004" {
+	graph [label="Flinders 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dean Johnstone (5543)" [label="Dean Johnstone (5543)
+Family First"]
+	"Paul Madigan (3403)" [label="Paul Madigan (3403)
+Independent"]
+	"Bruce Errol (5545)" [label="Bruce Errol (5545)
+Democrats"]
+	"Neale Adams (4786)" [label="Neale Adams (4786)
+Independent"]
+	"Henry Broadbent (5547)" [label="Henry Broadbent (5547)
+Citizens Electoral Council"]
+	"Paul Madigan (3403)" -> "Dean Johnstone (5543)" [label=663]
+	"Bruce Errol (5545)" -> "Paul Madigan (3403)" [label=129]
+	"Neale Adams (4786)" -> "Bruce Errol (5545)" [label=55]
+	"Henry Broadbent (5547)" -> "Neale Adams (4786)" [label=25]
+	"Bruce Errol (5545)" -> "Dean Johnstone (5543)" [label=49]
+	"Neale Adams (4786)" -> "Dean Johnstone (5543)" [label=45]
+	"Henry Broadbent (5547)" -> "Dean Johnstone (5543)" [label=23]
+	"Henry Broadbent (5547)" -> "Bruce Errol (5545)" [label=9]
+	"Neale Adams (4786)" -> "Paul Madigan (3403)" [label=179]
+	"Henry Broadbent (5547)" -> "Paul Madigan (3403)" [label=25]
+}

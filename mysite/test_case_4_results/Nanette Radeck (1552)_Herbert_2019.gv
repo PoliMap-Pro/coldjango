@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Nanette Radeck (1552)_Herbert_2019" {
+	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nanette Radeck (1552)" [label="Nanette Radeck (1552)
+Katter's Australian Party (KAP)"]
+	"Sam Blackadder (1553)" [label="Sam Blackadder (1553)
+The Greens"]
+	"Greg Dowling (1551)" [label="Greg Dowling (1551)
+United Australia Party"]
+	"Tamara Durant (1554)" [label="Tamara Durant (1554)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
+Animal Justice Party"]
+	"Sam Blackadder (1553)" -> "Nanette Radeck (1552)" [label=828]
+	"Greg Dowling (1551)" -> "Sam Blackadder (1553)" [label=258]
+	"Tamara Durant (1554)" -> "Greg Dowling (1551)" [label=202]
+	"Mackenzie Severns (1555)" -> "Tamara Durant (1554)" [label=167]
+	"Greg Dowling (1551)" -> "Nanette Radeck (1552)" [label=1258]
+	"Tamara Durant (1554)" -> "Nanette Radeck (1552)" [label=414]
+	"Mackenzie Severns (1555)" -> "Nanette Radeck (1552)" [label=141]
+	"Mackenzie Severns (1555)" -> "Greg Dowling (1551)" [label=76]
+	"Tamara Durant (1554)" -> "Sam Blackadder (1553)" [label=104]
+	"Mackenzie Severns (1555)" -> "Sam Blackadder (1553)" [label=602]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Barry Drennan (4227)_Swan_2010" {
+	graph [label="Swan 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Barry Drennan (4227)" [label="Barry Drennan (4227)
+Family First"]
+	"Joe Lopez (4225)" [label="Joe Lopez (4225)
+Socialist Equality Party"]
+	"Joe Lopez (4225)" -> "Barry Drennan (4227)" [label=33]
+}

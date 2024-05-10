@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Dale Shuttleworth (4511)_Dickson_2007" {
+	graph [label="Dickson 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
+Family First"]
+	"Peter Kerin (4515)" [label="Peter Kerin (4515)
+Democrats"]
+	"Connie Wood (4513)" [label="Connie Wood (4513)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brad Cornwell (4512)" [label="Brad Cornwell (4512)
+LDP"]
+	"Peter Kerin (4515)" -> "Dale Shuttleworth (4511)" [label=72]
+	"Connie Wood (4513)" -> "Peter Kerin (4515)" [label=16]
+	"Brad Cornwell (4512)" -> "Connie Wood (4513)" [label=25]
+	"Connie Wood (4513)" -> "Dale Shuttleworth (4511)" [label=143]
+	"Brad Cornwell (4512)" -> "Dale Shuttleworth (4511)" [label=40]
+	"Brad Cornwell (4512)" -> "Peter Kerin (4515)" [label=15]
+}

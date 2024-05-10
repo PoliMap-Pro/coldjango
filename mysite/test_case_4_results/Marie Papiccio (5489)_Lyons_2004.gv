@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Marie Papiccio (5489)_Lyons_2004" {
+	graph [label="Lyons 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Marie Papiccio (5489)" [label="Marie Papiccio (5489)
+Family First"]
+	"Saul Jenkins (5490)" [label="Saul Jenkins (5490)
+Citizens Electoral Council"]
+	"Saul Jenkins (5490)" -> "Marie Papiccio (5489)" [label=129]
+}

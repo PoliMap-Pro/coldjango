@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Georgia Pearson (4139)_Melbourne_2010" {
+	graph [label="Melbourne 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Penelope Green (4141)" [label="Penelope Green (4141)
+Secular Party of Australia"]
+	"David Collyer (4140)" [label="David Collyer (4140)
+Australian Democrats"]
+	"Penelope Green (4141)" -> "Georgia Pearson (4139)" [label=77]
+	"David Collyer (4140)" -> "Penelope Green (4141)" [label=58]
+	"David Collyer (4140)" -> "Georgia Pearson (4139)" [label=56]
+}

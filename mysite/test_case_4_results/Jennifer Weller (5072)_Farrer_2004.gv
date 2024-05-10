@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jennifer Weller (5072)_Farrer_2004" {
+	graph [label="Farrer 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
+Family First"]
+	"Ray Jones (5076)" [label="Ray Jones (5076)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ian Paul Burn (5077)" [label="Ian Paul Burn (5077)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Morgan (5073)" [label="Matt Morgan (5073)
+Independent"]
+	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Ray Jones (5076)" -> "Jennifer Weller (5072)" [label=233]
+	"Ian Paul Burn (5077)" -> "Ray Jones (5076)" [label=97]
+	"Matt Morgan (5073)" -> "Ian Paul Burn (5077)" [label=13]
+	"Frank Kovacs (5074)" -> "Matt Morgan (5073)" [label=53]
+	"Chris Lahy (984)" -> "Frank Kovacs (5074)" [label=21]
+	"Ian Paul Burn (5077)" -> "Jennifer Weller (5072)" [label=246]
+	"Matt Morgan (5073)" -> "Jennifer Weller (5072)" [label=133]
+	"Frank Kovacs (5074)" -> "Jennifer Weller (5072)" [label=18]
+	"Chris Lahy (984)" -> "Jennifer Weller (5072)" [label=24]
+	"Chris Lahy (984)" -> "Matt Morgan (5073)" [label=50]
+	"Frank Kovacs (5074)" -> "Ian Paul Burn (5077)" [label=10]
+	"Chris Lahy (984)" -> "Ian Paul Burn (5077)" [label=19]
+	"Matt Morgan (5073)" -> "Ray Jones (5076)" [label=35]
+	"Frank Kovacs (5074)" -> "Ray Jones (5076)" [label=18]
+	"Chris Lahy (984)" -> "Ray Jones (5076)" [label=17]
+}

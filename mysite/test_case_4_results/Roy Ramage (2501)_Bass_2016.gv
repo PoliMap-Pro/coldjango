@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Roy Ramage (2501)_Bass_2016" {
+	graph [label="Bass 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Roy Ramage (2501)" [label="Roy Ramage (2501)
+Renewable Energy Party"]
+}

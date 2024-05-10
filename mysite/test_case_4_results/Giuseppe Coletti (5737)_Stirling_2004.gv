@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Giuseppe Coletti (5737)_Stirling_2004" {
+	graph [label="Stirling 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
+Australian Democrats"]
+	"Alex K Patrick (5741)" [label="Alex K Patrick (5741)
+Pauline Hanson's One Nation"]
+	"Leone Pearson (5736)" [label="Leone Pearson (5736)
+Citizens Electoral Council"]
+	"Marcus Anderson (5740)" [label="Marcus Anderson (5740)
+Independent"]
+	"Alex K Patrick (5741)" -> "Giuseppe Coletti (5737)" [label=138]
+	"Leone Pearson (5736)" -> "Alex K Patrick (5741)" [label=43]
+	"Marcus Anderson (5740)" -> "Leone Pearson (5736)" [label=61]
+	"Leone Pearson (5736)" -> "Giuseppe Coletti (5737)" [label=456]
+	"Marcus Anderson (5740)" -> "Giuseppe Coletti (5737)" [label=77]
+	"Marcus Anderson (5740)" -> "Alex K Patrick (5741)" [label=58]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Stephen Gellatly (4492)_Bonner_2007" {
+	graph [label="Bonner 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
+	"Lisa Charles (4491)" [label="Lisa Charles (4491)
+LDP"]
+	"Shane Boese (4494)" -> "Stephen Gellatly (4492)" [label=208]
+	"Vicki Stocks (4493)" -> "Shane Boese (4494)" [label=66]
+	"Lisa Charles (4491)" -> "Vicki Stocks (4493)" [label=22]
+	"Vicki Stocks (4493)" -> "Stephen Gellatly (4492)" [label=65]
+	"Lisa Charles (4491)" -> "Stephen Gellatly (4492)" [label=22]
+	"Lisa Charles (4491)" -> "Shane Boese (4494)" [label=19]
+}

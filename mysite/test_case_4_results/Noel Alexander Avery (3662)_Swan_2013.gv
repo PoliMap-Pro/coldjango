@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Noel Alexander Avery (3662)_Swan_2013" {
+	graph [label="Swan 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Noel Alexander Avery (3662)" [label="Noel Alexander Avery (3662)
+Katter's Australian Party"]
+}

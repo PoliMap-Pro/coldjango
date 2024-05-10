@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ihab Kelada (4897)_Wills_2007" {
+	graph [label="Wills 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ihab Kelada (4897)" [label="Ihab Kelada (4897)
+Family First"]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
+	"Craig William Isherwood (4898)" [label="Craig William Isherwood (4898)
+Citizens Electoral Council"]
+	"Zane Alcorn (2717)" -> "Ihab Kelada (4897)" [label=120]
+	"Craig William Isherwood (4898)" -> "Zane Alcorn (2717)" [label=55]
+	"Craig William Isherwood (4898)" -> "Ihab Kelada (4897)" [label=54]
+}

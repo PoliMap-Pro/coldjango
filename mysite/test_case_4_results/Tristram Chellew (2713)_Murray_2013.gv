@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Tristram Chellew (2713)_Murray_2013" {
+	graph [label="Murray 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tristram Chellew (2713)" [label="Tristram Chellew (2713)
+Sex Party"]
+	"Alan Walker (3548)" [label="Alan Walker (3548)
+Family First Party"]
+	"Wendy Buck (3544)" [label="Wendy Buck (3544)
+Independent"]
+	"Fern Summer (2698)" [label="Fern Summer (2698)
+Bullet Train For Australia"]
+	"Raymond Hungerford (3547)" [label="Raymond Hungerford (3547)
+Rise Up Australia Party"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
+	"Alan Walker (3548)" -> "Tristram Chellew (2713)" [label=205]
+	"Wendy Buck (3544)" -> "Alan Walker (3548)" [label=118]
+	"Fern Summer (2698)" -> "Wendy Buck (3544)" [label=105]
+	"Raymond Hungerford (3547)" -> "Fern Summer (2698)" [label=36]
+	"Jeff Davy (1033)" -> "Raymond Hungerford (3547)" [label=14]
+	"Wendy Buck (3544)" -> "Tristram Chellew (2713)" [label=122]
+	"Fern Summer (2698)" -> "Tristram Chellew (2713)" [label=135]
+	"Raymond Hungerford (3547)" -> "Tristram Chellew (2713)" [label=37]
+	"Jeff Davy (1033)" -> "Tristram Chellew (2713)" [label=23]
+	"Jeff Davy (1033)" -> "Fern Summer (2698)" [label=16]
+	"Raymond Hungerford (3547)" -> "Wendy Buck (3544)" [label=28]
+	"Jeff Davy (1033)" -> "Wendy Buck (3544)" [label=22]
+	"Fern Summer (2698)" -> "Alan Walker (3548)" [label=120]
+	"Raymond Hungerford (3547)" -> "Alan Walker (3548)" [label=289]
+	"Jeff Davy (1033)" -> "Alan Walker (3548)" [label=39]
+}

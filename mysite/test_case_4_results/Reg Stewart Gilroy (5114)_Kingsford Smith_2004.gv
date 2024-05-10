@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Reg Stewart Gilroy (5114)_Kingsford Smith_2004" {
+	graph [label="Kingsford Smith 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Reg Stewart Gilroy (5114)" [label="Reg Stewart Gilroy (5114)
+No GST"]
+	"Maureen Frances (5119)" [label="Maureen Frances (5119)
+Socialist Alliance"]
+	"James Cogan (4278)" [label="James Cogan (4278)
+"]
+	"Maureen Frances (5119)" -> "Reg Stewart Gilroy (5114)" [label=4]
+	"James Cogan (4278)" -> "Maureen Frances (5119)" [label=10]
+	"James Cogan (4278)" -> "Reg Stewart Gilroy (5114)" [label=25]
+}

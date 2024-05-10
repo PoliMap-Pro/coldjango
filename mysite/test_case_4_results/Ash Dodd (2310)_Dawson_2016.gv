@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ash Dodd (2310)_Dawson_2016" {
+	graph [label="Dawson 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ash Dodd (2310)" [label="Ash Dodd (2310)
+Katter's Australian Party"]
+	"Steven Large (2309)" [label="Steven Large (2309)
+Independent"]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Michael Hall (2308)" [label="Michael Hall (2308)
+Glenn Lazarus Team"]
+	"Amanda Nickson (2311)" [label="Amanda Nickson (2311)
+Family First"]
+	"Steven Large (2309)" -> "Ash Dodd (2310)" [label=3498]
+	"Jonathon Dykyj (2313)" -> "Steven Large (2309)" [label=1173]
+	"Michael Hall (2308)" -> "Jonathon Dykyj (2313)" [label=247]
+	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
+	"Jonathon Dykyj (2313)" -> "Ash Dodd (2310)" [label=577]
+	"Michael Hall (2308)" -> "Ash Dodd (2310)" [label=1248]
+	"Amanda Nickson (2311)" -> "Ash Dodd (2310)" [label=731]
+	"Amanda Nickson (2311)" -> "Jonathon Dykyj (2313)" [label=435]
+	"Michael Hall (2308)" -> "Steven Large (2309)" [label=1214]
+	"Amanda Nickson (2311)" -> "Steven Large (2309)" [label=627]
+}

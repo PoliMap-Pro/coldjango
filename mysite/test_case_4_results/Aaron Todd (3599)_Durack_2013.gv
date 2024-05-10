@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Aaron Todd (3599)_Durack_2013" {
+	graph [label="Durack 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Aaron Todd (3599)" [label="Aaron Todd (3599)
+Katter's Australian Party"]
+	"Ian Rose (3597)" [label="Ian Rose (3597)
+Family First Party"]
+	"Judy F Sudholz (3596)" [label="Judy F Sudholz (3596)
+Citizens Electoral Council"]
+	"Ian Rose (3597)" -> "Aaron Todd (3599)" [label=59]
+	"Judy F Sudholz (3596)" -> "Ian Rose (3597)" [label=20]
+	"Judy F Sudholz (3596)" -> "Aaron Todd (3599)" [label=15]
+}

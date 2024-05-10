@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Simon Saad (5195)_Parramatta_2004" {
+	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Margaret Bloor (5199)" -> "Simon Saad (5195)" [label=13]
+}

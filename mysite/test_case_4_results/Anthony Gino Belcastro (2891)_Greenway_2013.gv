@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Anthony Gino Belcastro (2891)_Greenway_2013" {
+	graph [label="Greenway 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Anthony Gino Belcastro (2891)" [label="Anthony Gino Belcastro (2891)
+Katter's Australian Party"]
+	"Jamie Cavanough (2888)" [label="Jamie Cavanough (2888)
+Australian Voice"]
+	"Jamie Cavanough (2888)" -> "Anthony Gino Belcastro (2891)" [label=33]
+}

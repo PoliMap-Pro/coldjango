@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Peter G Robins (5424)_Adelaide_2004" {
+	graph [label="Adelaide 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter G Robins (5424)" [label="Peter G Robins (5424)
+Family First"]
+	"Richard Pascoe (1564)" [label="Richard Pascoe (1564)
+Australian Democrats"]
+	"Amanda Barlow (5422)" [label="Amanda Barlow (5422)
+Independent"]
+	"Richard Pascoe (1564)" -> "Peter G Robins (5424)" [label=97]
+	"Amanda Barlow (5422)" -> "Richard Pascoe (1564)" [label=139]
+	"Amanda Barlow (5422)" -> "Peter G Robins (5424)" [label=96]
+}

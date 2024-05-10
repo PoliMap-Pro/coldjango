@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ross Wilson (4521)_Fadden_2007" {
+	graph [label="Fadden 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ross Wilson (4521)" [label="Ross Wilson (4521)
+Family First"]
+	"David Montgomery (4520)" [label="David Montgomery (4520)
+Independent"]
+	"John Walter (4517)" [label="John Walter (4517)
+One Nation WA"]
+	"Ken Martin (4516)" [label="Ken Martin (4516)
+Citizens Electoral Council"]
+	"Chris Faint (4519)" [label="Chris Faint (4519)
+Democrats"]
+	"David Montgomery (4520)" -> "Ross Wilson (4521)" [label=237]
+	"John Walter (4517)" -> "David Montgomery (4520)" [label=133]
+	"Ken Martin (4516)" -> "John Walter (4517)" [label=409]
+	"Chris Faint (4519)" -> "Ken Martin (4516)" [label=45]
+	"John Walter (4517)" -> "Ross Wilson (4521)" [label=113]
+	"Ken Martin (4516)" -> "Ross Wilson (4521)" [label=27]
+	"Chris Faint (4519)" -> "Ross Wilson (4521)" [label=24]
+	"Chris Faint (4519)" -> "John Walter (4517)" [label=17]
+	"Ken Martin (4516)" -> "David Montgomery (4520)" [label=30]
+	"Chris Faint (4519)" -> "David Montgomery (4520)" [label=84]
+}

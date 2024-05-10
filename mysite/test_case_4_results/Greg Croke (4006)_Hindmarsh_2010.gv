@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Greg Croke (4006)_Hindmarsh_2010" {
+	graph [label="Hindmarsh 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Croke (4006)" [label="Greg Croke (4006)
+Australian Democrats"]
+	"Adrian Graeme Paech (4005)" [label="Adrian Graeme Paech (4005)
+The Climate Sceptics"]
+	"Adrian Graeme Paech (4005)" -> "Greg Croke (4006)" [label=79]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ray Bradbury (5733)_Perth_2004" {
+	graph [label="Perth 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ray Bradbury (5733)" [label="Ray Bradbury (5733)
+Australian Democrats"]
+	"Nikki Ulasowski (5730)" [label="Nikki Ulasowski (5730)
+Socialist Alliance"]
+	"Ross Herbert Russell (5734)" [label="Ross Herbert Russell (5734)
+Citizens Electoral Council"]
+	"Nikki Ulasowski (5730)" -> "Ray Bradbury (5733)" [label=44]
+	"Ross Herbert Russell (5734)" -> "Nikki Ulasowski (5730)" [label=39]
+	"Ross Herbert Russell (5734)" -> "Ray Bradbury (5733)" [label=28]
+}

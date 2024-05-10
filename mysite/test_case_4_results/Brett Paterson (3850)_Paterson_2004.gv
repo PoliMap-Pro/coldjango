@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Brett Paterson (3850)_Paterson_2004" {
+	graph [label="Paterson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Neil Smith (5202)" [label="Neil Smith (5202)
+Independent"]
+	"Neil Smith (5202)" -> "Brett Paterson (3850)" [label=15]
+}

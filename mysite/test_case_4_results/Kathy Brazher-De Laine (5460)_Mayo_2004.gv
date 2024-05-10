@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Kathy Brazher-De Laine (5460)_Mayo_2004" {
+	graph [label="Mayo 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kathy Brazher-De Laine (5460)" [label="Kathy Brazher-De Laine (5460)
+Australian Democrats"]
+	"Robert Fechner (4681)" [label="Robert Fechner (4681)
+One Nation"]
+	"Jon Grear (5459)" [label="Jon Grear (5459)
+Independent"]
+	"Robert Fechner (4681)" -> "Kathy Brazher-De Laine (5460)" [label=36]
+	"Jon Grear (5459)" -> "Robert Fechner (4681)" [label=11]
+	"Jon Grear (5459)" -> "Kathy Brazher-De Laine (5460)" [label=59]
+}

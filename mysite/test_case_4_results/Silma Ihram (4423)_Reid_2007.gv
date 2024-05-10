@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Silma Ihram (4423)_Reid_2007" {
+	graph [label="Reid 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Silma Ihram (4423)" [label="Silma Ihram (4423)
+Democrats"]
+	"Hal Johnson (4426)" [label="Hal Johnson (4426)
+Citizens Electoral Council"]
+	"Hal Johnson (4426)" -> "Silma Ihram (4423)" [label=36]
+}

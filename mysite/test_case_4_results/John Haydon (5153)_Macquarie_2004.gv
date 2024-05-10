@@ -1,0 +1,14 @@
+// House preference flow
+digraph "John Haydon (5153)_Macquarie_2004" {
+	graph [label="Macquarie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Haydon (5153)" [label="John Haydon (5153)
+Australian Democrats"]
+	"Matthew Derrig (5155)" [label="Matthew Derrig (5155)
+No GST"]
+	"Michael Segedin (4373)" [label="Michael Segedin (4373)
+Citizens Electoral Council"]
+	"Matthew Derrig (5155)" -> "John Haydon (5153)" [label=37]
+	"Michael Segedin (4373)" -> "Matthew Derrig (5155)" [label=5]
+	"Michael Segedin (4373)" -> "John Haydon (5153)" [label=5]
+}

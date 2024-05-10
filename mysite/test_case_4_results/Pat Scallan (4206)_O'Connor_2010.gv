@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Pat Scallan (4206)_O'Connor_2010" {
+	graph [label="O'Connor 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pat Scallan (4206)" [label="Pat Scallan (4206)
+Family First"]
+	"Neil Ramsay Smithson (4211)" [label="Neil Ramsay Smithson (4211)
+Independent"]
+	"Jean Robinson (3629)" [label="Jean Robinson (3629)
+Citizens Electoral Council"]
+	"Neil Ramsay Smithson (4211)" -> "Pat Scallan (4206)" [label=27]
+	"Jean Robinson (3629)" -> "Neil Ramsay Smithson (4211)" [label=25]
+	"Jean Robinson (3629)" -> "Pat Scallan (4206)" [label=72]
+}

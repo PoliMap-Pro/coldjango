@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Reade Smith (1793)_Flinders_2010" {
+	graph [label="Flinders 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Reade Smith (1793)" [label="Reade Smith (1793)
+Family First"]
+}

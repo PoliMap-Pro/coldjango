@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Robyn Munro (4715)_Denison_2007" {
+	graph [label="Denison 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robyn Munro (4715)" [label="Robyn Munro (4715)
+Family First"]
+	"Susan Austin (4717)" [label="Susan Austin (4717)
+Socialist Alliance"]
+	"Rob Larner (4716)" [label="Rob Larner (4716)
+Citizens Electoral Council"]
+	"Susan Austin (4717)" -> "Robyn Munro (4715)" [label=93]
+	"Rob Larner (4716)" -> "Susan Austin (4717)" [label=55]
+	"Rob Larner (4716)" -> "Robyn Munro (4715)" [label=67]
+}

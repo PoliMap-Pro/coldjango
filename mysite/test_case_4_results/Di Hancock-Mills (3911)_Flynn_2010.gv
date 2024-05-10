@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Di Hancock-Mills (3911)_Flynn_2010" {
+	graph [label="Flynn 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Di Hancock-Mills (3911)" [label="Di Hancock-Mills (3911)
+Family First"]
+	"Anne Goddard (3913)" [label="Anne Goddard (3913)
+The Greens"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
+D.L.P. - Democratic Labor Party"]
+	"Anne Goddard (3913)" -> "Di Hancock-Mills (3911)" [label=1236]
+	"Duncan Scott (462)" -> "Anne Goddard (3913)" [label=704]
+	"John F G Mcmahon (3912)" -> "Duncan Scott (462)" [label=107]
+	"Duncan Scott (462)" -> "Di Hancock-Mills (3911)" [label=1064]
+	"John F G Mcmahon (3912)" -> "Di Hancock-Mills (3911)" [label=124]
+	"John F G Mcmahon (3912)" -> "Anne Goddard (3913)" [label=68]
+}

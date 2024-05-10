@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ian Cranson (3504)_McEwen_2007" {
+	graph [label="McEwen 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Cranson (3504)" [label="Ian Cranson (3504)
+Family First"]
+	"David Scott Kane (4860)" [label="David Scott Kane (4860)
+Australian Democrats"]
+	"Darren Trueman (4862)" [label="Darren Trueman (4862)
+Independent"]
+	"Robert A Newnham (4858)" [label="Robert A Newnham (4858)
+LDP"]
+	"Rod Mclennan (4861)" [label="Rod Mclennan (4861)
+Citizens Electoral Council"]
+	"David Scott Kane (4860)" -> "Ian Cranson (3504)" [label=156]
+	"Darren Trueman (4862)" -> "David Scott Kane (4860)" [label=104]
+	"Robert A Newnham (4858)" -> "Darren Trueman (4862)" [label=35]
+	"Rod Mclennan (4861)" -> "Robert A Newnham (4858)" [label=7]
+	"Darren Trueman (4862)" -> "Ian Cranson (3504)" [label=319]
+	"Robert A Newnham (4858)" -> "Ian Cranson (3504)" [label=40]
+	"Rod Mclennan (4861)" -> "Ian Cranson (3504)" [label=36]
+	"Rod Mclennan (4861)" -> "Darren Trueman (4862)" [label=49]
+	"Robert A Newnham (4858)" -> "David Scott Kane (4860)" [label=54]
+	"Rod Mclennan (4861)" -> "David Scott Kane (4860)" [label=9]
+}

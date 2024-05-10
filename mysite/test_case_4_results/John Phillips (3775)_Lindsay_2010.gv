@@ -1,0 +1,10 @@
+// House preference flow
+digraph "John Phillips (3775)_Lindsay_2010" {
+	graph [label="Lindsay 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Family First"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Mick Saunders (2912)" -> "John Phillips (3775)" [label=187]
+}

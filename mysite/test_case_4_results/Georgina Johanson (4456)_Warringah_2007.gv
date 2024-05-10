@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Georgina Johanson (4456)_Warringah_2007" {
+	graph [label="Warringah 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Georgina Johanson (4456)" [label="Georgina Johanson (4456)
+Democrats"]
+	"Bill Mccudden (4459)" [label="Bill Mccudden (4459)
+Christian Democratic Party (Fred Nile Group)"]
+	"Goronwy Price (4458)" [label="Goronwy Price (4458)
+Conservatives for Climate and Environment"]
+	"Brent Middleton (4457)" [label="Brent Middleton (4457)
+Family First"]
+	"Bill Mccudden (4459)" -> "Georgina Johanson (4456)" [label=56]
+	"Goronwy Price (4458)" -> "Bill Mccudden (4459)" [label=29]
+	"Brent Middleton (4457)" -> "Goronwy Price (4458)" [label=59]
+	"Goronwy Price (4458)" -> "Georgina Johanson (4456)" [label=44]
+	"Brent Middleton (4457)" -> "Georgina Johanson (4456)" [label=19]
+	"Brent Middleton (4457)" -> "Bill Mccudden (4459)" [label=70]
+}

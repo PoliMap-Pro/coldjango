@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Julie Grant (5624)_McMillan_2004" {
+	graph [label="McMillan 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julie Grant (5624)" [label="Julie Grant (5624)
+Democrats"]
+	"Greg Byrne (5627)" [label="Greg Byrne (5627)
+D.L.P. - Democratic Labor Party"]
+	"Graeme Reid (5622)" [label="Graeme Reid (5622)
+Citizens Electoral Council"]
+	"Greg Byrne (5627)" -> "Julie Grant (5624)" [label=13]
+	"Graeme Reid (5622)" -> "Greg Byrne (5627)" [label=4]
+	"Graeme Reid (5622)" -> "Julie Grant (5624)" [label=8]
+}

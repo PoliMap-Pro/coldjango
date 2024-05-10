@@ -1,0 +1,7 @@
+// House preference flow
+digraph "John Leslie Bursill (2856)_Cunningham_2013" {
+	graph [label="Cunningham 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Leslie Bursill (2856)" [label="John Leslie Bursill (2856)
+Katter's Australian Party"]
+}

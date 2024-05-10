@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Quintin Hedges-Phillips (3672)_Fraser_2010" {
+	graph [label="Fraser 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Quintin Hedges-Phillips (3672)" [label="Quintin Hedges-Phillips (3672)
+Secular Party of Australia"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chad Smith (5282)_Bonner_2004" {
+	graph [label="Bonner 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"William Raymond Wheeler (5278)" -> "Chad Smith (5282)" [label=16]
+}

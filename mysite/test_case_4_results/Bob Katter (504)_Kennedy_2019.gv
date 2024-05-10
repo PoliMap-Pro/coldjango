@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Bob Katter (504)_Kennedy_2019" {
+	graph [label="Kennedy 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bob Katter (504)" [label="Bob Katter (504)
+Katter's Australian Party (KAP)"]
+	"Brett Mcguire (1570)" [label="Brett Mcguire (1570)
+Australian Labor Party"]
+	"Sue Bertuch (1566)" [label="Sue Bertuch (1566)
+United Australia Party"]
+	"Lyle Burness (1567)" [label="Lyle Burness (1567)
+The Greens"]
+	"Ian Douglas Hackwell (1568)" [label="Ian Douglas Hackwell (1568)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Mcguire (1570)" -> "Bob Katter (504)" [label=13694]
+	"Sue Bertuch (1566)" -> "Brett Mcguire (1570)" [label=655]
+	"Lyle Burness (1567)" -> "Sue Bertuch (1566)" [label=528]
+	"Ian Douglas Hackwell (1568)" -> "Lyle Burness (1567)" [label=145]
+	"Sue Bertuch (1566)" -> "Bob Katter (504)" [label=4758]
+	"Lyle Burness (1567)" -> "Bob Katter (504)" [label=887]
+	"Ian Douglas Hackwell (1568)" -> "Bob Katter (504)" [label=1227]
+	"Ian Douglas Hackwell (1568)" -> "Sue Bertuch (1566)" [label=616]
+	"Lyle Burness (1567)" -> "Brett Mcguire (1570)" [label=2945]
+	"Ian Douglas Hackwell (1568)" -> "Brett Mcguire (1570)" [label=84]
+}

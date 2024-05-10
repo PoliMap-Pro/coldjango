@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Mukesh Garg (4796)_Gellibrand_2007" {
+	graph [label="Gellibrand 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mukesh Garg (4796)" [label="Mukesh Garg (4796)
+Family First"]
+	"Ben Courtice (4081)" [label="Ben Courtice (4081)
+Socialist Alliance"]
+	"Rachel Richards (4793)" [label="Rachel Richards (4793)
+Australian Democrats"]
+	"Rodney Doel (4797)" [label="Rodney Doel (4797)
+Citizens Electoral Council"]
+	"Ben Courtice (4081)" -> "Mukesh Garg (4796)" [label=53]
+	"Rachel Richards (4793)" -> "Ben Courtice (4081)" [label=142]
+	"Rodney Doel (4797)" -> "Rachel Richards (4793)" [label=48]
+	"Rachel Richards (4793)" -> "Mukesh Garg (4796)" [label=52]
+	"Rodney Doel (4797)" -> "Mukesh Garg (4796)" [label=71]
+	"Rodney Doel (4797)" -> "Ben Courtice (4081)" [label=28]
+}

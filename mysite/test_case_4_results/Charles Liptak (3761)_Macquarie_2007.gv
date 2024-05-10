@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Charles Liptak (3761)_Macquarie_2007" {
+	graph [label="Macquarie 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Charles Liptak (3761)" [label="Charles Liptak (3761)
+Family First"]
+	"Kirk Fletcher (4369)" [label="Kirk Fletcher (4369)
+LDP"]
+	"Michael Segedin (4373)" [label="Michael Segedin (4373)
+Citizens Electoral Council"]
+	"Kirk Fletcher (4369)" -> "Charles Liptak (3761)" [label=24]
+	"Michael Segedin (4373)" -> "Kirk Fletcher (4369)" [label=9]
+	"Michael Segedin (4373)" -> "Charles Liptak (3761)" [label=11]
+}

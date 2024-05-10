@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Aron Paul Igai (5564)_Goldstein_2004" {
+	graph [label="Goldstein 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Aron Paul Igai (5564)" [label="Aron Paul Igai (5564)
+Democrats"]
+	"Heather E Shomali (5566)" [label="Heather E Shomali (5566)
+Citizens Electoral Council"]
+	"Heather E Shomali (5566)" -> "Aron Paul Igai (5564)" [label=17]
+}

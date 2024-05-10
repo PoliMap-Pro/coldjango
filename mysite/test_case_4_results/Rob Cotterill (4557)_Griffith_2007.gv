@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rob Cotterill (4557)_Griffith_2007" {
+	graph [label="Griffith 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rob Cotterill (4557)" [label="Rob Cotterill (4557)
+Democrats"]
+	"Andrew R Hassall (4556)" [label="Andrew R Hassall (4556)
+Family First"]
+	"Jim Mcilroy (4553)" [label="Jim Mcilroy (4553)
+Socialist Alliance"]
+	"Samantha Myers (4552)" [label="Samantha Myers (4552)
+LDP"]
+	"Andrew R Hassall (4556)" -> "Rob Cotterill (4557)" [label=62]
+	"Jim Mcilroy (4553)" -> "Andrew R Hassall (4556)" [label=9]
+	"Samantha Myers (4552)" -> "Jim Mcilroy (4553)" [label=20]
+	"Jim Mcilroy (4553)" -> "Rob Cotterill (4557)" [label=13]
+	"Samantha Myers (4552)" -> "Rob Cotterill (4557)" [label=16]
+	"Samantha Myers (4552)" -> "Andrew R Hassall (4556)" [label=16]
+}

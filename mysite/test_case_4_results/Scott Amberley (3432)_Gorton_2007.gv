@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Scott Amberley (3432)_Gorton_2007" {
+	graph [label="Gorton 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First"]
+	"Vern Hughes (4807)" [label="Vern Hughes (4807)
+D.L.P. - Democratic Labor Party"]
+	"Vern Hughes (4807)" -> "Scott Amberley (3432)" [label=458]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Delys Beaumont (5699)_Fremantle_2004" {
+	graph [label="Fremantle 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Delys Beaumont (5699)" [label="Delys Beaumont (5699)
+Australian Democrats"]
+	"Damian Poole (5695)" [label="Damian Poole (5695)
+Citizens Electoral Council"]
+	"Ian Jamieson (5698)" [label="Ian Jamieson (5698)
+Socialist Alliance"]
+	"Damian Poole (5695)" -> "Delys Beaumont (5699)" [label=48]
+	"Ian Jamieson (5698)" -> "Damian Poole (5695)" [label=29]
+	"Ian Jamieson (5698)" -> "Delys Beaumont (5699)" [label=37]
+}

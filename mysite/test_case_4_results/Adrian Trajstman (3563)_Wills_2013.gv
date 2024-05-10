@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Adrian Trajstman (3563)_Wills_2013" {
+	graph [label="Wills 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adrian Trajstman (3563)" [label="Adrian Trajstman (3563)
+Sex Party"]
+	"Anne Marie Murray-Dufoulon (3566)" [label="Anne Marie Murray-Dufoulon (3566)
+Palmer United Party"]
+	"Dean O'Callaghan (3561)" [label="Dean O'Callaghan (3561)
+Independent"]
+	"Concetta Giglia (3565)" [label="Concetta Giglia (3565)
+Family First Party"]
+	"Margarita Windisch (3564)" [label="Margarita Windisch (3564)
+Socialist Alliance"]
+	"Anne Marie Murray-Dufoulon (3566)" -> "Adrian Trajstman (3563)" [label=556]
+	"Dean O'Callaghan (3561)" -> "Anne Marie Murray-Dufoulon (3566)" [label=182]
+	"Concetta Giglia (3565)" -> "Dean O'Callaghan (3561)" [label=215]
+	"Margarita Windisch (3564)" -> "Concetta Giglia (3565)" [label=54]
+	"Dean O'Callaghan (3561)" -> "Adrian Trajstman (3563)" [label=243]
+	"Concetta Giglia (3565)" -> "Adrian Trajstman (3563)" [label=145]
+	"Margarita Windisch (3564)" -> "Adrian Trajstman (3563)" [label=123]
+	"Margarita Windisch (3564)" -> "Dean O'Callaghan (3561)" [label=110]
+	"Concetta Giglia (3565)" -> "Anne Marie Murray-Dufoulon (3566)" [label=210]
+	"Margarita Windisch (3564)" -> "Anne Marie Murray-Dufoulon (3566)" [label=18]
+}

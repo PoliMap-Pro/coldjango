@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Trevor Honeychurch (3991)_Barker_2010" {
+	graph [label="Barker 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor Honeychurch (3991)" [label="Trevor Honeychurch (3991)
+Family First"]
+	"Steven Donald Davies (3989)" [label="Steven Donald Davies (3989)
+The Climate Sceptics"]
+	"Steven Donald Davies (3989)" -> "Trevor Honeychurch (3991)" [label=479]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "James Tayler (553)_Moncrieff_2007" {
+	graph [label="Moncrieff 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Tayler (553)" [label="James Tayler (553)
+Family First"]
+	"Paul Stevenson (4615)" [label="Paul Stevenson (4615)
+Democrats"]
+	"Paul Shears (4613)" [label="Paul Shears (4613)
+Independent"]
+	"Tim Kirchler (4611)" [label="Tim Kirchler (4611)
+Socialist Alliance"]
+	"Elisabeth Thompson (4612)" [label="Elisabeth Thompson (4612)
+Citizens Electoral Council"]
+	"Paul Stevenson (4615)" -> "James Tayler (553)" [label=87]
+	"Paul Shears (4613)" -> "Paul Stevenson (4615)" [label=95]
+	"Tim Kirchler (4611)" -> "Paul Shears (4613)" [label=28]
+	"Elisabeth Thompson (4612)" -> "Tim Kirchler (4611)" [label=16]
+	"Paul Shears (4613)" -> "James Tayler (553)" [label=127]
+	"Tim Kirchler (4611)" -> "James Tayler (553)" [label=21]
+	"Elisabeth Thompson (4612)" -> "James Tayler (553)" [label=77]
+	"Elisabeth Thompson (4612)" -> "Paul Shears (4613)" [label=29]
+	"Tim Kirchler (4611)" -> "Paul Stevenson (4615)" [label=15]
+	"Elisabeth Thompson (4612)" -> "Paul Stevenson (4615)" [label=12]
+}

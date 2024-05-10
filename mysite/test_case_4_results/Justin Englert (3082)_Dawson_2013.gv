@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Justin Englert (3082)_Dawson_2013" {
+	graph [label="Dawson 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Justin Englert (3082)" [label="Justin Englert (3082)
+Katter's Australian Party"]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Lindsay Temple (2306)" [label="Lindsay Temple (2306)
+Family First"]
+	"Andrew Harris (3080)" [label="Andrew Harris (3080)
+Citizens Electoral Council"]
+	"Jonathon Dykyj (2313)" -> "Justin Englert (3082)" [label=696]
+	"Lindsay Temple (2306)" -> "Jonathon Dykyj (2313)" [label=331]
+	"Andrew Harris (3080)" -> "Lindsay Temple (2306)" [label=62]
+	"Lindsay Temple (2306)" -> "Justin Englert (3082)" [label=243]
+	"Andrew Harris (3080)" -> "Justin Englert (3082)" [label=54]
+	"Andrew Harris (3080)" -> "Jonathon Dykyj (2313)" [label=46]
+}

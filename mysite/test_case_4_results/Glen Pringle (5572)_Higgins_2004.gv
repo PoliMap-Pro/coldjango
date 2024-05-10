@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Glen Pringle (5572)_Higgins_2004" {
+	graph [label="Higgins 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glen Pringle (5572)" [label="Glen Pringle (5572)
+Family First"]
+	"Katherine Reid (5571)" [label="Katherine Reid (5571)
+Citizens Electoral Council"]
+	"Katherine Reid (5571)" -> "Glen Pringle (5572)" [label=74]
+}

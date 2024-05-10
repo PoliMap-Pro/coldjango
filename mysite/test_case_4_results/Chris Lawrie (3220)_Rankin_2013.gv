@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chris Lawrie (3220)_Rankin_2013" {
+	graph [label="Rankin 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Lawrie (3220)" [label="Chris Lawrie (3220)
+Family First"]
+	"Chris Claydon (3217)" [label="Chris Claydon (3217)
+Katter's Australian Party"]
+	"Chris Claydon (3217)" -> "Chris Lawrie (3220)" [label=177]
+}

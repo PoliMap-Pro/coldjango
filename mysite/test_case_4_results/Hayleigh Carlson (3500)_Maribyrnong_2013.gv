@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Hayleigh Carlson (3500)_Maribyrnong_2013" {
+	graph [label="Maribyrnong 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
+Family First Party"]
+	"Joe Paterno (3496)" [label="Joe Paterno (3496)
+Australian Christians"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Joe Paterno (3496)" -> "Hayleigh Carlson (3500)" [label=218]
+	"Jeff Truscott (1846)" -> "Joe Paterno (3496)" [label=19]
+	"Jeff Truscott (1846)" -> "Hayleigh Carlson (3500)" [label=155]
+}

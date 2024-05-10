@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Stephen Nowland (3446)_Hotham_2013" {
+	graph [label="Hotham 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
+Family First Party"]
+	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
+Rise Up Australia Party"]
+	"Peter Vassiliou (2632)" -> "Stephen Nowland (3446)" [label=342]
+}

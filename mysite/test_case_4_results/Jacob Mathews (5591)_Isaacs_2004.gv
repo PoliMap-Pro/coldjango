@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jacob Mathews (5591)_Isaacs_2004" {
+	graph [label="Isaacs 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jacob Mathews (5591)" [label="Jacob Mathews (5591)
+Family First"]
+	"Haydn Fletcher (5589)" [label="Haydn Fletcher (5589)
+Democrats"]
+	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
+Independent"]
+	"Carl L Groves (5590)" [label="Carl L Groves (5590)
+One Nation"]
+	"Martha Malliotis (5592)" [label="Martha Malliotis (5592)
+Citizens Electoral Council"]
+	"Haydn Fletcher (5589)" -> "Jacob Mathews (5591)" [label=170]
+	"Gordon W Ford (4108)" -> "Haydn Fletcher (5589)" [label=222]
+	"Carl L Groves (5590)" -> "Gordon W Ford (4108)" [label=127]
+	"Martha Malliotis (5592)" -> "Carl L Groves (5590)" [label=19]
+	"Gordon W Ford (4108)" -> "Jacob Mathews (5591)" [label=187]
+	"Carl L Groves (5590)" -> "Jacob Mathews (5591)" [label=142]
+	"Martha Malliotis (5592)" -> "Jacob Mathews (5591)" [label=40]
+	"Martha Malliotis (5592)" -> "Gordon W Ford (4108)" [label=31]
+	"Carl L Groves (5590)" -> "Haydn Fletcher (5589)" [label=49]
+	"Martha Malliotis (5592)" -> "Haydn Fletcher (5589)" [label=6]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Tony Yoo (5216)_Reid_2004" {
+	graph [label="Reid 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tony Yoo (5216)" [label="Tony Yoo (5216)
+Australian Democrats"]
+	"Lisa Macdonald (5212)" [label="Lisa Macdonald (5212)
+Socialist Alliance"]
+	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
+}

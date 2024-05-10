@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Charlie Crutchfield (3332)_Bendigo_2013" {
+	graph [label="Bendigo 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Charlie Crutchfield (3332)" [label="Charlie Crutchfield (3332)
+Sex Party"]
+	"Alan Howard (2552)" [label="Alan Howard (2552)
+Family First Party"]
+	"Stephen John Stingel (3337)" [label="Stephen John Stingel (3337)
+Katter's Australian Party"]
+	"Ewan Mcdonald (3338)" [label="Ewan Mcdonald (3338)
+Australian Christians"]
+	"Daniel Edward Abikhair (3334)" [label="Daniel Edward Abikhair (3334)
+Independent"]
+	"Rod Leunig (3333)" [label="Rod Leunig (3333)
+Country Alliance"]
+	"Sandra Caddy (3336)" [label="Sandra Caddy (3336)
+Rise Up Australia Party"]
+	"Matine Rahmani (3335)" [label="Matine Rahmani (3335)
+Independent"]
+	"Alan Howard (2552)" -> "Charlie Crutchfield (3332)" [label=230]
+	"Stephen John Stingel (3337)" -> "Alan Howard (2552)" [label=71]
+	"Ewan Mcdonald (3338)" -> "Stephen John Stingel (3337)" [label=96]
+	"Daniel Edward Abikhair (3334)" -> "Ewan Mcdonald (3338)" [label=17]
+	"Rod Leunig (3333)" -> "Daniel Edward Abikhair (3334)" [label=25]
+	"Sandra Caddy (3336)" -> "Rod Leunig (3333)" [label=22]
+	"Matine Rahmani (3335)" -> "Sandra Caddy (3336)" [label=12]
+	"Stephen John Stingel (3337)" -> "Charlie Crutchfield (3332)" [label=66]
+	"Ewan Mcdonald (3338)" -> "Charlie Crutchfield (3332)" [label=15]
+	"Daniel Edward Abikhair (3334)" -> "Charlie Crutchfield (3332)" [label=70]
+	"Rod Leunig (3333)" -> "Charlie Crutchfield (3332)" [label=45]
+	"Sandra Caddy (3336)" -> "Charlie Crutchfield (3332)" [label=22]
+	"Matine Rahmani (3335)" -> "Charlie Crutchfield (3332)" [label=12]
+	"Matine Rahmani (3335)" -> "Rod Leunig (3333)" [label=7]
+	"Sandra Caddy (3336)" -> "Daniel Edward Abikhair (3334)" [label=24]
+	"Matine Rahmani (3335)" -> "Daniel Edward Abikhair (3334)" [label=105]
+	"Rod Leunig (3333)" -> "Ewan Mcdonald (3338)" [label=17]
+	"Sandra Caddy (3336)" -> "Ewan Mcdonald (3338)" [label=187]
+	"Matine Rahmani (3335)" -> "Ewan Mcdonald (3338)" [label=6]
+	"Daniel Edward Abikhair (3334)" -> "Stephen John Stingel (3337)" [label=23]
+	"Rod Leunig (3333)" -> "Stephen John Stingel (3337)" [label=52]
+	"Sandra Caddy (3336)" -> "Stephen John Stingel (3337)" [label=28]
+	"Matine Rahmani (3335)" -> "Stephen John Stingel (3337)" [label=8]
+	"Ewan Mcdonald (3338)" -> "Alan Howard (2552)" [label=416]
+	"Daniel Edward Abikhair (3334)" -> "Alan Howard (2552)" [label=60]
+	"Rod Leunig (3333)" -> "Alan Howard (2552)" [label=58]
+	"Sandra Caddy (3336)" -> "Alan Howard (2552)" [label=51]
+	"Matine Rahmani (3335)" -> "Alan Howard (2552)" [label=8]
+}

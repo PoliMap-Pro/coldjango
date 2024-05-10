@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Glenn Coulthard (4850)_Mallee_2007" {
+	graph [label="Mallee 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glenn Coulthard (4850)" [label="Glenn Coulthard (4850)
+Family First"]
+	"Liam Farrelly (4852)" [label="Liam Farrelly (4852)
+Australian Greens"]
+	"Vikki Mcleod (4853)" [label="Vikki Mcleod (4853)
+Australian Democrats"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Liam Farrelly (4852)" -> "Glenn Coulthard (4850)" [label=817]
+	"Vikki Mcleod (4853)" -> "Liam Farrelly (4852)" [label=742]
+	"Chris Lahy (984)" -> "Vikki Mcleod (4853)" [label=75]
+	"Vikki Mcleod (4853)" -> "Glenn Coulthard (4850)" [label=376]
+	"Chris Lahy (984)" -> "Glenn Coulthard (4850)" [label=186]
+	"Chris Lahy (984)" -> "Liam Farrelly (4852)" [label=80]
+}

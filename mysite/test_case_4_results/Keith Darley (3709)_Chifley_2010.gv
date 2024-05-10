@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Keith Darley (3709)_Chifley_2010" {
+	graph [label="Chifley 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Darley (3709)" [label="Keith Darley (3709)
+Australian Democrats"]
+	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
+Australia First Party"]
+	"Terry Cooksley (3273)" -> "Keith Darley (3709)" [label=176]
+}

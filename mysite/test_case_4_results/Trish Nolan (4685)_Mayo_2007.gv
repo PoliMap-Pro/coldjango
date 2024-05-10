@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Trish Nolan (4685)_Mayo_2007" {
+	graph [label="Mayo 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trish Nolan (4685)" [label="Trish Nolan (4685)
+Family First Party"]
+	"Andrew Castrique (4686)" [label="Andrew Castrique (4686)
+Australian Democrats"]
+	"Rachael Barons (4687)" [label="Rachael Barons (4687)
+Conservatives for Climate and Environment"]
+	"Andrew Castrique (4686)" -> "Trish Nolan (4685)" [label=199]
+	"Rachael Barons (4687)" -> "Andrew Castrique (4686)" [label=151]
+	"Rachael Barons (4687)" -> "Trish Nolan (4685)" [label=164]
+}

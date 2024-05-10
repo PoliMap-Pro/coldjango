@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Simon Green (2401)_McPherson_2013" {
+	graph [label="McPherson 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Simon Green (2401)" [label="Simon Green (2401)
+Family First"]
+	"Charles Blake (3187)" [label="Charles Blake (3187)
+Australian Voice Party"]
+	"Charles Blake (3187)" -> "Simon Green (2401)" [label=126]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Robert Simms (5433)_Boothby_2004" {
+	graph [label="Boothby 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Simms (5433)" [label="Robert Simms (5433)
+Australian Democrats"]
+	"Paul Starling (5432)" [label="Paul Starling (5432)
+Independent"]
+	"Clarke Staker (5437)" [label="Clarke Staker (5437)
+One Nation"]
+	"Paul Starling (5432)" -> "Robert Simms (5433)" [label=187]
+	"Clarke Staker (5437)" -> "Paul Starling (5432)" [label=103]
+	"Clarke Staker (5437)" -> "Robert Simms (5433)" [label=19]
+}

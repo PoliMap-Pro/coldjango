@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Kerre Willsher (5656)_Wannon_2004" {
+	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Robert Barwick (4740)" -> "Kerre Willsher (5656)" [label=7]
+}

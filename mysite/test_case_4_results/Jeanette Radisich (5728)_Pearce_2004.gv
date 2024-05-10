@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jeanette Radisich (5728)_Pearce_2004" {
+	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jeanette Radisich (5728)" [label="Jeanette Radisich (5728)
+New Country Party"]
+	"Ron Mclean (5727)" [label="Ron Mclean (5727)
+Citizens Electoral Council"]
+	"Annolies Truman (4964)" [label="Annolies Truman (4964)
+Socialist Alliance"]
+	"Ron Mclean (5727)" -> "Jeanette Radisich (5728)" [label=63]
+	"Annolies Truman (4964)" -> "Ron Mclean (5727)" [label=7]
+	"Annolies Truman (4964)" -> "Jeanette Radisich (5728)" [label=11]
+}

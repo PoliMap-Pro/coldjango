@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Brendan Bunyan (1503)_Dawson_2019" {
+	graph [label="Dawson 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brendan Bunyan (1503)" [label="Brendan Bunyan (1503)
+Katter's Australian Party (KAP)"]
+	"Colin Richard Thompson (1506)" [label="Colin Richard Thompson (1506)
+United Australia Party"]
+	"Imogen Lindenberg (1504)" [label="Imogen Lindenberg (1504)
+The Greens"]
+	"Ann-Maree Ware (1498)" [label="Ann-Maree Ware (1498)
+Labour DLP"]
+	"Lachlan Queenan (1505)" [label="Lachlan Queenan (1505)
+Independent"]
+	"Michael Wayne Turner (1499)" [label="Michael Wayne Turner (1499)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Colin Richard Thompson (1506)" -> "Brendan Bunyan (1503)" [label=1756]
+	"Imogen Lindenberg (1504)" -> "Colin Richard Thompson (1506)" [label=527]
+	"Ann-Maree Ware (1498)" -> "Imogen Lindenberg (1504)" [label=310]
+	"Lachlan Queenan (1505)" -> "Ann-Maree Ware (1498)" [label=175]
+	"Michael Wayne Turner (1499)" -> "Lachlan Queenan (1505)" [label=101]
+	"Imogen Lindenberg (1504)" -> "Brendan Bunyan (1503)" [label=444]
+	"Ann-Maree Ware (1498)" -> "Brendan Bunyan (1503)" [label=214]
+	"Lachlan Queenan (1505)" -> "Brendan Bunyan (1503)" [label=549]
+	"Michael Wayne Turner (1499)" -> "Brendan Bunyan (1503)" [label=264]
+	"Michael Wayne Turner (1499)" -> "Ann-Maree Ware (1498)" [label=99]
+	"Lachlan Queenan (1505)" -> "Imogen Lindenberg (1504)" [label=400]
+	"Michael Wayne Turner (1499)" -> "Imogen Lindenberg (1504)" [label=25]
+	"Ann-Maree Ware (1498)" -> "Colin Richard Thompson (1506)" [label=185]
+	"Lachlan Queenan (1505)" -> "Colin Richard Thompson (1506)" [label=462]
+	"Michael Wayne Turner (1499)" -> "Colin Richard Thompson (1506)" [label=117]
+}

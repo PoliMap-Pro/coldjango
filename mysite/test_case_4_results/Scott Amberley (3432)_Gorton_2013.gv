@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Scott Amberley (3432)_Gorton_2013" {
+	graph [label="Gorton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First Party"]
+	"Michael Deverala (3428)" [label="Michael Deverala (3428)
+DLP Democratic Labour"]
+	"Mabor Chadhuol (3427)" [label="Mabor Chadhuol (3427)
+Australian Christians"]
+	"Graham Macardy (3429)" [label="Graham Macardy (3429)
+Katter's Australian Party"]
+	"Michael Deverala (3428)" -> "Scott Amberley (3432)" [label=525]
+	"Mabor Chadhuol (3427)" -> "Michael Deverala (3428)" [label=153]
+	"Graham Macardy (3429)" -> "Mabor Chadhuol (3427)" [label=52]
+	"Mabor Chadhuol (3427)" -> "Scott Amberley (3432)" [label=332]
+	"Graham Macardy (3429)" -> "Scott Amberley (3432)" [label=57]
+	"Graham Macardy (3429)" -> "Michael Deverala (3428)" [label=129]
+}

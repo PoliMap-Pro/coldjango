@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Barrie Sinclair Nicholson (3190)_Fadden_2010" {
+	graph [label="Fadden 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Barrie Sinclair Nicholson (3190)" [label="Barrie Sinclair Nicholson (3190)
+Family First"]
+	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
+One Nation"]
+	"Ian Rossiter (3903)" -> "Barrie Sinclair Nicholson (3190)" [label=349]
+}

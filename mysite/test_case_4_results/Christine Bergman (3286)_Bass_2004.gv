@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Christine Bergman (3286)_Bass_2004" {
+	graph [label="Bass 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christine Bergman (3286)" [label="Christine Bergman (3286)
+Family First"]
+	"Caroline Larner (5476)" [label="Caroline Larner (5476)
+Citizens Electoral Council"]
+	"Meredith De Landelles (5479)" [label="Meredith De Landelles (5479)
+Socialist Alliance"]
+	"Caroline Larner (5476)" -> "Christine Bergman (3286)" [label=135]
+	"Meredith De Landelles (5479)" -> "Caroline Larner (5476)" [label=39]
+	"Meredith De Landelles (5479)" -> "Christine Bergman (3286)" [label=85]
+}

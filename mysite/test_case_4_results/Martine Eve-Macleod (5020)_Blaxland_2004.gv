@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Martine Eve-Macleod (5020)_Blaxland_2004" {
+	graph [label="Blaxland 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Martine Eve-Macleod (5020)" [label="Martine Eve-Macleod (5020)
+Australian Democrats"]
+	"Raul Bassi (4263)" [label="Raul Bassi (4263)
+Socialist Alliance"]
+	"Terry Boath (5021)" [label="Terry Boath (5021)
+Citizens Electoral Council"]
+	"Raul Bassi (4263)" -> "Martine Eve-Macleod (5020)" [label=48]
+	"Terry Boath (5021)" -> "Raul Bassi (4263)" [label=47]
+	"Terry Boath (5021)" -> "Martine Eve-Macleod (5020)" [label=17]
+}

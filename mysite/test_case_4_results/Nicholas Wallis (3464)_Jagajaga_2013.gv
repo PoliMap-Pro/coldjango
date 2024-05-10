@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Nicholas Wallis (3464)_Jagajaga_2013" {
+	graph [label="Jagajaga 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicholas Wallis (3464)" [label="Nicholas Wallis (3464)
+Sex Party"]
+	"Kitten Leigh Snape (3466)" [label="Kitten Leigh Snape (3466)
+Palmer United Party"]
+	"Tahlia Eadie (3465)" [label="Tahlia Eadie (3465)
+Family First Party"]
+	"Kitten Leigh Snape (3466)" -> "Nicholas Wallis (3464)" [label=685]
+	"Tahlia Eadie (3465)" -> "Kitten Leigh Snape (3466)" [label=277]
+	"Tahlia Eadie (3465)" -> "Nicholas Wallis (3464)" [label=192]
+}

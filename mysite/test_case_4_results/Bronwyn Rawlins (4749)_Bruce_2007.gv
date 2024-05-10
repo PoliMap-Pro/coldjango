@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bronwyn Rawlins (4749)_Bruce_2007" {
+	graph [label="Bruce 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bronwyn Rawlins (4749)" [label="Bronwyn Rawlins (4749)
+Family First"]
+	"Richard Grossi (4750)" [label="Richard Grossi (4750)
+Australian Democrats"]
+	"Sandra Joy Herrmann (4751)" [label="Sandra Joy Herrmann (4751)
+Christian Democratic Party (Fred Nile Group)"]
+	"Neil Henry Smith (4752)" [label="Neil Henry Smith (4752)
+One Nation"]
+	"Richard Grossi (4750)" -> "Bronwyn Rawlins (4749)" [label=197]
+	"Sandra Joy Herrmann (4751)" -> "Richard Grossi (4750)" [label=82]
+	"Neil Henry Smith (4752)" -> "Sandra Joy Herrmann (4751)" [label=49]
+	"Sandra Joy Herrmann (4751)" -> "Bronwyn Rawlins (4749)" [label=233]
+	"Neil Henry Smith (4752)" -> "Bronwyn Rawlins (4749)" [label=59]
+	"Neil Henry Smith (4752)" -> "Richard Grossi (4750)" [label=30]
+}

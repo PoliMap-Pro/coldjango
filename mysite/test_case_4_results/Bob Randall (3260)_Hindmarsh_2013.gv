@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bob Randall (3260)_Hindmarsh_2013" {
+	graph [label="Hindmarsh 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bob Randall (3260)" [label="Bob Randall (3260)
+Family First"]
+	"George Peter Melissourgos (3257)" [label="George Peter Melissourgos (3257)
+Palmer United Party"]
+	"David Mccabe (3258)" [label="David Mccabe (3258)
+DLP Democratic Labour"]
+	"Kym Mckay (3259)" [label="Kym Mckay (3259)
+Katter's Australian Party"]
+	"George Peter Melissourgos (3257)" -> "Bob Randall (3260)" [label=607]
+	"David Mccabe (3258)" -> "George Peter Melissourgos (3257)" [label=131]
+	"Kym Mckay (3259)" -> "David Mccabe (3258)" [label=62]
+	"David Mccabe (3258)" -> "Bob Randall (3260)" [label=149]
+	"Kym Mckay (3259)" -> "Bob Randall (3260)" [label=83]
+	"Kym Mckay (3259)" -> "George Peter Melissourgos (3257)" [label=166]
+}

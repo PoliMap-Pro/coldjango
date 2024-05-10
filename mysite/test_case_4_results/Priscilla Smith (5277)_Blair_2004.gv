@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Priscilla Smith (5277)_Blair_2004" {
+	graph [label="Blair 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Priscilla Smith (5277)" [label="Priscilla Smith (5277)
+Family First"]
+	"Sarai E O'Reilly-Reis (5273)" [label="Sarai E O'Reilly-Reis (5273)
+The Greens"]
+	"Alan Price (5270)" [label="Alan Price (5270)
+New Country"]
+	"Neal Mckenzie (5275)" [label="Neal Mckenzie (5275)
+Australian Democrats"]
+	"John Bennett (5271)" [label="John Bennett (5271)
+The Great Australians"]
+	"Rodney Stapleton (5274)" [label="Rodney Stapleton (5274)
+Citizens Electoral Council"]
+	"Sarai E O'Reilly-Reis (5273)" -> "Priscilla Smith (5277)" [label=440]
+	"Alan Price (5270)" -> "Sarai E O'Reilly-Reis (5273)" [label=218]
+	"Neal Mckenzie (5275)" -> "Alan Price (5270)" [label=76]
+	"John Bennett (5271)" -> "Neal Mckenzie (5275)" [label=24]
+	"Rodney Stapleton (5274)" -> "John Bennett (5271)" [label=32]
+	"Alan Price (5270)" -> "Priscilla Smith (5277)" [label=223]
+	"Neal Mckenzie (5275)" -> "Priscilla Smith (5277)" [label=101]
+	"John Bennett (5271)" -> "Priscilla Smith (5277)" [label=43]
+	"Rodney Stapleton (5274)" -> "Priscilla Smith (5277)" [label=34]
+	"Rodney Stapleton (5274)" -> "Neal Mckenzie (5275)" [label=14]
+	"John Bennett (5271)" -> "Alan Price (5270)" [label=196]
+	"Rodney Stapleton (5274)" -> "Alan Price (5270)" [label=51]
+	"Neal Mckenzie (5275)" -> "Sarai E O'Reilly-Reis (5273)" [label=320]
+	"John Bennett (5271)" -> "Sarai E O'Reilly-Reis (5273)" [label=79]
+	"Rodney Stapleton (5274)" -> "Sarai E O'Reilly-Reis (5273)" [label=68]
+}

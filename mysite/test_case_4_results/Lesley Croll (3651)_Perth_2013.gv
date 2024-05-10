@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Lesley Croll (3651)_Perth_2013" {
+	graph [label="Perth 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
+Rise Up Australia Party"]
+	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
+}

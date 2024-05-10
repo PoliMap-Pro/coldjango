@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Bishrul Hafi Ameer Izadeen (2979)_Reid_2013" {
+	graph [label="Reid 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bishrul Hafi Ameer Izadeen (2979)" [label="Bishrul Hafi Ameer Izadeen (2979)
+Katter's Australian Party"]
+}

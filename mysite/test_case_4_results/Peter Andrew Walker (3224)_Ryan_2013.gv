@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Peter Andrew Walker (3224)_Ryan_2013" {
+	graph [label="Ryan 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Andrew Walker (3224)" [label="Peter Andrew Walker (3224)
+Katter's Australian Party"]
+	"Michael C Sweedman (3225)" [label="Michael C Sweedman (3225)
+Secular Party of Australia"]
+	"Michael C Sweedman (3225)" -> "Peter Andrew Walker (3224)" [label=44]
+}

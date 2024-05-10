@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brad Tassell (2378)_Leichhardt_2016" {
+	graph [label="Leichhardt 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brad Tassell (2378)" [label="Brad Tassell (2378)
+Katter's Australian Party"]
+	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
+Family First"]
+	"John Kelly (2372)" [label="John Kelly (2372)
+Rise Up Australia Party"]
+	"Michael Newie (2377)" [label="Michael Newie (2377)
+Independent"]
+	"Ned Kelly Gebadi (2376)" -> "Brad Tassell (2378)" [label=304]
+	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
+	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
+	"John Kelly (2372)" -> "Brad Tassell (2378)" [label=120]
+	"Michael Newie (2377)" -> "Brad Tassell (2378)" [label=87]
+	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
+}

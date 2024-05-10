@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Terri Bell (5400)_Petrie_2004" {
+	graph [label="Petrie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Terri Bell (5400)" [label="Terri Bell (5400)
+Australian Democrats"]
+}

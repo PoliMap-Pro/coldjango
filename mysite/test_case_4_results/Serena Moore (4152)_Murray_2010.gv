@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Serena Moore (4152)_Murray_2010" {
+	graph [label="Murray 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Serena Moore (4152)" [label="Serena Moore (4152)
+Family First"]
+	"Ewan Mcdonald (4153)" [label="Ewan Mcdonald (4153)
+Christian Democratic Party"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
+	"William Clarke-Hannaford (4150)" [label="William Clarke-Hannaford (4150)
+Secular Party of Australia"]
+	"Ewan Mcdonald (4153)" -> "Serena Moore (4152)" [label=382]
+	"Jeff Davy (1033)" -> "Ewan Mcdonald (4153)" [label=56]
+	"William Clarke-Hannaford (4150)" -> "Jeff Davy (1033)" [label=109]
+	"Jeff Davy (1033)" -> "Serena Moore (4152)" [label=153]
+	"William Clarke-Hannaford (4150)" -> "Serena Moore (4152)" [label=23]
+	"William Clarke-Hannaford (4150)" -> "Ewan Mcdonald (4153)" [label=13]
+}

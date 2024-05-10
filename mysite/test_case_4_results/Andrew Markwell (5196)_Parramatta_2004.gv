@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Markwell (5196)_Parramatta_2004" {
+	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Markwell (5196)" [label="Andrew Markwell (5196)
+Family First"]
+	"Alex Peniazev (5192)" [label="Alex Peniazev (5192)
+Non-Custodial Parents Party"]
+	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
+Australian Democrats"]
+	"Simon Saad (5195)" [label="Simon Saad (5195)
+No GST"]
+	"Margaret Bloor (5199)" [label="Margaret Bloor (5199)
+Save the ADI Site Party"]
+	"Alex Peniazev (5192)" -> "Andrew Markwell (5196)" [label=60]
+	"Rob Mcfarlane (5197)" -> "Alex Peniazev (5192)" [label=23]
+	"Simon Saad (5195)" -> "Rob Mcfarlane (5197)" [label=14]
+	"Margaret Bloor (5199)" -> "Simon Saad (5195)" [label=13]
+	"Rob Mcfarlane (5197)" -> "Andrew Markwell (5196)" [label=35]
+	"Simon Saad (5195)" -> "Andrew Markwell (5196)" [label=157]
+	"Margaret Bloor (5199)" -> "Andrew Markwell (5196)" [label=12]
+	"Margaret Bloor (5199)" -> "Rob Mcfarlane (5197)" [label=9]
+	"Simon Saad (5195)" -> "Alex Peniazev (5192)" [label=41]
+	"Margaret Bloor (5199)" -> "Alex Peniazev (5192)" [label=17]
+}

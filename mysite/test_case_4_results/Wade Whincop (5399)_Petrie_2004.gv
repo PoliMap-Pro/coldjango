@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Wade Whincop (5399)_Petrie_2004" {
+	graph [label="Petrie 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wade Whincop (5399)" [label="Wade Whincop (5399)
+Family First"]
+	"Terri Bell (5400)" [label="Terri Bell (5400)
+Australian Democrats"]
+	"Terri Bell (5400)" -> "Wade Whincop (5399)" [label=220]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brett Paterson (3850)_Sydney_2010" {
+	graph [label="Sydney 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Jane Ward (3006)" [label="Jane Ward (3006)
+Independent"]
+	"Christopher David Owen (3851)" [label="Christopher David Owen (3851)
+Secular Party of Australia"]
+	"Denis Doherty (3853)" [label="Denis Doherty (3853)
+Communist"]
+	"Jane Ward (3006)" -> "Brett Paterson (3850)" [label=360]
+	"Christopher David Owen (3851)" -> "Jane Ward (3006)" [label=91]
+	"Denis Doherty (3853)" -> "Christopher David Owen (3851)" [label=65]
+	"Christopher David Owen (3851)" -> "Brett Paterson (3850)" [label=183]
+	"Denis Doherty (3853)" -> "Brett Paterson (3850)" [label=42]
+	"Denis Doherty (3853)" -> "Jane Ward (3006)" [label=131]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Fiona Bronte (4783)_Deakin_2007" {
+	graph [label="Deakin 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Fiona Bronte (4783)" [label="Fiona Bronte (4783)
+Family First"]
+	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
+Australian Democrats"]
+	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
+LDP"]
+	"Paula Nicholson (4784)" -> "Fiona Bronte (4783)" [label=102]
+	"Nick Stevenson (4782)" -> "Paula Nicholson (4784)" [label=35]
+	"Nick Stevenson (4782)" -> "Fiona Bronte (4783)" [label=321]
+}

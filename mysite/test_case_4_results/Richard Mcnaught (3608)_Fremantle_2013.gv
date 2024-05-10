@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Richard Mcnaught (3608)_Fremantle_2013" {
+	graph [label="Fremantle 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Mcnaught (3608)" [label="Richard Mcnaught (3608)
+Katter's Australian Party"]
+	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
+Family First Party"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Philip Scott (2720)" [label="Philip Scott (2720)
+Rise Up Australia Party"]
+	"Teresa Van Lieshout (1765)" [label="Teresa Van Lieshout (1765)
+Australian Protectionist Party"]
+	"Ron Rowlands (3614)" [label="Ron Rowlands (3614)
+Citizens Electoral Council"]
+	"Jim Mccourt (3613)" -> "Richard Mcnaught (3608)" [label=107]
+	"Sam Wainwright (1130)" -> "Jim Mccourt (3613)" [label=58]
+	"Philip Scott (2720)" -> "Sam Wainwright (1130)" [label=68]
+	"Teresa Van Lieshout (1765)" -> "Philip Scott (2720)" [label=27]
+	"Ron Rowlands (3614)" -> "Teresa Van Lieshout (1765)" [label=11]
+	"Sam Wainwright (1130)" -> "Richard Mcnaught (3608)" [label=30]
+	"Philip Scott (2720)" -> "Richard Mcnaught (3608)" [label=51]
+	"Teresa Van Lieshout (1765)" -> "Richard Mcnaught (3608)" [label=29]
+	"Ron Rowlands (3614)" -> "Richard Mcnaught (3608)" [label=9]
+	"Ron Rowlands (3614)" -> "Philip Scott (2720)" [label=27]
+	"Teresa Van Lieshout (1765)" -> "Sam Wainwright (1130)" [label=6]
+	"Ron Rowlands (3614)" -> "Sam Wainwright (1130)" [label=4]
+	"Philip Scott (2720)" -> "Jim Mccourt (3613)" [label=85]
+	"Teresa Van Lieshout (1765)" -> "Jim Mccourt (3613)" [label=25]
+	"Ron Rowlands (3614)" -> "Jim Mccourt (3613)" [label=23]
+}

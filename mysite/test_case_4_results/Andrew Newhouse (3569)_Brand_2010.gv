@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Andrew Newhouse (3569)_Brand_2010" {
+	graph [label="Brand 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robert Burdett (2721)" [label="Robert Burdett (2721)
+Christian Democratic Party"]
+	"Robert Burdett (2721)" -> "Andrew Newhouse (3569)" [label=1163]
+}

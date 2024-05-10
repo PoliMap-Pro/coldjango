@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jen Harrison (5088)_Grayndler_2004" {
+	graph [label="Grayndler 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jen Harrison (5088)" [label="Jen Harrison (5088)
+Australian Democrats"]
+	"Sue Johnson (5087)" [label="Sue Johnson (5087)
+Socialist Alliance"]
+	"Sue Johnson (5087)" -> "Jen Harrison (5088)" [label=140]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Trevor John Versace (3929)_Hinkler_2010" {
+	graph [label="Hinkler 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor John Versace (3929)" [label="Trevor John Versace (3929)
+Family First"]
+	"Adrian Wone (3932)" [label="Adrian Wone (3932)
+Independent"]
+	"Cy D'Oliveira (3930)" [label="Cy D'Oliveira (3930)
+Independent"]
+	"Adrian Wone (3932)" -> "Trevor John Versace (3929)" [label=800]
+	"Cy D'Oliveira (3930)" -> "Adrian Wone (3932)" [label=693]
+	"Cy D'Oliveira (3930)" -> "Trevor John Versace (3929)" [label=165]
+}

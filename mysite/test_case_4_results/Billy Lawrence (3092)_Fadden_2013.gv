@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Billy Lawrence (3092)_Fadden_2013" {
+	graph [label="Fadden 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
+Katter's Australian Party"]
+	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
+Independent"]
+	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
+One Nation"]
+	"Maurie Carroll (3093)" -> "Billy Lawrence (3092)" [label=121]
+	"Stewart Boyd (3094)" -> "Maurie Carroll (3093)" [label=80]
+	"Stewart Boyd (3094)" -> "Billy Lawrence (3092)" [label=50]
+}

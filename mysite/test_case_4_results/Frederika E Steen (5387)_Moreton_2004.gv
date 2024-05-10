@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Frederika E Steen (5387)_Moreton_2004" {
+	graph [label="Moreton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Barry Weedon (5390)" -> "Frederika E Steen (5387)" [label=112]
+	"Andrew Lamb (4619)" -> "Barry Weedon (5390)" [label=104]
+	"Andrew Lamb (4619)" -> "Frederika E Steen (5387)" [label=116]
+}

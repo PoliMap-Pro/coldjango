@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Don Sinnamon (4500)_Brisbane_2007" {
+	graph [label="Brisbane 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Don Sinnamon (4500)" [label="Don Sinnamon (4500)
+Democrats"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
+	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
+Socialist Alliance"]
+	"Nick Contarino (3175)" [label="Nick Contarino (3175)
+Citizens Electoral Council"]
+	"Mark A White (2420)" -> "Don Sinnamon (4500)" [label=152]
+	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=28]
+	"Nick Contarino (3175)" -> "Ewan Saunders (3887)" [label=15]
+	"Ewan Saunders (3887)" -> "Don Sinnamon (4500)" [label=49]
+	"Nick Contarino (3175)" -> "Don Sinnamon (4500)" [label=17]
+	"Nick Contarino (3175)" -> "Mark A White (2420)" [label=15]
+}

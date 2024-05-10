@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chris Doyle (4510)_Dawson_2007" {
+	graph [label="Dawson 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Doyle (4510)" [label="Chris Doyle (4510)
+Democrats"]
+	"Andrew Harris (3080)" [label="Andrew Harris (3080)
+Citizens Electoral Council"]
+	"Andrew Harris (3080)" -> "Chris Doyle (4510)" [label=63]
+}

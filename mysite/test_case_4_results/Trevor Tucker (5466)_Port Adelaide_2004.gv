@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Trevor Tucker (5466)_Port Adelaide_2004" {
+	graph [label="Port Adelaide 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor Tucker (5466)" [label="Trevor Tucker (5466)
+Australian Democrats"]
+	"Stan Batten (5463)" [label="Stan Batten (5463)
+One Nation"]
+	"Stan Batten (5463)" -> "Trevor Tucker (5466)" [label=101]
+}

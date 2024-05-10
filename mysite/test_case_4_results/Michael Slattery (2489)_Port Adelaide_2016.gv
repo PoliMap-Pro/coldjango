@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Slattery (2489)_Port Adelaide_2016" {
+	graph [label="Port Adelaide 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Slattery (2489)" [label="Michael Slattery (2489)
+Nick Xenophon Team"]
+	"Emma Flowerdew (2488)" [label="Emma Flowerdew (2488)
+Liberal"]
+	"Matthew Carey (2484)" [label="Matthew Carey (2484)
+The Greens"]
+	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
+Family First"]
+	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
+Animal Justice Party"]
+	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
+Christian Democratic Party (Fred Nile Group)"]
+	"Emma Flowerdew (2488)" -> "Michael Slattery (2489)" [label=11754]
+	"Matthew Carey (2484)" -> "Emma Flowerdew (2488)" [label=764]
+	"Bruce Hambour (2485)" -> "Matthew Carey (2484)" [label=1608]
+	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
+	"Jenalie Salt (2487)" -> "Janine Clipstone (2486)" [label=100]
+	"Matthew Carey (2484)" -> "Michael Slattery (2489)" [label=2443]
+	"Bruce Hambour (2485)" -> "Michael Slattery (2489)" [label=1110]
+	"Janine Clipstone (2486)" -> "Michael Slattery (2489)" [label=399]
+	"Jenalie Salt (2487)" -> "Michael Slattery (2489)" [label=59]
+	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
+	"Janine Clipstone (2486)" -> "Matthew Carey (2484)" [label=577]
+	"Jenalie Salt (2487)" -> "Matthew Carey (2484)" [label=61]
+	"Bruce Hambour (2485)" -> "Emma Flowerdew (2488)" [label=1426]
+	"Janine Clipstone (2486)" -> "Emma Flowerdew (2488)" [label=158]
+	"Jenalie Salt (2487)" -> "Emma Flowerdew (2488)" [label=65]
+}

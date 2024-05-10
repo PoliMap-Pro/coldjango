@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Greg Butler (104)_Hume_2010" {
+	graph [label="Hume 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Greg Butler (104)" [label="Greg Butler (104)
+Australian Democrats"]
+	"Lisa Milat (3763)" [label="Lisa Milat (3763)
+Liberal Democrats (LDP)"]
+	"Lisa Milat (3763)" -> "Greg Butler (104)" [label=118]
+}

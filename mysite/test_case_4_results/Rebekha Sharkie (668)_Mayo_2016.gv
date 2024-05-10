@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Rebekha Sharkie (668)_Mayo_2016" {
+	graph [label="Mayo 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rebekha Sharkie (668)" [label="Rebekha Sharkie (668)
+Nick Xenophon Team"]
+	"Glen Dallimore (2479)" [label="Glen Dallimore (2479)
+Australian Labor Party"]
+	"Nathan Daniell (2481)" [label="Nathan Daniell (2481)
+The Greens"]
+	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
+Family First"]
+	"Luke Dzivinski (2480)" [label="Luke Dzivinski (2480)
+Liberal Democrats"]
+	"Glen Dallimore (2479)" -> "Rebekha Sharkie (668)" [label=13100]
+	"Nathan Daniell (2481)" -> "Glen Dallimore (2479)" [label=2984]
+	"Bruce Hicks (2483)" -> "Nathan Daniell (2481)" [label=604]
+	"Luke Dzivinski (2480)" -> "Bruce Hicks (2483)" [label=167]
+	"Nathan Daniell (2481)" -> "Rebekha Sharkie (668)" [label=4529]
+	"Bruce Hicks (2483)" -> "Rebekha Sharkie (668)" [label=1190]
+	"Luke Dzivinski (2480)" -> "Rebekha Sharkie (668)" [label=306]
+	"Luke Dzivinski (2480)" -> "Nathan Daniell (2481)" [label=126]
+	"Bruce Hicks (2483)" -> "Glen Dallimore (2479)" [label=427]
+	"Luke Dzivinski (2480)" -> "Glen Dallimore (2479)" [label=115]
+}

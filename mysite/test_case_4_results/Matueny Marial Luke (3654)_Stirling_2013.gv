@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Matueny Marial Luke (3654)_Stirling_2013" {
+	graph [label="Stirling 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matueny Marial Luke (3654)" [label="Matueny Marial Luke (3654)
+Family First Party"]
+	"Alison Rowe (3656)" [label="Alison Rowe (3656)
+Rise Up Australia Party"]
+	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
+}

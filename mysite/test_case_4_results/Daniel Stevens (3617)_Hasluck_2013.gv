@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Daniel Stevens (3617)_Hasluck_2013" {
+	graph [label="Hasluck 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Daniel Stevens (3617)" [label="Daniel Stevens (3617)
+Katter's Australian Party"]
+}

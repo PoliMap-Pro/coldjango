@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Peter Goldfinch (5011)_Bennelong_2004" {
+	graph [label="Bennelong 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Goldfinch (5011)" [label="Peter Goldfinch (5011)
+Australian Democrats"]
+	"Troy Rollo (5009)" [label="Troy Rollo (5009)
+Independent"]
+	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
+}

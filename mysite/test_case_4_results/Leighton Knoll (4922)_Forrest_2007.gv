@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Leighton Knoll (4922)_Forrest_2007" {
+	graph [label="Forrest 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Jodie Yardley (4924)" -> "Leighton Knoll (4922)" [label=93]
+	"Ian Tuffnell (3605)" -> "Jodie Yardley (4924)" [label=16]
+	"Ian Tuffnell (3605)" -> "Leighton Knoll (4922)" [label=9]
+}

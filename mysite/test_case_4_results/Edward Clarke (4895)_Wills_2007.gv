@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Edward Clarke (4895)_Wills_2007" {
+	graph [label="Wills 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Edward Clarke (4895)" [label="Edward Clarke (4895)
+Australian Democrats"]
+	"Ihab Kelada (4897)" [label="Ihab Kelada (4897)
+Family First"]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
+	"Craig William Isherwood (4898)" [label="Craig William Isherwood (4898)
+Citizens Electoral Council"]
+	"Ihab Kelada (4897)" -> "Edward Clarke (4895)" [label=153]
+	"Zane Alcorn (2717)" -> "Ihab Kelada (4897)" [label=120]
+	"Craig William Isherwood (4898)" -> "Zane Alcorn (2717)" [label=55]
+	"Zane Alcorn (2717)" -> "Edward Clarke (4895)" [label=65]
+	"Craig William Isherwood (4898)" -> "Edward Clarke (4895)" [label=24]
+	"Craig William Isherwood (4898)" -> "Ihab Kelada (4897)" [label=54]
+}

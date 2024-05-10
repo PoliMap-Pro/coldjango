@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Steven Ashdown (4787)_Dunkley_2007" {
+	graph [label="Dunkley 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steven Ashdown (4787)" [label="Steven Ashdown (4787)
+Family First"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Australian Democrats"]
+	"Karen Bailey (4789)" -> "Steven Ashdown (4787)" [label=125]
+}

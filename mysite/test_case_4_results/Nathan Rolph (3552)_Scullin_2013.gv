@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Nathan Rolph (3552)_Scullin_2013" {
+	graph [label="Scullin 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nathan Rolph (3552)" [label="Nathan Rolph (3552)
+Sex Party"]
+	"Katie Conlon (3551)" [label="Katie Conlon (3551)
+Family First Party"]
+	"Domenic Greco (3554)" [label="Domenic Greco (3554)
+Katter's Australian Party"]
+	"Katie Conlon (3551)" -> "Nathan Rolph (3552)" [label=319]
+	"Domenic Greco (3554)" -> "Katie Conlon (3551)" [label=96]
+	"Domenic Greco (3554)" -> "Nathan Rolph (3552)" [label=88]
+}

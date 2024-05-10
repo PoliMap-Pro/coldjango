@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Richard Bunting (4665)_Hindmarsh_2007" {
+	graph [label="Hindmarsh 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Bunting (4665)" [label="Richard Bunting (4665)
+Family First Party"]
+	"Jen Williams (4669)" [label="Jen Williams (4669)
+Australian Democrats"]
+	"Heidi Robins (4664)" [label="Heidi Robins (4664)
+What Women Want (Australia)"]
+	"Clinton Duncan (4668)" [label="Clinton Duncan (4668)
+Independent"]
+	"James Warry (4667)" [label="James Warry (4667)
+LDP"]
+	"Jen Williams (4669)" -> "Richard Bunting (4665)" [label=146]
+	"Heidi Robins (4664)" -> "Jen Williams (4669)" [label=83]
+	"Clinton Duncan (4668)" -> "Heidi Robins (4664)" [label=46]
+	"James Warry (4667)" -> "Clinton Duncan (4668)" [label=31]
+	"Heidi Robins (4664)" -> "Richard Bunting (4665)" [label=147]
+	"Clinton Duncan (4668)" -> "Richard Bunting (4665)" [label=57]
+	"James Warry (4667)" -> "Richard Bunting (4665)" [label=18]
+	"James Warry (4667)" -> "Heidi Robins (4664)" [label=14]
+	"Clinton Duncan (4668)" -> "Jen Williams (4669)" [label=215]
+	"James Warry (4667)" -> "Jen Williams (4669)" [label=16]
+}

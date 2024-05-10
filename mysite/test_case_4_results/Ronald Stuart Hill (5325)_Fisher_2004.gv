@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ronald Stuart Hill (5325)_Fisher_2004" {
+	graph [label="Fisher 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ronald Stuart Hill (5325)" [label="Ronald Stuart Hill (5325)
+Family First"]
+	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
+One Nation"]
+	"Craig Wilmot (5326)" [label="Craig Wilmot (5326)
+Australian Democrats"]
+	"Liz Hays (5322)" [label="Liz Hays (5322)
+The Great Australians"]
+	"Kevin J Savage (4527)" -> "Ronald Stuart Hill (5325)" [label=861]
+	"Craig Wilmot (5326)" -> "Kevin J Savage (4527)" [label=106]
+	"Liz Hays (5322)" -> "Craig Wilmot (5326)" [label=56]
+	"Craig Wilmot (5326)" -> "Ronald Stuart Hill (5325)" [label=222]
+	"Liz Hays (5322)" -> "Ronald Stuart Hill (5325)" [label=72]
+	"Liz Hays (5322)" -> "Kevin J Savage (4527)" [label=74]
+}

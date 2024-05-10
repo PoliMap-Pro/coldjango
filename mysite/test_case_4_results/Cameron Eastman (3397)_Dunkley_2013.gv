@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Cameron Eastman (3397)_Dunkley_2013" {
+	graph [label="Dunkley 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cameron Eastman (3397)" [label="Cameron Eastman (3397)
+Family First Party"]
+	"Rod Burt (3398)" [label="Rod Burt (3398)
+Independent"]
+	"Roy Broff (3401)" [label="Roy Broff (3401)
+Independent"]
+	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
+Rise Up Australia Party"]
+	"Rod Burt (3398)" -> "Cameron Eastman (3397)" [label=123]
+	"Roy Broff (3401)" -> "Rod Burt (3398)" [label=162]
+	"Yvonne Gentle (1789)" -> "Roy Broff (3401)" [label=30]
+	"Roy Broff (3401)" -> "Cameron Eastman (3397)" [label=35]
+	"Yvonne Gentle (1789)" -> "Cameron Eastman (3397)" [label=179]
+	"Yvonne Gentle (1789)" -> "Rod Burt (3398)" [label=23]
+}

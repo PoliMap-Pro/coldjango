@@ -1,0 +1,7 @@
+// House preference flow
+digraph "John Partridge (5670)_Brand_2004" {
+	graph [label="Brand 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Partridge (5670)" [label="John Partridge (5670)
+Australian Democrats"]
+}

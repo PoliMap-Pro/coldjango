@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Wayne De Bomford (4709)_Braddon_2007" {
+	graph [label="Braddon 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wayne De Bomford (4709)" [label="Wayne De Bomford (4709)
+Family First"]
+	"Peter Cunningham (4713)" [label="Peter Cunningham (4713)
+LDP"]
+	"Stephen Anthony Dick (4712)" [label="Stephen Anthony Dick (4712)
+Citizens Electoral Council"]
+	"Peter Cunningham (4713)" -> "Wayne De Bomford (4709)" [label=80]
+	"Stephen Anthony Dick (4712)" -> "Peter Cunningham (4713)" [label=75]
+	"Stephen Anthony Dick (4712)" -> "Wayne De Bomford (4709)" [label=45]
+}

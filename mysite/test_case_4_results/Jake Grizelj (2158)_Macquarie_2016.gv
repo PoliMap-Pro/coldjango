@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jake Grizelj (2158)_Macquarie_2016" {
+	graph [label="Macquarie 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jake Grizelj (2158)" [label="Jake Grizelj (2158)
+Shooters, Fishers and Farmers"]
+	"Catherine Lincoln (2164)" [label="Catherine Lincoln (2164)
+Christian Democratic Party (Fred Nile Group)"]
+	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
+Animal Justice Party"]
+	"Carl Halley (2159)" [label="Carl Halley (2159)
+Australian Liberty Alliance"]
+	"Liz Cooper (2161)" [label="Liz Cooper (2161)
+Derryn Hinch's Justice Party"]
+	"Olya Shornikov (2162)" [label="Olya Shornikov (2162)
+Liberal Democrats"]
+	"Catherine Lincoln (2164)" -> "Jake Grizelj (2158)" [label=871]
+	"Hal Jon Ginges (2163)" -> "Catherine Lincoln (2164)" [label=379]
+	"Carl Halley (2159)" -> "Hal Jon Ginges (2163)" [label=256]
+	"Liz Cooper (2161)" -> "Carl Halley (2159)" [label=171]
+	"Olya Shornikov (2162)" -> "Liz Cooper (2161)" [label=87]
+	"Hal Jon Ginges (2163)" -> "Jake Grizelj (2158)" [label=665]
+	"Carl Halley (2159)" -> "Jake Grizelj (2158)" [label=646]
+	"Liz Cooper (2161)" -> "Jake Grizelj (2158)" [label=306]
+	"Olya Shornikov (2162)" -> "Jake Grizelj (2158)" [label=121]
+	"Olya Shornikov (2162)" -> "Carl Halley (2159)" [label=66]
+	"Liz Cooper (2161)" -> "Hal Jon Ginges (2163)" [label=398]
+	"Olya Shornikov (2162)" -> "Hal Jon Ginges (2163)" [label=70]
+	"Carl Halley (2159)" -> "Catherine Lincoln (2164)" [label=313]
+	"Liz Cooper (2161)" -> "Catherine Lincoln (2164)" [label=128]
+	"Olya Shornikov (2162)" -> "Catherine Lincoln (2164)" [label=61]
+}

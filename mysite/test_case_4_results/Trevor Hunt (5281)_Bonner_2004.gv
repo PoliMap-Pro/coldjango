@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Trevor Hunt (5281)_Bonner_2004" {
+	graph [label="Bonner 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
+Family First"]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
+	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
+Citizens Electoral Council"]
+	"Barry Myatt (5279)" -> "Trevor Hunt (5281)" [label=442]
+	"Chad Smith (5282)" -> "Barry Myatt (5279)" [label=42]
+	"William Raymond Wheeler (5278)" -> "Chad Smith (5282)" [label=16]
+	"Chad Smith (5282)" -> "Trevor Hunt (5281)" [label=89]
+	"William Raymond Wheeler (5278)" -> "Trevor Hunt (5281)" [label=34]
+	"William Raymond Wheeler (5278)" -> "Barry Myatt (5279)" [label=85]
+}

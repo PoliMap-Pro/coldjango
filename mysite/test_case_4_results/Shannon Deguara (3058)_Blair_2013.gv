@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Shannon Deguara (3058)_Blair_2013" {
+	graph [label="Blair 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shannon Deguara (3058)" [label="Shannon Deguara (3058)
+Australian Independents"]
+	"Anthony Mackin (3055)" [label="Anthony Mackin (3055)
+Rise Up Australia Party"]
+	"Anthony Mackin (3055)" -> "Shannon Deguara (3058)" [label=41]
+}

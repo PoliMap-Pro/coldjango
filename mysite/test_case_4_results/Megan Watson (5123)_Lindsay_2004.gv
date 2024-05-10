@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Megan Watson (5123)_Lindsay_2004" {
+	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Megan Watson (5123)" [label="Megan Watson (5123)
+Family First"]
+	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
+Australian Democrats"]
+	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
+Citizens Electoral Council"]
+	"Geraldine Waters (5125)" -> "Megan Watson (5123)" [label=24]
+	"Bruce Anderson (5121)" -> "Geraldine Waters (5125)" [label=6]
+	"Bruce Anderson (5121)" -> "Megan Watson (5123)" [label=24]
+}

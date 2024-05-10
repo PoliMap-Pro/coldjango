@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Lachlan John Smith (3443)_Holt_2013" {
+	graph [label="Holt 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lachlan John Smith (3443)" [label="Lachlan John Smith (3443)
+Sex Party"]
+	"Michael Joseph Palma (3444)" [label="Michael Joseph Palma (3444)
+DLP Democratic Labour"]
+	"Vivian Hill (3445)" [label="Vivian Hill (3445)
+Australian Christians"]
+	"Jonathan Eli (3442)" [label="Jonathan Eli (3442)
+Rise Up Australia Party"]
+	"Michael Joseph Palma (3444)" -> "Lachlan John Smith (3443)" [label=359]
+	"Vivian Hill (3445)" -> "Michael Joseph Palma (3444)" [label=236]
+	"Jonathan Eli (3442)" -> "Vivian Hill (3445)" [label=299]
+	"Vivian Hill (3445)" -> "Lachlan John Smith (3443)" [label=80]
+	"Jonathan Eli (3442)" -> "Lachlan John Smith (3443)" [label=83]
+	"Jonathan Eli (3442)" -> "Michael Joseph Palma (3444)" [label=54]
+}

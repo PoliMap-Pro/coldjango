@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Pam Moore (4690)_Port Adelaide_2007" {
+	graph [label="Port Adelaide 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pam Moore (4690)" [label="Pam Moore (4690)
+Australian Democrats"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Allan Cashion (3411)_Gellibrand_2013" {
+	graph [label="Gellibrand 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Allan Cashion (3411)" [label="Allan Cashion (3411)
+Sex Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Anthony O'Neill (2665)" -> "Allan Cashion (3411)" [label=30]
+}

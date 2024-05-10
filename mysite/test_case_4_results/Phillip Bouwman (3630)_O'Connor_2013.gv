@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Phillip Bouwman (3630)_O'Connor_2013" {
+	graph [label="O'Connor 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Phillip Bouwman (3630)" [label="Phillip Bouwman (3630)
+Katter's Australian Party"]
+	"Vanessa Korber (3632)" [label="Vanessa Korber (3632)
+Rise Up Australia Party"]
+	"Jean Robinson (3629)" [label="Jean Robinson (3629)
+Citizens Electoral Council"]
+	"Vanessa Korber (3632)" -> "Phillip Bouwman (3630)" [label=49]
+	"Jean Robinson (3629)" -> "Vanessa Korber (3632)" [label=49]
+	"Jean Robinson (3629)" -> "Phillip Bouwman (3630)" [label=42]
+}

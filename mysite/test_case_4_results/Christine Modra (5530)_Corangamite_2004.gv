@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Christine Modra (5530)_Corangamite_2004" {
+	graph [label="Corangamite 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christine Modra (5530)" [label="Christine Modra (5530)
+Family First"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Socialist Alliance"]
+	"Andrew Bailey (5532)" [label="Andrew Bailey (5532)
+Citizens Electoral Council"]
+	"Chris Johnson (3558)" -> "Christine Modra (5530)" [label=102]
+	"Andrew Bailey (5532)" -> "Chris Johnson (3558)" [label=69]
+	"Andrew Bailey (5532)" -> "Christine Modra (5530)" [label=76]
+}

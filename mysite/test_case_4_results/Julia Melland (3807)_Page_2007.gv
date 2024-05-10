@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Julia Melland (3807)_Page_2007" {
+	graph [label="Page 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julia Melland (3807)" [label="Julia Melland (3807)
+Democrats"]
+	"Tony Kane (4398)" [label="Tony Kane (4398)
+Independent"]
+	"Mirian Vega (4395)" [label="Mirian Vega (4395)
+Family First"]
+	"Ben Beatty (4400)" [label="Ben Beatty (4400)
+LDP"]
+	"John Culverwell (4396)" [label="John Culverwell (4396)
+Citizens Electoral Council"]
+	"Tony Kane (4398)" -> "Julia Melland (3807)" [label=86]
+	"Mirian Vega (4395)" -> "Tony Kane (4398)" [label=50]
+	"Ben Beatty (4400)" -> "Mirian Vega (4395)" [label=17]
+	"John Culverwell (4396)" -> "Ben Beatty (4400)" [label=2]
+	"Mirian Vega (4395)" -> "Julia Melland (3807)" [label=73]
+	"Ben Beatty (4400)" -> "Julia Melland (3807)" [label=7]
+	"John Culverwell (4396)" -> "Julia Melland (3807)" [label=20]
+	"John Culverwell (4396)" -> "Mirian Vega (4395)" [label=24]
+	"Ben Beatty (4400)" -> "Tony Kane (4398)" [label=51]
+	"John Culverwell (4396)" -> "Tony Kane (4398)" [label=11]
+}

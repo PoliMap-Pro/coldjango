@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Biannca Pace (5130)_Lowe_2004" {
+	graph [label="Lowe 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Biannca Pace (5130)" [label="Biannca Pace (5130)
+Australian Democrats"]
+	"Timothy Avery (5128)" [label="Timothy Avery (5128)
+liberals for forests"]
+	"John Mason (5131)" [label="John Mason (5131)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Timothy Avery (5128)" -> "Biannca Pace (5130)" [label=73]
+	"John Mason (5131)" -> "Timothy Avery (5128)" [label=43]
+	"John Mason (5131)" -> "Biannca Pace (5130)" [label=61]
+}

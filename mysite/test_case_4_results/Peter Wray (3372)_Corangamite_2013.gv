@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Peter Wray (3372)_Corangamite_2013" {
+	graph [label="Corangamite 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Wray (3372)" [label="Peter Wray (3372)
+Family First Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+Independent"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Australian Christians"]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
+	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
+Rise Up Australia Party"]
+	"Nick Steel (2573)" [label="Nick Steel (2573)
+Australian Protectionist Party"]
+	"Adrian Whitehead (796)" -> "Peter Wray (3372)" [label=107]
+	"Andrew Black (3376)" -> "Adrian Whitehead (796)" [label=37]
+	"Alan Barron (2572)" -> "Andrew Black (3376)" [label=19]
+	"Warren Jackman (3374)" -> "Alan Barron (2572)" [label=14]
+	"Helen Rashleigh (3370)" -> "Warren Jackman (3374)" [label=9]
+	"Nick Steel (2573)" -> "Helen Rashleigh (3370)" [label=14]
+	"Andrew Black (3376)" -> "Peter Wray (3372)" [label=49]
+	"Alan Barron (2572)" -> "Peter Wray (3372)" [label=342]
+	"Warren Jackman (3374)" -> "Peter Wray (3372)" [label=44]
+	"Helen Rashleigh (3370)" -> "Peter Wray (3372)" [label=34]
+	"Nick Steel (2573)" -> "Peter Wray (3372)" [label=10]
+	"Nick Steel (2573)" -> "Warren Jackman (3374)" [label=11]
+	"Helen Rashleigh (3370)" -> "Alan Barron (2572)" [label=103]
+	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=2]
+	"Warren Jackman (3374)" -> "Andrew Black (3376)" [label=39]
+	"Helen Rashleigh (3370)" -> "Andrew Black (3376)" [label=8]
+	"Nick Steel (2573)" -> "Andrew Black (3376)" [label=24]
+	"Alan Barron (2572)" -> "Adrian Whitehead (796)" [label=28]
+	"Warren Jackman (3374)" -> "Adrian Whitehead (796)" [label=36]
+	"Helen Rashleigh (3370)" -> "Adrian Whitehead (796)" [label=18]
+	"Nick Steel (2573)" -> "Adrian Whitehead (796)" [label=13]
+}

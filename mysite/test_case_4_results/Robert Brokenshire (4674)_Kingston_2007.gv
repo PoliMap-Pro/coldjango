@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Robert Brokenshire (4674)_Kingston_2007" {
+	graph [label="Kingston 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Matthew Fowler (4673)" -> "Robert Brokenshire (4674)" [label=109]
+	"Barry J Becker (4671)" -> "Matthew Fowler (4673)" [label=109]
+	"Alex Kusznir (4675)" -> "Barry J Becker (4671)" [label=138]
+	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
+	"Barry J Becker (4671)" -> "Robert Brokenshire (4674)" [label=98]
+	"Alex Kusznir (4675)" -> "Robert Brokenshire (4674)" [label=113]
+	"Lachlan Peter Smith (4676)" -> "Robert Brokenshire (4674)" [label=48]
+	"Lachlan Peter Smith (4676)" -> "Barry J Becker (4671)" [label=24]
+	"Alex Kusznir (4675)" -> "Matthew Fowler (4673)" [label=36]
+	"Lachlan Peter Smith (4676)" -> "Matthew Fowler (4673)" [label=13]
+}

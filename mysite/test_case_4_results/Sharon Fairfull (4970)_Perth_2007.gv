@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Sharon Fairfull (4970)_Perth_2007" {
+	graph [label="Perth 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sharon Fairfull (4970)" [label="Sharon Fairfull (4970)
+Family First"]
+	"Marie Edmonds (4971)" [label="Marie Edmonds (4971)
+One Nation WA"]
+	"Chris Latham (4967)" [label="Chris Latham (4967)
+Socialist Alliance"]
+	"Orm Girvan (4969)" [label="Orm Girvan (4969)
+Citizens Electoral Council"]
+	"Marie Edmonds (4971)" -> "Sharon Fairfull (4970)" [label=92]
+	"Chris Latham (4967)" -> "Marie Edmonds (4971)" [label=21]
+	"Orm Girvan (4969)" -> "Chris Latham (4967)" [label=16]
+	"Chris Latham (4967)" -> "Sharon Fairfull (4970)" [label=35]
+	"Orm Girvan (4969)" -> "Sharon Fairfull (4970)" [label=18]
+	"Orm Girvan (4969)" -> "Marie Edmonds (4971)" [label=16]
+}

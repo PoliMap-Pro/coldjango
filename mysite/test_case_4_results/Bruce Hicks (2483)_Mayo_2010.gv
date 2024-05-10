@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Bruce Hicks (2483)_Mayo_2010" {
+	graph [label="Mayo 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
+Family First"]
+	"Bill Spragg (4017)" [label="Bill Spragg (4017)
+Independent"]
+	"Rebekkah Osmond (4019)" [label="Rebekkah Osmond (4019)
+Australian Democrats"]
+	"Andrew James Phillips (4015)" [label="Andrew James Phillips (4015)
+Independent"]
+	"John Wesley Michelmore (4020)" [label="John Wesley Michelmore (4020)
+The Climate Sceptics"]
+	"Bill Spragg (4017)" -> "Bruce Hicks (2483)" [label=541]
+	"Rebekkah Osmond (4019)" -> "Bill Spragg (4017)" [label=248]
+	"Andrew James Phillips (4015)" -> "Rebekkah Osmond (4019)" [label=52]
+	"John Wesley Michelmore (4020)" -> "Andrew James Phillips (4015)" [label=64]
+	"Rebekkah Osmond (4019)" -> "Bruce Hicks (2483)" [label=102]
+	"Andrew James Phillips (4015)" -> "Bruce Hicks (2483)" [label=117]
+	"John Wesley Michelmore (4020)" -> "Bruce Hicks (2483)" [label=85]
+	"John Wesley Michelmore (4020)" -> "Rebekkah Osmond (4019)" [label=123]
+	"Andrew James Phillips (4015)" -> "Bill Spragg (4017)" [label=463]
+	"John Wesley Michelmore (4020)" -> "Bill Spragg (4017)" [label=110]
+}

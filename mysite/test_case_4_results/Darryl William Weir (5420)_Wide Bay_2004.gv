@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Darryl William Weir (5420)_Wide Bay_2004" {
+	graph [label="Wide Bay 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Darryl William Weir (5420)" [label="Darryl William Weir (5420)
+Australian Democrats"]
+	"Cy D'Oliveira (5415)" [label="Cy D'Oliveira (5415)
+Independent"]
+	"Cy D'Oliveira (5415)" -> "Darryl William Weir (5420)" [label=40]
+}

@@ -17,7 +17,7 @@ SENATE_DISTRIBUTION_DIRECTORY_RELATIVE = "senate_distribution_of_preferences\\"
 STATE_ABBREVIATION_HEADER = 'StateAb'
 TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE = "two_candidate_preferred\\"
 
-ABBREVIATION_LIST = ['UAPP', 'ON', 'LP', 'NAFD', 'AJP', 'IMO', 'CYA',
+ABBREVIATION_LIST = ['IND', 'UAPP', 'ON', 'LP', 'NAFD', 'AJP', 'IMO', 'CYA',
                      'CLP', 'CEC', 'LDP', 'AUVA', 'SOPA', 'DPDA', 'TNL',
                      'JLN', 'VNS', 'SAL', 'GAP', 'AUP', 'CDP', 'RUA',
                      'FACN', 'WAP', 'BTA', 'FFP', 'ASP', 'CEC', 'XEN',

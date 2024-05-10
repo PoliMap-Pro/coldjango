@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Joshua Mathieson (3319)_Ballarat_2013" {
+	graph [label="Ballarat 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joshua Mathieson (3319)" [label="Joshua Mathieson (3319)
+Sex Party"]
+	"Anne Foster (3316)" [label="Anne Foster (3316)
+Australian Christians"]
+	"Shane Clark (3324)" [label="Shane Clark (3324)
+Family First Party"]
+	"Stephen Vereker (3322)" [label="Stephen Vereker (3322)
+DLP Democratic Labour"]
+	"Shane Edward Dunne (3318)" [label="Shane Edward Dunne (3318)
+Katter's Australian Party"]
+	"Ana Rojas (3317)" [label="Ana Rojas (3317)
+Rise Up Australia Party"]
+	"Anne Foster (3316)" -> "Joshua Mathieson (3319)" [label=462]
+	"Shane Clark (3324)" -> "Anne Foster (3316)" [label=355]
+	"Stephen Vereker (3322)" -> "Shane Clark (3324)" [label=92]
+	"Shane Edward Dunne (3318)" -> "Stephen Vereker (3322)" [label=52]
+	"Ana Rojas (3317)" -> "Shane Edward Dunne (3318)" [label=31]
+	"Shane Clark (3324)" -> "Joshua Mathieson (3319)" [label=125]
+	"Stephen Vereker (3322)" -> "Joshua Mathieson (3319)" [label=46]
+	"Shane Edward Dunne (3318)" -> "Joshua Mathieson (3319)" [label=108]
+	"Ana Rojas (3317)" -> "Joshua Mathieson (3319)" [label=38]
+	"Ana Rojas (3317)" -> "Stephen Vereker (3322)" [label=14]
+	"Shane Edward Dunne (3318)" -> "Shane Clark (3324)" [label=63]
+	"Ana Rojas (3317)" -> "Shane Clark (3324)" [label=33]
+	"Stephen Vereker (3322)" -> "Anne Foster (3316)" [label=377]
+	"Shane Edward Dunne (3318)" -> "Anne Foster (3316)" [label=61]
+	"Ana Rojas (3317)" -> "Anne Foster (3316)" [label=64]
+}

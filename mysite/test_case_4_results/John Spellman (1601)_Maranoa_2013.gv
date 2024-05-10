@@ -1,0 +1,14 @@
+// House preference flow
+digraph "John Spellman (1601)_Maranoa_2013" {
+	graph [label="Maranoa 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Spellman (1601)" [label="John Spellman (1601)
+Family First"]
+	"Grant Newson (3181)" [label="Grant Newson (3181)
+The Greens"]
+	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
+Rise Up Australia Party"]
+	"Grant Newson (3181)" -> "John Spellman (1601)" [label=401]
+	"George Mousley Clouston (3183)" -> "Grant Newson (3181)" [label=46]
+	"George Mousley Clouston (3183)" -> "John Spellman (1601)" [label=351]
+}

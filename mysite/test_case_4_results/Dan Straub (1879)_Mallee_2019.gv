@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Dan Straub (1879)_Mallee_2019" {
+	graph [label="Mallee 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dan Straub (1879)" [label="Dan Straub (1879)
+Shooters, Fishers and Farmers"]
+	"Rick Millar (1880)" [label="Rick Millar (1880)
+United Australia Party"]
+	"Nicole Rowan (1881)" [label="Nicole Rowan (1881)
+The Greens (VIC)"]
+	"Cecilia Moar (1873)" [label="Cecilia Moar (1873)
+Independent"]
+	"Rick Grosvenor (1875)" [label="Rick Grosvenor (1875)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Philip Mollison (1876)" [label="Philip Mollison (1876)
+Rise Up Australia Party"]
+	"Leigh Firman (1877)" [label="Leigh Firman (1877)
+Science Party"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
+	"Rick Millar (1880)" -> "Dan Straub (1879)" [label=1319]
+	"Nicole Rowan (1881)" -> "Rick Millar (1880)" [label=376]
+	"Cecilia Moar (1873)" -> "Nicole Rowan (1881)" [label=84]
+	"Rick Grosvenor (1875)" -> "Cecilia Moar (1873)" [label=91]
+	"Philip Mollison (1876)" -> "Rick Grosvenor (1875)" [label=104]
+	"Leigh Firman (1877)" -> "Philip Mollison (1876)" [label=31]
+	"Chris Lahy (984)" -> "Leigh Firman (1877)" [label=20]
+	"Nicole Rowan (1881)" -> "Dan Straub (1879)" [label=313]
+	"Cecilia Moar (1873)" -> "Dan Straub (1879)" [label=103]
+	"Rick Grosvenor (1875)" -> "Dan Straub (1879)" [label=442]
+	"Philip Mollison (1876)" -> "Dan Straub (1879)" [label=123]
+	"Leigh Firman (1877)" -> "Dan Straub (1879)" [label=80]
+	"Chris Lahy (984)" -> "Dan Straub (1879)" [label=17]
+	"Chris Lahy (984)" -> "Philip Mollison (1876)" [label=56]
+	"Leigh Firman (1877)" -> "Rick Grosvenor (1875)" [label=23]
+	"Chris Lahy (984)" -> "Rick Grosvenor (1875)" [label=25]
+	"Philip Mollison (1876)" -> "Cecilia Moar (1873)" [label=42]
+	"Leigh Firman (1877)" -> "Cecilia Moar (1873)" [label=41]
+	"Chris Lahy (984)" -> "Cecilia Moar (1873)" [label=31]
+	"Rick Grosvenor (1875)" -> "Nicole Rowan (1881)" [label=17]
+	"Philip Mollison (1876)" -> "Nicole Rowan (1881)" [label=25]
+	"Leigh Firman (1877)" -> "Nicole Rowan (1881)" [label=67]
+	"Chris Lahy (984)" -> "Nicole Rowan (1881)" [label=12]
+	"Cecilia Moar (1873)" -> "Rick Millar (1880)" [label=59]
+	"Rick Grosvenor (1875)" -> "Rick Millar (1880)" [label=210]
+	"Philip Mollison (1876)" -> "Rick Millar (1880)" [label=108]
+	"Leigh Firman (1877)" -> "Rick Millar (1880)" [label=18]
+	"Chris Lahy (984)" -> "Rick Millar (1880)" [label=11]
+}

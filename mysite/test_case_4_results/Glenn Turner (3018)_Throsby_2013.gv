@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Glenn Turner (3018)_Throsby_2013" {
+	graph [label="Throsby 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glenn Turner (3018)" [label="Glenn Turner (3018)
+Katter's Australian Party"]
+	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Brian Edward Boulton (3017)" [label="Brian Edward Boulton (3017)
+Democratic Labour Party (DLP)"]
+	"Wayne Hartman (2263)" -> "Glenn Turner (3018)" [label=22]
+	"Brian Edward Boulton (3017)" -> "Wayne Hartman (2263)" [label=16]
+	"Brian Edward Boulton (3017)" -> "Glenn Turner (3018)" [label=32]
+}

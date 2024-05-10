@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Adam Welch (5690)_Forrest_2004" {
+	graph [label="Forrest 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Welch (5690)" [label="Adam Welch (5690)
+Australian Democrats"]
+	"Linda Rose (5691)" [label="Linda Rose (5691)
+Family First"]
+	"Ken Vagg (5688)" [label="Ken Vagg (5688)
+New Country Party"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Linda Rose (5691)" -> "Adam Welch (5690)" [label=175]
+	"Ken Vagg (5688)" -> "Linda Rose (5691)" [label=124]
+	"Ian Tuffnell (3605)" -> "Ken Vagg (5688)" [label=58]
+	"Ken Vagg (5688)" -> "Adam Welch (5690)" [label=151]
+	"Ian Tuffnell (3605)" -> "Adam Welch (5690)" [label=13]
+	"Ian Tuffnell (3605)" -> "Linda Rose (5691)" [label=21]
+}

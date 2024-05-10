@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jan Edwards (4771)_Corangamite_2007" {
+	graph [label="Corangamite 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jan Edwards (4771)" [label="Jan Edwards (4771)
+Family First"]
+	"Gabrielle Killeen (4770)" [label="Gabrielle Killeen (4770)
+Australian Democrats"]
+	"Sukrit Sabhlok (4774)" [label="Sukrit Sabhlok (4774)
+LDP"]
+	"Gabrielle Killeen (4770)" -> "Jan Edwards (4771)" [label=235]
+	"Sukrit Sabhlok (4774)" -> "Gabrielle Killeen (4770)" [label=18]
+	"Sukrit Sabhlok (4774)" -> "Jan Edwards (4771)" [label=27]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Peter Kerin (4515)_Batman_2007" {
+	graph [label="Batman 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Kerin (4515)" [label="Peter Kerin (4515)
+Democrats"]
+	"Darren Hassan (4030)" [label="Darren Hassan (4030)
+Australian Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Darren Hassan (4030)" -> "Peter Kerin (4515)" [label=678]
+	"Robert Barwick (4740)" -> "Darren Hassan (4030)" [label=55]
+	"Robert Barwick (4740)" -> "Peter Kerin (4515)" [label=44]
+}

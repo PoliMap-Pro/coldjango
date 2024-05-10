@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Lindsay Temple (2306)_Dawson_2013" {
+	graph [label="Dawson 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lindsay Temple (2306)" [label="Lindsay Temple (2306)
+Family First"]
+	"Andrew Harris (3080)" [label="Andrew Harris (3080)
+Citizens Electoral Council"]
+	"Andrew Harris (3080)" -> "Lindsay Temple (2306)" [label=62]
+}

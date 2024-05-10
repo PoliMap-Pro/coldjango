@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Barry Newton (3501)_McEwen_2013" {
+	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Barry Newton (3501)" [label="Barry Newton (3501)
+Family First Party"]
+	"Bruce Stevens (3505)" [label="Bruce Stevens (3505)
+Katter's Australian Party"]
+	"Ian Cranson (3504)" [label="Ian Cranson (3504)
+Country Alliance"]
+	"Ferdie Verdan (3503)" [label="Ferdie Verdan (3503)
+Rise Up Australia Party"]
+	"Bruce Stevens (3505)" -> "Barry Newton (3501)" [label=154]
+	"Ian Cranson (3504)" -> "Bruce Stevens (3505)" [label=132]
+	"Ferdie Verdan (3503)" -> "Ian Cranson (3504)" [label=54]
+	"Ian Cranson (3504)" -> "Barry Newton (3501)" [label=130]
+	"Ferdie Verdan (3503)" -> "Barry Newton (3501)" [label=172]
+	"Ferdie Verdan (3503)" -> "Bruce Stevens (3505)" [label=26]
+}

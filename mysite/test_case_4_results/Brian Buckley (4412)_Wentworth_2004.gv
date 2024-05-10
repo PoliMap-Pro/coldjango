@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Brian Buckley (4412)_Wentworth_2004" {
+	graph [label="Wentworth 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brian Buckley (4412)" [label="Brian Buckley (4412)
+No GST"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"John Jamieson (4467)" -> "Brian Buckley (4412)" [label=7]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Peter Lee (3241)_Shortland_2004" {
+	graph [label="Shortland 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Lee (3241)" [label="Peter Lee (3241)
+Australian Democrats"]
+}

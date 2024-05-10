@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Con Sarazen (4050)_Batman_2010" {
+	graph [label="Batman 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Con Sarazen (4050)" [label="Con Sarazen (4050)
+Australian Democrats"]
+}

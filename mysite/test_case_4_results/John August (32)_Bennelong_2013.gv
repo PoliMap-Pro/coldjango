@@ -1,0 +1,14 @@
+// House preference flow
+digraph "John August (32)_Bennelong_2013" {
+	graph [label="Bennelong 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"John August (32)" [label="John August (32)
+Secular Party of Australia"]
+	"Lachlan Patrick Mccaffrey (2809)" [label="Lachlan Patrick Mccaffrey (2809)
+Democratic Labour Party (DLP)"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Australia First Party"]
+	"Lachlan Patrick Mccaffrey (2809)" -> "John August (32)" [label=49]
+	"Victor Waterson (37)" -> "Lachlan Patrick Mccaffrey (2809)" [label=41]
+	"Victor Waterson (37)" -> "John August (32)" [label=123]
+}

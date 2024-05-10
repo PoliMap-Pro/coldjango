@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ben Roffey (5033)_Charlton_2004" {
+	graph [label="Charlton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Roffey (5033)" [label="Ben Roffey (5033)
+Australian Democrats"]
+	"David Stow (4274)" [label="David Stow (4274)
+Citizens Electoral Council"]
+	"David Stow (4274)" -> "Ben Roffey (5033)" [label=95]
+}

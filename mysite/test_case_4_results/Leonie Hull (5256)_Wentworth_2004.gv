@@ -1,0 +1,24 @@
+// House preference flow
+digraph "Leonie Hull (5256)_Wentworth_2004" {
+	graph [label="Wentworth 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leonie Hull (5256)" [label="Leonie Hull (5256)
+Family First"]
+	"Victor Shen (5255)" [label="Victor Shen (5255)
+The Fishing Party"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Brian Buckley (4412)" [label="Brian Buckley (4412)
+No GST"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Victor Shen (5255)" -> "Leonie Hull (5256)" [label=55]
+	"Pat Sheil (2107)" -> "Victor Shen (5255)" [label=8]
+	"Brian Buckley (4412)" -> "Pat Sheil (2107)" [label=3]
+	"John Jamieson (4467)" -> "Brian Buckley (4412)" [label=7]
+	"Pat Sheil (2107)" -> "Leonie Hull (5256)" [label=6]
+	"Brian Buckley (4412)" -> "Leonie Hull (5256)" [label=39]
+	"John Jamieson (4467)" -> "Leonie Hull (5256)" [label=14]
+	"John Jamieson (4467)" -> "Pat Sheil (2107)" [label=1]
+	"Brian Buckley (4412)" -> "Victor Shen (5255)" [label=25]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Domenic Greco (3554)_Scullin_2013" {
+	graph [label="Scullin 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Domenic Greco (3554)" [label="Domenic Greco (3554)
+Katter's Australian Party"]
+}

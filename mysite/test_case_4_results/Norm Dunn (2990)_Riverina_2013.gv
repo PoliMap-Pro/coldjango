@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Norm Dunn (2990)_Riverina_2013" {
+	graph [label="Riverina 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Norm Dunn (2990)" [label="Norm Dunn (2990)
+Katter's Australian Party"]
+	"Kim Heath (2993)" [label="Kim Heath (2993)
+Rise Up Australia Party"]
+	"Kim Heath (2993)" -> "Norm Dunn (2990)" [label=64]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Eoin Coghlan (5005)_Barton_2004" {
+	graph [label="Barton 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Eoin Coghlan (5005)" [label="Eoin Coghlan (5005)
+Australian Democrats"]
+	"Neil Baird (5006)" [label="Neil Baird (5006)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
+}

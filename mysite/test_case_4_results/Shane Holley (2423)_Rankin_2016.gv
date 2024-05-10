@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Shane Holley (2423)_Rankin_2016" {
+	graph [label="Rankin 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shane Holley (2423)" [label="Shane Holley (2423)
+Katter's Australian Party"]
+	"Jeffrey Dale Hodges (2424)" [label="Jeffrey Dale Hodges (2424)
+Consumer Rights & No-Tolls"]
+	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
+}

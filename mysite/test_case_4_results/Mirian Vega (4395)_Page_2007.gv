@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mirian Vega (4395)_Page_2007" {
+	graph [label="Page 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mirian Vega (4395)" [label="Mirian Vega (4395)
+Family First"]
+	"Ben Beatty (4400)" [label="Ben Beatty (4400)
+LDP"]
+	"John Culverwell (4396)" [label="John Culverwell (4396)
+Citizens Electoral Council"]
+	"Ben Beatty (4400)" -> "Mirian Vega (4395)" [label=17]
+	"John Culverwell (4396)" -> "Ben Beatty (4400)" [label=2]
+	"John Culverwell (4396)" -> "Mirian Vega (4395)" [label=24]
+}

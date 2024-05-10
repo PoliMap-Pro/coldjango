@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Richard Bunting (4665)_Port Adelaide_2004" {
+	graph [label="Port Adelaide 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Bunting (4665)" [label="Richard Bunting (4665)
+Family First"]
+	"Trevor Tucker (5466)" [label="Trevor Tucker (5466)
+Australian Democrats"]
+	"Stan Batten (5463)" [label="Stan Batten (5463)
+One Nation"]
+	"Trevor Tucker (5466)" -> "Richard Bunting (4665)" [label=260]
+	"Stan Batten (5463)" -> "Trevor Tucker (5466)" [label=101]
+	"Stan Batten (5463)" -> "Richard Bunting (4665)" [label=291]
+}

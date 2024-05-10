@@ -1,0 +1,19 @@
+// House preference flow
+digraph "David Totenhofer (4601)_Maranoa_2007" {
+	graph [label="Maranoa 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Totenhofer (4601)" [label="David Totenhofer (4601)
+Family First"]
+	"Rod Watson (4600)" [label="Rod Watson (4600)
+One Nation WA"]
+	"Bob East (4604)" [label="Bob East (4604)
+The Greens"]
+	"Alan Dickson (4602)" [label="Alan Dickson (4602)
+Democrats"]
+	"Rod Watson (4600)" -> "David Totenhofer (4601)" [label=1750]
+	"Bob East (4604)" -> "Rod Watson (4600)" [label=367]
+	"Alan Dickson (4602)" -> "Bob East (4604)" [label=228]
+	"Bob East (4604)" -> "David Totenhofer (4601)" [label=433]
+	"Alan Dickson (4602)" -> "David Totenhofer (4601)" [label=187]
+	"Alan Dickson (4602)" -> "Rod Watson (4600)" [label=131]
+}

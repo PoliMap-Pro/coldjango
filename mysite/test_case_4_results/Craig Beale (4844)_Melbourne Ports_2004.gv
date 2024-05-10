@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Craig Beale (4844)_Melbourne Ports_2004" {
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Beale (4844)" [label="Craig Beale (4844)
+Democrats"]
+	"Graeme Jackel (5640)" [label="Graeme Jackel (5640)
+Family First"]
+	"Leonie Horin (5641)" [label="Leonie Horin (5641)
+Independent"]
+	"Aaron Isherwood (4879)" [label="Aaron Isherwood (4879)
+Citizens Electoral Council"]
+	"Graeme Jackel (5640)" -> "Craig Beale (4844)" [label=42]
+	"Leonie Horin (5641)" -> "Graeme Jackel (5640)" [label=30]
+	"Aaron Isherwood (4879)" -> "Leonie Horin (5641)" [label=28]
+	"Leonie Horin (5641)" -> "Craig Beale (4844)" [label=29]
+	"Aaron Isherwood (4879)" -> "Craig Beale (4844)" [label=13]
+	"Aaron Isherwood (4879)" -> "Graeme Jackel (5640)" [label=15]
+}

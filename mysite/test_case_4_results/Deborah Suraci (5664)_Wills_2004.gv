@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Deborah Suraci (5664)_Wills_2004" {
+	graph [label="Wills 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Deborah Suraci (5664)" [label="Deborah Suraci (5664)
+Family First"]
+	"Robert Stone (5663)" [label="Robert Stone (5663)
+Democrats"]
+	"David Glanz (5665)" [label="David Glanz (5665)
+Socialist Alliance"]
+	"Noelene W Isherwood (5661)" [label="Noelene W Isherwood (5661)
+Citizens Electoral Council"]
+	"Robert Stone (5663)" -> "Deborah Suraci (5664)" [label=120]
+	"David Glanz (5665)" -> "Robert Stone (5663)" [label=41]
+	"Noelene W Isherwood (5661)" -> "David Glanz (5665)" [label=14]
+	"David Glanz (5665)" -> "Deborah Suraci (5664)" [label=105]
+	"Noelene W Isherwood (5661)" -> "Deborah Suraci (5664)" [label=29]
+	"Noelene W Isherwood (5661)" -> "Robert Stone (5663)" [label=60]
+}

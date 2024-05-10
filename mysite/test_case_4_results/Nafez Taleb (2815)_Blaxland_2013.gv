@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Nafez Taleb (2815)_Blaxland_2013" {
+	graph [label="Blaxland 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
+Christian Democratic Party (Fred Nile Group)"]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
+	"Juliat Nasr (2818)" -> "Nafez Taleb (2815)" [label=151]
+	"Boutros Zalloua (2820)" -> "Juliat Nasr (2818)" [label=173]
+	"Boutros Zalloua (2820)" -> "Nafez Taleb (2815)" [label=68]
+}

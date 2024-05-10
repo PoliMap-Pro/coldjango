@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Andrew Rushton (5522)_Casey_2004" {
+	graph [label="Casey 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
+Family First"]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
+"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
+	"Jos Vandersman (5523)" -> "Andrew Rushton (5522)" [label=224]
+	"Daniel Chapman (5521)" -> "Jos Vandersman (5523)" [label=89]
+	"Jeremy Beck (4826)" -> "Daniel Chapman (5521)" [label=33]
+	"Daniel Chapman (5521)" -> "Andrew Rushton (5522)" [label=142]
+	"Jeremy Beck (4826)" -> "Andrew Rushton (5522)" [label=34]
+	"Jeremy Beck (4826)" -> "Jos Vandersman (5523)" [label=32]
+}

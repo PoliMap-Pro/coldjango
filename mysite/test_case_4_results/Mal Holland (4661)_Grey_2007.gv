@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Mal Holland (4661)_Grey_2007" {
+	graph [label="Grey 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mal Holland (4661)" [label="Mal Holland (4661)
+Family First Party"]
+	"Rosalie Garland (4659)" [label="Rosalie Garland (4659)
+The Greens"]
+	"Wilbur Klein (4660)" [label="Wilbur Klein (4660)
+National Party"]
+	"Gil Robertson (4663)" [label="Gil Robertson (4663)
+Australian Democrats"]
+	"David Wright (4662)" [label="David Wright (4662)
+Independent"]
+	"Rosalie Garland (4659)" -> "Mal Holland (4661)" [label=1385]
+	"Wilbur Klein (4660)" -> "Rosalie Garland (4659)" [label=403]
+	"Gil Robertson (4663)" -> "Wilbur Klein (4660)" [label=131]
+	"David Wright (4662)" -> "Gil Robertson (4663)" [label=136]
+	"Wilbur Klein (4660)" -> "Mal Holland (4661)" [label=389]
+	"Gil Robertson (4663)" -> "Mal Holland (4661)" [label=157]
+	"David Wright (4662)" -> "Mal Holland (4661)" [label=185]
+	"David Wright (4662)" -> "Wilbur Klein (4660)" [label=96]
+	"Gil Robertson (4663)" -> "Rosalie Garland (4659)" [label=343]
+	"David Wright (4662)" -> "Rosalie Garland (4659)" [label=192]
+}

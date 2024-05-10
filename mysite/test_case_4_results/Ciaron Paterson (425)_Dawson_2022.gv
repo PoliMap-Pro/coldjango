@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ciaron Paterson (425)_Dawson_2022" {
+	graph [label="Dawson 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ciaron Paterson (425)" [label="Ciaron Paterson (425)
+Katter's Australian Party (KAP)"]
+	"Christian Nigel Young (424)" [label="Christian Nigel Young (424)
+United Australia Party"]
+	"Jim Jackson (423)" [label="Jim Jackson (423)
+The Great Australian Party"]
+	"Christian Nigel Young (424)" -> "Ciaron Paterson (425)" [label=1226]
+	"Jim Jackson (423)" -> "Christian Nigel Young (424)" [label=463]
+	"Jim Jackson (423)" -> "Ciaron Paterson (425)" [label=505]
+}

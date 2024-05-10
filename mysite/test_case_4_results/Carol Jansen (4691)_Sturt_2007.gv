@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Carol Jansen (4691)_Sturt_2007" {
+	graph [label="Sturt 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carol Jansen (4691)" [label="Carol Jansen (4691)
+Family First Party"]
+	"Paul Rowse (4692)" [label="Paul Rowse (4692)
+Australian Democrats"]
+	"Felicity Tilbrook (4695)" [label="Felicity Tilbrook (4695)
+LDP"]
+	"Paul Rowse (4692)" -> "Carol Jansen (4691)" [label=157]
+	"Felicity Tilbrook (4695)" -> "Paul Rowse (4692)" [label=37]
+	"Felicity Tilbrook (4695)" -> "Carol Jansen (4691)" [label=43]
+}

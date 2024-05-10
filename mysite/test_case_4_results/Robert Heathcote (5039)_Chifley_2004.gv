@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Robert Heathcote (5039)_Chifley_2004" {
+	graph [label="Chifley 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Heathcote (5039)" [label="Robert Heathcote (5039)
+Family First"]
+	"Wayne Hyland (4280)" [label="Wayne Hyland (4280)
+Independent"]
+	"Graham Rand (5040)" [label="Graham Rand (5040)
+"]
+	"Wayne Hyland (4280)" -> "Robert Heathcote (5039)" [label=192]
+	"Graham Rand (5040)" -> "Wayne Hyland (4280)" [label=33]
+	"Graham Rand (5040)" -> "Robert Heathcote (5039)" [label=20]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ruth Hazelton (5657)_Wannon_2004" {
+	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
+	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
+Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Leigh Mcdonald (5659)" -> "Ruth Hazelton (5657)" [label=357]
+	"Kerre Willsher (5656)" -> "Leigh Mcdonald (5659)" [label=107]
+	"Robert Barwick (4740)" -> "Kerre Willsher (5656)" [label=7]
+	"Kerre Willsher (5656)" -> "Ruth Hazelton (5657)" [label=81]
+	"Robert Barwick (4740)" -> "Ruth Hazelton (5657)" [label=19]
+	"Robert Barwick (4740)" -> "Leigh Mcdonald (5659)" [label=66]
+}

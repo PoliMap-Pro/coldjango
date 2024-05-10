@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michael Lee (5550)_Gellibrand_2004" {
+	graph [label="Gellibrand 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Lee (5550)" [label="Michael Lee (5550)
+Family First"]
+	"Max Grarock (5553)" [label="Max Grarock (5553)
+Democrats"]
+	"Wajde Assaf (5549)" [label="Wajde Assaf (5549)
+Independent"]
+	"Linda Waldron (5552)" [label="Linda Waldron (5552)
+Socialist Alliance"]
+	"Kel Isherwood (5551)" [label="Kel Isherwood (5551)
+Citizens Electoral Council"]
+	"Max Grarock (5553)" -> "Michael Lee (5550)" [label=227]
+	"Wajde Assaf (5549)" -> "Max Grarock (5553)" [label=71]
+	"Linda Waldron (5552)" -> "Wajde Assaf (5549)" [label=28]
+	"Kel Isherwood (5551)" -> "Linda Waldron (5552)" [label=17]
+	"Wajde Assaf (5549)" -> "Michael Lee (5550)" [label=84]
+	"Linda Waldron (5552)" -> "Michael Lee (5550)" [label=42]
+	"Kel Isherwood (5551)" -> "Michael Lee (5550)" [label=35]
+	"Kel Isherwood (5551)" -> "Wajde Assaf (5549)" [label=10]
+	"Linda Waldron (5552)" -> "Max Grarock (5553)" [label=69]
+	"Kel Isherwood (5551)" -> "Max Grarock (5553)" [label=12]
+}

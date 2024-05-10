@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Darren Mark Churchill (2787)_Fraser_2013" {
+	graph [label="Fraser 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Darren Mark Churchill (2787)" [label="Darren Mark Churchill (2787)
+Australian Democrats"]
+	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
+Rise Up Australia Party"]
+	"Jill Elizabeth Ross (2790)" -> "Darren Mark Churchill (2787)" [label=131]
+}

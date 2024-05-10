@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jason Cornelius (3790)_Macquarie_2010" {
+	graph [label="Macquarie 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jason Cornelius (3790)" [label="Jason Cornelius (3790)
+Family First"]
+	"John Bates (3788)" [label="John Bates (3788)
+Australia First Party"]
+	"Terry Tremethick (3787)" [label="Terry Tremethick (3787)
+Carers Alliance"]
+	"John Bates (3788)" -> "Jason Cornelius (3790)" [label=172]
+	"Terry Tremethick (3787)" -> "John Bates (3788)" [label=43]
+	"Terry Tremethick (3787)" -> "Jason Cornelius (3790)" [label=64]
+}

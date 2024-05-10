@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Carolyn Ferrando (3200)_Moreton_2013" {
+	graph [label="Moreton 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carolyn Ferrando (3200)" [label="Carolyn Ferrando (3200)
+Family First"]
+	"Chris Allan Mallcott (3198)" [label="Chris Allan Mallcott (3198)
+Katter's Australian Party"]
+	"Hayden Muscat (3199)" [label="Hayden Muscat (3199)
+Future Party"]
+	"Bruce Mayburn Fry (3203)" [label="Bruce Mayburn Fry (3203)
+Rise Up Australia Party"]
+	"Wayne J M Grunert (3197)" [label="Wayne J M Grunert (3197)
+Citizens Electoral Council"]
+	"Chris Allan Mallcott (3198)" -> "Carolyn Ferrando (3200)" [label=193]
+	"Hayden Muscat (3199)" -> "Chris Allan Mallcott (3198)" [label=61]
+	"Bruce Mayburn Fry (3203)" -> "Hayden Muscat (3199)" [label=31]
+	"Wayne J M Grunert (3197)" -> "Bruce Mayburn Fry (3203)" [label=14]
+	"Hayden Muscat (3199)" -> "Carolyn Ferrando (3200)" [label=75]
+	"Bruce Mayburn Fry (3203)" -> "Carolyn Ferrando (3200)" [label=98]
+	"Wayne J M Grunert (3197)" -> "Carolyn Ferrando (3200)" [label=18]
+	"Wayne J M Grunert (3197)" -> "Hayden Muscat (3199)" [label=50]
+	"Bruce Mayburn Fry (3203)" -> "Chris Allan Mallcott (3198)" [label=28]
+	"Wayne J M Grunert (3197)" -> "Chris Allan Mallcott (3198)" [label=34]
+}

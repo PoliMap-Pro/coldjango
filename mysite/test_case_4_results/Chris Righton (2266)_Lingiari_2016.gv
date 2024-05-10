@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Chris Righton (2266)_Lingiari_2016" {
+	graph [label="Lingiari 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Righton (2266)" [label="Chris Righton (2266)
+Shooters, Fishers and Farmers"]
+	"Rob Hoad (2271)" [label="Rob Hoad (2271)
+The Greens"]
+	"Yingiya Mark Guyula (2268)" [label="Yingiya Mark Guyula (2268)
+Independent"]
+	"Braedon Earley (2269)" [label="Braedon Earley (2269)
+Independent"]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
+	"Alfred Gould (2267)" [label="Alfred Gould (2267)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Rob Hoad (2271)" -> "Chris Righton (2266)" [label=678]
+	"Yingiya Mark Guyula (2268)" -> "Rob Hoad (2271)" [label=584]
+	"Braedon Earley (2269)" -> "Yingiya Mark Guyula (2268)" [label=482]
+	"Regina Mccarthy (1458)" -> "Braedon Earley (2269)" [label=184]
+	"Alfred Gould (2267)" -> "Regina Mccarthy (1458)" [label=21]
+	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
+	"Yingiya Mark Guyula (2268)" -> "Chris Righton (2266)" [label=613]
+	"Braedon Earley (2269)" -> "Chris Righton (2266)" [label=660]
+	"Regina Mccarthy (1458)" -> "Chris Righton (2266)" [label=355]
+	"Alfred Gould (2267)" -> "Chris Righton (2266)" [label=64]
+	"Peter Flynn (2270)" -> "Chris Righton (2266)" [label=43]
+	"Peter Flynn (2270)" -> "Regina Mccarthy (1458)" [label=44]
+	"Alfred Gould (2267)" -> "Braedon Earley (2269)" [label=96]
+	"Peter Flynn (2270)" -> "Braedon Earley (2269)" [label=46]
+	"Regina Mccarthy (1458)" -> "Yingiya Mark Guyula (2268)" [label=231]
+	"Alfred Gould (2267)" -> "Yingiya Mark Guyula (2268)" [label=148]
+	"Peter Flynn (2270)" -> "Yingiya Mark Guyula (2268)" [label=12]
+	"Braedon Earley (2269)" -> "Rob Hoad (2271)" [label=238]
+	"Regina Mccarthy (1458)" -> "Rob Hoad (2271)" [label=126]
+	"Alfred Gould (2267)" -> "Rob Hoad (2271)" [label=16]
+	"Peter Flynn (2270)" -> "Rob Hoad (2271)" [label=36]
+}

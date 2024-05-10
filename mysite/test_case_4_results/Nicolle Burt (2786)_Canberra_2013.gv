@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Nicolle Burt (2786)_Canberra_2013" {
+	graph [label="Canberra 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicolle Burt (2786)" [label="Nicolle Burt (2786)
+Secular Party of Australia"]
+}

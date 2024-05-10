@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ken Trewin (2869)_Farrer_2013" {
+	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ken Trewin (2869)" [label="Ken Trewin (2869)
+Katter's Australian Party"]
+	"Christina Sobey (2874)" [label="Christina Sobey (2874)
+The Greens"]
+	"Ronald James Emmerton (2870)" [label="Ronald James Emmerton (2870)
+Palmer United Party"]
+	"Narelle Davis (2867)" [label="Narelle Davis (2867)
+Rise Up Australia Party"]
+	"Brendan Cattell (2868)" [label="Brendan Cattell (2868)
+Democratic Labour Party (DLP)"]
+	"Tracey Powell (2872)" [label="Tracey Powell (2872)
+Bullet Train For Australia"]
+	"Frank Horwill (2873)" [label="Frank Horwill (2873)
+Christian Democratic Party (Fred Nile Group)"]
+	"Christina Sobey (2874)" -> "Ken Trewin (2869)" [label=806]
+	"Ronald James Emmerton (2870)" -> "Christina Sobey (2874)" [label=409]
+	"Narelle Davis (2867)" -> "Ronald James Emmerton (2870)" [label=203]
+	"Brendan Cattell (2868)" -> "Narelle Davis (2867)" [label=356]
+	"Tracey Powell (2872)" -> "Brendan Cattell (2868)" [label=58]
+	"Frank Horwill (2873)" -> "Tracey Powell (2872)" [label=51]
+	"Ronald James Emmerton (2870)" -> "Ken Trewin (2869)" [label=1277]
+	"Narelle Davis (2867)" -> "Ken Trewin (2869)" [label=1192]
+	"Brendan Cattell (2868)" -> "Ken Trewin (2869)" [label=268]
+	"Tracey Powell (2872)" -> "Ken Trewin (2869)" [label=65]
+	"Frank Horwill (2873)" -> "Ken Trewin (2869)" [label=77]
+	"Frank Horwill (2873)" -> "Brendan Cattell (2868)" [label=47]
+	"Tracey Powell (2872)" -> "Narelle Davis (2867)" [label=138]
+	"Frank Horwill (2873)" -> "Narelle Davis (2867)" [label=127]
+	"Brendan Cattell (2868)" -> "Ronald James Emmerton (2870)" [label=94]
+	"Tracey Powell (2872)" -> "Ronald James Emmerton (2870)" [label=144]
+	"Frank Horwill (2873)" -> "Ronald James Emmerton (2870)" [label=40]
+	"Narelle Davis (2867)" -> "Christina Sobey (2874)" [label=164]
+	"Brendan Cattell (2868)" -> "Christina Sobey (2874)" [label=100]
+	"Tracey Powell (2872)" -> "Christina Sobey (2874)" [label=213]
+	"Frank Horwill (2873)" -> "Christina Sobey (2874)" [label=66]
+}

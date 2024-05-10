@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Craig Cadby (4822)_Hotham_2007" {
+	graph [label="Hotham 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Cadby (4822)" [label="Craig Cadby (4822)
+Australian Democrats"]
+	"Terry Farrell (4821)" [label="Terry Farrell (4821)
+D.L.P. - Democratic Labor Party"]
+	"Mike Woodward (4820)" [label="Mike Woodward (4820)
+Citizens Electoral Council"]
+	"Terry Farrell (4821)" -> "Craig Cadby (4822)" [label=106]
+	"Mike Woodward (4820)" -> "Terry Farrell (4821)" [label=30]
+	"Mike Woodward (4820)" -> "Craig Cadby (4822)" [label=23]
+}

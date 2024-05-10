@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Richard Inwood (2495)_Wakefield_2016" {
+	graph [label="Wakefield 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Inwood (2495)" [label="Richard Inwood (2495)
+Nick Xenophon Team"]
+	"Marilyn Phillips (2496)" [label="Marilyn Phillips (2496)
+Family First"]
+	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
+The Greens"]
+	"John Bolton (2499)" [label="John Bolton (2499)
+Independent"]
+	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marilyn Phillips (2496)" -> "Richard Inwood (2495)" [label=2909]
+	"Craig Vanstone (2497)" -> "Marilyn Phillips (2496)" [label=926]
+	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
+	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
+	"Craig Vanstone (2497)" -> "Richard Inwood (2495)" [label=1156]
+	"John Bolton (2499)" -> "Richard Inwood (2495)" [label=804]
+	"Ralph Anderson (2498)" -> "Richard Inwood (2495)" [label=66]
+	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
+	"John Bolton (2499)" -> "Marilyn Phillips (2496)" [label=772]
+	"Ralph Anderson (2498)" -> "Marilyn Phillips (2496)" [label=280]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rick Benham (5378)_Maranoa_2004" {
+	graph [label="Maranoa 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rick Benham (5378)" [label="Rick Benham (5378)
+New Country"]
+	"Jonathan Rihan (5376)" [label="Jonathan Rihan (5376)
+The Greens"]
+	"Greg Ridge (5373)" [label="Greg Ridge (5373)
+Australian Democrats"]
+	"David Klingsporn (5377)" [label="David Klingsporn (5377)
+Citizens Electoral Council"]
+	"Jonathan Rihan (5376)" -> "Rick Benham (5378)" [label=136]
+	"Greg Ridge (5373)" -> "Jonathan Rihan (5376)" [label=107]
+	"David Klingsporn (5377)" -> "Greg Ridge (5373)" [label=15]
+	"Greg Ridge (5373)" -> "Rick Benham (5378)" [label=21]
+	"David Klingsporn (5377)" -> "Rick Benham (5378)" [label=60]
+	"David Klingsporn (5377)" -> "Jonathan Rihan (5376)" [label=26]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Gaye James (3306)_Lyons_2013" {
+	graph [label="Lyons 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gaye James (3306)" [label="Gaye James (3306)
+Family First"]
+	"Julian Rogers (3309)" [label="Julian Rogers (3309)
+Rise Up Australia Party"]
+	"Julian Rogers (3309)" -> "Gaye James (3306)" [label=166]
+}

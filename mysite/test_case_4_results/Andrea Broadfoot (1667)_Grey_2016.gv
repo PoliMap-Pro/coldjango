@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrea Broadfoot (1667)_Grey_2016" {
+	graph [label="Grey 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrea Broadfoot (1667)" [label="Andrea Broadfoot (1667)
+Nick Xenophon Team"]
+	"Scott Martin (2460)" [label="Scott Martin (2460)
+Australian Labor Party"]
+	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
+Family First"]
+	"Jillian Kay Marsh (2463)" [label="Jillian Kay Marsh (2463)
+The Greens"]
+	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
+Independent"]
+	"Scott Martin (2460)" -> "Andrea Broadfoot (1667)" [label=15085]
+	"Cheryl Kaminski (2462)" -> "Scott Martin (2460)" [label=940]
+	"Jillian Kay Marsh (2463)" -> "Cheryl Kaminski (2462)" [label=516]
+	"Phillip Gourlay (2461)" -> "Jillian Kay Marsh (2463)" [label=122]
+	"Cheryl Kaminski (2462)" -> "Andrea Broadfoot (1667)" [label=1900]
+	"Jillian Kay Marsh (2463)" -> "Andrea Broadfoot (1667)" [label=980]
+	"Phillip Gourlay (2461)" -> "Andrea Broadfoot (1667)" [label=283]
+	"Phillip Gourlay (2461)" -> "Cheryl Kaminski (2462)" [label=365]
+	"Jillian Kay Marsh (2463)" -> "Scott Martin (2460)" [label=709]
+	"Phillip Gourlay (2461)" -> "Scott Martin (2460)" [label=168]
+}

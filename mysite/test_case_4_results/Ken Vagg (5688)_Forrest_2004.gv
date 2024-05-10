@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ken Vagg (5688)_Forrest_2004" {
+	graph [label="Forrest 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ken Vagg (5688)" [label="Ken Vagg (5688)
+New Country Party"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" -> "Ken Vagg (5688)" [label=58]
+}

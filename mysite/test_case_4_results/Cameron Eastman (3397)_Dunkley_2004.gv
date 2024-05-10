@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Cameron Eastman (3397)_Dunkley_2004" {
+	graph [label="Dunkley 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cameron Eastman (3397)" [label="Cameron Eastman (3397)
+Family First"]
+	"Karen Bailey (4789)" [label="Karen Bailey (4789)
+Democrats"]
+	"Fletcher Davis (5542)" [label="Fletcher Davis (5542)
+Independent"]
+	"Gabrielle M Peut (5540)" [label="Gabrielle M Peut (5540)
+Citizens Electoral Council"]
+	"Karen Bailey (4789)" -> "Cameron Eastman (3397)" [label=164]
+	"Fletcher Davis (5542)" -> "Karen Bailey (4789)" [label=122]
+	"Gabrielle M Peut (5540)" -> "Fletcher Davis (5542)" [label=23]
+	"Fletcher Davis (5542)" -> "Cameron Eastman (3397)" [label=149]
+	"Gabrielle M Peut (5540)" -> "Cameron Eastman (3397)" [label=24]
+	"Gabrielle M Peut (5540)" -> "Karen Bailey (4789)" [label=37]
+}

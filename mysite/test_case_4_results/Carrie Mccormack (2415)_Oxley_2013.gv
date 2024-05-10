@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Carrie Mccormack (2415)_Oxley_2013" {
+	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
+Family First"]
+	"Kathleen Hewlett (3207)" [label="Kathleen Hewlett (3207)
+Katter's Australian Party"]
+	"Frank Karg (3205)" [label="Frank Karg (3205)
+Democratic Labour Party (DLP)"]
+	"Scott Moerland (1618)" [label="Scott Moerland (1618)
+Rise Up Australia Party"]
+	"Kathleen Hewlett (3207)" -> "Carrie Mccormack (2415)" [label=168]
+	"Frank Karg (3205)" -> "Kathleen Hewlett (3207)" [label=105]
+	"Scott Moerland (1618)" -> "Frank Karg (3205)" [label=41]
+	"Frank Karg (3205)" -> "Carrie Mccormack (2415)" [label=145]
+	"Scott Moerland (1618)" -> "Carrie Mccormack (2415)" [label=61]
+	"Scott Moerland (1618)" -> "Kathleen Hewlett (3207)" [label=70]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Martin Leahy (2655)_La Trobe_2013" {
+	graph [label="La Trobe 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Martin Leahy (2655)" [label="Martin Leahy (2655)
+Sex Party"]
+	"Daniel Martin (3476)" [label="Daniel Martin (3476)
+Family First Party"]
+	"Rachel Jenkins (3475)" [label="Rachel Jenkins (3475)
+DLP Democratic Labour"]
+	"Kevin Seaman (3478)" [label="Kevin Seaman (3478)
+Rise Up Australia Party"]
+	"Daniel Martin (3476)" -> "Martin Leahy (2655)" [label=195]
+	"Rachel Jenkins (3475)" -> "Daniel Martin (3476)" [label=226]
+	"Kevin Seaman (3478)" -> "Rachel Jenkins (3475)" [label=80]
+	"Rachel Jenkins (3475)" -> "Martin Leahy (2655)" [label=90]
+	"Kevin Seaman (3478)" -> "Martin Leahy (2655)" [label=58]
+	"Kevin Seaman (3478)" -> "Daniel Martin (3476)" [label=199]
+}

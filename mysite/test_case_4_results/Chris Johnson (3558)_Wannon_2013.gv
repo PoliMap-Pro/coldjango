@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Chris Johnson (3558)_Wannon_2013" {
+	graph [label="Wannon 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Sex Party"]
+	"Craig Haberfield (3559)" [label="Craig Haberfield (3559)
+Family First Party"]
+	"Therese Corbett (3555)" [label="Therese Corbett (3555)
+Australian Christians"]
+	"Craig Haberfield (3559)" -> "Chris Johnson (3558)" [label=270]
+	"Therese Corbett (3555)" -> "Craig Haberfield (3559)" [label=339]
+	"Therese Corbett (3555)" -> "Chris Johnson (3558)" [label=57]
+}

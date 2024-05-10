@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Bruce Hicks (2483)_Mayo_2013" {
+	graph [label="Mayo 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
+Family First"]
+	"Bikkar Singh Brar (3269)" [label="Bikkar Singh Brar (3269)
+Palmer United Party"]
+	"Bikkar Singh Brar (3269)" -> "Bruce Hicks (2483)" [label=1147]
+}

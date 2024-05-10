@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Kyran Sharrin (3622)_Hasluck_2013" {
+	graph [label="Hasluck 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kyran Sharrin (3622)" [label="Kyran Sharrin (3622)
+Family First Party"]
+	"Daniel Stevens (3617)" [label="Daniel Stevens (3617)
+Katter's Australian Party"]
+	"Daniel Stevens (3617)" -> "Kyran Sharrin (3622)" [label=29]
+}

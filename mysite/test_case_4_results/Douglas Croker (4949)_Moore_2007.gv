@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Douglas Croker (4949)_Moore_2007" {
+	graph [label="Moore 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Douglas Croker (4949)" [label="Douglas Croker (4949)
+Family First"]
+	"George Gault (4199)" [label="George Gault (4199)
+One Nation WA"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
+	"George Gault (4199)" -> "Douglas Croker (4949)" [label=105]
+	"Arthur Harvey (4948)" -> "George Gault (4199)" [label=20]
+	"Arthur Harvey (4948)" -> "Douglas Croker (4949)" [label=30]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Salam El-Merebi (4632)_Rankin_2007" {
+	graph [label="Rankin 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Salam El-Merebi (4632)" [label="Salam El-Merebi (4632)
+Democrats"]
+	"Liam Tjia (4631)" [label="Liam Tjia (4631)
+LDP"]
+	"Robert Meyers (4633)" [label="Robert Meyers (4633)
+Citizens Electoral Council"]
+	"Liam Tjia (4631)" -> "Salam El-Merebi (4632)" [label=26]
+	"Robert Meyers (4633)" -> "Liam Tjia (4631)" [label=6]
+	"Robert Meyers (4633)" -> "Salam El-Merebi (4632)" [label=94]
+}

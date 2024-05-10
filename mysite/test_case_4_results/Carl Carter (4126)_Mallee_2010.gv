@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Carl Carter (4126)_Mallee_2010" {
+	graph [label="Mallee 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carl Carter (4126)" [label="Carl Carter (4126)
+Family First"]
+}

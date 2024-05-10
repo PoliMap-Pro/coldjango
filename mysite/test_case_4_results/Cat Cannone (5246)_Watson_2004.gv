@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Cat Cannone (5246)_Watson_2004" {
+	graph [label="Watson 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cat Cannone (5246)" [label="Cat Cannone (5246)
+Family First"]
+	"John Coleman (5247)" [label="John Coleman (5247)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Garry Dalrymple (5248)" [label="Garry Dalrymple (5248)
+Australian Democrats"]
+	"Ron Poulsen (5250)" [label="Ron Poulsen (5250)
+"]
+	"John Coleman (5247)" -> "Cat Cannone (5246)" [label=391]
+	"Garry Dalrymple (5248)" -> "John Coleman (5247)" [label=102]
+	"Ron Poulsen (5250)" -> "Garry Dalrymple (5248)" [label=33]
+	"Garry Dalrymple (5248)" -> "Cat Cannone (5246)" [label=111]
+	"Ron Poulsen (5250)" -> "Cat Cannone (5246)" [label=57]
+	"Ron Poulsen (5250)" -> "John Coleman (5247)" [label=37]
+}

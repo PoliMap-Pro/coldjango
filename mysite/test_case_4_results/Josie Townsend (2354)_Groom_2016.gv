@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Josie Townsend (2354)_Groom_2016" {
+	graph [label="Groom 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Josie Townsend (2354)" [label="Josie Townsend (2354)
+Nick Xenophon Team"]
+	"Antonia Van Geuns (2355)" [label="Antonia Van Geuns (2355)
+The Greens"]
+	"Antonia Van Geuns (2355)" -> "Josie Townsend (2354)" [label=1266]
+}

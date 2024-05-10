@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Harold Paul (5628)_McMillan_2004" {
+	graph [label="McMillan 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"Harold Paul (5628)" [label="Harold Paul (5628)
+Family First"]
+	"A R Gizycki De Gozdawa (5621)" [label="A R Gizycki De Gozdawa (5621)
+One Nation"]
+	"Julie Grant (5624)" [label="Julie Grant (5624)
+Democrats"]
+	"Greg Byrne (5627)" [label="Greg Byrne (5627)
+D.L.P. - Democratic Labor Party"]
+	"Graeme Reid (5622)" [label="Graeme Reid (5622)
+Citizens Electoral Council"]
+	"A R Gizycki De Gozdawa (5621)" -> "Harold Paul (5628)" [label=126]
+	"Julie Grant (5624)" -> "A R Gizycki De Gozdawa (5621)" [label=31]
+	"Greg Byrne (5627)" -> "Julie Grant (5624)" [label=13]
+	"Graeme Reid (5622)" -> "Greg Byrne (5627)" [label=4]
+	"Julie Grant (5624)" -> "Harold Paul (5628)" [label=27]
+	"Greg Byrne (5627)" -> "Harold Paul (5628)" [label=47]
+	"Graeme Reid (5622)" -> "Harold Paul (5628)" [label=6]
+	"Graeme Reid (5622)" -> "Julie Grant (5624)" [label=8]
+	"Greg Byrne (5627)" -> "A R Gizycki De Gozdawa (5621)" [label=21]
+	"Graeme Reid (5622)" -> "A R Gizycki De Gozdawa (5621)" [label=36]
+}

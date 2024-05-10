@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Steve Karaitiana (308)_Riverina_2022" {
+	graph [label="Riverina 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steve Karaitiana (308)" [label="Steve Karaitiana (308)
+Shooters, Fishers and Farmers Party"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Darren Ciavarella (310)" [label="Darren Ciavarella (310)
+Independent"]
+	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
+United Australia Party"]
+	"Michael Organ (312)" -> "Steve Karaitiana (308)" [label=673]
+	"Darren Ciavarella (310)" -> "Michael Organ (312)" [label=500]
+	"Daniel Martelozzo (307)" -> "Darren Ciavarella (310)" [label=179]
+	"Darren Ciavarella (310)" -> "Steve Karaitiana (308)" [label=507]
+	"Daniel Martelozzo (307)" -> "Steve Karaitiana (308)" [label=361]
+	"Daniel Martelozzo (307)" -> "Michael Organ (312)" [label=88]
+}

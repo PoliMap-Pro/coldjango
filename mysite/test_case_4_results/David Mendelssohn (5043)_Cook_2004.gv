@@ -1,0 +1,10 @@
+// House preference flow
+digraph "David Mendelssohn (5043)_Cook_2004" {
+	graph [label="Cook 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Mendelssohn (5043)" [label="David Mendelssohn (5043)
+Australian Democrats"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Graeme Strang (2848)" -> "David Mendelssohn (5043)" [label=54]
+}

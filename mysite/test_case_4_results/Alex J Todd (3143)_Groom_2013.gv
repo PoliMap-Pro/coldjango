@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Alex J Todd (3143)_Groom_2013" {
+	graph [label="Groom 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alex J Todd (3143)" [label="Alex J Todd (3143)
+Family First"]
+	"Rick Armitage (3141)" [label="Rick Armitage (3141)
+Rise Up Australia Party"]
+	"Robert Henry Thies (3136)" [label="Robert Henry Thies (3136)
+Citizens Electoral Council"]
+	"Rick Armitage (3141)" -> "Alex J Todd (3143)" [label=564]
+	"Robert Henry Thies (3136)" -> "Rick Armitage (3141)" [label=54]
+	"Robert Henry Thies (3136)" -> "Alex J Todd (3143)" [label=64]
+}

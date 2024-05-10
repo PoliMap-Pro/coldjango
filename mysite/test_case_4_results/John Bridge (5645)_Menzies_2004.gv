@@ -1,0 +1,14 @@
+// House preference flow
+digraph "John Bridge (5645)_Menzies_2004" {
+	graph [label="Menzies 2004" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Bridge (5645)" [label="John Bridge (5645)
+Family First"]
+	"Anne Page (5646)" [label="Anne Page (5646)
+Democrats"]
+	"Jordon Davidson (5644)" [label="Jordon Davidson (5644)
+Citizens Electoral Council"]
+	"Anne Page (5646)" -> "John Bridge (5645)" [label=152]
+	"Jordon Davidson (5644)" -> "Anne Page (5646)" [label=38]
+	"Jordon Davidson (5644)" -> "John Bridge (5645)" [label=83]
+}

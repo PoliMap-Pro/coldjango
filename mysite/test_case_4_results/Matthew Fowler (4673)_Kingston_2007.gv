@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Matthew Fowler (4673)_Kingston_2007" {
+	graph [label="Kingston 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Barry J Becker (4671)" -> "Matthew Fowler (4673)" [label=109]
+	"Alex Kusznir (4675)" -> "Barry J Becker (4671)" [label=138]
+	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
+	"Alex Kusznir (4675)" -> "Matthew Fowler (4673)" [label=36]
+	"Lachlan Peter Smith (4676)" -> "Matthew Fowler (4673)" [label=13]
+	"Lachlan Peter Smith (4676)" -> "Barry J Becker (4671)" [label=24]
+}
