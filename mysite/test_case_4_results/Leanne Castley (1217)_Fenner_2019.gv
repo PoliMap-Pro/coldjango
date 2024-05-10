@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Leanne Castley (1217)_Fenner_2019" {
+	graph [label="Fenner 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leanne Castley (1217)" [label="Leanne Castley (1217)
+Liberal"]
+	"Andrew Braddock (1216)" [label="Andrew Braddock (1216)
+The Greens"]
+	"Glen J Hodgson (1214)" [label="Glen J Hodgson (1214)
+United Australia Party"]
+	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
+Australian Progressives"]
+	"Andrew Braddock (1216)" -> "Leanne Castley (1217)" [label=2066]
+	"Glen J Hodgson (1214)" -> "Andrew Braddock (1216)" [label=1205]
+	"Kagiso Ratlhagane (1215)" -> "Glen J Hodgson (1214)" [label=364]
+	"Glen J Hodgson (1214)" -> "Leanne Castley (1217)" [label=1856]
+	"Kagiso Ratlhagane (1215)" -> "Leanne Castley (1217)" [label=224]
+	"Kagiso Ratlhagane (1215)" -> "Andrew Braddock (1216)" [label=707]
+}

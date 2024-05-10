@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Darryl Briskey (3064)_Bowman_2013" {
+	graph [label="Bowman 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Darryl Briskey (3064)" [label="Darryl Briskey (3064)
+Australian Labor Party"]
+	"John Charles Wayne (3066)" [label="John Charles Wayne (3066)
+Palmer United Party"]
+	"Penny Allman-Payne (3065)" [label="Penny Allman-Payne (3065)
+The Greens"]
+	"Andrew O'Shea (3063)" [label="Andrew O'Shea (3063)
+Family First"]
+	"John Charles Wayne (3066)" -> "Darryl Briskey (3064)" [label=6237]
+	"Penny Allman-Payne (3065)" -> "John Charles Wayne (3066)" [label=1338]
+	"Andrew O'Shea (3063)" -> "Penny Allman-Payne (3065)" [label=262]
+	"Penny Allman-Payne (3065)" -> "Darryl Briskey (3064)" [label=3249]
+	"Andrew O'Shea (3063)" -> "Darryl Briskey (3064)" [label=302]
+	"Andrew O'Shea (3063)" -> "John Charles Wayne (3066)" [label=433]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Neil Gordon Smith (2214)_Richmond_2016" {
+	graph [label="Richmond 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
+Pauline Hanson's One Nation"]
+	"Angela Pollard (2213)" [label="Angela Pollard (2213)
+Animal Justice Party"]
+	"Russell Kilarney (2216)" [label="Russell Kilarney (2216)
+Christian Democratic Party (Fred Nile Group)"]
+	"Angela Pollard (2213)" -> "Neil Gordon Smith (2214)" [label=932]
+	"Russell Kilarney (2216)" -> "Angela Pollard (2213)" [label=132]
+	"Russell Kilarney (2216)" -> "Neil Gordon Smith (2214)" [label=289]
+}

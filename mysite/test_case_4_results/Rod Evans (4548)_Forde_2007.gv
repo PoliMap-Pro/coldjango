@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rod Evans (4548)_Forde_2007" {
+	graph [label="Forde 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rod Evans (4548)" [label="Rod Evans (4548)
+One Nation WA"]
+	"Chris Coyle (4549)" [label="Chris Coyle (4549)
+Independent"]
+	"Maaz Syed (4546)" [label="Maaz Syed (4546)
+Democrats"]
+	"Danny Hope (4544)" [label="Danny Hope (4544)
+Citizens Electoral Council"]
+	"Chris Coyle (4549)" -> "Rod Evans (4548)" [label=110]
+	"Maaz Syed (4546)" -> "Chris Coyle (4549)" [label=59]
+	"Danny Hope (4544)" -> "Maaz Syed (4546)" [label=30]
+	"Maaz Syed (4546)" -> "Rod Evans (4548)" [label=29]
+	"Danny Hope (4544)" -> "Rod Evans (4548)" [label=15]
+	"Danny Hope (4544)" -> "Chris Coyle (4549)" [label=10]
+}

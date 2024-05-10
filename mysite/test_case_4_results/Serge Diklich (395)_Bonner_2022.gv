@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Serge Diklich (395)_Bonner_2022" {
+	graph [label="Bonner 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Serge Diklich (395)" [label="Serge Diklich (395)
+United Australia Party"]
+}

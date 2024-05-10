@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Simon Kennedy (35)_Bennelong_2022" {
+	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Simon Kennedy (35)" [label="Simon Kennedy (35)
+Liberal"]
+	"Tony Adams (33)" [label="Tony Adams (33)
+The Greens"]
+	"Rhys Ian Collyer (36)" [label="Rhys Ian Collyer (36)
+United Australia Party"]
+	"John August (32)" [label="John August (32)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Pauline Hanson's One Nation"]
+	"Dougal Cameron (34)" [label="Dougal Cameron (34)
+Liberal Democrats"]
+	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
+Democratic Alliance"]
+	"Tony Adams (33)" -> "Simon Kennedy (35)" [label=3331]
+	"Rhys Ian Collyer (36)" -> "Tony Adams (33)" [label=1094]
+	"John August (32)" -> "Rhys Ian Collyer (36)" [label=283]
+	"Victor Waterson (37)" -> "John August (32)" [label=166]
+	"Dougal Cameron (34)" -> "Victor Waterson (37)" [label=320]
+	"Kyinzom Dhongdue (39)" -> "Dougal Cameron (34)" [label=73]
+	"Rhys Ian Collyer (36)" -> "Simon Kennedy (35)" [label=2767]
+	"John August (32)" -> "Simon Kennedy (35)" [label=278]
+	"Victor Waterson (37)" -> "Simon Kennedy (35)" [label=361]
+	"Dougal Cameron (34)" -> "Simon Kennedy (35)" [label=671]
+	"Kyinzom Dhongdue (39)" -> "Simon Kennedy (35)" [label=233]
+	"Kyinzom Dhongdue (39)" -> "Victor Waterson (37)" [label=47]
+	"Dougal Cameron (34)" -> "John August (32)" [label=82]
+	"Kyinzom Dhongdue (39)" -> "John August (32)" [label=202]
+	"Victor Waterson (37)" -> "Rhys Ian Collyer (36)" [label=1225]
+	"Dougal Cameron (34)" -> "Rhys Ian Collyer (36)" [label=181]
+	"Kyinzom Dhongdue (39)" -> "Rhys Ian Collyer (36)" [label=82]
+	"John August (32)" -> "Tony Adams (33)" [label=1614]
+	"Victor Waterson (37)" -> "Tony Adams (33)" [label=111]
+	"Dougal Cameron (34)" -> "Tony Adams (33)" [label=188]
+	"Kyinzom Dhongdue (39)" -> "Tony Adams (33)" [label=260]
+}

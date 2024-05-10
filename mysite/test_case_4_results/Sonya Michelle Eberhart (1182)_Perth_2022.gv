@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Sonya Michelle Eberhart (1182)_Perth_2022" {
+	graph [label="Perth 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sonya Michelle Eberhart (1182)" [label="Sonya Michelle Eberhart (1182)
+United Australia Party"]
+	"Dean Powell (1176)" [label="Dean Powell (1176)
+Australian Christians"]
+	"Sarah Szmekura-Moor (1179)" [label="Sarah Szmekura-Moor (1179)
+Animal Justice Party"]
+	"Evan Nickols (1181)" [label="Evan Nickols (1181)
+Liberal Democrats"]
+	"Aiden Gyuru (1185)" [label="Aiden Gyuru (1185)
+Australian Federation Party"]
+	"Sean Connor (1177)" [label="Sean Connor (1177)
+The Great Australian Party"]
+	"Dean Powell (1176)" -> "Sonya Michelle Eberhart (1182)" [label=292]
+	"Sarah Szmekura-Moor (1179)" -> "Dean Powell (1176)" [label=72]
+	"Evan Nickols (1181)" -> "Sarah Szmekura-Moor (1179)" [label=69]
+	"Aiden Gyuru (1185)" -> "Evan Nickols (1181)" [label=198]
+	"Sean Connor (1177)" -> "Aiden Gyuru (1185)" [label=178]
+	"Sarah Szmekura-Moor (1179)" -> "Sonya Michelle Eberhart (1182)" [label=88]
+	"Evan Nickols (1181)" -> "Sonya Michelle Eberhart (1182)" [label=204]
+	"Aiden Gyuru (1185)" -> "Sonya Michelle Eberhart (1182)" [label=125]
+	"Sean Connor (1177)" -> "Sonya Michelle Eberhart (1182)" [label=91]
+	"Sean Connor (1177)" -> "Evan Nickols (1181)" [label=19]
+	"Aiden Gyuru (1185)" -> "Sarah Szmekura-Moor (1179)" [label=71]
+	"Sean Connor (1177)" -> "Sarah Szmekura-Moor (1179)" [label=36]
+	"Evan Nickols (1181)" -> "Dean Powell (1176)" [label=143]
+	"Aiden Gyuru (1185)" -> "Dean Powell (1176)" [label=75]
+	"Sean Connor (1177)" -> "Dean Powell (1176)" [label=65]
+}

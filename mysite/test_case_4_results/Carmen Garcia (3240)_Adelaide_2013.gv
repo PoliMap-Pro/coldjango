@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Carmen Garcia (3240)_Adelaide_2013" {
+	graph [label="Adelaide 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carmen Garcia (3240)" [label="Carmen Garcia (3240)
+Liberal"]
+	"Ruth Beach (3242)" [label="Ruth Beach (3242)
+Australian Greens"]
+	"Peter Lee (3241)" [label="Peter Lee (3241)
+Family First"]
+	"Vincent Scali (3239)" [label="Vincent Scali (3239)
+Palmer United Party"]
+	"Liah Lazarou (3238)" [label="Liah Lazarou (3238)
+Socialist Alliance"]
+	"Ruth Beach (3242)" -> "Carmen Garcia (3240)" [label=1713]
+	"Peter Lee (3241)" -> "Ruth Beach (3242)" [label=736]
+	"Vincent Scali (3239)" -> "Peter Lee (3241)" [label=428]
+	"Liah Lazarou (3238)" -> "Vincent Scali (3239)" [label=120]
+	"Peter Lee (3241)" -> "Carmen Garcia (3240)" [label=1197]
+	"Vincent Scali (3239)" -> "Carmen Garcia (3240)" [label=689]
+	"Liah Lazarou (3238)" -> "Carmen Garcia (3240)" [label=56]
+	"Liah Lazarou (3238)" -> "Peter Lee (3241)" [label=32]
+	"Vincent Scali (3239)" -> "Ruth Beach (3242)" [label=290]
+	"Liah Lazarou (3238)" -> "Ruth Beach (3242)" [label=313]
+}

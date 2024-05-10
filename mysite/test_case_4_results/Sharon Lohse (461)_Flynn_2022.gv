@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Sharon Lohse (461)_Flynn_2022" {
+	graph [label="Flynn 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sharon Lohse (461)" [label="Sharon Lohse (461)
+Pauline Hanson's One Nation"]
+	"Tanya Maree Wieden (463)" [label="Tanya Maree Wieden (463)
+United Australia Party"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+Queensland Greens"]
+	"Carla Svendsen (460)" [label="Carla Svendsen (460)
+The Great Australian Party"]
+	"Tanya Maree Wieden (463)" -> "Sharon Lohse (461)" [label=5857]
+	"Duncan Scott (462)" -> "Tanya Maree Wieden (463)" [label=1346]
+	"Paul Bambrick (459)" -> "Duncan Scott (462)" [label=809]
+	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
+	"Duncan Scott (462)" -> "Sharon Lohse (461)" [label=1592]
+	"Paul Bambrick (459)" -> "Sharon Lohse (461)" [label=436]
+	"Carla Svendsen (460)" -> "Sharon Lohse (461)" [label=842]
+	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
+	"Paul Bambrick (459)" -> "Tanya Maree Wieden (463)" [label=202]
+	"Carla Svendsen (460)" -> "Tanya Maree Wieden (463)" [label=407]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Megan Pikett (5083)_Gilmore_2004" {
+	graph [label="Gilmore 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Megan Pikett (5083)" [label="Megan Pikett (5083)
+Australian Labor Party"]
+	"Ben Van Der Wijngaart (5084)" [label="Ben Van Der Wijngaart (5084)
+The Greens"]
+	"Paul Green (5082)" [label="Paul Green (5082)
+Christian Democratic Party (Fred Nile Group)"]
+	"Col Harding (5081)" [label="Col Harding (5081)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Jean Mcclung (5085)" [label="Jean Mcclung (5085)
+Citizens Electoral Council"]
+	"Ben Van Der Wijngaart (5084)" -> "Megan Pikett (5083)" [label=5589]
+	"Paul Green (5082)" -> "Ben Van Der Wijngaart (5084)" [label=373]
+	"Col Harding (5081)" -> "Paul Green (5082)" [label=612]
+	"Jean Mcclung (5085)" -> "Col Harding (5081)" [label=25]
+	"Paul Green (5082)" -> "Megan Pikett (5083)" [label=1113]
+	"Col Harding (5081)" -> "Megan Pikett (5083)" [label=411]
+	"Jean Mcclung (5085)" -> "Megan Pikett (5083)" [label=33]
+	"Jean Mcclung (5085)" -> "Paul Green (5082)" [label=23]
+	"Col Harding (5081)" -> "Ben Van Der Wijngaart (5084)" [label=187]
+	"Jean Mcclung (5085)" -> "Ben Van Der Wijngaart (5084)" [label=45]
+}

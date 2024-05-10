@@ -1,0 +1,32 @@
+// House preference flow
+digraph "David Bradbury (2914)_Lindsay_2010" {
+	graph [label="Lindsay 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Bradbury (2914)" [label="David Bradbury (2914)
+Labor"]
+	"Suzie Wright (3776)" [label="Suzie Wright (3776)
+The Greens"]
+	"Andrew Green (2915)" [label="Andrew Green (2915)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Independent"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Family First"]
+	"Mick Saunders (2912)" [label="Mick Saunders (2912)
+Australia First Party"]
+	"Suzie Wright (3776)" -> "David Bradbury (2914)" [label=3690]
+	"Andrew Green (2915)" -> "Suzie Wright (3776)" [label=646]
+	"Geoff Brown (1340)" -> "Andrew Green (2915)" [label=527]
+	"John Phillips (3775)" -> "Geoff Brown (1340)" [label=228]
+	"Mick Saunders (2912)" -> "John Phillips (3775)" [label=187]
+	"Andrew Green (2915)" -> "David Bradbury (2914)" [label=799]
+	"Geoff Brown (1340)" -> "David Bradbury (2914)" [label=577]
+	"John Phillips (3775)" -> "David Bradbury (2914)" [label=242]
+	"Mick Saunders (2912)" -> "David Bradbury (2914)" [label=162]
+	"Mick Saunders (2912)" -> "Geoff Brown (1340)" [label=328]
+	"John Phillips (3775)" -> "Andrew Green (2915)" [label=233]
+	"Mick Saunders (2912)" -> "Andrew Green (2915)" [label=96]
+	"Geoff Brown (1340)" -> "Suzie Wright (3776)" [label=614]
+	"John Phillips (3775)" -> "Suzie Wright (3776)" [label=300]
+	"Mick Saunders (2912)" -> "Suzie Wright (3776)" [label=56]
+}

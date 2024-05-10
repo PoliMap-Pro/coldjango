@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Matt Thistlethwaite (178)_Kingsford Smith_2013" {
+	graph [label="Kingsford Smith 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Matt Thistlethwaite (178)" [label="Matt Thistlethwaite (178)
+Labor"]
+	"James Macdonald (2132)" [label="James Macdonald (2132)
+The Greens"]
+	"Diane Olga Happ (559)" [label="Diane Olga Happ (559)
+Palmer United Party"]
+	"Jacquie Shiha (2908)" [label="Jacquie Shiha (2908)
+Christian Democratic Party (Fred Nile Group)"]
+	"Geordie Lucas (2910)" [label="Geordie Lucas (2910)
+Future Party"]
+	"Danielle Somerfield (2909)" [label="Danielle Somerfield (2909)
+Rise Up Australia Party"]
+	"James Macdonald (2132)" -> "Matt Thistlethwaite (178)" [label=7723]
+	"Diane Olga Happ (559)" -> "James Macdonald (2132)" [label=524]
+	"Jacquie Shiha (2908)" -> "Diane Olga Happ (559)" [label=196]
+	"Geordie Lucas (2910)" -> "Jacquie Shiha (2908)" [label=62]
+	"Danielle Somerfield (2909)" -> "Geordie Lucas (2910)" [label=66]
+	"Diane Olga Happ (559)" -> "Matt Thistlethwaite (178)" [label=698]
+	"Jacquie Shiha (2908)" -> "Matt Thistlethwaite (178)" [label=630]
+	"Geordie Lucas (2910)" -> "Matt Thistlethwaite (178)" [label=126]
+	"Danielle Somerfield (2909)" -> "Matt Thistlethwaite (178)" [label=57]
+	"Danielle Somerfield (2909)" -> "Jacquie Shiha (2908)" [label=93]
+	"Geordie Lucas (2910)" -> "Diane Olga Happ (559)" [label=119]
+	"Danielle Somerfield (2909)" -> "Diane Olga Happ (559)" [label=57]
+	"Jacquie Shiha (2908)" -> "James Macdonald (2132)" [label=125]
+	"Geordie Lucas (2910)" -> "James Macdonald (2132)" [label=348]
+	"Danielle Somerfield (2909)" -> "James Macdonald (2132)" [label=26]
+}

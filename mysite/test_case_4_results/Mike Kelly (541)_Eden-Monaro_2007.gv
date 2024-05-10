@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Mike Kelly (541)_Eden-Monaro_2007" {
+	graph [label="Eden-Monaro 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Mike Kelly (541)" [label="Mike Kelly (541)
+Labor"]
+	"Keith Hughes (4302)" [label="Keith Hughes (4302)
+The Greens"]
+	"Acacia Rose (4298)" [label="Acacia Rose (4298)
+Independent"]
+	"Matthew J Chivers (4299)" [label="Matthew J Chivers (4299)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Robert Harris (4300)" [label="Peter Robert Harris (4300)
+Family First"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+LDP"]
+	"Keith Hughes (4302)" -> "Mike Kelly (541)" [label=6034]
+	"Acacia Rose (4298)" -> "Keith Hughes (4302)" [label=671]
+	"Matthew J Chivers (4299)" -> "Acacia Rose (4298)" [label=142]
+	"Peter Robert Harris (4300)" -> "Matthew J Chivers (4299)" [label=168]
+	"Tim Quilty (2636)" -> "Peter Robert Harris (4300)" [label=19]
+	"Acacia Rose (4298)" -> "Mike Kelly (541)" [label=1023]
+	"Matthew J Chivers (4299)" -> "Mike Kelly (541)" [label=219]
+	"Peter Robert Harris (4300)" -> "Mike Kelly (541)" [label=153]
+	"Tim Quilty (2636)" -> "Mike Kelly (541)" [label=54]
+	"Tim Quilty (2636)" -> "Matthew J Chivers (4299)" [label=8]
+	"Peter Robert Harris (4300)" -> "Acacia Rose (4298)" [label=96]
+	"Tim Quilty (2636)" -> "Acacia Rose (4298)" [label=51]
+	"Matthew J Chivers (4299)" -> "Keith Hughes (4302)" [label=89]
+	"Peter Robert Harris (4300)" -> "Keith Hughes (4302)" [label=89]
+	"Tim Quilty (2636)" -> "Keith Hughes (4302)" [label=50]
+}

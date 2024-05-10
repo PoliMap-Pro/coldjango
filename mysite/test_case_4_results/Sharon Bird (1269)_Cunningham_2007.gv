@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Sharon Bird (1269)_Cunningham_2007" {
+	graph [label="Cunningham 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sharon Bird (1269)" [label="Sharon Bird (1269)
+Labor"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Nolene Norsworthy (3782)" [label="Nolene Norsworthy (3782)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jemma Tribe (4291)" [label="Jemma Tribe (4291)
+Family First"]
+	"Jess Moore (3721)" [label="Jess Moore (3721)
+Socialist Alliance"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Michael Organ (312)" -> "Sharon Bird (1269)" [label=11298]
+	"Nolene Norsworthy (3782)" -> "Michael Organ (312)" [label=462]
+	"Jemma Tribe (4291)" -> "Nolene Norsworthy (3782)" [label=397]
+	"Jess Moore (3721)" -> "Jemma Tribe (4291)" [label=87]
+	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=44]
+	"Nolene Norsworthy (3782)" -> "Sharon Bird (1269)" [label=728]
+	"Jemma Tribe (4291)" -> "Sharon Bird (1269)" [label=297]
+	"Jess Moore (3721)" -> "Sharon Bird (1269)" [label=118]
+	"John Flanagan (1270)" -> "Sharon Bird (1269)" [label=106]
+	"John Flanagan (1270)" -> "Jemma Tribe (4291)" [label=80]
+	"Jess Moore (3721)" -> "Nolene Norsworthy (3782)" [label=47]
+	"John Flanagan (1270)" -> "Nolene Norsworthy (3782)" [label=105]
+	"Jemma Tribe (4291)" -> "Michael Organ (312)" [label=364]
+	"Jess Moore (3721)" -> "Michael Organ (312)" [label=472]
+	"John Flanagan (1270)" -> "Michael Organ (312)" [label=79]
+}

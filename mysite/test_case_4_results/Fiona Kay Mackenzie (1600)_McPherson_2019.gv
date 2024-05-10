@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Fiona Kay Mackenzie (1600)_McPherson_2019" {
+	graph [label="McPherson 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Fiona Kay Mackenzie (1600)" [label="Fiona Kay Mackenzie (1600)
+United Australia Party"]
+	"Renee Stewart (1599)" [label="Renee Stewart (1599)
+Animal Justice Party"]
+	"Michael Kaff (1596)" [label="Michael Kaff (1596)
+Independent"]
+	"Sean Gordon Gaffy (1598)" [label="Sean Gordon Gaffy (1598)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Renee Stewart (1599)" -> "Fiona Kay Mackenzie (1600)" [label=293]
+	"Michael Kaff (1596)" -> "Renee Stewart (1599)" [label=287]
+	"Sean Gordon Gaffy (1598)" -> "Michael Kaff (1596)" [label=50]
+	"Michael Kaff (1596)" -> "Fiona Kay Mackenzie (1600)" [label=125]
+	"Sean Gordon Gaffy (1598)" -> "Fiona Kay Mackenzie (1600)" [label=114]
+	"Sean Gordon Gaffy (1598)" -> "Renee Stewart (1599)" [label=57]
+}

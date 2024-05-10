@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Anthony Byrne (1825)_Holt_2010" {
+	graph [label="Holt 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anthony Byrne (1825)" [label="Anthony Byrne (1825)
+Australian Labor Party"]
+	"Frank Di Mascolo (4095)" [label="Frank Di Mascolo (4095)
+Australian Greens"]
+	"Ian George (4097)" [label="Ian George (4097)
+Family First"]
+	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
+Secular Party of Australia"]
+	"Frank Di Mascolo (4095)" -> "Anthony Byrne (1825)" [label=6694]
+	"Ian George (4097)" -> "Frank Di Mascolo (4095)" [label=1259]
+	"Mark Hitchins (4096)" -> "Ian George (4097)" [label=209]
+	"Ian George (4097)" -> "Anthony Byrne (1825)" [label=1589]
+	"Mark Hitchins (4096)" -> "Anthony Byrne (1825)" [label=131]
+	"Mark Hitchins (4096)" -> "Frank Di Mascolo (4095)" [label=229]
+}

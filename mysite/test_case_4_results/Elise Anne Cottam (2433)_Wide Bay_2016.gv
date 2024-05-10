@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Elise Anne Cottam (2433)_Wide Bay_2016" {
+	graph [label="Wide Bay 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Elise Anne Cottam (2433)" [label="Elise Anne Cottam (2433)
+Pauline Hanson's One Nation"]
+	"Bron Marsh (2435)" [label="Bron Marsh (2435)
+The Greens"]
+	"Jannean Dean (2432)" [label="Jannean Dean (2432)
+Glenn Lazarus Team"]
+	"Bruce Mayer (2436)" [label="Bruce Mayer (2436)
+Family First"]
+	"Barry Cook (2437)" [label="Barry Cook (2437)
+Katter's Australian Party"]
+	"Bron Marsh (2435)" -> "Elise Anne Cottam (2433)" [label=1638]
+	"Jannean Dean (2432)" -> "Bron Marsh (2435)" [label=651]
+	"Bruce Mayer (2436)" -> "Jannean Dean (2432)" [label=405]
+	"Barry Cook (2437)" -> "Bruce Mayer (2436)" [label=432]
+	"Jannean Dean (2432)" -> "Elise Anne Cottam (2433)" [label=2667]
+	"Bruce Mayer (2436)" -> "Elise Anne Cottam (2433)" [label=829]
+	"Barry Cook (2437)" -> "Elise Anne Cottam (2433)" [label=800]
+	"Barry Cook (2437)" -> "Jannean Dean (2432)" [label=418]
+	"Bruce Mayer (2436)" -> "Bron Marsh (2435)" [label=595]
+	"Barry Cook (2437)" -> "Bron Marsh (2435)" [label=178]
+}

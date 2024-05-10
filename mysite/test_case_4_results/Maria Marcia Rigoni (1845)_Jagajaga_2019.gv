@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Maria Marcia Rigoni (1845)_Jagajaga_2019" {
+	graph [label="Jagajaga 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
+United Australia Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Jeff Truscott (1846)" -> "Maria Marcia Rigoni (1845)" [label=567]
+}

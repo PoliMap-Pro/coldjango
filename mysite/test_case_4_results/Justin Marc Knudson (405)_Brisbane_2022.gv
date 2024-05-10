@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Justin Marc Knudson (405)_Brisbane_2022" {
+	graph [label="Brisbane 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Justin Marc Knudson (405)" [label="Justin Marc Knudson (405)
+United Australia Party"]
+	"Tiana Kennedy (404)" [label="Tiana Kennedy (404)
+Animal Justice Party"]
+	"Anthony Bull (410)" [label="Anthony Bull (410)
+Liberal Democrats"]
+	"Tiana Kennedy (404)" -> "Justin Marc Knudson (405)" [label=423]
+	"Anthony Bull (410)" -> "Tiana Kennedy (404)" [label=133]
+	"Anthony Bull (410)" -> "Justin Marc Knudson (405)" [label=266]
+}

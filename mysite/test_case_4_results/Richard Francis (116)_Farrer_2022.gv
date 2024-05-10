@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Richard Francis (116)_Farrer_2022" {
+	graph [label="Farrer 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Francis (116)" [label="Richard Francis (116)
+Pauline Hanson's One Nation"]
+	"Eli Davern (111)" [label="Eli Davern (111)
+The Greens"]
+	"Paul Britton (114)" [label="Paul Britton (114)
+Shooters, Fishers and Farmers Party"]
+	"Julie Ramos (117)" [label="Julie Ramos (117)
+United Australia Party"]
+	"Amanda Duncan-Strelec (113)" [label="Amanda Duncan-Strelec (113)
+Independent"]
+	"Ian Christopher Roworth (115)" [label="Ian Christopher Roworth (115)
+Liberal Democrats"]
+	"Eli Davern (111)" -> "Richard Francis (116)" [label=1247]
+	"Paul Britton (114)" -> "Eli Davern (111)" [label=799]
+	"Julie Ramos (117)" -> "Paul Britton (114)" [label=689]
+	"Amanda Duncan-Strelec (113)" -> "Julie Ramos (117)" [label=238]
+	"Ian Christopher Roworth (115)" -> "Amanda Duncan-Strelec (113)" [label=125]
+	"Paul Britton (114)" -> "Richard Francis (116)" [label=3003]
+	"Julie Ramos (117)" -> "Richard Francis (116)" [label=1914]
+	"Amanda Duncan-Strelec (113)" -> "Richard Francis (116)" [label=375]
+	"Ian Christopher Roworth (115)" -> "Richard Francis (116)" [label=453]
+	"Ian Christopher Roworth (115)" -> "Julie Ramos (117)" [label=249]
+	"Amanda Duncan-Strelec (113)" -> "Paul Britton (114)" [label=754]
+	"Ian Christopher Roworth (115)" -> "Paul Britton (114)" [label=231]
+	"Julie Ramos (117)" -> "Eli Davern (111)" [label=238]
+	"Amanda Duncan-Strelec (113)" -> "Eli Davern (111)" [label=699]
+	"Ian Christopher Roworth (115)" -> "Eli Davern (111)" [label=73]
+}

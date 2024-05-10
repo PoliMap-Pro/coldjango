@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tennille Murtagh (1721)_Lyons_2019" {
+	graph [label="Lyons 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tennille Murtagh (1721)" [label="Tennille Murtagh (1721)
+Pauline Hanson's One Nation"]
+	"Gary Whisson (1720)" [label="Gary Whisson (1720)
+The Greens"]
+	"Michael Warne (1723)" [label="Michael Warne (1723)
+United Australia Party"]
+	"Gary Whisson (1720)" -> "Tennille Murtagh (1721)" [label=445]
+	"Michael Warne (1723)" -> "Gary Whisson (1720)" [label=204]
+	"Michael Warne (1723)" -> "Tennille Murtagh (1721)" [label=1664]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bailey James Maher (1581)_Longman_2019" {
+	graph [label="Longman 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bailey James Maher (1581)" [label="Bailey James Maher (1581)
+United Australia Party"]
+	"Dave Paulke (1586)" [label="Dave Paulke (1586)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Keith Schuback (1584)" [label="Peter Keith Schuback (1584)
+Australia First Party"]
+	"Jono Young (1582)" [label="Jono Young (1582)
+Australian Progressives"]
+	"Dave Paulke (1586)" -> "Bailey James Maher (1581)" [label=329]
+	"Peter Keith Schuback (1584)" -> "Dave Paulke (1586)" [label=164]
+	"Jono Young (1582)" -> "Peter Keith Schuback (1584)" [label=136]
+	"Peter Keith Schuback (1584)" -> "Bailey James Maher (1581)" [label=183]
+	"Jono Young (1582)" -> "Bailey James Maher (1581)" [label=118]
+	"Jono Young (1582)" -> "Dave Paulke (1586)" [label=118]
+}

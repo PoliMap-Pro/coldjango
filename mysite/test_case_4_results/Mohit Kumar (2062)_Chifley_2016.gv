@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Mohit Kumar (2062)_Chifley_2016" {
+	graph [label="Chifley 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mohit Kumar (2062)" [label="Mohit Kumar (2062)
+Liberal"]
+	"Joshua Green (2061)" [label="Joshua Green (2061)
+Christian Democratic Party (Fred Nile Group)"]
+	"Eliza James (2063)" [label="Eliza James (2063)
+The Greens"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Joshua Green (2061)" -> "Mohit Kumar (2062)" [label=5854]
+	"Eliza James (2063)" -> "Joshua Green (2061)" [label=932]
+	"Ammar Khan (70)" -> "Eliza James (2063)" [label=463]
+	"Eliza James (2063)" -> "Mohit Kumar (2062)" [label=558]
+	"Ammar Khan (70)" -> "Mohit Kumar (2062)" [label=561]
+	"Ammar Khan (70)" -> "Joshua Green (2061)" [label=514]
+}

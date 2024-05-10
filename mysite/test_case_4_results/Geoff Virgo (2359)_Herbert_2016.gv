@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Geoff Virgo (2359)_Herbert_2016" {
+	graph [label="Herbert 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoff Virgo (2359)" [label="Geoff Virgo (2359)
+Pauline Hanson's One Nation"]
+	"Colin Dwyer (2357)" [label="Colin Dwyer (2357)
+Katter's Australian Party"]
+	"Wendy Tubman (2360)" [label="Wendy Tubman (2360)
+The Greens"]
+	"Michael Punshon (2356)" [label="Michael Punshon (2356)
+Family First"]
+	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
+Glenn Lazarus Team"]
+	"David Harris (2363)" [label="David Harris (2363)
+Liberal Democrats"]
+	"Martin Brewster (2358)" [label="Martin Brewster (2358)
+Palmer United Party"]
+	"Colin Dwyer (2357)" -> "Geoff Virgo (2359)" [label=5002]
+	"Wendy Tubman (2360)" -> "Colin Dwyer (2357)" [label=790]
+	"Michael Punshon (2356)" -> "Wendy Tubman (2360)" [label=351]
+	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
+	"David Harris (2363)" -> "Aaron Raffin (2362)" [label=134]
+	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
+	"Wendy Tubman (2360)" -> "Geoff Virgo (2359)" [label=603]
+	"Michael Punshon (2356)" -> "Geoff Virgo (2359)" [label=814]
+	"Aaron Raffin (2362)" -> "Geoff Virgo (2359)" [label=398]
+	"David Harris (2363)" -> "Geoff Virgo (2359)" [label=144]
+	"Martin Brewster (2358)" -> "Geoff Virgo (2359)" [label=64]
+	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
+	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
+	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
+	"Aaron Raffin (2362)" -> "Wendy Tubman (2360)" [label=207]
+	"David Harris (2363)" -> "Wendy Tubman (2360)" [label=85]
+	"Martin Brewster (2358)" -> "Wendy Tubman (2360)" [label=24]
+	"Michael Punshon (2356)" -> "Colin Dwyer (2357)" [label=1243]
+	"Aaron Raffin (2362)" -> "Colin Dwyer (2357)" [label=581]
+	"David Harris (2363)" -> "Colin Dwyer (2357)" [label=115]
+	"Martin Brewster (2358)" -> "Colin Dwyer (2357)" [label=91]
+}

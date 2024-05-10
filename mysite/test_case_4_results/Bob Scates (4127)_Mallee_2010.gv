@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Bob Scates (4127)_Mallee_2010" {
+	graph [label="Mallee 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bob Scates (4127)" [label="Bob Scates (4127)
+Australian Labor Party"]
+	"Helen Healy (2662)" [label="Helen Healy (2662)
+Australian Greens"]
+	"Carl Carter (4126)" [label="Carl Carter (4126)
+Family First"]
+	"Helen Healy (2662)" -> "Bob Scates (4127)" [label=3672]
+	"Carl Carter (4126)" -> "Helen Healy (2662)" [label=882]
+	"Carl Carter (4126)" -> "Bob Scates (4127)" [label=972]
+}

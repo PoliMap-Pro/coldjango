@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Deborah O'Neill (3001)_Robertson_2013" {
+	graph [label="Robertson 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Deborah O'Neill (3001)" [label="Deborah O'Neill (3001)
+Labor"]
+	"Lawrie Mckinna (2998)" [label="Lawrie Mckinna (2998)
+Independent"]
+	"Kate Da Costa (2999)" [label="Kate Da Costa (2999)
+The Greens"]
+	"Jake Cassar (2994)" [label="Jake Cassar (2994)
+Independent"]
+	"Steven Spencer Whitaker (2996)" [label="Steven Spencer Whitaker (2996)
+Palmer United Party"]
+	"Holly Beecham (2997)" [label="Holly Beecham (2997)
+Christian Democratic Party (Fred Nile Group)"]
+	"Douglas Mcfarland (3000)" [label="Douglas Mcfarland (3000)
+Australian Independents"]
+	"Paul Henry Sheeran (2995)" [label="Paul Henry Sheeran (2995)
+Democratic Labour Party (DLP)"]
+	"Lawrie Mckinna (2998)" -> "Deborah O'Neill (3001)" [label=5069]
+	"Kate Da Costa (2999)" -> "Lawrie Mckinna (2998)" [label=1354]
+	"Jake Cassar (2994)" -> "Kate Da Costa (2999)" [label=633]
+	"Steven Spencer Whitaker (2996)" -> "Jake Cassar (2994)" [label=391]
+	"Holly Beecham (2997)" -> "Steven Spencer Whitaker (2996)" [label=98]
+	"Douglas Mcfarland (3000)" -> "Holly Beecham (2997)" [label=44]
+	"Paul Henry Sheeran (2995)" -> "Douglas Mcfarland (3000)" [label=13]
+	"Kate Da Costa (2999)" -> "Deborah O'Neill (3001)" [label=4084]
+	"Jake Cassar (2994)" -> "Deborah O'Neill (3001)" [label=733]
+	"Steven Spencer Whitaker (2996)" -> "Deborah O'Neill (3001)" [label=505]
+	"Holly Beecham (2997)" -> "Deborah O'Neill (3001)" [label=135]
+	"Douglas Mcfarland (3000)" -> "Deborah O'Neill (3001)" [label=155]
+	"Paul Henry Sheeran (2995)" -> "Deborah O'Neill (3001)" [label=171]
+	"Paul Henry Sheeran (2995)" -> "Holly Beecham (2997)" [label=38]
+	"Douglas Mcfarland (3000)" -> "Steven Spencer Whitaker (2996)" [label=28]
+	"Paul Henry Sheeran (2995)" -> "Steven Spencer Whitaker (2996)" [label=43]
+	"Holly Beecham (2997)" -> "Jake Cassar (2994)" [label=99]
+	"Douglas Mcfarland (3000)" -> "Jake Cassar (2994)" [label=75]
+	"Paul Henry Sheeran (2995)" -> "Jake Cassar (2994)" [label=71]
+	"Steven Spencer Whitaker (2996)" -> "Kate Da Costa (2999)" [label=218]
+	"Holly Beecham (2997)" -> "Kate Da Costa (2999)" [label=93]
+	"Douglas Mcfarland (3000)" -> "Kate Da Costa (2999)" [label=59]
+	"Paul Henry Sheeran (2995)" -> "Kate Da Costa (2999)" [label=39]
+	"Jake Cassar (2994)" -> "Lawrie Mckinna (2998)" [label=890]
+	"Steven Spencer Whitaker (2996)" -> "Lawrie Mckinna (2998)" [label=517]
+	"Holly Beecham (2997)" -> "Lawrie Mckinna (2998)" [label=153]
+	"Douglas Mcfarland (3000)" -> "Lawrie Mckinna (2998)" [label=116]
+	"Paul Henry Sheeran (2995)" -> "Lawrie Mckinna (2998)" [label=34]
+}

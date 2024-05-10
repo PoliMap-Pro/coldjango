@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Deborah Swinbourn (265)_Parkes_2022" {
+	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Deborah Swinbourn (265)" [label="Deborah Swinbourn (265)
+Pauline Hanson's One Nation"]
+	"Peter Rothwell (264)" [label="Peter Rothwell (264)
+Liberal Democrats"]
+	"Derek Hardman (263)" [label="Derek Hardman (263)
+Indigenous - Aboriginal Party of Australia"]
+	"Trish Frail (270)" [label="Trish Frail (270)
+The Greens"]
+	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
+United Australia Party"]
+	"Stuart Howe (268)" [label="Stuart Howe (268)
+Independent"]
+	"Benjamin Fox (271)" [label="Benjamin Fox (271)
+Informed Medical Options Party"]
+	"Peter Rothwell (264)" -> "Deborah Swinbourn (265)" [label=3877]
+	"Derek Hardman (263)" -> "Peter Rothwell (264)" [label=1613]
+	"Trish Frail (270)" -> "Derek Hardman (263)" [label=1401]
+	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
+	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
+	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
+	"Derek Hardman (263)" -> "Deborah Swinbourn (265)" [label=1339]
+	"Trish Frail (270)" -> "Deborah Swinbourn (265)" [label=302]
+	"Petrus Van Der Steen (267)" -> "Deborah Swinbourn (265)" [label=1129]
+	"Stuart Howe (268)" -> "Deborah Swinbourn (265)" [label=313]
+	"Benjamin Fox (271)" -> "Deborah Swinbourn (265)" [label=217]
+	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
+	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
+	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
+	"Petrus Van Der Steen (267)" -> "Derek Hardman (263)" [label=322]
+	"Stuart Howe (268)" -> "Derek Hardman (263)" [label=350]
+	"Benjamin Fox (271)" -> "Derek Hardman (263)" [label=167]
+	"Trish Frail (270)" -> "Peter Rothwell (264)" [label=221]
+	"Petrus Van Der Steen (267)" -> "Peter Rothwell (264)" [label=400]
+	"Stuart Howe (268)" -> "Peter Rothwell (264)" [label=198]
+	"Benjamin Fox (271)" -> "Peter Rothwell (264)" [label=360]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Andrew Turnour (3163)_Kennedy_2010" {
+	graph [label="Kennedy 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Turnour (3163)" [label="Andrew Turnour (3163)
+Australian Labor Party"]
+	"Jess Jones (3933)" [label="Jess Jones (3933)
+The Greens"]
+	"Fred W Dykstra (3934)" [label="Fred W Dykstra (3934)
+Family First"]
+	"Jess Jones (3933)" -> "Andrew Turnour (3163)" [label=2210]
+	"Fred W Dykstra (3934)" -> "Jess Jones (3933)" [label=312]
+	"Fred W Dykstra (3934)" -> "Andrew Turnour (3163)" [label=235]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Nikki Civitarese (451)_Fairfax_2022" {
+	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nikki Civitarese (451)" [label="Nikki Civitarese (451)
+Pauline Hanson's One Nation"]
+	"Lisa Khoury (448)" [label="Lisa Khoury (448)
+United Australia Party"]
+	"Wendy Hazelton (443)" [label="Wendy Hazelton (443)
+Informed Medical Options Party"]
+	"Tash Poole (444)" [label="Tash Poole (444)
+Animal Justice Party"]
+	"Barry Smith (445)" [label="Barry Smith (445)
+Independent"]
+	"Craig White (450)" [label="Craig White (450)
+The Great Australian Party"]
+	"Sinim Barbara Australie (447)" [label="Sinim Barbara Australie (447)
+Independent"]
+	"Lisa Khoury (448)" -> "Nikki Civitarese (451)" [label=5521]
+	"Wendy Hazelton (443)" -> "Lisa Khoury (448)" [label=967]
+	"Tash Poole (444)" -> "Wendy Hazelton (443)" [label=748]
+	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
+	"Craig White (450)" -> "Barry Smith (445)" [label=104]
+	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
+	"Wendy Hazelton (443)" -> "Nikki Civitarese (451)" [label=1410]
+	"Tash Poole (444)" -> "Nikki Civitarese (451)" [label=226]
+	"Barry Smith (445)" -> "Nikki Civitarese (451)" [label=276]
+	"Craig White (450)" -> "Nikki Civitarese (451)" [label=389]
+	"Sinim Barbara Australie (447)" -> "Nikki Civitarese (451)" [label=54]
+	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
+	"Craig White (450)" -> "Tash Poole (444)" [label=53]
+	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
+	"Barry Smith (445)" -> "Wendy Hazelton (443)" [label=359]
+	"Craig White (450)" -> "Wendy Hazelton (443)" [label=443]
+	"Sinim Barbara Australie (447)" -> "Wendy Hazelton (443)" [label=24]
+	"Tash Poole (444)" -> "Lisa Khoury (448)" [label=172]
+	"Barry Smith (445)" -> "Lisa Khoury (448)" [label=180]
+	"Craig White (450)" -> "Lisa Khoury (448)" [label=199]
+	"Sinim Barbara Australie (447)" -> "Lisa Khoury (448)" [label=38]
+}

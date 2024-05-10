@@ -1,0 +1,69 @@
+// House preference flow
+digraph "David Patch (5254)_Wentworth_2004" {
+	graph [label="Wentworth 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Patch (5254)" [label="David Patch (5254)
+Australian Labor Party"]
+	"Peter King (5257)" [label="Peter King (5257)
+Independent"]
+	"Mithra Cox (2847)" [label="Mithra Cox (2847)
+The Greens"]
+	"Lindy Morrison (5253)" [label="Lindy Morrison (5253)
+Australian Democrats"]
+	"Robert Vogler (5252)" [label="Robert Vogler (5252)
+Independent"]
+	"Leonie Hull (5256)" [label="Leonie Hull (5256)
+Family First"]
+	"Victor Shen (5255)" [label="Victor Shen (5255)
+The Fishing Party"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Brian Buckley (4412)" [label="Brian Buckley (4412)
+No GST"]
+	"John Jamieson (4467)" [label="John Jamieson (4467)
+Citizens Electoral Council"]
+	"Peter King (5257)" -> "David Patch (5254)" [label=6551]
+	"Mithra Cox (2847)" -> "Peter King (5257)" [label=1556]
+	"Lindy Morrison (5253)" -> "Mithra Cox (2847)" [label=300]
+	"Robert Vogler (5252)" -> "Lindy Morrison (5253)" [label=46]
+	"Leonie Hull (5256)" -> "Robert Vogler (5252)" [label=26]
+	"Victor Shen (5255)" -> "Leonie Hull (5256)" [label=55]
+	"Pat Sheil (2107)" -> "Victor Shen (5255)" [label=8]
+	"Brian Buckley (4412)" -> "Pat Sheil (2107)" [label=3]
+	"John Jamieson (4467)" -> "Brian Buckley (4412)" [label=7]
+	"Mithra Cox (2847)" -> "David Patch (5254)" [label=6453]
+	"Lindy Morrison (5253)" -> "David Patch (5254)" [label=185]
+	"Robert Vogler (5252)" -> "David Patch (5254)" [label=30]
+	"Leonie Hull (5256)" -> "David Patch (5254)" [label=67]
+	"Victor Shen (5255)" -> "David Patch (5254)" [label=57]
+	"Pat Sheil (2107)" -> "David Patch (5254)" [label=15]
+	"Brian Buckley (4412)" -> "David Patch (5254)" [label=27]
+	"John Jamieson (4467)" -> "David Patch (5254)" [label=1]
+	"John Jamieson (4467)" -> "Pat Sheil (2107)" [label=1]
+	"Brian Buckley (4412)" -> "Victor Shen (5255)" [label=25]
+	"Pat Sheil (2107)" -> "Leonie Hull (5256)" [label=6]
+	"Brian Buckley (4412)" -> "Leonie Hull (5256)" [label=39]
+	"John Jamieson (4467)" -> "Leonie Hull (5256)" [label=14]
+	"Victor Shen (5255)" -> "Robert Vogler (5252)" [label=37]
+	"Pat Sheil (2107)" -> "Robert Vogler (5252)" [label=78]
+	"Brian Buckley (4412)" -> "Robert Vogler (5252)" [label=6]
+	"John Jamieson (4467)" -> "Robert Vogler (5252)" [label=1]
+	"Leonie Hull (5256)" -> "Lindy Morrison (5253)" [label=18]
+	"Victor Shen (5255)" -> "Lindy Morrison (5253)" [label=12]
+	"Pat Sheil (2107)" -> "Lindy Morrison (5253)" [label=13]
+	"Brian Buckley (4412)" -> "Lindy Morrison (5253)" [label=9]
+	"John Jamieson (4467)" -> "Lindy Morrison (5253)" [label=2]
+	"Robert Vogler (5252)" -> "Mithra Cox (2847)" [label=282]
+	"Leonie Hull (5256)" -> "Mithra Cox (2847)" [label=75]
+	"Victor Shen (5255)" -> "Mithra Cox (2847)" [label=35]
+	"Pat Sheil (2107)" -> "Mithra Cox (2847)" [label=40]
+	"Brian Buckley (4412)" -> "Mithra Cox (2847)" [label=29]
+	"John Jamieson (4467)" -> "Mithra Cox (2847)" [label=7]
+	"Lindy Morrison (5253)" -> "Peter King (5257)" [label=198]
+	"Robert Vogler (5252)" -> "Peter King (5257)" [label=83]
+	"Leonie Hull (5256)" -> "Peter King (5257)" [label=111]
+	"Victor Shen (5255)" -> "Peter King (5257)" [label=36]
+	"Pat Sheil (2107)" -> "Peter King (5257)" [label=32]
+	"Brian Buckley (4412)" -> "Peter King (5257)" [label=21]
+	"John Jamieson (4467)" -> "Peter King (5257)" [label=27]
+}

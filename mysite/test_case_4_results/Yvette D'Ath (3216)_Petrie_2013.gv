@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Yvette D'Ath (3216)_Petrie_2013" {
+	graph [label="Petrie 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Yvette D'Ath (3216)" [label="Yvette D'Ath (3216)
+Australian Labor Party"]
+	"Thor Leopold Prohaska (3211)" [label="Thor Leopold Prohaska (3211)
+Palmer United Party"]
+	"John Marshall (3212)" [label="John Marshall (3212)
+The Greens"]
+	"Tasman Spence (3214)" [label="Tasman Spence (3214)
+Family First"]
+	"Chris Thomson (3213)" [label="Chris Thomson (3213)
+Katter's Australian Party"]
+	"Elise Jennings (3210)" [label="Elise Jennings (3210)
+Rise Up Australia Party"]
+	"Geoff Cornell (3215)" [label="Geoff Cornell (3215)
+Citizens Electoral Council"]
+	"Thor Leopold Prohaska (3211)" -> "Yvette D'Ath (3216)" [label=4946]
+	"John Marshall (3212)" -> "Thor Leopold Prohaska (3211)" [label=1262]
+	"Tasman Spence (3214)" -> "John Marshall (3212)" [label=362]
+	"Chris Thomson (3213)" -> "Tasman Spence (3214)" [label=197]
+	"Elise Jennings (3210)" -> "Chris Thomson (3213)" [label=65]
+	"Geoff Cornell (3215)" -> "Elise Jennings (3210)" [label=35]
+	"John Marshall (3212)" -> "Yvette D'Ath (3216)" [label=2566]
+	"Tasman Spence (3214)" -> "Yvette D'Ath (3216)" [label=373]
+	"Chris Thomson (3213)" -> "Yvette D'Ath (3216)" [label=221]
+	"Elise Jennings (3210)" -> "Yvette D'Ath (3216)" [label=78]
+	"Geoff Cornell (3215)" -> "Yvette D'Ath (3216)" [label=37]
+	"Geoff Cornell (3215)" -> "Chris Thomson (3213)" [label=22]
+	"Elise Jennings (3210)" -> "Tasman Spence (3214)" [label=191]
+	"Geoff Cornell (3215)" -> "Tasman Spence (3214)" [label=28]
+	"Chris Thomson (3213)" -> "John Marshall (3212)" [label=174]
+	"Elise Jennings (3210)" -> "John Marshall (3212)" [label=142]
+	"Geoff Cornell (3215)" -> "John Marshall (3212)" [label=22]
+	"Tasman Spence (3214)" -> "Thor Leopold Prohaska (3211)" [label=635]
+	"Chris Thomson (3213)" -> "Thor Leopold Prohaska (3211)" [label=605]
+	"Elise Jennings (3210)" -> "Thor Leopold Prohaska (3211)" [label=403]
+	"Geoff Cornell (3215)" -> "Thor Leopold Prohaska (3211)" [label=23]
+}

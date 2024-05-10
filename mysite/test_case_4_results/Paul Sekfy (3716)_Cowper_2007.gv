@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Paul Sekfy (3716)_Cowper_2007" {
+	graph [label="Cowper 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Paul Sekfy (3716)" [label="Paul Sekfy (3716)
+Labor"]
+	"John Carty (4287)" [label="John Carty (4287)
+The Greens"]
+	"Deborah Lions (4290)" [label="Deborah Lions (4290)
+Christian Democratic Party (Fred Nile Group)"]
+	"Flavia Arapi-Nunez (4288)" [label="Flavia Arapi-Nunez (4288)
+Family First"]
+	"Leon A Belgrave (4289)" [label="Leon A Belgrave (4289)
+LDP"]
+	"John Carty (4287)" -> "Paul Sekfy (3716)" [label=8382]
+	"Deborah Lions (4290)" -> "John Carty (4287)" [label=558]
+	"Flavia Arapi-Nunez (4288)" -> "Deborah Lions (4290)" [label=230]
+	"Leon A Belgrave (4289)" -> "Flavia Arapi-Nunez (4288)" [label=73]
+	"Deborah Lions (4290)" -> "Paul Sekfy (3716)" [label=429]
+	"Flavia Arapi-Nunez (4288)" -> "Paul Sekfy (3716)" [label=158]
+	"Leon A Belgrave (4289)" -> "Paul Sekfy (3716)" [label=89]
+	"Leon A Belgrave (4289)" -> "Deborah Lions (4290)" [label=72]
+	"Flavia Arapi-Nunez (4288)" -> "John Carty (4287)" [label=237]
+	"Leon A Belgrave (4289)" -> "John Carty (4287)" [label=88]
+}

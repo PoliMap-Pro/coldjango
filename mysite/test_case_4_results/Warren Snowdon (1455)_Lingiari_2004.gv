@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Warren Snowdon (1455)_Lingiari_2004" {
+	graph [label="Lingiari 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Warren Snowdon (1455)" [label="Warren Snowdon (1455)
+Australian Labor Party (ALP)"]
+	"James Bristow (5265)" [label="James Bristow (5265)
+The Greens"]
+	"David Curtis (5263)" [label="David Curtis (5263)
+Australian Democrats"]
+	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
+Independent"]
+	"James Bristow (5265)" -> "Warren Snowdon (1455)" [label=2181]
+	"David Curtis (5263)" -> "James Bristow (5265)" [label=379]
+	"Andrew Ian Mills (5266)" -> "David Curtis (5263)" [label=191]
+	"David Curtis (5263)" -> "Warren Snowdon (1455)" [label=606]
+	"Andrew Ian Mills (5266)" -> "Warren Snowdon (1455)" [label=226]
+	"Andrew Ian Mills (5266)" -> "James Bristow (5265)" [label=316]
+}

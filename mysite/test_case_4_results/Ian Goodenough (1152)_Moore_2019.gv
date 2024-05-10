@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ian Goodenough (1152)_Moore_2019" {
+	graph [label="Moore 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Goodenough (1152)" [label="Ian Goodenough (1152)
+Liberal"]
+	"Daniel Vujcich (1975)" [label="Daniel Vujcich (1975)
+The Greens (WA)"]
+	"Tyler Walsh (1097)" [label="Tyler Walsh (1097)
+Pauline Hanson's One Nation"]
+	"Ziggi Murphy (1979)" [label="Ziggi Murphy (1979)
+Independent"]
+	"Rod Chilcott (1980)" [label="Rod Chilcott (1980)
+United Australia Party"]
+	"Jen Jacobs (1977)" [label="Jen Jacobs (1977)
+WESTERN AUSTRALIA PARTY"]
+	"Rex Host (1976)" [label="Rex Host (1976)
+Australian Christians"]
+	"Daniel Vujcich (1975)" -> "Ian Goodenough (1152)" [label=3726]
+	"Tyler Walsh (1097)" -> "Daniel Vujcich (1975)" [label=1213]
+	"Ziggi Murphy (1979)" -> "Tyler Walsh (1097)" [label=490]
+	"Rod Chilcott (1980)" -> "Ziggi Murphy (1979)" [label=324]
+	"Jen Jacobs (1977)" -> "Rod Chilcott (1980)" [label=130]
+	"Rex Host (1976)" -> "Jen Jacobs (1977)" [label=103]
+	"Tyler Walsh (1097)" -> "Ian Goodenough (1152)" [label=3047]
+	"Ziggi Murphy (1979)" -> "Ian Goodenough (1152)" [label=779]
+	"Rod Chilcott (1980)" -> "Ian Goodenough (1152)" [label=599]
+	"Jen Jacobs (1977)" -> "Ian Goodenough (1152)" [label=320]
+	"Rex Host (1976)" -> "Ian Goodenough (1152)" [label=761]
+	"Rex Host (1976)" -> "Rod Chilcott (1980)" [label=50]
+	"Jen Jacobs (1977)" -> "Ziggi Murphy (1979)" [label=356]
+	"Rex Host (1976)" -> "Ziggi Murphy (1979)" [label=65]
+	"Rod Chilcott (1980)" -> "Tyler Walsh (1097)" [label=535]
+	"Jen Jacobs (1977)" -> "Tyler Walsh (1097)" [label=156]
+	"Rex Host (1976)" -> "Tyler Walsh (1097)" [label=118]
+	"Ziggi Murphy (1979)" -> "Daniel Vujcich (1975)" [label=1030]
+	"Rod Chilcott (1980)" -> "Daniel Vujcich (1975)" [label=150]
+	"Jen Jacobs (1977)" -> "Daniel Vujcich (1975)" [label=273]
+	"Rex Host (1976)" -> "Daniel Vujcich (1975)" [label=81]
+}

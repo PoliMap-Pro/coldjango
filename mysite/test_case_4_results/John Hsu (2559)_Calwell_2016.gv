@@ -1,0 +1,19 @@
+// House preference flow
+digraph "John Hsu (2559)_Calwell_2016" {
+	graph [label="Calwell 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Hsu (2559)" [label="John Hsu (2559)
+Liberal"]
+	"Natalie Abboud (765)" [label="Natalie Abboud (765)
+The Greens"]
+	"Megan Deanne Searls (2560)" [label="Megan Deanne Searls (2560)
+Animal Justice Party"]
+	"Michael Amon Lakkis (2561)" [label="Michael Amon Lakkis (2561)
+Independent"]
+	"Natalie Abboud (765)" -> "John Hsu (2559)" [label=2359]
+	"Megan Deanne Searls (2560)" -> "Natalie Abboud (765)" [label=2297]
+	"Michael Amon Lakkis (2561)" -> "Megan Deanne Searls (2560)" [label=1286]
+	"Megan Deanne Searls (2560)" -> "John Hsu (2559)" [label=976]
+	"Michael Amon Lakkis (2561)" -> "John Hsu (2559)" [label=680]
+	"Michael Amon Lakkis (2561)" -> "Natalie Abboud (765)" [label=529]
+}

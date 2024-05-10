@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Felicity Findlay (2051)_Blaxland_2016" {
+	graph [label="Blaxland 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Felicity Findlay (2051)" [label="Felicity Findlay (2051)
+Liberal"]
+	"Clint Nasr (2052)" [label="Clint Nasr (2052)
+Christian Democratic Party (Fred Nile Group)"]
+	"Suzan Virago (2049)" [label="Suzan Virago (2049)
+The Greens"]
+	"Gabriela Zabala (2050)" [label="Gabriela Zabala (2050)
+Socialist Equality Party"]
+	"Clint Nasr (2052)" -> "Felicity Findlay (2051)" [label=3697]
+	"Suzan Virago (2049)" -> "Clint Nasr (2052)" [label=368]
+	"Gabriela Zabala (2050)" -> "Suzan Virago (2049)" [label=325]
+	"Suzan Virago (2049)" -> "Felicity Findlay (2051)" [label=681]
+	"Gabriela Zabala (2050)" -> "Felicity Findlay (2051)" [label=175]
+	"Gabriela Zabala (2050)" -> "Clint Nasr (2052)" [label=197]
+}

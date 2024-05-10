@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Andrew Bell (1769)_Cooper_2019" {
+	graph [label="Cooper 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Bell (1769)" [label="Andrew Bell (1769)
+Liberal"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"Sarah Russell (844)" [label="Sarah Russell (844)
+Reason Australia"]
+	"Nadine Richings (1767)" [label="Nadine Richings (1767)
+Animal Justice Party"]
+	"Brett Nangle (1766)" [label="Brett Nangle (1766)
+United Australia Party"]
+	"Teresa Van Lieshout (1765)" [label="Teresa Van Lieshout (1765)
+Independent"]
+	"Kath Larkin (794)" -> "Andrew Bell (1769)" [label=351]
+	"Sarah Russell (844)" -> "Kath Larkin (794)" [label=777]
+	"Nadine Richings (1767)" -> "Sarah Russell (844)" [label=638]
+	"Brett Nangle (1766)" -> "Nadine Richings (1767)" [label=327]
+	"Teresa Van Lieshout (1765)" -> "Brett Nangle (1766)" [label=223]
+	"Sarah Russell (844)" -> "Andrew Bell (1769)" [label=431]
+	"Nadine Richings (1767)" -> "Andrew Bell (1769)" [label=292]
+	"Brett Nangle (1766)" -> "Andrew Bell (1769)" [label=774]
+	"Teresa Van Lieshout (1765)" -> "Andrew Bell (1769)" [label=180]
+	"Teresa Van Lieshout (1765)" -> "Nadine Richings (1767)" [label=177]
+	"Brett Nangle (1766)" -> "Sarah Russell (844)" [label=423]
+	"Teresa Van Lieshout (1765)" -> "Sarah Russell (844)" [label=697]
+	"Nadine Richings (1767)" -> "Kath Larkin (794)" [label=323]
+	"Brett Nangle (1766)" -> "Kath Larkin (794)" [label=114]
+	"Teresa Van Lieshout (1765)" -> "Kath Larkin (794)" [label=76]
+}

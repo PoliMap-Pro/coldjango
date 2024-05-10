@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Brian Charles Dettmann (2944)_New England_2013" {
+	graph [label="New England 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brian Charles Dettmann (2944)" [label="Brian Charles Dettmann (2944)
+One Nation"]
+	"Aaron Michael Evans (2949)" [label="Aaron Michael Evans (2949)
+Christian Democratic Party (Fred Nile Group)"]
+	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
+Citizens Electoral Council"]
+	"Aaron Michael Evans (2949)" -> "Brian Charles Dettmann (2944)" [label=70]
+	"Richard Innes Witten (2947)" -> "Aaron Michael Evans (2949)" [label=21]
+	"Richard Innes Witten (2947)" -> "Brian Charles Dettmann (2944)" [label=24]
+}

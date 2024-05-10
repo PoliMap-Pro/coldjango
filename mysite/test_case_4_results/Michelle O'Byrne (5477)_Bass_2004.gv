@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michelle O'Byrne (5477)_Bass_2004" {
+	graph [label="Bass 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michelle O'Byrne (5477)" [label="Michelle O'Byrne (5477)
+Australian Labor Party"]
+	"Jeremy Ball (5478)" [label="Jeremy Ball (5478)
+Australian Greens"]
+	"Christine Bergman (3286)" [label="Christine Bergman (3286)
+Family First"]
+	"Caroline Larner (5476)" [label="Caroline Larner (5476)
+Citizens Electoral Council"]
+	"Meredith De Landelles (5479)" [label="Meredith De Landelles (5479)
+Socialist Alliance"]
+	"Jeremy Ball (5478)" -> "Michelle O'Byrne (5477)" [label=4377]
+	"Christine Bergman (3286)" -> "Jeremy Ball (5478)" [label=358]
+	"Caroline Larner (5476)" -> "Christine Bergman (3286)" [label=135]
+	"Meredith De Landelles (5479)" -> "Caroline Larner (5476)" [label=39]
+	"Christine Bergman (3286)" -> "Michelle O'Byrne (5477)" [label=413]
+	"Caroline Larner (5476)" -> "Michelle O'Byrne (5477)" [label=272]
+	"Meredith De Landelles (5479)" -> "Michelle O'Byrne (5477)" [label=26]
+	"Meredith De Landelles (5479)" -> "Christine Bergman (3286)" [label=85]
+	"Caroline Larner (5476)" -> "Jeremy Ball (5478)" [label=91]
+	"Meredith De Landelles (5479)" -> "Jeremy Ball (5478)" [label=56]
+}

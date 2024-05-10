@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Matthew Thomson (1585)_Longman_2019" {
+	graph [label="Longman 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matthew Thomson (1585)" [label="Matthew Thomson (1585)
+Pauline Hanson's One Nation"]
+	"Simone Dejun (1587)" [label="Simone Dejun (1587)
+The Greens"]
+	"Bailey James Maher (1581)" [label="Bailey James Maher (1581)
+United Australia Party"]
+	"Dave Paulke (1586)" [label="Dave Paulke (1586)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Keith Schuback (1584)" [label="Peter Keith Schuback (1584)
+Australia First Party"]
+	"Jono Young (1582)" [label="Jono Young (1582)
+Australian Progressives"]
+	"Simone Dejun (1587)" -> "Matthew Thomson (1585)" [label=1561]
+	"Bailey James Maher (1581)" -> "Simone Dejun (1587)" [label=322]
+	"Dave Paulke (1586)" -> "Bailey James Maher (1581)" [label=329]
+	"Peter Keith Schuback (1584)" -> "Dave Paulke (1586)" [label=164]
+	"Jono Young (1582)" -> "Peter Keith Schuback (1584)" [label=136]
+	"Bailey James Maher (1581)" -> "Matthew Thomson (1585)" [label=1841]
+	"Dave Paulke (1586)" -> "Matthew Thomson (1585)" [label=1068]
+	"Peter Keith Schuback (1584)" -> "Matthew Thomson (1585)" [label=418]
+	"Jono Young (1582)" -> "Matthew Thomson (1585)" [label=62]
+	"Jono Young (1582)" -> "Dave Paulke (1586)" [label=118]
+	"Peter Keith Schuback (1584)" -> "Bailey James Maher (1581)" [label=183]
+	"Jono Young (1582)" -> "Bailey James Maher (1581)" [label=118]
+	"Dave Paulke (1586)" -> "Simone Dejun (1587)" [label=232]
+	"Peter Keith Schuback (1584)" -> "Simone Dejun (1587)" [label=111]
+	"Jono Young (1582)" -> "Simone Dejun (1587)" [label=213]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ben Ferguson (334)_Sydney_2022" {
+	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Ferguson (334)" [label="Ben Ferguson (334)
+Pauline Hanson's One Nation"]
+	"Andrew Chuter (332)" [label="Andrew Chuter (332)
+Socialist Alliance"]
+	"Wen Zhou (336)" [label="Wen Zhou (336)
+Citizens Party"]
+	"Andrew Chuter (332)" -> "Ben Ferguson (334)" [label=138]
+	"Wen Zhou (336)" -> "Andrew Chuter (332)" [label=106]
+	"Wen Zhou (336)" -> "Ben Ferguson (334)" [label=74]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jim Starkey (1714)_Clark_2019" {
+	graph [label="Clark 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jim Starkey (1714)" [label="Jim Starkey (1714)
+United Australia Party"]
+}

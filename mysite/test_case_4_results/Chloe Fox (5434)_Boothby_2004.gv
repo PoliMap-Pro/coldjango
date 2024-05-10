@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Chloe Fox (5434)_Boothby_2004" {
+	graph [label="Boothby 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chloe Fox (5434)" [label="Chloe Fox (5434)
+Australian Labor Party"]
+	"Adrian Miller (5435)" [label="Adrian Miller (5435)
+The Greens"]
+	"Paul Munn (5436)" [label="Paul Munn (5436)
+Family First"]
+	"Robert Simms (5433)" [label="Robert Simms (5433)
+Australian Democrats"]
+	"Paul Starling (5432)" [label="Paul Starling (5432)
+Independent"]
+	"Clarke Staker (5437)" [label="Clarke Staker (5437)
+One Nation"]
+	"Adrian Miller (5435)" -> "Chloe Fox (5434)" [label=6243]
+	"Paul Munn (5436)" -> "Adrian Miller (5435)" [label=539]
+	"Robert Simms (5433)" -> "Paul Munn (5436)" [label=112]
+	"Paul Starling (5432)" -> "Robert Simms (5433)" [label=187]
+	"Clarke Staker (5437)" -> "Paul Starling (5432)" [label=103]
+	"Paul Munn (5436)" -> "Chloe Fox (5434)" [label=542]
+	"Robert Simms (5433)" -> "Chloe Fox (5434)" [label=590]
+	"Paul Starling (5432)" -> "Chloe Fox (5434)" [label=134]
+	"Clarke Staker (5437)" -> "Chloe Fox (5434)" [label=76]
+	"Clarke Staker (5437)" -> "Robert Simms (5433)" [label=19]
+	"Paul Starling (5432)" -> "Paul Munn (5436)" [label=100]
+	"Clarke Staker (5437)" -> "Paul Munn (5436)" [label=177]
+	"Robert Simms (5433)" -> "Adrian Miller (5435)" [label=757]
+	"Paul Starling (5432)" -> "Adrian Miller (5435)" [label=153]
+	"Clarke Staker (5437)" -> "Adrian Miller (5435)" [label=73]
+}

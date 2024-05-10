@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Trevor Hold (409)_Brisbane_2022" {
+	graph [label="Brisbane 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trevor Hold (409)" [label="Trevor Hold (409)
+Pauline Hanson's One Nation"]
+	"Justin Marc Knudson (405)" [label="Justin Marc Knudson (405)
+United Australia Party"]
+	"Tiana Kennedy (404)" [label="Tiana Kennedy (404)
+Animal Justice Party"]
+	"Anthony Bull (410)" [label="Anthony Bull (410)
+Liberal Democrats"]
+	"Justin Marc Knudson (405)" -> "Trevor Hold (409)" [label=1471]
+	"Tiana Kennedy (404)" -> "Justin Marc Knudson (405)" [label=423]
+	"Anthony Bull (410)" -> "Tiana Kennedy (404)" [label=133]
+	"Tiana Kennedy (404)" -> "Trevor Hold (409)" [label=196]
+	"Anthony Bull (410)" -> "Trevor Hold (409)" [label=414]
+	"Anthony Bull (410)" -> "Justin Marc Knudson (405)" [label=266]
+}

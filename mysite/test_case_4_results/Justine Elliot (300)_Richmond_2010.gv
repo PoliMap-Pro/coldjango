@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Justine Elliot (300)_Richmond_2010" {
+	graph [label="Richmond 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Justine Elliot (300)" [label="Justine Elliot (300)
+Labor"]
+	"Joan Van Lieshout (3822)" [label="Joan Van Lieshout (3822)
+Liberal"]
+	"Joe Ebono (3828)" [label="Joe Ebono (3828)
+The Greens"]
+	"Julie Boyd (3827)" [label="Julie Boyd (3827)
+Independent"]
+	"Matthew Hartley (3823)" [label="Matthew Hartley (3823)
+Independent"]
+	"Stephen M Hegedus (3829)" [label="Stephen M Hegedus (3829)
+Independent"]
+	"Nic Faulkner (3825)" [label="Nic Faulkner (3825)
+Independent"]
+	"David Robinson (3824)" [label="David Robinson (3824)
+Australian Democrats"]
+	"Joan Van Lieshout (3822)" -> "Justine Elliot (300)" [label=2470]
+	"Joe Ebono (3828)" -> "Joan Van Lieshout (3822)" [label=924]
+	"Julie Boyd (3827)" -> "Joe Ebono (3828)" [label=919]
+	"Matthew Hartley (3823)" -> "Julie Boyd (3827)" [label=557]
+	"Stephen M Hegedus (3829)" -> "Matthew Hartley (3823)" [label=136]
+	"Nic Faulkner (3825)" -> "Stephen M Hegedus (3829)" [label=71]
+	"David Robinson (3824)" -> "Nic Faulkner (3825)" [label=65]
+	"Joe Ebono (3828)" -> "Justine Elliot (300)" [label=11198]
+	"Julie Boyd (3827)" -> "Justine Elliot (300)" [label=331]
+	"Matthew Hartley (3823)" -> "Justine Elliot (300)" [label=169]
+	"Stephen M Hegedus (3829)" -> "Justine Elliot (300)" [label=73]
+	"Nic Faulkner (3825)" -> "Justine Elliot (300)" [label=68]
+	"David Robinson (3824)" -> "Justine Elliot (300)" [label=83]
+	"David Robinson (3824)" -> "Stephen M Hegedus (3829)" [label=30]
+	"Nic Faulkner (3825)" -> "Matthew Hartley (3823)" [label=136]
+	"David Robinson (3824)" -> "Matthew Hartley (3823)" [label=96]
+	"Stephen M Hegedus (3829)" -> "Julie Boyd (3827)" [label=315]
+	"Nic Faulkner (3825)" -> "Julie Boyd (3827)" [label=108]
+	"David Robinson (3824)" -> "Julie Boyd (3827)" [label=36]
+	"Matthew Hartley (3823)" -> "Joe Ebono (3828)" [label=246]
+	"Stephen M Hegedus (3829)" -> "Joe Ebono (3828)" [label=240]
+	"Nic Faulkner (3825)" -> "Joe Ebono (3828)" [label=95]
+	"David Robinson (3824)" -> "Joe Ebono (3828)" [label=76]
+	"Julie Boyd (3827)" -> "Joan Van Lieshout (3822)" [label=213]
+	"Matthew Hartley (3823)" -> "Joan Van Lieshout (3822)" [label=81]
+	"Stephen M Hegedus (3829)" -> "Joan Van Lieshout (3822)" [label=40]
+	"Nic Faulkner (3825)" -> "Joan Van Lieshout (3822)" [label=39]
+	"David Robinson (3824)" -> "Joan Van Lieshout (3822)" [label=49]
+}

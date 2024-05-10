@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Dan Mcintyre (3905)_Fairfax_2010" {
+	graph [label="Fairfax 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dan Mcintyre (3905)" [label="Dan Mcintyre (3905)
+Australian Labor Party"]
+	"Narelle Louise Mccarthy (3906)" [label="Narelle Louise Mccarthy (3906)
+The Greens"]
+	"Ron Hunt (3907)" [label="Ron Hunt (3907)
+Family First"]
+	"Narelle Louise Mccarthy (3906)" -> "Dan Mcintyre (3905)" [label=11824]
+	"Ron Hunt (3907)" -> "Narelle Louise Mccarthy (3906)" [label=1226]
+	"Ron Hunt (3907)" -> "Dan Mcintyre (3905)" [label=621]
+}

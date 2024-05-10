@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Cindy Anne Duncan (228)_New England_2022" {
+	graph [label="New England 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
+United Australia Party"]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Dean Young (1716)_Franklin_2019" {
+	graph [label="Franklin 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dean Young (1716)" [label="Dean Young (1716)
+Liberal"]
+	"Kit Darko (1715)" [label="Kit Darko (1715)
+The Greens"]
+	"Darren Winter (1718)" [label="Darren Winter (1718)
+United Australia Party"]
+	"Darren John Hawes (1717)" [label="Darren John Hawes (1717)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Kit Darko (1715)" -> "Dean Young (1716)" [label=1834]
+	"Darren Winter (1718)" -> "Kit Darko (1715)" [label=738]
+	"Darren John Hawes (1717)" -> "Darren Winter (1718)" [label=602]
+	"Darren Winter (1718)" -> "Dean Young (1716)" [label=2413]
+	"Darren John Hawes (1717)" -> "Dean Young (1716)" [label=339]
+	"Darren John Hawes (1717)" -> "Kit Darko (1715)" [label=113]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kevin Andrews (1897)_Menzies_2016" {
+	graph [label="Menzies 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Andrews (1897)" [label="Kevin Andrews (1897)
+Liberal"]
+	"Richard Cranston (2693)" [label="Richard Cranston (2693)
+The Greens"]
+	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
+Independent"]
+	"David Clark (2692)" [label="David Clark (2692)
+Family First Party"]
+	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
+Animal Justice Party"]
+	"Jay Franklin (2695)" [label="Jay Franklin (2695)
+Voluntary Euthanasia Party"]
+	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
+Independent"]
+	"Richard Cranston (2693)" -> "Kevin Andrews (1897)" [label=2517]
+	"Stephen Mayne (2696)" -> "Richard Cranston (2693)" [label=3354]
+	"David Clark (2692)" -> "Stephen Mayne (2696)" [label=739]
+	"Antony John Hulbert (2690)" -> "David Clark (2692)" [label=820]
+	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
+	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
+	"Stephen Mayne (2696)" -> "Kevin Andrews (1897)" [label=2544]
+	"David Clark (2692)" -> "Kevin Andrews (1897)" [label=2085]
+	"Antony John Hulbert (2690)" -> "Kevin Andrews (1897)" [label=361]
+	"Jay Franklin (2695)" -> "Kevin Andrews (1897)" [label=129]
+	"Ramon Robinson (2691)" -> "Kevin Andrews (1897)" [label=73]
+	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
+	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
+	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
+	"Antony John Hulbert (2690)" -> "Stephen Mayne (2696)" [label=393]
+	"Jay Franklin (2695)" -> "Stephen Mayne (2696)" [label=339]
+	"Ramon Robinson (2691)" -> "Stephen Mayne (2696)" [label=258]
+	"David Clark (2692)" -> "Richard Cranston (2693)" [label=559]
+	"Antony John Hulbert (2690)" -> "Richard Cranston (2693)" [label=770]
+	"Jay Franklin (2695)" -> "Richard Cranston (2693)" [label=131]
+	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=90]
+}

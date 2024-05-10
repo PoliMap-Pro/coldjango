@@ -1,0 +1,19 @@
+// House preference flow
+digraph "John Macisaac (1740)_Bruce_2019" {
+	graph [label="Bruce 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Macisaac (1740)" [label="John Macisaac (1740)
+Liberal"]
+	"Rhonda Garad (1741)" [label="Rhonda Garad (1741)
+The Greens (VIC)"]
+	"Mubahil Ahmed (1739)" [label="Mubahil Ahmed (1739)
+United Australia Party"]
+	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Rhonda Garad (1741)" -> "John Macisaac (1740)" [label=1917]
+	"Mubahil Ahmed (1739)" -> "Rhonda Garad (1741)" [label=907]
+	"Tim Boyanton (1738)" -> "Mubahil Ahmed (1739)" [label=1652]
+	"Mubahil Ahmed (1739)" -> "John Macisaac (1740)" [label=3279]
+	"Tim Boyanton (1738)" -> "John Macisaac (1740)" [label=985]
+	"Tim Boyanton (1738)" -> "Rhonda Garad (1741)" [label=328]
+}

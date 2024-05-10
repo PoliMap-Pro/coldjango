@@ -1,0 +1,32 @@
+// House preference flow
+digraph "John Gray (5323)_Fisher_2004" {
+	graph [label="Fisher 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"John Gray (5323)" [label="John Gray (5323)
+Australian Labor Party"]
+	"Robert Muston (5324)" [label="Robert Muston (5324)
+The Greens"]
+	"Ronald Stuart Hill (5325)" [label="Ronald Stuart Hill (5325)
+Family First"]
+	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
+One Nation"]
+	"Craig Wilmot (5326)" [label="Craig Wilmot (5326)
+Australian Democrats"]
+	"Liz Hays (5322)" [label="Liz Hays (5322)
+The Great Australians"]
+	"Robert Muston (5324)" -> "John Gray (5323)" [label=4827]
+	"Ronald Stuart Hill (5325)" -> "Robert Muston (5324)" [label=982]
+	"Kevin J Savage (4527)" -> "Ronald Stuart Hill (5325)" [label=861]
+	"Craig Wilmot (5326)" -> "Kevin J Savage (4527)" [label=106]
+	"Liz Hays (5322)" -> "Craig Wilmot (5326)" [label=56]
+	"Ronald Stuart Hill (5325)" -> "John Gray (5323)" [label=687]
+	"Kevin J Savage (4527)" -> "John Gray (5323)" [label=348]
+	"Craig Wilmot (5326)" -> "John Gray (5323)" [label=256]
+	"Liz Hays (5322)" -> "John Gray (5323)" [label=124]
+	"Liz Hays (5322)" -> "Kevin J Savage (4527)" [label=74]
+	"Craig Wilmot (5326)" -> "Ronald Stuart Hill (5325)" [label=222]
+	"Liz Hays (5322)" -> "Ronald Stuart Hill (5325)" [label=72]
+	"Kevin J Savage (4527)" -> "Robert Muston (5324)" [label=335]
+	"Craig Wilmot (5326)" -> "Robert Muston (5324)" [label=401]
+	"Liz Hays (5322)" -> "Robert Muston (5324)" [label=77]
+}

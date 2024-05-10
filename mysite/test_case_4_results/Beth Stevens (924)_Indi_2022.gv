@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Beth Stevens (924)_Indi_2022" {
+	graph [label="Indi 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Beth Stevens (924)" [label="Beth Stevens (924)
+Pauline Hanson's One Nation"]
+	"Liz Fisher (926)" [label="Liz Fisher (926)
+The Nationals"]
+	"Benjamin Gilbert (925)" [label="Benjamin Gilbert (925)
+The Greens"]
+	"Stephen Williams (923)" [label="Stephen Williams (923)
+United Australia Party"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Liberal Democrats"]
+	"Angel Aleksov (920)" [label="Angel Aleksov (920)
+Animal Justice Party"]
+	"Lachlan O'Connell (922)" [label="Lachlan O'Connell (922)
+Derryn Hinch's Justice Party"]
+	"Liz Fisher (926)" -> "Beth Stevens (924)" [label=450]
+	"Benjamin Gilbert (925)" -> "Liz Fisher (926)" [label=265]
+	"Stephen Williams (923)" -> "Benjamin Gilbert (925)" [label=116]
+	"Julian Fidge (928)" -> "Stephen Williams (923)" [label=470]
+	"Angel Aleksov (920)" -> "Julian Fidge (928)" [label=41]
+	"Lachlan O'Connell (922)" -> "Angel Aleksov (920)" [label=152]
+	"Benjamin Gilbert (925)" -> "Beth Stevens (924)" [label=247]
+	"Stephen Williams (923)" -> "Beth Stevens (924)" [label=2143]
+	"Julian Fidge (928)" -> "Beth Stevens (924)" [label=793]
+	"Angel Aleksov (920)" -> "Beth Stevens (924)" [label=246]
+	"Lachlan O'Connell (922)" -> "Beth Stevens (924)" [label=272]
+	"Lachlan O'Connell (922)" -> "Julian Fidge (928)" [label=22]
+	"Angel Aleksov (920)" -> "Stephen Williams (923)" [label=183]
+	"Lachlan O'Connell (922)" -> "Stephen Williams (923)" [label=118]
+	"Julian Fidge (928)" -> "Benjamin Gilbert (925)" [label=45]
+	"Angel Aleksov (920)" -> "Benjamin Gilbert (925)" [label=316]
+	"Lachlan O'Connell (922)" -> "Benjamin Gilbert (925)" [label=54]
+	"Stephen Williams (923)" -> "Liz Fisher (926)" [label=204]
+	"Julian Fidge (928)" -> "Liz Fisher (926)" [label=137]
+	"Angel Aleksov (920)" -> "Liz Fisher (926)" [label=54]
+	"Lachlan O'Connell (922)" -> "Liz Fisher (926)" [label=58]
+}

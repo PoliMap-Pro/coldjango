@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Damien Scott Hamwood (3221)_Ryan_2013" {
+	graph [label="Ryan 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Damien Scott Hamwood (3221)" [label="Damien Scott Hamwood (3221)
+Australian Labor Party"]
+	"Charles Worringham (3222)" [label="Charles Worringham (3222)
+The Greens"]
+	"Craig Geoffrey Gunnis (3223)" [label="Craig Geoffrey Gunnis (3223)
+Palmer United Party"]
+	"Lisa Demedio (3226)" [label="Lisa Demedio (3226)
+Family First"]
+	"Peter Andrew Walker (3224)" [label="Peter Andrew Walker (3224)
+Katter's Australian Party"]
+	"Michael C Sweedman (3225)" [label="Michael C Sweedman (3225)
+Secular Party of Australia"]
+	"Charles Worringham (3222)" -> "Damien Scott Hamwood (3221)" [label=12622]
+	"Craig Geoffrey Gunnis (3223)" -> "Charles Worringham (3222)" [label=1383]
+	"Lisa Demedio (3226)" -> "Craig Geoffrey Gunnis (3223)" [label=385]
+	"Peter Andrew Walker (3224)" -> "Lisa Demedio (3226)" [label=137]
+	"Michael C Sweedman (3225)" -> "Peter Andrew Walker (3224)" [label=44]
+	"Craig Geoffrey Gunnis (3223)" -> "Damien Scott Hamwood (3221)" [label=1480]
+	"Lisa Demedio (3226)" -> "Damien Scott Hamwood (3221)" [label=184]
+	"Peter Andrew Walker (3224)" -> "Damien Scott Hamwood (3221)" [label=190]
+	"Michael C Sweedman (3225)" -> "Damien Scott Hamwood (3221)" [label=140]
+	"Michael C Sweedman (3225)" -> "Lisa Demedio (3226)" [label=35]
+	"Peter Andrew Walker (3224)" -> "Craig Geoffrey Gunnis (3223)" [label=504]
+	"Michael C Sweedman (3225)" -> "Craig Geoffrey Gunnis (3223)" [label=75]
+	"Lisa Demedio (3226)" -> "Charles Worringham (3222)" [label=211]
+	"Peter Andrew Walker (3224)" -> "Charles Worringham (3222)" [label=119]
+	"Michael C Sweedman (3225)" -> "Charles Worringham (3222)" [label=368]
+}

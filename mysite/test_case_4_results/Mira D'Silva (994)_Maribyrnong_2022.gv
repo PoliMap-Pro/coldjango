@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Mira D'Silva (994)_Maribyrnong_2022" {
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mira D'Silva (994)" [label="Mira D'Silva (994)
+Liberal"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
+	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
+The Great Australian Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
+Australian Federation Party"]
+	"Rhonda Pryor (995)" -> "Mira D'Silva (994)" [label=2831]
+	"Darren Besanko (993)" -> "Rhonda Pryor (995)" [label=1464]
+	"Cameron Smith (997)" -> "Darren Besanko (993)" [label=2596]
+	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
+	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
+	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
+	"Darren Besanko (993)" -> "Mira D'Silva (994)" [label=5229]
+	"Cameron Smith (997)" -> "Mira D'Silva (994)" [label=1147]
+	"Jodie Tindal (992)" -> "Mira D'Silva (994)" [label=351]
+	"Mark Michael Hobart (989)" -> "Mira D'Silva (994)" [label=122]
+	"Daniel Nair Dadich (990)" -> "Mira D'Silva (994)" [label=62]
+	"Alexander Anthony Ansalone (996)" -> "Mira D'Silva (994)" [label=54]
+	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
+	"Daniel Nair Dadich (990)" -> "Jodie Tindal (992)" [label=55]
+	"Alexander Anthony Ansalone (996)" -> "Jodie Tindal (992)" [label=48]
+	"Mark Michael Hobart (989)" -> "Cameron Smith (997)" [label=260]
+	"Daniel Nair Dadich (990)" -> "Cameron Smith (997)" [label=25]
+	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
+	"Jodie Tindal (992)" -> "Darren Besanko (993)" [label=1328]
+	"Mark Michael Hobart (989)" -> "Darren Besanko (993)" [label=469]
+	"Daniel Nair Dadich (990)" -> "Darren Besanko (993)" [label=51]
+	"Alexander Anthony Ansalone (996)" -> "Darren Besanko (993)" [label=45]
+	"Cameron Smith (997)" -> "Rhonda Pryor (995)" [label=441]
+	"Jodie Tindal (992)" -> "Rhonda Pryor (995)" [label=214]
+	"Mark Michael Hobart (989)" -> "Rhonda Pryor (995)" [label=114]
+	"Daniel Nair Dadich (990)" -> "Rhonda Pryor (995)" [label=1224]
+	"Alexander Anthony Ansalone (996)" -> "Rhonda Pryor (995)" [label=85]
+}

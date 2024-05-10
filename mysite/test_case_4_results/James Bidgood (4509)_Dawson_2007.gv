@@ -1,0 +1,25 @@
+// House preference flow
+digraph "James Bidgood (4509)_Dawson_2007" {
+	graph [label="Dawson 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"James Bidgood (4509)" [label="James Bidgood (4509)
+Australian Labor Party"]
+	"Peter Bell (4506)" [label="Peter Bell (4506)
+The Greens"]
+	"Rena Lee (4508)" [label="Rena Lee (4508)
+Family First"]
+	"Chris Doyle (4510)" [label="Chris Doyle (4510)
+Democrats"]
+	"Andrew Harris (3080)" [label="Andrew Harris (3080)
+Citizens Electoral Council"]
+	"Peter Bell (4506)" -> "James Bidgood (4509)" [label=2867]
+	"Rena Lee (4508)" -> "Peter Bell (4506)" [label=773]
+	"Chris Doyle (4510)" -> "Rena Lee (4508)" [label=246]
+	"Andrew Harris (3080)" -> "Chris Doyle (4510)" [label=63]
+	"Rena Lee (4508)" -> "James Bidgood (4509)" [label=769]
+	"Chris Doyle (4510)" -> "James Bidgood (4509)" [label=396]
+	"Andrew Harris (3080)" -> "James Bidgood (4509)" [label=65]
+	"Andrew Harris (3080)" -> "Rena Lee (4508)" [label=136]
+	"Chris Doyle (4510)" -> "Peter Bell (4506)" [label=353]
+	"Andrew Harris (3080)" -> "Peter Bell (4506)" [label=71]
+}

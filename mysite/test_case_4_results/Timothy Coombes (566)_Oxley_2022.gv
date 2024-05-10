@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Timothy Coombes (566)_Oxley_2022" {
+	graph [label="Oxley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Timothy Coombes (566)" [label="Timothy Coombes (566)
+United Australia Party"]
+}

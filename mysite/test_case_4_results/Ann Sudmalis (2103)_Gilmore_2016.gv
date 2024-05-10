@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ann Sudmalis (2103)_Gilmore_2016" {
+	graph [label="Gilmore 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ann Sudmalis (2103)" [label="Ann Sudmalis (2103)
+Liberal"]
+	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
+The Greens"]
+	"Steve Ryan (2102)" [label="Steve Ryan (2102)
+Christian Democratic Party (Fred Nile Group)"]
+	"Carmel Mary Mccallum (1297)" -> "Ann Sudmalis (2103)" [label=2217]
+	"Steve Ryan (2102)" -> "Carmel Mary Mccallum (1297)" [label=765]
+	"Steve Ryan (2102)" -> "Ann Sudmalis (2103)" [label=3406]
+}

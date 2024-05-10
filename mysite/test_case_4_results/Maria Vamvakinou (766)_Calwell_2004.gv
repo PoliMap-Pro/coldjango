@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Maria Vamvakinou (766)_Calwell_2004" {
+	graph [label="Calwell 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Maria Vamvakinou (766)" [label="Maria Vamvakinou (766)
+Australian Labor Party"]
+	"Mohamad Alman (5518)" [label="Mohamad Alman (5518)
+Australian Greens"]
+	"Gary Canham (5517)" [label="Gary Canham (5517)
+Family First"]
+	"Sleiman Yohanna (4756)" [label="Sleiman Yohanna (4756)
+Citizens Electoral Council"]
+	"Denis Towers (5520)" [label="Denis Towers (5520)
+Independent"]
+	"Jonathon Gatt (5519)" [label="Jonathon Gatt (5519)
+Democrats"]
+	"Mohamad Alman (5518)" -> "Maria Vamvakinou (766)" [label=4509]
+	"Gary Canham (5517)" -> "Mohamad Alman (5518)" [label=587]
+	"Sleiman Yohanna (4756)" -> "Gary Canham (5517)" [label=361]
+	"Denis Towers (5520)" -> "Sleiman Yohanna (4756)" [label=82]
+	"Jonathon Gatt (5519)" -> "Denis Towers (5520)" [label=192]
+	"Gary Canham (5517)" -> "Maria Vamvakinou (766)" [label=619]
+	"Sleiman Yohanna (4756)" -> "Maria Vamvakinou (766)" [label=530]
+	"Denis Towers (5520)" -> "Maria Vamvakinou (766)" [label=540]
+	"Jonathon Gatt (5519)" -> "Maria Vamvakinou (766)" [label=294]
+	"Jonathon Gatt (5519)" -> "Sleiman Yohanna (4756)" [label=40]
+	"Denis Towers (5520)" -> "Gary Canham (5517)" [label=265]
+	"Jonathon Gatt (5519)" -> "Gary Canham (5517)" [label=88]
+	"Sleiman Yohanna (4756)" -> "Mohamad Alman (5518)" [label=568]
+	"Denis Towers (5520)" -> "Mohamad Alman (5518)" [label=195]
+	"Jonathon Gatt (5519)" -> "Mohamad Alman (5518)" [label=285]
+}

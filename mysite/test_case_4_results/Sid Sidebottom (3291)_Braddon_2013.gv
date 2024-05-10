@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Sid Sidebottom (3291)_Braddon_2013" {
+	graph [label="Braddon 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sid Sidebottom (3291)" [label="Sid Sidebottom (3291)
+Australian Labor Party"]
+	"Kevin Morgan (3292)" [label="Kevin Morgan (3292)
+Palmer United Party"]
+	"Melissa Houghton (3290)" [label="Melissa Houghton (3290)
+Australian Greens"]
+	"Bernard Shaw (3293)" [label="Bernard Shaw (3293)
+Rise Up Australia Party"]
+	"Kevin Morgan (3292)" -> "Sid Sidebottom (3291)" [label=3994]
+	"Melissa Houghton (3290)" -> "Kevin Morgan (3292)" [label=770]
+	"Bernard Shaw (3293)" -> "Melissa Houghton (3290)" [label=58]
+	"Melissa Houghton (3290)" -> "Sid Sidebottom (3291)" [label=2382]
+	"Bernard Shaw (3293)" -> "Sid Sidebottom (3291)" [label=121]
+	"Bernard Shaw (3293)" -> "Kevin Morgan (3292)" [label=302]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Gai Brodtmann (2024)_Canberra_2010" {
+	graph [label="Canberra 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gai Brodtmann (2024)" [label="Gai Brodtmann (2024)
+Australian Labor Party"]
+	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
+The Greens"]
+	"Sue Ellerman (3670)" -> "Gai Brodtmann (2024)" [label=16727]
+}

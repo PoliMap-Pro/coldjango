@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Craig Hesketh (3832)_Riverina_2010" {
+	graph [label="Riverina 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Hesketh (3832)" [label="Craig Hesketh (3832)
+One Nation"]
+	"Sylvia Mulholland (3835)" [label="Sylvia Mulholland (3835)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rhonda Lever (3830)" [label="Rhonda Lever (3830)
+Family First"]
+	"Sylvia Mulholland (3835)" -> "Craig Hesketh (3832)" [label=84]
+	"Rhonda Lever (3830)" -> "Sylvia Mulholland (3835)" [label=71]
+	"Rhonda Lever (3830)" -> "Craig Hesketh (3832)" [label=97]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Thomas Punch (2942)_Mitchell_2013" {
+	graph [label="Mitchell 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Thomas Punch (2942)" [label="Andrew Thomas Punch (2942)
+Labor"]
+	"Michael Bellstedt (2171)" [label="Michael Bellstedt (2171)
+The Greens"]
+	"Darryl Allen (2170)" [label="Darryl Allen (2170)
+Christian Democratic Party (Fred Nile Group)"]
+	"Murray Schultz (2940)" [label="Murray Schultz (2940)
+Palmer United Party"]
+	"Nathan Dodd (2941)" [label="Nathan Dodd (2941)
+Democratic Labour Party (DLP)"]
+	"Michael Bellstedt (2171)" -> "Andrew Thomas Punch (2942)" [label=4886]
+	"Darryl Allen (2170)" -> "Michael Bellstedt (2171)" [label=863]
+	"Murray Schultz (2940)" -> "Darryl Allen (2170)" [label=338]
+	"Nathan Dodd (2941)" -> "Murray Schultz (2940)" [label=118]
+	"Darryl Allen (2170)" -> "Andrew Thomas Punch (2942)" [label=478]
+	"Murray Schultz (2940)" -> "Andrew Thomas Punch (2942)" [label=709]
+	"Nathan Dodd (2941)" -> "Andrew Thomas Punch (2942)" [label=335]
+	"Nathan Dodd (2941)" -> "Darryl Allen (2170)" [label=172]
+	"Murray Schultz (2940)" -> "Michael Bellstedt (2171)" [label=602]
+	"Nathan Dodd (2941)" -> "Michael Bellstedt (2171)" [label=168]
+}

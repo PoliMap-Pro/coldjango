@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Campbell (4882)_Menzies_2007" {
+	graph [label="Menzies 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Campbell (4882)" [label="Andrew Campbell (4882)
+Australian Labor Party"]
+	"David Ellis (4880)" [label="David Ellis (4880)
+Australian Greens"]
+	"Philip Nitschke (4881)" [label="Philip Nitschke (4881)
+Independent"]
+	"Ken Smithies (3326)" [label="Ken Smithies (3326)
+Family First"]
+	"Damian Wise (4883)" [label="Damian Wise (4883)
+Australian Democrats"]
+	"David Ellis (4880)" -> "Andrew Campbell (4882)" [label=6032]
+	"Philip Nitschke (4881)" -> "David Ellis (4880)" [label=1795]
+	"Ken Smithies (3326)" -> "Philip Nitschke (4881)" [label=142]
+	"Damian Wise (4883)" -> "Ken Smithies (3326)" [label=65]
+	"Philip Nitschke (4881)" -> "Andrew Campbell (4882)" [label=1123]
+	"Ken Smithies (3326)" -> "Andrew Campbell (4882)" [label=365]
+	"Damian Wise (4883)" -> "Andrew Campbell (4882)" [label=215]
+	"Damian Wise (4883)" -> "Philip Nitschke (4881)" [label=174]
+	"Ken Smithies (3326)" -> "David Ellis (4880)" [label=314]
+	"Damian Wise (4883)" -> "David Ellis (4880)" [label=237]
+}

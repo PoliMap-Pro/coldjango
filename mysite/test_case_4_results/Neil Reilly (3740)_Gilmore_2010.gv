@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Neil Reilly (3740)_Gilmore_2010" {
+	graph [label="Gilmore 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Neil Reilly (3740)" [label="Neil Reilly (3740)
+Labor"]
+	"Ben Van Der Wijngaart (3738)" [label="Ben Van Der Wijngaart (3738)
+The Greens"]
+	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
+Christian Democratic Party (Fred Nile Group)"]
+	"Elizabeth Cunningham (3739)" [label="Elizabeth Cunningham (3739)
+Family First"]
+	"Don Keys (3743)" [label="Don Keys (3743)
+Liberal Democrats (LDP)"]
+	"Annette Williams (3742)" [label="Annette Williams (3742)
+Secular Party of Australia"]
+	"Ben Van Der Wijngaart (3738)" -> "Neil Reilly (3740)" [label=7519]
+	"Bohdan Brumerskyj (3737)" -> "Ben Van Der Wijngaart (3738)" [label=580]
+	"Elizabeth Cunningham (3739)" -> "Bohdan Brumerskyj (3737)" [label=190]
+	"Don Keys (3743)" -> "Elizabeth Cunningham (3739)" [label=41]
+	"Annette Williams (3742)" -> "Don Keys (3743)" [label=57]
+	"Bohdan Brumerskyj (3737)" -> "Neil Reilly (3740)" [label=358]
+	"Elizabeth Cunningham (3739)" -> "Neil Reilly (3740)" [label=228]
+	"Don Keys (3743)" -> "Neil Reilly (3740)" [label=63]
+	"Annette Williams (3742)" -> "Neil Reilly (3740)" [label=51]
+	"Annette Williams (3742)" -> "Elizabeth Cunningham (3739)" [label=32]
+	"Don Keys (3743)" -> "Bohdan Brumerskyj (3737)" [label=43]
+	"Annette Williams (3742)" -> "Bohdan Brumerskyj (3737)" [label=20]
+	"Elizabeth Cunningham (3739)" -> "Ben Van Der Wijngaart (3738)" [label=245]
+	"Don Keys (3743)" -> "Ben Van Der Wijngaart (3738)" [label=61]
+	"Annette Williams (3742)" -> "Ben Van Der Wijngaart (3738)" [label=75]
+}

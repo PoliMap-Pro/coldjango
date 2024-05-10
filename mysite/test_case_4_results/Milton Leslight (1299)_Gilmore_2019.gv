@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Milton Leslight (1299)_Gilmore_2019" {
+	graph [label="Gilmore 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Milton Leslight (1299)" [label="Milton Leslight (1299)
+United Australia Party"]
+	"Serah Kolukulapally (1300)" [label="Serah Kolukulapally (1300)
+Christian Democratic Party (Fred Nile Group)"]
+	"Serah Kolukulapally (1300)" -> "Milton Leslight (1299)" [label=177]
+}

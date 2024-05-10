@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Julia Irwin (4310)_Fowler_2004" {
+	graph [label="Fowler 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Julia Irwin (4310)" [label="Julia Irwin (4310)
+Australian Labor Party"]
+	"Pauline Tyrrell (2978)" [label="Pauline Tyrrell (2978)
+The Greens"]
+	"Jose Nunez (5079)" [label="Jose Nunez (5079)
+Independent"]
+	"Hal Johnson (4426)" [label="Hal Johnson (4426)
+Citizens Electoral Council"]
+	"Pauline Tyrrell (2978)" -> "Julia Irwin (4310)" [label=5121]
+	"Jose Nunez (5079)" -> "Pauline Tyrrell (2978)" [label=1035]
+	"Hal Johnson (4426)" -> "Jose Nunez (5079)" [label=411]
+	"Jose Nunez (5079)" -> "Julia Irwin (4310)" [label=575]
+	"Hal Johnson (4426)" -> "Julia Irwin (4310)" [label=337]
+	"Hal Johnson (4426)" -> "Pauline Tyrrell (2978)" [label=264]
+}

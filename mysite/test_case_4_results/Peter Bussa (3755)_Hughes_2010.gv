@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Peter Bussa (3755)_Hughes_2010" {
+	graph [label="Hughes 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Don Nguyen (3759)" [label="Don Nguyen (3759)
+Liberal Democrats (LDP)"]
+	"Stan Hurley (3757)" -> "Peter Bussa (3755)" [label=174]
+	"Don Nguyen (3759)" -> "Stan Hurley (3757)" [label=91]
+	"Don Nguyen (3759)" -> "Peter Bussa (3755)" [label=50]
+}

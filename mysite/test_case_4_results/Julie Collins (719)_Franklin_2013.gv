@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Julie Collins (719)_Franklin_2013" {
+	graph [label="Franklin 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Julie Collins (719)" [label="Julie Collins (719)
+Australian Labor Party"]
+	"Rosalie Woodruff (3304)" [label="Rosalie Woodruff (3304)
+Australian Greens"]
+	"Marti Zucco (3300)" [label="Marti Zucco (3300)
+Palmer United Party"]
+	"Josh Downes (3302)" [label="Josh Downes (3302)
+Family First"]
+	"Sarah Ugalde (3303)" [label="Sarah Ugalde (3303)
+Katter's Australian Party"]
+	"Olwyn Bowden (3305)" [label="Olwyn Bowden (3305)
+Rise Up Australia Party"]
+	"Rosalie Woodruff (3304)" -> "Julie Collins (719)" [label=7699]
+	"Marti Zucco (3300)" -> "Rosalie Woodruff (3304)" [label=582]
+	"Josh Downes (3302)" -> "Marti Zucco (3300)" [label=365]
+	"Sarah Ugalde (3303)" -> "Josh Downes (3302)" [label=99]
+	"Olwyn Bowden (3305)" -> "Sarah Ugalde (3303)" [label=65]
+	"Marti Zucco (3300)" -> "Julie Collins (719)" [label=2075]
+	"Josh Downes (3302)" -> "Julie Collins (719)" [label=308]
+	"Sarah Ugalde (3303)" -> "Julie Collins (719)" [label=95]
+	"Olwyn Bowden (3305)" -> "Julie Collins (719)" [label=33]
+	"Olwyn Bowden (3305)" -> "Josh Downes (3302)" [label=98]
+	"Sarah Ugalde (3303)" -> "Marti Zucco (3300)" [label=157]
+	"Olwyn Bowden (3305)" -> "Marti Zucco (3300)" [label=24]
+	"Josh Downes (3302)" -> "Rosalie Woodruff (3304)" [label=157]
+	"Sarah Ugalde (3303)" -> "Rosalie Woodruff (3304)" [label=75]
+	"Olwyn Bowden (3305)" -> "Rosalie Woodruff (3304)" [label=72]
+}

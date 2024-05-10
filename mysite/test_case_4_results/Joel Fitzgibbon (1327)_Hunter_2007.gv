@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Joel Fitzgibbon (1327)_Hunter_2007" {
+	graph [label="Hunter 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Joel Fitzgibbon (1327)" [label="Joel Fitzgibbon (1327)
+Labor"]
+	"Jan Davis (1400)" [label="Jan Davis (1400)
+The Greens"]
+	"John Harvey (2127)" [label="John Harvey (2127)
+Climate Change Coalition"]
+	"Bernie Neville (4337)" [label="Bernie Neville (4337)
+Christian Democratic Party (Fred Nile Group)"]
+	"Daniel Albury (4335)" [label="Daniel Albury (4335)
+Citizens Electoral Council"]
+	"Jan Davis (1400)" -> "Joel Fitzgibbon (1327)" [label=3684]
+	"John Harvey (2127)" -> "Jan Davis (1400)" [label=1145]
+	"Bernie Neville (4337)" -> "John Harvey (2127)" [label=293]
+	"Daniel Albury (4335)" -> "Bernie Neville (4337)" [label=116]
+	"John Harvey (2127)" -> "Joel Fitzgibbon (1327)" [label=688]
+	"Bernie Neville (4337)" -> "Joel Fitzgibbon (1327)" [label=447]
+	"Daniel Albury (4335)" -> "Joel Fitzgibbon (1327)" [label=124]
+	"Daniel Albury (4335)" -> "John Harvey (2127)" [label=123]
+	"Bernie Neville (4337)" -> "Jan Davis (1400)" [label=210]
+	"Daniel Albury (4335)" -> "Jan Davis (1400)" [label=595]
+}

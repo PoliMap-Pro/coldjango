@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Darren Cheeseman (3371)_Corangamite_2010" {
+	graph [label="Corangamite 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Darren Cheeseman (3371)" [label="Darren Cheeseman (3371)
+Australian Labor Party"]
+	"Mike Lawrence (4063)" [label="Mike Lawrence (4063)
+Australian Greens"]
+	"Ann Wojczuk (4065)" [label="Ann Wojczuk (4065)
+Family First"]
+	"Sally-Anne Brown (4064)" [label="Sally-Anne Brown (4064)
+Independent"]
+	"Nathan Timmins (4066)" [label="Nathan Timmins (4066)
+Liberal Democrats (LDP)"]
+	"Mike Lawrence (4063)" -> "Darren Cheeseman (3371)" [label=9186]
+	"Ann Wojczuk (4065)" -> "Mike Lawrence (4063)" [label=507]
+	"Sally-Anne Brown (4064)" -> "Ann Wojczuk (4065)" [label=390]
+	"Nathan Timmins (4066)" -> "Sally-Anne Brown (4064)" [label=79]
+	"Ann Wojczuk (4065)" -> "Darren Cheeseman (3371)" [label=632]
+	"Sally-Anne Brown (4064)" -> "Darren Cheeseman (3371)" [label=329]
+	"Nathan Timmins (4066)" -> "Darren Cheeseman (3371)" [label=45]
+	"Nathan Timmins (4066)" -> "Ann Wojczuk (4065)" [label=121]
+	"Sally-Anne Brown (4064)" -> "Mike Lawrence (4063)" [label=486]
+	"Nathan Timmins (4066)" -> "Mike Lawrence (4063)" [label=61]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "David Gunnyon (4959)_Pearce_2007" {
+	graph [label="Pearce 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Gunnyon (4959)" [label="David Gunnyon (4959)
+One Nation WA"]
+	"David Bolt (4960)" [label="David Bolt (4960)
+Family First"]
+	"Annolies Truman (4964)" [label="Annolies Truman (4964)
+Socialist Alliance"]
+	"Ron J Mclean (4961)" [label="Ron J Mclean (4961)
+Citizens Electoral Council"]
+	"David Bolt (4960)" -> "David Gunnyon (4959)" [label=121]
+	"Annolies Truman (4964)" -> "David Bolt (4960)" [label=26]
+	"Ron J Mclean (4961)" -> "Annolies Truman (4964)" [label=19]
+	"Annolies Truman (4964)" -> "David Gunnyon (4959)" [label=17]
+	"Ron J Mclean (4961)" -> "David Gunnyon (4959)" [label=41]
+	"Ron J Mclean (4961)" -> "David Bolt (4960)" [label=29]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Peter Grant (4918)_Curtin_2007" {
+	graph [label="Curtin 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Grant (4918)" [label="Peter Grant (4918)
+Australian Labor Party"]
+	"Lee Hemsley (4917)" [label="Lee Hemsley (4917)
+The Greens"]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+Christian Democratic Party"]
+	"Shahar Helel (4920)" [label="Shahar Helel (4920)
+Independent"]
+	"Bev Custers (3601)" [label="Bev Custers (3601)
+Family First"]
+	"Albert Caine (4919)" [label="Albert Caine (4919)
+One Nation WA"]
+	"Lee Hemsley (4917)" -> "Peter Grant (4918)" [label=8991]
+	"Gail Forder (3590)" -> "Lee Hemsley (4917)" [label=250]
+	"Shahar Helel (4920)" -> "Gail Forder (3590)" [label=68]
+	"Bev Custers (3601)" -> "Shahar Helel (4920)" [label=36]
+	"Albert Caine (4919)" -> "Bev Custers (3601)" [label=55]
+	"Gail Forder (3590)" -> "Peter Grant (4918)" [label=234]
+	"Shahar Helel (4920)" -> "Peter Grant (4918)" [label=90]
+	"Bev Custers (3601)" -> "Peter Grant (4918)" [label=50]
+	"Albert Caine (4919)" -> "Peter Grant (4918)" [label=48]
+	"Albert Caine (4919)" -> "Shahar Helel (4920)" [label=33]
+	"Bev Custers (3601)" -> "Gail Forder (3590)" [label=148]
+	"Albert Caine (4919)" -> "Gail Forder (3590)" [label=37]
+	"Shahar Helel (4920)" -> "Lee Hemsley (4917)" [label=217]
+	"Bev Custers (3601)" -> "Lee Hemsley (4917)" [label=79]
+	"Albert Caine (4919)" -> "Lee Hemsley (4917)" [label=64]
+}

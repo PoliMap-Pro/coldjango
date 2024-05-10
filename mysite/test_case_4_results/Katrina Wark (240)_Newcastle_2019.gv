@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Katrina Wark (240)_Newcastle_2019" {
+	graph [label="Newcastle 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Katrina Wark (240)" [label="Katrina Wark (240)
+Liberal"]
+	"John Mackenzie (1373)" [label="John Mackenzie (1373)
+The Greens"]
+	"Geoffrey Scully (1375)" [label="Geoffrey Scully (1375)
+United Australia Party"]
+	"Darren Brollo (1377)" [label="Darren Brollo (1377)
+Animal Justice Party"]
+	"Pam Wise (1374)" [label="Pam Wise (1374)
+Christian Democratic Party (Fred Nile Group)"]
+	"B.J. Futter (1376)" [label="B.J. Futter (1376)
+The Great Australian Party"]
+	"John Mackenzie (1373)" -> "Katrina Wark (240)" [label=3017]
+	"Geoffrey Scully (1375)" -> "John Mackenzie (1373)" [label=1277]
+	"Darren Brollo (1377)" -> "Geoffrey Scully (1375)" [label=668]
+	"Pam Wise (1374)" -> "Darren Brollo (1377)" [label=166]
+	"B.J. Futter (1376)" -> "Pam Wise (1374)" [label=86]
+	"Geoffrey Scully (1375)" -> "Katrina Wark (240)" [label=2294]
+	"Darren Brollo (1377)" -> "Katrina Wark (240)" [label=651]
+	"Pam Wise (1374)" -> "Katrina Wark (240)" [label=1088]
+	"B.J. Futter (1376)" -> "Katrina Wark (240)" [label=126]
+	"B.J. Futter (1376)" -> "Darren Brollo (1377)" [label=273]
+	"Pam Wise (1374)" -> "Geoffrey Scully (1375)" [label=354]
+	"B.J. Futter (1376)" -> "Geoffrey Scully (1375)" [label=343]
+	"Darren Brollo (1377)" -> "John Mackenzie (1373)" [label=1611]
+	"Pam Wise (1374)" -> "John Mackenzie (1373)" [label=136]
+	"B.J. Futter (1376)" -> "John Mackenzie (1373)" [label=99]
+}

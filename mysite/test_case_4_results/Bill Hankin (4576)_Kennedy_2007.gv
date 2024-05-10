@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Bill Hankin (4576)_Kennedy_2007" {
+	graph [label="Kennedy 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bill Hankin (4576)" [label="Bill Hankin (4576)
+One Nation WA"]
+	"Nigel Asplin (4579)" [label="Nigel Asplin (4579)
+Democrats"]
+	"Nigel Asplin (4579)" -> "Bill Hankin (4576)" [label=28]
+}

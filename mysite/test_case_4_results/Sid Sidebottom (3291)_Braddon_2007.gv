@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Sid Sidebottom (3291)_Braddon_2007" {
+	graph [label="Braddon 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sid Sidebottom (3291)" [label="Sid Sidebottom (3291)
+Australian Labor Party"]
+	"Paul O'Halloran (4711)" [label="Paul O'Halloran (4711)
+The Greens"]
+	"Wayne De Bomford (4709)" [label="Wayne De Bomford (4709)
+Family First"]
+	"Peter Cunningham (4713)" [label="Peter Cunningham (4713)
+LDP"]
+	"Stephen Anthony Dick (4712)" [label="Stephen Anthony Dick (4712)
+Citizens Electoral Council"]
+	"Paul O'Halloran (4711)" -> "Sid Sidebottom (3291)" [label=4268]
+	"Wayne De Bomford (4709)" -> "Paul O'Halloran (4711)" [label=355]
+	"Peter Cunningham (4713)" -> "Wayne De Bomford (4709)" [label=80]
+	"Stephen Anthony Dick (4712)" -> "Peter Cunningham (4713)" [label=75]
+	"Wayne De Bomford (4709)" -> "Sid Sidebottom (3291)" [label=608]
+	"Peter Cunningham (4713)" -> "Sid Sidebottom (3291)" [label=176]
+	"Stephen Anthony Dick (4712)" -> "Sid Sidebottom (3291)" [label=85]
+	"Stephen Anthony Dick (4712)" -> "Wayne De Bomford (4709)" [label=45]
+	"Peter Cunningham (4713)" -> "Paul O'Halloran (4711)" [label=83]
+	"Stephen Anthony Dick (4712)" -> "Paul O'Halloran (4711)" [label=42]
+}

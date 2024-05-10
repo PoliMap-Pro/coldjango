@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kevin Rudd (3130)_Griffith_2007" {
+	graph [label="Griffith 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kevin Rudd (3130)" [label="Kevin Rudd (3130)
+Australian Labor Party"]
+	"Willy Bach (4554)" [label="Willy Bach (4554)
+The Greens"]
+	"P M Howard (4555)" [label="P M Howard (4555)
+Independent"]
+	"Rob Cotterill (4557)" [label="Rob Cotterill (4557)
+Democrats"]
+	"Andrew R Hassall (4556)" [label="Andrew R Hassall (4556)
+Family First"]
+	"Jim Mcilroy (4553)" [label="Jim Mcilroy (4553)
+Socialist Alliance"]
+	"Samantha Myers (4552)" [label="Samantha Myers (4552)
+LDP"]
+	"Willy Bach (4554)" -> "Kevin Rudd (3130)" [label=6415]
+	"P M Howard (4555)" -> "Willy Bach (4554)" [label=641]
+	"Rob Cotterill (4557)" -> "P M Howard (4555)" [label=133]
+	"Andrew R Hassall (4556)" -> "Rob Cotterill (4557)" [label=62]
+	"Jim Mcilroy (4553)" -> "Andrew R Hassall (4556)" [label=9]
+	"Samantha Myers (4552)" -> "Jim Mcilroy (4553)" [label=20]
+	"P M Howard (4555)" -> "Kevin Rudd (3130)" [label=729]
+	"Rob Cotterill (4557)" -> "Kevin Rudd (3130)" [label=244]
+	"Andrew R Hassall (4556)" -> "Kevin Rudd (3130)" [label=148]
+	"Jim Mcilroy (4553)" -> "Kevin Rudd (3130)" [label=74]
+	"Samantha Myers (4552)" -> "Kevin Rudd (3130)" [label=33]
+	"Samantha Myers (4552)" -> "Andrew R Hassall (4556)" [label=16]
+	"Jim Mcilroy (4553)" -> "Rob Cotterill (4557)" [label=13]
+	"Samantha Myers (4552)" -> "Rob Cotterill (4557)" [label=16]
+	"Andrew R Hassall (4556)" -> "P M Howard (4555)" [label=105]
+	"Jim Mcilroy (4553)" -> "P M Howard (4555)" [label=19]
+	"Samantha Myers (4552)" -> "P M Howard (4555)" [label=23]
+	"Rob Cotterill (4557)" -> "Willy Bach (4554)" [label=416]
+	"Andrew R Hassall (4556)" -> "Willy Bach (4554)" [label=73]
+	"Jim Mcilroy (4553)" -> "Willy Bach (4554)" [label=180]
+	"Samantha Myers (4552)" -> "Willy Bach (4554)" [label=15]
+}

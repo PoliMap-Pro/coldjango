@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Shawn Lock (678)_Spence_2022" {
+	graph [label="Spence 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shawn Lock (678)" [label="Shawn Lock (678)
+Liberal"]
+	"Linda Champion (679)" [label="Linda Champion (679)
+Pauline Hanson's One Nation"]
+	"David Deex (676)" [label="David Deex (676)
+The Greens"]
+	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
+United Australia Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Linda Champion (679)" -> "Shawn Lock (678)" [label=9244]
+	"David Deex (676)" -> "Linda Champion (679)" [label=2468]
+	"Alvin Eric Warren (674)" -> "David Deex (676)" [label=1255]
+	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
+	"David Deex (676)" -> "Shawn Lock (678)" [label=1943]
+	"Alvin Eric Warren (674)" -> "Shawn Lock (678)" [label=876]
+	"Matilda Bawden (677)" -> "Shawn Lock (678)" [label=193]
+	"Matilda Bawden (677)" -> "David Deex (676)" [label=320]
+	"Alvin Eric Warren (674)" -> "Linda Champion (679)" [label=3353]
+	"Matilda Bawden (677)" -> "Linda Champion (679)" [label=607]
+}

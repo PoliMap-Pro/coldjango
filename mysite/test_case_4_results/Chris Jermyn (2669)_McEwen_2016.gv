@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Chris Jermyn (2669)_McEwen_2016" {
+	graph [label="McEwen 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Jermyn (2669)" [label="Chris Jermyn (2669)
+Liberal"]
+	"Neil Barker (998)" [label="Neil Barker (998)
+The Greens"]
+	"Dorothy Lorraine Long (2673)" [label="Dorothy Lorraine Long (2673)
+Family First Party"]
+	"Ross Lee (2670)" [label="Ross Lee (2670)
+Independent"]
+	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
+Animal Justice Party"]
+	"James Anderson (2668)" [label="James Anderson (2668)
+The Nationals"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Tracey Andrew (2671)" [label="Tracey Andrew (2671)
+Australian Country Party"]
+	"Neil Barker (998)" -> "Chris Jermyn (2669)" [label=2861]
+	"Dorothy Lorraine Long (2673)" -> "Neil Barker (998)" [label=2417]
+	"Ross Lee (2670)" -> "Dorothy Lorraine Long (2673)" [label=1932]
+	"Cathy Vaina (2672)" -> "Ross Lee (2670)" [label=596]
+	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
+	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
+	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
+	"Dorothy Lorraine Long (2673)" -> "Chris Jermyn (2669)" [label=3313]
+	"Ross Lee (2670)" -> "Chris Jermyn (2669)" [label=1071]
+	"Cathy Vaina (2672)" -> "Chris Jermyn (2669)" [label=328]
+	"James Anderson (2668)" -> "Chris Jermyn (2669)" [label=1648]
+	"Jeff Truscott (1846)" -> "Chris Jermyn (2669)" [label=182]
+	"Tracey Andrew (2671)" -> "Chris Jermyn (2669)" [label=164]
+	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
+	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
+	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
+	"James Anderson (2668)" -> "Ross Lee (2670)" [label=321]
+	"Jeff Truscott (1846)" -> "Ross Lee (2670)" [label=440]
+	"Tracey Andrew (2671)" -> "Ross Lee (2670)" [label=304]
+	"Cathy Vaina (2672)" -> "Dorothy Lorraine Long (2673)" [label=1457]
+	"James Anderson (2668)" -> "Dorothy Lorraine Long (2673)" [label=253]
+	"Jeff Truscott (1846)" -> "Dorothy Lorraine Long (2673)" [label=786]
+	"Tracey Andrew (2671)" -> "Dorothy Lorraine Long (2673)" [label=258]
+	"Ross Lee (2670)" -> "Neil Barker (998)" [label=658]
+	"Cathy Vaina (2672)" -> "Neil Barker (998)" [label=794]
+	"James Anderson (2668)" -> "Neil Barker (998)" [label=238]
+	"Jeff Truscott (1846)" -> "Neil Barker (998)" [label=41]
+	"Tracey Andrew (2671)" -> "Neil Barker (998)" [label=55]
+}

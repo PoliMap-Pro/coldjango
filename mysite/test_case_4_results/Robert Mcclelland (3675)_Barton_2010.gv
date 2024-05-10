@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Robert Mcclelland (3675)_Barton_2010" {
+	graph [label="Barton 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Robert Mcclelland (3675)" [label="Robert Mcclelland (3675)
+Labor"]
+	"Simone Francis (3676)" [label="Simone Francis (3676)
+The Greens"]
+	"Simone Francis (3676)" -> "Robert Mcclelland (3675)" [label=6593]
+}

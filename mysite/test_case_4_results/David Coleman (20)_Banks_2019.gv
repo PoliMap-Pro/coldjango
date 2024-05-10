@@ -1,0 +1,25 @@
+// House preference flow
+digraph "David Coleman (20)_Banks_2019" {
+	graph [label="Banks 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Coleman (20)" [label="David Coleman (20)
+Liberal"]
+	"Gianluca Dragone (1218)" [label="Gianluca Dragone (1218)
+The Greens"]
+	"Ki Man Ho (1222)" [label="Ki Man Ho (1222)
+Christian Democratic Party (Fred Nile Group)"]
+	"Reginald Keith Wright (1220)" [label="Reginald Keith Wright (1220)
+United Australia Party"]
+	"Anjali Thakur (1221)" [label="Anjali Thakur (1221)
+Animal Justice Party"]
+	"Gianluca Dragone (1218)" -> "David Coleman (20)" [label=1430]
+	"Ki Man Ho (1222)" -> "Gianluca Dragone (1218)" [label=482]
+	"Reginald Keith Wright (1220)" -> "Ki Man Ho (1222)" [label=525]
+	"Anjali Thakur (1221)" -> "Reginald Keith Wright (1220)" [label=230]
+	"Ki Man Ho (1222)" -> "David Coleman (20)" [label=2293]
+	"Reginald Keith Wright (1220)" -> "David Coleman (20)" [label=896]
+	"Anjali Thakur (1221)" -> "David Coleman (20)" [label=281]
+	"Anjali Thakur (1221)" -> "Ki Man Ho (1222)" [label=217]
+	"Reginald Keith Wright (1220)" -> "Gianluca Dragone (1218)" [label=343]
+	"Anjali Thakur (1221)" -> "Gianluca Dragone (1218)" [label=571]
+}

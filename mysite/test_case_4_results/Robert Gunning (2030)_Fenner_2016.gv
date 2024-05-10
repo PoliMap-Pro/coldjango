@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Robert Gunning (2030)_Fenner_2016" {
+	graph [label="Fenner 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Gunning (2030)" [label="Robert Gunning (2030)
+Liberal"]
+	"Carly Saeedi (2031)" [label="Carly Saeedi (2031)
+The Greens"]
+	"Andrew Woodman (2029)" [label="Andrew Woodman (2029)
+Independent"]
+	"Tim Bohm (10)" [label="Tim Bohm (10)
+Bullet Train For Australia"]
+	"Carly Saeedi (2031)" -> "Robert Gunning (2030)" [label=3013]
+	"Andrew Woodman (2029)" -> "Carly Saeedi (2031)" [label=2116]
+	"Tim Bohm (10)" -> "Andrew Woodman (2029)" [label=1324]
+	"Andrew Woodman (2029)" -> "Robert Gunning (2030)" [label=1824]
+	"Tim Bohm (10)" -> "Robert Gunning (2030)" [label=1013]
+	"Tim Bohm (10)" -> "Carly Saeedi (2031)" [label=1177]
+}

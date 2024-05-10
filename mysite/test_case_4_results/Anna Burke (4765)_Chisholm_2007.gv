@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Anna Burke (4765)_Chisholm_2007" {
+	graph [label="Chisholm 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Anna Burke (4765)" [label="Anna Burke (4765)
+Australian Labor Party"]
+	"Alistair Mccaskill (4769)" [label="Alistair Mccaskill (4769)
+Australian Greens"]
+	"Gary Ong (4100)" [label="Gary Ong (4100)
+Family First"]
+	"Daniel Berk (4767)" [label="Daniel Berk (4767)
+Australian Democrats"]
+	"Lars Thystrup (4768)" [label="Lars Thystrup (4768)
+Citizens Electoral Council"]
+	"Alistair Mccaskill (4769)" -> "Anna Burke (4765)" [label=6309]
+	"Gary Ong (4100)" -> "Alistair Mccaskill (4769)" [label=292]
+	"Daniel Berk (4767)" -> "Gary Ong (4100)" [label=79]
+	"Lars Thystrup (4768)" -> "Daniel Berk (4767)" [label=40]
+	"Gary Ong (4100)" -> "Anna Burke (4765)" [label=762]
+	"Daniel Berk (4767)" -> "Anna Burke (4765)" [label=302]
+	"Lars Thystrup (4768)" -> "Anna Burke (4765)" [label=21]
+	"Lars Thystrup (4768)" -> "Gary Ong (4100)" [label=22]
+	"Daniel Berk (4767)" -> "Alistair Mccaskill (4769)" [label=518]
+	"Lars Thystrup (4768)" -> "Alistair Mccaskill (4769)" [label=39]
+}

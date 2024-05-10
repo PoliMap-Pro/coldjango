@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Andrew Hastie (1082)_Canning_2019" {
+	graph [label="Canning 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Hastie (1082)" [label="Andrew Hastie (1082)
+Liberal"]
+	"Jackson Wreford (1935)" [label="Jackson Wreford (1935)
+Pauline Hanson's One Nation"]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Brett Clarke (1939)" [label="Brett Clarke (1939)
+WESTERN AUSTRALIA PARTY"]
+	"Steve Veevers (1937)" [label="Steve Veevers (1937)
+United Australia Party"]
+	"Jamie Van Burgel (1936)" [label="Jamie Van Burgel (1936)
+Australian Christians"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jackson Wreford (1935)" -> "Andrew Hastie (1082)" [label=6929]
+	"Jodie Moffat (1089)" -> "Jackson Wreford (1935)" [label=1202]
+	"Brett Clarke (1939)" -> "Jodie Moffat (1089)" [label=537]
+	"Steve Veevers (1937)" -> "Brett Clarke (1939)" [label=292]
+	"Jamie Van Burgel (1936)" -> "Steve Veevers (1937)" [label=109]
+	"Malcolm Phillip Heffernan (25)" -> "Jamie Van Burgel (1936)" [label=107]
+	"Jodie Moffat (1089)" -> "Andrew Hastie (1082)" [label=1543]
+	"Brett Clarke (1939)" -> "Andrew Hastie (1082)" [label=690]
+	"Steve Veevers (1937)" -> "Andrew Hastie (1082)" [label=751]
+	"Jamie Van Burgel (1936)" -> "Andrew Hastie (1082)" [label=1299]
+	"Malcolm Phillip Heffernan (25)" -> "Andrew Hastie (1082)" [label=155]
+	"Malcolm Phillip Heffernan (25)" -> "Steve Veevers (1937)" [label=93]
+	"Jamie Van Burgel (1936)" -> "Brett Clarke (1939)" [label=107]
+	"Malcolm Phillip Heffernan (25)" -> "Brett Clarke (1939)" [label=152]
+	"Steve Veevers (1937)" -> "Jodie Moffat (1089)" [label=199]
+	"Jamie Van Burgel (1936)" -> "Jodie Moffat (1089)" [label=84]
+	"Malcolm Phillip Heffernan (25)" -> "Jodie Moffat (1089)" [label=65]
+	"Brett Clarke (1939)" -> "Jackson Wreford (1935)" [label=858]
+	"Steve Veevers (1937)" -> "Jackson Wreford (1935)" [label=806]
+	"Jamie Van Burgel (1936)" -> "Jackson Wreford (1935)" [label=195]
+	"Malcolm Phillip Heffernan (25)" -> "Jackson Wreford (1935)" [label=972]
+}

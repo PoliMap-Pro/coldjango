@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Timothy Peter Elton (16)_Fenner_2022" {
+	graph [label="Fenner 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Timothy Peter Elton (16)" [label="Timothy Peter Elton (16)
+United Australia Party"]
+	"Guy Jakeman (19)" [label="Guy Jakeman (19)
+Liberal Democrats"]
+	"Guy Jakeman (19)" -> "Timothy Peter Elton (16)" [label=238]
+}

@@ -1,0 +1,70 @@
+// House preference flow
+digraph "Andrew Hastie (1082)_Canning_2022" {
+	graph [label="Canning 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Hastie (1082)" [label="Andrew Hastie (1082)
+Liberal"]
+	"Jodie Moffat (1089)" [label="Jodie Moffat (1089)
+The Greens (WA)"]
+	"Tammi Siwes (1084)" [label="Tammi Siwes (1084)
+Pauline Hanson's One Nation"]
+	"James Gordon Waldeck (1086)" [label="James Gordon Waldeck (1086)
+United Australia Party"]
+	"Brad Bedford (1087)" [label="Brad Bedford (1087)
+WESTERN AUSTRALIA PARTY"]
+	"Ashley Elphin Williams (1090)" [label="Ashley Elphin Williams (1090)
+Independent"]
+	"Andriette Du Plessis (1091)" [label="Andriette Du Plessis (1091)
+Australian Christians"]
+	"Judith Congrene (1088)" [label="Judith Congrene (1088)
+Informed Medical Options Party"]
+	"David Gardiner (1092)" [label="David Gardiner (1092)
+Liberal Democrats"]
+	"Anthony Gardyne (1085)" [label="Anthony Gardyne (1085)
+Australian Federation Party"]
+	"Jodie Moffat (1089)" -> "Andrew Hastie (1082)" [label=3076]
+	"Tammi Siwes (1084)" -> "Jodie Moffat (1089)" [label=3691]
+	"James Gordon Waldeck (1086)" -> "Tammi Siwes (1084)" [label=2898]
+	"Brad Bedford (1087)" -> "James Gordon Waldeck (1086)" [label=546]
+	"Ashley Elphin Williams (1090)" -> "Brad Bedford (1087)" [label=512]
+	"Andriette Du Plessis (1091)" -> "Ashley Elphin Williams (1090)" [label=213]
+	"Judith Congrene (1088)" -> "Andriette Du Plessis (1091)" [label=109]
+	"David Gardiner (1092)" -> "Judith Congrene (1088)" [label=54]
+	"Anthony Gardyne (1085)" -> "David Gardiner (1092)" [label=32]
+	"Tammi Siwes (1084)" -> "Andrew Hastie (1082)" [label=3577]
+	"James Gordon Waldeck (1086)" -> "Andrew Hastie (1082)" [label=396]
+	"Brad Bedford (1087)" -> "Andrew Hastie (1082)" [label=607]
+	"Ashley Elphin Williams (1090)" -> "Andrew Hastie (1082)" [label=176]
+	"Andriette Du Plessis (1091)" -> "Andrew Hastie (1082)" [label=1148]
+	"Judith Congrene (1088)" -> "Andrew Hastie (1082)" [label=41]
+	"David Gardiner (1092)" -> "Andrew Hastie (1082)" [label=173]
+	"Anthony Gardyne (1085)" -> "Andrew Hastie (1082)" [label=25]
+	"Anthony Gardyne (1085)" -> "Judith Congrene (1088)" [label=222]
+	"David Gardiner (1092)" -> "Andriette Du Plessis (1091)" [label=112]
+	"Anthony Gardyne (1085)" -> "Andriette Du Plessis (1091)" [label=19]
+	"Judith Congrene (1088)" -> "Ashley Elphin Williams (1090)" [label=248]
+	"David Gardiner (1092)" -> "Ashley Elphin Williams (1090)" [label=69]
+	"Anthony Gardyne (1085)" -> "Ashley Elphin Williams (1090)" [label=46]
+	"Andriette Du Plessis (1091)" -> "Brad Bedford (1087)" [label=92]
+	"Judith Congrene (1088)" -> "Brad Bedford (1087)" [label=142]
+	"David Gardiner (1092)" -> "Brad Bedford (1087)" [label=69]
+	"Anthony Gardyne (1085)" -> "Brad Bedford (1087)" [label=67]
+	"Ashley Elphin Williams (1090)" -> "James Gordon Waldeck (1086)" [label=582]
+	"Andriette Du Plessis (1091)" -> "James Gordon Waldeck (1086)" [label=94]
+	"Judith Congrene (1088)" -> "James Gordon Waldeck (1086)" [label=149]
+	"David Gardiner (1092)" -> "James Gordon Waldeck (1086)" [label=98]
+	"Anthony Gardyne (1085)" -> "James Gordon Waldeck (1086)" [label=66]
+	"Brad Bedford (1087)" -> "Tammi Siwes (1084)" [label=722]
+	"Ashley Elphin Williams (1090)" -> "Tammi Siwes (1084)" [label=433]
+	"Andriette Du Plessis (1091)" -> "Tammi Siwes (1084)" [label=246]
+	"Judith Congrene (1088)" -> "Tammi Siwes (1084)" [label=218]
+	"David Gardiner (1092)" -> "Tammi Siwes (1084)" [label=125]
+	"Anthony Gardyne (1085)" -> "Tammi Siwes (1084)" [label=100]
+	"James Gordon Waldeck (1086)" -> "Jodie Moffat (1089)" [label=451]
+	"Brad Bedford (1087)" -> "Jodie Moffat (1089)" [label=592]
+	"Ashley Elphin Williams (1090)" -> "Jodie Moffat (1089)" [label=420]
+	"Andriette Du Plessis (1091)" -> "Jodie Moffat (1089)" [label=61]
+	"Judith Congrene (1088)" -> "Jodie Moffat (1089)" [label=96]
+	"David Gardiner (1092)" -> "Jodie Moffat (1089)" [label=43]
+	"Anthony Gardyne (1085)" -> "Jodie Moffat (1089)" [label=25]
+}

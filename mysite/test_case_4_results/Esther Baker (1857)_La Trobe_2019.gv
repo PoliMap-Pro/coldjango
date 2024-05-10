@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Esther Baker (1857)_La Trobe_2019" {
+	graph [label="La Trobe 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Esther Baker (1857)" [label="Esther Baker (1857)
+Pauline Hanson's One Nation"]
+	"Asher Joseph Calwell-Browne (1860)" [label="Asher Joseph Calwell-Browne (1860)
+Derryn Hinch's Justice Party"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Asher Joseph Calwell-Browne (1860)" -> "Esther Baker (1857)" [label=944]
+	"Duncan Dean (1858)" -> "Asher Joseph Calwell-Browne (1860)" [label=393]
+	"Norman Baker (1856)" -> "Duncan Dean (1858)" [label=133]
+	"Duncan Dean (1858)" -> "Esther Baker (1857)" [label=723]
+	"Norman Baker (1856)" -> "Esther Baker (1857)" [label=250]
+	"Norman Baker (1856)" -> "Asher Joseph Calwell-Browne (1860)" [label=70]
+}

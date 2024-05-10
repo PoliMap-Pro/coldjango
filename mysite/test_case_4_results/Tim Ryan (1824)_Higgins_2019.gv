@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Tim Ryan (1824)_Higgins_2019" {
+	graph [label="Higgins 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tim Ryan (1824)" [label="Tim Ryan (1824)
+United Australia Party"]
+}

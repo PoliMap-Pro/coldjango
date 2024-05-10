@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Harry Jenkins (4155)_Scullin_2004" {
+	graph [label="Scullin 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Harry Jenkins (4155)" [label="Harry Jenkins (4155)
+Australian Labor Party"]
+	"Merinda Gray (5654)" [label="Merinda Gray (5654)
+Australian Greens"]
+	"Amy Shand (5653)" [label="Amy Shand (5653)
+Family First"]
+	"Simon Steer (5651)" [label="Simon Steer (5651)
+Citizens Electoral Council"]
+	"Merinda Gray (5654)" -> "Harry Jenkins (4155)" [label=3614]
+	"Amy Shand (5653)" -> "Merinda Gray (5654)" [label=530]
+	"Simon Steer (5651)" -> "Amy Shand (5653)" [label=253]
+	"Amy Shand (5653)" -> "Harry Jenkins (4155)" [label=793]
+	"Simon Steer (5651)" -> "Harry Jenkins (4155)" [label=110]
+	"Simon Steer (5651)" -> "Merinda Gray (5654)" [label=124]
+}

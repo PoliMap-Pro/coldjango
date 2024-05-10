@@ -3,8 +3,8 @@ from ... import models
 
 
 class Command(BaseCommand):
-    help = "How many voters put Greens in the top 3 for the " \
-           "senate in 2022.\n\n"
+    help = "How many voters put Greens in the top 3 for the senate in " \
+           "2022.\n\n"
 
     AEC_RESULTS = {}
 

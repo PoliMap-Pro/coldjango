@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jodie Yardley (4924)_Forrest_2007" {
+	graph [label="Forrest 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
+Citizens Electoral Council"]
+	"Ian Tuffnell (3605)" -> "Jodie Yardley (4924)" [label=16]
+}

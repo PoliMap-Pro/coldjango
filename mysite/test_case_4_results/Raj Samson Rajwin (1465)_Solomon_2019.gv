@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Raj Samson Rajwin (1465)_Solomon_2019" {
+	graph [label="Solomon 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Raj Samson Rajwin (1465)" [label="Raj Samson Rajwin (1465)
+United Australia Party"]
+	"Lorraine Gimini (1462)" [label="Lorraine Gimini (1462)
+Rise Up Australia Party"]
+	"Lorraine Gimini (1462)" -> "Raj Samson Rajwin (1465)" [label=254]
+}

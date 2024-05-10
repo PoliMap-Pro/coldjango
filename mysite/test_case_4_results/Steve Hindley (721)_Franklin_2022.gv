@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Steve Hindley (721)_Franklin_2022" {
+	graph [label="Franklin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Steve Hindley (721)" [label="Steve Hindley (721)
+Pauline Hanson's One Nation"]
+	"Duane Pitt (720)" [label="Duane Pitt (720)
+Liberal Democrats"]
+	"Lisa Matthews (722)" [label="Lisa Matthews (722)
+United Australia Party"]
+	"Katrina Love (725)" [label="Katrina Love (725)
+Animal Justice Party"]
+	"Duane Pitt (720)" -> "Steve Hindley (721)" [label=369]
+	"Lisa Matthews (722)" -> "Duane Pitt (720)" [label=188]
+	"Katrina Love (725)" -> "Lisa Matthews (722)" [label=53]
+	"Lisa Matthews (722)" -> "Steve Hindley (721)" [label=515]
+	"Katrina Love (725)" -> "Steve Hindley (721)" [label=39]
+	"Katrina Love (725)" -> "Duane Pitt (720)" [label=23]
+}

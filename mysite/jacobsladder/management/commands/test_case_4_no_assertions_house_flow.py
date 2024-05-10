@@ -81,7 +81,7 @@ class Command(BaseCommand):
             comment='House preference flow',
             node_attr={'shape': Command.NODE_SHAPE},
             graph_attr={'labelloc': 't', 'label': f"{seat.name} {year}",
-                        'mclimit': '10', },
+                        'mclimit': '10',},
             engine='dot'), [], []
 
     @staticmethod

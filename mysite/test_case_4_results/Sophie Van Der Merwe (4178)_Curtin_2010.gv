@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sophie Van Der Merwe (4178)_Curtin_2010" {
+	graph [label="Curtin 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sophie Van Der Merwe (4178)" [label="Sophie Van Der Merwe (4178)
+Australian Labor Party"]
+	"George Crisp (4177)" [label="George Crisp (4177)
+The Greens"]
+	"Pat Seymour (4179)" [label="Pat Seymour (4179)
+Christian Democratic Party"]
+	"George Crisp (4177)" -> "Sophie Van Der Merwe (4178)" [label=11611]
+	"Pat Seymour (4179)" -> "George Crisp (4177)" [label=278]
+	"Pat Seymour (4179)" -> "Sophie Van Der Merwe (4178)" [label=287]
+}

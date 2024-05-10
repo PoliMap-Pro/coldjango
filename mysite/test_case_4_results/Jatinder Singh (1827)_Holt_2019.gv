@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jatinder Singh (1827)_Holt_2019" {
+	graph [label="Holt 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
+United Australia Party"]
+}

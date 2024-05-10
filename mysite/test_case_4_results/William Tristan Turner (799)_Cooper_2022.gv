@@ -1,0 +1,14 @@
+// House preference flow
+digraph "William Tristan Turner (799)_Cooper_2022" {
+	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Rabin Bangaar (793)" -> "William Tristan Turner (799)" [label=126]
+	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+	"Adrian Whitehead (796)" -> "William Tristan Turner (799)" [label=41]
+}

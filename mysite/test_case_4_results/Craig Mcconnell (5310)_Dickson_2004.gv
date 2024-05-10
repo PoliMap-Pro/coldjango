@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Craig Mcconnell (5310)_Dickson_2004" {
+	graph [label="Dickson 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Craig Mcconnell (5310)" [label="Craig Mcconnell (5310)
+Australian Labor Party"]
+	"Howard Robert Nielsen (5312)" [label="Howard Robert Nielsen (5312)
+The Greens"]
+	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
+Family First"]
+	"Kirsty Reye (5311)" [label="Kirsty Reye (5311)
+Australian Democrats"]
+	"Terry Hyland (5309)" [label="Terry Hyland (5309)
+The Great Australians"]
+	"Howard Robert Nielsen (5312)" -> "Craig Mcconnell (5310)" [label=4188]
+	"Dale Shuttleworth (4511)" -> "Howard Robert Nielsen (5312)" [label=633]
+	"Kirsty Reye (5311)" -> "Dale Shuttleworth (4511)" [label=157]
+	"Terry Hyland (5309)" -> "Kirsty Reye (5311)" [label=49]
+	"Dale Shuttleworth (4511)" -> "Craig Mcconnell (5310)" [label=617]
+	"Kirsty Reye (5311)" -> "Craig Mcconnell (5310)" [label=342]
+	"Terry Hyland (5309)" -> "Craig Mcconnell (5310)" [label=46]
+	"Terry Hyland (5309)" -> "Dale Shuttleworth (4511)" [label=159]
+	"Kirsty Reye (5311)" -> "Howard Robert Nielsen (5312)" [label=534]
+	"Terry Hyland (5309)" -> "Howard Robert Nielsen (5312)" [label=46]
+}

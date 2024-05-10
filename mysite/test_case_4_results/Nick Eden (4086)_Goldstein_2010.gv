@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Nick Eden (4086)_Goldstein_2010" {
+	graph [label="Goldstein 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Nick Eden (4086)" [label="Nick Eden (4086)
+Australian Labor Party"]
+	"Neil Pilling (4088)" [label="Neil Pilling (4088)
+Australian Greens"]
+	"Anthony Forster (4087)" [label="Anthony Forster (4087)
+Family First"]
+	"Neil Pilling (4088)" -> "Nick Eden (4086)" [label=11257]
+	"Anthony Forster (4087)" -> "Neil Pilling (4088)" [label=321]
+	"Anthony Forster (4087)" -> "Nick Eden (4086)" [label=327]
+}

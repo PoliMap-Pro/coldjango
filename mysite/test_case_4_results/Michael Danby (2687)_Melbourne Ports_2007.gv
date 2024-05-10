@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michael Danby (2687)_Melbourne Ports_2007" {
+	graph [label="Melbourne Ports 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Danby (2687)" [label="Michael Danby (2687)
+Australian Labor Party"]
+	"Phillip Walker (4876)" [label="Phillip Walker (4876)
+Australian Greens"]
+	"John Mathieson (4875)" [label="John Mathieson (4875)
+Australian Democrats"]
+	"Rebecca Gebbing (4877)" [label="Rebecca Gebbing (4877)
+Family First"]
+	"Aaron Isherwood (4879)" [label="Aaron Isherwood (4879)
+Citizens Electoral Council"]
+	"Phillip Walker (4876)" -> "Michael Danby (2687)" [label=11990]
+	"John Mathieson (4875)" -> "Phillip Walker (4876)" [label=947]
+	"Rebecca Gebbing (4877)" -> "John Mathieson (4875)" [label=94]
+	"Aaron Isherwood (4879)" -> "Rebecca Gebbing (4877)" [label=34]
+	"John Mathieson (4875)" -> "Michael Danby (2687)" [label=449]
+	"Rebecca Gebbing (4877)" -> "Michael Danby (2687)" [label=169]
+	"Aaron Isherwood (4879)" -> "Michael Danby (2687)" [label=27]
+	"Aaron Isherwood (4879)" -> "John Mathieson (4875)" [label=34]
+	"Rebecca Gebbing (4877)" -> "Phillip Walker (4876)" [label=203]
+	"Aaron Isherwood (4879)" -> "Phillip Walker (4876)" [label=31]
+}

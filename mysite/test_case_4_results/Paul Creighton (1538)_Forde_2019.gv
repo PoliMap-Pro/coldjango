@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Paul Creighton (1538)_Forde_2019" {
+	graph [label="Forde 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Creighton (1538)" [label="Paul Creighton (1538)
+United Australia Party"]
+	"Les Innes (1540)" [label="Les Innes (1540)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Les Innes (1540)" -> "Paul Creighton (1538)" [label=328]
+}

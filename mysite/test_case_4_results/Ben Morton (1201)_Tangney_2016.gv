@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ben Morton (1201)_Tangney_2016" {
+	graph [label="Tangney 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Morton (1201)" [label="Ben Morton (1201)
+Liberal"]
+	"Dennis Geoffrey Jensen (2780)" [label="Dennis Geoffrey Jensen (2780)
+Independent"]
+	"Thor Kerr (2782)" [label="Thor Kerr (2782)
+The Greens (WA)"]
+	"John Wieske (2781)" [label="John Wieske (2781)
+Australian Christians"]
+	"Dennis Geoffrey Jensen (2780)" -> "Ben Morton (1201)" [label=7473]
+	"Thor Kerr (2782)" -> "Dennis Geoffrey Jensen (2780)" [label=2096]
+	"John Wieske (2781)" -> "Thor Kerr (2782)" [label=235]
+	"Thor Kerr (2782)" -> "Ben Morton (1201)" [label=1305]
+	"John Wieske (2781)" -> "Ben Morton (1201)" [label=1461]
+	"John Wieske (2781)" -> "Dennis Geoffrey Jensen (2780)" [label=841]
+}

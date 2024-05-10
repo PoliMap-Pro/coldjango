@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Julia Gillard (4121)_Lalor_2004" {
+	graph [label="Lalor 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Julia Gillard (4121)" [label="Julia Gillard (4121)
+Australian Labor Party"]
+	"Malcolm Browning (5607)" [label="Malcolm Browning (5607)
+Australian Greens"]
+	"Arthur Buller (4754)" [label="Arthur Buller (4754)
+Family First"]
+	"Roger Howe (4849)" [label="Roger Howe (4849)
+Democrats"]
+	"Sally Larner (5608)" [label="Sally Larner (5608)
+Citizens Electoral Council"]
+	"Malcolm Browning (5607)" -> "Julia Gillard (4121)" [label=3247]
+	"Arthur Buller (4754)" -> "Malcolm Browning (5607)" [label=539]
+	"Roger Howe (4849)" -> "Arthur Buller (4754)" [label=145]
+	"Sally Larner (5608)" -> "Roger Howe (4849)" [label=153]
+	"Arthur Buller (4754)" -> "Julia Gillard (4121)" [label=868]
+	"Roger Howe (4849)" -> "Julia Gillard (4121)" [label=324]
+	"Sally Larner (5608)" -> "Julia Gillard (4121)" [label=102]
+	"Sally Larner (5608)" -> "Arthur Buller (4754)" [label=87]
+	"Roger Howe (4849)" -> "Malcolm Browning (5607)" [label=462]
+	"Sally Larner (5608)" -> "Malcolm Browning (5607)" [label=55]
+}

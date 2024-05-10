@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Shayne Kenneth Neumann (1469)_Blair_2007" {
+	graph [label="Blair 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Shayne Kenneth Neumann (1469)" [label="Shayne Kenneth Neumann (1469)
+Australian Labor Party"]
+	"Peter Luxton (4486)" [label="Peter Luxton (4486)
+The Greens"]
+	"Bevan Smith (4487)" [label="Bevan Smith (4487)
+Family First"]
+	"Dale Chorley (3054)" [label="Dale Chorley (3054)
+Independent"]
+	"David White (4488)" [label="David White (4488)
+Democrats"]
+	"Doug Swanborough (4490)" [label="Doug Swanborough (4490)
+LDP"]
+	"Robert Thies (4489)" [label="Robert Thies (4489)
+Citizens Electoral Council"]
+	"Peter Luxton (4486)" -> "Shayne Kenneth Neumann (1469)" [label=3683]
+	"Bevan Smith (4487)" -> "Peter Luxton (4486)" [label=1161]
+	"Dale Chorley (3054)" -> "Bevan Smith (4487)" [label=704]
+	"David White (4488)" -> "Dale Chorley (3054)" [label=158]
+	"Doug Swanborough (4490)" -> "David White (4488)" [label=28]
+	"Robert Thies (4489)" -> "Doug Swanborough (4490)" [label=21]
+	"Bevan Smith (4487)" -> "Shayne Kenneth Neumann (1469)" [label=532]
+	"Dale Chorley (3054)" -> "Shayne Kenneth Neumann (1469)" [label=303]
+	"David White (4488)" -> "Shayne Kenneth Neumann (1469)" [label=153]
+	"Doug Swanborough (4490)" -> "Shayne Kenneth Neumann (1469)" [label=21]
+	"Robert Thies (4489)" -> "Shayne Kenneth Neumann (1469)" [label=14]
+	"Robert Thies (4489)" -> "David White (4488)" [label=16]
+	"Doug Swanborough (4490)" -> "Dale Chorley (3054)" [label=88]
+	"Robert Thies (4489)" -> "Dale Chorley (3054)" [label=42]
+	"David White (4488)" -> "Bevan Smith (4487)" [label=94]
+	"Doug Swanborough (4490)" -> "Bevan Smith (4487)" [label=31]
+	"Robert Thies (4489)" -> "Bevan Smith (4487)" [label=23]
+	"Dale Chorley (3054)" -> "Peter Luxton (4486)" [label=378]
+	"David White (4488)" -> "Peter Luxton (4486)" [label=258]
+	"Doug Swanborough (4490)" -> "Peter Luxton (4486)" [label=15]
+	"Robert Thies (4489)" -> "Peter Luxton (4486)" [label=9]
+}

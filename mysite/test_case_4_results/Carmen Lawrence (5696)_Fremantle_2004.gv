@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Carmen Lawrence (5696)_Fremantle_2004" {
+	graph [label="Fremantle 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Carmen Lawrence (5696)" [label="Carmen Lawrence (5696)
+Australian Labor Party"]
+	"Nicola Paris (5702)" [label="Nicola Paris (5702)
+The Greens"]
+	"Craig Alan Mackintosh (5701)" [label="Craig Alan Mackintosh (5701)
+Pauline Hanson's One Nation"]
+	"Michelle Shave (5697)" [label="Michelle Shave (5697)
+CDP Christian Party"]
+	"Delys Beaumont (5699)" [label="Delys Beaumont (5699)
+Australian Democrats"]
+	"Damian Poole (5695)" [label="Damian Poole (5695)
+Citizens Electoral Council"]
+	"Ian Jamieson (5698)" [label="Ian Jamieson (5698)
+Socialist Alliance"]
+	"Nicola Paris (5702)" -> "Carmen Lawrence (5696)" [label=7886]
+	"Craig Alan Mackintosh (5701)" -> "Nicola Paris (5702)" [label=795]
+	"Michelle Shave (5697)" -> "Craig Alan Mackintosh (5701)" [label=198]
+	"Delys Beaumont (5699)" -> "Michelle Shave (5697)" [label=83]
+	"Damian Poole (5695)" -> "Delys Beaumont (5699)" [label=48]
+	"Ian Jamieson (5698)" -> "Damian Poole (5695)" [label=29]
+	"Craig Alan Mackintosh (5701)" -> "Carmen Lawrence (5696)" [label=468]
+	"Michelle Shave (5697)" -> "Carmen Lawrence (5696)" [label=411]
+	"Delys Beaumont (5699)" -> "Carmen Lawrence (5696)" [label=262]
+	"Damian Poole (5695)" -> "Carmen Lawrence (5696)" [label=478]
+	"Ian Jamieson (5698)" -> "Carmen Lawrence (5696)" [label=71]
+	"Ian Jamieson (5698)" -> "Delys Beaumont (5699)" [label=37]
+	"Damian Poole (5695)" -> "Michelle Shave (5697)" [label=132]
+	"Ian Jamieson (5698)" -> "Michelle Shave (5697)" [label=43]
+	"Delys Beaumont (5699)" -> "Craig Alan Mackintosh (5701)" [label=79]
+	"Damian Poole (5695)" -> "Craig Alan Mackintosh (5701)" [label=47]
+	"Ian Jamieson (5698)" -> "Craig Alan Mackintosh (5701)" [label=16]
+	"Michelle Shave (5697)" -> "Nicola Paris (5702)" [label=206]
+	"Delys Beaumont (5699)" -> "Nicola Paris (5702)" [label=576]
+	"Damian Poole (5695)" -> "Nicola Paris (5702)" [label=68]
+	"Ian Jamieson (5698)" -> "Nicola Paris (5702)" [label=134]
+}

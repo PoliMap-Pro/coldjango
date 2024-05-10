@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Duncan Dean (1858)_La Trobe_2019" {
+	graph [label="La Trobe 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+United Australia Party"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Norman Baker (1856)" -> "Duncan Dean (1858)" [label=133]
+}

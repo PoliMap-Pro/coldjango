@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Samantha Mcgrail (671)_Mayo_2022" {
+	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Samantha Mcgrail (671)" [label="Samantha Mcgrail (671)
+United Australia Party"]
+	"Padma Chaplin (666)" [label="Padma Chaplin (666)
+Animal Justice Party"]
+	"Jacob Van Raalte (667)" [label="Jacob Van Raalte (667)
+Liberal Democrats"]
+	"Mark Neugebauer (673)" [label="Mark Neugebauer (673)
+Australian Federation Party"]
+	"Padma Chaplin (666)" -> "Samantha Mcgrail (671)" [label=152]
+	"Jacob Van Raalte (667)" -> "Padma Chaplin (666)" [label=114]
+	"Mark Neugebauer (673)" -> "Jacob Van Raalte (667)" [label=236]
+	"Jacob Van Raalte (667)" -> "Samantha Mcgrail (671)" [label=262]
+	"Mark Neugebauer (673)" -> "Samantha Mcgrail (671)" [label=276]
+	"Mark Neugebauer (673)" -> "Padma Chaplin (666)" [label=72]
+}

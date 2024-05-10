@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chris Fernandez (2022)_Tangney_2019" {
+	graph [label="Tangney 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Fernandez (2022)" [label="Chris Fernandez (2022)
+United Australia Party"]
+	"Paul Stephen Waddy (2020)" [label="Paul Stephen Waddy (2020)
+Independent"]
+	"Paul Stephen Waddy (2020)" -> "Chris Fernandez (2022)" [label=13]
+}

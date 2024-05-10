@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jenny Barrie (2225)_Shortland_2016" {
+	graph [label="Shortland 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jenny Barrie (2225)" [label="Jenny Barrie (2225)
+Liberal"]
+	"Ivan Macfadyen (2226)" [label="Ivan Macfadyen (2226)
+The Greens"]
+	"Morgan Cox (1407)" [label="Morgan Cox (1407)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ivan Macfadyen (2226)" -> "Jenny Barrie (2225)" [label=2443]
+	"Morgan Cox (1407)" -> "Ivan Macfadyen (2226)" [label=774]
+	"Morgan Cox (1407)" -> "Jenny Barrie (2225)" [label=2320]
+}

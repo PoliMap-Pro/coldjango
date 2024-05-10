@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Brian Brightman (1153)_Moore_2022" {
+	graph [label="Moore 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brian Brightman (1153)" [label="Brian Brightman (1153)
+Pauline Hanson's One Nation"]
+	"Peter Gunness (1149)" [label="Peter Gunness (1149)
+WESTERN AUSTRALIA PARTY"]
+	"Helen Watkinson (1154)" [label="Helen Watkinson (1154)
+United Australia Party"]
+	"Sue Andersson (1148)" [label="Sue Andersson (1148)
+The Great Australian Party"]
+	"Martin Suter (1155)" [label="Martin Suter (1155)
+Australian Federation Party"]
+	"Peter Gunness (1149)" -> "Brian Brightman (1153)" [label=1053]
+	"Helen Watkinson (1154)" -> "Peter Gunness (1149)" [label=456]
+	"Sue Andersson (1148)" -> "Helen Watkinson (1154)" [label=420]
+	"Martin Suter (1155)" -> "Sue Andersson (1148)" [label=257]
+	"Helen Watkinson (1154)" -> "Brian Brightman (1153)" [label=1875]
+	"Sue Andersson (1148)" -> "Brian Brightman (1153)" [label=600]
+	"Martin Suter (1155)" -> "Brian Brightman (1153)" [label=144]
+	"Martin Suter (1155)" -> "Helen Watkinson (1154)" [label=170]
+	"Sue Andersson (1148)" -> "Peter Gunness (1149)" [label=808]
+	"Martin Suter (1155)" -> "Peter Gunness (1149)" [label=96]
+}

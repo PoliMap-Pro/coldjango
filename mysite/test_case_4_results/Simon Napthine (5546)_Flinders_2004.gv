@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Simon Napthine (5546)_Flinders_2004" {
+	graph [label="Flinders 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Simon Napthine (5546)" [label="Simon Napthine (5546)
+Australian Labor Party"]
+	"Stuart Kingsford (5544)" [label="Stuart Kingsford (5544)
+Australian Greens"]
+	"Dean Johnstone (5543)" [label="Dean Johnstone (5543)
+Family First"]
+	"Paul Madigan (3403)" [label="Paul Madigan (3403)
+Independent"]
+	"Bruce Errol (5545)" [label="Bruce Errol (5545)
+Democrats"]
+	"Neale Adams (4786)" [label="Neale Adams (4786)
+Independent"]
+	"Henry Broadbent (5547)" [label="Henry Broadbent (5547)
+Citizens Electoral Council"]
+	"Stuart Kingsford (5544)" -> "Simon Napthine (5546)" [label=5735]
+	"Dean Johnstone (5543)" -> "Stuart Kingsford (5544)" [label=966]
+	"Paul Madigan (3403)" -> "Dean Johnstone (5543)" [label=663]
+	"Bruce Errol (5545)" -> "Paul Madigan (3403)" [label=129]
+	"Neale Adams (4786)" -> "Bruce Errol (5545)" [label=55]
+	"Henry Broadbent (5547)" -> "Neale Adams (4786)" [label=25]
+	"Dean Johnstone (5543)" -> "Simon Napthine (5546)" [label=363]
+	"Paul Madigan (3403)" -> "Simon Napthine (5546)" [label=218]
+	"Bruce Errol (5545)" -> "Simon Napthine (5546)" [label=217]
+	"Neale Adams (4786)" -> "Simon Napthine (5546)" [label=58]
+	"Henry Broadbent (5547)" -> "Simon Napthine (5546)" [label=43]
+	"Henry Broadbent (5547)" -> "Bruce Errol (5545)" [label=9]
+	"Neale Adams (4786)" -> "Paul Madigan (3403)" [label=179]
+	"Henry Broadbent (5547)" -> "Paul Madigan (3403)" [label=25]
+	"Bruce Errol (5545)" -> "Dean Johnstone (5543)" [label=49]
+	"Neale Adams (4786)" -> "Dean Johnstone (5543)" [label=45]
+	"Henry Broadbent (5547)" -> "Dean Johnstone (5543)" [label=23]
+	"Paul Madigan (3403)" -> "Stuart Kingsford (5544)" [label=297]
+	"Bruce Errol (5545)" -> "Stuart Kingsford (5544)" [label=242]
+	"Neale Adams (4786)" -> "Stuart Kingsford (5544)" [label=138]
+	"Henry Broadbent (5547)" -> "Stuart Kingsford (5544)" [label=19]
+}

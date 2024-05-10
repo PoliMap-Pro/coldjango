@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Rod Chilcott (1980)_Moore_2019" {
+	graph [label="Moore 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rod Chilcott (1980)" [label="Rod Chilcott (1980)
+United Australia Party"]
+	"Jen Jacobs (1977)" [label="Jen Jacobs (1977)
+WESTERN AUSTRALIA PARTY"]
+	"Rex Host (1976)" [label="Rex Host (1976)
+Australian Christians"]
+	"Jen Jacobs (1977)" -> "Rod Chilcott (1980)" [label=130]
+	"Rex Host (1976)" -> "Jen Jacobs (1977)" [label=103]
+	"Rex Host (1976)" -> "Rod Chilcott (1980)" [label=50]
+}

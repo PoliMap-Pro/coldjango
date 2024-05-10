@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Sharon Thiel (4939)_Kalgoorlie_2007" {
+	graph [label="Kalgoorlie 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sharon Thiel (4939)" [label="Sharon Thiel (4939)
+Australian Labor Party"]
+	"Robin Chapple (4942)" [label="Robin Chapple (4942)
+The Greens"]
+	"Derek Major (4944)" [label="Derek Major (4944)
+One Nation WA"]
+	"Ross Patterson (4941)" [label="Ross Patterson (4941)
+Christian Democratic Party"]
+	"Ian Rose (3597)" [label="Ian Rose (3597)
+Family First"]
+	"Ian Burt (4940)" [label="Ian Burt (4940)
+Citizens Electoral Council"]
+	"Charles Dalton (4943)" [label="Charles Dalton (4943)
+LDP"]
+	"Robin Chapple (4942)" -> "Sharon Thiel (4939)" [label=3495]
+	"Derek Major (4944)" -> "Robin Chapple (4942)" [label=584]
+	"Ross Patterson (4941)" -> "Derek Major (4944)" [label=214]
+	"Ian Rose (3597)" -> "Ross Patterson (4941)" [label=168]
+	"Ian Burt (4940)" -> "Ian Rose (3597)" [label=19]
+	"Charles Dalton (4943)" -> "Ian Burt (4940)" [label=12]
+	"Derek Major (4944)" -> "Sharon Thiel (4939)" [label=406]
+	"Ross Patterson (4941)" -> "Sharon Thiel (4939)" [label=248]
+	"Ian Rose (3597)" -> "Sharon Thiel (4939)" [label=163]
+	"Ian Burt (4940)" -> "Sharon Thiel (4939)" [label=86]
+	"Charles Dalton (4943)" -> "Sharon Thiel (4939)" [label=46]
+	"Charles Dalton (4943)" -> "Ian Rose (3597)" [label=18]
+	"Ian Burt (4940)" -> "Ross Patterson (4941)" [label=46]
+	"Charles Dalton (4943)" -> "Ross Patterson (4941)" [label=8]
+	"Ian Rose (3597)" -> "Derek Major (4944)" [label=156]
+	"Ian Burt (4940)" -> "Derek Major (4944)" [label=41]
+	"Charles Dalton (4943)" -> "Derek Major (4944)" [label=34]
+	"Ross Patterson (4941)" -> "Robin Chapple (4942)" [label=177]
+	"Ian Rose (3597)" -> "Robin Chapple (4942)" [label=150]
+	"Ian Burt (4940)" -> "Robin Chapple (4942)" [label=37]
+	"Charles Dalton (4943)" -> "Robin Chapple (4942)" [label=28]
+}

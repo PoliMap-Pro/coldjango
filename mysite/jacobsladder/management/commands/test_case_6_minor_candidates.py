@@ -3,8 +3,8 @@ from ... import models
 
 
 class Command(BaseCommand):
-    help = "Get all the seats in 2022 where a non-Greens/ALP/Lib polled " \
-           "more than 10% primary\n\n"
+    help = "Get all the seats in 2022 where a non-Greens/ALP/Lib polled more " \
+           "than 10% primary\n\n"
 
     AEC_RESULTS = {}
 

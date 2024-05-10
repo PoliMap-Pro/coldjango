@@ -1,0 +1,19 @@
+// House preference flow
+digraph "David Swiggs (622)_Barker_2022" {
+	graph [label="Barker 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Swiggs (622)" [label="David Swiggs (622)
+United Australia Party"]
+	"Jonathan Pietzsch (616)" [label="Jonathan Pietzsch (616)
+National Party"]
+	"Vince Pannell (618)" [label="Vince Pannell (618)
+Independent"]
+	"Kym Hanton (624)" [label="Kym Hanton (624)
+Australian Federation Party"]
+	"Jonathan Pietzsch (616)" -> "David Swiggs (622)" [label=200]
+	"Vince Pannell (618)" -> "Jonathan Pietzsch (616)" [label=109]
+	"Kym Hanton (624)" -> "Vince Pannell (618)" [label=61]
+	"Vince Pannell (618)" -> "David Swiggs (622)" [label=66]
+	"Kym Hanton (624)" -> "David Swiggs (622)" [label=139]
+	"Kym Hanton (624)" -> "Jonathan Pietzsch (616)" [label=71]
+}

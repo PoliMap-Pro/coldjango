@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Allan Williams (5046)_Cowper_2004" {
+	graph [label="Cowper 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Allan Williams (5046)" [label="Allan Williams (5046)
+Australian Labor Party"]
+	"John Carty (4287)" [label="John Carty (4287)
+The Greens"]
+	"Allan Stokes (5049)" [label="Allan Stokes (5049)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Norm Mann (5048)" [label="Norm Mann (5048)
+Lower Excise Fuel and Beer Party"]
+	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
+Australian Democrats"]
+	"John Carty (4287)" -> "Allan Williams (5046)" [label=7038]
+	"Allan Stokes (5049)" -> "John Carty (4287)" [label=733]
+	"Norm Mann (5048)" -> "Allan Stokes (5049)" [label=758]
+	"Trevor Kapeen (5047)" -> "Norm Mann (5048)" [label=152]
+	"Allan Stokes (5049)" -> "Allan Williams (5046)" [label=1090]
+	"Norm Mann (5048)" -> "Allan Williams (5046)" [label=425]
+	"Trevor Kapeen (5047)" -> "Allan Williams (5046)" [label=404]
+	"Trevor Kapeen (5047)" -> "Allan Stokes (5049)" [label=122]
+	"Norm Mann (5048)" -> "John Carty (4287)" [label=392]
+	"Trevor Kapeen (5047)" -> "John Carty (4287)" [label=340]
+}

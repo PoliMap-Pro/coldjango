@@ -3,8 +3,8 @@ from ... import models
 
 
 class Command(BaseCommand):
-    help = "Get the top 10 greens seats by primary for each of " \
-           "the last 5 elections\n\n"
+    help = "Get the top 10 greens seats by primary for each of the last 5 " \
+           "elections\n\n"
 
     AEC_RESULTS = {}
 

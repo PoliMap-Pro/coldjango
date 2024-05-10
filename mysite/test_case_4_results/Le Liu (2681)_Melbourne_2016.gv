@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Le Liu (2681)_Melbourne_2016" {
+	graph [label="Melbourne 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Le Liu (2681)" [label="Le Liu (2681)
+Liberal"]
+	"Sophie Ismail (2680)" [label="Sophie Ismail (2680)
+Australian Labor Party"]
+	"Lewis Freeman-Harrison (2679)" [label="Lewis Freeman-Harrison (2679)
+Australian Sex Party"]
+	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
+Animal Justice Party"]
+	"Matt Riley (2683)" [label="Matt Riley (2683)
+Drug Law Reform"]
+	"Sophie Ismail (2680)" -> "Le Liu (2681)" [label=4700]
+	"Lewis Freeman-Harrison (2679)" -> "Sophie Ismail (2680)" [label=1328]
+	"Miranda Joyce Smith (2682)" -> "Lewis Freeman-Harrison (2679)" [label=527]
+	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
+	"Lewis Freeman-Harrison (2679)" -> "Le Liu (2681)" [label=813]
+	"Miranda Joyce Smith (2682)" -> "Le Liu (2681)" [label=313]
+	"Matt Riley (2683)" -> "Le Liu (2681)" [label=104]
+	"Matt Riley (2683)" -> "Lewis Freeman-Harrison (2679)" [label=378]
+	"Miranda Joyce Smith (2682)" -> "Sophie Ismail (2680)" [label=268]
+	"Matt Riley (2683)" -> "Sophie Ismail (2680)" [label=116]
+}

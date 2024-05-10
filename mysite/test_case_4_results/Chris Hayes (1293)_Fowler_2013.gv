@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Hayes (1293)_Fowler_2013" {
+	graph [label="Fowler 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Hayes (1293)" [label="Chris Hayes (1293)
+Labor"]
+	"Matt Attia (2875)" [label="Matt Attia (2875)
+Christian Democratic Party (Fred Nile Group)"]
+	"Benjamin Silaphet (2876)" [label="Benjamin Silaphet (2876)
+The Greens"]
+	"Bradley Charles Pastoors (2879)" [label="Bradley Charles Pastoors (2879)
+Palmer United Party"]
+	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
+Katter's Australian Party"]
+	"Matt Attia (2875)" -> "Chris Hayes (1293)" [label=1785]
+	"Benjamin Silaphet (2876)" -> "Matt Attia (2875)" [label=949]
+	"Bradley Charles Pastoors (2879)" -> "Benjamin Silaphet (2876)" [label=370]
+	"Darren C Mclean (2877)" -> "Bradley Charles Pastoors (2879)" [label=135]
+	"Benjamin Silaphet (2876)" -> "Chris Hayes (1293)" [label=1623]
+	"Bradley Charles Pastoors (2879)" -> "Chris Hayes (1293)" [label=1180]
+	"Darren C Mclean (2877)" -> "Chris Hayes (1293)" [label=166]
+	"Darren C Mclean (2877)" -> "Benjamin Silaphet (2876)" [label=208]
+	"Bradley Charles Pastoors (2879)" -> "Matt Attia (2875)" [label=507]
+	"Darren C Mclean (2877)" -> "Matt Attia (2875)" [label=167]
+}

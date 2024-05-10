@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Veronica Bernadette Beric (3193)_Moncrieff_2013" {
+	graph [label="Moncrieff 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Veronica Bernadette Beric (3193)" [label="Veronica Bernadette Beric (3193)
+One Nation"]
+	"Paul Spajic (3191)" [label="Paul Spajic (3191)
+Citizens Electoral Council"]
+	"Paul Spajic (3191)" -> "Veronica Bernadette Beric (3193)" [label=32]
+}

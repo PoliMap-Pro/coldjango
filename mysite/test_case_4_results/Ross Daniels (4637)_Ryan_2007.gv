@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ross Daniels (4637)_Ryan_2007" {
+	graph [label="Ryan 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ross Daniels (4637)" [label="Ross Daniels (4637)
+Australian Labor Party"]
+	"Evan Jones (4638)" [label="Evan Jones (4638)
+The Greens"]
+	"Charles Worringham (3222)" [label="Charles Worringham (3222)
+Independent"]
+	"James Page (4634)" [label="James Page (4634)
+Democrats"]
+	"Leisa Schmid (4636)" [label="Leisa Schmid (4636)
+Family First"]
+	"Jock Mackenzie (4639)" [label="Jock Mackenzie (4639)
+LDP"]
+	"Neville Solomon (4635)" [label="Neville Solomon (4635)
+Citizens Electoral Council"]
+	"Evan Jones (4638)" -> "Ross Daniels (4637)" [label=7283]
+	"Charles Worringham (3222)" -> "Evan Jones (4638)" [label=801]
+	"James Page (4634)" -> "Charles Worringham (3222)" [label=223]
+	"Leisa Schmid (4636)" -> "James Page (4634)" [label=89]
+	"Jock Mackenzie (4639)" -> "Leisa Schmid (4636)" [label=14]
+	"Neville Solomon (4635)" -> "Jock Mackenzie (4639)" [label=4]
+	"Charles Worringham (3222)" -> "Ross Daniels (4637)" [label=401]
+	"James Page (4634)" -> "Ross Daniels (4637)" [label=292]
+	"Leisa Schmid (4636)" -> "Ross Daniels (4637)" [label=218]
+	"Jock Mackenzie (4639)" -> "Ross Daniels (4637)" [label=19]
+	"Neville Solomon (4635)" -> "Ross Daniels (4637)" [label=8]
+	"Neville Solomon (4635)" -> "Leisa Schmid (4636)" [label=12]
+	"Jock Mackenzie (4639)" -> "James Page (4634)" [label=16]
+	"Neville Solomon (4635)" -> "James Page (4634)" [label=19]
+	"Leisa Schmid (4636)" -> "Charles Worringham (3222)" [label=170]
+	"Jock Mackenzie (4639)" -> "Charles Worringham (3222)" [label=28]
+	"Neville Solomon (4635)" -> "Charles Worringham (3222)" [label=13]
+	"James Page (4634)" -> "Evan Jones (4638)" [label=481]
+	"Leisa Schmid (4636)" -> "Evan Jones (4638)" [label=124]
+	"Jock Mackenzie (4639)" -> "Evan Jones (4638)" [label=45]
+	"Neville Solomon (4635)" -> "Evan Jones (4638)" [label=7]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Robert Nalbandian (244)_North Sydney_2022" {
+	graph [label="North Sydney 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Nalbandian (244)" [label="Robert Nalbandian (244)
+United Australia Party"]
+	"Dajen Tinkler (248)" [label="Dajen Tinkler (248)
+Liberal Democrats"]
+	"William Bourke (243)" [label="William Bourke (243)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Michael Walls (251)" [label="Michael Walls (251)
+Pauline Hanson's One Nation"]
+	"Victor Kline (246)" [label="Victor Kline (246)
+TNL"]
+	"Lesley Kinney (247)" [label="Lesley Kinney (247)
+Informed Medical Options Party"]
+	"Dajen Tinkler (248)" -> "Robert Nalbandian (244)" [label=579]
+	"William Bourke (243)" -> "Dajen Tinkler (248)" [label=83]
+	"Michael Walls (251)" -> "William Bourke (243)" [label=86]
+	"Victor Kline (246)" -> "Michael Walls (251)" [label=11]
+	"Lesley Kinney (247)" -> "Victor Kline (246)" [label=36]
+	"William Bourke (243)" -> "Robert Nalbandian (244)" [label=359]
+	"Michael Walls (251)" -> "Robert Nalbandian (244)" [label=542]
+	"Victor Kline (246)" -> "Robert Nalbandian (244)" [label=15]
+	"Lesley Kinney (247)" -> "Robert Nalbandian (244)" [label=70]
+	"Lesley Kinney (247)" -> "Michael Walls (251)" [label=88]
+	"Victor Kline (246)" -> "William Bourke (243)" [label=71]
+	"Lesley Kinney (247)" -> "William Bourke (243)" [label=60]
+	"Michael Walls (251)" -> "Dajen Tinkler (248)" [label=221]
+	"Victor Kline (246)" -> "Dajen Tinkler (248)" [label=53]
+	"Lesley Kinney (247)" -> "Dajen Tinkler (248)" [label=81]
+}

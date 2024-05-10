@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Nell Mcgill (327)_Shortland_2019" {
+	graph [label="Shortland 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nell Mcgill (327)" [label="Nell Mcgill (327)
+Liberal"]
+	"Wylie Campbell (1422)" [label="Wylie Campbell (1422)
+The Greens"]
+	"Dani Rifai (1421)" [label="Dani Rifai (1421)
+United Australia Party"]
+	"Bryan Mcgrath (1423)" [label="Bryan Mcgrath (1423)
+Animal Justice Party"]
+	"Susan Newbury (1419)" [label="Susan Newbury (1419)
+Sustainable Australia"]
+	"Xing Yu (1420)" [label="Xing Yu (1420)
+Christian Democratic Party (Fred Nile Group)"]
+	"Wylie Campbell (1422)" -> "Nell Mcgill (327)" [label=3044]
+	"Dani Rifai (1421)" -> "Wylie Campbell (1422)" [label=1505]
+	"Bryan Mcgrath (1423)" -> "Dani Rifai (1421)" [label=839]
+	"Susan Newbury (1419)" -> "Bryan Mcgrath (1423)" [label=689]
+	"Xing Yu (1420)" -> "Susan Newbury (1419)" [label=253]
+	"Dani Rifai (1421)" -> "Nell Mcgill (327)" [label=2775]
+	"Bryan Mcgrath (1423)" -> "Nell Mcgill (327)" [label=795]
+	"Susan Newbury (1419)" -> "Nell Mcgill (327)" [label=447]
+	"Xing Yu (1420)" -> "Nell Mcgill (327)" [label=1119]
+	"Xing Yu (1420)" -> "Bryan Mcgrath (1423)" [label=103]
+	"Susan Newbury (1419)" -> "Dani Rifai (1421)" [label=545]
+	"Xing Yu (1420)" -> "Dani Rifai (1421)" [label=231]
+	"Bryan Mcgrath (1423)" -> "Wylie Campbell (1422)" [label=1832]
+	"Susan Newbury (1419)" -> "Wylie Campbell (1422)" [label=575]
+	"Xing Yu (1420)" -> "Wylie Campbell (1422)" [label=72]
+}

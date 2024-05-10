@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Gary Gray (3571)_Brand_2007" {
+	graph [label="Brand 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gary Gray (3571)" [label="Gary Gray (3571)
+Australian Labor Party"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens"]
+	"Brent Tremain (4899)" [label="Brent Tremain (4899)
+Christian Democratic Party"]
+	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
+Family First"]
+	"Robin Scott (4902)" [label="Robin Scott (4902)
+One Nation WA"]
+	"Huw Grossmith (4901)" [label="Huw Grossmith (4901)
+LDP"]
+	"Rob Totten (4900)" [label="Rob Totten (4900)
+Citizens Electoral Council"]
+	"Dawn Jecks (2722)" -> "Gary Gray (3571)" [label=5804]
+	"Brent Tremain (4899)" -> "Dawn Jecks (2722)" [label=518]
+	"Andrew Newhouse (3569)" -> "Brent Tremain (4899)" [label=688]
+	"Robin Scott (4902)" -> "Andrew Newhouse (3569)" [label=263]
+	"Huw Grossmith (4901)" -> "Robin Scott (4902)" [label=71]
+	"Rob Totten (4900)" -> "Huw Grossmith (4901)" [label=33]
+	"Brent Tremain (4899)" -> "Gary Gray (3571)" [label=1109]
+	"Andrew Newhouse (3569)" -> "Gary Gray (3571)" [label=413]
+	"Robin Scott (4902)" -> "Gary Gray (3571)" [label=391]
+	"Huw Grossmith (4901)" -> "Gary Gray (3571)" [label=74]
+	"Rob Totten (4900)" -> "Gary Gray (3571)" [label=37]
+	"Rob Totten (4900)" -> "Robin Scott (4902)" [label=55]
+	"Huw Grossmith (4901)" -> "Andrew Newhouse (3569)" [label=90]
+	"Rob Totten (4900)" -> "Andrew Newhouse (3569)" [label=71]
+	"Robin Scott (4902)" -> "Brent Tremain (4899)" [label=154]
+	"Huw Grossmith (4901)" -> "Brent Tremain (4899)" [label=41]
+	"Rob Totten (4900)" -> "Brent Tremain (4899)" [label=39]
+	"Andrew Newhouse (3569)" -> "Dawn Jecks (2722)" [label=372]
+	"Robin Scott (4902)" -> "Dawn Jecks (2722)" [label=354]
+	"Huw Grossmith (4901)" -> "Dawn Jecks (2722)" [label=65]
+	"Rob Totten (4900)" -> "Dawn Jecks (2722)" [label=39]
+}

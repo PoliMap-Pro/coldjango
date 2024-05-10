@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Sussan Ley (112)_Farrer_2019" {
+	graph [label="Farrer 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sussan Ley (112)" [label="Sussan Ley (112)
+Liberal"]
+	"Kieran Drabsch (1285)" [label="Kieran Drabsch (1285)
+Labor"]
+	"Michael Hunter Rose (1290)" [label="Michael Hunter Rose (1290)
+United Australia Party"]
+	"Dean Moss (1291)" [label="Dean Moss (1291)
+The Greens"]
+	"Ross Hamilton (1284)" [label="Ross Hamilton (1284)
+Sustainable Australia"]
+	"Philip Langfield (1287)" [label="Philip Langfield (1287)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Mills (1289)" [label="Brian Mills (1289)
+Independent"]
+	"Mark Ellis (1288)" [label="Mark Ellis (1288)
+Liberal Democrats"]
+	"Kieran Drabsch (1285)" -> "Sussan Ley (112)" [label=5286]
+	"Michael Hunter Rose (1290)" -> "Kieran Drabsch (1285)" [label=732]
+	"Dean Moss (1291)" -> "Michael Hunter Rose (1290)" [label=585]
+	"Ross Hamilton (1284)" -> "Dean Moss (1291)" [label=287]
+	"Philip Langfield (1287)" -> "Ross Hamilton (1284)" [label=94]
+	"Brian Mills (1289)" -> "Philip Langfield (1287)" [label=82]
+	"Mark Ellis (1288)" -> "Brian Mills (1289)" [label=111]
+	"Michael Hunter Rose (1290)" -> "Sussan Ley (112)" [label=2260]
+	"Dean Moss (1291)" -> "Sussan Ley (112)" [label=713]
+	"Ross Hamilton (1284)" -> "Sussan Ley (112)" [label=373]
+	"Philip Langfield (1287)" -> "Sussan Ley (112)" [label=672]
+	"Brian Mills (1289)" -> "Sussan Ley (112)" [label=186]
+	"Mark Ellis (1288)" -> "Sussan Ley (112)" [label=454]
+	"Mark Ellis (1288)" -> "Philip Langfield (1287)" [label=65]
+	"Brian Mills (1289)" -> "Ross Hamilton (1284)" [label=102]
+	"Mark Ellis (1288)" -> "Ross Hamilton (1284)" [label=44]
+	"Philip Langfield (1287)" -> "Dean Moss (1291)" [label=36]
+	"Brian Mills (1289)" -> "Dean Moss (1291)" [label=83]
+	"Mark Ellis (1288)" -> "Dean Moss (1291)" [label=42]
+	"Ross Hamilton (1284)" -> "Michael Hunter Rose (1290)" [label=247]
+	"Philip Langfield (1287)" -> "Michael Hunter Rose (1290)" [label=285]
+	"Brian Mills (1289)" -> "Michael Hunter Rose (1290)" [label=217]
+	"Mark Ellis (1288)" -> "Michael Hunter Rose (1290)" [label=137]
+	"Dean Moss (1291)" -> "Kieran Drabsch (1285)" [label=2043]
+	"Ross Hamilton (1284)" -> "Kieran Drabsch (1285)" [label=269]
+	"Philip Langfield (1287)" -> "Kieran Drabsch (1285)" [label=79]
+	"Brian Mills (1289)" -> "Kieran Drabsch (1285)" [label=101]
+	"Mark Ellis (1288)" -> "Kieran Drabsch (1285)" [label=63]
+}

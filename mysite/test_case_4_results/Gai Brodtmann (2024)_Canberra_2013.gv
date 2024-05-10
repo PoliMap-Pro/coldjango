@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Gai Brodtmann (2024)_Canberra_2013" {
+	graph [label="Canberra 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gai Brodtmann (2024)" [label="Gai Brodtmann (2024)
+Australian Labor Party"]
+	"Julie Melrose (2784)" [label="Julie Melrose (2784)
+Australian Greens"]
+	"Damien Maher (2785)" [label="Damien Maher (2785)
+Bullet Train For Australia"]
+	"Tony Hanley (1208)" [label="Tony Hanley (1208)
+Palmer United Party"]
+	"Nicolle Burt (2786)" [label="Nicolle Burt (2786)
+Secular Party of Australia"]
+	"Julie Melrose (2784)" -> "Gai Brodtmann (2024)" [label=14771]
+	"Damien Maher (2785)" -> "Julie Melrose (2784)" [label=2178]
+	"Tony Hanley (1208)" -> "Damien Maher (2785)" [label=1120]
+	"Nicolle Burt (2786)" -> "Tony Hanley (1208)" [label=99]
+	"Damien Maher (2785)" -> "Gai Brodtmann (2024)" [label=2426]
+	"Tony Hanley (1208)" -> "Gai Brodtmann (2024)" [label=931]
+	"Nicolle Burt (2786)" -> "Gai Brodtmann (2024)" [label=333]
+	"Nicolle Burt (2786)" -> "Damien Maher (2785)" [label=385]
+	"Tony Hanley (1208)" -> "Julie Melrose (2784)" [label=661]
+	"Nicolle Burt (2786)" -> "Julie Melrose (2784)" [label=325]
+}

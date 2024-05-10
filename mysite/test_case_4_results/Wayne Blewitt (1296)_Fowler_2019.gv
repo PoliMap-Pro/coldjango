@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Wayne Blewitt (1296)_Fowler_2019" {
+	graph [label="Fowler 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Wayne Blewitt (1296)" [label="Wayne Blewitt (1296)
+Liberal"]
+	"Francesca Mocanu (1292)" [label="Francesca Mocanu (1292)
+Christian Democratic Party (Fred Nile Group)"]
+	"Seamus Lee (1295)" [label="Seamus Lee (1295)
+The Greens"]
+	"Joshua Jabbour (1294)" [label="Joshua Jabbour (1294)
+United Australia Party"]
+	"Francesca Mocanu (1292)" -> "Wayne Blewitt (1296)" [label=2640]
+	"Seamus Lee (1295)" -> "Francesca Mocanu (1292)" [label=712]
+	"Joshua Jabbour (1294)" -> "Seamus Lee (1295)" [label=680]
+	"Seamus Lee (1295)" -> "Wayne Blewitt (1296)" [label=1283]
+	"Joshua Jabbour (1294)" -> "Wayne Blewitt (1296)" [label=1064]
+	"Joshua Jabbour (1294)" -> "Francesca Mocanu (1292)" [label=752]
+}

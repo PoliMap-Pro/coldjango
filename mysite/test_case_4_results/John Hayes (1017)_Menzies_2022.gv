@@ -1,0 +1,10 @@
+// House preference flow
+digraph "John Hayes (1017)_Menzies_2022" {
+	graph [label="Menzies 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+}

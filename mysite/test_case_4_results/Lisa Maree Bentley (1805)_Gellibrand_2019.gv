@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Lisa Maree Bentley (1805)_Gellibrand_2019" {
+	graph [label="Gellibrand 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lisa Maree Bentley (1805)" [label="Lisa Maree Bentley (1805)
+United Australia Party"]
+}

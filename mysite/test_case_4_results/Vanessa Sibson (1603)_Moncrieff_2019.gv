@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Vanessa Sibson (1603)_Moncrieff_2019" {
+	graph [label="Moncrieff 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Vanessa Sibson (1603)" [label="Vanessa Sibson (1603)
+Pauline Hanson's One Nation"]
+	"Garry Paul Eilola (1604)" [label="Garry Paul Eilola (1604)
+United Australia Party"]
+	"Karla Freeman (1602)" [label="Karla Freeman (1602)
+Animal Justice Party"]
+	"S Gryphon (1607)" [label="S Gryphon (1607)
+Liberal Democrats"]
+	"Darren Alan Long (1605)" [label="Darren Alan Long (1605)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Garry Paul Eilola (1604)" -> "Vanessa Sibson (1603)" [label=1609]
+	"Karla Freeman (1602)" -> "Garry Paul Eilola (1604)" [label=247]
+	"S Gryphon (1607)" -> "Karla Freeman (1602)" [label=185]
+	"Darren Alan Long (1605)" -> "S Gryphon (1607)" [label=199]
+	"Karla Freeman (1602)" -> "Vanessa Sibson (1603)" [label=523]
+	"S Gryphon (1607)" -> "Vanessa Sibson (1603)" [label=338]
+	"Darren Alan Long (1605)" -> "Vanessa Sibson (1603)" [label=442]
+	"Darren Alan Long (1605)" -> "Karla Freeman (1602)" [label=73]
+	"S Gryphon (1607)" -> "Garry Paul Eilola (1604)" [label=211]
+	"Darren Alan Long (1605)" -> "Garry Paul Eilola (1604)" [label=182]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Laura Smyth (3474)_La Trobe_2013" {
+	graph [label="La Trobe 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Laura Smyth (3474)" [label="Laura Smyth (3474)
+Australian Labor Party"]
+	"Michael Schilling (958)" [label="Michael Schilling (958)
+The Greens"]
+	"Jason Grant Kennedy (3477)" [label="Jason Grant Kennedy (3477)
+Palmer United Party"]
+	"Martin Leahy (2655)" [label="Martin Leahy (2655)
+Sex Party"]
+	"Daniel Martin (3476)" [label="Daniel Martin (3476)
+Family First Party"]
+	"Rachel Jenkins (3475)" [label="Rachel Jenkins (3475)
+DLP Democratic Labour"]
+	"Kevin Seaman (3478)" [label="Kevin Seaman (3478)
+Rise Up Australia Party"]
+	"Michael Schilling (958)" -> "Laura Smyth (3474)" [label=8924]
+	"Jason Grant Kennedy (3477)" -> "Michael Schilling (958)" [label=1291]
+	"Martin Leahy (2655)" -> "Jason Grant Kennedy (3477)" [label=522]
+	"Daniel Martin (3476)" -> "Martin Leahy (2655)" [label=195]
+	"Rachel Jenkins (3475)" -> "Daniel Martin (3476)" [label=226]
+	"Kevin Seaman (3478)" -> "Rachel Jenkins (3475)" [label=80]
+	"Jason Grant Kennedy (3477)" -> "Laura Smyth (3474)" [label=1913]
+	"Martin Leahy (2655)" -> "Laura Smyth (3474)" [label=837]
+	"Daniel Martin (3476)" -> "Laura Smyth (3474)" [label=352]
+	"Rachel Jenkins (3475)" -> "Laura Smyth (3474)" [label=311]
+	"Kevin Seaman (3478)" -> "Laura Smyth (3474)" [label=43]
+	"Kevin Seaman (3478)" -> "Daniel Martin (3476)" [label=199]
+	"Rachel Jenkins (3475)" -> "Martin Leahy (2655)" [label=90]
+	"Kevin Seaman (3478)" -> "Martin Leahy (2655)" [label=58]
+	"Daniel Martin (3476)" -> "Jason Grant Kennedy (3477)" [label=451]
+	"Rachel Jenkins (3475)" -> "Jason Grant Kennedy (3477)" [label=98]
+	"Kevin Seaman (3478)" -> "Jason Grant Kennedy (3477)" [label=174]
+	"Martin Leahy (2655)" -> "Michael Schilling (958)" [label=907]
+	"Daniel Martin (3476)" -> "Michael Schilling (958)" [label=240]
+	"Rachel Jenkins (3475)" -> "Michael Schilling (958)" [label=147]
+	"Kevin Seaman (3478)" -> "Michael Schilling (958)" [label=46]
+}

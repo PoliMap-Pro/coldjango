@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Sarah Richards (214)_Macquarie_2022" {
+	graph [label="Macquarie 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sarah Richards (214)" [label="Sarah Richards (214)
+Liberal"]
+	"Tony Hickey (212)" [label="Tony Hickey (212)
+The Greens"]
+	"Tony Pettitt (207)" [label="Tony Pettitt (207)
+Pauline Hanson's One Nation"]
+	"Nicole Evans (209)" [label="Nicole Evans (209)
+United Australia Party"]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
+	"Michelle Palmer (213)" [label="Michelle Palmer (213)
+Informed Medical Options Party"]
+	"James Jackson (210)" [label="James Jackson (210)
+Liberal Democrats"]
+	"Tony Hickey (212)" -> "Sarah Richards (214)" [label=1708]
+	"Tony Pettitt (207)" -> "Tony Hickey (212)" [label=1548]
+	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
+	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
+	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
+	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
+	"Tony Pettitt (207)" -> "Sarah Richards (214)" [label=4164]
+	"Nicole Evans (209)" -> "Sarah Richards (214)" [label=685]
+	"Greg Keightley (211)" -> "Sarah Richards (214)" [label=236]
+	"Michelle Palmer (213)" -> "Sarah Richards (214)" [label=116]
+	"James Jackson (210)" -> "Sarah Richards (214)" [label=420]
+	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
+	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
+	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
+	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
+	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
+	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
+	"Nicole Evans (209)" -> "Tony Hickey (212)" [label=282]
+	"Greg Keightley (211)" -> "Tony Hickey (212)" [label=879]
+	"Michelle Palmer (213)" -> "Tony Hickey (212)" [label=120]
+	"James Jackson (210)" -> "Tony Hickey (212)" [label=57]
+}

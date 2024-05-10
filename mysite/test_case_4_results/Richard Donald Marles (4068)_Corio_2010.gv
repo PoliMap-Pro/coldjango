@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Richard Donald Marles (4068)_Corio_2010" {
+	graph [label="Corio 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Richard Donald Marles (4068)" [label="Richard Donald Marles (4068)
+Australian Labor Party"]
+	"Gavin Brown (4067)" [label="Gavin Brown (4067)
+Australian Greens"]
+	"Scott Amberley (3432)" [label="Scott Amberley (3432)
+Family First"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Gavin Brown (4067)" -> "Richard Donald Marles (4068)" [label=9376]
+	"Scott Amberley (3432)" -> "Gavin Brown (4067)" [label=822]
+	"Sue Bull (810)" -> "Scott Amberley (3432)" [label=198]
+	"Scott Amberley (3432)" -> "Richard Donald Marles (4068)" [label=924]
+	"Sue Bull (810)" -> "Richard Donald Marles (4068)" [label=205]
+	"Sue Bull (810)" -> "Gavin Brown (4067)" [label=494]
+}

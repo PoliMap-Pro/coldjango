@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jessica Whelan (1722)_Lyons_2019" {
+	graph [label="Lyons 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jessica Whelan (1722)" [label="Jessica Whelan (1722)
+Liberal"]
+	"Deanna Hutchinson (1719)" [label="Deanna Hutchinson (1719)
+The Nationals"]
+	"Tennille Murtagh (1721)" [label="Tennille Murtagh (1721)
+Pauline Hanson's One Nation"]
+	"Gary Whisson (1720)" [label="Gary Whisson (1720)
+The Greens"]
+	"Michael Warne (1723)" [label="Michael Warne (1723)
+United Australia Party"]
+	"Deanna Hutchinson (1719)" -> "Jessica Whelan (1722)" [label=10509]
+	"Tennille Murtagh (1721)" -> "Deanna Hutchinson (1719)" [label=3117]
+	"Gary Whisson (1720)" -> "Tennille Murtagh (1721)" [label=445]
+	"Michael Warne (1723)" -> "Gary Whisson (1720)" [label=204]
+	"Tennille Murtagh (1721)" -> "Jessica Whelan (1722)" [label=2677]
+	"Gary Whisson (1720)" -> "Jessica Whelan (1722)" [label=471]
+	"Michael Warne (1723)" -> "Jessica Whelan (1722)" [label=1115]
+	"Michael Warne (1723)" -> "Tennille Murtagh (1721)" [label=1664]
+	"Gary Whisson (1720)" -> "Deanna Hutchinson (1719)" [label=706]
+	"Michael Warne (1723)" -> "Deanna Hutchinson (1719)" [label=732]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Alastair Thomson (1775)_Corio_2019" {
+	graph [label="Corio 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alastair Thomson (1775)" [label="Alastair Thomson (1775)
+Liberal"]
+	"Amber Forbes (1776)" [label="Amber Forbes (1776)
+The Greens (VIC)"]
+	"Desmond Sanborn (1777)" [label="Desmond Sanborn (1777)
+United Australia Party"]
+	"Amber Forbes (1776)" -> "Alastair Thomson (1775)" [label=3171]
+	"Desmond Sanborn (1777)" -> "Amber Forbes (1776)" [label=1369]
+	"Desmond Sanborn (1777)" -> "Alastair Thomson (1775)" [label=2583]
+}

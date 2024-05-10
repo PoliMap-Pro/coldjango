@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Gavin Pearce (702)_Braddon_2019" {
+	graph [label="Braddon 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gavin Pearce (702)" [label="Gavin Pearce (702)
+Liberal"]
+	"Craig Brakey (1704)" [label="Craig Brakey (1704)
+Independent"]
+	"Graham Gallaher (1710)" [label="Graham Gallaher (1710)
+Pauline Hanson's One Nation"]
+	"Phill Parsons (1707)" [label="Phill Parsons (1707)
+The Greens"]
+	"Karen Wendy Spaulding (1703)" [label="Karen Wendy Spaulding (1703)
+United Australia Party"]
+	"Sally Milbourne (1706)" [label="Sally Milbourne (1706)
+The Nationals"]
+	"Brett Michael Smith (1708)" [label="Brett Michael Smith (1708)
+Independent"]
+	"Shane Allan (1705)" [label="Shane Allan (1705)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Craig Brakey (1704)" -> "Gavin Pearce (702)" [label=7739]
+	"Graham Gallaher (1710)" -> "Craig Brakey (1704)" [label=2800]
+	"Phill Parsons (1707)" -> "Graham Gallaher (1710)" [label=177]
+	"Karen Wendy Spaulding (1703)" -> "Phill Parsons (1707)" [label=124]
+	"Sally Milbourne (1706)" -> "Karen Wendy Spaulding (1703)" [label=180]
+	"Brett Michael Smith (1708)" -> "Sally Milbourne (1706)" [label=67]
+	"Shane Allan (1705)" -> "Brett Michael Smith (1708)" [label=31]
+	"Graham Gallaher (1710)" -> "Gavin Pearce (702)" [label=1258]
+	"Phill Parsons (1707)" -> "Gavin Pearce (702)" [label=335]
+	"Karen Wendy Spaulding (1703)" -> "Gavin Pearce (702)" [label=499]
+	"Sally Milbourne (1706)" -> "Gavin Pearce (702)" [label=603]
+	"Brett Michael Smith (1708)" -> "Gavin Pearce (702)" [label=109]
+	"Shane Allan (1705)" -> "Gavin Pearce (702)" [label=95]
+	"Shane Allan (1705)" -> "Sally Milbourne (1706)" [label=54]
+	"Brett Michael Smith (1708)" -> "Karen Wendy Spaulding (1703)" [label=73]
+	"Shane Allan (1705)" -> "Karen Wendy Spaulding (1703)" [label=107]
+	"Sally Milbourne (1706)" -> "Phill Parsons (1707)" [label=124]
+	"Brett Michael Smith (1708)" -> "Phill Parsons (1707)" [label=80]
+	"Shane Allan (1705)" -> "Phill Parsons (1707)" [label=19]
+	"Karen Wendy Spaulding (1703)" -> "Graham Gallaher (1710)" [label=779]
+	"Sally Milbourne (1706)" -> "Graham Gallaher (1710)" [label=146]
+	"Brett Michael Smith (1708)" -> "Graham Gallaher (1710)" [label=150]
+	"Shane Allan (1705)" -> "Graham Gallaher (1710)" [label=239]
+	"Phill Parsons (1707)" -> "Craig Brakey (1704)" [label=727]
+	"Karen Wendy Spaulding (1703)" -> "Craig Brakey (1704)" [label=1201]
+	"Sally Milbourne (1706)" -> "Craig Brakey (1704)" [label=357]
+	"Brett Michael Smith (1708)" -> "Craig Brakey (1704)" [label=529]
+	"Shane Allan (1705)" -> "Craig Brakey (1704)" [label=137]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sid Sidebottom (3291)_Braddon_2010" {
+	graph [label="Braddon 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sid Sidebottom (3291)" [label="Sid Sidebottom (3291)
+Australian Labor Party"]
+	"Scott Jordan (2505)" [label="Scott Jordan (2505)
+Australian Greens"]
+	"Scott Jordan (2505)" -> "Sid Sidebottom (3291)" [label=5760]
+}

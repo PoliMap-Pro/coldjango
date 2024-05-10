@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Carrol Halliwell (1509)_Dickson_2019" {
+	graph [label="Dickson 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Carrol Halliwell (1509)" [label="Carrol Halliwell (1509)
+Pauline Hanson's One Nation"]
+	"Thor Prohaska (430)" [label="Thor Prohaska (430)
+Independent"]
+	"Steve Austin (1508)" [label="Steve Austin (1508)
+United Australia Party"]
+	"Maureen Brohman (1511)" [label="Maureen Brohman (1511)
+Animal Justice Party"]
+	"Richelle Simpson (1510)" [label="Richelle Simpson (1510)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Thor Prohaska (430)" -> "Carrol Halliwell (1509)" [label=825]
+	"Steve Austin (1508)" -> "Thor Prohaska (430)" [label=337]
+	"Maureen Brohman (1511)" -> "Steve Austin (1508)" [label=117]
+	"Richelle Simpson (1510)" -> "Maureen Brohman (1511)" [label=90]
+	"Steve Austin (1508)" -> "Carrol Halliwell (1509)" [label=944]
+	"Maureen Brohman (1511)" -> "Carrol Halliwell (1509)" [label=335]
+	"Richelle Simpson (1510)" -> "Carrol Halliwell (1509)" [label=483]
+	"Richelle Simpson (1510)" -> "Steve Austin (1508)" [label=126]
+	"Maureen Brohman (1511)" -> "Thor Prohaska (430)" [label=370]
+	"Richelle Simpson (1510)" -> "Thor Prohaska (430)" [label=84]
+}

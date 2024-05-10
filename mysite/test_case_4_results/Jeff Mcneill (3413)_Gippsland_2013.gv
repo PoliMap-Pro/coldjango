@@ -1,0 +1,70 @@
+// House preference flow
+digraph "Jeff Mcneill (3413)_Gippsland_2013" {
+	graph [label="Gippsland 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeff Mcneill (3413)" [label="Jeff Mcneill (3413)
+Australian Labor Party"]
+	"Scott Campbell-Smith (3418)" [label="Scott Campbell-Smith (3418)
+The Greens"]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Liberal Democrats"]
+	"Deborah Faye Gravenall (3416)" [label="Deborah Faye Gravenall (3416)
+Palmer United Party"]
+	"Douglas Leitch (3412)" [label="Douglas Leitch (3412)
+Sex Party"]
+	"Peter Gardner (2609)" [label="Peter Gardner (2609)
+Independent"]
+	"Angie Foster (3414)" [label="Angie Foster (3414)
+Family First Party"]
+	"Sav Mangion (3415)" [label="Sav Mangion (3415)
+Country Alliance"]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Rise Up Australia Party"]
+	"Mark Guerin (3417)" [label="Mark Guerin (3417)
+Secular Party of Australia"]
+	"Scott Campbell-Smith (3418)" -> "Jeff Mcneill (3413)" [label=5410]
+	"Ben Buckley (2610)" -> "Scott Campbell-Smith (3418)" [label=1181]
+	"Deborah Faye Gravenall (3416)" -> "Ben Buckley (2610)" [label=853]
+	"Douglas Leitch (3412)" -> "Deborah Faye Gravenall (3416)" [label=507]
+	"Peter Gardner (2609)" -> "Douglas Leitch (3412)" [label=763]
+	"Angie Foster (3414)" -> "Peter Gardner (2609)" [label=197]
+	"Sav Mangion (3415)" -> "Angie Foster (3414)" [label=79]
+	"Peter Dorian (1832)" -> "Sav Mangion (3415)" [label=27]
+	"Mark Guerin (3417)" -> "Peter Dorian (1832)" [label=7]
+	"Ben Buckley (2610)" -> "Jeff Mcneill (3413)" [label=1087]
+	"Deborah Faye Gravenall (3416)" -> "Jeff Mcneill (3413)" [label=1168]
+	"Douglas Leitch (3412)" -> "Jeff Mcneill (3413)" [label=1260]
+	"Peter Gardner (2609)" -> "Jeff Mcneill (3413)" [label=489]
+	"Angie Foster (3414)" -> "Jeff Mcneill (3413)" [label=208]
+	"Sav Mangion (3415)" -> "Jeff Mcneill (3413)" [label=46]
+	"Peter Dorian (1832)" -> "Jeff Mcneill (3413)" [label=37]
+	"Mark Guerin (3417)" -> "Jeff Mcneill (3413)" [label=29]
+	"Mark Guerin (3417)" -> "Sav Mangion (3415)" [label=8]
+	"Peter Dorian (1832)" -> "Angie Foster (3414)" [label=143]
+	"Mark Guerin (3417)" -> "Angie Foster (3414)" [label=5]
+	"Sav Mangion (3415)" -> "Peter Gardner (2609)" [label=53]
+	"Peter Dorian (1832)" -> "Peter Gardner (2609)" [label=30]
+	"Mark Guerin (3417)" -> "Peter Gardner (2609)" [label=34]
+	"Angie Foster (3414)" -> "Douglas Leitch (3412)" [label=178]
+	"Sav Mangion (3415)" -> "Douglas Leitch (3412)" [label=77]
+	"Peter Dorian (1832)" -> "Douglas Leitch (3412)" [label=36]
+	"Mark Guerin (3417)" -> "Douglas Leitch (3412)" [label=34]
+	"Peter Gardner (2609)" -> "Deborah Faye Gravenall (3416)" [label=141]
+	"Angie Foster (3414)" -> "Deborah Faye Gravenall (3416)" [label=272]
+	"Sav Mangion (3415)" -> "Deborah Faye Gravenall (3416)" [label=99]
+	"Peter Dorian (1832)" -> "Deborah Faye Gravenall (3416)" [label=22]
+	"Mark Guerin (3417)" -> "Deborah Faye Gravenall (3416)" [label=20]
+	"Douglas Leitch (3412)" -> "Ben Buckley (2610)" [label=291]
+	"Peter Gardner (2609)" -> "Ben Buckley (2610)" [label=193]
+	"Angie Foster (3414)" -> "Ben Buckley (2610)" [label=179]
+	"Sav Mangion (3415)" -> "Ben Buckley (2610)" [label=67]
+	"Peter Dorian (1832)" -> "Ben Buckley (2610)" [label=14]
+	"Mark Guerin (3417)" -> "Ben Buckley (2610)" [label=12]
+	"Deborah Faye Gravenall (3416)" -> "Scott Campbell-Smith (3418)" [label=715]
+	"Douglas Leitch (3412)" -> "Scott Campbell-Smith (3418)" [label=497]
+	"Peter Gardner (2609)" -> "Scott Campbell-Smith (3418)" [label=356]
+	"Angie Foster (3414)" -> "Scott Campbell-Smith (3418)" [label=122]
+	"Sav Mangion (3415)" -> "Scott Campbell-Smith (3418)" [label=17]
+	"Peter Dorian (1832)" -> "Scott Campbell-Smith (3418)" [label=10]
+	"Mark Guerin (3417)" -> "Scott Campbell-Smith (3418)" [label=33]
+}

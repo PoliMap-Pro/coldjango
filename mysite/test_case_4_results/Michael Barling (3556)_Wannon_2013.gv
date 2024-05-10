@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Barling (3556)_Wannon_2013" {
+	graph [label="Wannon 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Barling (3556)" [label="Michael Barling (3556)
+Australian Labor Party"]
+	"Tim Emanuelle (3557)" [label="Tim Emanuelle (3557)
+The Greens"]
+	"Bradley Ian Ferguson (3560)" [label="Bradley Ian Ferguson (3560)
+Palmer United Party"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Sex Party"]
+	"Craig Haberfield (3559)" [label="Craig Haberfield (3559)
+Family First Party"]
+	"Therese Corbett (3555)" [label="Therese Corbett (3555)
+Australian Christians"]
+	"Tim Emanuelle (3557)" -> "Michael Barling (3556)" [label=6066]
+	"Bradley Ian Ferguson (3560)" -> "Tim Emanuelle (3557)" [label=891]
+	"Chris Johnson (3558)" -> "Bradley Ian Ferguson (3560)" [label=588]
+	"Craig Haberfield (3559)" -> "Chris Johnson (3558)" [label=270]
+	"Therese Corbett (3555)" -> "Craig Haberfield (3559)" [label=339]
+	"Bradley Ian Ferguson (3560)" -> "Michael Barling (3556)" [label=1525]
+	"Chris Johnson (3558)" -> "Michael Barling (3556)" [label=756]
+	"Craig Haberfield (3559)" -> "Michael Barling (3556)" [label=361]
+	"Therese Corbett (3555)" -> "Michael Barling (3556)" [label=466]
+	"Therese Corbett (3555)" -> "Chris Johnson (3558)" [label=57]
+	"Craig Haberfield (3559)" -> "Bradley Ian Ferguson (3560)" [label=548]
+	"Therese Corbett (3555)" -> "Bradley Ian Ferguson (3560)" [label=47]
+	"Chris Johnson (3558)" -> "Tim Emanuelle (3557)" [label=825]
+	"Craig Haberfield (3559)" -> "Tim Emanuelle (3557)" [label=225]
+	"Therese Corbett (3555)" -> "Tim Emanuelle (3557)" [label=101]
+}

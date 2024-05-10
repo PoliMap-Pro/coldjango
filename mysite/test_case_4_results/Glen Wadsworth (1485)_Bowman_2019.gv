@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Glen Wadsworth (1485)_Bowman_2019" {
+	graph [label="Bowman 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Glen Wadsworth (1485)" [label="Glen Wadsworth (1485)
+Pauline Hanson's One Nation"]
+	"Shane Clarke (1483)" [label="Shane Clarke (1483)
+United Australia Party"]
+	"David Anderson (1484)" [label="David Anderson (1484)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Shane Clarke (1483)" -> "Glen Wadsworth (1485)" [label=1641]
+	"David Anderson (1484)" -> "Shane Clarke (1483)" [label=326]
+	"David Anderson (1484)" -> "Glen Wadsworth (1485)" [label=905]
+}

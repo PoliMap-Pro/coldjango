@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Richard Orchard (305)_Riverina_2022" {
+	graph [label="Riverina 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Richard Orchard (305)" [label="Richard Orchard (305)
+Pauline Hanson's One Nation"]
+	"Dean Mccrae (311)" [label="Dean Mccrae (311)
+Liberal Democrats"]
+	"Steve Karaitiana (308)" [label="Steve Karaitiana (308)
+Shooters, Fishers and Farmers Party"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Darren Ciavarella (310)" [label="Darren Ciavarella (310)
+Independent"]
+	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
+United Australia Party"]
+	"Dean Mccrae (311)" -> "Richard Orchard (305)" [label=3119]
+	"Steve Karaitiana (308)" -> "Dean Mccrae (311)" [label=1108]
+	"Michael Organ (312)" -> "Steve Karaitiana (308)" [label=673]
+	"Darren Ciavarella (310)" -> "Michael Organ (312)" [label=500]
+	"Daniel Martelozzo (307)" -> "Darren Ciavarella (310)" [label=179]
+	"Steve Karaitiana (308)" -> "Richard Orchard (305)" [label=2607]
+	"Michael Organ (312)" -> "Richard Orchard (305)" [label=426]
+	"Darren Ciavarella (310)" -> "Richard Orchard (305)" [label=534]
+	"Daniel Martelozzo (307)" -> "Richard Orchard (305)" [label=985]
+	"Daniel Martelozzo (307)" -> "Michael Organ (312)" [label=88]
+	"Darren Ciavarella (310)" -> "Steve Karaitiana (308)" [label=507]
+	"Daniel Martelozzo (307)" -> "Steve Karaitiana (308)" [label=361]
+	"Michael Organ (312)" -> "Dean Mccrae (311)" [label=687]
+	"Darren Ciavarella (310)" -> "Dean Mccrae (311)" [label=401]
+	"Daniel Martelozzo (307)" -> "Dean Mccrae (311)" [label=320]
+}

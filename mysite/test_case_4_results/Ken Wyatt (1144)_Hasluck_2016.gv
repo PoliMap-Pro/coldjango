@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ken Wyatt (1144)_Hasluck_2016" {
+	graph [label="Hasluck 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ken Wyatt (1144)" [label="Ken Wyatt (1144)
+Liberal"]
+	"Patrick Hyslop (2755)" [label="Patrick Hyslop (2755)
+The Greens (WA)"]
+	"Henry John Barnard (2758)" [label="Henry John Barnard (2758)
+Rise Up Australia Party"]
+	"Phil Twiss (2757)" [label="Phil Twiss (2757)
+Australian Christians"]
+	"Patrick Hyslop (2755)" -> "Ken Wyatt (1144)" [label=2778]
+	"Henry John Barnard (2758)" -> "Patrick Hyslop (2755)" [label=1105]
+	"Phil Twiss (2757)" -> "Henry John Barnard (2758)" [label=1272]
+	"Henry John Barnard (2758)" -> "Ken Wyatt (1144)" [label=2022]
+	"Phil Twiss (2757)" -> "Ken Wyatt (1144)" [label=975]
+	"Phil Twiss (2757)" -> "Patrick Hyslop (2755)" [label=220]
+}

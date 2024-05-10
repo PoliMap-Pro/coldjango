@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Mary-Jane Stevens (399)_Bowman_2022" {
+	graph [label="Bowman 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
+United Australia Party"]
+	"Phil Johnson (402)" [label="Phil Johnson (402)
+TNL"]
+	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]
+}

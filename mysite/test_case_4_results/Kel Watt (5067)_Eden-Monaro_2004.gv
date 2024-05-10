@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kel Watt (5067)_Eden-Monaro_2004" {
+	graph [label="Eden-Monaro 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kel Watt (5067)" [label="Kel Watt (5067)
+Country Labor"]
+	"Cecily Dignan (5068)" [label="Cecily Dignan (5068)
+The Greens"]
+	"Don Tarlinton (5069)" [label="Don Tarlinton (5069)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Outdoor Recreation Party"]
+	"Nazia Ahmed (5070)" [label="Nazia Ahmed (5070)
+Australian Democrats"]
+	"Cecily Dignan (5068)" -> "Kel Watt (5067)" [label=6230]
+	"Don Tarlinton (5069)" -> "Cecily Dignan (5068)" [label=406]
+	"Ursula Bennett (2086)" -> "Don Tarlinton (5069)" [label=155]
+	"Tim Quilty (2636)" -> "Ursula Bennett (2086)" [label=171]
+	"Nazia Ahmed (5070)" -> "Tim Quilty (2636)" [label=107]
+	"Don Tarlinton (5069)" -> "Kel Watt (5067)" [label=694]
+	"Ursula Bennett (2086)" -> "Kel Watt (5067)" [label=311]
+	"Tim Quilty (2636)" -> "Kel Watt (5067)" [label=262]
+	"Nazia Ahmed (5070)" -> "Kel Watt (5067)" [label=174]
+	"Nazia Ahmed (5070)" -> "Ursula Bennett (2086)" [label=35]
+	"Tim Quilty (2636)" -> "Don Tarlinton (5069)" [label=345]
+	"Nazia Ahmed (5070)" -> "Don Tarlinton (5069)" [label=54]
+	"Ursula Bennett (2086)" -> "Cecily Dignan (5068)" [label=144]
+	"Tim Quilty (2636)" -> "Cecily Dignan (5068)" [label=150]
+	"Nazia Ahmed (5070)" -> "Cecily Dignan (5068)" [label=243]
+}

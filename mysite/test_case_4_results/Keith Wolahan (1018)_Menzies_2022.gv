@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Keith Wolahan (1018)_Menzies_2022" {
+	graph [label="Menzies 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Wolahan (1018)" [label="Keith Wolahan (1018)
+Liberal"]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
+Australian Federation Party"]
+	"Bill Pheasant (1019)" -> "Keith Wolahan (1018)" [label=3039]
+	"Nathan Scaglione (1020)" -> "Bill Pheasant (1019)" [label=1547]
+	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
+	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+	"Nathan Scaglione (1020)" -> "Keith Wolahan (1018)" [label=3910]
+	"Greg Cheesman (1016)" -> "Keith Wolahan (1018)" [label=1282]
+	"John Hayes (1017)" -> "Keith Wolahan (1018)" [label=315]
+	"Sanjeev Sabhlok (1015)" -> "Keith Wolahan (1018)" [label=126]
+	"Sanjeev Sabhlok (1015)" -> "Greg Cheesman (1016)" [label=277]
+	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
+	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
+	"Greg Cheesman (1016)" -> "Bill Pheasant (1019)" [label=314]
+	"John Hayes (1017)" -> "Bill Pheasant (1019)" [label=199]
+	"Sanjeev Sabhlok (1015)" -> "Bill Pheasant (1019)" [label=112]
+}

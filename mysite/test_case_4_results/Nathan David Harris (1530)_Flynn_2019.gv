@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Nathan David Harris (1530)_Flynn_2019" {
+	graph [label="Flynn 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nathan David Harris (1530)" [label="Nathan David Harris (1530)
+United Australia Party"]
+	"Murray Peterson (1532)" [label="Murray Peterson (1532)
+Independent"]
+	"Jaiben Baker (1531)" [label="Jaiben Baker (1531)
+The Greens"]
+	"Marcus John Hiesler (1534)" [label="Marcus John Hiesler (1534)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
+Independent"]
+	"Murray Peterson (1532)" -> "Nathan David Harris (1530)" [label=772]
+	"Jaiben Baker (1531)" -> "Murray Peterson (1532)" [label=630]
+	"Marcus John Hiesler (1534)" -> "Jaiben Baker (1531)" [label=34]
+	"Duncan George Scott (1533)" -> "Marcus John Hiesler (1534)" [label=104]
+	"Jaiben Baker (1531)" -> "Nathan David Harris (1530)" [label=188]
+	"Marcus John Hiesler (1534)" -> "Nathan David Harris (1530)" [label=286]
+	"Duncan George Scott (1533)" -> "Nathan David Harris (1530)" [label=50]
+	"Duncan George Scott (1533)" -> "Jaiben Baker (1531)" [label=67]
+	"Marcus John Hiesler (1534)" -> "Murray Peterson (1532)" [label=307]
+	"Duncan George Scott (1533)" -> "Murray Peterson (1532)" [label=732]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Martin Ferguson (4738)_Batman_2007" {
+	graph [label="Batman 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Martin Ferguson (4738)" [label="Martin Ferguson (4738)
+Australian Labor Party"]
+	"Patricia Carey (4737)" [label="Patricia Carey (4737)
+Australian Greens"]
+	"Peter Kerin (4515)" [label="Peter Kerin (4515)
+Democrats"]
+	"Darren Hassan (4030)" [label="Darren Hassan (4030)
+Australian Democrats"]
+	"Robert Barwick (4740)" [label="Robert Barwick (4740)
+Citizens Electoral Council"]
+	"Patricia Carey (4737)" -> "Martin Ferguson (4738)" [label=13949]
+	"Peter Kerin (4515)" -> "Patricia Carey (4737)" [label=1238]
+	"Darren Hassan (4030)" -> "Peter Kerin (4515)" [label=678]
+	"Robert Barwick (4740)" -> "Darren Hassan (4030)" [label=55]
+	"Peter Kerin (4515)" -> "Martin Ferguson (4738)" [label=665]
+	"Darren Hassan (4030)" -> "Martin Ferguson (4738)" [label=294]
+	"Robert Barwick (4740)" -> "Martin Ferguson (4738)" [label=44]
+	"Robert Barwick (4740)" -> "Peter Kerin (4515)" [label=44]
+	"Darren Hassan (4030)" -> "Patricia Carey (4737)" [label=528]
+	"Robert Barwick (4740)" -> "Patricia Carey (4737)" [label=35]
+}

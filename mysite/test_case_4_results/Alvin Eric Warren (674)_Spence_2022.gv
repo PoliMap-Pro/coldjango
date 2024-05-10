@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Alvin Eric Warren (674)_Spence_2022" {
+	graph [label="Spence 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
+United Australia Party"]
+	"Matilda Bawden (677)" [label="Matilda Bawden (677)
+Australian Federation Party"]
+	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
+}

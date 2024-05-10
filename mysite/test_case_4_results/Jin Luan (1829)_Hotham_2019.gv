@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jin Luan (1829)_Hotham_2019" {
+	graph [label="Hotham 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jin Luan (1829)" [label="Jin Luan (1829)
+United Australia Party"]
+	"Dennis Bilic (1833)" [label="Dennis Bilic (1833)
+Sustainable Australia"]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Rise Up Australia Party"]
+	"Dennis Bilic (1833)" -> "Jin Luan (1829)" [label=461]
+	"Peter Dorian (1832)" -> "Dennis Bilic (1833)" [label=358]
+	"Peter Dorian (1832)" -> "Jin Luan (1829)" [label=288]
+}

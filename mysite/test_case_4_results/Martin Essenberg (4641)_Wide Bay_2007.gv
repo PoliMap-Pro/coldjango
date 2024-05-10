@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Martin Essenberg (4641)_Wide Bay_2007" {
+	graph [label="Wide Bay 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Martin Essenberg (4641)" [label="Martin Essenberg (4641)
+One Nation WA"]
+	"Terry Shaw (4644)" [label="Terry Shaw (4644)
+Democrats"]
+	"Terry Shaw (4644)" -> "Martin Essenberg (4641)" [label=48]
+}

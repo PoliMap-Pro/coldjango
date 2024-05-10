@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Sharryn Jackson (4197)_Hasluck_2010" {
+	graph [label="Hasluck 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sharryn Jackson (4197)" [label="Sharryn Jackson (4197)
+Australian Labor Party"]
+	"Glenice Smith (4195)" [label="Glenice Smith (4195)
+The Greens"]
+	"Linda E Brewer (4196)" [label="Linda E Brewer (4196)
+Christian Democratic Party"]
+	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
+Family First"]
+	"Dot Henry (4198)" [label="Dot Henry (4198)
+Independent"]
+	"Andrew Charles Middleton (1119)" [label="Andrew Charles Middleton (1119)
+The Climate Sceptics"]
+	"Glenice Smith (4195)" -> "Sharryn Jackson (4197)" [label=8711]
+	"Linda E Brewer (4196)" -> "Glenice Smith (4195)" [label=725]
+	"Jim Mccourt (3613)" -> "Linda E Brewer (4196)" [label=785]
+	"Dot Henry (4198)" -> "Jim Mccourt (3613)" [label=370]
+	"Andrew Charles Middleton (1119)" -> "Dot Henry (4198)" [label=105]
+	"Linda E Brewer (4196)" -> "Sharryn Jackson (4197)" [label=390]
+	"Jim Mccourt (3613)" -> "Sharryn Jackson (4197)" [label=355]
+	"Dot Henry (4198)" -> "Sharryn Jackson (4197)" [label=329]
+	"Andrew Charles Middleton (1119)" -> "Sharryn Jackson (4197)" [label=32]
+	"Andrew Charles Middleton (1119)" -> "Jim Mccourt (3613)" [label=103]
+	"Dot Henry (4198)" -> "Linda E Brewer (4196)" [label=122]
+	"Andrew Charles Middleton (1119)" -> "Linda E Brewer (4196)" [label=79]
+	"Jim Mccourt (3613)" -> "Glenice Smith (4195)" [label=679]
+	"Dot Henry (4198)" -> "Glenice Smith (4195)" [label=454]
+	"Andrew Charles Middleton (1119)" -> "Glenice Smith (4195)" [label=142]
+}

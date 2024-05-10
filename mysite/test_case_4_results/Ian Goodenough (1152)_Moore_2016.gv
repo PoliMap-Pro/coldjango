@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ian Goodenough (1152)_Moore_2016" {
+	graph [label="Moore 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Goodenough (1152)" [label="Ian Goodenough (1152)
+Liberal"]
+	"Daniel Lindley (2759)" [label="Daniel Lindley (2759)
+The Greens (WA)"]
+	"Maryka Groenewald (2760)" [label="Maryka Groenewald (2760)
+Australian Christians"]
+	"Daniel Lindley (2759)" -> "Ian Goodenough (1152)" [label=3194]
+	"Maryka Groenewald (2760)" -> "Daniel Lindley (2759)" [label=599]
+	"Maryka Groenewald (2760)" -> "Ian Goodenough (1152)" [label=2089]
+}

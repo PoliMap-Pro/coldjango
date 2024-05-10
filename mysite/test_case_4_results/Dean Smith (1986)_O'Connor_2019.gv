@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Dean Smith (1986)_O'Connor_2019" {
+	graph [label="O'Connor 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dean Smith (1986)" [label="Dean Smith (1986)
+Pauline Hanson's One Nation"]
+	"Nelson Blake Gilmour (1982)" [label="Nelson Blake Gilmour (1982)
+The Greens (WA)"]
+	"Ian 'T Hart (1984)" [label="Ian 'T Hart (1984)
+Australian Christians"]
+	"Anthony James Fels (1114)" [label="Anthony James Fels (1114)
+United Australia Party"]
+	"Peter Swift (1985)" [label="Peter Swift (1985)
+WESTERN AUSTRALIA PARTY"]
+	"Nicholas Andrew Robinson (1987)" [label="Nicholas Andrew Robinson (1987)
+The Great Australian Party"]
+	"Nelson Blake Gilmour (1982)" -> "Dean Smith (1986)" [label=563]
+	"Ian 'T Hart (1984)" -> "Nelson Blake Gilmour (1982)" [label=152]
+	"Anthony James Fels (1114)" -> "Ian 'T Hart (1984)" [label=130]
+	"Peter Swift (1985)" -> "Anthony James Fels (1114)" [label=192]
+	"Nicholas Andrew Robinson (1987)" -> "Peter Swift (1985)" [label=248]
+	"Ian 'T Hart (1984)" -> "Dean Smith (1986)" [label=492]
+	"Anthony James Fels (1114)" -> "Dean Smith (1986)" [label=694]
+	"Peter Swift (1985)" -> "Dean Smith (1986)" [label=382]
+	"Nicholas Andrew Robinson (1987)" -> "Dean Smith (1986)" [label=293]
+	"Nicholas Andrew Robinson (1987)" -> "Anthony James Fels (1114)" [label=67]
+	"Peter Swift (1985)" -> "Ian 'T Hart (1984)" [label=175]
+	"Nicholas Andrew Robinson (1987)" -> "Ian 'T Hart (1984)" [label=56]
+	"Anthony James Fels (1114)" -> "Nelson Blake Gilmour (1982)" [label=134]
+	"Peter Swift (1985)" -> "Nelson Blake Gilmour (1982)" [label=150]
+	"Nicholas Andrew Robinson (1987)" -> "Nelson Blake Gilmour (1982)" [label=43]
+}

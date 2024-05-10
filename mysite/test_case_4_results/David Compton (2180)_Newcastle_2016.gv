@@ -1,0 +1,32 @@
+// House preference flow
+digraph "David Compton (2180)_Newcastle_2016" {
+	graph [label="Newcastle 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"David Compton (2180)" [label="David Compton (2180)
+Liberal"]
+	"John Mackenzie (1373)" [label="John Mackenzie (1373)
+The Greens"]
+	"Karen Burge (2182)" [label="Karen Burge (2182)
+Drug Law Reform"]
+	"Rod Holding (2183)" [label="Rod Holding (2183)
+Independent"]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stuart Southwell (2181)" [label="Stuart Southwell (2181)
+Democratic Labour Party (DLP)"]
+	"John Mackenzie (1373)" -> "David Compton (2180)" [label=3150]
+	"Karen Burge (2182)" -> "John Mackenzie (1373)" [label=2203]
+	"Rod Holding (2183)" -> "Karen Burge (2182)" [label=1192]
+	"Milton Caine (2184)" -> "Rod Holding (2183)" [label=629]
+	"Stuart Southwell (2181)" -> "Milton Caine (2184)" [label=276]
+	"Karen Burge (2182)" -> "David Compton (2180)" [label=956]
+	"Rod Holding (2183)" -> "David Compton (2180)" [label=789]
+	"Milton Caine (2184)" -> "David Compton (2180)" [label=1185]
+	"Stuart Southwell (2181)" -> "David Compton (2180)" [label=118]
+	"Stuart Southwell (2181)" -> "Rod Holding (2183)" [label=155]
+	"Milton Caine (2184)" -> "Karen Burge (2182)" [label=173]
+	"Stuart Southwell (2181)" -> "Karen Burge (2182)" [label=86]
+	"Rod Holding (2183)" -> "John Mackenzie (1373)" [label=660]
+	"Milton Caine (2184)" -> "John Mackenzie (1373)" [label=95]
+	"Stuart Southwell (2181)" -> "John Mackenzie (1373)" [label=118]
+}

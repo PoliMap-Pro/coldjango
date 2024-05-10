@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Andrew Colin Robertson (341)_Warringah_2022" {
+	graph [label="Warringah 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Colin Robertson (341)" [label="Andrew Colin Robertson (341)
+United Australia Party"]
+	"Steven Tripp (339)" [label="Steven Tripp (339)
+Pauline Hanson's One Nation"]
+	"Kate Paterson (345)" [label="Kate Paterson (345)
+Animal Justice Party"]
+	"Steven Tripp (339)" -> "Andrew Colin Robertson (341)" [label=1261]
+	"Kate Paterson (345)" -> "Steven Tripp (339)" [label=104]
+	"Kate Paterson (345)" -> "Andrew Colin Robertson (341)" [label=100]
+}

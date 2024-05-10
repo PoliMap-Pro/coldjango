@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Amit Batish (68)_Chifley_2022" {
+	graph [label="Chifley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Amit Batish (68)" [label="Amit Batish (68)
+Pauline Hanson's One Nation"]
+	"Sujan Selventhiran (72)" [label="Sujan Selventhiran (72)
+The Greens"]
+	"Zvetanka Raskov (69)" [label="Zvetanka Raskov (69)
+United Australia Party"]
+	"Ben Roughley (71)" [label="Ben Roughley (71)
+Liberal Democrats"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Sujan Selventhiran (72)" -> "Amit Batish (68)" [label=972]
+	"Zvetanka Raskov (69)" -> "Sujan Selventhiran (72)" [label=718]
+	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
+	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
+	"Zvetanka Raskov (69)" -> "Amit Batish (68)" [label=3414]
+	"Ben Roughley (71)" -> "Amit Batish (68)" [label=478]
+	"Ammar Khan (70)" -> "Amit Batish (68)" [label=281]
+	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
+	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
+	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
+}

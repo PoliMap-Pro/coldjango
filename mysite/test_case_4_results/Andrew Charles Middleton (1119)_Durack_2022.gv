@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Andrew Charles Middleton (1119)_Durack_2022" {
+	graph [label="Durack 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Charles Middleton (1119)" [label="Andrew Charles Middleton (1119)
+United Australia Party"]
+	"Craig Shore (1111)" [label="Craig Shore (1111)
+Australian Federation Party"]
+	"Craig Shore (1111)" -> "Andrew Charles Middleton (1119)" [label=90]
+}

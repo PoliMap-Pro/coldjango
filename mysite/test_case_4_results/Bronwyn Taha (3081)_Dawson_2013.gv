@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Bronwyn Taha (3081)_Dawson_2013" {
+	graph [label="Dawson 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bronwyn Taha (3081)" [label="Bronwyn Taha (3081)
+Australian Labor Party"]
+	"Ian Maurice Ferguson (1615)" [label="Ian Maurice Ferguson (1615)
+Palmer United Party"]
+	"Justin Englert (3082)" [label="Justin Englert (3082)
+Katter's Australian Party"]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Lindsay Temple (2306)" [label="Lindsay Temple (2306)
+Family First"]
+	"Andrew Harris (3080)" [label="Andrew Harris (3080)
+Citizens Electoral Council"]
+	"Ian Maurice Ferguson (1615)" -> "Bronwyn Taha (3081)" [label=6062]
+	"Justin Englert (3082)" -> "Ian Maurice Ferguson (1615)" [label=2845]
+	"Jonathon Dykyj (2313)" -> "Justin Englert (3082)" [label=696]
+	"Lindsay Temple (2306)" -> "Jonathon Dykyj (2313)" [label=331]
+	"Andrew Harris (3080)" -> "Lindsay Temple (2306)" [label=62]
+	"Justin Englert (3082)" -> "Bronwyn Taha (3081)" [label=2504]
+	"Jonathon Dykyj (2313)" -> "Bronwyn Taha (3081)" [label=2236]
+	"Lindsay Temple (2306)" -> "Bronwyn Taha (3081)" [label=279]
+	"Andrew Harris (3080)" -> "Bronwyn Taha (3081)" [label=61]
+	"Andrew Harris (3080)" -> "Jonathon Dykyj (2313)" [label=46]
+	"Lindsay Temple (2306)" -> "Justin Englert (3082)" [label=243]
+	"Andrew Harris (3080)" -> "Justin Englert (3082)" [label=54]
+	"Jonathon Dykyj (2313)" -> "Ian Maurice Ferguson (1615)" [label=644]
+	"Lindsay Temple (2306)" -> "Ian Maurice Ferguson (1615)" [label=339]
+	"Andrew Harris (3080)" -> "Ian Maurice Ferguson (1615)" [label=75]
+}

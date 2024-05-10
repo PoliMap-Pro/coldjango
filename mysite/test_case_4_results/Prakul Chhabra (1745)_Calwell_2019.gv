@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Prakul Chhabra (1745)_Calwell_2019" {
+	graph [label="Calwell 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Prakul Chhabra (1745)" [label="Prakul Chhabra (1745)
+United Australia Party"]
+	"Keith Kerr (1742)" [label="Keith Kerr (1742)
+Citizens Electoral Council"]
+	"Adam Vail (1744)" [label="Adam Vail (1744)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Peter Byrne (1746)" [label="Peter Byrne (1746)
+Socialist Equality Party"]
+	"Keith Kerr (1742)" -> "Prakul Chhabra (1745)" [label=298]
+	"Adam Vail (1744)" -> "Keith Kerr (1742)" [label=339]
+	"Peter Byrne (1746)" -> "Adam Vail (1744)" [label=61]
+	"Adam Vail (1744)" -> "Prakul Chhabra (1745)" [label=487]
+	"Peter Byrne (1746)" -> "Prakul Chhabra (1745)" [label=132]
+	"Peter Byrne (1746)" -> "Keith Kerr (1742)" [label=101]
+}

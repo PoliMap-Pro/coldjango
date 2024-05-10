@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Michael Parsons (3674)_Banks_2010" {
+	graph [label="Banks 2010" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Parsons (3674)" [label="Michael Parsons (3674)
+One Nation"]
+}

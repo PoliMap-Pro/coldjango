@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Neil Turner (280)_Paterson_2022" {
+	graph [label="Paterson 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Neil Turner (280)" [label="Neil Turner (280)
+Pauline Hanson's One Nation"]
+	"Louise Ihlein (284)" [label="Louise Ihlein (284)
+The Greens"]
+	"Jason Mark Olbourne (286)" [label="Jason Mark Olbourne (286)
+United Australia Party"]
+	"Angela Ketas (283)" [label="Angela Ketas (283)
+Informed Medical Options Party"]
+	"Sonia Bailey (285)" [label="Sonia Bailey (285)
+Liberal Democrats"]
+	"Louise Ihlein (284)" -> "Neil Turner (280)" [label=1316]
+	"Jason Mark Olbourne (286)" -> "Louise Ihlein (284)" [label=753]
+	"Angela Ketas (283)" -> "Jason Mark Olbourne (286)" [label=596]
+	"Sonia Bailey (285)" -> "Angela Ketas (283)" [label=125]
+	"Jason Mark Olbourne (286)" -> "Neil Turner (280)" [label=3552]
+	"Angela Ketas (283)" -> "Neil Turner (280)" [label=580]
+	"Sonia Bailey (285)" -> "Neil Turner (280)" [label=285]
+	"Sonia Bailey (285)" -> "Jason Mark Olbourne (286)" [label=380]
+	"Angela Ketas (283)" -> "Louise Ihlein (284)" [label=341]
+	"Sonia Bailey (285)" -> "Louise Ihlein (284)" [label=152]
+}

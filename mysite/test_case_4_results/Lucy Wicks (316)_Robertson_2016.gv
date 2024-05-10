@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Lucy Wicks (316)_Robertson_2016" {
+	graph [label="Robertson 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lucy Wicks (316)" [label="Lucy Wicks (316)
+Liberal"]
+	"Hillary Morris (2222)" [label="Hillary Morris (2222)
+The Greens"]
+	"Van Davy (2221)" [label="Van Davy (2221)
+Independent"]
+	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
+Christian Democratic Party (Fred Nile Group)"]
+	"Lawrie Higgins (2220)" [label="Lawrie Higgins (2220)
+Antipaedophile Party"]
+	"Matthew Craig (2223)" [label="Matthew Craig (2223)
+Liberal Democrats"]
+	"Hillary Morris (2222)" -> "Lucy Wicks (316)" [label=2030]
+	"Van Davy (2221)" -> "Hillary Morris (2222)" [label=1466]
+	"Robert Stoddart (2224)" -> "Van Davy (2221)" [label=661]
+	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
+	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
+	"Van Davy (2221)" -> "Lucy Wicks (316)" [label=1569]
+	"Robert Stoddart (2224)" -> "Lucy Wicks (316)" [label=1700]
+	"Lawrie Higgins (2220)" -> "Lucy Wicks (316)" [label=289]
+	"Matthew Craig (2223)" -> "Lucy Wicks (316)" [label=567]
+	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
+	"Lawrie Higgins (2220)" -> "Van Davy (2221)" [label=831]
+	"Matthew Craig (2223)" -> "Van Davy (2221)" [label=199]
+	"Robert Stoddart (2224)" -> "Hillary Morris (2222)" [label=144]
+	"Lawrie Higgins (2220)" -> "Hillary Morris (2222)" [label=159]
+	"Matthew Craig (2223)" -> "Hillary Morris (2222)" [label=111]
+}

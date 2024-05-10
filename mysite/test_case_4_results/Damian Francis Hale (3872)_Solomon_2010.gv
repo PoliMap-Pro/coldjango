@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Damian Francis Hale (3872)_Solomon_2010" {
+	graph [label="Solomon 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Damian Francis Hale (3872)" [label="Damian Francis Hale (3872)
+Australian Labor Party (Northern Territory) Branch"]
+	"Emma Young (3871)" [label="Emma Young (3871)
+The Greens"]
+	"John Kearney (2274)" [label="John Kearney (2274)
+One Nation"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Emma Young (3871)" -> "Damian Francis Hale (3872)" [label=5689]
+	"John Kearney (2274)" -> "Emma Young (3871)" [label=701]
+	"Trudy Campbell (3048)" -> "John Kearney (2274)" [label=204]
+	"John Kearney (2274)" -> "Damian Francis Hale (3872)" [label=403]
+	"Trudy Campbell (3048)" -> "Damian Francis Hale (3872)" [label=109]
+	"Trudy Campbell (3048)" -> "Emma Young (3871)" [label=165]
+}

@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Sharn Coombes (834)_Dunkley_2022" {
+	graph [label="Dunkley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sharn Coombes (834)" [label="Sharn Coombes (834)
+Liberal"]
+	"Liam O'Brien (833)" [label="Liam O'Brien (833)
+The Greens"]
+	"Adrian Kain Irvine (837)" [label="Adrian Kain Irvine (837)
+United Australia Party"]
+	"Darren Bergwerf (829)" [label="Darren Bergwerf (829)
+Independent"]
+	"Scott Middlebrook (835)" [label="Scott Middlebrook (835)
+Pauline Hanson's One Nation"]
+	"Damian Willis (831)" [label="Damian Willis (831)
+Liberal Democrats"]
+	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
+Animal Justice Party"]
+	"Kathryn Woods (836)" [label="Kathryn Woods (836)
+Australian Federation Party"]
+	"Liam O'Brien (833)" -> "Sharn Coombes (834)" [label=3015]
+	"Adrian Kain Irvine (837)" -> "Liam O'Brien (833)" [label=2397]
+	"Darren Bergwerf (829)" -> "Adrian Kain Irvine (837)" [label=2492]
+	"Scott Middlebrook (835)" -> "Darren Bergwerf (829)" [label=657]
+	"Damian Willis (831)" -> "Scott Middlebrook (835)" [label=614]
+	"Elizabeth Johnston (832)" -> "Damian Willis (831)" [label=75]
+	"Kathryn Woods (836)" -> "Elizabeth Johnston (832)" [label=56]
+	"Adrian Kain Irvine (837)" -> "Sharn Coombes (834)" [label=5996]
+	"Darren Bergwerf (829)" -> "Sharn Coombes (834)" [label=499]
+	"Scott Middlebrook (835)" -> "Sharn Coombes (834)" [label=407]
+	"Damian Willis (831)" -> "Sharn Coombes (834)" [label=614]
+	"Elizabeth Johnston (832)" -> "Sharn Coombes (834)" [label=163]
+	"Kathryn Woods (836)" -> "Sharn Coombes (834)" [label=55]
+	"Kathryn Woods (836)" -> "Damian Willis (831)" [label=70]
+	"Elizabeth Johnston (832)" -> "Scott Middlebrook (835)" [label=175]
+	"Kathryn Woods (836)" -> "Scott Middlebrook (835)" [label=74]
+	"Damian Willis (831)" -> "Darren Bergwerf (829)" [label=326]
+	"Elizabeth Johnston (832)" -> "Darren Bergwerf (829)" [label=308]
+	"Kathryn Woods (836)" -> "Darren Bergwerf (829)" [label=129]
+	"Scott Middlebrook (835)" -> "Adrian Kain Irvine (837)" [label=2023]
+	"Damian Willis (831)" -> "Adrian Kain Irvine (837)" [label=586]
+	"Elizabeth Johnston (832)" -> "Adrian Kain Irvine (837)" [label=113]
+	"Kathryn Woods (836)" -> "Adrian Kain Irvine (837)" [label=96]
+	"Darren Bergwerf (829)" -> "Liam O'Brien (833)" [label=843]
+	"Scott Middlebrook (835)" -> "Liam O'Brien (833)" [label=193]
+	"Damian Willis (831)" -> "Liam O'Brien (833)" [label=155]
+	"Elizabeth Johnston (832)" -> "Liam O'Brien (833)" [label=798]
+	"Kathryn Woods (836)" -> "Liam O'Brien (833)" [label=49]
+}

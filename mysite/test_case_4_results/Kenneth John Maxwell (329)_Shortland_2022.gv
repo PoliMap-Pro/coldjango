@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Kenneth John Maxwell (329)_Shortland_2022" {
+	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kenneth John Maxwell (329)" [label="Kenneth John Maxwell (329)
+United Australia Party"]
+	"Bree Suzanne Roberts (324)" [label="Bree Suzanne Roberts (324)
+Animal Justice Party"]
+	"Barry Reed (326)" [label="Barry Reed (326)
+Liberal Democrats"]
+	"Basil Paynter (325)" [label="Basil Paynter (325)
+Independent"]
+	"Bree Suzanne Roberts (324)" -> "Kenneth John Maxwell (329)" [label=403]
+	"Barry Reed (326)" -> "Bree Suzanne Roberts (324)" [label=270]
+	"Basil Paynter (325)" -> "Barry Reed (326)" [label=324]
+	"Barry Reed (326)" -> "Kenneth John Maxwell (329)" [label=696]
+	"Basil Paynter (325)" -> "Kenneth John Maxwell (329)" [label=187]
+	"Basil Paynter (325)" -> "Bree Suzanne Roberts (324)" [label=496]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Shane Hill (4182)_Durack_2010" {
+	graph [label="Durack 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Shane Hill (4182)" [label="Shane Hill (4182)
+Australian Labor Party"]
+	"Lynne Craigie (4180)" [label="Lynne Craigie (4180)
+The Nationals"]
+	"Julie Matheson (4184)" [label="Julie Matheson (4184)
+The Greens"]
+	"Jane Foreman (4185)" [label="Jane Foreman (4185)
+Family First"]
+	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
+Christian Democratic Party"]
+	"Lynne Craigie (4180)" -> "Shane Hill (4182)" [label=4318]
+	"Julie Matheson (4184)" -> "Lynne Craigie (4180)" [label=2174]
+	"Jane Foreman (4185)" -> "Julie Matheson (4184)" [label=626]
+	"Mac Forsyth (4183)" -> "Jane Foreman (4185)" [label=652]
+	"Julie Matheson (4184)" -> "Shane Hill (4182)" [label=4166]
+	"Jane Foreman (4185)" -> "Shane Hill (4182)" [label=293]
+	"Mac Forsyth (4183)" -> "Shane Hill (4182)" [label=79]
+	"Mac Forsyth (4183)" -> "Julie Matheson (4184)" [label=81]
+	"Jane Foreman (4185)" -> "Lynne Craigie (4180)" [label=935]
+	"Mac Forsyth (4183)" -> "Lynne Craigie (4180)" [label=121]
+}

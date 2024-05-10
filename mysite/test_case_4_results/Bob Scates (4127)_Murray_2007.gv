@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Bob Scates (4127)_Murray_2007" {
+	graph [label="Murray 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Bob Scates (4127)" [label="Bob Scates (4127)
+Australian Labor Party"]
+	"Rob Bryant (4884)" [label="Rob Bryant (4884)
+Independent"]
+	"Serena Moore (4152)" [label="Serena Moore (4152)
+Family First"]
+	"Ian Christoe (1035)" [label="Ian Christoe (1035)
+Australian Greens"]
+	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
+Independent"]
+	"M Paul P Merrigan (4886)" [label="M Paul P Merrigan (4886)
+Independent"]
+	"Sarina Isgro (4885)" [label="Sarina Isgro (4885)
+Australian Democrats"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
+	"Rob Bryant (4884)" -> "Bob Scates (4127)" [label=3935]
+	"Serena Moore (4152)" -> "Rob Bryant (4884)" [label=739]
+	"Ian Christoe (1035)" -> "Serena Moore (4152)" [label=288]
+	"Diane Teasdale (2699)" -> "Ian Christoe (1035)" [label=52]
+	"M Paul P Merrigan (4886)" -> "Diane Teasdale (2699)" [label=80]
+	"Sarina Isgro (4885)" -> "M Paul P Merrigan (4886)" [label=44]
+	"Jeff Davy (1033)" -> "Sarina Isgro (4885)" [label=12]
+	"Serena Moore (4152)" -> "Bob Scates (4127)" [label=519]
+	"Ian Christoe (1035)" -> "Bob Scates (4127)" [label=1393]
+	"Diane Teasdale (2699)" -> "Bob Scates (4127)" [label=119]
+	"M Paul P Merrigan (4886)" -> "Bob Scates (4127)" [label=81]
+	"Sarina Isgro (4885)" -> "Bob Scates (4127)" [label=79]
+	"Jeff Davy (1033)" -> "Bob Scates (4127)" [label=22]
+	"Jeff Davy (1033)" -> "M Paul P Merrigan (4886)" [label=33]
+	"Sarina Isgro (4885)" -> "Diane Teasdale (2699)" [label=24]
+	"Jeff Davy (1033)" -> "Diane Teasdale (2699)" [label=18]
+	"M Paul P Merrigan (4886)" -> "Ian Christoe (1035)" [label=134]
+	"Sarina Isgro (4885)" -> "Ian Christoe (1035)" [label=124]
+	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=11]
+	"Diane Teasdale (2699)" -> "Serena Moore (4152)" [label=121]
+	"M Paul P Merrigan (4886)" -> "Serena Moore (4152)" [label=49]
+	"Sarina Isgro (4885)" -> "Serena Moore (4152)" [label=28]
+	"Jeff Davy (1033)" -> "Serena Moore (4152)" [label=25]
+	"Ian Christoe (1035)" -> "Rob Bryant (4884)" [label=472]
+	"Diane Teasdale (2699)" -> "Rob Bryant (4884)" [label=296]
+	"M Paul P Merrigan (4886)" -> "Rob Bryant (4884)" [label=100]
+	"Sarina Isgro (4885)" -> "Rob Bryant (4884)" [label=48]
+	"Jeff Davy (1033)" -> "Rob Bryant (4884)" [label=47]
+}

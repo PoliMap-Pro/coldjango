@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Suzanne Waters (636)_Grey_2022" {
+	graph [label="Grey 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
+Australian Federation Party"]
+	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
+	"Richard Carmody (642)" -> "Peter Miller (637)" [label=42]
+	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
+	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
+	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
+	"Tracey Dempsey (641)" -> "Peter Miller (637)" [label=91]
+}

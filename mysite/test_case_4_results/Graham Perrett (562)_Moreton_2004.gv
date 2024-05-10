@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Graham Perrett (562)_Moreton_2004" {
+	graph [label="Moreton 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Graham Perrett (562)" [label="Graham Perrett (562)
+Australian Labor Party"]
+	"Jane Williamson (5388)" [label="Jane Williamson (5388)
+The Greens"]
+	"Terence Tam (5389)" [label="Terence Tam (5389)
+Family First"]
+	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
+Australian Democrats"]
+	"Barry Weedon (5390)" [label="Barry Weedon (5390)
+One Nation"]
+	"Andrew Lamb (4619)" [label="Andrew Lamb (4619)
+Independent"]
+	"Jane Williamson (5388)" -> "Graham Perrett (562)" [label=4019]
+	"Terence Tam (5389)" -> "Jane Williamson (5388)" [label=564]
+	"Frederika E Steen (5387)" -> "Terence Tam (5389)" [label=117]
+	"Barry Weedon (5390)" -> "Frederika E Steen (5387)" [label=112]
+	"Andrew Lamb (4619)" -> "Barry Weedon (5390)" [label=104]
+	"Terence Tam (5389)" -> "Graham Perrett (562)" [label=573]
+	"Frederika E Steen (5387)" -> "Graham Perrett (562)" [label=369]
+	"Barry Weedon (5390)" -> "Graham Perrett (562)" [label=165]
+	"Andrew Lamb (4619)" -> "Graham Perrett (562)" [label=164]
+	"Andrew Lamb (4619)" -> "Frederika E Steen (5387)" [label=116]
+	"Barry Weedon (5390)" -> "Terence Tam (5389)" [label=293]
+	"Andrew Lamb (4619)" -> "Terence Tam (5389)" [label=129]
+	"Frederika E Steen (5387)" -> "Jane Williamson (5388)" [label=567]
+	"Barry Weedon (5390)" -> "Jane Williamson (5388)" [label=144]
+	"Andrew Lamb (4619)" -> "Jane Williamson (5388)" [label=133]
+}

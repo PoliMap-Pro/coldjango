@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Daniel William Abou-Zeid (808)_Corangamite_2022" {
+	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Daniel William Abou-Zeid (808)" [label="Daniel William Abou-Zeid (808)
+United Australia Party"]
+	"Luke Sorensen (807)" [label="Luke Sorensen (807)
+Pauline Hanson's One Nation"]
+	"Paul Barker (806)" [label="Paul Barker (806)
+Liberal Democrats"]
+	"Meg Watkins (804)" [label="Meg Watkins (804)
+Animal Justice Party"]
+	"Jean-Marie D'Argent (809)" [label="Jean-Marie D'Argent (809)
+Derryn Hinch's Justice Party"]
+	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
+Australian Federation Party"]
+	"Luke Sorensen (807)" -> "Daniel William Abou-Zeid (808)" [label=2737]
+	"Paul Barker (806)" -> "Luke Sorensen (807)" [label=858]
+	"Meg Watkins (804)" -> "Paul Barker (806)" [label=156]
+	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
+	"Stephen Juhasz (801)" -> "Jean-Marie D'Argent (809)" [label=46]
+	"Paul Barker (806)" -> "Daniel William Abou-Zeid (808)" [label=1012]
+	"Meg Watkins (804)" -> "Daniel William Abou-Zeid (808)" [label=159]
+	"Jean-Marie D'Argent (809)" -> "Daniel William Abou-Zeid (808)" [label=261]
+	"Stephen Juhasz (801)" -> "Daniel William Abou-Zeid (808)" [label=80]
+	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
+	"Jean-Marie D'Argent (809)" -> "Paul Barker (806)" [label=77]
+	"Stephen Juhasz (801)" -> "Paul Barker (806)" [label=106]
+	"Meg Watkins (804)" -> "Luke Sorensen (807)" [label=231]
+	"Jean-Marie D'Argent (809)" -> "Luke Sorensen (807)" [label=285]
+	"Stephen Juhasz (801)" -> "Luke Sorensen (807)" [label=112]
+}

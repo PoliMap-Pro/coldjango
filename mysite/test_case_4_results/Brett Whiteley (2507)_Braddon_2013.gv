@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brett Whiteley (2507)_Braddon_2013" {
+	graph [label="Braddon 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett Whiteley (2507)" [label="Brett Whiteley (2507)
+Liberal"]
+	"Kevin Morgan (3292)" [label="Kevin Morgan (3292)
+Palmer United Party"]
+	"Melissa Houghton (3290)" [label="Melissa Houghton (3290)
+Australian Greens"]
+	"Bernard Shaw (3293)" [label="Bernard Shaw (3293)
+Rise Up Australia Party"]
+	"Kevin Morgan (3292)" -> "Brett Whiteley (2507)" [label=3203]
+	"Melissa Houghton (3290)" -> "Kevin Morgan (3292)" [label=770]
+	"Bernard Shaw (3293)" -> "Melissa Houghton (3290)" [label=58]
+	"Melissa Houghton (3290)" -> "Brett Whiteley (2507)" [label=316]
+	"Bernard Shaw (3293)" -> "Brett Whiteley (2507)" [label=245]
+	"Bernard Shaw (3293)" -> "Kevin Morgan (3292)" [label=302]
+}

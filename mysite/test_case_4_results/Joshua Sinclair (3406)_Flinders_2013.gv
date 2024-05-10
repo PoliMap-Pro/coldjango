@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Joshua Sinclair (3406)_Flinders_2013" {
+	graph [label="Flinders 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Joshua Sinclair (3406)" [label="Joshua Sinclair (3406)
+Australian Labor Party"]
+	"Martin Rush (3407)" [label="Martin Rush (3407)
+The Greens"]
+	"Linda Ruth Clark (3402)" [label="Linda Ruth Clark (3402)
+Palmer United Party"]
+	"David Clark (2692)" [label="David Clark (2692)
+Family First Party"]
+	"Paul Madigan (3403)" [label="Paul Madigan (3403)
+Independent"]
+	"Angela Dorian (2565)" [label="Angela Dorian (2565)
+Rise Up Australia Party"]
+	"Ashleigh Belsar (2608)" [label="Ashleigh Belsar (2608)
+Australian Christians"]
+	"Denis Mccormack (3405)" [label="Denis Mccormack (3405)
+Independent"]
+	"John Zabaneh (3404)" [label="John Zabaneh (3404)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Martin Rush (3407)" -> "Joshua Sinclair (3406)" [label=8564]
+	"Linda Ruth Clark (3402)" -> "Martin Rush (3407)" [label=1393]
+	"David Clark (2692)" -> "Linda Ruth Clark (3402)" [label=438]
+	"Paul Madigan (3403)" -> "David Clark (2692)" [label=156]
+	"Angela Dorian (2565)" -> "Paul Madigan (3403)" [label=156]
+	"Ashleigh Belsar (2608)" -> "Angela Dorian (2565)" [label=136]
+	"Denis Mccormack (3405)" -> "Ashleigh Belsar (2608)" [label=33]
+	"John Zabaneh (3404)" -> "Denis Mccormack (3405)" [label=9]
+	"Linda Ruth Clark (3402)" -> "Joshua Sinclair (3406)" [label=2899]
+	"David Clark (2692)" -> "Joshua Sinclair (3406)" [label=289]
+	"Paul Madigan (3403)" -> "Joshua Sinclair (3406)" [label=192]
+	"Angela Dorian (2565)" -> "Joshua Sinclair (3406)" [label=108]
+	"Ashleigh Belsar (2608)" -> "Joshua Sinclair (3406)" [label=75]
+	"Denis Mccormack (3405)" -> "Joshua Sinclair (3406)" [label=63]
+	"John Zabaneh (3404)" -> "Joshua Sinclair (3406)" [label=17]
+	"John Zabaneh (3404)" -> "Ashleigh Belsar (2608)" [label=14]
+	"Denis Mccormack (3405)" -> "Angela Dorian (2565)" [label=50]
+	"John Zabaneh (3404)" -> "Angela Dorian (2565)" [label=44]
+	"Ashleigh Belsar (2608)" -> "Paul Madigan (3403)" [label=23]
+	"Denis Mccormack (3405)" -> "Paul Madigan (3403)" [label=175]
+	"John Zabaneh (3404)" -> "Paul Madigan (3403)" [label=37]
+	"Angela Dorian (2565)" -> "David Clark (2692)" [label=214]
+	"Ashleigh Belsar (2608)" -> "David Clark (2692)" [label=164]
+	"Denis Mccormack (3405)" -> "David Clark (2692)" [label=31]
+	"John Zabaneh (3404)" -> "David Clark (2692)" [label=27]
+	"Paul Madigan (3403)" -> "Linda Ruth Clark (3402)" [label=427]
+	"Angela Dorian (2565)" -> "Linda Ruth Clark (3402)" [label=112]
+	"Ashleigh Belsar (2608)" -> "Linda Ruth Clark (3402)" [label=34]
+	"Denis Mccormack (3405)" -> "Linda Ruth Clark (3402)" [label=37]
+	"John Zabaneh (3404)" -> "Linda Ruth Clark (3402)" [label=34]
+	"David Clark (2692)" -> "Martin Rush (3407)" [label=314]
+	"Paul Madigan (3403)" -> "Martin Rush (3407)" [label=190]
+	"Angela Dorian (2565)" -> "Martin Rush (3407)" [label=44]
+	"Ashleigh Belsar (2608)" -> "Martin Rush (3407)" [label=30]
+	"Denis Mccormack (3405)" -> "Martin Rush (3407)" [label=44]
+	"John Zabaneh (3404)" -> "Martin Rush (3407)" [label=15]
+}

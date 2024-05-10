@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Jason Clare (53)_Blaxland_2007" {
+	graph [label="Blaxland 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jason Clare (53)" [label="Jason Clare (53)
+Labor"]
+	"John Ky (2819)" [label="John Ky (2819)
+The Greens"]
+	"Chris Mclachlan (2109)" [label="Chris Mclachlan (2109)
+Christian Democratic Party (Fred Nile Group)"]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Independent"]
+	"Bob Vinnicombe (3695)" [label="Bob Vinnicombe (3695)
+One Nation"]
+	"Gabrielle Kent (4261)" [label="Gabrielle Kent (4261)
+Family First"]
+	"Raul Bassi (4263)" [label="Raul Bassi (4263)
+Socialist Alliance"]
+	"John Ky (2819)" -> "Jason Clare (53)" [label=3373]
+	"Chris Mclachlan (2109)" -> "John Ky (2819)" [label=484]
+	"Harry Stavrinos (4262)" -> "Chris Mclachlan (2109)" [label=265]
+	"Bob Vinnicombe (3695)" -> "Harry Stavrinos (4262)" [label=172]
+	"Gabrielle Kent (4261)" -> "Bob Vinnicombe (3695)" [label=199]
+	"Raul Bassi (4263)" -> "Gabrielle Kent (4261)" [label=30]
+	"Chris Mclachlan (2109)" -> "Jason Clare (53)" [label=874]
+	"Harry Stavrinos (4262)" -> "Jason Clare (53)" [label=606]
+	"Bob Vinnicombe (3695)" -> "Jason Clare (53)" [label=179]
+	"Gabrielle Kent (4261)" -> "Jason Clare (53)" [label=232]
+	"Raul Bassi (4263)" -> "Jason Clare (53)" [label=194]
+	"Raul Bassi (4263)" -> "Bob Vinnicombe (3695)" [label=20]
+	"Gabrielle Kent (4261)" -> "Harry Stavrinos (4262)" [label=120]
+	"Raul Bassi (4263)" -> "Harry Stavrinos (4262)" [label=60]
+	"Bob Vinnicombe (3695)" -> "Chris Mclachlan (2109)" [label=252]
+	"Gabrielle Kent (4261)" -> "Chris Mclachlan (2109)" [label=247]
+	"Raul Bassi (4263)" -> "Chris Mclachlan (2109)" [label=30]
+	"Harry Stavrinos (4262)" -> "John Ky (2819)" [label=368]
+	"Bob Vinnicombe (3695)" -> "John Ky (2819)" [label=222]
+	"Gabrielle Kent (4261)" -> "John Ky (2819)" [label=232]
+	"Raul Bassi (4263)" -> "John Ky (2819)" [label=164]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jadon Atkinson (797)_Cooper_2022" {
+	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
+Liberal"]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Kath Larkin (794)" [label="Kath Larkin (794)
+Victorian Socialists"]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
+	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
+Animal Justice Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Adam La Rosa (798)" -> "Jadon Atkinson (797)" [label=3351]
+	"Kath Larkin (794)" -> "Adam La Rosa (798)" [label=369]
+	"William Tristan Turner (799)" -> "Kath Larkin (794)" [label=225]
+	"Rabin Bangaar (793)" -> "William Tristan Turner (799)" [label=126]
+	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+	"Kath Larkin (794)" -> "Jadon Atkinson (797)" [label=150]
+	"William Tristan Turner (799)" -> "Jadon Atkinson (797)" [label=311]
+	"Rabin Bangaar (793)" -> "Jadon Atkinson (797)" [label=191]
+	"Adrian Whitehead (796)" -> "Jadon Atkinson (797)" [label=104]
+	"Adrian Whitehead (796)" -> "William Tristan Turner (799)" [label=41]
+	"Rabin Bangaar (793)" -> "Kath Larkin (794)" [label=803]
+	"Adrian Whitehead (796)" -> "Kath Larkin (794)" [label=289]
+	"William Tristan Turner (799)" -> "Adam La Rosa (798)" [label=2017]
+	"Rabin Bangaar (793)" -> "Adam La Rosa (798)" [label=180]
+	"Adrian Whitehead (796)" -> "Adam La Rosa (798)" [label=66]
+}

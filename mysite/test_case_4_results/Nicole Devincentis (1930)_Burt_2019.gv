@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Nicole Devincentis (1930)_Burt_2019" {
+	graph [label="Burt 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nicole Devincentis (1930)" [label="Nicole Devincentis (1930)
+Pauline Hanson's One Nation"]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
+	"Peter Joseph Raffaelli (1934)" [label="Peter Joseph Raffaelli (1934)
+Shooters, Fishers and Farmers"]
+	"Sahil Chawla (1933)" [label="Sahil Chawla (1933)
+United Australia Party"]
+	"Naomi Nation (1932)" [label="Naomi Nation (1932)
+Independent"]
+	"Sarcha Sagisaka (1931)" [label="Sarcha Sagisaka (1931)
+WESTERN AUSTRALIA PARTY"]
+	"Warnar Spyker (1080)" -> "Nicole Devincentis (1930)" [label=635]
+	"Peter Joseph Raffaelli (1934)" -> "Warnar Spyker (1080)" [label=502]
+	"Sahil Chawla (1933)" -> "Peter Joseph Raffaelli (1934)" [label=243]
+	"Naomi Nation (1932)" -> "Sahil Chawla (1933)" [label=108]
+	"Sarcha Sagisaka (1931)" -> "Naomi Nation (1932)" [label=175]
+	"Peter Joseph Raffaelli (1934)" -> "Nicole Devincentis (1930)" [label=773]
+	"Sahil Chawla (1933)" -> "Nicole Devincentis (1930)" [label=526]
+	"Naomi Nation (1932)" -> "Nicole Devincentis (1930)" [label=172]
+	"Sarcha Sagisaka (1931)" -> "Nicole Devincentis (1930)" [label=134]
+	"Sarcha Sagisaka (1931)" -> "Sahil Chawla (1933)" [label=75]
+	"Naomi Nation (1932)" -> "Peter Joseph Raffaelli (1934)" [label=191]
+	"Sarcha Sagisaka (1931)" -> "Peter Joseph Raffaelli (1934)" [label=90]
+	"Sahil Chawla (1933)" -> "Warnar Spyker (1080)" [label=161]
+	"Naomi Nation (1932)" -> "Warnar Spyker (1080)" [label=75]
+	"Sarcha Sagisaka (1931)" -> "Warnar Spyker (1080)" [label=41]
+}

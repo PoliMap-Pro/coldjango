@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Stephen Smith (4966)_Perth_2004" {
+	graph [label="Perth 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stephen Smith (4966)" [label="Stephen Smith (4966)
+Australian Labor Party"]
+	"Alison Xamon (5735)" [label="Alison Xamon (5735)
+The Greens"]
+	"Augustine Loh (5731)" [label="Augustine Loh (5731)
+CDP Christian Party"]
+	"Marie Edmonds (4971)" [label="Marie Edmonds (4971)
+Pauline Hanson's One Nation"]
+	"Ray Bradbury (5733)" [label="Ray Bradbury (5733)
+Australian Democrats"]
+	"Nikki Ulasowski (5730)" [label="Nikki Ulasowski (5730)
+Socialist Alliance"]
+	"Ross Herbert Russell (5734)" [label="Ross Herbert Russell (5734)
+Citizens Electoral Council"]
+	"Alison Xamon (5735)" -> "Stephen Smith (4966)" [label=6847]
+	"Augustine Loh (5731)" -> "Alison Xamon (5735)" [label=363]
+	"Marie Edmonds (4971)" -> "Augustine Loh (5731)" [label=385]
+	"Ray Bradbury (5733)" -> "Marie Edmonds (4971)" [label=90]
+	"Nikki Ulasowski (5730)" -> "Ray Bradbury (5733)" [label=44]
+	"Ross Herbert Russell (5734)" -> "Nikki Ulasowski (5730)" [label=39]
+	"Augustine Loh (5731)" -> "Stephen Smith (4966)" [label=459]
+	"Marie Edmonds (4971)" -> "Stephen Smith (4966)" [label=389]
+	"Ray Bradbury (5733)" -> "Stephen Smith (4966)" [label=360]
+	"Nikki Ulasowski (5730)" -> "Stephen Smith (4966)" [label=90]
+	"Ross Herbert Russell (5734)" -> "Stephen Smith (4966)" [label=46]
+	"Ross Herbert Russell (5734)" -> "Ray Bradbury (5733)" [label=28]
+	"Nikki Ulasowski (5730)" -> "Marie Edmonds (4971)" [label=120]
+	"Ross Herbert Russell (5734)" -> "Marie Edmonds (4971)" [label=21]
+	"Ray Bradbury (5733)" -> "Augustine Loh (5731)" [label=79]
+	"Nikki Ulasowski (5730)" -> "Augustine Loh (5731)" [label=488]
+	"Ross Herbert Russell (5734)" -> "Augustine Loh (5731)" [label=21]
+	"Marie Edmonds (4971)" -> "Alison Xamon (5735)" [label=385]
+	"Ray Bradbury (5733)" -> "Alison Xamon (5735)" [label=628]
+	"Nikki Ulasowski (5730)" -> "Alison Xamon (5735)" [label=194]
+	"Ross Herbert Russell (5734)" -> "Alison Xamon (5735)" [label=64]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Bill Fox (2906)_Hunter_2013" {
+	graph [label="Hunter 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bill Fox (2906)" [label="Bill Fox (2906)
+One Nation"]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ann Lawler (2905)" [label="Ann Lawler (2905)
+Citizens Electoral Council"]
+	"Richard Stretton (1326)" -> "Bill Fox (2906)" [label=212]
+	"Ann Lawler (2905)" -> "Richard Stretton (1326)" [label=53]
+	"Ann Lawler (2905)" -> "Bill Fox (2906)" [label=151]
+}

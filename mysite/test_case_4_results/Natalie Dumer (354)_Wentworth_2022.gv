@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Natalie Dumer (354)_Wentworth_2022" {
+	graph [label="Wentworth 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Natalie Dumer (354)" [label="Natalie Dumer (354)
+United Australia Party"]
+	"Daniel Lewkovitz (356)" [label="Daniel Lewkovitz (356)
+Liberal Democrats"]
+	"Dean Fisher (352)" [label="Dean Fisher (352)
+Pauline Hanson's One Nation"]
+	"Daniel Lewkovitz (356)" -> "Natalie Dumer (354)" [label=650]
+	"Dean Fisher (352)" -> "Daniel Lewkovitz (356)" [label=126]
+	"Dean Fisher (352)" -> "Natalie Dumer (354)" [label=475]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Amanda-Sue Markham (1712)_Clark_2019" {
+	graph [label="Clark 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Amanda-Sue Markham (1712)" [label="Amanda-Sue Markham (1712)
+Liberal"]
+	"Juniper Shaw (1713)" [label="Juniper Shaw (1713)
+The Greens"]
+	"Jim Starkey (1714)" [label="Jim Starkey (1714)
+United Australia Party"]
+	"Juniper Shaw (1713)" -> "Amanda-Sue Markham (1712)" [label=327]
+	"Jim Starkey (1714)" -> "Juniper Shaw (1713)" [label=215]
+	"Jim Starkey (1714)" -> "Amanda-Sue Markham (1712)" [label=514]
+}

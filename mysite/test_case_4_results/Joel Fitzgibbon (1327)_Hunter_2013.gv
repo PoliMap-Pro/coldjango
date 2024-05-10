@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Joel Fitzgibbon (1327)_Hunter_2013" {
+	graph [label="Hunter 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Joel Fitzgibbon (1327)" [label="Joel Fitzgibbon (1327)
+Labor"]
+	"Jennifer Susan Stefanac (2907)" [label="Jennifer Susan Stefanac (2907)
+Palmer United Party"]
+	"David Atwell (2903)" [label="David Atwell (2903)
+The Greens"]
+	"Bill Fox (2906)" [label="Bill Fox (2906)
+One Nation"]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ann Lawler (2905)" [label="Ann Lawler (2905)
+Citizens Electoral Council"]
+	"Jennifer Susan Stefanac (2907)" -> "Joel Fitzgibbon (1327)" [label=3831]
+	"David Atwell (2903)" -> "Jennifer Susan Stefanac (2907)" [label=847]
+	"Bill Fox (2906)" -> "David Atwell (2903)" [label=448]
+	"Richard Stretton (1326)" -> "Bill Fox (2906)" [label=212]
+	"Ann Lawler (2905)" -> "Richard Stretton (1326)" [label=53]
+	"David Atwell (2903)" -> "Joel Fitzgibbon (1327)" [label=2759]
+	"Bill Fox (2906)" -> "Joel Fitzgibbon (1327)" [label=816]
+	"Richard Stretton (1326)" -> "Joel Fitzgibbon (1327)" [label=345]
+	"Ann Lawler (2905)" -> "Joel Fitzgibbon (1327)" [label=133]
+	"Ann Lawler (2905)" -> "Bill Fox (2906)" [label=151]
+	"Richard Stretton (1326)" -> "David Atwell (2903)" [label=179]
+	"Ann Lawler (2905)" -> "David Atwell (2903)" [label=120]
+	"Bill Fox (2906)" -> "Jennifer Susan Stefanac (2907)" [label=1209]
+	"Richard Stretton (1326)" -> "Jennifer Susan Stefanac (2907)" [label=260]
+	"Ann Lawler (2905)" -> "Jennifer Susan Stefanac (2907)" [label=161]
+}

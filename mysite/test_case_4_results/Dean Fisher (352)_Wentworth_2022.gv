@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Dean Fisher (352)_Wentworth_2022" {
+	graph [label="Wentworth 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dean Fisher (352)" [label="Dean Fisher (352)
+Pauline Hanson's One Nation"]
+}

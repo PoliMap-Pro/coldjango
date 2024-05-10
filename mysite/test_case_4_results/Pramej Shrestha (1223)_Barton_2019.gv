@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Pramej Shrestha (1223)_Barton_2019" {
+	graph [label="Barton 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pramej Shrestha (1223)" [label="Pramej Shrestha (1223)
+Liberal"]
+	"Connor Parissis (1226)" [label="Connor Parissis (1226)
+The Greens"]
+	"Phillip Pollard (31)" [label="Phillip Pollard (31)
+Pauline Hanson's One Nation"]
+	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ben Tung Liu (1224)" [label="Ben Tung Liu (1224)
+United Australia Party"]
+	"Connor Parissis (1226)" -> "Pramej Shrestha (1223)" [label=2130]
+	"Phillip Pollard (31)" -> "Connor Parissis (1226)" [label=877]
+	"Sonny Susilo (1225)" -> "Phillip Pollard (31)" [label=445]
+	"Ben Tung Liu (1224)" -> "Sonny Susilo (1225)" [label=233]
+	"Phillip Pollard (31)" -> "Pramej Shrestha (1223)" [label=2293]
+	"Sonny Susilo (1225)" -> "Pramej Shrestha (1223)" [label=1257]
+	"Ben Tung Liu (1224)" -> "Pramej Shrestha (1223)" [label=700]
+	"Ben Tung Liu (1224)" -> "Phillip Pollard (31)" [label=404]
+	"Sonny Susilo (1225)" -> "Connor Parissis (1226)" [label=307]
+	"Ben Tung Liu (1224)" -> "Connor Parissis (1226)" [label=250]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Grant Abraham (480)_Groom_2022" {
+	graph [label="Groom 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Grant Abraham (480)" [label="Grant Abraham (480)
+Pauline Hanson's One Nation"]
+	"Kirstie Smolenski (483)" [label="Kirstie Smolenski (483)
+Independent"]
+	"Mickey Berry (481)" [label="Mickey Berry (481)
+Queensland Greens"]
+	"Melissa Bannister (482)" [label="Melissa Bannister (482)
+United Australia Party"]
+	"Ryan Otto (479)" [label="Ryan Otto (479)
+Australian Federation Party"]
+	"Kirstie Smolenski (483)" -> "Grant Abraham (480)" [label=706]
+	"Mickey Berry (481)" -> "Kirstie Smolenski (483)" [label=1218]
+	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
+	"Ryan Otto (479)" -> "Melissa Bannister (482)" [label=262]
+	"Mickey Berry (481)" -> "Grant Abraham (480)" [label=682]
+	"Melissa Bannister (482)" -> "Grant Abraham (480)" [label=3116]
+	"Ryan Otto (479)" -> "Grant Abraham (480)" [label=680]
+	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
+	"Melissa Bannister (482)" -> "Kirstie Smolenski (483)" [label=577]
+	"Ryan Otto (479)" -> "Kirstie Smolenski (483)" [label=133]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Allan Mcleod (373)_Lingiari_2022" {
+	graph [label="Lingiari 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Allan Mcleod (373)" [label="Allan Mcleod (373)
+United Australia Party"]
+	"George Kasparek (378)" [label="George Kasparek (378)
+Liberal Democrats"]
+	"Michael Setford Gravener (375)" [label="Michael Setford Gravener (375)
+Independent"]
+	"Thong Sum Lee (372)" [label="Thong Sum Lee (372)
+Citizens Party"]
+	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
+Independent"]
+	"George Kasparek (378)" -> "Allan Mcleod (373)" [label=315]
+	"Michael Setford Gravener (375)" -> "George Kasparek (378)" [label=109]
+	"Thong Sum Lee (372)" -> "Michael Setford Gravener (375)" [label=86]
+	"Imelda Adamson Agars (376)" -> "Thong Sum Lee (372)" [label=9]
+	"Michael Setford Gravener (375)" -> "Allan Mcleod (373)" [label=179]
+	"Thong Sum Lee (372)" -> "Allan Mcleod (373)" [label=101]
+	"Imelda Adamson Agars (376)" -> "Allan Mcleod (373)" [label=15]
+	"Imelda Adamson Agars (376)" -> "Michael Setford Gravener (375)" [label=277]
+	"Thong Sum Lee (372)" -> "George Kasparek (378)" [label=32]
+	"Imelda Adamson Agars (376)" -> "George Kasparek (378)" [label=13]
+}

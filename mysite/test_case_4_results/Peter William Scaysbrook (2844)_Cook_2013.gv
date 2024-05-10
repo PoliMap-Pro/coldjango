@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Peter William Scaysbrook (2844)_Cook_2013" {
+	graph [label="Cook 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter William Scaysbrook (2844)" [label="Peter William Scaysbrook (2844)
+Labor"]
+	"Mithra Cox (2847)" [label="Mithra Cox (2847)
+The Greens"]
+	"Matthew Gary Palise (2845)" [label="Matthew Gary Palise (2845)
+Palmer United Party"]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Jim Saleam (1342)" [label="Jim Saleam (1342)
+Australia First Party"]
+	"Mithra Cox (2847)" -> "Peter William Scaysbrook (2844)" [label=5954]
+	"Matthew Gary Palise (2845)" -> "Mithra Cox (2847)" [label=1178]
+	"Beth Smith (2846)" -> "Matthew Gary Palise (2845)" [label=331]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=76]
+	"Jim Saleam (1342)" -> "Graeme Strang (2848)" [label=98]
+	"Matthew Gary Palise (2845)" -> "Peter William Scaysbrook (2844)" [label=1548]
+	"Beth Smith (2846)" -> "Peter William Scaysbrook (2844)" [label=319]
+	"Graeme Strang (2848)" -> "Peter William Scaysbrook (2844)" [label=298]
+	"Jim Saleam (1342)" -> "Peter William Scaysbrook (2844)" [label=86]
+	"Jim Saleam (1342)" -> "Beth Smith (2846)" [label=125]
+	"Graeme Strang (2848)" -> "Matthew Gary Palise (2845)" [label=250]
+	"Jim Saleam (1342)" -> "Matthew Gary Palise (2845)" [label=121]
+	"Beth Smith (2846)" -> "Mithra Cox (2847)" [label=217]
+	"Graeme Strang (2848)" -> "Mithra Cox (2847)" [label=410]
+	"Jim Saleam (1342)" -> "Mithra Cox (2847)" [label=55]
+}

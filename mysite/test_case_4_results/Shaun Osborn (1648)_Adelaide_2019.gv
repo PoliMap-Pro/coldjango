@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Shaun Osborn (1648)_Adelaide_2019" {
+	graph [label="Adelaide 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Shaun Osborn (1648)" [label="Shaun Osborn (1648)
+Liberal"]
+	"Barbara Pocock (1646)" [label="Barbara Pocock (1646)
+The Greens"]
+	"Antonio Rea (1649)" [label="Antonio Rea (1649)
+United Australia Party"]
+	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
+Animal Justice Party"]
+	"Chris James (1645)" [label="Chris James (1645)
+Australian Democrats"]
+	"Barbara Pocock (1646)" -> "Shaun Osborn (1648)" [label=3119]
+	"Antonio Rea (1649)" -> "Barbara Pocock (1646)" [label=1047]
+	"Deanna Kangas (1647)" -> "Antonio Rea (1649)" [label=428]
+	"Chris James (1645)" -> "Deanna Kangas (1647)" [label=223]
+	"Antonio Rea (1649)" -> "Shaun Osborn (1648)" [label=2199]
+	"Deanna Kangas (1647)" -> "Shaun Osborn (1648)" [label=452]
+	"Chris James (1645)" -> "Shaun Osborn (1648)" [label=296]
+	"Chris James (1645)" -> "Antonio Rea (1649)" [label=175]
+	"Deanna Kangas (1647)" -> "Barbara Pocock (1646)" [label=1615]
+	"Chris James (1645)" -> "Barbara Pocock (1646)" [label=908]
+}

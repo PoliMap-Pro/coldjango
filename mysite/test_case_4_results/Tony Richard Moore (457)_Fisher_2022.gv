@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Tony Richard Moore (457)_Fisher_2022" {
+	graph [label="Fisher 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tony Richard Moore (457)" [label="Tony Richard Moore (457)
+United Australia Party"]
+	"Vickie Breckenridge (455)" [label="Vickie Breckenridge (455)
+Animal Justice Party"]
+	"Vickie Breckenridge (455)" -> "Tony Richard Moore (457)" [label=323]
+}

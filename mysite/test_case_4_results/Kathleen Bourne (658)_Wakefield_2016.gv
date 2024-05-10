@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kathleen Bourne (658)_Wakefield_2016" {
+	graph [label="Wakefield 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kathleen Bourne (658)" [label="Kathleen Bourne (658)
+Liberal"]
+	"Richard Inwood (2495)" [label="Richard Inwood (2495)
+Nick Xenophon Team"]
+	"Marilyn Phillips (2496)" [label="Marilyn Phillips (2496)
+Family First"]
+	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
+The Greens"]
+	"John Bolton (2499)" [label="John Bolton (2499)
+Independent"]
+	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
+Christian Democratic Party (Fred Nile Group)"]
+	"Richard Inwood (2495)" -> "Kathleen Bourne (658)" [label=8848]
+	"Marilyn Phillips (2496)" -> "Richard Inwood (2495)" [label=2909]
+	"Craig Vanstone (2497)" -> "Marilyn Phillips (2496)" [label=926]
+	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
+	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
+	"Marilyn Phillips (2496)" -> "Kathleen Bourne (658)" [label=2404]
+	"Craig Vanstone (2497)" -> "Kathleen Bourne (658)" [label=523]
+	"John Bolton (2499)" -> "Kathleen Bourne (658)" [label=303]
+	"Ralph Anderson (2498)" -> "Kathleen Bourne (658)" [label=62]
+	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
+	"John Bolton (2499)" -> "Marilyn Phillips (2496)" [label=772]
+	"Ralph Anderson (2498)" -> "Marilyn Phillips (2496)" [label=280]
+	"Craig Vanstone (2497)" -> "Richard Inwood (2495)" [label=1156]
+	"John Bolton (2499)" -> "Richard Inwood (2495)" [label=804]
+	"Ralph Anderson (2498)" -> "Richard Inwood (2495)" [label=66]
+}

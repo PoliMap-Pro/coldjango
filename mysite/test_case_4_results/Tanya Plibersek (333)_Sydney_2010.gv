@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Tanya Plibersek (333)_Sydney_2010" {
+	graph [label="Sydney 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tanya Plibersek (333)" [label="Tanya Plibersek (333)
+Labor"]
+	"Tony Hickey (212)" [label="Tony Hickey (212)
+The Greens"]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Jane Ward (3006)" [label="Jane Ward (3006)
+Independent"]
+	"Christopher David Owen (3851)" [label="Christopher David Owen (3851)
+Secular Party of Australia"]
+	"Denis Doherty (3853)" [label="Denis Doherty (3853)
+Communist"]
+	"Tony Hickey (212)" -> "Tanya Plibersek (333)" [label=17558]
+	"Brett Paterson (3850)" -> "Tony Hickey (212)" [label=685]
+	"Jane Ward (3006)" -> "Brett Paterson (3850)" [label=360]
+	"Christopher David Owen (3851)" -> "Jane Ward (3006)" [label=91]
+	"Denis Doherty (3853)" -> "Christopher David Owen (3851)" [label=65]
+	"Brett Paterson (3850)" -> "Tanya Plibersek (333)" [label=779]
+	"Jane Ward (3006)" -> "Tanya Plibersek (333)" [label=256]
+	"Christopher David Owen (3851)" -> "Tanya Plibersek (333)" [label=178]
+	"Denis Doherty (3853)" -> "Tanya Plibersek (333)" [label=102]
+	"Denis Doherty (3853)" -> "Jane Ward (3006)" [label=131]
+	"Christopher David Owen (3851)" -> "Brett Paterson (3850)" [label=183]
+	"Denis Doherty (3853)" -> "Brett Paterson (3850)" [label=42]
+	"Jane Ward (3006)" -> "Tony Hickey (212)" [label=451]
+	"Christopher David Owen (3851)" -> "Tony Hickey (212)" [label=260]
+	"Denis Doherty (3853)" -> "Tony Hickey (212)" [label=268]
+}

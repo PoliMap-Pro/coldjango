@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Ben Browne (3252)_Grey_2013" {
+	graph [label="Grey 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ben Browne (3252)" [label="Ben Browne (3252)
+Australian Labor Party"]
+	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
+Family First"]
+	"Kristian Rees (3253)" [label="Kristian Rees (3253)
+Palmer United Party"]
+	"Alison Sentance (3254)" [label="Alison Sentance (3254)
+Australian Greens"]
+	"Greg Fidge (3255)" [label="Greg Fidge (3255)
+Independent"]
+	"Cheryl Kaminski (2462)" -> "Ben Browne (3252)" [label=3902]
+	"Kristian Rees (3253)" -> "Cheryl Kaminski (2462)" [label=1969]
+	"Alison Sentance (3254)" -> "Kristian Rees (3253)" [label=559]
+	"Greg Fidge (3255)" -> "Alison Sentance (3254)" [label=450]
+	"Kristian Rees (3253)" -> "Ben Browne (3252)" [label=1967]
+	"Alison Sentance (3254)" -> "Ben Browne (3252)" [label=1699]
+	"Greg Fidge (3255)" -> "Ben Browne (3252)" [label=548]
+	"Greg Fidge (3255)" -> "Kristian Rees (3253)" [label=426]
+	"Alison Sentance (3254)" -> "Cheryl Kaminski (2462)" [label=909]
+	"Greg Fidge (3255)" -> "Cheryl Kaminski (2462)" [label=404]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Terrance Keep (1313)_Hughes_2019" {
+	graph [label="Hughes 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Terrance Keep (1313)" [label="Terrance Keep (1313)
+United Australia Party"]
+	"Leo-Ning Liu (1316)" [label="Leo-Ning Liu (1316)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matt Bryan (1315)" [label="Matt Bryan (1315)
+Independent"]
+	"Leo-Ning Liu (1316)" -> "Terrance Keep (1313)" [label=283]
+	"Matt Bryan (1315)" -> "Leo-Ning Liu (1316)" [label=205]
+	"Matt Bryan (1315)" -> "Terrance Keep (1313)" [label=261]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Chas Hopkins (2000)_Perth_2019" {
+	graph [label="Perth 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Gary Davies (1999)" -> "Chas Hopkins (2000)" [label=74]
+	"Curtis Greening (2002)" -> "Gary Davies (1999)" [label=133]
+	"Curtis Greening (2002)" -> "Chas Hopkins (2000)" [label=28]
+}

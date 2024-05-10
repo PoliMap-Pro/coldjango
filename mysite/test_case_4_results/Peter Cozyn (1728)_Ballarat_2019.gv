@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Cozyn (1728)_Ballarat_2019" {
+	graph [label="Ballarat 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Bryn Hills (1727)" -> "Peter Cozyn (1728)" [label=1595]
+	"Nick Shady (1729)" -> "Bryn Hills (1727)" [label=639]
+	"Alex Graham (744)" -> "Nick Shady (1729)" [label=1061]
+	"Nick Shady (1729)" -> "Peter Cozyn (1728)" [label=846]
+	"Alex Graham (744)" -> "Peter Cozyn (1728)" [label=150]
+	"Alex Graham (744)" -> "Bryn Hills (1727)" [label=120]
+}

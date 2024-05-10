@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Pierrette Kelly (2754)_Fremantle_2016" {
+	graph [label="Fremantle 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Pierrette Kelly (2754)" [label="Pierrette Kelly (2754)
+Liberal"]
+	"Kate Davis (2753)" [label="Kate Davis (2753)
+The Greens (WA)"]
+	"Mick Connolly (2751)" [label="Mick Connolly (2751)
+Mature Australia"]
+	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
+Socialist Alliance"]
+	"Kate Davis (2753)" -> "Pierrette Kelly (2754)" [label=3894]
+	"Mick Connolly (2751)" -> "Kate Davis (2753)" [label=1391]
+	"Chris Jenkins (2752)" -> "Mick Connolly (2751)" [label=505]
+	"Mick Connolly (2751)" -> "Pierrette Kelly (2754)" [label=749]
+	"Chris Jenkins (2752)" -> "Pierrette Kelly (2754)" [label=120]
+	"Chris Jenkins (2752)" -> "Kate Davis (2753)" [label=559]
+}

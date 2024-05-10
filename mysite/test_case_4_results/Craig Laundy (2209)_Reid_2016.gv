@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Craig Laundy (2209)_Reid_2016" {
+	graph [label="Reid 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Laundy (2209)" [label="Craig Laundy (2209)
+Liberal"]
+	"Alice Mantel (2212)" [label="Alice Mantel (2212)
+The Greens"]
+	"Ju Kang (2211)" [label="Ju Kang (2211)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marylou Carter (2208)" [label="Marylou Carter (2208)
+Family First"]
+	"Alice Mantel (2212)" -> "Craig Laundy (2209)" [label=1684]
+	"Ju Kang (2211)" -> "Alice Mantel (2212)" [label=558]
+	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
+	"Ju Kang (2211)" -> "Craig Laundy (2209)" [label=2833]
+	"Marylou Carter (2208)" -> "Craig Laundy (2209)" [label=814]
+	"Marylou Carter (2208)" -> "Alice Mantel (2212)" [label=297]
+}

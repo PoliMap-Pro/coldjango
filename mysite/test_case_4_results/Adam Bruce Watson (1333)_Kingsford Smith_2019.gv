@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Adam Bruce Watson (1333)_Kingsford Smith_2019" {
+	graph [label="Kingsford Smith 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Bruce Watson (1333)" [label="Adam Bruce Watson (1333)
+United Australia Party"]
+	"Adrian Manson (1330)" [label="Adrian Manson (1330)
+Christian Democratic Party (Fred Nile Group)"]
+	"Petra Campbell (1331)" [label="Petra Campbell (1331)
+Sustainable Australia"]
+	"Adrian Manson (1330)" -> "Adam Bruce Watson (1333)" [label=233]
+	"Petra Campbell (1331)" -> "Adrian Manson (1330)" [label=60]
+	"Petra Campbell (1331)" -> "Adam Bruce Watson (1333)" [label=114]
+}

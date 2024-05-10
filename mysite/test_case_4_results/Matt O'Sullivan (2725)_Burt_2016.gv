@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Matt O'Sullivan (2725)_Burt_2016" {
+	graph [label="Burt 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Matt O'Sullivan (2725)" [label="Matt O'Sullivan (2725)
+Liberal"]
+	"Muhammad Salman (2724)" [label="Muhammad Salman (2724)
+The Greens (WA)"]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
+	"Ian Blevin (2726)" [label="Ian Blevin (2726)
+Shooters, Fishers and Farmers"]
+	"Muhammad Salman (2724)" -> "Matt O'Sullivan (2725)" [label=1974]
+	"Warnar Spyker (1080)" -> "Muhammad Salman (2724)" [label=902]
+	"Ian Blevin (2726)" -> "Warnar Spyker (1080)" [label=1226]
+	"Warnar Spyker (1080)" -> "Matt O'Sullivan (2725)" [label=3544]
+	"Ian Blevin (2726)" -> "Matt O'Sullivan (2725)" [label=827]
+	"Ian Blevin (2726)" -> "Muhammad Salman (2724)" [label=627]
+}

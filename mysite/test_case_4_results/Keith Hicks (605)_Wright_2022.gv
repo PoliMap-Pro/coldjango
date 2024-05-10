@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Keith Hicks (605)_Wright_2022" {
+	graph [label="Wright 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Keith Hicks (605)" [label="Keith Hicks (605)
+Pauline Hanson's One Nation"]
+	"Nicole Thompson (608)" [label="Nicole Thompson (608)
+Queensland Greens"]
+	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
+United Australia Party"]
+	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
+Australian Federation Party"]
+	"Nicole Thompson (608)" -> "Keith Hicks (605)" [label=2123]
+	"Cassandra Deanne Duffill (604)" -> "Nicole Thompson (608)" [label=736]
+	"Shonna-Lee Banasiak (606)" -> "Cassandra Deanne Duffill (604)" [label=357]
+	"Cassandra Deanne Duffill (604)" -> "Keith Hicks (605)" [label=6258]
+	"Shonna-Lee Banasiak (606)" -> "Keith Hicks (605)" [label=601]
+	"Shonna-Lee Banasiak (606)" -> "Nicole Thompson (608)" [label=272]
+}

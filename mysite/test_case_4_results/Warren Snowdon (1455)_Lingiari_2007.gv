@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Warren Snowdon (1455)_Lingiari_2007" {
+	graph [label="Lingiari 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Warren Snowdon (1455)" [label="Warren Snowdon (1455)
+Australian Labor Party (Northern Territory) Branch"]
+	"Emma Young (3871)" [label="Emma Young (3871)
+The Greens"]
+	"Maurie Japarta Ryan (4478)" [label="Maurie Japarta Ryan (4478)
+Independent"]
+	"Wayne Wright (4477)" [label="Wayne Wright (4477)
+Independent"]
+	"Emma Young (3871)" -> "Warren Snowdon (1455)" [label=2524]
+	"Maurie Japarta Ryan (4478)" -> "Emma Young (3871)" [label=436]
+	"Wayne Wright (4477)" -> "Maurie Japarta Ryan (4478)" [label=373]
+	"Maurie Japarta Ryan (4478)" -> "Warren Snowdon (1455)" [label=591]
+	"Wayne Wright (4477)" -> "Warren Snowdon (1455)" [label=237]
+	"Wayne Wright (4477)" -> "Emma Young (3871)" [label=113]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Bert Bacher (1650)_Barker_2019" {
+	graph [label="Barker 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Bert Bacher (1650)" [label="Bert Bacher (1650)
+United Australia Party"]
+	"Kelly Gladigau (1652)" [label="Kelly Gladigau (1652)
+Centre Alliance"]
+	"Karen Eckermann (1651)" [label="Karen Eckermann (1651)
+Animal Justice Party"]
+	"Miles Hannemann (1653)" [label="Miles Hannemann (1653)
+National Party"]
+	"Kelly Gladigau (1652)" -> "Bert Bacher (1650)" [label=971]
+	"Karen Eckermann (1651)" -> "Kelly Gladigau (1652)" [label=634]
+	"Miles Hannemann (1653)" -> "Karen Eckermann (1651)" [label=165]
+	"Karen Eckermann (1651)" -> "Bert Bacher (1650)" [label=467]
+	"Miles Hannemann (1653)" -> "Bert Bacher (1650)" [label=493]
+	"Miles Hannemann (1653)" -> "Kelly Gladigau (1652)" [label=335]
+}

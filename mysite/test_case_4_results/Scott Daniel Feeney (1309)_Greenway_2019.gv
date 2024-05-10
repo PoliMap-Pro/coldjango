@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Scott Daniel Feeney (1309)_Greenway_2019" {
+	graph [label="Greenway 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Daniel Feeney (1309)" [label="Scott Daniel Feeney (1309)
+United Australia Party"]
+	"Osbourn Inparajah Rajadurai (1310)" [label="Osbourn Inparajah Rajadurai (1310)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graham Mcfarland (1308)" [label="Graham Mcfarland (1308)
+Australian Better Families"]
+	"Osbourn Inparajah Rajadurai (1310)" -> "Scott Daniel Feeney (1309)" [label=534]
+	"Graham Mcfarland (1308)" -> "Osbourn Inparajah Rajadurai (1310)" [label=222]
+	"Graham Mcfarland (1308)" -> "Scott Daniel Feeney (1309)" [label=288]
+}

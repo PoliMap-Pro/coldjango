@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kylie Natasha Cowling (1517)_Fairfax_2019" {
+	graph [label="Fairfax 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kylie Natasha Cowling (1517)" [label="Kylie Natasha Cowling (1517)
+United Australia Party"]
+	"Richard Belcher (1519)" [label="Richard Belcher (1519)
+Sustainable Australia"]
+	"Jake Luke Ryan (1518)" [label="Jake Luke Ryan (1518)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Sinim Australie (1520)" [label="Sinim Australie (1520)
+Independent"]
+	"Bertrand Cadart (1521)" [label="Bertrand Cadart (1521)
+Liberal Democrats"]
+	"Richard Belcher (1519)" -> "Kylie Natasha Cowling (1517)" [label=203]
+	"Jake Luke Ryan (1518)" -> "Richard Belcher (1519)" [label=136]
+	"Sinim Australie (1520)" -> "Jake Luke Ryan (1518)" [label=116]
+	"Bertrand Cadart (1521)" -> "Sinim Australie (1520)" [label=105]
+	"Jake Luke Ryan (1518)" -> "Kylie Natasha Cowling (1517)" [label=285]
+	"Sinim Australie (1520)" -> "Kylie Natasha Cowling (1517)" [label=104]
+	"Bertrand Cadart (1521)" -> "Kylie Natasha Cowling (1517)" [label=76]
+	"Bertrand Cadart (1521)" -> "Jake Luke Ryan (1518)" [label=47]
+	"Sinim Australie (1520)" -> "Richard Belcher (1519)" [label=349]
+	"Bertrand Cadart (1521)" -> "Richard Belcher (1519)" [label=49]
+}

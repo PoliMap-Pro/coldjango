@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Reginald Keith Wright (1220)_Banks_2019" {
+	graph [label="Banks 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Reginald Keith Wright (1220)" [label="Reginald Keith Wright (1220)
+United Australia Party"]
+	"Anjali Thakur (1221)" [label="Anjali Thakur (1221)
+Animal Justice Party"]
+	"Anjali Thakur (1221)" -> "Reginald Keith Wright (1220)" [label=230]
+}

@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kelvin Thomson (3568)_Wills_2010" {
+	graph [label="Wills 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kelvin Thomson (3568)" [label="Kelvin Thomson (3568)
+Australian Labor Party"]
+	"Mark Riley (4171)" [label="Mark Riley (4171)
+Australian Greens"]
+	"Daniel Mumby (4167)" [label="Daniel Mumby (4167)
+Family First"]
+	"Trent Hawkins (4169)" [label="Trent Hawkins (4169)
+Socialist Alliance"]
+	"Paul Richard Roberton (4170)" [label="Paul Richard Roberton (4170)
+Australian Democrats"]
+	"Craig Isherwood (4168)" [label="Craig Isherwood (4168)
+Citizens Electoral Council"]
+	"Mark Riley (4171)" -> "Kelvin Thomson (3568)" [label=16653]
+	"Daniel Mumby (4167)" -> "Mark Riley (4171)" [label=495]
+	"Trent Hawkins (4169)" -> "Daniel Mumby (4167)" [label=111]
+	"Paul Richard Roberton (4170)" -> "Trent Hawkins (4169)" [label=85]
+	"Craig Isherwood (4168)" -> "Paul Richard Roberton (4170)" [label=43]
+	"Daniel Mumby (4167)" -> "Kelvin Thomson (3568)" [label=548]
+	"Trent Hawkins (4169)" -> "Kelvin Thomson (3568)" [label=135]
+	"Paul Richard Roberton (4170)" -> "Kelvin Thomson (3568)" [label=179]
+	"Craig Isherwood (4168)" -> "Kelvin Thomson (3568)" [label=64]
+	"Craig Isherwood (4168)" -> "Trent Hawkins (4169)" [label=62]
+	"Paul Richard Roberton (4170)" -> "Daniel Mumby (4167)" [label=75]
+	"Craig Isherwood (4168)" -> "Daniel Mumby (4167)" [label=139]
+	"Trent Hawkins (4169)" -> "Mark Riley (4171)" [label=582]
+	"Paul Richard Roberton (4170)" -> "Mark Riley (4171)" [label=297]
+	"Craig Isherwood (4168)" -> "Mark Riley (4171)" [label=46]
+}

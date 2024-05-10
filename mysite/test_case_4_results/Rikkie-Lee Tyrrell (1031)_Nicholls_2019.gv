@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Rikkie-Lee Tyrrell (1031)_Nicholls_2019" {
+	graph [label="Nicholls 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rikkie-Lee Tyrrell (1031)" [label="Rikkie-Lee Tyrrell (1031)
+Pauline Hanson's One Nation"]
+	"Andrew Bock (1909)" [label="Andrew Bock (1909)
+Independent"]
+	"Stewart John Hine (1910)" [label="Stewart John Hine (1910)
+United Australia Party"]
+	"Nickee Freeman (1911)" [label="Nickee Freeman (1911)
+The Greens (VIC)"]
+	"Jeremy Parker (1908)" [label="Jeremy Parker (1908)
+Independent"]
+	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
+Independent"]
+	"Andrew Bock (1909)" -> "Rikkie-Lee Tyrrell (1031)" [label=1751]
+	"Stewart John Hine (1910)" -> "Andrew Bock (1909)" [label=751]
+	"Nickee Freeman (1911)" -> "Stewart John Hine (1910)" [label=172]
+	"Jeremy Parker (1908)" -> "Nickee Freeman (1911)" [label=59]
+	"Nigel Hicks (1912)" -> "Jeremy Parker (1908)" [label=338]
+	"Stewart John Hine (1910)" -> "Rikkie-Lee Tyrrell (1031)" [label=2037]
+	"Nickee Freeman (1911)" -> "Rikkie-Lee Tyrrell (1031)" [label=343]
+	"Jeremy Parker (1908)" -> "Rikkie-Lee Tyrrell (1031)" [label=134]
+	"Nigel Hicks (1912)" -> "Rikkie-Lee Tyrrell (1031)" [label=366]
+	"Nigel Hicks (1912)" -> "Nickee Freeman (1911)" [label=103]
+	"Jeremy Parker (1908)" -> "Stewart John Hine (1910)" [label=136]
+	"Nigel Hicks (1912)" -> "Stewart John Hine (1910)" [label=105]
+	"Nickee Freeman (1911)" -> "Andrew Bock (1909)" [label=784]
+	"Jeremy Parker (1908)" -> "Andrew Bock (1909)" [label=1255]
+	"Nigel Hicks (1912)" -> "Andrew Bock (1909)" [label=444]
+}

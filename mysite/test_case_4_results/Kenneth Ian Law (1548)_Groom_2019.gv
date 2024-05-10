@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Kenneth Ian Law (1548)_Groom_2019" {
+	graph [label="Groom 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kenneth Ian Law (1548)" [label="Kenneth Ian Law (1548)
+United Australia Party"]
+	"Perry Adrelius (1546)" [label="Perry Adrelius (1546)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Perry Adrelius (1546)" -> "Kenneth Ian Law (1548)" [label=446]
+}

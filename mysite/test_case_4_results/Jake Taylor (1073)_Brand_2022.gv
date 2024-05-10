@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Jake Taylor (1073)_Brand_2022" {
+	graph [label="Brand 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jake Taylor (1073)" [label="Jake Taylor (1073)
+Pauline Hanson's One Nation"]
+	"David Pike (1067)" [label="David Pike (1067)
+United Australia Party"]
+	"Michael O'Loghlen (1070)" [label="Michael O'Loghlen (1070)
+WESTERN AUSTRALIA PARTY"]
+	"Jayne Crichton (1069)" [label="Jayne Crichton (1069)
+Australian Christians"]
+	"Andrew Gleeson (1072)" [label="Andrew Gleeson (1072)
+The Great Australian Party"]
+	"Alison Marshall (1071)" [label="Alison Marshall (1071)
+Liberal Democrats"]
+	"Malcolm Heffernan (1065)" [label="Malcolm Heffernan (1065)
+Australian Federation Party"]
+	"David Pike (1067)" -> "Jake Taylor (1073)" [label=2479]
+	"Michael O'Loghlen (1070)" -> "David Pike (1067)" [label=401]
+	"Jayne Crichton (1069)" -> "Michael O'Loghlen (1070)" [label=242]
+	"Andrew Gleeson (1072)" -> "Jayne Crichton (1069)" [label=146]
+	"Alison Marshall (1071)" -> "Andrew Gleeson (1072)" [label=114]
+	"Malcolm Heffernan (1065)" -> "Alison Marshall (1071)" [label=35]
+	"Michael O'Loghlen (1070)" -> "Jake Taylor (1073)" [label=842]
+	"Jayne Crichton (1069)" -> "Jake Taylor (1073)" [label=451]
+	"Andrew Gleeson (1072)" -> "Jake Taylor (1073)" [label=732]
+	"Alison Marshall (1071)" -> "Jake Taylor (1073)" [label=216]
+	"Malcolm Heffernan (1065)" -> "Jake Taylor (1073)" [label=53]
+	"Malcolm Heffernan (1065)" -> "Andrew Gleeson (1072)" [label=129]
+	"Alison Marshall (1071)" -> "Jayne Crichton (1069)" [label=49]
+	"Malcolm Heffernan (1065)" -> "Jayne Crichton (1069)" [label=42]
+	"Andrew Gleeson (1072)" -> "Michael O'Loghlen (1070)" [label=297]
+	"Alison Marshall (1071)" -> "Michael O'Loghlen (1070)" [label=116]
+	"Malcolm Heffernan (1065)" -> "Michael O'Loghlen (1070)" [label=64]
+	"Jayne Crichton (1069)" -> "David Pike (1067)" [label=547]
+	"Andrew Gleeson (1072)" -> "David Pike (1067)" [label=368]
+	"Alison Marshall (1071)" -> "David Pike (1067)" [label=125]
+	"Malcolm Heffernan (1065)" -> "David Pike (1067)" [label=73]
+}

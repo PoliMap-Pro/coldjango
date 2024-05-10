@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Peter Hayes (2188)_North Sydney_2013" {
+	graph [label="North Sydney 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Hayes (2188)" [label="Peter Hayes (2188)
+Labor"]
+	"Alison Haines (2957)" [label="Alison Haines (2957)
+The Greens"]
+	"Raheam Khan (2955)" [label="Raheam Khan (2955)
+Palmer United Party"]
+	"Maureen Guthrie (2959)" [label="Maureen Guthrie (2959)
+Christian Democratic Party (Fred Nile Group)"]
+	"Angus Mccaffrey (2958)" [label="Angus Mccaffrey (2958)
+Democratic Labour Party (DLP)"]
+	"Alison Haines (2957)" -> "Peter Hayes (2188)" [label=11641]
+	"Raheam Khan (2955)" -> "Alison Haines (2957)" [label=438]
+	"Maureen Guthrie (2959)" -> "Raheam Khan (2955)" [label=147]
+	"Angus Mccaffrey (2958)" -> "Maureen Guthrie (2959)" [label=130]
+	"Raheam Khan (2955)" -> "Peter Hayes (2188)" [label=364]
+	"Maureen Guthrie (2959)" -> "Peter Hayes (2188)" [label=215]
+	"Angus Mccaffrey (2958)" -> "Peter Hayes (2188)" [label=227]
+	"Angus Mccaffrey (2958)" -> "Raheam Khan (2955)" [label=58]
+	"Maureen Guthrie (2959)" -> "Alison Haines (2957)" [label=107]
+	"Angus Mccaffrey (2958)" -> "Alison Haines (2957)" [label=169]
+}

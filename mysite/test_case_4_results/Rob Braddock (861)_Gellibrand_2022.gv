@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rob Braddock (861)_Gellibrand_2022" {
+	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rob Braddock (861)" [label="Rob Braddock (861)
+Pauline Hanson's One Nation"]
+	"Chloe Glasson (860)" [label="Chloe Glasson (860)
+Liberal Democrats"]
+	"Andrew Charles (858)" [label="Andrew Charles (858)
+Victorian Socialists"]
+	"Sharynn Moors (857)" [label="Sharynn Moors (857)
+Australian Federation Party"]
+	"Chloe Glasson (860)" -> "Rob Braddock (861)" [label=776]
+	"Andrew Charles (858)" -> "Chloe Glasson (860)" [label=99]
+	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
+	"Andrew Charles (858)" -> "Rob Braddock (861)" [label=87]
+	"Sharynn Moors (857)" -> "Rob Braddock (861)" [label=137]
+	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Laurie Ferguson (3039)_Werriwa_2010" {
+	graph [label="Werriwa 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Laurie Ferguson (3039)" [label="Laurie Ferguson (3039)
+Labor"]
+	"Lauren Moore (3865)" [label="Lauren Moore (3865)
+The Greens"]
+	"Lauren Moore (3865)" -> "Laurie Ferguson (3039)" [label=6158]
+}

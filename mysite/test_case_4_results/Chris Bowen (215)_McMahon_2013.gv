@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Chris Bowen (215)_McMahon_2013" {
+	graph [label="McMahon 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Bowen (215)" [label="Chris Bowen (215)
+Labor"]
+	"Matthew Markus Dobrincic (2938)" [label="Matthew Markus Dobrincic (2938)
+Palmer United Party"]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Manny Poularas (2939)" [label="Manny Poularas (2939)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matthew Markus Dobrincic (2938)" -> "Chris Bowen (215)" [label=1815]
+	"Astrid O'Neill (219)" -> "Matthew Markus Dobrincic (2938)" [label=495]
+	"Manny Poularas (2939)" -> "Astrid O'Neill (219)" [label=310]
+	"Astrid O'Neill (219)" -> "Chris Bowen (215)" [label=1790]
+	"Manny Poularas (2939)" -> "Chris Bowen (215)" [label=622]
+	"Manny Poularas (2939)" -> "Matthew Markus Dobrincic (2938)" [label=252]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Adam Paul Booke (363)_Werriwa_2022" {
+	graph [label="Werriwa 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Paul Booke (363)" [label="Adam Paul Booke (363)
+Pauline Hanson's One Nation"]
+}

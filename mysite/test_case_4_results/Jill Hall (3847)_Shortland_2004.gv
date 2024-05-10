@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jill Hall (3847)_Shortland_2004" {
+	graph [label="Shortland 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jill Hall (3847)" [label="Jill Hall (3847)
+Australian Labor Party"]
+	"Bob Phillips (5229)" [label="Bob Phillips (5229)
+The Greens"]
+	"Florence Roberts (5232)" [label="Florence Roberts (5232)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Brian Dixon (5230)" [label="Brian Dixon (5230)
+Family First"]
+	"Peter Lee (3241)" [label="Peter Lee (3241)
+Australian Democrats"]
+	"Bob Phillips (5229)" -> "Jill Hall (3847)" [label=6158]
+	"Florence Roberts (5232)" -> "Bob Phillips (5229)" [label=577]
+	"Brian Dixon (5230)" -> "Florence Roberts (5232)" [label=192]
+	"Peter Lee (3241)" -> "Brian Dixon (5230)" [label=100]
+	"Florence Roberts (5232)" -> "Jill Hall (3847)" [label=752]
+	"Brian Dixon (5230)" -> "Jill Hall (3847)" [label=489]
+	"Peter Lee (3241)" -> "Jill Hall (3847)" [label=286]
+	"Peter Lee (3241)" -> "Florence Roberts (5232)" [label=132]
+	"Brian Dixon (5230)" -> "Bob Phillips (5229)" [label=350]
+	"Peter Lee (3241)" -> "Bob Phillips (5229)" [label=383]
+}

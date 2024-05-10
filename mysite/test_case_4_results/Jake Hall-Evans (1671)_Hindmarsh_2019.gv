@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jake Hall-Evans (1671)_Hindmarsh_2019" {
+	graph [label="Hindmarsh 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jake Hall-Evans (1671)" [label="Jake Hall-Evans (1671)
+Liberal"]
+	"Matt Farrell (1672)" [label="Matt Farrell (1672)
+The Greens"]
+	"Rose Morris (1669)" [label="Rose Morris (1669)
+United Australia Party"]
+	"Alison Kelty (1670)" [label="Alison Kelty (1670)
+Animal Justice Party"]
+	"Rajan Vaid (662)" [label="Rajan Vaid (662)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Matt Farrell (1672)" -> "Jake Hall-Evans (1671)" [label=3526]
+	"Rose Morris (1669)" -> "Matt Farrell (1672)" [label=1300]
+	"Alison Kelty (1670)" -> "Rose Morris (1669)" [label=626]
+	"Rajan Vaid (662)" -> "Alison Kelty (1670)" [label=245]
+	"Rose Morris (1669)" -> "Jake Hall-Evans (1671)" [label=3004]
+	"Alison Kelty (1670)" -> "Jake Hall-Evans (1671)" [label=459]
+	"Rajan Vaid (662)" -> "Jake Hall-Evans (1671)" [label=321]
+	"Rajan Vaid (662)" -> "Rose Morris (1669)" [label=1152]
+	"Alison Kelty (1670)" -> "Matt Farrell (1672)" [label=1628]
+	"Rajan Vaid (662)" -> "Matt Farrell (1672)" [label=92]
+}

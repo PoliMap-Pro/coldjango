@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Robert James Marks (304)_Richmond_2022" {
+	graph [label="Richmond 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert James Marks (304)" [label="Robert James Marks (304)
+United Australia Party"]
+	"Monica Shepherd (297)" [label="Monica Shepherd (297)
+Informed Medical Options Party"]
+	"Terry Patrick Sharples (295)" [label="Terry Patrick Sharples (295)
+Independent"]
+	"Monica Shepherd (297)" -> "Robert James Marks (304)" [label=176]
+	"Terry Patrick Sharples (295)" -> "Monica Shepherd (297)" [label=101]
+	"Terry Patrick Sharples (295)" -> "Robert James Marks (304)" [label=24]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ben Britton (88)_Cunningham_2022" {
+	graph [label="Cunningham 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ben Britton (88)" [label="Ben Britton (88)
+United Australia Party"]
+	"Michael Glover (92)" [label="Michael Glover (92)
+Liberal Democrats"]
+	"Alexis Garnaut-Miller (90)" [label="Alexis Garnaut-Miller (90)
+Citizens Party"]
+	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
+	"Alexis Garnaut-Miller (90)" -> "Michael Glover (92)" [label=116]
+	"Alexis Garnaut-Miller (90)" -> "Ben Britton (88)" [label=242]
+}

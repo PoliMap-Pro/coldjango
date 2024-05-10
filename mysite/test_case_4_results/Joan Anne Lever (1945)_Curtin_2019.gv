@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Joan Anne Lever (1945)_Curtin_2019" {
+	graph [label="Curtin 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joan Anne Lever (1945)" [label="Joan Anne Lever (1945)
+United Australia Party"]
+	"Bill Edgar (1947)" [label="Bill Edgar (1947)
+Pauline Hanson's One Nation"]
+	"Deonne Kingsford (1948)" [label="Deonne Kingsford (1948)
+Australian Christians"]
+	"Bill Edgar (1947)" -> "Joan Anne Lever (1945)" [label=329]
+	"Deonne Kingsford (1948)" -> "Bill Edgar (1947)" [label=68]
+	"Deonne Kingsford (1948)" -> "Joan Anne Lever (1945)" [label=41]
+}

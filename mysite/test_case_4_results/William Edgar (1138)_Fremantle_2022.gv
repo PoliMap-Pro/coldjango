@@ -1,0 +1,40 @@
+// House preference flow
+digraph "William Edgar (1138)_Fremantle_2022" {
+	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"William Edgar (1138)" [label="William Edgar (1138)
+Pauline Hanson's One Nation"]
+	"Ben Tilbury (1129)" [label="Ben Tilbury (1129)
+The Great Australian Party"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Stella Jinman (1133)" [label="Stella Jinman (1133)
+United Australia Party"]
+	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
+Australian Federation Party"]
+	"Yan Loh (1136)" [label="Yan Loh (1136)
+Liberal Democrats"]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"Ben Tilbury (1129)" -> "William Edgar (1138)" [label=1844]
+	"Janetia Knapp (1137)" -> "Ben Tilbury (1129)" [label=607]
+	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
+	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
+	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
+	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
+	"Janetia Knapp (1137)" -> "William Edgar (1138)" [label=550]
+	"Stella Jinman (1133)" -> "William Edgar (1138)" [label=1183]
+	"Cathy Gavranich (1131)" -> "William Edgar (1138)" [label=164]
+	"Yan Loh (1136)" -> "William Edgar (1138)" [label=165]
+	"Sam Wainwright (1130)" -> "William Edgar (1138)" [label=18]
+	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
+	"Yan Loh (1136)" -> "Stella Jinman (1133)" [label=147]
+	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
+	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
+	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
+	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
+	"Stella Jinman (1133)" -> "Ben Tilbury (1129)" [label=313]
+	"Cathy Gavranich (1131)" -> "Ben Tilbury (1129)" [label=665]
+	"Yan Loh (1136)" -> "Ben Tilbury (1129)" [label=64]
+	"Sam Wainwright (1130)" -> "Ben Tilbury (1129)" [label=87]
+}

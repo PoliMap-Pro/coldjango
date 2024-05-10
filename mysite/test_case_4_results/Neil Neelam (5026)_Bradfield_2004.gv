@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Neil Neelam (5026)_Bradfield_2004" {
+	graph [label="Bradfield 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Neil Neelam (5026)" [label="Neil Neelam (5026)
+Australian Labor Party"]
+	"Robert H Goodwill (5023)" [label="Robert H Goodwill (5023)
+The Greens"]
+	"Jeannette Tsoulos (5025)" [label="Jeannette Tsoulos (5025)
+Australian Democrats"]
+	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
+Family First"]
+	"Robert H Goodwill (5023)" -> "Neil Neelam (5026)" [label=7898]
+	"Jeannette Tsoulos (5025)" -> "Robert H Goodwill (5023)" [label=916]
+	"Sarah Montgomery (5024)" -> "Jeannette Tsoulos (5025)" [label=259]
+	"Jeannette Tsoulos (5025)" -> "Neil Neelam (5026)" [label=626]
+	"Sarah Montgomery (5024)" -> "Neil Neelam (5026)" [label=175]
+	"Sarah Montgomery (5024)" -> "Robert H Goodwill (5023)" [label=318]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Craig Huth (2917)_Lyne_2013" {
+	graph [label="Lyne 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Huth (2917)" [label="Craig Huth (2917)
+One Nation"]
+	"John Walter Klose (2916)" [label="John Walter Klose (2916)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Buckley Clare (2918)" [label="Brian Buckley Clare (2918)
+Katter's Australian Party"]
+	"Michael Gough (2069)" [label="Michael Gough (2069)
+Citizens Electoral Council"]
+	"John Walter Klose (2916)" -> "Craig Huth (2917)" [label=568]
+	"Brian Buckley Clare (2918)" -> "John Walter Klose (2916)" [label=69]
+	"Michael Gough (2069)" -> "Brian Buckley Clare (2918)" [label=18]
+	"Brian Buckley Clare (2918)" -> "Craig Huth (2917)" [label=166]
+	"Michael Gough (2069)" -> "Craig Huth (2917)" [label=16]
+	"Michael Gough (2069)" -> "John Walter Klose (2916)" [label=18]
+}

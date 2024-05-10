@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Sandy Roach (438)_Fadden_2022" {
+	graph [label="Fadden 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sandy Roach (438)" [label="Sandy Roach (438)
+Pauline Hanson's One Nation"]
+	"Sally Spain (440)" [label="Sally Spain (440)
+Queensland Greens"]
+	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
+United Australia Party"]
+	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
+Independent"]
+	"Alex Forbes (441)" [label="Alex Forbes (441)
+Liberal Democrats"]
+	"Sally Spain (440)" -> "Sandy Roach (438)" [label=2178]
+	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
+	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
+	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
+	"Nathan Grant O'Brien (437)" -> "Sandy Roach (438)" [label=5230]
+	"Stewart Gordon Brooker (435)" -> "Sandy Roach (438)" [label=864]
+	"Alex Forbes (441)" -> "Sandy Roach (438)" [label=450]
+	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
+	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
+	"Alex Forbes (441)" -> "Sally Spain (440)" [label=406]
+}

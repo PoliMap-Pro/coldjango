@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Tanya Plibersek (333)_Sydney_2004" {
+	graph [label="Sydney 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tanya Plibersek (333)" [label="Tanya Plibersek (333)
+Australian Labor Party"]
+	"Jenny Leong (4448)" [label="Jenny Leong (4448)
+The Greens"]
+	"Michelle Bleicher (5236)" [label="Michelle Bleicher (5236)
+Australian Democrats"]
+	"Jane Ward (3006)" [label="Jane Ward (3006)
+Independent"]
+	"Michael Webb (5234)" [label="Michael Webb (5234)
+Independent"]
+	"Susan Price (5235)" [label="Susan Price (5235)
+Socialist Alliance"]
+	"Adrian Ford (4447)" [label="Adrian Ford (4447)
+Citizens Electoral Council"]
+	"Jenny Leong (4448)" -> "Tanya Plibersek (333)" [label=16649]
+	"Michelle Bleicher (5236)" -> "Jenny Leong (4448)" [label=811]
+	"Jane Ward (3006)" -> "Michelle Bleicher (5236)" [label=275]
+	"Michael Webb (5234)" -> "Jane Ward (3006)" [label=267]
+	"Susan Price (5235)" -> "Michael Webb (5234)" [label=42]
+	"Adrian Ford (4447)" -> "Susan Price (5235)" [label=12]
+	"Michelle Bleicher (5236)" -> "Tanya Plibersek (333)" [label=800]
+	"Jane Ward (3006)" -> "Tanya Plibersek (333)" [label=218]
+	"Michael Webb (5234)" -> "Tanya Plibersek (333)" [label=105]
+	"Susan Price (5235)" -> "Tanya Plibersek (333)" [label=95]
+	"Adrian Ford (4447)" -> "Tanya Plibersek (333)" [label=23]
+	"Adrian Ford (4447)" -> "Michael Webb (5234)" [label=35]
+	"Susan Price (5235)" -> "Jane Ward (3006)" [label=28]
+	"Adrian Ford (4447)" -> "Jane Ward (3006)" [label=27]
+	"Michael Webb (5234)" -> "Michelle Bleicher (5236)" [label=89]
+	"Susan Price (5235)" -> "Michelle Bleicher (5236)" [label=50]
+	"Adrian Ford (4447)" -> "Michelle Bleicher (5236)" [label=3]
+	"Jane Ward (3006)" -> "Jenny Leong (4448)" [label=827]
+	"Michael Webb (5234)" -> "Jenny Leong (4448)" [label=86]
+	"Susan Price (5235)" -> "Jenny Leong (4448)" [label=336]
+	"Adrian Ford (4447)" -> "Jenny Leong (4448)" [label=18]
+}

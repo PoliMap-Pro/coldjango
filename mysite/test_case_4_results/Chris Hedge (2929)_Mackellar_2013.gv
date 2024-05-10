@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Chris Hedge (2929)_Mackellar_2013" {
+	graph [label="Mackellar 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Hedge (2929)" [label="Chris Hedge (2929)
+Labor"]
+	"Jonathan King (2926)" [label="Jonathan King (2926)
+The Greens"]
+	"Debra Gayle Drummond (2927)" [label="Debra Gayle Drummond (2927)
+Palmer United Party"]
+	"Silvana Nero (2928)" [label="Silvana Nero (2928)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jonathan King (2926)" -> "Chris Hedge (2929)" [label=11320]
+	"Debra Gayle Drummond (2927)" -> "Jonathan King (2926)" [label=1382]
+	"Silvana Nero (2928)" -> "Debra Gayle Drummond (2927)" [label=243]
+	"Debra Gayle Drummond (2927)" -> "Chris Hedge (2929)" [label=1028]
+	"Silvana Nero (2928)" -> "Chris Hedge (2929)" [label=256]
+	"Silvana Nero (2928)" -> "Jonathan King (2926)" [label=165]
+}

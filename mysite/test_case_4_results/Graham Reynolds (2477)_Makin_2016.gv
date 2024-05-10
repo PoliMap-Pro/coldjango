@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Graham Reynolds (2477)_Makin_2016" {
+	graph [label="Makin 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Graham Reynolds (2477)" [label="Graham Reynolds (2477)
+Liberal"]
+	"Craig Bossie (2478)" [label="Craig Bossie (2478)
+Nick Xenophon Team"]
+	"Keiran Snape (2473)" [label="Keiran Snape (2473)
+The Greens"]
+	"Paul Coombe (2474)" [label="Paul Coombe (2474)
+Family First"]
+	"Mark Aldridge (2475)" [label="Mark Aldridge (2475)
+Independent"]
+	"Zarina Greenberg (2476)" [label="Zarina Greenberg (2476)
+Animal Justice Party"]
+	"Craig Bossie (2478)" -> "Graham Reynolds (2477)" [label=7715]
+	"Keiran Snape (2473)" -> "Craig Bossie (2478)" [label=1759]
+	"Paul Coombe (2474)" -> "Keiran Snape (2473)" [label=834]
+	"Mark Aldridge (2475)" -> "Paul Coombe (2474)" [label=533]
+	"Zarina Greenberg (2476)" -> "Mark Aldridge (2475)" [label=204]
+	"Keiran Snape (2473)" -> "Graham Reynolds (2477)" [label=620]
+	"Paul Coombe (2474)" -> "Graham Reynolds (2477)" [label=2377]
+	"Mark Aldridge (2475)" -> "Graham Reynolds (2477)" [label=258]
+	"Zarina Greenberg (2476)" -> "Graham Reynolds (2477)" [label=137]
+	"Zarina Greenberg (2476)" -> "Paul Coombe (2474)" [label=222]
+	"Mark Aldridge (2475)" -> "Keiran Snape (2473)" [label=280]
+	"Zarina Greenberg (2476)" -> "Keiran Snape (2473)" [label=382]
+	"Paul Coombe (2474)" -> "Craig Bossie (2478)" [label=971]
+	"Mark Aldridge (2475)" -> "Craig Bossie (2478)" [label=698]
+	"Zarina Greenberg (2476)" -> "Craig Bossie (2478)" [label=248]
+}

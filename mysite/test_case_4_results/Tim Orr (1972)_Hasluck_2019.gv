@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Tim Orr (1972)_Hasluck_2019" {
+	graph [label="Hasluck 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tim Orr (1972)" [label="Tim Orr (1972)
+Pauline Hanson's One Nation"]
+	"Fiona White-Hartig (1969)" [label="Fiona White-Hartig (1969)
+Shooters, Fishers and Farmers"]
+	"Mike Dale (1973)" [label="Mike Dale (1973)
+United Australia Party"]
+	"Brady John Williams (1971)" [label="Brady John Williams (1971)
+Australian Christians"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Fiona White-Hartig (1969)" -> "Tim Orr (1972)" [label=1084]
+	"Mike Dale (1973)" -> "Fiona White-Hartig (1969)" [label=249]
+	"Brady John Williams (1971)" -> "Mike Dale (1973)" [label=95]
+	"Stephen Phelan (1078)" -> "Brady John Williams (1971)" [label=78]
+	"Mike Dale (1973)" -> "Tim Orr (1972)" [label=768]
+	"Brady John Williams (1971)" -> "Tim Orr (1972)" [label=195]
+	"Stephen Phelan (1078)" -> "Tim Orr (1972)" [label=153]
+	"Stephen Phelan (1078)" -> "Mike Dale (1973)" [label=130]
+	"Brady John Williams (1971)" -> "Fiona White-Hartig (1969)" [label=159]
+	"Stephen Phelan (1078)" -> "Fiona White-Hartig (1969)" [label=334]
+}

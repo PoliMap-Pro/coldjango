@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sabine De Pyle (853)_Fraser_2022" {
+	graph [label="Fraser 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sabine De Pyle (853)" [label="Sabine De Pyle (853)
+Pauline Hanson's One Nation"]
+	"Anthony Cursio (850)" [label="Anthony Cursio (850)
+Liberal Democrats"]
+	"Anthony Cursio (850)" -> "Sabine De Pyle (853)" [label=475]
+}

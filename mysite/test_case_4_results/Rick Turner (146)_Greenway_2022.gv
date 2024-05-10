@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Rick Turner (146)_Greenway_2022" {
+	graph [label="Greenway 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rick Turner (146)" [label="Rick Turner (146)
+Pauline Hanson's One Nation"]
+	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
+Independent"]
+	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
+}

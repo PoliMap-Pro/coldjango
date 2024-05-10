@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Tim Vo (1731)_Ballarat_2019" {
+	graph [label="Ballarat 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Tim Vo (1731)" [label="Tim Vo (1731)
+Liberal"]
+	"Karen Mcaloon (1730)" [label="Karen Mcaloon (1730)
+The Greens (VIC)"]
+	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
+United Australia Party"]
+	"Bryn Hills (1727)" [label="Bryn Hills (1727)
+Animal Justice Party"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
+Independent"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Karen Mcaloon (1730)" -> "Tim Vo (1731)" [label=3863]
+	"Peter Cozyn (1728)" -> "Karen Mcaloon (1730)" [label=2370]
+	"Bryn Hills (1727)" -> "Peter Cozyn (1728)" [label=1595]
+	"Nick Shady (1729)" -> "Bryn Hills (1727)" [label=639]
+	"Alex Graham (744)" -> "Nick Shady (1729)" [label=1061]
+	"Peter Cozyn (1728)" -> "Tim Vo (1731)" [label=3331]
+	"Bryn Hills (1727)" -> "Tim Vo (1731)" [label=554]
+	"Nick Shady (1729)" -> "Tim Vo (1731)" [label=765]
+	"Alex Graham (744)" -> "Tim Vo (1731)" [label=93]
+	"Alex Graham (744)" -> "Bryn Hills (1727)" [label=120]
+	"Nick Shady (1729)" -> "Peter Cozyn (1728)" [label=846]
+	"Alex Graham (744)" -> "Peter Cozyn (1728)" [label=150]
+	"Bryn Hills (1727)" -> "Karen Mcaloon (1730)" [label=1840]
+	"Nick Shady (1729)" -> "Karen Mcaloon (1730)" [label=433]
+	"Alex Graham (744)" -> "Karen Mcaloon (1730)" [label=98]
+}

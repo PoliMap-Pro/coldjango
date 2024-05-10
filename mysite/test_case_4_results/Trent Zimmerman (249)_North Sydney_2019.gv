@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Trent Zimmerman (249)_North Sydney_2019" {
+	graph [label="North Sydney 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Trent Zimmerman (249)" [label="Trent Zimmerman (249)
+Liberal"]
+	"Daniel Keogh (1381)" [label="Daniel Keogh (1381)
+The Greens"]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+Independent"]
+	"Greg Graham (1383)" [label="Greg Graham (1383)
+Sustainable Australia"]
+	"David Vernon (1378)" [label="David Vernon (1378)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter John Vagg (1380)" [label="Peter John Vagg (1380)
+United Australia Party"]
+	"Daniel Keogh (1381)" -> "Trent Zimmerman (249)" [label=3286]
+	"Arthur Chesterfield-Evans (1382)" -> "Daniel Keogh (1381)" [label=2260]
+	"Greg Graham (1383)" -> "Arthur Chesterfield-Evans (1382)" [label=664]
+	"David Vernon (1378)" -> "Greg Graham (1383)" [label=209]
+	"Peter John Vagg (1380)" -> "David Vernon (1378)" [label=215]
+	"Arthur Chesterfield-Evans (1382)" -> "Trent Zimmerman (249)" [label=1695]
+	"Greg Graham (1383)" -> "Trent Zimmerman (249)" [label=602]
+	"David Vernon (1378)" -> "Trent Zimmerman (249)" [label=979]
+	"Peter John Vagg (1380)" -> "Trent Zimmerman (249)" [label=517]
+	"Peter John Vagg (1380)" -> "Greg Graham (1383)" [label=130]
+	"David Vernon (1378)" -> "Arthur Chesterfield-Evans (1382)" [label=283]
+	"Peter John Vagg (1380)" -> "Arthur Chesterfield-Evans (1382)" [label=160]
+	"Greg Graham (1383)" -> "Daniel Keogh (1381)" [label=618]
+	"David Vernon (1378)" -> "Daniel Keogh (1381)" [label=79]
+	"Peter John Vagg (1380)" -> "Daniel Keogh (1381)" [label=111]
+}

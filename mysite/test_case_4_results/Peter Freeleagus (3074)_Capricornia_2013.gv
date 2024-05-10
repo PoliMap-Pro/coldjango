@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Peter Freeleagus (3074)_Capricornia_2013" {
+	graph [label="Capricornia 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Freeleagus (3074)" [label="Peter Freeleagus (3074)
+Australian Labor Party"]
+	"Derek James Ison (3076)" [label="Derek James Ison (3076)
+Palmer United Party"]
+	"Robbie Williams (3079)" [label="Robbie Williams (3079)
+Katter's Australian Party"]
+	"Hazel Alley (3078)" [label="Hazel Alley (3078)
+Family First"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+The Greens"]
+	"Bruce Diamond (3077)" [label="Bruce Diamond (3077)
+"]
+	"Paul Lewis (3075)" [label="Paul Lewis (3075)
+Rise Up Australia Party"]
+	"Derek James Ison (3076)" -> "Peter Freeleagus (3074)" [label=5660]
+	"Robbie Williams (3079)" -> "Derek James Ison (3076)" [label=2545]
+	"Hazel Alley (3078)" -> "Robbie Williams (3079)" [label=673]
+	"Paul Bambrick (459)" -> "Hazel Alley (3078)" [label=474]
+	"Bruce Diamond (3077)" -> "Paul Bambrick (459)" [label=258]
+	"Paul Lewis (3075)" -> "Bruce Diamond (3077)" [label=39]
+	"Robbie Williams (3079)" -> "Peter Freeleagus (3074)" [label=1777]
+	"Hazel Alley (3078)" -> "Peter Freeleagus (3074)" [label=777]
+	"Paul Bambrick (459)" -> "Peter Freeleagus (3074)" [label=1625]
+	"Bruce Diamond (3077)" -> "Peter Freeleagus (3074)" [label=400]
+	"Paul Lewis (3075)" -> "Peter Freeleagus (3074)" [label=115]
+	"Paul Lewis (3075)" -> "Paul Bambrick (459)" [label=50]
+	"Bruce Diamond (3077)" -> "Hazel Alley (3078)" [label=323]
+	"Paul Lewis (3075)" -> "Hazel Alley (3078)" [label=63]
+	"Paul Bambrick (459)" -> "Robbie Williams (3079)" [label=276]
+	"Bruce Diamond (3077)" -> "Robbie Williams (3079)" [label=272]
+	"Paul Lewis (3075)" -> "Robbie Williams (3079)" [label=45]
+	"Hazel Alley (3078)" -> "Derek James Ison (3076)" [label=646]
+	"Paul Bambrick (459)" -> "Derek James Ison (3076)" [label=527]
+	"Bruce Diamond (3077)" -> "Derek James Ison (3076)" [label=241]
+	"Paul Lewis (3075)" -> "Derek James Ison (3076)" [label=83]
+}

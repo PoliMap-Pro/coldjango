@@ -1,0 +1,25 @@
+// House preference flow
+digraph "James Ingarfill (970)_Lalor_2022" {
+	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"James Ingarfill (970)" [label="James Ingarfill (970)
+Pauline Hanson's One Nation"]
+	"Patrizia Barcatta (968)" [label="Patrizia Barcatta (968)
+Liberal Democrats"]
+	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
+Independent"]
+	"Claudio Uribe (965)" [label="Claudio Uribe (965)
+Victorian Socialists"]
+	"Peter Malliaros (969)" [label="Peter Malliaros (969)
+Australian Federation Party"]
+	"Patrizia Barcatta (968)" -> "James Ingarfill (970)" [label=696]
+	"Aijaz Moinuddin (964)" -> "Patrizia Barcatta (968)" [label=253]
+	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
+	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
+	"Aijaz Moinuddin (964)" -> "James Ingarfill (970)" [label=211]
+	"Claudio Uribe (965)" -> "James Ingarfill (970)" [label=60]
+	"Peter Malliaros (969)" -> "James Ingarfill (970)" [label=175]
+	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
+	"Claudio Uribe (965)" -> "Patrizia Barcatta (968)" [label=69]
+	"Peter Malliaros (969)" -> "Patrizia Barcatta (968)" [label=197]
+}

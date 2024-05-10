@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Lucia Grant (17)_Fenner_2022" {
+	graph [label="Fenner 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Lucia Grant (17)" [label="Lucia Grant (17)
+Pauline Hanson's One Nation"]
+	"Timothy Peter Elton (16)" [label="Timothy Peter Elton (16)
+United Australia Party"]
+	"Guy Jakeman (19)" [label="Guy Jakeman (19)
+Liberal Democrats"]
+	"Timothy Peter Elton (16)" -> "Lucia Grant (17)" [label=1434]
+	"Guy Jakeman (19)" -> "Timothy Peter Elton (16)" [label=238]
+	"Guy Jakeman (19)" -> "Lucia Grant (17)" [label=273]
+}

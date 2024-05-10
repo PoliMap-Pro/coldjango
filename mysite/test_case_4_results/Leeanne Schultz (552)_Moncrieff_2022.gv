@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Leeanne Schultz (552)_Moncrieff_2022" {
+	graph [label="Moncrieff 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Leeanne Schultz (552)" [label="Leeanne Schultz (552)
+Pauline Hanson's One Nation"]
+	"Diane Olga Happ (559)" [label="Diane Olga Happ (559)
+United Australia Party"]
+	"Diane Demetre (557)" [label="Diane Demetre (557)
+Liberal Democrats"]
+	"Sonia Michelle Berry-Law (554)" [label="Sonia Michelle Berry-Law (554)
+Animal Justice Party"]
+	"Timothy Cudmore (558)" [label="Timothy Cudmore (558)
+Informed Medical Options Party"]
+	"James Tayler (553)" [label="James Tayler (553)
+Australian Federation Party"]
+	"Diane Olga Happ (559)" -> "Leeanne Schultz (552)" [label=5063]
+	"Diane Demetre (557)" -> "Diane Olga Happ (559)" [label=1568]
+	"Sonia Michelle Berry-Law (554)" -> "Diane Demetre (557)" [label=132]
+	"Timothy Cudmore (558)" -> "Sonia Michelle Berry-Law (554)" [label=240]
+	"James Tayler (553)" -> "Timothy Cudmore (558)" [label=80]
+	"Diane Demetre (557)" -> "Leeanne Schultz (552)" [label=847]
+	"Sonia Michelle Berry-Law (554)" -> "Leeanne Schultz (552)" [label=422]
+	"Timothy Cudmore (558)" -> "Leeanne Schultz (552)" [label=249]
+	"James Tayler (553)" -> "Leeanne Schultz (552)" [label=150]
+	"James Tayler (553)" -> "Sonia Michelle Berry-Law (554)" [label=97]
+	"Timothy Cudmore (558)" -> "Diane Demetre (557)" [label=117]
+	"James Tayler (553)" -> "Diane Demetre (557)" [label=51]
+	"Sonia Michelle Berry-Law (554)" -> "Diane Olga Happ (559)" [label=284]
+	"Timothy Cudmore (558)" -> "Diane Olga Happ (559)" [label=222]
+	"James Tayler (553)" -> "Diane Olga Happ (559)" [label=45]
+}

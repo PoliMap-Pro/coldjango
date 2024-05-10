@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Amanda Wilmot (1334)_Kingsford Smith_2019" {
+	graph [label="Kingsford Smith 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Amanda Wilmot (1334)" [label="Amanda Wilmot (1334)
+Liberal"]
+	"James Cruz (1329)" [label="James Cruz (1329)
+The Greens"]
+	"James Jansson (1332)" [label="James Jansson (1332)
+Science Party"]
+	"Adam Bruce Watson (1333)" [label="Adam Bruce Watson (1333)
+United Australia Party"]
+	"Adrian Manson (1330)" [label="Adrian Manson (1330)
+Christian Democratic Party (Fred Nile Group)"]
+	"Petra Campbell (1331)" [label="Petra Campbell (1331)
+Sustainable Australia"]
+	"James Cruz (1329)" -> "Amanda Wilmot (1334)" [label=1992]
+	"James Jansson (1332)" -> "James Cruz (1329)" [label=1080]
+	"Adam Bruce Watson (1333)" -> "James Jansson (1332)" [label=417]
+	"Adrian Manson (1330)" -> "Adam Bruce Watson (1333)" [label=233]
+	"Petra Campbell (1331)" -> "Adrian Manson (1330)" [label=60]
+	"James Jansson (1332)" -> "Amanda Wilmot (1334)" [label=692]
+	"Adam Bruce Watson (1333)" -> "Amanda Wilmot (1334)" [label=962]
+	"Adrian Manson (1330)" -> "Amanda Wilmot (1334)" [label=700]
+	"Petra Campbell (1331)" -> "Amanda Wilmot (1334)" [label=149]
+	"Petra Campbell (1331)" -> "Adam Bruce Watson (1333)" [label=114]
+	"Adrian Manson (1330)" -> "James Jansson (1332)" [label=112]
+	"Petra Campbell (1331)" -> "James Jansson (1332)" [label=350]
+	"Adam Bruce Watson (1333)" -> "James Cruz (1329)" [label=238]
+	"Adrian Manson (1330)" -> "James Cruz (1329)" [label=143]
+	"Petra Campbell (1331)" -> "James Cruz (1329)" [label=410]
+}

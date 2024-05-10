@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jason Young (4497)_Bowman_2007" {
+	graph [label="Bowman 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jason Young (4497)" [label="Jason Young (4497)
+Australian Labor Party"]
+	"Brad Scott (2295)" [label="Brad Scott (2295)
+The Greens"]
+	"Alan John Lucas (4496)" [label="Alan John Lucas (4496)
+Family First"]
+	"Paul Holland (4498)" [label="Paul Holland (4498)
+Democrats"]
+	"Dave Chidgey (3884)" [label="Dave Chidgey (3884)
+One Nation WA"]
+	"Brad Scott (2295)" -> "Jason Young (4497)" [label=3945]
+	"Alan John Lucas (4496)" -> "Brad Scott (2295)" [label=484]
+	"Paul Holland (4498)" -> "Alan John Lucas (4496)" [label=93]
+	"Dave Chidgey (3884)" -> "Paul Holland (4498)" [label=87]
+	"Alan John Lucas (4496)" -> "Jason Young (4497)" [label=561]
+	"Paul Holland (4498)" -> "Jason Young (4497)" [label=217]
+	"Dave Chidgey (3884)" -> "Jason Young (4497)" [label=79]
+	"Dave Chidgey (3884)" -> "Alan John Lucas (4496)" [label=95]
+	"Paul Holland (4498)" -> "Brad Scott (2295)" [label=314]
+	"Dave Chidgey (3884)" -> "Brad Scott (2295)" [label=77]
+}

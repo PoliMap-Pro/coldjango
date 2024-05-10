@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Andrew Nikolic (2503)_Bass_2016" {
+	graph [label="Bass 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Nikolic (2503)" [label="Andrew Nikolic (2503)
+Liberal"]
+	"Terrill Riley-Gibson (2500)" [label="Terrill Riley-Gibson (2500)
+The Greens"]
+	"Mark Tapsell (2504)" [label="Mark Tapsell (2504)
+Australian Recreational Fishers Party"]
+	"Malcolm Peter Beattie (2502)" [label="Malcolm Peter Beattie (2502)
+Christian Democratic Party (Fred Nile Group)"]
+	"Roy Ramage (2501)" [label="Roy Ramage (2501)
+Renewable Energy Party"]
+	"Terrill Riley-Gibson (2500)" -> "Andrew Nikolic (2503)" [label=1093]
+	"Mark Tapsell (2504)" -> "Terrill Riley-Gibson (2500)" [label=1041]
+	"Malcolm Peter Beattie (2502)" -> "Mark Tapsell (2504)" [label=418]
+	"Roy Ramage (2501)" -> "Malcolm Peter Beattie (2502)" [label=150]
+	"Mark Tapsell (2504)" -> "Andrew Nikolic (2503)" [label=1212]
+	"Malcolm Peter Beattie (2502)" -> "Andrew Nikolic (2503)" [label=993]
+	"Roy Ramage (2501)" -> "Andrew Nikolic (2503)" [label=149]
+	"Roy Ramage (2501)" -> "Mark Tapsell (2504)" [label=470]
+	"Malcolm Peter Beattie (2502)" -> "Terrill Riley-Gibson (2500)" [label=166]
+	"Roy Ramage (2501)" -> "Terrill Riley-Gibson (2500)" [label=504]
+}

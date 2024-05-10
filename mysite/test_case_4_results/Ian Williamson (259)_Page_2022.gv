@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Ian Williamson (259)_Page_2022" {
+	graph [label="Page 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ian Williamson (259)" [label="Ian Williamson (259)
+United Australia Party"]
+	"Brett Rodney Duroux (258)" [label="Brett Rodney Duroux (258)
+Indigenous - Aboriginal Party of Australia"]
+	"Heather Mary Smith (256)" [label="Heather Mary Smith (256)
+Australian Federation Party"]
+	"Serge Killingbeck (262)" [label="Serge Killingbeck (262)
+TNL"]
+	"Brett Rodney Duroux (258)" -> "Ian Williamson (259)" [label=129]
+	"Heather Mary Smith (256)" -> "Brett Rodney Duroux (258)" [label=70]
+	"Serge Killingbeck (262)" -> "Heather Mary Smith (256)" [label=8]
+	"Heather Mary Smith (256)" -> "Ian Williamson (259)" [label=52]
+	"Serge Killingbeck (262)" -> "Ian Williamson (259)" [label=12]
+	"Serge Killingbeck (262)" -> "Brett Rodney Duroux (258)" [label=17]
+}

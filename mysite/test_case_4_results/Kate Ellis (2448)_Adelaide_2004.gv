@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kate Ellis (2448)_Adelaide_2004" {
+	graph [label="Adelaide 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kate Ellis (2448)" [label="Kate Ellis (2448)
+Australian Labor Party"]
+	"Jake Bugden (5423)" [label="Jake Bugden (5423)
+The Greens"]
+	"Peter G Robins (5424)" [label="Peter G Robins (5424)
+Family First"]
+	"Richard Pascoe (1564)" [label="Richard Pascoe (1564)
+Australian Democrats"]
+	"Amanda Barlow (5422)" [label="Amanda Barlow (5422)
+Independent"]
+	"Jake Bugden (5423)" -> "Kate Ellis (2448)" [label=6928]
+	"Peter G Robins (5424)" -> "Jake Bugden (5423)" [label=471]
+	"Richard Pascoe (1564)" -> "Peter G Robins (5424)" [label=97]
+	"Amanda Barlow (5422)" -> "Richard Pascoe (1564)" [label=139]
+	"Peter G Robins (5424)" -> "Kate Ellis (2448)" [label=377]
+	"Richard Pascoe (1564)" -> "Kate Ellis (2448)" [label=494]
+	"Amanda Barlow (5422)" -> "Kate Ellis (2448)" [label=206]
+	"Amanda Barlow (5422)" -> "Peter G Robins (5424)" [label=96]
+	"Richard Pascoe (1564)" -> "Jake Bugden (5423)" [label=560]
+	"Amanda Barlow (5422)" -> "Jake Bugden (5423)" [label=365]
+}

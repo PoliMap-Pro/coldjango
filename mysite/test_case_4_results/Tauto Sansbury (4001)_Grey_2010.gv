@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tauto Sansbury (4001)_Grey_2010" {
+	graph [label="Grey 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tauto Sansbury (4001)" [label="Tauto Sansbury (4001)
+Australian Labor Party"]
+	"Andrew Colin Melville-Smith (4000)" [label="Andrew Colin Melville-Smith (4000)
+The Greens"]
+	"Sylvia Holland (4002)" [label="Sylvia Holland (4002)
+Family First"]
+	"Andrew Colin Melville-Smith (4000)" -> "Tauto Sansbury (4001)" [label=5755]
+	"Sylvia Holland (4002)" -> "Andrew Colin Melville-Smith (4000)" [label=1262]
+	"Sylvia Holland (4002)" -> "Tauto Sansbury (4001)" [label=1104]
+}

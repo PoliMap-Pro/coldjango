@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jackie Jarvis (4187)_Forrest_2010" {
+	graph [label="Forrest 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jackie Jarvis (4187)" [label="Jackie Jarvis (4187)
+Australian Labor Party"]
+	"Luke Petersen (4186)" [label="Luke Petersen (4186)
+The Greens"]
+	"Cale John Hill (4189)" [label="Cale John Hill (4189)
+The Nationals"]
+	"Bev Custers (3601)" [label="Bev Custers (3601)
+Family First"]
+	"Lee Herridge (4188)" [label="Lee Herridge (4188)
+Christian Democratic Party"]
+	"Luke Petersen (4186)" -> "Jackie Jarvis (4187)" [label=9451]
+	"Cale John Hill (4189)" -> "Luke Petersen (4186)" [label=1568]
+	"Bev Custers (3601)" -> "Cale John Hill (4189)" [label=616]
+	"Lee Herridge (4188)" -> "Bev Custers (3601)" [label=656]
+	"Cale John Hill (4189)" -> "Jackie Jarvis (4187)" [label=761]
+	"Bev Custers (3601)" -> "Jackie Jarvis (4187)" [label=249]
+	"Lee Herridge (4188)" -> "Jackie Jarvis (4187)" [label=72]
+	"Lee Herridge (4188)" -> "Cale John Hill (4189)" [label=86]
+	"Bev Custers (3601)" -> "Luke Petersen (4186)" [label=438]
+	"Lee Herridge (4188)" -> "Luke Petersen (4186)" [label=47]
+}

@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jenny Macklin (2642)_Jagajaga_2007" {
+	graph [label="Jagajaga 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jenny Macklin (2642)" [label="Jenny Macklin (2642)
+Australian Labor Party"]
+	"Lisa Hodgson (4833)" [label="Lisa Hodgson (4833)
+Australian Greens"]
+	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
+Family First"]
+	"Jason Graham (4834)" [label="Jason Graham (4834)
+Australian Democrats"]
+	"Stephen Lele (4832)" [label="Stephen Lele (4832)
+Citizens Electoral Council"]
+	"Lisa Hodgson (4833)" -> "Jenny Macklin (2642)" [label=8407]
+	"Andrew Conlon (3541)" -> "Lisa Hodgson (4833)" [label=408]
+	"Jason Graham (4834)" -> "Andrew Conlon (3541)" [label=95]
+	"Stephen Lele (4832)" -> "Jason Graham (4834)" [label=37]
+	"Andrew Conlon (3541)" -> "Jenny Macklin (2642)" [label=497]
+	"Jason Graham (4834)" -> "Jenny Macklin (2642)" [label=279]
+	"Stephen Lele (4832)" -> "Jenny Macklin (2642)" [label=293]
+	"Stephen Lele (4832)" -> "Andrew Conlon (3541)" [label=46]
+	"Jason Graham (4834)" -> "Lisa Hodgson (4833)" [label=406]
+	"Stephen Lele (4832)" -> "Lisa Hodgson (4833)" [label=82]
+}

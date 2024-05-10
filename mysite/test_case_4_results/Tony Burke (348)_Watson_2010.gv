@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tony Burke (348)_Watson_2010" {
+	graph [label="Watson 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Burke (348)" [label="Tony Burke (348)
+Labor"]
+	"Christine Donayre (3861)" [label="Christine Donayre (3861)
+The Greens"]
+	"Mark Sharma (3859)" [label="Mark Sharma (3859)
+Independent"]
+	"Christine Donayre (3861)" -> "Tony Burke (348)" [label=5903]
+	"Mark Sharma (3859)" -> "Christine Donayre (3861)" [label=594]
+	"Mark Sharma (3859)" -> "Tony Burke (348)" [label=783]
+}

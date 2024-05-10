@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Marika Momircevski (22)_Banks_2022" {
+	graph [label="Banks 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Marika Momircevski (22)" [label="Marika Momircevski (22)
+United Australia Party"]
+	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
+Pauline Hanson's One Nation"]
+	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
+Liberal Democrats"]
+	"Steve Khouw (24)" [label="Steve Khouw (24)
+"]
+	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
+	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
+	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
+	"Elouise Ivy Cocker (21)" -> "Marika Momircevski (22)" [label=558]
+	"Steve Khouw (24)" -> "Marika Momircevski (22)" [label=118]
+	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
+}

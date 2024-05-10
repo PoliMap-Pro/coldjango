@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Nathan Kuster (15)_Fenner_2022" {
+	graph [label="Fenner 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Nathan Kuster (15)" [label="Nathan Kuster (15)
+Liberal"]
+	"Natasa Sojic (18)" [label="Natasa Sojic (18)
+The Greens"]
+	"Lucia Grant (17)" [label="Lucia Grant (17)
+Pauline Hanson's One Nation"]
+	"Timothy Peter Elton (16)" [label="Timothy Peter Elton (16)
+United Australia Party"]
+	"Guy Jakeman (19)" [label="Guy Jakeman (19)
+Liberal Democrats"]
+	"Natasa Sojic (18)" -> "Nathan Kuster (15)" [label=2502]
+	"Lucia Grant (17)" -> "Natasa Sojic (18)" [label=1075]
+	"Timothy Peter Elton (16)" -> "Lucia Grant (17)" [label=1434]
+	"Guy Jakeman (19)" -> "Timothy Peter Elton (16)" [label=238]
+	"Lucia Grant (17)" -> "Nathan Kuster (15)" [label=2228]
+	"Timothy Peter Elton (16)" -> "Nathan Kuster (15)" [label=481]
+	"Guy Jakeman (19)" -> "Nathan Kuster (15)" [label=688]
+	"Guy Jakeman (19)" -> "Lucia Grant (17)" [label=273]
+	"Timothy Peter Elton (16)" -> "Natasa Sojic (18)" [label=318]
+	"Guy Jakeman (19)" -> "Natasa Sojic (18)" [label=252]
+}

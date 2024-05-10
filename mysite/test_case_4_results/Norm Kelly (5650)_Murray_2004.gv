@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Norm Kelly (5650)_Murray_2004" {
+	graph [label="Murray 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Norm Kelly (5650)" [label="Norm Kelly (5650)
+Australian Labor Party"]
+	"Rob Bryant (4884)" [label="Rob Bryant (4884)
+Independent"]
+	"Monica Morgan (5647)" [label="Monica Morgan (5647)
+Australian Greens"]
+	"Janine Madill (5648)" [label="Janine Madill (5648)
+Family First"]
+	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
+Independent"]
+	"Elisa Barwick (5649)" [label="Elisa Barwick (5649)
+Citizens Electoral Council"]
+	"Rob Bryant (4884)" -> "Norm Kelly (5650)" [label=3433]
+	"Monica Morgan (5647)" -> "Rob Bryant (4884)" [label=1127]
+	"Janine Madill (5648)" -> "Monica Morgan (5647)" [label=186]
+	"Diane Teasdale (2699)" -> "Janine Madill (5648)" [label=149]
+	"Elisa Barwick (5649)" -> "Diane Teasdale (2699)" [label=30]
+	"Monica Morgan (5647)" -> "Norm Kelly (5650)" [label=1052]
+	"Janine Madill (5648)" -> "Norm Kelly (5650)" [label=259]
+	"Diane Teasdale (2699)" -> "Norm Kelly (5650)" [label=185]
+	"Elisa Barwick (5649)" -> "Norm Kelly (5650)" [label=15]
+	"Elisa Barwick (5649)" -> "Janine Madill (5648)" [label=31]
+	"Diane Teasdale (2699)" -> "Monica Morgan (5647)" [label=67]
+	"Elisa Barwick (5649)" -> "Monica Morgan (5647)" [label=20]
+	"Janine Madill (5648)" -> "Rob Bryant (4884)" [label=403]
+	"Diane Teasdale (2699)" -> "Rob Bryant (4884)" [label=499]
+	"Elisa Barwick (5649)" -> "Rob Bryant (4884)" [label=20]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Francis H Pauler (4567)_Herbert_2007" {
+	graph [label="Herbert 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Francis H Pauler (4567)" [label="Francis H Pauler (4567)
+One Nation WA"]
+	"Ben Thompson (4564)" [label="Ben Thompson (4564)
+LDP"]
+	"Garrie J Lynch (4566)" [label="Garrie J Lynch (4566)
+Independent"]
+	"Sharon Sheridan (4565)" [label="Sharon Sheridan (4565)
+Democrats"]
+	"Ben Thompson (4564)" -> "Francis H Pauler (4567)" [label=55]
+	"Garrie J Lynch (4566)" -> "Ben Thompson (4564)" [label=32]
+	"Sharon Sheridan (4565)" -> "Garrie J Lynch (4566)" [label=47]
+	"Garrie J Lynch (4566)" -> "Francis H Pauler (4567)" [label=79]
+	"Sharon Sheridan (4565)" -> "Francis H Pauler (4567)" [label=27]
+	"Sharon Sheridan (4565)" -> "Ben Thompson (4564)" [label=29]
+}

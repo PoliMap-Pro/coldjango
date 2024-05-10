@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jacqui Munro (1424)_Sydney_2019" {
+	graph [label="Sydney 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jacqui Munro (1424)" [label="Jacqui Munro (1424)
+Liberal"]
+	"Matthew Thompson (1187)" [label="Matthew Thompson (1187)
+The Greens"]
+	"Aaron Hammond (1425)" [label="Aaron Hammond (1425)
+Science Party"]
+	"Adam Holt (1426)" [label="Adam Holt (1426)
+United Australia Party"]
+	"Rebecca Reddin (1427)" [label="Rebecca Reddin (1427)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matthew Thompson (1187)" -> "Jacqui Munro (1424)" [label=2433]
+	"Aaron Hammond (1425)" -> "Matthew Thompson (1187)" [label=1650]
+	"Adam Holt (1426)" -> "Aaron Hammond (1425)" [label=337]
+	"Rebecca Reddin (1427)" -> "Adam Holt (1426)" [label=177]
+	"Aaron Hammond (1425)" -> "Jacqui Munro (1424)" [label=842]
+	"Adam Holt (1426)" -> "Jacqui Munro (1424)" [label=701]
+	"Rebecca Reddin (1427)" -> "Jacqui Munro (1424)" [label=499]
+	"Rebecca Reddin (1427)" -> "Aaron Hammond (1425)" [label=69]
+	"Adam Holt (1426)" -> "Matthew Thompson (1187)" [label=239]
+	"Rebecca Reddin (1427)" -> "Matthew Thompson (1187)" [label=116]
+}

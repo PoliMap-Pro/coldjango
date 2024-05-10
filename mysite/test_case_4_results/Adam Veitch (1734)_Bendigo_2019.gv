@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Adam Veitch (1734)_Bendigo_2019" {
+	graph [label="Bendigo 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Adam Veitch (1734)" [label="Adam Veitch (1734)
+United Australia Party"]
+	"Julie Hoskin (1737)" [label="Julie Hoskin (1737)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Sharon Budde (1732)" [label="Sharon Budde (1732)
+Rise Up Australia Party"]
+	"Julie Hoskin (1737)" -> "Adam Veitch (1734)" [label=230]
+	"Sharon Budde (1732)" -> "Julie Hoskin (1737)" [label=169]
+	"Sharon Budde (1732)" -> "Adam Veitch (1734)" [label=193]
+}

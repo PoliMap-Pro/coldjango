@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Tony Zappia (660)_Makin_2007" {
+	graph [label="Makin 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Graham Smith (4682)" [label="Graham Smith (4682)
+The Greens"]
+	"Andrew Graham (4679)" [label="Andrew Graham (4679)
+Family First Party"]
+	"Aleisha Brown (4678)" [label="Aleisha Brown (4678)
+Australian Democrats"]
+	"Robert Fechner (4681)" [label="Robert Fechner (4681)
+One Nation"]
+	"Gary Vandersluis (4677)" [label="Gary Vandersluis (4677)
+LDP"]
+	"Graham Smith (4682)" -> "Tony Zappia (660)" [label=3689]
+	"Andrew Graham (4679)" -> "Graham Smith (4682)" [label=672]
+	"Aleisha Brown (4678)" -> "Andrew Graham (4679)" [label=399]
+	"Robert Fechner (4681)" -> "Aleisha Brown (4678)" [label=48]
+	"Gary Vandersluis (4677)" -> "Robert Fechner (4681)" [label=16]
+	"Andrew Graham (4679)" -> "Tony Zappia (660)" [label=1240]
+	"Aleisha Brown (4678)" -> "Tony Zappia (660)" [label=367]
+	"Robert Fechner (4681)" -> "Tony Zappia (660)" [label=111]
+	"Gary Vandersluis (4677)" -> "Tony Zappia (660)" [label=49]
+	"Gary Vandersluis (4677)" -> "Aleisha Brown (4678)" [label=228]
+	"Robert Fechner (4681)" -> "Andrew Graham (4679)" [label=85]
+	"Gary Vandersluis (4677)" -> "Andrew Graham (4679)" [label=66]
+	"Aleisha Brown (4678)" -> "Graham Smith (4682)" [label=511]
+	"Robert Fechner (4681)" -> "Graham Smith (4682)" [label=147]
+	"Gary Vandersluis (4677)" -> "Graham Smith (4682)" [label=41]
+}

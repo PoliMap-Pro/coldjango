@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jilly Pilon (1275)_Dobell_2019" {
+	graph [label="Dobell 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jilly Pilon (1275)" [label="Jilly Pilon (1275)
+Liberal"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
+	"Aaron Gregory Harpley-Carr (1273)" [label="Aaron Gregory Harpley-Carr (1273)
+United Australia Party"]
+	"Gregory Francis Stephenson (1277)" [label="Gregory Francis Stephenson (1277)
+Independent"]
+	"Paula Grundy (1274)" [label="Paula Grundy (1274)
+Christian Democratic Party (Fred Nile Group)"]
+	"Scott Rickard (1276)" -> "Jilly Pilon (1275)" [label=2468]
+	"Aaron Gregory Harpley-Carr (1273)" -> "Scott Rickard (1276)" [label=1432]
+	"Gregory Francis Stephenson (1277)" -> "Aaron Gregory Harpley-Carr (1273)" [label=1005]
+	"Paula Grundy (1274)" -> "Gregory Francis Stephenson (1277)" [label=210]
+	"Aaron Gregory Harpley-Carr (1273)" -> "Jilly Pilon (1275)" [label=3755]
+	"Gregory Francis Stephenson (1277)" -> "Jilly Pilon (1275)" [label=673]
+	"Paula Grundy (1274)" -> "Jilly Pilon (1275)" [label=987]
+	"Paula Grundy (1274)" -> "Aaron Gregory Harpley-Carr (1273)" [label=381]
+	"Gregory Francis Stephenson (1277)" -> "Scott Rickard (1276)" [label=704]
+	"Paula Grundy (1274)" -> "Scott Rickard (1276)" [label=107]
+}

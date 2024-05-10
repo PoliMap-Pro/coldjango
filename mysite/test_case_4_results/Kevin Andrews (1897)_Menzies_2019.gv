@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Kevin Andrews (1897)_Menzies_2019" {
+	graph [label="Menzies 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kevin Andrews (1897)" [label="Kevin Andrews (1897)
+Liberal"]
+	"Robert Humphreys (1901)" [label="Robert Humphreys (1901)
+The Greens (VIC)"]
+	"Teresa Mary Kelleher (1896)" [label="Teresa Mary Kelleher (1896)
+Labour DLP"]
+	"Brett Stephen Fuller (1900)" [label="Brett Stephen Fuller (1900)
+United Australia Party"]
+	"Rachel Payne (1899)" [label="Rachel Payne (1899)
+Reason Australia"]
+	"Robert Humphreys (1901)" -> "Kevin Andrews (1897)" [label=2409]
+	"Teresa Mary Kelleher (1896)" -> "Robert Humphreys (1901)" [label=699]
+	"Brett Stephen Fuller (1900)" -> "Teresa Mary Kelleher (1896)" [label=377]
+	"Rachel Payne (1899)" -> "Brett Stephen Fuller (1900)" [label=267]
+	"Teresa Mary Kelleher (1896)" -> "Kevin Andrews (1897)" [label=1472]
+	"Brett Stephen Fuller (1900)" -> "Kevin Andrews (1897)" [label=1539]
+	"Rachel Payne (1899)" -> "Kevin Andrews (1897)" [label=285]
+	"Rachel Payne (1899)" -> "Teresa Mary Kelleher (1896)" [label=201]
+	"Brett Stephen Fuller (1900)" -> "Robert Humphreys (1901)" [label=587]
+	"Rachel Payne (1899)" -> "Robert Humphreys (1901)" [label=725]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Luke Brand (4380)_New England_2007" {
+	graph [label="New England 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Luke Brand (4380)" [label="Luke Brand (4380)
+Country Labor"]
+	"Bruce Taylor (4381)" [label="Bruce Taylor (4381)
+The Greens"]
+	"Brian Dettmann (4378)" [label="Brian Dettmann (4378)
+One Nation"]
+	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
+Citizens Electoral Council"]
+	"Bruce Taylor (4381)" -> "Luke Brand (4380)" [label=1164]
+	"Brian Dettmann (4378)" -> "Bruce Taylor (4381)" [label=106]
+	"Richard Innes Witten (2947)" -> "Brian Dettmann (4378)" [label=36]
+	"Brian Dettmann (4378)" -> "Luke Brand (4380)" [label=114]
+	"Richard Innes Witten (2947)" -> "Luke Brand (4380)" [label=19]
+	"Richard Innes Witten (2947)" -> "Bruce Taylor (4381)" [label=20]
+}

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Kathryn Pollard (584)_Ryan_2022" {
+	graph [label="Ryan 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kathryn Pollard (584)" [label="Kathryn Pollard (584)
+United Australia Party"]
+	"Jina Lipman (588)" [label="Jina Lipman (588)
+Animal Justice Party"]
+	"Janine Rees (586)" [label="Janine Rees (586)
+Australian Progressives"]
+	"Axel Dancoisne (592)" [label="Axel Dancoisne (592)
+Australian Federation Party"]
+	"Jina Lipman (588)" -> "Kathryn Pollard (584)" [label=111]
+	"Janine Rees (586)" -> "Jina Lipman (588)" [label=129]
+	"Axel Dancoisne (592)" -> "Janine Rees (586)" [label=43]
+	"Janine Rees (586)" -> "Kathryn Pollard (584)" [label=40]
+	"Axel Dancoisne (592)" -> "Kathryn Pollard (584)" [label=39]
+	"Axel Dancoisne (592)" -> "Jina Lipman (588)" [label=44]
+}

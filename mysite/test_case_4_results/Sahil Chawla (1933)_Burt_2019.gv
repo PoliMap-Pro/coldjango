@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sahil Chawla (1933)_Burt_2019" {
+	graph [label="Burt 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Sahil Chawla (1933)" [label="Sahil Chawla (1933)
+United Australia Party"]
+	"Naomi Nation (1932)" [label="Naomi Nation (1932)
+Independent"]
+	"Sarcha Sagisaka (1931)" [label="Sarcha Sagisaka (1931)
+WESTERN AUSTRALIA PARTY"]
+	"Naomi Nation (1932)" -> "Sahil Chawla (1933)" [label=108]
+	"Sarcha Sagisaka (1931)" -> "Naomi Nation (1932)" [label=175]
+	"Sarcha Sagisaka (1931)" -> "Sahil Chawla (1933)" [label=75]
+}

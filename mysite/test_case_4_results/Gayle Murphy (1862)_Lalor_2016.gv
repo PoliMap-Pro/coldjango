@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Gayle Murphy (1862)_Lalor_2016" {
+	graph [label="Lalor 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gayle Murphy (1862)" [label="Gayle Murphy (1862)
+Liberal"]
+	"Daniel Sova (2658)" [label="Daniel Sova (2658)
+The Greens"]
+	"Marion Vale (2657)" [label="Marion Vale (2657)
+Rise Up Australia Party"]
+	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
+Australia First Party"]
+	"Daniel Sova (2658)" -> "Gayle Murphy (1862)" [label=3097]
+	"Marion Vale (2657)" -> "Daniel Sova (2658)" [label=1504]
+	"Susan Jakobi (1861)" -> "Marion Vale (2657)" [label=1753]
+	"Marion Vale (2657)" -> "Gayle Murphy (1862)" [label=2395]
+	"Susan Jakobi (1861)" -> "Gayle Murphy (1862)" [label=467]
+	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
+}

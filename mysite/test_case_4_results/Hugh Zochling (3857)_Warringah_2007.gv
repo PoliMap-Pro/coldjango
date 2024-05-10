@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Hugh Zochling (3857)_Warringah_2007" {
+	graph [label="Warringah 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Hugh Zochling (3857)" [label="Hugh Zochling (3857)
+Labor"]
+	"Conny Harris (4455)" [label="Conny Harris (4455)
+The Greens"]
+	"Patricia Petersen (2285)" [label="Patricia Petersen (2285)
+Independent"]
+	"Georgina Johanson (4456)" [label="Georgina Johanson (4456)
+Democrats"]
+	"Bill Mccudden (4459)" [label="Bill Mccudden (4459)
+Christian Democratic Party (Fred Nile Group)"]
+	"Goronwy Price (4458)" [label="Goronwy Price (4458)
+Conservatives for Climate and Environment"]
+	"Brent Middleton (4457)" [label="Brent Middleton (4457)
+Family First"]
+	"Conny Harris (4455)" -> "Hugh Zochling (3857)" [label=9872]
+	"Patricia Petersen (2285)" -> "Conny Harris (4455)" [label=1059]
+	"Georgina Johanson (4456)" -> "Patricia Petersen (2285)" [label=338]
+	"Bill Mccudden (4459)" -> "Georgina Johanson (4456)" [label=56]
+	"Goronwy Price (4458)" -> "Bill Mccudden (4459)" [label=29]
+	"Brent Middleton (4457)" -> "Goronwy Price (4458)" [label=59]
+	"Patricia Petersen (2285)" -> "Hugh Zochling (3857)" [label=609]
+	"Georgina Johanson (4456)" -> "Hugh Zochling (3857)" [label=229]
+	"Bill Mccudden (4459)" -> "Hugh Zochling (3857)" [label=229]
+	"Goronwy Price (4458)" -> "Hugh Zochling (3857)" [label=140]
+	"Brent Middleton (4457)" -> "Hugh Zochling (3857)" [label=68]
+	"Brent Middleton (4457)" -> "Bill Mccudden (4459)" [label=70]
+	"Goronwy Price (4458)" -> "Georgina Johanson (4456)" [label=44]
+	"Brent Middleton (4457)" -> "Georgina Johanson (4456)" [label=19]
+	"Bill Mccudden (4459)" -> "Patricia Petersen (2285)" [label=113]
+	"Goronwy Price (4458)" -> "Patricia Petersen (2285)" [label=97]
+	"Brent Middleton (4457)" -> "Patricia Petersen (2285)" [label=62]
+	"Georgina Johanson (4456)" -> "Conny Harris (4455)" [label=471]
+	"Bill Mccudden (4459)" -> "Conny Harris (4455)" [label=99]
+	"Goronwy Price (4458)" -> "Conny Harris (4455)" [label=248]
+	"Brent Middleton (4457)" -> "Conny Harris (4455)" [label=64]
+}

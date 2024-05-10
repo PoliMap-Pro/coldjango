@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Kevin Rudd (3130)_Griffith_2010" {
+	graph [label="Griffith 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kevin Rudd (3130)" [label="Kevin Rudd (3130)
+Australian Labor Party"]
+	"Emma-Kate Rose (3920)" [label="Emma-Kate Rose (3920)
+The Greens"]
+	"Gregory Romans (3916)" [label="Gregory Romans (3916)
+Liberal Democrats (LDP)"]
+	"Jesse Alexander Webb (3918)" [label="Jesse Alexander Webb (3918)
+Family First"]
+	"Hamish Chitts (3917)" [label="Hamish Chitts (3917)
+"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Emma-Kate Rose (3920)" -> "Kevin Rudd (3130)" [label=10810]
+	"Gregory Romans (3916)" -> "Emma-Kate Rose (3920)" [label=390]
+	"Jesse Alexander Webb (3918)" -> "Gregory Romans (3916)" [label=234]
+	"Hamish Chitts (3917)" -> "Jesse Alexander Webb (3918)" [label=130]
+	"Jan Pukallus (3123)" -> "Hamish Chitts (3917)" [label=41]
+	"Gregory Romans (3916)" -> "Kevin Rudd (3130)" [label=368]
+	"Jesse Alexander Webb (3918)" -> "Kevin Rudd (3130)" [label=258]
+	"Hamish Chitts (3917)" -> "Kevin Rudd (3130)" [label=98]
+	"Jan Pukallus (3123)" -> "Kevin Rudd (3130)" [label=28]
+	"Jan Pukallus (3123)" -> "Jesse Alexander Webb (3918)" [label=31]
+	"Hamish Chitts (3917)" -> "Gregory Romans (3916)" [label=144]
+	"Jan Pukallus (3123)" -> "Gregory Romans (3916)" [label=12]
+	"Jesse Alexander Webb (3918)" -> "Emma-Kate Rose (3920)" [label=239]
+	"Hamish Chitts (3917)" -> "Emma-Kate Rose (3920)" [label=202]
+	"Jan Pukallus (3123)" -> "Emma-Kate Rose (3920)" [label=45]
+}

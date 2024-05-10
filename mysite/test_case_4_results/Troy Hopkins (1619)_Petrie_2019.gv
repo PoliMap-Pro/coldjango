@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Troy Hopkins (1619)_Petrie_2019" {
+	graph [label="Petrie 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Troy Hopkins (1619)" [label="Troy Hopkins (1619)
+United Australia Party"]
+	"Neville John Fowler (1622)" [label="Neville John Fowler (1622)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Neville John Fowler (1622)" -> "Troy Hopkins (1619)" [label=261]
+}

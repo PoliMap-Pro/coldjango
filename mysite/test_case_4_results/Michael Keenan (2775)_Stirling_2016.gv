@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Michael Keenan (2775)_Stirling_2016" {
+	graph [label="Stirling 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Keenan (2775)" [label="Michael Keenan (2775)
+Liberal"]
+	"Tom Webster (2776)" [label="Tom Webster (2776)
+The Greens (WA)"]
+	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
+Independent"]
+	"Kevin Host (2006)" [label="Kevin Host (2006)
+Australian Christians"]
+	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
+Rise Up Australia Party"]
+	"Tom Webster (2776)" -> "Michael Keenan (2775)" [label=2444]
+	"Kim Mubarak (2773)" -> "Tom Webster (2776)" [label=977]
+	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
+	"Alison L Rowe (2774)" -> "Kevin Host (2006)" [label=343]
+	"Kim Mubarak (2773)" -> "Michael Keenan (2775)" [label=1384]
+	"Kevin Host (2006)" -> "Michael Keenan (2775)" [label=1401]
+	"Alison L Rowe (2774)" -> "Michael Keenan (2775)" [label=300]
+	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
+	"Kevin Host (2006)" -> "Tom Webster (2776)" [label=194]
+	"Alison L Rowe (2774)" -> "Tom Webster (2776)" [label=124]
+}

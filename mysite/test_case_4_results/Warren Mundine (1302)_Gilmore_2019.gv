@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Warren Mundine (1302)_Gilmore_2019" {
+	graph [label="Gilmore 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Warren Mundine (1302)" [label="Warren Mundine (1302)
+Liberal"]
+	"Katrina Hodgkinson (1301)" [label="Katrina Hodgkinson (1301)
+The Nationals"]
+	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
+The Greens"]
+	"Grant Schultz (1298)" [label="Grant Schultz (1298)
+Independent"]
+	"Milton Leslight (1299)" [label="Milton Leslight (1299)
+United Australia Party"]
+	"Serah Kolukulapally (1300)" [label="Serah Kolukulapally (1300)
+Christian Democratic Party (Fred Nile Group)"]
+	"Katrina Hodgkinson (1301)" -> "Warren Mundine (1302)" [label=14926]
+	"Carmel Mary Mccallum (1297)" -> "Katrina Hodgkinson (1301)" [label=1922]
+	"Grant Schultz (1298)" -> "Carmel Mary Mccallum (1297)" [label=1720]
+	"Milton Leslight (1299)" -> "Grant Schultz (1298)" [label=1293]
+	"Serah Kolukulapally (1300)" -> "Milton Leslight (1299)" [label=177]
+	"Carmel Mary Mccallum (1297)" -> "Warren Mundine (1302)" [label=1181]
+	"Grant Schultz (1298)" -> "Warren Mundine (1302)" [label=1795]
+	"Milton Leslight (1299)" -> "Warren Mundine (1302)" [label=935]
+	"Serah Kolukulapally (1300)" -> "Warren Mundine (1302)" [label=761]
+	"Serah Kolukulapally (1300)" -> "Grant Schultz (1298)" [label=266]
+	"Milton Leslight (1299)" -> "Carmel Mary Mccallum (1297)" [label=356]
+	"Serah Kolukulapally (1300)" -> "Carmel Mary Mccallum (1297)" [label=96]
+	"Grant Schultz (1298)" -> "Katrina Hodgkinson (1301)" [label=3352]
+	"Milton Leslight (1299)" -> "Katrina Hodgkinson (1301)" [label=675]
+	"Serah Kolukulapally (1300)" -> "Katrina Hodgkinson (1301)" [label=367]
+}

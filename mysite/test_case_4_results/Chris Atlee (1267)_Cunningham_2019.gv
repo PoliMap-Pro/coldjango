@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Atlee (1267)_Cunningham_2019" {
+	graph [label="Cunningham 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chris Atlee (1267)" [label="Chris Atlee (1267)
+Liberal"]
+	"Rowan Huxtable (1268)" [label="Rowan Huxtable (1268)
+The Greens"]
+	"Grace Louise Younger (1272)" [label="Grace Louise Younger (1272)
+United Australia Party"]
+	"John Gill (1271)" [label="John Gill (1271)
+Sustainable Australia"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party (Equal Parenting)"]
+	"Rowan Huxtable (1268)" -> "Chris Atlee (1267)" [label=2685]
+	"Grace Louise Younger (1272)" -> "Rowan Huxtable (1268)" [label=975]
+	"John Gill (1271)" -> "Grace Louise Younger (1272)" [label=737]
+	"John Flanagan (1270)" -> "John Gill (1271)" [label=420]
+	"Grace Louise Younger (1272)" -> "Chris Atlee (1267)" [label=2247]
+	"John Gill (1271)" -> "Chris Atlee (1267)" [label=470]
+	"John Flanagan (1270)" -> "Chris Atlee (1267)" [label=262]
+	"John Flanagan (1270)" -> "Grace Louise Younger (1272)" [label=192]
+	"John Gill (1271)" -> "Rowan Huxtable (1268)" [label=910]
+	"John Flanagan (1270)" -> "Rowan Huxtable (1268)" [label=118]
+}

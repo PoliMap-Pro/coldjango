@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Rodney Cocks (4839)_La Trobe_2007" {
+	graph [label="La Trobe 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rodney Cocks (4839)" [label="Rodney Cocks (4839)
+Australian Labor Party"]
+	"Bree Taylor (4840)" [label="Bree Taylor (4840)
+Australian Greens"]
+	"Jim Zubic (4841)" [label="Jim Zubic (4841)
+Family First"]
+	"Craig Beale (4844)" [label="Craig Beale (4844)
+Australian Democrats"]
+	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
+Citizens Electoral Council"]
+	"Surome Singh (4843)" [label="Surome Singh (4843)
+LDP"]
+	"Bree Taylor (4840)" -> "Rodney Cocks (4839)" [label=6988]
+	"Jim Zubic (4841)" -> "Bree Taylor (4840)" [label=604]
+	"Craig Beale (4844)" -> "Jim Zubic (4841)" [label=158]
+	"Kurt Beilharz (4842)" -> "Craig Beale (4844)" [label=43]
+	"Surome Singh (4843)" -> "Kurt Beilharz (4842)" [label=12]
+	"Jim Zubic (4841)" -> "Rodney Cocks (4839)" [label=500]
+	"Craig Beale (4844)" -> "Rodney Cocks (4839)" [label=239]
+	"Kurt Beilharz (4842)" -> "Rodney Cocks (4839)" [label=22]
+	"Surome Singh (4843)" -> "Rodney Cocks (4839)" [label=9]
+	"Surome Singh (4843)" -> "Craig Beale (4844)" [label=16]
+	"Kurt Beilharz (4842)" -> "Jim Zubic (4841)" [label=39]
+	"Surome Singh (4843)" -> "Jim Zubic (4841)" [label=13]
+	"Craig Beale (4844)" -> "Bree Taylor (4840)" [label=460]
+	"Kurt Beilharz (4842)" -> "Bree Taylor (4840)" [label=27]
+	"Surome Singh (4843)" -> "Bree Taylor (4840)" [label=11]
+}

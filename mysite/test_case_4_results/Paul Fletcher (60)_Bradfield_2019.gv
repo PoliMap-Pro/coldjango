@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Paul Fletcher (60)_Bradfield_2019" {
+	graph [label="Bradfield 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Paul Fletcher (60)" [label="Paul Fletcher (60)
+Liberal"]
+	"Tony Adams (33)" [label="Tony Adams (33)
+The Greens"]
+	"Stephen Molloy (1242)" [label="Stephen Molloy (1242)
+Sustainable Australia"]
+	"Marcus Versace (1241)" [label="Marcus Versace (1241)
+United Australia Party"]
+	"Tony Adams (33)" -> "Paul Fletcher (60)" [label=3724]
+	"Stephen Molloy (1242)" -> "Tony Adams (33)" [label=1223]
+	"Marcus Versace (1241)" -> "Stephen Molloy (1242)" [label=454]
+	"Stephen Molloy (1242)" -> "Paul Fletcher (60)" [label=1280]
+	"Marcus Versace (1241)" -> "Paul Fletcher (60)" [label=986]
+	"Marcus Versace (1241)" -> "Tony Adams (33)" [label=170]
+}

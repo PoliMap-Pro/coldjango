@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Chandra Singh (1283)_Eden-Monaro_2019" {
+	graph [label="Eden-Monaro 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Chandra Singh (1283)" [label="Chandra Singh (1283)
+United Australia Party"]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"James Holgate (101)" -> "Chandra Singh (1283)" [label=304]
+	"Thomas Harris (1282)" -> "James Holgate (101)" [label=122]
+	"Thomas Harris (1282)" -> "Chandra Singh (1283)" [label=215]
+}

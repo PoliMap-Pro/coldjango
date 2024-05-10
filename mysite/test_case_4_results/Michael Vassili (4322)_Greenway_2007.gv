@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Vassili (4322)_Greenway_2007" {
+	graph [label="Greenway 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Vassili (4322)" [label="Michael Vassili (4322)
+Labor"]
+	"Leigh Williams (4324)" [label="Leigh Williams (4324)
+The Greens"]
+	"John Phillips (3775)" [label="John Phillips (3775)
+Christian Democratic Party (Fred Nile Group)"]
+	"F Ivor (4321)" [label="F Ivor (4321)
+Independent"]
+	"Joanne Muller (4325)" [label="Joanne Muller (4325)
+Family First"]
+	"Goran Reves (4323)" [label="Goran Reves (4323)
+Citizens Electoral Council"]
+	"Leigh Williams (4324)" -> "Michael Vassili (4322)" [label=4124]
+	"John Phillips (3775)" -> "Leigh Williams (4324)" [label=427]
+	"F Ivor (4321)" -> "John Phillips (3775)" [label=132]
+	"Joanne Muller (4325)" -> "F Ivor (4321)" [label=177]
+	"Goran Reves (4323)" -> "Joanne Muller (4325)" [label=24]
+	"John Phillips (3775)" -> "Michael Vassili (4322)" [label=470]
+	"F Ivor (4321)" -> "Michael Vassili (4322)" [label=760]
+	"Joanne Muller (4325)" -> "Michael Vassili (4322)" [label=268]
+	"Goran Reves (4323)" -> "Michael Vassili (4322)" [label=46]
+	"Goran Reves (4323)" -> "F Ivor (4321)" [label=40]
+	"Joanne Muller (4325)" -> "John Phillips (3775)" [label=240]
+	"Goran Reves (4323)" -> "John Phillips (3775)" [label=37]
+	"F Ivor (4321)" -> "Leigh Williams (4324)" [label=332]
+	"Joanne Muller (4325)" -> "Leigh Williams (4324)" [label=399]
+	"Goran Reves (4323)" -> "Leigh Williams (4324)" [label=17]
+}

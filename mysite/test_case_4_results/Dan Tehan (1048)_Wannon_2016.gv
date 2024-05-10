@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Dan Tehan (1048)_Wannon_2016" {
+	graph [label="Wannon 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dan Tehan (1048)" [label="Dan Tehan (1048)
+Liberal"]
+	"Thomas Campbell (2708)" [label="Thomas Campbell (2708)
+The Greens"]
+	"Michael John Mccluskey (2710)" [label="Michael John Mccluskey (2710)
+Independent"]
+	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
+Independent"]
+	"Thomas Campbell (2708)" -> "Dan Tehan (1048)" [label=2280]
+	"Michael John Mccluskey (2710)" -> "Thomas Campbell (2708)" [label=1938]
+	"Bernardine Atkinson (2709)" -> "Michael John Mccluskey (2710)" [label=2342]
+	"Michael John Mccluskey (2710)" -> "Dan Tehan (1048)" [label=2519]
+	"Bernardine Atkinson (2709)" -> "Dan Tehan (1048)" [label=313]
+	"Bernardine Atkinson (2709)" -> "Thomas Campbell (2708)" [label=165]
+}

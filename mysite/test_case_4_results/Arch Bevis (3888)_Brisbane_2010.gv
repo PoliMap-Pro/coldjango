@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Arch Bevis (3888)_Brisbane_2010" {
+	graph [label="Brisbane 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Arch Bevis (3888)" [label="Arch Bevis (3888)
+Australian Labor Party"]
+	"Andrew Bartlett (1489)" [label="Andrew Bartlett (1489)
+The Greens"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
+	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
+Socialist Alliance"]
+	"Andrew Bartlett (1489)" -> "Arch Bevis (3888)" [label=14601]
+	"Mark A White (2420)" -> "Andrew Bartlett (1489)" [label=410]
+	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=121]
+	"Mark A White (2420)" -> "Arch Bevis (3888)" [label=261]
+	"Ewan Saunders (3887)" -> "Arch Bevis (3888)" [label=124]
+	"Ewan Saunders (3887)" -> "Andrew Bartlett (1489)" [label=419]
+}

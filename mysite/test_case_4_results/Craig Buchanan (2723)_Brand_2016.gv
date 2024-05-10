@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Craig Buchanan (2723)_Brand_2016" {
+	graph [label="Brand 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Buchanan (2723)" [label="Craig Buchanan (2723)
+Liberal"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens (WA)"]
+	"Philip Scott (2720)" [label="Philip Scott (2720)
+Rise Up Australia Party"]
+	"Robert Burdett (2721)" [label="Robert Burdett (2721)
+Australian Christians"]
+	"Dawn Jecks (2722)" -> "Craig Buchanan (2723)" [label=2695]
+	"Philip Scott (2720)" -> "Dawn Jecks (2722)" [label=1469]
+	"Robert Burdett (2721)" -> "Philip Scott (2720)" [label=1267]
+	"Philip Scott (2720)" -> "Craig Buchanan (2723)" [label=2173]
+	"Robert Burdett (2721)" -> "Craig Buchanan (2723)" [label=805]
+	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=299]
+}

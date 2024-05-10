@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Dave Sharma (357)_Wentworth_2019" {
+	graph [label="Wentworth 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dave Sharma (357)" [label="Dave Sharma (357)
+Liberal"]
+	"Tim Murray (351)" [label="Tim Murray (351)
+Labor"]
+	"Dominic Wy Kanak (1444)" [label="Dominic Wy Kanak (1444)
+The Greens"]
+	"Michael John Bloomfield (1442)" [label="Michael John Bloomfield (1442)
+United Australia Party"]
+	"Matthew Drake-Brockman (1441)" [label="Matthew Drake-Brockman (1441)
+Independent"]
+	"Paul Treacy (1443)" [label="Paul Treacy (1443)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tim Murray (351)" -> "Dave Sharma (357)" [label=2270]
+	"Dominic Wy Kanak (1444)" -> "Tim Murray (351)" [label=2299]
+	"Michael John Bloomfield (1442)" -> "Dominic Wy Kanak (1444)" [label=80]
+	"Matthew Drake-Brockman (1441)" -> "Michael John Bloomfield (1442)" [label=59]
+	"Paul Treacy (1443)" -> "Matthew Drake-Brockman (1441)" [label=31]
+	"Dominic Wy Kanak (1444)" -> "Dave Sharma (357)" [label=566]
+	"Michael John Bloomfield (1442)" -> "Dave Sharma (357)" [label=418]
+	"Matthew Drake-Brockman (1441)" -> "Dave Sharma (357)" [label=64]
+	"Paul Treacy (1443)" -> "Dave Sharma (357)" [label=157]
+	"Paul Treacy (1443)" -> "Michael John Bloomfield (1442)" [label=87]
+	"Matthew Drake-Brockman (1441)" -> "Dominic Wy Kanak (1444)" [label=74]
+	"Paul Treacy (1443)" -> "Dominic Wy Kanak (1444)" [label=22]
+	"Michael John Bloomfield (1442)" -> "Tim Murray (351)" [label=108]
+	"Matthew Drake-Brockman (1441)" -> "Tim Murray (351)" [label=185]
+	"Paul Treacy (1443)" -> "Tim Murray (351)" [label=27]
+}

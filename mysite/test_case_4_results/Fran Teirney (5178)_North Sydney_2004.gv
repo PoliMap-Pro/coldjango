@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Fran Teirney (5178)_North Sydney_2004" {
+	graph [label="North Sydney 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Fran Teirney (5178)" [label="Fran Teirney (5178)
+Australian Labor Party"]
+	"Ted Nixon (4391)" [label="Ted Nixon (4391)
+The Greens"]
+	"Edwina Mary Cowdery (5179)" [label="Edwina Mary Cowdery (5179)
+Independent"]
+	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
+Australian Democrats"]
+	"Ted Nixon (4391)" -> "Fran Teirney (5178)" [label=9358]
+	"Edwina Mary Cowdery (5179)" -> "Ted Nixon (4391)" [label=842]
+	"Jan De Voogd (5180)" -> "Edwina Mary Cowdery (5179)" [label=286]
+	"Edwina Mary Cowdery (5179)" -> "Fran Teirney (5178)" [label=582]
+	"Jan De Voogd (5180)" -> "Fran Teirney (5178)" [label=250]
+	"Jan De Voogd (5180)" -> "Ted Nixon (4391)" [label=634]
+}

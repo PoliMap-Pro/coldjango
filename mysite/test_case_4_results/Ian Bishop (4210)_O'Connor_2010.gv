@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Ian Bishop (4210)_O'Connor_2010" {
+	graph [label="O'Connor 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ian Bishop (4210)" [label="Ian Bishop (4210)
+Australian Labor Party"]
+	"Andy Huntley (4204)" [label="Andy Huntley (4204)
+The Greens"]
+	"Jacky Young (4207)" [label="Jacky Young (4207)
+Christian Democratic Party"]
+	"Geoffrey Stokes (4209)" [label="Geoffrey Stokes (4209)
+Independent"]
+	"Pat Scallan (4206)" [label="Pat Scallan (4206)
+Family First"]
+	"Neil Ramsay Smithson (4211)" [label="Neil Ramsay Smithson (4211)
+Independent"]
+	"Jean Robinson (3629)" [label="Jean Robinson (3629)
+Citizens Electoral Council"]
+	"Andy Huntley (4204)" -> "Ian Bishop (4210)" [label=4438]
+	"Jacky Young (4207)" -> "Andy Huntley (4204)" [label=307]
+	"Geoffrey Stokes (4209)" -> "Jacky Young (4207)" [label=238]
+	"Pat Scallan (4206)" -> "Geoffrey Stokes (4209)" [label=137]
+	"Neil Ramsay Smithson (4211)" -> "Pat Scallan (4206)" [label=27]
+	"Jean Robinson (3629)" -> "Neil Ramsay Smithson (4211)" [label=25]
+	"Jacky Young (4207)" -> "Ian Bishop (4210)" [label=196]
+	"Geoffrey Stokes (4209)" -> "Ian Bishop (4210)" [label=385]
+	"Pat Scallan (4206)" -> "Ian Bishop (4210)" [label=120]
+	"Neil Ramsay Smithson (4211)" -> "Ian Bishop (4210)" [label=105]
+	"Jean Robinson (3629)" -> "Ian Bishop (4210)" [label=33]
+	"Jean Robinson (3629)" -> "Pat Scallan (4206)" [label=72]
+	"Neil Ramsay Smithson (4211)" -> "Geoffrey Stokes (4209)" [label=220]
+	"Jean Robinson (3629)" -> "Geoffrey Stokes (4209)" [label=19]
+	"Pat Scallan (4206)" -> "Jacky Young (4207)" [label=350]
+	"Neil Ramsay Smithson (4211)" -> "Jacky Young (4207)" [label=17]
+	"Jean Robinson (3629)" -> "Jacky Young (4207)" [label=37]
+	"Geoffrey Stokes (4209)" -> "Andy Huntley (4204)" [label=445]
+	"Pat Scallan (4206)" -> "Andy Huntley (4204)" [label=226]
+	"Neil Ramsay Smithson (4211)" -> "Andy Huntley (4204)" [label=66]
+	"Jean Robinson (3629)" -> "Andy Huntley (4204)" [label=85]
+}

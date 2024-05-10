@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Craig Kelly (152)_Hughes_2022" {
+	graph [label="Hughes 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Kelly (152)" [label="Craig Kelly (152)
+United Australia Party"]
+	"Pete Thompson (150)" [label="Pete Thompson (150)
+The Greens"]
+	"Linda Seymour (154)" [label="Linda Seymour (154)
+Independent"]
+	"Narelle Seymour (153)" [label="Narelle Seymour (153)
+Pauline Hanson's One Nation"]
+	"Pete Thompson (150)" -> "Craig Kelly (152)" [label=290]
+	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
+	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
+	"Linda Seymour (154)" -> "Craig Kelly (152)" [label=225]
+	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
+	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
+}

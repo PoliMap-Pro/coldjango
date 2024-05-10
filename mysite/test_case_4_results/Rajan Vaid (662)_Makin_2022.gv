@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Rajan Vaid (662)_Makin_2022" {
+	graph [label="Makin 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rajan Vaid (662)" [label="Rajan Vaid (662)
+Pauline Hanson's One Nation"]
+	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
+United Australia Party"]
+	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
+Australian Federation Party"]
+	"Kimberley Drozdoff (661)" -> "Rajan Vaid (662)" [label=2892]
+	"Abram Nicholas Lazootin (659)" -> "Kimberley Drozdoff (661)" [label=441]
+	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
+}

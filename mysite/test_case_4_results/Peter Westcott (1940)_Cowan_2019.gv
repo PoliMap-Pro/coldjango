@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Peter Westcott (1940)_Cowan_2019" {
+	graph [label="Cowan 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Peter Westcott (1940)" [label="Peter Westcott (1940)
+United Australia Party"]
+	"Andre Lebrasse (1941)" [label="Andre Lebrasse (1941)
+Australian Christians"]
+	"Paul James Bedford (1943)" [label="Paul James Bedford (1943)
+Shooters, Fishers and Farmers"]
+	"Andre Lebrasse (1941)" -> "Peter Westcott (1940)" [label=242]
+	"Paul James Bedford (1943)" -> "Andre Lebrasse (1941)" [label=126]
+	"Paul James Bedford (1943)" -> "Peter Westcott (1940)" [label=184]
+}

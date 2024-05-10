@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Andrew Nikolic (2503)_Bass_2013" {
+	graph [label="Bass 2013" labelloc=t mclimit=2]
+	node [shape=box]
+	"Andrew Nikolic (2503)" [label="Andrew Nikolic (2503)
+Liberal"]
+	"Lucy Landon-Lane (3288)" [label="Lucy Landon-Lane (3288)
+Australian Greens"]
+	"Christopher Lee Dobson (3285)" [label="Christopher Lee Dobson (3285)
+Palmer United Party"]
+	"Christine Bergman (3286)" [label="Christine Bergman (3286)
+Family First"]
+	"Ray Kroeze (3284)" [label="Ray Kroeze (3284)
+Australian Christians"]
+	"Jin-Oh Choi (3289)" [label="Jin-Oh Choi (3289)
+Secular Party of Australia"]
+	"Lucy Landon-Lane (3288)" -> "Andrew Nikolic (2503)" [label=1029]
+	"Christopher Lee Dobson (3285)" -> "Lucy Landon-Lane (3288)" [label=522]
+	"Christine Bergman (3286)" -> "Christopher Lee Dobson (3285)" [label=421]
+	"Ray Kroeze (3284)" -> "Christine Bergman (3286)" [label=313]
+	"Jin-Oh Choi (3289)" -> "Ray Kroeze (3284)" [label=24]
+	"Christopher Lee Dobson (3285)" -> "Andrew Nikolic (2503)" [label=1784]
+	"Christine Bergman (3286)" -> "Andrew Nikolic (2503)" [label=718]
+	"Ray Kroeze (3284)" -> "Andrew Nikolic (2503)" [label=461]
+	"Jin-Oh Choi (3289)" -> "Andrew Nikolic (2503)" [label=51]
+	"Jin-Oh Choi (3289)" -> "Christine Bergman (3286)" [label=40]
+	"Ray Kroeze (3284)" -> "Christopher Lee Dobson (3285)" [label=87]
+	"Jin-Oh Choi (3289)" -> "Christopher Lee Dobson (3285)" [label=34]
+	"Christine Bergman (3286)" -> "Lucy Landon-Lane (3288)" [label=166]
+	"Ray Kroeze (3284)" -> "Lucy Landon-Lane (3288)" [label=38]
+	"Jin-Oh Choi (3289)" -> "Lucy Landon-Lane (3288)" [label=153]
+}

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jill Tindal (1056)_Wills_2022" {
+	graph [label="Wills 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Jill Tindal (1056)" [label="Jill Tindal (1056)
+Pauline Hanson's One Nation"]
+	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
+Animal Justice Party"]
+	"Sam Sergi (1058)" [label="Sam Sergi (1058)
+Australian Federation Party"]
+	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
+	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
+	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Michael John Hatton (5019)_Blaxland_2004" {
+	graph [label="Blaxland 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael John Hatton (5019)" [label="Michael John Hatton (5019)
+Australian Labor Party"]
+	"Marlene Marquez-Obeid (5022)" [label="Marlene Marquez-Obeid (5022)
+The Greens"]
+	"Bob Vinnicombe (3695)" [label="Bob Vinnicombe (3695)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Matthew Squires (5018)" [label="Matthew Squires (5018)
+Christian Democratic Party (Fred Nile Group)"]
+	"Martine Eve-Macleod (5020)" [label="Martine Eve-Macleod (5020)
+Australian Democrats"]
+	"Raul Bassi (4263)" [label="Raul Bassi (4263)
+Socialist Alliance"]
+	"Terry Boath (5021)" [label="Terry Boath (5021)
+Citizens Electoral Council"]
+	"Marlene Marquez-Obeid (5022)" -> "Michael John Hatton (5019)" [label=3099]
+	"Bob Vinnicombe (3695)" -> "Marlene Marquez-Obeid (5022)" [label=446]
+	"Matthew Squires (5018)" -> "Bob Vinnicombe (3695)" [label=427]
+	"Martine Eve-Macleod (5020)" -> "Matthew Squires (5018)" [label=86]
+	"Raul Bassi (4263)" -> "Martine Eve-Macleod (5020)" [label=48]
+	"Terry Boath (5021)" -> "Raul Bassi (4263)" [label=47]
+	"Bob Vinnicombe (3695)" -> "Michael John Hatton (5019)" [label=2183]
+	"Matthew Squires (5018)" -> "Michael John Hatton (5019)" [label=561]
+	"Martine Eve-Macleod (5020)" -> "Michael John Hatton (5019)" [label=306]
+	"Raul Bassi (4263)" -> "Michael John Hatton (5019)" [label=80]
+	"Terry Boath (5021)" -> "Michael John Hatton (5019)" [label=37]
+	"Terry Boath (5021)" -> "Martine Eve-Macleod (5020)" [label=17]
+	"Raul Bassi (4263)" -> "Matthew Squires (5018)" [label=34]
+	"Terry Boath (5021)" -> "Matthew Squires (5018)" [label=18]
+	"Martine Eve-Macleod (5020)" -> "Bob Vinnicombe (3695)" [label=120]
+	"Raul Bassi (4263)" -> "Bob Vinnicombe (3695)" [label=34]
+	"Terry Boath (5021)" -> "Bob Vinnicombe (3695)" [label=30]
+	"Matthew Squires (5018)" -> "Marlene Marquez-Obeid (5022)" [label=176]
+	"Martine Eve-Macleod (5020)" -> "Marlene Marquez-Obeid (5022)" [label=234]
+	"Raul Bassi (4263)" -> "Marlene Marquez-Obeid (5022)" [label=268]
+	"Terry Boath (5021)" -> "Marlene Marquez-Obeid (5022)" [label=49]
+}

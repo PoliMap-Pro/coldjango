@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Scott Ford (217)_McMahon_2022" {
+	graph [label="McMahon 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Scott Ford (217)" [label="Scott Ford (217)
+Pauline Hanson's One Nation"]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
+Liberal Democrats"]
+	"Astrid O'Neill (219)" -> "Scott Ford (217)" [label=359]
+	"Cameron Shamsabad (220)" -> "Astrid O'Neill (219)" [label=314]
+	"Cameron Shamsabad (220)" -> "Scott Ford (217)" [label=722]
+}

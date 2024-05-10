@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Chris Haviland (1243)_Bradfield_2013" {
+	graph [label="Bradfield 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chris Haviland (1243)" [label="Chris Haviland (1243)
+Labor"]
+	"Pippa Mcinnes (2824)" [label="Pippa Mcinnes (2824)
+The Greens"]
+	"Blake Buchanan (2821)" [label="Blake Buchanan (2821)
+Palmer United Party"]
+	"John Archer (2823)" [label="John Archer (2823)
+Christian Democratic Party (Fred Nile Group)"]
+	"Paul Harrold (2822)" [label="Paul Harrold (2822)
+Democratic Labour Party (DLP)"]
+	"Pippa Mcinnes (2824)" -> "Chris Haviland (1243)" [label=9447]
+	"Blake Buchanan (2821)" -> "Pippa Mcinnes (2824)" [label=604]
+	"John Archer (2823)" -> "Blake Buchanan (2821)" [label=253]
+	"Paul Harrold (2822)" -> "John Archer (2823)" [label=180]
+	"Blake Buchanan (2821)" -> "Chris Haviland (1243)" [label=1058]
+	"John Archer (2823)" -> "Chris Haviland (1243)" [label=338]
+	"Paul Harrold (2822)" -> "Chris Haviland (1243)" [label=350]
+	"Paul Harrold (2822)" -> "Blake Buchanan (2821)" [label=184]
+	"John Archer (2823)" -> "Pippa Mcinnes (2824)" [label=158]
+	"Paul Harrold (2822)" -> "Pippa Mcinnes (2824)" [label=113]
+}

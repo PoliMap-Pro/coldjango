@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Dan Tehan (1048)_Wannon_2022" {
+	graph [label="Wannon 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dan Tehan (1048)" [label="Dan Tehan (1048)
+Liberal"]
+	"Gilbert Wilson (1054)" [label="Gilbert Wilson (1054)
+Australian Labor Party"]
+	"Hilary Mcallister (1050)" [label="Hilary Mcallister (1050)
+The Greens"]
+	"Craige Kensen (1052)" [label="Craige Kensen (1052)
+United Australia Party"]
+	"Ronnie Graham (1049)" [label="Ronnie Graham (1049)
+Pauline Hanson's One Nation"]
+	"Graham Garner (1047)" [label="Graham Garner (1047)
+Independent"]
+	"Amanda Mead (1053)" [label="Amanda Mead (1053)
+Liberal Democrats"]
+	"Gilbert Wilson (1054)" -> "Dan Tehan (1048)" [label=4422]
+	"Hilary Mcallister (1050)" -> "Gilbert Wilson (1054)" [label=2392]
+	"Craige Kensen (1052)" -> "Hilary Mcallister (1050)" [label=330]
+	"Ronnie Graham (1049)" -> "Craige Kensen (1052)" [label=1838]
+	"Graham Garner (1047)" -> "Ronnie Graham (1049)" [label=454]
+	"Amanda Mead (1053)" -> "Graham Garner (1047)" [label=168]
+	"Hilary Mcallister (1050)" -> "Dan Tehan (1048)" [label=773]
+	"Craige Kensen (1052)" -> "Dan Tehan (1048)" [label=2486]
+	"Ronnie Graham (1049)" -> "Dan Tehan (1048)" [label=818]
+	"Graham Garner (1047)" -> "Dan Tehan (1048)" [label=638]
+	"Amanda Mead (1053)" -> "Dan Tehan (1048)" [label=432]
+	"Amanda Mead (1053)" -> "Ronnie Graham (1049)" [label=378]
+	"Graham Garner (1047)" -> "Craige Kensen (1052)" [label=382]
+	"Amanda Mead (1053)" -> "Craige Kensen (1052)" [label=546]
+	"Ronnie Graham (1049)" -> "Hilary Mcallister (1050)" [label=243]
+	"Graham Garner (1047)" -> "Hilary Mcallister (1050)" [label=150]
+	"Amanda Mead (1053)" -> "Hilary Mcallister (1050)" [label=71]
+	"Craige Kensen (1052)" -> "Gilbert Wilson (1054)" [label=810]
+	"Ronnie Graham (1049)" -> "Gilbert Wilson (1054)" [label=285]
+	"Graham Garner (1047)" -> "Gilbert Wilson (1054)" [label=154]
+	"Amanda Mead (1053)" -> "Gilbert Wilson (1054)" [label=183]
+}

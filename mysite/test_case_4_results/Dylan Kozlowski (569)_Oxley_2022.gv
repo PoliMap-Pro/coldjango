@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Dylan Kozlowski (569)_Oxley_2022" {
+	graph [label="Oxley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Dylan Kozlowski (569)" [label="Dylan Kozlowski (569)
+Pauline Hanson's One Nation"]
+	"Timothy Coombes (566)" [label="Timothy Coombes (566)
+United Australia Party"]
+	"Timothy Coombes (566)" -> "Dylan Kozlowski (569)" [label=2485]
+}

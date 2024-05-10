@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Ron Fiedler (1687)_Spence_2019" {
+	graph [label="Spence 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
+United Australia Party"]
+	"Nathan Herbert (1690)" [label="Nathan Herbert (1690)
+Independent"]
+	"Rita Kuhlmann (1689)" [label="Rita Kuhlmann (1689)
+Animal Justice Party"]
+	"Nathan Herbert (1690)" -> "Ron Fiedler (1687)" [label=1774]
+	"Rita Kuhlmann (1689)" -> "Nathan Herbert (1690)" [label=1094]
+	"Rita Kuhlmann (1689)" -> "Ron Fiedler (1687)" [label=377]
+}

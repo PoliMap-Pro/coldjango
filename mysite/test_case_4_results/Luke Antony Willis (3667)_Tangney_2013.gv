@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Luke Antony Willis (3667)_Tangney_2013" {
+	graph [label="Tangney 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Luke Antony Willis (3667)" [label="Luke Antony Willis (3667)
+Australian Labor Party"]
+	"Peter Best (3668)" [label="Peter Best (3668)
+The Greens (WA)"]
+	"Wayne Robert Driver (3666)" [label="Wayne Robert Driver (3666)
+Palmer United Party"]
+	"John Wieske (2781)" [label="John Wieske (2781)
+Australian Christians"]
+	"Stephen Andrew Carson (3664)" [label="Stephen Andrew Carson (3664)
+Rise Up Australia Party"]
+	"Peter Best (3668)" -> "Luke Antony Willis (3667)" [label=7835]
+	"Wayne Robert Driver (3666)" -> "Peter Best (3668)" [label=1145]
+	"John Wieske (2781)" -> "Wayne Robert Driver (3666)" [label=249]
+	"Stephen Andrew Carson (3664)" -> "John Wieske (2781)" [label=125]
+	"Wayne Robert Driver (3666)" -> "Luke Antony Willis (3667)" [label=1151]
+	"John Wieske (2781)" -> "Luke Antony Willis (3667)" [label=320]
+	"Stephen Andrew Carson (3664)" -> "Luke Antony Willis (3667)" [label=80]
+	"Stephen Andrew Carson (3664)" -> "Wayne Robert Driver (3666)" [label=223]
+	"John Wieske (2781)" -> "Peter Best (3668)" [label=267]
+	"Stephen Andrew Carson (3664)" -> "Peter Best (3668)" [label=106]
+}

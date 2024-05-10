@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Megan Purcell (2550)_Bendigo_2016" {
+	graph [label="Bendigo 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Megan Purcell (2550)" [label="Megan Purcell (2550)
+Liberal"]
+	"Rosemary Glaisher (2548)" [label="Rosemary Glaisher (2548)
+The Greens"]
+	"Alan Howard (2552)" [label="Alan Howard (2552)
+Family First Party"]
+	"Andy Maddison (2547)" [label="Andy Maddison (2547)
+The Nationals"]
+	"Sandy Caddy (2549)" [label="Sandy Caddy (2549)
+Rise Up Australia Party"]
+	"Ruth Parramore (1885)" [label="Ruth Parramore (1885)
+Animal Justice Party"]
+	"Anita Erika Donlon (2551)" [label="Anita Erika Donlon (2551)
+Independent"]
+	"Rosemary Glaisher (2548)" -> "Megan Purcell (2550)" [label=2175]
+	"Alan Howard (2552)" -> "Rosemary Glaisher (2548)" [label=1506]
+	"Andy Maddison (2547)" -> "Alan Howard (2552)" [label=674]
+	"Sandy Caddy (2549)" -> "Andy Maddison (2547)" [label=460]
+	"Ruth Parramore (1885)" -> "Sandy Caddy (2549)" [label=298]
+	"Anita Erika Donlon (2551)" -> "Ruth Parramore (1885)" [label=230]
+	"Alan Howard (2552)" -> "Megan Purcell (2550)" [label=2876]
+	"Andy Maddison (2547)" -> "Megan Purcell (2550)" [label=2418]
+	"Sandy Caddy (2549)" -> "Megan Purcell (2550)" [label=246]
+	"Ruth Parramore (1885)" -> "Megan Purcell (2550)" [label=252]
+	"Anita Erika Donlon (2551)" -> "Megan Purcell (2550)" [label=182]
+	"Anita Erika Donlon (2551)" -> "Sandy Caddy (2549)" [label=391]
+	"Ruth Parramore (1885)" -> "Andy Maddison (2547)" [label=114]
+	"Anita Erika Donlon (2551)" -> "Andy Maddison (2547)" [label=177]
+	"Sandy Caddy (2549)" -> "Alan Howard (2552)" [label=1492]
+	"Ruth Parramore (1885)" -> "Alan Howard (2552)" [label=506]
+	"Anita Erika Donlon (2551)" -> "Alan Howard (2552)" [label=474]
+	"Andy Maddison (2547)" -> "Rosemary Glaisher (2548)" [label=772]
+	"Sandy Caddy (2549)" -> "Rosemary Glaisher (2548)" [label=229]
+	"Ruth Parramore (1885)" -> "Rosemary Glaisher (2548)" [label=828]
+	"Anita Erika Donlon (2551)" -> "Rosemary Glaisher (2548)" [label=177]
+}

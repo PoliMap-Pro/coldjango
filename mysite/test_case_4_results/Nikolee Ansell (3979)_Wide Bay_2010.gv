@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Nikolee Ansell (3979)_Wide Bay_2010" {
+	graph [label="Wide Bay 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Nikolee Ansell (3979)" [label="Nikolee Ansell (3979)
+Australian Labor Party"]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+The Greens"]
+	"Ken Herschell (3978)" [label="Ken Herschell (3978)
+Family First"]
+	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
+One Nation"]
+	"Jim Mcdonald (867)" -> "Nikolee Ansell (3979)" [label=7441]
+	"Ken Herschell (3978)" -> "Jim Mcdonald (867)" [label=1283]
+	"Santo Ferraro (3977)" -> "Ken Herschell (3978)" [label=845]
+	"Ken Herschell (3978)" -> "Nikolee Ansell (3979)" [label=691]
+	"Santo Ferraro (3977)" -> "Nikolee Ansell (3979)" [label=252]
+	"Santo Ferraro (3977)" -> "Jim Mcdonald (867)" [label=225]
+}

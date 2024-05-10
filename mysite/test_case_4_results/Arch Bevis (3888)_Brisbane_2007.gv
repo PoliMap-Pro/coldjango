@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Arch Bevis (3888)_Brisbane_2007" {
+	graph [label="Brisbane 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Arch Bevis (3888)" [label="Arch Bevis (3888)
+Australian Labor Party"]
+	"Elizabeth Guthrie (4499)" [label="Elizabeth Guthrie (4499)
+The Greens"]
+	"Don Sinnamon (4500)" [label="Don Sinnamon (4500)
+Democrats"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
+	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
+Socialist Alliance"]
+	"Nick Contarino (3175)" [label="Nick Contarino (3175)
+Citizens Electoral Council"]
+	"Elizabeth Guthrie (4499)" -> "Arch Bevis (3888)" [label=9125]
+	"Don Sinnamon (4500)" -> "Elizabeth Guthrie (4499)" [label=929]
+	"Mark A White (2420)" -> "Don Sinnamon (4500)" [label=152]
+	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=28]
+	"Nick Contarino (3175)" -> "Ewan Saunders (3887)" [label=15]
+	"Don Sinnamon (4500)" -> "Arch Bevis (3888)" [label=324]
+	"Mark A White (2420)" -> "Arch Bevis (3888)" [label=240]
+	"Ewan Saunders (3887)" -> "Arch Bevis (3888)" [label=90]
+	"Nick Contarino (3175)" -> "Arch Bevis (3888)" [label=32]
+	"Nick Contarino (3175)" -> "Mark A White (2420)" [label=15]
+	"Ewan Saunders (3887)" -> "Don Sinnamon (4500)" [label=49]
+	"Nick Contarino (3175)" -> "Don Sinnamon (4500)" [label=17]
+	"Mark A White (2420)" -> "Elizabeth Guthrie (4499)" [label=227]
+	"Ewan Saunders (3887)" -> "Elizabeth Guthrie (4499)" [label=223]
+	"Nick Contarino (3175)" -> "Elizabeth Guthrie (4499)" [label=33]
+}

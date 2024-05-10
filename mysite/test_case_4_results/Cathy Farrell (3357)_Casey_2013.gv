@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Cathy Farrell (3357)_Casey_2013" {
+	graph [label="Casey 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Cathy Farrell (3357)" [label="Cathy Farrell (3357)
+Australian Labor Party"]
+	"Steve Meacher (3355)" [label="Steve Meacher (3355)
+The Greens"]
+	"Milton Wilde (1780)" [label="Milton Wilde (1780)
+Palmer United Party"]
+	"Gary Coombes (3356)" [label="Gary Coombes (3356)
+Family First Party"]
+	"Jeanette Mcrae (3360)" [label="Jeanette Mcrae (3360)
+Independent"]
+	"Mike Brown (3359)" [label="Mike Brown (3359)
+Australian Christians"]
+	"Jeffrey Andrew Leake (3358)" [label="Jeffrey Andrew Leake (3358)
+Country Alliance"]
+	"Paul Barbieri (3361)" [label="Paul Barbieri (3361)
+Rise Up Australia Party"]
+	"Steve Meacher (3355)" -> "Cathy Farrell (3357)" [label=10331]
+	"Milton Wilde (1780)" -> "Steve Meacher (3355)" [label=1272]
+	"Gary Coombes (3356)" -> "Milton Wilde (1780)" [label=912]
+	"Jeanette Mcrae (3360)" -> "Gary Coombes (3356)" [label=236]
+	"Mike Brown (3359)" -> "Jeanette Mcrae (3360)" [label=99]
+	"Jeffrey Andrew Leake (3358)" -> "Mike Brown (3359)" [label=41]
+	"Paul Barbieri (3361)" -> "Jeffrey Andrew Leake (3358)" [label=34]
+	"Milton Wilde (1780)" -> "Cathy Farrell (3357)" [label=1656]
+	"Gary Coombes (3356)" -> "Cathy Farrell (3357)" [label=593]
+	"Jeanette Mcrae (3360)" -> "Cathy Farrell (3357)" [label=390]
+	"Mike Brown (3359)" -> "Cathy Farrell (3357)" [label=96]
+	"Jeffrey Andrew Leake (3358)" -> "Cathy Farrell (3357)" [label=157]
+	"Paul Barbieri (3361)" -> "Cathy Farrell (3357)" [label=40]
+	"Paul Barbieri (3361)" -> "Mike Brown (3359)" [label=139]
+	"Jeffrey Andrew Leake (3358)" -> "Jeanette Mcrae (3360)" [label=137]
+	"Paul Barbieri (3361)" -> "Jeanette Mcrae (3360)" [label=40]
+	"Mike Brown (3359)" -> "Gary Coombes (3356)" [label=783]
+	"Jeffrey Andrew Leake (3358)" -> "Gary Coombes (3356)" [label=151]
+	"Paul Barbieri (3361)" -> "Gary Coombes (3356)" [label=51]
+	"Jeanette Mcrae (3360)" -> "Milton Wilde (1780)" [label=309]
+	"Mike Brown (3359)" -> "Milton Wilde (1780)" [label=53]
+	"Jeffrey Andrew Leake (3358)" -> "Milton Wilde (1780)" [label=152]
+	"Paul Barbieri (3361)" -> "Milton Wilde (1780)" [label=66]
+	"Gary Coombes (3356)" -> "Steve Meacher (3355)" [label=684]
+	"Jeanette Mcrae (3360)" -> "Steve Meacher (3355)" [label=474]
+	"Mike Brown (3359)" -> "Steve Meacher (3355)" [label=68]
+	"Jeffrey Andrew Leake (3358)" -> "Steve Meacher (3355)" [label=67]
+	"Paul Barbieri (3361)" -> "Steve Meacher (3355)" [label=23]
+}

@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Julia Gillard (4121)_Lalor_2010" {
+	graph [label="Lalor 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Julia Gillard (4121)" [label="Julia Gillard (4121)
+Australian Labor Party"]
+	"Peter Taylor (4123)" [label="Peter Taylor (4123)
+Australian Greens"]
+	"Lori Mclean (4120)" [label="Lori Mclean (4120)
+Family First"]
+	"Joanne Clarke (4124)" [label="Joanne Clarke (4124)
+Independent"]
+	"Paul Sheehan (4117)" [label="Paul Sheehan (4117)
+Secular Party of Australia"]
+	"Brian William Shaw (4118)" [label="Brian William Shaw (4118)
+Independent"]
+	"Van Rudd (4122)" [label="Van Rudd (4122)
+"]
+	"Marc Aussie-Stone (2256)" [label="Marc Aussie-Stone (2256)
+Independent"]
+	"Peter Taylor (4123)" -> "Julia Gillard (4121)" [label=6627]
+	"Lori Mclean (4120)" -> "Peter Taylor (4123)" [label=755]
+	"Joanne Clarke (4124)" -> "Lori Mclean (4120)" [label=269]
+	"Paul Sheehan (4117)" -> "Joanne Clarke (4124)" [label=82]
+	"Brian William Shaw (4118)" -> "Paul Sheehan (4117)" [label=121]
+	"Van Rudd (4122)" -> "Brian William Shaw (4118)" [label=32]
+	"Marc Aussie-Stone (2256)" -> "Van Rudd (4122)" [label=29]
+	"Lori Mclean (4120)" -> "Julia Gillard (4121)" [label=872]
+	"Joanne Clarke (4124)" -> "Julia Gillard (4121)" [label=220]
+	"Paul Sheehan (4117)" -> "Julia Gillard (4121)" [label=106]
+	"Brian William Shaw (4118)" -> "Julia Gillard (4121)" [label=81]
+	"Van Rudd (4122)" -> "Julia Gillard (4121)" [label=194]
+	"Marc Aussie-Stone (2256)" -> "Julia Gillard (4121)" [label=54]
+	"Marc Aussie-Stone (2256)" -> "Brian William Shaw (4118)" [label=64]
+	"Van Rudd (4122)" -> "Paul Sheehan (4117)" [label=48]
+	"Marc Aussie-Stone (2256)" -> "Paul Sheehan (4117)" [label=26]
+	"Brian William Shaw (4118)" -> "Joanne Clarke (4124)" [label=283]
+	"Van Rudd (4122)" -> "Joanne Clarke (4124)" [label=53]
+	"Marc Aussie-Stone (2256)" -> "Joanne Clarke (4124)" [label=118]
+	"Paul Sheehan (4117)" -> "Lori Mclean (4120)" [label=78]
+	"Brian William Shaw (4118)" -> "Lori Mclean (4120)" [label=96]
+	"Van Rudd (4122)" -> "Lori Mclean (4120)" [label=44]
+	"Marc Aussie-Stone (2256)" -> "Lori Mclean (4120)" [label=14]
+	"Joanne Clarke (4124)" -> "Peter Taylor (4123)" [label=500]
+	"Paul Sheehan (4117)" -> "Peter Taylor (4123)" [label=78]
+	"Brian William Shaw (4118)" -> "Peter Taylor (4123)" [label=45]
+	"Van Rudd (4122)" -> "Peter Taylor (4123)" [label=126]
+	"Marc Aussie-Stone (2256)" -> "Peter Taylor (4123)" [label=74]
+}

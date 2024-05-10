@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Suellen Marree Wrightson (1432)_Warringah_2019" {
+	graph [label="Warringah 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Suellen Marree Wrightson (1432)" [label="Suellen Marree Wrightson (1432)
+United Australia Party"]
+	"Jason Blaiklock (1435)" [label="Jason Blaiklock (1435)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Clare (1434)" [label="Brian Clare (1434)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jason Blaiklock (1435)" -> "Suellen Marree Wrightson (1432)" [label=27]
+	"Brian Clare (1434)" -> "Jason Blaiklock (1435)" [label=26]
+	"Brian Clare (1434)" -> "Suellen Marree Wrightson (1432)" [label=55]
+}

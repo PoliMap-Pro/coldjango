@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Julie Darlington (1542)_Griffith_2019" {
+	graph [label="Griffith 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Julie Darlington (1542)" [label="Julie Darlington (1542)
+Pauline Hanson's One Nation"]
+	"Christian John Julius (1541)" [label="Christian John Julius (1541)
+United Australia Party"]
+	"Tony Murray (1543)" [label="Tony Murray (1543)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Christian John Julius (1541)" -> "Julie Darlington (1542)" [label=588]
+	"Tony Murray (1543)" -> "Christian John Julius (1541)" [label=128]
+	"Tony Murray (1543)" -> "Julie Darlington (1542)" [label=448]
+}

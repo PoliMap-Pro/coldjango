@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Roger Tull (918)_Hotham_2022" {
+	graph [label="Hotham 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Roger Tull (918)" [label="Roger Tull (918)
+Pauline Hanson's One Nation"]
+}

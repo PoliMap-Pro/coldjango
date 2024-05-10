@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Brett Nangle (1766)_Cooper_2019" {
+	graph [label="Cooper 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Brett Nangle (1766)" [label="Brett Nangle (1766)
+United Australia Party"]
+	"Teresa Van Lieshout (1765)" [label="Teresa Van Lieshout (1765)
+Independent"]
+	"Teresa Van Lieshout (1765)" -> "Brett Nangle (1766)" [label=223]
+}

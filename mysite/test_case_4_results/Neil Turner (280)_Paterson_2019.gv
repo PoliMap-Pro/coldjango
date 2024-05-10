@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Neil Turner (280)_Paterson_2019" {
+	graph [label="Paterson 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Neil Turner (280)" [label="Neil Turner (280)
+Pauline Hanson's One Nation"]
+	"Jan Davis (1400)" [label="Jan Davis (1400)
+The Greens"]
+	"Graham Burston (1399)" [label="Graham Burston (1399)
+United Australia Party"]
+	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jan Davis (1400)" -> "Neil Turner (280)" [label=1101]
+	"Graham Burston (1399)" -> "Jan Davis (1400)" [label=473]
+	"Christopher Arthur Vale (1401)" -> "Graham Burston (1399)" [label=237]
+	"Graham Burston (1399)" -> "Neil Turner (280)" [label=1895]
+	"Christopher Arthur Vale (1401)" -> "Neil Turner (280)" [label=286]
+	"Christopher Arthur Vale (1401)" -> "Jan Davis (1400)" [label=213]
+}

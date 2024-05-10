@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Michael Lowe (61)_Bradfield_2022" {
+	graph [label="Bradfield 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Michael Lowe (61)" [label="Michael Lowe (61)
+Pauline Hanson's One Nation"]
+}

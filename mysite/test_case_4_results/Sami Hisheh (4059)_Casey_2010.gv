@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sami Hisheh (4059)_Casey_2010" {
+	graph [label="Casey 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sami Hisheh (4059)" [label="Sami Hisheh (4059)
+Australian Labor Party"]
+	"Brendan Powell (3392)" [label="Brendan Powell (3392)
+Australian Greens"]
+	"Daniel Harrison (4060)" [label="Daniel Harrison (4060)
+Family First"]
+	"Brendan Powell (3392)" -> "Sami Hisheh (4059)" [label=7985]
+	"Daniel Harrison (4060)" -> "Brendan Powell (3392)" [label=856]
+	"Daniel Harrison (4060)" -> "Sami Hisheh (4059)" [label=889]
+}

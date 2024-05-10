@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Nick Cedric-Thompson (3180)_Maranoa_2013" {
+	graph [label="Maranoa 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Nick Cedric-Thompson (3180)" [label="Nick Cedric-Thompson (3180)
+Australian Labor Party"]
+	"John Bjelke-Petersen (3184)" [label="John Bjelke-Petersen (3184)
+Palmer United Party"]
+	"Rowell Walton (3185)" [label="Rowell Walton (3185)
+Katter's Australian Party"]
+	"John Spellman (1601)" [label="John Spellman (1601)
+Family First"]
+	"Grant Newson (3181)" [label="Grant Newson (3181)
+The Greens"]
+	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
+Rise Up Australia Party"]
+	"John Bjelke-Petersen (3184)" -> "Nick Cedric-Thompson (3180)" [label=6733]
+	"Rowell Walton (3185)" -> "John Bjelke-Petersen (3184)" [label=3603]
+	"John Spellman (1601)" -> "Rowell Walton (3185)" [label=588]
+	"Grant Newson (3181)" -> "John Spellman (1601)" [label=401]
+	"George Mousley Clouston (3183)" -> "Grant Newson (3181)" [label=46]
+	"Rowell Walton (3185)" -> "Nick Cedric-Thompson (3180)" [label=1134]
+	"John Spellman (1601)" -> "Nick Cedric-Thompson (3180)" [label=1020]
+	"Grant Newson (3181)" -> "Nick Cedric-Thompson (3180)" [label=1338]
+	"George Mousley Clouston (3183)" -> "Nick Cedric-Thompson (3180)" [label=47]
+	"George Mousley Clouston (3183)" -> "John Spellman (1601)" [label=351]
+	"Grant Newson (3181)" -> "Rowell Walton (3185)" [label=284]
+	"George Mousley Clouston (3183)" -> "Rowell Walton (3185)" [label=92]
+	"John Spellman (1601)" -> "John Bjelke-Petersen (3184)" [label=676]
+	"Grant Newson (3181)" -> "John Bjelke-Petersen (3184)" [label=403]
+	"George Mousley Clouston (3183)" -> "John Bjelke-Petersen (3184)" [label=155]
+}

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Donald Mckenzie (225)_Mitchell_2022" {
+	graph [label="Mitchell 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Donald Mckenzie (225)" [label="Donald Mckenzie (225)
+Pauline Hanson's One Nation"]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Joseph Oscar O'Connor (1252)_Chifley_2019" {
+	graph [label="Chifley 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Joseph Oscar O'Connor (1252)" [label="Joseph Oscar O'Connor (1252)
+United Australia Party"]
+	"Ammar Aziz Khan (1251)" [label="Ammar Aziz Khan (1251)
+Independent"]
+	"Ammar Aziz Khan (1251)" -> "Joseph Oscar O'Connor (1252)" [label=332]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Robert Fechner (4681)_Makin_2007" {
+	graph [label="Makin 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Robert Fechner (4681)" [label="Robert Fechner (4681)
+One Nation"]
+	"Gary Vandersluis (4677)" [label="Gary Vandersluis (4677)
+LDP"]
+	"Gary Vandersluis (4677)" -> "Robert Fechner (4681)" [label=16]
+}

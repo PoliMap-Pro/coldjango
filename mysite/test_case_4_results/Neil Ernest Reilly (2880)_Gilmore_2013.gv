@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Neil Ernest Reilly (2880)_Gilmore_2013" {
+	graph [label="Gilmore 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Neil Ernest Reilly (2880)" [label="Neil Ernest Reilly (2880)
+Labor"]
+	"Terry Barratt (2881)" [label="Terry Barratt (2881)
+The Greens"]
+	"Lyndal Gai Harris (2882)" [label="Lyndal Gai Harris (2882)
+Palmer United Party"]
+	"Steve Ryan (2102)" [label="Steve Ryan (2102)
+Christian Democratic Party (Fred Nile Group)"]
+	"Terry Barratt (2881)" -> "Neil Ernest Reilly (2880)" [label=8125]
+	"Lyndal Gai Harris (2882)" -> "Terry Barratt (2881)" [label=1274]
+	"Steve Ryan (2102)" -> "Lyndal Gai Harris (2882)" [label=357]
+	"Lyndal Gai Harris (2882)" -> "Neil Ernest Reilly (2880)" [label=2144]
+	"Steve Ryan (2102)" -> "Neil Ernest Reilly (2880)" [label=893]
+	"Steve Ryan (2102)" -> "Terry Barratt (2881)" [label=254]
+}

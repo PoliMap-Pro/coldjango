@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Graham Edwards (5683)_Cowan_2004" {
+	graph [label="Cowan 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Graham Edwards (5683)" [label="Graham Edwards (5683)
+Australian Labor Party"]
+	"Glen George (5678)" [label="Glen George (5678)
+The Greens"]
+	"Richard Leeder (5681)" [label="Richard Leeder (5681)
+CDP Christian Party"]
+	"Clem Winton (5682)" [label="Clem Winton (5682)
+Pauline Hanson's One Nation"]
+	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
+Australian Democrats"]
+	"Basil Atkins (5679)" [label="Basil Atkins (5679)
+Citizens Electoral Council"]
+	"Glen George (5678)" -> "Graham Edwards (5683)" [label=4095]
+	"Richard Leeder (5681)" -> "Glen George (5678)" [label=414]
+	"Clem Winton (5682)" -> "Richard Leeder (5681)" [label=349]
+	"Sarah Gilfillan (5680)" -> "Clem Winton (5682)" [label=112]
+	"Basil Atkins (5679)" -> "Sarah Gilfillan (5680)" [label=59]
+	"Richard Leeder (5681)" -> "Graham Edwards (5683)" [label=488]
+	"Clem Winton (5682)" -> "Graham Edwards (5683)" [label=451]
+	"Sarah Gilfillan (5680)" -> "Graham Edwards (5683)" [label=218]
+	"Basil Atkins (5679)" -> "Graham Edwards (5683)" [label=22]
+	"Basil Atkins (5679)" -> "Clem Winton (5682)" [label=34]
+	"Sarah Gilfillan (5680)" -> "Richard Leeder (5681)" [label=110]
+	"Basil Atkins (5679)" -> "Richard Leeder (5681)" [label=42]
+	"Clem Winton (5682)" -> "Glen George (5678)" [label=384]
+	"Sarah Gilfillan (5680)" -> "Glen George (5678)" [label=438]
+	"Basil Atkins (5679)" -> "Glen George (5678)" [label=107]
+}

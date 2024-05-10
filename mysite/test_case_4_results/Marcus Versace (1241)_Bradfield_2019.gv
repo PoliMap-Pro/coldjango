@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Marcus Versace (1241)_Bradfield_2019" {
+	graph [label="Bradfield 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Marcus Versace (1241)" [label="Marcus Versace (1241)
+United Australia Party"]
+}

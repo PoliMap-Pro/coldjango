@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Walter Stragan (1011)_Melbourne_2022" {
+	graph [label="Melbourne 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+}

@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Alan Neilan (4578)_Kennedy_2004" {
+	graph [label="Kennedy 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Alan Neilan (4578)" [label="Alan Neilan (4578)
+Australian Labor Party"]
+	"James Doyle (5358)" [label="James Doyle (5358)
+The Nationals"]
+	"Bill Hankin (4576)" [label="Bill Hankin (4576)
+One Nation"]
+	"Angela Jones (5357)" [label="Angela Jones (5357)
+The Greens"]
+	"Keith Douglas (3120)" [label="Keith Douglas (3120)
+Family First"]
+	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
+Australian Democrats"]
+	"Judith A Harris (5359)" [label="Judith A Harris (5359)
+Citizens Electoral Council"]
+	"James Doyle (5358)" -> "Alan Neilan (4578)" [label=2855]
+	"Bill Hankin (4576)" -> "James Doyle (5358)" [label=1392]
+	"Angela Jones (5357)" -> "Bill Hankin (4576)" [label=284]
+	"Keith Douglas (3120)" -> "Angela Jones (5357)" [label=273]
+	"Terry Hennessey (5360)" -> "Keith Douglas (3120)" [label=62]
+	"Judith A Harris (5359)" -> "Terry Hennessey (5360)" [label=36]
+	"Bill Hankin (4576)" -> "Alan Neilan (4578)" [label=795]
+	"Angela Jones (5357)" -> "Alan Neilan (4578)" [label=1919]
+	"Keith Douglas (3120)" -> "Alan Neilan (4578)" [label=376]
+	"Terry Hennessey (5360)" -> "Alan Neilan (4578)" [label=93]
+	"Judith A Harris (5359)" -> "Alan Neilan (4578)" [label=14]
+	"Judith A Harris (5359)" -> "Keith Douglas (3120)" [label=35]
+	"Terry Hennessey (5360)" -> "Angela Jones (5357)" [label=138]
+	"Judith A Harris (5359)" -> "Angela Jones (5357)" [label=41]
+	"Keith Douglas (3120)" -> "Bill Hankin (4576)" [label=623]
+	"Terry Hennessey (5360)" -> "Bill Hankin (4576)" [label=84]
+	"Judith A Harris (5359)" -> "Bill Hankin (4576)" [label=48]
+	"Angela Jones (5357)" -> "James Doyle (5358)" [label=331]
+	"Keith Douglas (3120)" -> "James Doyle (5358)" [label=634]
+	"Terry Hennessey (5360)" -> "James Doyle (5358)" [label=119]
+	"Judith A Harris (5359)" -> "James Doyle (5358)" [label=58]
+}

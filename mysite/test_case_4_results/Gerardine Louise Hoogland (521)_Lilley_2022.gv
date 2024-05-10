@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Gerardine Louise Hoogland (521)_Lilley_2022" {
+	graph [label="Lilley 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Gerardine Louise Hoogland (521)" [label="Gerardine Louise Hoogland (521)
+United Australia Party"]
+	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
+Liberal Democrats"]
+	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
+Informed Medical Options Party"]
+	"Daniel Freshwater (525)" -> "Gerardine Louise Hoogland (521)" [label=412]
+	"Stephen Mcgrath (524)" -> "Daniel Freshwater (525)" [label=168]
+	"Stephen Mcgrath (524)" -> "Gerardine Louise Hoogland (521)" [label=370]
+}

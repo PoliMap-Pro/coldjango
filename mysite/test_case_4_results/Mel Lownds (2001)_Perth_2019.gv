@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Mel Lownds (2001)_Perth_2019" {
+	graph [label="Perth 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Mel Lownds (2001)" [label="Mel Lownds (2001)
+Pauline Hanson's One Nation"]
+	"Jane Boxall (1997)" [label="Jane Boxall (1997)
+WESTERN AUSTRALIA PARTY"]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+United Australia Party"]
+	"Gary Davies (1999)" [label="Gary Davies (1999)
+Science Party"]
+	"Curtis Greening (2002)" [label="Curtis Greening (2002)
+VOTEFLUX.ORG | Upgrade Democracy!"]
+	"Jane Boxall (1997)" -> "Mel Lownds (2001)" [label=379]
+	"Chas Hopkins (2000)" -> "Jane Boxall (1997)" [label=237]
+	"Gary Davies (1999)" -> "Chas Hopkins (2000)" [label=74]
+	"Curtis Greening (2002)" -> "Gary Davies (1999)" [label=133]
+	"Chas Hopkins (2000)" -> "Mel Lownds (2001)" [label=484]
+	"Gary Davies (1999)" -> "Mel Lownds (2001)" [label=52]
+	"Curtis Greening (2002)" -> "Mel Lownds (2001)" [label=80]
+	"Curtis Greening (2002)" -> "Chas Hopkins (2000)" [label=28]
+	"Gary Davies (1999)" -> "Jane Boxall (1997)" [label=335]
+	"Curtis Greening (2002)" -> "Jane Boxall (1997)" [label=74]
+}

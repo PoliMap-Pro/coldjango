@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Tony Zappia (660)_Makin_2013" {
+	graph [label="Makin 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Mark Potter (2464)" [label="Mark Potter (2464)
+Family First"]
+	"Ami Harrison (3268)" [label="Ami Harrison (3268)
+Australian Greens"]
+	"Andrew Morgan Graham (3265)" [label="Andrew Morgan Graham (3265)
+Palmer United Party"]
+	"Robert Jameson (3266)" [label="Robert Jameson (3266)
+Katter's Australian Party"]
+	"Mark Potter (2464)" -> "Tony Zappia (660)" [label=3627]
+	"Ami Harrison (3268)" -> "Mark Potter (2464)" [label=1621]
+	"Andrew Morgan Graham (3265)" -> "Ami Harrison (3268)" [label=526]
+	"Robert Jameson (3266)" -> "Andrew Morgan Graham (3265)" [label=295]
+	"Ami Harrison (3268)" -> "Tony Zappia (660)" [label=3606]
+	"Andrew Morgan Graham (3265)" -> "Tony Zappia (660)" [label=1374]
+	"Robert Jameson (3266)" -> "Tony Zappia (660)" [label=124]
+	"Robert Jameson (3266)" -> "Ami Harrison (3268)" [label=52]
+	"Andrew Morgan Graham (3265)" -> "Mark Potter (2464)" [label=1070]
+	"Robert Jameson (3266)" -> "Mark Potter (2464)" [label=119]
+}

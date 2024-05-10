@@ -1,0 +1,25 @@
+// House preference flow
+digraph "J N Zigouras (5609)_Mallee_2004" {
+	graph [label="Mallee 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"J N Zigouras (5609)" [label="J N Zigouras (5609)
+Australian Labor Party"]
+	"Kevin Smith (5611)" [label="Kevin Smith (5611)
+Family First"]
+	"Simon Roberts (5610)" [label="Simon Roberts (5610)
+Australian Greens"]
+	"Stephen Parr (5612)" [label="Stephen Parr (5612)
+Democrats"]
+	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
+Citizens Electoral Council"]
+	"Kevin Smith (5611)" -> "J N Zigouras (5609)" [label=1554]
+	"Simon Roberts (5610)" -> "Kevin Smith (5611)" [label=646]
+	"Stephen Parr (5612)" -> "Simon Roberts (5610)" [label=344]
+	"Trudy Campbell (3048)" -> "Stephen Parr (5612)" [label=272]
+	"Simon Roberts (5610)" -> "J N Zigouras (5609)" [label=2024]
+	"Stephen Parr (5612)" -> "J N Zigouras (5609)" [label=318]
+	"Trudy Campbell (3048)" -> "J N Zigouras (5609)" [label=245]
+	"Trudy Campbell (3048)" -> "Simon Roberts (5610)" [label=88]
+	"Stephen Parr (5612)" -> "Kevin Smith (5611)" [label=475]
+	"Trudy Campbell (3048)" -> "Kevin Smith (5611)" [label=318]
+}

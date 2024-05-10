@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Susan Templeman (208)_Macquarie_2013" {
+	graph [label="Macquarie 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susan Templeman (208)" [label="Susan Templeman (208)
+Labor"]
+	"Danielle Wheeler (2935)" [label="Danielle Wheeler (2935)
+The Greens"]
+	"Philip Daniel Maxwell (2933)" [label="Philip Daniel Maxwell (2933)
+Palmer United Party"]
+	"Tony Piper (2931)" [label="Tony Piper (2931)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Littlejohn (2936)" [label="Mark Littlejohn (2936)
+Sex Party"]
+	"Matt Hodgson (2934)" [label="Matt Hodgson (2934)
+Australia First Party"]
+	"Teresa Elaro (2932)" [label="Teresa Elaro (2932)
+Democratic Labour Party (DLP)"]
+	"Danielle Wheeler (2935)" -> "Susan Templeman (208)" [label=10603]
+	"Philip Daniel Maxwell (2933)" -> "Danielle Wheeler (2935)" [label=1363]
+	"Tony Piper (2931)" -> "Philip Daniel Maxwell (2933)" [label=266]
+	"Mark Littlejohn (2936)" -> "Tony Piper (2931)" [label=100]
+	"Matt Hodgson (2934)" -> "Mark Littlejohn (2936)" [label=154]
+	"Teresa Elaro (2932)" -> "Matt Hodgson (2934)" [label=30]
+	"Philip Daniel Maxwell (2933)" -> "Susan Templeman (208)" [label=1415]
+	"Tony Piper (2931)" -> "Susan Templeman (208)" [label=449]
+	"Mark Littlejohn (2936)" -> "Susan Templeman (208)" [label=357]
+	"Matt Hodgson (2934)" -> "Susan Templeman (208)" [label=97]
+	"Teresa Elaro (2932)" -> "Susan Templeman (208)" [label=144]
+	"Teresa Elaro (2932)" -> "Mark Littlejohn (2936)" [label=33]
+	"Matt Hodgson (2934)" -> "Tony Piper (2931)" [label=77]
+	"Teresa Elaro (2932)" -> "Tony Piper (2931)" [label=75]
+	"Mark Littlejohn (2936)" -> "Philip Daniel Maxwell (2933)" [label=394]
+	"Matt Hodgson (2934)" -> "Philip Daniel Maxwell (2933)" [label=199]
+	"Teresa Elaro (2932)" -> "Philip Daniel Maxwell (2933)" [label=81]
+	"Tony Piper (2931)" -> "Danielle Wheeler (2935)" [label=160]
+	"Mark Littlejohn (2936)" -> "Danielle Wheeler (2935)" [label=785]
+	"Matt Hodgson (2934)" -> "Danielle Wheeler (2935)" [label=114]
+	"Teresa Elaro (2932)" -> "Danielle Wheeler (2935)" [label=65]
+}

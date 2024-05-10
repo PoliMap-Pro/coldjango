@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Colnan (4259)_Berowra_2007" {
+	graph [label="Berowra 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Colnan (4259)" [label="Michael Colnan (4259)
+Labor"]
+	"Wendy Mcmurdo (4257)" [label="Wendy Mcmurdo (4257)
+The Greens"]
+	"Ray Levick (4260)" [label="Ray Levick (4260)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Sam Ellis (4256)" [label="Sam Ellis (4256)
+Family First"]
+	"Rob Mcfarlane (4258)" [label="Rob Mcfarlane (4258)
+Democrats"]
+	"Wendy Mcmurdo (4257)" -> "Michael Colnan (4259)" [label=7227]
+	"Ray Levick (4260)" -> "Wendy Mcmurdo (4257)" [label=319]
+	"Mick Gallagher (1235)" -> "Ray Levick (4260)" [label=153]
+	"Sam Ellis (4256)" -> "Mick Gallagher (1235)" [label=136]
+	"Rob Mcfarlane (4258)" -> "Sam Ellis (4256)" [label=40]
+	"Ray Levick (4260)" -> "Michael Colnan (4259)" [label=641]
+	"Mick Gallagher (1235)" -> "Michael Colnan (4259)" [label=390]
+	"Sam Ellis (4256)" -> "Michael Colnan (4259)" [label=148]
+	"Rob Mcfarlane (4258)" -> "Michael Colnan (4259)" [label=254]
+	"Rob Mcfarlane (4258)" -> "Mick Gallagher (1235)" [label=108]
+	"Sam Ellis (4256)" -> "Ray Levick (4260)" [label=216]
+	"Rob Mcfarlane (4258)" -> "Ray Levick (4260)" [label=34]
+	"Mick Gallagher (1235)" -> "Wendy Mcmurdo (4257)" [label=590]
+	"Sam Ellis (4256)" -> "Wendy Mcmurdo (4257)" [label=141]
+	"Rob Mcfarlane (4258)" -> "Wendy Mcmurdo (4257)" [label=394]
+}

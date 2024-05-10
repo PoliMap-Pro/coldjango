@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Jenny Macklin (2642)_Jagajaga_2013" {
+	graph [label="Jagajaga 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jenny Macklin (2642)" [label="Jenny Macklin (2642)
+Australian Labor Party"]
+	"Chris Kearney (3467)" [label="Chris Kearney (3467)
+The Greens"]
+	"Nicholas Wallis (3464)" [label="Nicholas Wallis (3464)
+Sex Party"]
+	"Kitten Leigh Snape (3466)" [label="Kitten Leigh Snape (3466)
+Palmer United Party"]
+	"Tahlia Eadie (3465)" [label="Tahlia Eadie (3465)
+Family First Party"]
+	"Chris Kearney (3467)" -> "Jenny Macklin (2642)" [label=11529]
+	"Nicholas Wallis (3464)" -> "Chris Kearney (3467)" [label=1437]
+	"Kitten Leigh Snape (3466)" -> "Nicholas Wallis (3464)" [label=685]
+	"Tahlia Eadie (3465)" -> "Kitten Leigh Snape (3466)" [label=277]
+	"Nicholas Wallis (3464)" -> "Jenny Macklin (2642)" [label=1342]
+	"Kitten Leigh Snape (3466)" -> "Jenny Macklin (2642)" [label=667]
+	"Tahlia Eadie (3465)" -> "Jenny Macklin (2642)" [label=318]
+	"Tahlia Eadie (3465)" -> "Nicholas Wallis (3464)" [label=192]
+	"Kitten Leigh Snape (3466)" -> "Chris Kearney (3467)" [label=513]
+	"Tahlia Eadie (3465)" -> "Chris Kearney (3467)" [label=177]
+}

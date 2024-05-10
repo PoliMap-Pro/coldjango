@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Darren Eather (1514)_Fadden_2019" {
+	graph [label="Fadden 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Darren Eather (1514)" [label="Darren Eather (1514)
+Pauline Hanson's One Nation"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+The Greens"]
+	"Mara Krischker (1516)" [label="Mara Krischker (1516)
+United Australia Party"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Allan Barber (1515)" [label="Allan Barber (1515)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Scott Turner (546)" -> "Darren Eather (1514)" [label=1393]
+	"Mara Krischker (1516)" -> "Scott Turner (546)" [label=650]
+	"Jake Welch (1512)" -> "Mara Krischker (1516)" [label=379]
+	"Allan Barber (1515)" -> "Jake Welch (1512)" [label=201]
+	"Mara Krischker (1516)" -> "Darren Eather (1514)" [label=2147]
+	"Jake Welch (1512)" -> "Darren Eather (1514)" [label=1012]
+	"Allan Barber (1515)" -> "Darren Eather (1514)" [label=645]
+	"Allan Barber (1515)" -> "Mara Krischker (1516)" [label=221]
+	"Jake Welch (1512)" -> "Scott Turner (546)" [label=475]
+	"Allan Barber (1515)" -> "Scott Turner (546)" [label=156]
+}

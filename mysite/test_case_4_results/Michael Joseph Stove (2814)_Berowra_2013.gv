@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Michael Joseph Stove (2814)_Berowra_2013" {
+	graph [label="Berowra 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Joseph Stove (2814)" [label="Michael Joseph Stove (2814)
+Labor"]
+	"John Storey (2810)" [label="John Storey (2810)
+The Greens"]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Paul Frederick Graves (2813)" [label="Paul Frederick Graves (2813)
+Palmer United Party"]
+	"Leighton Thew (2048)" [label="Leighton Thew (2048)
+Christian Democratic Party (Fred Nile Group)"]
+	"Deborah Smythe (2811)" [label="Deborah Smythe (2811)
+Stable Population Party"]
+	"John Storey (2810)" -> "Michael Joseph Stove (2814)" [label=8376]
+	"Mick Gallagher (1235)" -> "John Storey (2810)" [label=1842]
+	"Paul Frederick Graves (2813)" -> "Mick Gallagher (1235)" [label=673]
+	"Leighton Thew (2048)" -> "Paul Frederick Graves (2813)" [label=107]
+	"Deborah Smythe (2811)" -> "Leighton Thew (2048)" [label=24]
+	"Mick Gallagher (1235)" -> "Michael Joseph Stove (2814)" [label=1166]
+	"Paul Frederick Graves (2813)" -> "Michael Joseph Stove (2814)" [label=592]
+	"Leighton Thew (2048)" -> "Michael Joseph Stove (2814)" [label=208]
+	"Deborah Smythe (2811)" -> "Michael Joseph Stove (2814)" [label=56]
+	"Deborah Smythe (2811)" -> "Paul Frederick Graves (2813)" [label=76]
+	"Leighton Thew (2048)" -> "Mick Gallagher (1235)" [label=318]
+	"Deborah Smythe (2811)" -> "Mick Gallagher (1235)" [label=98]
+	"Paul Frederick Graves (2813)" -> "John Storey (2810)" [label=324]
+	"Leighton Thew (2048)" -> "John Storey (2810)" [label=129]
+	"Deborah Smythe (2811)" -> "John Storey (2810)" [label=133]
+}

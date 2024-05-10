@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Martyn Evans (5474)_Wakefield_2004" {
+	graph [label="Wakefield 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Martyn Evans (5474)" [label="Martyn Evans (5474)
+Australian Labor Party"]
+	"David G Pointon (5473)" [label="David G Pointon (5473)
+Family First"]
+	"Patricia Murray (5475)" [label="Patricia Murray (5475)
+The Greens"]
+	"David Dwyer (1184)" [label="David Dwyer (1184)
+One Nation"]
+	"Richard Way (5472)" [label="Richard Way (5472)
+Australian Democrats"]
+	"David G Pointon (5473)" -> "Martyn Evans (5474)" [label=2581]
+	"Patricia Murray (5475)" -> "David G Pointon (5473)" [label=1039]
+	"David Dwyer (1184)" -> "Patricia Murray (5475)" [label=350]
+	"Richard Way (5472)" -> "David Dwyer (1184)" [label=210]
+	"Patricia Murray (5475)" -> "Martyn Evans (5474)" [label=2329]
+	"David Dwyer (1184)" -> "Martyn Evans (5474)" [label=386]
+	"Richard Way (5472)" -> "Martyn Evans (5474)" [label=313]
+	"Richard Way (5472)" -> "Patricia Murray (5475)" [label=322]
+	"David Dwyer (1184)" -> "David G Pointon (5473)" [label=511]
+	"Richard Way (5472)" -> "David G Pointon (5473)" [label=212]
+}

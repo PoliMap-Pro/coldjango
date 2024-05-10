@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Marie Edmonds (4971)_Perth_2007" {
+	graph [label="Perth 2007" labelloc=t mclimit=2]
+	node [shape=box]
+	"Marie Edmonds (4971)" [label="Marie Edmonds (4971)
+One Nation WA"]
+	"Chris Latham (4967)" [label="Chris Latham (4967)
+Socialist Alliance"]
+	"Orm Girvan (4969)" [label="Orm Girvan (4969)
+Citizens Electoral Council"]
+	"Chris Latham (4967)" -> "Marie Edmonds (4971)" [label=21]
+	"Orm Girvan (4969)" -> "Chris Latham (4967)" [label=16]
+	"Orm Girvan (4969)" -> "Marie Edmonds (4971)" [label=16]
+}

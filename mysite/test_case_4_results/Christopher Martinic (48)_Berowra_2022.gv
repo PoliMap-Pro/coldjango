@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Christopher Martinic (48)_Berowra_2022" {
+	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Christopher Martinic (48)" [label="Christopher Martinic (48)
+United Australia Party"]
+	"Nicholas Samios (40)" [label="Nicholas Samios (40)
+Liberal Democrats"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"David James Louie (46)" [label="David James Louie (46)
+Australian Federation Party"]
+	"Nicholas Samios (40)" -> "Christopher Martinic (48)" [label=236]
+	"Brendan Michael Clarke (44)" -> "Nicholas Samios (40)" [label=63]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=24]
+	"David James Louie (46)" -> "Roger Woodward (47)" [label=33]
+	"Brendan Michael Clarke (44)" -> "Christopher Martinic (48)" [label=47]
+	"Roger Woodward (47)" -> "Christopher Martinic (48)" [label=51]
+	"David James Louie (46)" -> "Christopher Martinic (48)" [label=108]
+	"David James Louie (46)" -> "Brendan Michael Clarke (44)" [label=20]
+	"Roger Woodward (47)" -> "Nicholas Samios (40)" [label=18]
+	"David James Louie (46)" -> "Nicholas Samios (40)" [label=60]
+}

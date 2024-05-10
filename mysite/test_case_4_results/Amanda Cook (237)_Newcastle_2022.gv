@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Amanda Cook (237)_Newcastle_2022" {
+	graph [label="Newcastle 2022" labelloc=t mclimit=2]
+	node [shape=box]
+	"Amanda Cook (237)" [label="Amanda Cook (237)
+United Australia Party"]
+	"William Hussey (239)" [label="William Hussey (239)
+Informed Medical Options Party"]
+	"Garth Pywell (235)" [label="Garth Pywell (235)
+Australian Federation Party"]
+	"William Hussey (239)" -> "Amanda Cook (237)" [label=193]
+	"Garth Pywell (235)" -> "William Hussey (239)" [label=119]
+	"Garth Pywell (235)" -> "Amanda Cook (237)" [label=168]
+}

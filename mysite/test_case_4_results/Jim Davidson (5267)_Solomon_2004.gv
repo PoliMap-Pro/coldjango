@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Jim Davidson (5267)_Solomon_2004" {
+	graph [label="Solomon 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jim Davidson (5267)" [label="Jim Davidson (5267)
+Australian Labor Party (ALP)"]
+	"Ilana Eldridge (5268)" [label="Ilana Eldridge (5268)
+The Greens"]
+	"Mark West (5269)" [label="Mark West (5269)
+Family First"]
+	"Duncan Dean (1858)" [label="Duncan Dean (1858)
+Australian Democrats"]
+	"Maurice Foley (4483)" [label="Maurice Foley (4483)
+"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Ilana Eldridge (5268)" -> "Jim Davidson (5267)" [label=3167]
+	"Mark West (5269)" -> "Ilana Eldridge (5268)" [label=509]
+	"Duncan Dean (1858)" -> "Mark West (5269)" [label=212]
+	"Maurice Foley (4483)" -> "Duncan Dean (1858)" [label=60]
+	"Peter Flynn (2270)" -> "Maurice Foley (4483)" [label=37]
+	"Mark West (5269)" -> "Jim Davidson (5267)" [label=385]
+	"Duncan Dean (1858)" -> "Jim Davidson (5267)" [label=229]
+	"Maurice Foley (4483)" -> "Jim Davidson (5267)" [label=348]
+	"Peter Flynn (2270)" -> "Jim Davidson (5267)" [label=20]
+	"Peter Flynn (2270)" -> "Duncan Dean (1858)" [label=40]
+	"Maurice Foley (4483)" -> "Mark West (5269)" [label=104]
+	"Peter Flynn (2270)" -> "Mark West (5269)" [label=90]
+	"Duncan Dean (1858)" -> "Ilana Eldridge (5268)" [label=331]
+	"Maurice Foley (4483)" -> "Ilana Eldridge (5268)" [label=95]
+	"Peter Flynn (2270)" -> "Ilana Eldridge (5268)" [label=27]
+}

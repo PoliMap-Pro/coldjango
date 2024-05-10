@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Rick Wilson (1164)_O'Connor_2016" {
+	graph [label="O'Connor 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Rick Wilson (1164)" [label="Rick Wilson (1164)
+Liberal"]
+	"John Hassell (1981)" [label="John Hassell (1981)
+The Nationals"]
+	"Giz Watson (1158)" [label="Giz Watson (1158)
+The Greens (WA)"]
+	"Trevor Young (2762)" [label="Trevor Young (2762)
+Australian Christians"]
+	"Stephen Carson (2764)" [label="Stephen Carson (2764)
+Rise Up Australia Party"]
+	"John Hassell (1981)" -> "Rick Wilson (1164)" [label=15778]
+	"Giz Watson (1158)" -> "John Hassell (1981)" [label=2689]
+	"Trevor Young (2762)" -> "Giz Watson (1158)" [label=478]
+	"Stephen Carson (2764)" -> "Trevor Young (2762)" [label=905]
+	"Giz Watson (1158)" -> "Rick Wilson (1164)" [label=1389]
+	"Trevor Young (2762)" -> "Rick Wilson (1164)" [label=1911]
+	"Stephen Carson (2764)" -> "Rick Wilson (1164)" [label=373]
+	"Stephen Carson (2764)" -> "Giz Watson (1158)" [label=634]
+	"Trevor Young (2762)" -> "John Hassell (1981)" [label=1540]
+	"Stephen Carson (2764)" -> "John Hassell (1981)" [label=779]
+}

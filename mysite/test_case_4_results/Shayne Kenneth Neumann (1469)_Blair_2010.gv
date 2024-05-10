@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Shayne Kenneth Neumann (1469)_Blair_2010" {
+	graph [label="Blair 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Shayne Kenneth Neumann (1469)" [label="Shayne Kenneth Neumann (1469)
+Australian Labor Party"]
+	"Patricia May Petersen (3876)" [label="Patricia May Petersen (3876)
+The Greens"]
+	"Joshua Olyslagers (3874)" [label="Joshua Olyslagers (3874)
+Family First"]
+	"Brad King (3875)" [label="Brad King (3875)
+Independent"]
+	"Patricia May Petersen (3876)" -> "Shayne Kenneth Neumann (1469)" [label=7294]
+	"Joshua Olyslagers (3874)" -> "Patricia May Petersen (3876)" [label=1470]
+	"Brad King (3875)" -> "Joshua Olyslagers (3874)" [label=1001]
+	"Joshua Olyslagers (3874)" -> "Shayne Kenneth Neumann (1469)" [label=1022]
+	"Brad King (3875)" -> "Shayne Kenneth Neumann (1469)" [label=608]
+	"Brad King (3875)" -> "Patricia May Petersen (3876)" [label=973]
+}

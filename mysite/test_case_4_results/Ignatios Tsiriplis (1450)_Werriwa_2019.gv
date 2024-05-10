@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ignatios Tsiriplis (1450)_Werriwa_2019" {
+	graph [label="Werriwa 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Ignatios Tsiriplis (1450)" [label="Ignatios Tsiriplis (1450)
+United Australia Party"]
+	"Michael White (1449)" [label="Michael White (1449)
+Independent"]
+	"Michael White (1449)" -> "Ignatios Tsiriplis (1450)" [label=543]
+}

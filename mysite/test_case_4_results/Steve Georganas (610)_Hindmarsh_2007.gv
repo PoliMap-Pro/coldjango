@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Steve Georganas (610)_Hindmarsh_2007" {
+	graph [label="Hindmarsh 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steve Georganas (610)" [label="Steve Georganas (610)
+Australian Labor Party"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Richard Bunting (4665)" [label="Richard Bunting (4665)
+Family First Party"]
+	"Jen Williams (4669)" [label="Jen Williams (4669)
+Australian Democrats"]
+	"Heidi Robins (4664)" [label="Heidi Robins (4664)
+What Women Want (Australia)"]
+	"Clinton Duncan (4668)" [label="Clinton Duncan (4668)
+Independent"]
+	"James Warry (4667)" [label="James Warry (4667)
+LDP"]
+	"Tim White (635)" -> "Steve Georganas (610)" [label=5602]
+	"Richard Bunting (4665)" -> "Tim White (635)" [label=719]
+	"Jen Williams (4669)" -> "Richard Bunting (4665)" [label=146]
+	"Heidi Robins (4664)" -> "Jen Williams (4669)" [label=83]
+	"Clinton Duncan (4668)" -> "Heidi Robins (4664)" [label=46]
+	"James Warry (4667)" -> "Clinton Duncan (4668)" [label=31]
+	"Richard Bunting (4665)" -> "Steve Georganas (610)" [label=527]
+	"Jen Williams (4669)" -> "Steve Georganas (610)" [label=725]
+	"Heidi Robins (4664)" -> "Steve Georganas (610)" [label=116]
+	"Clinton Duncan (4668)" -> "Steve Georganas (610)" [label=116]
+	"James Warry (4667)" -> "Steve Georganas (610)" [label=33]
+	"James Warry (4667)" -> "Heidi Robins (4664)" [label=14]
+	"Clinton Duncan (4668)" -> "Jen Williams (4669)" [label=215]
+	"James Warry (4667)" -> "Jen Williams (4669)" [label=16]
+	"Heidi Robins (4664)" -> "Richard Bunting (4665)" [label=147]
+	"Clinton Duncan (4668)" -> "Richard Bunting (4665)" [label=57]
+	"James Warry (4667)" -> "Richard Bunting (4665)" [label=18]
+	"Jen Williams (4669)" -> "Tim White (635)" [label=815]
+	"Heidi Robins (4664)" -> "Tim White (635)" [label=267]
+	"Clinton Duncan (4668)" -> "Tim White (635)" [label=137]
+	"James Warry (4667)" -> "Tim White (635)" [label=35]
+}

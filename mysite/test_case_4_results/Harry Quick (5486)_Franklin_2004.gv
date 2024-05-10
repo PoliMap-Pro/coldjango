@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Harry Quick (5486)_Franklin_2004" {
+	graph [label="Franklin 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Harry Quick (5486)" [label="Harry Quick (5486)
+Australian Labor Party"]
+	"Mathew Woolley (5485)" [label="Mathew Woolley (5485)
+Australian Greens"]
+	"Marc Mumford (5488)" [label="Marc Mumford (5488)
+Family First"]
+	"Glenn Shields (5487)" [label="Glenn Shields (5487)
+Socialist Alliance"]
+	"Mathew Woolley (5485)" -> "Harry Quick (5486)" [label=6317]
+	"Marc Mumford (5488)" -> "Mathew Woolley (5485)" [label=291]
+	"Glenn Shields (5487)" -> "Marc Mumford (5488)" [label=86]
+	"Marc Mumford (5488)" -> "Harry Quick (5486)" [label=780]
+	"Glenn Shields (5487)" -> "Harry Quick (5486)" [label=104]
+	"Glenn Shields (5487)" -> "Mathew Woolley (5485)" [label=121]
+}

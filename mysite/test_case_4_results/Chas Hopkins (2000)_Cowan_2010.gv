@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Chas Hopkins (2000)_Cowan_2010" {
+	graph [label="Cowan 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
+Australian Labor Party"]
+	"Rob Phillips (4175)" [label="Rob Phillips (4175)
+The Greens"]
+	"David Kingston (2379)" [label="David Kingston (2379)
+Christian Democratic Party"]
+	"Alan Leach (4176)" [label="Alan Leach (4176)
+Family First"]
+	"Rob Phillips (4175)" -> "Chas Hopkins (2000)" [label=8364]
+	"David Kingston (2379)" -> "Rob Phillips (4175)" [label=529]
+	"Alan Leach (4176)" -> "David Kingston (2379)" [label=601]
+	"David Kingston (2379)" -> "Chas Hopkins (2000)" [label=386]
+	"Alan Leach (4176)" -> "Chas Hopkins (2000)" [label=267]
+	"Alan Leach (4176)" -> "Rob Phillips (4175)" [label=506]
+}

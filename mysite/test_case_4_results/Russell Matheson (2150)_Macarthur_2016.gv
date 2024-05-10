@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Russell Matheson (2150)_Macarthur_2016" {
+	graph [label="Macarthur 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Russell Matheson (2150)" [label="Russell Matheson (2150)
+Liberal"]
+	"James Gent (1350)" [label="James Gent (1350)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ben Moroney (2151)" [label="Ben Moroney (2151)
+The Greens"]
+	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
+Nick Xenophon Team"]
+	"James Gent (1350)" -> "Russell Matheson (2150)" [label=3822]
+	"Ben Moroney (2151)" -> "James Gent (1350)" [label=657]
+	"Richard Heltay Bakoss (2149)" -> "Ben Moroney (2151)" [label=489]
+	"Ben Moroney (2151)" -> "Russell Matheson (2150)" [label=677]
+	"Richard Heltay Bakoss (2149)" -> "Russell Matheson (2150)" [label=730]
+	"Richard Heltay Bakoss (2149)" -> "James Gent (1350)" [label=1252]
+}

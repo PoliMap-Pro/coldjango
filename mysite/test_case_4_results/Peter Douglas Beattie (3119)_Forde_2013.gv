@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Peter Douglas Beattie (3119)_Forde_2013" {
+	graph [label="Forde 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Douglas Beattie (3119)" [label="Peter Douglas Beattie (3119)
+Australian Labor Party"]
+	"Blair Matthew Brewster (3121)" [label="Blair Matthew Brewster (3121)
+Palmer United Party"]
+	"Sally Spain (440)" [label="Sally Spain (440)
+The Greens"]
+	"Amanda Best (3124)" [label="Amanda Best (3124)
+Family First"]
+	"Paul Roger Hunter (3125)" [label="Paul Roger Hunter (3125)
+Katter's Australian Party"]
+	"Jonathan Jennings (3118)" [label="Jonathan Jennings (3118)
+Rise Up Australia Party"]
+	"Joshua Sloss (3122)" [label="Joshua Sloss (3122)
+Independent"]
+	"Keith Douglas (3120)" [label="Keith Douglas (3120)
+Australian Voice"]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
+	"Blair Matthew Brewster (3121)" -> "Peter Douglas Beattie (3119)" [label=6043]
+	"Sally Spain (440)" -> "Blair Matthew Brewster (3121)" [label=1715]
+	"Amanda Best (3124)" -> "Sally Spain (440)" [label=729]
+	"Paul Roger Hunter (3125)" -> "Amanda Best (3124)" [label=329]
+	"Jonathan Jennings (3118)" -> "Paul Roger Hunter (3125)" [label=58]
+	"Joshua Sloss (3122)" -> "Jonathan Jennings (3118)" [label=58]
+	"Keith Douglas (3120)" -> "Joshua Sloss (3122)" [label=46]
+	"Jan Pukallus (3123)" -> "Keith Douglas (3120)" [label=12]
+	"Sally Spain (440)" -> "Peter Douglas Beattie (3119)" [label=1914]
+	"Amanda Best (3124)" -> "Peter Douglas Beattie (3119)" [label=325]
+	"Paul Roger Hunter (3125)" -> "Peter Douglas Beattie (3119)" [label=240]
+	"Jonathan Jennings (3118)" -> "Peter Douglas Beattie (3119)" [label=129]
+	"Joshua Sloss (3122)" -> "Peter Douglas Beattie (3119)" [label=99]
+	"Keith Douglas (3120)" -> "Peter Douglas Beattie (3119)" [label=49]
+	"Jan Pukallus (3123)" -> "Peter Douglas Beattie (3119)" [label=11]
+	"Jan Pukallus (3123)" -> "Joshua Sloss (3122)" [label=11]
+	"Keith Douglas (3120)" -> "Jonathan Jennings (3118)" [label=44]
+	"Jan Pukallus (3123)" -> "Jonathan Jennings (3118)" [label=16]
+	"Joshua Sloss (3122)" -> "Paul Roger Hunter (3125)" [label=71]
+	"Keith Douglas (3120)" -> "Paul Roger Hunter (3125)" [label=11]
+	"Jan Pukallus (3123)" -> "Paul Roger Hunter (3125)" [label=14]
+	"Jonathan Jennings (3118)" -> "Amanda Best (3124)" [label=143]
+	"Joshua Sloss (3122)" -> "Amanda Best (3124)" [label=115]
+	"Keith Douglas (3120)" -> "Amanda Best (3124)" [label=25]
+	"Jan Pukallus (3123)" -> "Amanda Best (3124)" [label=14]
+	"Paul Roger Hunter (3125)" -> "Sally Spain (440)" [label=167]
+	"Jonathan Jennings (3118)" -> "Sally Spain (440)" [label=48]
+	"Joshua Sloss (3122)" -> "Sally Spain (440)" [label=185]
+	"Keith Douglas (3120)" -> "Sally Spain (440)" [label=16]
+	"Jan Pukallus (3123)" -> "Sally Spain (440)" [label=23]
+	"Amanda Best (3124)" -> "Blair Matthew Brewster (3121)" [label=534]
+	"Paul Roger Hunter (3125)" -> "Blair Matthew Brewster (3121)" [label=796]
+	"Jonathan Jennings (3118)" -> "Blair Matthew Brewster (3121)" [label=87]
+	"Joshua Sloss (3122)" -> "Blair Matthew Brewster (3121)" [label=134]
+	"Keith Douglas (3120)" -> "Blair Matthew Brewster (3121)" [label=45]
+	"Jan Pukallus (3123)" -> "Blair Matthew Brewster (3121)" [label=14]
+}

@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Kate Ashmor (1867)_Macnamara_2019" {
+	graph [label="Macnamara 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Kate Ashmor (1867)" [label="Kate Ashmor (1867)
+Liberal"]
+	"Steph Hodgins-May (979)" [label="Steph Hodgins-May (979)
+The Greens (VIC)"]
+	"Craig Mcpherson (1869)" [label="Craig Mcpherson (1869)
+Animal Justice Party"]
+	"Ruby O'Rourke (1865)" [label="Ruby O'Rourke (1865)
+Independent"]
+	"Helen Lucy Paton (1871)" [label="Helen Lucy Paton (1871)
+United Australia Party"]
+	"Steven Armstrong (1866)" [label="Steven Armstrong (1866)
+Sustainable Australia"]
+	"Chris Wallis (1868)" [label="Chris Wallis (1868)
+Independent"]
+	"Christine Kay (1870)" [label="Christine Kay (1870)
+Rise Up Australia Party"]
+	"Steph Hodgins-May (979)" -> "Kate Ashmor (1867)" [label=4115]
+	"Craig Mcpherson (1869)" -> "Steph Hodgins-May (979)" [label=1605]
+	"Ruby O'Rourke (1865)" -> "Craig Mcpherson (1869)" [label=406]
+	"Helen Lucy Paton (1871)" -> "Ruby O'Rourke (1865)" [label=229]
+	"Steven Armstrong (1866)" -> "Helen Lucy Paton (1871)" [label=91]
+	"Chris Wallis (1868)" -> "Steven Armstrong (1866)" [label=78]
+	"Christine Kay (1870)" -> "Chris Wallis (1868)" [label=22]
+	"Craig Mcpherson (1869)" -> "Kate Ashmor (1867)" [label=611]
+	"Ruby O'Rourke (1865)" -> "Kate Ashmor (1867)" [label=394]
+	"Helen Lucy Paton (1871)" -> "Kate Ashmor (1867)" [label=653]
+	"Steven Armstrong (1866)" -> "Kate Ashmor (1867)" [label=155]
+	"Chris Wallis (1868)" -> "Kate Ashmor (1867)" [label=154]
+	"Christine Kay (1870)" -> "Kate Ashmor (1867)" [label=114]
+	"Christine Kay (1870)" -> "Steven Armstrong (1866)" [label=39]
+	"Chris Wallis (1868)" -> "Helen Lucy Paton (1871)" [label=32]
+	"Christine Kay (1870)" -> "Helen Lucy Paton (1871)" [label=106]
+	"Steven Armstrong (1866)" -> "Ruby O'Rourke (1865)" [label=177]
+	"Chris Wallis (1868)" -> "Ruby O'Rourke (1865)" [label=315]
+	"Christine Kay (1870)" -> "Ruby O'Rourke (1865)" [label=18]
+	"Helen Lucy Paton (1871)" -> "Craig Mcpherson (1869)" [label=175]
+	"Steven Armstrong (1866)" -> "Craig Mcpherson (1869)" [label=209]
+	"Chris Wallis (1868)" -> "Craig Mcpherson (1869)" [label=57]
+	"Christine Kay (1870)" -> "Craig Mcpherson (1869)" [label=32]
+	"Ruby O'Rourke (1865)" -> "Steph Hodgins-May (979)" [label=754]
+	"Helen Lucy Paton (1871)" -> "Steph Hodgins-May (979)" [label=126]
+	"Steven Armstrong (1866)" -> "Steph Hodgins-May (979)" [label=326]
+	"Chris Wallis (1868)" -> "Steph Hodgins-May (979)" [label=181]
+	"Christine Kay (1870)" -> "Steph Hodgins-May (979)" [label=11]
+}

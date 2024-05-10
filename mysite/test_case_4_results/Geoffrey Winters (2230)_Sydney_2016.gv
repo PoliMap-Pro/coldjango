@@ -1,0 +1,59 @@
+// House preference flow
+digraph "Geoffrey Winters (2230)_Sydney_2016" {
+	graph [label="Sydney 2016" labelloc=t mclimit=2]
+	node [shape=box]
+	"Geoffrey Winters (2230)" [label="Geoffrey Winters (2230)
+Liberal"]
+	"Sylvie Ellsmore (2232)" [label="Sylvie Ellsmore (2232)
+The Greens"]
+	"Mark Berriman (2228)" [label="Mark Berriman (2228)
+Animal Justice Party"]
+	"Rebecca Lanning (2234)" [label="Rebecca Lanning (2234)
+Australian Sex Party"]
+	"Ula Falanga (2227)" [label="Ula Falanga (2227)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tom Geiser (2231)" [label="Tom Geiser (2231)
+Science Party"]
+	"Kris Spike (2229)" [label="Kris Spike (2229)
+Sustainable Australia"]
+	"Peter Boyle (2233)" [label="Peter Boyle (2233)
+Socialist Alliance"]
+	"Tula Tzoras (2235)" [label="Tula Tzoras (2235)
+Online Direct Democracy - (Empowering the People!)"]
+	"Sylvie Ellsmore (2232)" -> "Geoffrey Winters (2230)" [label=2427]
+	"Mark Berriman (2228)" -> "Sylvie Ellsmore (2232)" [label=1297]
+	"Rebecca Lanning (2234)" -> "Mark Berriman (2228)" [label=542]
+	"Ula Falanga (2227)" -> "Rebecca Lanning (2234)" [label=76]
+	"Tom Geiser (2231)" -> "Ula Falanga (2227)" [label=39]
+	"Kris Spike (2229)" -> "Tom Geiser (2231)" [label=111]
+	"Peter Boyle (2233)" -> "Kris Spike (2229)" [label=15]
+	"Tula Tzoras (2235)" -> "Peter Boyle (2233)" [label=23]
+	"Mark Berriman (2228)" -> "Geoffrey Winters (2230)" [label=1073]
+	"Rebecca Lanning (2234)" -> "Geoffrey Winters (2230)" [label=297]
+	"Ula Falanga (2227)" -> "Geoffrey Winters (2230)" [label=705]
+	"Tom Geiser (2231)" -> "Geoffrey Winters (2230)" [label=204]
+	"Kris Spike (2229)" -> "Geoffrey Winters (2230)" [label=118]
+	"Peter Boyle (2233)" -> "Geoffrey Winters (2230)" [label=15]
+	"Tula Tzoras (2235)" -> "Geoffrey Winters (2230)" [label=29]
+	"Tula Tzoras (2235)" -> "Kris Spike (2229)" [label=32]
+	"Peter Boyle (2233)" -> "Tom Geiser (2231)" [label=41]
+	"Tula Tzoras (2235)" -> "Tom Geiser (2231)" [label=53]
+	"Kris Spike (2229)" -> "Ula Falanga (2227)" [label=51]
+	"Peter Boyle (2233)" -> "Ula Falanga (2227)" [label=17]
+	"Tula Tzoras (2235)" -> "Ula Falanga (2227)" [label=21]
+	"Tom Geiser (2231)" -> "Rebecca Lanning (2234)" [label=400]
+	"Kris Spike (2229)" -> "Rebecca Lanning (2234)" [label=54]
+	"Peter Boyle (2233)" -> "Rebecca Lanning (2234)" [label=41]
+	"Tula Tzoras (2235)" -> "Rebecca Lanning (2234)" [label=94]
+	"Ula Falanga (2227)" -> "Mark Berriman (2228)" [label=572]
+	"Tom Geiser (2231)" -> "Mark Berriman (2228)" [label=170]
+	"Kris Spike (2229)" -> "Mark Berriman (2228)" [label=147]
+	"Peter Boyle (2233)" -> "Mark Berriman (2228)" [label=34]
+	"Tula Tzoras (2235)" -> "Mark Berriman (2228)" [label=35]
+	"Rebecca Lanning (2234)" -> "Sylvie Ellsmore (2232)" [label=753]
+	"Ula Falanga (2227)" -> "Sylvie Ellsmore (2232)" [label=99]
+	"Tom Geiser (2231)" -> "Sylvie Ellsmore (2232)" [label=488]
+	"Kris Spike (2229)" -> "Sylvie Ellsmore (2232)" [label=105]
+	"Peter Boyle (2233)" -> "Sylvie Ellsmore (2232)" [label=257]
+	"Tula Tzoras (2235)" -> "Sylvie Ellsmore (2232)" [label=57]
+}

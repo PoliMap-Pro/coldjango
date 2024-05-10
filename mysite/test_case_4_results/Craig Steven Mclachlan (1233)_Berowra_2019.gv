@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Craig Steven Mclachlan (1233)_Berowra_2019" {
+	graph [label="Berowra 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Craig Steven Mclachlan (1233)" [label="Craig Steven Mclachlan (1233)
+United Australia Party"]
+	"Justin Thomas (1237)" [label="Justin Thomas (1237)
+Sustainable Australia"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Justin Thomas (1237)" -> "Craig Steven Mclachlan (1233)" [label=95]
+	"Roger Woodward (47)" -> "Justin Thomas (1237)" [label=28]
+	"Roger Woodward (47)" -> "Craig Steven Mclachlan (1233)" [label=17]
+}

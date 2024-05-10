@@ -1,0 +1,49 @@
+// House preference flow
+digraph "Rana Watson (3902)_Fadden_2007" {
+	graph [label="Fadden 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rana Watson (3902)" [label="Rana Watson (3902)
+Australian Labor Party"]
+	"Alex Douglas (4518)" [label="Alex Douglas (4518)
+The Nationals"]
+	"Michael Beale (4522)" [label="Michael Beale (4522)
+The Greens"]
+	"Ross Wilson (4521)" [label="Ross Wilson (4521)
+Family First"]
+	"David Montgomery (4520)" [label="David Montgomery (4520)
+Independent"]
+	"John Walter (4517)" [label="John Walter (4517)
+One Nation WA"]
+	"Ken Martin (4516)" [label="Ken Martin (4516)
+Citizens Electoral Council"]
+	"Chris Faint (4519)" [label="Chris Faint (4519)
+Democrats"]
+	"Alex Douglas (4518)" -> "Rana Watson (3902)" [label=1266]
+	"Michael Beale (4522)" -> "Alex Douglas (4518)" [label=1008]
+	"Ross Wilson (4521)" -> "Michael Beale (4522)" [label=495]
+	"David Montgomery (4520)" -> "Ross Wilson (4521)" [label=237]
+	"John Walter (4517)" -> "David Montgomery (4520)" [label=133]
+	"Ken Martin (4516)" -> "John Walter (4517)" [label=409]
+	"Chris Faint (4519)" -> "Ken Martin (4516)" [label=45]
+	"Michael Beale (4522)" -> "Rana Watson (3902)" [label=2894]
+	"Ross Wilson (4521)" -> "Rana Watson (3902)" [label=534]
+	"David Montgomery (4520)" -> "Rana Watson (3902)" [label=217]
+	"John Walter (4517)" -> "Rana Watson (3902)" [label=103]
+	"Ken Martin (4516)" -> "Rana Watson (3902)" [label=21]
+	"Chris Faint (4519)" -> "Rana Watson (3902)" [label=64]
+	"Chris Faint (4519)" -> "John Walter (4517)" [label=17]
+	"Ken Martin (4516)" -> "David Montgomery (4520)" [label=30]
+	"Chris Faint (4519)" -> "David Montgomery (4520)" [label=84]
+	"John Walter (4517)" -> "Ross Wilson (4521)" [label=113]
+	"Ken Martin (4516)" -> "Ross Wilson (4521)" [label=27]
+	"Chris Faint (4519)" -> "Ross Wilson (4521)" [label=24]
+	"David Montgomery (4520)" -> "Michael Beale (4522)" [label=255]
+	"John Walter (4517)" -> "Michael Beale (4522)" [label=92]
+	"Ken Martin (4516)" -> "Michael Beale (4522)" [label=44]
+	"Chris Faint (4519)" -> "Michael Beale (4522)" [label=133]
+	"Ross Wilson (4521)" -> "Alex Douglas (4518)" [label=337]
+	"David Montgomery (4520)" -> "Alex Douglas (4518)" [label=287]
+	"John Walter (4517)" -> "Alex Douglas (4518)" [label=532]
+	"Ken Martin (4516)" -> "Alex Douglas (4518)" [label=67]
+	"Chris Faint (4519)" -> "Alex Douglas (4518)" [label=71]
+}

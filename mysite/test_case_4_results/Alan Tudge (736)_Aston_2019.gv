@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Alan Tudge (736)_Aston_2019" {
+	graph [label="Aston 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Alan Tudge (736)" [label="Alan Tudge (736)
+Liberal"]
+	"Asher Cookson (737)" [label="Asher Cookson (737)
+The Greens (VIC)"]
+	"Matthew Sirianni-Duffy (1725)" [label="Matthew Sirianni-Duffy (1725)
+United Australia Party"]
+	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
+Labour DLP"]
+	"Asher Cookson (737)" -> "Alan Tudge (736)" [label=2337]
+	"Matthew Sirianni-Duffy (1725)" -> "Asher Cookson (737)" [label=766]
+	"Anna Kennedy (1726)" -> "Matthew Sirianni-Duffy (1725)" [label=465]
+	"Matthew Sirianni-Duffy (1725)" -> "Alan Tudge (736)" [label=2171]
+	"Anna Kennedy (1726)" -> "Alan Tudge (736)" [label=928]
+	"Anna Kennedy (1726)" -> "Asher Cookson (737)" [label=521]
+}

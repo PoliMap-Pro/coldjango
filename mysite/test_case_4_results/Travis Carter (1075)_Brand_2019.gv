@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Travis Carter (1075)_Brand_2019" {
+	graph [label="Brand 2019" labelloc=t mclimit=2]
+	node [shape=box]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+Independent"]
+	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
+Australian Christians"]
+	"Blake Phelan (1928)" [label="Blake Phelan (1928)
+WESTERN AUSTRALIA PARTY"]
+	"Karen-Lee Mills (1926)" [label="Karen-Lee Mills (1926)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Trevor Jones (1662)" -> "Travis Carter (1075)" [label=1700]
+	"Janine Joy Vander Ven (1924)" -> "Trevor Jones (1662)" [label=229]
+	"Blake Phelan (1928)" -> "Janine Joy Vander Ven (1924)" [label=175]
+	"Karen-Lee Mills (1926)" -> "Blake Phelan (1928)" [label=114]
+	"Janine Joy Vander Ven (1924)" -> "Travis Carter (1075)" [label=385]
+	"Blake Phelan (1928)" -> "Travis Carter (1075)" [label=574]
+	"Karen-Lee Mills (1926)" -> "Travis Carter (1075)" [label=556]
+	"Karen-Lee Mills (1926)" -> "Janine Joy Vander Ven (1924)" [label=169]
+	"Blake Phelan (1928)" -> "Trevor Jones (1662)" [label=425]
+	"Karen-Lee Mills (1926)" -> "Trevor Jones (1662)" [label=175]
+}
