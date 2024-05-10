@@ -8,18 +8,6 @@ The Greens"]
 United Australia Party"]
 	"Les Innes (1540)" [label="Les Innes (1540)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Kirsty Petersen (1537)" [label="Kirsty Petersen (1537)
-The Greens"]
-	"Les Innes (1540)" [label="Les Innes (1540)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Les Innes (1540)" [label="Les Innes (1540)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Paul Creighton (1538)" [label="Paul Creighton (1538)
-United Australia Party"]
-	"Les Innes (1540)" [label="Les Innes (1540)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Les Innes (1540)" [label="Les Innes (1540)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Paul Creighton (1538)" -> "Kirsty Petersen (1537)" [label=524]
 	"Les Innes (1540)" -> "Paul Creighton (1538)" [label=328]
 	"Les Innes (1540)" -> "Kirsty Petersen (1537)" [label=175]

@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Darren Hassan (4030)" [label="Darren Hassan (4030)
 Australian Democrats"]
-	"Jane Alcorn (4028)" [label="Jane Alcorn (4028)
-The Greens"]
-	"Darren Hassan (4030)" [label="Darren Hassan (4030)
-Australian Democrats"]
-	"Darren Hassan (4030)" [label="Darren Hassan (4030)
-Australian Democrats"]
-	"Paul Coombe (2474)" [label="Paul Coombe (2474)
-Family First"]
-	"Darren Hassan (4030)" [label="Darren Hassan (4030)
-Australian Democrats"]
-	"Darren Hassan (4030)" [label="Darren Hassan (4030)
-Australian Democrats"]
 	"Paul Coombe (2474)" -> "Jane Alcorn (4028)" [label=2165]
 	"Darren Hassan (4030)" -> "Paul Coombe (2474)" [label=287]
 	"Darren Hassan (4030)" -> "Jane Alcorn (4028)" [label=375]

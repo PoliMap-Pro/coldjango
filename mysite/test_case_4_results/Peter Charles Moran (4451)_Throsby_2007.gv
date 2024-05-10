@@ -6,7 +6,5 @@ digraph "Peter Charles Moran (4451)_Throsby_2007" {
 The Greens"]
 	"Scott Gordon Deakes (4453)" [label="Scott Gordon Deakes (4453)
 Christian Democratic Party (Fred Nile Group)"]
-	"Scott Gordon Deakes (4453)" [label="Scott Gordon Deakes (4453)
-Christian Democratic Party (Fred Nile Group)"]
 	"Scott Gordon Deakes (4453)" -> "Peter Charles Moran (4451)" [label=352]
 }

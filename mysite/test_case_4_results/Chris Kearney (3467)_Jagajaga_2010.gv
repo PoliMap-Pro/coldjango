@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Peter Harris (627)" [label="Peter Harris (627)
 Secular Party of Australia"]
-	"Chris Kearney (3467)" [label="Chris Kearney (3467)
-Australian Greens"]
-	"Peter Harris (627)" [label="Peter Harris (627)
-Secular Party of Australia"]
-	"Peter Harris (627)" [label="Peter Harris (627)
-Secular Party of Australia"]
-	"Joe Sgarlata (4110)" [label="Joe Sgarlata (4110)
-Family First"]
-	"Peter Harris (627)" [label="Peter Harris (627)
-Secular Party of Australia"]
-	"Peter Harris (627)" [label="Peter Harris (627)
-Secular Party of Australia"]
 	"Joe Sgarlata (4110)" -> "Chris Kearney (3467)" [label=428]
 	"Peter Harris (627)" -> "Joe Sgarlata (4110)" [label=82]
 	"Peter Harris (627)" -> "Chris Kearney (3467)" [label=270]

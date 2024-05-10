@@ -10,42 +10,6 @@ Independent"]
 LDP"]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]
-	"Debbie Hudson (4484)" [label="Debbie Hudson (4484)
-The Greens"]
-	"Jacques Chester (4481)" [label="Jacques Chester (4481)
-LDP"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Debbie Hudson (4484)" [label="Debbie Hudson (4484)
-The Greens"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Jacques Chester (4481)" [label="Jacques Chester (4481)
-LDP"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Maurice Foley (4483)" [label="Maurice Foley (4483)
-Independent"]
-	"Jacques Chester (4481)" [label="Jacques Chester (4481)
-LDP"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Maurice Foley (4483)" [label="Maurice Foley (4483)
-Independent"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Jacques Chester (4481)" [label="Jacques Chester (4481)
-LDP"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
 	"Maurice Foley (4483)" -> "Debbie Hudson (4484)" [label=338]
 	"Jacques Chester (4481)" -> "Maurice Foley (4483)" [label=65]
 	"Trudy Campbell (3048)" -> "Jacques Chester (4481)" [label=49]

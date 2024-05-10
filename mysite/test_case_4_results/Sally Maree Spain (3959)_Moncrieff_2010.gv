@@ -6,7 +6,5 @@ digraph "Sally Maree Spain (3959)_Moncrieff_2010" {
 The Greens"]
 	"James Grahame Tayler (3960)" [label="James Grahame Tayler (3960)
 Family First"]
-	"James Grahame Tayler (3960)" [label="James Grahame Tayler (3960)
-Family First"]
 	"James Grahame Tayler (3960)" -> "Sally Maree Spain (3959)" [label=758]
 }

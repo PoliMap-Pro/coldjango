@@ -6,7 +6,5 @@ digraph "Jess Wheelock (1826)_Holt_2019" {
 The Greens (VIC)"]
 	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
 United Australia Party"]
-	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
-United Australia Party"]
 	"Jatinder Singh (1827)" -> "Jess Wheelock (1826)" [label=1355]
 }

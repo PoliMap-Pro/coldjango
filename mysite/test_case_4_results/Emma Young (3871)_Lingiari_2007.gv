@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"Wayne Wright (4477)" [label="Wayne Wright (4477)
 Independent"]
-	"Emma Young (3871)" [label="Emma Young (3871)
-The Greens"]
-	"Wayne Wright (4477)" [label="Wayne Wright (4477)
-Independent"]
-	"Wayne Wright (4477)" [label="Wayne Wright (4477)
-Independent"]
-	"Maurie Japarta Ryan (4478)" [label="Maurie Japarta Ryan (4478)
-Independent"]
-	"Wayne Wright (4477)" [label="Wayne Wright (4477)
-Independent"]
-	"Wayne Wright (4477)" [label="Wayne Wright (4477)
-Independent"]
 	"Maurie Japarta Ryan (4478)" -> "Emma Young (3871)" [label=436]
 	"Wayne Wright (4477)" -> "Maurie Japarta Ryan (4478)" [label=373]
 	"Wayne Wright (4477)" -> "Emma Young (3871)" [label=113]

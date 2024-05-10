@@ -10,42 +10,6 @@ Pauline Hanson's One Nation"]
 United Australia Party"]
 	"Phil Johnson (402)" [label="Phil Johnson (402)
 TNL"]
-	"Ian Mazlin (400)" [label="Ian Mazlin (400)
-Queensland Greens"]
-	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
-United Australia Party"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Ian Mazlin (400)" [label="Ian Mazlin (400)
-Queensland Greens"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
-United Australia Party"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Walter Todd (398)" [label="Walter Todd (398)
-Pauline Hanson's One Nation"]
-	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
-United Australia Party"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Walter Todd (398)" [label="Walter Todd (398)
-Pauline Hanson's One Nation"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
-United Australia Party"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
-	"Phil Johnson (402)" [label="Phil Johnson (402)
-TNL"]
 	"Walter Todd (398)" -> "Ian Mazlin (400)" [label=4028]
 	"Mary-Jane Stevens (399)" -> "Walter Todd (398)" [label=4609]
 	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]

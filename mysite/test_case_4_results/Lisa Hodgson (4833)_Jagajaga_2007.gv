@@ -10,42 +10,6 @@ Family First"]
 Australian Democrats"]
 	"Stephen Lele (4832)" [label="Stephen Lele (4832)
 Citizens Electoral Council"]
-	"Lisa Hodgson (4833)" [label="Lisa Hodgson (4833)
-Australian Greens"]
-	"Jason Graham (4834)" [label="Jason Graham (4834)
-Australian Democrats"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Lisa Hodgson (4833)" [label="Lisa Hodgson (4833)
-Australian Greens"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Jason Graham (4834)" [label="Jason Graham (4834)
-Australian Democrats"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
-Family First"]
-	"Jason Graham (4834)" [label="Jason Graham (4834)
-Australian Democrats"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
-Family First"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Jason Graham (4834)" [label="Jason Graham (4834)
-Australian Democrats"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
-	"Stephen Lele (4832)" [label="Stephen Lele (4832)
-Citizens Electoral Council"]
 	"Andrew Conlon (3541)" -> "Lisa Hodgson (4833)" [label=408]
 	"Jason Graham (4834)" -> "Andrew Conlon (3541)" [label=95]
 	"Stephen Lele (4832)" -> "Jason Graham (4834)" [label=37]

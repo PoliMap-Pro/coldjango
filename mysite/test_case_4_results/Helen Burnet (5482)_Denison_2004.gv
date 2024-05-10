@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
 Socialist Alliance"]
-	"Helen Burnet (5482)" [label="Helen Burnet (5482)
-Australian Greens"]
-	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
-Socialist Alliance"]
-	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
-Socialist Alliance"]
-	"Gino Papiccio (4724)" [label="Gino Papiccio (4724)
-Family First"]
-	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
-Socialist Alliance"]
-	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
-Socialist Alliance"]
 	"Gino Papiccio (4724)" -> "Helen Burnet (5482)" [label=282]
 	"Kamala Emanuel (1492)" -> "Gino Papiccio (4724)" [label=115]
 	"Kamala Emanuel (1492)" -> "Helen Burnet (5482)" [label=254]

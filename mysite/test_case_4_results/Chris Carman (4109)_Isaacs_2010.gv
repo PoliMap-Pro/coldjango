@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
 Independent"]
-	"Chris Carman (4109)" [label="Chris Carman (4109)
-Australian Greens"]
-	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
-Independent"]
-	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
-Independent"]
-	"Heather Wheatley (4106)" [label="Heather Wheatley (4106)
-Family First"]
-	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
-Independent"]
-	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
-Independent"]
 	"Heather Wheatley (4106)" -> "Chris Carman (4109)" [label=872]
 	"Gordon W Ford (4108)" -> "Heather Wheatley (4106)" [label=332]
 	"Gordon W Ford (4108)" -> "Chris Carman (4109)" [label=452]

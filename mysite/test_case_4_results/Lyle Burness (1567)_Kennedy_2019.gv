@@ -6,7 +6,5 @@ digraph "Lyle Burness (1567)_Kennedy_2019" {
 The Greens"]
 	"Ian Douglas Hackwell (1568)" [label="Ian Douglas Hackwell (1568)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Ian Douglas Hackwell (1568)" [label="Ian Douglas Hackwell (1568)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Ian Douglas Hackwell (1568)" -> "Lyle Burness (1567)" [label=145]
 }

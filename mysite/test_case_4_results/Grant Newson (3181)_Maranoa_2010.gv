@@ -6,7 +6,5 @@ digraph "Grant Newson (3181)_Maranoa_2010" {
 The Greens"]
 	"Greg Mckay (3952)" [label="Greg Mckay (3952)
 Family First"]
-	"Greg Mckay (3952)" [label="Greg Mckay (3952)
-Family First"]
 	"Greg Mckay (3952)" -> "Grant Newson (3181)" [label=597]
 }

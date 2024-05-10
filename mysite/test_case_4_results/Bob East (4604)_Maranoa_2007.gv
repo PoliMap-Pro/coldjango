@@ -6,7 +6,5 @@ digraph "Bob East (4604)_Maranoa_2007" {
 The Greens"]
 	"Alan Dickson (4602)" [label="Alan Dickson (4602)
 Democrats"]
-	"Alan Dickson (4602)" [label="Alan Dickson (4602)
-Democrats"]
 	"Alan Dickson (4602)" -> "Bob East (4604)" [label=228]
 }

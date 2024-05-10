@@ -8,18 +8,6 @@ The Greens (VIC)"]
 United Australia Party"]
 	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Rhonda Garad (1741)" [label="Rhonda Garad (1741)
-The Greens (VIC)"]
-	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Mubahil Ahmed (1739)" [label="Mubahil Ahmed (1739)
-United Australia Party"]
-	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Mubahil Ahmed (1739)" -> "Rhonda Garad (1741)" [label=907]
 	"Tim Boyanton (1738)" -> "Mubahil Ahmed (1739)" [label=1652]
 	"Tim Boyanton (1738)" -> "Rhonda Garad (1741)" [label=328]

@@ -1,10 +1,9 @@
 from django.core.management.base import BaseCommand
 
-import mysite.jacobsladder.base_code
-from ... import models, aec_codes
+from ... import models, aec_codes, base_code, folder_reader
 
 
-class Command(BaseCommand, mysite.jacobsladder.base_code.BaseCode):
+class Command(BaseCommand, base_code.BaseCode):
     PREFERENCE_VOTE_KIND = 'Preference Count'
     help = 'Add elections from csv files'
 
@@ -26,8 +25,9 @@ class Command(BaseCommand, mysite.jacobsladder.base_code.BaseCode):
                                text_to_print="First Pass: Reading files in "
                                              "preference distribution "
                                              "directory", quiet=False):
-        StringCode.echo(quiet, text_to_print, False)
-        for filename in StringCode.walk(preference_distribution_directory):
+        folder_reader.FolderReader.echo(quiet, text_to_print, False)
+        for filename in folder_reader.FolderReader.walk(
+                preference_distribution_directory):
             with open(filename, "r") as in_file:
                 Command.set_all_preferences(house_election, pref_objects,
                                             self.fetch_reader(filename,
@@ -39,8 +39,8 @@ class Command(BaseCommand, mysite.jacobsladder.base_code.BaseCode):
                                 text_to_print="Second Pass: Reading files in "
                                               "preference distribution "
                                               "directory", quiet=False):
-        aec_codes.StringCode.echo(quiet, text_to_print)
-        for filename in aec_codes.StringCode.walk(
+        folder_reader.FolderReader.echo(quiet, text_to_print)
+        for filename in folder_reader.FolderReader.walk(
                 preference_distribution_directory):
             with open(filename, "r") as in_file:
                 reader = self.fetch_reader(filename, in_file)
@@ -49,7 +49,7 @@ class Command(BaseCommand, mysite.jacobsladder.base_code.BaseCode):
                         Command.transfer_if_preference(house_election,
                                                        pref_objects, reader)
                     except StopIteration:
-                        aec_codes.StringCode.echo(quiet, "", False)
+                        folder_reader.FolderReader.echo(quiet, "", False)
                         break
 
     def handle(self, *arguments, **keywordarguments):

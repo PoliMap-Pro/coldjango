@@ -10,42 +10,6 @@ Family First"]
 Australian Democrats"]
 	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
 LDP"]
-	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
-Australian Greens"]
-	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
-Australian Democrats"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
-Australian Greens"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
-Australian Democrats"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Fiona Bronte (4783)" [label="Fiona Bronte (4783)
-Family First"]
-	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
-Australian Democrats"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Fiona Bronte (4783)" [label="Fiona Bronte (4783)
-Family First"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
-Australian Democrats"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
 	"Fiona Bronte (4783)" -> "Bill Pemberton (4785)" [label=578]
 	"Paula Nicholson (4784)" -> "Fiona Bronte (4783)" [label=102]
 	"Nick Stevenson (4782)" -> "Paula Nicholson (4784)" [label=35]

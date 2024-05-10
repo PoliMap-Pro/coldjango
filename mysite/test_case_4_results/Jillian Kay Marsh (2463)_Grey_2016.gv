@@ -6,7 +6,5 @@ digraph "Jillian Kay Marsh (2463)_Grey_2016" {
 The Greens"]
 	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
 Independent"]
-	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
-Independent"]
 	"Phillip Gourlay (2461)" -> "Jillian Kay Marsh (2463)" [label=122]
 }

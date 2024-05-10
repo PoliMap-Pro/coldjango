@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"Narelle Seymour (153)" [label="Narelle Seymour (153)
 Pauline Hanson's One Nation"]
-	"Pete Thompson (150)" [label="Pete Thompson (150)
-The Greens"]
-	"Narelle Seymour (153)" [label="Narelle Seymour (153)
-Pauline Hanson's One Nation"]
-	"Narelle Seymour (153)" [label="Narelle Seymour (153)
-Pauline Hanson's One Nation"]
-	"Linda Seymour (154)" [label="Linda Seymour (154)
-Independent"]
-	"Narelle Seymour (153)" [label="Narelle Seymour (153)
-Pauline Hanson's One Nation"]
-	"Narelle Seymour (153)" [label="Narelle Seymour (153)
-Pauline Hanson's One Nation"]
 	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
 	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
 	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]

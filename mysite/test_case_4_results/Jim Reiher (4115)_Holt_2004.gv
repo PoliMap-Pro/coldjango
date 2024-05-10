@@ -10,42 +10,6 @@ Family First"]
 Citizens Electoral Council"]
 	"Daniel Berk (4767)" [label="Daniel Berk (4767)
 Democrats"]
-	"Jim Reiher (4115)" [label="Jim Reiher (4115)
-Australian Greens"]
-	"Jason John (5574)" [label="Jason John (5574)
-Citizens Electoral Council"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Jim Reiher (4115)" [label="Jim Reiher (4115)
-Australian Greens"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Jason John (5574)" [label="Jason John (5574)
-Citizens Electoral Council"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Stephen Burgess (5576)" [label="Stephen Burgess (5576)
-Family First"]
-	"Jason John (5574)" [label="Jason John (5574)
-Citizens Electoral Council"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Stephen Burgess (5576)" [label="Stephen Burgess (5576)
-Family First"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Jason John (5574)" [label="Jason John (5574)
-Citizens Electoral Council"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
-	"Daniel Berk (4767)" [label="Daniel Berk (4767)
-Democrats"]
 	"Stephen Burgess (5576)" -> "Jim Reiher (4115)" [label=777]
 	"Jason John (5574)" -> "Stephen Burgess (5576)" [label=174]
 	"Daniel Berk (4767)" -> "Jason John (5574)" [label=86]

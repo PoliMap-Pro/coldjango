@@ -8,18 +8,6 @@ Australian Greens"]
 Independent"]
 	"Ashley Truter (4094)" [label="Ashley Truter (4094)
 Family First"]
-	"Samuel Hibbins (4093)" [label="Samuel Hibbins (4093)
-Australian Greens"]
-	"Ashley Truter (4094)" [label="Ashley Truter (4094)
-Family First"]
-	"Ashley Truter (4094)" [label="Ashley Truter (4094)
-Family First"]
-	"David Michael Fawcett (4092)" [label="David Michael Fawcett (4092)
-Independent"]
-	"Ashley Truter (4094)" [label="Ashley Truter (4094)
-Family First"]
-	"Ashley Truter (4094)" [label="Ashley Truter (4094)
-Family First"]
 	"David Michael Fawcett (4092)" -> "Samuel Hibbins (4093)" [label=631]
 	"Ashley Truter (4094)" -> "David Michael Fawcett (4092)" [label=158]
 	"Ashley Truter (4094)" -> "Samuel Hibbins (4093)" [label=168]

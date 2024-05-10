@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
 Christian Democratic Party"]
-	"Julie Matheson (4184)" [label="Julie Matheson (4184)
-The Greens"]
-	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
-Christian Democratic Party"]
-	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
-Christian Democratic Party"]
-	"Jane Foreman (4185)" [label="Jane Foreman (4185)
-Family First"]
-	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
-Christian Democratic Party"]
-	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
-Christian Democratic Party"]
 	"Jane Foreman (4185)" -> "Julie Matheson (4184)" [label=626]
 	"Mac Forsyth (4183)" -> "Jane Foreman (4185)" [label=652]
 	"Mac Forsyth (4183)" -> "Julie Matheson (4184)" [label=81]

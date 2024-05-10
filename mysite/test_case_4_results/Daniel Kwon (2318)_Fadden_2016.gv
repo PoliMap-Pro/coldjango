@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
 Veterans Party"]
-	"Daniel Kwon (2318)" [label="Daniel Kwon (2318)
-The Greens"]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
-	"Lyn Rees (2319)" [label="Lyn Rees (2319)
-Family First"]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
 	"Lyn Rees (2319)" -> "Daniel Kwon (2318)" [label=1032]
 	"Sean Macnamara (2320)" -> "Lyn Rees (2319)" [label=237]
 	"Sean Macnamara (2320)" -> "Daniel Kwon (2318)" [label=162]

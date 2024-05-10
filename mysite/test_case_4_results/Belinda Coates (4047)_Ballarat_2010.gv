@@ -6,7 +6,5 @@ digraph "Belinda Coates (4047)_Ballarat_2010" {
 Australian Greens"]
 	"Jim Rainey (4049)" [label="Jim Rainey (4049)
 Family First"]
-	"Jim Rainey (4049)" [label="Jim Rainey (4049)
-Family First"]
 	"Jim Rainey (4049)" -> "Belinda Coates (4047)" [label=523]
 }

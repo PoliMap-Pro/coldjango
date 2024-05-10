@@ -6,7 +6,5 @@ digraph "Helen Mcleod (2647)_Kooyong_2016" {
 The Greens"]
 	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
 Independent"]
-	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
-Independent"]
 	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=1160]
 }

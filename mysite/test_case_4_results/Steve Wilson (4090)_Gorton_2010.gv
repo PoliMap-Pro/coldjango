@@ -6,7 +6,5 @@ digraph "Steve Wilson (4090)_Gorton_2010" {
 Australian Greens"]
 	"Sean Robert Major (4089)" [label="Sean Robert Major (4089)
 Family First"]
-	"Sean Robert Major (4089)" [label="Sean Robert Major (4089)
-Family First"]
 	"Sean Robert Major (4089)" -> "Steve Wilson (4090)" [label=1632]
 }

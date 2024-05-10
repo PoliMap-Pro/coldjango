@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
 Socialist Alliance"]
-	"Andrew Bartlett (1489)" [label="Andrew Bartlett (1489)
-The Greens"]
-	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
-Socialist Alliance"]
-	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
-Socialist Alliance"]
-	"Mark A White (2420)" [label="Mark A White (2420)
-Family First"]
-	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
-Socialist Alliance"]
-	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
-Socialist Alliance"]
 	"Mark A White (2420)" -> "Andrew Bartlett (1489)" [label=410]
 	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=121]
 	"Ewan Saunders (3887)" -> "Andrew Bartlett (1489)" [label=419]

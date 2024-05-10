@@ -6,7 +6,5 @@ digraph "Zephlyn Taylor (1917)_Wannon_2019" {
 The Greens (VIC)"]
 	"Joshua Wallace (1918)" [label="Joshua Wallace (1918)
 United Australia Party"]
-	"Joshua Wallace (1918)" [label="Joshua Wallace (1918)
-United Australia Party"]
 	"Joshua Wallace (1918)" -> "Zephlyn Taylor (1917)" [label=613]
 }

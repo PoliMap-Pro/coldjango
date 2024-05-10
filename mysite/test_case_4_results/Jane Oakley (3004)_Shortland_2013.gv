@@ -6,7 +6,5 @@ digraph "Jane Oakley (3004)_Shortland_2013" {
 The Greens"]
 	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
 Christian Democratic Party (Fred Nile Group)"]
-	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
-Christian Democratic Party (Fred Nile Group)"]
 	"Andrew Weatherstone (2133)" -> "Jane Oakley (3004)" [label=109]
 }

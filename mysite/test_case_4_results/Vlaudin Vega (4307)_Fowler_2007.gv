@@ -6,7 +6,5 @@ digraph "Vlaudin Vega (4307)_Fowler_2007" {
 The Greens"]
 	"Paul Termeulen (4309)" [label="Paul Termeulen (4309)
 Christian Democratic Party (Fred Nile Group)"]
-	"Paul Termeulen (4309)" [label="Paul Termeulen (4309)
-Christian Democratic Party (Fred Nile Group)"]
 	"Paul Termeulen (4309)" -> "Vlaudin Vega (4307)" [label=345]
 }

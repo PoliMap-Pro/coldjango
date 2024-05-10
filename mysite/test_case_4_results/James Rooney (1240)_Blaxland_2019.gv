@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
 United Australia Party"]
-	"James Rooney (1240)" [label="James Rooney (1240)
-The Greens"]
-	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
-United Australia Party"]
-	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
-United Australia Party"]
-	"Veronica Rowe (1238)" [label="Veronica Rowe (1238)
-Christian Democratic Party (Fred Nile Group)"]
-	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
-United Australia Party"]
-	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
-United Australia Party"]
 	"Veronica Rowe (1238)" -> "James Rooney (1240)" [label=433]
 	"Nadeem Ashraf (1239)" -> "Veronica Rowe (1238)" [label=421]
 	"Nadeem Ashraf (1239)" -> "James Rooney (1240)" [label=491]

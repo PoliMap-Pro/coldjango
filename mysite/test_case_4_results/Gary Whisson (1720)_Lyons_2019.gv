@@ -6,7 +6,5 @@ digraph "Gary Whisson (1720)_Lyons_2019" {
 The Greens"]
 	"Michael Warne (1723)" [label="Michael Warne (1723)
 United Australia Party"]
-	"Michael Warne (1723)" [label="Michael Warne (1723)
-United Australia Party"]
 	"Michael Warne (1723)" -> "Gary Whisson (1720)" [label=204]
 }

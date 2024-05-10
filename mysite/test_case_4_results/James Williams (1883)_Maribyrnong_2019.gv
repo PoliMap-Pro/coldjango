@@ -6,7 +6,5 @@ digraph "James Williams (1883)_Maribyrnong_2019" {
 The Greens (VIC)"]
 	"Md Sarwar Hasan (1882)" [label="Md Sarwar Hasan (1882)
 United Australia Party"]
-	"Md Sarwar Hasan (1882)" [label="Md Sarwar Hasan (1882)
-United Australia Party"]
 	"Md Sarwar Hasan (1882)" -> "James Williams (1883)" [label=1190]
 }

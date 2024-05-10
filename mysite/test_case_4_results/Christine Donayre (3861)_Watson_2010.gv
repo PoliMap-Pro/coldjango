@@ -6,7 +6,5 @@ digraph "Christine Donayre (3861)_Watson_2010" {
 The Greens"]
 	"Mark Sharma (3859)" [label="Mark Sharma (3859)
 Independent"]
-	"Mark Sharma (3859)" [label="Mark Sharma (3859)
-Independent"]
 	"Mark Sharma (3859)" -> "Christine Donayre (3861)" [label=594]
 }

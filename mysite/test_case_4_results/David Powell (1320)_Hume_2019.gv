@@ -8,18 +8,6 @@ The Greens"]
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
 Christian Democratic Party (Fred Nile Group)"]
-	"David Powell (1320)" [label="David Powell (1320)
-The Greens"]
-	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
-Christian Democratic Party (Fred Nile Group)"]
-	"Tanya Hargraves (1319)" [label="Tanya Hargraves (1319)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
-Christian Democratic Party (Fred Nile Group)"]
 	"Tanya Hargraves (1319)" -> "David Powell (1320)" [label=97]
 	"Ian Stanley Nebauer (1322)" -> "Tanya Hargraves (1319)" [label=162]
 	"Ian Stanley Nebauer (1322)" -> "David Powell (1320)" [label=94]

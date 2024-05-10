@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Jarrod Wirth (3060)" [label="Jarrod Wirth (3060)
 Uniting Australia Party"]
-	"Dave Nelson (3061)" [label="Dave Nelson (3061)
-The Greens"]
-	"Jarrod Wirth (3060)" [label="Jarrod Wirth (3060)
-Uniting Australia Party"]
-	"Jarrod Wirth (3060)" [label="Jarrod Wirth (3060)
-Uniting Australia Party"]
-	"Jeff Penny (3059)" [label="Jeff Penny (3059)
-Family First"]
-	"Jarrod Wirth (3060)" [label="Jarrod Wirth (3060)
-Uniting Australia Party"]
-	"Jarrod Wirth (3060)" [label="Jarrod Wirth (3060)
-Uniting Australia Party"]
 	"Jeff Penny (3059)" -> "Dave Nelson (3061)" [label=366]
 	"Jarrod Wirth (3060)" -> "Jeff Penny (3059)" [label=96]
 	"Jarrod Wirth (3060)" -> "Dave Nelson (3061)" [label=70]

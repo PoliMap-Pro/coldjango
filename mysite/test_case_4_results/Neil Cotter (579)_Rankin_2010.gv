@@ -6,7 +6,5 @@ digraph "Neil Cotter (579)_Rankin_2010" {
 The Greens"]
 	"Alexandra Todd (3972)" [label="Alexandra Todd (3972)
 Family First"]
-	"Alexandra Todd (3972)" [label="Alexandra Todd (3972)
-Family First"]
 	"Alexandra Todd (3972)" -> "Neil Cotter (579)" [label=1607]
 }

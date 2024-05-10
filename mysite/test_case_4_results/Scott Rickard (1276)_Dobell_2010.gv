@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Rhonda Avasalu (3722)" [label="Rhonda Avasalu (3722)
 Christian Democratic Party (Fred Nile Group)"]
-	"Scott Rickard (1276)" [label="Scott Rickard (1276)
-The Greens"]
-	"Rhonda Avasalu (3722)" [label="Rhonda Avasalu (3722)
-Christian Democratic Party (Fred Nile Group)"]
-	"Rhonda Avasalu (3722)" [label="Rhonda Avasalu (3722)
-Christian Democratic Party (Fred Nile Group)"]
-	"Gavin Brett (3724)" [label="Gavin Brett (3724)
-Family First"]
-	"Rhonda Avasalu (3722)" [label="Rhonda Avasalu (3722)
-Christian Democratic Party (Fred Nile Group)"]
-	"Rhonda Avasalu (3722)" [label="Rhonda Avasalu (3722)
-Christian Democratic Party (Fred Nile Group)"]
 	"Gavin Brett (3724)" -> "Scott Rickard (1276)" [label=906]
 	"Rhonda Avasalu (3722)" -> "Gavin Brett (3724)" [label=717]
 	"Rhonda Avasalu (3722)" -> "Scott Rickard (1276)" [label=124]

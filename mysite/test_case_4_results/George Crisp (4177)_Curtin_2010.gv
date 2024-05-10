@@ -6,7 +6,5 @@ digraph "George Crisp (4177)_Curtin_2010" {
 The Greens"]
 	"Pat Seymour (4179)" [label="Pat Seymour (4179)
 Christian Democratic Party"]
-	"Pat Seymour (4179)" [label="Pat Seymour (4179)
-Christian Democratic Party"]
 	"Pat Seymour (4179)" -> "George Crisp (4177)" [label=278]
 }

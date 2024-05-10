@@ -6,7 +6,5 @@ digraph "Salore Craig (4046)_Aston_2010" {
 Australian Greens"]
 	"Rachel Hanna (4045)" [label="Rachel Hanna (4045)
 Family First"]
-	"Rachel Hanna (4045)" [label="Rachel Hanna (4045)
-Family First"]
 	"Rachel Hanna (4045)" -> "Salore Craig (4046)" [label=867]
 }

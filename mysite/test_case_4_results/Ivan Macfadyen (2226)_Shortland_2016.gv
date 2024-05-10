@@ -6,7 +6,5 @@ digraph "Ivan Macfadyen (2226)_Shortland_2016" {
 The Greens"]
 	"Morgan Cox (1407)" [label="Morgan Cox (1407)
 Christian Democratic Party (Fred Nile Group)"]
-	"Morgan Cox (1407)" [label="Morgan Cox (1407)
-Christian Democratic Party (Fred Nile Group)"]
 	"Morgan Cox (1407)" -> "Ivan Macfadyen (2226)" [label=774]
 }

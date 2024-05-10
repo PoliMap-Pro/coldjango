@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Alex Safari (4338)" [label="Alex Safari (4338)
 Socialist Equality Party"]
-	"Sue Mahony (4339)" [label="Sue Mahony (4339)
-The Greens"]
-	"Alex Safari (4338)" [label="Alex Safari (4338)
-Socialist Equality Party"]
-	"Alex Safari (4338)" [label="Alex Safari (4338)
-Socialist Equality Party"]
-	"Marcus Campbell (4340)" [label="Marcus Campbell (4340)
-Christian Democratic Party (Fred Nile Group)"]
-	"Alex Safari (4338)" [label="Alex Safari (4338)
-Socialist Equality Party"]
-	"Alex Safari (4338)" [label="Alex Safari (4338)
-Socialist Equality Party"]
 	"Marcus Campbell (4340)" -> "Sue Mahony (4339)" [label=275]
 	"Alex Safari (4338)" -> "Marcus Campbell (4340)" [label=78]
 	"Alex Safari (4338)" -> "Sue Mahony (4339)" [label=737]

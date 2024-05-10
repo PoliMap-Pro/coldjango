@@ -8,18 +8,6 @@ The Greens"]
 Australian Democrats"]
 	"Daniel Le (3804)" [label="Daniel Le (3804)
 Family First"]
-	"Andrew Robjohns (3803)" [label="Andrew Robjohns (3803)
-The Greens"]
-	"Daniel Le (3804)" [label="Daniel Le (3804)
-Family First"]
-	"Daniel Le (3804)" [label="Daniel Le (3804)
-Family First"]
-	"Daniel Pearce (3802)" [label="Daniel Pearce (3802)
-Australian Democrats"]
-	"Daniel Le (3804)" [label="Daniel Le (3804)
-Family First"]
-	"Daniel Le (3804)" [label="Daniel Le (3804)
-Family First"]
 	"Daniel Pearce (3802)" -> "Andrew Robjohns (3803)" [label=661]
 	"Daniel Le (3804)" -> "Daniel Pearce (3802)" [label=176]
 	"Daniel Le (3804)" -> "Andrew Robjohns (3803)" [label=254]

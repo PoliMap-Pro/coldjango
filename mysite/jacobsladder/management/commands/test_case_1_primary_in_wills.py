@@ -48,14 +48,7 @@ class Command(BaseCommand):
 
     @staticmethod
     def check_primary(election, party_abbreviation, seat):
-        repre = models.Representation.objects.get(
-            election=election,
-            party__abbreviation__iexact=party_abbreviation,
-            person__candidate__contention__seat=seat,
-            person__candidate__contention__election=election
-        )
-        ordinary_primary = seat.candidate_for(
-            repre.person.candidate, election)
+        ordinary_primary = seat.ordinary_primary(election, party_abbreviation)
         assert ordinary_primary == Command.AEC_RESULTS[(
             party_abbreviation, election.election_date.year,)]
         print(party_abbreviation, ordinary_primary)

@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Ron Baker (4007)" [label="Ron Baker (4007)
 Australian Democrats"]
-	"Palitja Moore (3262)" [label="Palitja Moore (3262)
-The Greens"]
-	"Ron Baker (4007)" [label="Ron Baker (4007)
-Australian Democrats"]
-	"Ron Baker (4007)" [label="Ron Baker (4007)
-Australian Democrats"]
-	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
-Family First"]
-	"Ron Baker (4007)" [label="Ron Baker (4007)
-Australian Democrats"]
-	"Ron Baker (4007)" [label="Ron Baker (4007)
-Australian Democrats"]
 	"Geoff Doecke (2470)" -> "Palitja Moore (3262)" [label=1471]
 	"Ron Baker (4007)" -> "Geoff Doecke (2470)" [label=253]
 	"Ron Baker (4007)" -> "Palitja Moore (3262)" [label=836]

@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
 Katter's Australian Party"]
-	"Steven Purcell (1614)" [label="Steven Purcell (1614)
-The Greens"]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
-	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
-Family First"]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
 	"Carrie Mccormack (2415)" -> "Steven Purcell (1614)" [label=421]
 	"Stephen Lacaze (2416)" -> "Carrie Mccormack (2415)" [label=247]
 	"Stephen Lacaze (2416)" -> "Steven Purcell (1614)" [label=108]

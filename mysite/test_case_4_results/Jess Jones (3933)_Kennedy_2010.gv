@@ -6,7 +6,5 @@ digraph "Jess Jones (3933)_Kennedy_2010" {
 The Greens"]
 	"Fred W Dykstra (3934)" [label="Fred W Dykstra (3934)
 Family First"]
-	"Fred W Dykstra (3934)" [label="Fred W Dykstra (3934)
-Family First"]
 	"Fred W Dykstra (3934)" -> "Jess Jones (3933)" [label=312]
 }

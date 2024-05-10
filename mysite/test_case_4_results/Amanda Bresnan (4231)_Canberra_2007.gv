@@ -6,7 +6,5 @@ digraph "Amanda Bresnan (4231)_Canberra_2007" {
 The Greens"]
 	"John Holder (4234)" [label="John Holder (4234)
 Citizens Electoral Council"]
-	"John Holder (4234)" [label="John Holder (4234)
-Citizens Electoral Council"]
 	"John Holder (4234)" -> "Amanda Bresnan (4231)" [label=342]
 }

@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Douglas Crowhurst (3942)" [label="Douglas Crowhurst (3942)
 Independent"]
-	"Andrew Martin Jeremijenko (3943)" [label="Andrew Martin Jeremijenko (3943)
-The Greens"]
-	"Douglas Crowhurst (3942)" [label="Douglas Crowhurst (3942)
-Independent"]
-	"Douglas Crowhurst (3942)" [label="Douglas Crowhurst (3942)
-Independent"]
-	"Andrew Herschell (3941)" [label="Andrew Herschell (3941)
-Family First"]
-	"Douglas Crowhurst (3942)" [label="Douglas Crowhurst (3942)
-Independent"]
-	"Douglas Crowhurst (3942)" [label="Douglas Crowhurst (3942)
-Independent"]
 	"Andrew Herschell (3941)" -> "Andrew Martin Jeremijenko (3943)" [label=888]
 	"Douglas Crowhurst (3942)" -> "Andrew Herschell (3941)" [label=676]
 	"Douglas Crowhurst (3942)" -> "Andrew Martin Jeremijenko (3943)" [label=597]

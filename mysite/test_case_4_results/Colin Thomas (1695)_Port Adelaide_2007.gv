@@ -8,18 +8,6 @@ The Greens"]
 Family First Party"]
 	"Pam Moore (4690)" [label="Pam Moore (4690)
 Australian Democrats"]
-	"Colin Thomas (1695)" [label="Colin Thomas (1695)
-The Greens"]
-	"Pam Moore (4690)" [label="Pam Moore (4690)
-Australian Democrats"]
-	"Pam Moore (4690)" [label="Pam Moore (4690)
-Australian Democrats"]
-	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
-Family First Party"]
-	"Pam Moore (4690)" [label="Pam Moore (4690)
-Australian Democrats"]
-	"Pam Moore (4690)" [label="Pam Moore (4690)
-Australian Democrats"]
 	"Bruce Hambour (2485)" -> "Colin Thomas (1695)" [label=1924]
 	"Pam Moore (4690)" -> "Bruce Hambour (2485)" [label=234]
 	"Pam Moore (4690)" -> "Colin Thomas (1695)" [label=696]

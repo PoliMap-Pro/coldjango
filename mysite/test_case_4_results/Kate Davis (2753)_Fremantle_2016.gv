@@ -8,18 +8,6 @@ The Greens (WA)"]
 Mature Australia"]
 	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
 Socialist Alliance"]
-	"Kate Davis (2753)" [label="Kate Davis (2753)
-The Greens (WA)"]
-	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
-Socialist Alliance"]
-	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
-Socialist Alliance"]
-	"Mick Connolly (2751)" [label="Mick Connolly (2751)
-Mature Australia"]
-	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
-Socialist Alliance"]
-	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
-Socialist Alliance"]
 	"Mick Connolly (2751)" -> "Kate Davis (2753)" [label=1391]
 	"Chris Jenkins (2752)" -> "Mick Connolly (2751)" [label=505]
 	"Chris Jenkins (2752)" -> "Kate Davis (2753)" [label=559]

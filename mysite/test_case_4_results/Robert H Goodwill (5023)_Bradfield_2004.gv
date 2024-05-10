@@ -8,18 +8,6 @@ The Greens"]
 Australian Democrats"]
 	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
 Family First"]
-	"Robert H Goodwill (5023)" [label="Robert H Goodwill (5023)
-The Greens"]
-	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
-Family First"]
-	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
-Family First"]
-	"Jeannette Tsoulos (5025)" [label="Jeannette Tsoulos (5025)
-Australian Democrats"]
-	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
-Family First"]
-	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
-Family First"]
 	"Jeannette Tsoulos (5025)" -> "Robert H Goodwill (5023)" [label=916]
 	"Sarah Montgomery (5024)" -> "Jeannette Tsoulos (5025)" [label=259]
 	"Sarah Montgomery (5024)" -> "Robert H Goodwill (5023)" [label=318]

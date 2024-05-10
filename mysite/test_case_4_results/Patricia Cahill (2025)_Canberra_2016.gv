@@ -6,7 +6,5 @@ digraph "Patricia Cahill (2025)_Canberra_2016" {
 The Greens"]
 	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
 Bullet Train For Australia"]
-	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
-Bullet Train For Australia"]
 	"Christopher D'Arcy Bucknell (2026)" -> "Patricia Cahill (2025)" [label=2077]
 }

@@ -6,7 +6,5 @@ digraph "Ray Goodlass (4436)_Riverina_2004" {
 The Greens"]
 	"Neil Turner (280)" [label="Neil Turner (280)
 Pauline Hanson's One Nation (NSW Division)"]
-	"Neil Turner (280)" [label="Neil Turner (280)
-Pauline Hanson's One Nation (NSW Division)"]
 	"Neil Turner (280)" -> "Ray Goodlass (4436)" [label=230]
 }

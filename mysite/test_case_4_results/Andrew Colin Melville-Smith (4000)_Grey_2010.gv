@@ -6,7 +6,5 @@ digraph "Andrew Colin Melville-Smith (4000)_Grey_2010" {
 The Greens"]
 	"Sylvia Holland (4002)" [label="Sylvia Holland (4002)
 Family First"]
-	"Sylvia Holland (4002)" [label="Sylvia Holland (4002)
-Family First"]
 	"Sylvia Holland (4002)" -> "Andrew Colin Melville-Smith (4000)" [label=1262]
 }

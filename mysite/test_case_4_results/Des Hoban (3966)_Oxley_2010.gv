@@ -6,7 +6,5 @@ digraph "Des Hoban (3966)_Oxley_2010" {
 The Greens"]
 	"Timothy Stieler (3965)" [label="Timothy Stieler (3965)
 Family First"]
-	"Timothy Stieler (3965)" [label="Timothy Stieler (3965)
-Family First"]
 	"Timothy Stieler (3965)" -> "Des Hoban (3966)" [label=1071]
 }

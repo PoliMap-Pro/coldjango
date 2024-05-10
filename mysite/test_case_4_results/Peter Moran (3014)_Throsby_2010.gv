@@ -8,18 +8,6 @@ The Greens"]
 The Nationals"]
 	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
 Non-Custodial Parents Party (Equal Parenting)"]
-	"Peter Moran (3014)" [label="Peter Moran (3014)
-The Greens"]
-	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"Alan Hay (3855)" [label="Alan Hay (3855)
-The Nationals"]
-	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
-Non-Custodial Parents Party (Equal Parenting)"]
 	"Alan Hay (3855)" -> "Peter Moran (3014)" [label=1054]
 	"Wayne Hartman (2263)" -> "Alan Hay (3855)" [label=557]
 	"Wayne Hartman (2263)" -> "Peter Moran (3014)" [label=428]

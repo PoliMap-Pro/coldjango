@@ -8,18 +8,6 @@ The Greens"]
 Australian Democrats"]
 	"Jim Arnold (4238)" [label="Jim Arnold (4238)
 Citizens Electoral Council"]
-	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
-The Greens"]
-	"Jim Arnold (4238)" [label="Jim Arnold (4238)
-Citizens Electoral Council"]
-	"Jim Arnold (4238)" [label="Jim Arnold (4238)
-Citizens Electoral Council"]
-	"Aaron Matthews (4996)" [label="Aaron Matthews (4996)
-Australian Democrats"]
-	"Jim Arnold (4238)" [label="Jim Arnold (4238)
-Citizens Electoral Council"]
-	"Jim Arnold (4238)" [label="Jim Arnold (4238)
-Citizens Electoral Council"]
 	"Aaron Matthews (4996)" -> "Sue Ellerman (3670)" [label=958]
 	"Jim Arnold (4238)" -> "Aaron Matthews (4996)" [label=196]
 	"Jim Arnold (4238)" -> "Sue Ellerman (3670)" [label=149]

@@ -6,7 +6,5 @@ digraph "Michael Bellstedt (2171)_Mitchell_2016" {
 The Greens"]
 	"Darryl Allen (2170)" [label="Darryl Allen (2170)
 Christian Democratic Party (Fred Nile Group)"]
-	"Darryl Allen (2170)" [label="Darryl Allen (2170)
-Christian Democratic Party (Fred Nile Group)"]
 	"Darryl Allen (2170)" -> "Michael Bellstedt (2171)" [label=535]
 }

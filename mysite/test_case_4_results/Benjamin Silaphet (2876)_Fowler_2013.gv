@@ -8,18 +8,6 @@ The Greens"]
 Palmer United Party"]
 	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
 Katter's Australian Party"]
-	"Benjamin Silaphet (2876)" [label="Benjamin Silaphet (2876)
-The Greens"]
-	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
-Katter's Australian Party"]
-	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
-Katter's Australian Party"]
-	"Bradley Charles Pastoors (2879)" [label="Bradley Charles Pastoors (2879)
-Palmer United Party"]
-	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
-Katter's Australian Party"]
-	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
-Katter's Australian Party"]
 	"Bradley Charles Pastoors (2879)" -> "Benjamin Silaphet (2876)" [label=370]
 	"Darren C Mclean (2877)" -> "Bradley Charles Pastoors (2879)" [label=135]
 	"Darren C Mclean (2877)" -> "Benjamin Silaphet (2876)" [label=208]

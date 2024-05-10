@@ -6,7 +6,5 @@ digraph "Roger Brisbane (2407)_Moncrieff_2016" {
 The Greens"]
 	"Julie Rose (2406)" [label="Julie Rose (2406)
 Family First"]
-	"Julie Rose (2406)" [label="Julie Rose (2406)
-Family First"]
 	"Julie Rose (2406)" -> "Roger Brisbane (2407)" [label=1861]
 }

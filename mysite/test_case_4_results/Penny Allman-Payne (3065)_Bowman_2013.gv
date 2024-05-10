@@ -6,7 +6,5 @@ digraph "Penny Allman-Payne (3065)_Bowman_2013" {
 The Greens"]
 	"Andrew O'Shea (3063)" [label="Andrew O'Shea (3063)
 Family First"]
-	"Andrew O'Shea (3063)" [label="Andrew O'Shea (3063)
-Family First"]
 	"Andrew O'Shea (3063)" -> "Penny Allman-Payne (3065)" [label=262]
 }

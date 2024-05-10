@@ -8,18 +8,6 @@ The Greens"]
 Science Party"]
 	"Paul Geran (2246)" [label="Paul Geran (2246)
 Online Direct Democracy - (Empowering the People!)"]
-	"Barbara Bloch (2247)" [label="Barbara Bloch (2247)
-The Greens"]
-	"Paul Geran (2246)" [label="Paul Geran (2246)
-Online Direct Democracy - (Empowering the People!)"]
-	"Paul Geran (2246)" [label="Paul Geran (2246)
-Online Direct Democracy - (Empowering the People!)"]
-	"Tom Gordon (2245)" [label="Tom Gordon (2245)
-Science Party"]
-	"Paul Geran (2246)" [label="Paul Geran (2246)
-Online Direct Democracy - (Empowering the People!)"]
-	"Paul Geran (2246)" [label="Paul Geran (2246)
-Online Direct Democracy - (Empowering the People!)"]
 	"Tom Gordon (2245)" -> "Barbara Bloch (2247)" [label=556]
 	"Paul Geran (2246)" -> "Tom Gordon (2245)" [label=208]
 	"Paul Geran (2246)" -> "Barbara Bloch (2247)" [label=204]

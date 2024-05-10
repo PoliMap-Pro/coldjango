@@ -8,18 +8,6 @@ The Greens"]
 One Nation"]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]
-	"Emma Young (3871)" [label="Emma Young (3871)
-The Greens"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"John Kearney (2274)" [label="John Kearney (2274)
-One Nation"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
-	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
-Citizens Electoral Council"]
 	"John Kearney (2274)" -> "Emma Young (3871)" [label=701]
 	"Trudy Campbell (3048)" -> "John Kearney (2274)" [label=204]
 	"Trudy Campbell (3048)" -> "Emma Young (3871)" [label=165]

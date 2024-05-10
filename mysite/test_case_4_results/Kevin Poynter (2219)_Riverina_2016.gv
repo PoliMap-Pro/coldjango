@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Philip Langfield (1287)" [label="Philip Langfield (1287)
 Christian Democratic Party (Fred Nile Group)"]
-	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
-The Greens"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
-	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
-Family First"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
 	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
 	"Philip Langfield (1287)" -> "Glenn O'Rourke (2218)" [label=927]
 	"Philip Langfield (1287)" -> "Kevin Poynter (2219)" [label=72]

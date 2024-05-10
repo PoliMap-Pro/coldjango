@@ -6,7 +6,5 @@ digraph "Alex Breskin (934)_Isaacs_2016" {
 The Greens"]
 	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
 Animal Justice Party"]
-	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
-Animal Justice Party"]
 	"Elizabeth Johnston (832)" -> "Alex Breskin (934)" [label=2150]
 }

@@ -10,42 +10,6 @@ Independent"]
 Christian Democratic Party"]
 	"Peter Clifford (4224)" [label="Peter Clifford (4224)
 Family First"]
-	"Chris Martin (4221)" [label="Chris Martin (4221)
-The Greens"]
-	"Jenny Whately (4223)" [label="Jenny Whately (4223)
-Christian Democratic Party"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Chris Martin (4221)" [label="Chris Martin (4221)
-The Greens"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Jenny Whately (4223)" [label="Jenny Whately (4223)
-Christian Democratic Party"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Elizabeth Re (2005)" [label="Elizabeth Re (2005)
-Independent"]
-	"Jenny Whately (4223)" [label="Jenny Whately (4223)
-Christian Democratic Party"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Elizabeth Re (2005)" [label="Elizabeth Re (2005)
-Independent"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Jenny Whately (4223)" [label="Jenny Whately (4223)
-Christian Democratic Party"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
-	"Peter Clifford (4224)" [label="Peter Clifford (4224)
-Family First"]
 	"Elizabeth Re (2005)" -> "Chris Martin (4221)" [label=911]
 	"Jenny Whately (4223)" -> "Elizabeth Re (2005)" [label=335]
 	"Peter Clifford (4224)" -> "Jenny Whately (4223)" [label=203]

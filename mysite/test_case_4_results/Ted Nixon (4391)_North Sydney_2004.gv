@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
 Australian Democrats"]
-	"Ted Nixon (4391)" [label="Ted Nixon (4391)
-The Greens"]
-	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
-Australian Democrats"]
-	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
-Australian Democrats"]
-	"Edwina Mary Cowdery (5179)" [label="Edwina Mary Cowdery (5179)
-Independent"]
-	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
-Australian Democrats"]
-	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
-Australian Democrats"]
 	"Edwina Mary Cowdery (5179)" -> "Ted Nixon (4391)" [label=842]
 	"Jan De Voogd (5180)" -> "Edwina Mary Cowdery (5179)" [label=286]
 	"Jan De Voogd (5180)" -> "Ted Nixon (4391)" [label=634]

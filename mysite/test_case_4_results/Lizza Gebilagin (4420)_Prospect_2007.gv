@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Jason Callander (4422)" [label="Jason Callander (4422)
 Christian Democratic Party (Fred Nile Group)"]
-	"Lizza Gebilagin (4420)" [label="Lizza Gebilagin (4420)
-The Greens"]
-	"Jason Callander (4422)" [label="Jason Callander (4422)
-Christian Democratic Party (Fred Nile Group)"]
-	"Jason Callander (4422)" [label="Jason Callander (4422)
-Christian Democratic Party (Fred Nile Group)"]
-	"Carolyn Lever (4419)" [label="Carolyn Lever (4419)
-Family First"]
-	"Jason Callander (4422)" [label="Jason Callander (4422)
-Christian Democratic Party (Fred Nile Group)"]
-	"Jason Callander (4422)" [label="Jason Callander (4422)
-Christian Democratic Party (Fred Nile Group)"]
 	"Carolyn Lever (4419)" -> "Lizza Gebilagin (4420)" [label=1620]
 	"Jason Callander (4422)" -> "Carolyn Lever (4419)" [label=604]
 	"Jason Callander (4422)" -> "Lizza Gebilagin (4420)" [label=162]

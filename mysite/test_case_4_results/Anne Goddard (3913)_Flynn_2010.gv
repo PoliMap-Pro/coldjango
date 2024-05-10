@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
 D.L.P. - Democratic Labor Party"]
-	"Anne Goddard (3913)" [label="Anne Goddard (3913)
-The Greens"]
-	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
-D.L.P. - Democratic Labor Party"]
-	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
-D.L.P. - Democratic Labor Party"]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
-	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
-D.L.P. - Democratic Labor Party"]
-	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
-D.L.P. - Democratic Labor Party"]
 	"Duncan Scott (462)" -> "Anne Goddard (3913)" [label=704]
 	"John F G Mcmahon (3912)" -> "Duncan Scott (462)" [label=107]
 	"John F G Mcmahon (3912)" -> "Anne Goddard (3913)" [label=68]

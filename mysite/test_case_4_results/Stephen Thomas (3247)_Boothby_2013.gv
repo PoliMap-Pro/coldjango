@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
 Palmer United Party"]
-	"Stephen Thomas (3247)" [label="Stephen Thomas (3247)
-Australian Greens"]
-	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
-Palmer United Party"]
-	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
-Palmer United Party"]
-	"Natasha Edmonds (3251)" [label="Natasha Edmonds (3251)
-Family First"]
-	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
-Palmer United Party"]
-	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
-Palmer United Party"]
 	"Natasha Edmonds (3251)" -> "Stephen Thomas (3247)" [label=1209]
 	"Sally Dawn Cox (3249)" -> "Natasha Edmonds (3251)" [label=679]
 	"Sally Dawn Cox (3249)" -> "Stephen Thomas (3247)" [label=508]

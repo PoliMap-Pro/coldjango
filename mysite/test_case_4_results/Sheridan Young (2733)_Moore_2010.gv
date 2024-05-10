@@ -10,42 +10,6 @@ Christian Democratic Party"]
 Family First"]
 	"George Gault (4199)" [label="George Gault (4199)
 One Nation"]
-	"Sheridan Young (2733)" [label="Sheridan Young (2733)
-The Greens"]
-	"Paul Barrett (4202)" [label="Paul Barrett (4202)
-Family First"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"Sheridan Young (2733)" [label="Sheridan Young (2733)
-The Greens"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"Paul Barrett (4202)" [label="Paul Barrett (4202)
-Family First"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"Meg Birch (4201)" [label="Meg Birch (4201)
-Christian Democratic Party"]
-	"Paul Barrett (4202)" [label="Paul Barrett (4202)
-Family First"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"Meg Birch (4201)" [label="Meg Birch (4201)
-Christian Democratic Party"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"Paul Barrett (4202)" [label="Paul Barrett (4202)
-Family First"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
-	"George Gault (4199)" [label="George Gault (4199)
-One Nation"]
 	"Meg Birch (4201)" -> "Sheridan Young (2733)" [label=602]
 	"Paul Barrett (4202)" -> "Meg Birch (4201)" [label=576]
 	"George Gault (4199)" -> "Paul Barrett (4202)" [label=256]

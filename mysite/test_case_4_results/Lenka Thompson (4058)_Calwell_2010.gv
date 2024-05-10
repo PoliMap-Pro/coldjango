@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Peter Byrne (1746)" [label="Peter Byrne (1746)
 Socialist Equality Party"]
-	"Lenka Thompson (4058)" [label="Lenka Thompson (4058)
-Australian Greens"]
-	"Peter Byrne (1746)" [label="Peter Byrne (1746)
-Socialist Equality Party"]
-	"Peter Byrne (1746)" [label="Peter Byrne (1746)
-Socialist Equality Party"]
-	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
-Family First"]
-	"Peter Byrne (1746)" [label="Peter Byrne (1746)
-Socialist Equality Party"]
-	"Peter Byrne (1746)" [label="Peter Byrne (1746)
-Socialist Equality Party"]
 	"Jeff Truscott (1846)" -> "Lenka Thompson (4058)" [label=1384]
 	"Peter Byrne (1746)" -> "Jeff Truscott (1846)" [label=355]
 	"Peter Byrne (1746)" -> "Lenka Thompson (4058)" [label=508]

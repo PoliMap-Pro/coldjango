@@ -6,7 +6,5 @@ digraph "Narelle Louise Mccarthy (3906)_Fairfax_2010" {
 The Greens"]
 	"Ron Hunt (3907)" [label="Ron Hunt (3907)
 Family First"]
-	"Ron Hunt (3907)" [label="Ron Hunt (3907)
-Family First"]
 	"Ron Hunt (3907)" -> "Narelle Louise Mccarthy (3906)" [label=1226]
 }

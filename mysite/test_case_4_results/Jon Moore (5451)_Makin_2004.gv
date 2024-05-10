@@ -10,42 +10,6 @@ Australian Democrats"]
 Independent"]
 	"Victor Horvat (5455)" [label="Victor Horvat (5455)
 One Nation"]
-	"Jon Moore (5451)" [label="Jon Moore (5451)
-The Greens"]
-	"Jeanie Walker (5454)" [label="Jeanie Walker (5454)
-Independent"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Jon Moore (5451)" [label="Jon Moore (5451)
-The Greens"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Jeanie Walker (5454)" [label="Jeanie Walker (5454)
-Independent"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Catherine Opitz (5456)" [label="Catherine Opitz (5456)
-Australian Democrats"]
-	"Jeanie Walker (5454)" [label="Jeanie Walker (5454)
-Independent"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Catherine Opitz (5456)" [label="Catherine Opitz (5456)
-Australian Democrats"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Jeanie Walker (5454)" [label="Jeanie Walker (5454)
-Independent"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
-	"Victor Horvat (5455)" [label="Victor Horvat (5455)
-One Nation"]
 	"Catherine Opitz (5456)" -> "Jon Moore (5451)" [label=701]
 	"Jeanie Walker (5454)" -> "Catherine Opitz (5456)" [label=233]
 	"Victor Horvat (5455)" -> "Jeanie Walker (5454)" [label=141]

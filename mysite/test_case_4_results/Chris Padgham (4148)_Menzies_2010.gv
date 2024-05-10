@@ -6,7 +6,5 @@ digraph "Chris Padgham (4148)_Menzies_2010" {
 Australian Greens"]
 	"Ken Smithies (3326)" [label="Ken Smithies (3326)
 Family First"]
-	"Ken Smithies (3326)" [label="Ken Smithies (3326)
-Family First"]
 	"Ken Smithies (3326)" -> "Chris Padgham (4148)" [label=1028]
 }

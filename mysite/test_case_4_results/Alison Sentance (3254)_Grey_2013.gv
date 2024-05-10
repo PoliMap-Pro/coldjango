@@ -6,7 +6,5 @@ digraph "Alison Sentance (3254)_Grey_2013" {
 Australian Greens"]
 	"Greg Fidge (3255)" [label="Greg Fidge (3255)
 Independent"]
-	"Greg Fidge (3255)" [label="Greg Fidge (3255)
-Independent"]
 	"Greg Fidge (3255)" -> "Alison Sentance (3254)" [label=450]
 }

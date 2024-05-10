@@ -8,18 +8,6 @@ The Greens"]
 United Australia Party"]
 	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
 Australian Progressives"]
-	"Andrew Braddock (1216)" [label="Andrew Braddock (1216)
-The Greens"]
-	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
-Australian Progressives"]
-	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
-Australian Progressives"]
-	"Glen J Hodgson (1214)" [label="Glen J Hodgson (1214)
-United Australia Party"]
-	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
-Australian Progressives"]
-	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
-Australian Progressives"]
 	"Glen J Hodgson (1214)" -> "Andrew Braddock (1216)" [label=1205]
 	"Kagiso Ratlhagane (1215)" -> "Glen J Hodgson (1214)" [label=364]
 	"Kagiso Ratlhagane (1215)" -> "Andrew Braddock (1216)" [label=707]

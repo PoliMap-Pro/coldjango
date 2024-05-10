@@ -6,7 +6,5 @@ digraph "Amber Forbes (1776)_Corio_2019" {
 The Greens (VIC)"]
 	"Desmond Sanborn (1777)" [label="Desmond Sanborn (1777)
 United Australia Party"]
-	"Desmond Sanborn (1777)" [label="Desmond Sanborn (1777)
-United Australia Party"]
 	"Desmond Sanborn (1777)" -> "Amber Forbes (1776)" [label=1369]
 }

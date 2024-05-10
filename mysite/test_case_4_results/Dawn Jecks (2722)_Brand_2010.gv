@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Robert Burdett (2721)" [label="Robert Burdett (2721)
 Christian Democratic Party"]
-	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
-The Greens"]
-	"Robert Burdett (2721)" [label="Robert Burdett (2721)
-Christian Democratic Party"]
-	"Robert Burdett (2721)" [label="Robert Burdett (2721)
-Christian Democratic Party"]
-	"Andrew Newhouse (3569)" [label="Andrew Newhouse (3569)
-Family First"]
-	"Robert Burdett (2721)" [label="Robert Burdett (2721)
-Christian Democratic Party"]
-	"Robert Burdett (2721)" [label="Robert Burdett (2721)
-Christian Democratic Party"]
 	"Andrew Newhouse (3569)" -> "Dawn Jecks (2722)" [label=1013]
 	"Robert Burdett (2721)" -> "Andrew Newhouse (3569)" [label=1163]
 	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=122]

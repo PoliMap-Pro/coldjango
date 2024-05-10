@@ -8,18 +8,6 @@ The Greens"]
 Australian Sex Party"]
 	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
 Secular Party of Australia"]
-	"Matthew Drake-Brockman (1441)" [label="Matthew Drake-Brockman (1441)
-The Greens"]
-	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
-Secular Party of Australia"]
-	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
-Secular Party of Australia"]
-	"Alexander Jacob Gutman (3856)" [label="Alexander Jacob Gutman (3856)
-Australian Sex Party"]
-	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
-Secular Party of Australia"]
-	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
-Secular Party of Australia"]
 	"Alexander Jacob Gutman (3856)" -> "Matthew Drake-Brockman (1441)" [label=1354]
 	"Kenneth Cooke (3858)" -> "Alexander Jacob Gutman (3856)" [label=204]
 	"Kenneth Cooke (3858)" -> "Matthew Drake-Brockman (1441)" [label=169]

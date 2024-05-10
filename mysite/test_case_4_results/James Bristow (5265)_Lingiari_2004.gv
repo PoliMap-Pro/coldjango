@@ -8,18 +8,6 @@ The Greens"]
 Australian Democrats"]
 	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
 Independent"]
-	"James Bristow (5265)" [label="James Bristow (5265)
-The Greens"]
-	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
-Independent"]
-	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
-Independent"]
-	"David Curtis (5263)" [label="David Curtis (5263)
-Australian Democrats"]
-	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
-Independent"]
-	"Andrew Ian Mills (5266)" [label="Andrew Ian Mills (5266)
-Independent"]
 	"David Curtis (5263)" -> "James Bristow (5265)" [label=379]
 	"Andrew Ian Mills (5266)" -> "David Curtis (5263)" [label=191]
 	"Andrew Ian Mills (5266)" -> "James Bristow (5265)" [label=316]

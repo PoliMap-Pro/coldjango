@@ -10,42 +10,6 @@ Pauline Hanson's One Nation"]
 United Australia Party"]
 	"Peter Power (560)" [label="Peter Power (560)
 Australian Federation Party"]
-	"Claire Garton (563)" [label="Claire Garton (563)
-Queensland Greens"]
-	"Chelsea Follett (565)" [label="Chelsea Follett (565)
-United Australia Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Claire Garton (563)" [label="Claire Garton (563)
-Queensland Greens"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Chelsea Follett (565)" [label="Chelsea Follett (565)
-United Australia Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Neil Swann (561)" [label="Neil Swann (561)
-Pauline Hanson's One Nation"]
-	"Chelsea Follett (565)" [label="Chelsea Follett (565)
-United Australia Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Neil Swann (561)" [label="Neil Swann (561)
-Pauline Hanson's One Nation"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Chelsea Follett (565)" [label="Chelsea Follett (565)
-United Australia Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
 	"Neil Swann (561)" -> "Claire Garton (563)" [label=1390]
 	"Chelsea Follett (565)" -> "Neil Swann (561)" [label=1835]
 	"Peter Power (560)" -> "Chelsea Follett (565)" [label=214]

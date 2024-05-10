@@ -8,18 +8,6 @@ The Greens"]
 Palmer United Party"]
 	"Silvana Nero (2928)" [label="Silvana Nero (2928)
 Christian Democratic Party (Fred Nile Group)"]
-	"Jonathan King (2926)" [label="Jonathan King (2926)
-The Greens"]
-	"Silvana Nero (2928)" [label="Silvana Nero (2928)
-Christian Democratic Party (Fred Nile Group)"]
-	"Silvana Nero (2928)" [label="Silvana Nero (2928)
-Christian Democratic Party (Fred Nile Group)"]
-	"Debra Gayle Drummond (2927)" [label="Debra Gayle Drummond (2927)
-Palmer United Party"]
-	"Silvana Nero (2928)" [label="Silvana Nero (2928)
-Christian Democratic Party (Fred Nile Group)"]
-	"Silvana Nero (2928)" [label="Silvana Nero (2928)
-Christian Democratic Party (Fred Nile Group)"]
 	"Debra Gayle Drummond (2927)" -> "Jonathan King (2926)" [label=1382]
 	"Silvana Nero (2928)" -> "Debra Gayle Drummond (2927)" [label=243]
 	"Silvana Nero (2928)" -> "Jonathan King (2926)" [label=165]

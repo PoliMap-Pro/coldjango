@@ -8,18 +8,6 @@ The Greens"]
 Socialist Alliance"]
 	"John Flanagan (1270)" [label="John Flanagan (1270)
 Non-Custodial Parents Party (Equal Parenting)"]
-	"George Takacs (3720)" [label="George Takacs (3720)
-The Greens"]
-	"John Flanagan (1270)" [label="John Flanagan (1270)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"John Flanagan (1270)" [label="John Flanagan (1270)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"Jess Moore (3721)" [label="Jess Moore (3721)
-Socialist Alliance"]
-	"John Flanagan (1270)" [label="John Flanagan (1270)
-Non-Custodial Parents Party (Equal Parenting)"]
-	"John Flanagan (1270)" [label="John Flanagan (1270)
-Non-Custodial Parents Party (Equal Parenting)"]
 	"Jess Moore (3721)" -> "George Takacs (3720)" [label=995]
 	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=237]
 	"John Flanagan (1270)" -> "George Takacs (3720)" [label=277]

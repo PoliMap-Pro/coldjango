@@ -6,7 +6,5 @@ digraph "Marc Rerceretnam (4347)_Lowe_2007" {
 The Greens"]
 	"Bill Shailer (2982)" [label="Bill Shailer (2982)
 Christian Democratic Party (Fred Nile Group)"]
-	"Bill Shailer (2982)" [label="Bill Shailer (2982)
-Christian Democratic Party (Fred Nile Group)"]
 	"Bill Shailer (2982)" -> "Marc Rerceretnam (4347)" [label=230]
 }

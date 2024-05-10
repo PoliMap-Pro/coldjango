@@ -6,7 +6,5 @@ digraph "Simon Tiller (3394)_Dunkley_2010" {
 Australian Greens"]
 	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
 Family First"]
-	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
-Family First"]
 	"Yasmin De Zilwa (3384)" -> "Simon Tiller (3394)" [label=547]
 }

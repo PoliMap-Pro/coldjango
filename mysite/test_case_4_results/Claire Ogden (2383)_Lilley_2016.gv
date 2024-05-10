@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
 Liberal Democrats"]
-	"Claire Ogden (2383)" [label="Claire Ogden (2383)
-The Greens"]
-	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
-Liberal Democrats"]
-	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
-Liberal Democrats"]
-	"Sharan Hall (2380)" [label="Sharan Hall (2380)
-Family First"]
-	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
-Liberal Democrats"]
-	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
-Liberal Democrats"]
 	"Sharan Hall (2380)" -> "Claire Ogden (2383)" [label=999]
 	"Simon James Holmick (2381)" -> "Sharan Hall (2380)" [label=576]
 	"Simon James Holmick (2381)" -> "Claire Ogden (2383)" [label=286]

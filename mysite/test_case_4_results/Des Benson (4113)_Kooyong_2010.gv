@@ -6,7 +6,5 @@ digraph "Des Benson (4113)_Kooyong_2010" {
 Australian Greens"]
 	"John Laidler (4114)" [label="John Laidler (4114)
 Family First"]
-	"John Laidler (4114)" [label="John Laidler (4114)
-Family First"]
 	"John Laidler (4114)" -> "Des Benson (4113)" [label=276]
 }

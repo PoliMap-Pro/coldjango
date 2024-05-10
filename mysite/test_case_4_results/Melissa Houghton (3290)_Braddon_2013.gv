@@ -6,7 +6,5 @@ digraph "Melissa Houghton (3290)_Braddon_2013" {
 Australian Greens"]
 	"Bernard Shaw (3293)" [label="Bernard Shaw (3293)
 Rise Up Australia Party"]
-	"Bernard Shaw (3293)" [label="Bernard Shaw (3293)
-Rise Up Australia Party"]
 	"Bernard Shaw (3293)" -> "Melissa Houghton (3290)" [label=58]
 }

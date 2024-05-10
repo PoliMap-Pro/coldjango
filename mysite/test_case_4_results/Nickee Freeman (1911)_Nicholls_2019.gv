@@ -8,18 +8,6 @@ The Greens (VIC)"]
 Independent"]
 	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
 Independent"]
-	"Nickee Freeman (1911)" [label="Nickee Freeman (1911)
-The Greens (VIC)"]
-	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
-Independent"]
-	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
-Independent"]
-	"Jeremy Parker (1908)" [label="Jeremy Parker (1908)
-Independent"]
-	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
-Independent"]
-	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
-Independent"]
 	"Jeremy Parker (1908)" -> "Nickee Freeman (1911)" [label=59]
 	"Nigel Hicks (1912)" -> "Jeremy Parker (1908)" [label=338]
 	"Nigel Hicks (1912)" -> "Nickee Freeman (1911)" [label=103]

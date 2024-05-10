@@ -8,18 +8,6 @@ The Greens"]
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
 Independent"]
-	"Jaiben Baker (1531)" [label="Jaiben Baker (1531)
-The Greens"]
-	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
-Independent"]
-	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
-Independent"]
-	"Marcus John Hiesler (1534)" [label="Marcus John Hiesler (1534)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
-Independent"]
-	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
-Independent"]
 	"Marcus John Hiesler (1534)" -> "Jaiben Baker (1531)" [label=34]
 	"Duncan George Scott (1533)" -> "Marcus John Hiesler (1534)" [label=104]
 	"Duncan George Scott (1533)" -> "Jaiben Baker (1531)" [label=67]

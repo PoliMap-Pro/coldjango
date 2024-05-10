@@ -10,42 +10,6 @@ Independent"]
 Family First"]
 	"Ray Williams (4725)" [label="Ray Williams (4725)
 Citizens Electoral Council"]
-	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
-The Greens"]
-	"Amy Parsons (4728)" [label="Amy Parsons (4728)
-Family First"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Karen Cassidy (4726)" [label="Karen Cassidy (4726)
-The Greens"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Amy Parsons (4728)" [label="Amy Parsons (4728)
-Family First"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ben Quin (4727)" [label="Ben Quin (4727)
-Independent"]
-	"Amy Parsons (4728)" [label="Amy Parsons (4728)
-Family First"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ben Quin (4727)" [label="Ben Quin (4727)
-Independent"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Amy Parsons (4728)" [label="Amy Parsons (4728)
-Family First"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
 	"Ben Quin (4727)" -> "Karen Cassidy (4726)" [label=3181]
 	"Amy Parsons (4728)" -> "Ben Quin (4727)" [label=368]
 	"Ray Williams (4725)" -> "Amy Parsons (4728)" [label=82]

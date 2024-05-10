@@ -6,7 +6,5 @@ digraph "Matt Parmeter (2198)_Parkes_2010" {
 The Greens"]
 	"Mick Colless (3811)" [label="Mick Colless (3811)
 Independent"]
-	"Mick Colless (3811)" [label="Mick Colless (3811)
-Independent"]
 	"Mick Colless (3811)" -> "Matt Parmeter (2198)" [label=279]
 }

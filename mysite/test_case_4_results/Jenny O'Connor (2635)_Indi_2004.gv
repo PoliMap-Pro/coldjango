@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Merrill Christine Bailey (5584)" [label="Merrill Christine Bailey (5584)
 Citizens Electoral Council"]
-	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
-Australian Greens"]
-	"Merrill Christine Bailey (5584)" [label="Merrill Christine Bailey (5584)
-Citizens Electoral Council"]
-	"Merrill Christine Bailey (5584)" [label="Merrill Christine Bailey (5584)
-Citizens Electoral Council"]
-	"Warren Mcmartin (5583)" [label="Warren Mcmartin (5583)
-Family First"]
-	"Merrill Christine Bailey (5584)" [label="Merrill Christine Bailey (5584)
-Citizens Electoral Council"]
-	"Merrill Christine Bailey (5584)" [label="Merrill Christine Bailey (5584)
-Citizens Electoral Council"]
 	"Warren Mcmartin (5583)" -> "Jenny O'Connor (2635)" [label=1045]
 	"Merrill Christine Bailey (5584)" -> "Warren Mcmartin (5583)" [label=246]
 	"Merrill Christine Bailey (5584)" -> "Jenny O'Connor (2635)" [label=112]

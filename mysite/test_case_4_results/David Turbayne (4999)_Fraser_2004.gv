@@ -8,18 +8,6 @@ The Greens"]
 Australian Democrats"]
 	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
 Socialist Alliance"]
-	"David Turbayne (4999)" [label="David Turbayne (4999)
-The Greens"]
-	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
-Socialist Alliance"]
-	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
-Socialist Alliance"]
-	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
-Australian Democrats"]
-	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
-Socialist Alliance"]
-	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
-Socialist Alliance"]
 	"Lynne Grimsey (4998)" -> "David Turbayne (4999)" [label=1433]
 	"James Vassilopoulos (4997)" -> "Lynne Grimsey (4998)" [label=220]
 	"James Vassilopoulos (4997)" -> "David Turbayne (4999)" [label=723]

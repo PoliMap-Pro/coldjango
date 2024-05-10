@@ -6,7 +6,5 @@ digraph "Karen Frances Cassidy (4044)_Lyons_2010" {
 Australian Greens"]
 	"Lucas Noyes (4042)" [label="Lucas Noyes (4042)
 Secular Party of Australia"]
-	"Lucas Noyes (4042)" [label="Lucas Noyes (4042)
-Secular Party of Australia"]
 	"Lucas Noyes (4042)" -> "Karen Frances Cassidy (4044)" [label=249]
 }

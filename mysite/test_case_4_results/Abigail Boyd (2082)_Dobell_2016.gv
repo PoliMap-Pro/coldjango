@@ -10,42 +10,6 @@ Christian Democratic Party (Fred Nile Group)"]
 Independent"]
 	"Paul Baker (2084)" [label="Paul Baker (2084)
 Independent"]
-	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
-The Greens"]
-	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
-The Greens"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
-Christian Democratic Party (Fred Nile Group)"]
-	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
-Christian Democratic Party (Fred Nile Group)"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
 	"Hadden Robert Ervin (2079)" -> "Abigail Boyd (2082)" [label=134]
 	"Gregory F Stephenson (2083)" -> "Hadden Robert Ervin (2079)" [label=187]
 	"Paul Baker (2084)" -> "Gregory F Stephenson (2083)" [label=687]

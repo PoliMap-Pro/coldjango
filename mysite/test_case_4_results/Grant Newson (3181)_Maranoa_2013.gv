@@ -6,7 +6,5 @@ digraph "Grant Newson (3181)_Maranoa_2013" {
 The Greens"]
 	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
 Rise Up Australia Party"]
-	"George Mousley Clouston (3183)" [label="George Mousley Clouston (3183)
-Rise Up Australia Party"]
 	"George Mousley Clouston (3183)" -> "Grant Newson (3181)" [label=46]
 }

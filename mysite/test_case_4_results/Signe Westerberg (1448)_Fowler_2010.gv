@@ -6,7 +6,5 @@ digraph "Signe Westerberg (1448)_Fowler_2010" {
 The Greens"]
 	"Mike Head (1617)" [label="Mike Head (1617)
 Socialist Equality Party"]
-	"Mike Head (1617)" [label="Mike Head (1617)
-Socialist Equality Party"]
 	"Mike Head (1617)" -> "Signe Westerberg (1448)" [label=586]
 }

@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
 Secular Party of Australia"]
-	"Frank Di Mascolo (4095)" [label="Frank Di Mascolo (4095)
-Australian Greens"]
-	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
-Secular Party of Australia"]
-	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
-Secular Party of Australia"]
-	"Ian George (4097)" [label="Ian George (4097)
-Family First"]
-	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
-Secular Party of Australia"]
-	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
-Secular Party of Australia"]
 	"Ian George (4097)" -> "Frank Di Mascolo (4095)" [label=1259]
 	"Mark Hitchins (4096)" -> "Ian George (4097)" [label=209]
 	"Mark Hitchins (4096)" -> "Frank Di Mascolo (4095)" [label=229]

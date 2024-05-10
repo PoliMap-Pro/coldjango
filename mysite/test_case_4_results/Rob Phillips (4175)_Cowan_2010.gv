@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party"]
 	"Alan Leach (4176)" [label="Alan Leach (4176)
 Family First"]
-	"Rob Phillips (4175)" [label="Rob Phillips (4175)
-The Greens"]
-	"Alan Leach (4176)" [label="Alan Leach (4176)
-Family First"]
-	"Alan Leach (4176)" [label="Alan Leach (4176)
-Family First"]
-	"David Kingston (2379)" [label="David Kingston (2379)
-Christian Democratic Party"]
-	"Alan Leach (4176)" [label="Alan Leach (4176)
-Family First"]
-	"Alan Leach (4176)" [label="Alan Leach (4176)
-Family First"]
 	"David Kingston (2379)" -> "Rob Phillips (4175)" [label=529]
 	"Alan Leach (4176)" -> "David Kingston (2379)" [label=601]
 	"Alan Leach (4176)" -> "Rob Phillips (4175)" [label=506]

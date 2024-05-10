@@ -8,18 +8,6 @@ The Greens"]
 Sustainable Australia"]
 	"Marcus Versace (1241)" [label="Marcus Versace (1241)
 United Australia Party"]
-	"Tony Adams (33)" [label="Tony Adams (33)
-The Greens"]
-	"Marcus Versace (1241)" [label="Marcus Versace (1241)
-United Australia Party"]
-	"Marcus Versace (1241)" [label="Marcus Versace (1241)
-United Australia Party"]
-	"Stephen Molloy (1242)" [label="Stephen Molloy (1242)
-Sustainable Australia"]
-	"Marcus Versace (1241)" [label="Marcus Versace (1241)
-United Australia Party"]
-	"Marcus Versace (1241)" [label="Marcus Versace (1241)
-United Australia Party"]
 	"Stephen Molloy (1242)" -> "Tony Adams (33)" [label=1223]
 	"Marcus Versace (1241)" -> "Stephen Molloy (1242)" [label=454]
 	"Marcus Versace (1241)" -> "Tony Adams (33)" [label=170]

@@ -6,7 +6,5 @@ digraph "Kymberlie Dimozantos (4053)_Bendigo_2010" {
 Australian Greens"]
 	"Alan Howard (2552)" [label="Alan Howard (2552)
 Family First"]
-	"Alan Howard (2552)" [label="Alan Howard (2552)
-Family First"]
 	"Alan Howard (2552)" -> "Kymberlie Dimozantos (4053)" [label=751]
 }

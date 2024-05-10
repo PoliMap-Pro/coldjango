@@ -6,7 +6,5 @@ digraph "Brendan Powell (3392)_Casey_2010" {
 Australian Greens"]
 	"Daniel Harrison (4060)" [label="Daniel Harrison (4060)
 Family First"]
-	"Daniel Harrison (4060)" [label="Daniel Harrison (4060)
-Family First"]
 	"Daniel Harrison (4060)" -> "Brendan Powell (3392)" [label=856]
 }

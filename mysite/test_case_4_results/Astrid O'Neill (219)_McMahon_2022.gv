@@ -6,7 +6,5 @@ digraph "Astrid O'Neill (219)_McMahon_2022" {
 The Greens"]
 	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
 Liberal Democrats"]
-	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
-Liberal Democrats"]
 	"Cameron Shamsabad (220)" -> "Astrid O'Neill (219)" [label=314]
 }

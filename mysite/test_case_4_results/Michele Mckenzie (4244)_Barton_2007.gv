@@ -6,7 +6,5 @@ digraph "Michele Mckenzie (4244)_Barton_2007" {
 The Greens"]
 	"Chris Svolos (4245)" [label="Chris Svolos (4245)
 Christian Democratic Party (Fred Nile Group)"]
-	"Chris Svolos (4245)" [label="Chris Svolos (4245)
-Christian Democratic Party (Fred Nile Group)"]
 	"Chris Svolos (4245)" -> "Michele Mckenzie (4244)" [label=501]
 }

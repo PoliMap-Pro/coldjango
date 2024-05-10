@@ -8,18 +8,6 @@ The Greens"]
 One Nation"]
 	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
 Citizens Electoral Council"]
-	"Bruce Taylor (4381)" [label="Bruce Taylor (4381)
-The Greens"]
-	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
-Citizens Electoral Council"]
-	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
-Citizens Electoral Council"]
-	"Brian Dettmann (4378)" [label="Brian Dettmann (4378)
-One Nation"]
-	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
-Citizens Electoral Council"]
-	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
-Citizens Electoral Council"]
 	"Brian Dettmann (4378)" -> "Bruce Taylor (4381)" [label=106]
 	"Richard Innes Witten (2947)" -> "Brian Dettmann (4378)" [label=36]
 	"Richard Innes Witten (2947)" -> "Bruce Taylor (4381)" [label=20]

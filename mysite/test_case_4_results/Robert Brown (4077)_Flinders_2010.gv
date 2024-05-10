@@ -6,7 +6,5 @@ digraph "Robert Brown (4077)_Flinders_2010" {
 Australian Greens"]
 	"Reade Smith (1793)" [label="Reade Smith (1793)
 Family First"]
-	"Reade Smith (1793)" [label="Reade Smith (1793)
-Family First"]
 	"Reade Smith (1793)" -> "Robert Brown (4077)" [label=513]
 }

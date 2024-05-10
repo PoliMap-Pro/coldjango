@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Simon Steer (5651)" [label="Simon Steer (5651)
 Citizens Electoral Council"]
-	"Merinda Gray (5654)" [label="Merinda Gray (5654)
-Australian Greens"]
-	"Simon Steer (5651)" [label="Simon Steer (5651)
-Citizens Electoral Council"]
-	"Simon Steer (5651)" [label="Simon Steer (5651)
-Citizens Electoral Council"]
-	"Amy Shand (5653)" [label="Amy Shand (5653)
-Family First"]
-	"Simon Steer (5651)" [label="Simon Steer (5651)
-Citizens Electoral Council"]
-	"Simon Steer (5651)" [label="Simon Steer (5651)
-Citizens Electoral Council"]
 	"Amy Shand (5653)" -> "Merinda Gray (5654)" [label=530]
 	"Simon Steer (5651)" -> "Amy Shand (5653)" [label=253]
 	"Simon Steer (5651)" -> "Merinda Gray (5654)" [label=124]

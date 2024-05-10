@@ -8,18 +8,6 @@ The Greens"]
 Liberal Democrats"]
 	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
 United Australia Party"]
-	"Timothy Nott (86)" [label="Timothy Nott (86)
-The Greens"]
-	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
-United Australia Party"]
-	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
-United Australia Party"]
-	"Simon Chaseling (84)" [label="Simon Chaseling (84)
-Liberal Democrats"]
-	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
-United Australia Party"]
-	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
-United Australia Party"]
 	"Simon Chaseling (84)" -> "Timothy Nott (86)" [label=354]
 	"Joshua Stephen Fairhall (85)" -> "Simon Chaseling (84)" [label=462]
 	"Joshua Stephen Fairhall (85)" -> "Timothy Nott (86)" [label=251]

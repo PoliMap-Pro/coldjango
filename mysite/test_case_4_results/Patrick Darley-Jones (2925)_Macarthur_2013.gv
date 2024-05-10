@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Mick Williams (2921)" [label="Mick Williams (2921)
 Katter's Australian Party"]
-	"Patrick Darley-Jones (2925)" [label="Patrick Darley-Jones (2925)
-The Greens"]
-	"Mick Williams (2921)" [label="Mick Williams (2921)
-Katter's Australian Party"]
-	"Mick Williams (2921)" [label="Mick Williams (2921)
-Katter's Australian Party"]
-	"Sarah Ramsay (2922)" [label="Sarah Ramsay (2922)
-Christian Democratic Party (Fred Nile Group)"]
-	"Mick Williams (2921)" [label="Mick Williams (2921)
-Katter's Australian Party"]
-	"Mick Williams (2921)" [label="Mick Williams (2921)
-Katter's Australian Party"]
 	"Sarah Ramsay (2922)" -> "Patrick Darley-Jones (2925)" [label=191]
 	"Mick Williams (2921)" -> "Sarah Ramsay (2922)" [label=228]
 	"Mick Williams (2921)" -> "Patrick Darley-Jones (2925)" [label=116]

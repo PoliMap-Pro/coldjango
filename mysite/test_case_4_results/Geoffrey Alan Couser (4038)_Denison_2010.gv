@@ -6,7 +6,5 @@ digraph "Geoffrey Alan Couser (4038)_Denison_2010" {
 Australian Greens"]
 	"Mel Barnes (4036)" [label="Mel Barnes (4036)
 Socialist Alliance"]
-	"Mel Barnes (4036)" [label="Mel Barnes (4036)
-Socialist Alliance"]
 	"Mel Barnes (4036)" -> "Geoffrey Alan Couser (4038)" [label=260]
 }

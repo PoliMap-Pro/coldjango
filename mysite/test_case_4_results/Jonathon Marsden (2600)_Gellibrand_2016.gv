@@ -6,7 +6,5 @@ digraph "Jonathon Marsden (2600)_Gellibrand_2016" {
 The Greens"]
 	"David Tran (2602)" [label="David Tran (2602)
 Independent"]
-	"David Tran (2602)" [label="David Tran (2602)
-Independent"]
 	"David Tran (2602)" -> "Jonathon Marsden (2600)" [label=1439]
 }

@@ -6,7 +6,5 @@ digraph "Belinda Coates (4047)_Ballarat_2007" {
 Australian Greens"]
 	"Dale Butterfield (4736)" [label="Dale Butterfield (4736)
 Family First"]
-	"Dale Butterfield (4736)" [label="Dale Butterfield (4736)
-Family First"]
 	"Dale Butterfield (4736)" -> "Belinda Coates (4047)" [label=585]
 }

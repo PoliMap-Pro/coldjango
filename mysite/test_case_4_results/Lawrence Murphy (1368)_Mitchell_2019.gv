@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
 United Australia Party"]
-	"Lawrence Murphy (1368)" [label="Lawrence Murphy (1368)
-The Greens"]
-	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
-United Australia Party"]
-	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
-United Australia Party"]
-	"Craig L Hall (1367)" [label="Craig L Hall (1367)
-Christian Democratic Party (Fred Nile Group)"]
-	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
-United Australia Party"]
-	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
-United Australia Party"]
 	"Craig L Hall (1367)" -> "Lawrence Murphy (1368)" [label=500]
 	"Roy Peter Hoppenbrouwer (1366)" -> "Craig L Hall (1367)" [label=639]
 	"Roy Peter Hoppenbrouwer (1366)" -> "Lawrence Murphy (1368)" [label=333]

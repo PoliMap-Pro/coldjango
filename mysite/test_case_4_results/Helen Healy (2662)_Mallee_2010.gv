@@ -6,7 +6,5 @@ digraph "Helen Healy (2662)_Mallee_2010" {
 Australian Greens"]
 	"Carl Carter (4126)" [label="Carl Carter (4126)
 Family First"]
-	"Carl Carter (4126)" [label="Carl Carter (4126)
-Family First"]
 	"Carl Carter (4126)" -> "Helen Healy (2662)" [label=882]
 }

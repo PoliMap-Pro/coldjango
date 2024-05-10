@@ -8,18 +8,6 @@ The Greens (VIC)"]
 United Australia Party"]
 	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
 Labour DLP"]
-	"Asher Cookson (737)" [label="Asher Cookson (737)
-The Greens (VIC)"]
-	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
-Labour DLP"]
-	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
-Labour DLP"]
-	"Matthew Sirianni-Duffy (1725)" [label="Matthew Sirianni-Duffy (1725)
-United Australia Party"]
-	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
-Labour DLP"]
-	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
-Labour DLP"]
 	"Matthew Sirianni-Duffy (1725)" -> "Asher Cookson (737)" [label=766]
 	"Anna Kennedy (1726)" -> "Matthew Sirianni-Duffy (1725)" [label=465]
 	"Anna Kennedy (1726)" -> "Asher Cookson (737)" [label=521]

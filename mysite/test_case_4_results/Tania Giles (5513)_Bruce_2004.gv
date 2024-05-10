@@ -10,42 +10,6 @@ Family First"]
 Democrats"]
 	"William Larner (5516)" [label="William Larner (5516)
 Citizens Electoral Council"]
-	"Tania Giles (5513)" [label="Tania Giles (5513)
-Australian Greens"]
-	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
-Democrats"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"Tania Giles (5513)" [label="Tania Giles (5513)
-Australian Greens"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
-Democrats"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"Richard Warner (5514)" [label="Richard Warner (5514)
-Family First"]
-	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
-Democrats"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"Richard Warner (5514)" [label="Richard Warner (5514)
-Family First"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
-Democrats"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
-	"William Larner (5516)" [label="William Larner (5516)
-Citizens Electoral Council"]
 	"Richard Warner (5514)" -> "Tania Giles (5513)" [label=505]
 	"Paul Van Den Bergen (5515)" -> "Richard Warner (5514)" [label=177]
 	"William Larner (5516)" -> "Paul Van Den Bergen (5515)" [label=61]

@@ -6,7 +6,5 @@ digraph "Gurm Sekhon (4156)_Scullin_2010" {
 Australian Greens"]
 	"Ivan Stratov (4154)" [label="Ivan Stratov (4154)
 Family First"]
-	"Ivan Stratov (4154)" [label="Ivan Stratov (4154)
-Family First"]
 	"Ivan Stratov (4154)" -> "Gurm Sekhon (4156)" [label=930]
 }

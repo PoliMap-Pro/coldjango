@@ -6,7 +6,5 @@ digraph "Kalyna Micenko (4021)_Port Adelaide_2010" {
 The Greens"]
 	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
 Family First"]
-	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
-Family First"]
 	"Bruce Hambour (2485)" -> "Kalyna Micenko (4021)" [label=2341]
 }

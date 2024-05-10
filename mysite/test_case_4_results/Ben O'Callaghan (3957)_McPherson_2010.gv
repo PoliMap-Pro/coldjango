@@ -6,7 +6,5 @@ digraph "Ben O'Callaghan (3957)_McPherson_2010" {
 The Greens"]
 	"Matthew Reeves (3955)" [label="Matthew Reeves (3955)
 Family First"]
-	"Matthew Reeves (3955)" [label="Matthew Reeves (3955)
-Family First"]
 	"Matthew Reeves (3955)" -> "Ben O'Callaghan (3957)" [label=922]
 }

@@ -6,7 +6,5 @@ digraph "Wendy Heatley (4039)_Franklin_2010" {
 Australian Greens"]
 	"John Forster (4040)" [label="John Forster (4040)
 Independent"]
-	"John Forster (4040)" [label="John Forster (4040)
-Independent"]
 	"John Forster (4040)" -> "Wendy Heatley (4039)" [label=693]
 }

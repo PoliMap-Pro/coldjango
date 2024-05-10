@@ -10,42 +10,6 @@ One Nation"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Ann Lawler (2905)" [label="Ann Lawler (2905)
 Citizens Electoral Council"]
-	"David Atwell (2903)" [label="David Atwell (2903)
-The Greens"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"David Atwell (2903)" [label="David Atwell (2903)
-The Greens"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Bill Fox (2906)" [label="Bill Fox (2906)
-One Nation"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Bill Fox (2906)" [label="Bill Fox (2906)
-One Nation"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
-	"Ann Lawler (2905)" [label="Ann Lawler (2905)
-Citizens Electoral Council"]
 	"Bill Fox (2906)" -> "David Atwell (2903)" [label=448]
 	"Richard Stretton (1326)" -> "Bill Fox (2906)" [label=212]
 	"Ann Lawler (2905)" -> "Richard Stretton (1326)" [label=53]

@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
 United Australia Party"]
-	"Michael Organ (312)" [label="Michael Organ (312)
-The Greens"]
-	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
-United Australia Party"]
-	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
-United Australia Party"]
-	"Darren Ciavarella (310)" [label="Darren Ciavarella (310)
-Independent"]
-	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
-United Australia Party"]
-	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
-United Australia Party"]
 	"Darren Ciavarella (310)" -> "Michael Organ (312)" [label=500]
 	"Daniel Martelozzo (307)" -> "Darren Ciavarella (310)" [label=179]
 	"Daniel Martelozzo (307)" -> "Michael Organ (312)" [label=88]

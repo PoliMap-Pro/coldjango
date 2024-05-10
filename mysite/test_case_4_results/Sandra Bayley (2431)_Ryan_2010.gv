@@ -8,18 +8,6 @@ The Greens"]
 Independent"]
 	"Allan Vincent (3174)" [label="Allan Vincent (3174)
 Family First"]
-	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
-The Greens"]
-	"Allan Vincent (3174)" [label="Allan Vincent (3174)
-Family First"]
-	"Allan Vincent (3174)" [label="Allan Vincent (3174)
-Family First"]
-	"Michael Johnson (3976)" [label="Michael Johnson (3976)
-Independent"]
-	"Allan Vincent (3174)" [label="Allan Vincent (3174)
-Family First"]
-	"Allan Vincent (3174)" [label="Allan Vincent (3174)
-Family First"]
 	"Michael Johnson (3976)" -> "Sandra Bayley (2431)" [label=1558]
 	"Allan Vincent (3174)" -> "Michael Johnson (3976)" [label=400]
 	"Allan Vincent (3174)" -> "Sandra Bayley (2431)" [label=302]

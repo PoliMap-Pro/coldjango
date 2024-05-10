@@ -8,18 +8,6 @@ Australian Greens"]
 Family First"]
 	"Trent Reardon (4099)" [label="Trent Reardon (4099)
 Secular Party of Australia"]
-	"Geoff Payne (4098)" [label="Geoff Payne (4098)
-Australian Greens"]
-	"Trent Reardon (4099)" [label="Trent Reardon (4099)
-Secular Party of Australia"]
-	"Trent Reardon (4099)" [label="Trent Reardon (4099)
-Secular Party of Australia"]
-	"Gary Ong (4100)" [label="Gary Ong (4100)
-Family First"]
-	"Trent Reardon (4099)" [label="Trent Reardon (4099)
-Secular Party of Australia"]
-	"Trent Reardon (4099)" [label="Trent Reardon (4099)
-Secular Party of Australia"]
 	"Gary Ong (4100)" -> "Geoff Payne (4098)" [label=506]
 	"Trent Reardon (4099)" -> "Gary Ong (4100)" [label=108]
 	"Trent Reardon (4099)" -> "Geoff Payne (4098)" [label=244]

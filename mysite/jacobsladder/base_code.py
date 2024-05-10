@@ -22,7 +22,7 @@ class BaseCode(csv_to_db.ElectionReader):
                   text_to_print="Reading files in two candidate preferred "
                                 "directory", quiet=False):
         folder_reader.FolderReader.echo(quiet, text_to_print)
-        for filename in BaseCode.walk(directory):
+        for filename in folder_reader.FolderReader.walk(directory):
             self.add_one(filename, election, single_create_method)
             folder_reader.FolderReader.echo(quiet, "", False)
 

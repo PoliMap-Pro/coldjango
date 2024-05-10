@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Brad King (3875)" [label="Brad King (3875)
 Independent"]
-	"Patricia May Petersen (3876)" [label="Patricia May Petersen (3876)
-The Greens"]
-	"Brad King (3875)" [label="Brad King (3875)
-Independent"]
-	"Brad King (3875)" [label="Brad King (3875)
-Independent"]
-	"Joshua Olyslagers (3874)" [label="Joshua Olyslagers (3874)
-Family First"]
-	"Brad King (3875)" [label="Brad King (3875)
-Independent"]
-	"Brad King (3875)" [label="Brad King (3875)
-Independent"]
 	"Joshua Olyslagers (3874)" -> "Patricia May Petersen (3876)" [label=1470]
 	"Brad King (3875)" -> "Joshua Olyslagers (3874)" [label=1001]
 	"Brad King (3875)" -> "Patricia May Petersen (3876)" [label=973]

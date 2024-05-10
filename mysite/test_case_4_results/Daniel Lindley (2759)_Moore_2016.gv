@@ -6,7 +6,5 @@ digraph "Daniel Lindley (2759)_Moore_2016" {
 The Greens (WA)"]
 	"Maryka Groenewald (2760)" [label="Maryka Groenewald (2760)
 Australian Christians"]
-	"Maryka Groenewald (2760)" [label="Maryka Groenewald (2760)
-Australian Christians"]
 	"Maryka Groenewald (2760)" -> "Daniel Lindley (2759)" [label=599]
 }

@@ -8,18 +8,6 @@ The Greens"]
 Family First"]
 	"Chris Claydon (3217)" [label="Chris Claydon (3217)
 Katter's Australian Party"]
-	"Neil Cotter (579)" [label="Neil Cotter (579)
-The Greens"]
-	"Chris Claydon (3217)" [label="Chris Claydon (3217)
-Katter's Australian Party"]
-	"Chris Claydon (3217)" [label="Chris Claydon (3217)
-Katter's Australian Party"]
-	"Chris Lawrie (3220)" [label="Chris Lawrie (3220)
-Family First"]
-	"Chris Claydon (3217)" [label="Chris Claydon (3217)
-Katter's Australian Party"]
-	"Chris Claydon (3217)" [label="Chris Claydon (3217)
-Katter's Australian Party"]
 	"Chris Lawrie (3220)" -> "Neil Cotter (579)" [label=550]
 	"Chris Claydon (3217)" -> "Chris Lawrie (3220)" [label=177]
 	"Chris Claydon (3217)" -> "Neil Cotter (579)" [label=233]

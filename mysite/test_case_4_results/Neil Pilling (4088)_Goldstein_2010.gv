@@ -6,7 +6,5 @@ digraph "Neil Pilling (4088)_Goldstein_2010" {
 Australian Greens"]
 	"Anthony Forster (4087)" [label="Anthony Forster (4087)
 Family First"]
-	"Anthony Forster (4087)" [label="Anthony Forster (4087)
-Family First"]
 	"Anthony Forster (4087)" -> "Neil Pilling (4088)" [label=321]
 }

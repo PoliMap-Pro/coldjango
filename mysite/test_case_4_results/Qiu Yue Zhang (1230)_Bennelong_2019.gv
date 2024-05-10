@@ -8,18 +8,6 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Andrew Marks (1228)" [label="Andrew Marks (1228)
 United Australia Party"]
-	"Qiu Yue Zhang (1230)" [label="Qiu Yue Zhang (1230)
-The Greens"]
-	"Andrew Marks (1228)" [label="Andrew Marks (1228)
-United Australia Party"]
-	"Andrew Marks (1228)" [label="Andrew Marks (1228)
-United Australia Party"]
-	"Julie Worsley (1231)" [label="Julie Worsley (1231)
-Christian Democratic Party (Fred Nile Group)"]
-	"Andrew Marks (1228)" [label="Andrew Marks (1228)
-United Australia Party"]
-	"Andrew Marks (1228)" [label="Andrew Marks (1228)
-United Australia Party"]
 	"Julie Worsley (1231)" -> "Qiu Yue Zhang (1230)" [label=511]
 	"Andrew Marks (1228)" -> "Julie Worsley (1231)" [label=402]
 	"Andrew Marks (1228)" -> "Qiu Yue Zhang (1230)" [label=247]

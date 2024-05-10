@@ -10,42 +10,6 @@ National Party"]
 Australian Democrats"]
 	"David Wright (4662)" [label="David Wright (4662)
 Independent"]
-	"Rosalie Garland (4659)" [label="Rosalie Garland (4659)
-The Greens"]
-	"Gil Robertson (4663)" [label="Gil Robertson (4663)
-Australian Democrats"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"Rosalie Garland (4659)" [label="Rosalie Garland (4659)
-The Greens"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"Gil Robertson (4663)" [label="Gil Robertson (4663)
-Australian Democrats"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"Wilbur Klein (4660)" [label="Wilbur Klein (4660)
-National Party"]
-	"Gil Robertson (4663)" [label="Gil Robertson (4663)
-Australian Democrats"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"Wilbur Klein (4660)" [label="Wilbur Klein (4660)
-National Party"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"Gil Robertson (4663)" [label="Gil Robertson (4663)
-Australian Democrats"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
 	"Wilbur Klein (4660)" -> "Rosalie Garland (4659)" [label=403]
 	"Gil Robertson (4663)" -> "Wilbur Klein (4660)" [label=131]
 	"David Wright (4662)" -> "Gil Robertson (4663)" [label=136]

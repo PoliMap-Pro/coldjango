@@ -10,42 +10,6 @@ Family First"]
 Democrats"]
 	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
 LDP"]
-	"Simon Kean Hammerson (4592)" [label="Simon Kean Hammerson (4592)
-The Greens"]
-	"Jennifer Cluse (4593)" [label="Jennifer Cluse (4593)
-Democrats"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Simon Kean Hammerson (4592)" [label="Simon Kean Hammerson (4592)
-The Greens"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Jennifer Cluse (4593)" [label="Jennifer Cluse (4593)
-Democrats"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Karen Gray (4594)" [label="Karen Gray (4594)
-Family First"]
-	"Jennifer Cluse (4593)" [label="Jennifer Cluse (4593)
-Democrats"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Karen Gray (4594)" [label="Karen Gray (4594)
-Family First"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Jennifer Cluse (4593)" [label="Jennifer Cluse (4593)
-Democrats"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
-	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
-LDP"]
 	"Karen Gray (4594)" -> "Simon Kean Hammerson (4592)" [label=465]
 	"Jennifer Cluse (4593)" -> "Karen Gray (4594)" [label=112]
 	"Aubrey Clark (4590)" -> "Jennifer Cluse (4593)" [label=24]

@@ -99,7 +99,7 @@ class AECReader(object):
     def pull_candidate(election, person_attributes, row, seat,
                        candidate_objects=models.HouseCandidate.objects):
         candidate, _ = AECReader.find_person(candidate_objects,
-                                           person_attributes, row)
+                                             person_attributes, row)
         contention, _ = models.Contention.objects.get_or_create(
             seat=seat, candidate=candidate, election=election)
         return candidate

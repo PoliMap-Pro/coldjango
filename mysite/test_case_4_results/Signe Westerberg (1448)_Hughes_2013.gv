@@ -6,7 +6,5 @@ digraph "Signe Westerberg (1448)_Hughes_2013" {
 The Greens"]
 	"Peter M Colsell (2896)" [label="Peter M Colsell (2896)
 Christian Democratic Party (Fred Nile Group)"]
-	"Peter M Colsell (2896)" [label="Peter M Colsell (2896)
-Christian Democratic Party (Fred Nile Group)"]
 	"Peter M Colsell (2896)" -> "Signe Westerberg (1448)" [label=182]
 }

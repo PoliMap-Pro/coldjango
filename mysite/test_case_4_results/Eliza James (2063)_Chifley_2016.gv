@@ -6,7 +6,5 @@ digraph "Eliza James (2063)_Chifley_2016" {
 The Greens"]
 	"Ammar Khan (70)" [label="Ammar Khan (70)
 Independent"]
-	"Ammar Khan (70)" [label="Ammar Khan (70)
-Independent"]
 	"Ammar Khan (70)" -> "Eliza James (2063)" [label=463]
 }

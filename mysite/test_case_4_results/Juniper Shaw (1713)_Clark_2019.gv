@@ -6,7 +6,5 @@ digraph "Juniper Shaw (1713)_Clark_2019" {
 The Greens"]
 	"Jim Starkey (1714)" [label="Jim Starkey (1714)
 United Australia Party"]
-	"Jim Starkey (1714)" [label="Jim Starkey (1714)
-United Australia Party"]
 	"Jim Starkey (1714)" -> "Juniper Shaw (1713)" [label=215]
 }

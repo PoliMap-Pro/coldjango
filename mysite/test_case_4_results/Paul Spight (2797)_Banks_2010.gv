@@ -6,7 +6,5 @@ digraph "Paul Spight (2797)_Banks_2010" {
 The Greens"]
 	"Michael Parsons (3674)" [label="Michael Parsons (3674)
 One Nation"]
-	"Michael Parsons (3674)" [label="Michael Parsons (3674)
-One Nation"]
 	"Michael Parsons (3674)" -> "Paul Spight (2797)" [label=576]
 }

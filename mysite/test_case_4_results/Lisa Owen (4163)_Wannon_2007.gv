@@ -6,7 +6,5 @@ digraph "Lisa Owen (4163)_Wannon_2007" {
 Australian Greens"]
 	"Daniel Pech (4892)" [label="Daniel Pech (4892)
 Family First"]
-	"Daniel Pech (4892)" [label="Daniel Pech (4892)
-Family First"]
 	"Daniel Pech (4892)" -> "Lisa Owen (4163)" [label=894]
 }

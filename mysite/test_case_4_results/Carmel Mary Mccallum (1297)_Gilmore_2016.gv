@@ -6,7 +6,5 @@ digraph "Carmel Mary Mccallum (1297)_Gilmore_2016" {
 The Greens"]
 	"Steve Ryan (2102)" [label="Steve Ryan (2102)
 Christian Democratic Party (Fred Nile Group)"]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
 	"Steve Ryan (2102)" -> "Carmel Mary Mccallum (1297)" [label=765]
 }

@@ -6,7 +6,5 @@ digraph "Ian Oxenford (2919)_Lyne_2010" {
 The Greens"]
 	"Barry Wright (3778)" [label="Barry Wright (3778)
 Independent"]
-	"Barry Wright (3778)" [label="Barry Wright (3778)
-Independent"]
 	"Barry Wright (3778)" -> "Ian Oxenford (2919)" [label=91]
 }

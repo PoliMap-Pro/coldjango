@@ -6,7 +6,5 @@ digraph "Matt Parmeter (2198)_Parkes_2013" {
 The Greens"]
 	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
 Christian Democratic Party (Fred Nile Group)"]
-	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
-Christian Democratic Party (Fred Nile Group)"]
 	"Michelle Ryan (2078)" -> "Matt Parmeter (2198)" [label=185]
 }

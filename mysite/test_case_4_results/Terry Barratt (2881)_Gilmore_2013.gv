@@ -8,18 +8,6 @@ The Greens"]
 Palmer United Party"]
 	"Steve Ryan (2102)" [label="Steve Ryan (2102)
 Christian Democratic Party (Fred Nile Group)"]
-	"Terry Barratt (2881)" [label="Terry Barratt (2881)
-The Greens"]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
-	"Lyndal Gai Harris (2882)" [label="Lyndal Gai Harris (2882)
-Palmer United Party"]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
 	"Lyndal Gai Harris (2882)" -> "Terry Barratt (2881)" [label=1274]
 	"Steve Ryan (2102)" -> "Lyndal Gai Harris (2882)" [label=357]
 	"Steve Ryan (2102)" -> "Terry Barratt (2881)" [label=254]

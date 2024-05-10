@@ -6,7 +6,5 @@ digraph "Trevor Jones (1662)_Throsby_2004" {
 The Greens"]
 	"Madeleine Roberts (5238)" [label="Madeleine Roberts (5238)
 Australian Democrats"]
-	"Madeleine Roberts (5238)" [label="Madeleine Roberts (5238)
-Australian Democrats"]
 	"Madeleine Roberts (5238)" -> "Trevor Jones (1662)" [label=764]
 }

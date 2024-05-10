@@ -171,6 +171,18 @@ class Seat(Beacon):
     name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField(HouseElection, blank=True)
 
+    def ordinary_primary(self, election, party_abbreviation):
+        """
+        Supply a HouseElection.
+        Supply a party abbreviation as a string.
+        Returns the total ordinary votes for the party in the election.
+        """
+        representation = Representation.objects.get(
+            election=election, party__abbreviation__iexact=party_abbreviation,
+            person__candidate__contention__seat=self,
+            person__candidate__contention__election=election)
+        return self.candidate_for(representation.person.candidate, election)
+
     def total_primary_votes(self, elect):
         def return_candidate(election, seat, booth, vote_tally):
             return vote_tally.primary_votes
