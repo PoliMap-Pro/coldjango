@@ -485,6 +485,35 @@ class VoteTally(VoteRecord):
     tcp_votes = models.IntegerField(null=True, blank=True)
 
     @staticmethod
+    def via_representation(election, party_abbreviation, seat, booth,
+                           found_callback=None, not_found_callback=None):
+        """
+        Supply a HouseElection.
+        Supply a party abbreviation as a string.
+        Supply a Seat.
+        Supply a Booth.
+        Returns the VoteTally for the candidate representing that party in
+        that booth in that seat in that election.
+        """
+        representation = Representation.objects.get(
+            election=election, party__abbreviation__iexact=party_abbreviation,
+            person__candidate__contention__seat=seat,
+            person__candidate__contention__election=election
+        )
+        try:
+            vote_tally = VoteTally.objects.get(
+                booth=booth, election=election,
+                candidate=representation.person.candidate
+            )
+            if found_callback:
+                found_callback(booth, party_abbreviation, vote_tally)
+            return vote_tally
+        except VoteTally.DoesNotExist:
+            if not_found_callback:
+                not_found_callback(booth, party_abbreviation)
+            return False
+
+    @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(booth, seat, election):
             return [callback(*arguments, election=election, seat=seat,

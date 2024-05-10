@@ -40,10 +40,11 @@ class Command(BaseCommand):
          models.HouseElection.objects.all().order_by('election_date')]
 
     @staticmethod
-    def check_election(election, seat):
-        print(f"Election on {election.election_date}")
+    def check_election(election, seat, print_before_date="Election on ",
+                       party_abbreviations=('ALP', 'GRN')):
+        print(f"{print_before_date}{election.election_date}")
         [Command.check_primary(election, party_abbreviation, seat) for
-         party_abbreviation in ('ALP', 'GRN')]
+         party_abbreviation in party_abbreviations]
         print()
 
     @staticmethod

@@ -187,29 +187,19 @@ class Command(BaseCommand):
         models.Booth.per(Command.primary)(aston, twenty_nineteen)
 
     @staticmethod
-    def primary(election, seat, booth):
+    def primary(election, seat, booth, party_abbreviations=('ALP', 'LP')):
         print(booth)
         [Command.by_representation(
             booth, election, party_abbreviation, seat) for party_abbreviation
-            in ('ALP', 'LP')]
+            in party_abbreviations]
         print()
 
     @staticmethod
-    def by_representation(booth, election, party_abbreviation, seat):
-        repre = models.Representation.objects.get(
-            election=election,
-            party__abbreviation__iexact=party_abbreviation,
-            person__candidate__contention__seat=seat,
-            person__candidate__contention__election=election
-        )
-        try:
-            vote_tally = models.VoteTally.objects.get(
-                booth=booth, election=election,
-                candidate=repre.person.candidate
-            )
-            Command.check_tally(booth, party_abbreviation, vote_tally)
-        except models.VoteTally.DoesNotExist:
-            print(party_abbreviation, "DID NOT RUN A CANDIDATE")
+    def by_representation(booth, election, party_abbreviation, seat,
+                          print_if_not_found="DID NOT RUN A CANDIDATE"):
+        models.VoteTally.via_representation(
+            election, party_abbreviation, seat, booth,
+            Command.check_tally, lambda x, y: print(y, print_if_not_found))
 
     @staticmethod
     def check_tally(booth, party_abbreviation, vote_tally):
