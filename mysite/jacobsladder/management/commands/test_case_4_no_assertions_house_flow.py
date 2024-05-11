@@ -6,9 +6,8 @@ from ... import models, constants
 
 
 class Command(BaseCommand):
-    N = 200
-    #YEARS = (2022, 2016, )
-    YEARS = (2022, 2019, 2016, 2013, 2010, 2007, 2004,)
+    N = 3
+    YEARS = (2022, 2016, )
     PARTY_ABBREVIATION = 'GRN'
     NODE_SHAPE = 'box'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
@@ -20,15 +19,9 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        #seat_list = list(models.Seat.objects.all().order_by(
-        #    'name'))[:Command.N]
-        #[Command.year_flow(seat_list, year) for year in Command.YEARS]
-        for abbreviation in constants.ABBREVIATION_LIST:
-            print(abbreviation)
-            seat_list = list(models.Seat.objects.all().order_by(
-                'name'))[:Command.N]
-            [Command.year_flow(seat_list, year, abbreviation) for year in
-             Command.YEARS]
+        seat_list = list(models.Seat.objects.all().order_by(
+            'name'))[:Command.N]
+        [Command.year_flow(seat_list, year) for year in Command.YEARS]
 
     @staticmethod
     def year_flow(seat_list, year, abbreviation=None):
@@ -86,19 +79,17 @@ class Command(BaseCommand):
 
     @staticmethod
     def get_targets(election, seat, abbreviation=None):
-        pref_rounds = list(models.PreferenceRound.objects.filter(
-            election=election, seat=seat).order_by('round_number'))
         representing_candidates = [
             representation.person.candidate.pk for representation in
             models.Representation.objects.filter(
                 election=election,
                 party__abbreviation__iexact=abbreviation if abbreviation else
                 Command.PARTY_ABBREVIATION)]
-        return pref_rounds, [contention.candidate for contention in
-                             models.Contention.objects.filter(
-                                 election=election, seat=seat) if
-                             contention.candidate.pk in
-                             representing_candidates]
+        return list(models.PreferenceRound.objects.filter(
+            election=election, seat=seat).order_by('round_number')), [
+            contention.candidate for contention in
+            models.Contention.objects.filter(election=election, seat=seat) if
+            contention.candidate.pk in representing_candidates]
 
     @staticmethod
     def get_election(year):
@@ -141,7 +132,7 @@ class Command(BaseCommand):
         if new_node not in nodes:
             nodes.append(new_node, )
         if last_candidate:
-            new_edge = node_name, last_candidate, str(trail[n - 1][1])
+            new_edge = node_name, last_candidate, str(trail[n-1][1])
             if new_edge not in edges:
                 edges.append(new_edge)
         return node_name
@@ -183,20 +174,21 @@ class Command(BaseCommand):
 
     @staticmethod
     def add_source(election, last_pref, pref_rounds, seat, trail, trail_index):
-        last_pref, previous = Command.setup_source(election, last_pref,
-                                                   pref_rounds, seat, trail_index)
+        last_pref, previous = seat.setup_source(election, last_pref,
+                                                pref_rounds, seat, trail_index)
         proximate = last_pref.votes_received - previous.votes_received
         trail.append((last_pref.candidate, proximate,
                       last_pref.round.round_number), )
         return last_pref
 
-    @staticmethod
-    def setup_source(election, last_pref, pref_rounds, seat, trail_index):
-        return Command.PREF.get(
-            election=election, seat=seat, candidate=last_pref.source_candidate,
-            round=pref_rounds[trail_index]), Command.PREF.get(
-            election=election, seat=seat, candidate=last_pref.source_candidate,
-            round=pref_rounds[trail_index-1])
+    #@staticmethod
+    #def setup_source(election, last_pref, pref_rounds, seat, trail_index):
+    #    return seat.setup_source(election, last_pref, pref_rounds, trail_index)
+        #return Command.PREF.get(
+        #    election=election, seat=seat, candidate=last_pref.source_candidate,
+        #    round=pref_rounds[trail_index]), Command.PREF.get(
+        #    election=election, seat=seat, candidate=last_pref.source_candidate,
+        #    round=pref_rounds[trail_index-1])
 
     @staticmethod
     def setup_trail(election, last_pref, pref_rounds, round_obj, seat):

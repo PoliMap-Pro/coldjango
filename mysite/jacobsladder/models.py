@@ -196,6 +196,16 @@ class Seat(Beacon):
         return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
             self, elect) for votes in booth])
 
+    def setup_source(self, election, last_preference, preference_rounds,
+                     target_index):
+        return PreferenceRound.objects.get(
+            election=election, seat=self,
+            candidate=last_preference.source_candidate,
+            round=preference_rounds[target_index]), PreferenceRound.objects.get(
+            election=election, seat=self,
+            candidate=last_preference.source_candidate,
+            round=preference_rounds[target_index-1])
+
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         def wrapper(election):
