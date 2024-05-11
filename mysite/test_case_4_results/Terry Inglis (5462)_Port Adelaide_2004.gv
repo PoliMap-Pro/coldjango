@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Inglis (5462)_Port Adelaide_2004" {
-	graph [label="Port Adelaide 2004" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Inglis (5462)" [label="Terry Inglis (5462)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Potter (2464)_Makin_2013" {
-	graph [label="Makin 2013" labelloc=t mclimit=2]
+	graph [label="Makin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Potter (2464)" [label="Mark Potter (2464)
 Family First"]

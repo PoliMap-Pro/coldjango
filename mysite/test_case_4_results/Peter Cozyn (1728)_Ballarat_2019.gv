@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Cozyn (1728)_Ballarat_2019" {
-	graph [label="Ballarat 2019" labelloc=t mclimit=2]
+	graph [label="Ballarat 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Cozyn (1728)" [label="Peter Cozyn (1728)
 United Australia Party"]

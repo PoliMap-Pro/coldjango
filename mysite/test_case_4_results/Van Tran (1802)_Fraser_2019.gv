@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Van Tran (1802)_Fraser_2019" {
+	graph [label="Fraser 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Van Tran (1802)" [label="Van Tran (1802)
+Independent"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Tony Dobran (884)" -> "Van Tran (1802)" [label=258]
+}

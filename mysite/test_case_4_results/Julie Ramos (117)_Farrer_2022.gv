@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Ramos (117)_Farrer_2022" {
-	graph [label="Farrer 2022" labelloc=t mclimit=2]
+	graph [label="Farrer 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Ramos (117)" [label="Julie Ramos (117)
 United Australia Party"]

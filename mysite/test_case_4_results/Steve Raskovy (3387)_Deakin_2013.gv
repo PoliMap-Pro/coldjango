@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Raskovy (3387)_Deakin_2013" {
-	graph [label="Deakin 2013" labelloc=t mclimit=2]
+	graph [label="Deakin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Raskovy (3387)" [label="Steve Raskovy (3387)
 Katter's Australian Party"]

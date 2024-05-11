@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul James Young (3573)_Brand_2013" {
-	graph [label="Brand 2013" labelloc=t mclimit=2]
+	graph [label="Brand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul James Young (3573)" [label="Paul James Young (3573)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Van Der Byl (2124)_Hume_2013" {
-	graph [label="Hume 2013" labelloc=t mclimit=2]
+	graph [label="Hume 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Van Der Byl (2124)" [label="Adrian Van Der Byl (2124)
 Christian Democratic Party (Fred Nile Group)"]

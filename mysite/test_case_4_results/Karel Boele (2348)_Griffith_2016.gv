@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Karel Boele (2348)_Griffith_2016" {
+	graph [label="Griffith 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Karel Boele (2348)" [label="Karel Boele (2348)
+Independent"]
+	"Theresa Graham (2351)" [label="Theresa Graham (2351)
+Family First"]
+	"Theresa Graham (2351)" -> "Karel Boele (2348)" [label=172]
+}

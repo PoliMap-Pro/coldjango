@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Cadman (5164)_Mitchell_2004" {
-	graph [label="Mitchell 2004" labelloc=t mclimit=2]
+	graph [label="Mitchell 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Cadman (5164)" [label="Alan Cadman (5164)
 Liberal"]

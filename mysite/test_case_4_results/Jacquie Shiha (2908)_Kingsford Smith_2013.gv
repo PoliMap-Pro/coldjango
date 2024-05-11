@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacquie Shiha (2908)_Kingsford Smith_2013" {
-	graph [label="Kingsford Smith 2013" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacquie Shiha (2908)" [label="Jacquie Shiha (2908)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Crowe (1595)_McPherson_2019" {
-	graph [label="McPherson 2019" labelloc=t mclimit=2]
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Crowe (1595)" [label="Scott Crowe (1595)
 Liberal Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nigel Asplin (4579)_Kennedy_2007" {
-	graph [label="Kennedy 2007" labelloc=t mclimit=2]
+	graph [label="Kennedy 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nigel Asplin (4579)" [label="Nigel Asplin (4579)
 Democrats"]

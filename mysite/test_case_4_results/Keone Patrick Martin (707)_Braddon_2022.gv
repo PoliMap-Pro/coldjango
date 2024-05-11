@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keone Patrick Martin (707)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t mclimit=2]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keone Patrick Martin (707)" [label="Keone Patrick Martin (707)
 Animal Justice Party"]

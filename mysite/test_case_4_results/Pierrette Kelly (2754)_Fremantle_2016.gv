@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pierrette Kelly (2754)_Fremantle_2016" {
-	graph [label="Fremantle 2016" labelloc=t mclimit=2]
+	graph [label="Fremantle 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pierrette Kelly (2754)" [label="Pierrette Kelly (2754)
 Liberal"]

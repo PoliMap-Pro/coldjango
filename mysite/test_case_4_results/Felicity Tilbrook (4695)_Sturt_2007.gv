@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Felicity Tilbrook (4695)_Sturt_2007" {
-	graph [label="Sturt 2007" labelloc=t mclimit=2]
+	graph [label="Sturt 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Felicity Tilbrook (4695)" [label="Felicity Tilbrook (4695)
 LDP"]

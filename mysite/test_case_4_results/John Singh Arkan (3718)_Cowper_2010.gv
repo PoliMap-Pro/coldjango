@@ -1,0 +1,14 @@
+// House preference flow
+digraph "John Singh Arkan (3718)_Cowper_2010" {
+	graph [label="Cowper 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"John Singh Arkan (3718)" [label="John Singh Arkan (3718)
+Independent"]
+	"Dominic King (3717)" [label="Dominic King (3717)
+The Greens"]
+	"Deborah A J Lions (3719)" [label="Deborah A J Lions (3719)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dominic King (3717)" -> "John Singh Arkan (3718)" [label=2136]
+	"Deborah A J Lions (3719)" -> "Dominic King (3717)" [label=118]
+	"Deborah A J Lions (3719)" -> "John Singh Arkan (3718)" [label=303]
+}

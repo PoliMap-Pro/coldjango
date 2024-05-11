@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Barber (3390)_Deakin_2013" {
-	graph [label="Deakin 2013" labelloc=t mclimit=2]
+	graph [label="Deakin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Barber (3390)" [label="Stephen Barber (3390)
 Sex Party"]

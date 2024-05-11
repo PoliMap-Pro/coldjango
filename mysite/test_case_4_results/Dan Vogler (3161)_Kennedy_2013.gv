@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dan Vogler (3161)_Kennedy_2013" {
-	graph [label="Kennedy 2013" labelloc=t mclimit=2]
+	graph [label="Kennedy 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dan Vogler (3161)" [label="Dan Vogler (3161)
 Family First"]

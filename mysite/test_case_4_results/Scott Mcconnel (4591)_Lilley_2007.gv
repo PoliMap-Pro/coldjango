@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Mcconnel (4591)_Lilley_2007" {
-	graph [label="Lilley 2007" labelloc=t mclimit=2]
+	graph [label="Lilley 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Mcconnel (4591)" [label="Scott Mcconnel (4591)
 Liberal"]

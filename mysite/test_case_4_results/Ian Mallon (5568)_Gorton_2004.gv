@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Mallon (5568)_Gorton_2004" {
-	graph [label="Gorton 2004" labelloc=t mclimit=2]
+	graph [label="Gorton 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Mallon (5568)" [label="Ian Mallon (5568)
 Family First"]

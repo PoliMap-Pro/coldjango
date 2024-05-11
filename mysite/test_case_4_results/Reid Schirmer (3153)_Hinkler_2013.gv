@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Reid Schirmer (3153)_Hinkler_2013" {
+	graph [label="Hinkler 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Reid Schirmer (3153)" [label="Reid Schirmer (3153)
+Independent"]
+}

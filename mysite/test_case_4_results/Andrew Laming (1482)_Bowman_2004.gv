@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Laming (1482)_Bowman_2004" {
-	graph [label="Bowman 2004" labelloc=t mclimit=2]
+	graph [label="Bowman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Laming (1482)" [label="Andrew Laming (1482)
 Liberal"]

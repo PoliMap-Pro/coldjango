@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Rivish (2444)_Adelaide_2016" {
-	graph [label="Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
 Family First"]

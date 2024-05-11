@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Laird (1029)_Nicholls_2022" {
-	graph [label="Nicholls 2022" labelloc=t mclimit=2]
+	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Laird (1029)" [label="Tim Laird (1029)
 Liberal Democrats"]

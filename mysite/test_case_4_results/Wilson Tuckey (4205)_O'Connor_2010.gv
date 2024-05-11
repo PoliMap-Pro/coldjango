@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wilson Tuckey (4205)_O'Connor_2010" {
-	graph [label="O'Connor 2010" labelloc=t mclimit=2]
+	graph [label="O'Connor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wilson Tuckey (4205)" [label="Wilson Tuckey (4205)
 Liberal"]

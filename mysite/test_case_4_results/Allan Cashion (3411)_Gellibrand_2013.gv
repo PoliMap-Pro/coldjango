@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan Cashion (3411)_Gellibrand_2013" {
-	graph [label="Gellibrand 2013" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan Cashion (3411)" [label="Allan Cashion (3411)
 Sex Party"]

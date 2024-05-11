@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bianca Joy Gidley (826)_Deakin_2022" {
-	graph [label="Deakin 2022" labelloc=t mclimit=2]
+	graph [label="Deakin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bianca Joy Gidley (826)" [label="Bianca Joy Gidley (826)
 United Australia Party"]

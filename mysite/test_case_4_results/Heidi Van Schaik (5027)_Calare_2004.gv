@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heidi Van Schaik (5027)_Calare_2004" {
-	graph [label="Calare 2004" labelloc=t mclimit=2]
+	graph [label="Calare 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heidi Van Schaik (5027)" [label="Heidi Van Schaik (5027)
 Citizens Electoral Council"]

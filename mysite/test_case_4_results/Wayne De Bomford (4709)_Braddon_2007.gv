@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne De Bomford (4709)_Braddon_2007" {
-	graph [label="Braddon 2007" labelloc=t mclimit=2]
+	graph [label="Braddon 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne De Bomford (4709)" [label="Wayne De Bomford (4709)
 Family First"]

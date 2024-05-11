@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Giles (4479)_Lingiari_2007" {
-	graph [label="Lingiari 2007" labelloc=t mclimit=2]
+	graph [label="Lingiari 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Giles (4479)" [label="Adam Giles (4479)
 C.L.P."]

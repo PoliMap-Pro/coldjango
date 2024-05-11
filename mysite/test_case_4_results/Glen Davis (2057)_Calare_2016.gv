@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Davis (2057)_Calare_2016" {
-	graph [label="Calare 2016" labelloc=t mclimit=2]
+	graph [label="Calare 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Davis (2057)" [label="Glen Davis (2057)
 Liberal Democrats"]

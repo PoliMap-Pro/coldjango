@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Haynes (4417)_Paterson_2007" {
-	graph [label="Paterson 2007" labelloc=t mclimit=2]
+	graph [label="Paterson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Haynes (4417)" [label="Heather Haynes (4417)
 Christian Democratic Party (Fred Nile Group)"]

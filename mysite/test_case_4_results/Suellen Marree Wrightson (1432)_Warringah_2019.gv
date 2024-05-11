@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Suellen Marree Wrightson (1432)_Warringah_2019" {
-	graph [label="Warringah 2019" labelloc=t mclimit=2]
+	graph [label="Warringah 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Suellen Marree Wrightson (1432)" [label="Suellen Marree Wrightson (1432)
 United Australia Party"]

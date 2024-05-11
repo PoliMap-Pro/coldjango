@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Raymond Palmer (2977)_Reid_2013" {
-	graph [label="Reid 2013" labelloc=t mclimit=2]
+	graph [label="Reid 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Raymond Palmer (2977)" [label="Raymond Palmer (2977)
 Australian Independents"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicole Devincentis (1930)_Burt_2019" {
-	graph [label="Burt 2019" labelloc=t mclimit=2]
+	graph [label="Burt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicole Devincentis (1930)" [label="Nicole Devincentis (1930)
 Pauline Hanson's One Nation"]

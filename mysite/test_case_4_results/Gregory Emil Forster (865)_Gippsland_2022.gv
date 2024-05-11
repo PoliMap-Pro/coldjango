@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gregory Emil Forster (865)_Gippsland_2022" {
-	graph [label="Gippsland 2022" labelloc=t mclimit=2]
+	graph [label="Gippsland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gregory Emil Forster (865)" [label="Gregory Emil Forster (865)
 United Australia Party"]

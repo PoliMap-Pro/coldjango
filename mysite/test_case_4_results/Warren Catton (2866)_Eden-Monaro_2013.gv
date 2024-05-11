@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Warren Catton (2866)_Eden-Monaro_2013" {
-	graph [label="Eden-Monaro 2013" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Warren Catton (2866)" [label="Warren Catton (2866)
 Christian Democratic Party (Fred Nile Group)"]

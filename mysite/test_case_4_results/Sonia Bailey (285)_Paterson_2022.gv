@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sonia Bailey (285)_Paterson_2022" {
-	graph [label="Paterson 2022" labelloc=t mclimit=2]
+	graph [label="Paterson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sonia Bailey (285)" [label="Sonia Bailey (285)
 Liberal Democrats"]

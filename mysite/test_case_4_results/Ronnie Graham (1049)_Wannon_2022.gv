@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ronnie Graham (1049)_Wannon_2022" {
-	graph [label="Wannon 2022" labelloc=t mclimit=2]
+	graph [label="Wannon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ronnie Graham (1049)" [label="Ronnie Graham (1049)
 Pauline Hanson's One Nation"]

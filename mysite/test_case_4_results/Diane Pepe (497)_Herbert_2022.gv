@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Diane Pepe (497)_Herbert_2022" {
-	graph [label="Herbert 2022" labelloc=t mclimit=2]
+	graph [label="Herbert 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Diane Pepe (497)" [label="Diane Pepe (497)
 Pauline Hanson's One Nation"]

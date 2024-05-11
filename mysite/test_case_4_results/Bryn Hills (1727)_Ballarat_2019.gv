@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bryn Hills (1727)_Ballarat_2019" {
-	graph [label="Ballarat 2019" labelloc=t mclimit=2]
+	graph [label="Ballarat 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bryn Hills (1727)" [label="Bryn Hills (1727)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Saad (5195)_Parramatta_2004" {
-	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	graph [label="Parramatta 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Saad (5195)" [label="Simon Saad (5195)
 No GST"]

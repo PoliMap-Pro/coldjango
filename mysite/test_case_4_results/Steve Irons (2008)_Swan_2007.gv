@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Irons (2008)_Swan_2007" {
-	graph [label="Swan 2007" labelloc=t mclimit=2]
+	graph [label="Swan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Irons (2008)" [label="Steve Irons (2008)
 Liberal"]

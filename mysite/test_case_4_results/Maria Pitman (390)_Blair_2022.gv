@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maria Pitman (390)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t mclimit=2]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maria Pitman (390)" [label="Maria Pitman (390)
 Australian Values Party"]

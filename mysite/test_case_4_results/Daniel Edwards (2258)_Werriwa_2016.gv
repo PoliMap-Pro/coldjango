@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Edwards (2258)_Werriwa_2016" {
-	graph [label="Werriwa 2016" labelloc=t mclimit=2]
+	graph [label="Werriwa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Edwards (2258)" [label="Daniel Edwards (2258)
 Christian Democratic Party (Fred Nile Group)"]

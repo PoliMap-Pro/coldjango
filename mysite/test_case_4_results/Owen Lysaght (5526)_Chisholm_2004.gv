@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Owen Lysaght (5526)_Chisholm_2004" {
+	graph [label="Chisholm 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Owen Lysaght (5526)" [label="Owen Lysaght (5526)
+Independent"]
+	"Wayne Barwick (5527)" [label="Wayne Barwick (5527)
+Citizens Electoral Council"]
+	"Wayne Barwick (5527)" -> "Owen Lysaght (5526)" [label=31]
+}

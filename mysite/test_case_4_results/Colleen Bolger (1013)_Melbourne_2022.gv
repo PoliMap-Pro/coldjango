@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colleen Bolger (1013)_Melbourne_2022" {
-	graph [label="Melbourne 2022" labelloc=t mclimit=2]
+	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
 Victorian Socialists"]

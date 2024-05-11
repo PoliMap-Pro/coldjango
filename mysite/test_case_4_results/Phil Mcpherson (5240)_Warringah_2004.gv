@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Mcpherson (5240)_Warringah_2004" {
-	graph [label="Warringah 2004" labelloc=t mclimit=2]
+	graph [label="Warringah 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Mcpherson (5240)" [label="Phil Mcpherson (5240)
 Family First"]

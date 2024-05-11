@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Fletcher (886)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=2]
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Fletcher (886)" [label="John Fletcher (886)
 Liberal"]

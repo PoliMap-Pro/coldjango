@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Josh Frydenberg (951)_Kooyong_2022" {
-	graph [label="Kooyong 2022" labelloc=t mclimit=2]
+	graph [label="Kooyong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Josh Frydenberg (951)" [label="Josh Frydenberg (951)
 Liberal"]

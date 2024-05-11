@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Raye (3678)_Bennelong_2010" {
-	graph [label="Bennelong 2010" labelloc=t mclimit=2]
+	graph [label="Bennelong 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Raye (3678)" [label="Sue Raye (3678)
 Australian Sex Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Edward Sok (914)_Hotham_2022" {
-	graph [label="Hotham 2022" labelloc=t mclimit=2]
+	graph [label="Hotham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Edward Sok (914)" [label="Edward Sok (914)
 Liberal Democrats"]

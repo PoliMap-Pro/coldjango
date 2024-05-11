@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rohan Salins (2114)_Greenway_2016" {
-	graph [label="Greenway 2016" labelloc=t mclimit=2]
+	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rohan Salins (2114)" [label="Rohan Salins (2114)
 Family First"]

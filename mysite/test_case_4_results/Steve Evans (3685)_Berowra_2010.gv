@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Evans (3685)_Berowra_2010" {
-	graph [label="Berowra 2010" labelloc=t mclimit=2]
+	graph [label="Berowra 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Evans (3685)" [label="Steve Evans (3685)
 Christian Democratic Party (Fred Nile Group)"]

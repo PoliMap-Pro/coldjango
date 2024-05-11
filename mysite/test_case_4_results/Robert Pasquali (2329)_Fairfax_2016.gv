@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Pasquali (2329)_Fairfax_2016" {
-	graph [label="Fairfax 2016" labelloc=t mclimit=2]
+	graph [label="Fairfax 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
 Pauline Hanson's One Nation"]

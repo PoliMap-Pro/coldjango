@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Joseph Raffaelli (1934)_Burt_2019" {
-	graph [label="Burt 2019" labelloc=t mclimit=2]
+	graph [label="Burt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Joseph Raffaelli (1934)" [label="Peter Joseph Raffaelli (1934)
 Shooters, Fishers and Farmers"]

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Andrew Wilkie (715)_Clark_2019" {
+	graph [label="Clark 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Wilkie (715)" [label="Andrew Wilkie (715)
+Independent"]
+	"Amanda-Sue Markham (1712)" [label="Amanda-Sue Markham (1712)
+Liberal"]
+	"Juniper Shaw (1713)" [label="Juniper Shaw (1713)
+The Greens"]
+	"Jim Starkey (1714)" [label="Jim Starkey (1714)
+United Australia Party"]
+	"Amanda-Sue Markham (1712)" -> "Andrew Wilkie (715)" [label=9970]
+	"Juniper Shaw (1713)" -> "Amanda-Sue Markham (1712)" [label=327]
+	"Jim Starkey (1714)" -> "Juniper Shaw (1713)" [label=215]
+	"Juniper Shaw (1713)" -> "Andrew Wilkie (715)" [label=4056]
+	"Jim Starkey (1714)" -> "Andrew Wilkie (715)" [label=866]
+	"Jim Starkey (1714)" -> "Amanda-Sue Markham (1712)" [label=514]
+}

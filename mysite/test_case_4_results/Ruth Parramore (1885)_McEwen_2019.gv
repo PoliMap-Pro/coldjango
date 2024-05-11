@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ruth Parramore (1885)_McEwen_2019" {
-	graph [label="McEwen 2019" labelloc=t mclimit=2]
+	graph [label="McEwen 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ruth Parramore (1885)" [label="Ruth Parramore (1885)
 Animal Justice Party"]

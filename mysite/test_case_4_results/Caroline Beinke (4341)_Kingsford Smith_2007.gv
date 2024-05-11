@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Caroline Beinke (4341)_Kingsford Smith_2007" {
-	graph [label="Kingsford Smith 2007" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Caroline Beinke (4341)" [label="Caroline Beinke (4341)
 Liberal"]

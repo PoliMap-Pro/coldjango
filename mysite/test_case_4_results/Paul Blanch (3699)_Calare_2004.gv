@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Blanch (3699)_Calare_2004" {
-	graph [label="Calare 2004" labelloc=t mclimit=2]
+	graph [label="Calare 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Blanch (3699)" [label="Paul Blanch (3699)
 Liberal"]

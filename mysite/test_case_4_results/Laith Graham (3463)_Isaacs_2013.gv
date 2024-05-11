@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Laith Graham (3463)_Isaacs_2013" {
-	graph [label="Isaacs 2013" labelloc=t mclimit=2]
+	graph [label="Isaacs 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Laith Graham (3463)" [label="Laith Graham (3463)
 Sex Party"]

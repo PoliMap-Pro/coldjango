@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deborah Narayanan (3846)_Shortland_2010" {
-	graph [label="Shortland 2010" labelloc=t mclimit=2]
+	graph [label="Shortland 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deborah Narayanan (3846)" [label="Deborah Narayanan (3846)
 Liberal"]

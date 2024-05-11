@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicole Robins (1966)_Fremantle_2019" {
-	graph [label="Fremantle 2019" labelloc=t mclimit=2]
+	graph [label="Fremantle 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicole Robins (1966)" [label="Nicole Robins (1966)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roslyn Stewart (1165)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
 The Great Australian Party"]

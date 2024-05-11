@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Natalie Dumer (354)_Wentworth_2022" {
-	graph [label="Wentworth 2022" labelloc=t mclimit=2]
+	graph [label="Wentworth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Natalie Dumer (354)" [label="Natalie Dumer (354)
 United Australia Party"]

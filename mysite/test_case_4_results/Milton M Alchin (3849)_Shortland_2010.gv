@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Milton M Alchin (3849)_Shortland_2010" {
-	graph [label="Shortland 2010" labelloc=t mclimit=2]
+	graph [label="Shortland 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Milton M Alchin (3849)" [label="Milton M Alchin (3849)
 One Nation"]

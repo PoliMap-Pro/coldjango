@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Hold (409)_Brisbane_2022" {
-	graph [label="Brisbane 2022" labelloc=t mclimit=2]
+	graph [label="Brisbane 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Hold (409)" [label="Trevor Hold (409)
 Pauline Hanson's One Nation"]

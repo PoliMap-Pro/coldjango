@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Suzanne Patricia Neal (3985)_Adelaide_2010" {
-	graph [label="Adelaide 2010" labelloc=t mclimit=2]
+	graph [label="Adelaide 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Suzanne Patricia Neal (3985)" [label="Suzanne Patricia Neal (3985)
 Family First"]

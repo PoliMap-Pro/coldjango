@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lisa Woods (4526)_Fairfax_2007" {
-	graph [label="Fairfax 2007" labelloc=t mclimit=2]
+	graph [label="Fairfax 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lisa Woods (4526)" [label="Lisa Woods (4526)
 Family First"]

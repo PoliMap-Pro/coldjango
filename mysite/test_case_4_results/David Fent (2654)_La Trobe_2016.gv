@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Fent (2654)_La Trobe_2016" {
-	graph [label="La Trobe 2016" labelloc=t mclimit=2]
+	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Fent (2654)" [label="David Fent (2654)
 Shooters, Fishers and Farmers"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Cooper (2409)_Moreton_2016" {
-	graph [label="Moreton 2016" labelloc=t mclimit=2]
+	graph [label="Moreton 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Cooper (2409)" [label="Andrew Cooper (2409)
 Liberal Democrats"]

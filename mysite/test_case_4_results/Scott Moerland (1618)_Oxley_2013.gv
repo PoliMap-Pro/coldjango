@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Moerland (1618)_Oxley_2013" {
-	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	graph [label="Oxley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Moerland (1618)" [label="Scott Moerland (1618)
 Rise Up Australia Party"]

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sinim Australie (1520)_Fairfax_2019" {
+	graph [label="Fairfax 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sinim Australie (1520)" [label="Sinim Australie (1520)
+Independent"]
+	"Bertrand Cadart (1521)" [label="Bertrand Cadart (1521)
+Liberal Democrats"]
+	"Bertrand Cadart (1521)" -> "Sinim Australie (1520)" [label=105]
+}

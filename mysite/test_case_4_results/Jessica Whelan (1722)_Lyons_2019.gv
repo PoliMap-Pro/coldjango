@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jessica Whelan (1722)_Lyons_2019" {
-	graph [label="Lyons 2019" labelloc=t mclimit=2]
+	graph [label="Lyons 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jessica Whelan (1722)" [label="Jessica Whelan (1722)
 Liberal"]

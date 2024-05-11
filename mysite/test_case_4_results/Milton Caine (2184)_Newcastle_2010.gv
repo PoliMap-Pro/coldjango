@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Milton Caine (2184)_Newcastle_2010" {
-	graph [label="Newcastle 2010" labelloc=t mclimit=2]
+	graph [label="Newcastle 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Milton Caine (2184)" [label="Milton Caine (2184)
 Christian Democratic Party (Fred Nile Group)"]

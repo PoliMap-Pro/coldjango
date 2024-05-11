@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hayley Deans (759)_Bruce_2022" {
-	graph [label="Bruce 2022" labelloc=t mclimit=2]
+	graph [label="Bruce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hayley Deans (759)" [label="Hayley Deans (759)
 Pauline Hanson's One Nation"]

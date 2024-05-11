@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Darren Bergwerf (829)_Dunkley_2022" {
+	graph [label="Dunkley 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Darren Bergwerf (829)" [label="Darren Bergwerf (829)
+Independent"]
+	"Scott Middlebrook (835)" [label="Scott Middlebrook (835)
+Pauline Hanson's One Nation"]
+	"Damian Willis (831)" [label="Damian Willis (831)
+Liberal Democrats"]
+	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
+Animal Justice Party"]
+	"Kathryn Woods (836)" [label="Kathryn Woods (836)
+Australian Federation Party"]
+	"Scott Middlebrook (835)" -> "Darren Bergwerf (829)" [label=657]
+	"Damian Willis (831)" -> "Scott Middlebrook (835)" [label=614]
+	"Elizabeth Johnston (832)" -> "Damian Willis (831)" [label=75]
+	"Kathryn Woods (836)" -> "Elizabeth Johnston (832)" [label=56]
+	"Damian Willis (831)" -> "Darren Bergwerf (829)" [label=326]
+	"Elizabeth Johnston (832)" -> "Darren Bergwerf (829)" [label=308]
+	"Kathryn Woods (836)" -> "Darren Bergwerf (829)" [label=129]
+	"Kathryn Woods (836)" -> "Damian Willis (831)" [label=70]
+	"Elizabeth Johnston (832)" -> "Scott Middlebrook (835)" [label=175]
+	"Kathryn Woods (836)" -> "Scott Middlebrook (835)" [label=74]
+}

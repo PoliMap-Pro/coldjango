@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Nalbandian (244)_North Sydney_2022" {
-	graph [label="North Sydney 2022" labelloc=t mclimit=2]
+	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Nalbandian (244)" [label="Robert Nalbandian (244)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Mccarthy (1574)_Leichhardt_2019" {
-	graph [label="Leichhardt 2019" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Mccarthy (1574)" [label="Daniel Mccarthy (1574)
 Katter's Australian Party (KAP)"]

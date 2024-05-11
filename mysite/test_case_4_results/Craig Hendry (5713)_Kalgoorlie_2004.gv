@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Hendry (5713)_Kalgoorlie_2004" {
-	graph [label="Kalgoorlie 2004" labelloc=t mclimit=2]
+	graph [label="Kalgoorlie 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Hendry (5713)" [label="Craig Hendry (5713)
 CDP Christian Party"]

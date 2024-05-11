@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Foley (1413)_Riverina_2019" {
-	graph [label="Riverina 2019" labelloc=t mclimit=2]
+	graph [label="Riverina 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Foley (1413)" [label="Richard Foley (1413)
 United Australia Party"]

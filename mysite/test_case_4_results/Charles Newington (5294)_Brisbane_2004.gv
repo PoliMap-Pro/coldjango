@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charles Newington (5294)_Brisbane_2004" {
-	graph [label="Brisbane 2004" labelloc=t mclimit=2]
+	graph [label="Brisbane 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charles Newington (5294)" [label="Charles Newington (5294)
 Family First"]

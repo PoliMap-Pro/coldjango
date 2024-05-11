@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cathy Vaina (2672)_McEwen_2016" {
-	graph [label="McEwen 2016" labelloc=t mclimit=2]
+	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
 Animal Justice Party"]

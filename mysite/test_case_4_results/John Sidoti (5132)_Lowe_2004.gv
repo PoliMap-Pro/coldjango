@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Sidoti (5132)_Lowe_2004" {
-	graph [label="Lowe 2004" labelloc=t mclimit=2]
+	graph [label="Lowe 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Sidoti (5132)" [label="John Sidoti (5132)
 Liberal"]

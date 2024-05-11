@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kelly Gladigau (1652)_Barker_2019" {
-	graph [label="Barker 2019" labelloc=t mclimit=2]
+	graph [label="Barker 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kelly Gladigau (1652)" [label="Kelly Gladigau (1652)
 Centre Alliance"]

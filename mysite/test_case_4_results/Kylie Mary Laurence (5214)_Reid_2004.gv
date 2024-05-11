@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylie Mary Laurence (5214)_Reid_2004" {
-	graph [label="Reid 2004" labelloc=t mclimit=2]
+	graph [label="Reid 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylie Mary Laurence (5214)" [label="Kylie Mary Laurence (5214)
 Christian Democratic Party (Fred Nile Group)"]

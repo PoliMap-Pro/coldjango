@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamal Elishe (3791)_McMahon_2010" {
-	graph [label="McMahon 2010" labelloc=t mclimit=2]
+	graph [label="McMahon 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamal Elishe (3791)" [label="Jamal Elishe (3791)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rose Torossian (4308)_Fowler_2007" {
-	graph [label="Fowler 2007" labelloc=t mclimit=2]
+	graph [label="Fowler 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rose Torossian (4308)" [label="Rose Torossian (4308)
 Liberal"]

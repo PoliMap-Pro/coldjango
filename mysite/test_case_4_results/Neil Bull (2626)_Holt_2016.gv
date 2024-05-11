@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Bull (2626)_Holt_2016" {
-	graph [label="Holt 2016" labelloc=t mclimit=2]
+	graph [label="Holt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Bull (2626)" [label="Neil Bull (2626)
 Family First Party"]

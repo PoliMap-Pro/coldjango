@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dan Straub (1879)_Mallee_2019" {
-	graph [label="Mallee 2019" labelloc=t mclimit=2]
+	graph [label="Mallee 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dan Straub (1879)" [label="Dan Straub (1879)
 Shooters, Fishers and Farmers"]

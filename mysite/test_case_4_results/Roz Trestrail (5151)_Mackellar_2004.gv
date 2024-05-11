@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roz Trestrail (5151)_Mackellar_2004" {
-	graph [label="Mackellar 2004" labelloc=t mclimit=2]
+	graph [label="Mackellar 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roz Trestrail (5151)" [label="Roz Trestrail (5151)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Humble (696)_Bass_2022" {
-	graph [label="Bass 2022" labelloc=t mclimit=2]
+	graph [label="Bass 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Humble (696)" [label="Stephen Humble (696)
 Liberal Democrats"]

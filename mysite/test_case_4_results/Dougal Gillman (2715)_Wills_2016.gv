@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dougal Gillman (2715)_Wills_2016" {
-	graph [label="Wills 2016" labelloc=t mclimit=2]
+	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dougal Gillman (2715)" [label="Dougal Gillman (2715)
 Renewable Energy Party"]

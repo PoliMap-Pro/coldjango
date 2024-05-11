@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jill Elizabeth Ross (2790)_Fraser_2013" {
-	graph [label="Fraser 2013" labelloc=t mclimit=2]
+	graph [label="Fraser 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jill Elizabeth Ross (2790)" [label="Jill Elizabeth Ross (2790)
 Rise Up Australia Party"]

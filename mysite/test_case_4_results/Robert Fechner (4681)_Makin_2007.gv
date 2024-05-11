@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Fechner (4681)_Makin_2007" {
-	graph [label="Makin 2007" labelloc=t mclimit=2]
+	graph [label="Makin 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Fechner (4681)" [label="Robert Fechner (4681)
 One Nation"]

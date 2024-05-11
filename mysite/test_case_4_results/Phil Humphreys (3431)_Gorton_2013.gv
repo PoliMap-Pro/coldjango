@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Humphreys (3431)_Gorton_2013" {
-	graph [label="Gorton 2013" labelloc=t mclimit=2]
+	graph [label="Gorton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Humphreys (3431)" [label="Phil Humphreys (3431)
 Liberal"]

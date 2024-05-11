@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brendan Nelson (4265)_Bradfield_2004" {
-	graph [label="Bradfield 2004" labelloc=t mclimit=2]
+	graph [label="Bradfield 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brendan Nelson (4265)" [label="Brendan Nelson (4265)
 Liberal"]

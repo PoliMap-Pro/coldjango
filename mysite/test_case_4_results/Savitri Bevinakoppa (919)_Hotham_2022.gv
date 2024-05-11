@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Savitri Bevinakoppa (919)_Hotham_2022" {
-	graph [label="Hotham 2022" labelloc=t mclimit=2]
+	graph [label="Hotham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Savitri Bevinakoppa (919)" [label="Savitri Bevinakoppa (919)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kym Hanton (624)_Barker_2022" {
-	graph [label="Barker 2022" labelloc=t mclimit=2]
+	graph [label="Barker 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kym Hanton (624)" [label="Kym Hanton (624)
 Australian Federation Party"]

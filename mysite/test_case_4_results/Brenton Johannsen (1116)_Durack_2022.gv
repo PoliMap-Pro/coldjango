@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brenton Johannsen (1116)_Durack_2022" {
-	graph [label="Durack 2022" labelloc=t mclimit=2]
+	graph [label="Durack 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brenton Johannsen (1116)" [label="Brenton Johannsen (1116)
 Pauline Hanson's One Nation"]

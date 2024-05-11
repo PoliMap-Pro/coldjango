@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trent Hawkins (4169)_Wills_2010" {
-	graph [label="Wills 2010" labelloc=t mclimit=2]
+	graph [label="Wills 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trent Hawkins (4169)" [label="Trent Hawkins (4169)
 Socialist Alliance"]

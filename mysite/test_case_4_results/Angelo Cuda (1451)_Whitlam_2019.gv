@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angelo Cuda (1451)_Whitlam_2019" {
-	graph [label="Whitlam 2019" labelloc=t mclimit=2]
+	graph [label="Whitlam 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angelo Cuda (1451)" [label="Angelo Cuda (1451)
 United Australia Party"]

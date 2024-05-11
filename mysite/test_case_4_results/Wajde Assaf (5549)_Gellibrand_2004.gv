@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Wajde Assaf (5549)_Gellibrand_2004" {
+	graph [label="Gellibrand 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Wajde Assaf (5549)" [label="Wajde Assaf (5549)
+Independent"]
+	"Linda Waldron (5552)" [label="Linda Waldron (5552)
+Socialist Alliance"]
+	"Kel Isherwood (5551)" [label="Kel Isherwood (5551)
+Citizens Electoral Council"]
+	"Linda Waldron (5552)" -> "Wajde Assaf (5549)" [label=28]
+	"Kel Isherwood (5551)" -> "Linda Waldron (5552)" [label=17]
+	"Kel Isherwood (5551)" -> "Wajde Assaf (5549)" [label=10]
+}

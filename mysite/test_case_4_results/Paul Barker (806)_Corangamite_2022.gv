@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Barker (806)_Corangamite_2022" {
-	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	graph [label="Corangamite 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Barker (806)" [label="Paul Barker (806)
 Liberal Democrats"]

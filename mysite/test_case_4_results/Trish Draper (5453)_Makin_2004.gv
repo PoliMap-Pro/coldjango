@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trish Draper (5453)_Makin_2004" {
-	graph [label="Makin 2004" labelloc=t mclimit=2]
+	graph [label="Makin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trish Draper (5453)" [label="Trish Draper (5453)
 Liberal"]

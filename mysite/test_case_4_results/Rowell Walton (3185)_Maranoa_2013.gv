@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rowell Walton (3185)_Maranoa_2013" {
-	graph [label="Maranoa 2013" labelloc=t mclimit=2]
+	graph [label="Maranoa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rowell Walton (3185)" [label="Rowell Walton (3185)
 Katter's Australian Party"]

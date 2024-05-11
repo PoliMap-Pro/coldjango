@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracy Marsh (4648)_Adelaide_2007" {
-	graph [label="Adelaide 2007" labelloc=t mclimit=2]
+	graph [label="Adelaide 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracy Marsh (4648)" [label="Tracy Marsh (4648)
 Liberal"]

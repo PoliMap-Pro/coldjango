@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carmelo Zagami (5700)_Fremantle_2004" {
-	graph [label="Fremantle 2004" labelloc=t mclimit=2]
+	graph [label="Fremantle 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carmelo Zagami (5700)" [label="Carmelo Zagami (5700)
 Liberal"]

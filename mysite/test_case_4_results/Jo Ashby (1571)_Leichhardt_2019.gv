@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jo Ashby (1571)_Leichhardt_2019" {
-	graph [label="Leichhardt 2019" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jo Ashby (1571)" [label="Jo Ashby (1571)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Hargraves (544)_McPherson_2022" {
-	graph [label="McPherson 2022" labelloc=t mclimit=2]
+	graph [label="McPherson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Hargraves (544)" [label="Kevin Hargraves (544)
 Pauline Hanson's One Nation"]

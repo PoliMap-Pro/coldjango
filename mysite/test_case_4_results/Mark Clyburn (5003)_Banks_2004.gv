@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Clyburn (5003)_Banks_2004" {
-	graph [label="Banks 2004" labelloc=t mclimit=2]
+	graph [label="Banks 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
 Australian Democrats"]

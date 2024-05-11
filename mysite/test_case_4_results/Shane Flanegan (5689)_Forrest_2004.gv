@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Flanegan (5689)_Forrest_2004" {
-	graph [label="Forrest 2004" labelloc=t mclimit=2]
+	graph [label="Forrest 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Flanegan (5689)" [label="Shane Flanegan (5689)
 CDP Christian Party"]

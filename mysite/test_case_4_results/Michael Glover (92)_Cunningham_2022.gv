@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Glover (92)_Cunningham_2022" {
-	graph [label="Cunningham 2022" labelloc=t mclimit=2]
+	graph [label="Cunningham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Glover (92)" [label="Michael Glover (92)
 Liberal Democrats"]

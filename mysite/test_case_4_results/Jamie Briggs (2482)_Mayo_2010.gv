@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamie Briggs (2482)_Mayo_2010" {
-	graph [label="Mayo 2010" labelloc=t mclimit=2]
+	graph [label="Mayo 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamie Briggs (2482)" [label="Jamie Briggs (2482)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ladeisha Louise Verhoeff (1103)_Curtin_2022" {
-	graph [label="Curtin 2022" labelloc=t mclimit=2]
+	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ladeisha Louise Verhoeff (1103)" [label="Ladeisha Louise Verhoeff (1103)
 United Australia Party"]

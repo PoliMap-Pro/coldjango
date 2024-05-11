@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trish Nolan (4685)_Mayo_2007" {
-	graph [label="Mayo 2007" labelloc=t mclimit=2]
+	graph [label="Mayo 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trish Nolan (4685)" [label="Trish Nolan (4685)
 Family First Party"]

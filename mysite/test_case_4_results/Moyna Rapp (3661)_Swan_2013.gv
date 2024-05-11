@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Moyna Rapp (3661)_Swan_2013" {
-	graph [label="Swan 2013" labelloc=t mclimit=2]
+	graph [label="Swan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Moyna Rapp (3661)" [label="Moyna Rapp (3661)
 Family First Party"]

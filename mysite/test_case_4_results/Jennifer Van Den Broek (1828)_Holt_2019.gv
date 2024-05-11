@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Van Den Broek (1828)_Holt_2019" {
-	graph [label="Holt 2019" labelloc=t mclimit=2]
+	graph [label="Holt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Van Den Broek (1828)" [label="Jennifer Van Den Broek (1828)
 Liberal"]

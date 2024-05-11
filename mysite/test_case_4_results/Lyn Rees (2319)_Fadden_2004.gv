@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lyn Rees (2319)_Fadden_2004" {
-	graph [label="Fadden 2004" labelloc=t mclimit=2]
+	graph [label="Fadden 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lyn Rees (2319)" [label="Lyn Rees (2319)
 Family First"]

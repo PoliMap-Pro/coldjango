@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jake Taylor (1073)_Brand_2022" {
-	graph [label="Brand 2022" labelloc=t mclimit=2]
+	graph [label="Brand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jake Taylor (1073)" [label="Jake Taylor (1073)
 Pauline Hanson's One Nation"]

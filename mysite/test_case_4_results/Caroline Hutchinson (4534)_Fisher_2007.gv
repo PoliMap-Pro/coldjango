@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Caroline Hutchinson (4534)_Fisher_2007" {
+	graph [label="Fisher 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Caroline Hutchinson (4534)" [label="Caroline Hutchinson (4534)
+Independent"]
+	"Matthew Gray (4531)" [label="Matthew Gray (4531)
+The Greens"]
+	"Graeme Cumming (4532)" [label="Graeme Cumming (4532)
+Family First"]
+	"Carolyn Kerr (4533)" [label="Carolyn Kerr (4533)
+Democrats"]
+	"Matthew Gray (4531)" -> "Caroline Hutchinson (4534)" [label=2068]
+	"Graeme Cumming (4532)" -> "Matthew Gray (4531)" [label=280]
+	"Carolyn Kerr (4533)" -> "Graeme Cumming (4532)" [label=69]
+	"Graeme Cumming (4532)" -> "Caroline Hutchinson (4534)" [label=357]
+	"Carolyn Kerr (4533)" -> "Caroline Hutchinson (4534)" [label=177]
+	"Carolyn Kerr (4533)" -> "Matthew Gray (4531)" [label=165]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Barwick (4740)_Batman_2007" {
-	graph [label="Batman 2007" labelloc=t mclimit=2]
+	graph [label="Batman 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Barwick (4740)" [label="Robert Barwick (4740)
 Citizens Electoral Council"]

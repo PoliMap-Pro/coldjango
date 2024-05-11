@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carrie Mccormack (2415)_Oxley_2013" {
-	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	graph [label="Oxley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
 Family First"]

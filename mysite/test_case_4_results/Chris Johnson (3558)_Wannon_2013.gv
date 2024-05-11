@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Johnson (3558)_Wannon_2013" {
-	graph [label="Wannon 2013" labelloc=t mclimit=2]
+	graph [label="Wannon 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Johnson (3558)" [label="Chris Johnson (3558)
 Sex Party"]

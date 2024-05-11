@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barbara-Jane Murray (317)_Robertson_2022" {
-	graph [label="Robertson 2022" labelloc=t mclimit=2]
+	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barbara-Jane Murray (317)" [label="Barbara-Jane Murray (317)
 United Australia Party"]

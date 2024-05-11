@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Graham (4679)_Makin_2007" {
-	graph [label="Makin 2007" labelloc=t mclimit=2]
+	graph [label="Makin 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Graham (4679)" [label="Andrew Graham (4679)
 Family First Party"]

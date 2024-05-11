@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Goodenough (1152)_Moore_2013" {
-	graph [label="Moore 2013" labelloc=t mclimit=2]
+	graph [label="Moore 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Goodenough (1152)" [label="Ian Goodenough (1152)
 Liberal"]

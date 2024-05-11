@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luke Simpkins (2730)_Cowan_2007" {
-	graph [label="Cowan 2007" labelloc=t mclimit=2]
+	graph [label="Cowan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luke Simpkins (2730)" [label="Luke Simpkins (2730)
 Liberal"]

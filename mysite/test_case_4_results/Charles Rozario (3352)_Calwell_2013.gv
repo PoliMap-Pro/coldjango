@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charles Rozario (3352)_Calwell_2013" {
-	graph [label="Calwell 2013" labelloc=t mclimit=2]
+	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charles Rozario (3352)" [label="Charles Rozario (3352)
 Rise Up Australia Party"]

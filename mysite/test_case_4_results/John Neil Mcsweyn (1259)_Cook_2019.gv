@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Neil Mcsweyn (1259)_Cook_2019" {
-	graph [label="Cook 2019" labelloc=t mclimit=2]
+	graph [label="Cook 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Neil Mcsweyn (1259)" [label="John Neil Mcsweyn (1259)
 United Australia Party"]

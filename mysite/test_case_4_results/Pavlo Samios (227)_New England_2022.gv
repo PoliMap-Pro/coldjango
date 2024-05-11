@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pavlo Samios (227)_New England_2022" {
-	graph [label="New England 2022" labelloc=t mclimit=2]
+	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pavlo Samios (227)" [label="Pavlo Samios (227)
 Liberal Democrats"]

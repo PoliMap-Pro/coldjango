@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kath Larkin (794)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kath Larkin (794)" [label="Kath Larkin (794)
 Victorian Socialists"]

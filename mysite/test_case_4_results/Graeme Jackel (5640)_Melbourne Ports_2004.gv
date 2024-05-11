@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graeme Jackel (5640)_Melbourne Ports_2004" {
-	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graeme Jackel (5640)" [label="Graeme Jackel (5640)
 Family First"]

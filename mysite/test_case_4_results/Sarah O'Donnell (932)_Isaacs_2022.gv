@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah O'Donnell (932)_Isaacs_2022" {
-	graph [label="Isaacs 2022" labelloc=t mclimit=2]
+	graph [label="Isaacs 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah O'Donnell (932)" [label="Sarah O'Donnell (932)
 Liberal Democrats"]

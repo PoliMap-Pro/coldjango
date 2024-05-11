@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt O'Sullivan (2725)_Burt_2016" {
-	graph [label="Burt 2016" labelloc=t mclimit=2]
+	graph [label="Burt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt O'Sullivan (2725)" [label="Matt O'Sullivan (2725)
 Liberal"]

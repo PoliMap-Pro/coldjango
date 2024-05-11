@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Ann Jeges (2629)_Hotham_2016" {
-	graph [label="Hotham 2016" labelloc=t mclimit=2]
+	graph [label="Hotham 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Emmerson (4147)_Melbourne Ports_2010" {
-	graph [label="Melbourne Ports 2010" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Emmerson (4147)" [label="Daniel Emmerson (4147)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Faye Aspiotis (80)_Cowper_2022" {
-	graph [label="Cowper 2022" labelloc=t mclimit=2]
+	graph [label="Cowper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Faye Aspiotis (80)" [label="Faye Aspiotis (80)
 Pauline Hanson's One Nation"]

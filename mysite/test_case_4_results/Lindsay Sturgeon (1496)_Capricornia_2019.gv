@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lindsay Sturgeon (1496)_Capricornia_2019" {
-	graph [label="Capricornia 2019" labelloc=t mclimit=2]
+	graph [label="Capricornia 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lindsay Sturgeon (1496)" [label="Lindsay Sturgeon (1496)
 United Australia Party"]

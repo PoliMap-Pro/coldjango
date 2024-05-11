@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ken Nam (3860)_Watson_2010" {
-	graph [label="Watson 2010" labelloc=t mclimit=2]
+	graph [label="Watson 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ken Nam (3860)" [label="Ken Nam (3860)
 Liberal"]

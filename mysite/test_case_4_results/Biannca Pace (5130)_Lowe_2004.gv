@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Biannca Pace (5130)_Lowe_2004" {
-	graph [label="Lowe 2004" labelloc=t mclimit=2]
+	graph [label="Lowe 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Biannca Pace (5130)" [label="Biannca Pace (5130)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Hays (5322)_Fisher_2004" {
-	graph [label="Fisher 2004" labelloc=t mclimit=2]
+	graph [label="Fisher 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Hays (5322)" [label="Liz Hays (5322)
 The Great Australians"]

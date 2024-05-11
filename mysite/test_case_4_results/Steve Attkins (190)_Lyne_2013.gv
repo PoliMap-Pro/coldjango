@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Steve Attkins (190)_Lyne_2013" {
+	graph [label="Lyne 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steve Attkins (190)" [label="Steve Attkins (190)
+Independent"]
+	"Ian Oxenford (2919)" [label="Ian Oxenford (2919)
+The Greens"]
+	"Troy Alexander Wilkie (2920)" [label="Troy Alexander Wilkie (2920)
+Palmer United Party"]
+	"Craig Huth (2917)" [label="Craig Huth (2917)
+One Nation"]
+	"John Walter Klose (2916)" [label="John Walter Klose (2916)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brian Buckley Clare (2918)" [label="Brian Buckley Clare (2918)
+Katter's Australian Party"]
+	"Michael Gough (2069)" [label="Michael Gough (2069)
+Citizens Electoral Council"]
+	"Ian Oxenford (2919)" -> "Steve Attkins (190)" [label=2630]
+	"Troy Alexander Wilkie (2920)" -> "Ian Oxenford (2919)" [label=469]
+	"Craig Huth (2917)" -> "Troy Alexander Wilkie (2920)" [label=566]
+	"John Walter Klose (2916)" -> "Craig Huth (2917)" [label=568]
+	"Brian Buckley Clare (2918)" -> "John Walter Klose (2916)" [label=69]
+	"Michael Gough (2069)" -> "Brian Buckley Clare (2918)" [label=18]
+	"Troy Alexander Wilkie (2920)" -> "Steve Attkins (190)" [label=2066]
+	"Craig Huth (2917)" -> "Steve Attkins (190)" [label=526]
+	"John Walter Klose (2916)" -> "Steve Attkins (190)" [label=235]
+	"Brian Buckley Clare (2918)" -> "Steve Attkins (190)" [label=104]
+	"Michael Gough (2069)" -> "Steve Attkins (190)" [label=111]
+	"Michael Gough (2069)" -> "John Walter Klose (2916)" [label=18]
+	"Brian Buckley Clare (2918)" -> "Craig Huth (2917)" [label=166]
+	"Michael Gough (2069)" -> "Craig Huth (2917)" [label=16]
+	"John Walter Klose (2916)" -> "Troy Alexander Wilkie (2920)" [label=115]
+	"Brian Buckley Clare (2918)" -> "Troy Alexander Wilkie (2920)" [label=178]
+	"Michael Gough (2069)" -> "Troy Alexander Wilkie (2920)" [label=51]
+	"Craig Huth (2917)" -> "Ian Oxenford (2919)" [label=252]
+	"John Walter Klose (2916)" -> "Ian Oxenford (2919)" [label=77]
+	"Brian Buckley Clare (2918)" -> "Ian Oxenford (2919)" [label=45]
+	"Michael Gough (2069)" -> "Ian Oxenford (2919)" [label=36]
+}

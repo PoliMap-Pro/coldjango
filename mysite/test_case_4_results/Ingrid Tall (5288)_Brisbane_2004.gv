@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ingrid Tall (5288)_Brisbane_2004" {
-	graph [label="Brisbane 2004" labelloc=t mclimit=2]
+	graph [label="Brisbane 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ingrid Tall (5288)" [label="Ingrid Tall (5288)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Henselin (138)_Grayndler_2022" {
-	graph [label="Grayndler 2022" labelloc=t mclimit=2]
+	graph [label="Grayndler 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Henselin (138)" [label="Paul Henselin (138)
 Pauline Hanson's One Nation"]

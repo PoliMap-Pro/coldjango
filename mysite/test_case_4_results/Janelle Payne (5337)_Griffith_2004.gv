@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janelle Payne (5337)_Griffith_2004" {
-	graph [label="Griffith 2004" labelloc=t mclimit=2]
+	graph [label="Griffith 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janelle Payne (5337)" [label="Janelle Payne (5337)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Hornshaw (191)_Lyne_2022" {
-	graph [label="Lyne 2022" labelloc=t mclimit=2]
+	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Hornshaw (191)" [label="Mark Hornshaw (191)
 Liberal Democrats"]

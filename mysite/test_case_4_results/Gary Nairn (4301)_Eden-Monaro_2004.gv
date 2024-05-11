@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gary Nairn (4301)_Eden-Monaro_2004" {
-	graph [label="Eden-Monaro 2004" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gary Nairn (4301)" [label="Gary Nairn (4301)
 Liberal"]

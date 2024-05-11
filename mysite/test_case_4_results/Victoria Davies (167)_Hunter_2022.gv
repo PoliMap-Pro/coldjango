@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Victoria Davies (167)_Hunter_2022" {
-	graph [label="Hunter 2022" labelloc=t mclimit=2]
+	graph [label="Hunter 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Victoria Davies (167)" [label="Victoria Davies (167)
 Animal Justice Party"]

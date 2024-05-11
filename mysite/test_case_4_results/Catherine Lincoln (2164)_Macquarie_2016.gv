@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Catherine Lincoln (2164)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t mclimit=2]
+	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Catherine Lincoln (2164)" [label="Catherine Lincoln (2164)
 Christian Democratic Party (Fred Nile Group)"]

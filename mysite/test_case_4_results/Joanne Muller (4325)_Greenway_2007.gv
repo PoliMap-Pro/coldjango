@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joanne Muller (4325)_Greenway_2007" {
-	graph [label="Greenway 2007" labelloc=t mclimit=2]
+	graph [label="Greenway 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joanne Muller (4325)" [label="Joanne Muller (4325)
 Family First"]

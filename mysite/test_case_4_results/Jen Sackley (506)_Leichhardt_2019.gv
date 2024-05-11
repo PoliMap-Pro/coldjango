@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jen Sackley (506)_Leichhardt_2019" {
-	graph [label="Leichhardt 2019" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jen Sackley (506)" [label="Jen Sackley (506)
 United Australia Party"]

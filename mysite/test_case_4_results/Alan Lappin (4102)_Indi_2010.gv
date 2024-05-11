@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Alan Lappin (4102)_Indi_2010" {
+	graph [label="Indi 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Alan Lappin (4102)" [label="Alan Lappin (4102)
+Independent"]
+	"Robert Cavedon (4105)" [label="Robert Cavedon (4105)
+Family First"]
+	"Mark Carey (4104)" [label="Mark Carey (4104)
+Australian Democrats"]
+	"Robert Cavedon (4105)" -> "Alan Lappin (4102)" [label=803]
+	"Mark Carey (4104)" -> "Robert Cavedon (4105)" [label=84]
+	"Mark Carey (4104)" -> "Alan Lappin (4102)" [label=275]
+}

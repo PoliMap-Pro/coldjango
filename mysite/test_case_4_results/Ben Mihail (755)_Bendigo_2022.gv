@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Mihail (755)_Bendigo_2022" {
-	graph [label="Bendigo 2022" labelloc=t mclimit=2]
+	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Mihail (755)" [label="Ben Mihail (755)
 Pauline Hanson's One Nation"]

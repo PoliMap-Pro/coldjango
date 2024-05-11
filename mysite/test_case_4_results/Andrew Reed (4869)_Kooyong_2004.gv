@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Reed (4869)_Kooyong_2004" {
-	graph [label="Kooyong 2004" labelloc=t mclimit=2]
+	graph [label="Kooyong 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Reed (4869)" [label="Andrew Reed (4869)
 Citizens Electoral Council"]

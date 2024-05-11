@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne Roderick Rich (4014)_Makin_2010" {
-	graph [label="Makin 2010" labelloc=t mclimit=2]
+	graph [label="Makin 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne Roderick Rich (4014)" [label="Wayne Roderick Rich (4014)
 Australian Democrats"]

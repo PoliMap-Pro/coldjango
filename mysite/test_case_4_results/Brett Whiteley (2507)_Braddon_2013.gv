@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brett Whiteley (2507)_Braddon_2013" {
-	graph [label="Braddon 2013" labelloc=t mclimit=2]
+	graph [label="Braddon 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brett Whiteley (2507)" [label="Brett Whiteley (2507)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Myfanwy Schenk (2394)_Maranoa_2016" {
-	graph [label="Maranoa 2016" labelloc=t mclimit=2]
+	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
 Family First"]

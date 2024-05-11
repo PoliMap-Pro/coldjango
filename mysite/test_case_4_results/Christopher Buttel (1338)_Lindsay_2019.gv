@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Buttel (1338)_Lindsay_2019" {
-	graph [label="Lindsay 2019" labelloc=t mclimit=2]
+	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Buttel (1338)" [label="Christopher Buttel (1338)
 United Australia Party"]

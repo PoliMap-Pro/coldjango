@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Frank Kovacs (5074)_Farrer_2004" {
-	graph [label="Farrer 2004" labelloc=t mclimit=2]
+	graph [label="Farrer 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Frank Kovacs (5074)" [label="Frank Kovacs (5074)
 Australian Democrats"]

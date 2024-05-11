@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Rose (4535)_Flynn_2007" {
-	graph [label="Flynn 2007" labelloc=t mclimit=2]
+	graph [label="Flynn 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Rose (4535)" [label="Jason Rose (4535)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Mathias (2628)_Holt_2016" {
-	graph [label="Holt 2016" labelloc=t mclimit=2]
+	graph [label="Holt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Mathias (2628)" [label="James Mathias (2628)
 Liberal"]

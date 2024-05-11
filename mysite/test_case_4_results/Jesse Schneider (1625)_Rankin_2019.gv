@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jesse Schneider (1625)_Rankin_2019" {
-	graph [label="Rankin 2019" labelloc=t mclimit=2]
+	graph [label="Rankin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jesse Schneider (1625)" [label="Jesse Schneider (1625)
 Pauline Hanson's One Nation"]

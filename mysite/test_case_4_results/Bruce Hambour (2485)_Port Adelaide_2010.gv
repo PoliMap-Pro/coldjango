@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Hambour (2485)_Port Adelaide_2010" {
-	graph [label="Port Adelaide 2010" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
 Family First"]

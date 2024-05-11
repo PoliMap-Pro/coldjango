@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leisa Schmid (4636)_Ryan_2007" {
-	graph [label="Ryan 2007" labelloc=t mclimit=2]
+	graph [label="Ryan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leisa Schmid (4636)" [label="Leisa Schmid (4636)
 Family First"]

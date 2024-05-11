@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cedric Spencer (2884)_Grayndler_2013" {
-	graph [label="Grayndler 2013" labelloc=t mclimit=2]
+	graph [label="Grayndler 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cedric Spencer (2884)" [label="Cedric Spencer (2884)
 Liberal"]

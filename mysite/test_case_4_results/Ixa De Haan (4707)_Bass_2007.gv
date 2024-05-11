@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ixa De Haan (4707)_Bass_2007" {
-	graph [label="Bass 2007" labelloc=t mclimit=2]
+	graph [label="Bass 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ixa De Haan (4707)" [label="Ixa De Haan (4707)
 Family First"]

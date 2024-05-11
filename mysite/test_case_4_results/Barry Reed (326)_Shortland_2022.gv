@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barry Reed (326)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barry Reed (326)" [label="Barry Reed (326)
 Liberal Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Green (743)_Ballarat_2022" {
-	graph [label="Ballarat 2022" labelloc=t mclimit=2]
+	graph [label="Ballarat 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Green (743)" [label="Ben Green (743)
 Liberal"]

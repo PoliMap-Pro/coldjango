@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ruth Meads (1260)_Cowper_2019" {
-	graph [label="Cowper 2019" labelloc=t mclimit=2]
+	graph [label="Cowper 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ruth Meads (1260)" [label="Ruth Meads (1260)
 Christian Democratic Party (Fred Nile Group)"]

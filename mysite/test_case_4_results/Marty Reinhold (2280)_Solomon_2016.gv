@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marty Reinhold (2280)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t mclimit=2]
+	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marty Reinhold (2280)" [label="Marty Reinhold (2280)
 Shooters, Fishers and Farmers"]

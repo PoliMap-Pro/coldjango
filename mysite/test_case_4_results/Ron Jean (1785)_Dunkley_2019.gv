@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ron Jean (1785)_Dunkley_2019" {
-	graph [label="Dunkley 2019" labelloc=t mclimit=2]
+	graph [label="Dunkley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ron Jean (1785)" [label="Ron Jean (1785)
 United Australia Party"]

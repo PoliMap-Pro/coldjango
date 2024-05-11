@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Carey (4104)_Indi_2010" {
-	graph [label="Indi 2010" labelloc=t mclimit=2]
+	graph [label="Indi 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Carey (4104)" [label="Mark Carey (4104)
 Australian Democrats"]

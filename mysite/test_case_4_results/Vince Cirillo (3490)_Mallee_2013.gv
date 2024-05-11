@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vince Cirillo (3490)_Mallee_2013" {
-	graph [label="Mallee 2013" labelloc=t mclimit=2]
+	graph [label="Mallee 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vince Cirillo (3490)" [label="Vince Cirillo (3490)
 Katter's Australian Party"]

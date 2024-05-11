@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Desmond Sanborn (1777)_Corio_2019" {
-	graph [label="Corio 2019" labelloc=t mclimit=2]
+	graph [label="Corio 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Desmond Sanborn (1777)" [label="Desmond Sanborn (1777)
 United Australia Party"]

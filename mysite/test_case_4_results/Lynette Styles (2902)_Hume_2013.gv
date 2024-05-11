@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lynette Styles (2902)_Hume_2013" {
-	graph [label="Hume 2013" labelloc=t mclimit=2]
+	graph [label="Hume 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lynette Styles (2902)" [label="Lynette Styles (2902)
 One Nation"]

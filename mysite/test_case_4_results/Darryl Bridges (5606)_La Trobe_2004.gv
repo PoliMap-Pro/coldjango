@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darryl Bridges (5606)_La Trobe_2004" {
-	graph [label="La Trobe 2004" labelloc=t mclimit=2]
+	graph [label="La Trobe 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
 Family First"]

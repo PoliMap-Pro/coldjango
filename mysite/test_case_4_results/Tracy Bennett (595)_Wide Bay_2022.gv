@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracy Bennett (595)_Wide Bay_2022" {
-	graph [label="Wide Bay 2022" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracy Bennett (595)" [label="Tracy Bennett (595)
 United Australia Party"]

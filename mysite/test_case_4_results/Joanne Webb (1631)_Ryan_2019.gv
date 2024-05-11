@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joanne Webb (1631)_Ryan_2019" {
-	graph [label="Ryan 2019" labelloc=t mclimit=2]
+	graph [label="Ryan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joanne Webb (1631)" [label="Joanne Webb (1631)
 Animal Justice Party"]

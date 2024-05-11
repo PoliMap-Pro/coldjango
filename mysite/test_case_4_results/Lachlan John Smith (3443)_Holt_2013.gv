@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lachlan John Smith (3443)_Holt_2013" {
-	graph [label="Holt 2013" labelloc=t mclimit=2]
+	graph [label="Holt 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lachlan John Smith (3443)" [label="Lachlan John Smith (3443)
 Sex Party"]

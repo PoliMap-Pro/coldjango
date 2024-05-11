@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kerry Arch (3408)_Gellibrand_2013" {
-	graph [label="Gellibrand 2013" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kerry Arch (3408)" [label="Kerry Arch (3408)
 Family First Party"]

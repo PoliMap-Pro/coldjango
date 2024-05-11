@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mathew James Drysdale (4537)_Flynn_2007" {
-	graph [label="Flynn 2007" labelloc=t mclimit=2]
+	graph [label="Flynn 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mathew James Drysdale (4537)" [label="Mathew James Drysdale (4537)
 Family First"]

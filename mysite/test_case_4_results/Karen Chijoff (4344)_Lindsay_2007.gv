@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Chijoff (4344)_Lindsay_2007" {
-	graph [label="Lindsay 2007" labelloc=t mclimit=2]
+	graph [label="Lindsay 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Chijoff (4344)" [label="Karen Chijoff (4344)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylie Bonanni (379)_Solomon_2022" {
-	graph [label="Solomon 2022" labelloc=t mclimit=2]
+	graph [label="Solomon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylie Bonanni (379)" [label="Kylie Bonanni (379)
 Liberal Democrats"]

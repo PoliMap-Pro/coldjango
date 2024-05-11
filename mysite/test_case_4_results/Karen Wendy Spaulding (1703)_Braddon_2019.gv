@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Wendy Spaulding (1703)_Braddon_2019" {
-	graph [label="Braddon 2019" labelloc=t mclimit=2]
+	graph [label="Braddon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Wendy Spaulding (1703)" [label="Karen Wendy Spaulding (1703)
 United Australia Party"]

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Cy D'Oliveira (3930)_Hinkler_2010" {
+	graph [label="Hinkler 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Cy D'Oliveira (3930)" [label="Cy D'Oliveira (3930)
+Independent"]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ayla Goeytes (3178)_Longman_2013" {
-	graph [label="Longman 2013" labelloc=t mclimit=2]
+	graph [label="Longman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ayla Goeytes (3178)" [label="Ayla Goeytes (3178)
 Sex Party"]

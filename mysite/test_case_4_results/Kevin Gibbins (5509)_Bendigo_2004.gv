@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Gibbins (5509)_Bendigo_2004" {
-	graph [label="Bendigo 2004" labelloc=t mclimit=2]
+	graph [label="Bendigo 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Gibbins (5509)" [label="Kevin Gibbins (5509)
 Liberal"]

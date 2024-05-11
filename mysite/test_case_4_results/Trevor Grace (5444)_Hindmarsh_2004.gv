@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Grace (5444)_Hindmarsh_2004" {
-	graph [label="Hindmarsh 2004" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Grace (5444)" [label="Trevor Grace (5444)
 Family First"]

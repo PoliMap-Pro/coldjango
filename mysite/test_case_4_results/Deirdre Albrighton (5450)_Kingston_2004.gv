@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deirdre Albrighton (5450)_Kingston_2004" {
-	graph [label="Kingston 2004" labelloc=t mclimit=2]
+	graph [label="Kingston 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deirdre Albrighton (5450)" [label="Deirdre Albrighton (5450)
 Australian Democrats"]

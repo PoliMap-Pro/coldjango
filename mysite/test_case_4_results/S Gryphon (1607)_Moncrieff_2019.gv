@@ -1,6 +1,6 @@
 // House preference flow
 digraph "S Gryphon (1607)_Moncrieff_2019" {
-	graph [label="Moncrieff 2019" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"S Gryphon (1607)" [label="S Gryphon (1607)
 Liberal Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Edward Dunne (3318)_Ballarat_2013" {
-	graph [label="Ballarat 2013" labelloc=t mclimit=2]
+	graph [label="Ballarat 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Edward Dunne (3318)" [label="Shane Edward Dunne (3318)
 Katter's Australian Party"]

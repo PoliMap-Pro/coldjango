@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trudy Campbell (3048)_Solomon_2007" {
-	graph [label="Solomon 2007" labelloc=t mclimit=2]
+	graph [label="Solomon 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]

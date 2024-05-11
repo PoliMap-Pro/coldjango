@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Kapeen (5047)_Cowper_2004" {
-	graph [label="Cowper 2004" labelloc=t mclimit=2]
+	graph [label="Cowper 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Kapeen (5047)" [label="Trevor Kapeen (5047)
 Australian Democrats"]

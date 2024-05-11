@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ric Lippmann (5361)_Leichhardt_2004" {
-	graph [label="Leichhardt 2004" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ric Lippmann (5361)" [label="Ric Lippmann (5361)
 Family First"]

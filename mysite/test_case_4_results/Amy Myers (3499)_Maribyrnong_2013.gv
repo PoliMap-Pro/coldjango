@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amy Myers (3499)_Maribyrnong_2013" {
-	graph [label="Maribyrnong 2013" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amy Myers (3499)" [label="Amy Myers (3499)
 Sex Party"]

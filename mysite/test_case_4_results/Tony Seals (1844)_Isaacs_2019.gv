@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Seals (1844)_Isaacs_2019" {
-	graph [label="Isaacs 2019" labelloc=t mclimit=2]
+	graph [label="Isaacs 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Seals (1844)" [label="Tony Seals (1844)
 United Australia Party"]

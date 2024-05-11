@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Victoria Nash (3506)_McEwen_2013" {
-	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	graph [label="McEwen 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Victoria Nash (3506)" [label="Victoria Nash (3506)
 Sex Party"]

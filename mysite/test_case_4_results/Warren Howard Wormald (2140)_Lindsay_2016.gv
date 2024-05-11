@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Warren Howard Wormald (2140)_Lindsay_2016" {
-	graph [label="Lindsay 2016" labelloc=t mclimit=2]
+	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Warren Howard Wormald (2140)" [label="Warren Howard Wormald (2140)
 Christian Democratic Party (Fred Nile Group)"]

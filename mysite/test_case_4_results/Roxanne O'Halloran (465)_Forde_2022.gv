@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roxanne O'Halloran (465)_Forde_2022" {
-	graph [label="Forde 2022" labelloc=t mclimit=2]
+	graph [label="Forde 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roxanne O'Halloran (465)" [label="Roxanne O'Halloran (465)
 United Australia Party"]

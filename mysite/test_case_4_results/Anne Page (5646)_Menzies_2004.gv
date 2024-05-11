@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anne Page (5646)_Menzies_2004" {
-	graph [label="Menzies 2004" labelloc=t mclimit=2]
+	graph [label="Menzies 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anne Page (5646)" [label="Anne Page (5646)
 Democrats"]

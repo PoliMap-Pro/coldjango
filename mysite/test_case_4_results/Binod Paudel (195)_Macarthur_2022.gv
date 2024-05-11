@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Binod Paudel (195)_Macarthur_2022" {
-	graph [label="Macarthur 2022" labelloc=t mclimit=2]
+	graph [label="Macarthur 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Binod Paudel (195)" [label="Binod Paudel (195)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Pearce (3802)_North Sydney_2010" {
-	graph [label="North Sydney 2010" labelloc=t mclimit=2]
+	graph [label="North Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Pearce (3802)" [label="Daniel Pearce (3802)
 Australian Democrats"]

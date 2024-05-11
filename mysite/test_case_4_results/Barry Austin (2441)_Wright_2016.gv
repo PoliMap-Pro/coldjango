@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barry Austin (2441)_Wright_2016" {
-	graph [label="Wright 2016" labelloc=t mclimit=2]
+	graph [label="Wright 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barry Austin (2441)" [label="Barry Austin (2441)
 Family First"]

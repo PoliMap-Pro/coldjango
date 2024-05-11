@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daryl Andrew Pollard (3487)_Lalor_2013" {
-	graph [label="Lalor 2013" labelloc=t mclimit=2]
+	graph [label="Lalor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daryl Andrew Pollard (3487)" [label="Daryl Andrew Pollard (3487)
 Family First Party"]

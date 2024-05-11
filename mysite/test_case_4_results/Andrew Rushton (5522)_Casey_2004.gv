@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Rushton (5522)_Casey_2004" {
-	graph [label="Casey 2004" labelloc=t mclimit=2]
+	graph [label="Casey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
 Family First"]

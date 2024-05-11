@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Chaseling (84)_Cowper_2022" {
-	graph [label="Cowper 2022" labelloc=t mclimit=2]
+	graph [label="Cowper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Chaseling (84)" [label="Simon Chaseling (84)
 Liberal Democrats"]

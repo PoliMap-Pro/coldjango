@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nadia Seaman (3460)_Isaacs_2013" {
-	graph [label="Isaacs 2013" labelloc=t mclimit=2]
+	graph [label="Isaacs 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nadia Seaman (3460)" [label="Nadia Seaman (3460)
 Rise Up Australia Party"]

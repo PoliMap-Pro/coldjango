@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jaimie Abbott (2952)_Newcastle_2013" {
-	graph [label="Newcastle 2013" labelloc=t mclimit=2]
+	graph [label="Newcastle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jaimie Abbott (2952)" [label="Jaimie Abbott (2952)
 Liberal"]

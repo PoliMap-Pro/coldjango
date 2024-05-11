@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Lee (3241)_Adelaide_2013" {
-	graph [label="Adelaide 2013" labelloc=t mclimit=2]
+	graph [label="Adelaide 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Lee (3241)" [label="Peter Lee (3241)
 Family First"]

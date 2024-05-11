@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brad Kennedy (2389)_Longman_2013" {
-	graph [label="Longman 2013" labelloc=t mclimit=2]
+	graph [label="Longman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
 Katter's Australian Party"]

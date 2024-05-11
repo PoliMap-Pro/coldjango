@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob George (2855)_Cunningham_2013" {
-	graph [label="Cunningham 2013" labelloc=t mclimit=2]
+	graph [label="Cunningham 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob George (2855)" [label="Rob George (2855)
 Christian Democratic Party (Fred Nile Group)"]

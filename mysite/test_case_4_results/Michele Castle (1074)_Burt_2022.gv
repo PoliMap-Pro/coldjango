@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michele Castle (1074)_Burt_2022" {
-	graph [label="Burt 2022" labelloc=t mclimit=2]
+	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michele Castle (1074)" [label="Michele Castle (1074)
 Australian Federation Party"]

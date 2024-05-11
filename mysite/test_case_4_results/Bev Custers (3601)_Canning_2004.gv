@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bev Custers (3601)_Canning_2004" {
-	graph [label="Canning 2004" labelloc=t mclimit=2]
+	graph [label="Canning 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bev Custers (3601)" [label="Bev Custers (3601)
 Family First"]

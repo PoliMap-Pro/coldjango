@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark M Stone (2442)_Wright_2016" {
-	graph [label="Wright 2016" labelloc=t mclimit=2]
+	graph [label="Wright 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark M Stone (2442)" [label="Mark M Stone (2442)
 Liberal Democrats"]

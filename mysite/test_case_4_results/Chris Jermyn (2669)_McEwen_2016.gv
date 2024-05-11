@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Jermyn (2669)_McEwen_2016" {
-	graph [label="McEwen 2016" labelloc=t mclimit=2]
+	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Jermyn (2669)" [label="Chris Jermyn (2669)
 Liberal"]

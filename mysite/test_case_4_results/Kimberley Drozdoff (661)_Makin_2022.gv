@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kimberley Drozdoff (661)_Makin_2022" {
-	graph [label="Makin 2022" labelloc=t mclimit=2]
+	graph [label="Makin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
 United Australia Party"]

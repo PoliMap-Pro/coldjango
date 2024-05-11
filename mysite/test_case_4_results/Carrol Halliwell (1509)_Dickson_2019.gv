@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carrol Halliwell (1509)_Dickson_2019" {
-	graph [label="Dickson 2019" labelloc=t mclimit=2]
+	graph [label="Dickson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carrol Halliwell (1509)" [label="Carrol Halliwell (1509)
 Pauline Hanson's One Nation"]

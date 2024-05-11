@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Doyle (4510)_Dawson_2007" {
-	graph [label="Dawson 2007" labelloc=t mclimit=2]
+	graph [label="Dawson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Doyle (4510)" [label="Chris Doyle (4510)
 Democrats"]

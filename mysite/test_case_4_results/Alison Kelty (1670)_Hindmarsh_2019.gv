@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alison Kelty (1670)_Hindmarsh_2019" {
-	graph [label="Hindmarsh 2019" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alison Kelty (1670)" [label="Alison Kelty (1670)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Collins (719)_New England_2019" {
-	graph [label="New England 2019" labelloc=t mclimit=2]
+	graph [label="New England 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Collins (719)" [label="Julie Collins (719)
 Australian Labor Party"]

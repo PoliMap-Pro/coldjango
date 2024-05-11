@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Duncan Scott (462)_Flynn_2022" {
+	graph [label="Flynn 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+Queensland Greens"]
+	"Carla Svendsen (460)" [label="Carla Svendsen (460)
+The Great Australian Party"]
+	"Paul Bambrick (459)" -> "Duncan Scott (462)" [label=809]
+	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
+	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eoin Coghlan (5005)_Barton_2004" {
-	graph [label="Barton 2004" labelloc=t mclimit=2]
+	graph [label="Barton 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eoin Coghlan (5005)" [label="Eoin Coghlan (5005)
 Australian Democrats"]

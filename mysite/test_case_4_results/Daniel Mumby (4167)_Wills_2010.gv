@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Mumby (4167)_Wills_2010" {
-	graph [label="Wills 2010" labelloc=t mclimit=2]
+	graph [label="Wills 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Mumby (4167)" [label="Daniel Mumby (4167)
 Family First"]

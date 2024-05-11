@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Suzanne Wilson (5315)_Fadden_2004" {
-	graph [label="Fadden 2004" labelloc=t mclimit=2]
+	graph [label="Fadden 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Suzanne Wilson (5315)" [label="Suzanne Wilson (5315)
 Australian Democrats"]

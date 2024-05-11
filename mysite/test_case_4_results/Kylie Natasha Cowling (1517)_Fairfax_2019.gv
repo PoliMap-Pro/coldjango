@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylie Natasha Cowling (1517)_Fairfax_2019" {
-	graph [label="Fairfax 2019" labelloc=t mclimit=2]
+	graph [label="Fairfax 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylie Natasha Cowling (1517)" [label="Kylie Natasha Cowling (1517)
 United Australia Party"]

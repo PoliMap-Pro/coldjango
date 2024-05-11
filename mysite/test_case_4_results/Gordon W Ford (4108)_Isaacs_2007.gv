@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Gordon W Ford (4108)_Isaacs_2007" {
+	graph [label="Isaacs 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
+Independent"]
+	"Robert Norrie (4827)" [label="Robert Norrie (4827)
+LDP"]
+	"Robert Norrie (4827)" -> "Gordon W Ford (4108)" [label=220]
+}

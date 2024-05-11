@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clint Nasr (2052)_Blaxland_2016" {
-	graph [label="Blaxland 2016" labelloc=t mclimit=2]
+	graph [label="Blaxland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clint Nasr (2052)" [label="Clint Nasr (2052)
 Christian Democratic Party (Fred Nile Group)"]

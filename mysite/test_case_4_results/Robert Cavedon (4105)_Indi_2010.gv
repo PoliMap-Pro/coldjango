@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Cavedon (4105)_Indi_2010" {
-	graph [label="Indi 2010" labelloc=t mclimit=2]
+	graph [label="Indi 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Cavedon (4105)" [label="Robert Cavedon (4105)
 Family First"]

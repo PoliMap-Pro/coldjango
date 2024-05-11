@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Whelan (2175)_Macquarie_2010" {
-	graph [label="Macquarie 2010" labelloc=t mclimit=2]
+	graph [label="Macquarie 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Whelan (2175)" [label="Peter Whelan (2175)
 Liberal Democrats (LDP)"]

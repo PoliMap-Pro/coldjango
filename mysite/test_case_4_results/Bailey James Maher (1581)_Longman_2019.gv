@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bailey James Maher (1581)_Longman_2019" {
-	graph [label="Longman 2019" labelloc=t mclimit=2]
+	graph [label="Longman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bailey James Maher (1581)" [label="Bailey James Maher (1581)
 United Australia Party"]

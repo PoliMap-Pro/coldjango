@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Melanie Woods (5032)_Calare_2004" {
-	graph [label="Calare 2004" labelloc=t mclimit=2]
+	graph [label="Calare 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Melanie Woods (5032)" [label="Melanie Woods (5032)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Spellman (1601)_Maranoa_2013" {
-	graph [label="Maranoa 2013" labelloc=t mclimit=2]
+	graph [label="Maranoa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Spellman (1601)" [label="John Spellman (1601)
 Family First"]

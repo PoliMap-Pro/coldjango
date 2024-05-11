@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Walls (251)_North Sydney_2022" {
-	graph [label="North Sydney 2022" labelloc=t mclimit=2]
+	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Walls (251)" [label="Michael Walls (251)
 Pauline Hanson's One Nation"]

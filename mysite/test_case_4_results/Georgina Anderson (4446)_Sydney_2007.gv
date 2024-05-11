@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Georgina Anderson (4446)_Sydney_2007" {
-	graph [label="Sydney 2007" labelloc=t mclimit=2]
+	graph [label="Sydney 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Georgina Anderson (4446)" [label="Georgina Anderson (4446)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Thomas Ball (205)_Mackellar_2022" {
-	graph [label="Mackellar 2022" labelloc=t mclimit=2]
+	graph [label="Mackellar 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Thomas Ball (205)" [label="Christopher Thomas Ball (205)
 United Australia Party"]

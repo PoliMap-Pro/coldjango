@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shawn Lock (678)_Spence_2022" {
-	graph [label="Spence 2022" labelloc=t mclimit=2]
+	graph [label="Spence 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shawn Lock (678)" [label="Shawn Lock (678)
 Liberal"]

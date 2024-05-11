@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Lawler (5167)_New England_2004" {
-	graph [label="New England 2004" labelloc=t mclimit=2]
+	graph [label="New England 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Lawler (5167)" [label="Steve Lawler (5167)
 Citizens Electoral Council"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dennis Jensen (3665)_Tangney_2007" {
-	graph [label="Tangney 2007" labelloc=t mclimit=2]
+	graph [label="Tangney 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dennis Jensen (3665)" [label="Dennis Jensen (3665)
 Liberal"]

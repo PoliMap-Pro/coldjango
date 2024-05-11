@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alexander Andruska (338)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alexander Andruska (338)" [label="Alexander Andruska (338)
 Liberal"]

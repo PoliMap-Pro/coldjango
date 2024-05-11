@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colin Dwyer (2357)_Herbert_2016" {
-	graph [label="Herbert 2016" labelloc=t mclimit=2]
+	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colin Dwyer (2357)" [label="Colin Dwyer (2357)
 Katter's Australian Party"]

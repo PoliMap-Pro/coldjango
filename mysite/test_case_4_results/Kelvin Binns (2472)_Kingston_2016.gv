@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kelvin Binns (2472)_Kingston_2016" {
-	graph [label="Kingston 2016" labelloc=t mclimit=2]
+	graph [label="Kingston 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kelvin Binns (2472)" [label="Kelvin Binns (2472)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat O'Shane (510)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat O'Shane (510)" [label="Pat O'Shane (510)
 Socialist Alliance"]

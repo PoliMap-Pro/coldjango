@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Stephen Fairhall (85)_Cowper_2022" {
-	graph [label="Cowper 2022" labelloc=t mclimit=2]
+	graph [label="Cowper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
 United Australia Party"]

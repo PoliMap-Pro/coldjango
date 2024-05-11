@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Edwina Mary Cowdery (5179)_North Sydney_2004" {
+	graph [label="North Sydney 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Edwina Mary Cowdery (5179)" [label="Edwina Mary Cowdery (5179)
+Independent"]
+	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
+Australian Democrats"]
+	"Jan De Voogd (5180)" -> "Edwina Mary Cowdery (5179)" [label=286]
+}

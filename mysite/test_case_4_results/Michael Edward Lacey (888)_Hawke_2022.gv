@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Edward Lacey (888)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t mclimit=2]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Edward Lacey (888)" [label="Michael Edward Lacey (888)
 The Great Australian Party"]

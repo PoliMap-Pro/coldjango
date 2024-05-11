@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Kleinig (5438)_Grey_2004" {
-	graph [label="Grey 2004" labelloc=t mclimit=2]
+	graph [label="Grey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Kleinig (5438)" [label="Roger Kleinig (5438)
 Family First"]

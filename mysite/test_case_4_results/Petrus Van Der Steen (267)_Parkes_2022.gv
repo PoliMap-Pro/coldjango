@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Petrus Van Der Steen (267)_Parkes_2022" {
-	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
 United Australia Party"]

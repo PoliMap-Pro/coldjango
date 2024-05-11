@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tatiana Rathbone (2631)_Hotham_2016" {
-	graph [label="Hotham 2016" labelloc=t mclimit=2]
+	graph [label="Hotham 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
 Family First Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony James Fels (1114)_Durack_2022" {
-	graph [label="Durack 2022" labelloc=t mclimit=2]
+	graph [label="Durack 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony James Fels (1114)" [label="Anthony James Fels (1114)
 WESTERN AUSTRALIA PARTY"]

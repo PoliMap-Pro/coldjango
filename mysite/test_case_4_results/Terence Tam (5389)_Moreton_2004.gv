@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terence Tam (5389)_Moreton_2004" {
-	graph [label="Moreton 2004" labelloc=t mclimit=2]
+	graph [label="Moreton 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terence Tam (5389)" [label="Terence Tam (5389)
 Family First"]

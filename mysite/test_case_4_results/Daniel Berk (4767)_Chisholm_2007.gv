@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Berk (4767)_Chisholm_2007" {
-	graph [label="Chisholm 2007" labelloc=t mclimit=2]
+	graph [label="Chisholm 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Berk (4767)" [label="Daniel Berk (4767)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lily Arthur (4421)_Prospect_2007" {
-	graph [label="Prospect 2007" labelloc=t mclimit=2]
+	graph [label="Prospect 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lily Arthur (4421)" [label="Lily Arthur (4421)
 Liberal"]

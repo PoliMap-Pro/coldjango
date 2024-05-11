@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Henry John Barnard (2758)_Hasluck_2016" {
-	graph [label="Hasluck 2016" labelloc=t mclimit=2]
+	graph [label="Hasluck 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Henry John Barnard (2758)" [label="Henry John Barnard (2758)
 Rise Up Australia Party"]

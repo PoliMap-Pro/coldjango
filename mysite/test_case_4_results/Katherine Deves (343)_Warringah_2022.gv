@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katherine Deves (343)_Warringah_2022" {
-	graph [label="Warringah 2022" labelloc=t mclimit=2]
+	graph [label="Warringah 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katherine Deves (343)" [label="Katherine Deves (343)
 Liberal"]

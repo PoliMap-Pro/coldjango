@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barry Haase (4181)_Durack_2010" {
-	graph [label="Durack 2010" labelloc=t mclimit=2]
+	graph [label="Durack 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barry Haase (4181)" [label="Barry Haase (4181)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elizabeth Re (2005)_Stirling_2019" {
-	graph [label="Stirling 2019" labelloc=t mclimit=2]
+	graph [label="Stirling 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elizabeth Re (2005)" [label="Elizabeth Re (2005)
 WESTERN AUSTRALIA PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maaz Syed (4546)_Forde_2007" {
-	graph [label="Forde 2007" labelloc=t mclimit=2]
+	graph [label="Forde 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maaz Syed (4546)" [label="Maaz Syed (4546)
 Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Ryan (5704)_Hasluck_2004" {
-	graph [label="Hasluck 2004" labelloc=t mclimit=2]
+	graph [label="Hasluck 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Ryan (5704)" [label="Terry Ryan (5704)
 CDP Christian Party"]

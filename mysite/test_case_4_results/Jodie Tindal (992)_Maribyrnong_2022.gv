@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jodie Tindal (992)_Maribyrnong_2022" {
-	graph [label="Maribyrnong 2022" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jodie Tindal (992)" [label="Jodie Tindal (992)
 Pauline Hanson's One Nation"]

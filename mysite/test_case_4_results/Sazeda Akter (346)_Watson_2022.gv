@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sazeda Akter (346)_Watson_2022" {
-	graph [label="Watson 2022" labelloc=t mclimit=2]
+	graph [label="Watson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sazeda Akter (346)" [label="Sazeda Akter (346)
 Liberal"]

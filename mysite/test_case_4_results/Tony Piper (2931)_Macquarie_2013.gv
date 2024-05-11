@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Piper (2931)_Macquarie_2013" {
-	graph [label="Macquarie 2013" labelloc=t mclimit=2]
+	graph [label="Macquarie 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Piper (2931)" [label="Tony Piper (2931)
 Christian Democratic Party (Fred Nile Group)"]

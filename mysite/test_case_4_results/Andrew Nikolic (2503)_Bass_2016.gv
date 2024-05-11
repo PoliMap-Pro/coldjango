@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Nikolic (2503)_Bass_2016" {
-	graph [label="Bass 2016" labelloc=t mclimit=2]
+	graph [label="Bass 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Nikolic (2503)" [label="Andrew Nikolic (2503)
 Liberal"]

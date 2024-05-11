@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mathew Bruce Crothers (3729)_Farrer_2010" {
-	graph [label="Farrer 2010" labelloc=t mclimit=2]
+	graph [label="Farrer 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mathew Bruce Crothers (3729)" [label="Mathew Bruce Crothers (3729)
 Secular Party of Australia"]

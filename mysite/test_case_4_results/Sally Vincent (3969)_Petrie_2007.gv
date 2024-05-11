@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sally Vincent (3969)_Petrie_2007" {
-	graph [label="Petrie 2007" labelloc=t mclimit=2]
+	graph [label="Petrie 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sally Vincent (3969)" [label="Sally Vincent (3969)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Kendall (4277)_Charlton_2007" {
-	graph [label="Charlton 2007" labelloc=t mclimit=2]
+	graph [label="Charlton 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Kendall (4277)" [label="Jim Kendall (4277)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharon Bell (1470)_Blair_2019" {
-	graph [label="Blair 2019" labelloc=t mclimit=2]
+	graph [label="Blair 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharon Bell (1470)" [label="Sharon Bell (1470)
 Pauline Hanson's One Nation"]

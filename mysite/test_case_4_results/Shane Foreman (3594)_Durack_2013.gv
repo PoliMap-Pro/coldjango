@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Foreman (3594)_Durack_2013" {
-	graph [label="Durack 2013" labelloc=t mclimit=2]
+	graph [label="Durack 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Foreman (3594)" [label="Shane Foreman (3594)
 Rise Up Australia Party"]

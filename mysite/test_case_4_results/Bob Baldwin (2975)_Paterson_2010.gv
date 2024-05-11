@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bob Baldwin (2975)_Paterson_2010" {
-	graph [label="Paterson 2010" labelloc=t mclimit=2]
+	graph [label="Paterson 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bob Baldwin (2975)" [label="Bob Baldwin (2975)
 Liberal"]

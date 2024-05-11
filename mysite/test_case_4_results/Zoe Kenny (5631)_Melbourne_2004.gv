@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zoe Kenny (5631)_Melbourne_2004" {
-	graph [label="Melbourne 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zoe Kenny (5631)" [label="Zoe Kenny (5631)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Oliver Carter (5343)_Groom_2004" {
-	graph [label="Groom 2004" labelloc=t mclimit=2]
+	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Oliver Carter (5343)" [label="Oliver Carter (5343)
 Citizens Electoral Council"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kenneth John Maxwell (329)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kenneth John Maxwell (329)" [label="Kenneth John Maxwell (329)
 United Australia Party"]

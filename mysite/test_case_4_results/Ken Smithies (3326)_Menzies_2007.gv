@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ken Smithies (3326)_Menzies_2007" {
-	graph [label="Menzies 2007" labelloc=t mclimit=2]
+	graph [label="Menzies 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ken Smithies (3326)" [label="Ken Smithies (3326)
 Family First"]

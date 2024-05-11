@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Pyne (2493)_Sturt_2004" {
-	graph [label="Sturt 2004" labelloc=t mclimit=2]
+	graph [label="Sturt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Pyne (2493)" [label="Christopher Pyne (2493)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steven Mccreanor (1147)_Hasluck_2022" {
-	graph [label="Hasluck 2022" labelloc=t mclimit=2]
+	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steven Mccreanor (1147)" [label="Steven Mccreanor (1147)
 Liberal Democrats"]

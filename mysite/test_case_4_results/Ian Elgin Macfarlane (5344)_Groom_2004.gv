@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Elgin Macfarlane (5344)_Groom_2004" {
-	graph [label="Groom 2004" labelloc=t mclimit=2]
+	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Elgin Macfarlane (5344)" [label="Ian Elgin Macfarlane (5344)
 Liberal"]

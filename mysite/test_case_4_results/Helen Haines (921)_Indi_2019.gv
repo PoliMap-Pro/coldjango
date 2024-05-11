@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Helen Haines (921)_Indi_2019" {
+	graph [label="Indi 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Helen Haines (921)" [label="Helen Haines (921)
+Independent"]
+	"Eric Kerr (1839)" [label="Eric Kerr (1839)
+Australian Labor Party"]
+	"Mark Byatt (1837)" [label="Mark Byatt (1837)
+The Nationals"]
+	"Helen Robinson (1834)" [label="Helen Robinson (1834)
+The Greens (VIC)"]
+	"Shane Wheatland (1838)" [label="Shane Wheatland (1838)
+United Australia Party"]
+	"Jason Peter Whalley (1835)" [label="Jason Peter Whalley (1835)
+Derryn Hinch's Justice Party"]
+	"Eric Kerr (1839)" -> "Helen Haines (921)" [label=11782]
+	"Mark Byatt (1837)" -> "Eric Kerr (1839)" [label=776]
+	"Helen Robinson (1834)" -> "Mark Byatt (1837)" [label=271]
+	"Shane Wheatland (1838)" -> "Helen Robinson (1834)" [label=243]
+	"Jason Peter Whalley (1835)" -> "Shane Wheatland (1838)" [label=440]
+	"Mark Byatt (1837)" -> "Helen Haines (921)" [label=2160]
+	"Helen Robinson (1834)" -> "Helen Haines (921)" [label=2889]
+	"Shane Wheatland (1838)" -> "Helen Haines (921)" [label=1366]
+	"Jason Peter Whalley (1835)" -> "Helen Haines (921)" [label=1025]
+	"Jason Peter Whalley (1835)" -> "Helen Robinson (1834)" [label=334]
+	"Shane Wheatland (1838)" -> "Mark Byatt (1837)" [label=977]
+	"Jason Peter Whalley (1835)" -> "Mark Byatt (1837)" [label=210]
+	"Helen Robinson (1834)" -> "Eric Kerr (1839)" [label=1212]
+	"Shane Wheatland (1838)" -> "Eric Kerr (1839)" [label=616]
+	"Jason Peter Whalley (1835)" -> "Eric Kerr (1839)" [label=357]
+}

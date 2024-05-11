@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damian Huxham (1557)_Hinkler_2019" {
-	graph [label="Hinkler 2019" labelloc=t mclimit=2]
+	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damian Huxham (1557)" [label="Damian Huxham (1557)
 Pauline Hanson's One Nation"]

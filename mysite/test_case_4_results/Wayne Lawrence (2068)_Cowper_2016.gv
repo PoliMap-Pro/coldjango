@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne Lawrence (2068)_Cowper_2016" {
-	graph [label="Cowper 2016" labelloc=t mclimit=2]
+	graph [label="Cowper 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne Lawrence (2068)" [label="Wayne Lawrence (2068)
 Christian Democratic Party (Fred Nile Group)"]

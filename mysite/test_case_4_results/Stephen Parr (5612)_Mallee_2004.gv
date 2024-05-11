@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Parr (5612)_Mallee_2004" {
-	graph [label="Mallee 2004" labelloc=t mclimit=2]
+	graph [label="Mallee 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Parr (5612)" [label="Stephen Parr (5612)
 Democrats"]

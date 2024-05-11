@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Kachwalla (143)_Greenway_2022" {
-	graph [label="Greenway 2022" labelloc=t mclimit=2]
+	graph [label="Greenway 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Kachwalla (143)" [label="Adam Kachwalla (143)
 Liberal Democrats"]

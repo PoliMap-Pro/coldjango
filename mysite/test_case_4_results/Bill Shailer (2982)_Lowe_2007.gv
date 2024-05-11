@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Shailer (2982)_Lowe_2007" {
-	graph [label="Lowe 2007" labelloc=t mclimit=2]
+	graph [label="Lowe 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Shailer (2982)" [label="Bill Shailer (2982)
 Christian Democratic Party (Fred Nile Group)"]

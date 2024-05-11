@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Lawrie (3267)_Makin_2013" {
-	graph [label="Makin 2013" labelloc=t mclimit=2]
+	graph [label="Makin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Lawrie (3267)" [label="Sue Lawrie (3267)
 Liberal"]

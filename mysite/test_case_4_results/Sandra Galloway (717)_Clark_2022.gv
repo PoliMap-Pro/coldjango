@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandra Galloway (717)_Clark_2022" {
-	graph [label="Clark 2022" labelloc=t mclimit=2]
+	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandra Galloway (717)" [label="Sandra Galloway (717)
 United Australia Party"]

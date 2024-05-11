@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Annelise Hellberg (2343)_Forde_2016" {
-	graph [label="Forde 2016" labelloc=t mclimit=2]
+	graph [label="Forde 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Annelise Hellberg (2343)" [label="Annelise Hellberg (2343)
 Family First"]

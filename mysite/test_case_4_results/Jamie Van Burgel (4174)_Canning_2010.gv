@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamie Van Burgel (4174)_Canning_2010" {
-	graph [label="Canning 2010" labelloc=t mclimit=2]
+	graph [label="Canning 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamie Van Burgel (4174)" [label="Jamie Van Burgel (4174)
 Christian Democratic Party"]

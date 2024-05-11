@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ray Moran (4981)_Stirling_2004" {
-	graph [label="Stirling 2004" labelloc=t mclimit=2]
+	graph [label="Stirling 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ray Moran (4981)" [label="Ray Moran (4981)
 CDP Christian Party"]

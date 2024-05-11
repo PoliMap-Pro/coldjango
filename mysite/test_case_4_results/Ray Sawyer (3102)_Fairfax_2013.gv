@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ray Sawyer (3102)_Fairfax_2013" {
-	graph [label="Fairfax 2013" labelloc=t mclimit=2]
+	graph [label="Fairfax 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ray Sawyer (3102)" [label="Ray Sawyer (3102)
 Katter's Australian Party"]

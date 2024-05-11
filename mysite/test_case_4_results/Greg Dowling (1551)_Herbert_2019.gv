@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Dowling (1551)_Herbert_2019" {
-	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Dowling (1551)" [label="Greg Dowling (1551)
 United Australia Party"]

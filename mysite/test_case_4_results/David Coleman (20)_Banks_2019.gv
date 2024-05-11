@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Coleman (20)_Banks_2019" {
-	graph [label="Banks 2019" labelloc=t mclimit=2]
+	graph [label="Banks 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Coleman (20)" [label="David Coleman (20)
 Liberal"]

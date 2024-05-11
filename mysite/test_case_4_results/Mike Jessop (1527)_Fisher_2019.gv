@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mike Jessop (1527)_Fisher_2019" {
-	graph [label="Fisher 2019" labelloc=t mclimit=2]
+	graph [label="Fisher 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mike Jessop (1527)" [label="Mike Jessop (1527)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

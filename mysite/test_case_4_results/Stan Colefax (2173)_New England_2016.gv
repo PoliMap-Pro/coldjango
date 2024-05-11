@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stan Colefax (2173)_New England_2016" {
-	graph [label="New England 2016" labelloc=t mclimit=2]
+	graph [label="New England 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stan Colefax (2173)" [label="Stan Colefax (2173)
 Christian Democratic Party (Fred Nile Group)"]

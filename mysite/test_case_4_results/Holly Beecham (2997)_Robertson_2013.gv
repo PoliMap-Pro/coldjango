@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Holly Beecham (2997)_Robertson_2013" {
-	graph [label="Robertson 2013" labelloc=t mclimit=2]
+	graph [label="Robertson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Holly Beecham (2997)" [label="Holly Beecham (2997)
 Christian Democratic Party (Fred Nile Group)"]

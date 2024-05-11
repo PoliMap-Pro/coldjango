@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Elliott (3458)_Isaacs_2013" {
-	graph [label="Isaacs 2013" labelloc=t mclimit=2]
+	graph [label="Isaacs 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Elliott (3458)" [label="John Elliott (3458)
 Family First Party"]

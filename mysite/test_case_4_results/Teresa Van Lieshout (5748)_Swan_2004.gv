@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Teresa Van Lieshout (5748)_Swan_2004" {
+	graph [label="Swan 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Teresa Van Lieshout (5748)" [label="Teresa Van Lieshout (5748)
+Independent"]
+	"Peter Greaves (5745)" [label="Peter Greaves (5745)
+Family First"]
+	"Azmi Johari (5743)" [label="Azmi Johari (5743)
+Citizens Electoral Council"]
+	"Peter Greaves (5745)" -> "Teresa Van Lieshout (5748)" [label=47]
+	"Azmi Johari (5743)" -> "Peter Greaves (5745)" [label=16]
+	"Azmi Johari (5743)" -> "Teresa Van Lieshout (5748)" [label=16]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark West (5269)_Solomon_2004" {
-	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	graph [label="Solomon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark West (5269)" [label="Mark West (5269)
 Family First"]

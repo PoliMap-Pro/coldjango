@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Lees (5218)_Richmond_2004" {
-	graph [label="Richmond 2004" labelloc=t mclimit=2]
+	graph [label="Richmond 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Lees (5218)" [label="Craig Lees (5218)
 Family First"]

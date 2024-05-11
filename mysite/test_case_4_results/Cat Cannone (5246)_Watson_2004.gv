@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cat Cannone (5246)_Watson_2004" {
-	graph [label="Watson 2004" labelloc=t mclimit=2]
+	graph [label="Watson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cat Cannone (5246)" [label="Cat Cannone (5246)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Vegar (2303)_Brisbane_2016" {
-	graph [label="Brisbane 2016" labelloc=t mclimit=2]
+	graph [label="Brisbane 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Vegar (2303)" [label="Mark Vegar (2303)
 Family First"]

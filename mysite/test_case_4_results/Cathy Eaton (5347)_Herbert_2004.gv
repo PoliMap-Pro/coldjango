@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cathy Eaton (5347)_Herbert_2004" {
-	graph [label="Herbert 2004" labelloc=t mclimit=2]
+	graph [label="Herbert 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cathy Eaton (5347)" [label="Cathy Eaton (5347)
 Family First"]

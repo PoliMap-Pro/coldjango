@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rhys Ian Collyer (36)_Bennelong_2022" {
-	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rhys Ian Collyer (36)" [label="Rhys Ian Collyer (36)
 United Australia Party"]

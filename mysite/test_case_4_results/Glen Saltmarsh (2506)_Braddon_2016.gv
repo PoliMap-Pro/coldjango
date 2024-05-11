@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Saltmarsh (2506)_Braddon_2016" {
-	graph [label="Braddon 2016" labelloc=t mclimit=2]
+	graph [label="Braddon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Saltmarsh (2506)" [label="Glen Saltmarsh (2506)
 Australian Recreational Fishers Party"]

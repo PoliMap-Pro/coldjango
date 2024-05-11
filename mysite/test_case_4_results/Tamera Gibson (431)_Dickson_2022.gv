@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tamera Gibson (431)_Dickson_2022" {
-	graph [label="Dickson 2022" labelloc=t mclimit=2]
+	graph [label="Dickson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tamera Gibson (431)" [label="Tamera Gibson (431)
 Pauline Hanson's One Nation"]

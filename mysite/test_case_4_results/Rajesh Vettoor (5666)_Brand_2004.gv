@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rajesh Vettoor (5666)_Brand_2004" {
-	graph [label="Brand 2004" labelloc=t mclimit=2]
+	graph [label="Brand 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rajesh Vettoor (5666)" [label="Rajesh Vettoor (5666)
 CDP Christian Party"]

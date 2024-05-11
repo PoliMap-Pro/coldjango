@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Violi (773)_Casey_2022" {
-	graph [label="Casey 2022" labelloc=t mclimit=2]
+	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Violi (773)" [label="Aaron Violi (773)
 Liberal"]

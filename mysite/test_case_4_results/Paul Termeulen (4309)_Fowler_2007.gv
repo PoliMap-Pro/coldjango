@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Termeulen (4309)_Fowler_2007" {
-	graph [label="Fowler 2007" labelloc=t mclimit=2]
+	graph [label="Fowler 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Termeulen (4309)" [label="Paul Termeulen (4309)
 Christian Democratic Party (Fred Nile Group)"]

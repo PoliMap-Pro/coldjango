@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Miller (637)_Grey_2022" {
-	graph [label="Grey 2022" labelloc=t mclimit=2]
+	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Miller (637)" [label="Peter Miller (637)
 Liberal Democrats"]

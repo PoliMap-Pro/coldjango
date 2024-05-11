@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Mcmahon (5215)_Reid_2004" {
-	graph [label="Reid 2004" labelloc=t mclimit=2]
+	graph [label="Reid 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Mcmahon (5215)" [label="Sarah Mcmahon (5215)
 Liberal"]

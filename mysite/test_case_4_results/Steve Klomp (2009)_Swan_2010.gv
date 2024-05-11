@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Klomp (2009)_Swan_2010" {
-	graph [label="Swan 2010" labelloc=t mclimit=2]
+	graph [label="Swan 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Klomp (2009)" [label="Steve Klomp (2009)
 Christian Democratic Party"]

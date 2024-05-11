@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Powrie (5080)_Fowler_2004" {
-	graph [label="Fowler 2004" labelloc=t mclimit=2]
+	graph [label="Fowler 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Powrie (5080)" [label="Philip Powrie (5080)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jan Pukallus (3123)_Dawson_2004" {
-	graph [label="Dawson 2004" labelloc=t mclimit=2]
+	graph [label="Dawson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
 Citizens Electoral Council"]

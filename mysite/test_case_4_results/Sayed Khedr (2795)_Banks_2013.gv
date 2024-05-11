@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Sayed Khedr (2795)_Banks_2013" {
+	graph [label="Banks 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sayed Khedr (2795)" [label="Sayed Khedr (2795)
+Independent"]
+	"Ross Richardson (2796)" [label="Ross Richardson (2796)
+Katter's Australian Party"]
+	"Robert Michael Haddad (2799)" [label="Robert Michael Haddad (2799)
+Democratic Labour Party (DLP)"]
+	"Ross Richardson (2796)" -> "Sayed Khedr (2795)" [label=89]
+	"Robert Michael Haddad (2799)" -> "Ross Richardson (2796)" [label=17]
+	"Robert Michael Haddad (2799)" -> "Sayed Khedr (2795)" [label=39]
+}

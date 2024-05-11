@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Stanton (5555)_Gippsland_2004" {
-	graph [label="Gippsland 2004" labelloc=t mclimit=2]
+	graph [label="Gippsland 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Stanton (5555)" [label="Heather Stanton (5555)
 Citizens Electoral Council"]

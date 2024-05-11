@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brett Paterson (3850)_Sydney_2010" {
-	graph [label="Sydney 2010" labelloc=t mclimit=2]
+	graph [label="Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brett Paterson (3850)" [label="Brett Paterson (3850)
 Australian Democrats"]

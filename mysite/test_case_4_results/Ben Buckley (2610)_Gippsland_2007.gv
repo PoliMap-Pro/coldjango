@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Ben Buckley (2610)_Gippsland_2007" {
+	graph [label="Gippsland 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
+	"Helen Mcadam (4798)" -> "Ben Buckley (2610)" [label=148]
+}

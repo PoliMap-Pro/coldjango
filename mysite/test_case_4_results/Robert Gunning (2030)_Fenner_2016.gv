@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Gunning (2030)_Fenner_2016" {
-	graph [label="Fenner 2016" labelloc=t mclimit=2]
+	graph [label="Fenner 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Gunning (2030)" [label="Robert Gunning (2030)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ron Fiedler (1687)_Spence_2019" {
-	graph [label="Spence 2019" labelloc=t mclimit=2]
+	graph [label="Spence 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Merrells (5724)_Pearce_2004" {
-	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	graph [label="Pearce 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Merrells (5724)" [label="Robert Merrells (5724)
 CDP Christian Party"]

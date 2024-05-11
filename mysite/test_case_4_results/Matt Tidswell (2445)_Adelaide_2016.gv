@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Tidswell (2445)_Adelaide_2016" {
-	graph [label="Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
 Animal Justice Party"]

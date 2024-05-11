@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Meldon (3103)_Fisher_2013" {
-	graph [label="Fisher 2013" labelloc=t mclimit=2]
+	graph [label="Fisher 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Meldon (3103)" [label="Mark Meldon (3103)
 Katter's Australian Party"]

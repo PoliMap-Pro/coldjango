@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marika Momircevski (22)_Banks_2022" {
-	graph [label="Banks 2022" labelloc=t mclimit=2]
+	graph [label="Banks 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marika Momircevski (22)" [label="Marika Momircevski (22)
 United Australia Party"]

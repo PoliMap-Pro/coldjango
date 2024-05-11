@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Evan Jewell (4279)_Chifley_2007" {
-	graph [label="Chifley 2007" labelloc=t mclimit=2]
+	graph [label="Chifley 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Evan Jewell (4279)" [label="Evan Jewell (4279)
 Family First"]

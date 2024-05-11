@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Giuseppe Coletti (5737)_Stirling_2004" {
-	graph [label="Stirling 2004" labelloc=t mclimit=2]
+	graph [label="Stirling 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Giuseppe Coletti (5737)" [label="Giuseppe Coletti (5737)
 Australian Democrats"]

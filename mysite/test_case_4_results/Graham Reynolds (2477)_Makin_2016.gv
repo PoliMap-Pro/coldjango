@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graham Reynolds (2477)_Makin_2016" {
-	graph [label="Makin 2016" labelloc=t mclimit=2]
+	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graham Reynolds (2477)" [label="Graham Reynolds (2477)
 Liberal"]

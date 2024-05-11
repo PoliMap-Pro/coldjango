@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Duncan Livingston (2521)_Lyons_2016" {
-	graph [label="Lyons 2016" labelloc=t mclimit=2]
+	graph [label="Lyons 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Duncan Livingston (2521)" [label="Duncan Livingston (2521)
 Renewable Energy Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Bell (1769)_Cooper_2019" {
-	graph [label="Cooper 2019" labelloc=t mclimit=2]
+	graph [label="Cooper 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Bell (1769)" [label="Andrew Bell (1769)
 Liberal"]

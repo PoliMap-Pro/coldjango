@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Luke Harding (417)_Capricornia_2022" {
-	graph [label="Capricornia 2022" labelloc=t mclimit=2]
+	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Luke Harding (417)" [label="Nathan Luke Harding (417)
 United Australia Party"]

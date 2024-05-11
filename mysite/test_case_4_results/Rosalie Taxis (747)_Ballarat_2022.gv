@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rosalie Taxis (747)_Ballarat_2022" {
-	graph [label="Ballarat 2022" labelloc=t mclimit=2]
+	graph [label="Ballarat 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rosalie Taxis (747)" [label="Rosalie Taxis (747)
 Pauline Hanson's One Nation"]

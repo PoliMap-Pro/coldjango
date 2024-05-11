@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Pollard (2213)_Richmond_2016" {
-	graph [label="Richmond 2016" labelloc=t mclimit=2]
+	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Pollard (2213)" [label="Angela Pollard (2213)
 Animal Justice Party"]

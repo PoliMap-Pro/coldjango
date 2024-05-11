@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Godwin Goh (4360)_Macarthur_2007" {
-	graph [label="Macarthur 2007" labelloc=t mclimit=2]
+	graph [label="Macarthur 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Godwin Goh (4360)" [label="Godwin Goh (4360)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Stevens (690)_Sturt_2022" {
-	graph [label="Sturt 2022" labelloc=t mclimit=2]
+	graph [label="Sturt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Stevens (690)" [label="James Stevens (690)
 Liberal"]

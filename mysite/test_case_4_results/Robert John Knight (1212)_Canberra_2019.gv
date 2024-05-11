@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert John Knight (1212)_Canberra_2019" {
-	graph [label="Canberra 2019" labelloc=t mclimit=2]
+	graph [label="Canberra 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert John Knight (1212)" [label="Robert John Knight (1212)
 Australian Progressives"]

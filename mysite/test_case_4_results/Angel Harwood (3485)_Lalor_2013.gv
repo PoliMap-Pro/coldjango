@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angel Harwood (3485)_Lalor_2013" {
-	graph [label="Lalor 2013" labelloc=t mclimit=2]
+	graph [label="Lalor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angel Harwood (3485)" [label="Angel Harwood (3485)
 Sex Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Falanga (2798)_Banks_2013" {
-	graph [label="Banks 2013" labelloc=t mclimit=2]
+	graph [label="Banks 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Falanga (2798)" [label="Mark Falanga (2798)
 Christian Democratic Party (Fred Nile Group)"]

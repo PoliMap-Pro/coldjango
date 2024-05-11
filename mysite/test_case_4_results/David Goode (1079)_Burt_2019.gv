@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Goode (1079)_Burt_2019" {
-	graph [label="Burt 2019" labelloc=t mclimit=2]
+	graph [label="Burt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Goode (1079)" [label="David Goode (1079)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Falinski (204)_Mackellar_2019" {
-	graph [label="Mackellar 2019" labelloc=t mclimit=2]
+	graph [label="Mackellar 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Falinski (204)" [label="Jason Falinski (204)
 Liberal"]

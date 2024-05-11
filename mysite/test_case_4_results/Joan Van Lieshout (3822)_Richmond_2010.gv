@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joan Van Lieshout (3822)_Richmond_2010" {
-	graph [label="Richmond 2010" labelloc=t mclimit=2]
+	graph [label="Richmond 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joan Van Lieshout (3822)" [label="Joan Van Lieshout (3822)
 Liberal"]

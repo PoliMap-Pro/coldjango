@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Clark (3324)_Ballarat_2013" {
-	graph [label="Ballarat 2013" labelloc=t mclimit=2]
+	graph [label="Ballarat 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Clark (3324)" [label="Shane Clark (3324)
 Family First Party"]

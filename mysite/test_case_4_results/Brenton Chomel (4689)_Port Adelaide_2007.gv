@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brenton Chomel (4689)_Port Adelaide_2007" {
-	graph [label="Port Adelaide 2007" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brenton Chomel (4689)" [label="Brenton Chomel (4689)
 Liberal"]

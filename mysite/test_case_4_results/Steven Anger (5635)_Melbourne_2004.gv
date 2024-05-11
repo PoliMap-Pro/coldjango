@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Steven Anger (5635)_Melbourne_2004" {
+	graph [label="Melbourne 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steven Anger (5635)" [label="Steven Anger (5635)
+Independent"]
+	"Rhys Mcguckin (5637)" [label="Rhys Mcguckin (5637)
+Citizens Electoral Council"]
+	"Rhys Mcguckin (5637)" -> "Steven Anger (5635)" [label=25]
+}

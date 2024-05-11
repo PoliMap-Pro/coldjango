@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Gunness (1149)_Moore_2022" {
-	graph [label="Moore 2022" labelloc=t mclimit=2]
+	graph [label="Moore 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Gunness (1149)" [label="Peter Gunness (1149)
 WESTERN AUSTRALIA PARTY"]

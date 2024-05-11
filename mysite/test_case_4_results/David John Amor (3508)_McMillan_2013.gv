@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David John Amor (3508)_McMillan_2013" {
-	graph [label="McMillan 2013" labelloc=t mclimit=2]
+	graph [label="McMillan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David John Amor (3508)" [label="David John Amor (3508)
 Katter's Australian Party"]

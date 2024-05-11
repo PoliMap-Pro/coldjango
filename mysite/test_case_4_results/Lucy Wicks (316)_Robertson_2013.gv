@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lucy Wicks (316)_Robertson_2013" {
-	graph [label="Robertson 2013" labelloc=t mclimit=2]
+	graph [label="Robertson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lucy Wicks (316)" [label="Lucy Wicks (316)
 Liberal"]

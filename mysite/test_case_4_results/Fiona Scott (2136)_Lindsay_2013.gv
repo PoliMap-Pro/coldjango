@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Fiona Scott (2136)_Lindsay_2013" {
-	graph [label="Lindsay 2013" labelloc=t mclimit=2]
+	graph [label="Lindsay 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Fiona Scott (2136)" [label="Fiona Scott (2136)
 Liberal"]

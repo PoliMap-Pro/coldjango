@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Priscilla Smith (5277)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Priscilla Smith (5277)" [label="Priscilla Smith (5277)
 Family First"]

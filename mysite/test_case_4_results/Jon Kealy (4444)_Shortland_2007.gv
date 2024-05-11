@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jon Kealy (4444)_Shortland_2007" {
-	graph [label="Shortland 2007" labelloc=t mclimit=2]
+	graph [label="Shortland 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jon Kealy (4444)" [label="Jon Kealy (4444)
 Liberal"]

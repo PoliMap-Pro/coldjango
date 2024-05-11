@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tom Sefton (2783)_Canberra_2013" {
-	graph [label="Canberra 2013" labelloc=t mclimit=2]
+	graph [label="Canberra 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tom Sefton (2783)" [label="Tom Sefton (2783)
 Liberal"]

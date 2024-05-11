@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lawrence Pope (1892)_Melbourne_2019" {
-	graph [label="Melbourne 2019" labelloc=t mclimit=2]
+	graph [label="Melbourne 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lawrence Pope (1892)" [label="Lawrence Pope (1892)
 Animal Justice Party"]

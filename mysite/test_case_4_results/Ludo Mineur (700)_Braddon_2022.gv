@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ludo Mineur (700)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t mclimit=2]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ludo Mineur (700)" [label="Ludo Mineur (700)
 Pauline Hanson's One Nation"]

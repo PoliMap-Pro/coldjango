@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Thompson (5272)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Thompson (5272)" [label="Cameron Thompson (5272)
 Liberal"]

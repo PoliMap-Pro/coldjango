@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angus Taylor (162)_Hume_2019" {
-	graph [label="Hume 2019" labelloc=t mclimit=2]
+	graph [label="Hume 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angus Taylor (162)" [label="Angus Taylor (162)
 Liberal"]

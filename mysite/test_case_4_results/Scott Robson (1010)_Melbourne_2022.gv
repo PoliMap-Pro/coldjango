@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Scott Robson (1010)_Melbourne_2022" {
+	graph [label="Melbourne 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
+	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
+}

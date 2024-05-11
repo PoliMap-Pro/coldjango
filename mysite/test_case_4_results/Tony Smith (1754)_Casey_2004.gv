@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Smith (1754)_Casey_2004" {
-	graph [label="Casey 2004" labelloc=t mclimit=2]
+	graph [label="Casey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Smith (1754)" [label="Tony Smith (1754)
 Liberal"]

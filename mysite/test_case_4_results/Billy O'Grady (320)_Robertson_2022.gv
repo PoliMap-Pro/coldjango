@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Billy O'Grady (320)_Robertson_2022" {
-	graph [label="Robertson 2022" labelloc=t mclimit=2]
+	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Billy O'Grady (320)" [label="Billy O'Grady (320)
 Pauline Hanson's One Nation"]

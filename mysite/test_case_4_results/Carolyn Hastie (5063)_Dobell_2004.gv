@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carolyn Hastie (5063)_Dobell_2004" {
-	graph [label="Dobell 2004" labelloc=t mclimit=2]
+	graph [label="Dobell 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carolyn Hastie (5063)" [label="Carolyn Hastie (5063)
 Australian Democrats"]

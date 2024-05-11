@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Leayr (3814)_Paterson_2010" {
-	graph [label="Paterson 2010" labelloc=t mclimit=2]
+	graph [label="Paterson 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Leayr (3814)" [label="Kevin Leayr (3814)
 One Nation"]

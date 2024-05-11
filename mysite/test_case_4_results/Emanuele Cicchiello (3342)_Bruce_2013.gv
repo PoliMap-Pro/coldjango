@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emanuele Cicchiello (3342)_Bruce_2013" {
-	graph [label="Bruce 2013" labelloc=t mclimit=2]
+	graph [label="Bruce 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emanuele Cicchiello (3342)" [label="Emanuele Cicchiello (3342)
 Liberal"]

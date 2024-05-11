@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sukrit Sabhlok (4774)_Corangamite_2007" {
-	graph [label="Corangamite 2007" labelloc=t mclimit=2]
+	graph [label="Corangamite 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sukrit Sabhlok (4774)" [label="Sukrit Sabhlok (4774)
 LDP"]

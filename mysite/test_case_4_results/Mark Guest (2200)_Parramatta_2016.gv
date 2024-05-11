@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Guest (2200)_Parramatta_2016" {
-	graph [label="Parramatta 2016" labelloc=t mclimit=2]
+	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Guest (2200)" [label="Mark Guest (2200)
 Liberal Democrats"]

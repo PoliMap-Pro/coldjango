@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Farmer (4358)_Macarthur_2007" {
-	graph [label="Macarthur 2007" labelloc=t mclimit=2]
+	graph [label="Macarthur 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Farmer (4358)" [label="Pat Farmer (4358)
 Liberal"]

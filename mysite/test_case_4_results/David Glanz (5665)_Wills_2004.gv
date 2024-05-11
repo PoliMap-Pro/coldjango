@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Glanz (5665)_Wills_2004" {
-	graph [label="Wills 2004" labelloc=t mclimit=2]
+	graph [label="Wills 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Glanz (5665)" [label="David Glanz (5665)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helma Aschenbrenner (3452)_Indi_2013" {
-	graph [label="Indi 2013" labelloc=t mclimit=2]
+	graph [label="Indi 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helma Aschenbrenner (3452)" [label="Helma Aschenbrenner (3452)
 Sex Party"]

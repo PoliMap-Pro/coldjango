@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Samantha Mcgrail (671)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Samantha Mcgrail (671)" [label="Samantha Mcgrail (671)
 United Australia Party"]

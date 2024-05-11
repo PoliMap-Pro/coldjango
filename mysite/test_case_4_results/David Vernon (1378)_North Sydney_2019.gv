@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Vernon (1378)_North Sydney_2019" {
-	graph [label="North Sydney 2019" labelloc=t mclimit=2]
+	graph [label="North Sydney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Vernon (1378)" [label="David Vernon (1378)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Francis H Pauler (4567)_Herbert_2007" {
-	graph [label="Herbert 2007" labelloc=t mclimit=2]
+	graph [label="Herbert 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Francis H Pauler (4567)" [label="Francis H Pauler (4567)
 One Nation WA"]

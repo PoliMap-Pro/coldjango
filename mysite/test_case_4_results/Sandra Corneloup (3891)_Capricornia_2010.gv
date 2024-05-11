@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandra Corneloup (3891)_Capricornia_2010" {
-	graph [label="Capricornia 2010" labelloc=t mclimit=2]
+	graph [label="Capricornia 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandra Corneloup (3891)" [label="Sandra Corneloup (3891)
 Family First"]

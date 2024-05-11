@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Meyer (3099)_Fairfax_2013" {
-	graph [label="Fairfax 2013" labelloc=t mclimit=2]
+	graph [label="Fairfax 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Meyer (3099)" [label="Angela Meyer (3099)
 Family First"]

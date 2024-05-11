@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Mccourt (3613)_Fremantle_2013" {
-	graph [label="Fremantle 2013" labelloc=t mclimit=2]
+	graph [label="Fremantle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
 Family First Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Robert Harris (4300)_Eden-Monaro_2007" {
-	graph [label="Eden-Monaro 2007" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Robert Harris (4300)" [label="Peter Robert Harris (4300)
 Family First"]

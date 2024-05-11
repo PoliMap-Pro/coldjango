@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jackie Kelly (5122)_Lindsay_2004" {
-	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	graph [label="Lindsay 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jackie Kelly (5122)" [label="Jackie Kelly (5122)
 Liberal"]

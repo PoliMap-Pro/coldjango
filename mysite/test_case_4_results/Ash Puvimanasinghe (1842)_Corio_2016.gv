@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ash Puvimanasinghe (1842)_Corio_2016" {
-	graph [label="Corio 2016" labelloc=t mclimit=2]
+	graph [label="Corio 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
 Rise Up Australia Party"]

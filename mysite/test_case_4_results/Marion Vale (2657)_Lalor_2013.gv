@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marion Vale (2657)_Lalor_2013" {
-	graph [label="Lalor 2013" labelloc=t mclimit=2]
+	graph [label="Lalor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marion Vale (2657)" [label="Marion Vale (2657)
 Rise Up Australia Party"]

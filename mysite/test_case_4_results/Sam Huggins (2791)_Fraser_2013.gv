@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Huggins (2791)_Fraser_2013" {
-	graph [label="Fraser 2013" labelloc=t mclimit=2]
+	graph [label="Fraser 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Huggins (2791)" [label="Sam Huggins (2791)
 Bullet Train For Australia"]

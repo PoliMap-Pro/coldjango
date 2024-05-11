@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glenn Turner (3018)_Throsby_2013" {
-	graph [label="Throsby 2013" labelloc=t mclimit=2]
+	graph [label="Throsby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glenn Turner (3018)" [label="Glenn Turner (3018)
 Katter's Australian Party"]

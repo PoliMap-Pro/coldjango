@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Philip Cutler (4755)_Calwell_2007" {
+	graph [label="Calwell 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Philip Cutler (4755)" [label="Philip Cutler (4755)
+Independent"]
+	"Don Hampshire (4759)" [label="Don Hampshire (4759)
+Independent"]
+	"Frank Gaglioti (4760)" [label="Frank Gaglioti (4760)
+Socialist Equality Party"]
+	"Don Hampshire (4759)" -> "Philip Cutler (4755)" [label=130]
+	"Frank Gaglioti (4760)" -> "Don Hampshire (4759)" [label=42]
+	"Frank Gaglioti (4760)" -> "Philip Cutler (4755)" [label=23]
+}

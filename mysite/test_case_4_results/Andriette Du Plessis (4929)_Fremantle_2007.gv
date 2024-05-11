@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andriette Du Plessis (4929)_Fremantle_2007" {
-	graph [label="Fremantle 2007" labelloc=t mclimit=2]
+	graph [label="Fremantle 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andriette Du Plessis (4929)" [label="Andriette Du Plessis (4929)
 Family First"]

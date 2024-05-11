@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Quintin King (331)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Quintin King (331)" [label="Quintin King (331)
 Pauline Hanson's One Nation"]

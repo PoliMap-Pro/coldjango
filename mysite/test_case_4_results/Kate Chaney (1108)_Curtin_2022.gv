@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Kate Chaney (1108)_Curtin_2022" {
+	graph [label="Curtin 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kate Chaney (1108)" [label="Kate Chaney (1108)
+Independent"]
+	"Yannick Spencer (1109)" [label="Yannick Spencer (1109)
+Australian Labor Party"]
+	"Cameron Pidgeon (1110)" [label="Cameron Pidgeon (1110)
+The Greens (WA)"]
+	"Ladeisha Louise Verhoeff (1103)" [label="Ladeisha Louise Verhoeff (1103)
+United Australia Party"]
+	"Dale Marie Grillo (1107)" [label="Dale Marie Grillo (1107)
+Pauline Hanson's One Nation"]
+	"Bill Burn (1104)" [label="Bill Burn (1104)
+WESTERN AUSTRALIA PARTY"]
+	"Judith Cullity (1105)" [label="Judith Cullity (1105)
+Australian Federation Party"]
+	"Yannick Spencer (1109)" -> "Kate Chaney (1108)" [label=14955]
+	"Cameron Pidgeon (1110)" -> "Yannick Spencer (1109)" [label=4537]
+	"Ladeisha Louise Verhoeff (1103)" -> "Cameron Pidgeon (1110)" [label=262]
+	"Dale Marie Grillo (1107)" -> "Ladeisha Louise Verhoeff (1103)" [label=1093]
+	"Bill Burn (1104)" -> "Dale Marie Grillo (1107)" [label=134]
+	"Judith Cullity (1105)" -> "Bill Burn (1104)" [label=113]
+	"Cameron Pidgeon (1110)" -> "Kate Chaney (1108)" [label=5978]
+	"Ladeisha Louise Verhoeff (1103)" -> "Kate Chaney (1108)" [label=1335]
+	"Dale Marie Grillo (1107)" -> "Kate Chaney (1108)" [label=249]
+	"Bill Burn (1104)" -> "Kate Chaney (1108)" [label=320]
+	"Judith Cullity (1105)" -> "Kate Chaney (1108)" [label=68]
+	"Judith Cullity (1105)" -> "Dale Marie Grillo (1107)" [label=294]
+	"Bill Burn (1104)" -> "Ladeisha Louise Verhoeff (1103)" [label=199]
+	"Judith Cullity (1105)" -> "Ladeisha Louise Verhoeff (1103)" [label=197]
+	"Dale Marie Grillo (1107)" -> "Cameron Pidgeon (1110)" [label=81]
+	"Bill Burn (1104)" -> "Cameron Pidgeon (1110)" [label=127]
+	"Judith Cullity (1105)" -> "Cameron Pidgeon (1110)" [label=26]
+	"Ladeisha Louise Verhoeff (1103)" -> "Yannick Spencer (1109)" [label=211]
+	"Dale Marie Grillo (1107)" -> "Yannick Spencer (1109)" [label=83]
+	"Bill Burn (1104)" -> "Yannick Spencer (1109)" [label=186]
+	"Judith Cullity (1105)" -> "Yannick Spencer (1109)" [label=13]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoffrey Taylor (3083)_Dickson_2013" {
-	graph [label="Dickson 2013" labelloc=t mclimit=2]
+	graph [label="Dickson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoffrey Taylor (3083)" [label="Geoffrey Taylor (3083)
 Rise Up Australia Party"]

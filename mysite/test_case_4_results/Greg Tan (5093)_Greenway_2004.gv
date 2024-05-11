@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Tan (5093)_Greenway_2004" {
-	graph [label="Greenway 2004" labelloc=t mclimit=2]
+	graph [label="Greenway 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Tan (5093)" [label="Greg Tan (5093)
 Christian Democratic Party (Fred Nile Group)"]

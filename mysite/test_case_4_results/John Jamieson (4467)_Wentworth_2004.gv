@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Jamieson (4467)_Wentworth_2004" {
-	graph [label="Wentworth 2004" labelloc=t mclimit=2]
+	graph [label="Wentworth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Jamieson (4467)" [label="John Jamieson (4467)
 Citizens Electoral Council"]

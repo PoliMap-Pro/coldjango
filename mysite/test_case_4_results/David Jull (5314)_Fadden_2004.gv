@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Jull (5314)_Fadden_2004" {
-	graph [label="Fadden 2004" labelloc=t mclimit=2]
+	graph [label="Fadden 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Jull (5314)" [label="David Jull (5314)
 Liberal"]

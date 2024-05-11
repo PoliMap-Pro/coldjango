@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam La Rosa (798)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam La Rosa (798)" [label="Adam La Rosa (798)
 United Australia Party"]

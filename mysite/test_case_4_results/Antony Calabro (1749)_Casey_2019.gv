@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Antony Calabro (1749)_Casey_2019" {
-	graph [label="Casey 2019" labelloc=t mclimit=2]
+	graph [label="Casey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Antony Calabro (1749)" [label="Antony Calabro (1749)
 Rise Up Australia Party"]

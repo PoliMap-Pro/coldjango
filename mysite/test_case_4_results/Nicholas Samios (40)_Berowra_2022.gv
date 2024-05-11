@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicholas Samios (40)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicholas Samios (40)" [label="Nicholas Samios (40)
 Liberal Democrats"]

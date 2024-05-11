@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Coombe (2474)_Makin_2016" {
-	graph [label="Makin 2016" labelloc=t mclimit=2]
+	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Coombe (2474)" [label="Paul Coombe (2474)
 Family First"]

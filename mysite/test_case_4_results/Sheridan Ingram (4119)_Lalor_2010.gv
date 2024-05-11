@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sheridan Ingram (4119)_Lalor_2010" {
-	graph [label="Lalor 2010" labelloc=t mclimit=2]
+	graph [label="Lalor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sheridan Ingram (4119)" [label="Sheridan Ingram (4119)
 Liberal"]

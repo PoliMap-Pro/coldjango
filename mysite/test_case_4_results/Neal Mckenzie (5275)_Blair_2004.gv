@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neal Mckenzie (5275)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neal Mckenzie (5275)" [label="Neal Mckenzie (5275)
 Australian Democrats"]

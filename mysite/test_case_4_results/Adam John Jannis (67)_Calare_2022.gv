@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam John Jannis (67)_Calare_2022" {
-	graph [label="Calare 2022" labelloc=t mclimit=2]
+	graph [label="Calare 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam John Jannis (67)" [label="Adam John Jannis (67)
 United Australia Party"]

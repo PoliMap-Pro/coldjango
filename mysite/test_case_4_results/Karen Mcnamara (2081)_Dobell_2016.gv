@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Mcnamara (2081)_Dobell_2016" {
-	graph [label="Dobell 2016" labelloc=t mclimit=2]
+	graph [label="Dobell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Mcnamara (2081)" [label="Karen Mcnamara (2081)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Shave (5697)_Fremantle_2004" {
-	graph [label="Fremantle 2004" labelloc=t mclimit=2]
+	graph [label="Fremantle 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Shave (5697)" [label="Michelle Shave (5697)
 CDP Christian Party"]

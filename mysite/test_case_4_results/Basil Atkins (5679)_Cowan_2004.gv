@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Basil Atkins (5679)_Cowan_2004" {
-	graph [label="Cowan 2004" labelloc=t mclimit=2]
+	graph [label="Cowan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Basil Atkins (5679)" [label="Basil Atkins (5679)
 Citizens Electoral Council"]

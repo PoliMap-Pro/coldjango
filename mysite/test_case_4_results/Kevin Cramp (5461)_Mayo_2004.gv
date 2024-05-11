@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Cramp (5461)_Mayo_2004" {
-	graph [label="Mayo 2004" labelloc=t mclimit=2]
+	graph [label="Mayo 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Cramp (5461)" [label="Kevin Cramp (5461)
 Family First"]

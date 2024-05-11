@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacob Mathews (5591)_Isaacs_2004" {
-	graph [label="Isaacs 2004" labelloc=t mclimit=2]
+	graph [label="Isaacs 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacob Mathews (5591)" [label="Jacob Mathews (5591)
 Family First"]

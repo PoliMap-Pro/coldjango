@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Milan Maksimovic (2167)_McMahon_2016" {
-	graph [label="McMahon 2016" labelloc=t mclimit=2]
+	graph [label="McMahon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Milan Maksimovic (2167)" [label="Milan Maksimovic (2167)
 Christian Democratic Party (Fred Nile Group)"]

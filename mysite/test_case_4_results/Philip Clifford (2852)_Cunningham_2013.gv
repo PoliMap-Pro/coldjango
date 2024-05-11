@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Clifford (2852)_Cunningham_2013" {
-	graph [label="Cunningham 2013" labelloc=t mclimit=2]
+	graph [label="Cunningham 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Clifford (2852)" [label="Philip Clifford (2852)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carol Ordish (2960)_Page_2013" {
-	graph [label="Page 2013" labelloc=t mclimit=2]
+	graph [label="Page 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carol Ordish (2960)" [label="Carol Ordish (2960)
 Christian Democratic Party (Fred Nile Group)"]

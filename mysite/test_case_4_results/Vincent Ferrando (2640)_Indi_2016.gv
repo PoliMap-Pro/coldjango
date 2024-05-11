@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vincent Ferrando (2640)_Indi_2016" {
-	graph [label="Indi 2016" labelloc=t mclimit=2]
+	graph [label="Indi 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
 Rise Up Australia Party"]

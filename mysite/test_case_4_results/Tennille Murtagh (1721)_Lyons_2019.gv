@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tennille Murtagh (1721)_Lyons_2019" {
-	graph [label="Lyons 2019" labelloc=t mclimit=2]
+	graph [label="Lyons 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tennille Murtagh (1721)" [label="Tennille Murtagh (1721)
 Pauline Hanson's One Nation"]

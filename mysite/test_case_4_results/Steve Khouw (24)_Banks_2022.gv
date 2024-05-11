@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Khouw (24)_Banks_2022" {
-	graph [label="Banks 2022" labelloc=t mclimit=2]
+	graph [label="Banks 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Khouw (24)" [label="Steve Khouw (24)
 "]

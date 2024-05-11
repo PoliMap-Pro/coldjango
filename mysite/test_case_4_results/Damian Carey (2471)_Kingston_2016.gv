@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damian Carey (2471)_Kingston_2016" {
-	graph [label="Kingston 2016" labelloc=t mclimit=2]
+	graph [label="Kingston 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damian Carey (2471)" [label="Damian Carey (2471)
 Nick Xenophon Team"]

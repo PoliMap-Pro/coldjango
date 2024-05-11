@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John August (32)_Bennelong_2022" {
-	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John August (32)" [label="John August (32)
 FUSION: Science, Pirate, Secular, Climate Emergency"]

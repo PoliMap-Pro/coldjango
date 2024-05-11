@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rena Lee (4508)_Dawson_2007" {
-	graph [label="Dawson 2007" labelloc=t mclimit=2]
+	graph [label="Dawson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rena Lee (4508)" [label="Rena Lee (4508)
 Family First"]

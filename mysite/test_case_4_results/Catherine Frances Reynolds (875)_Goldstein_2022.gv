@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Catherine Frances Reynolds (875)_Goldstein_2022" {
-	graph [label="Goldstein 2022" labelloc=t mclimit=2]
+	graph [label="Goldstein 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
 United Australia Party"]

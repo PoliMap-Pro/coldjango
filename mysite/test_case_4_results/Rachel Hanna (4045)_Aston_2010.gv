@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rachel Hanna (4045)_Aston_2010" {
-	graph [label="Aston 2010" labelloc=t mclimit=2]
+	graph [label="Aston 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rachel Hanna (4045)" [label="Rachel Hanna (4045)
 Family First"]

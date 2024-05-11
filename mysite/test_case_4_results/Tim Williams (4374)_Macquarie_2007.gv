@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Tim Williams (4374)_Macquarie_2007" {
+	graph [label="Macquarie 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tim Williams (4374)" [label="Tim Williams (4374)
+Independent"]
+	"Robert Gifford (4370)" [label="Robert Gifford (4370)
+Christian Democratic Party (Fred Nile Group)"]
+	"Charles Liptak (3761)" [label="Charles Liptak (3761)
+Family First"]
+	"Kirk Fletcher (4369)" [label="Kirk Fletcher (4369)
+LDP"]
+	"Michael Segedin (4373)" [label="Michael Segedin (4373)
+Citizens Electoral Council"]
+	"Robert Gifford (4370)" -> "Tim Williams (4374)" [label=224]
+	"Charles Liptak (3761)" -> "Robert Gifford (4370)" [label=113]
+	"Kirk Fletcher (4369)" -> "Charles Liptak (3761)" [label=24]
+	"Michael Segedin (4373)" -> "Kirk Fletcher (4369)" [label=9]
+	"Charles Liptak (3761)" -> "Tim Williams (4374)" [label=88]
+	"Kirk Fletcher (4369)" -> "Tim Williams (4374)" [label=27]
+	"Michael Segedin (4373)" -> "Tim Williams (4374)" [label=18]
+	"Michael Segedin (4373)" -> "Charles Liptak (3761)" [label=11]
+	"Kirk Fletcher (4369)" -> "Robert Gifford (4370)" [label=206]
+	"Michael Segedin (4373)" -> "Robert Gifford (4370)" [label=7]
+}

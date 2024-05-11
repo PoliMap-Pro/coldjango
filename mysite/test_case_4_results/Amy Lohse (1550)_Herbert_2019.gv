@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amy Lohse (1550)_Herbert_2019" {
-	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amy Lohse (1550)" [label="Amy Lohse (1550)
 Pauline Hanson's One Nation"]

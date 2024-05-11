@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colin Richard Thompson (1506)_Dawson_2019" {
-	graph [label="Dawson 2019" labelloc=t mclimit=2]
+	graph [label="Dawson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colin Richard Thompson (1506)" [label="Colin Richard Thompson (1506)
 United Australia Party"]

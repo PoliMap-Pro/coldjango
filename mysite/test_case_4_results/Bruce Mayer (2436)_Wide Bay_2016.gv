@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Mayer (2436)_Wide Bay_2016" {
-	graph [label="Wide Bay 2016" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Mayer (2436)" [label="Bruce Mayer (2436)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rachel Richards (4793)_Gellibrand_2007" {
-	graph [label="Gellibrand 2007" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rachel Richards (4793)" [label="Rachel Richards (4793)
 Australian Democrats"]

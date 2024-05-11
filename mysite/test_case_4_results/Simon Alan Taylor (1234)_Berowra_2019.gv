@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Alan Taylor (1234)_Berowra_2019" {
-	graph [label="Berowra 2019" labelloc=t mclimit=2]
+	graph [label="Berowra 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Alan Taylor (1234)" [label="Simon Alan Taylor (1234)
 Christian Democratic Party (Fred Nile Group)"]

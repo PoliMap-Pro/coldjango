@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Celia Hammond (1106)_Curtin_2022" {
-	graph [label="Curtin 2022" labelloc=t mclimit=2]
+	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Celia Hammond (1106)" [label="Celia Hammond (1106)
 Liberal"]

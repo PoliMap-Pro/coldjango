@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janine Madill (5648)_Murray_2004" {
-	graph [label="Murray 2004" labelloc=t mclimit=2]
+	graph [label="Murray 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janine Madill (5648)" [label="Janine Madill (5648)
 Family First"]

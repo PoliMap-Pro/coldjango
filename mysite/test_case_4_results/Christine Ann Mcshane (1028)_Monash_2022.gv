@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Ann Mcshane (1028)_Monash_2022" {
-	graph [label="Monash 2022" labelloc=t mclimit=2]
+	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Ann Mcshane (1028)" [label="Christine Ann Mcshane (1028)
 United Australia Party"]

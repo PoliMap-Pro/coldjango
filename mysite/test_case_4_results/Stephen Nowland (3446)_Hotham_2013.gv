@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Nowland (3446)_Hotham_2013" {
-	graph [label="Hotham 2013" labelloc=t mclimit=2]
+	graph [label="Hotham 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Nowland (3446)" [label="Stephen Nowland (3446)
 Family First Party"]

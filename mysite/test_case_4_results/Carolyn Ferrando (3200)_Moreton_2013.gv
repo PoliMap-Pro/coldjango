@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carolyn Ferrando (3200)_Moreton_2013" {
-	graph [label="Moreton 2013" labelloc=t mclimit=2]
+	graph [label="Moreton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carolyn Ferrando (3200)" [label="Carolyn Ferrando (3200)
 Family First"]

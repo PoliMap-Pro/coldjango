@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Bryan Pettitt (1362)_Macquarie_2019" {
-	graph [label="Macquarie 2019" labelloc=t mclimit=2]
+	graph [label="Macquarie 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Bryan Pettitt (1362)" [label="Tony Bryan Pettitt (1362)
 United Australia Party"]

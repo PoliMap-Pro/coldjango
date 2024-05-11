@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Dobran (884)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=2]
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Dobran (884)" [label="Tony Dobran (884)
 The Great Australian Party"]

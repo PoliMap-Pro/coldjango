@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nikhil Aai Reddy (1620)_Petrie_2019" {
-	graph [label="Petrie 2019" labelloc=t mclimit=2]
+	graph [label="Petrie 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nikhil Aai Reddy (1620)" [label="Nikhil Aai Reddy (1620)
 Pauline Hanson's One Nation"]

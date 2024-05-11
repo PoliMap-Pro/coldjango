@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graham Mccallum (4430)_Richmond_2007" {
-	graph [label="Richmond 2007" labelloc=t mclimit=2]
+	graph [label="Richmond 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graham Mccallum (4430)" [label="Graham Mccallum (4430)
 Citizens Electoral Council"]

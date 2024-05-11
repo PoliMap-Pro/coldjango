@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharon Martin (2186)_North Sydney_2016" {
-	graph [label="North Sydney 2016" labelloc=t mclimit=2]
+	graph [label="North Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharon Martin (2186)" [label="Sharon Martin (2186)
 Christian Democratic Party (Fred Nile Group)"]

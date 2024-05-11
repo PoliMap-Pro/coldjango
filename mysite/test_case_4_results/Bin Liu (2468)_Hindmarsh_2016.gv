@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bin Liu (2468)_Hindmarsh_2016" {
-	graph [label="Hindmarsh 2016" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bin Liu (2468)" [label="Bin Liu (2468)
 Animal Justice Party"]

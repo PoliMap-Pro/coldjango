@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Mccracken (2568)_Chisholm_2016" {
-	graph [label="Chisholm 2016" labelloc=t mclimit=2]
+	graph [label="Chisholm 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Mccracken (2568)" [label="Craig Mccracken (2568)
 Family First Party"]

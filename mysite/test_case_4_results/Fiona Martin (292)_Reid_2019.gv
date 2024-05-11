@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Fiona Martin (292)_Reid_2019" {
-	graph [label="Reid 2019" labelloc=t mclimit=2]
+	graph [label="Reid 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Fiona Martin (292)" [label="Fiona Martin (292)
 Liberal"]

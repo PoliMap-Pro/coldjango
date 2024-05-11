@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Greg Sowden (3127)_Bonner_2010" {
+	graph [label="Bonner 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Greg Sowden (3127)" [label="Greg Sowden (3127)
+Independent"]
+	"Utz Wellner (3877)" [label="Utz Wellner (3877)
+D.L.P. - Democratic Labor Party"]
+	"Utz Wellner (3877)" -> "Greg Sowden (3127)" [label=90]
+}

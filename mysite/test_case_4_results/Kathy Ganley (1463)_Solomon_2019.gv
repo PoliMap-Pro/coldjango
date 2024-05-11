@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kathy Ganley (1463)_Solomon_2019" {
-	graph [label="Solomon 2019" labelloc=t mclimit=2]
+	graph [label="Solomon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kathy Ganley (1463)" [label="Kathy Ganley (1463)
 Country Liberals (NT)"]

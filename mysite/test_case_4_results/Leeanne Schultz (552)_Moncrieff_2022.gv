@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leeanne Schultz (552)_Moncrieff_2022" {
-	graph [label="Moncrieff 2022" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leeanne Schultz (552)" [label="Leeanne Schultz (552)
 Pauline Hanson's One Nation"]

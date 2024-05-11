@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Stephen Wells (5148)_Mackellar_2004" {
+	graph [label="Mackellar 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stephen Wells (5148)" [label="Stephen Wells (5148)
+Independent"]
+	"Mario Nicotra (5149)" [label="Mario Nicotra (5149)
+Australian Democrats"]
+	"Mario Nicotra (5149)" -> "Stephen Wells (5148)" [label=138]
+}

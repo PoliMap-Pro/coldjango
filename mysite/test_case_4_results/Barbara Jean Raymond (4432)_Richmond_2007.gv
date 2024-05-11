@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barbara Jean Raymond (4432)_Richmond_2007" {
-	graph [label="Richmond 2007" labelloc=t mclimit=2]
+	graph [label="Richmond 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barbara Jean Raymond (4432)" [label="Barbara Jean Raymond (4432)
 Christian Democratic Party (Fred Nile Group)"]

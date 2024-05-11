@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen John Stingel (3337)_Bendigo_2013" {
-	graph [label="Bendigo 2013" labelloc=t mclimit=2]
+	graph [label="Bendigo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen John Stingel (3337)" [label="Stephen John Stingel (3337)
 Katter's Australian Party"]

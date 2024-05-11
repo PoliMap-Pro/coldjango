@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Warren Mundine (1302)_Gilmore_2019" {
-	graph [label="Gilmore 2019" labelloc=t mclimit=2]
+	graph [label="Gilmore 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Warren Mundine (1302)" [label="Warren Mundine (1302)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Vale (2055)_Bradfield_2016" {
-	graph [label="Bradfield 2016" labelloc=t mclimit=2]
+	graph [label="Bradfield 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Vale (2055)" [label="Chris Vale (2055)
 Christian Democratic Party (Fred Nile Group)"]

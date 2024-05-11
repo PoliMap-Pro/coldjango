@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Siebert (5440)_Grey_2004" {
-	graph [label="Grey 2004" labelloc=t mclimit=2]
+	graph [label="Grey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Siebert (5440)" [label="Paul Siebert (5440)
 Citizens Electoral Council"]

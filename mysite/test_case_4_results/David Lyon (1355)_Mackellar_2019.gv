@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Lyon (1355)_Mackellar_2019" {
-	graph [label="Mackellar 2019" labelloc=t mclimit=2]
+	graph [label="Mackellar 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Lyon (1355)" [label="David Lyon (1355)
 United Australia Party"]

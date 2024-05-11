@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Evan Nickols (1181)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t mclimit=2]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Evan Nickols (1181)" [label="Evan Nickols (1181)
 Liberal Democrats"]

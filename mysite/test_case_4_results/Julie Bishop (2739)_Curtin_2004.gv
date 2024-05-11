@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Bishop (2739)_Curtin_2004" {
-	graph [label="Curtin 2004" labelloc=t mclimit=2]
+	graph [label="Curtin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Bishop (2739)" [label="Julie Bishop (2739)
 Liberal"]

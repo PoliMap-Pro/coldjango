@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graham Gallaher (1710)_Braddon_2019" {
-	graph [label="Braddon 2019" labelloc=t mclimit=2]
+	graph [label="Braddon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graham Gallaher (1710)" [label="Graham Gallaher (1710)
 Pauline Hanson's One Nation"]

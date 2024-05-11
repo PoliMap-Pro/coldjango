@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Thomas (232)_New England_2022" {
-	graph [label="New England 2022" labelloc=t mclimit=2]
+	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Thomas (232)" [label="Richard Thomas (232)
 Pauline Hanson's One Nation"]

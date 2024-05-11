@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Fletcher Davis (5542)_Dunkley_2004" {
+	graph [label="Dunkley 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Fletcher Davis (5542)" [label="Fletcher Davis (5542)
+Independent"]
+	"Gabrielle M Peut (5540)" [label="Gabrielle M Peut (5540)
+Citizens Electoral Council"]
+	"Gabrielle M Peut (5540)" -> "Fletcher Davis (5542)" [label=23]
+}

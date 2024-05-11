@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Thomas (4551)_Griffith_2007" {
-	graph [label="Griffith 2007" labelloc=t mclimit=2]
+	graph [label="Griffith 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Thomas (4551)" [label="Craig Thomas (4551)
 Liberal"]

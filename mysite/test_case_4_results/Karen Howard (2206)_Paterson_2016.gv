@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Howard (2206)_Paterson_2016" {
-	graph [label="Paterson 2016" labelloc=t mclimit=2]
+	graph [label="Paterson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Howard (2206)" [label="Karen Howard (2206)
 Liberal"]

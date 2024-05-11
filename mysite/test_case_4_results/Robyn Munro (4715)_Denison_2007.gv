@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robyn Munro (4715)_Denison_2007" {
-	graph [label="Denison 2007" labelloc=t mclimit=2]
+	graph [label="Denison 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robyn Munro (4715)" [label="Robyn Munro (4715)
 Family First"]

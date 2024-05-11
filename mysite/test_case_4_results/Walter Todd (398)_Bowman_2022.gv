@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Walter Todd (398)_Bowman_2022" {
-	graph [label="Bowman 2022" labelloc=t mclimit=2]
+	graph [label="Bowman 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Walter Todd (398)" [label="Walter Todd (398)
 Pauline Hanson's One Nation"]

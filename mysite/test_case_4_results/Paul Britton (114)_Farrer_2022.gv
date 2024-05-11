@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Britton (114)_Farrer_2022" {
-	graph [label="Farrer 2022" labelloc=t mclimit=2]
+	graph [label="Farrer 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Britton (114)" [label="Paul Britton (114)
 Shooters, Fishers and Farmers Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Bussa (3755)_Hughes_2010" {
-	graph [label="Hughes 2010" labelloc=t mclimit=2]
+	graph [label="Hughes 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Bussa (3755)" [label="Peter Bussa (3755)
 One Nation"]

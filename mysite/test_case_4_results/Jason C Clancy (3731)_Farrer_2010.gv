@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason C Clancy (3731)_Farrer_2010" {
-	graph [label="Farrer 2010" labelloc=t mclimit=2]
+	graph [label="Farrer 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason C Clancy (3731)" [label="Jason C Clancy (3731)
 "]

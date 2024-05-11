@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Naomi Johns (5295)_Capricornia_2004" {
-	graph [label="Capricornia 2004" labelloc=t mclimit=2]
+	graph [label="Capricornia 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Naomi Johns (5295)" [label="Naomi Johns (5295)
 Australian Democrats"]

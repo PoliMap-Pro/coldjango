@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glenn Vessey (895)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t mclimit=2]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glenn Vessey (895)" [label="Glenn Vessey (895)
 Citizens Party"]

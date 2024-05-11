@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anna Clare Ludvik (2191)_Page_2016" {
-	graph [label="Page 2016" labelloc=t mclimit=2]
+	graph [label="Page 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anna Clare Ludvik (2191)" [label="Anna Clare Ludvik (2191)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Reg Stewart Gilroy (5114)_Kingsford Smith_2004" {
-	graph [label="Kingsford Smith 2004" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Reg Stewart Gilroy (5114)" [label="Reg Stewart Gilroy (5114)
 No GST"]

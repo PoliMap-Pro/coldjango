@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Williams (3848)_Shortland_2010" {
-	graph [label="Shortland 2010" labelloc=t mclimit=2]
+	graph [label="Shortland 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Williams (3848)" [label="Peter Williams (3848)
 Secular Party of Australia"]

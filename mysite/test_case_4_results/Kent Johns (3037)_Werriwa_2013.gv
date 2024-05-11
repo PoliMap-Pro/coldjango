@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kent Johns (3037)_Werriwa_2013" {
-	graph [label="Werriwa 2013" labelloc=t mclimit=2]
+	graph [label="Werriwa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kent Johns (3037)" [label="Kent Johns (3037)
 Liberal"]

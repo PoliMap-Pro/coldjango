@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yusuf Tahir (4252)_Bennelong_2007" {
-	graph [label="Bennelong 2007" labelloc=t mclimit=2]
+	graph [label="Bennelong 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yusuf Tahir (4252)" [label="Yusuf Tahir (4252)
 "]

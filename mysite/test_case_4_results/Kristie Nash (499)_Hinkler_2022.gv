@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kristie Nash (499)_Hinkler_2022" {
-	graph [label="Hinkler 2022" labelloc=t mclimit=2]
+	graph [label="Hinkler 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kristie Nash (499)" [label="Kristie Nash (499)
 United Australia Party"]

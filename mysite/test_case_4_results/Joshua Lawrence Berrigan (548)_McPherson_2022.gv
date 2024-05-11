@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Lawrence Berrigan (548)_McPherson_2022" {
-	graph [label="McPherson 2022" labelloc=t mclimit=2]
+	graph [label="McPherson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Lawrence Berrigan (548)" [label="Joshua Lawrence Berrigan (548)
 United Australia Party"]

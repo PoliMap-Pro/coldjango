@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Robert Gordon (4134)_McEwen_2004" {
+	graph [label="McEwen 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Robert Gordon (4134)" [label="Robert Gordon (4134)
+Independent"]
+	"Mark Sach (5615)" [label="Mark Sach (5615)
+Family First"]
+	"Marj White (5617)" [label="Marj White (5617)
+Democrats"]
+	"Damon Gordon Lutz (5620)" [label="Damon Gordon Lutz (5620)
+Independent"]
+	"Maurie Smith (5618)" [label="Maurie Smith (5618)
+Independent"]
+	"Rod Mclennan (4861)" [label="Rod Mclennan (4861)
+Citizens Electoral Council"]
+	"Mark Sach (5615)" -> "Robert Gordon (4134)" [label=362]
+	"Marj White (5617)" -> "Mark Sach (5615)" [label=69]
+	"Damon Gordon Lutz (5620)" -> "Marj White (5617)" [label=23]
+	"Maurie Smith (5618)" -> "Damon Gordon Lutz (5620)" [label=64]
+	"Rod Mclennan (4861)" -> "Maurie Smith (5618)" [label=25]
+	"Marj White (5617)" -> "Robert Gordon (4134)" [label=212]
+	"Damon Gordon Lutz (5620)" -> "Robert Gordon (4134)" [label=174]
+	"Maurie Smith (5618)" -> "Robert Gordon (4134)" [label=79]
+	"Rod Mclennan (4861)" -> "Robert Gordon (4134)" [label=28]
+	"Rod Mclennan (4861)" -> "Damon Gordon Lutz (5620)" [label=8]
+	"Maurie Smith (5618)" -> "Marj White (5617)" [label=27]
+	"Rod Mclennan (4861)" -> "Marj White (5617)" [label=30]
+	"Damon Gordon Lutz (5620)" -> "Mark Sach (5615)" [label=25]
+	"Maurie Smith (5618)" -> "Mark Sach (5615)" [label=20]
+	"Rod Mclennan (4861)" -> "Mark Sach (5615)" [label=28]
+}

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Andrew James Phillips (4015)_Mayo_2010" {
+	graph [label="Mayo 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew James Phillips (4015)" [label="Andrew James Phillips (4015)
+Independent"]
+	"John Wesley Michelmore (4020)" [label="John Wesley Michelmore (4020)
+The Climate Sceptics"]
+	"John Wesley Michelmore (4020)" -> "Andrew James Phillips (4015)" [label=64]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Megan Deanne Searls (2560)_Calwell_2016" {
-	graph [label="Calwell 2016" labelloc=t mclimit=2]
+	graph [label="Calwell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Megan Deanne Searls (2560)" [label="Megan Deanne Searls (2560)
 Animal Justice Party"]

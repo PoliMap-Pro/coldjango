@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lisa Stark (874)_Goldstein_2022" {
-	graph [label="Goldstein 2022" labelloc=t mclimit=2]
+	graph [label="Goldstein 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lisa Stark (874)" [label="Lisa Stark (874)
 Pauline Hanson's One Nation"]

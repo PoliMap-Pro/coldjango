@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Cornish (5425)_Barker_2004" {
-	graph [label="Barker 2004" labelloc=t mclimit=2]
+	graph [label="Barker 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Cornish (5425)" [label="Philip Cornish (5425)
 Family First"]

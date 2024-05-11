@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda Nelson (5237)_Throsby_2004" {
-	graph [label="Throsby 2004" labelloc=t mclimit=2]
+	graph [label="Throsby 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda Nelson (5237)" [label="Linda Nelson (5237)
 Liberal"]

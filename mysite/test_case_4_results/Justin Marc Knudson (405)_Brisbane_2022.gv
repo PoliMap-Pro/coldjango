@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Justin Marc Knudson (405)_Brisbane_2022" {
-	graph [label="Brisbane 2022" labelloc=t mclimit=2]
+	graph [label="Brisbane 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Justin Marc Knudson (405)" [label="Justin Marc Knudson (405)
 United Australia Party"]

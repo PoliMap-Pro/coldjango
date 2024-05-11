@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maxwell Gratton (5502)_Batman_2004" {
-	graph [label="Batman 2004" labelloc=t mclimit=2]
+	graph [label="Batman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maxwell Gratton (5502)" [label="Maxwell Gratton (5502)
 Liberal"]

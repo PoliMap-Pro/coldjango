@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Harrison Carr (823)_Deakin_2022" {
-	graph [label="Deakin 2022" labelloc=t mclimit=2]
+	graph [label="Deakin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Harrison Carr (823)" [label="Harrison Carr (823)
 Liberal Democrats"]

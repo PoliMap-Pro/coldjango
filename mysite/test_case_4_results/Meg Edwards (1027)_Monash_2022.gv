@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Meg Edwards (1027)_Monash_2022" {
-	graph [label="Monash 2022" labelloc=t mclimit=2]
+	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Meg Edwards (1027)" [label="Meg Edwards (1027)
 Liberal Democrats"]

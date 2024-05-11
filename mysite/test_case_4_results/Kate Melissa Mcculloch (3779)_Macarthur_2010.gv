@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kate Melissa Mcculloch (3779)_Macarthur_2010" {
-	graph [label="Macarthur 2010" labelloc=t mclimit=2]
+	graph [label="Macarthur 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kate Melissa Mcculloch (3779)" [label="Kate Melissa Mcculloch (3779)
 One Nation"]

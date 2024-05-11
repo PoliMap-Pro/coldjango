@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Wheeler (365)_Whitlam_2022" {
-	graph [label="Whitlam 2022" labelloc=t mclimit=2]
+	graph [label="Whitlam 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Wheeler (365)" [label="Michael Wheeler (365)
 Liberal Democrats"]

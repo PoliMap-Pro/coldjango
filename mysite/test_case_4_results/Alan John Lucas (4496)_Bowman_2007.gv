@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan John Lucas (4496)_Bowman_2007" {
-	graph [label="Bowman 2007" labelloc=t mclimit=2]
+	graph [label="Bowman 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan John Lucas (4496)" [label="Alan John Lucas (4496)
 Family First"]

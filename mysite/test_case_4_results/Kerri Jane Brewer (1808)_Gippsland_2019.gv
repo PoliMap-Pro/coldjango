@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kerri Jane Brewer (1808)_Gippsland_2019" {
-	graph [label="Gippsland 2019" labelloc=t mclimit=2]
+	graph [label="Gippsland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kerri Jane Brewer (1808)" [label="Kerri Jane Brewer (1808)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amanda Excell (2511)_Denison_2016" {
-	graph [label="Denison 2016" labelloc=t mclimit=2]
+	graph [label="Denison 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amanda Excell (2511)" [label="Amanda Excell (2511)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deanna Kangas (1647)_Adelaide_2019" {
-	graph [label="Adelaide 2019" labelloc=t mclimit=2]
+	graph [label="Adelaide 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deanna Kangas (1647)" [label="Deanna Kangas (1647)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ray Levick (4260)_Berowra_2007" {
-	graph [label="Berowra 2007" labelloc=t mclimit=2]
+	graph [label="Berowra 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ray Levick (4260)" [label="Ray Levick (4260)
 Christian Democratic Party (Fred Nile Group)"]

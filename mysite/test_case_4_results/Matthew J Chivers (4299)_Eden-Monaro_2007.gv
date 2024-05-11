@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew J Chivers (4299)_Eden-Monaro_2007" {
-	graph [label="Eden-Monaro 2007" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew J Chivers (4299)" [label="Matthew J Chivers (4299)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Pech (4892)_Wannon_2007" {
-	graph [label="Wannon 2007" labelloc=t mclimit=2]
+	graph [label="Wannon 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Pech (4892)" [label="Daniel Pech (4892)
 Family First"]

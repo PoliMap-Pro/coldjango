@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Dudley (3450)_Indi_2013" {
-	graph [label="Indi 2013" labelloc=t mclimit=2]
+	graph [label="Indi 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Dudley (3450)" [label="Robert Dudley (3450)
 Rise Up Australia Party"]

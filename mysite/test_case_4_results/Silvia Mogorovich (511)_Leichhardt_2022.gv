@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Silvia Mogorovich (511)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Silvia Mogorovich (511)" [label="Silvia Mogorovich (511)
 Informed Medical Options Party"]

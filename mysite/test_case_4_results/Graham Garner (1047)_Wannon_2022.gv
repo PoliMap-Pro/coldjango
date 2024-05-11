@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Graham Garner (1047)_Wannon_2022" {
+	graph [label="Wannon 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Graham Garner (1047)" [label="Graham Garner (1047)
+Independent"]
+	"Amanda Mead (1053)" [label="Amanda Mead (1053)
+Liberal Democrats"]
+	"Amanda Mead (1053)" -> "Graham Garner (1047)" [label=168]
+}

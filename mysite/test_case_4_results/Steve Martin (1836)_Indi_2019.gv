@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Martin (1836)_Indi_2019" {
-	graph [label="Indi 2019" labelloc=t mclimit=2]
+	graph [label="Indi 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Martin (1836)" [label="Steve Martin (1836)
 Liberal"]

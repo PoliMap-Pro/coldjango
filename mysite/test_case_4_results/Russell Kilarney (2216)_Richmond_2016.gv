@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell Kilarney (2216)_Richmond_2016" {
-	graph [label="Richmond 2016" labelloc=t mclimit=2]
+	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell Kilarney (2216)" [label="Russell Kilarney (2216)
 Christian Democratic Party (Fred Nile Group)"]

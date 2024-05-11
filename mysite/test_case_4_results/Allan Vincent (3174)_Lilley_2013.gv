@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan Vincent (3174)_Lilley_2013" {
-	graph [label="Lilley 2013" labelloc=t mclimit=2]
+	graph [label="Lilley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan Vincent (3174)" [label="Allan Vincent (3174)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robbie Williams (3079)_Capricornia_2013" {
-	graph [label="Capricornia 2013" labelloc=t mclimit=2]
+	graph [label="Capricornia 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robbie Williams (3079)" [label="Robbie Williams (3079)
 Katter's Australian Party"]

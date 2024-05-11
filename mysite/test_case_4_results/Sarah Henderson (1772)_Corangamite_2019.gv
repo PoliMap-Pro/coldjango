@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Henderson (1772)_Corangamite_2019" {
-	graph [label="Corangamite 2019" labelloc=t mclimit=2]
+	graph [label="Corangamite 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Henderson (1772)" [label="Sarah Henderson (1772)
 Liberal"]

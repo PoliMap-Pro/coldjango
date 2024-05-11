@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Margaret Dodd (5676)_Canning_2004" {
+	graph [label="Canning 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Margaret Dodd (5676)" [label="Margaret Dodd (5676)
+Independent"]
+	"Tony Bennell (5677)" [label="Tony Bennell (5677)
+Australian Democrats"]
+	"Bev Custers (3601)" [label="Bev Custers (3601)
+Family First"]
+	"Brian Mccarthy (5673)" [label="Brian Mccarthy (5673)
+Citizens Electoral Council"]
+	"Tony Bennell (5677)" -> "Margaret Dodd (5676)" [label=161]
+	"Bev Custers (3601)" -> "Tony Bennell (5677)" [label=16]
+	"Brian Mccarthy (5673)" -> "Bev Custers (3601)" [label=34]
+	"Bev Custers (3601)" -> "Margaret Dodd (5676)" [label=110]
+	"Brian Mccarthy (5673)" -> "Margaret Dodd (5676)" [label=47]
+	"Brian Mccarthy (5673)" -> "Tony Bennell (5677)" [label=23]
+}

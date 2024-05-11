@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Fraser (3031)_Watson_2013" {
-	graph [label="Watson 2013" labelloc=t mclimit=2]
+	graph [label="Watson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Fraser (3031)" [label="David Fraser (3031)
 Christian Democratic Party (Fred Nile Group)"]

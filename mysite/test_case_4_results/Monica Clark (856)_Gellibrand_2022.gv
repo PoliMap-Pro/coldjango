@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Monica Clark (856)_Gellibrand_2022" {
-	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Monica Clark (856)" [label="Monica Clark (856)
 Liberal"]

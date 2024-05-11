@@ -1,0 +1,14 @@
+// House preference flow
+digraph "F Ivor (4321)_Greenway_2004" {
+	graph [label="Greenway 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"F Ivor (4321)" [label="F Ivor (4321)
+Independent"]
+	"Amarjit Tanda (3752)" [label="Amarjit Tanda (3752)
+Independent"]
+	"Goran Reves (4323)" [label="Goran Reves (4323)
+Citizens Electoral Council"]
+	"Amarjit Tanda (3752)" -> "F Ivor (4321)" [label=35]
+	"Goran Reves (4323)" -> "Amarjit Tanda (3752)" [label=5]
+	"Goran Reves (4323)" -> "F Ivor (4321)" [label=7]
+}

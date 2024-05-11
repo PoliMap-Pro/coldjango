@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Andrew Woodman (2029)_Fenner_2016" {
+	graph [label="Fenner 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Andrew Woodman (2029)" [label="Andrew Woodman (2029)
+Independent"]
+	"Tim Bohm (10)" [label="Tim Bohm (10)
+Bullet Train For Australia"]
+	"Tim Bohm (10)" -> "Andrew Woodman (2029)" [label=1324]
+}

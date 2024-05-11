@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kathy Scarborough (686)_Sturt_2022" {
-	graph [label="Sturt 2022" labelloc=t mclimit=2]
+	graph [label="Sturt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kathy Scarborough (686)" [label="Kathy Scarborough (686)
 Australian Federation Party"]

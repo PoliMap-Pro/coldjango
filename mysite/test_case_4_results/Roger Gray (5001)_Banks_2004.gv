@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Gray (5001)_Banks_2004" {
-	graph [label="Banks 2004" labelloc=t mclimit=2]
+	graph [label="Banks 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Gray (5001)" [label="Roger Gray (5001)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rick Leeworthy (3451)_Indi_2013" {
-	graph [label="Indi 2013" labelloc=t mclimit=2]
+	graph [label="Indi 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rick Leeworthy (3451)" [label="Rick Leeworthy (3451)
 Family First Party"]

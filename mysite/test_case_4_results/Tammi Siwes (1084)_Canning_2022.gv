@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tammi Siwes (1084)_Canning_2022" {
-	graph [label="Canning 2022" labelloc=t mclimit=2]
+	graph [label="Canning 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tammi Siwes (1084)" [label="Tammi Siwes (1084)
 Pauline Hanson's One Nation"]

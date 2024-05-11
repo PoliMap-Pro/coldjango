@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Fiona Kay Mackenzie (1600)_McPherson_2019" {
-	graph [label="McPherson 2019" labelloc=t mclimit=2]
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Fiona Kay Mackenzie (1600)" [label="Fiona Kay Mackenzie (1600)
 United Australia Party"]

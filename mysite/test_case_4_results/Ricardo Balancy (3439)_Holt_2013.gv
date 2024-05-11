@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ricardo Balancy (3439)_Holt_2013" {
-	graph [label="Holt 2013" labelloc=t mclimit=2]
+	graph [label="Holt 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ricardo Balancy (3439)" [label="Ricardo Balancy (3439)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Kertesz (3135)_Griffith_2013" {
-	graph [label="Griffith 2013" labelloc=t mclimit=2]
+	graph [label="Griffith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Kertesz (3135)" [label="Adam Kertesz (3135)
 Family First"]

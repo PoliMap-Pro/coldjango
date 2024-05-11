@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Leayr (3768)_Hunter_2010" {
-	graph [label="Hunter 2010" labelloc=t mclimit=2]
+	graph [label="Hunter 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Leayr (3768)" [label="Jennifer Leayr (3768)
 One Nation"]

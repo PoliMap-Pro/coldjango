@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Acacia Rose (4298)_Eden-Monaro_2007" {
+	graph [label="Eden-Monaro 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Acacia Rose (4298)" [label="Acacia Rose (4298)
+Independent"]
+	"Matthew J Chivers (4299)" [label="Matthew J Chivers (4299)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Robert Harris (4300)" [label="Peter Robert Harris (4300)
+Family First"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+LDP"]
+	"Matthew J Chivers (4299)" -> "Acacia Rose (4298)" [label=142]
+	"Peter Robert Harris (4300)" -> "Matthew J Chivers (4299)" [label=168]
+	"Tim Quilty (2636)" -> "Peter Robert Harris (4300)" [label=19]
+	"Peter Robert Harris (4300)" -> "Acacia Rose (4298)" [label=96]
+	"Tim Quilty (2636)" -> "Acacia Rose (4298)" [label=51]
+	"Tim Quilty (2636)" -> "Matthew J Chivers (4299)" [label=8]
+}

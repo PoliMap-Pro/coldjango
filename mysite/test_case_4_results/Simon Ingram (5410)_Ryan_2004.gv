@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Ingram (5410)_Ryan_2004" {
-	graph [label="Ryan 2004" labelloc=t mclimit=2]
+	graph [label="Ryan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Ingram (5410)" [label="Simon Ingram (5410)
 Australian Democrats"]

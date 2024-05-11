@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Orchard (305)_Riverina_2022" {
-	graph [label="Riverina 2022" labelloc=t mclimit=2]
+	graph [label="Riverina 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Orchard (305)" [label="Richard Orchard (305)
 Pauline Hanson's One Nation"]

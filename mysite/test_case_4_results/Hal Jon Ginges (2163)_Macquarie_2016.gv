@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hal Jon Ginges (2163)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t mclimit=2]
+	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
 Animal Justice Party"]

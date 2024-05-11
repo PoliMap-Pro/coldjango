@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Isabelle White (2837)_Chifley_2013" {
-	graph [label="Chifley 2013" labelloc=t mclimit=2]
+	graph [label="Chifley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Isabelle White (2837)" [label="Isabelle White (2837)
 Liberal"]

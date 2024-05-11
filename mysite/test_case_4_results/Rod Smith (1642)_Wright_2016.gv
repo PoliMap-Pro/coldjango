@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Smith (1642)_Wright_2016" {
-	graph [label="Wright 2016" labelloc=t mclimit=2]
+	graph [label="Wright 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Smith (1642)" [label="Rod Smith (1642)
 Pauline Hanson's One Nation"]

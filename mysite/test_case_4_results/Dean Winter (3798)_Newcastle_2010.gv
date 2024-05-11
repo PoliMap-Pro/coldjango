@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dean Winter (3798)_Newcastle_2010" {
-	graph [label="Newcastle 2010" labelloc=t mclimit=2]
+	graph [label="Newcastle 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dean Winter (3798)" [label="Dean Winter (3798)
 Australian Democrats"]

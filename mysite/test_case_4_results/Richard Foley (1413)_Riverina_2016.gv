@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Richard Foley (1413)_Riverina_2016" {
+	graph [label="Riverina 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Richard Foley (1413)" [label="Richard Foley (1413)
+Independent"]
+	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
+The Greens"]
+	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
+Family First"]
+	"Philip Langfield (1287)" [label="Philip Langfield (1287)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kevin Poynter (2219)" -> "Richard Foley (1413)" [label=1391]
+	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
+	"Philip Langfield (1287)" -> "Glenn O'Rourke (2218)" [label=927]
+	"Glenn O'Rourke (2218)" -> "Richard Foley (1413)" [label=1353]
+	"Philip Langfield (1287)" -> "Richard Foley (1413)" [label=413]
+	"Philip Langfield (1287)" -> "Kevin Poynter (2219)" [label=72]
+}

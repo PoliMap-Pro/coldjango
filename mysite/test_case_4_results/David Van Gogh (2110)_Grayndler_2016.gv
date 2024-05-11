@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Van Gogh (2110)_Grayndler_2016" {
-	graph [label="Grayndler 2016" labelloc=t mclimit=2]
+	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Van Gogh (2110)" [label="David Van Gogh (2110)
 Liberal"]

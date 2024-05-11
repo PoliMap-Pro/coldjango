@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ari Katsoulas (4284)_Cook_2007" {
-	graph [label="Cook 2007" labelloc=t mclimit=2]
+	graph [label="Cook 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ari Katsoulas (4284)" [label="Ari Katsoulas (4284)
 Family First"]

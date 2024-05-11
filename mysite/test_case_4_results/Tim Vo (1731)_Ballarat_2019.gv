@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Vo (1731)_Ballarat_2019" {
-	graph [label="Ballarat 2019" labelloc=t mclimit=2]
+	graph [label="Ballarat 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Vo (1731)" [label="Tim Vo (1731)
 Liberal"]

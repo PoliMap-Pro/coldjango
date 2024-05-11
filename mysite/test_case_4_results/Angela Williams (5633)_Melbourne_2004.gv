@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Williams (5633)_Melbourne_2004" {
-	graph [label="Melbourne 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Williams (5633)" [label="Angela Williams (5633)
 Democrats"]

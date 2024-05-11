@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dennis Slape (4647)_Adelaide_2007" {
-	graph [label="Adelaide 2007" labelloc=t mclimit=2]
+	graph [label="Adelaide 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dennis Slape (4647)" [label="Dennis Slape (4647)
 Family First Party"]

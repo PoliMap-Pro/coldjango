@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Victor Kline (246)_North Sydney_2022" {
-	graph [label="North Sydney 2022" labelloc=t mclimit=2]
+	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Victor Kline (246)" [label="Victor Kline (246)
 TNL"]

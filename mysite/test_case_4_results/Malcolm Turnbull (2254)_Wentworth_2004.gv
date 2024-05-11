@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm Turnbull (2254)_Wentworth_2004" {
-	graph [label="Wentworth 2004" labelloc=t mclimit=2]
+	graph [label="Wentworth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm Turnbull (2254)" [label="Malcolm Turnbull (2254)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marijanna Smith (1145)_Hasluck_2022" {
-	graph [label="Hasluck 2022" labelloc=t mclimit=2]
+	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marijanna Smith (1145)" [label="Marijanna Smith (1145)
 Australian Federation Party"]

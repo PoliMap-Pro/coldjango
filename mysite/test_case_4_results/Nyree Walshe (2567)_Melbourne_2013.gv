@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nyree Walshe (2567)_Melbourne_2013" {
-	graph [label="Melbourne 2013" labelloc=t mclimit=2]
+	graph [label="Melbourne 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nyree Walshe (2567)" [label="Nyree Walshe (2567)
 Animal Justice Party"]

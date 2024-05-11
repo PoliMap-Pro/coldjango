@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Majella Zimpel (1472)_Blair_2019" {
-	graph [label="Blair 2019" labelloc=t mclimit=2]
+	graph [label="Blair 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Majella Zimpel (1472)" [label="Majella Zimpel (1472)
 United Australia Party"]

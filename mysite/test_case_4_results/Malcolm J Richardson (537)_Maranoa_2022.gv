@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm J Richardson (537)_Maranoa_2022" {
-	graph [label="Maranoa 2022" labelloc=t mclimit=2]
+	graph [label="Maranoa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm J Richardson (537)" [label="Malcolm J Richardson (537)
 Shooters, Fishers and Farmers Party"]

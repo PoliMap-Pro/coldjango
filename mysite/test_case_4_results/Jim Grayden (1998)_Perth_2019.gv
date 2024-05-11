@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Grayden (1998)_Perth_2019" {
-	graph [label="Perth 2019" labelloc=t mclimit=2]
+	graph [label="Perth 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Grayden (1998)" [label="Jim Grayden (1998)
 Liberal"]

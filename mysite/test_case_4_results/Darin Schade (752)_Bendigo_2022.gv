@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darin Schade (752)_Bendigo_2022" {
-	graph [label="Bendigo 2022" labelloc=t mclimit=2]
+	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darin Schade (752)" [label="Darin Schade (752)
 Liberal"]

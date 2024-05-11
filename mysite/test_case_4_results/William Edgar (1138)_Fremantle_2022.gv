@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Edgar (1138)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Edgar (1138)" [label="William Edgar (1138)
 Pauline Hanson's One Nation"]

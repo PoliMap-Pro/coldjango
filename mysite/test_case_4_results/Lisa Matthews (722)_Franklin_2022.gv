@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lisa Matthews (722)_Franklin_2022" {
-	graph [label="Franklin 2022" labelloc=t mclimit=2]
+	graph [label="Franklin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lisa Matthews (722)" [label="Lisa Matthews (722)
 United Australia Party"]

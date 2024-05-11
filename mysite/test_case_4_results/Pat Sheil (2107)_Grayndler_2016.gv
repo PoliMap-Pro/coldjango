@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Sheil (2107)_Grayndler_2016" {
-	graph [label="Grayndler 2016" labelloc=t mclimit=2]
+	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Sheil (2107)" [label="Pat Sheil (2107)
 Australian Sex Party"]

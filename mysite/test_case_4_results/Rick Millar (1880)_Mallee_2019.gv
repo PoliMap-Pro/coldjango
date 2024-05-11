@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rick Millar (1880)_Mallee_2019" {
-	graph [label="Mallee 2019" labelloc=t mclimit=2]
+	graph [label="Mallee 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rick Millar (1880)" [label="Rick Millar (1880)
 United Australia Party"]

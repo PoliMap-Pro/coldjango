@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rebekha Sharkie (668)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rebekha Sharkie (668)" [label="Rebekha Sharkie (668)
 Centre Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Corica (3642)_Pearce_2013" {
-	graph [label="Pearce 2013" labelloc=t mclimit=2]
+	graph [label="Pearce 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Corica (3642)" [label="Matthew Corica (3642)
 Australian Democrats"]

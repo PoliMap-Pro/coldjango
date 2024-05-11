@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brenden Hatton (1955)_Durack_2019" {
-	graph [label="Durack 2019" labelloc=t mclimit=2]
+	graph [label="Durack 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
 United Australia Party"]

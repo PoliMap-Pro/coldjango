@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Debera Anne (976)_Macnamara_2022" {
-	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	graph [label="Macnamara 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Debera Anne (976)" [label="Debera Anne (976)
 Pauline Hanson's One Nation"]

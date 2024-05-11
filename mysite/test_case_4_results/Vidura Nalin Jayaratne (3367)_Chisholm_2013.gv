@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vidura Nalin Jayaratne (3367)_Chisholm_2013" {
-	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	graph [label="Chisholm 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vidura Nalin Jayaratne (3367)" [label="Vidura Nalin Jayaratne (3367)
 Secular Party of Australia"]

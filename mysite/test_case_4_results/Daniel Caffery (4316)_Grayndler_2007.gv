@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Caffery (4316)_Grayndler_2007" {
-	graph [label="Grayndler 2007" labelloc=t mclimit=2]
+	graph [label="Grayndler 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Caffery (4316)" [label="Daniel Caffery (4316)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Don Walters (4863)_McMillan_2007" {
-	graph [label="McMillan 2007" labelloc=t mclimit=2]
+	graph [label="McMillan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Don Walters (4863)" [label="Don Walters (4863)
 Australian Democrats"]

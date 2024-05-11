@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Suduk (388)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t mclimit=2]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Suduk (388)" [label="Liz Suduk (388)
 Pauline Hanson's One Nation"]

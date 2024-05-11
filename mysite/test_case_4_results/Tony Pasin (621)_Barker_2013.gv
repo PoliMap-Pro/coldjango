@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Pasin (621)_Barker_2013" {
-	graph [label="Barker 2013" labelloc=t mclimit=2]
+	graph [label="Barker 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Pasin (621)" [label="Tony Pasin (621)
 Liberal"]

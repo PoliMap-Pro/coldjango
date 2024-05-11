@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ray Bradbury (5733)_Perth_2004" {
-	graph [label="Perth 2004" labelloc=t mclimit=2]
+	graph [label="Perth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ray Bradbury (5733)" [label="Ray Bradbury (5733)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracey Bell-Henselin (302)_Fisher_2016" {
-	graph [label="Fisher 2016" labelloc=t mclimit=2]
+	graph [label="Fisher 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracey Bell-Henselin (302)" [label="Tracey Bell-Henselin (302)
 Rise Up Australia Party"]

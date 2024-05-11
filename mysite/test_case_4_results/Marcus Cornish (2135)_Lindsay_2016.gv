@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marcus Cornish (2135)_Lindsay_2016" {
-	graph [label="Lindsay 2016" labelloc=t mclimit=2]
+	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marcus Cornish (2135)" [label="Marcus Cornish (2135)
 "]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Stone (5663)_Wills_2004" {
-	graph [label="Wills 2004" labelloc=t mclimit=2]
+	graph [label="Wills 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Stone (5663)" [label="Robert Stone (5663)
 Democrats"]

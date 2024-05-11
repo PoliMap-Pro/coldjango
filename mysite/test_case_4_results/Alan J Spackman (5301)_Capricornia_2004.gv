@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan J Spackman (5301)_Capricornia_2004" {
-	graph [label="Capricornia 2004" labelloc=t mclimit=2]
+	graph [label="Capricornia 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan J Spackman (5301)" [label="Alan J Spackman (5301)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keith Hicks (605)_Wright_2022" {
-	graph [label="Wright 2022" labelloc=t mclimit=2]
+	graph [label="Wright 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keith Hicks (605)" [label="Keith Hicks (605)
 Pauline Hanson's One Nation"]

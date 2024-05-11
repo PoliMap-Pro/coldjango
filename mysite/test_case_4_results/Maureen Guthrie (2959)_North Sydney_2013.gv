@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maureen Guthrie (2959)_North Sydney_2013" {
-	graph [label="North Sydney 2013" labelloc=t mclimit=2]
+	graph [label="North Sydney 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maureen Guthrie (2959)" [label="Maureen Guthrie (2959)
 Christian Democratic Party (Fred Nile Group)"]

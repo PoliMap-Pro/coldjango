@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Hurst (2104)_Grayndler_2016" {
-	graph [label="Grayndler 2016" labelloc=t mclimit=2]
+	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Hurst (2104)" [label="Emma Hurst (2104)
 Animal Justice Party"]

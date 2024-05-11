@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aubrey Clark (4590)_Lilley_2007" {
-	graph [label="Lilley 2007" labelloc=t mclimit=2]
+	graph [label="Lilley 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aubrey Clark (4590)" [label="Aubrey Clark (4590)
 LDP"]

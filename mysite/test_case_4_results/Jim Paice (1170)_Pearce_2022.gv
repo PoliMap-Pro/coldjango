@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Paice (1170)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Paice (1170)" [label="Jim Paice (1170)
 WESTERN AUSTRALIA PARTY"]

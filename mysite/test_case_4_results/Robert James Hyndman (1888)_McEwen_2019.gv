@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Robert James Hyndman (1888)_McEwen_2019" {
+	graph [label="McEwen 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Robert James Hyndman (1888)" [label="Robert James Hyndman (1888)
+Independent"]
+}

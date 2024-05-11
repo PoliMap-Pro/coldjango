@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Stone (1665)_Grey_2019" {
-	graph [label="Grey 2019" labelloc=t mclimit=2]
+	graph [label="Grey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Stone (1665)" [label="David Stone (1665)
 Pauline Hanson's One Nation"]

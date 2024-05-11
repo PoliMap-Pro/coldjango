@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Lake (4070)_Aston_2007" {
-	graph [label="Aston 2007" labelloc=t mclimit=2]
+	graph [label="Aston 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Lake (4070)" [label="Peter Lake (4070)
 Family First"]

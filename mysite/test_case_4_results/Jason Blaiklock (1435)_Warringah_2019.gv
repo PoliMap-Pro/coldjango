@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Blaiklock (1435)_Warringah_2019" {
-	graph [label="Warringah 2019" labelloc=t mclimit=2]
+	graph [label="Warringah 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Blaiklock (1435)" [label="Jason Blaiklock (1435)
 Christian Democratic Party (Fred Nile Group)"]

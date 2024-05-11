@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Griffiths (5181)_Page_2004" {
-	graph [label="Page 2004" labelloc=t mclimit=2]
+	graph [label="Page 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Griffiths (5181)" [label="Angela Griffiths (5181)
 Citizens Electoral Council"]

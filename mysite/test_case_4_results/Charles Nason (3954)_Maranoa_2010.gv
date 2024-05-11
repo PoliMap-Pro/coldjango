@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Charles Nason (3954)_Maranoa_2010" {
+	graph [label="Maranoa 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Charles Nason (3954)" [label="Charles Nason (3954)
+Independent"]
+	"Grant Newson (3181)" [label="Grant Newson (3181)
+The Greens"]
+	"Greg Mckay (3952)" [label="Greg Mckay (3952)
+Family First"]
+	"Grant Newson (3181)" -> "Charles Nason (3954)" [label=1677]
+	"Greg Mckay (3952)" -> "Grant Newson (3181)" [label=597]
+	"Greg Mckay (3952)" -> "Charles Nason (3954)" [label=1073]
+}

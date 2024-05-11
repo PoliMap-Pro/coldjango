@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Weller (5072)_Farrer_2004" {
-	graph [label="Farrer 2004" labelloc=t mclimit=2]
+	graph [label="Farrer 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Weller (5072)" [label="Jennifer Weller (5072)
 Family First"]

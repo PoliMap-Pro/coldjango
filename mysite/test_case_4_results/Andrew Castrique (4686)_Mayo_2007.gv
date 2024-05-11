@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Castrique (4686)_Mayo_2007" {
-	graph [label="Mayo 2007" labelloc=t mclimit=2]
+	graph [label="Mayo 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Castrique (4686)" [label="Andrew Castrique (4686)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Freeman (274)_Parramatta_2022" {
-	graph [label="Parramatta 2022" labelloc=t mclimit=2]
+	graph [label="Parramatta 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Freeman (274)" [label="Heather Freeman (274)
 Pauline Hanson's One Nation"]

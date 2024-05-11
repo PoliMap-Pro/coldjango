@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Monica Shepherd (297)_Richmond_2022" {
-	graph [label="Richmond 2022" labelloc=t mclimit=2]
+	graph [label="Richmond 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Monica Shepherd (297)" [label="Monica Shepherd (297)
 Informed Medical Options Party"]

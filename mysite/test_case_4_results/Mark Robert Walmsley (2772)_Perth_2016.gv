@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Robert Walmsley (2772)_Perth_2016" {
-	graph [label="Perth 2016" labelloc=t mclimit=2]
+	graph [label="Perth 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Robert Walmsley (2772)" [label="Mark Robert Walmsley (2772)
 Liberal Democrats"]

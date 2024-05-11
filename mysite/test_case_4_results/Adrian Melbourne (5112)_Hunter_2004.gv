@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Melbourne (5112)_Hunter_2004" {
-	graph [label="Hunter 2004" labelloc=t mclimit=2]
+	graph [label="Hunter 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Melbourne (5112)" [label="Adrian Melbourne (5112)
 Christian Democratic Party (Fred Nile Group)"]

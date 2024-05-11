@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Myles King (4766)_Chisholm_2007" {
-	graph [label="Chisholm 2007" labelloc=t mclimit=2]
+	graph [label="Chisholm 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Myles King (4766)" [label="Myles King (4766)
 Liberal"]

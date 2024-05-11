@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jina Lipman (588)_Ryan_2022" {
-	graph [label="Ryan 2022" labelloc=t mclimit=2]
+	graph [label="Ryan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jina Lipman (588)" [label="Jina Lipman (588)
 Animal Justice Party"]

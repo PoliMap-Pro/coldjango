@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tom Flanagan (5185)_Page_2004" {
-	graph [label="Page 2004" labelloc=t mclimit=2]
+	graph [label="Page 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tom Flanagan (5185)" [label="Tom Flanagan (5185)
 Socialist Alliance"]

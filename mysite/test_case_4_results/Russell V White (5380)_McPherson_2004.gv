@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell V White (5380)_McPherson_2004" {
-	graph [label="McPherson 2004" labelloc=t mclimit=2]
+	graph [label="McPherson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell V White (5380)" [label="Russell V White (5380)
 Australian Democrats"]

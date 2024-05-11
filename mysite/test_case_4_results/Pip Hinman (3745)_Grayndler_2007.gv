@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pip Hinman (3745)_Grayndler_2007" {
-	graph [label="Grayndler 2007" labelloc=t mclimit=2]
+	graph [label="Grayndler 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pip Hinman (3745)" [label="Pip Hinman (3745)
 Socialist Alliance"]

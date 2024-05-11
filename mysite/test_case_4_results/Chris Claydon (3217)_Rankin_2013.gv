@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Claydon (3217)_Rankin_2013" {
-	graph [label="Rankin 2013" labelloc=t mclimit=2]
+	graph [label="Rankin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Claydon (3217)" [label="Chris Claydon (3217)
 Katter's Australian Party"]

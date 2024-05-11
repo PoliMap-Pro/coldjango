@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gayle Allwood (615)_Adelaide_2022" {
-	graph [label="Adelaide 2022" labelloc=t mclimit=2]
+	graph [label="Adelaide 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gayle Allwood (615)" [label="Gayle Allwood (615)
 Pauline Hanson's One Nation"]

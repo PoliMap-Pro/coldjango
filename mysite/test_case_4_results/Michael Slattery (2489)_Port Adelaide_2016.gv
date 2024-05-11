@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Slattery (2489)_Port Adelaide_2016" {
-	graph [label="Port Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Slattery (2489)" [label="Michael Slattery (2489)
 Nick Xenophon Team"]

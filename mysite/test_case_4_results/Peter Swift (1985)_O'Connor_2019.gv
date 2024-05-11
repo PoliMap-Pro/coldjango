@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Swift (1985)_O'Connor_2019" {
-	graph [label="O'Connor 2019" labelloc=t mclimit=2]
+	graph [label="O'Connor 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Swift (1985)" [label="Peter Swift (1985)
 WESTERN AUSTRALIA PARTY"]

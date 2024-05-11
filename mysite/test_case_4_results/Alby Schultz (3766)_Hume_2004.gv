@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alby Schultz (3766)_Hume_2004" {
-	graph [label="Hume 2004" labelloc=t mclimit=2]
+	graph [label="Hume 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alby Schultz (3766)" [label="Alby Schultz (3766)
 Liberal"]

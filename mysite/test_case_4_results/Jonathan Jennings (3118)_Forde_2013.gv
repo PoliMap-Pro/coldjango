@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jonathan Jennings (3118)_Forde_2013" {
-	graph [label="Forde 2013" labelloc=t mclimit=2]
+	graph [label="Forde 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jonathan Jennings (3118)" [label="Jonathan Jennings (3118)
 Rise Up Australia Party"]

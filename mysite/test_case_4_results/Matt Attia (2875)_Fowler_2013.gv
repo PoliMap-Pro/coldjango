@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Attia (2875)_Fowler_2013" {
-	graph [label="Fowler 2013" labelloc=t mclimit=2]
+	graph [label="Fowler 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Attia (2875)" [label="Matt Attia (2875)
 Christian Democratic Party (Fred Nile Group)"]

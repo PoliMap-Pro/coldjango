@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Don Bower (5177)_Newcastle_2004" {
-	graph [label="Newcastle 2004" labelloc=t mclimit=2]
+	graph [label="Newcastle 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Don Bower (5177)" [label="Don Bower (5177)
 Citizens Electoral Council"]

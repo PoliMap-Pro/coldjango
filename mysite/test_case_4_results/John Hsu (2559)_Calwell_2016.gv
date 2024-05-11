@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Hsu (2559)_Calwell_2016" {
-	graph [label="Calwell 2016" labelloc=t mclimit=2]
+	graph [label="Calwell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Hsu (2559)" [label="John Hsu (2559)
 Liberal"]

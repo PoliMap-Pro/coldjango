@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Price (5270)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Price (5270)" [label="Alan Price (5270)
 New Country"]

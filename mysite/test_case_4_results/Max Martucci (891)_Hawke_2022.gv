@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Max Martucci (891)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t mclimit=2]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Max Martucci (891)" [label="Max Martucci (891)
 TNL"]

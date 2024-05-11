@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Spellman (1601)_McPherson_2019" {
-	graph [label="McPherson 2019" labelloc=t mclimit=2]
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Spellman (1601)" [label="John Spellman (1601)
 Pauline Hanson's One Nation"]

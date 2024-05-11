@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sherrilyn Church (2396)_Griffith_2013" {
-	graph [label="Griffith 2013" labelloc=t mclimit=2]
+	graph [label="Griffith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
 Rise Up Australia Party"]

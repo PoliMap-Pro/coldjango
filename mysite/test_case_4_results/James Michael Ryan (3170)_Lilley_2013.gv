@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Michael Ryan (3170)_Lilley_2013" {
-	graph [label="Lilley 2013" labelloc=t mclimit=2]
+	graph [label="Lilley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Michael Ryan (3170)" [label="James Michael Ryan (3170)
 Katter's Australian Party"]

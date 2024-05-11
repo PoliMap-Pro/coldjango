@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kyran Sharrin (3622)_Hasluck_2013" {
-	graph [label="Hasluck 2013" labelloc=t mclimit=2]
+	graph [label="Hasluck 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kyran Sharrin (3622)" [label="Kyran Sharrin (3622)
 Family First Party"]

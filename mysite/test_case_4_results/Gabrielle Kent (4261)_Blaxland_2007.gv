@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gabrielle Kent (4261)_Blaxland_2007" {
-	graph [label="Blaxland 2007" labelloc=t mclimit=2]
+	graph [label="Blaxland 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gabrielle Kent (4261)" [label="Gabrielle Kent (4261)
 Family First"]

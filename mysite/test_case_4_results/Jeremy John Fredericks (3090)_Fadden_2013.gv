@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeremy John Fredericks (3090)_Fadden_2013" {
-	graph [label="Fadden 2013" labelloc=t mclimit=2]
+	graph [label="Fadden 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
 Family First"]

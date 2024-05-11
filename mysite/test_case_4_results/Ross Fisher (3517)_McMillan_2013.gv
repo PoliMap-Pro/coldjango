@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Fisher (3517)_McMillan_2013" {
-	graph [label="McMillan 2013" labelloc=t mclimit=2]
+	graph [label="McMillan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Fisher (3517)" [label="Ross Fisher (3517)
 Country Alliance"]

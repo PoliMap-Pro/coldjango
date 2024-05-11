@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jerry Nockles (106)_Eden-Monaro_2022" {
-	graph [label="Eden-Monaro 2022" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jerry Nockles (106)" [label="Jerry Nockles (106)
 Liberal"]

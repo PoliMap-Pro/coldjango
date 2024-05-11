@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Darlington (1542)_Griffith_2019" {
-	graph [label="Griffith 2019" labelloc=t mclimit=2]
+	graph [label="Griffith 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Darlington (1542)" [label="Julie Darlington (1542)
 Pauline Hanson's One Nation"]

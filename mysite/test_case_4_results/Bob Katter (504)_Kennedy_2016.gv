@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bob Katter (504)_Kennedy_2016" {
-	graph [label="Kennedy 2016" labelloc=t mclimit=2]
+	graph [label="Kennedy 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bob Katter (504)" [label="Bob Katter (504)
 Katter's Australian Party"]

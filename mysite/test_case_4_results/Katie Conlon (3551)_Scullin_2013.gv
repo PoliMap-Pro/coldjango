@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katie Conlon (3551)_Scullin_2013" {
-	graph [label="Scullin 2013" labelloc=t mclimit=2]
+	graph [label="Scullin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katie Conlon (3551)" [label="Katie Conlon (3551)
 Family First Party"]

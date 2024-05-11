@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Koul (1134)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Koul (1134)" [label="Bill Koul (1134)
 Liberal"]

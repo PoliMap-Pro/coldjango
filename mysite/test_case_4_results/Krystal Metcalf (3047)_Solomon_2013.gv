@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Krystal Metcalf (3047)_Solomon_2013" {
-	graph [label="Solomon 2013" labelloc=t mclimit=2]
+	graph [label="Solomon 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Krystal Metcalf (3047)" [label="Krystal Metcalf (3047)
 Sex Party"]

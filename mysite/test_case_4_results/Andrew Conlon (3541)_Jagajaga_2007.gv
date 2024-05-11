@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Conlon (3541)_Jagajaga_2007" {
-	graph [label="Jagajaga 2007" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leigh Gray (4714)_Denison_2007" {
-	graph [label="Denison 2007" labelloc=t mclimit=2]
+	graph [label="Denison 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leigh Gray (4714)" [label="Leigh Gray (4714)
 Liberal"]

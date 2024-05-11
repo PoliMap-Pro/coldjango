@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Kneebone (5503)_Batman_2004" {
-	graph [label="Batman 2004" labelloc=t mclimit=2]
+	graph [label="Batman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Kneebone (5503)" [label="Scott Kneebone (5503)
 Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Eldridge (3585)_Canning_2013" {
-	graph [label="Canning 2013" labelloc=t mclimit=2]
+	graph [label="Canning 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Eldridge (3585)" [label="Richard Eldridge (3585)
 Katter's Australian Party"]

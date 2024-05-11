@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Peter Charleton (1748)_Casey_2019" {
+	graph [label="Casey 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Ross Mcphee (1750)" [label="Ross Mcphee (1750)
+Labour DLP"]
+	"Antony Calabro (1749)" [label="Antony Calabro (1749)
+Rise Up Australia Party"]
+	"Jayden O'Connor (1756)" [label="Jayden O'Connor (1756)
+The Great Australian Party"]
+	"Ross Mcphee (1750)" -> "Peter Charleton (1748)" [label=335]
+	"Antony Calabro (1749)" -> "Ross Mcphee (1750)" [label=91]
+	"Jayden O'Connor (1756)" -> "Antony Calabro (1749)" [label=118]
+	"Antony Calabro (1749)" -> "Peter Charleton (1748)" [label=216]
+	"Jayden O'Connor (1756)" -> "Peter Charleton (1748)" [label=120]
+	"Jayden O'Connor (1756)" -> "Ross Mcphee (1750)" [label=60]
+}

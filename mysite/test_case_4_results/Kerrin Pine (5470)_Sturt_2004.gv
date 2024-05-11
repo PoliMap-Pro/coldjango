@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kerrin Pine (5470)_Sturt_2004" {
-	graph [label="Sturt 2004" labelloc=t mclimit=2]
+	graph [label="Sturt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kerrin Pine (5470)" [label="Kerrin Pine (5470)
 Australian Democrats"]

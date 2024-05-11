@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Garry Dalrymple (5248)_Watson_2004" {
-	graph [label="Watson 2004" labelloc=t mclimit=2]
+	graph [label="Watson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Garry Dalrymple (5248)" [label="Garry Dalrymple (5248)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damien Maher (2785)_Canberra_2013" {
-	graph [label="Canberra 2013" labelloc=t mclimit=2]
+	graph [label="Canberra 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damien Maher (2785)" [label="Damien Maher (2785)
 Bullet Train For Australia"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Bailey (5538)_Deakin_2004" {
-	graph [label="Deakin 2004" labelloc=t mclimit=2]
+	graph [label="Deakin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Bailey (5538)" [label="Alan Bailey (5538)
 Democrats"]

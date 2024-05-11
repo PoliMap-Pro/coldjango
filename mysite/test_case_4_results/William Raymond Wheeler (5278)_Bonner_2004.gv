@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Raymond Wheeler (5278)_Bonner_2004" {
-	graph [label="Bonner 2004" labelloc=t mclimit=2]
+	graph [label="Bonner 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
 Citizens Electoral Council"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jaymes Diaz (2887)_Greenway_2013" {
-	graph [label="Greenway 2013" labelloc=t mclimit=2]
+	graph [label="Greenway 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jaymes Diaz (2887)" [label="Jaymes Diaz (2887)
 Liberal"]

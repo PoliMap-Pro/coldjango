@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Haydn Fletcher (5589)_Isaacs_2004" {
-	graph [label="Isaacs 2004" labelloc=t mclimit=2]
+	graph [label="Isaacs 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Haydn Fletcher (5589)" [label="Haydn Fletcher (5589)
 Democrats"]

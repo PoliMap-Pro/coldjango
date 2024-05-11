@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Buckley (594)_Wide Bay_2022" {
-	graph [label="Wide Bay 2022" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Buckley (594)" [label="Nathan Buckley (594)
 Pauline Hanson's One Nation"]

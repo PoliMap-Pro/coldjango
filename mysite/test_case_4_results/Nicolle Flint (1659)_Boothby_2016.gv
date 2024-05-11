@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicolle Flint (1659)_Boothby_2016" {
-	graph [label="Boothby 2016" labelloc=t mclimit=2]
+	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicolle Flint (1659)" [label="Nicolle Flint (1659)
 Liberal"]

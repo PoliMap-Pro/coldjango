@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barry Cook (2437)_Wide Bay_2016" {
-	graph [label="Wide Bay 2016" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barry Cook (2437)" [label="Barry Cook (2437)
 Katter's Australian Party"]

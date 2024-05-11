@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Bailey (5532)_Corangamite_2004" {
-	graph [label="Corangamite 2004" labelloc=t mclimit=2]
+	graph [label="Corangamite 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Bailey (5532)" [label="Andrew Bailey (5532)
 Citizens Electoral Council"]

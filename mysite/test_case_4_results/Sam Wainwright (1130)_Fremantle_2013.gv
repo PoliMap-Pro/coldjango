@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Wainwright (1130)_Fremantle_2013" {
-	graph [label="Fremantle 2013" labelloc=t mclimit=2]
+	graph [label="Fremantle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
 Socialist Alliance"]

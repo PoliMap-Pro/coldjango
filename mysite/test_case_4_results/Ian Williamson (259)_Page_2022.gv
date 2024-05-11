@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Williamson (259)_Page_2022" {
-	graph [label="Page 2022" labelloc=t mclimit=2]
+	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Williamson (259)" [label="Ian Williamson (259)
 United Australia Party"]

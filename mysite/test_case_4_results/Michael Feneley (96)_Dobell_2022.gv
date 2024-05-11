@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Feneley (96)_Dobell_2022" {
-	graph [label="Dobell 2022" labelloc=t mclimit=2]
+	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Feneley (96)" [label="Michael Feneley (96)
 Liberal"]

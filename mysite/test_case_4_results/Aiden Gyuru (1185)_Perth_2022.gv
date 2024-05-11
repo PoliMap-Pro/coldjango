@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aiden Gyuru (1185)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t mclimit=2]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aiden Gyuru (1185)" [label="Aiden Gyuru (1185)
 Australian Federation Party"]

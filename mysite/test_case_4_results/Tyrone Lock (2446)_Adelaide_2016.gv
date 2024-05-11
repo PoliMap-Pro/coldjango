@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tyrone Lock (2446)_Adelaide_2016" {
-	graph [label="Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
 Liberal Democrats"]

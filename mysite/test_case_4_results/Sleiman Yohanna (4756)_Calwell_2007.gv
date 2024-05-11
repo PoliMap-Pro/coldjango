@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sleiman Yohanna (4756)_Calwell_2007" {
-	graph [label="Calwell 2007" labelloc=t mclimit=2]
+	graph [label="Calwell 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sleiman Yohanna (4756)" [label="Sleiman Yohanna (4756)
 Citizens Electoral Council"]

@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Les Wallace (4445)_Dobell_2004" {
+	graph [label="Dobell 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Les Wallace (4445)" [label="Les Wallace (4445)
+Independent"]
+	"Siou Hong Chia (4934)" [label="Siou Hong Chia (4934)
+Outdoor Recreation Party"]
+	"James Laing-Peach (5066)" [label="James Laing-Peach (5066)
+Independent"]
+	"Steven Hughes (5064)" [label="Steven Hughes (5064)
+Citizens Electoral Council"]
+	"Siou Hong Chia (4934)" -> "Les Wallace (4445)" [label=29]
+	"James Laing-Peach (5066)" -> "Siou Hong Chia (4934)" [label=7]
+	"Steven Hughes (5064)" -> "James Laing-Peach (5066)" [label=8]
+	"James Laing-Peach (5066)" -> "Les Wallace (4445)" [label=29]
+	"Steven Hughes (5064)" -> "Les Wallace (4445)" [label=2]
+	"Steven Hughes (5064)" -> "Siou Hong Chia (4934)" [label=7]
+}

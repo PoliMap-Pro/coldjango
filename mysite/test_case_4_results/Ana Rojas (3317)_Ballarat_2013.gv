@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ana Rojas (3317)_Ballarat_2013" {
-	graph [label="Ballarat 2013" labelloc=t mclimit=2]
+	graph [label="Ballarat 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ana Rojas (3317)" [label="Ana Rojas (3317)
 Rise Up Australia Party"]

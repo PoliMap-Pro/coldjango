@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Le (3804)_North Sydney_2010" {
-	graph [label="North Sydney 2010" labelloc=t mclimit=2]
+	graph [label="North Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Le (3804)" [label="Daniel Le (3804)
 Family First"]

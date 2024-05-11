@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Clifford (4224)_Stirling_2010" {
-	graph [label="Stirling 2010" labelloc=t mclimit=2]
+	graph [label="Stirling 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Clifford (4224)" [label="Peter Clifford (4224)
 Family First"]

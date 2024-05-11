@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Klop (772)_Casey_2022" {
-	graph [label="Casey 2022" labelloc=t mclimit=2]
+	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Klop (772)" [label="Andrew Klop (772)
 Animal Justice Party"]

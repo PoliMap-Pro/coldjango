@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kirsty Reye (5311)_Dickson_2004" {
-	graph [label="Dickson 2004" labelloc=t mclimit=2]
+	graph [label="Dickson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kirsty Reye (5311)" [label="Kirsty Reye (5311)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sachin Joshi (1398)_Paterson_2019" {
-	graph [label="Paterson 2019" labelloc=t mclimit=2]
+	graph [label="Paterson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sachin Joshi (1398)" [label="Sachin Joshi (1398)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Cole (4658)_Kingston_2004" {
-	graph [label="Kingston 2004" labelloc=t mclimit=2]
+	graph [label="Kingston 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Cole (4658)" [label="Andrew Cole (4658)
 Family First"]

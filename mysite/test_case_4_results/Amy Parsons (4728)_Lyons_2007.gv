@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amy Parsons (4728)_Lyons_2007" {
-	graph [label="Lyons 2007" labelloc=t mclimit=2]
+	graph [label="Lyons 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amy Parsons (4728)" [label="Amy Parsons (4728)
 Family First"]

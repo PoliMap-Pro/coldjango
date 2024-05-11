@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Phillip Gourlay (2461)_Grey_2016" {
+	graph [label="Grey 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
+Independent"]
+}

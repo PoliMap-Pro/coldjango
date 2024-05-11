@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rhonda Joy Avasalu (4399)_Page_2007" {
-	graph [label="Page 2007" labelloc=t mclimit=2]
+	graph [label="Page 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rhonda Joy Avasalu (4399)" [label="Rhonda Joy Avasalu (4399)
 Christian Democratic Party (Fred Nile Group)"]

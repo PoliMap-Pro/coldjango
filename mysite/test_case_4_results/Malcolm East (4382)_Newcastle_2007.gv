@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm East (4382)_Newcastle_2007" {
-	graph [label="Newcastle 2007" labelloc=t mclimit=2]
+	graph [label="Newcastle 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm East (4382)" [label="Malcolm East (4382)
 Family First"]

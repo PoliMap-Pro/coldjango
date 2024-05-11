@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Huth (2917)_Lyne_2013" {
-	graph [label="Lyne 2013" labelloc=t mclimit=2]
+	graph [label="Lyne 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Huth (2917)" [label="Craig Huth (2917)
 One Nation"]

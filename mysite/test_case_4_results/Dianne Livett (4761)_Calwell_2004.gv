@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dianne Livett (4761)_Calwell_2004" {
-	graph [label="Calwell 2004" labelloc=t mclimit=2]
+	graph [label="Calwell 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dianne Livett (4761)" [label="Dianne Livett (4761)
 Liberal"]

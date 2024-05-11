@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elvis Sinosic (54)_Blaxland_2022" {
-	graph [label="Blaxland 2022" labelloc=t mclimit=2]
+	graph [label="Blaxland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elvis Sinosic (54)" [label="Elvis Sinosic (54)
 United Australia Party"]

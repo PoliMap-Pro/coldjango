@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Lele (4832)_Jagajaga_2004" {
-	graph [label="Jagajaga 2004" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Lele (4832)" [label="Stephen Lele (4832)
 Citizens Electoral Council"]

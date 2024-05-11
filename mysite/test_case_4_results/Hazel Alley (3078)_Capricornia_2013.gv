@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hazel Alley (3078)_Capricornia_2013" {
-	graph [label="Capricornia 2013" labelloc=t mclimit=2]
+	graph [label="Capricornia 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hazel Alley (3078)" [label="Hazel Alley (3078)
 Family First"]

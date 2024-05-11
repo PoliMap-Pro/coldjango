@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Timothy Cudmore (558)_Moncrieff_2022" {
-	graph [label="Moncrieff 2022" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Timothy Cudmore (558)" [label="Timothy Cudmore (558)
 Informed Medical Options Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Norman (1352)_Macarthur_2019" {
-	graph [label="Macarthur 2019" labelloc=t mclimit=2]
+	graph [label="Macarthur 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Norman (1352)" [label="Shane Norman (1352)
 Pauline Hanson's One Nation"]

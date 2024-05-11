@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David James Louie (46)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David James Louie (46)" [label="David James Louie (46)
 Australian Federation Party"]

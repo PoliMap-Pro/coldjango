@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Michael Connelly (3646)_Perth_2010" {
-	graph [label="Perth 2010" labelloc=t mclimit=2]
+	graph [label="Perth 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
 Christian Democratic Party"]

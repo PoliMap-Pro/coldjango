@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ryan Dare (786)_Chisholm_2022" {
-	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	graph [label="Chisholm 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ryan Dare (786)" [label="Ryan Dare (786)
 Citizens Party"]

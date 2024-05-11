@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elise Anne Cottam (2433)_Wide Bay_2016" {
-	graph [label="Wide Bay 2016" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elise Anne Cottam (2433)" [label="Elise Anne Cottam (2433)
 Pauline Hanson's One Nation"]

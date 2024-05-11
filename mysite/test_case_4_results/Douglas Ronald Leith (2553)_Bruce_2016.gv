@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Douglas Ronald Leith (2553)_Bruce_2016" {
-	graph [label="Bruce 2016" labelloc=t mclimit=2]
+	graph [label="Bruce 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Douglas Ronald Leith (2553)" [label="Douglas Ronald Leith (2553)
 Animal Justice Party"]

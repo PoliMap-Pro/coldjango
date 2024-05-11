@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Fletcher (60)_Bradfield_2019" {
-	graph [label="Bradfield 2019" labelloc=t mclimit=2]
+	graph [label="Bradfield 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Fletcher (60)" [label="Paul Fletcher (60)
 Liberal"]

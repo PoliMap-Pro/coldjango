@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Doug Lillyman (5559)_Gippsland_2004" {
-	graph [label="Gippsland 2004" labelloc=t mclimit=2]
+	graph [label="Gippsland 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Doug Lillyman (5559)" [label="Doug Lillyman (5559)
 Family First"]

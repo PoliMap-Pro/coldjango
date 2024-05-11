@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angie Foster (3414)_Gippsland_2013" {
-	graph [label="Gippsland 2013" labelloc=t mclimit=2]
+	graph [label="Gippsland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angie Foster (3414)" [label="Angie Foster (3414)
 Family First Party"]

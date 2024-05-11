@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brian Buckley (4412)_Wentworth_2004" {
-	graph [label="Wentworth 2004" labelloc=t mclimit=2]
+	graph [label="Wentworth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brian Buckley (4412)" [label="Brian Buckley (4412)
 No GST"]

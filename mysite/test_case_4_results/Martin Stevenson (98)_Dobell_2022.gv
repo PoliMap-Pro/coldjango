@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Stevenson (98)_Dobell_2022" {
-	graph [label="Dobell 2022" labelloc=t mclimit=2]
+	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Stevenson (98)" [label="Martin Stevenson (98)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Mcfarlane (5197)_Parramatta_2004" {
-	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	graph [label="Parramatta 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Mcfarlane (5197)" [label="Rob Mcfarlane (5197)
 Australian Democrats"]

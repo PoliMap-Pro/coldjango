@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joh Bauch (4111)_Jagajaga_2010" {
-	graph [label="Jagajaga 2010" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joh Bauch (4111)" [label="Joh Bauch (4111)
 Liberal"]

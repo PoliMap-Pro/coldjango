@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sally-Anne Brown (4064)_Corangamite_2010" {
+	graph [label="Corangamite 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sally-Anne Brown (4064)" [label="Sally-Anne Brown (4064)
+Independent"]
+	"Nathan Timmins (4066)" [label="Nathan Timmins (4066)
+Liberal Democrats (LDP)"]
+	"Nathan Timmins (4066)" -> "Sally-Anne Brown (4064)" [label=79]
+}

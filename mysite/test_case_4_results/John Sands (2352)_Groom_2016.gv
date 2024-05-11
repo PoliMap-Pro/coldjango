@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Sands (2352)_Groom_2016" {
-	graph [label="Groom 2016" labelloc=t mclimit=2]
+	graph [label="Groom 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Sands (2352)" [label="John Sands (2352)
 Family First"]

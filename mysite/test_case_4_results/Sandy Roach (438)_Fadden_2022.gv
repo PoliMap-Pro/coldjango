@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandy Roach (438)_Fadden_2022" {
-	graph [label="Fadden 2022" labelloc=t mclimit=2]
+	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandy Roach (438)" [label="Sandy Roach (438)
 Pauline Hanson's One Nation"]

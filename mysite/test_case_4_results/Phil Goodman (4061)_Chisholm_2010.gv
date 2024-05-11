@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Goodman (4061)_Chisholm_2010" {
-	graph [label="Chisholm 2010" labelloc=t mclimit=2]
+	graph [label="Chisholm 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Goodman (4061)" [label="Phil Goodman (4061)
 Family First"]

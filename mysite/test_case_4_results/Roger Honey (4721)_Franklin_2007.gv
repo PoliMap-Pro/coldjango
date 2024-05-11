@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Honey (4721)_Franklin_2007" {
-	graph [label="Franklin 2007" labelloc=t mclimit=2]
+	graph [label="Franklin 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Honey (4721)" [label="Roger Honey (4721)
 Citizens Electoral Council"]

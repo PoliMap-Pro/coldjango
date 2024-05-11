@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joel Murray (2538)_Batman_2016" {
-	graph [label="Batman 2016" labelloc=t mclimit=2]
+	graph [label="Batman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joel Murray (2538)" [label="Joel Murray (2538)
 Australian Sex Party"]

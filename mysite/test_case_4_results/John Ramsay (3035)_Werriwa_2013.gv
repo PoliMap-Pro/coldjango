@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Ramsay (3035)_Werriwa_2013" {
-	graph [label="Werriwa 2013" labelloc=t mclimit=2]
+	graph [label="Werriwa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Ramsay (3035)" [label="John Ramsay (3035)
 Christian Democratic Party (Fred Nile Group)"]

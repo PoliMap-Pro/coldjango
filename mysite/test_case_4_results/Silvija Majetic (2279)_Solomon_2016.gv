@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Silvija Majetic (2279)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t mclimit=2]
+	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Silvija Majetic (2279)" [label="Silvija Majetic (2279)
 Rise Up Australia Party"]

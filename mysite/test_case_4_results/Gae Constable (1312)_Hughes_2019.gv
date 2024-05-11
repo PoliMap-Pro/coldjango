@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gae Constable (1312)_Hughes_2019" {
-	graph [label="Hughes 2019" labelloc=t mclimit=2]
+	graph [label="Hughes 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gae Constable (1312)" [label="Gae Constable (1312)
 Animal Justice Party"]

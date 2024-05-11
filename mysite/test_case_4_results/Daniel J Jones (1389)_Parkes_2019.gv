@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel J Jones (1389)_Parkes_2019" {
-	graph [label="Parkes 2019" labelloc=t mclimit=2]
+	graph [label="Parkes 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel J Jones (1389)" [label="Daniel J Jones (1389)
 Liberal Democrats"]

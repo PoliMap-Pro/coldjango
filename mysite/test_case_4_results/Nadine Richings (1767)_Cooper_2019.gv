@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nadine Richings (1767)_Cooper_2019" {
-	graph [label="Cooper 2019" labelloc=t mclimit=2]
+	graph [label="Cooper 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nadine Richings (1767)" [label="Nadine Richings (1767)
 Animal Justice Party"]

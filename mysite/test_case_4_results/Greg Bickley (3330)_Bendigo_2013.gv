@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Bickley (3330)_Bendigo_2013" {
-	graph [label="Bendigo 2013" labelloc=t mclimit=2]
+	graph [label="Bendigo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Bickley (3330)" [label="Greg Bickley (3330)
 Liberal"]

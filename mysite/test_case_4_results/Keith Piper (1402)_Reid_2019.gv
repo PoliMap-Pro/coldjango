@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keith Piper (1402)_Reid_2019" {
-	graph [label="Reid 2019" labelloc=t mclimit=2]
+	graph [label="Reid 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keith Piper (1402)" [label="Keith Piper (1402)
 Christian Democratic Party (Fred Nile Group)"]

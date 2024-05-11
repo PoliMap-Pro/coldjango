@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Warren Jackman (3374)_Corangamite_2013" {
-	graph [label="Corangamite 2013" labelloc=t mclimit=2]
+	graph [label="Corangamite 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Warren Jackman (3374)" [label="Warren Jackman (3374)
 Country Alliance"]

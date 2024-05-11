@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevlyn Mccallum (3297)_Denison_2013" {
-	graph [label="Denison 2013" labelloc=t mclimit=2]
+	graph [label="Denison 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevlyn Mccallum (3297)" [label="Trevlyn Mccallum (3297)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Whittaker (1488)_Brisbane_2019" {
-	graph [label="Brisbane 2019" labelloc=t mclimit=2]
+	graph [label="Brisbane 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Whittaker (1488)" [label="Aaron Whittaker (1488)
 United Australia Party"]

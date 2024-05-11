@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Caitlin Evans (2544)_Batman_2016" {
-	graph [label="Batman 2016" labelloc=t mclimit=2]
+	graph [label="Batman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Caitlin Evans (2544)" [label="Caitlin Evans (2544)
 Animal Justice Party"]

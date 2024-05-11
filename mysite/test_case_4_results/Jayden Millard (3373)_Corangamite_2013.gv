@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jayden Millard (3373)_Corangamite_2013" {
-	graph [label="Corangamite 2013" labelloc=t mclimit=2]
+	graph [label="Corangamite 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jayden Millard (3373)" [label="Jayden Millard (3373)
 Sex Party"]

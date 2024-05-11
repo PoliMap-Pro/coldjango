@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Claudio Uribe (965)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Claudio Uribe (965)" [label="Claudio Uribe (965)
 Victorian Socialists"]

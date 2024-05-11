@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron John Simpkins (4037)_Denison_2010" {
-	graph [label="Denison 2010" labelloc=t mclimit=2]
+	graph [label="Denison 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron John Simpkins (4037)" [label="Cameron John Simpkins (4037)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Benjamin Staggard (3510)_McMillan_2013" {
-	graph [label="McMillan 2013" labelloc=t mclimit=2]
+	graph [label="McMillan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Benjamin Staggard (3510)" [label="Benjamin Staggard (3510)
 Sex Party"]

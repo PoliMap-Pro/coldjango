@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher D'Arcy Bucknell (2026)_Canberra_2016" {
-	graph [label="Canberra 2016" labelloc=t mclimit=2]
+	graph [label="Canberra 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
 Bullet Train For Australia"]

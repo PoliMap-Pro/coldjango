@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jos Vandersman (5523)_Casey_2004" {
-	graph [label="Casey 2004" labelloc=t mclimit=2]
+	graph [label="Casey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
 Democrats"]

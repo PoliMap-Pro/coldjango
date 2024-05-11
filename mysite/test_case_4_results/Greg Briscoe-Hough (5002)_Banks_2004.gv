@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Briscoe-Hough (5002)_Banks_2004" {
-	graph [label="Banks 2004" labelloc=t mclimit=2]
+	graph [label="Banks 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
 Family First"]

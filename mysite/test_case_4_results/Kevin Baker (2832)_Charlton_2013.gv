@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Baker (2832)_Charlton_2013" {
-	graph [label="Charlton 2013" labelloc=t mclimit=2]
+	graph [label="Charlton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Baker (2832)" [label="Kevin Baker (2832)
 Liberal"]

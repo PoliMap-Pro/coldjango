@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Baker (4710)_Braddon_2004" {
-	graph [label="Braddon 2004" labelloc=t mclimit=2]
+	graph [label="Braddon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Baker (4710)" [label="Mark Baker (4710)
 Liberal"]

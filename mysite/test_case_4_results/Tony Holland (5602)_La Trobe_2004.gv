@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Holland (5602)_La Trobe_2004" {
-	graph [label="La Trobe 2004" labelloc=t mclimit=2]
+	graph [label="La Trobe 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Holland (5602)" [label="Tony Holland (5602)
 Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Brooks (1037)_Nicholls_2022" {
-	graph [label="Nicholls 2022" labelloc=t mclimit=2]
+	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Brooks (1037)" [label="Steve Brooks (1037)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Jones (1662)_Brand_2019" {
-	graph [label="Brand 2019" labelloc=t mclimit=2]
+	graph [label="Brand 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Jones (1662)" [label="Trevor Jones (1662)
 Independent"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Strauss (4029)_Wakefield_2010" {
-	graph [label="Wakefield 2010" labelloc=t mclimit=2]
+	graph [label="Wakefield 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Strauss (4029)" [label="David Strauss (4029)
 Liberal"]

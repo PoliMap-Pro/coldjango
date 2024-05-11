@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Martinic (48)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Martinic (48)" [label="Christopher Martinic (48)
 United Australia Party"]

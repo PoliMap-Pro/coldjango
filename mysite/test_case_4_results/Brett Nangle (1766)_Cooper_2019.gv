@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brett Nangle (1766)_Cooper_2019" {
-	graph [label="Cooper 2019" labelloc=t mclimit=2]
+	graph [label="Cooper 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brett Nangle (1766)" [label="Brett Nangle (1766)
 United Australia Party"]

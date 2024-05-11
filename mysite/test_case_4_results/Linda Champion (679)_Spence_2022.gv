@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda Champion (679)_Spence_2022" {
-	graph [label="Spence 2022" labelloc=t mclimit=2]
+	graph [label="Spence 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda Champion (679)" [label="Linda Champion (679)
 Pauline Hanson's One Nation"]

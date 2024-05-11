@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tonya Scott (672)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tonya Scott (672)" [label="Tonya Scott (672)
 Pauline Hanson's One Nation"]

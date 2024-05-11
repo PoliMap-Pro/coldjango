@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Rothwell (264)_Parkes_2022" {
-	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Rothwell (264)" [label="Peter Rothwell (264)
 Liberal Democrats"]

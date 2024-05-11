@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Meg Birch (4201)_Moore_2010" {
-	graph [label="Moore 2010" labelloc=t mclimit=2]
+	graph [label="Moore 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Meg Birch (4201)" [label="Meg Birch (4201)
 Christian Democratic Party"]

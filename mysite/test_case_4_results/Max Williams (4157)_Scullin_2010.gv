@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Max Williams (4157)_Scullin_2010" {
-	graph [label="Scullin 2010" labelloc=t mclimit=2]
+	graph [label="Scullin 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Max Williams (4157)" [label="Max Williams (4157)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Freshwater (525)_Lilley_2022" {
-	graph [label="Lilley 2022" labelloc=t mclimit=2]
+	graph [label="Lilley 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
 Liberal Democrats"]

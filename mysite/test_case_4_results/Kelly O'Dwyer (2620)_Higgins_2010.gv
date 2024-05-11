@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kelly O'Dwyer (2620)_Higgins_2010" {
-	graph [label="Higgins 2010" labelloc=t mclimit=2]
+	graph [label="Higgins 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kelly O'Dwyer (2620)" [label="Kelly O'Dwyer (2620)
 Liberal"]

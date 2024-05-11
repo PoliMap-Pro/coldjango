@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Harold Paul (5628)_McMillan_2004" {
-	graph [label="McMillan 2004" labelloc=t mclimit=2]
+	graph [label="McMillan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Harold Paul (5628)" [label="Harold Paul (5628)
 Family First"]

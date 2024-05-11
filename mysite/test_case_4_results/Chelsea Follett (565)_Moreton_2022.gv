@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chelsea Follett (565)_Moreton_2022" {
-	graph [label="Moreton 2022" labelloc=t mclimit=2]
+	graph [label="Moreton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chelsea Follett (565)" [label="Chelsea Follett (565)
 United Australia Party"]

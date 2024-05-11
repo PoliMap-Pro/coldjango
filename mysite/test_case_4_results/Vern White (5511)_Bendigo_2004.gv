@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vern White (5511)_Bendigo_2004" {
-	graph [label="Bendigo 2004" labelloc=t mclimit=2]
+	graph [label="Bendigo 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vern White (5511)" [label="Vern White (5511)
 Citizens Electoral Council"]

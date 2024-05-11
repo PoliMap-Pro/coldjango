@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher David Owen (3851)_Sydney_2010" {
-	graph [label="Sydney 2010" labelloc=t mclimit=2]
+	graph [label="Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher David Owen (3851)" [label="Christopher David Owen (3851)
 Secular Party of Australia"]

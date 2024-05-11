@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vinh Van Chau (1799)_Fraser_2019" {
-	graph [label="Fraser 2019" labelloc=t mclimit=2]
+	graph [label="Fraser 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vinh Van Chau (1799)" [label="Vinh Van Chau (1799)
 United Australia Party"]

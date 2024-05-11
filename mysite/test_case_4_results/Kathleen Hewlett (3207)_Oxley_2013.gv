@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kathleen Hewlett (3207)_Oxley_2013" {
-	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	graph [label="Oxley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kathleen Hewlett (3207)" [label="Kathleen Hewlett (3207)
 Katter's Australian Party"]

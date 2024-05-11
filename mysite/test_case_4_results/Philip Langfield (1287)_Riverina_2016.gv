@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Langfield (1287)_Riverina_2016" {
-	graph [label="Riverina 2016" labelloc=t mclimit=2]
+	graph [label="Riverina 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Langfield (1287)" [label="Philip Langfield (1287)
 Christian Democratic Party (Fred Nile Group)"]

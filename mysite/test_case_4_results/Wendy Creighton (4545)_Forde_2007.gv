@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wendy Creighton (4545)_Forde_2007" {
-	graph [label="Forde 2007" labelloc=t mclimit=2]
+	graph [label="Forde 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wendy Creighton (4545)" [label="Wendy Creighton (4545)
 Liberal"]

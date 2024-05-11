@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Pascoe (1564)_Adelaide_2004" {
-	graph [label="Adelaide 2004" labelloc=t mclimit=2]
+	graph [label="Adelaide 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Pascoe (1564)" [label="Richard Pascoe (1564)
 Australian Democrats"]

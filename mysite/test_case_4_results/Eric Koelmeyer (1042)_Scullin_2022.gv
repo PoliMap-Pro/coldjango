@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eric Koelmeyer (1042)_Scullin_2022" {
-	graph [label="Scullin 2022" labelloc=t mclimit=2]
+	graph [label="Scullin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eric Koelmeyer (1042)" [label="Eric Koelmeyer (1042)
 Liberal Democrats"]

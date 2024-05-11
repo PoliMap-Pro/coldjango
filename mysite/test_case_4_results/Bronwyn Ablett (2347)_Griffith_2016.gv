@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bronwyn Ablett (2347)_Griffith_2016" {
-	graph [label="Griffith 2016" labelloc=t mclimit=2]
+	graph [label="Griffith 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bronwyn Ablett (2347)" [label="Bronwyn Ablett (2347)
 Liberal Democrats"]

@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jose Nunez (5079)_Fowler_2004" {
+	graph [label="Fowler 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jose Nunez (5079)" [label="Jose Nunez (5079)
+Independent"]
+	"Hal Johnson (4426)" [label="Hal Johnson (4426)
+Citizens Electoral Council"]
+	"Hal Johnson (4426)" -> "Jose Nunez (5079)" [label=411]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geena Court (518)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geena Court (518)" [label="Geena Court (518)
 Pauline Hanson's One Nation"]

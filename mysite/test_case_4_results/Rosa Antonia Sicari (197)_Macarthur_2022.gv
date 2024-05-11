@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rosa Antonia Sicari (197)_Macarthur_2022" {
-	graph [label="Macarthur 2022" labelloc=t mclimit=2]
+	graph [label="Macarthur 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Richards (214)_Macquarie_2019" {
-	graph [label="Macquarie 2019" labelloc=t mclimit=2]
+	graph [label="Macquarie 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Richards (214)" [label="Sarah Richards (214)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Coral Wynter (5293)_Brisbane_2004" {
-	graph [label="Brisbane 2004" labelloc=t mclimit=2]
+	graph [label="Brisbane 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Coral Wynter (5293)" [label="Coral Wynter (5293)
 Socialist Alliance"]

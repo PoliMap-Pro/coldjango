@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karla Freeman (1602)_Moncrieff_2019" {
-	graph [label="Moncrieff 2019" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karla Freeman (1602)" [label="Karla Freeman (1602)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marie Edmonds (4971)_Perth_2007" {
-	graph [label="Perth 2007" labelloc=t mclimit=2]
+	graph [label="Perth 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marie Edmonds (4971)" [label="Marie Edmonds (4971)
 One Nation WA"]

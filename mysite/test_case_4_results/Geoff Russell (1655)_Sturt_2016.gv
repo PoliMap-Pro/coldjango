@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Russell (1655)_Sturt_2016" {
-	graph [label="Sturt 2016" labelloc=t mclimit=2]
+	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Russell (1655)" [label="Geoff Russell (1655)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Renee Stewart (1599)_McPherson_2019" {
-	graph [label="McPherson 2019" labelloc=t mclimit=2]
+	graph [label="McPherson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Renee Stewart (1599)" [label="Renee Stewart (1599)
 Animal Justice Party"]

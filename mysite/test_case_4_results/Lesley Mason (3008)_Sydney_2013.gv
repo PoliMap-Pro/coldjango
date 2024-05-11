@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lesley Mason (3008)_Sydney_2013" {
-	graph [label="Sydney 2013" labelloc=t mclimit=2]
+	graph [label="Sydney 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lesley Mason (3008)" [label="Lesley Mason (3008)
 Christian Democratic Party (Fred Nile Group)"]

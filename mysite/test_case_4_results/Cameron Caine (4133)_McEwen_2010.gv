@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Caine (4133)_McEwen_2010" {
-	graph [label="McEwen 2010" labelloc=t mclimit=2]
+	graph [label="McEwen 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Caine (4133)" [label="Cameron Caine (4133)
 Liberal"]

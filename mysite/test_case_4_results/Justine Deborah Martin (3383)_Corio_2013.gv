@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Justine Deborah Martin (3383)_Corio_2013" {
-	graph [label="Corio 2013" labelloc=t mclimit=2]
+	graph [label="Corio 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Justine Deborah Martin (3383)" [label="Justine Deborah Martin (3383)
 Sex Party"]

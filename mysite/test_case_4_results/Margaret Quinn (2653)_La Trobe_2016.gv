@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Margaret Quinn (2653)_La Trobe_2016" {
-	graph [label="La Trobe 2016" labelloc=t mclimit=2]
+	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
 Rise Up Australia Party"]

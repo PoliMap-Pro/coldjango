@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gavin Pearce (702)_Braddon_2019" {
-	graph [label="Braddon 2019" labelloc=t mclimit=2]
+	graph [label="Braddon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gavin Pearce (702)" [label="Gavin Pearce (702)
 Liberal"]

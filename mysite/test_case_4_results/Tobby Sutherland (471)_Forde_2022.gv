@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tobby Sutherland (471)_Forde_2022" {
-	graph [label="Forde 2022" labelloc=t mclimit=2]
+	graph [label="Forde 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tobby Sutherland (471)" [label="Tobby Sutherland (471)
 Liberal Democrats"]

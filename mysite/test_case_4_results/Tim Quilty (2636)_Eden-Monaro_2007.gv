@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Quilty (2636)_Eden-Monaro_2007" {
-	graph [label="Eden-Monaro 2007" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Quilty (2636)" [label="Tim Quilty (2636)
 LDP"]

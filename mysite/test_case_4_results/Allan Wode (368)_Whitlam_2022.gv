@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan Wode (368)_Whitlam_2022" {
-	graph [label="Whitlam 2022" labelloc=t mclimit=2]
+	graph [label="Whitlam 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan Wode (368)" [label="Allan Wode (368)
 United Australia Party"]

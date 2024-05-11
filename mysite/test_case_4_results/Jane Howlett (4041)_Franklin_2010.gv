@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jane Howlett (4041)_Franklin_2010" {
-	graph [label="Franklin 2010" labelloc=t mclimit=2]
+	graph [label="Franklin 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jane Howlett (4041)" [label="Jane Howlett (4041)
 Liberal"]

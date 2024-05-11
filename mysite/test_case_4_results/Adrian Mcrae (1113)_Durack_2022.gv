@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Mcrae (1113)_Durack_2022" {
-	graph [label="Durack 2022" labelloc=t mclimit=2]
+	graph [label="Durack 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Mcrae (1113)" [label="Adrian Mcrae (1113)
 The Great Australian Party"]

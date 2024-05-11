@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brian Heath (2606)_Gippsland_2016" {
-	graph [label="Gippsland 2016" labelloc=t mclimit=2]
+	graph [label="Gippsland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brian Heath (2606)" [label="Brian Heath (2606)
 Family First Party"]

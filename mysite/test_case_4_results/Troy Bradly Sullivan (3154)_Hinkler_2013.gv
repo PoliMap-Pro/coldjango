@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Troy Bradly Sullivan (3154)_Hinkler_2013" {
-	graph [label="Hinkler 2013" labelloc=t mclimit=2]
+	graph [label="Hinkler 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Troy Bradly Sullivan (3154)" [label="Troy Bradly Sullivan (3154)
 Family First"]

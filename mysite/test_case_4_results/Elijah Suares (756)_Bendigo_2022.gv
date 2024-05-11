@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elijah Suares (756)_Bendigo_2022" {
-	graph [label="Bendigo 2022" labelloc=t mclimit=2]
+	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elijah Suares (756)" [label="Elijah Suares (756)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Timothy Winton-Brown (5223)_Richmond_2004" {
-	graph [label="Richmond 2004" labelloc=t mclimit=2]
+	graph [label="Richmond 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Timothy Winton-Brown (5223)" [label="Timothy Winton-Brown (5223)
 Australian Democrats"]

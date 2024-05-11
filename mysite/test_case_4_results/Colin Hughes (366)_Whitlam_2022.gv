@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colin Hughes (366)_Whitlam_2022" {
-	graph [label="Whitlam 2022" labelloc=t mclimit=2]
+	graph [label="Whitlam 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colin Hughes (366)" [label="Colin Hughes (366)
 Pauline Hanson's One Nation"]

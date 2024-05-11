@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gabrielle Lisanne Iriks (3574)_Brand_2013" {
-	graph [label="Brand 2013" labelloc=t mclimit=2]
+	graph [label="Brand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gabrielle Lisanne Iriks (3574)" [label="Gabrielle Lisanne Iriks (3574)
 Rise Up Australia Party"]

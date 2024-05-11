@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Passfield (170)_Hunter_2022" {
-	graph [label="Hunter 2022" labelloc=t mclimit=2]
+	graph [label="Hunter 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Passfield (170)" [label="Geoff Passfield (170)
 United Australia Party"]

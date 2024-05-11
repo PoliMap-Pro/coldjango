@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Judy F Sudholz (3596)_O'Connor_2007" {
-	graph [label="O'Connor 2007" labelloc=t mclimit=2]
+	graph [label="O'Connor 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Judy F Sudholz (3596)" [label="Judy F Sudholz (3596)
 Citizens Electoral Council"]

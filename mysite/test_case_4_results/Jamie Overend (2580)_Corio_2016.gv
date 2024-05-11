@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamie Overend (2580)_Corio_2016" {
-	graph [label="Corio 2016" labelloc=t mclimit=2]
+	graph [label="Corio 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamie Overend (2580)" [label="Jamie Overend (2580)
 Animal Justice Party"]

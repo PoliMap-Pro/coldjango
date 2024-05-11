@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Archie Julien (5307)_Dawson_2004" {
-	graph [label="Dawson 2004" labelloc=t mclimit=2]
+	graph [label="Dawson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Archie Julien (5307)" [label="Archie Julien (5307)
 Australian Democrats"]

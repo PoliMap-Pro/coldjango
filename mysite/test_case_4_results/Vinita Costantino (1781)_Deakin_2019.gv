@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vinita Costantino (1781)_Deakin_2019" {
-	graph [label="Deakin 2019" labelloc=t mclimit=2]
+	graph [label="Deakin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vinita Costantino (1781)" [label="Vinita Costantino (1781)
 Animal Justice Party"]

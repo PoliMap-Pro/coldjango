@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Mendelssohn (5043)_Cook_2004" {
-	graph [label="Cook 2004" labelloc=t mclimit=2]
+	graph [label="Cook 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Mendelssohn (5043)" [label="David Mendelssohn (5043)
 Australian Democrats"]

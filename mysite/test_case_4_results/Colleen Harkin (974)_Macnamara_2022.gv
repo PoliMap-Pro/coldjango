@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colleen Harkin (974)_Macnamara_2022" {
-	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	graph [label="Macnamara 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colleen Harkin (974)" [label="Colleen Harkin (974)
 Liberal"]

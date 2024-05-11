@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jan Pukallus (3123)_Griffith_2010" {
-	graph [label="Griffith 2010" labelloc=t mclimit=2]
+	graph [label="Griffith 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
 Citizens Electoral Council"]

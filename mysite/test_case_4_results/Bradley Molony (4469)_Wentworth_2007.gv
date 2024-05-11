@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bradley Molony (4469)_Wentworth_2007" {
-	graph [label="Wentworth 2007" labelloc=t mclimit=2]
+	graph [label="Wentworth 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bradley Molony (4469)" [label="Bradley Molony (4469)
 Christian Democratic Party (Fred Nile Group)"]

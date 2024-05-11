@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emily Brollo (242)_Newcastle_2022" {
-	graph [label="Newcastle 2022" labelloc=t mclimit=2]
+	graph [label="Newcastle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emily Brollo (242)" [label="Emily Brollo (242)
 Animal Justice Party"]

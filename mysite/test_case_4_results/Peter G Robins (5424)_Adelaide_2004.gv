@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter G Robins (5424)_Adelaide_2004" {
-	graph [label="Adelaide 2004" labelloc=t mclimit=2]
+	graph [label="Adelaide 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter G Robins (5424)" [label="Peter G Robins (5424)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marella Harris (3038)_Werriwa_2013" {
-	graph [label="Werriwa 2013" labelloc=t mclimit=2]
+	graph [label="Werriwa 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marella Harris (3038)" [label="Marella Harris (3038)
 One Nation"]

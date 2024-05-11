@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gurpal Singh (1915)_Scullin_2019" {
-	graph [label="Scullin 2019" labelloc=t mclimit=2]
+	graph [label="Scullin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gurpal Singh (1915)" [label="Gurpal Singh (1915)
 Liberal"]

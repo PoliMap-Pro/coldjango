@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Baissari (4413)_Parramatta_2004" {
-	graph [label="Parramatta 2004" labelloc=t mclimit=2]
+	graph [label="Parramatta 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Baissari (4413)" [label="Sam Baissari (4413)
 Christian Democratic Party (Fred Nile Group)"]

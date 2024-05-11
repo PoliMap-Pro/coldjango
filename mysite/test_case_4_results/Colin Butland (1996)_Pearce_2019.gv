@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Colin Butland (1996)_Pearce_2019" {
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Colin Butland (1996)" [label="Colin Butland (1996)
+Independent"]
+	"Steve Blyth (1993)" [label="Steve Blyth (1993)
+The Nationals"]
+	"Michael Calautti (1096)" [label="Michael Calautti (1096)
+WESTERN AUSTRALIA PARTY"]
+	"Steve Blyth (1993)" -> "Colin Butland (1996)" [label=89]
+	"Michael Calautti (1096)" -> "Steve Blyth (1993)" [label=58]
+	"Michael Calautti (1096)" -> "Colin Butland (1996)" [label=156]
+}

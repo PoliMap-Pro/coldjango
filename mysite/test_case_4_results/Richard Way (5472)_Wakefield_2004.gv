@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Way (5472)_Wakefield_2004" {
-	graph [label="Wakefield 2004" labelloc=t mclimit=2]
+	graph [label="Wakefield 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Way (5472)" [label="Richard Way (5472)
 Australian Democrats"]

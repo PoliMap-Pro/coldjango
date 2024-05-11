@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darrin Marr (175)_Kingsford Smith_2022" {
-	graph [label="Kingsford Smith 2022" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darrin Marr (175)" [label="Darrin Marr (175)
 Pauline Hanson's One Nation"]

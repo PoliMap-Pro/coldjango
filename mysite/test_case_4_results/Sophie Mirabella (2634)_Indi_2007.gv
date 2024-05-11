@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sophie Mirabella (2634)_Indi_2007" {
-	graph [label="Indi 2007" labelloc=t mclimit=2]
+	graph [label="Indi 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sophie Mirabella (2634)" [label="Sophie Mirabella (2634)
 Liberal"]

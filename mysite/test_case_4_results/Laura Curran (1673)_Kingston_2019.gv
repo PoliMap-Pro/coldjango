@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Laura Curran (1673)_Kingston_2019" {
-	graph [label="Kingston 2019" labelloc=t mclimit=2]
+	graph [label="Kingston 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Laura Curran (1673)" [label="Laura Curran (1673)
 Liberal"]

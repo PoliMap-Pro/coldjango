@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charles Camenzuli (1393)_Parramatta_2019" {
-	graph [label="Parramatta 2019" labelloc=t mclimit=2]
+	graph [label="Parramatta 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charles Camenzuli (1393)" [label="Charles Camenzuli (1393)
 Liberal"]

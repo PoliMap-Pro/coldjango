@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Anagno (1102)_Cowan_2022" {
-	graph [label="Cowan 2022" labelloc=t mclimit=2]
+	graph [label="Cowan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Anagno (1102)" [label="Michael Anagno (1102)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Narelle Davis (2867)_Farrer_2013" {
-	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	graph [label="Farrer 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Narelle Davis (2867)" [label="Narelle Davis (2867)
 Rise Up Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chandra Singh (1283)_Eden-Monaro_2019" {
-	graph [label="Eden-Monaro 2019" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chandra Singh (1283)" [label="Chandra Singh (1283)
 United Australia Party"]

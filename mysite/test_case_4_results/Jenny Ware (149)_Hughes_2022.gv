@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jenny Ware (149)_Hughes_2022" {
-	graph [label="Hughes 2022" labelloc=t mclimit=2]
+	graph [label="Hughes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jenny Ware (149)" [label="Jenny Ware (149)
 Liberal"]

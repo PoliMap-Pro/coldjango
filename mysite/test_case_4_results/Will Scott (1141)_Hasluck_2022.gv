@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Will Scott (1141)_Hasluck_2022" {
-	graph [label="Hasluck 2022" labelloc=t mclimit=2]
+	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Will Scott (1141)" [label="Will Scott (1141)
 United Australia Party"]

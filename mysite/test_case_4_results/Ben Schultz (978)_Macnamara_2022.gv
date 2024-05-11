@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Schultz (978)_Macnamara_2022" {
-	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	graph [label="Macnamara 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Schultz (978)" [label="Ben Schultz (978)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amanda Wilmot (1334)_Kingsford Smith_2019" {
-	graph [label="Kingsford Smith 2019" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amanda Wilmot (1334)" [label="Amanda Wilmot (1334)
 Liberal"]

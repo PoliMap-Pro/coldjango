@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Miles (1920)_Wills_2019" {
-	graph [label="Wills 2019" labelloc=t mclimit=2]
+	graph [label="Wills 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Miles (1920)" [label="Chris Miles (1920)
 Animal Justice Party"]

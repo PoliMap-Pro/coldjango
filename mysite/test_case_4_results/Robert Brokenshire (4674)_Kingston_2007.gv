@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Brokenshire (4674)_Kingston_2007" {
-	graph [label="Kingston 2007" labelloc=t mclimit=2]
+	graph [label="Kingston 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
 Family First Party"]

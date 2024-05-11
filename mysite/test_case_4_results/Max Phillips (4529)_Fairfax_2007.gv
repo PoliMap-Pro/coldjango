@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Max Phillips (4529)_Fairfax_2007" {
+	graph [label="Fairfax 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Max Phillips (4529)" [label="Max Phillips (4529)
+Independent"]
+	"Janette Hashemi (4524)" [label="Janette Hashemi (4524)
+Democrats"]
+	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
+One Nation WA"]
+	"Kevin Watt (4523)" [label="Kevin Watt (4523)
+Citizens Electoral Council"]
+	"Janette Hashemi (4524)" -> "Max Phillips (4529)" [label=97]
+	"Kevin J Savage (4527)" -> "Janette Hashemi (4524)" [label=53]
+	"Kevin Watt (4523)" -> "Kevin J Savage (4527)" [label=24]
+	"Kevin J Savage (4527)" -> "Max Phillips (4529)" [label=153]
+	"Kevin Watt (4523)" -> "Max Phillips (4529)" [label=30]
+	"Kevin Watt (4523)" -> "Janette Hashemi (4524)" [label=266]
+}

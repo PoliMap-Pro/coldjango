@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Humphreys (2300)_Brisbane_2016" {
-	graph [label="Brisbane 2016" labelloc=t mclimit=2]
+	graph [label="Brisbane 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Humphreys (2300)" [label="John Humphreys (2300)
 Liberal Democrats"]

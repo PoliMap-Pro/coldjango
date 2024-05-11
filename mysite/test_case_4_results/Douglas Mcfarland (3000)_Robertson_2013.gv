@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Douglas Mcfarland (3000)_Robertson_2013" {
-	graph [label="Robertson 2013" labelloc=t mclimit=2]
+	graph [label="Robertson 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Douglas Mcfarland (3000)" [label="Douglas Mcfarland (3000)
 Australian Independents"]

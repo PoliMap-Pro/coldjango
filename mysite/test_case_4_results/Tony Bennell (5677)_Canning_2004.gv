@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Bennell (5677)_Canning_2004" {
-	graph [label="Canning 2004" labelloc=t mclimit=2]
+	graph [label="Canning 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Bennell (5677)" [label="Tony Bennell (5677)
 Australian Democrats"]

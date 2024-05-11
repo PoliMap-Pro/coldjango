@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Carnwell (4628)_Petrie_2007" {
-	graph [label="Petrie 2007" labelloc=t mclimit=2]
+	graph [label="Petrie 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Carnwell (4628)" [label="Bruce Carnwell (4628)
 Democrats"]

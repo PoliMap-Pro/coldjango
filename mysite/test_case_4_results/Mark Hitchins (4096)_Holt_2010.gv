@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Hitchins (4096)_Holt_2010" {
-	graph [label="Holt 2010" labelloc=t mclimit=2]
+	graph [label="Holt 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
 Secular Party of Australia"]

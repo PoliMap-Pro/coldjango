@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Terry Patrick Sharples (295)_Richmond_2022" {
+	graph [label="Richmond 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Terry Patrick Sharples (295)" [label="Terry Patrick Sharples (295)
+Independent"]
+}

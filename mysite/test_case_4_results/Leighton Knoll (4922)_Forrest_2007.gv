@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leighton Knoll (4922)_Forrest_2007" {
-	graph [label="Forrest 2007" labelloc=t mclimit=2]
+	graph [label="Forrest 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
 Family First"]

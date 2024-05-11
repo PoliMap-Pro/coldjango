@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cheryl Kaminski (2462)_Grey_2013" {
-	graph [label="Grey 2013" labelloc=t mclimit=2]
+	graph [label="Grey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
 Family First"]

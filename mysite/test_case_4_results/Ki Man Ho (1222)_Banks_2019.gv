@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ki Man Ho (1222)_Banks_2019" {
-	graph [label="Banks 2019" labelloc=t mclimit=2]
+	graph [label="Banks 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ki Man Ho (1222)" [label="Ki Man Ho (1222)
 Christian Democratic Party (Fred Nile Group)"]

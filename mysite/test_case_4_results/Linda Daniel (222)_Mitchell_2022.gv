@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda Daniel (222)_Mitchell_2022" {
-	graph [label="Mitchell 2022" labelloc=t mclimit=2]
+	graph [label="Mitchell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda Daniel (222)" [label="Linda Daniel (222)
 United Australia Party"]

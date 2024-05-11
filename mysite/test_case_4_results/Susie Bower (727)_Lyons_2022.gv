@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Susie Bower (727)_Lyons_2022" {
-	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Susie Bower (727)" [label="Susie Bower (727)
 Liberal"]

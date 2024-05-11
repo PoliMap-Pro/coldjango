@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dale Mcclelland (4107)_Isaacs_2010" {
-	graph [label="Isaacs 2010" labelloc=t mclimit=2]
+	graph [label="Isaacs 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dale Mcclelland (4107)" [label="Dale Mcclelland (4107)
 Liberal"]

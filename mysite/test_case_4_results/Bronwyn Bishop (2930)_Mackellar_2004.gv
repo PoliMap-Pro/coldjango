@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bronwyn Bishop (2930)_Mackellar_2004" {
-	graph [label="Mackellar 2004" labelloc=t mclimit=2]
+	graph [label="Mackellar 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bronwyn Bishop (2930)" [label="Bronwyn Bishop (2930)
 Liberal"]

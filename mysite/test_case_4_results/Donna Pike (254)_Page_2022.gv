@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Donna Pike (254)_Page_2022" {
-	graph [label="Page 2022" labelloc=t mclimit=2]
+	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Donna Pike (254)" [label="Donna Pike (254)
 Pauline Hanson's One Nation"]

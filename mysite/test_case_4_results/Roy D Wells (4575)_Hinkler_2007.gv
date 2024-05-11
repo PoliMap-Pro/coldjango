@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Roy D Wells (4575)_Hinkler_2007" {
+	graph [label="Hinkler 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Roy D Wells (4575)" [label="Roy D Wells (4575)
+Independent"]
+	"Robert Bromwich (4574)" [label="Robert Bromwich (4574)
+Democrats"]
+	"Robert Bromwich (4574)" -> "Roy D Wells (4575)" [label=208]
+}

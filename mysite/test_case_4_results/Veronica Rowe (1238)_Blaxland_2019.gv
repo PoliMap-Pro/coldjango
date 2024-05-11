@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Veronica Rowe (1238)_Blaxland_2019" {
-	graph [label="Blaxland 2019" labelloc=t mclimit=2]
+	graph [label="Blaxland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Veronica Rowe (1238)" [label="Veronica Rowe (1238)
 Christian Democratic Party (Fred Nile Group)"]

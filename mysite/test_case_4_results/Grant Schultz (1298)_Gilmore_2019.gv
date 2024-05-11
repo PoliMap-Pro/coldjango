@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Grant Schultz (1298)_Gilmore_2019" {
+	graph [label="Gilmore 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Grant Schultz (1298)" [label="Grant Schultz (1298)
+Independent"]
+	"Milton Leslight (1299)" [label="Milton Leslight (1299)
+United Australia Party"]
+	"Serah Kolukulapally (1300)" [label="Serah Kolukulapally (1300)
+Christian Democratic Party (Fred Nile Group)"]
+	"Milton Leslight (1299)" -> "Grant Schultz (1298)" [label=1293]
+	"Serah Kolukulapally (1300)" -> "Milton Leslight (1299)" [label=177]
+	"Serah Kolukulapally (1300)" -> "Grant Schultz (1298)" [label=266]
+}

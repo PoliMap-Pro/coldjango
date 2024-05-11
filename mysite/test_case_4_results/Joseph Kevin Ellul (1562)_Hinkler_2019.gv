@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joseph Kevin Ellul (1562)_Hinkler_2019" {
-	graph [label="Hinkler 2019" labelloc=t mclimit=2]
+	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joseph Kevin Ellul (1562)" [label="Joseph Kevin Ellul (1562)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Kerin (4515)_Dickson_2007" {
-	graph [label="Dickson 2007" labelloc=t mclimit=2]
+	graph [label="Dickson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Kerin (4515)" [label="Peter Kerin (4515)
 Democrats"]

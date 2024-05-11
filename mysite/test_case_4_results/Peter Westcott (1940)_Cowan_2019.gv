@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Westcott (1940)_Cowan_2019" {
-	graph [label="Cowan 2019" labelloc=t mclimit=2]
+	graph [label="Cowan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Westcott (1940)" [label="Peter Westcott (1940)
 United Australia Party"]

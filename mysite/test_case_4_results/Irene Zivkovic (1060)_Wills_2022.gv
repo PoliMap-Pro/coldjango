@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Irene Zivkovic (1060)_Wills_2022" {
-	graph [label="Wills 2022" labelloc=t mclimit=2]
+	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Irene Zivkovic (1060)" [label="Irene Zivkovic (1060)
 United Australia Party"]

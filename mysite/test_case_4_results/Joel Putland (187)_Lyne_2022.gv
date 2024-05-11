@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joel Putland (187)_Lyne_2022" {
-	graph [label="Lyne 2022" labelloc=t mclimit=2]
+	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joel Putland (187)" [label="Joel Putland (187)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Edward Seller (160)_Hume_2022" {
-	graph [label="Hume 2022" labelloc=t mclimit=2]
+	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Edward Seller (160)" [label="Ross Edward Seller (160)
 Shooters, Fishers and Farmers Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeremy Hearn (1841)_Isaacs_2019" {
-	graph [label="Isaacs 2019" labelloc=t mclimit=2]
+	graph [label="Isaacs 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeremy Hearn (1841)" [label="Jeremy Hearn (1841)
 Liberal"]

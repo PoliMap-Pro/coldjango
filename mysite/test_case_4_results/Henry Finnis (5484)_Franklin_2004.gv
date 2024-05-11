@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Henry Finnis (5484)_Franklin_2004" {
-	graph [label="Franklin 2004" labelloc=t mclimit=2]
+	graph [label="Franklin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Henry Finnis (5484)" [label="Henry Finnis (5484)
 Liberal"]

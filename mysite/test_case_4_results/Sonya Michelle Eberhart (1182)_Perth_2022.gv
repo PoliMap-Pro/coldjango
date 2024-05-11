@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sonya Michelle Eberhart (1182)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t mclimit=2]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sonya Michelle Eberhart (1182)" [label="Sonya Michelle Eberhart (1182)
 United Australia Party"]

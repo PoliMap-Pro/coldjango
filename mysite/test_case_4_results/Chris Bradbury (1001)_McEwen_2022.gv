@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Bradbury (1001)_McEwen_2022" {
-	graph [label="McEwen 2022" labelloc=t mclimit=2]
+	graph [label="McEwen 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
 Pauline Hanson's One Nation"]

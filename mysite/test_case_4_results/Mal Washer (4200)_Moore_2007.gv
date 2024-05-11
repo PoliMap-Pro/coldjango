@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mal Washer (4200)_Moore_2007" {
-	graph [label="Moore 2007" labelloc=t mclimit=2]
+	graph [label="Moore 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mal Washer (4200)" [label="Mal Washer (4200)
 Liberal"]

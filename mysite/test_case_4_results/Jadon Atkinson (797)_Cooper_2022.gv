@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jadon Atkinson (797)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
 Liberal"]

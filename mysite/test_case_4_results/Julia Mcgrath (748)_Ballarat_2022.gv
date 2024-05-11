@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julia Mcgrath (748)_Ballarat_2022" {
-	graph [label="Ballarat 2022" labelloc=t mclimit=2]
+	graph [label="Ballarat 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
 Liberal Democrats"]

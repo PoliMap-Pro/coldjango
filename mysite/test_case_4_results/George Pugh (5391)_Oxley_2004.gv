@@ -1,0 +1,25 @@
+// House preference flow
+digraph "George Pugh (5391)_Oxley_2004" {
+	graph [label="Oxley 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"George Pugh (5391)" [label="George Pugh (5391)
+Independent"]
+	"Bill Flynn (5393)" [label="Bill Flynn (5393)
+One Nation"]
+	"Nicholas Wood (5394)" [label="Nicholas Wood (5394)
+Australian Democrats"]
+	"Brian Haag (4622)" [label="Brian Haag (4622)
+Citizens Electoral Council"]
+	"Michael Matthew Myles (5396)" [label="Michael Matthew Myles (5396)
+Socialist Alliance"]
+	"Bill Flynn (5393)" -> "George Pugh (5391)" [label=453]
+	"Nicholas Wood (5394)" -> "Bill Flynn (5393)" [label=79]
+	"Brian Haag (4622)" -> "Nicholas Wood (5394)" [label=21]
+	"Michael Matthew Myles (5396)" -> "Brian Haag (4622)" [label=20]
+	"Nicholas Wood (5394)" -> "George Pugh (5391)" [label=92]
+	"Brian Haag (4622)" -> "George Pugh (5391)" [label=584]
+	"Michael Matthew Myles (5396)" -> "George Pugh (5391)" [label=14]
+	"Michael Matthew Myles (5396)" -> "Nicholas Wood (5394)" [label=20]
+	"Brian Haag (4622)" -> "Bill Flynn (5393)" [label=41]
+	"Michael Matthew Myles (5396)" -> "Bill Flynn (5393)" [label=17]
+}

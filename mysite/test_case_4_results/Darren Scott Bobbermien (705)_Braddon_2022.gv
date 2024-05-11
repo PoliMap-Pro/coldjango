@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darren Scott Bobbermien (705)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t mclimit=2]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darren Scott Bobbermien (705)" [label="Darren Scott Bobbermien (705)
 United Australia Party"]

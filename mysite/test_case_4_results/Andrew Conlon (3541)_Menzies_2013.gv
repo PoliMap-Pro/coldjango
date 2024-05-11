@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Conlon (3541)_Menzies_2013" {
-	graph [label="Menzies 2013" labelloc=t mclimit=2]
+	graph [label="Menzies 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
 Family First Party"]

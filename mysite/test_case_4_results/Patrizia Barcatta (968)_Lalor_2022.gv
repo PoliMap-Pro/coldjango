@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Patrizia Barcatta (968)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Patrizia Barcatta (968)" [label="Patrizia Barcatta (968)
 Liberal Democrats"]

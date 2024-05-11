@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Garth Derrig (5120)_Lindsay_2004" {
-	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	graph [label="Lindsay 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Garth Derrig (5120)" [label="Garth Derrig (5120)
 No GST"]

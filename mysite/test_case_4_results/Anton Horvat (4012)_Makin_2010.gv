@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anton Horvat (4012)_Makin_2010" {
-	graph [label="Makin 2010" labelloc=t mclimit=2]
+	graph [label="Makin 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anton Horvat (4012)" [label="Anton Horvat (4012)
 One Nation"]

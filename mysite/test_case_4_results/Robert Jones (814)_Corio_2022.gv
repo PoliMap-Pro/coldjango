@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Jones (814)_Corio_2022" {
-	graph [label="Corio 2022" labelloc=t mclimit=2]
+	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Jones (814)" [label="Robert Jones (814)
 Pauline Hanson's One Nation"]

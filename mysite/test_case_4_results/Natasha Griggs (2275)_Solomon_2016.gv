@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Natasha Griggs (2275)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t mclimit=2]
+	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Natasha Griggs (2275)" [label="Natasha Griggs (2275)
 Country Liberals (NT)"]

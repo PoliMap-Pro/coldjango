@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graham Burston (1399)_Paterson_2019" {
-	graph [label="Paterson 2019" labelloc=t mclimit=2]
+	graph [label="Paterson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graham Burston (1399)" [label="Graham Burston (1399)
 United Australia Party"]

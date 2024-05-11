@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Tawaf (176)_Kingsford Smith_2022" {
-	graph [label="Kingsford Smith 2022" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Tawaf (176)" [label="Anthony Tawaf (176)
 United Australia Party"]

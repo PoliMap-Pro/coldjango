@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Lewkovitz (356)_Wentworth_2022" {
-	graph [label="Wentworth 2022" labelloc=t mclimit=2]
+	graph [label="Wentworth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Lewkovitz (356)" [label="Daniel Lewkovitz (356)
 Liberal Democrats"]

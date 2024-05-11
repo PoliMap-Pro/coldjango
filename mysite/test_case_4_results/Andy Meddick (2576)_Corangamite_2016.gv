@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andy Meddick (2576)_Corangamite_2016" {
-	graph [label="Corangamite 2016" labelloc=t mclimit=2]
+	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andy Meddick (2576)" [label="Andy Meddick (2576)
 Animal Justice Party"]

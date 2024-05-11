@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Mick Gallagher (1235)_Berowra_2016" {
+	graph [label="Berowra 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
+	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=423]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=120]
+	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
+}

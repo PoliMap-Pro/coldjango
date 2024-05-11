@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Michael Amon Lakkis (2561)_Calwell_2016" {
+	graph [label="Calwell 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Michael Amon Lakkis (2561)" [label="Michael Amon Lakkis (2561)
+Independent"]
+}

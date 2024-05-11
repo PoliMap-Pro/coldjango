@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Megan Purcell (2550)_Bendigo_2016" {
-	graph [label="Bendigo 2016" labelloc=t mclimit=2]
+	graph [label="Bendigo 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Megan Purcell (2550)" [label="Megan Purcell (2550)
 Liberal"]

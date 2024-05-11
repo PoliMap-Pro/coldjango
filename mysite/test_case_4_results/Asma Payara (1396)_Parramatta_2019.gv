@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Asma Payara (1396)_Parramatta_2019" {
-	graph [label="Parramatta 2019" labelloc=t mclimit=2]
+	graph [label="Parramatta 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Asma Payara (1396)" [label="Asma Payara (1396)
 Christian Democratic Party (Fred Nile Group)"]

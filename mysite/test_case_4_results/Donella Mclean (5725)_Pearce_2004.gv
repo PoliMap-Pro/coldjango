@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Donella Mclean (5725)_Pearce_2004" {
-	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	graph [label="Pearce 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Donella Mclean (5725)" [label="Donella Mclean (5725)
 Australian Democrats"]

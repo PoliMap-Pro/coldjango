@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alexander Jacob Gutman (3856)_Warringah_2010" {
-	graph [label="Warringah 2010" labelloc=t mclimit=2]
+	graph [label="Warringah 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alexander Jacob Gutman (3856)" [label="Alexander Jacob Gutman (3856)
 Australian Sex Party"]

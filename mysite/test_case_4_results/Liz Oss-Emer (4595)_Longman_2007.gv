@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Oss-Emer (4595)_Longman_2007" {
-	graph [label="Longman 2007" labelloc=t mclimit=2]
+	graph [label="Longman 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Oss-Emer (4595)" [label="Liz Oss-Emer (4595)
 Democrats"]

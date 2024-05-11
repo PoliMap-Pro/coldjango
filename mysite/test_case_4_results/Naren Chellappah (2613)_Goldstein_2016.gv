@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Naren Chellappah (2613)_Goldstein_2016" {
-	graph [label="Goldstein 2016" labelloc=t mclimit=2]
+	graph [label="Goldstein 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Quin (4727)_Lyons_2004" {
-	graph [label="Lyons 2004" labelloc=t mclimit=2]
+	graph [label="Lyons 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Quin (4727)" [label="Ben Quin (4727)
 Liberal"]

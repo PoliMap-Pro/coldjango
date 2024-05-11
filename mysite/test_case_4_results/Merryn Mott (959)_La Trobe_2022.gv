@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Merryn Mott (959)_La Trobe_2022" {
-	graph [label="La Trobe 2022" labelloc=t mclimit=2]
+	graph [label="La Trobe 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Merryn Mott (959)" [label="Merryn Mott (959)
 United Australia Party"]

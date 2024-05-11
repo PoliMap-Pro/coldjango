@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Carnwell (4628)_Griffith_2004" {
-	graph [label="Griffith 2004" labelloc=t mclimit=2]
+	graph [label="Griffith 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Carnwell (4628)" [label="Bruce Carnwell (4628)
 Australian Democrats"]

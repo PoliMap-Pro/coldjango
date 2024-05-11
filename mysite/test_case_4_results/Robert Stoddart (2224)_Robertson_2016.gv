@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Stoddart (2224)_Robertson_2016" {
-	graph [label="Robertson 2016" labelloc=t mclimit=2]
+	graph [label="Robertson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
 Christian Democratic Party (Fred Nile Group)"]

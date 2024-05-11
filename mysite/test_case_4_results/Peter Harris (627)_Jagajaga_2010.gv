@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Harris (627)_Jagajaga_2010" {
-	graph [label="Jagajaga 2010" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Harris (627)" [label="Peter Harris (627)
 Secular Party of Australia"]

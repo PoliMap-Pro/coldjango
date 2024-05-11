@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christian John Julius (1541)_Griffith_2019" {
-	graph [label="Griffith 2019" labelloc=t mclimit=2]
+	graph [label="Griffith 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christian John Julius (1541)" [label="Christian John Julius (1541)
 United Australia Party"]

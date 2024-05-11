@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Di Noia (1820)_Gorton_2019" {
-	graph [label="Gorton 2019" labelloc=t mclimit=2]
+	graph [label="Gorton 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Di Noia (1820)" [label="Nathan Di Noia (1820)
 Liberal"]

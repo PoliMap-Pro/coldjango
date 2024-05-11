@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor John Versace (3929)_Hinkler_2010" {
-	graph [label="Hinkler 2010" labelloc=t mclimit=2]
+	graph [label="Hinkler 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor John Versace (3929)" [label="Trevor John Versace (3929)
 Family First"]

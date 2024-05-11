@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Virosh Perera (1045)_Scullin_2022" {
-	graph [label="Scullin 2022" labelloc=t mclimit=2]
+	graph [label="Scullin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Virosh Perera (1045)" [label="Virosh Perera (1045)
 Liberal"]

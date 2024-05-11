@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hamish Jenkin Mitchell (1406)_Richmond_2019" {
-	graph [label="Richmond 2019" labelloc=t mclimit=2]
+	graph [label="Richmond 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hamish Jenkin Mitchell (1406)" [label="Hamish Jenkin Mitchell (1406)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Harris (627)_Boothby_2022" {
-	graph [label="Boothby 2022" labelloc=t mclimit=2]
+	graph [label="Boothby 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Harris (627)" [label="Peter Harris (627)
 Australian Federation Party"]

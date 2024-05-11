@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eleonora Gullone (2624)_Higgins_2016" {
-	graph [label="Higgins 2016" labelloc=t mclimit=2]
+	graph [label="Higgins 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eleonora Gullone (2624)" [label="Eleonora Gullone (2624)
 Animal Justice Party"]

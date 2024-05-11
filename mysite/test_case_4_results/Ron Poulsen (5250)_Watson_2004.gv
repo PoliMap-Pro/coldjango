@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ron Poulsen (5250)_Watson_2004" {
-	graph [label="Watson 2004" labelloc=t mclimit=2]
+	graph [label="Watson 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ron Poulsen (5250)" [label="Ron Poulsen (5250)
 "]

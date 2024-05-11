@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Benjamin Fox (271)_Parkes_2022" {
-	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Benjamin Fox (271)" [label="Benjamin Fox (271)
 Informed Medical Options Party"]

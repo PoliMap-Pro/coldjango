@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Stevens (3505)_McEwen_2013" {
-	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	graph [label="McEwen 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Stevens (3505)" [label="Bruce Stevens (3505)
 Katter's Australian Party"]

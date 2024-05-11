@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Toni Mccormack (496)_Herbert_2022" {
-	graph [label="Herbert 2022" labelloc=t mclimit=2]
+	graph [label="Herbert 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Toni Mccormack (496)" [label="Toni Mccormack (496)
 Animal Justice Party"]

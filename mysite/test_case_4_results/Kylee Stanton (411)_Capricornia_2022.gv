@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylee Stanton (411)_Capricornia_2022" {
-	graph [label="Capricornia 2022" labelloc=t mclimit=2]
+	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylee Stanton (411)" [label="Kylee Stanton (411)
 Pauline Hanson's One Nation"]

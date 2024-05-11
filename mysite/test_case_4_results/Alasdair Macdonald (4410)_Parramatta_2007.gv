@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alasdair Macdonald (4410)_Parramatta_2007" {
-	graph [label="Parramatta 2007" labelloc=t mclimit=2]
+	graph [label="Parramatta 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alasdair Macdonald (4410)" [label="Alasdair Macdonald (4410)
 "]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Billy Lawrence (3092)_Fadden_2013" {
-	graph [label="Fadden 2013" labelloc=t mclimit=2]
+	graph [label="Fadden 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
 Katter's Australian Party"]

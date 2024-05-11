@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zteven Whitty (419)_Capricornia_2022" {
-	graph [label="Capricornia 2022" labelloc=t mclimit=2]
+	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zteven Whitty (419)" [label="Zteven Whitty (419)
 The Great Australian Party"]

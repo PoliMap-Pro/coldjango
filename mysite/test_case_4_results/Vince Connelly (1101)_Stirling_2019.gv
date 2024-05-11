@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vince Connelly (1101)_Stirling_2019" {
-	graph [label="Stirling 2019" labelloc=t mclimit=2]
+	graph [label="Stirling 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vince Connelly (1101)" [label="Vince Connelly (1101)
 Liberal"]

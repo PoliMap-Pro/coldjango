@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Evans (731)_Lyons_2022" {
-	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Evans (731)" [label="Jason Evans (731)
 United Australia Party"]

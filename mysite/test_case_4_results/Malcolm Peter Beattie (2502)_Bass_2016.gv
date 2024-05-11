@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm Peter Beattie (2502)_Bass_2016" {
-	graph [label="Bass 2016" labelloc=t mclimit=2]
+	graph [label="Bass 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm Peter Beattie (2502)" [label="Malcolm Peter Beattie (2502)
 Christian Democratic Party (Fred Nile Group)"]

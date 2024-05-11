@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Hayman (1889)_McEwen_2019" {
-	graph [label="McEwen 2019" labelloc=t mclimit=2]
+	graph [label="McEwen 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Hayman (1889)" [label="Chris Hayman (1889)
 United Australia Party"]

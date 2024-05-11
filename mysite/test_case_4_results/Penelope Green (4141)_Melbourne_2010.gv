@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Penelope Green (4141)_Melbourne_2010" {
-	graph [label="Melbourne 2010" labelloc=t mclimit=2]
+	graph [label="Melbourne 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Penelope Green (4141)" [label="Penelope Green (4141)
 Secular Party of Australia"]

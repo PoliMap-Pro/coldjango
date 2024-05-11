@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ranj Perera (913)_Holt_2022" {
-	graph [label="Holt 2022" labelloc=t mclimit=2]
+	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ranj Perera (913)" [label="Ranj Perera (913)
 Liberal"]

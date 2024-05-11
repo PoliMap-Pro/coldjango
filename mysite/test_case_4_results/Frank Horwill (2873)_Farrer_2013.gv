@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Frank Horwill (2873)_Farrer_2013" {
-	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	graph [label="Farrer 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Frank Horwill (2873)" [label="Frank Horwill (2873)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Santo Ferraro (3977)_Wide Bay_2010" {
-	graph [label="Wide Bay 2010" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
 One Nation"]

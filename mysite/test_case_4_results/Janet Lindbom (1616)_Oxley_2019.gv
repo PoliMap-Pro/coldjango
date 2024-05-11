@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janet Lindbom (1616)_Oxley_2019" {
-	graph [label="Oxley 2019" labelloc=t mclimit=2]
+	graph [label="Oxley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janet Lindbom (1616)" [label="Janet Lindbom (1616)
 Pauline Hanson's One Nation"]

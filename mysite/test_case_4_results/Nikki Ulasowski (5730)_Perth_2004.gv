@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nikki Ulasowski (5730)_Perth_2004" {
-	graph [label="Perth 2004" labelloc=t mclimit=2]
+	graph [label="Perth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nikki Ulasowski (5730)" [label="Nikki Ulasowski (5730)
 Socialist Alliance"]

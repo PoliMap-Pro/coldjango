@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Evans (4548)_Forde_2007" {
-	graph [label="Forde 2007" labelloc=t mclimit=2]
+	graph [label="Forde 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Evans (4548)" [label="Rod Evans (4548)
 One Nation WA"]

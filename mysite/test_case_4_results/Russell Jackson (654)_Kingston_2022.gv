@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell Jackson (654)_Kingston_2022" {
-	graph [label="Kingston 2022" labelloc=t mclimit=2]
+	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell Jackson (654)" [label="Russell Jackson (654)
 United Australia Party"]

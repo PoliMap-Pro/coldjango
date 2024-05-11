@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Edward Clarke (4895)_Wills_2007" {
-	graph [label="Wills 2007" labelloc=t mclimit=2]
+	graph [label="Wills 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Edward Clarke (4895)" [label="Edward Clarke (4895)
 Australian Democrats"]

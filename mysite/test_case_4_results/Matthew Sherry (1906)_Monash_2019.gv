@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Sherry (1906)_Monash_2019" {
-	graph [label="Monash 2019" labelloc=t mclimit=2]
+	graph [label="Monash 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Sherry (1906)" [label="Matthew Sherry (1906)
 United Australia Party"]

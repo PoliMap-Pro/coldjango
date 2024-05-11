@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Whately (2747)_Forrest_2016" {
-	graph [label="Forrest 2016" labelloc=t mclimit=2]
+	graph [label="Forrest 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
 Rise Up Australia Party"]

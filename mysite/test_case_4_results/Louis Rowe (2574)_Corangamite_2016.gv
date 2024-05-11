@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Louis Rowe (2574)_Corangamite_2016" {
-	graph [label="Corangamite 2016" labelloc=t mclimit=2]
+	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Louis Rowe (2574)" [label="Louis Rowe (2574)
 Liberal Democrats"]

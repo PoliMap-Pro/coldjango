@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Farhan (2099)_Fowler_2016" {
-	graph [label="Fowler 2016" labelloc=t mclimit=2]
+	graph [label="Fowler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Farhan (2099)" [label="Adam Farhan (2099)
 Liberal"]

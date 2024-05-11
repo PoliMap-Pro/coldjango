@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Brian Deegan (5458)_Mayo_2004" {
+	graph [label="Mayo 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Brian Deegan (5458)" [label="Brian Deegan (5458)
+Independent"]
+	"James Murphy (1324)" [label="James Murphy (1324)
+Australian Labor Party"]
+	"Dennis Matthews (5457)" [label="Dennis Matthews (5457)
+The Greens"]
+	"Kevin Cramp (5461)" [label="Kevin Cramp (5461)
+Family First"]
+	"Kathy Brazher-De Laine (5460)" [label="Kathy Brazher-De Laine (5460)
+Australian Democrats"]
+	"Robert Fechner (4681)" [label="Robert Fechner (4681)
+One Nation"]
+	"Jon Grear (5459)" [label="Jon Grear (5459)
+Independent"]
+	"James Murphy (1324)" -> "Brian Deegan (5458)" [label=13641]
+	"Dennis Matthews (5457)" -> "James Murphy (1324)" [label=2206]
+	"Kevin Cramp (5461)" -> "Dennis Matthews (5457)" [label=398]
+	"Kathy Brazher-De Laine (5460)" -> "Kevin Cramp (5461)" [label=121]
+	"Robert Fechner (4681)" -> "Kathy Brazher-De Laine (5460)" [label=36]
+	"Jon Grear (5459)" -> "Robert Fechner (4681)" [label=11]
+	"Dennis Matthews (5457)" -> "Brian Deegan (5458)" [label=4169]
+	"Kevin Cramp (5461)" -> "Brian Deegan (5458)" [label=499]
+	"Kathy Brazher-De Laine (5460)" -> "Brian Deegan (5458)" [label=462]
+	"Robert Fechner (4681)" -> "Brian Deegan (5458)" [label=128]
+	"Jon Grear (5459)" -> "Brian Deegan (5458)" [label=224]
+	"Jon Grear (5459)" -> "Kathy Brazher-De Laine (5460)" [label=59]
+	"Robert Fechner (4681)" -> "Kevin Cramp (5461)" [label=238]
+	"Jon Grear (5459)" -> "Kevin Cramp (5461)" [label=57]
+	"Kathy Brazher-De Laine (5460)" -> "Dennis Matthews (5457)" [label=387]
+	"Robert Fechner (4681)" -> "Dennis Matthews (5457)" [label=75]
+	"Jon Grear (5459)" -> "Dennis Matthews (5457)" [label=55]
+	"Kevin Cramp (5461)" -> "James Murphy (1324)" [label=523]
+	"Kathy Brazher-De Laine (5460)" -> "James Murphy (1324)" [label=305]
+	"Robert Fechner (4681)" -> "James Murphy (1324)" [label=105]
+	"Jon Grear (5459)" -> "James Murphy (1324)" [label=64]
+}

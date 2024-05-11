@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Virag (880)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=2]
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Virag (880)" [label="Michael Virag (880)
 United Australia Party"]

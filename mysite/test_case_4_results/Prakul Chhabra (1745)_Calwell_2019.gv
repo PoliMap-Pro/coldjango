@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Prakul Chhabra (1745)_Calwell_2019" {
-	graph [label="Calwell 2019" labelloc=t mclimit=2]
+	graph [label="Calwell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Prakul Chhabra (1745)" [label="Prakul Chhabra (1745)
 United Australia Party"]

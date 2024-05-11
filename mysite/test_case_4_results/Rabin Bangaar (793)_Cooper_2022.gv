@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rabin Bangaar (793)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
 Animal Justice Party"]

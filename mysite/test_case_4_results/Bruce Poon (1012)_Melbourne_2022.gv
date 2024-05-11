@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Poon (1012)_Melbourne_2022" {
-	graph [label="Melbourne 2022" labelloc=t mclimit=2]
+	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Poon (1012)" [label="Bruce Poon (1012)
 Animal Justice Party"]

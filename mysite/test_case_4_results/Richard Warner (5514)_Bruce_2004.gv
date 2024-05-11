@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Warner (5514)_Bruce_2004" {
-	graph [label="Bruce 2004" labelloc=t mclimit=2]
+	graph [label="Bruce 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Warner (5514)" [label="Richard Warner (5514)
 Family First"]

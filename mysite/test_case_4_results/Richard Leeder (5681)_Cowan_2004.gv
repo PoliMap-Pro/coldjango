@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Leeder (5681)_Cowan_2004" {
-	graph [label="Cowan 2004" labelloc=t mclimit=2]
+	graph [label="Cowan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Leeder (5681)" [label="Richard Leeder (5681)
 CDP Christian Party"]

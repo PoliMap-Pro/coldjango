@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marcus Uren (87)_Cunningham_2022" {
-	graph [label="Cunningham 2022" labelloc=t mclimit=2]
+	graph [label="Cunningham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marcus Uren (87)" [label="Marcus Uren (87)
 Liberal"]

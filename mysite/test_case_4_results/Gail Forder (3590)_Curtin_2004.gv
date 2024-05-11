@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gail Forder (3590)_Curtin_2004" {
-	graph [label="Curtin 2004" labelloc=t mclimit=2]
+	graph [label="Curtin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gail Forder (3590)" [label="Gail Forder (3590)
 CDP Christian Party"]

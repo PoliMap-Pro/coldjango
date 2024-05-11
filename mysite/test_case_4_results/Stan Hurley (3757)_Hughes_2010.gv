@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stan Hurley (3757)_Hughes_2010" {
-	graph [label="Hughes 2010" labelloc=t mclimit=2]
+	graph [label="Hughes 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stan Hurley (3757)" [label="Stan Hurley (3757)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elrond Veness (3021)_Throsby_2013" {
-	graph [label="Throsby 2013" labelloc=t mclimit=2]
+	graph [label="Throsby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elrond Veness (3021)" [label="Elrond Veness (3021)
 Bullet Train For Australia"]

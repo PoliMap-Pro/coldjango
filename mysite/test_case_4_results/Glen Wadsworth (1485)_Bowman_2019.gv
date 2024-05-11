@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Wadsworth (1485)_Bowman_2019" {
-	graph [label="Bowman 2019" labelloc=t mclimit=2]
+	graph [label="Bowman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Wadsworth (1485)" [label="Glen Wadsworth (1485)
 Pauline Hanson's One Nation"]

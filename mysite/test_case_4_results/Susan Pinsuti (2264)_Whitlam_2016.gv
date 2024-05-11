@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Susan Pinsuti (2264)_Whitlam_2016" {
-	graph [label="Whitlam 2016" labelloc=t mclimit=2]
+	graph [label="Whitlam 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
 Christian Democratic Party (Fred Nile Group)"]

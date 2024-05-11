@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Edward Guymer (4745)_Bendigo_2007" {
-	graph [label="Bendigo 2007" labelloc=t mclimit=2]
+	graph [label="Bendigo 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Edward Guymer (4745)" [label="Edward Guymer (4745)
 Australian Democrats"]

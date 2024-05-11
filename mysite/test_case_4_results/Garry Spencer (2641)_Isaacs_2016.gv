@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Garry Spencer (2641)_Isaacs_2016" {
-	graph [label="Isaacs 2016" labelloc=t mclimit=2]
+	graph [label="Isaacs 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Garry Spencer (2641)" [label="Garry Spencer (2641)
 Liberal"]

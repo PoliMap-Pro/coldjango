@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Macisaac (1740)_Bruce_2019" {
-	graph [label="Bruce 2019" labelloc=t mclimit=2]
+	graph [label="Bruce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Macisaac (1740)" [label="John Macisaac (1740)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marcus Mitchell (574)_Petrie_2022" {
-	graph [label="Petrie 2022" labelloc=t mclimit=2]
+	graph [label="Petrie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marcus Mitchell (574)" [label="Marcus Mitchell (574)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Swarts (4906)_Canning_2007" {
-	graph [label="Canning 2007" labelloc=t mclimit=2]
+	graph [label="Canning 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Swarts (4906)" [label="Kevin Swarts (4906)
 Christian Democratic Party"]

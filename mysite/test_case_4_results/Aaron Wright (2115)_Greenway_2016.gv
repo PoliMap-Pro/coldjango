@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Wright (2115)_Greenway_2016" {
-	graph [label="Greenway 2016" labelloc=t mclimit=2]
+	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Wright (2115)" [label="Aaron Wright (2115)
 Christian Democratic Party (Fred Nile Group)"]

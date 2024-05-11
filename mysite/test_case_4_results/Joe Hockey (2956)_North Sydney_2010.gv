@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joe Hockey (2956)_North Sydney_2010" {
-	graph [label="North Sydney 2010" labelloc=t mclimit=2]
+	graph [label="North Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joe Hockey (2956)" [label="Joe Hockey (2956)
 Liberal"]

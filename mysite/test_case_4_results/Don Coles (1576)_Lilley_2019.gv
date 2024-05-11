@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Don Coles (1576)_Lilley_2019" {
-	graph [label="Lilley 2019" labelloc=t mclimit=2]
+	graph [label="Lilley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Don Coles (1576)" [label="Don Coles (1576)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

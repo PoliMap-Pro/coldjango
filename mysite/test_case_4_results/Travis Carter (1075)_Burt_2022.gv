@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Travis Carter (1075)_Burt_2022" {
-	graph [label="Burt 2022" labelloc=t mclimit=2]
+	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Travis Carter (1075)" [label="Travis Carter (1075)
 Pauline Hanson's One Nation"]

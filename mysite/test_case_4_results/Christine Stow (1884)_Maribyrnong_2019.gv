@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Stow (1884)_Maribyrnong_2019" {
-	graph [label="Maribyrnong 2019" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Stow (1884)" [label="Christine Stow (1884)
 Liberal"]

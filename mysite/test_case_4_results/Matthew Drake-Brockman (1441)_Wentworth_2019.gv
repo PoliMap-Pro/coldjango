@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Matthew Drake-Brockman (1441)_Wentworth_2019" {
+	graph [label="Wentworth 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Matthew Drake-Brockman (1441)" [label="Matthew Drake-Brockman (1441)
+Independent"]
+	"Paul Treacy (1443)" [label="Paul Treacy (1443)
+Christian Democratic Party (Fred Nile Group)"]
+	"Paul Treacy (1443)" -> "Matthew Drake-Brockman (1441)" [label=31]
+}

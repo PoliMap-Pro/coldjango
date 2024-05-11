@@ -1,6 +1,6 @@
 // House preference flow
 digraph "George Bilic (2168)_McMahon_2016" {
-	graph [label="McMahon 2016" labelloc=t mclimit=2]
+	graph [label="McMahon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"George Bilic (2168)" [label="George Bilic (2168)
 Liberal"]

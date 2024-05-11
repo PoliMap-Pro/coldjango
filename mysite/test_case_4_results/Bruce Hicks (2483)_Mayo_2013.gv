@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Hicks (2483)_Mayo_2013" {
-	graph [label="Mayo 2013" labelloc=t mclimit=2]
+	graph [label="Mayo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
 Family First"]

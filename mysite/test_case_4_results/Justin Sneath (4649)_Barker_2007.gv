@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Justin Sneath (4649)_Barker_2007" {
-	graph [label="Barker 2007" labelloc=t mclimit=2]
+	graph [label="Barker 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Justin Sneath (4649)" [label="Justin Sneath (4649)
 Australian Democrats"]

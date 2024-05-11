@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Jen Sackley (506)_Leichhardt_2004" {
+	graph [label="Leichhardt 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jen Sackley (506)" [label="Jen Sackley (506)
+Independent"]
+	"Ric Lippmann (5361)" [label="Ric Lippmann (5361)
+Family First"]
+	"Allen Reid (5362)" [label="Allen Reid (5362)
+Australian Democrats"]
+	"Ric Lippmann (5361)" -> "Jen Sackley (506)" [label=757]
+	"Allen Reid (5362)" -> "Ric Lippmann (5361)" [label=91]
+	"Allen Reid (5362)" -> "Jen Sackley (506)" [label=158]
+}

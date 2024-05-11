@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Broughton (2294)_Bonner_2016" {
-	graph [label="Bonner 2016" labelloc=t mclimit=2]
+	graph [label="Bonner 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Broughton (2294)" [label="Andrew Broughton (2294)
 Family First"]

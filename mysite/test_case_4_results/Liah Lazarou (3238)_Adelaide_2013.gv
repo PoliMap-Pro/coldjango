@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liah Lazarou (3238)_Adelaide_2013" {
-	graph [label="Adelaide 2013" labelloc=t mclimit=2]
+	graph [label="Adelaide 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liah Lazarou (3238)" [label="Liah Lazarou (3238)
 Socialist Alliance"]

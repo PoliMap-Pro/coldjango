@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris O'Callaghan (1644)_Wright_2019" {
-	graph [label="Wright 2019" labelloc=t mclimit=2]
+	graph [label="Wright 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris O'Callaghan (1644)" [label="Chris O'Callaghan (1644)
 Pauline Hanson's One Nation"]

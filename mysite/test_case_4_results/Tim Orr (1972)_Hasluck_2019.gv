@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Orr (1972)_Hasluck_2019" {
-	graph [label="Hasluck 2019" labelloc=t mclimit=2]
+	graph [label="Hasluck 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Orr (1972)" [label="Tim Orr (1972)
 Pauline Hanson's One Nation"]

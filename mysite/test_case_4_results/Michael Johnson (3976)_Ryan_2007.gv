@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Johnson (3976)_Ryan_2007" {
-	graph [label="Ryan 2007" labelloc=t mclimit=2]
+	graph [label="Ryan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Johnson (3976)" [label="Michael Johnson (3976)
 Liberal"]

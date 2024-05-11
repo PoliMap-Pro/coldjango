@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Darby (4293)_Dobell_2007" {
-	graph [label="Dobell 2007" labelloc=t mclimit=2]
+	graph [label="Dobell 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Darby (4293)" [label="Michael Darby (4293)
 Christian Democratic Party (Fred Nile Group)"]

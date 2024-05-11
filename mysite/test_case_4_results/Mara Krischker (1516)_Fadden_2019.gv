@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mara Krischker (1516)_Fadden_2019" {
-	graph [label="Fadden 2019" labelloc=t mclimit=2]
+	graph [label="Fadden 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mara Krischker (1516)" [label="Mara Krischker (1516)
 United Australia Party"]

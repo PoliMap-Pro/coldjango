@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Livesay (4130)_Maribyrnong_2010" {
-	graph [label="Maribyrnong 2010" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Livesay (4130)" [label="Robert Livesay (4130)
 Australian Democrats"]

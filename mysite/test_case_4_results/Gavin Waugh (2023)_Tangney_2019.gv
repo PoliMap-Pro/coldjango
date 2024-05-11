@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gavin Waugh (2023)_Tangney_2019" {
-	graph [label="Tangney 2019" labelloc=t mclimit=2]
+	graph [label="Tangney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gavin Waugh (2023)" [label="Gavin Waugh (2023)
 WESTERN AUSTRALIA PARTY"]

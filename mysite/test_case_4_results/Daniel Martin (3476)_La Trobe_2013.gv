@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Martin (3476)_La Trobe_2013" {
-	graph [label="La Trobe 2013" labelloc=t mclimit=2]
+	graph [label="La Trobe 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Martin (3476)" [label="Daniel Martin (3476)
 Family First Party"]

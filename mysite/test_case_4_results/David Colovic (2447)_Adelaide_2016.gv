@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Colovic (2447)_Adelaide_2016" {
-	graph [label="Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Colovic (2447)" [label="David Colovic (2447)
 Liberal"]

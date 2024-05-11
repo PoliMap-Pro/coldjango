@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nola Marino (1128)_Forrest_2007" {
-	graph [label="Forrest 2007" labelloc=t mclimit=2]
+	graph [label="Forrest 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nola Marino (1128)" [label="Nola Marino (1128)
 Liberal"]

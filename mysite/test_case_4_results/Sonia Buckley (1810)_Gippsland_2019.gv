@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Sonia Buckley (1810)_Gippsland_2019" {
+	graph [label="Gippsland 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Sonia Buckley (1810)" [label="Sonia Buckley (1810)
+Independent"]
+	"Neville Phillip Tickner (1807)" [label="Neville Phillip Tickner (1807)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Neville Phillip Tickner (1807)" -> "Sonia Buckley (1810)" [label=163]
+}

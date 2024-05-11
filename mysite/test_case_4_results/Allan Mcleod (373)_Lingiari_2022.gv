@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan Mcleod (373)_Lingiari_2022" {
-	graph [label="Lingiari 2022" labelloc=t mclimit=2]
+	graph [label="Lingiari 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan Mcleod (373)" [label="Allan Mcleod (373)
 United Australia Party"]

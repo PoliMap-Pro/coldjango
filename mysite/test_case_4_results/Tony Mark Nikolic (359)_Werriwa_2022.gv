@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Mark Nikolic (359)_Werriwa_2022" {
-	graph [label="Werriwa 2022" labelloc=t mclimit=2]
+	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Mark Nikolic (359)" [label="Tony Mark Nikolic (359)
 United Australia Party"]

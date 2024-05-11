@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gavin Brett (3724)_Dobell_2010" {
-	graph [label="Dobell 2010" labelloc=t mclimit=2]
+	graph [label="Dobell 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gavin Brett (3724)" [label="Gavin Brett (3724)
 Family First"]

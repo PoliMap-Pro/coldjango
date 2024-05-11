@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kristin Lambert (3243)_Barker_2013" {
-	graph [label="Barker 2013" labelloc=t mclimit=2]
+	graph [label="Barker 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kristin Lambert (3243)" [label="Kristin Lambert (3243)
 Family First"]

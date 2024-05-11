@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Vasta (393)_Bonner_2007" {
-	graph [label="Bonner 2007" labelloc=t mclimit=2]
+	graph [label="Bonner 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Vasta (393)" [label="Ross Vasta (393)
 Liberal"]

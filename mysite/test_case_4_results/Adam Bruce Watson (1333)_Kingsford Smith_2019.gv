@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Bruce Watson (1333)_Kingsford Smith_2019" {
-	graph [label="Kingsford Smith 2019" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Bruce Watson (1333)" [label="Adam Bruce Watson (1333)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lesley Croll (3651)_Perth_2013" {
-	graph [label="Perth 2013" labelloc=t mclimit=2]
+	graph [label="Perth 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lesley Croll (3651)" [label="Lesley Croll (3651)
 Family First Party"]

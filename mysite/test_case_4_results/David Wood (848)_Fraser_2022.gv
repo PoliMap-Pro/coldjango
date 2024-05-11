@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Wood (848)_Fraser_2022" {
-	graph [label="Fraser 2022" labelloc=t mclimit=2]
+	graph [label="Fraser 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Wood (848)" [label="David Wood (848)
 Liberal"]

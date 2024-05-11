@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Derek Major (4944)_Kalgoorlie_2007" {
-	graph [label="Kalgoorlie 2007" labelloc=t mclimit=2]
+	graph [label="Kalgoorlie 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Derek Major (4944)" [label="Derek Major (4944)
 One Nation WA"]

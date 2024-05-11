@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Jeanie Walker (5454)_Makin_2004" {
+	graph [label="Makin 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeanie Walker (5454)" [label="Jeanie Walker (5454)
+Independent"]
+	"Victor Horvat (5455)" [label="Victor Horvat (5455)
+One Nation"]
+	"Victor Horvat (5455)" -> "Jeanie Walker (5454)" [label=141]
+}

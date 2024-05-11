@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sophie Lehmann (708)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t mclimit=2]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sophie Lehmann (708)" [label="Sophie Lehmann (708)
 Jacqui Lambie Network"]

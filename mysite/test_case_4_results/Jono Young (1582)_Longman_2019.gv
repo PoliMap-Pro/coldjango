@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jono Young (1582)_Longman_2019" {
-	graph [label="Longman 2019" labelloc=t mclimit=2]
+	graph [label="Longman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jono Young (1582)" [label="Jono Young (1582)
 Australian Progressives"]

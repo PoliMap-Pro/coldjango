@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roland Laverack (1099)_Cowan_2022" {
-	graph [label="Cowan 2022" labelloc=t mclimit=2]
+	graph [label="Cowan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roland Laverack (1099)" [label="Roland Laverack (1099)
 WESTERN AUSTRALIA PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amy Byrnes (1563)_Hinkler_2019" {
-	graph [label="Hinkler 2019" labelloc=t mclimit=2]
+	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amy Byrnes (1563)" [label="Amy Byrnes (1563)
 Animal Justice Party"]

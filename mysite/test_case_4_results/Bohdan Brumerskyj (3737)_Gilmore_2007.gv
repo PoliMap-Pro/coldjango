@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bohdan Brumerskyj (3737)_Gilmore_2007" {
-	graph [label="Gilmore 2007" labelloc=t mclimit=2]
+	graph [label="Gilmore 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bohdan Brumerskyj (3737)" [label="Bohdan Brumerskyj (3737)
 Christian Democratic Party (Fred Nile Group)"]

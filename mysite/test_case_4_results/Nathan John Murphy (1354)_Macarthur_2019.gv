@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan John Murphy (1354)_Macarthur_2019" {
-	graph [label="Macarthur 2019" labelloc=t mclimit=2]
+	graph [label="Macarthur 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan John Murphy (1354)" [label="Nathan John Murphy (1354)
 United Australia Party"]

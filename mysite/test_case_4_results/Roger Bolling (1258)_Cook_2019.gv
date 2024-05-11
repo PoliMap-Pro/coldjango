@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Bolling (1258)_Cook_2019" {
-	graph [label="Cook 2019" labelloc=t mclimit=2]
+	graph [label="Cook 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Bolling (1258)" [label="Roger Bolling (1258)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jill Tindal (1056)_Wills_2022" {
-	graph [label="Wills 2022" labelloc=t mclimit=2]
+	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jill Tindal (1056)" [label="Jill Tindal (1056)
 Pauline Hanson's One Nation"]

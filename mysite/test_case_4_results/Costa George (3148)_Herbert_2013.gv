@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Costa George (3148)_Herbert_2013" {
-	graph [label="Herbert 2013" labelloc=t mclimit=2]
+	graph [label="Herbert 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Costa George (3148)" [label="Costa George (3148)
 Sex Party"]

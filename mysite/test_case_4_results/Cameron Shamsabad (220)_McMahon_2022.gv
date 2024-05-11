@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Shamsabad (220)_McMahon_2022" {
-	graph [label="McMahon 2022" labelloc=t mclimit=2]
+	graph [label="McMahon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
 Liberal Democrats"]

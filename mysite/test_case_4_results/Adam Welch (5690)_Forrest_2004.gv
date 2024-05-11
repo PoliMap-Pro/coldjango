@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Welch (5690)_Forrest_2004" {
-	graph [label="Forrest 2004" labelloc=t mclimit=2]
+	graph [label="Forrest 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Welch (5690)" [label="Adam Welch (5690)
 Australian Democrats"]

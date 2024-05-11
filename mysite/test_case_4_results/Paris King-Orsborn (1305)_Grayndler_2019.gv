@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paris King-Orsborn (1305)_Grayndler_2019" {
-	graph [label="Grayndler 2019" labelloc=t mclimit=2]
+	graph [label="Grayndler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paris King-Orsborn (1305)" [label="Paris King-Orsborn (1305)
 United Australia Party"]

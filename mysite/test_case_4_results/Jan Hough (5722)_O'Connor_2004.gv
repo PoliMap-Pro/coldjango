@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jan Hough (5722)_O'Connor_2004" {
-	graph [label="O'Connor 2004" labelloc=t mclimit=2]
+	graph [label="O'Connor 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jan Hough (5722)" [label="Jan Hough (5722)
 New Country Party"]

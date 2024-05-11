@@ -1,6 +1,6 @@
 // House preference flow
 digraph "June Scifo (2237)_Warringah_2016" {
-	graph [label="Warringah 2016" labelloc=t mclimit=2]
+	graph [label="Warringah 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"June Scifo (2237)" [label="June Scifo (2237)
 Christian Democratic Party (Fred Nile Group)"]

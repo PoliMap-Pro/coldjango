@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ryan Mcalister (337)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ryan Mcalister (337)" [label="Ryan Mcalister (337)
 United Australia Party"]

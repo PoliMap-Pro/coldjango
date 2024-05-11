@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Whitfield (785)_Chisholm_2022" {
-	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	graph [label="Chisholm 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Whitfield (785)" [label="Rod Whitfield (785)
 Animal Justice Party"]

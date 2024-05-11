@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Caroline Larner (5476)_Bass_2004" {
-	graph [label="Bass 2004" labelloc=t mclimit=2]
+	graph [label="Bass 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Caroline Larner (5476)" [label="Caroline Larner (5476)
 Citizens Electoral Council"]

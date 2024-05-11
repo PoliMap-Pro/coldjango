@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Merry Foy (4460)_Watson_2007" {
-	graph [label="Watson 2007" labelloc=t mclimit=2]
+	graph [label="Watson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Merry Foy (4460)" [label="Merry Foy (4460)
 Family First"]

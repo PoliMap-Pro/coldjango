@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Zanker (4008)_Kingston_2010" {
-	graph [label="Kingston 2010" labelloc=t mclimit=2]
+	graph [label="Kingston 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Zanker (4008)" [label="Chris Zanker (4008)
 Liberal"]

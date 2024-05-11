@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Genevieve Hamilton (1747)_Calwell_2019" {
-	graph [label="Calwell 2019" labelloc=t mclimit=2]
+	graph [label="Calwell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Genevieve Hamilton (1747)" [label="Genevieve Hamilton (1747)
 Liberal"]

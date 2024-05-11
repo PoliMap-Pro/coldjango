@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Bull (410)_Brisbane_2022" {
-	graph [label="Brisbane 2022" labelloc=t mclimit=2]
+	graph [label="Brisbane 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Bull (410)" [label="Anthony Bull (410)
 Liberal Democrats"]

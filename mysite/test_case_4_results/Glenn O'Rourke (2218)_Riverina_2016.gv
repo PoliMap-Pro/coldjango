@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glenn O'Rourke (2218)_Riverina_2016" {
-	graph [label="Riverina 2016" labelloc=t mclimit=2]
+	graph [label="Riverina 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
 Family First"]

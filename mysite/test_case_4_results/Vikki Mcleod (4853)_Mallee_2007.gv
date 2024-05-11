@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vikki Mcleod (4853)_Mallee_2007" {
-	graph [label="Mallee 2007" labelloc=t mclimit=2]
+	graph [label="Mallee 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vikki Mcleod (4853)" [label="Vikki Mcleod (4853)
 Australian Democrats"]

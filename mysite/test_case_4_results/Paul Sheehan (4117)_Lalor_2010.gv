@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Sheehan (4117)_Lalor_2010" {
-	graph [label="Lalor 2010" labelloc=t mclimit=2]
+	graph [label="Lalor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Sheehan (4117)" [label="Paul Sheehan (4117)
 Secular Party of Australia"]

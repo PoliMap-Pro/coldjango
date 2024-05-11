@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Avi Chapman (3999)_Boothby_2010" {
-	graph [label="Boothby 2010" labelloc=t mclimit=2]
+	graph [label="Boothby 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Avi Chapman (3999)" [label="Avi Chapman (3999)
 Secular Party of Australia"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Thomson (1585)_Longman_2019" {
-	graph [label="Longman 2019" labelloc=t mclimit=2]
+	graph [label="Longman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Thomson (1585)" [label="Matthew Thomson (1585)
 Pauline Hanson's One Nation"]

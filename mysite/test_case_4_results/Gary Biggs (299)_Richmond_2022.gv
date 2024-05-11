@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gary Biggs (299)_Richmond_2022" {
-	graph [label="Richmond 2022" labelloc=t mclimit=2]
+	graph [label="Richmond 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gary Biggs (299)" [label="Gary Biggs (299)
 Liberal Democrats"]

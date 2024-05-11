@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Catherine Cumming (2666)_Maribyrnong_2016" {
+	graph [label="Maribyrnong 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Catherine Cumming (2666)" [label="Catherine Cumming (2666)
+Independent"]
+	"Fiona Mcrostie (2667)" [label="Fiona Mcrostie (2667)
+Animal Justice Party"]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
+	"Fiona Mcrostie (2667)" -> "Catherine Cumming (2666)" [label=923]
+	"Anthony O'Neill (2665)" -> "Fiona Mcrostie (2667)" [label=151]
+	"Anthony O'Neill (2665)" -> "Catherine Cumming (2666)" [label=406]
+}

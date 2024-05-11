@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emily Lohse (383)_Solomon_2022" {
-	graph [label="Solomon 2022" labelloc=t mclimit=2]
+	graph [label="Solomon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emily Lohse (383)" [label="Emily Lohse (383)
 Pauline Hanson's One Nation"]

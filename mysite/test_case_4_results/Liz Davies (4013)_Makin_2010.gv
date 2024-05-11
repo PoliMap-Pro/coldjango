@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Davies (4013)_Makin_2010" {
-	graph [label="Makin 2010" labelloc=t mclimit=2]
+	graph [label="Makin 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Davies (4013)" [label="Liz Davies (4013)
 Liberal"]

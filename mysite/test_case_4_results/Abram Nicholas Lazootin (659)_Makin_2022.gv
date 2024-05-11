@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Abram Nicholas Lazootin (659)_Makin_2022" {
-	graph [label="Makin 2022" labelloc=t mclimit=2]
+	graph [label="Makin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
 Australian Federation Party"]

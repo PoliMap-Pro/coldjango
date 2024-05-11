@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacky Young (4207)_O'Connor_2010" {
-	graph [label="O'Connor 2010" labelloc=t mclimit=2]
+	graph [label="O'Connor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacky Young (4207)" [label="Jacky Young (4207)
 Christian Democratic Party"]

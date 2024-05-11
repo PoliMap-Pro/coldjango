@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hal Johnson (4426)_Fowler_2004" {
-	graph [label="Fowler 2004" labelloc=t mclimit=2]
+	graph [label="Fowler 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hal Johnson (4426)" [label="Hal Johnson (4426)
 Citizens Electoral Council"]

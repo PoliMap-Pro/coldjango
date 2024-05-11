@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Hall (421)_Dawson_2022" {
-	graph [label="Dawson 2022" labelloc=t mclimit=2]
+	graph [label="Dawson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Hall (421)" [label="Julie Hall (421)
 Pauline Hanson's One Nation"]

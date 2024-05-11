@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geraldine Waters (5125)_Lindsay_2004" {
-	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	graph [label="Lindsay 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geraldine Waters (5125)" [label="Geraldine Waters (5125)
 Australian Democrats"]

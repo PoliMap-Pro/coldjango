@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Boyle (2233)_Sydney_2013" {
-	graph [label="Sydney 2013" labelloc=t mclimit=2]
+	graph [label="Sydney 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Boyle (2233)" [label="Peter Boyle (2233)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne Gregory Riley (3769)_Hunter_2010" {
-	graph [label="Hunter 2010" labelloc=t mclimit=2]
+	graph [label="Hunter 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne Gregory Riley (3769)" [label="Wayne Gregory Riley (3769)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Damian Mudge (1387)_Page_2019" {
-	graph [label="Page 2019" labelloc=t mclimit=2]
+	graph [label="Page 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Damian Mudge (1387)" [label="John Damian Mudge (1387)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Main (3519)_Melbourne_2013" {
-	graph [label="Melbourne 2013" labelloc=t mclimit=2]
+	graph [label="Melbourne 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Main (3519)" [label="Anthony Main (3519)
 "]

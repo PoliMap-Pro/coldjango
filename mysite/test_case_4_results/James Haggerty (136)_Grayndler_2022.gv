@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Haggerty (136)_Grayndler_2022" {
-	graph [label="Grayndler 2022" labelloc=t mclimit=2]
+	graph [label="Grayndler 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Haggerty (136)" [label="James Haggerty (136)
 FUSION: Science, Pirate, Secular, Climate Emergency"]

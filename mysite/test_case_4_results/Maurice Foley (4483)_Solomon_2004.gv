@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maurice Foley (4483)_Solomon_2004" {
-	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	graph [label="Solomon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maurice Foley (4483)" [label="Maurice Foley (4483)
 "]

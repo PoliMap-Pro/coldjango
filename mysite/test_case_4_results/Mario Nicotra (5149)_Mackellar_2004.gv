@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mario Nicotra (5149)_Mackellar_2004" {
-	graph [label="Mackellar 2004" labelloc=t mclimit=2]
+	graph [label="Mackellar 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mario Nicotra (5149)" [label="Mario Nicotra (5149)
 Australian Democrats"]

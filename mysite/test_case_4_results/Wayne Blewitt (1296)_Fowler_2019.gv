@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne Blewitt (1296)_Fowler_2019" {
-	graph [label="Fowler 2019" labelloc=t mclimit=2]
+	graph [label="Fowler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne Blewitt (1296)" [label="Wayne Blewitt (1296)
 Liberal"]

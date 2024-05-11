@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Innes Witten (2947)_New England_2010" {
-	graph [label="New England 2010" labelloc=t mclimit=2]
+	graph [label="New England 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
 Citizens Electoral Council of Australia"]

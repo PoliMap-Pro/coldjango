@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rachel Elliott (4472)_Werriwa_2007" {
-	graph [label="Werriwa 2007" labelloc=t mclimit=2]
+	graph [label="Werriwa 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rachel Elliott (4472)" [label="Rachel Elliott (4472)
 Liberal"]

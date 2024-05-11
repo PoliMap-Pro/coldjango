@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Paul Wilcock (5054)_Cunningham_2004" {
+	graph [label="Cunningham 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Paul Wilcock (5054)" [label="Paul Wilcock (5054)
+Independent"]
+	"John Flanagan (1270)" [label="John Flanagan (1270)
+Non-Custodial Parents Party"]
+	"Chris Williams (5055)" [label="Chris Williams (5055)
+Socialist Alliance"]
+	"John Flanagan (1270)" -> "Paul Wilcock (5054)" [label=13]
+	"Chris Williams (5055)" -> "John Flanagan (1270)" [label=2]
+	"Chris Williams (5055)" -> "Paul Wilcock (5054)" [label=11]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ingram Magnus Spencer (899)_Higgins_2022" {
-	graph [label="Higgins 2022" labelloc=t mclimit=2]
+	graph [label="Higgins 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ingram Magnus Spencer (899)" [label="Ingram Magnus Spencer (899)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mike Kelly (541)_Maranoa_2022" {
-	graph [label="Maranoa 2022" labelloc=t mclimit=2]
+	graph [label="Maranoa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mike Kelly (541)" [label="Mike Kelly (541)
 Pauline Hanson's One Nation"]

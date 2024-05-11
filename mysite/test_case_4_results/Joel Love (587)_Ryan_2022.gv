@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joel Love (587)_Ryan_2022" {
-	graph [label="Ryan 2022" labelloc=t mclimit=2]
+	graph [label="Ryan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joel Love (587)" [label="Joel Love (587)
 Pauline Hanson's One Nation"]

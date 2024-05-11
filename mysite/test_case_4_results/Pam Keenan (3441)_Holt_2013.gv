@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pam Keenan (3441)_Holt_2013" {
-	graph [label="Holt 2013" labelloc=t mclimit=2]
+	graph [label="Holt 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pam Keenan (3441)" [label="Pam Keenan (3441)
 Family First Party"]

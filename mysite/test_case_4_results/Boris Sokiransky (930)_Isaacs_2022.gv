@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Boris Sokiransky (930)_Isaacs_2022" {
-	graph [label="Isaacs 2022" labelloc=t mclimit=2]
+	graph [label="Isaacs 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Boris Sokiransky (930)" [label="Boris Sokiransky (930)
 Pauline Hanson's One Nation"]

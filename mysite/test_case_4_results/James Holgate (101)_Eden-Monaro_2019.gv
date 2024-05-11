@@ -1,0 +1,10 @@
+// House preference flow
+digraph "James Holgate (101)_Eden-Monaro_2019" {
+	graph [label="Eden-Monaro 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"James Holgate (101)" [label="James Holgate (101)
+Independent"]
+	"Thomas Harris (1282)" [label="Thomas Harris (1282)
+Christian Democratic Party (Fred Nile Group)"]
+	"Thomas Harris (1282)" -> "James Holgate (101)" [label=122]
+}

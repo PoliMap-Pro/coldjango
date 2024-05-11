@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rebecca Thompson (158)_Hume_2022" {
-	graph [label="Hume 2022" labelloc=t mclimit=2]
+	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rebecca Thompson (158)" [label="Rebecca Thompson (158)
 Pauline Hanson's One Nation"]

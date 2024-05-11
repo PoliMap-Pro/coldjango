@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Myszka (3366)_Chisholm_2013" {
-	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	graph [label="Chisholm 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Myszka (3366)" [label="Martin Myszka (3366)
 Family First Party"]

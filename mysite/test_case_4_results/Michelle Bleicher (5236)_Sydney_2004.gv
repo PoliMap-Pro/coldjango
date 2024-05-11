@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Bleicher (5236)_Sydney_2004" {
-	graph [label="Sydney 2004" labelloc=t mclimit=2]
+	graph [label="Sydney 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Bleicher (5236)" [label="Michelle Bleicher (5236)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Nguyen (3364)_Chisholm_2013" {
-	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	graph [label="Chisholm 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Nguyen (3364)" [label="John Nguyen (3364)
 Liberal"]

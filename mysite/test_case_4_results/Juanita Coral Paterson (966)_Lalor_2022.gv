@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Juanita Coral Paterson (966)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Juanita Coral Paterson (966)" [label="Juanita Coral Paterson (966)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colleen Tapley (5752)_Tangney_2004" {
-	graph [label="Tangney 2004" labelloc=t mclimit=2]
+	graph [label="Tangney 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colleen Tapley (5752)" [label="Colleen Tapley (5752)
 CDP Christian Party"]

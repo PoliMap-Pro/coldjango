@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yasmin De Zilwa (3384)_Deakin_2004" {
-	graph [label="Deakin 2004" labelloc=t mclimit=2]
+	graph [label="Deakin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
 Family First"]

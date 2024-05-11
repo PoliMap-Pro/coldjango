@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marilyn Phillips (2496)_Wakefield_2016" {
-	graph [label="Wakefield 2016" labelloc=t mclimit=2]
+	graph [label="Wakefield 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marilyn Phillips (2496)" [label="Marilyn Phillips (2496)
 Family First"]

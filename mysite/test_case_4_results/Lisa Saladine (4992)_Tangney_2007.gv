@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lisa Saladine (4992)_Tangney_2007" {
-	graph [label="Tangney 2007" labelloc=t mclimit=2]
+	graph [label="Tangney 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lisa Saladine (4992)" [label="Lisa Saladine (4992)
 Family First"]

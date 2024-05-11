@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Anthoney (2123)_Hume_2016" {
-	graph [label="Hume 2016" labelloc=t mclimit=2]
+	graph [label="Hume 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Anthoney (2123)" [label="Trevor Anthoney (2123)
 Bullet Train For Australia"]

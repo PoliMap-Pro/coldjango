@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Bolton (1059)_Wills_2019" {
-	graph [label="Wills 2019" labelloc=t mclimit=2]
+	graph [label="Wills 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Bolton (1059)" [label="Sue Bolton (1059)
 Victorian Socialists"]

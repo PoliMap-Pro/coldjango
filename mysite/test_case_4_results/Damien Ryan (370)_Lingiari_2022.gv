@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damien Ryan (370)_Lingiari_2022" {
-	graph [label="Lingiari 2022" labelloc=t mclimit=2]
+	graph [label="Lingiari 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damien Ryan (370)" [label="Damien Ryan (370)
 NT CLP"]

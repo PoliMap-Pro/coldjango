@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tasman Gilbert (4984)_Swan_2007" {
-	graph [label="Swan 2007" labelloc=t mclimit=2]
+	graph [label="Swan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tasman Gilbert (4984)" [label="Tasman Gilbert (4984)
 Christian Democratic Party"]

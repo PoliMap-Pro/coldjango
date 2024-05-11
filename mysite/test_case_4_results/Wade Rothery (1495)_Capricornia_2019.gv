@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wade Rothery (1495)_Capricornia_2019" {
-	graph [label="Capricornia 2019" labelloc=t mclimit=2]
+	graph [label="Capricornia 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wade Rothery (1495)" [label="Wade Rothery (1495)
 Pauline Hanson's One Nation"]

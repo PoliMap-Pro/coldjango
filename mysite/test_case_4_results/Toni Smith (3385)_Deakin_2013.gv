@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Toni Smith (3385)_Deakin_2013" {
-	graph [label="Deakin 2013" labelloc=t mclimit=2]
+	graph [label="Deakin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Toni Smith (3385)" [label="Toni Smith (3385)
 Country Alliance"]

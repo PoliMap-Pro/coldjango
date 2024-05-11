@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Bloomfield (2060)_Calare_2016" {
-	graph [label="Calare 2016" labelloc=t mclimit=2]
+	graph [label="Calare 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
 Nick Xenophon Team"]

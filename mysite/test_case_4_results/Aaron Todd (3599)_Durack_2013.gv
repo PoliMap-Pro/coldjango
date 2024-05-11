@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Todd (3599)_Durack_2013" {
-	graph [label="Durack 2013" labelloc=t mclimit=2]
+	graph [label="Durack 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Todd (3599)" [label="Aaron Todd (3599)
 Katter's Australian Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Kay (1870)_Macnamara_2019" {
-	graph [label="Macnamara 2019" labelloc=t mclimit=2]
+	graph [label="Macnamara 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Kay (1870)" [label="Christine Kay (1870)
 Rise Up Australia Party"]

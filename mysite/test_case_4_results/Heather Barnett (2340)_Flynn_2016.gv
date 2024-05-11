@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Barnett (2340)_Flynn_2016" {
-	graph [label="Flynn 2016" labelloc=t mclimit=2]
+	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Barnett (2340)" [label="Heather Barnett (2340)
 Family First"]

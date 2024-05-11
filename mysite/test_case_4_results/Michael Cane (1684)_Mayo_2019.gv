@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Cane (1684)_Mayo_2019" {
-	graph [label="Mayo 2019" labelloc=t mclimit=2]
+	graph [label="Mayo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Cane (1684)" [label="Michael Cane (1684)
 United Australia Party"]

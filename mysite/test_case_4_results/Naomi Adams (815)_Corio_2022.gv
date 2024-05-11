@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Naomi Adams (815)_Corio_2022" {
-	graph [label="Corio 2022" labelloc=t mclimit=2]
+	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Naomi Adams (815)" [label="Naomi Adams (815)
 Animal Justice Party"]

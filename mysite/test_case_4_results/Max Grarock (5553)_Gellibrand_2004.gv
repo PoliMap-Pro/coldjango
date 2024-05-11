@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Max Grarock (5553)_Gellibrand_2004" {
-	graph [label="Gellibrand 2004" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Max Grarock (5553)" [label="Max Grarock (5553)
 Democrats"]

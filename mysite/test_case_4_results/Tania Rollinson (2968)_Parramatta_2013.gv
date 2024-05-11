@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tania Rollinson (2968)_Parramatta_2013" {
-	graph [label="Parramatta 2013" labelloc=t mclimit=2]
+	graph [label="Parramatta 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
 One Nation"]

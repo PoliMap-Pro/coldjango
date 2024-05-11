@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angel Aleksov (920)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t mclimit=2]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angel Aleksov (920)" [label="Angel Aleksov (920)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joan Anne Lever (1945)_Curtin_2019" {
-	graph [label="Curtin 2019" labelloc=t mclimit=2]
+	graph [label="Curtin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joan Anne Lever (1945)" [label="Joan Anne Lever (1945)
 United Australia Party"]

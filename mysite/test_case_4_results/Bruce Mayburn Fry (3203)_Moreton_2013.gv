@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Mayburn Fry (3203)_Moreton_2013" {
-	graph [label="Moreton 2013" labelloc=t mclimit=2]
+	graph [label="Moreton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Mayburn Fry (3203)" [label="Bruce Mayburn Fry (3203)
 Rise Up Australia Party"]

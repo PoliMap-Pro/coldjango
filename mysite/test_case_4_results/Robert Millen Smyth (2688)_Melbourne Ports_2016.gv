@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Millen Smyth (2688)_Melbourne Ports_2016" {
-	graph [label="Melbourne Ports 2016" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Millen Smyth (2688)" [label="Robert Millen Smyth (2688)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Zahra (199)_Macarthur_2022" {
-	graph [label="Macarthur 2022" labelloc=t mclimit=2]
+	graph [label="Macarthur 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Zahra (199)" [label="Adam Zahra (199)
 Pauline Hanson's One Nation"]

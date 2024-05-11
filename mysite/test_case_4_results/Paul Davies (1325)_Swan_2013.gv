@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Davies (1325)_Swan_2013" {
-	graph [label="Swan 2013" labelloc=t mclimit=2]
+	graph [label="Swan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Davies (1325)" [label="Paul Davies (1325)
 Rise Up Australia Party"]

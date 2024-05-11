@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Hamberger (4418)_Paterson_2007" {
-	graph [label="Paterson 2007" labelloc=t mclimit=2]
+	graph [label="Paterson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Hamberger (4418)" [label="John Hamberger (4418)
 One Nation"]

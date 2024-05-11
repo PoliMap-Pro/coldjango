@@ -1,0 +1,10 @@
+// House preference flow
+digraph "David Daniel Ball (3691)_Blaxland_2010" {
+	graph [label="Blaxland 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Daniel Ball (3691)" [label="David Daniel Ball (3691)
+Independent"]
+	"Ronald Poulsen (3694)" [label="Ronald Poulsen (3694)
+"]
+	"Ronald Poulsen (3694)" -> "David Daniel Ball (3691)" [label=32]
+}

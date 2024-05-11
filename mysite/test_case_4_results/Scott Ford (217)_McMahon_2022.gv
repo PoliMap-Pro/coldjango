@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Ford (217)_McMahon_2022" {
-	graph [label="McMahon 2022" labelloc=t mclimit=2]
+	graph [label="McMahon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Ford (217)" [label="Scott Ford (217)
 Pauline Hanson's One Nation"]

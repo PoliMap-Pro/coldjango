@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Watson (4600)_Maranoa_2007" {
-	graph [label="Maranoa 2007" labelloc=t mclimit=2]
+	graph [label="Maranoa 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Watson (4600)" [label="Rod Watson (4600)
 One Nation WA"]

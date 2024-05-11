@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Chester Gordon Tuxford (3158)_Kennedy_2013" {
+	graph [label="Kennedy 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Chester Gordon Tuxford (3158)" [label="Chester Gordon Tuxford (3158)
+Independent"]
+	"Pam Hecht (3160)" [label="Pam Hecht (3160)
+Rise Up Australia Party"]
+	"Pam Hecht (3160)" -> "Chester Gordon Tuxford (3158)" [label=25]
+}

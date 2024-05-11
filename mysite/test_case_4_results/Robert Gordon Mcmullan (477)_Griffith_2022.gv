@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Gordon Mcmullan (477)_Griffith_2022" {
-	graph [label="Griffith 2022" labelloc=t mclimit=2]
+	graph [label="Griffith 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Gordon Mcmullan (477)" [label="Robert Gordon Mcmullan (477)
 United Australia Party"]

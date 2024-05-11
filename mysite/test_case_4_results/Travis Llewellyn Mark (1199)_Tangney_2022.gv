@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Travis Llewellyn Mark (1199)_Tangney_2022" {
-	graph [label="Tangney 2022" labelloc=t mclimit=2]
+	graph [label="Tangney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Travis Llewellyn Mark (1199)" [label="Travis Llewellyn Mark (1199)
 United Australia Party"]

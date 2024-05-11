@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Barry Wakelin (5439)_Grey_2004" {
-	graph [label="Grey 2004" labelloc=t mclimit=2]
+	graph [label="Grey 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Barry Wakelin (5439)" [label="Barry Wakelin (5439)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Donna Petrovich (3507)_McEwen_2013" {
-	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	graph [label="McEwen 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Donna Petrovich (3507)" [label="Donna Petrovich (3507)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Michael Hobart (989)_Maribyrnong_2022" {
-	graph [label="Maribyrnong 2022" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
 The Great Australian Party"]

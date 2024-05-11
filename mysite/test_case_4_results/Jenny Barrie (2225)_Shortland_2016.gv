@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jenny Barrie (2225)_Shortland_2016" {
-	graph [label="Shortland 2016" labelloc=t mclimit=2]
+	graph [label="Shortland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jenny Barrie (2225)" [label="Jenny Barrie (2225)
 Liberal"]

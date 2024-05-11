@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Scallan (4206)_O'Connor_2010" {
-	graph [label="O'Connor 2010" labelloc=t mclimit=2]
+	graph [label="O'Connor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Scallan (4206)" [label="Pat Scallan (4206)
 Family First"]

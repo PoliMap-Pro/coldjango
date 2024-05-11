@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clinton Mead (221)_Macarthur_2010" {
-	graph [label="Macarthur 2010" labelloc=t mclimit=2]
+	graph [label="Macarthur 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clinton Mead (221)" [label="Clinton Mead (221)
 Australian Democrats"]

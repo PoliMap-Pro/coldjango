@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jerry Dimitroulis (5632)_Melbourne_2004" {
-	graph [label="Melbourne 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jerry Dimitroulis (5632)" [label="Jerry Dimitroulis (5632)
 Liberal"]

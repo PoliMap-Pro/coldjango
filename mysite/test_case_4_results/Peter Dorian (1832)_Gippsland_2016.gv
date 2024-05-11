@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Dorian (1832)_Gippsland_2016" {
-	graph [label="Gippsland 2016" labelloc=t mclimit=2]
+	graph [label="Gippsland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Dorian (1832)" [label="Peter Dorian (1832)
 Rise Up Australia Party"]

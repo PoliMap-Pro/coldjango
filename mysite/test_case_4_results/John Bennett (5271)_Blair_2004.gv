@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Bennett (5271)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Bennett (5271)" [label="John Bennett (5271)
 The Great Australians"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janette Hashemi (4524)_Fairfax_2007" {
-	graph [label="Fairfax 2007" labelloc=t mclimit=2]
+	graph [label="Fairfax 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janette Hashemi (4524)" [label="Janette Hashemi (4524)
 Democrats"]

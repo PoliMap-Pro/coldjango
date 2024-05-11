@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Mcnaught (3608)_Fremantle_2013" {
-	graph [label="Fremantle 2013" labelloc=t mclimit=2]
+	graph [label="Fremantle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Mcnaught (3608)" [label="Richard Mcnaught (3608)
 Katter's Australian Party"]

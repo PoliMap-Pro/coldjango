@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Bergman (3286)_Bass_2004" {
-	graph [label="Bass 2004" labelloc=t mclimit=2]
+	graph [label="Bass 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Bergman (3286)" [label="Christine Bergman (3286)
 Family First"]

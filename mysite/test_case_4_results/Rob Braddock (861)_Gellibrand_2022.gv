@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Braddock (861)_Gellibrand_2022" {
-	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Braddock (861)" [label="Rob Braddock (861)
 Pauline Hanson's One Nation"]

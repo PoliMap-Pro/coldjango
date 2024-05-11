@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Ryan (2196)_Parkes_2016" {
-	graph [label="Parkes 2016" labelloc=t mclimit=2]
+	graph [label="Parkes 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Ryan (2196)" [label="Glen Ryan (2196)
 Christian Democratic Party (Fred Nile Group)"]

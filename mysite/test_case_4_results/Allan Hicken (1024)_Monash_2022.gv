@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan Hicken (1024)_Monash_2022" {
-	graph [label="Monash 2022" labelloc=t mclimit=2]
+	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan Hicken (1024)" [label="Allan Hicken (1024)
 Pauline Hanson's One Nation"]

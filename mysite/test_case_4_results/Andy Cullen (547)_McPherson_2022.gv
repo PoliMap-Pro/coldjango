@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andy Cullen (547)_McPherson_2022" {
-	graph [label="McPherson 2022" labelloc=t mclimit=2]
+	graph [label="McPherson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andy Cullen (547)" [label="Andy Cullen (547)
 Australian Values Party"]

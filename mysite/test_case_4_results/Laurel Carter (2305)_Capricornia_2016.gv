@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Laurel Carter (2305)_Capricornia_2016" {
-	graph [label="Capricornia 2016" labelloc=t mclimit=2]
+	graph [label="Capricornia 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Laurel Carter (2305)" [label="Laurel Carter (2305)
 Katter's Australian Party"]

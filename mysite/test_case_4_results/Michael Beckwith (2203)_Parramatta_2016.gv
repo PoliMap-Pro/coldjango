@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Beckwith (2203)_Parramatta_2016" {
-	graph [label="Parramatta 2016" labelloc=t mclimit=2]
+	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Beckwith (2203)" [label="Michael Beckwith (2203)
 Liberal"]

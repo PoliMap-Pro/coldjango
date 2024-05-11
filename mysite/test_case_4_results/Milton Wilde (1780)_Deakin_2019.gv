@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Milton Wilde (1780)_Deakin_2019" {
-	graph [label="Deakin 2019" labelloc=t mclimit=2]
+	graph [label="Deakin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Milton Wilde (1780)" [label="Milton Wilde (1780)
 United Australia Party"]

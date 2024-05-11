@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Annette Williams (3742)_Gilmore_2010" {
-	graph [label="Gilmore 2010" labelloc=t mclimit=2]
+	graph [label="Gilmore 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Annette Williams (3742)" [label="Annette Williams (3742)
 Secular Party of Australia"]

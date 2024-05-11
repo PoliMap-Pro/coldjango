@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Chilcott (1980)_Moore_2019" {
-	graph [label="Moore 2019" labelloc=t mclimit=2]
+	graph [label="Moore 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Chilcott (1980)" [label="Rod Chilcott (1980)
 United Australia Party"]

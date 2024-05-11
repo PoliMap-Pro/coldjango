@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graham Macardy (3429)_Gorton_2013" {
-	graph [label="Gorton 2013" labelloc=t mclimit=2]
+	graph [label="Gorton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graham Macardy (3429)" [label="Graham Macardy (3429)
 Katter's Australian Party"]

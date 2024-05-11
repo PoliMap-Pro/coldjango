@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Brad Christensen (2147)_Lyne_2016" {
+	graph [label="Lyne 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Brad Christensen (2147)" [label="Brad Christensen (2147)
+Independent"]
+	"Julie Lyford (2145)" [label="Julie Lyford (2145)
+The Greens"]
+	"Elaine Carter (2146)" [label="Elaine Carter (2146)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rodger John Riach (2148)" [label="Rodger John Riach (2148)
+Independent"]
+	"Julie Lyford (2145)" -> "Brad Christensen (2147)" [label=2692]
+	"Elaine Carter (2146)" -> "Julie Lyford (2145)" [label=269]
+	"Rodger John Riach (2148)" -> "Elaine Carter (2146)" [label=80]
+	"Elaine Carter (2146)" -> "Brad Christensen (2147)" [label=917]
+	"Rodger John Riach (2148)" -> "Brad Christensen (2147)" [label=1229]
+	"Rodger John Riach (2148)" -> "Julie Lyford (2145)" [label=122]
+}

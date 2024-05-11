@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Amberley (3432)_Gorton_2013" {
-	graph [label="Gorton 2013" labelloc=t mclimit=2]
+	graph [label="Gorton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Amberley (3432)" [label="Scott Amberley (3432)
 Family First Party"]

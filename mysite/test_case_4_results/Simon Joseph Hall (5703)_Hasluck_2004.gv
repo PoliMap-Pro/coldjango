@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Joseph Hall (5703)_Hasluck_2004" {
-	graph [label="Hasluck 2004" labelloc=t mclimit=2]
+	graph [label="Hasluck 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Joseph Hall (5703)" [label="Simon Joseph Hall (5703)
 Citizens Electoral Council"]

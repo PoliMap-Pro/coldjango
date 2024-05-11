@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Swiggs (622)_Barker_2022" {
-	graph [label="Barker 2022" labelloc=t mclimit=2]
+	graph [label="Barker 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Swiggs (622)" [label="David Swiggs (622)
 United Australia Party"]

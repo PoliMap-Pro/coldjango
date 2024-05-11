@@ -1,6 +1,6 @@
 // House preference flow
 digraph "George Souris (2542)_Batman_2010" {
-	graph [label="Batman 2010" labelloc=t mclimit=2]
+	graph [label="Batman 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"George Souris (2542)" [label="George Souris (2542)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Belinda Barnier (4995)_Canberra_2004" {
-	graph [label="Canberra 2004" labelloc=t mclimit=2]
+	graph [label="Canberra 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Belinda Barnier (4995)" [label="Belinda Barnier (4995)
 Liberal"]

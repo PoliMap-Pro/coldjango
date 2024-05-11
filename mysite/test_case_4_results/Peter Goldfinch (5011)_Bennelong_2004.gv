@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Goldfinch (5011)_Bennelong_2004" {
-	graph [label="Bennelong 2004" labelloc=t mclimit=2]
+	graph [label="Bennelong 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Goldfinch (5011)" [label="Peter Goldfinch (5011)
 Australian Democrats"]

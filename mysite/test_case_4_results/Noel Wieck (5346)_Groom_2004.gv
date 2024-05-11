@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Noel Wieck (5346)_Groom_2004" {
-	graph [label="Groom 2004" labelloc=t mclimit=2]
+	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Noel Wieck (5346)" [label="Noel Wieck (5346)
 The Great Australians"]

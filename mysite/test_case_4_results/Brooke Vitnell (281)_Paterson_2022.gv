@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brooke Vitnell (281)_Paterson_2022" {
-	graph [label="Paterson 2022" labelloc=t mclimit=2]
+	graph [label="Paterson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brooke Vitnell (281)" [label="Brooke Vitnell (281)
 Liberal"]

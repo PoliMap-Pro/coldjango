@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ray Hutchinson (2317)_Dickson_2016" {
-	graph [label="Dickson 2016" labelloc=t mclimit=2]
+	graph [label="Dickson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ray Hutchinson (2317)" [label="Ray Hutchinson (2317)
 Family First"]

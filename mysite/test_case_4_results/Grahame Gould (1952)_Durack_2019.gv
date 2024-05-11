@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Grahame Gould (1952)_Durack_2019" {
-	graph [label="Durack 2019" labelloc=t mclimit=2]
+	graph [label="Durack 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Grahame Gould (1952)" [label="Grahame Gould (1952)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dale Clegg (4023)_Sturt_2010" {
-	graph [label="Sturt 2010" labelloc=t mclimit=2]
+	graph [label="Sturt 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dale Clegg (4023)" [label="Dale Clegg (4023)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Serge Petrovich (1872)_Mallee_2019" {
-	graph [label="Mallee 2019" labelloc=t mclimit=2]
+	graph [label="Mallee 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Serge Petrovich (1872)" [label="Serge Petrovich (1872)
 Liberal"]

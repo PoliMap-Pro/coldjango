@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeffrey Andrew Leake (3358)_Casey_2013" {
-	graph [label="Casey 2013" labelloc=t mclimit=2]
+	graph [label="Casey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeffrey Andrew Leake (3358)" [label="Jeffrey Andrew Leake (3358)
 Country Alliance"]

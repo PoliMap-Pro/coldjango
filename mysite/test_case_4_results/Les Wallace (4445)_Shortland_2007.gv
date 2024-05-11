@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Les Wallace (4445)_Shortland_2007" {
-	graph [label="Shortland 2007" labelloc=t mclimit=2]
+	graph [label="Shortland 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Les Wallace (4445)" [label="Les Wallace (4445)
 Christian Democratic Party (Fred Nile Group)"]

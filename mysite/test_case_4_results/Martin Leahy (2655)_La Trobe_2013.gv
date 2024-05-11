@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Leahy (2655)_La Trobe_2013" {
-	graph [label="La Trobe 2013" labelloc=t mclimit=2]
+	graph [label="La Trobe 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Leahy (2655)" [label="Martin Leahy (2655)
 Sex Party"]

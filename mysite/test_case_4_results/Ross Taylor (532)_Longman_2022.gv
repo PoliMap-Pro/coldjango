@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Taylor (532)_Longman_2022" {
-	graph [label="Longman 2022" labelloc=t mclimit=2]
+	graph [label="Longman 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Taylor (532)" [label="Ross Taylor (532)
 Pauline Hanson's One Nation"]

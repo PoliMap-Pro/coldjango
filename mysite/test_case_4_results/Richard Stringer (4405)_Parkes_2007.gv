@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Stringer (4405)_Parkes_2007" {
-	graph [label="Parkes 2007" labelloc=t mclimit=2]
+	graph [label="Parkes 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Stringer (4405)" [label="Richard Stringer (4405)
 Citizens Electoral Council"]

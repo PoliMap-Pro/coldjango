@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Stewart Gordon Brooker (435)_Fadden_2022" {
+	graph [label="Fadden 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
+Independent"]
+	"Alex Forbes (441)" [label="Alex Forbes (441)
+Liberal Democrats"]
+	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
+}

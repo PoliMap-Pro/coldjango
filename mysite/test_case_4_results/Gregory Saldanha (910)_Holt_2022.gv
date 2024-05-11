@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gregory Saldanha (910)_Holt_2022" {
-	graph [label="Holt 2022" labelloc=t mclimit=2]
+	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
 Australian Federation Party"]

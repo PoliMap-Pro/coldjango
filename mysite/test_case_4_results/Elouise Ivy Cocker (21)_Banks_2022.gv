@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elouise Ivy Cocker (21)_Banks_2022" {
-	graph [label="Banks 2022" labelloc=t mclimit=2]
+	graph [label="Banks 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
 Liberal Democrats"]

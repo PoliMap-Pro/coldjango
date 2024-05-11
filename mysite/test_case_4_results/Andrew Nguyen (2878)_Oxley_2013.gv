@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Nguyen (2878)_Oxley_2013" {
-	graph [label="Oxley 2013" labelloc=t mclimit=2]
+	graph [label="Oxley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Nguyen (2878)" [label="Andrew Nguyen (2878)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robyn Murphy (5135)_Lyne_2004" {
-	graph [label="Lyne 2004" labelloc=t mclimit=2]
+	graph [label="Lyne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robyn Murphy (5135)" [label="Robyn Murphy (5135)
 New Country"]

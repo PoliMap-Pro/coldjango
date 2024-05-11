@@ -1,0 +1,40 @@
+// House preference flow
+digraph "Jeremy John Miller (1347)_Lyne_2019" {
+	graph [label="Lyne 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jeremy John Miller (1347)" [label="Jeremy John Miller (1347)
+Independent"]
+	"Dean Mccrae (311)" [label="Dean Mccrae (311)
+Liberal Democrats"]
+	"Stuart Watson (1349)" [label="Stuart Watson (1349)
+The Greens"]
+	"Garry Bourke (1344)" [label="Garry Bourke (1344)
+United Australia Party"]
+	"Ryan Frederick Goldspring (1345)" [label="Ryan Frederick Goldspring (1345)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Ed Caruana (1346)" [label="Ed Caruana (1346)
+Australian Workers Party"]
+	"Catherine Zhao (1348)" [label="Catherine Zhao (1348)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dean Mccrae (311)" -> "Jeremy John Miller (1347)" [label=2406]
+	"Stuart Watson (1349)" -> "Dean Mccrae (311)" [label=348]
+	"Garry Bourke (1344)" -> "Stuart Watson (1349)" [label=330]
+	"Ryan Frederick Goldspring (1345)" -> "Garry Bourke (1344)" [label=788]
+	"Ed Caruana (1346)" -> "Ryan Frederick Goldspring (1345)" [label=123]
+	"Catherine Zhao (1348)" -> "Ed Caruana (1346)" [label=62]
+	"Stuart Watson (1349)" -> "Jeremy John Miller (1347)" [label=2868]
+	"Garry Bourke (1344)" -> "Jeremy John Miller (1347)" [label=1375]
+	"Ryan Frederick Goldspring (1345)" -> "Jeremy John Miller (1347)" [label=343]
+	"Ed Caruana (1346)" -> "Jeremy John Miller (1347)" [label=520]
+	"Catherine Zhao (1348)" -> "Jeremy John Miller (1347)" [label=217]
+	"Catherine Zhao (1348)" -> "Ryan Frederick Goldspring (1345)" [label=90]
+	"Ed Caruana (1346)" -> "Garry Bourke (1344)" [label=231]
+	"Catherine Zhao (1348)" -> "Garry Bourke (1344)" [label=122]
+	"Ryan Frederick Goldspring (1345)" -> "Stuart Watson (1349)" [label=67]
+	"Ed Caruana (1346)" -> "Stuart Watson (1349)" [label=187]
+	"Catherine Zhao (1348)" -> "Stuart Watson (1349)" [label=82]
+	"Garry Bourke (1344)" -> "Dean Mccrae (311)" [label=816]
+	"Ryan Frederick Goldspring (1345)" -> "Dean Mccrae (311)" [label=268]
+	"Ed Caruana (1346)" -> "Dean Mccrae (311)" [label=161]
+	"Catherine Zhao (1348)" -> "Dean Mccrae (311)" [label=211]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeffrey Wayne Lawson (319)_Lindsay_2013" {
-	graph [label="Lindsay 2013" labelloc=t mclimit=2]
+	graph [label="Lindsay 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
 One Nation"]

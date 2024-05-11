@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Beth Smith (2846)_Cook_2004" {
-	graph [label="Cook 2004" labelloc=t mclimit=2]
+	graph [label="Cook 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Beth Smith (2846)" [label="Beth Smith (2846)
 Christian Democratic Party (Fred Nile Group)"]

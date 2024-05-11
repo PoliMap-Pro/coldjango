@@ -1,6 +1,6 @@
 // House preference flow
 digraph "George Gault (4199)_Moore_2007" {
-	graph [label="Moore 2007" labelloc=t mclimit=2]
+	graph [label="Moore 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"George Gault (4199)" [label="George Gault (4199)
 One Nation WA"]

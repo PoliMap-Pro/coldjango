@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bridget Archer (1699)_Bass_2019" {
-	graph [label="Bass 2019" labelloc=t mclimit=2]
+	graph [label="Bass 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bridget Archer (1699)" [label="Bridget Archer (1699)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Lawrence (1610)_Moreton_2019" {
-	graph [label="Moreton 2019" labelloc=t mclimit=2]
+	graph [label="Moreton 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Lawrence (1610)" [label="William Lawrence (1610)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ciaron Paterson (425)_Dawson_2022" {
-	graph [label="Dawson 2022" labelloc=t mclimit=2]
+	graph [label="Dawson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ciaron Paterson (425)" [label="Ciaron Paterson (425)
 Katter's Australian Party (KAP)"]

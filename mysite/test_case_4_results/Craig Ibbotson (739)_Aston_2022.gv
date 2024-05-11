@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Ibbotson (739)_Aston_2022" {
-	graph [label="Aston 2022" labelloc=t mclimit=2]
+	graph [label="Aston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Ibbotson (739)" [label="Craig Ibbotson (739)
 Pauline Hanson's One Nation"]

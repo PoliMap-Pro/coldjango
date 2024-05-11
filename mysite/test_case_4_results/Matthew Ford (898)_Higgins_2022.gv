@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Ford (898)_Higgins_2022" {
-	graph [label="Higgins 2022" labelloc=t mclimit=2]
+	graph [label="Higgins 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Ford (898)" [label="Matthew Ford (898)
 Liberal Democrats"]

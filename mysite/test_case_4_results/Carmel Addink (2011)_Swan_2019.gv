@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carmel Addink (2011)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t mclimit=2]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carmel Addink (2011)" [label="Carmel Addink (2011)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

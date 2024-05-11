@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Mcconnell (3409)_Gellibrand_2013" {
-	graph [label="Gellibrand 2013" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Mcconnell (3409)" [label="David Mcconnell (3409)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacqui Munro (1424)_Sydney_2019" {
-	graph [label="Sydney 2019" labelloc=t mclimit=2]
+	graph [label="Sydney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacqui Munro (1424)" [label="Jacqui Munro (1424)
 Liberal"]

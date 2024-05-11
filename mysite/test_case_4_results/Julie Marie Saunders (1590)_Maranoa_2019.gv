@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Marie Saunders (1590)_Maranoa_2019" {
-	graph [label="Maranoa 2019" labelloc=t mclimit=2]
+	graph [label="Maranoa 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Marie Saunders (1590)" [label="Julie Marie Saunders (1590)
 United Australia Party"]

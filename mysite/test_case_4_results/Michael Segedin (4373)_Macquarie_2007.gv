@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Segedin (4373)_Macquarie_2007" {
-	graph [label="Macquarie 2007" labelloc=t mclimit=2]
+	graph [label="Macquarie 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Segedin (4373)" [label="Michael Segedin (4373)
 Citizens Electoral Council"]

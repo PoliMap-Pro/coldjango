@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shelley Shay (2520)_Lyons_2016" {
-	graph [label="Lyons 2016" labelloc=t mclimit=2]
+	graph [label="Lyons 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shelley Shay (2520)" [label="Shelley Shay (2520)
 Australian Recreational Fishers Party"]

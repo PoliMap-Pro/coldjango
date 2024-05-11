@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Kain Irvine (837)_Dunkley_2022" {
-	graph [label="Dunkley 2022" labelloc=t mclimit=2]
+	graph [label="Dunkley 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Kain Irvine (837)" [label="Adrian Kain Irvine (837)
 United Australia Party"]

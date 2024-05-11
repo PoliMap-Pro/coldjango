@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Staker-Gunn (764)_Calwell_2022" {
-	graph [label="Calwell 2022" labelloc=t mclimit=2]
+	graph [label="Calwell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Staker-Gunn (764)" [label="Tim Staker-Gunn (764)
 Liberal"]

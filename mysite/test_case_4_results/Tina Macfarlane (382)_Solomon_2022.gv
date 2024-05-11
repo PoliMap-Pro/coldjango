@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tina Macfarlane (382)_Solomon_2022" {
-	graph [label="Solomon 2022" labelloc=t mclimit=2]
+	graph [label="Solomon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tina Macfarlane (382)" [label="Tina Macfarlane (382)
 NT CLP"]

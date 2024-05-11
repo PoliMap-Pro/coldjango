@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamal Daoud (293)_Reid_2022" {
-	graph [label="Reid 2022" labelloc=t mclimit=2]
+	graph [label="Reid 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamal Daoud (293)" [label="Jamal Daoud (293)
 United Australia Party"]

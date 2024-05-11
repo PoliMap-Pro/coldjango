@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Southcott (3248)_Boothby_2013" {
-	graph [label="Boothby 2013" labelloc=t mclimit=2]
+	graph [label="Boothby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Southcott (3248)" [label="Andrew Southcott (3248)
 Liberal"]

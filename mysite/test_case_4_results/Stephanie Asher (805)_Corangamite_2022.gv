@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephanie Asher (805)_Corangamite_2022" {
-	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	graph [label="Corangamite 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephanie Asher (805)" [label="Stephanie Asher (805)
 Liberal"]

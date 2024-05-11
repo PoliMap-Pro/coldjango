@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Hesketh (3832)_Riverina_2007" {
-	graph [label="Riverina 2007" labelloc=t mclimit=2]
+	graph [label="Riverina 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Hesketh (3832)" [label="Craig Hesketh (3832)
 One Nation"]

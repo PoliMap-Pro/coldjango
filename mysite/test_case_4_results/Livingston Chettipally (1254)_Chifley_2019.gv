@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Livingston Chettipally (1254)_Chifley_2019" {
-	graph [label="Chifley 2019" labelloc=t mclimit=2]
+	graph [label="Chifley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Livingston Chettipally (1254)" [label="Livingston Chettipally (1254)
 Liberal"]

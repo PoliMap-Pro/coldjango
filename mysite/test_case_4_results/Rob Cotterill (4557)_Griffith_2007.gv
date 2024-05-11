@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Cotterill (4557)_Griffith_2007" {
-	graph [label="Griffith 2007" labelloc=t mclimit=2]
+	graph [label="Griffith 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Cotterill (4557)" [label="Rob Cotterill (4557)
 Democrats"]

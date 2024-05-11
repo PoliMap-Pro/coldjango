@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Melissa Mcintosh (183)_Lindsay_2022" {
-	graph [label="Lindsay 2022" labelloc=t mclimit=2]
+	graph [label="Lindsay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Melissa Mcintosh (183)" [label="Melissa Mcintosh (183)
 Liberal"]

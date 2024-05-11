@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angus Young (2003)_Stirling_2019" {
-	graph [label="Stirling 2019" labelloc=t mclimit=2]
+	graph [label="Stirling 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angus Young (2003)" [label="Angus Young (2003)
 Pauline Hanson's One Nation"]

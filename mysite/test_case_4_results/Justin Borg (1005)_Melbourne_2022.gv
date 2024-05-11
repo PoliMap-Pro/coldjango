@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Justin Borg (1005)_Melbourne_2022" {
-	graph [label="Melbourne 2022" labelloc=t mclimit=2]
+	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Justin Borg (1005)" [label="Justin Borg (1005)
 United Australia Party"]

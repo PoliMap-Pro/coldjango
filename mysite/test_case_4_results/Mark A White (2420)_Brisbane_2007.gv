@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark A White (2420)_Brisbane_2007" {
-	graph [label="Brisbane 2007" labelloc=t mclimit=2]
+	graph [label="Brisbane 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark A White (2420)" [label="Mark A White (2420)
 Family First"]

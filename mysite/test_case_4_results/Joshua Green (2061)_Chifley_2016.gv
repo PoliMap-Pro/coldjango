@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Green (2061)_Chifley_2016" {
-	graph [label="Chifley 2016" labelloc=t mclimit=2]
+	graph [label="Chifley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Green (2061)" [label="Joshua Green (2061)
 Christian Democratic Party (Fred Nile Group)"]

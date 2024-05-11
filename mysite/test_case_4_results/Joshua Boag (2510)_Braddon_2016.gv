@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Boag (2510)_Braddon_2016" {
-	graph [label="Braddon 2016" labelloc=t mclimit=2]
+	graph [label="Braddon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Boag (2510)" [label="Joshua Boag (2510)
 Liberal Democrats"]

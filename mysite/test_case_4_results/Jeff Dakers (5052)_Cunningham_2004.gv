@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeff Dakers (5052)_Cunningham_2004" {
-	graph [label="Cunningham 2004" labelloc=t mclimit=2]
+	graph [label="Cunningham 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeff Dakers (5052)" [label="Jeff Dakers (5052)
 Christian Democratic Party (Fred Nile Group)"]

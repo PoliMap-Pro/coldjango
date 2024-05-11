@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Norman Baker (1856)_La Trobe_2019" {
-	graph [label="La Trobe 2019" labelloc=t mclimit=2]
+	graph [label="La Trobe 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Norman Baker (1856)" [label="Norman Baker (1856)
 Rise Up Australia Party"]

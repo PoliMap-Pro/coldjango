@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Erskine (1561)_Hinkler_2019" {
-	graph [label="Hinkler 2019" labelloc=t mclimit=2]
+	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Erskine (1561)" [label="Aaron Erskine (1561)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

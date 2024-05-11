@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Eckermann (1651)_Barker_2019" {
-	graph [label="Barker 2019" labelloc=t mclimit=2]
+	graph [label="Barker 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Eckermann (1651)" [label="Karen Eckermann (1651)
 Animal Justice Party"]

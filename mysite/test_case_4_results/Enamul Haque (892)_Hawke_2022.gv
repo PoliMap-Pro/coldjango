@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Enamul Haque (892)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t mclimit=2]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Enamul Haque (892)" [label="Enamul Haque (892)
 Liberal"]

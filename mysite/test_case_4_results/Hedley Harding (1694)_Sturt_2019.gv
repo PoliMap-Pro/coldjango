@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hedley Harding (1694)_Sturt_2019" {
-	graph [label="Sturt 2019" labelloc=t mclimit=2]
+	graph [label="Sturt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hedley Harding (1694)" [label="Hedley Harding (1694)
 United Australia Party"]

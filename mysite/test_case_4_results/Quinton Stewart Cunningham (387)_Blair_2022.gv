@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Quinton Stewart Cunningham (387)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t mclimit=2]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Quinton Stewart Cunningham (387)" [label="Quinton Stewart Cunningham (387)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Buckley (2610)_Gippsland_2016" {
-	graph [label="Gippsland 2016" labelloc=t mclimit=2]
+	graph [label="Gippsland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Buckley (2610)" [label="Ben Buckley (2610)
 Liberal Democrats"]

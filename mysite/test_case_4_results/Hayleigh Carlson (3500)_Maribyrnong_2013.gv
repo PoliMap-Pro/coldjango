@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hayleigh Carlson (3500)_Maribyrnong_2013" {
-	graph [label="Maribyrnong 2013" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hayleigh Carlson (3500)" [label="Hayleigh Carlson (3500)
 Family First Party"]

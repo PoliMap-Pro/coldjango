@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tshung-Hui Chang (1196)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t mclimit=2]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tshung-Hui Chang (1196)" [label="Tshung-Hui Chang (1196)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Markham (1121)_Forrest_2022" {
-	graph [label="Forrest 2022" labelloc=t mclimit=2]
+	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Markham (1121)" [label="Paul Markham (1121)
 Liberal Democrats"]

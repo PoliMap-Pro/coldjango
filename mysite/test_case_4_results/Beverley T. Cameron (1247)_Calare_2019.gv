@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Beverley T. Cameron (1247)_Calare_2019" {
-	graph [label="Calare 2019" labelloc=t mclimit=2]
+	graph [label="Calare 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Beverley T. Cameron (1247)" [label="Beverley T. Cameron (1247)
 United Australia Party"]

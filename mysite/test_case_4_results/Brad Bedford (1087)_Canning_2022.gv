@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brad Bedford (1087)_Canning_2022" {
-	graph [label="Canning 2022" labelloc=t mclimit=2]
+	graph [label="Canning 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brad Bedford (1087)" [label="Brad Bedford (1087)
 WESTERN AUSTRALIA PARTY"]

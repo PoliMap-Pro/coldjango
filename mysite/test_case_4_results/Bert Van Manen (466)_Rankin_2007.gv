@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bert Van Manen (466)_Rankin_2007" {
-	graph [label="Rankin 2007" labelloc=t mclimit=2]
+	graph [label="Rankin 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bert Van Manen (466)" [label="Bert Van Manen (466)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Gayed (1735)_Bendigo_2019" {
-	graph [label="Bendigo 2019" labelloc=t mclimit=2]
+	graph [label="Bendigo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Gayed (1735)" [label="Sam Gayed (1735)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell Matheson (2150)_Macarthur_2010" {
-	graph [label="Macarthur 2010" labelloc=t mclimit=2]
+	graph [label="Macarthur 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell Matheson (2150)" [label="Russell Matheson (2150)
 Liberal"]

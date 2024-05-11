@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Caroline Ashlin (2331)_Fisher_2016" {
-	graph [label="Fisher 2016" labelloc=t mclimit=2]
+	graph [label="Fisher 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Caroline Ashlin (2331)" [label="Caroline Ashlin (2331)
 Family First"]

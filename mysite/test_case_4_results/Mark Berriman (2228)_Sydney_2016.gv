@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Berriman (2228)_Sydney_2016" {
-	graph [label="Sydney 2016" labelloc=t mclimit=2]
+	graph [label="Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Berriman (2228)" [label="Mark Berriman (2228)
 Animal Justice Party"]

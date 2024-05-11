@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Bruce Mcclaer (1580)_Lilley_2019" {
-	graph [label="Lilley 2019" labelloc=t mclimit=2]
+	graph [label="Lilley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Bruce Mcclaer (1580)" [label="David Bruce Mcclaer (1580)
 United Australia Party"]

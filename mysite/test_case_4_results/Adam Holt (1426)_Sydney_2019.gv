@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Holt (1426)_Sydney_2019" {
-	graph [label="Sydney 2019" labelloc=t mclimit=2]
+	graph [label="Sydney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Holt (1426)" [label="Adam Holt (1426)
 United Australia Party"]

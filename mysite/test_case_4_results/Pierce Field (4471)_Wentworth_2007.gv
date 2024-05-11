@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pierce Field (4471)_Wentworth_2007" {
-	graph [label="Wentworth 2007" labelloc=t mclimit=2]
+	graph [label="Wentworth 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pierce Field (4471)" [label="Pierce Field (4471)
 Democrats"]

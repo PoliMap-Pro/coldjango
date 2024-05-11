@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Connor (878)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=2]
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Connor (878)" [label="Daniel Connor (878)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Wright (2490)_Sturt_2016" {
-	graph [label="Sturt 2016" labelloc=t mclimit=2]
+	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Wright (2490)" [label="Matthew Wright (2490)
 Nick Xenophon Team"]

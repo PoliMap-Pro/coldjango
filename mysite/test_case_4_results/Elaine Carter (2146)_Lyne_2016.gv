@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elaine Carter (2146)_Lyne_2016" {
-	graph [label="Lyne 2016" labelloc=t mclimit=2]
+	graph [label="Lyne 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elaine Carter (2146)" [label="Elaine Carter (2146)
 Christian Democratic Party (Fred Nile Group)"]

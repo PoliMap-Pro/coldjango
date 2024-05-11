@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Squires (5018)_Blaxland_2004" {
-	graph [label="Blaxland 2004" labelloc=t mclimit=2]
+	graph [label="Blaxland 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Squires (5018)" [label="Matthew Squires (5018)
 Christian Democratic Party (Fred Nile Group)"]

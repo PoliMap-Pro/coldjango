@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jackson Wreford (1935)_Canning_2019" {
-	graph [label="Canning 2019" labelloc=t mclimit=2]
+	graph [label="Canning 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jackson Wreford (1935)" [label="Jackson Wreford (1935)
 Pauline Hanson's One Nation"]

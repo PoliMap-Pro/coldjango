@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Pedersen (2385)_Longman_2016" {
-	graph [label="Longman 2016" labelloc=t mclimit=2]
+	graph [label="Longman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Pedersen (2385)" [label="Michelle Pedersen (2385)
 Pauline Hanson's One Nation"]

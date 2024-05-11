@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Medway (5262)_Werriwa_2004" {
-	graph [label="Werriwa 2004" labelloc=t mclimit=2]
+	graph [label="Werriwa 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Medway (5262)" [label="Michael Medway (5262)
 Liberal"]

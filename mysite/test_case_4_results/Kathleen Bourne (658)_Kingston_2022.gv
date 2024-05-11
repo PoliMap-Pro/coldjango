@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kathleen Bourne (658)_Kingston_2022" {
-	graph [label="Kingston 2022" labelloc=t mclimit=2]
+	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kathleen Bourne (658)" [label="Kathleen Bourne (658)
 Liberal"]

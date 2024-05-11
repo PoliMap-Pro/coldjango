@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Beth Stevens (924)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t mclimit=2]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Beth Stevens (924)" [label="Beth Stevens (924)
 Pauline Hanson's One Nation"]

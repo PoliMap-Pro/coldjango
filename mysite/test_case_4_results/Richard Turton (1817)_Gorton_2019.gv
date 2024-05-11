@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Turton (1817)_Gorton_2019" {
-	graph [label="Gorton 2019" labelloc=t mclimit=2]
+	graph [label="Gorton 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Turton (1817)" [label="Richard Turton (1817)
 United Australia Party"]

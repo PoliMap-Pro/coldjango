@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Olsen (4142)_Melbourne_2010" {
-	graph [label="Melbourne 2010" labelloc=t mclimit=2]
+	graph [label="Melbourne 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Olsen (4142)" [label="Simon Olsen (4142)
 Liberal"]

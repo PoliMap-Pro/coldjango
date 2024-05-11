@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Bunting (4665)_Port Adelaide_2004" {
-	graph [label="Port Adelaide 2004" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Bunting (4665)" [label="Richard Bunting (4665)
 Family First"]

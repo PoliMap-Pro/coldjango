@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anna Finizio (645)_Hindmarsh_2022" {
-	graph [label="Hindmarsh 2022" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anna Finizio (645)" [label="Anna Finizio (645)
 Liberal"]

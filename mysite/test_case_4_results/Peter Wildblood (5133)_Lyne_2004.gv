@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Wildblood (5133)_Lyne_2004" {
-	graph [label="Lyne 2004" labelloc=t mclimit=2]
+	graph [label="Lyne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Wildblood (5133)" [label="Peter Wildblood (5133)
 Australian Democrats"]

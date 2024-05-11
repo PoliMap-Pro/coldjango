@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ewan Mcdonald (4153)_Murray_2010" {
-	graph [label="Murray 2010" labelloc=t mclimit=2]
+	graph [label="Murray 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ewan Mcdonald (4153)" [label="Ewan Mcdonald (4153)
 Christian Democratic Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sussan Ley (112)_Farrer_2022" {
-	graph [label="Farrer 2022" labelloc=t mclimit=2]
+	graph [label="Farrer 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sussan Ley (112)" [label="Sussan Ley (112)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cate Hayward (5596)_Jagajaga_2004" {
-	graph [label="Jagajaga 2004" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cate Hayward (5596)" [label="Cate Hayward (5596)
 Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alex Somlyay (3908)_Fairfax_2007" {
-	graph [label="Fairfax 2007" labelloc=t mclimit=2]
+	graph [label="Fairfax 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alex Somlyay (3908)" [label="Alex Somlyay (3908)
 Liberal"]

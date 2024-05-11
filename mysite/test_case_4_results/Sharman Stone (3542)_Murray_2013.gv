@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharman Stone (3542)_Murray_2013" {
-	graph [label="Murray 2013" labelloc=t mclimit=2]
+	graph [label="Murray 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharman Stone (3542)" [label="Sharman Stone (3542)
 Liberal"]

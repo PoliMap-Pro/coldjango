@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Jenkins (2752)_Fremantle_2016" {
-	graph [label="Fremantle 2016" labelloc=t mclimit=2]
+	graph [label="Fremantle 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeffrey Edward Robinson (1863)_Lalor_2019" {
-	graph [label="Lalor 2019" labelloc=t mclimit=2]
+	graph [label="Lalor 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeffrey Edward Robinson (1863)" [label="Jeffrey Edward Robinson (1863)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sylvia Holland (4002)_Grey_2010" {
-	graph [label="Grey 2010" labelloc=t mclimit=2]
+	graph [label="Grey 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sylvia Holland (4002)" [label="Sylvia Holland (4002)
 Family First"]

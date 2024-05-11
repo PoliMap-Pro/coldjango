@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nell Mcgill (327)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nell Mcgill (327)" [label="Nell Mcgill (327)
 Liberal"]

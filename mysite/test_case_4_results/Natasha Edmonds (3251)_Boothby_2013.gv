@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Natasha Edmonds (3251)_Boothby_2013" {
-	graph [label="Boothby 2013" labelloc=t mclimit=2]
+	graph [label="Boothby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Natasha Edmonds (3251)" [label="Natasha Edmonds (3251)
 Family First"]

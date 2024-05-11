@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carolyn Maree Ferrando (3881)_Bonner_2010" {
-	graph [label="Bonner 2010" labelloc=t mclimit=2]
+	graph [label="Bonner 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carolyn Maree Ferrando (3881)" [label="Carolyn Maree Ferrando (3881)
 Family First"]

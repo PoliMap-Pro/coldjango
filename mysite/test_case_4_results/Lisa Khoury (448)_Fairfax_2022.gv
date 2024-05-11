@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lisa Khoury (448)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lisa Khoury (448)" [label="Lisa Khoury (448)
 United Australia Party"]

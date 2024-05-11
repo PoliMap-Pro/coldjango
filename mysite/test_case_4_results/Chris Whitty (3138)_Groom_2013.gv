@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Whitty (3138)_Groom_2013" {
-	graph [label="Groom 2013" labelloc=t mclimit=2]
+	graph [label="Groom 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Whitty (3138)" [label="Chris Whitty (3138)
 Katter's Australian Party"]

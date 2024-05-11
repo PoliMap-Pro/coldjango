@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Mccudden (4459)_Warringah_2007" {
-	graph [label="Warringah 2007" labelloc=t mclimit=2]
+	graph [label="Warringah 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Mccudden (4459)" [label="Bill Mccudden (4459)
 Christian Democratic Party (Fred Nile Group)"]

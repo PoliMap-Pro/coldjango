@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Rod Jeanneret (1490)_Groom_2004" {
+	graph [label="Groom 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Noel Wieck (5346)" [label="Noel Wieck (5346)
+The Great Australians"]
+	"Christoph Donges (5342)" [label="Christoph Donges (5342)
+Australian Democrats"]
+	"Oliver Carter (5343)" [label="Oliver Carter (5343)
+Citizens Electoral Council"]
+	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
+	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
+	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
+	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
+	"Oliver Carter (5343)" -> "Rod Jeanneret (1490)" [label=65]
+	"Oliver Carter (5343)" -> "Noel Wieck (5346)" [label=39]
+}

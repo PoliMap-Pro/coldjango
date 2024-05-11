@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Hartney (5525)_Chisholm_2004" {
-	graph [label="Chisholm 2004" labelloc=t mclimit=2]
+	graph [label="Chisholm 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Hartney (5525)" [label="Stephen Hartney (5525)
 Liberal"]

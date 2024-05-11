@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Middleton (2661)_Mallee_2016" {
-	graph [label="Mallee 2016" labelloc=t mclimit=2]
+	graph [label="Mallee 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Middleton (2661)" [label="Tim Middleton (2661)
 Rise Up Australia Party"]

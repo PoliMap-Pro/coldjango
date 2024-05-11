@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shilpa Hegde (3567)_Wills_2013" {
-	graph [label="Wills 2013" labelloc=t mclimit=2]
+	graph [label="Wills 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shilpa Hegde (3567)" [label="Shilpa Hegde (3567)
 Liberal"]

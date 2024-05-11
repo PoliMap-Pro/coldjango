@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Catherine Zhao (1348)_Lyne_2019" {
-	graph [label="Lyne 2019" labelloc=t mclimit=2]
+	graph [label="Lyne 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Catherine Zhao (1348)" [label="Catherine Zhao (1348)
 Christian Democratic Party (Fred Nile Group)"]

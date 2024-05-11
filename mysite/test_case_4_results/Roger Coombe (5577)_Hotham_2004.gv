@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roger Coombe (5577)_Hotham_2004" {
-	graph [label="Hotham 2004" labelloc=t mclimit=2]
+	graph [label="Hotham 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roger Coombe (5577)" [label="Roger Coombe (5577)
 Family First"]

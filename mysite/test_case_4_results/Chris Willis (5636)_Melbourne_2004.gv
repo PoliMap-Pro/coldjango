@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Willis (5636)_Melbourne_2004" {
-	graph [label="Melbourne 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Willis (5636)" [label="Chris Willis (5636)
 Family First"]

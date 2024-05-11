@@ -1,0 +1,10 @@
+// House preference flow
+digraph "David Michael Fawcett (4092)_Higgins_2010" {
+	graph [label="Higgins 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"David Michael Fawcett (4092)" [label="David Michael Fawcett (4092)
+Independent"]
+	"Ashley Truter (4094)" [label="Ashley Truter (4094)
+Family First"]
+	"Ashley Truter (4094)" -> "David Michael Fawcett (4092)" [label=158]
+}

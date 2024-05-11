@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Read (3380)_Corio_2013" {
-	graph [label="Corio 2013" labelloc=t mclimit=2]
+	graph [label="Corio 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Read (3380)" [label="Peter Read (3380)
 Liberal"]

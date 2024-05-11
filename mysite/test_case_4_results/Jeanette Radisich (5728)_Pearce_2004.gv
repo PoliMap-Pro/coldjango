@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeanette Radisich (5728)_Pearce_2004" {
-	graph [label="Pearce 2004" labelloc=t mclimit=2]
+	graph [label="Pearce 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeanette Radisich (5728)" [label="Jeanette Radisich (5728)
 New Country Party"]

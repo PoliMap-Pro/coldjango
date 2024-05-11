@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Rowell (4800)_Gippsland_2007" {
-	graph [label="Gippsland 2007" labelloc=t mclimit=2]
+	graph [label="Gippsland 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Rowell (4800)" [label="Michael Rowell (4800)
 Family First"]

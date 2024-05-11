@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Davina Hinkley (1852)_Kooyong_2019" {
-	graph [label="Kooyong 2019" labelloc=t mclimit=2]
+	graph [label="Kooyong 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Davina Hinkley (1852)" [label="Davina Hinkley (1852)
 Animal Justice Party"]

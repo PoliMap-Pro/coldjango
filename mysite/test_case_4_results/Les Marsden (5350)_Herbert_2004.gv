@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Les Marsden (5350)_Herbert_2004" {
-	graph [label="Herbert 2004" labelloc=t mclimit=2]
+	graph [label="Herbert 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Les Marsden (5350)" [label="Les Marsden (5350)
 Citizens Electoral Council"]

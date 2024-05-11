@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kim Heath (2993)_Riverina_2013" {
-	graph [label="Riverina 2013" labelloc=t mclimit=2]
+	graph [label="Riverina 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kim Heath (2993)" [label="Kim Heath (2993)
 Rise Up Australia Party"]

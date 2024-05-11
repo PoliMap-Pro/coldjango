@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Sukkar (824)_Deakin_2013" {
-	graph [label="Deakin 2013" labelloc=t mclimit=2]
+	graph [label="Deakin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Sukkar (824)" [label="Michael Sukkar (824)
 Liberal"]

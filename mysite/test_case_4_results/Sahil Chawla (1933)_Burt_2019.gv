@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sahil Chawla (1933)_Burt_2019" {
-	graph [label="Burt 2019" labelloc=t mclimit=2]
+	graph [label="Burt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sahil Chawla (1933)" [label="Sahil Chawla (1933)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Curtis (4845)_Lalor_2004" {
-	graph [label="Lalor 2004" labelloc=t mclimit=2]
+	graph [label="Lalor 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Curtis (4845)" [label="Peter Curtis (4845)
 Liberal"]

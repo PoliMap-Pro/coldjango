@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Love (2335)_Flynn_2016" {
-	graph [label="Flynn 2016" labelloc=t mclimit=2]
+	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Love (2335)" [label="Richard Love (2335)
 Katter's Australian Party"]

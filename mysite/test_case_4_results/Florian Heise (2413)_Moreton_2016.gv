@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Florian Heise (2413)_Moreton_2016" {
-	graph [label="Moreton 2016" labelloc=t mclimit=2]
+	graph [label="Moreton 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Florian Heise (2413)" [label="Florian Heise (2413)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylie Mcgregor (4873)_Melbourne_2007" {
-	graph [label="Melbourne 2007" labelloc=t mclimit=2]
+	graph [label="Melbourne 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylie Mcgregor (4873)" [label="Kylie Mcgregor (4873)
 "]

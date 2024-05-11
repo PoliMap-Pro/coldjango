@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Isaac Stewart (1944)_Cowan_2019" {
-	graph [label="Cowan 2019" labelloc=t mclimit=2]
+	graph [label="Cowan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Isaac Stewart (1944)" [label="Isaac Stewart (1944)
 Liberal"]

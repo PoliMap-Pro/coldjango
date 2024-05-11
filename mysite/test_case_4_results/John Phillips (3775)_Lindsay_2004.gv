@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Phillips (3775)_Lindsay_2004" {
-	graph [label="Lindsay 2004" labelloc=t mclimit=2]
+	graph [label="Lindsay 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Phillips (3775)" [label="John Phillips (3775)
 Christian Democratic Party (Fred Nile Group)"]

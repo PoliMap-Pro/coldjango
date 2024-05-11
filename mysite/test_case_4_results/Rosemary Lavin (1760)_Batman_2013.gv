@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rosemary Lavin (1760)_Batman_2013" {
-	graph [label="Batman 2013" labelloc=t mclimit=2]
+	graph [label="Batman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
 Animal Justice Party"]

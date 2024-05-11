@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luke Westley (3984)_Adelaide_2010" {
-	graph [label="Adelaide 2010" labelloc=t mclimit=2]
+	graph [label="Adelaide 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luke Westley (3984)" [label="Luke Westley (3984)
 Liberal"]

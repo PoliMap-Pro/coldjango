@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phillip Bouwman (3630)_O'Connor_2013" {
-	graph [label="O'Connor 2013" labelloc=t mclimit=2]
+	graph [label="O'Connor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phillip Bouwman (3630)" [label="Phillip Bouwman (3630)
 Katter's Australian Party"]

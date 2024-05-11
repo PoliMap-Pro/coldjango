@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kagiso Ratlhagane (1215)_Fenner_2019" {
-	graph [label="Fenner 2019" labelloc=t mclimit=2]
+	graph [label="Fenner 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kagiso Ratlhagane (1215)" [label="Kagiso Ratlhagane (1215)
 Australian Progressives"]

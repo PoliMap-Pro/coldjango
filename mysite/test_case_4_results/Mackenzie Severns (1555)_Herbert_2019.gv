@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mackenzie Severns (1555)_Herbert_2019" {
-	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mackenzie Severns (1555)" [label="Mackenzie Severns (1555)
 Animal Justice Party"]

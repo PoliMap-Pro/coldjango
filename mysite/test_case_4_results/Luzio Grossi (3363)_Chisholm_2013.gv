@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luzio Grossi (3363)_Chisholm_2013" {
-	graph [label="Chisholm 2013" labelloc=t mclimit=2]
+	graph [label="Chisholm 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luzio Grossi (3363)" [label="Luzio Grossi (3363)
 Sex Party"]

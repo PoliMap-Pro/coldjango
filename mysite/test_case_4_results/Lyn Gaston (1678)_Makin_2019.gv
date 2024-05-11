@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lyn Gaston (1678)_Makin_2019" {
-	graph [label="Makin 2019" labelloc=t mclimit=2]
+	graph [label="Makin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lyn Gaston (1678)" [label="Lyn Gaston (1678)
 Animal Justice Party"]

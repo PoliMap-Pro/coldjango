@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Olver (5685)_Curtin_2004" {
-	graph [label="Curtin 2004" labelloc=t mclimit=2]
+	graph [label="Curtin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Olver (5685)" [label="Rob Olver (5685)
 Australian Democrats"]

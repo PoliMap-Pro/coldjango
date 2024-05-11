@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mike Kabos (4055)_Bruce_2010" {
-	graph [label="Bruce 2010" labelloc=t mclimit=2]
+	graph [label="Bruce 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mike Kabos (4055)" [label="Mike Kabos (4055)
 Liberal"]

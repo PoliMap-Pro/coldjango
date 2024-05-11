@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kenneth Ian Law (1548)_Groom_2019" {
-	graph [label="Groom 2019" labelloc=t mclimit=2]
+	graph [label="Groom 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kenneth Ian Law (1548)" [label="Kenneth Ian Law (1548)
 United Australia Party"]

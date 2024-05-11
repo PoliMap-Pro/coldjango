@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Erica C Menheere-Thompson (4780)_Corio_2007" {
-	graph [label="Corio 2007" labelloc=t mclimit=2]
+	graph [label="Corio 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Erica C Menheere-Thompson (4780)" [label="Erica C Menheere-Thompson (4780)
 Australian Democrats"]

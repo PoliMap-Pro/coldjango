@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kalven Wayne Jamieson (1959)_Forrest_2019" {
-	graph [label="Forrest 2019" labelloc=t mclimit=2]
+	graph [label="Forrest 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kalven Wayne Jamieson (1959)" [label="Kalven Wayne Jamieson (1959)
 Pauline Hanson's One Nation"]

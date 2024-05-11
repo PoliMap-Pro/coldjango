@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jock Mackenzie (4639)_Ryan_2007" {
-	graph [label="Ryan 2007" labelloc=t mclimit=2]
+	graph [label="Ryan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jock Mackenzie (4639)" [label="Jock Mackenzie (4639)
 LDP"]

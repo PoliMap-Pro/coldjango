@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Manish Patel (812)_Corio_2022" {
-	graph [label="Corio 2022" labelloc=t mclimit=2]
+	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Manish Patel (812)" [label="Manish Patel (812)
 Liberal"]

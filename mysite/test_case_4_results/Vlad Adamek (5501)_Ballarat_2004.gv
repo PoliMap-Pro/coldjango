@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vlad Adamek (5501)_Ballarat_2004" {
-	graph [label="Ballarat 2004" labelloc=t mclimit=2]
+	graph [label="Ballarat 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vlad Adamek (5501)" [label="Vlad Adamek (5501)
 Family First"]

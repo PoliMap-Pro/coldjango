@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rick Armitage (3141)_Groom_2013" {
-	graph [label="Groom 2013" labelloc=t mclimit=2]
+	graph [label="Groom 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rick Armitage (3141)" [label="Rick Armitage (3141)
 Rise Up Australia Party"]

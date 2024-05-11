@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mal Brough (3105)_Longman_2004" {
-	graph [label="Longman 2004" labelloc=t mclimit=2]
+	graph [label="Longman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mal Brough (3105)" [label="Mal Brough (3105)
 Liberal"]

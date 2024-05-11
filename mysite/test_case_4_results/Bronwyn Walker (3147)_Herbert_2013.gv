@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bronwyn Walker (3147)_Herbert_2013" {
-	graph [label="Herbert 2013" labelloc=t mclimit=2]
+	graph [label="Herbert 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bronwyn Walker (3147)" [label="Bronwyn Walker (3147)
 Katter's Australian Party"]

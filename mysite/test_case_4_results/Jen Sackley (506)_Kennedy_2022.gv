@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Jen Sackley (506)_Kennedy_2022" {
+	graph [label="Kennedy 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jen Sackley (506)" [label="Jen Sackley (506)
+Independent"]
+}

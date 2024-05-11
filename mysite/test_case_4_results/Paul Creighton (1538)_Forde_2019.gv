@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Creighton (1538)_Forde_2019" {
-	graph [label="Forde 2019" labelloc=t mclimit=2]
+	graph [label="Forde 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Creighton (1538)" [label="Paul Creighton (1538)
 United Australia Party"]

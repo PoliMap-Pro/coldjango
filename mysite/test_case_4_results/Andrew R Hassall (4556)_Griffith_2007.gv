@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew R Hassall (4556)_Griffith_2007" {
-	graph [label="Griffith 2007" labelloc=t mclimit=2]
+	graph [label="Griffith 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew R Hassall (4556)" [label="Andrew R Hassall (4556)
 Family First"]

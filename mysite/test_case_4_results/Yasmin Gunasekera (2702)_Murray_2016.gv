@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yasmin Gunasekera (2702)_Murray_2016" {
-	graph [label="Murray 2016" labelloc=t mclimit=2]
+	graph [label="Murray 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yasmin Gunasekera (2702)" [label="Yasmin Gunasekera (2702)
 Rise Up Australia Party"]

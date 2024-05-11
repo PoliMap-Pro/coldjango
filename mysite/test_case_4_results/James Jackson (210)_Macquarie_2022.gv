@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Jackson (210)_Macquarie_2022" {
-	graph [label="Macquarie 2022" labelloc=t mclimit=2]
+	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Jackson (210)" [label="James Jackson (210)
 Liberal Democrats"]

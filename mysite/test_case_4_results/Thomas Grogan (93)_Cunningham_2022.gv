@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Thomas Grogan (93)_Cunningham_2022" {
-	graph [label="Cunningham 2022" labelloc=t mclimit=2]
+	graph [label="Cunningham 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Thomas Grogan (93)" [label="Thomas Grogan (93)
 Pauline Hanson's One Nation"]

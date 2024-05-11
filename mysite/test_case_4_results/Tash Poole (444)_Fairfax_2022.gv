@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tash Poole (444)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tash Poole (444)" [label="Tash Poole (444)
 Animal Justice Party"]

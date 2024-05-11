@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mary Dettman (4815)_Higgins_2007" {
-	graph [label="Higgins 2007" labelloc=t mclimit=2]
+	graph [label="Higgins 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mary Dettman (4815)" [label="Mary Dettman (4815)
 Australian Democrats"]

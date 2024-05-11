@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Segal (872)_Goldstein_2022" {
-	graph [label="Goldstein 2022" labelloc=t mclimit=2]
+	graph [label="Goldstein 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Segal (872)" [label="David Segal (872)
 Liberal Democrats"]

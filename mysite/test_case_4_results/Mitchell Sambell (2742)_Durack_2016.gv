@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mitchell Sambell (2742)_Durack_2016" {
-	graph [label="Durack 2016" labelloc=t mclimit=2]
+	graph [label="Durack 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
 Rise Up Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Patrick Secker (3990)_Barker_2010" {
-	graph [label="Barker 2010" labelloc=t mclimit=2]
+	graph [label="Barker 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Patrick Secker (3990)" [label="Patrick Secker (3990)
 Liberal"]

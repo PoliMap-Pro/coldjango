@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Buttigieg (3765)_Hume_2010" {
-	graph [label="Hume 2010" labelloc=t mclimit=2]
+	graph [label="Hume 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Buttigieg (3765)" [label="Karen Buttigieg (3765)
 Christian Democratic Party (Fred Nile Group)"]

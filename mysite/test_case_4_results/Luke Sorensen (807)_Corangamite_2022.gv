@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luke Sorensen (807)_Corangamite_2022" {
-	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	graph [label="Corangamite 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luke Sorensen (807)" [label="Luke Sorensen (807)
 Pauline Hanson's One Nation"]

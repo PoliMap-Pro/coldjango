@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Tomlinson (1643)_Wright_2019" {
-	graph [label="Wright 2019" labelloc=t mclimit=2]
+	graph [label="Wright 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Tomlinson (1643)" [label="Matthew Tomlinson (1643)
 Katter's Australian Party (KAP)"]

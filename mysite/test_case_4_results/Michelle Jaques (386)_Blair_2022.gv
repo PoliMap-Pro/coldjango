@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Jaques (386)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t mclimit=2]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Jaques (386)" [label="Michelle Jaques (386)
 Liberal Democrats"]

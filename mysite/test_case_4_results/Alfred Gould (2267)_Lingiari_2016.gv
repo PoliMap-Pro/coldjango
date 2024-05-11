@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Alfred Gould (2267)_Lingiari_2016" {
+	graph [label="Lingiari 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Alfred Gould (2267)" [label="Alfred Gould (2267)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
+}

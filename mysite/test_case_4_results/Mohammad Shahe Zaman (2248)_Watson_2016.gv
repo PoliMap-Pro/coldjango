@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mohammad Shahe Zaman (2248)_Watson_2016" {
-	graph [label="Watson 2016" labelloc=t mclimit=2]
+	graph [label="Watson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mohammad Shahe Zaman (2248)" [label="Mohammad Shahe Zaman (2248)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dianne Richards (648)_Hindmarsh_2022" {
-	graph [label="Hindmarsh 2022" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dianne Richards (648)" [label="Dianne Richards (648)
 Australian Federation Party"]

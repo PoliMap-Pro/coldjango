@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Rodney Rafferty (2018)_Tangney_2019" {
-	graph [label="Tangney 2019" labelloc=t mclimit=2]
+	graph [label="Tangney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Rodney Rafferty (2018)" [label="Scott Rodney Rafferty (2018)
 Pauline Hanson's One Nation"]

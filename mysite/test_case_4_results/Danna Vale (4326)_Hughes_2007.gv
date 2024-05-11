@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Danna Vale (4326)_Hughes_2007" {
-	graph [label="Hughes 2007" labelloc=t mclimit=2]
+	graph [label="Hughes 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Danna Vale (4326)" [label="Danna Vale (4326)
 Liberal"]

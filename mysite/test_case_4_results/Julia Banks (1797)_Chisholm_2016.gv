@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julia Banks (1797)_Chisholm_2016" {
-	graph [label="Chisholm 2016" labelloc=t mclimit=2]
+	graph [label="Chisholm 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julia Banks (1797)" [label="Julia Banks (1797)
 Liberal"]

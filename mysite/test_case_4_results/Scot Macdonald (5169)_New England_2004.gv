@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scot Macdonald (5169)_New England_2004" {
-	graph [label="New England 2004" labelloc=t mclimit=2]
+	graph [label="New England 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scot Macdonald (5169)" [label="Scot Macdonald (5169)
 Liberal"]

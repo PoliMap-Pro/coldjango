@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Tyrrell (784)_Chisholm_2022" {
-	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	graph [label="Chisholm 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Tyrrell (784)" [label="Aaron Tyrrell (784)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda Aitken (1172)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda Aitken (1172)" [label="Linda Aitken (1172)
 Liberal"]

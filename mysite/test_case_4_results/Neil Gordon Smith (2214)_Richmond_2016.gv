@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Gordon Smith (2214)_Richmond_2016" {
-	graph [label="Richmond 2016" labelloc=t mclimit=2]
+	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
 Pauline Hanson's One Nation"]

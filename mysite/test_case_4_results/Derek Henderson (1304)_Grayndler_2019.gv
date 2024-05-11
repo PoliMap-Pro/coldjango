@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Derek Henderson (1304)_Grayndler_2019" {
-	graph [label="Grayndler 2019" labelloc=t mclimit=2]
+	graph [label="Grayndler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Derek Henderson (1304)" [label="Derek Henderson (1304)
 Liberal"]

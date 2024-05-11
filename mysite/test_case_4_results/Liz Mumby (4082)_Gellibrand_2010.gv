@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liz Mumby (4082)_Gellibrand_2010" {
-	graph [label="Gellibrand 2010" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liz Mumby (4082)" [label="Liz Mumby (4082)
 Family First"]

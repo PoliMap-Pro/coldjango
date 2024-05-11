@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maria Marcia Rigoni (1845)_Jagajaga_2019" {
-	graph [label="Jagajaga 2019" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
 United Australia Party"]

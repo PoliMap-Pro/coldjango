@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sonny Susilo (1225)_Barton_2016" {
-	graph [label="Barton 2016" labelloc=t mclimit=2]
+	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
 Christian Democratic Party (Fred Nile Group)"]

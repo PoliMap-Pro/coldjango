@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brendan Fenn (3379)_Corio_2013" {
-	graph [label="Corio 2013" labelloc=t mclimit=2]
+	graph [label="Corio 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brendan Fenn (3379)" [label="Brendan Fenn (3379)
 Family First Party"]

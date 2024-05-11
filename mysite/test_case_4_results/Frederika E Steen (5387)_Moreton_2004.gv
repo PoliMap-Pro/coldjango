@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Frederika E Steen (5387)_Moreton_2004" {
-	graph [label="Moreton 2004" labelloc=t mclimit=2]
+	graph [label="Moreton 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Frederika E Steen (5387)" [label="Frederika E Steen (5387)
 Australian Democrats"]

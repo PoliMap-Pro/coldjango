@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Williams (923)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t mclimit=2]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Williams (923)" [label="Stephen Williams (923)
 United Australia Party"]

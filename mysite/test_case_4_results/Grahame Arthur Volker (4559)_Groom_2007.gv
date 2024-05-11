@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Grahame Arthur Volker (4559)_Groom_2007" {
+	graph [label="Groom 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Grahame Arthur Volker (4559)" [label="Grahame Arthur Volker (4559)
+Independent"]
+	"Shalina Najeeb (4563)" [label="Shalina Najeeb (4563)
+Democrats"]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
+	"Irene Jones (4560)" [label="Irene Jones (4560)
+Citizens Electoral Council"]
+	"Shalina Najeeb (4563)" -> "Grahame Arthur Volker (4559)" [label=51]
+	"Rod Jeanneret (1490)" -> "Shalina Najeeb (4563)" [label=32]
+	"Irene Jones (4560)" -> "Rod Jeanneret (1490)" [label=17]
+	"Rod Jeanneret (1490)" -> "Grahame Arthur Volker (4559)" [label=107]
+	"Irene Jones (4560)" -> "Grahame Arthur Volker (4559)" [label=79]
+	"Irene Jones (4560)" -> "Shalina Najeeb (4563)" [label=14]
+}

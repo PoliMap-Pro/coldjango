@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Harvey (1773)_Corangamite_2019" {
-	graph [label="Corangamite 2019" labelloc=t mclimit=2]
+	graph [label="Corangamite 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Harvey (1773)" [label="Neil Harvey (1773)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Negline (3834)_Riverina_2010" {
-	graph [label="Riverina 2010" labelloc=t mclimit=2]
+	graph [label="Riverina 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Negline (3834)" [label="Andrew Negline (3834)
 Liberal"]

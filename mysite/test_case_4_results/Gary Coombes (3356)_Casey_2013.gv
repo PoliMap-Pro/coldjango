@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gary Coombes (3356)_Casey_2013" {
-	graph [label="Casey 2013" labelloc=t mclimit=2]
+	graph [label="Casey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gary Coombes (3356)" [label="Gary Coombes (3356)
 Family First Party"]

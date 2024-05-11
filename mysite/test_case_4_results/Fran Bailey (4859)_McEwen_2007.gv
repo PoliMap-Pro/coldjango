@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Fran Bailey (4859)_McEwen_2007" {
-	graph [label="McEwen 2007" labelloc=t mclimit=2]
+	graph [label="McEwen 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Fran Bailey (4859)" [label="Fran Bailey (4859)
 Liberal"]

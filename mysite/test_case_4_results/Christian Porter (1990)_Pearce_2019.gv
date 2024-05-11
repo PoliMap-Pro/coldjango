@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christian Porter (1990)_Pearce_2019" {
-	graph [label="Pearce 2019" labelloc=t mclimit=2]
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christian Porter (1990)" [label="Christian Porter (1990)
 Liberal"]

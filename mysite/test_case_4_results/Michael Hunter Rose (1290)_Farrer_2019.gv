@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Hunter Rose (1290)_Farrer_2019" {
-	graph [label="Farrer 2019" labelloc=t mclimit=2]
+	graph [label="Farrer 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Hunter Rose (1290)" [label="Michael Hunter Rose (1290)
 United Australia Party"]

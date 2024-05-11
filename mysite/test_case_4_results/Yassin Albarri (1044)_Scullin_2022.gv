@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yassin Albarri (1044)_Scullin_2022" {
-	graph [label="Scullin 2022" labelloc=t mclimit=2]
+	graph [label="Scullin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yassin Albarri (1044)" [label="Yassin Albarri (1044)
 United Australia Party"]

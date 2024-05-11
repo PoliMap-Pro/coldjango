@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ned Mannoun (2257)_Werriwa_2016" {
-	graph [label="Werriwa 2016" labelloc=t mclimit=2]
+	graph [label="Werriwa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ned Mannoun (2257)" [label="Ned Mannoun (2257)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zane Alcorn (2717)_Newcastle_2010" {
-	graph [label="Newcastle 2010" labelloc=t mclimit=2]
+	graph [label="Newcastle 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
 Socialist Alliance"]

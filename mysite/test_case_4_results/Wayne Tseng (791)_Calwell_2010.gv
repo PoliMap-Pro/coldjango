@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wayne Tseng (791)_Calwell_2010" {
-	graph [label="Calwell 2010" labelloc=t mclimit=2]
+	graph [label="Calwell 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wayne Tseng (791)" [label="Wayne Tseng (791)
 Liberal"]

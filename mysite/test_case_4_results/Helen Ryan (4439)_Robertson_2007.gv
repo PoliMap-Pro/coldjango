@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Ryan (4439)_Robertson_2007" {
-	graph [label="Robertson 2007" labelloc=t mclimit=2]
+	graph [label="Robertson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Ryan (4439)" [label="Helen Ryan (4439)
 One Nation"]

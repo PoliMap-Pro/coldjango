@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Duncan Dean (1858)_Solomon_2004" {
-	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	graph [label="Solomon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Duncan Dean (1858)" [label="Duncan Dean (1858)
 Australian Democrats"]

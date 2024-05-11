@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Kelly (152)_Hughes_2016" {
-	graph [label="Hughes 2016" labelloc=t mclimit=2]
+	graph [label="Hughes 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Kelly (152)" [label="Craig Kelly (152)
 Liberal"]

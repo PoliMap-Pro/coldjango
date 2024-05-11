@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Hastie (1082)_Canning_2019" {
-	graph [label="Canning 2019" labelloc=t mclimit=2]
+	graph [label="Canning 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Hastie (1082)" [label="Andrew Hastie (1082)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Burn (1104)_Curtin_2022" {
-	graph [label="Curtin 2022" labelloc=t mclimit=2]
+	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Burn (1104)" [label="Bill Burn (1104)
 WESTERN AUSTRALIA PARTY"]

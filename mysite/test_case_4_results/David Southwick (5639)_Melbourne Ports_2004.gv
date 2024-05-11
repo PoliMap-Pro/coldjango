@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Southwick (5639)_Melbourne Ports_2004" {
-	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Southwick (5639)" [label="David Southwick (5639)
 Liberal"]

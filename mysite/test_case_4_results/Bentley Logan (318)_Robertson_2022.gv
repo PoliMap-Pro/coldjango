@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bentley Logan (318)_Robertson_2022" {
-	graph [label="Robertson 2022" labelloc=t mclimit=2]
+	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bentley Logan (318)" [label="Bentley Logan (318)
 Liberal Democrats"]

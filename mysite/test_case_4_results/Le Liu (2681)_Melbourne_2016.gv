@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Le Liu (2681)_Melbourne_2016" {
-	graph [label="Melbourne 2016" labelloc=t mclimit=2]
+	graph [label="Melbourne 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Le Liu (2681)" [label="Le Liu (2681)
 Liberal"]

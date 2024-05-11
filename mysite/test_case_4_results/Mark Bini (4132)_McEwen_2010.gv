@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Bini (4132)_McEwen_2010" {
-	graph [label="McEwen 2010" labelloc=t mclimit=2]
+	graph [label="McEwen 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Bini (4132)" [label="Mark Bini (4132)
 Liberal Democrats (LDP)"]

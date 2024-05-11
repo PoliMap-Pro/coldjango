@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neville Phillip Tickner (1807)_Gippsland_2019" {
-	graph [label="Gippsland 2019" labelloc=t mclimit=2]
+	graph [label="Gippsland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neville Phillip Tickner (1807)" [label="Neville Phillip Tickner (1807)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

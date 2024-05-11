@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bethany Mcalpine (2849)_Cowper_2013" {
-	graph [label="Cowper 2013" labelloc=t mclimit=2]
+	graph [label="Cowper 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
 Christian Democratic Party (Fred Nile Group)"]

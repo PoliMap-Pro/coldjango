@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Dian Maie Underwood (5241)_Warringah_2004" {
+	graph [label="Warringah 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Dian Maie Underwood (5241)" [label="Dian Maie Underwood (5241)
+Independent"]
+	"Neil Francey (5244)" [label="Neil Francey (5244)
+Independent"]
+	"Neil Francey (5244)" -> "Dian Maie Underwood (5241)" [label=21]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin J Savage (4527)_Fairfax_2007" {
-	graph [label="Fairfax 2007" labelloc=t mclimit=2]
+	graph [label="Fairfax 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
 One Nation WA"]

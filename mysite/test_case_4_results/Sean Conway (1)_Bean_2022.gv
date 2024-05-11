@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sean Conway (1)_Bean_2022" {
-	graph [label="Bean 2022" labelloc=t mclimit=2]
+	graph [label="Bean 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sean Conway (1)" [label="Sean Conway (1)
 United Australia Party"]

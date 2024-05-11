@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jamie Elvy (2111)_Grayndler_2016" {
-	graph [label="Grayndler 2016" labelloc=t mclimit=2]
+	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jamie Elvy (2111)" [label="Jamie Elvy (2111)
 Christian Democratic Party (Fred Nile Group)"]

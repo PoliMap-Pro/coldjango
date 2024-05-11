@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jodie Anne Hoskin (1676)_Kingston_2019" {
-	graph [label="Kingston 2019" labelloc=t mclimit=2]
+	graph [label="Kingston 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jodie Anne Hoskin (1676)" [label="Jodie Anne Hoskin (1676)
 United Australia Party"]

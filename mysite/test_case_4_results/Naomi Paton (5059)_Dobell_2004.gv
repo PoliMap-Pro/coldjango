@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Naomi Paton (5059)_Dobell_2004" {
-	graph [label="Dobell 2004" labelloc=t mclimit=2]
+	graph [label="Dobell 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Naomi Paton (5059)" [label="Naomi Paton (5059)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Petrus Joannes Gijsbertus Van Der Steen (1392)_Parkes_2019" {
-	graph [label="Parkes 2019" labelloc=t mclimit=2]
+	graph [label="Parkes 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Petrus Joannes Gijsbertus Van Der Steen (1392)" [label="Petrus Joannes Gijsbertus Van Der Steen (1392)
 United Australia Party"]

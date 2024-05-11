@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Howard-Jones (663)_Makin_2022" {
-	graph [label="Makin 2022" labelloc=t mclimit=2]
+	graph [label="Makin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Howard-Jones (663)" [label="Alan Howard-Jones (663)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Pike (1067)_Brand_2022" {
-	graph [label="Brand 2022" labelloc=t mclimit=2]
+	graph [label="Brand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Pike (1067)" [label="David Pike (1067)
 United Australia Party"]

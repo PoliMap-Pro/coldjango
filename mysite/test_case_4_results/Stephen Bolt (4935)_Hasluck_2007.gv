@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Bolt (4935)_Hasluck_2007" {
-	graph [label="Hasluck 2007" labelloc=t mclimit=2]
+	graph [label="Hasluck 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Bolt (4935)" [label="Stephen Bolt (4935)
 Family First"]

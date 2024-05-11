@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sheila Mundy (1942)_Cowan_2019" {
-	graph [label="Cowan 2019" labelloc=t mclimit=2]
+	graph [label="Cowan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sheila Mundy (1942)" [label="Sheila Mundy (1942)
 Pauline Hanson's One Nation"]

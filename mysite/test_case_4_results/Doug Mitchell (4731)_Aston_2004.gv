@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Doug Mitchell (4731)_Aston_2004" {
-	graph [label="Aston 2004" labelloc=t mclimit=2]
+	graph [label="Aston 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
 Citizens Electoral Council"]

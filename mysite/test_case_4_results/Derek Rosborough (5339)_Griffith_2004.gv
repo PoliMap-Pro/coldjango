@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Derek Rosborough (5339)_Griffith_2004" {
+	graph [label="Griffith 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Derek Rosborough (5339)" [label="Derek Rosborough (5339)
+Independent"]
+	"Lynda Hansen (5336)" [label="Lynda Hansen (5336)
+Socialist Alliance"]
+	"Lynda Hansen (5336)" -> "Derek Rosborough (5339)" [label=29]
+}

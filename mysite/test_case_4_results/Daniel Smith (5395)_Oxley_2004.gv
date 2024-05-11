@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Smith (5395)_Oxley_2004" {
-	graph [label="Oxley 2004" labelloc=t mclimit=2]
+	graph [label="Oxley 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Smith (5395)" [label="Daniel Smith (5395)
 Liberal"]

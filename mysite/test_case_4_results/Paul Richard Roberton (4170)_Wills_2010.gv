@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Richard Roberton (4170)_Wills_2010" {
-	graph [label="Wills 2010" labelloc=t mclimit=2]
+	graph [label="Wills 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Richard Roberton (4170)" [label="Paul Richard Roberton (4170)
 Australian Democrats"]

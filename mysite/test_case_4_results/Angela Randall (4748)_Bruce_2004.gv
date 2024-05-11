@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Randall (4748)_Bruce_2004" {
-	graph [label="Bruce 2004" labelloc=t mclimit=2]
+	graph [label="Bruce 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Randall (4748)" [label="Angela Randall (4748)
 Liberal"]

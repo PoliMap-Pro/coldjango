@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alastair Thomson (1775)_Corio_2019" {
-	graph [label="Corio 2019" labelloc=t mclimit=2]
+	graph [label="Corio 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alastair Thomson (1775)" [label="Alastair Thomson (1775)
 Liberal"]

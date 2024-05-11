@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Rose (3068)_Brisbane_2013" {
-	graph [label="Brisbane 2013" labelloc=t mclimit=2]
+	graph [label="Brisbane 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Rose (3068)" [label="Tony Rose (3068)
 Secular Party of Australia"]

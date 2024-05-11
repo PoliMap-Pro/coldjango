@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Kayal (362)_Werriwa_2022" {
-	graph [label="Werriwa 2022" labelloc=t mclimit=2]
+	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Kayal (362)" [label="Sam Kayal (362)
 Liberal"]

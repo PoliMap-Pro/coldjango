@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharon Wu (2032)_Banks_2016" {
-	graph [label="Banks 2016" labelloc=t mclimit=2]
+	graph [label="Banks 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharon Wu (2032)" [label="Sharon Wu (2032)
 Family First"]

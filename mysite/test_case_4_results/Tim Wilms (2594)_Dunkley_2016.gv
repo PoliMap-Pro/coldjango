@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Wilms (2594)_Dunkley_2016" {
-	graph [label="Dunkley 2016" labelloc=t mclimit=2]
+	graph [label="Dunkley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Wilms (2594)" [label="Tim Wilms (2594)
 Liberal Democrats"]

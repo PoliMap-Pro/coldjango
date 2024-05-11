@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Francesca Mocanu (1292)_Fowler_2019" {
-	graph [label="Fowler 2019" labelloc=t mclimit=2]
+	graph [label="Fowler 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Francesca Mocanu (1292)" [label="Francesca Mocanu (1292)
 Christian Democratic Party (Fred Nile Group)"]

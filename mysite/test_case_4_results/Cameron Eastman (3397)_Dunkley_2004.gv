@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Eastman (3397)_Dunkley_2004" {
-	graph [label="Dunkley 2004" labelloc=t mclimit=2]
+	graph [label="Dunkley 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Eastman (3397)" [label="Cameron Eastman (3397)
 Family First"]

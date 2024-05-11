@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lori Carnwell (4605)_McPherson_2007" {
-	graph [label="McPherson 2007" labelloc=t mclimit=2]
+	graph [label="McPherson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lori Carnwell (4605)" [label="Lori Carnwell (4605)
 Democrats"]

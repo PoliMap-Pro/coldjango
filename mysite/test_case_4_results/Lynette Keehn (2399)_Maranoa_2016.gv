@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lynette Keehn (2399)_Maranoa_2016" {
-	graph [label="Maranoa 2016" labelloc=t mclimit=2]
+	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lynette Keehn (2399)" [label="Lynette Keehn (2399)
 Pauline Hanson's One Nation"]

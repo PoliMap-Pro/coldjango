@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor David Gray (1523)_Fisher_2019" {
-	graph [label="Fisher 2019" labelloc=t mclimit=2]
+	graph [label="Fisher 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor David Gray (1523)" [label="Trevor David Gray (1523)
 United Australia Party"]

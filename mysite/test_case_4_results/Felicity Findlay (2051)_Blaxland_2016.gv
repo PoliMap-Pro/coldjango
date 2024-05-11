@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Felicity Findlay (2051)_Blaxland_2016" {
-	graph [label="Blaxland 2016" labelloc=t mclimit=2]
+	graph [label="Blaxland 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Felicity Findlay (2051)" [label="Felicity Findlay (2051)
 Liberal"]

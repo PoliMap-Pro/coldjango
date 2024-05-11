@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Bain (1800)_Fraser_2019" {
-	graph [label="Fraser 2019" labelloc=t mclimit=2]
+	graph [label="Fraser 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Bain (1800)" [label="Peter Bain (1800)
 Liberal"]

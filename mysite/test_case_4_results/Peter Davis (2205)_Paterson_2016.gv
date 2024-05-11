@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Davis (2205)_Paterson_2016" {
-	graph [label="Paterson 2016" labelloc=t mclimit=2]
+	graph [label="Paterson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Davis (2205)" [label="Peter Davis (2205)
 Citizens Electoral Council"]

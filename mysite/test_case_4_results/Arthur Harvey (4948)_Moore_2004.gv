@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Arthur Harvey (4948)_Moore_2004" {
-	graph [label="Moore 2004" labelloc=t mclimit=2]
+	graph [label="Moore 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
 Citizens Electoral Council"]

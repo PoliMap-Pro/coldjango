@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Colin Horne (4806)_Goldstein_2007" {
-	graph [label="Goldstein 2007" labelloc=t mclimit=2]
+	graph [label="Goldstein 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Colin Horne (4806)" [label="Colin Horne (4806)
 Citizens Electoral Council"]

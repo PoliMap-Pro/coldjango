@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Jeges (963)_La Trobe_2022" {
-	graph [label="La Trobe 2022" labelloc=t mclimit=2]
+	graph [label="La Trobe 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Jeges (963)" [label="Helen Jeges (963)
 Animal Justice Party"]

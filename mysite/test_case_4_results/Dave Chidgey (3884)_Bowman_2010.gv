@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dave Chidgey (3884)_Bowman_2010" {
-	graph [label="Bowman 2010" labelloc=t mclimit=2]
+	graph [label="Bowman 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dave Chidgey (3884)" [label="Dave Chidgey (3884)
 One Nation"]

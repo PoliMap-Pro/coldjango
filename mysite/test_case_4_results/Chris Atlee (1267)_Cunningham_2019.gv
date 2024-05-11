@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Atlee (1267)_Cunningham_2019" {
-	graph [label="Cunningham 2019" labelloc=t mclimit=2]
+	graph [label="Cunningham 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Atlee (1267)" [label="Chris Atlee (1267)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Victor Waterson (37)_Bennelong_2022" {
-	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Victor Waterson (37)" [label="Victor Waterson (37)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Violet Abdulla (2244)_Watson_2016" {
-	graph [label="Watson 2016" labelloc=t mclimit=2]
+	graph [label="Watson 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Violet Abdulla (2244)" [label="Violet Abdulla (2244)
 Christian Democratic Party (Fred Nile Group)"]

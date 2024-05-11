@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rosemary Moulden (1592)_Maranoa_2019" {
-	graph [label="Maranoa 2019" labelloc=t mclimit=2]
+	graph [label="Maranoa 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rosemary Moulden (1592)" [label="Rosemary Moulden (1592)
 Pauline Hanson's One Nation"]

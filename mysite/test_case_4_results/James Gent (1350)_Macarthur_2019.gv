@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Gent (1350)_Macarthur_2019" {
-	graph [label="Macarthur 2019" labelloc=t mclimit=2]
+	graph [label="Macarthur 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Gent (1350)" [label="James Gent (1350)
 Christian Democratic Party (Fred Nile Group)"]

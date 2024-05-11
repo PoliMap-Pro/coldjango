@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christoph Donges (5342)_Groom_2004" {
-	graph [label="Groom 2004" labelloc=t mclimit=2]
+	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christoph Donges (5342)" [label="Christoph Donges (5342)
 Australian Democrats"]

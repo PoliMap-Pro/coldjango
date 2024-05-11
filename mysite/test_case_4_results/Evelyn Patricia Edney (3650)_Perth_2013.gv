@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Evelyn Patricia Edney (3650)_Perth_2013" {
-	graph [label="Perth 2013" labelloc=t mclimit=2]
+	graph [label="Perth 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
 Rise Up Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Murphy (775)_Casey_2022" {
-	graph [label="Casey 2022" labelloc=t mclimit=2]
+	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Murphy (775)" [label="Paul Murphy (775)
 Pauline Hanson's One Nation"]

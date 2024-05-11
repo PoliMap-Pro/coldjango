@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Byrne (1746)_Batman_2004" {
-	graph [label="Batman 2004" labelloc=t mclimit=2]
+	graph [label="Batman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Byrne (1746)" [label="Peter Byrne (1746)
 "]

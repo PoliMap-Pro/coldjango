@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jack Hynes (896)_Hawke_2022" {
-	graph [label="Hawke 2022" labelloc=t mclimit=2]
+	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jack Hynes (896)" [label="Jack Hynes (896)
 Victorian Socialists"]

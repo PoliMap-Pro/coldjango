@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Steven J Loncar (883)_Gorton_2022" {
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steven J Loncar (883)" [label="Steven J Loncar (883)
+Independent"]
+	"Belle Gibson (881)" [label="Belle Gibson (881)
+Victorian Socialists"]
+	"Tony Dobran (884)" [label="Tony Dobran (884)
+The Great Australian Party"]
+	"Paul Lassig (885)" [label="Paul Lassig (885)
+Australian Federation Party"]
+	"Belle Gibson (881)" -> "Steven J Loncar (883)" [label=222]
+	"Tony Dobran (884)" -> "Belle Gibson (881)" [label=66]
+	"Paul Lassig (885)" -> "Tony Dobran (884)" [label=194]
+	"Tony Dobran (884)" -> "Steven J Loncar (883)" [label=318]
+	"Paul Lassig (885)" -> "Steven J Loncar (883)" [label=186]
+	"Paul Lassig (885)" -> "Belle Gibson (881)" [label=54]
+}

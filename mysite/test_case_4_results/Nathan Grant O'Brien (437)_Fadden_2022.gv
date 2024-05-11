@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Grant O'Brien (437)_Fadden_2022" {
-	graph [label="Fadden 2022" labelloc=t mclimit=2]
+	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janetia Knapp (1137)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
 WESTERN AUSTRALIA PARTY"]

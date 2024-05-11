@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Collyer (4140)_Melbourne_2010" {
-	graph [label="Melbourne 2010" labelloc=t mclimit=2]
+	graph [label="Melbourne 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Collyer (4140)" [label="David Collyer (4140)
 Australian Democrats"]

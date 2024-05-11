@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Miles (9)_Canberra_2022" {
-	graph [label="Canberra 2022" labelloc=t mclimit=2]
+	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Miles (9)" [label="James Miles (9)
 Pauline Hanson's One Nation"]

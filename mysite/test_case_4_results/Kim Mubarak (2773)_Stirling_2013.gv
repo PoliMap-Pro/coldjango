@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Kim Mubarak (2773)_Stirling_2013" {
+	graph [label="Stirling 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
+Independent"]
+	"Matueny Marial Luke (3654)" [label="Matueny Marial Luke (3654)
+Family First Party"]
+	"Alison Rowe (3656)" [label="Alison Rowe (3656)
+Rise Up Australia Party"]
+	"Matueny Marial Luke (3654)" -> "Kim Mubarak (2773)" [label=90]
+	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
+	"Alison Rowe (3656)" -> "Kim Mubarak (2773)" [label=69]
+}

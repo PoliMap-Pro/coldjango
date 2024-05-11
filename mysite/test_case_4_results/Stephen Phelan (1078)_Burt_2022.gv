@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Phelan (1078)_Burt_2022" {
-	graph [label="Burt 2022" labelloc=t mclimit=2]
+	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
 WESTERN AUSTRALIA PARTY"]

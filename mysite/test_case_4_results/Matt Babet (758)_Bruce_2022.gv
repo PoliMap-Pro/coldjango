@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Babet (758)_Bruce_2022" {
-	graph [label="Bruce 2022" labelloc=t mclimit=2]
+	graph [label="Bruce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Babet (758)" [label="Matt Babet (758)
 United Australia Party"]

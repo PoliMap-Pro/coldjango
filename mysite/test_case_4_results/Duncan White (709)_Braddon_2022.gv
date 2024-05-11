@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Duncan White (709)_Braddon_2022" {
-	graph [label="Braddon 2022" labelloc=t mclimit=2]
+	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Duncan White (709)" [label="Duncan White (709)
 Liberal Democrats"]

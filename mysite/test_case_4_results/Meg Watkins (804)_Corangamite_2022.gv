@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Meg Watkins (804)_Corangamite_2022" {
-	graph [label="Corangamite 2022" labelloc=t mclimit=2]
+	graph [label="Corangamite 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Meg Watkins (804)" [label="Meg Watkins (804)
 Animal Justice Party"]

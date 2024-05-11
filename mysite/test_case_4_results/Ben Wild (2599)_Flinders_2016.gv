@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Wild (2599)_Flinders_2016" {
-	graph [label="Flinders 2016" labelloc=t mclimit=2]
+	graph [label="Flinders 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Wild (2599)" [label="Ben Wild (2599)
 Animal Justice Party"]

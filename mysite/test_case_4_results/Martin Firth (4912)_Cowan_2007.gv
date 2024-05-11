@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Firth (4912)_Cowan_2007" {
-	graph [label="Cowan 2007" labelloc=t mclimit=2]
+	graph [label="Cowan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Firth (4912)" [label="Martin Firth (4912)
 Christian Democratic Party"]

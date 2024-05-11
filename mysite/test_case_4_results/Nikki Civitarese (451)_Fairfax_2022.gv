@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nikki Civitarese (451)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nikki Civitarese (451)" [label="Nikki Civitarese (451)
 Pauline Hanson's One Nation"]

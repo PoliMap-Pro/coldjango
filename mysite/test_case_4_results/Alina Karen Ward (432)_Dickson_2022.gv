@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alina Karen Ward (432)_Dickson_2022" {
-	graph [label="Dickson 2022" labelloc=t mclimit=2]
+	graph [label="Dickson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alina Karen Ward (432)" [label="Alina Karen Ward (432)
 United Australia Party"]

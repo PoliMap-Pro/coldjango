@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Gallard (377)_Lingiari_2022" {
-	graph [label="Lingiari 2022" labelloc=t mclimit=2]
+	graph [label="Lingiari 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Gallard (377)" [label="Tim Gallard (377)
 Pauline Hanson's One Nation"]

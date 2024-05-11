@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Murray Peterson (1532)_Flynn_2019" {
+	graph [label="Flynn 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Murray Peterson (1532)" [label="Murray Peterson (1532)
+Independent"]
+	"Jaiben Baker (1531)" [label="Jaiben Baker (1531)
+The Greens"]
+	"Marcus John Hiesler (1534)" [label="Marcus John Hiesler (1534)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
+Independent"]
+	"Jaiben Baker (1531)" -> "Murray Peterson (1532)" [label=630]
+	"Marcus John Hiesler (1534)" -> "Jaiben Baker (1531)" [label=34]
+	"Duncan George Scott (1533)" -> "Marcus John Hiesler (1534)" [label=104]
+	"Marcus John Hiesler (1534)" -> "Murray Peterson (1532)" [label=307]
+	"Duncan George Scott (1533)" -> "Murray Peterson (1532)" [label=732]
+	"Duncan George Scott (1533)" -> "Jaiben Baker (1531)" [label=67]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Riley Munro (1353)_Macarthur_2019" {
-	graph [label="Macarthur 2019" labelloc=t mclimit=2]
+	graph [label="Macarthur 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Riley Munro (1353)" [label="Riley Munro (1353)
 Liberal"]

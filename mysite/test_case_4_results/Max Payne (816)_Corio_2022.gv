@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Max Payne (816)_Corio_2022" {
-	graph [label="Corio 2022" labelloc=t mclimit=2]
+	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Max Payne (816)" [label="Max Payne (816)
 Liberal Democrats"]

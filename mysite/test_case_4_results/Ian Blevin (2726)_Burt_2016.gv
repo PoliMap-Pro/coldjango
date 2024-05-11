@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Blevin (2726)_Burt_2016" {
-	graph [label="Burt 2016" labelloc=t mclimit=2]
+	graph [label="Burt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Blevin (2726)" [label="Ian Blevin (2726)
 Shooters, Fishers and Farmers"]

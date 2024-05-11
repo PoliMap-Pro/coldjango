@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ron Delezio (3027)_Banks_2010" {
-	graph [label="Banks 2010" labelloc=t mclimit=2]
+	graph [label="Banks 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ron Delezio (3027)" [label="Ron Delezio (3027)
 Liberal"]

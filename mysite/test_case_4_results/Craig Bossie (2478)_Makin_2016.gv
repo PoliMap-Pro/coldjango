@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Bossie (2478)_Makin_2016" {
-	graph [label="Makin 2016" labelloc=t mclimit=2]
+	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Bossie (2478)" [label="Craig Bossie (2478)
 Nick Xenophon Team"]

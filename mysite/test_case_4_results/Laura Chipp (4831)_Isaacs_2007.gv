@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Laura Chipp (4831)_Isaacs_2007" {
-	graph [label="Isaacs 2007" labelloc=t mclimit=2]
+	graph [label="Isaacs 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Laura Chipp (4831)" [label="Laura Chipp (4831)
 Australian Democrats"]

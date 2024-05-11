@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leah Folloni (2650)_La Trobe_2016" {
-	graph [label="La Trobe 2016" labelloc=t mclimit=2]
+	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leah Folloni (2650)" [label="Leah Folloni (2650)
 Animal Justice Party"]

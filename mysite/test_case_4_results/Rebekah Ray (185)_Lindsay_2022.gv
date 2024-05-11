@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rebekah Ray (185)_Lindsay_2022" {
-	graph [label="Lindsay 2022" labelloc=t mclimit=2]
+	graph [label="Lindsay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rebekah Ray (185)" [label="Rebekah Ray (185)
 Informed Medical Options Party"]

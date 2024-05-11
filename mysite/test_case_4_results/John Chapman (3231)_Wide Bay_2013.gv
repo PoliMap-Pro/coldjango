@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Chapman (3231)_Wide Bay_2013" {
-	graph [label="Wide Bay 2013" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Chapman (3231)" [label="John Chapman (3231)
 Family First"]

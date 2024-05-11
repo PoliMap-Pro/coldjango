@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon E F Flitcroft (1476)_Bonner_2019" {
-	graph [label="Bonner 2019" labelloc=t mclimit=2]
+	graph [label="Bonner 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon E F Flitcroft (1476)" [label="Simon E F Flitcroft (1476)
 United Australia Party"]

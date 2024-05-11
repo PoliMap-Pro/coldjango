@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lynda Abdo (1318)_Hume_2019" {
-	graph [label="Hume 2019" labelloc=t mclimit=2]
+	graph [label="Hume 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lynda Abdo (1318)" [label="Lynda Abdo (1318)
 United Australia Party"]

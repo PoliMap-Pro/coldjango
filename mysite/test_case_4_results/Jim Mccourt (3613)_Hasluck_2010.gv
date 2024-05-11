@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Mccourt (3613)_Hasluck_2010" {
-	graph [label="Hasluck 2010" labelloc=t mclimit=2]
+	graph [label="Hasluck 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
 Family First"]

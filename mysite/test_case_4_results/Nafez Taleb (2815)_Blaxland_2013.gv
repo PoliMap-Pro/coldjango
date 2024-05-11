@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nafez Taleb (2815)_Blaxland_2013" {
-	graph [label="Blaxland 2013" labelloc=t mclimit=2]
+	graph [label="Blaxland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
 Katter's Australian Party"]

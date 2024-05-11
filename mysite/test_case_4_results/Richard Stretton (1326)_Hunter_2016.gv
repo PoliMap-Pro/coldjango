@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Stretton (1326)_Hunter_2016" {
-	graph [label="Hunter 2016" labelloc=t mclimit=2]
+	graph [label="Hunter 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Stretton (1326)" [label="Richard Stretton (1326)
 Christian Democratic Party (Fred Nile Group)"]

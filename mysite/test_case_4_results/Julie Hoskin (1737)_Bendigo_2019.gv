@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julie Hoskin (1737)_Bendigo_2019" {
-	graph [label="Bendigo 2019" labelloc=t mclimit=2]
+	graph [label="Bendigo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julie Hoskin (1737)" [label="Julie Hoskin (1737)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

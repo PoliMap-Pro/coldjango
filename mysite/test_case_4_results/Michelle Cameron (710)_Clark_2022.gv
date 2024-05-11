@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Cameron (710)_Clark_2022" {
-	graph [label="Clark 2022" labelloc=t mclimit=2]
+	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Cameron (710)" [label="Michelle Cameron (710)
 Pauline Hanson's One Nation"]

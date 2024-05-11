@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katherine Reid (5571)_Higgins_2004" {
-	graph [label="Higgins 2004" labelloc=t mclimit=2]
+	graph [label="Higgins 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katherine Reid (5571)" [label="Katherine Reid (5571)
 Citizens Electoral Council"]

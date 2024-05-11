@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mikaela Wu (2201)_Parramatta_2016" {
-	graph [label="Parramatta 2016" labelloc=t mclimit=2]
+	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
 Family First"]

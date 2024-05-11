@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Smith (1642)_Page_2013" {
-	graph [label="Page 2013" labelloc=t mclimit=2]
+	graph [label="Page 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Smith (1642)" [label="Rod Smith (1642)
 One Nation"]

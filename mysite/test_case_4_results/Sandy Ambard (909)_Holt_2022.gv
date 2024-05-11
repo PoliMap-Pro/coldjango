@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandy Ambard (909)_Holt_2022" {
-	graph [label="Holt 2022" labelloc=t mclimit=2]
+	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandy Ambard (909)" [label="Sandy Ambard (909)
 Pauline Hanson's One Nation"]

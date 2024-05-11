@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Black (1057)_Wills_2022" {
-	graph [label="Wills 2022" labelloc=t mclimit=2]
+	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Black (1057)" [label="Emma Black (1057)
 Victorian Socialists"]

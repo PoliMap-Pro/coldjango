@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Diane Demetre (557)_Moncrieff_2022" {
-	graph [label="Moncrieff 2022" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Diane Demetre (557)" [label="Diane Demetre (557)
 Liberal Democrats"]

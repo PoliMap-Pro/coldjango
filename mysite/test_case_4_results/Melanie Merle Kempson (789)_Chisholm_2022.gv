@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Melanie Merle Kempson (789)_Chisholm_2022" {
-	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	graph [label="Chisholm 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Melanie Merle Kempson (789)" [label="Melanie Merle Kempson (789)
 United Australia Party"]

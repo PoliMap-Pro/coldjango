@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Tudge (736)_Aston_2016" {
-	graph [label="Aston 2016" labelloc=t mclimit=2]
+	graph [label="Aston 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Tudge (736)" [label="Alan Tudge (736)
 Liberal"]

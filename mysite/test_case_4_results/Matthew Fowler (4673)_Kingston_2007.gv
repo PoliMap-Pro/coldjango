@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Fowler (4673)_Kingston_2007" {
-	graph [label="Kingston 2007" labelloc=t mclimit=2]
+	graph [label="Kingston 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
 Australian Democrats"]

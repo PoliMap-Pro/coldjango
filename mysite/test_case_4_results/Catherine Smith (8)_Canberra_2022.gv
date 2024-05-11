@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Catherine Smith (8)_Canberra_2022" {
-	graph [label="Canberra 2022" labelloc=t mclimit=2]
+	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Catherine Smith (8)" [label="Catherine Smith (8)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gordon Weiss (3852)_Sydney_2010" {
-	graph [label="Sydney 2010" labelloc=t mclimit=2]
+	graph [label="Sydney 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gordon Weiss (3852)" [label="Gordon Weiss (3852)
 Liberal"]

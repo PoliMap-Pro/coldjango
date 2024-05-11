@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Jane Ward (3006)_Sydney_2004" {
+	graph [label="Sydney 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Jane Ward (3006)" [label="Jane Ward (3006)
+Independent"]
+	"Michael Webb (5234)" [label="Michael Webb (5234)
+Independent"]
+	"Susan Price (5235)" [label="Susan Price (5235)
+Socialist Alliance"]
+	"Adrian Ford (4447)" [label="Adrian Ford (4447)
+Citizens Electoral Council"]
+	"Michael Webb (5234)" -> "Jane Ward (3006)" [label=267]
+	"Susan Price (5235)" -> "Michael Webb (5234)" [label=42]
+	"Adrian Ford (4447)" -> "Susan Price (5235)" [label=12]
+	"Susan Price (5235)" -> "Jane Ward (3006)" [label=28]
+	"Adrian Ford (4447)" -> "Jane Ward (3006)" [label=27]
+	"Adrian Ford (4447)" -> "Michael Webb (5234)" [label=35]
+}

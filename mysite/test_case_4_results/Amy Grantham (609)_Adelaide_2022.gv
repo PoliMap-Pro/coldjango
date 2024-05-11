@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amy Grantham (609)_Adelaide_2022" {
-	graph [label="Adelaide 2022" labelloc=t mclimit=2]
+	graph [label="Adelaide 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amy Grantham (609)" [label="Amy Grantham (609)
 Liberal"]

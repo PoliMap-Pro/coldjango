@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Skrobo (757)_Bruce_2022" {
-	graph [label="Bruce 2022" labelloc=t mclimit=2]
+	graph [label="Bruce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Skrobo (757)" [label="Christine Skrobo (757)
 Liberal Democrats"]

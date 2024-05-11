@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sean O'Connor (3007)_Sydney_2013" {
-	graph [label="Sydney 2013" labelloc=t mclimit=2]
+	graph [label="Sydney 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sean O'Connor (3007)" [label="Sean O'Connor (3007)
 Liberal"]

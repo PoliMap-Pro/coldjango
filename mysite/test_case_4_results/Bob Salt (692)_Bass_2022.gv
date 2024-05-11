@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bob Salt (692)_Bass_2022" {
-	graph [label="Bass 2022" labelloc=t mclimit=2]
+	graph [label="Bass 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bob Salt (692)" [label="Bob Salt (692)
 Jacqui Lambie Network"]

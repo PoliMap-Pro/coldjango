@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Jarvis (4741)_Bendigo_2007" {
-	graph [label="Bendigo 2007" labelloc=t mclimit=2]
+	graph [label="Bendigo 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Jarvis (4741)" [label="Terry Jarvis (4741)
 Family First"]

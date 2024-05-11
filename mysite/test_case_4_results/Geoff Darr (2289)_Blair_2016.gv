@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Darr (2289)_Blair_2016" {
-	graph [label="Blair 2016" labelloc=t mclimit=2]
+	graph [label="Blair 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Darr (2289)" [label="Geoff Darr (2289)
 Family First"]

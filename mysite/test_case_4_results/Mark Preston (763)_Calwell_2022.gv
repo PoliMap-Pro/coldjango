@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Preston (763)_Calwell_2022" {
-	graph [label="Calwell 2022" labelloc=t mclimit=2]
+	graph [label="Calwell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Preston (763)" [label="Mark Preston (763)
 Pauline Hanson's One Nation"]

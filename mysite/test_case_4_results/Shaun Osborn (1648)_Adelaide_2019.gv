@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shaun Osborn (1648)_Adelaide_2019" {
-	graph [label="Adelaide 2019" labelloc=t mclimit=2]
+	graph [label="Adelaide 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shaun Osborn (1648)" [label="Shaun Osborn (1648)
 Liberal"]

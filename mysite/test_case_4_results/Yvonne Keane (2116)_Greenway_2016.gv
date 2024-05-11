@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yvonne Keane (2116)_Greenway_2016" {
-	graph [label="Greenway 2016" labelloc=t mclimit=2]
+	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yvonne Keane (2116)" [label="Yvonne Keane (2116)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Gilfillan (5680)_Cowan_2004" {
-	graph [label="Cowan 2004" labelloc=t mclimit=2]
+	graph [label="Cowan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Gilfillan (5680)" [label="Sarah Gilfillan (5680)
 Australian Democrats"]

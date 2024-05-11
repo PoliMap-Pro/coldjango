@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sam Romano (1244)_Calare_2019" {
-	graph [label="Calare 2019" labelloc=t mclimit=2]
+	graph [label="Calare 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sam Romano (1244)" [label="Sam Romano (1244)
 Shooters, Fishers and Farmers"]

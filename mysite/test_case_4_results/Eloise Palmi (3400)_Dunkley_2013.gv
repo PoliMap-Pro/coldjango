@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eloise Palmi (3400)_Dunkley_2013" {
-	graph [label="Dunkley 2013" labelloc=t mclimit=2]
+	graph [label="Dunkley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eloise Palmi (3400)" [label="Eloise Palmi (3400)
 Sex Party"]

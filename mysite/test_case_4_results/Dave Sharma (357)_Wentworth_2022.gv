@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dave Sharma (357)_Wentworth_2022" {
-	graph [label="Wentworth 2022" labelloc=t mclimit=2]
+	graph [label="Wentworth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dave Sharma (357)" [label="Dave Sharma (357)
 Liberal"]

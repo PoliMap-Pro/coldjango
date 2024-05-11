@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keith Pech (2989)_Riverina_2013" {
-	graph [label="Riverina 2013" labelloc=t mclimit=2]
+	graph [label="Riverina 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keith Pech (2989)" [label="Keith Pech (2989)
 Christian Democratic Party (Fred Nile Group)"]

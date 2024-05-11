@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Hunt (1792)_Flinders_2007" {
-	graph [label="Flinders 2007" labelloc=t mclimit=2]
+	graph [label="Flinders 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Hunt (1792)" [label="Greg Hunt (1792)
 Liberal"]

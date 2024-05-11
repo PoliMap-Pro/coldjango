@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maurice Oldis (2537)_Batman_2016" {
-	graph [label="Batman 2016" labelloc=t mclimit=2]
+	graph [label="Batman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maurice Oldis (2537)" [label="Maurice Oldis (2537)
 Renewable Energy Party"]

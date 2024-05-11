@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Kirchler (4611)_Moncrieff_2007" {
-	graph [label="Moncrieff 2007" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Kirchler (4611)" [label="Tim Kirchler (4611)
 Socialist Alliance"]

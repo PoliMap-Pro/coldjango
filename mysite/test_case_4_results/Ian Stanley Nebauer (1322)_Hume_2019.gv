@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Stanley Nebauer (1322)_Hume_2019" {
-	graph [label="Hume 2019" labelloc=t mclimit=2]
+	graph [label="Hume 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
 Christian Democratic Party (Fred Nile Group)"]

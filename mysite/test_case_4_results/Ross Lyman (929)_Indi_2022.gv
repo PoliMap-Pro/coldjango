@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Lyman (929)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t mclimit=2]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Lyman (929)" [label="Ross Lyman (929)
 Liberal"]

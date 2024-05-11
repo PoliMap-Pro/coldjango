@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Eric Hutchinson (2519)_Lyons_2016" {
-	graph [label="Lyons 2016" labelloc=t mclimit=2]
+	graph [label="Lyons 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Eric Hutchinson (2519)" [label="Eric Hutchinson (2519)
 Liberal"]

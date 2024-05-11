@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacinta Price (1460)_Lingiari_2019" {
-	graph [label="Lingiari 2019" labelloc=t mclimit=2]
+	graph [label="Lingiari 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacinta Price (1460)" [label="Jacinta Price (1460)
 Country Liberals (NT)"]

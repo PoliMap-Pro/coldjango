@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Mangano (1950)_Curtin_2019" {
-	graph [label="Curtin 2019" labelloc=t mclimit=2]
+	graph [label="Curtin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Mangano (1950)" [label="Andrew Mangano (1950)
 WESTERN AUSTRALIA PARTY"]

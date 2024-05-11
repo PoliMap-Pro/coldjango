@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sally Mcpherson (5467)_Sturt_2004" {
-	graph [label="Sturt 2004" labelloc=t mclimit=2]
+	graph [label="Sturt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sally Mcpherson (5467)" [label="Sally Mcpherson (5467)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Cornell (3215)_Petrie_2013" {
-	graph [label="Petrie 2013" labelloc=t mclimit=2]
+	graph [label="Petrie 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Cornell (3215)" [label="Geoff Cornell (3215)
 Citizens Electoral Council"]

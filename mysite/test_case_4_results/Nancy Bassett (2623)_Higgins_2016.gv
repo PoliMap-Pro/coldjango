@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nancy Bassett (2623)_Higgins_2016" {
-	graph [label="Higgins 2016" labelloc=t mclimit=2]
+	graph [label="Higgins 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nancy Bassett (2623)" [label="Nancy Bassett (2623)
 Nick Xenophon Team"]

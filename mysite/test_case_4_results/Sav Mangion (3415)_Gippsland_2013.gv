@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sav Mangion (3415)_Gippsland_2013" {
-	graph [label="Gippsland 2013" labelloc=t mclimit=2]
+	graph [label="Gippsland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sav Mangion (3415)" [label="Sav Mangion (3415)
 Country Alliance"]

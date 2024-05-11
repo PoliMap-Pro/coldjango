@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brian Dettmann (4378)_New England_2007" {
-	graph [label="New England 2007" labelloc=t mclimit=2]
+	graph [label="New England 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brian Dettmann (4378)" [label="Brian Dettmann (4378)
 One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Frankie Seymour (2091)_Eden-Monaro_2016" {
-	graph [label="Eden-Monaro 2016" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
 Animal Justice Party"]

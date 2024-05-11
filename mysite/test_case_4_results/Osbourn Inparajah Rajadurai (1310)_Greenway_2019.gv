@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Osbourn Inparajah Rajadurai (1310)_Greenway_2019" {
-	graph [label="Greenway 2019" labelloc=t mclimit=2]
+	graph [label="Greenway 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Osbourn Inparajah Rajadurai (1310)" [label="Osbourn Inparajah Rajadurai (1310)
 Christian Democratic Party (Fred Nile Group)"]

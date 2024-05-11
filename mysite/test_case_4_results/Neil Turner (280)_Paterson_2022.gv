@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Turner (280)_Paterson_2022" {
-	graph [label="Paterson 2022" labelloc=t mclimit=2]
+	graph [label="Paterson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Turner (280)" [label="Neil Turner (280)
 Pauline Hanson's One Nation"]

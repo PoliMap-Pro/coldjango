@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharron Hawkins Zeeb (2012)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t mclimit=2]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharron Hawkins Zeeb (2012)" [label="Sharron Hawkins Zeeb (2012)
 WESTERN AUSTRALIA PARTY"]

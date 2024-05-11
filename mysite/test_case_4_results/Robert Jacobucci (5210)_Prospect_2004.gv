@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Jacobucci (5210)_Prospect_2004" {
-	graph [label="Prospect 2004" labelloc=t mclimit=2]
+	graph [label="Prospect 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Jacobucci (5210)" [label="Robert Jacobucci (5210)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Nailon (3758)_Hughes_2010" {
-	graph [label="Hughes 2010" labelloc=t mclimit=2]
+	graph [label="Hughes 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Nailon (3758)" [label="Scott Nailon (3758)
 Christian Democratic Party (Fred Nile Group)"]

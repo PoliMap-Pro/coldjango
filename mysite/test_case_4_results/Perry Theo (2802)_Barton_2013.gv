@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Perry Theo (2802)_Barton_2013" {
-	graph [label="Barton 2013" labelloc=t mclimit=2]
+	graph [label="Barton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Perry Theo (2802)" [label="Perry Theo (2802)
 One Nation"]

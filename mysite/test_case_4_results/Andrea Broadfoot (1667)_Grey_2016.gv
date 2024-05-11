@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrea Broadfoot (1667)_Grey_2016" {
-	graph [label="Grey 2016" labelloc=t mclimit=2]
+	graph [label="Grey 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrea Broadfoot (1667)" [label="Andrea Broadfoot (1667)
 Nick Xenophon Team"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Margos (124)_Fowler_2022" {
-	graph [label="Fowler 2022" labelloc=t mclimit=2]
+	graph [label="Fowler 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Margos (124)" [label="Tony Margos (124)
 Pauline Hanson's One Nation"]

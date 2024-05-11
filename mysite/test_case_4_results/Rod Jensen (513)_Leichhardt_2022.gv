@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rod Jensen (513)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rod Jensen (513)" [label="Rod Jensen (513)
 Katter's Australian Party (KAP)"]

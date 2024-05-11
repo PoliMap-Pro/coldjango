@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graeme Clark (626)_Boothby_2022" {
-	graph [label="Boothby 2022" labelloc=t mclimit=2]
+	graph [label="Boothby 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graeme Clark (626)" [label="Graeme Clark (626)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hadden Robert Ervin (2079)_Dobell_2016" {
-	graph [label="Dobell 2016" labelloc=t mclimit=2]
+	graph [label="Dobell 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
 Christian Democratic Party (Fred Nile Group)"]

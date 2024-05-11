@@ -1,6 +1,6 @@
 // House preference flow
 digraph "S Gryphon (1607)_Ryan_2016" {
-	graph [label="Ryan 2016" labelloc=t mclimit=2]
+	graph [label="Ryan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"S Gryphon (1607)" [label="S Gryphon (1607)
 Liberal Democrats"]

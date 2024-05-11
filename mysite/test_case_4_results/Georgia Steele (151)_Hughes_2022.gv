@@ -1,0 +1,25 @@
+// House preference flow
+digraph "Georgia Steele (151)_Hughes_2022" {
+	graph [label="Hughes 2022" labelloc=t mclimit=10]
+	node [shape=box]
+	"Georgia Steele (151)" [label="Georgia Steele (151)
+Independent"]
+	"Craig Kelly (152)" [label="Craig Kelly (152)
+United Australia Party"]
+	"Pete Thompson (150)" [label="Pete Thompson (150)
+The Greens"]
+	"Linda Seymour (154)" [label="Linda Seymour (154)
+Independent"]
+	"Narelle Seymour (153)" [label="Narelle Seymour (153)
+Pauline Hanson's One Nation"]
+	"Craig Kelly (152)" -> "Georgia Steele (151)" [label=3162]
+	"Pete Thompson (150)" -> "Craig Kelly (152)" [label=290]
+	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
+	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
+	"Pete Thompson (150)" -> "Georgia Steele (151)" [label=2622]
+	"Linda Seymour (154)" -> "Georgia Steele (151)" [label=1761]
+	"Narelle Seymour (153)" -> "Georgia Steele (151)" [label=256]
+	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
+	"Linda Seymour (154)" -> "Craig Kelly (152)" [label=225]
+	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
+}

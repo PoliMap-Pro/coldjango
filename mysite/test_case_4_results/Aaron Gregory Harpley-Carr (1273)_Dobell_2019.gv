@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Gregory Harpley-Carr (1273)_Dobell_2019" {
-	graph [label="Dobell 2019" labelloc=t mclimit=2]
+	graph [label="Dobell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Gregory Harpley-Carr (1273)" [label="Aaron Gregory Harpley-Carr (1273)
 United Australia Party"]

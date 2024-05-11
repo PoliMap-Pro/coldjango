@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joe Ferrante (4220)_Perth_2010" {
-	graph [label="Perth 2010" labelloc=t mclimit=2]
+	graph [label="Perth 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joe Ferrante (4220)" [label="Joe Ferrante (4220)
 Liberal"]

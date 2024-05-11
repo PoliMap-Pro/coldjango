@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kylie Mary French (2804)_Barton_2013" {
-	graph [label="Barton 2013" labelloc=t mclimit=2]
+	graph [label="Barton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
 Christian Democratic Party (Fred Nile Group)"]

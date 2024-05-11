@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tristram Chellew (2713)_Wills_2016" {
-	graph [label="Wills 2016" labelloc=t mclimit=2]
+	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tristram Chellew (2713)" [label="Tristram Chellew (2713)
 Australian Sex Party"]

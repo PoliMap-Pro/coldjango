@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacqui Edgecombe (1663)_Grey_2019" {
-	graph [label="Grey 2019" labelloc=t mclimit=2]
+	graph [label="Grey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacqui Edgecombe (1663)" [label="Jacqui Edgecombe (1663)
 Animal Justice Party"]

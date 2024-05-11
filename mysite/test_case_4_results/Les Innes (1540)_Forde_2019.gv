@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Les Innes (1540)_Forde_2019" {
-	graph [label="Forde 2019" labelloc=t mclimit=2]
+	graph [label="Forde 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Les Innes (1540)" [label="Les Innes (1540)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

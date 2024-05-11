@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicholas Wallis (3464)_Jagajaga_2013" {
-	graph [label="Jagajaga 2013" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicholas Wallis (3464)" [label="Nicholas Wallis (3464)
 Sex Party"]

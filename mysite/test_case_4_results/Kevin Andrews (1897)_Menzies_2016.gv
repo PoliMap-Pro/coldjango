@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kevin Andrews (1897)_Menzies_2016" {
-	graph [label="Menzies 2016" labelloc=t mclimit=2]
+	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kevin Andrews (1897)" [label="Kevin Andrews (1897)
 Liberal"]

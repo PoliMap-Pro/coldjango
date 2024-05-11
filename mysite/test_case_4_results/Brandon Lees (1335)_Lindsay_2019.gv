@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brandon Lees (1335)_Lindsay_2019" {
-	graph [label="Lindsay 2019" labelloc=t mclimit=2]
+	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brandon Lees (1335)" [label="Brandon Lees (1335)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jason Cornelius (3790)_Macquarie_2010" {
-	graph [label="Macquarie 2010" labelloc=t mclimit=2]
+	graph [label="Macquarie 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jason Cornelius (3790)" [label="Jason Cornelius (3790)
 Family First"]

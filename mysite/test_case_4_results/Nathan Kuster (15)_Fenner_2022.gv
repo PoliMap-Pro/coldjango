@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Kuster (15)_Fenner_2022" {
-	graph [label="Fenner 2022" labelloc=t mclimit=2]
+	graph [label="Fenner 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Kuster (15)" [label="Nathan Kuster (15)
 Liberal"]

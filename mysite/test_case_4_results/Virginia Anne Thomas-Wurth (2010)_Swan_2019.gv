@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Virginia Anne Thomas-Wurth (2010)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t mclimit=2]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Virginia Anne Thomas-Wurth (2010)" [label="Virginia Anne Thomas-Wurth (2010)
 Animal Justice Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marie Rowland (2236)_Warringah_2016" {
-	graph [label="Warringah 2016" labelloc=t mclimit=2]
+	graph [label="Warringah 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marie Rowland (2236)" [label="Marie Rowland (2236)
 Nick Xenophon Team"]

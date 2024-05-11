@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Mcpherson (1869)_Macnamara_2019" {
-	graph [label="Macnamara 2019" labelloc=t mclimit=2]
+	graph [label="Macnamara 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Mcpherson (1869)" [label="Craig Mcpherson (1869)
 Animal Justice Party"]

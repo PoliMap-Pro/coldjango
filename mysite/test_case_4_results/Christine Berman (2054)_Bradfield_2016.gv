@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Christine Berman (2054)_Bradfield_2016" {
+	graph [label="Bradfield 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Christine Berman (2054)" [label="Christine Berman (2054)
+Independent"]
+	"Chris Vale (2055)" [label="Chris Vale (2055)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Kelly (1255)" [label="Peter Kelly (1255)
+Australian Liberty Alliance"]
+	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
+	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
+	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
+}

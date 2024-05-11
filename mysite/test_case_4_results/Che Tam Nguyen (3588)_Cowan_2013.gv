@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Che Tam Nguyen (3588)_Cowan_2013" {
-	graph [label="Cowan 2013" labelloc=t mclimit=2]
+	graph [label="Cowan 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Che Tam Nguyen (3588)" [label="Che Tam Nguyen (3588)
 Family First Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Mccurry (1076)_Burt_2022" {
-	graph [label="Burt 2022" labelloc=t mclimit=2]
+	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
 United Australia Party"]

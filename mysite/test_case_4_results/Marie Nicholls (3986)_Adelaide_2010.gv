@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marie Nicholls (3986)_Adelaide_2010" {
-	graph [label="Adelaide 2010" labelloc=t mclimit=2]
+	graph [label="Adelaide 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marie Nicholls (3986)" [label="Marie Nicholls (3986)
 Australian Democrats"]

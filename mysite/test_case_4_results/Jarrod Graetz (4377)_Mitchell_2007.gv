@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jarrod Graetz (4377)_Mitchell_2007" {
-	graph [label="Mitchell 2007" labelloc=t mclimit=2]
+	graph [label="Mitchell 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jarrod Graetz (4377)" [label="Jarrod Graetz (4377)
 Family First"]

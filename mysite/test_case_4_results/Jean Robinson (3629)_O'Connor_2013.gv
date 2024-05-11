@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jean Robinson (3629)_O'Connor_2013" {
-	graph [label="O'Connor 2013" labelloc=t mclimit=2]
+	graph [label="O'Connor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jean Robinson (3629)" [label="Jean Robinson (3629)
 Citizens Electoral Council"]

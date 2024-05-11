@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Hemant Dave (1677)_Makin_2019" {
-	graph [label="Makin 2019" labelloc=t mclimit=2]
+	graph [label="Makin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Hemant Dave (1677)" [label="Hemant Dave (1677)
 Liberal"]

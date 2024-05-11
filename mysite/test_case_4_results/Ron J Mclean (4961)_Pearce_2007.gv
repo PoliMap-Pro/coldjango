@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ron J Mclean (4961)_Pearce_2007" {
-	graph [label="Pearce 2007" labelloc=t mclimit=2]
+	graph [label="Pearce 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ron J Mclean (4961)" [label="Ron J Mclean (4961)
 Citizens Electoral Council"]

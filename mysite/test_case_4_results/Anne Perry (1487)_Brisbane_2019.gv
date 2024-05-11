@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anne Perry (1487)_Brisbane_2019" {
-	graph [label="Brisbane 2019" labelloc=t mclimit=2]
+	graph [label="Brisbane 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anne Perry (1487)" [label="Anne Perry (1487)
 Pauline Hanson's One Nation"]

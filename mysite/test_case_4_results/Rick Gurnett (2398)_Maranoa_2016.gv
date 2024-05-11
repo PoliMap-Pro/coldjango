@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rick Gurnett (2398)_Maranoa_2016" {
-	graph [label="Maranoa 2016" labelloc=t mclimit=2]
+	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rick Gurnett (2398)" [label="Rick Gurnett (2398)
 Katter's Australian Party"]

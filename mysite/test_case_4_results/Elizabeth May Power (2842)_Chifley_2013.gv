@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elizabeth May Power (2842)_Chifley_2013" {
-	graph [label="Chifley 2013" labelloc=t mclimit=2]
+	graph [label="Chifley 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elizabeth May Power (2842)" [label="Elizabeth May Power (2842)
 One Nation"]

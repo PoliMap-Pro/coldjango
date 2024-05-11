@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Coombe (2474)_Wakefield_2013" {
-	graph [label="Wakefield 2013" labelloc=t mclimit=2]
+	graph [label="Wakefield 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Coombe (2474)" [label="Paul Coombe (2474)
 Family First"]

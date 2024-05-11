@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Terry Hennessey (5360)_Kennedy_2004" {
-	graph [label="Kennedy 2004" labelloc=t mclimit=2]
+	graph [label="Kennedy 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Terry Hennessey (5360)" [label="Terry Hennessey (5360)
 Australian Democrats"]

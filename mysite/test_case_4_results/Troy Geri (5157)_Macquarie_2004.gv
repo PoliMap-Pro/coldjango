@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Troy Geri (5157)_Macquarie_2004" {
-	graph [label="Macquarie 2004" labelloc=t mclimit=2]
+	graph [label="Macquarie 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Troy Geri (5157)" [label="Troy Geri (5157)
 Family First"]

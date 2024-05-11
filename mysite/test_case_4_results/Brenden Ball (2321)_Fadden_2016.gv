@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brenden Ball (2321)_Fadden_2016" {
-	graph [label="Fadden 2016" labelloc=t mclimit=2]
+	graph [label="Fadden 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brenden Ball (2321)" [label="Brenden Ball (2321)
 Pauline Hanson's One Nation"]

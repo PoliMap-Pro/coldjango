@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rose Morris (1669)_Hindmarsh_2019" {
-	graph [label="Hindmarsh 2019" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rose Morris (1669)" [label="Rose Morris (1669)
 United Australia Party"]

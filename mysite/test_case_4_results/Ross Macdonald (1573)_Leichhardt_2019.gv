@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Macdonald (1573)_Leichhardt_2019" {
-	graph [label="Leichhardt 2019" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Macdonald (1573)" [label="Ross Macdonald (1573)
 Pauline Hanson's One Nation"]

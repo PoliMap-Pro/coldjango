@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ann Sudmalis (2103)_Gilmore_2016" {
-	graph [label="Gilmore 2016" labelloc=t mclimit=2]
+	graph [label="Gilmore 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ann Sudmalis (2103)" [label="Ann Sudmalis (2103)
 Liberal"]

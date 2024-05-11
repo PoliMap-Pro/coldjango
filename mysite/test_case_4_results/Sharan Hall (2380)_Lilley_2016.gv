@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharan Hall (2380)_Lilley_2016" {
-	graph [label="Lilley 2016" labelloc=t mclimit=2]
+	graph [label="Lilley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharan Hall (2380)" [label="Sharan Hall (2380)
 Family First"]

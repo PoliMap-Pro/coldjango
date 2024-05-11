@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Hall (2101)_Fowler_2016" {
-	graph [label="Fowler 2016" labelloc=t mclimit=2]
+	graph [label="Fowler 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Hall (2101)" [label="Craig Hall (2101)
 Christian Democratic Party (Fred Nile Group)"]

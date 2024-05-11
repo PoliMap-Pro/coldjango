@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lucas Kostadinoski (5652)_Scullin_2004" {
-	graph [label="Scullin 2004" labelloc=t mclimit=2]
+	graph [label="Scullin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lucas Kostadinoski (5652)" [label="Lucas Kostadinoski (5652)
 Liberal"]

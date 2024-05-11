@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kym Richardson (4670)_Kingston_2004" {
-	graph [label="Kingston 2004" labelloc=t mclimit=2]
+	graph [label="Kingston 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kym Richardson (4670)" [label="Kym Richardson (4670)
 Liberal"]

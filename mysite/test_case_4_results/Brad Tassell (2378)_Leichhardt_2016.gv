@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brad Tassell (2378)_Leichhardt_2016" {
-	graph [label="Leichhardt 2016" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brad Tassell (2378)" [label="Brad Tassell (2378)
 Katter's Australian Party"]

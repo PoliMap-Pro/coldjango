@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Todd (2428)_Ryan_2016" {
-	graph [label="Ryan 2016" labelloc=t mclimit=2]
+	graph [label="Ryan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Todd (2428)" [label="David Todd (2428)
 Family First"]

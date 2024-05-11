@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ruth Hazelton (5657)_Wannon_2004" {
-	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	graph [label="Wannon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
 Family First"]

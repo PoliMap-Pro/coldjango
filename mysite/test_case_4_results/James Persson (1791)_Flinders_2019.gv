@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Persson (1791)_Flinders_2019" {
-	graph [label="Flinders 2019" labelloc=t mclimit=2]
+	graph [label="Flinders 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Persson (1791)" [label="James Persson (1791)
 Animal Justice Party"]

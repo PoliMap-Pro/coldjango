@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Donnelly (1207)_Bean_2019" {
-	graph [label="Bean 2019" labelloc=t mclimit=2]
+	graph [label="Bean 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Donnelly (1207)" [label="Matt Donnelly (1207)
 Liberal Democrats"]

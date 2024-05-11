@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roy Owen Barnes (2035)_Banks_2016" {
-	graph [label="Banks 2016" labelloc=t mclimit=2]
+	graph [label="Banks 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roy Owen Barnes (2035)" [label="Roy Owen Barnes (2035)
 Animal Justice Party"]

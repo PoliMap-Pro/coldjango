@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Renae Moldre (3114)_Flynn_2013" {
-	graph [label="Flynn 2013" labelloc=t mclimit=2]
+	graph [label="Flynn 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Renae Moldre (3114)" [label="Renae Moldre (3114)
 Family First"]

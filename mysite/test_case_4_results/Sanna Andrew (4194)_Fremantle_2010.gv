@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sanna Andrew (4194)_Fremantle_2010" {
-	graph [label="Fremantle 2010" labelloc=t mclimit=2]
+	graph [label="Fremantle 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sanna Andrew (4194)" [label="Sanna Andrew (4194)
 Socialist Alliance"]

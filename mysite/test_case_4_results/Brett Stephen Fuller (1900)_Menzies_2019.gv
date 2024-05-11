@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brett Stephen Fuller (1900)_Menzies_2019" {
-	graph [label="Menzies 2019" labelloc=t mclimit=2]
+	graph [label="Menzies 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brett Stephen Fuller (1900)" [label="Brett Stephen Fuller (1900)
 United Australia Party"]

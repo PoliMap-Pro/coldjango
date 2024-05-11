@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Hallifax (1192)_Swan_2022" {
-	graph [label="Swan 2022" labelloc=t mclimit=2]
+	graph [label="Swan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Hallifax (1192)" [label="Peter Hallifax (1192)
 Pauline Hanson's One Nation"]

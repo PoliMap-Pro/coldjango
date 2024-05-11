@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Cate Molloy (4640)_Wide Bay_2007" {
+	graph [label="Wide Bay 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Cate Molloy (4640)" [label="Cate Molloy (4640)
+Independent"]
+	"John Chapman (3231)" [label="John Chapman (3231)
+Family First"]
+	"Martin Essenberg (4641)" [label="Martin Essenberg (4641)
+One Nation WA"]
+	"Terry Shaw (4644)" [label="Terry Shaw (4644)
+Democrats"]
+	"John Chapman (3231)" -> "Cate Molloy (4640)" [label=635]
+	"Martin Essenberg (4641)" -> "John Chapman (3231)" [label=223]
+	"Terry Shaw (4644)" -> "Martin Essenberg (4641)" [label=48]
+	"Martin Essenberg (4641)" -> "Cate Molloy (4640)" [label=323]
+	"Terry Shaw (4644)" -> "Cate Molloy (4640)" [label=107]
+	"Terry Shaw (4644)" -> "John Chapman (3231)" [label=42]
+}

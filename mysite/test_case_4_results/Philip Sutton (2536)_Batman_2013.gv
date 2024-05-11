@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Sutton (2536)_Batman_2013" {
-	graph [label="Batman 2013" labelloc=t mclimit=2]
+	graph [label="Batman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Sutton (2536)" [label="Philip Sutton (2536)
 "]

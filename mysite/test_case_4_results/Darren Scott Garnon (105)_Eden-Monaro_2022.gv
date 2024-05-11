@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darren Scott Garnon (105)_Eden-Monaro_2022" {
-	graph [label="Eden-Monaro 2022" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darren Scott Garnon (105)" [label="Darren Scott Garnon (105)
 United Australia Party"]

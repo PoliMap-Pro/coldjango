@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kerre Willsher (5656)_Wannon_2004" {
-	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	graph [label="Wannon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
 Democrats"]

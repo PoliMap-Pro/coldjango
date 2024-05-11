@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dale Mcnamara (172)_Hunter_2022" {
-	graph [label="Hunter 2022" labelloc=t mclimit=2]
+	graph [label="Hunter 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dale Mcnamara (172)" [label="Dale Mcnamara (172)
 Pauline Hanson's One Nation"]

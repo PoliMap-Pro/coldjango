@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Delys Beaumont (5699)_Fremantle_2004" {
-	graph [label="Fremantle 2004" labelloc=t mclimit=2]
+	graph [label="Fremantle 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Delys Beaumont (5699)" [label="Delys Beaumont (5699)
 Australian Democrats"]

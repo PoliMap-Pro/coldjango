@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Watkinson (1154)_Moore_2022" {
-	graph [label="Moore 2022" labelloc=t mclimit=2]
+	graph [label="Moore 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Watkinson (1154)" [label="Helen Watkinson (1154)
 United Australia Party"]

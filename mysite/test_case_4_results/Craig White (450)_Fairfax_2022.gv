@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig White (450)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig White (450)" [label="Craig White (450)
 The Great Australian Party"]

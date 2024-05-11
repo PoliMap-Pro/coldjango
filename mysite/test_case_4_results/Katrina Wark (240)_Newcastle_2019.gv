@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katrina Wark (240)_Newcastle_2019" {
-	graph [label="Newcastle 2019" labelloc=t mclimit=2]
+	graph [label="Newcastle 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katrina Wark (240)" [label="Katrina Wark (240)
 Liberal"]

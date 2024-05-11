@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Ugalde (3303)_Franklin_2013" {
-	graph [label="Franklin 2013" labelloc=t mclimit=2]
+	graph [label="Franklin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Ugalde (3303)" [label="Sarah Ugalde (3303)
 Katter's Australian Party"]

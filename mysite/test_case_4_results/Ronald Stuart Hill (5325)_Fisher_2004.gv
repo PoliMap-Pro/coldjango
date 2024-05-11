@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ronald Stuart Hill (5325)_Fisher_2004" {
-	graph [label="Fisher 2004" labelloc=t mclimit=2]
+	graph [label="Fisher 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ronald Stuart Hill (5325)" [label="Ronald Stuart Hill (5325)
 Family First"]

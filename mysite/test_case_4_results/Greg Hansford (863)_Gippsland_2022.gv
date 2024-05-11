@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Hansford (863)_Gippsland_2022" {
-	graph [label="Gippsland 2022" labelloc=t mclimit=2]
+	graph [label="Gippsland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Hansford (863)" [label="Greg Hansford (863)
 Pauline Hanson's One Nation"]

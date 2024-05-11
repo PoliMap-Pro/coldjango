@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Crewther (1787)_Dunkley_2019" {
-	graph [label="Dunkley 2019" labelloc=t mclimit=2]
+	graph [label="Dunkley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Crewther (1787)" [label="Chris Crewther (1787)
 Liberal"]

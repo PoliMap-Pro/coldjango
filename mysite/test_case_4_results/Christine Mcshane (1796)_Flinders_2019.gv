@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christine Mcshane (1796)_Flinders_2019" {
-	graph [label="Flinders 2019" labelloc=t mclimit=2]
+	graph [label="Flinders 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christine Mcshane (1796)" [label="Christine Mcshane (1796)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Williams (2466)_Hindmarsh_2016" {
-	graph [label="Hindmarsh 2016" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Williams (2466)" [label="Matt Williams (2466)
 Liberal"]

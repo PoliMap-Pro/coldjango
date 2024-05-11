@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nevena Spirovska (3350)_Calwell_2013" {
-	graph [label="Calwell 2013" labelloc=t mclimit=2]
+	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nevena Spirovska (3350)" [label="Nevena Spirovska (3350)
 Sex Party"]

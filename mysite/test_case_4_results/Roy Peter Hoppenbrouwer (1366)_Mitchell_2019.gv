@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Roy Peter Hoppenbrouwer (1366)_Mitchell_2019" {
-	graph [label="Mitchell 2019" labelloc=t mclimit=2]
+	graph [label="Mitchell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Roy Peter Hoppenbrouwer (1366)" [label="Roy Peter Hoppenbrouwer (1366)
 United Australia Party"]

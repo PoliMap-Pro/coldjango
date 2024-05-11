@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bert Bacher (1650)_Barker_2019" {
-	graph [label="Barker 2019" labelloc=t mclimit=2]
+	graph [label="Barker 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bert Bacher (1650)" [label="Bert Bacher (1650)
 United Australia Party"]

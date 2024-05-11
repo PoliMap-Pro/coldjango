@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steven Tripp (339)_Warringah_2022" {
-	graph [label="Warringah 2022" labelloc=t mclimit=2]
+	graph [label="Warringah 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steven Tripp (339)" [label="Steven Tripp (339)
 Pauline Hanson's One Nation"]

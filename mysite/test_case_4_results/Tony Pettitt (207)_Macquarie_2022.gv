@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Pettitt (207)_Macquarie_2022" {
-	graph [label="Macquarie 2022" labelloc=t mclimit=2]
+	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Pettitt (207)" [label="Tony Pettitt (207)
 Pauline Hanson's One Nation"]

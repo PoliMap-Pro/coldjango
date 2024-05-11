@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Wilson (5419)_Wide Bay_2004" {
-	graph [label="Wide Bay 2004" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Wilson (5419)" [label="Glen Wilson (5419)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dave Tierney (4914)_Cowan_2007" {
-	graph [label="Cowan 2007" labelloc=t mclimit=2]
+	graph [label="Cowan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dave Tierney (4914)" [label="Dave Tierney (4914)
 One Nation WA"]

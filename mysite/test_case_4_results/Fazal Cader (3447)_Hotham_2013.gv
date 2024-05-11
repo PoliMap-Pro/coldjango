@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Fazal Cader (3447)_Hotham_2013" {
-	graph [label="Hotham 2013" labelloc=t mclimit=2]
+	graph [label="Hotham 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Fazal Cader (3447)" [label="Fazal Cader (3447)
 Liberal"]

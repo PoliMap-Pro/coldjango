@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Martin Zaiter (2967)_Parramatta_2013" {
-	graph [label="Parramatta 2013" labelloc=t mclimit=2]
+	graph [label="Parramatta 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Martin Zaiter (2967)" [label="Martin Zaiter (2967)
 Liberal"]

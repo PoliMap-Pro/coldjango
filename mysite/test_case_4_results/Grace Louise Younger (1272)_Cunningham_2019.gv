@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Grace Louise Younger (1272)_Cunningham_2019" {
-	graph [label="Cunningham 2019" labelloc=t mclimit=2]
+	graph [label="Cunningham 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Grace Louise Younger (1272)" [label="Grace Louise Younger (1272)
 United Australia Party"]

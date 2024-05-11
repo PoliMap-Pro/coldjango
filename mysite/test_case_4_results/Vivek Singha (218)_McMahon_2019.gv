@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vivek Singha (218)_McMahon_2019" {
-	graph [label="McMahon 2019" labelloc=t mclimit=2]
+	graph [label="McMahon 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vivek Singha (218)" [label="Vivek Singha (218)
 Liberal"]

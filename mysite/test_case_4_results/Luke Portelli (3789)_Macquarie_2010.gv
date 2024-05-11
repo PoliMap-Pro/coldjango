@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luke Portelli (3789)_Macquarie_2010" {
-	graph [label="Macquarie 2010" labelloc=t mclimit=2]
+	graph [label="Macquarie 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luke Portelli (3789)" [label="Luke Portelli (3789)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephen Burgess (5576)_Holt_2004" {
-	graph [label="Holt 2004" labelloc=t mclimit=2]
+	graph [label="Holt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephen Burgess (5576)" [label="Stephen Burgess (5576)
 Family First"]

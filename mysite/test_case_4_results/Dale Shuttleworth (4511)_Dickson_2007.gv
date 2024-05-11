@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dale Shuttleworth (4511)_Dickson_2007" {
-	graph [label="Dickson 2007" labelloc=t mclimit=2]
+	graph [label="Dickson 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
 Family First"]

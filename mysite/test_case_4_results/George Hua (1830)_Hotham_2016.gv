@@ -1,6 +1,6 @@
 // House preference flow
 digraph "George Hua (1830)_Hotham_2016" {
-	graph [label="Hotham 2016" labelloc=t mclimit=2]
+	graph [label="Hotham 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"George Hua (1830)" [label="George Hua (1830)
 Liberal"]

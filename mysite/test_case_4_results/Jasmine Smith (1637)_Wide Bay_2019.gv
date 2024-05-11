@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jasmine Smith (1637)_Wide Bay_2019" {
-	graph [label="Wide Bay 2019" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

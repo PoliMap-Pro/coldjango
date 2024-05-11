@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Buller (3493)_Mallee_2013" {
-	graph [label="Mallee 2013" labelloc=t mclimit=2]
+	graph [label="Mallee 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Buller (3493)" [label="Neil Buller (3493)
 Family First Party"]

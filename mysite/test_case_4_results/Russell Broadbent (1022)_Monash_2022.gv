@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell Broadbent (1022)_Monash_2022" {
-	graph [label="Monash 2022" labelloc=t mclimit=2]
+	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
 Liberal"]

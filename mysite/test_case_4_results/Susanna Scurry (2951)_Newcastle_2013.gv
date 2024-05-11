@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Susanna Scurry (2951)_Newcastle_2013" {
+	graph [label="Newcastle 2013" labelloc=t mclimit=10]
+	node [shape=box]
+	"Susanna Scurry (2951)" [label="Susanna Scurry (2951)
+Independent"]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
+	"Michael Chehoff (2014)" [label="Michael Chehoff (2014)
+Australia First Party"]
+	"Rod Holding (2183)" [label="Rod Holding (2183)
+Independent"]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
+	"Lawrence Joseph Higgins (2953)" [label="Lawrence Joseph Higgins (2953)
+Australian Independents"]
+	"Milton Caine (2184)" -> "Susanna Scurry (2951)" [label=204]
+	"Michael Chehoff (2014)" -> "Milton Caine (2184)" [label=47]
+	"Rod Holding (2183)" -> "Michael Chehoff (2014)" [label=55]
+	"Zane Alcorn (2717)" -> "Rod Holding (2183)" [label=49]
+	"Lawrence Joseph Higgins (2953)" -> "Zane Alcorn (2717)" [label=7]
+	"Michael Chehoff (2014)" -> "Susanna Scurry (2951)" [label=143]
+	"Rod Holding (2183)" -> "Susanna Scurry (2951)" [label=453]
+	"Zane Alcorn (2717)" -> "Susanna Scurry (2951)" [label=49]
+	"Lawrence Joseph Higgins (2953)" -> "Susanna Scurry (2951)" [label=79]
+	"Lawrence Joseph Higgins (2953)" -> "Rod Holding (2183)" [label=56]
+	"Zane Alcorn (2717)" -> "Michael Chehoff (2014)" [label=60]
+	"Lawrence Joseph Higgins (2953)" -> "Michael Chehoff (2014)" [label=19]
+	"Rod Holding (2183)" -> "Milton Caine (2184)" [label=19]
+	"Zane Alcorn (2717)" -> "Milton Caine (2184)" [label=12]
+	"Lawrence Joseph Higgins (2953)" -> "Milton Caine (2184)" [label=10]
+}

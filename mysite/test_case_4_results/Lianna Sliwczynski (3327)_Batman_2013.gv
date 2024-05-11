@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lianna Sliwczynski (3327)_Batman_2013" {
-	graph [label="Batman 2013" labelloc=t mclimit=2]
+	graph [label="Batman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lianna Sliwczynski (3327)" [label="Lianna Sliwczynski (3327)
 Sex Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Luke Murray (3128)_Griffith_2013" {
-	graph [label="Griffith 2013" labelloc=t mclimit=2]
+	graph [label="Griffith 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Luke Murray (3128)" [label="Luke Murray (3128)
 Katter's Australian Party"]

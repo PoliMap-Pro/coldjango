@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Nicholson (2897)_Hume_2013" {
-	graph [label="Hume 2013" labelloc=t mclimit=2]
+	graph [label="Hume 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Nicholson (2897)" [label="Bruce Nicholson (2897)
 Katter's Australian Party"]

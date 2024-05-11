@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Maurice Ferguson (1615)_Oxley_2019" {
-	graph [label="Oxley 2019" labelloc=t mclimit=2]
+	graph [label="Oxley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Maurice Ferguson (1615)" [label="Ian Maurice Ferguson (1615)
 United Australia Party"]

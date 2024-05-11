@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trent Reardon (4099)_Hotham_2010" {
-	graph [label="Hotham 2010" labelloc=t mclimit=2]
+	graph [label="Hotham 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trent Reardon (4099)" [label="Trent Reardon (4099)
 Secular Party of Australia"]

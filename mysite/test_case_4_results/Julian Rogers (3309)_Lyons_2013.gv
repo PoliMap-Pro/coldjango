@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julian Rogers (3309)_Lyons_2013" {
-	graph [label="Lyons 2013" labelloc=t mclimit=2]
+	graph [label="Lyons 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julian Rogers (3309)" [label="Julian Rogers (3309)
 Rise Up Australia Party"]

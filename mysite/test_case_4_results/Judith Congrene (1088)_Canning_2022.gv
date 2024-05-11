@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Judith Congrene (1088)_Canning_2022" {
-	graph [label="Canning 2022" labelloc=t mclimit=2]
+	graph [label="Canning 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Judith Congrene (1088)" [label="Judith Congrene (1088)
 Informed Medical Options Party"]

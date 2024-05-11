@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Malcolm Phillip Heffernan (25)_Canning_2019" {
-	graph [label="Canning 2019" labelloc=t mclimit=2]
+	graph [label="Canning 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

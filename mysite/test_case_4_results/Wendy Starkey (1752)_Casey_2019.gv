@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wendy Starkey (1752)_Casey_2019" {
-	graph [label="Casey 2019" labelloc=t mclimit=2]
+	graph [label="Casey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wendy Starkey (1752)" [label="Wendy Starkey (1752)
 United Australia Party"]

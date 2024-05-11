@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Marj White (5617)_McEwen_2004" {
-	graph [label="McEwen 2004" labelloc=t mclimit=2]
+	graph [label="McEwen 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Marj White (5617)" [label="Marj White (5617)
 Democrats"]

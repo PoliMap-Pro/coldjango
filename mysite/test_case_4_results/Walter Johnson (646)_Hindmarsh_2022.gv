@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Walter Johnson (646)_Hindmarsh_2022" {
-	graph [label="Hindmarsh 2022" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Walter Johnson (646)" [label="Walter Johnson (646)
 Pauline Hanson's One Nation"]

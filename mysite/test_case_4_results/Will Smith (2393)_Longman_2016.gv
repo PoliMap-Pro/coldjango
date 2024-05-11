@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Will Smith (2393)_Longman_2016" {
-	graph [label="Longman 2016" labelloc=t mclimit=2]
+	graph [label="Longman 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Will Smith (2393)" [label="Will Smith (2393)
 Family First"]

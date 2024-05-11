@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lynne Grimsey (4998)_Fraser_2004" {
-	graph [label="Fraser 2004" labelloc=t mclimit=2]
+	graph [label="Fraser 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
 Australian Democrats"]

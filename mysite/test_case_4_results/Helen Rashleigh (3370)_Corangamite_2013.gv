@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Rashleigh (3370)_Corangamite_2013" {
-	graph [label="Corangamite 2013" labelloc=t mclimit=2]
+	graph [label="Corangamite 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
 Rise Up Australia Party"]

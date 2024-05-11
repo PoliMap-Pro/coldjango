@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Lawrie (2426)_Rankin_2016" {
-	graph [label="Rankin 2016" labelloc=t mclimit=2]
+	graph [label="Rankin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Lawrie (2426)" [label="Christopher Lawrie (2426)
 Family First"]

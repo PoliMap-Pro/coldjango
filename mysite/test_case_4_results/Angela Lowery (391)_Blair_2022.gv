@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Lowery (391)_Blair_2022" {
-	graph [label="Blair 2022" labelloc=t mclimit=2]
+	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Lowery (391)" [label="Angela Lowery (391)
 Animal Justice Party"]

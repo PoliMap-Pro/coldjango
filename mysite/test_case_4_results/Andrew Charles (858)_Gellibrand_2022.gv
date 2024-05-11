@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Charles (858)_Gellibrand_2022" {
-	graph [label="Gellibrand 2022" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Charles (858)" [label="Andrew Charles (858)
 Victorian Socialists"]

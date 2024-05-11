@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Wilde (527)_Lilley_2022" {
-	graph [label="Lilley 2022" labelloc=t mclimit=2]
+	graph [label="Lilley 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Wilde (527)" [label="Michelle Wilde (527)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Margaret Quinn (2653)_Melbourne Ports_2013" {
-	graph [label="Melbourne Ports 2013" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
 Rise Up Australia Party"]

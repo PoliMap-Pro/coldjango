@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Scott Lyons (2827)_Calare_2013" {
-	graph [label="Calare 2013" labelloc=t mclimit=2]
+	graph [label="Calare 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Scott Lyons (2827)" [label="Ian Scott Lyons (2827)
 Christian Democratic Party (Fred Nile Group)"]

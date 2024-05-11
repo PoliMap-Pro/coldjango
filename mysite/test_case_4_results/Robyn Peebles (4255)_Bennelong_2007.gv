@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robyn Peebles (4255)_Bennelong_2007" {
-	graph [label="Bennelong 2007" labelloc=t mclimit=2]
+	graph [label="Bennelong 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robyn Peebles (4255)" [label="Robyn Peebles (4255)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ewan Saunders (3887)_Brisbane_2010" {
-	graph [label="Brisbane 2010" labelloc=t mclimit=2]
+	graph [label="Brisbane 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
 Socialist Alliance"]

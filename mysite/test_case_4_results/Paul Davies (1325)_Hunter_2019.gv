@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Davies (1325)_Hunter_2019" {
-	graph [label="Hunter 2019" labelloc=t mclimit=2]
+	graph [label="Hunter 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Davies (1325)" [label="Paul Davies (1325)
 United Australia Party"]

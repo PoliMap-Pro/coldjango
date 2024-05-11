@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Madeleine Roberts (5238)_Throsby_2004" {
-	graph [label="Throsby 2004" labelloc=t mclimit=2]
+	graph [label="Throsby 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Madeleine Roberts (5238)" [label="Madeleine Roberts (5238)
 Australian Democrats"]

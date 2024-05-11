@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Damon Fowler (4983)_Swan_2007" {
-	graph [label="Swan 2007" labelloc=t mclimit=2]
+	graph [label="Swan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Damon Fowler (4983)" [label="Damon Fowler (4983)
 Family First"]

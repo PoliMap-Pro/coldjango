@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gerardine Hansen (908)_Holt_2022" {
-	graph [label="Holt 2022" labelloc=t mclimit=2]
+	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gerardine Hansen (908)" [label="Gerardine Hansen (908)
 United Australia Party"]

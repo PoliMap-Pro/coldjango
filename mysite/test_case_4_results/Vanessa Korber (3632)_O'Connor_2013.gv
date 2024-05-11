@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vanessa Korber (3632)_O'Connor_2013" {
-	graph [label="O'Connor 2013" labelloc=t mclimit=2]
+	graph [label="O'Connor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vanessa Korber (3632)" [label="Vanessa Korber (3632)
 Rise Up Australia Party"]

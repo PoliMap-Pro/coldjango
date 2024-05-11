@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jess Moore (3721)_Cunningham_2007" {
-	graph [label="Cunningham 2007" labelloc=t mclimit=2]
+	graph [label="Cunningham 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jess Moore (3721)" [label="Jess Moore (3721)
 Socialist Alliance"]

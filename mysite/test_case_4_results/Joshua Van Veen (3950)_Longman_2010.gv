@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joshua Van Veen (3950)_Longman_2010" {
-	graph [label="Longman 2010" labelloc=t mclimit=2]
+	graph [label="Longman 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joshua Van Veen (3950)" [label="Joshua Van Veen (3950)
 Liberal Democrats (LDP)"]

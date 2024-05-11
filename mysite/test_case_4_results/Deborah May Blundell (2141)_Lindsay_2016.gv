@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deborah May Blundell (2141)_Lindsay_2016" {
-	graph [label="Lindsay 2016" labelloc=t mclimit=2]
+	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deborah May Blundell (2141)" [label="Deborah May Blundell (2141)
 Animal Justice Party"]

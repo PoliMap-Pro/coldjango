@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christina Sindt (5554)_Gippsland_2004" {
-	graph [label="Gippsland 2004" labelloc=t mclimit=2]
+	graph [label="Gippsland 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christina Sindt (5554)" [label="Christina Sindt (5554)
 "]

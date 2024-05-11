@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bret Treasure (4228)_Swan_2010" {
-	graph [label="Swan 2010" labelloc=t mclimit=2]
+	graph [label="Swan 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bret Treasure (4228)" [label="Bret Treasure (4228)
 Australian Sex Party"]

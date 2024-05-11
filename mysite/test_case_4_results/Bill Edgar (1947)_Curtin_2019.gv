@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Edgar (1947)_Curtin_2019" {
-	graph [label="Curtin 2019" labelloc=t mclimit=2]
+	graph [label="Curtin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Edgar (1947)" [label="Bill Edgar (1947)
 Pauline Hanson's One Nation"]

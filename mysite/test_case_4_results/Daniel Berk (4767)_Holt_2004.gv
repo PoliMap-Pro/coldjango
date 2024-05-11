@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Berk (4767)_Holt_2004" {
-	graph [label="Holt 2004" labelloc=t mclimit=2]
+	graph [label="Holt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Berk (4767)" [label="Daniel Berk (4767)
 Democrats"]

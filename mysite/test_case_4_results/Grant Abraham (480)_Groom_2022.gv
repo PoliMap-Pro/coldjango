@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Grant Abraham (480)_Groom_2022" {
-	graph [label="Groom 2022" labelloc=t mclimit=2]
+	graph [label="Groom 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Grant Abraham (480)" [label="Grant Abraham (480)
 Pauline Hanson's One Nation"]

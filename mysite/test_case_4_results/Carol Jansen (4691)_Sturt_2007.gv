@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carol Jansen (4691)_Sturt_2007" {
-	graph [label="Sturt 2007" labelloc=t mclimit=2]
+	graph [label="Sturt 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carol Jansen (4691)" [label="Carol Jansen (4691)
 Family First Party"]

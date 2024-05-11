@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Graeme Devlin (3299)_Denison_2013" {
-	graph [label="Denison 2013" labelloc=t mclimit=2]
+	graph [label="Denison 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Graeme Devlin (3299)" [label="Graeme Devlin (3299)
 Rise Up Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Belle Gibson (881)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=2]
+	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Belle Gibson (881)" [label="Belle Gibson (881)
 Victorian Socialists"]

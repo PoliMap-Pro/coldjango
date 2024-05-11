@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ursula Van Bree (1041)_Scullin_2022" {
-	graph [label="Scullin 2022" labelloc=t mclimit=2]
+	graph [label="Scullin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ursula Van Bree (1041)" [label="Ursula Van Bree (1041)
 Pauline Hanson's One Nation"]

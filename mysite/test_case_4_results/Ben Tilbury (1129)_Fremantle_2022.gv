@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Tilbury (1129)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Tilbury (1129)" [label="Ben Tilbury (1129)
 The Great Australian Party"]

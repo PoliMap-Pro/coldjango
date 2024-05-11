@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandy Old (1988)_Pearce_2019" {
-	graph [label="Pearce 2019" labelloc=t mclimit=2]
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandy Old (1988)" [label="Sandy Old (1988)
 Pauline Hanson's One Nation"]

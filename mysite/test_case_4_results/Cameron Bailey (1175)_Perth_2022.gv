@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Bailey (1175)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t mclimit=2]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Bailey (1175)" [label="Cameron Bailey (1175)
 Pauline Hanson's One Nation"]

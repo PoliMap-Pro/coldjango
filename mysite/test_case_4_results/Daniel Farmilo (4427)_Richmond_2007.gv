@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Farmilo (4427)_Richmond_2007" {
-	graph [label="Richmond 2007" labelloc=t mclimit=2]
+	graph [label="Richmond 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Farmilo (4427)" [label="Daniel Farmilo (4427)
 LDP"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark K.C. Moody-Basedow (1341)_Lindsay_2019" {
-	graph [label="Lindsay 2019" labelloc=t mclimit=2]
+	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
 Christian Democratic Party (Fred Nile Group)"]

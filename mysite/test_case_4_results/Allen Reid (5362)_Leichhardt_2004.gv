@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allen Reid (5362)_Leichhardt_2004" {
-	graph [label="Leichhardt 2004" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allen Reid (5362)" [label="Allen Reid (5362)
 Australian Democrats"]

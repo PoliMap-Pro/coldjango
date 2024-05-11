@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Douglas Leitch (3412)_Gippsland_2013" {
-	graph [label="Gippsland 2013" labelloc=t mclimit=2]
+	graph [label="Gippsland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Douglas Leitch (3412)" [label="Douglas Leitch (3412)
 Sex Party"]

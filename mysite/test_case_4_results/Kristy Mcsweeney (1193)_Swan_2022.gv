@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kristy Mcsweeney (1193)_Swan_2022" {
-	graph [label="Swan 2022" labelloc=t mclimit=2]
+	graph [label="Swan 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kristy Mcsweeney (1193)" [label="Kristy Mcsweeney (1193)
 Liberal"]

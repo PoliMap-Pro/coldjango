@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jacob Van Raalte (667)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jacob Van Raalte (667)" [label="Jacob Van Raalte (667)
 Liberal Democrats"]

@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Tim Bohm (10)_Canberra_2019" {
+	graph [label="Canberra 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Tim Bohm (10)" [label="Tim Bohm (10)
+Independent"]
+	"Robert John Knight (1212)" [label="Robert John Knight (1212)
+Australian Progressives"]
+	"Greg De Maine (1213)" [label="Greg De Maine (1213)
+United Australia Party"]
+	"Robert John Knight (1212)" -> "Tim Bohm (10)" [label=624]
+	"Greg De Maine (1213)" -> "Robert John Knight (1212)" [label=221]
+	"Greg De Maine (1213)" -> "Tim Bohm (10)" [label=320]
+}

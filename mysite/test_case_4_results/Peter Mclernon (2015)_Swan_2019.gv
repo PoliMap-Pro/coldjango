@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Mclernon (2015)_Swan_2019" {
-	graph [label="Swan 2019" labelloc=t mclimit=2]
+	graph [label="Swan 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Mclernon (2015)" [label="Peter Mclernon (2015)
 United Australia Party"]

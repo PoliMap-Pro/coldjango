@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Simon Kennedy (35)_Bennelong_2022" {
-	graph [label="Bennelong 2022" labelloc=t mclimit=2]
+	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Simon Kennedy (35)" [label="Simon Kennedy (35)
 Liberal"]

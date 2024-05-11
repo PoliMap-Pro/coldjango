@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kamala Emanuel (1492)_Brisbane_2019" {
-	graph [label="Brisbane 2019" labelloc=t mclimit=2]
+	graph [label="Brisbane 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kamala Emanuel (1492)" [label="Kamala Emanuel (1492)
 Socialist Alliance"]

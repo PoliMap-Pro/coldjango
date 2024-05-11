@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ted O'Brien (442)_Brisbane_2007" {
-	graph [label="Brisbane 2007" labelloc=t mclimit=2]
+	graph [label="Brisbane 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ted O'Brien (442)" [label="Ted O'Brien (442)
 Liberal"]

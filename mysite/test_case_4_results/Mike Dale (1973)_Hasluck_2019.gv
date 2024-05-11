@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mike Dale (1973)_Hasluck_2019" {
-	graph [label="Hasluck 2019" labelloc=t mclimit=2]
+	graph [label="Hasluck 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mike Dale (1973)" [label="Mike Dale (1973)
 United Australia Party"]

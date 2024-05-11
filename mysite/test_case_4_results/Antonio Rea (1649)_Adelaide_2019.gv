@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Antonio Rea (1649)_Adelaide_2019" {
-	graph [label="Adelaide 2019" labelloc=t mclimit=2]
+	graph [label="Adelaide 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Antonio Rea (1649)" [label="Antonio Rea (1649)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bree Suzanne Roberts (324)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=2]
+	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bree Suzanne Roberts (324)" [label="Bree Suzanne Roberts (324)
 Animal Justice Party"]

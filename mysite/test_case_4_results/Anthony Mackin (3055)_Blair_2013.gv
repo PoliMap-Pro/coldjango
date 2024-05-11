@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Mackin (3055)_Blair_2013" {
-	graph [label="Blair 2013" labelloc=t mclimit=2]
+	graph [label="Blair 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Mackin (3055)" [label="Anthony Mackin (3055)
 Rise Up Australia Party"]

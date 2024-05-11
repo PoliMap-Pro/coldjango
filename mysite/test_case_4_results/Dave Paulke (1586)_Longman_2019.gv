@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dave Paulke (1586)_Longman_2019" {
-	graph [label="Longman 2019" labelloc=t mclimit=2]
+	graph [label="Longman 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dave Paulke (1586)" [label="Dave Paulke (1586)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

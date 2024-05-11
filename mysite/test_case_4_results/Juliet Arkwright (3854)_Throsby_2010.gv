@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Juliet Arkwright (3854)_Throsby_2010" {
-	graph [label="Throsby 2010" labelloc=t mclimit=2]
+	graph [label="Throsby 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Juliet Arkwright (3854)" [label="Juliet Arkwright (3854)
 Liberal"]

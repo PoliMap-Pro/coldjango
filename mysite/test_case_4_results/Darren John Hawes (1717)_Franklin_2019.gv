@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darren John Hawes (1717)_Franklin_2019" {
-	graph [label="Franklin 2019" labelloc=t mclimit=2]
+	graph [label="Franklin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darren John Hawes (1717)" [label="Darren John Hawes (1717)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

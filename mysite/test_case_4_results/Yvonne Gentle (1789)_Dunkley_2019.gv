@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yvonne Gentle (1789)_Dunkley_2019" {
-	graph [label="Dunkley 2019" labelloc=t mclimit=2]
+	graph [label="Dunkley 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
 Rise Up Australia Party"]

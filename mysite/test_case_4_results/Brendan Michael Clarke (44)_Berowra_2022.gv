@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brendan Michael Clarke (44)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
 FUSION: Science, Pirate, Secular, Climate Emergency"]

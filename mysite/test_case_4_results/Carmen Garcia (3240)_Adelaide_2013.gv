@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Carmen Garcia (3240)_Adelaide_2013" {
-	graph [label="Adelaide 2013" labelloc=t mclimit=2]
+	graph [label="Adelaide 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Carmen Garcia (3240)" [label="Carmen Garcia (3240)
 Liberal"]

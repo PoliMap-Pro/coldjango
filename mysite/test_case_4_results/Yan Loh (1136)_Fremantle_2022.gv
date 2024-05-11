@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yan Loh (1136)_Fremantle_2022" {
-	graph [label="Fremantle 2022" labelloc=t mclimit=2]
+	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yan Loh (1136)" [label="Yan Loh (1136)
 Liberal Democrats"]

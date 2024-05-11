@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dorothy Lorraine Long (2673)_McEwen_2016" {
-	graph [label="McEwen 2016" labelloc=t mclimit=2]
+	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dorothy Lorraine Long (2673)" [label="Dorothy Lorraine Long (2673)
 Family First Party"]

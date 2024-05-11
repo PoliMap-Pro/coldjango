@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Susan Jennison (4808)_Gorton_2004" {
-	graph [label="Gorton 2004" labelloc=t mclimit=2]
+	graph [label="Gorton 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Susan Jennison (4808)" [label="Susan Jennison (4808)
 Liberal"]

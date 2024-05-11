@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lachlan Dunjey (4946)_Moore_2007" {
-	graph [label="Moore 2007" labelloc=t mclimit=2]
+	graph [label="Moore 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lachlan Dunjey (4946)" [label="Lachlan Dunjey (4946)
 Christian Democratic Party"]

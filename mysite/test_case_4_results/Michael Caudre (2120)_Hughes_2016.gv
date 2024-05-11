@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Caudre (2120)_Hughes_2016" {
-	graph [label="Hughes 2016" labelloc=t mclimit=2]
+	graph [label="Hughes 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Caudre (2120)" [label="Michael Caudre (2120)
 Christian Democratic Party (Fred Nile Group)"]

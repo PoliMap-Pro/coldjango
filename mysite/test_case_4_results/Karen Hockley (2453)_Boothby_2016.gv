@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karen Hockley (2453)_Boothby_2016" {
-	graph [label="Boothby 2016" labelloc=t mclimit=2]
+	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karen Hockley (2453)" [label="Karen Hockley (2453)
 Nick Xenophon Team"]

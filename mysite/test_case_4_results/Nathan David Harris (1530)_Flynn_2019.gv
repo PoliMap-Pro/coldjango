@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan David Harris (1530)_Flynn_2019" {
-	graph [label="Flynn 2019" labelloc=t mclimit=2]
+	graph [label="Flynn 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan David Harris (1530)" [label="Nathan David Harris (1530)
 United Australia Party"]

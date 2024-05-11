@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gary Wheatcroft (2456)_Boothby_2016" {
-	graph [label="Boothby 2016" labelloc=t mclimit=2]
+	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gary Wheatcroft (2456)" [label="Gary Wheatcroft (2456)
 Family First"]

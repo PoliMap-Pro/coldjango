@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Tristan Turner (799)_Cooper_2022" {
-	graph [label="Cooper 2022" labelloc=t mclimit=2]
+	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Tristan Turner (799)" [label="William Tristan Turner (799)
 Pauline Hanson's One Nation"]

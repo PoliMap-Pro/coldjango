@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Szmekura-Moor (1179)_Perth_2022" {
-	graph [label="Perth 2022" labelloc=t mclimit=2]
+	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Szmekura-Moor (1179)" [label="Sarah Szmekura-Moor (1179)
 Animal Justice Party"]

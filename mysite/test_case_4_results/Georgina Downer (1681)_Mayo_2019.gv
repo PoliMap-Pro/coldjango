@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Georgina Downer (1681)_Mayo_2019" {
-	graph [label="Mayo 2019" labelloc=t mclimit=2]
+	graph [label="Mayo 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Georgina Downer (1681)" [label="Georgina Downer (1681)
 Liberal"]

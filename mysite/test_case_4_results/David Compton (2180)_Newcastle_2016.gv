@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Compton (2180)_Newcastle_2016" {
-	graph [label="Newcastle 2016" labelloc=t mclimit=2]
+	graph [label="Newcastle 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Compton (2180)" [label="David Compton (2180)
 Liberal"]

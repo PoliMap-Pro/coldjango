@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ravi Gaddipati (972)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ravi Gaddipati (972)" [label="Ravi Gaddipati (972)
 Liberal"]

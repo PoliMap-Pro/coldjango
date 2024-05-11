@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Keith Piper (1402)_Parramatta_2016" {
-	graph [label="Parramatta 2016" labelloc=t mclimit=2]
+	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Keith Piper (1402)" [label="Keith Piper (1402)
 Christian Democratic Party (Fred Nile Group)"]

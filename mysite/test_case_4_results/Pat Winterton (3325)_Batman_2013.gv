@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Pat Winterton (3325)_Batman_2013" {
-	graph [label="Batman 2013" labelloc=t mclimit=2]
+	graph [label="Batman 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Pat Winterton (3325)" [label="Pat Winterton (3325)
 Rise Up Australia Party"]

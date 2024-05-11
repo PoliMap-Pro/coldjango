@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Edward Walters (289)_Reid_2022" {
-	graph [label="Reid 2022" labelloc=t mclimit=2]
+	graph [label="Reid 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Edward Walters (289)" [label="Edward Walters (289)
 Pauline Hanson's One Nation"]

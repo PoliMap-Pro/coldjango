@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Alex Kusznir (4675)_Kingston_2007" {
+	graph [label="Kingston 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
+Independent"]
+	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
+LDP"]
+	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Tollner (4482)_Solomon_2004" {
-	graph [label="Solomon 2004" labelloc=t mclimit=2]
+	graph [label="Solomon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Tollner (4482)" [label="David Tollner (4482)
 CLP-The Territory Party"]

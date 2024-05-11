@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stuart Wright (4454)_Throsby_2007" {
-	graph [label="Throsby 2007" labelloc=t mclimit=2]
+	graph [label="Throsby 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stuart Wright (4454)" [label="Stuart Wright (4454)
 Liberal"]

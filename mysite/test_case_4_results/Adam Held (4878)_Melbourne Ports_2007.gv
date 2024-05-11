@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Held (4878)_Melbourne Ports_2007" {
-	graph [label="Melbourne Ports 2007" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Held (4878)" [label="Adam Held (4878)
 Liberal"]

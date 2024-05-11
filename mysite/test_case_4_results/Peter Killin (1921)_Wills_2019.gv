@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Killin (1921)_Wills_2019" {
-	graph [label="Wills 2019" labelloc=t mclimit=2]
+	graph [label="Wills 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Killin (1921)" [label="Peter Killin (1921)
 Liberal"]

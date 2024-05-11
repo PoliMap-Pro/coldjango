@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Alexander Marsden (1960)_Forrest_2019" {
+	graph [label="Forrest 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Alexander Marsden (1960)" [label="Alexander Marsden (1960)
+Independent"]
+	"Ian Bruce Molyneux (1961)" [label="Ian Bruce Molyneux (1961)
+WESTERN AUSTRALIA PARTY"]
+	"Ian Bruce Molyneux (1961)" -> "Alexander Marsden (1960)" [label=197]
+}

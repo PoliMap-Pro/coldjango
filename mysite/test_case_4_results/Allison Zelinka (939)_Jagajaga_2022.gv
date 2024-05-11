@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allison Zelinka (939)_Jagajaga_2022" {
-	graph [label="Jagajaga 2022" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allison Zelinka (939)" [label="Allison Zelinka (939)
 United Australia Party"]

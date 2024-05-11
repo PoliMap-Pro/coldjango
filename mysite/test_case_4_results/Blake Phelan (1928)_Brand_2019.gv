@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Blake Phelan (1928)_Brand_2019" {
-	graph [label="Brand 2019" labelloc=t mclimit=2]
+	graph [label="Brand 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Blake Phelan (1928)" [label="Blake Phelan (1928)
 WESTERN AUSTRALIA PARTY"]

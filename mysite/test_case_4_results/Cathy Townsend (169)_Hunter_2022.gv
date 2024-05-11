@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cathy Townsend (169)_Hunter_2022" {
-	graph [label="Hunter 2022" labelloc=t mclimit=2]
+	graph [label="Hunter 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cathy Townsend (169)" [label="Cathy Townsend (169)
 Informed Medical Options Party"]

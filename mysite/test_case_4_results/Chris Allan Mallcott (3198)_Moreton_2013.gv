@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chris Allan Mallcott (3198)_Moreton_2013" {
-	graph [label="Moreton 2013" labelloc=t mclimit=2]
+	graph [label="Moreton 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chris Allan Mallcott (3198)" [label="Chris Allan Mallcott (3198)
 Katter's Australian Party"]

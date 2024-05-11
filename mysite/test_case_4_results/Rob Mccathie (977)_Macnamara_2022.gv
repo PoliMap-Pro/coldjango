@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Mccathie (977)_Macnamara_2022" {
-	graph [label="Macnamara 2022" labelloc=t mclimit=2]
+	graph [label="Macnamara 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Mccathie (977)" [label="Rob Mccathie (977)
 Liberal Democrats"]

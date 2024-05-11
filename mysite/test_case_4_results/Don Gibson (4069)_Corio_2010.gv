@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Don Gibson (4069)_Corio_2010" {
-	graph [label="Corio 2010" labelloc=t mclimit=2]
+	graph [label="Corio 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Don Gibson (4069)" [label="Don Gibson (4069)
 Liberal"]

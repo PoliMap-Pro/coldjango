@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Larissa Mallinson (3015)_Throsby_2013" {
-	graph [label="Throsby 2013" labelloc=t mclimit=2]
+	graph [label="Throsby 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Larissa Mallinson (3015)" [label="Larissa Mallinson (3015)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Clark (2692)_Menzies_2016" {
-	graph [label="Menzies 2016" labelloc=t mclimit=2]
+	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Clark (2692)" [label="David Clark (2692)
 Family First Party"]

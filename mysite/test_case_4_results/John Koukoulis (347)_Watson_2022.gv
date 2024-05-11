@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Koukoulis (347)_Watson_2022" {
-	graph [label="Watson 2022" labelloc=t mclimit=2]
+	graph [label="Watson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Koukoulis (347)" [label="John Koukoulis (347)
 United Australia Party"]

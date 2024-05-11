@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vivian Hill (3445)_Canning_2004" {
-	graph [label="Canning 2004" labelloc=t mclimit=2]
+	graph [label="Canning 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vivian Hill (3445)" [label="Vivian Hill (3445)
 CDP Christian Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Deborah Swinbourn (265)_Parkes_2022" {
-	graph [label="Parkes 2022" labelloc=t mclimit=2]
+	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Deborah Swinbourn (265)" [label="Deborah Swinbourn (265)
 Pauline Hanson's One Nation"]

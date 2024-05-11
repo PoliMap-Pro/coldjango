@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phillip Fusco (1886)_McEwen_2019" {
-	graph [label="McEwen 2019" labelloc=t mclimit=2]
+	graph [label="McEwen 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phillip Fusco (1886)" [label="Phillip Fusco (1886)
 Liberal"]

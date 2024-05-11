@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nicole Evans (209)_Macquarie_2022" {
-	graph [label="Macquarie 2022" labelloc=t mclimit=2]
+	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nicole Evans (209)" [label="Nicole Evans (209)
 United Australia Party"]

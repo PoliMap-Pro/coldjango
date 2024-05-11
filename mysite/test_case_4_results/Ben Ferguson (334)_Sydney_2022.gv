@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Ferguson (334)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Ferguson (334)" [label="Ben Ferguson (334)
 Pauline Hanson's One Nation"]

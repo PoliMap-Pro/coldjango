@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alison Marshall (1071)_Brand_2022" {
-	graph [label="Brand 2022" labelloc=t mclimit=2]
+	graph [label="Brand 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alison Marshall (1071)" [label="Alison Marshall (1071)
 Liberal Democrats"]

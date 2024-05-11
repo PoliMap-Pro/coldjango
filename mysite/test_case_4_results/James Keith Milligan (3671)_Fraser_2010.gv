@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Keith Milligan (3671)_Fraser_2010" {
-	graph [label="Fraser 2010" labelloc=t mclimit=2]
+	graph [label="Fraser 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Keith Milligan (3671)" [label="James Keith Milligan (3671)
 Liberal"]

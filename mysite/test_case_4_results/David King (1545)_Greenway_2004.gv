@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David King (1545)_Greenway_2004" {
-	graph [label="Greenway 2004" labelloc=t mclimit=2]
+	graph [label="Greenway 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David King (1545)" [label="David King (1545)
 Australian Democrats"]

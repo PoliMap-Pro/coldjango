@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jeffrey Bartram (2656)_La Trobe_2016" {
-	graph [label="La Trobe 2016" labelloc=t mclimit=2]
+	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jeffrey Bartram (2656)" [label="Jeffrey Bartram (2656)
 Family First Party"]

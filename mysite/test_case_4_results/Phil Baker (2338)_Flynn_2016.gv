@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phil Baker (2338)_Flynn_2016" {
-	graph [label="Flynn 2016" labelloc=t mclimit=2]
+	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phil Baker (2338)" [label="Phil Baker (2338)
 Pauline Hanson's One Nation"]

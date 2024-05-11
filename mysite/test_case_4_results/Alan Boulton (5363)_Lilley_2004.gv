@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alan Boulton (5363)_Lilley_2004" {
-	graph [label="Lilley 2004" labelloc=t mclimit=2]
+	graph [label="Lilley 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alan Boulton (5363)" [label="Alan Boulton (5363)
 Liberal"]

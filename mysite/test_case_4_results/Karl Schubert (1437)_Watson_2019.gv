@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Karl Schubert (1437)_Watson_2019" {
-	graph [label="Watson 2019" labelloc=t mclimit=2]
+	graph [label="Watson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Karl Schubert (1437)" [label="Karl Schubert (1437)
 Christian Democratic Party (Fred Nile Group)"]

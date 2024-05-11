@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Angela Mary Dorian (1758)_Chisholm_2019" {
-	graph [label="Chisholm 2019" labelloc=t mclimit=2]
+	graph [label="Chisholm 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Angela Mary Dorian (1758)" [label="Angela Mary Dorian (1758)
 Rise Up Australia Party"]

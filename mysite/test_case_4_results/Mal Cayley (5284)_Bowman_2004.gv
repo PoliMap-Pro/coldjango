@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mal Cayley (5284)_Bowman_2004" {
-	graph [label="Bowman 2004" labelloc=t mclimit=2]
+	graph [label="Bowman 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mal Cayley (5284)" [label="Mal Cayley (5284)
 Family First"]

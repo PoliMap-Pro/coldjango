@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Giles (4479)_Fraser_2004" {
-	graph [label="Fraser 2004" labelloc=t mclimit=2]
+	graph [label="Fraser 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Giles (4479)" [label="Adam Giles (4479)
 Liberal"]

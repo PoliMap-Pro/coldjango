@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joyce Khoo (4805)_Goldstein_2007" {
-	graph [label="Goldstein 2007" labelloc=t mclimit=2]
+	graph [label="Goldstein 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joyce Khoo (4805)" [label="Joyce Khoo (4805)
 Family First"]

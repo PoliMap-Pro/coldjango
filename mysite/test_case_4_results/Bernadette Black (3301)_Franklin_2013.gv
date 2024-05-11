@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bernadette Black (3301)_Franklin_2013" {
-	graph [label="Franklin 2013" labelloc=t mclimit=2]
+	graph [label="Franklin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bernadette Black (3301)" [label="Bernadette Black (3301)
 Liberal"]

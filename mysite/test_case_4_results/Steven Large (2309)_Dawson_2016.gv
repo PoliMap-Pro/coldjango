@@ -1,0 +1,19 @@
+// House preference flow
+digraph "Steven Large (2309)_Dawson_2016" {
+	graph [label="Dawson 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Steven Large (2309)" [label="Steven Large (2309)
+Independent"]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
+	"Michael Hall (2308)" [label="Michael Hall (2308)
+Glenn Lazarus Team"]
+	"Amanda Nickson (2311)" [label="Amanda Nickson (2311)
+Family First"]
+	"Jonathon Dykyj (2313)" -> "Steven Large (2309)" [label=1173]
+	"Michael Hall (2308)" -> "Jonathon Dykyj (2313)" [label=247]
+	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
+	"Michael Hall (2308)" -> "Steven Large (2309)" [label=1214]
+	"Amanda Nickson (2311)" -> "Steven Large (2309)" [label=627]
+	"Amanda Nickson (2311)" -> "Jonathon Dykyj (2313)" [label=435]
+}

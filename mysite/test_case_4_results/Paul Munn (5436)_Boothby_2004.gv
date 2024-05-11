@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Munn (5436)_Boothby_2004" {
-	graph [label="Boothby 2004" labelloc=t mclimit=2]
+	graph [label="Boothby 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Munn (5436)" [label="Paul Munn (5436)
 Family First"]

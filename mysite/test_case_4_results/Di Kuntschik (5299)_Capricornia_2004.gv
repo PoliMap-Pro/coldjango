@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Di Kuntschik (5299)_Capricornia_2004" {
-	graph [label="Capricornia 2004" labelloc=t mclimit=2]
+	graph [label="Capricornia 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Di Kuntschik (5299)" [label="Di Kuntschik (5299)
 Liberal"]

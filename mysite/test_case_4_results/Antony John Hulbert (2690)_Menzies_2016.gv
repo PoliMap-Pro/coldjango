@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Antony John Hulbert (2690)_Menzies_2016" {
-	graph [label="Menzies 2016" labelloc=t mclimit=2]
+	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
 Animal Justice Party"]

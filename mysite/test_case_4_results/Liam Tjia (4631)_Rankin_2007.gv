@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liam Tjia (4631)_Rankin_2007" {
-	graph [label="Rankin 2007" labelloc=t mclimit=2]
+	graph [label="Rankin 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liam Tjia (4631)" [label="Liam Tjia (4631)
 LDP"]

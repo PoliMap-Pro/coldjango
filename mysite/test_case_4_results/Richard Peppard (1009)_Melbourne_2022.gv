@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Peppard (1009)_Melbourne_2022" {
-	graph [label="Melbourne 2022" labelloc=t mclimit=2]
+	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Peppard (1009)" [label="Richard Peppard (1009)
 Liberal Democrats"]

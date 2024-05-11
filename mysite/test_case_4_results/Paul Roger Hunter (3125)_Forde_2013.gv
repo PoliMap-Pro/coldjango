@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Roger Hunter (3125)_Forde_2013" {
-	graph [label="Forde 2013" labelloc=t mclimit=2]
+	graph [label="Forde 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Roger Hunter (3125)" [label="Paul Roger Hunter (3125)
 Katter's Australian Party"]

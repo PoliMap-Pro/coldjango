@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Aaron Malloy (1171)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t mclimit=2]
+	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Aaron Malloy (1171)" [label="Aaron Malloy (1171)
 Pauline Hanson's One Nation"]

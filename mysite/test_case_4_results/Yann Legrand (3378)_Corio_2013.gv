@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Yann Legrand (3378)_Corio_2013" {
-	graph [label="Corio 2013" labelloc=t mclimit=2]
+	graph [label="Corio 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Yann Legrand (3378)" [label="Yann Legrand (3378)
 Rise Up Australia Party"]

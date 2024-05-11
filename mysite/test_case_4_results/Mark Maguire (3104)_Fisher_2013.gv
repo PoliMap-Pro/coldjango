@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Maguire (3104)_Fisher_2013" {
-	graph [label="Fisher 2013" labelloc=t mclimit=2]
+	graph [label="Fisher 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Maguire (3104)" [label="Mark Maguire (3104)
 Australian Independents"]

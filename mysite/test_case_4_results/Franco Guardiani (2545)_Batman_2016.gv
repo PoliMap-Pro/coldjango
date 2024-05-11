@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Franco Guardiani (2545)_Batman_2016" {
+	graph [label="Batman 2016" labelloc=t mclimit=10]
+	node [shape=box]
+	"Franco Guardiani (2545)" [label="Franco Guardiani (2545)
+Independent"]
+	"Geoffrey Cicuto (2541)" [label="Geoffrey Cicuto (2541)
+Australian Cyclists Party"]
+	"Russell Hayward (2540)" [label="Russell Hayward (2540)
+Australian Progressives"]
+	"Geoffrey Cicuto (2541)" -> "Franco Guardiani (2545)" [label=17]
+	"Russell Hayward (2540)" -> "Geoffrey Cicuto (2541)" [label=35]
+	"Russell Hayward (2540)" -> "Franco Guardiani (2545)" [label=7]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Leighton Thew (2048)_Berowra_2013" {
-	graph [label="Berowra 2013" labelloc=t mclimit=2]
+	graph [label="Berowra 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Leighton Thew (2048)" [label="Leighton Thew (2048)
 Christian Democratic Party (Fred Nile Group)"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Silvana Nero (2928)_Mackellar_2013" {
-	graph [label="Mackellar 2013" labelloc=t mclimit=2]
+	graph [label="Mackellar 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Silvana Nero (2928)" [label="Silvana Nero (2928)
 Christian Democratic Party (Fred Nile Group)"]

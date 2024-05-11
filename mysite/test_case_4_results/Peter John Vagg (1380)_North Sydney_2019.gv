@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter John Vagg (1380)_North Sydney_2019" {
-	graph [label="North Sydney 2019" labelloc=t mclimit=2]
+	graph [label="North Sydney 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter John Vagg (1380)" [label="Peter John Vagg (1380)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Elizabeth Matuschka (5497)_Ballarat_2004" {
-	graph [label="Ballarat 2004" labelloc=t mclimit=2]
+	graph [label="Ballarat 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Elizabeth Matuschka (5497)" [label="Elizabeth Matuschka (5497)
 Liberal"]

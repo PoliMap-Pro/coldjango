@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mel Barnes (4036)_Denison_2010" {
-	graph [label="Denison 2010" labelloc=t mclimit=2]
+	graph [label="Denison 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mel Barnes (4036)" [label="Mel Barnes (4036)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Holder (4234)_Canberra_2007" {
-	graph [label="Canberra 2007" labelloc=t mclimit=2]
+	graph [label="Canberra 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Holder (4234)" [label="John Holder (4234)
 Citizens Electoral Council"]

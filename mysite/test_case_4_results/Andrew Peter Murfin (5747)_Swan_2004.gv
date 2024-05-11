@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Peter Murfin (5747)_Swan_2004" {
-	graph [label="Swan 2004" labelloc=t mclimit=2]
+	graph [label="Swan 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Peter Murfin (5747)" [label="Andrew Peter Murfin (5747)
 Liberal"]

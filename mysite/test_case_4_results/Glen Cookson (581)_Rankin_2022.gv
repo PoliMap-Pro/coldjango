@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Cookson (581)_Rankin_2022" {
-	graph [label="Rankin 2022" labelloc=t mclimit=2]
+	graph [label="Rankin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Cookson (581)" [label="Glen Cookson (581)
 Pauline Hanson's One Nation"]

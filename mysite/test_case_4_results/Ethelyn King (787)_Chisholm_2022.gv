@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ethelyn King (787)_Chisholm_2022" {
-	graph [label="Chisholm 2022" labelloc=t mclimit=2]
+	graph [label="Chisholm 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ethelyn King (787)" [label="Ethelyn King (787)
 Liberal Democrats"]

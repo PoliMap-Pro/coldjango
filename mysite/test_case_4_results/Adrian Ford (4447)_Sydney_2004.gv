@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Ford (4447)_Sydney_2004" {
-	graph [label="Sydney 2004" labelloc=t mclimit=2]
+	graph [label="Sydney 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Ford (4447)" [label="Adrian Ford (4447)
 Citizens Electoral Council"]

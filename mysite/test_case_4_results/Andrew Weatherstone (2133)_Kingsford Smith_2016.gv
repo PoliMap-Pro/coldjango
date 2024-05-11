@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Weatherstone (2133)_Kingsford Smith_2016" {
-	graph [label="Kingsford Smith 2016" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
 Christian Democratic Party (Fred Nile Group)"]

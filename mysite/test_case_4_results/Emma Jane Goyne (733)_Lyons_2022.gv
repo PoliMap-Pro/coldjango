@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Jane Goyne (733)_Lyons_2022" {
-	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
 Pauline Hanson's One Nation"]

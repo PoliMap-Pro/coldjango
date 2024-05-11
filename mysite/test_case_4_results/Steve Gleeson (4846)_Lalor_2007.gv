@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Gleeson (4846)_Lalor_2007" {
-	graph [label="Lalor 2007" labelloc=t mclimit=2]
+	graph [label="Lalor 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Gleeson (4846)" [label="Steve Gleeson (4846)
 Family First"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stefanie Alexis Sutherland (529)_Longman_2022" {
-	graph [label="Longman 2022" labelloc=t mclimit=2]
+	graph [label="Longman 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stefanie Alexis Sutherland (529)" [label="Stefanie Alexis Sutherland (529)
 United Australia Party"]

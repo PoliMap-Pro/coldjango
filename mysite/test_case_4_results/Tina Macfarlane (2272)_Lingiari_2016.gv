@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tina Macfarlane (2272)_Lingiari_2016" {
-	graph [label="Lingiari 2016" labelloc=t mclimit=2]
+	graph [label="Lingiari 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tina Macfarlane (2272)" [label="Tina Macfarlane (2272)
 Country Liberals (NT)"]

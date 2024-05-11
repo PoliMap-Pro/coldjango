@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sharon Fairfull (4970)_Perth_2007" {
-	graph [label="Perth 2007" labelloc=t mclimit=2]
+	graph [label="Perth 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sharon Fairfull (4970)" [label="Sharon Fairfull (4970)
 Family First"]

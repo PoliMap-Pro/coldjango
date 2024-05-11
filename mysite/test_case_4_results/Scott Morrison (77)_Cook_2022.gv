@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Scott Morrison (77)_Cook_2022" {
-	graph [label="Cook 2022" labelloc=t mclimit=2]
+	graph [label="Cook 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Scott Morrison (77)" [label="Scott Morrison (77)
 Liberal"]

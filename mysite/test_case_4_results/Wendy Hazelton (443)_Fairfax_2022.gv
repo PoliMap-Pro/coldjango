@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wendy Hazelton (443)_Fairfax_2022" {
-	graph [label="Fairfax 2022" labelloc=t mclimit=2]
+	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wendy Hazelton (443)" [label="Wendy Hazelton (443)
 Informed Medical Options Party"]

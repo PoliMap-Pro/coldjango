@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jack Pleiter (1925)_Brand_2019" {
-	graph [label="Brand 2019" labelloc=t mclimit=2]
+	graph [label="Brand 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jack Pleiter (1925)" [label="Jack Pleiter (1925)
 Liberal"]

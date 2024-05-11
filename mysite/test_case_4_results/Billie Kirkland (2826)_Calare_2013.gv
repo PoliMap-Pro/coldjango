@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Billie Kirkland (2826)_Calare_2013" {
-	graph [label="Calare 2013" labelloc=t mclimit=2]
+	graph [label="Calare 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Billie Kirkland (2826)" [label="Billie Kirkland (2826)
 Katter's Australian Party"]

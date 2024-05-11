@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alex Hawke (226)_Mitchell_2022" {
-	graph [label="Mitchell 2022" labelloc=t mclimit=2]
+	graph [label="Mitchell 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alex Hawke (226)" [label="Alex Hawke (226)
 Liberal"]

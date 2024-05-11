@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Titmus (4031)_Bass_2010" {
-	graph [label="Bass 2010" labelloc=t mclimit=2]
+	graph [label="Bass 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Titmus (4031)" [label="Steve Titmus (4031)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Joseph Mcrae (999)_McEwen_2022" {
-	graph [label="McEwen 2022" labelloc=t mclimit=2]
+	graph [label="McEwen 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
 United Australia Party"]

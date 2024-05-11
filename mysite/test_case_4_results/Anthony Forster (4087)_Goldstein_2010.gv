@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Forster (4087)_Goldstein_2010" {
-	graph [label="Goldstein 2010" labelloc=t mclimit=2]
+	graph [label="Goldstein 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Forster (4087)" [label="Anthony Forster (4087)
 Family First"]

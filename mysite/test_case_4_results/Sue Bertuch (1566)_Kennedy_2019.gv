@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sue Bertuch (1566)_Kennedy_2019" {
-	graph [label="Kennedy 2019" labelloc=t mclimit=2]
+	graph [label="Kennedy 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sue Bertuch (1566)" [label="Sue Bertuch (1566)
 United Australia Party"]

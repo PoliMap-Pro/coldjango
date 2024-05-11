@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tony Pecora (1895)_Melbourne_2019" {
-	graph [label="Melbourne 2019" labelloc=t mclimit=2]
+	graph [label="Melbourne 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tony Pecora (1895)" [label="Tony Pecora (1895)
 United Australia Party"]

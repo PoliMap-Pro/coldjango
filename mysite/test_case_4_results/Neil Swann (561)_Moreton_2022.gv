@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Neil Swann (561)_Moreton_2022" {
-	graph [label="Moreton 2022" labelloc=t mclimit=2]
+	graph [label="Moreton 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Neil Swann (561)" [label="Neil Swann (561)
 Pauline Hanson's One Nation"]

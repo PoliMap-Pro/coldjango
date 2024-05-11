@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janne Peterson (5004)_Banks_2004" {
-	graph [label="Banks 2004" labelloc=t mclimit=2]
+	graph [label="Banks 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janne Peterson (5004)" [label="Janne Peterson (5004)
 Christian Democratic Party (Fred Nile Group)"]

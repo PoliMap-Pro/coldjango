@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Christopher Arthur Vale (1401)_Paterson_2019" {
-	graph [label="Paterson 2019" labelloc=t mclimit=2]
+	graph [label="Paterson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Christopher Arthur Vale (1401)" [label="Christopher Arthur Vale (1401)
 Christian Democratic Party (Fred Nile Group)"]

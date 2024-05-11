@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert James Marks (304)_Richmond_2022" {
-	graph [label="Richmond 2022" labelloc=t mclimit=2]
+	graph [label="Richmond 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert James Marks (304)" [label="Robert James Marks (304)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darren Eather (1514)_Fadden_2019" {
-	graph [label="Fadden 2019" labelloc=t mclimit=2]
+	graph [label="Fadden 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darren Eather (1514)" [label="Darren Eather (1514)
 Pauline Hanson's One Nation"]

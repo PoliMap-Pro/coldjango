@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kellie Somers (1675)_Kingston_2019" {
-	graph [label="Kingston 2019" labelloc=t mclimit=2]
+	graph [label="Kingston 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kellie Somers (1675)" [label="Kellie Somers (1675)
 Animal Justice Party"]

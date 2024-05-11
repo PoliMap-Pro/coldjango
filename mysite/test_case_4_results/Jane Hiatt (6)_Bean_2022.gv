@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jane Hiatt (6)_Bean_2022" {
-	graph [label="Bean 2022" labelloc=t mclimit=2]
+	graph [label="Bean 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jane Hiatt (6)" [label="Jane Hiatt (6)
 Liberal"]

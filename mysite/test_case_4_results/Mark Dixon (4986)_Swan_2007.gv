@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Dixon (4986)_Swan_2007" {
-	graph [label="Swan 2007" labelloc=t mclimit=2]
+	graph [label="Swan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Dixon (4986)" [label="Mark Dixon (4986)
 LDP"]

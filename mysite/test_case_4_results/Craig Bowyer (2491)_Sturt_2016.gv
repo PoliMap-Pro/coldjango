@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Bowyer (2491)_Sturt_2016" {
-	graph [label="Sturt 2016" labelloc=t mclimit=2]
+	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Bowyer (2491)" [label="Craig Bowyer (2491)
 Family First"]

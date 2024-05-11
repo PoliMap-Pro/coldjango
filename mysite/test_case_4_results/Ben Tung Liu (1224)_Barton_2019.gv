@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Tung Liu (1224)_Barton_2019" {
-	graph [label="Barton 2019" labelloc=t mclimit=2]
+	graph [label="Barton 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Tung Liu (1224)" [label="Ben Tung Liu (1224)
 United Australia Party"]

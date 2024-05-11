@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Noelle Walker (3522)_Melbourne_2013" {
-	graph [label="Melbourne 2013" labelloc=t mclimit=2]
+	graph [label="Melbourne 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Noelle Walker (3522)" [label="Noelle Walker (3522)
 Family First Party"]

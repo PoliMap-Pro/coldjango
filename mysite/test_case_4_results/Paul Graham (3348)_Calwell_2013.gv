@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Paul Graham (3348)_Calwell_2013" {
-	graph [label="Calwell 2013" labelloc=t mclimit=2]
+	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Paul Graham (3348)" [label="Paul Graham (3348)
 Family First Party"]

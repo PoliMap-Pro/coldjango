@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Dawes (2276)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t mclimit=2]
+	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Dawes (2276)" [label="Robert Dawes (2276)
 Liberal Democrats"]

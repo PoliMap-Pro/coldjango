@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nigel Mckenna (3274)_Port Adelaide_2013" {
-	graph [label="Port Adelaide 2013" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nigel Mckenna (3274)" [label="Nigel Mckenna (3274)
 Liberal"]

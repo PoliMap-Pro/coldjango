@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shane Wheatland (1838)_Indi_2019" {
-	graph [label="Indi 2019" labelloc=t mclimit=2]
+	graph [label="Indi 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shane Wheatland (1838)" [label="Shane Wheatland (1838)
 United Australia Party"]

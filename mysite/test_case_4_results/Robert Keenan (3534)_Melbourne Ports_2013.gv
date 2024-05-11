@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Keenan (3534)_Melbourne Ports_2013" {
-	graph [label="Melbourne Ports 2013" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Keenan (3534)" [label="Robert Keenan (3534)
 Family First Party"]

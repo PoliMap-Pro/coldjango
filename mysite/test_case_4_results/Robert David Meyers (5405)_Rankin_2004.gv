@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert David Meyers (5405)_Rankin_2004" {
-	graph [label="Rankin 2004" labelloc=t mclimit=2]
+	graph [label="Rankin 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert David Meyers (5405)" [label="Robert David Meyers (5405)
 Citizens Electoral Council"]

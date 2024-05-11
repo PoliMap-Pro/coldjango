@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Boyd Shannon (110)_Eden-Monaro_2022" {
-	graph [label="Eden-Monaro 2022" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Boyd Shannon (110)" [label="Boyd Shannon (110)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Stephanie Kokkolis (5089)_Grayndler_2004" {
-	graph [label="Grayndler 2004" labelloc=t mclimit=2]
+	graph [label="Grayndler 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Stephanie Kokkolis (5089)" [label="Stephanie Kokkolis (5089)
 Liberal"]

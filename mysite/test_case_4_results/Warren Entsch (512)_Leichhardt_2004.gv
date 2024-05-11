@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Warren Entsch (512)_Leichhardt_2004" {
-	graph [label="Leichhardt 2004" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Warren Entsch (512)" [label="Warren Entsch (512)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kate Mason (321)_Robertson_2022" {
-	graph [label="Robertson 2022" labelloc=t mclimit=2]
+	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kate Mason (321)" [label="Kate Mason (321)
 Informed Medical Options Party"]

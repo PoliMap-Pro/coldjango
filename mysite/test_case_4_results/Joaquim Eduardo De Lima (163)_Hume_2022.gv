@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Joaquim Eduardo De Lima (163)_Hume_2022" {
-	graph [label="Hume 2022" labelloc=t mclimit=2]
+	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
 Liberal Democrats"]

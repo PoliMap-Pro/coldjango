@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alexander Lawrance (5732)_Perth_2004" {
-	graph [label="Perth 2004" labelloc=t mclimit=2]
+	graph [label="Perth 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alexander Lawrance (5732)" [label="Alexander Lawrance (5732)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jim Mcilroy (4553)_Griffith_2007" {
-	graph [label="Griffith 2007" labelloc=t mclimit=2]
+	graph [label="Griffith 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jim Mcilroy (4553)" [label="Jim Mcilroy (4553)
 Socialist Alliance"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracey Powell (2872)_Farrer_2013" {
-	graph [label="Farrer 2013" labelloc=t mclimit=2]
+	graph [label="Farrer 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracey Powell (2872)" [label="Tracey Powell (2872)
 Bullet Train For Australia"]

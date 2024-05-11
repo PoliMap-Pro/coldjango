@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adam Vail (1744)_Calwell_2019" {
-	graph [label="Calwell 2019" labelloc=t mclimit=2]
+	graph [label="Calwell 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adam Vail (1744)" [label="Adam Vail (1744)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Melissa Mcintosh (183)_Lindsay_2019" {
-	graph [label="Lindsay 2019" labelloc=t mclimit=2]
+	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Melissa Mcintosh (183)" [label="Melissa Mcintosh (183)
 Liberal"]

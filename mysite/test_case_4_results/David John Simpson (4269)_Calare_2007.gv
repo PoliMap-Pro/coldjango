@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David John Simpson (4269)_Calare_2007" {
-	graph [label="Calare 2007" labelloc=t mclimit=2]
+	graph [label="Calare 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"David John Simpson (4269)" [label="David John Simpson (4269)
 Citizens Electoral Council"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Cranson (3504)_McEwen_2013" {
-	graph [label="McEwen 2013" labelloc=t mclimit=2]
+	graph [label="McEwen 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Cranson (3504)" [label="Ian Cranson (3504)
 Country Alliance"]

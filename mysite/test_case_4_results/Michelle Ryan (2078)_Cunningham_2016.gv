@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michelle Ryan (2078)_Cunningham_2016" {
-	graph [label="Cunningham 2016" labelloc=t mclimit=2]
+	graph [label="Cunningham 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
 Christian Democratic Party (Fred Nile Group)"]

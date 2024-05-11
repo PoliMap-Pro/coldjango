@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Darryl Allen (2170)_Mitchell_2013" {
-	graph [label="Mitchell 2013" labelloc=t mclimit=2]
+	graph [label="Mitchell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Darryl Allen (2170)" [label="Darryl Allen (2170)
 Christian Democratic Party (Fred Nile Group)"]

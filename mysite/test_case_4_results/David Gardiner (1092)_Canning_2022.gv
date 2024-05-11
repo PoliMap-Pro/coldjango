@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Gardiner (1092)_Canning_2022" {
-	graph [label="Canning 2022" labelloc=t mclimit=2]
+	graph [label="Canning 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Gardiner (1092)" [label="David Gardiner (1092)
 Liberal Democrats"]

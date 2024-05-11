@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Theo Matthew Alblas (4864)_McMillan_2007" {
-	graph [label="McMillan 2007" labelloc=t mclimit=2]
+	graph [label="McMillan 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Theo Matthew Alblas (4864)" [label="Theo Matthew Alblas (4864)
 Citizens Electoral Council"]

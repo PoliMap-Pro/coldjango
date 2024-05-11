@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kirk Fletcher (4369)_Macquarie_2007" {
-	graph [label="Macquarie 2007" labelloc=t mclimit=2]
+	graph [label="Macquarie 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kirk Fletcher (4369)" [label="Kirk Fletcher (4369)
 LDP"]

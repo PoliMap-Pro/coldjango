@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dorothy Hutton (2004)_Stirling_2019" {
-	graph [label="Stirling 2019" labelloc=t mclimit=2]
+	graph [label="Stirling 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dorothy Hutton (2004)" [label="Dorothy Hutton (2004)
 United Australia Party"]

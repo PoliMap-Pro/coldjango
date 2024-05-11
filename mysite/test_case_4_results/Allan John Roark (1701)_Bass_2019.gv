@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Allan John Roark (1701)_Bass_2019" {
-	graph [label="Bass 2019" labelloc=t mclimit=2]
+	graph [label="Bass 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Allan John Roark (1701)" [label="Allan John Roark (1701)
 United Australia Party"]

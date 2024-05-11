@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrea Broadfoot (1667)_Grey_2019" {
-	graph [label="Grey 2019" labelloc=t mclimit=2]
+	graph [label="Grey 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrea Broadfoot (1667)" [label="Andrea Broadfoot (1667)
 Centre Alliance"]

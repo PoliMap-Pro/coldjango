@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Don Randall (3577)_Canning_2010" {
-	graph [label="Canning 2010" labelloc=t mclimit=2]
+	graph [label="Canning 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Don Randall (3577)" [label="Don Randall (3577)
 Liberal"]

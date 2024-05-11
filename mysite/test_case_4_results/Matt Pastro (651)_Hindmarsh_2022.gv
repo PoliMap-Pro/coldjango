@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matt Pastro (651)_Hindmarsh_2022" {
-	graph [label="Hindmarsh 2022" labelloc=t mclimit=2]
+	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matt Pastro (651)" [label="Matt Pastro (651)
 Animal Justice Party"]

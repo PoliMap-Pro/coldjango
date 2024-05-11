@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jugandeep Singh (73)_Chifley_2022" {
-	graph [label="Chifley 2022" labelloc=t mclimit=2]
+	graph [label="Chifley 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jugandeep Singh (73)" [label="Jugandeep Singh (73)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Erick Pastoor (5483)_Denison_2004" {
-	graph [label="Denison 2004" labelloc=t mclimit=2]
+	graph [label="Denison 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Erick Pastoor (5483)" [label="Erick Pastoor (5483)
 Liberal"]

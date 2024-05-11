@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chrysten Abraham (840)_Flinders_2022" {
-	graph [label="Flinders 2022" labelloc=t mclimit=2]
+	graph [label="Flinders 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chrysten Abraham (840)" [label="Chrysten Abraham (840)
 Liberal Democrats"]

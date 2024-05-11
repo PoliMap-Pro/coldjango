@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bob Vinnicombe (3695)_Blaxland_2010" {
-	graph [label="Blaxland 2010" labelloc=t mclimit=2]
+	graph [label="Blaxland 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bob Vinnicombe (3695)" [label="Bob Vinnicombe (3695)
 One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Victor Tey (358)_Werriwa_2022" {
-	graph [label="Werriwa 2022" labelloc=t mclimit=2]
+	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Victor Tey (358)" [label="Victor Tey (358)
 Liberal Democrats"]

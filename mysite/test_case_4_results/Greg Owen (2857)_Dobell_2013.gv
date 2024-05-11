@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Owen (2857)_Dobell_2013" {
-	graph [label="Dobell 2013" labelloc=t mclimit=2]
+	graph [label="Dobell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Owen (2857)" [label="Greg Owen (2857)
 Citizens Electoral Council"]

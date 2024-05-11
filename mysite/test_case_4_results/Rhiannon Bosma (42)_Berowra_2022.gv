@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rhiannon Bosma (42)_Berowra_2022" {
-	graph [label="Berowra 2022" labelloc=t mclimit=2]
+	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rhiannon Bosma (42)" [label="Rhiannon Bosma (42)
 Pauline Hanson's One Nation"]

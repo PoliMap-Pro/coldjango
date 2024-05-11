@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Green (2915)_Lindsay_2013" {
-	graph [label="Lindsay 2013" labelloc=t mclimit=2]
+	graph [label="Lindsay 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Green (2915)" [label="Andrew Green (2915)
 Christian Democratic Party (Fred Nile Group)"]

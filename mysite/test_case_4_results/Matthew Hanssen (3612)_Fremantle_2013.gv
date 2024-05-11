@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Matthew Hanssen (3612)_Fremantle_2013" {
-	graph [label="Fremantle 2013" labelloc=t mclimit=2]
+	graph [label="Fremantle 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Matthew Hanssen (3612)" [label="Matthew Hanssen (3612)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Peterson (1034)_Nicholls_2022" {
-	graph [label="Nicholls 2022" labelloc=t mclimit=2]
+	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Peterson (1034)" [label="Robert Peterson (1034)
 United Australia Party"]

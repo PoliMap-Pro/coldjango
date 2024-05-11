@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kristin Bacon (2563)_Casey_2016" {
-	graph [label="Casey 2016" labelloc=t mclimit=2]
+	graph [label="Casey 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
 Animal Justice Party"]

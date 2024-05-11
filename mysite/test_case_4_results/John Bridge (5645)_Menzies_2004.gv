@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Bridge (5645)_Menzies_2004" {
-	graph [label="Menzies 2004" labelloc=t mclimit=2]
+	graph [label="Menzies 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Bridge (5645)" [label="John Bridge (5645)
 Family First"]

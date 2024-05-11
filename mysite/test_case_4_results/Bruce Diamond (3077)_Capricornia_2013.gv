@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bruce Diamond (3077)_Capricornia_2013" {
-	graph [label="Capricornia 2013" labelloc=t mclimit=2]
+	graph [label="Capricornia 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bruce Diamond (3077)" [label="Bruce Diamond (3077)
 "]

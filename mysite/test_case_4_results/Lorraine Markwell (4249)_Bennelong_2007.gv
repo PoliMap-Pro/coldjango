@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lorraine Markwell (4249)_Bennelong_2007" {
-	graph [label="Bennelong 2007" labelloc=t mclimit=2]
+	graph [label="Bennelong 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lorraine Markwell (4249)" [label="Lorraine Markwell (4249)
 Family First"]

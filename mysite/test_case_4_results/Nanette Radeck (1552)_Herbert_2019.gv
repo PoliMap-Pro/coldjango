@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nanette Radeck (1552)_Herbert_2019" {
-	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nanette Radeck (1552)" [label="Nanette Radeck (1552)
 Katter's Australian Party (KAP)"]

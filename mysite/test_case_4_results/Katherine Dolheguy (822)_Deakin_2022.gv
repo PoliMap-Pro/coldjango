@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Katherine Dolheguy (822)_Deakin_2022" {
-	graph [label="Deakin 2022" labelloc=t mclimit=2]
+	graph [label="Deakin 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Katherine Dolheguy (822)" [label="Katherine Dolheguy (822)
 Animal Justice Party"]

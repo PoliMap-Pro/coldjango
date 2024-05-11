@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Murphy (1324)_Hunter_2019" {
-	graph [label="Hunter 2019" labelloc=t mclimit=2]
+	graph [label="Hunter 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Murphy (1324)" [label="James Murphy (1324)
 Animal Justice Party"]

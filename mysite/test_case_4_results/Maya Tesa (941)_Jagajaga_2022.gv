@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Maya Tesa (941)_Jagajaga_2022" {
-	graph [label="Jagajaga 2022" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Maya Tesa (941)" [label="Maya Tesa (941)
 Liberal Democrats"]

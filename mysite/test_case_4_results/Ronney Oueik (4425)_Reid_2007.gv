@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ronney Oueik (4425)_Reid_2007" {
-	graph [label="Reid 2007" labelloc=t mclimit=2]
+	graph [label="Reid 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ronney Oueik (4425)" [label="Ronney Oueik (4425)
 Liberal"]

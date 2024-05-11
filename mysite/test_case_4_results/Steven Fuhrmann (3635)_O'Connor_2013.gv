@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steven Fuhrmann (3635)_O'Connor_2013" {
-	graph [label="O'Connor 2013" labelloc=t mclimit=2]
+	graph [label="O'Connor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steven Fuhrmann (3635)" [label="Steven Fuhrmann (3635)
 Family First Party"]

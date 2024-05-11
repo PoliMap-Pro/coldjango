@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shyamal Reddy (1624)_Rankin_2019" {
-	graph [label="Rankin 2019" labelloc=t mclimit=2]
+	graph [label="Rankin 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shyamal Reddy (1624)" [label="Shyamal Reddy (1624)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anjali Thakur (1221)_Banks_2019" {
-	graph [label="Banks 2019" labelloc=t mclimit=2]
+	graph [label="Banks 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anjali Thakur (1221)" [label="Anjali Thakur (1221)
 Animal Justice Party"]

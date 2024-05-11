@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Daniel Lucas Hannagan (517)_Leichhardt_2022" {
-	graph [label="Leichhardt 2022" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Daniel Lucas Hannagan (517)" [label="Daniel Lucas Hannagan (517)
 United Australia Party"]

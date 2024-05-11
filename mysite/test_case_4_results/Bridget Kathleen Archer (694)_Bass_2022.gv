@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bridget Kathleen Archer (694)_Bass_2022" {
-	graph [label="Bass 2022" labelloc=t mclimit=2]
+	graph [label="Bass 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bridget Kathleen Archer (694)" [label="Bridget Kathleen Archer (694)
 Liberal"]

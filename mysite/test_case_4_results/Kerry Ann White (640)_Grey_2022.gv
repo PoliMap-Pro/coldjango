@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kerry Ann White (640)_Grey_2022" {
-	graph [label="Grey 2022" labelloc=t mclimit=2]
+	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kerry Ann White (640)" [label="Kerry Ann White (640)
 Pauline Hanson's One Nation"]

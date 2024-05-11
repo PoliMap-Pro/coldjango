@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robert Godfrey-Brown (653)_Kingston_2022" {
-	graph [label="Kingston 2022" labelloc=t mclimit=2]
+	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robert Godfrey-Brown (653)" [label="Robert Godfrey-Brown (653)
 Pauline Hanson's One Nation"]

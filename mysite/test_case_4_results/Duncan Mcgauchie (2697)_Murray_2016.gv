@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Duncan Mcgauchie (2697)_Murray_2016" {
-	graph [label="Murray 2016" labelloc=t mclimit=2]
+	graph [label="Murray 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Duncan Mcgauchie (2697)" [label="Duncan Mcgauchie (2697)
 Liberal"]

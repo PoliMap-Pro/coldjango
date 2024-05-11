@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Courtney Nguyen (123)_Fowler_2022" {
-	graph [label="Fowler 2022" labelloc=t mclimit=2]
+	graph [label="Fowler 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Courtney Nguyen (123)" [label="Courtney Nguyen (123)
 Liberal"]

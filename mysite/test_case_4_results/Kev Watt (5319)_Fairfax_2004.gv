@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kev Watt (5319)_Fairfax_2004" {
-	graph [label="Fairfax 2004" labelloc=t mclimit=2]
+	graph [label="Fairfax 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kev Watt (5319)" [label="Kev Watt (5319)
 Citizens Electoral Council"]

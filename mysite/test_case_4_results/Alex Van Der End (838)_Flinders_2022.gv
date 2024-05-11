@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alex Van Der End (838)_Flinders_2022" {
-	graph [label="Flinders 2022" labelloc=t mclimit=2]
+	graph [label="Flinders 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alex Van Der End (838)" [label="Alex Van Der End (838)
 United Australia Party"]

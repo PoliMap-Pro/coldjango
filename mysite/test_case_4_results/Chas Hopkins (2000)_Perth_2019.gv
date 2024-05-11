@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Chas Hopkins (2000)_Perth_2019" {
-	graph [label="Perth 2019" labelloc=t mclimit=2]
+	graph [label="Perth 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Chas Hopkins (2000)" [label="Chas Hopkins (2000)
 United Australia Party"]

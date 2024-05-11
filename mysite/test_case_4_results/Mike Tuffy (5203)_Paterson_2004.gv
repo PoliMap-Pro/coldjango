@@ -1,0 +1,32 @@
+// House preference flow
+digraph "Mike Tuffy (5203)_Paterson_2004" {
+	graph [label="Paterson 2004" labelloc=t mclimit=10]
+	node [shape=box]
+	"Mike Tuffy (5203)" [label="Mike Tuffy (5203)
+Independent"]
+	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
+The Fishing Party"]
+	"Tony King (4416)" [label="Tony King (4416)
+Citizens Electoral Council"]
+	"Larissa Robb (5205)" [label="Larissa Robb (5205)
+Family First"]
+	"Brett Paterson (3850)" [label="Brett Paterson (3850)
+Australian Democrats"]
+	"Neil Smith (5202)" [label="Neil Smith (5202)
+Independent"]
+	"Paul Hennelly (3817)" -> "Mike Tuffy (5203)" [label=137]
+	"Tony King (4416)" -> "Paul Hennelly (3817)" [label=43]
+	"Larissa Robb (5205)" -> "Tony King (4416)" [label=49]
+	"Brett Paterson (3850)" -> "Larissa Robb (5205)" [label=43]
+	"Neil Smith (5202)" -> "Brett Paterson (3850)" [label=15]
+	"Tony King (4416)" -> "Mike Tuffy (5203)" [label=79]
+	"Larissa Robb (5205)" -> "Mike Tuffy (5203)" [label=46]
+	"Brett Paterson (3850)" -> "Mike Tuffy (5203)" [label=72]
+	"Neil Smith (5202)" -> "Mike Tuffy (5203)" [label=126]
+	"Neil Smith (5202)" -> "Larissa Robb (5205)" [label=6]
+	"Brett Paterson (3850)" -> "Tony King (4416)" [label=24]
+	"Neil Smith (5202)" -> "Tony King (4416)" [label=4]
+	"Larissa Robb (5205)" -> "Paul Hennelly (3817)" [label=32]
+	"Brett Paterson (3850)" -> "Paul Hennelly (3817)" [label=23]
+	"Neil Smith (5202)" -> "Paul Hennelly (3817)" [label=34]
+}

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Garry Paul Eilola (1604)_Moncrieff_2019" {
-	graph [label="Moncrieff 2019" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Garry Paul Eilola (1604)" [label="Garry Paul Eilola (1604)
 United Australia Party"]

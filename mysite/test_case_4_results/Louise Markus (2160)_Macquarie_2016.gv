@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Louise Markus (2160)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t mclimit=2]
+	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Louise Markus (2160)" [label="Louise Markus (2160)
 Liberal"]

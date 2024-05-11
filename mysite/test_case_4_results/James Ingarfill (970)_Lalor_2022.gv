@@ -1,6 +1,6 @@
 // House preference flow
 digraph "James Ingarfill (970)_Lalor_2022" {
-	graph [label="Lalor 2022" labelloc=t mclimit=2]
+	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"James Ingarfill (970)" [label="James Ingarfill (970)
 Pauline Hanson's One Nation"]

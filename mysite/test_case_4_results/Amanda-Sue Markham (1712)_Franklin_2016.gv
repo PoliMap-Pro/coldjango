@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Amanda-Sue Markham (1712)_Franklin_2016" {
-	graph [label="Franklin 2016" labelloc=t mclimit=2]
+	graph [label="Franklin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Amanda-Sue Markham (1712)" [label="Amanda-Sue Markham (1712)
 Liberal"]

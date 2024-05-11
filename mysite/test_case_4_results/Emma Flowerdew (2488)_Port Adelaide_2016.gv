@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Emma Flowerdew (2488)_Port Adelaide_2016" {
-	graph [label="Port Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Emma Flowerdew (2488)" [label="Emma Flowerdew (2488)
 Liberal"]

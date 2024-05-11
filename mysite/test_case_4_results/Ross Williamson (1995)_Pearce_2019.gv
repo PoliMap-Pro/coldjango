@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Williamson (1995)_Pearce_2019" {
-	graph [label="Pearce 2019" labelloc=t mclimit=2]
+	graph [label="Pearce 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Williamson (1995)" [label="Ross Williamson (1995)
 Shooters, Fishers and Farmers"]

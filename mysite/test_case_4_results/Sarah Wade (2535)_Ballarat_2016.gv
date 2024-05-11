@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sarah Wade (2535)_Ballarat_2016" {
-	graph [label="Ballarat 2016" labelloc=t mclimit=2]
+	graph [label="Ballarat 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sarah Wade (2535)" [label="Sarah Wade (2535)
 Liberal"]

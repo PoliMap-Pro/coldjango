@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dan Tehan (1048)_Wannon_2013" {
-	graph [label="Wannon 2013" labelloc=t mclimit=2]
+	graph [label="Wannon 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dan Tehan (1048)" [label="Dan Tehan (1048)
 Liberal"]

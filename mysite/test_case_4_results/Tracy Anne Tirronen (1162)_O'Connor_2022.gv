@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracy Anne Tirronen (1162)_O'Connor_2022" {
-	graph [label="O'Connor 2022" labelloc=t mclimit=2]
+	graph [label="O'Connor 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracy Anne Tirronen (1162)" [label="Tracy Anne Tirronen (1162)
 United Australia Party"]

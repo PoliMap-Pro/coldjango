@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Totenhofer (4601)_Maranoa_2007" {
-	graph [label="Maranoa 2007" labelloc=t mclimit=2]
+	graph [label="Maranoa 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Totenhofer (4601)" [label="David Totenhofer (4601)
 Family First"]

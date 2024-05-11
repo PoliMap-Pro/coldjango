@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Shonna-Lee Banasiak (606)_Wright_2022" {
-	graph [label="Wright 2022" labelloc=t mclimit=2]
+	graph [label="Wright 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
 Australian Federation Party"]

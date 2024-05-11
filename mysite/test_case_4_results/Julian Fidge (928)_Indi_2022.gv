@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julian Fidge (928)_Indi_2022" {
-	graph [label="Indi 2022" labelloc=t mclimit=2]
+	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julian Fidge (928)" [label="Julian Fidge (928)
 Liberal Democrats"]

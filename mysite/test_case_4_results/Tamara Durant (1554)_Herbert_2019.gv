@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tamara Durant (1554)_Herbert_2019" {
-	graph [label="Herbert 2019" labelloc=t mclimit=2]
+	graph [label="Herbert 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tamara Durant (1554)" [label="Tamara Durant (1554)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Helen Allan (1120)_Forrest_2022" {
-	graph [label="Forrest 2022" labelloc=t mclimit=2]
+	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Helen Allan (1120)" [label="Helen Allan (1120)
 United Australia Party"]

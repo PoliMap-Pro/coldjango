@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tim Wright (4872)_Melbourne_2007" {
-	graph [label="Melbourne 2007" labelloc=t mclimit=2]
+	graph [label="Melbourne 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tim Wright (4872)" [label="Tim Wright (4872)
 Australian Democrats"]

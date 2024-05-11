@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Janine Clipstone (2486)_Port Adelaide_2016" {
-	graph [label="Port Adelaide 2016" labelloc=t mclimit=2]
+	graph [label="Port Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
 Animal Justice Party"]

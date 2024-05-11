@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Dalgleish (3152)_Hinkler_2013" {
-	graph [label="Hinkler 2013" labelloc=t mclimit=2]
+	graph [label="Hinkler 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Dalgleish (3152)" [label="David Dalgleish (3152)
 Katter's Australian Party"]

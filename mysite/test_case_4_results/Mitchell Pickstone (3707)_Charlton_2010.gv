@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mitchell Pickstone (3707)_Charlton_2010" {
-	graph [label="Charlton 2010" labelloc=t mclimit=2]
+	graph [label="Charlton 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mitchell Pickstone (3707)" [label="Mitchell Pickstone (3707)
 Christian Democratic Party (Fred Nile Group)"]

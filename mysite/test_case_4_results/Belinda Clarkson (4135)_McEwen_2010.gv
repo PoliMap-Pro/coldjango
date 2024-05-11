@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Belinda Clarkson (4135)_McEwen_2010" {
-	graph [label="McEwen 2010" labelloc=t mclimit=2]
+	graph [label="McEwen 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Belinda Clarkson (4135)" [label="Belinda Clarkson (4135)
 Family First"]

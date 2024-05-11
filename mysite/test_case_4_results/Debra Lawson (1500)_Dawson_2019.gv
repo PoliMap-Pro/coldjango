@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Debra Lawson (1500)_Dawson_2019" {
-	graph [label="Dawson 2019" labelloc=t mclimit=2]
+	graph [label="Dawson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Debra Lawson (1500)" [label="Debra Lawson (1500)
 Pauline Hanson's One Nation"]

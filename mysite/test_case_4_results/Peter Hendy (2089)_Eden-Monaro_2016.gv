@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Peter Hendy (2089)_Eden-Monaro_2016" {
-	graph [label="Eden-Monaro 2016" labelloc=t mclimit=2]
+	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Peter Hendy (2089)" [label="Peter Hendy (2089)
 Liberal"]

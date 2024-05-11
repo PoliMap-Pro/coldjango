@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ned Kelly Gebadi (2376)_Leichhardt_2016" {
-	graph [label="Leichhardt 2016" labelloc=t mclimit=2]
+	graph [label="Leichhardt 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
 Family First"]

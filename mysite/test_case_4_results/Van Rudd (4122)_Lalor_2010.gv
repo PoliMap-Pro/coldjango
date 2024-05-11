@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Van Rudd (4122)_Lalor_2010" {
-	graph [label="Lalor 2010" labelloc=t mclimit=2]
+	graph [label="Lalor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Van Rudd (4122)" [label="Van Rudd (4122)
 "]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rob Fletcher (59)_Bradfield_2022" {
-	graph [label="Bradfield 2022" labelloc=t mclimit=2]
+	graph [label="Bradfield 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rob Fletcher (59)" [label="Rob Fletcher (59)
 United Australia Party"]

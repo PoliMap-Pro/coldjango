@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Gordon Dale (3228)_Wide Bay_2013" {
-	graph [label="Wide Bay 2013" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Gordon Dale (3228)" [label="Gordon Dale (3228)
 Katter's Australian Party"]

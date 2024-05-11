@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Keenan (2775)_Stirling_2013" {
-	graph [label="Stirling 2013" labelloc=t mclimit=2]
+	graph [label="Stirling 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Keenan (2775)" [label="Michael Keenan (2775)
 Liberal"]

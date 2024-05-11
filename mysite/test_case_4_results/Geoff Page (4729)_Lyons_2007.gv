@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Page (4729)_Lyons_2007" {
-	graph [label="Lyons 2007" labelloc=t mclimit=2]
+	graph [label="Lyons 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Page (4729)" [label="Geoff Page (4729)
 Liberal"]

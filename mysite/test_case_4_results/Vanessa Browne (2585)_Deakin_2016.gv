@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vanessa Browne (2585)_Deakin_2016" {
-	graph [label="Deakin 2016" labelloc=t mclimit=2]
+	graph [label="Deakin 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vanessa Browne (2585)" [label="Vanessa Browne (2585)
 Animal Justice Party"]

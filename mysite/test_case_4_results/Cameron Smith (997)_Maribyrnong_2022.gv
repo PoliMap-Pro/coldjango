@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Cameron Smith (997)_Maribyrnong_2022" {
-	graph [label="Maribyrnong 2022" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Cameron Smith (997)" [label="Cameron Smith (997)
 Liberal Democrats"]

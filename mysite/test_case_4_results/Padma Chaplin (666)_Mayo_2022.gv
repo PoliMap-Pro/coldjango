@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Padma Chaplin (666)_Mayo_2022" {
-	graph [label="Mayo 2022" labelloc=t mclimit=2]
+	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Padma Chaplin (666)" [label="Padma Chaplin (666)
 Animal Justice Party"]

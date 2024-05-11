@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Kyung Hong (2711)_Wills_2016" {
-	graph [label="Wills 2016" labelloc=t mclimit=2]
+	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Kyung Hong (2711)" [label="Kyung Hong (2711)
 Liberal"]

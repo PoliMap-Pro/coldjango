@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jake Grizelj (2158)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t mclimit=2]
+	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jake Grizelj (2158)" [label="Jake Grizelj (2158)
 Shooters, Fishers and Farmers"]

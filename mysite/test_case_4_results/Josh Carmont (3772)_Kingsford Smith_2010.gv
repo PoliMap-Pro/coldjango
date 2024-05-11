@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Josh Carmont (3772)_Kingsford Smith_2010" {
-	graph [label="Kingsford Smith 2010" labelloc=t mclimit=2]
+	graph [label="Kingsford Smith 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Josh Carmont (3772)" [label="Josh Carmont (3772)
 Australian Democrats"]

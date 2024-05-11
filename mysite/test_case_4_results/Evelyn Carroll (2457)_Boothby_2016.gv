@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Evelyn Carroll (2457)_Boothby_2016" {
-	graph [label="Boothby 2016" labelloc=t mclimit=2]
+	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Evelyn Carroll (2457)" [label="Evelyn Carroll (2457)
 Animal Justice Party"]

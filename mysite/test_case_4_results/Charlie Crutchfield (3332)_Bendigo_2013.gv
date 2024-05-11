@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Charlie Crutchfield (3332)_Bendigo_2013" {
-	graph [label="Bendigo 2013" labelloc=t mclimit=2]
+	graph [label="Bendigo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Charlie Crutchfield (3332)" [label="Charlie Crutchfield (3332)
 Sex Party"]

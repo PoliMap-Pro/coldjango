@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrew Chuter (332)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrew Chuter (332)" [label="Andrew Chuter (332)
 Socialist Alliance"]

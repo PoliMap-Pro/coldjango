@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Milton Leslight (1299)_Gilmore_2019" {
-	graph [label="Gilmore 2019" labelloc=t mclimit=2]
+	graph [label="Gilmore 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Milton Leslight (1299)" [label="Milton Leslight (1299)
 United Australia Party"]

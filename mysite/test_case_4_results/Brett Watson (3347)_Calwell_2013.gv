@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brett Watson (3347)_Calwell_2013" {
-	graph [label="Calwell 2013" labelloc=t mclimit=2]
+	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brett Watson (3347)" [label="Brett Watson (3347)
 Katter's Australian Party"]

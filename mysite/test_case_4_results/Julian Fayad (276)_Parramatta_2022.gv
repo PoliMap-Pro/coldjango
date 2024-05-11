@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Julian Fayad (276)_Parramatta_2022" {
-	graph [label="Parramatta 2022" labelloc=t mclimit=2]
+	graph [label="Parramatta 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Julian Fayad (276)" [label="Julian Fayad (276)
 United Australia Party"]

@@ -1,0 +1,7 @@
+// House preference flow
+digraph "Barry Wright (3778)_Lyne_2010" {
+	graph [label="Lyne 2010" labelloc=t mclimit=10]
+	node [shape=box]
+	"Barry Wright (3778)" [label="Barry Wright (3778)
+Independent"]
+}

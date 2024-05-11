@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rohan Laxmanalal (272)_Reid_2019" {
-	graph [label="Reid 2019" labelloc=t mclimit=2]
+	graph [label="Reid 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
 Animal Justice Party"]

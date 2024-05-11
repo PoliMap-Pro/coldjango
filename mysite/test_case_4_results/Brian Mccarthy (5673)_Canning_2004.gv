@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Brian Mccarthy (5673)_Canning_2004" {
-	graph [label="Canning 2004" labelloc=t mclimit=2]
+	graph [label="Canning 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Brian Mccarthy (5673)" [label="Brian Mccarthy (5673)
 Citizens Electoral Council"]

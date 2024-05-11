@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Louise Kedwell (3710)_Chifley_2010" {
-	graph [label="Chifley 2010" labelloc=t mclimit=2]
+	graph [label="Chifley 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
 One Nation"]

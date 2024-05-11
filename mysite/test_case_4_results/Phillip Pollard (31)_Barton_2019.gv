@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Phillip Pollard (31)_Barton_2019" {
-	graph [label="Barton 2019" labelloc=t mclimit=2]
+	graph [label="Barton 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Phillip Pollard (31)" [label="Phillip Pollard (31)
 Pauline Hanson's One Nation"]

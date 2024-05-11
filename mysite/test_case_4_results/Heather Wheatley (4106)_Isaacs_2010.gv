@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Heather Wheatley (4106)_Isaacs_2010" {
-	graph [label="Isaacs 2010" labelloc=t mclimit=2]
+	graph [label="Isaacs 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Heather Wheatley (4106)" [label="Heather Wheatley (4106)
 Family First"]

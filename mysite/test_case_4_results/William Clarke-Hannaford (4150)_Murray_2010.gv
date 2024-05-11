@@ -1,6 +1,6 @@
 // House preference flow
 digraph "William Clarke-Hannaford (4150)_Murray_2010" {
-	graph [label="Murray 2010" labelloc=t mclimit=2]
+	graph [label="Murray 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"William Clarke-Hannaford (4150)" [label="William Clarke-Hannaford (4150)
 Secular Party of Australia"]

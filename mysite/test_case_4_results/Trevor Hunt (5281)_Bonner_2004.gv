@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Hunt (5281)_Bonner_2004" {
-	graph [label="Bonner 2004" labelloc=t mclimit=2]
+	graph [label="Bonner 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
 Family First"]

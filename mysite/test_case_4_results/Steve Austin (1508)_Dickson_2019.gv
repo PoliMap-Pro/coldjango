@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Austin (1508)_Dickson_2019" {
-	graph [label="Dickson 2019" labelloc=t mclimit=2]
+	graph [label="Dickson 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Austin (1508)" [label="Steve Austin (1508)
 United Australia Party"]

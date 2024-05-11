@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Andrea Newland (602)_Wide Bay_2022" {
-	graph [label="Wide Bay 2022" labelloc=t mclimit=2]
+	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Andrea Newland (602)" [label="Andrea Newland (602)
 Informed Medical Options Party"]

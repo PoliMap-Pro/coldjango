@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Klingsporn (5377)_Maranoa_2004" {
-	graph [label="Maranoa 2004" labelloc=t mclimit=2]
+	graph [label="Maranoa 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Klingsporn (5377)" [label="David Klingsporn (5377)
 Citizens Electoral Council"]

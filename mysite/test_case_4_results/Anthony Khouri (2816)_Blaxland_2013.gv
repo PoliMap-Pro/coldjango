@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony Khouri (2816)_Blaxland_2013" {
-	graph [label="Blaxland 2013" labelloc=t mclimit=2]
+	graph [label="Blaxland 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony Khouri (2816)" [label="Anthony Khouri (2816)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Regina Mccarthy (1458)_Lingiari_2016" {
-	graph [label="Lingiari 2016" labelloc=t mclimit=2]
+	graph [label="Lingiari 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
 Rise Up Australia Party"]

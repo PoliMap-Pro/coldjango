@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Di Hancock-Mills (3911)_Flynn_2010" {
-	graph [label="Flynn 2010" labelloc=t mclimit=2]
+	graph [label="Flynn 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Di Hancock-Mills (3911)" [label="Di Hancock-Mills (3911)
 Family First"]

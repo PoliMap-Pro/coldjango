@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dale Chorley (3054)_Blair_2013" {
-	graph [label="Blair 2013" labelloc=t mclimit=2]
+	graph [label="Blair 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dale Chorley (3054)" [label="Dale Chorley (3054)
 Katter's Australian Party"]

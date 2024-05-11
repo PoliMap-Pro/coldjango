@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Greg Bondar (2034)_Banks_2016" {
-	graph [label="Banks 2016" labelloc=t mclimit=2]
+	graph [label="Banks 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Greg Bondar (2034)" [label="Greg Bondar (2034)
 Christian Democratic Party (Fred Nile Group)"]

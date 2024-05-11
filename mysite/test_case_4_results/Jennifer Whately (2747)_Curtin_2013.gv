@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Jennifer Whately (2747)_Curtin_2013" {
-	graph [label="Curtin 2013" labelloc=t mclimit=2]
+	graph [label="Curtin 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
 Rise Up Australia Party"]

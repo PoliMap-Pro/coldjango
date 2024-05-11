@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Harris (2363)_Herbert_2016" {
-	graph [label="Herbert 2016" labelloc=t mclimit=2]
+	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Harris (2363)" [label="David Harris (2363)
 Liberal Democrats"]

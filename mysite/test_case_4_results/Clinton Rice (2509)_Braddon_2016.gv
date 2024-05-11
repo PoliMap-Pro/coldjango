@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Clinton Rice (2509)_Braddon_2016" {
-	graph [label="Braddon 2016" labelloc=t mclimit=2]
+	graph [label="Braddon 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Clinton Rice (2509)" [label="Clinton Rice (2509)
 Renewable Energy Party"]

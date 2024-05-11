@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ross Wilson (4521)_Fadden_2007" {
-	graph [label="Fadden 2007" labelloc=t mclimit=2]
+	graph [label="Fadden 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ross Wilson (4521)" [label="Ross Wilson (4521)
 Family First"]

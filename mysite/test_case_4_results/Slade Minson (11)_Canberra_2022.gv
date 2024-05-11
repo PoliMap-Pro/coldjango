@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Slade Minson (11)_Canberra_2022" {
-	graph [label="Canberra 2022" labelloc=t mclimit=2]
+	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Slade Minson (11)" [label="Slade Minson (11)
 Liberal"]

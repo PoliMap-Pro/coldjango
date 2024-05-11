@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Lori Mclean (4120)_Lalor_2010" {
-	graph [label="Lalor 2010" labelloc=t mclimit=2]
+	graph [label="Lalor 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Lori Mclean (4120)" [label="Lori Mclean (4120)
 Family First"]

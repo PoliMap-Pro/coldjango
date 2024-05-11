@@ -1,0 +1,14 @@
+// House preference flow
+digraph "Stewart Gordon Scott-Irving (4352)_Lyne_2007" {
+	graph [label="Lyne 2007" labelloc=t mclimit=10]
+	node [shape=box]
+	"Stewart Gordon Scott-Irving (4352)" [label="Stewart Gordon Scott-Irving (4352)
+Independent"]
+	"Rodger Riach (4354)" [label="Rodger Riach (4354)
+Independent"]
+	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
+Citizens Electoral Council"]
+	"Rodger Riach (4354)" -> "Stewart Gordon Scott-Irving (4352)" [label=25]
+	"Graeme Muldoon (4355)" -> "Rodger Riach (4354)" [label=29]
+	"Graeme Muldoon (4355)" -> "Stewart Gordon Scott-Irving (4352)" [label=10]
+}

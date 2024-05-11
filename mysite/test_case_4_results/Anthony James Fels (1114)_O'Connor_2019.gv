@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Anthony James Fels (1114)_O'Connor_2019" {
-	graph [label="O'Connor 2019" labelloc=t mclimit=2]
+	graph [label="O'Connor 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Anthony James Fels (1114)" [label="Anthony James Fels (1114)
 United Australia Party"]

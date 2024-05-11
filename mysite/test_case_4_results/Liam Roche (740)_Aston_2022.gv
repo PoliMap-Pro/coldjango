@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Liam Roche (740)_Aston_2022" {
-	graph [label="Aston 2022" labelloc=t mclimit=2]
+	graph [label="Aston 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Liam Roche (740)" [label="Liam Roche (740)
 Liberal Democrats"]

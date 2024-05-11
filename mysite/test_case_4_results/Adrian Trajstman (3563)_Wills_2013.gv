@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Adrian Trajstman (3563)_Wills_2013" {
-	graph [label="Wills 2013" labelloc=t mclimit=2]
+	graph [label="Wills 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Adrian Trajstman (3563)" [label="Adrian Trajstman (3563)
 Sex Party"]

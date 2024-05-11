@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Booker (943)_Jagajaga_2022" {
-	graph [label="Jagajaga 2022" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Booker (943)" [label="John Booker (943)
 Pauline Hanson's One Nation"]

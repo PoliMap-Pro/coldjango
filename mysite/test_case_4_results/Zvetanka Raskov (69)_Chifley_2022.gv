@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Zvetanka Raskov (69)_Chifley_2022" {
-	graph [label="Chifley 2022" labelloc=t mclimit=2]
+	graph [label="Chifley 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Zvetanka Raskov (69)" [label="Zvetanka Raskov (69)
 United Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Hoolihan (5349)_Herbert_2004" {
-	graph [label="Herbert 2004" labelloc=t mclimit=2]
+	graph [label="Herbert 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Hoolihan (5349)" [label="Richard Hoolihan (5349)
 Australian Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Linda E Brewer (4196)_Hasluck_2010" {
-	graph [label="Hasluck 2010" labelloc=t mclimit=2]
+	graph [label="Hasluck 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Linda E Brewer (4196)" [label="Linda E Brewer (4196)
 Christian Democratic Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Sach (5615)_McEwen_2004" {
-	graph [label="McEwen 2004" labelloc=t mclimit=2]
+	graph [label="McEwen 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Sach (5615)" [label="Mark Sach (5615)
 Family First"]

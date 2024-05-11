@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nihal Samara (3486)_Lalor_2013" {
-	graph [label="Lalor 2013" labelloc=t mclimit=2]
+	graph [label="Lalor 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nihal Samara (3486)" [label="Nihal Samara (3486)
 Liberal"]

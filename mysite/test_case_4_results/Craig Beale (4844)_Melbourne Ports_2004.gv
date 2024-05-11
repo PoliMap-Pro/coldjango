@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Craig Beale (4844)_Melbourne Ports_2004" {
-	graph [label="Melbourne Ports 2004" labelloc=t mclimit=2]
+	graph [label="Melbourne Ports 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Craig Beale (4844)" [label="Craig Beale (4844)
 Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Geoff Virgo (2359)_Herbert_2016" {
-	graph [label="Herbert 2016" labelloc=t mclimit=2]
+	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Geoff Virgo (2359)" [label="Geoff Virgo (2359)
 Pauline Hanson's One Nation"]

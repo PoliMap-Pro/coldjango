@@ -1,0 +1,10 @@
+// House preference flow
+digraph "Gregory Francis Stephenson (1277)_Dobell_2019" {
+	graph [label="Dobell 2019" labelloc=t mclimit=10]
+	node [shape=box]
+	"Gregory Francis Stephenson (1277)" [label="Gregory Francis Stephenson (1277)
+Independent"]
+	"Paula Grundy (1274)" [label="Paula Grundy (1274)
+Christian Democratic Party (Fred Nile Group)"]
+	"Paula Grundy (1274)" -> "Gregory Francis Stephenson (1277)" [label=210]
+}

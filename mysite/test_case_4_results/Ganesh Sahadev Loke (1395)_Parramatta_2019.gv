@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ganesh Sahadev Loke (1395)_Parramatta_2019" {
-	graph [label="Parramatta 2019" labelloc=t mclimit=2]
+	graph [label="Parramatta 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
 United Australia Party"]

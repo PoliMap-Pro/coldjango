@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sean Allwood (611)_Adelaide_2022" {
-	graph [label="Adelaide 2022" labelloc=t mclimit=2]
+	graph [label="Adelaide 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sean Allwood (611)" [label="Sean Allwood (611)
 United Australia Party"]

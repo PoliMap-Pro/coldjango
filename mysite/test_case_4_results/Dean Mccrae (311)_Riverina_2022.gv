@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dean Mccrae (311)_Riverina_2022" {
-	graph [label="Riverina 2022" labelloc=t mclimit=2]
+	graph [label="Riverina 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dean Mccrae (311)" [label="Dean Mccrae (311)
 Liberal Democrats"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rodney Stapleton (5274)_Blair_2004" {
-	graph [label="Blair 2004" labelloc=t mclimit=2]
+	graph [label="Blair 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rodney Stapleton (5274)" [label="Rodney Stapleton (5274)
 Citizens Electoral Council"]

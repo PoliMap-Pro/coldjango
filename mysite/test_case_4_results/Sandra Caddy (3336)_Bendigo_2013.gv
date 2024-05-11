@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sandra Caddy (3336)_Bendigo_2013" {
-	graph [label="Bendigo 2013" labelloc=t mclimit=2]
+	graph [label="Bendigo 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sandra Caddy (3336)" [label="Sandra Caddy (3336)
 Rise Up Australia Party"]

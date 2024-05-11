@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Mark Majewski (3693)_Blaxland_2010" {
-	graph [label="Blaxland 2010" labelloc=t mclimit=2]
+	graph [label="Blaxland 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Mark Majewski (3693)" [label="Mark Majewski (3693)
 Liberal"]

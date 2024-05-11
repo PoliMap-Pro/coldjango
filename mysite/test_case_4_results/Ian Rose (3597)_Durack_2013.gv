@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ian Rose (3597)_Durack_2013" {
-	graph [label="Durack 2013" labelloc=t mclimit=2]
+	graph [label="Durack 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ian Rose (3597)" [label="Ian Rose (3597)
 Family First Party"]

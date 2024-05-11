@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Miranda Joyce Smith (2682)_Melbourne_2016" {
-	graph [label="Melbourne 2016" labelloc=t mclimit=2]
+	graph [label="Melbourne 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
 Animal Justice Party"]

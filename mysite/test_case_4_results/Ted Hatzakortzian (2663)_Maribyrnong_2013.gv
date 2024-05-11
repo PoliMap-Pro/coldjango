@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ted Hatzakortzian (2663)_Maribyrnong_2013" {
-	graph [label="Maribyrnong 2013" labelloc=t mclimit=2]
+	graph [label="Maribyrnong 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ted Hatzakortzian (2663)" [label="Ted Hatzakortzian (2663)
 Liberal"]

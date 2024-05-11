@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Philip Scott (2720)_Brand_2016" {
-	graph [label="Brand 2016" labelloc=t mclimit=2]
+	graph [label="Brand 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Philip Scott (2720)" [label="Philip Scott (2720)
 Rise Up Australia Party"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Thomas Dang (3736)_Fowler_2010" {
-	graph [label="Fowler 2010" labelloc=t mclimit=2]
+	graph [label="Fowler 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"Thomas Dang (3736)" [label="Thomas Dang (3736)
 Liberal"]

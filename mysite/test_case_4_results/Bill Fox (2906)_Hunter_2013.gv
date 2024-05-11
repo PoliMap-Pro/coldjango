@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Fox (2906)_Hunter_2013" {
-	graph [label="Hunter 2013" labelloc=t mclimit=2]
+	graph [label="Hunter 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Fox (2906)" [label="Bill Fox (2906)
 One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Bill Heggers (4930)_Fremantle_2007" {
-	graph [label="Fremantle 2007" labelloc=t mclimit=2]
+	graph [label="Fremantle 2007" labelloc=t mclimit=10]
 	node [shape=box]
 	"Bill Heggers (4930)" [label="Bill Heggers (4930)
 Christian Democratic Party"]

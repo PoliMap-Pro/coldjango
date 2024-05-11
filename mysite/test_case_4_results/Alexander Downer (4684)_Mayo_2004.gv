@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Alexander Downer (4684)_Mayo_2004" {
-	graph [label="Mayo 2004" labelloc=t mclimit=2]
+	graph [label="Mayo 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Alexander Downer (4684)" [label="Alexander Downer (4684)
 Liberal"]

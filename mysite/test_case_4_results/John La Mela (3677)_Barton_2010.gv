@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John La Mela (3677)_Barton_2010" {
-	graph [label="Barton 2010" labelloc=t mclimit=2]
+	graph [label="Barton 2010" labelloc=t mclimit=10]
 	node [shape=box]
 	"John La Mela (3677)" [label="John La Mela (3677)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Ben Willis (2601)_Gellibrand_2016" {
-	graph [label="Gellibrand 2016" labelloc=t mclimit=2]
+	graph [label="Gellibrand 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Ben Willis (2601)" [label="Ben Willis (2601)
 Liberal"]

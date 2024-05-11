@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Michael Rathbone (2589)_Dunkley_2016" {
-	graph [label="Dunkley 2016" labelloc=t mclimit=2]
+	graph [label="Dunkley 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Michael Rathbone (2589)" [label="Michael Rathbone (2589)
 Family First Party"]

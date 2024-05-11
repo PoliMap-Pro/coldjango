@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Vanessa Sibson (1603)_Moncrieff_2019" {
-	graph [label="Moncrieff 2019" labelloc=t mclimit=2]
+	graph [label="Moncrieff 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Vanessa Sibson (1603)" [label="Vanessa Sibson (1603)
 Pauline Hanson's One Nation"]

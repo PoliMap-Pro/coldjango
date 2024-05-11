@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Steve Veevers (1937)_Canning_2019" {
-	graph [label="Canning 2019" labelloc=t mclimit=2]
+	graph [label="Canning 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Steve Veevers (1937)" [label="Steve Veevers (1937)
 United Australia Party"]

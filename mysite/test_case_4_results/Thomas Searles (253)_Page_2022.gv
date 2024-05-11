@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Thomas Searles (253)_Page_2022" {
-	graph [label="Page 2022" labelloc=t mclimit=2]
+	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Thomas Searles (253)" [label="Thomas Searles (253)
 Liberal Democrats"]

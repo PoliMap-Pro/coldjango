@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Richard Welch (1003)_Jagajaga_2019" {
-	graph [label="Jagajaga 2019" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"Richard Welch (1003)" [label="Richard Welch (1003)
 Liberal"]

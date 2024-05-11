@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Glen Pringle (5572)_Higgins_2004" {
-	graph [label="Higgins 2004" labelloc=t mclimit=2]
+	graph [label="Higgins 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Glen Pringle (5572)" [label="Glen Pringle (5572)
 Family First"]

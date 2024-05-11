@@ -1,6 +1,6 @@
 // House preference flow
 digraph "John Herron (1002)_McEwen_2022" {
-	graph [label="McEwen 2022" labelloc=t mclimit=2]
+	graph [label="McEwen 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"John Herron (1002)" [label="John Herron (1002)
 Liberal Democrats"]

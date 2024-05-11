@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Rowan Ramsey (643)_Grey_2013" {
-	graph [label="Grey 2013" labelloc=t mclimit=2]
+	graph [label="Grey 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"Rowan Ramsey (643)" [label="Rowan Ramsey (643)
 Liberal"]

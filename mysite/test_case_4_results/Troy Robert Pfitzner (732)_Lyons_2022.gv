@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Troy Robert Pfitzner (732)_Lyons_2022" {
-	graph [label="Lyons 2022" labelloc=t mclimit=2]
+	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Troy Robert Pfitzner (732)" [label="Troy Robert Pfitzner (732)
 Jacqui Lambie Network"]

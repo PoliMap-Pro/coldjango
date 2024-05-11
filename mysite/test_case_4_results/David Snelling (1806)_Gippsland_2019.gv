@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Snelling (1806)_Gippsland_2019" {
-	graph [label="Gippsland 2019" labelloc=t mclimit=2]
+	graph [label="Gippsland 2019" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Snelling (1806)" [label="David Snelling (1806)
 Shooters, Fishers and Farmers"]

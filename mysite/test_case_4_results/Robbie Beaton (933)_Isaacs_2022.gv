@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Robbie Beaton (933)_Isaacs_2022" {
-	graph [label="Isaacs 2022" labelloc=t mclimit=2]
+	graph [label="Isaacs 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Robbie Beaton (933)" [label="Robbie Beaton (933)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Dean Johnstone (5543)_Flinders_2004" {
-	graph [label="Flinders 2004" labelloc=t mclimit=2]
+	graph [label="Flinders 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"Dean Johnstone (5543)" [label="Dean Johnstone (5543)
 Family First"]

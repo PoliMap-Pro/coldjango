@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Russell Broadbent (1022)_McMillan_2016" {
-	graph [label="McMillan 2016" labelloc=t mclimit=2]
+	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
 Liberal"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Wen Zhou (336)_Sydney_2022" {
-	graph [label="Sydney 2022" labelloc=t mclimit=2]
+	graph [label="Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Wen Zhou (336)" [label="Wen Zhou (336)
 Citizens Party"]

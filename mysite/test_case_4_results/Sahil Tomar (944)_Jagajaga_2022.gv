@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Sahil Tomar (944)_Jagajaga_2022" {
-	graph [label="Jagajaga 2022" labelloc=t mclimit=2]
+	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Sahil Tomar (944)" [label="Sahil Tomar (944)
 Liberal"]

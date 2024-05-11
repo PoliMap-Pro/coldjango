@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Neuendorf (3235)_Wright_2013" {
-	graph [label="Wright 2013" labelloc=t mclimit=2]
+	graph [label="Wright 2013" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Neuendorf (3235)" [label="David Neuendorf (3235)
 Katter's Australian Party"]

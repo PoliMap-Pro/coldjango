@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Josephine Cashman (192)_Lyne_2022" {
-	graph [label="Lyne 2022" labelloc=t mclimit=2]
+	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Josephine Cashman (192)" [label="Josephine Cashman (192)
 Pauline Hanson's One Nation"]

@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Trevor Walter Smith (777)_Casey_2022" {
-	graph [label="Casey 2022" labelloc=t mclimit=2]
+	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
 	"Trevor Walter Smith (777)" [label="Trevor Walter Smith (777)
 Liberal Democrats"]

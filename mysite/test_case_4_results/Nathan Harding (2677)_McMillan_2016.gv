@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Nathan Harding (2677)_McMillan_2016" {
-	graph [label="McMillan 2016" labelloc=t mclimit=2]
+	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Nathan Harding (2677)" [label="Nathan Harding (2677)
 Family First Party"]

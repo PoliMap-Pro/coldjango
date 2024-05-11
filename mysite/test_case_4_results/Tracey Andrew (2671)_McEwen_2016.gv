@@ -1,6 +1,6 @@
 // House preference flow
 digraph "Tracey Andrew (2671)_McEwen_2016" {
-	graph [label="McEwen 2016" labelloc=t mclimit=2]
+	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
 	"Tracey Andrew (2671)" [label="Tracey Andrew (2671)
 Australian Country Party"]

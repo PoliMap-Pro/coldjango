@@ -1,6 +1,6 @@
 // House preference flow
 digraph "David Hawker (4893)_Wannon_2004" {
-	graph [label="Wannon 2004" labelloc=t mclimit=2]
+	graph [label="Wannon 2004" labelloc=t mclimit=10]
 	node [shape=box]
 	"David Hawker (4893)" [label="David Hawker (4893)
 Liberal"]
