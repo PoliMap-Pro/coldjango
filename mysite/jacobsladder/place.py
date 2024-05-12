@@ -41,8 +41,8 @@ class Seat(abstract_models.Beacon):
         def primary_votes(election, seat, booth, vote_tally):
             return vote_tally.primary_votes if vote_tally.candidate.pk == \
                                                candidate.pk else 0
-        return sum([votes for booth in Booth.per(house.VoteTally.per(primary_votes))(
-            self, elect) for votes in booth])
+        return sum([votes for booth in Booth.per(house.VoteTally.per(
+            primary_votes))(self, elect) for votes in booth])
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):

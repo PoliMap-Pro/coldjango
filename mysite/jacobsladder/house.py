@@ -3,7 +3,7 @@ from django.db.models import UniqueConstraint
 from . import abstract_models, people, names
 from .abstract_models import VoteRecord, Crown, Round, Transfer
 from .place import Seat, Booth
-from .service import Representation
+from .service import Representation, Contention
 
 
 class HouseElection(abstract_models.Election):
@@ -13,6 +13,12 @@ class HouseElection(abstract_models.Election):
 
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)
+
+    def get_contentions(self, party_abbreviation):
+        return [Contention.objects.get(
+            election=self, candidate=representation.person.candidate) for
+            representation in Representation.objects.filter(
+                election=self, party__abbreviation=party_abbreviation)]
 
     def new_dot_node(self, candidate):
         """
