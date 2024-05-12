@@ -1,5 +1,5 @@
 from django.db import models
-from . import model_fields
+from . import geography, model_fields, names
 
 
 class Election(models.Model):
@@ -13,16 +13,7 @@ class Election(models.Model):
         return f"{self.__class__.__name__} on {self.election_date} ({self.pk})"
 
 
-class Pin(models.Model):
-    class Meta:
-        abstract = True
-
-    location = models.OneToOneField('Geography', on_delete=models.SET_NULL,
-                                    null=True, blank=True)
-    created = models.DateTimeField(auto_now_add=True)
-
-
-class Beacon(Pin):
+class Beacon(geography.Pin):
     class Meta:
         abstract = True
 
@@ -53,15 +44,7 @@ class BallotEntry(Crown):
     ballot_position = models.PositiveSmallIntegerField(default=0)
 
 
-class TrackedName(models.Model):
-    class Meta:
-        abstract = True
-
-    name = models.CharField(max_length=63)
-    created = models.DateTimeField(auto_now_add=True)
-
-
-class Confederation(TrackedName):
+class Confederation(names.TrackedName):
     class Meta:
         abstract = True
 

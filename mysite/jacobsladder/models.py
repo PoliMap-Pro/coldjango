@@ -1,10 +1,10 @@
+
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
-from .abstract_models import Election, Pin, Beacon, Crown, TrackedName, \
-    Transition, BallotEntry, VoteRecord, Contest, Round, Transfer, \
+from . import geography, model_fields, names
+from .abstract_models import Election, Beacon, Crown, Transition, BallotEntry, VoteRecord, Contest, Round, Transfer, \
     Confederation
-from .model_fields import StateName
 
 """ 
 HouseElection.per, Seat.per, Booth.per and VoteTally.per
@@ -135,7 +135,8 @@ class HouseElection(Election):
 
 
 class SenateElection(Election):
-    state = models.CharField(max_length=9, choices=StateName.choices)
+    state = models.CharField(max_length=9,
+                             choices=model_fields.StateName.choices)
 
 
 class SeatCode(models.Model):
@@ -198,13 +199,14 @@ class Seat(Beacon):
 
     def setup_source(self, election, last_preference, preference_rounds,
                      target_index):
-        return PreferenceRound.objects.get(
+        return CandidatePreference.objects.get(
             election=election, seat=self,
             candidate=last_preference.source_candidate,
-            round=preference_rounds[target_index]), PreferenceRound.objects.get(
-            election=election, seat=self,
-            candidate=last_preference.source_candidate,
-            round=preference_rounds[target_index-1])
+            round=preference_rounds[target_index]), \
+               CandidatePreference.objects.get(
+                   election=election, seat=self,
+                   candidate=last_preference.source_candidate,
+                   round=preference_rounds[target_index-1])
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -272,7 +274,7 @@ class BoothCode(models.Model):
         return str(f"{self.number} for {self.booth} ({self.pk})")
 
 
-class Floor(Pin):
+class Floor(geography.Pin):
     class Meta:
         constraints = [UniqueConstraint(fields=['name', 'lighthouse',],
                                         name='name_and_lighthouse')]
@@ -281,7 +283,7 @@ class Floor(Pin):
     lighthouse = models.ForeignKey(Lighthouse, on_delete=models.CASCADE)
 
 
-class Booth(Pin):
+class Booth(geography.Pin):
     class Meta:
         constraints = [UniqueConstraint(fields=['name', 'seat',],
                                         name='name_and_seat')]
@@ -338,7 +340,7 @@ class Party(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
 
-class PartyAlias(TrackedName):
+class PartyAlias(names.TrackedName):
     class Meta:
         verbose_name_plural = "Party Aliases"
 
@@ -350,14 +352,14 @@ class MetaParty(Confederation):
     pass
 
 
-class HouseAlliance(TrackedName):
+class HouseAlliance(names.TrackedName):
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.name} at {self.election} ({self.pk})")
 
 
-class SenateAlliance(TrackedName):
+class SenateAlliance(names.TrackedName):
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
     def __str__(self):
@@ -376,7 +378,7 @@ class PersonCode(models.Model):
         return str(f"{self.number} in {self.person} ({self.pk})")
 
 
-class Person(TrackedName):
+class Person(names.TrackedName):
     other_names = models.CharField(max_length=63, null=True, blank=True)
     party = models.ManyToManyField(Party, through="Representation")
 

@@ -1,15 +1,13 @@
 import os
-import graphviz
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, constants
+from ... import models, aec_readers
 
 
-class Command(BaseCommand):
+class Command(BaseCommand, aec_readers.AECReader):
     N = 3
     YEARS = (2022, 2016, )
     PARTY_ABBREVIATION = 'GRN'
-    NODE_SHAPE = 'box'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
     PREF = models.CandidatePreference.objects
 
@@ -19,8 +17,8 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        seat_list = list(models.Seat.objects.all().order_by(
-            'name'))[:Command.N]
+        seat_list = list(models.Seat.objects.all().order_by('name'))[:
+                                                                     Command.N]
         [Command.year_flow(seat_list, year) for year in Command.YEARS]
 
     @staticmethod
@@ -33,8 +31,8 @@ class Command(BaseCommand):
     def seat_flow(election, seat, year, abbreviation=None):
         print(seat)
         print()
-        pref_rounds, targets = Command.get_targets(election, seat,
-                                                   abbreviation)
+        pref_rounds, targets = Command.get_targets(
+            election, seat, abbreviation, default=Command.PARTY_ABBREVIATION)
         if targets:
             Command.get_flow(election, pref_rounds, seat, targets, year)
 
@@ -66,30 +64,6 @@ class Command(BaseCommand):
         if new_targets:
             queue += new_targets
         return queue
-
-    @staticmethod
-    def setup_dot_file(seat, target, year):
-        return graphviz.Digraph(
-            f"{str(target)}_{seat.name}_{year}", format='png',
-            comment='House preference flow',
-            node_attr={'shape': Command.NODE_SHAPE},
-            graph_attr={'labelloc': 't', 'label': f"{seat.name} {year}",
-                        'mclimit': '10',},
-            engine='dot'), [], []
-
-    @staticmethod
-    def get_targets(election, seat, abbreviation=None):
-        representing_candidates = [
-            representation.person.candidate.pk for representation in
-            models.Representation.objects.filter(
-                election=election,
-                party__abbreviation__iexact=abbreviation if abbreviation else
-                Command.PARTY_ABBREVIATION)]
-        return list(models.PreferenceRound.objects.filter(
-            election=election, seat=seat).order_by('round_number')), [
-            contention.candidate for contention in
-            models.Contention.objects.filter(election=election, seat=seat) if
-            contention.candidate.pk in representing_candidates]
 
     @staticmethod
     def get_election(year):
@@ -168,14 +142,15 @@ class Command(BaseCommand):
                                                  pref_rounds, round_obj, seat)
         while last_pref.source_candidate:
             trail_index -= 1
-            last_pref = Command.add_source(election, last_pref, pref_rounds,
-                                           seat, trail, trail_index)
+            last_pref = Command.add_candidate_source(
+                election, last_pref, pref_rounds, seat, trail, trail_index)
         return trail
 
     @staticmethod
-    def add_source(election, last_pref, pref_rounds, seat, trail, trail_index):
+    def add_candidate_source(election, last_pref, pref_rounds, seat, trail,
+                             trail_index):
         last_pref, previous = seat.setup_source(election, last_pref,
-                                                pref_rounds, seat, trail_index)
+                                                pref_rounds, trail_index)
         proximate = last_pref.votes_received - previous.votes_received
         trail.append((last_pref.candidate, proximate,
                       last_pref.round.round_number), )
@@ -199,10 +174,3 @@ class Command(BaseCommand):
         trail = [(last_pref.candidate, last_pref.votes_received -
                   previous.votes_received, last_pref.round.round_number), ]
         return trail, trail_index
-
-    @staticmethod
-    def setup_pref(election, pref_rounds, round_index, seat, target):
-        find_trail, round_obj = False, pref_rounds[round_index]
-        pref_attributes = {'election': election, 'seat': seat,
-                           'round': round_obj, 'candidate': target}
-        return find_trail, pref_attributes, round_obj

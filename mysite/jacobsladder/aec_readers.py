@@ -1,12 +1,16 @@
 import csv
+import graphviz
 from . import models, constants, folder_reader
 
 
 class AECReader(object):
-    SEAT_NAME_HEADER = 'DivisionNm'
+    # headers from csv files
     FIRST_NAME_HEADER = 'Surname'
     OTHER_NAMES_HEADER = 'GivenNm'
     SEAT_CODE_HEADER = 'DivisionID'
+    SEAT_NAME_HEADER = 'DivisionNm'
+
+    NODE_SHAPE = 'box'
 
     def add_one(self, filename, election, single_create_method,
                 line_before_headers=True, two_header_years=None,
@@ -130,3 +134,34 @@ class AECReader(object):
                                                  election=house_election,
                                                  seat=seat).candidate
         pref.save()
+
+    @staticmethod
+    def get_targets(election, seat, abbreviation=None, default=None):
+        representing_candidates = [
+            representation.person.candidate.pk for representation in
+            models.Representation.objects.filter(
+                election=election,
+                party__abbreviation__iexact=abbreviation if abbreviation else
+                default)]
+        return list(models.PreferenceRound.objects.filter(
+            election=election, seat=seat).order_by('round_number')), [
+            contention.candidate for contention in
+            models.Contention.objects.filter(election=election, seat=seat) if
+            contention.candidate.pk in representing_candidates]
+
+    @staticmethod
+    def setup_pref(election, pref_rounds, round_index, seat, target):
+        find_trail, round_obj = False, pref_rounds[round_index]
+        pref_attributes = {'election': election, 'seat': seat,
+                           'round': round_obj, 'candidate': target}
+        return find_trail, pref_attributes, round_obj
+
+    @staticmethod
+    def setup_dot_file(seat, target, year):
+        return graphviz.Digraph(
+            f"{str(target)}_{seat.name}_{year}", format='png',
+            comment='House preference flow',
+            node_attr={'shape': AECReader.NODE_SHAPE},
+            graph_attr={'labelloc': 't', 'label': f"{seat.name} {year}",
+                        'mclimit': '10',},
+            engine='dot'), [], []
