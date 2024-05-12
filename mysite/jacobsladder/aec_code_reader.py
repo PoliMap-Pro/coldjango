@@ -1,4 +1,4 @@
-from . import models, aec_readers, folder_reader
+from . import house, aec_readers, folder_reader
 
 
 class AECCodeReader(aec_readers.AECReader):
@@ -47,8 +47,8 @@ class AECCodeReader(aec_readers.AECReader):
 
     @staticmethod
     def get_two_candidate_pref_votes(booth, candidate, house_election, row):
-        vote_tally = models.VoteTally.objects.get(booth=booth,
-                                                  election=house_election,
-                                                  candidate=candidate)
+        vote_tally = house.VoteTally.objects.get(booth=booth,
+                                                 election=house_election,
+                                                 candidate=candidate)
         vote_tally.tcp_votes = int(row[AECCodeReader.ORDINARY_VOTES_HEADER])
         vote_tally.save()

@@ -1,6 +1,7 @@
 from django.db import models
 from django.db.models import UniqueConstraint
 from . import names
+from .abstract_models import Confederation
 
 
 class Party(models.Model):
@@ -37,3 +38,7 @@ class Person(names.TrackedName):
             return f"{str(self.other_names).title()} " \
                    f"{str(self.name).title()} ({self.pk})"
         return str(self.name).title()
+
+
+class MetaParty(Confederation):
+    pass

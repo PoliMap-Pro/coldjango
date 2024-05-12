@@ -1,6 +1,6 @@
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, house
+from ... import house, place
 
 
 class Command(BaseCommand):
@@ -182,8 +182,8 @@ class Command(BaseCommand):
         print(Command.help)
         twenty_nineteen = house.HouseElection.objects.get(
             election_date=datetime(year=2019, month=1, day=1))
-        aston = models.Seat.objects.get(name="Aston", state="vic")
-        models.Booth.per(Command.primary)(aston, twenty_nineteen)
+        aston = place.Seat.objects.get(name="Aston", state="vic")
+        place.Booth.per(Command.primary)(aston, twenty_nineteen)
 
     @staticmethod
     def primary(election, seat, booth, party_abbreviations=('ALP', 'LP')):
@@ -196,7 +196,7 @@ class Command(BaseCommand):
     @staticmethod
     def by_representation(booth, election, party_abbreviation, seat,
                           print_if_not_found="DID NOT RUN A CANDIDATE"):
-        models.VoteTally.via_representation(
+        house.VoteTally.via_representation(
             election, party_abbreviation, seat, booth,
             Command.check_tally, lambda x, y: print(y, print_if_not_found))
 

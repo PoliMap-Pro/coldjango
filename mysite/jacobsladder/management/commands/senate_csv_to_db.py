@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, csv_to_db, constants, people
+from ... import models, csv_to_db, constants, people, place, service
 
 
 class Command(BaseCommand, csv_to_db.ElectionReader):
@@ -58,7 +58,7 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         candidate, person = Command.find_person(
             models.SenateCandidate.objects,
             Command.get_standard_person_attributes(row), row)
-        selection, _ = models.Selection.objects.get_or_create(
+        selection, _ = service.Selection.objects.get_or_create(
             person=person, election=election)
         selection.party = Command.fetch_party(row)
         selection.save()
@@ -136,12 +136,12 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
 
     @staticmethod
     def add_one_lighthouse(election, row):
-        lighthouse, _ = models.Lighthouse.objects.get_or_create(
+        lighthouse, _ = place.Lighthouse.objects.get_or_create(
             name=row[Command.SEAT_NAME_HEADER])
         lighthouse.elections.add(election)
         lighthouse.state = row[constants.STATE_ABBREVIATION_HEADER].lower()
         lighthouse.save()
-        lighthouse_code, _ = models.LighthouseCode.objects.get_or_create(
+        lighthouse_code, _ = place.LighthouseCode.objects.get_or_create(
             lighthouse=lighthouse, number=int(row[Command.SEAT_CODE_HEADER]))
 
     @staticmethod
@@ -194,10 +194,10 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     @staticmethod
     def fetch_selection(candidate, election, party):
         try:
-            return models.Selection.objects.get(person=candidate.person,
-                                                     election=election)
-        except models.Selection.DoesNotExist:
-            return models.Selection.objects.create(
+            return service.Selection.objects.get(
+                person=candidate.person, election=election)
+        except service.Selection.DoesNotExist:
+            return service.Selection.objects.create(
                 person=candidate.person, election=election, party=party)
 
     @staticmethod
@@ -209,8 +209,8 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
 
     @staticmethod
     def get_stand(candidate, election, row):
-        stand, _ = models.Stand.objects.get_or_create(candidate=candidate,
-                                                      election=election)
+        stand, _ = service.Stand.objects.get_or_create(
+            candidate=candidate, election=election)
         stand.ballot_position = int(row[Command.BALLOT_ORDER_HEADER])
         stand.save()
 
@@ -224,11 +224,11 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     def get_floor(row):
         lighthouse = Command.fetch_by_aec_code(
             Command.get_standard_beacon_attributes(row),
-            models.Lighthouse.objects,
-            models.LighthouseCode.objects, 'lighthouse',
+            place.Lighthouse.objects,
+            place.LighthouseCode.objects, 'lighthouse',
             int(row[Command.SEAT_CODE_HEADER]))
-        floor, _ = models.Floor.objects.get_or_create(
+        floor, _ = place.Floor.objects.get_or_create(
             name=row[Command.FLOOR_NAME_HEADER], lighthouse=lighthouse)
-        floor_code, _ = models.FloorCode.objects.get_or_create(
+        floor_code, _ = place.FloorCode.objects.get_or_create(
             floor=floor, number=int(row[Command.BOOTH_CODE_HEADER]))
         return floor, lighthouse

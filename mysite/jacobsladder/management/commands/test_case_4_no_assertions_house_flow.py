@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, aec_readers, house
+from ... import place, aec_readers, house
 
 
 class Command(BaseCommand, aec_readers.AECReader):
@@ -16,7 +16,7 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        seat_list = list(models.Seat.objects.all().order_by('name'))[:
+        seat_list = list(place.Seat.objects.all().order_by('name'))[:
                                                                      Command.N]
         [Command.year_flow(seat_list, year) for year in Command.YEARS]
 

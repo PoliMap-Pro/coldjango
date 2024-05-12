@@ -1,10 +1,10 @@
-
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
-from . import geography, model_fields, names, people, house
-from .abstract_models import Election, Beacon, Crown, Transition, BallotEntry, VoteRecord, Contest, Round, Transfer, \
-    Confederation
+from . import model_fields, names, people, house
+from .abstract_models import Election, VoteRecord, Contest, Round, \
+    Transfer
+from .place import Lighthouse, Floor
 
 """ 
 HouseElection.per, Seat.per, Booth.per and VoteTally.per
@@ -125,203 +125,6 @@ class SenateElection(Election):
                              choices=model_fields.StateName.choices)
 
 
-class SeatCode(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['number', 'seat',],
-                                        name='number_and_seat')]
-
-    number = models.PositiveIntegerField()
-    seat = models.ForeignKey("Seat", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return f"{self.number} for {self.seat} ({self.pk})"
-
-
-class LighthouseCode(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['number', 'lighthouse',],
-                                        name='number_and_lighthouse')]
-
-    number = models.PositiveIntegerField()
-    lighthouse = models.ForeignKey("Lighthouse", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return f"{self.number} for {self.lighthouse} ({self.pk})"
-
-
-class Lighthouse(Beacon):
-    name = models.CharField(max_length=63, unique=True)
-    elections = models.ManyToManyField(SenateElection, blank=True)
-
-
-class Seat(Beacon):
-    name = models.CharField(max_length=63, unique=True)
-    elections = models.ManyToManyField(house.HouseElection, blank=True)
-
-    def ordinary_primary(self, election, party_abbreviation):
-        """
-        Supply a HouseElection.
-        Supply a party abbreviation as a string.
-        Returns the total ordinary votes for the party in the election.
-        """
-        representation = house.Representation.objects.get(
-            election=election, party__abbreviation__iexact=party_abbreviation,
-            person__candidate__contention__seat=self,
-            person__candidate__contention__election=election)
-        return self.candidate_for(representation.person.candidate, election)
-
-    def total_primary_votes(self, elect):
-        def return_candidate(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes
-        return sum([votes for booth in Booth.per(VoteTally.per(
-            return_candidate))(self, elect) for votes in booth])
-
-    def candidate_for(self, candidate, elect):
-        def primary_votes(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes if vote_tally.candidate.pk == \
-                                               candidate.pk else 0
-        return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
-            self, elect) for votes in booth])
-
-    def add_candidate_source(self, election, last_pref, pref_rounds, trail,
-                             trail_index):
-        last_pref, previous = self.setup_source(election, last_pref,
-                                                pref_rounds, trail_index)
-        proximate = last_pref.votes_received - previous.votes_received
-        trail.append((last_pref.candidate, proximate,
-                      last_pref.round.round_number), )
-        return last_pref
-
-    def setup_source(self, election, last_preference, preference_rounds,
-                     target_index):
-        return CandidatePreference.objects.get(
-            election=election, seat=self,
-            candidate=last_preference.source_candidate,
-            round=preference_rounds[target_index]), \
-               CandidatePreference.objects.get(
-                   election=election, seat=self,
-                   candidate=last_preference.source_candidate,
-                   round=preference_rounds[target_index-1])
-
-    @staticmethod
-    def per(callback, *arguments, **keyword_arguments):
-        def wrapper(election):
-            return [callback(*arguments, election=election, seat=seat,
-                             **keyword_arguments) for seat in
-                    election.seat_set.all()]
-        return wrapper
-
-    @staticmethod
-    def total_candidate(election, func):
-        Seat.per(Booth.per(VoteTally.per(func)))(election)
-
-    @staticmethod
-    def get_candidate(election, seat, booth, vote_tally):
-        return vote_tally.primary_votes
-
-    def __str__(self):
-        return f"{self.__class__.__name__} {self.name} in " \
-               f"{self.state} ({self.pk})"
-
-
-class Enrollment(Crown):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['seat', 'election',],
-                                        name='unique_seat_for_election')]
-
-    number_enrolled = models.PositiveIntegerField(default=0)
-
-    def __str__(self):
-        return str(f"{self.number_enrolled} to vote in "
-                   f"{self.seat} in {self.election} ({self.pk})")
-
-
-class SeatChange(Transition):
-    from_seat = models.ForeignKey(Seat, on_delete=models.CASCADE, null=True,
-                                  blank=True, related_name="to_via")
-    to_seat = models.ForeignKey(Seat, on_delete=models.CASCADE, null=True,
-                                blank=True, related_name="from_via")
-
-
-class FloorCode(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['number', 'floor',],
-            name='unique_combination_of_number_and_floor')]
-
-    number = models.PositiveIntegerField()
-    floor = models.ForeignKey("Floor", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return str(f"{self.number} for {self.floor} ({self.pk})")
-
-
-class BoothCode(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['number', 'booth',],
-            name='unique_combination_of_number_and_booth')]
-
-    number = models.PositiveIntegerField()
-    booth = models.ForeignKey("Booth", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return str(f"{self.number} for {self.booth} ({self.pk})")
-
-
-class Floor(geography.Pin):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['name', 'lighthouse',],
-                                        name='name_and_lighthouse')]
-
-    name = models.CharField(max_length=63, null=True, blank=True)
-    lighthouse = models.ForeignKey(Lighthouse, on_delete=models.CASCADE)
-
-
-class Booth(geography.Pin):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['name', 'seat',],
-                                        name='name_and_seat')]
-
-    name = models.CharField(max_length=63, null=True, blank=True)
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
-
-    @staticmethod
-    def per(callback, *arguments, **keyword_arguments):
-        def wrapper(seat, election):
-            return [callback(*arguments, election=election, seat=seat,
-                             booth=booth, **keyword_arguments)
-                    for booth in [collection.booth for collection in
-                                  Collection.objects.filter(
-                                      booth__seat=seat, election=election)]]
-        return wrapper
-
-    def __str__(self):
-        if self.name:
-            return f"{self.__class__.__name__} {self.name} ({self.pk})"
-        return f"{self.__class__.__name__} #{self.pk}"
-
-
-class Collection(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['booth', 'election',],
-            name='unique_combination_of_booth_election')]
-
-    booth = models.ForeignKey(Booth, on_delete=models.CASCADE)
-    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
-
-    def __str__(self):
-        return str(f"{self.booth} in {self.election} ({self.pk})")
-
-
-class BoothChange(Transition):
-    from_booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True,
-                                   blank=True, related_name="to_via")
-    to_booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True,
-                                 blank=True, related_name="from_via")
-
-
 class PartyAlias(names.TrackedName):
     class Meta:
         verbose_name_plural = "Party Aliases"
@@ -330,72 +133,11 @@ class PartyAlias(names.TrackedName):
     elections = models.ManyToManyField(house.HouseElection, blank=True)
 
 
-class MetaParty(Confederation):
-    pass
-
-
-class HouseAlliance(names.TrackedName):
-    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
-
-    def __str__(self):
-        return str(f"{self.name} at {self.election} ({self.pk})")
-
-
 class SenateAlliance(names.TrackedName):
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.name} at {self.election} ({self.pk})")
-
-
-class Selection(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['person', 'election'],
-                                        name='selection_person_election')]
-    person = models.ForeignKey(people.Person, on_delete=models.CASCADE)
-    party = models.ForeignKey(people.Party, on_delete=models.SET_NULL,
-                              null=True, blank=True)
-    election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
-
-
-class HouseCandidate(models.Model):
-    person = models.OneToOneField(people.Person, on_delete=models.CASCADE,
-                                  related_name='candidate')
-    seat = models.ManyToManyField(Seat, through="Contention")
-
-    def __str__(self):
-        return str(self.person)
-
-
-class Contention(BallotEntry):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['seat', 'candidate', 'election', ],
-            name='unique_seat_candidate_election')]
-
-    candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    alliance = models.ForeignKey(HouseAlliance, null=True, blank=True,
-                                 on_delete=models.SET_NULL)
-
-    def __str__(self):
-        return str(f"{self.candidate} for {self.seat} "
-                   f"in {self.election} ({self.pk})")
-
-
-class Stand(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['candidate', 'election', ],
-                                        name='candidate_election')]
-
-    candidate = models.ForeignKey('SenateCandidate', on_delete=models.CASCADE)
-    election = models.ForeignKey('SenateElection', on_delete=models.CASCADE)
-    alliance = models.ForeignKey(SenateAlliance, null=True, blank=True,
-                                 on_delete=models.SET_NULL)
-
-    ballot_position = models.PositiveSmallIntegerField(default=0)
-
-    def __str__(self):
-        return str(f"{self.candidate} in {self.election} ({self.pk})")
 
 
 class SenateGroup(models.Model):
@@ -433,77 +175,12 @@ class Pool(Contest):
     quota = models.PositiveIntegerField()
 
 
-class VoteTally(VoteRecord):
-    class Meta:
-        verbose_name_plural = "Vote Tallies"
-        constraints = [UniqueConstraint(
-            fields=['booth', 'election', 'candidate', ],
-            name='unique_combination_of_booth_election_and_candidate')]
-
-    booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True)
-    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
-    candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
-    tcp_votes = models.IntegerField(null=True, blank=True)
-
-    @staticmethod
-    def via_representation(election, party_abbreviation, seat, booth,
-                           found_callback=None, not_found_callback=None):
-        """
-        Supply a HouseElection.
-        Supply a party abbreviation as a string.
-        Supply a Seat.
-        Supply a Booth.
-        Returns the VoteTally for the candidate representing that party in
-        that booth in that seat in that election.
-        """
-        representation = house.Representation.objects.get(
-            election=election, party__abbreviation__iexact=party_abbreviation,
-            person__candidate__contention__seat=seat,
-            person__candidate__contention__election=election
-        )
-        try:
-            vote_tally = VoteTally.objects.get(
-                booth=booth, election=election,
-                candidate=representation.person.candidate
-            )
-            if found_callback:
-                found_callback(booth, party_abbreviation, vote_tally)
-            return vote_tally
-        except VoteTally.DoesNotExist:
-            if not_found_callback:
-                not_found_callback(booth, party_abbreviation)
-            return False
-
-    @staticmethod
-    def per(callback, *arguments, **keyword_arguments):
-        def wrapper(booth, seat, election):
-            return [callback(*arguments, election=election, seat=seat,
-                             booth=booth, vote_tally=vote_tally,
-                             **keyword_arguments) for vote_tally in
-                    VoteTally.objects.filter(booth=booth, election=election)]
-        return wrapper
-
-    def __str__(self):
-        return str(f"{self.primary_votes} for {self.candidate} "
-                   f"at {self.booth} in {self.election} ({self.pk})")
-
-
 class SenateRound(Round):
     pool = models.ForeignKey(Pool, on_delete=models.CASCADE)
 
     def __str__(self):
         return f"Round {self.round_number} for {self.pool.state} in " \
                f"{self.pool.election}"
-
-
-class PreferenceRound(Crown, Round):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['seat', 'election', 'round_number',],
-            name='unique_combination_of_seat_election_round_number')]
-
-    def __str__(self):
-        return f"Round {self.round_number} of {self.seat} in {self.election}"
 
 
 class SenatePreference(Transfer):
@@ -524,25 +201,3 @@ class SenatePreference(Transfer):
     comment = models.TextField(null=True, blank=True)
 
 
-class CandidatePreference(Transfer):
-    class Meta:
-        constraints = [UniqueConstraint(
-            fields=['candidate', 'round', 'seat', 'election'],
-            name='unique_combination_of_candidate_round_seat_election')]
-
-    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE,
-                                 null=True, blank=True)
-    seat = models.ForeignKey(Seat, on_delete=models.CASCADE,
-                             null=True, blank=True)
-    candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE,
-                                  related_name="target_preference")
-    source_candidate = models.ForeignKey(HouseCandidate,
-                                         on_delete=models.SET_NULL,
-                                         related_name="source_preference",
-                                         null=True, blank=True)
-    round = models.ForeignKey(PreferenceRound, on_delete=models.CASCADE)
-    votes_received = models.IntegerField()
-    votes_remaining = models.IntegerField(null=True, blank=True)
-
-    def __str__(self):
-        return f"{self.candidate} in {self.round} ({self.pk})"

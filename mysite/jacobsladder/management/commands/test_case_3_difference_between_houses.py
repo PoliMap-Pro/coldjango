@@ -1,7 +1,5 @@
 from django.core.management.base import BaseCommand
-
-import mysite.jacobsladder.house
-from ... import models
+from ... import models, house, place, service
 
 
 class Command(BaseCommand):
@@ -61,7 +59,7 @@ class Command(BaseCommand):
                 'election_date'):
             print(f"Election on {election.election_date}")
             all_lighthouses = election.lighthouse_set.all().order_by('name')
-            house_election = mysite.jacobsladder.house.HouseElection.objects.get(
+            house_election = house.HouseElection.objects.get(
                 election_date=election.election_date)
             all_seats = house_election.seat_set.all().order_by('name')
             both_houses = zip(all_lighthouses, all_seats)
@@ -79,7 +77,7 @@ class Command(BaseCommand):
 
     @staticmethod
     def check_seat(election, seat):
-        representation = mysite.jacobsladder.house.Representation.objects.get(
+        representation = service.Representation.objects.get(
             election=election, party__abbreviation__iexact='GRN',
             person__candidate__contention__seat=seat,
             person__candidate__contention__election=election
@@ -94,8 +92,8 @@ class Command(BaseCommand):
     @staticmethod
     def check_lighthouse(election, lighthouse):
         result = sum([votack.primary_votes for floor in
-                      models.Floor.objects.filter(lighthouse=lighthouse) for
-                      selection in models.Selection.objects.filter(
+                      place.Floor.objects.filter(lighthouse=lighthouse) for
+                      selection in service.Selection.objects.filter(
                         election=election, party__abbreviation__iexact='GRN')
                       for votack in models.VoteStack.objects.filter(
                         election=election, floor=floor, lighthouse=lighthouse,

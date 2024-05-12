@@ -1,6 +1,6 @@
 import csv
 import graphviz
-from . import models, constants, folder_reader, people, house
+from . import models, constants, folder_reader, people, house, place, service
 
 
 class AECReader(object):
@@ -11,7 +11,7 @@ class AECReader(object):
     SEAT_NAME_HEADER = 'DivisionNm'
 
     NODE_SHAPE = 'box'
-    PREF = models.CandidatePreference.objects
+    PREF = house.CandidatePreference.objects
 
     def add_one(self, filename, election, single_create_method,
                 line_before_headers=True, two_header_years=None,
@@ -92,8 +92,8 @@ class AECReader(object):
     @staticmethod
     def find_candidate_for_seat(house_election, row):
         seat = AECReader.fetch_by_aec_code(
-            AECReader.get_standard_beacon_attributes(row), models.Seat.objects,
-            models.SeatCode.objects, 'seat', int(
+            AECReader.get_standard_beacon_attributes(row), place.Seat.objects,
+            place.SeatCode.objects, 'seat', int(
                 row[AECReader.SEAT_CODE_HEADER]))
         candidate = AECReader.pull_candidate(
             house_election, AECReader.get_standard_person_attributes(row), row,
@@ -102,10 +102,10 @@ class AECReader(object):
 
     @staticmethod
     def pull_candidate(election, person_attributes, row, seat,
-                       candidate_objects=models.HouseCandidate.objects):
+                       candidate_objects=house.HouseCandidate.objects):
         candidate, _ = AECReader.find_person(candidate_objects,
                                              person_attributes, row)
-        contention, _ = models.Contention.objects.get_or_create(
+        contention, _ = service.Contention.objects.get_or_create(
             seat=seat, candidate=candidate, election=election)
         return candidate
 
@@ -121,7 +121,7 @@ class AECReader(object):
             AECReader.single_preference(current_round, house_election,
                                         pref_objects, preference_attributes,
                                         seat)
-        except models.CandidatePreference.MultipleObjectsReturned:
+        except house.CandidatePreference.MultipleObjectsReturned:
             assert all([pref.source_candidate for pref in
                         pref_objects.filter(**preference_attributes)])
 
@@ -140,14 +140,14 @@ class AECReader(object):
     def get_targets(election, seat, abbreviation=None, default=None):
         representing_candidates = [
             representation.person.candidate.pk for representation in
-            house.Representation.objects.filter(
+            service.Representation.objects.filter(
                 election=election,
                 party__abbreviation__iexact=abbreviation if abbreviation else
                 default)]
-        return list(models.PreferenceRound.objects.filter(
+        return list(house.PreferenceRound.objects.filter(
             election=election, seat=seat).order_by('round_number')), [
             contention.candidate for contention in
-            models.Contention.objects.filter(election=election, seat=seat) if
+            service.Contention.objects.filter(election=election, seat=seat) if
             contention.candidate.pk in representing_candidates]
 
     @staticmethod

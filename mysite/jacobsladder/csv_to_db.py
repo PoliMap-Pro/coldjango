@@ -1,5 +1,5 @@
 from operator import itemgetter
-from . import models, constants, aec_code_reader, people
+from . import house, place, constants, aec_code_reader, people
 
 
 class ElectionReader(aec_code_reader.AECCodeReader):
@@ -54,7 +54,7 @@ class ElectionReader(aec_code_reader.AECCodeReader):
         return candidate, round_obj, received, received, seat, transferred
 
     @staticmethod
-    def find_seat(house_election, row, beacon_objects=models.Seat.objects):
+    def find_seat(house_election, row, beacon_objects=place.Seat.objects):
         seat = ElectionReader.set_seat_election(beacon_objects, house_election,
                                                 row)
         seat.state = row[constants.STATE_ABBREVIATION_HEADER].lower()
@@ -62,10 +62,10 @@ class ElectionReader(aec_code_reader.AECCodeReader):
         return seat
 
     @staticmethod
-    def add_one_seat(election, row, code_objects=models.SeatCode.objects):
+    def add_one_seat(election, row, code_objects=place.SeatCode.objects):
         seat = ElectionReader.find_seat(election, row)
         seat_code, _ = code_objects.get_or_create(
             seat=seat, number=int(row[ElectionReader.SEAT_CODE_HEADER]))
-        enrollment, _ = models.Enrollment.objects.get_or_create(
+        enrollment, _ = house.Enrollment.objects.get_or_create(
             seat=seat, election=election, number_enrolled=int(
                 row[ElectionReader.ENROLLMENT_HEADER]))

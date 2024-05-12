@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from . import csv_to_db, models, constants, folder_reader, people, house
+from . import csv_to_db, place, service, constants, folder_reader, people, house
 
 
 class BaseCode(csv_to_db.ElectionReader):
@@ -44,22 +44,22 @@ class BaseCode(csv_to_db.ElectionReader):
         return candidate, party, candidate.person
 
     @staticmethod
-    def set_booth_from_row(row, code_objects=models.SeatCode.objects):
+    def set_booth_from_row(row, code_objects=place.SeatCode.objects):
         seat = BaseCode.fetch_by_aec_code(
-            BaseCode.get_standard_beacon_attributes(row), models.Seat.objects,
+            BaseCode.get_standard_beacon_attributes(row), place.Seat.objects,
             code_objects, 'seat', int(row[BaseCode.SEAT_CODE_HEADER]))
-        booth, _ = models.Booth.objects.get_or_create(
+        booth, _ = place.Booth.objects.get_or_create(
             name=row[BaseCode.BOOTH_NAME_HEADER], seat=seat)
-        booth_code, _ = models.BoothCode.objects.get_or_create(
+        booth_code, _ = place.BoothCode.objects.get_or_create(
             booth=booth, number=int(row[BaseCode.BOOTH_CODE_HEADER]))
         return booth, seat
 
     @staticmethod
     def set_ballot_position(candidate, house_election, party, person, row,
                             seat):
-        representation, _ = house.Representation.objects.get_or_create(
+        representation, _ = service.Representation.objects.get_or_create(
             person=person, party=party, election=house_election)
-        contention, _ = models.Contention.objects.get_or_create(
+        contention, _ = service.Contention.objects.get_or_create(
             seat=seat, candidate=candidate, election=house_election)
         contention.ballot_position = row[BaseCode.BALLOT_ORDER_HEADER]
         contention.save()

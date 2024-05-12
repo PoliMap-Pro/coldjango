@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from ... import models, base_code, folder_reader
+from ... import base_code, folder_reader, house, place, service
 
 
 class Command(BaseCommand, base_code.BaseCode):
@@ -52,8 +52,8 @@ class Command(BaseCommand, base_code.BaseCode):
                         break
 
     def handle(self, *arguments, **keywordarguments):
-        pref_objects = models.CandidatePreference.objects
-        round_objects = models.PreferenceRound.objects
+        pref_objects = house.CandidatePreference.objects
+        round_objects = house.PreferenceRound.objects
         election_items = Command.get_election_items()
         [self(election_year, folder, pref_objects, round_objects) for
          election_year, folder in election_items]
@@ -62,10 +62,10 @@ class Command(BaseCommand, base_code.BaseCode):
     def fetch_transfer_data(current_round_numb, house_election, reader, row):
         candidate, received, seat = Command.fetch_candid(house_election, row)
         transferred = Command.advance(reader)
-        return candidate, models.PreferenceRound.objects.get(
+        return candidate, house.PreferenceRound.objects.get(
             seat=seat, election=house_election,
             round_number=current_round_numb), received, received, seat, \
-            transferred
+               transferred
 
     @staticmethod
     def transfer_if_preference(house_election, pref_objects, reader):
@@ -80,12 +80,12 @@ class Command(BaseCommand, base_code.BaseCode):
         booth_attributes = {'name': row[Command.BOOTH_NAME_HEADER],
                             'seat': seat}
         booth = Command.fetch_by_aec_code(
-            booth_attributes, models.Booth.objects, models.BoothCode.objects,
+            booth_attributes, place.Booth.objects, place.BoothCode.objects,
             'booth', int(row[Command.BOOTH_CODE_HEADER]))
         try:
             Command.get_two_candidate_pref_votes(booth, candidate,
                                                  house_election, row)
-        except models.VoteTally.DoesNotExist:
+        except house.VoteTally.DoesNotExist:
             print("house_election", house_election)
             print("house_election.pk", house_election.pk)
             print("row", row)
@@ -112,7 +112,7 @@ class Command(BaseCommand, base_code.BaseCode):
                                    transferred)
 
     @staticmethod
-    def add_one_booth(house_election, row, bind=models.VoteTally):
+    def add_one_booth(house_election, row, bind=house.VoteTally):
         booth, seat = Command.set_booth_from_row(row)
         candidate, party, person = Command.fetch_candidate(
             house_election, row, seat)
@@ -121,7 +121,7 @@ class Command(BaseCommand, base_code.BaseCode):
         vote_tally, _ = bind.objects.get_or_create(
             booth=booth, election=house_election, candidate=candidate,
             primary_votes=int(row[Command.ORDINARY_VOTES_HEADER]))
-        collection, _ = models.Collection.objects.get_or_create(
+        collection, _ = service.Collection.objects.get_or_create(
             booth=booth, election=house_election)
 
     @staticmethod
