@@ -10,14 +10,14 @@ class Command(BaseCommand):
            "where the total exceeds 10% are:\n"
 
     EXCLUDED_PARTIES = ('GRN', 'ALP', 'LP', 'LNP', )
-    TARGET = {'Bradfield', 'Calare', 'Capricornia', 'Clark', 'Cowper',
+    TARGET = ('Bradfield', 'Calare', 'Capricornia', 'Clark', 'Cowper',
               'Curtin', 'Dawson', 'Fly', 'Fowler', 'Gippsland', 'Goldstein',
               'Grey', 'Hinkler', 'Hughes', 'Hume', 'Hunter', 'Indi', 'Kennedy',
               'Kooyong', 'Lingiari', 'Lyne', 'Lyons', 'Mackellar', 'Mallee',
               'Maranoa', 'Mayo', 'Monash', 'New England', 'Nicholls',
               'North Sydney', 'Page', 'Parkes', 'Richmond', 'Riverina',
               'Solomon', 'Spence', 'Wannon', 'Warringah', 'Wentworth',
-              'Wright', }
+              'Wright', )
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
@@ -25,7 +25,7 @@ class Command(BaseCommand):
         print()
         twenty_twenty_two = house.HouseElection.objects.get(
             election_date=datetime(year=2022, month=1, day=1))
-        result = set()
+        result = []
         for seat in place.Seat.objects.all():
             total = seat.total_primary_votes(twenty_twenty_two)
             for contention in service.Contention.objects.filter(
@@ -39,9 +39,12 @@ class Command(BaseCommand):
                                                      twenty_twenty_two)
                         proportion = primary / total
                         if proportion > 0.1:
-                            result.add(seat.name)
+                            result.append(seat.name)
                             print(f"In {seat} {party.name} polled "
                                   f"{proportion * 100.0}%")
                             break
-        assert result == Command.TARGET
+        for entry in result:
+            assert entry in Command.TARGET
+        for entry in Command.TARGET:
+            assert entry in result
 
