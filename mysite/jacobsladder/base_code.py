@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from . import csv_to_db, models, constants, folder_reader
+from . import csv_to_db, models, constants, folder_reader, people, house
 
 
 class BaseCode(csv_to_db.ElectionReader):
@@ -34,7 +34,7 @@ class BaseCode(csv_to_db.ElectionReader):
                                            single_create_method, text_to_print)
 
     @staticmethod
-    def fetch_candidate(house_election, row, seat, tag=models.Party):
+    def fetch_candidate(house_election, row, seat, tag=people.Party):
         candidate = BaseCode.pull_candidate(
             house_election, BaseCode.get_standard_person_attributes(row), row,
             seat)
@@ -57,7 +57,7 @@ class BaseCode(csv_to_db.ElectionReader):
     @staticmethod
     def set_ballot_position(candidate, house_election, party, person, row,
                             seat):
-        representation, _ = models.Representation.objects.get_or_create(
+        representation, _ = house.Representation.objects.get_or_create(
             person=person, party=party, election=house_election)
         contention, _ = models.Contention.objects.get_or_create(
             seat=seat, candidate=candidate, election=house_election)
@@ -76,7 +76,7 @@ class BaseCode(csv_to_db.ElectionReader):
     def start_election(election_year, folder, type_of_date=datetime,
                        print_before_year="Election", quiet=False):
         BaseCode.print_year(election_year, print_before_year, quiet)
-        house_election, _ = models.HouseElection.objects.get_or_create(
+        house_election, _ = house.HouseElection.objects.get_or_create(
             election_date=type_of_date(year=election_year, month=1, day=1))
         return os.path.join(folder, constants.BOOTHS_DIRECTORY_RELATIVE), \
             house_election, os.path.join(

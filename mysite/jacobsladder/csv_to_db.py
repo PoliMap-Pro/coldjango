@@ -1,6 +1,5 @@
 from operator import itemgetter
-
-from . import models, constants, aec_code_reader
+from . import models, constants, aec_code_reader, people
 
 
 class ElectionReader(aec_code_reader.AECCodeReader):
@@ -34,7 +33,7 @@ class ElectionReader(aec_code_reader.AECCodeReader):
         return election_items
 
     @staticmethod
-    def fetch_party(row, bind=models.Party):
+    def fetch_party(row, bind=people.Party):
         party_name = row[constants.PARTY_NAME_HEADER]
         if party_name:
             party_abbreviation = row[constants.PARTY_ABBREVIATION_HEADER]

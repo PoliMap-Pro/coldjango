@@ -1,4 +1,6 @@
 from django.core.management.base import BaseCommand
+
+import mysite.jacobsladder.house
 from ... import models
 
 
@@ -7,7 +9,7 @@ class Command(BaseCommand):
            'every election in the house'
 
     def handle(self, *arguments, **keywordarguments):
-        for election in models.HouseElection.objects.all().order_by(
+        for election in mysite.jacobsladder.house.HouseElection.objects.all().order_by(
                 'election_date'):
             print(f"Election on {election.election_date}")
             [Command.show_seat(election, seat) for seat in
@@ -25,10 +27,10 @@ class Command(BaseCommand):
 
     @staticmethod
     def show_candidate(election, seat, booth, vote_tally):
-        if models.Representation.objects.filter(
+        if mysite.jacobsladder.house.Representation.objects.filter(
                 election=election,
                 person=vote_tally.candidate.person).exists():
-            middle = models.Representation.objects.get(
+            middle = mysite.jacobsladder.house.Representation.objects.get(
                 election=election,
                 person=vote_tally.candidate.person).party.name
         else:

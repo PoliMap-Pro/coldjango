@@ -1,7 +1,6 @@
 from datetime import datetime
-
 from django.core.management.base import BaseCommand
-from ... import models
+from ... import models, house
 
 
 class Command(BaseCommand):
@@ -181,7 +180,7 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        twenty_nineteen = models.HouseElection.objects.get(
+        twenty_nineteen = house.HouseElection.objects.get(
             election_date=datetime(year=2019, month=1, day=1))
         aston = models.Seat.objects.get(name="Aston", state="vic")
         models.Booth.per(Command.primary)(aston, twenty_nineteen)

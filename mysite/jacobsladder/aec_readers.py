@@ -1,6 +1,6 @@
 import csv
 import graphviz
-from . import models, constants, folder_reader
+from . import models, constants, folder_reader, people, house
 
 
 class AECReader(object):
@@ -11,6 +11,7 @@ class AECReader(object):
     SEAT_NAME_HEADER = 'DivisionNm'
 
     NODE_SHAPE = 'box'
+    PREF = models.CandidatePreference.objects
 
     def add_one(self, filename, election, single_create_method,
                 line_before_headers=True, two_header_years=None,
@@ -61,11 +62,11 @@ class AECReader(object):
                     group_abbreviation=None, election=None):
         try:
             person = cls.fetch_by_aec_code(
-                person_attributes, models.Person.objects,
-                models.PersonCode.objects, 'person', int(
+                person_attributes, people.Person.objects,
+                people.PersonCode.objects, 'person', int(
                     row[constants.CANDIDATE_CODE_HEADER]))
         except KeyError:
-            person, _ = models.Person.objects.get_or_create(**person_attributes)
+            person, _ = people.Person.objects.get_or_create(**person_attributes)
         if group_abbreviation:
             group_abbreviation = group_abbreviation.strip()
             try:
@@ -139,7 +140,7 @@ class AECReader(object):
     def get_targets(election, seat, abbreviation=None, default=None):
         representing_candidates = [
             representation.person.candidate.pk for representation in
-            models.Representation.objects.filter(
+            house.Representation.objects.filter(
                 election=election,
                 party__abbreviation__iexact=abbreviation if abbreviation else
                 default)]
@@ -165,3 +166,13 @@ class AECReader(object):
             graph_attr={'labelloc': 't', 'label': f"{seat.name} {year}",
                         'mclimit': '10',},
             engine='dot'), [], []
+
+    @staticmethod
+    def setup_trail(election, last_pref, pref_rounds, round_obj, seat):
+        trail_index = round_obj.round_number
+        previous = AECReader.PREF.get(election=election, seat=seat,
+                                      candidate=last_pref.candidate,
+                                      round=pref_rounds[trail_index-1])
+        trail = [(last_pref.candidate, last_pref.votes_received -
+                  previous.votes_received, last_pref.round.round_number), ]
+        return trail, trail_index

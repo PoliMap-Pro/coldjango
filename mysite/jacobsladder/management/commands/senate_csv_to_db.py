@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, csv_to_db, constants
+from ... import models, csv_to_db, constants, people
 
 
 class Command(BaseCommand, csv_to_db.ElectionReader):
@@ -75,11 +75,11 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
         person_attributes = Command.get_standard_person_attributes(row)
         try:
             person = Command.fetch_by_aec_code(
-                person_attributes, models.Person.objects,
-                models.PersonCode.objects, 'person', int(
+                person_attributes, people.Person.objects,
+                people.PersonCode.objects, 'person', int(
                     row[constants.CANDIDATE_CODE_HEADER]))
         except KeyError:
-            person = models.Person.objects.get(**person_attributes)
+            person = people.Person.objects.get(**person_attributes)
         candidate = models.SenateCandidate.get(person=person)
         if candidate.group:
             assert candidate.group.abbreviation.lower().strip() == \
@@ -178,11 +178,11 @@ class Command(BaseCommand, csv_to_db.ElectionReader):
     @staticmethod
     def short_abbreviation(row):
         try:
-            party, _ = models.Party.objects.get_or_create(name=row[
+            party, _ = people.Party.objects.get_or_create(name=row[
                 constants.PARTY_NAME_HEADER])
-        except models.Party.MultipleObjectsReturned:
-            shortest = models.Party._meta.get_field('abbreviation').max_length
-            for faction in models.Party.objects.filter(name=row[
+        except people.Party.MultipleObjectsReturned:
+            shortest = people.Party._meta.get_field('abbreviation').max_length
+            for faction in people.Party.objects.filter(name=row[
                     constants.PARTY_NAME_HEADER]):
                 abbreviation_length = len(faction.abbreviation)
                 if abbreviation_length > 0:

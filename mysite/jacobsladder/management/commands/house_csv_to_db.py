@@ -1,6 +1,5 @@
 from django.core.management.base import BaseCommand
-
-from ... import models, aec_codes, base_code, folder_reader
+from ... import models, base_code, folder_reader
 
 
 class Command(BaseCommand, base_code.BaseCode):

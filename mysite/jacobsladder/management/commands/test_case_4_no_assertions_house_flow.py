@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import models, aec_readers
+from ... import models, aec_readers, house
 
 
 class Command(BaseCommand, aec_readers.AECReader):
@@ -9,7 +9,6 @@ class Command(BaseCommand, aec_readers.AECReader):
     YEARS = (2022, 2016, )
     PARTY_ABBREVIATION = 'GRN'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
-    PREF = models.CandidatePreference.objects
 
     help = "Look at these N seats. How do preferences flow from the Libs to " \
            "ALP/Greens in the 2016 election, and how about 2022 (where the " \
@@ -67,7 +66,7 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     @staticmethod
     def get_election(year):
-        election = models.HouseElection.objects.get(
+        election = house.HouseElection.objects.get(
             election_date=datetime(year=year, month=1, day=1))
         print(election)
         print()
@@ -102,7 +101,7 @@ class Command(BaseCommand, aec_readers.AECReader):
                          result, target, trail):
         if (candidate != target) and (candidate not in result):
             result.append(candidate)
-        new_node, node_name = Command.new_dot_node(candidate, election)
+        new_node, node_name = election.new_dot_node(candidate)
         if new_node not in nodes:
             nodes.append(new_node, )
         if last_candidate:
@@ -110,17 +109,6 @@ class Command(BaseCommand, aec_readers.AECReader):
             if new_edge not in edges:
                 edges.append(new_edge)
         return node_name
-
-    @staticmethod
-    def new_dot_node(candidate, election):
-        node_name = str(candidate)
-        try:
-            rep = models.Representation.objects.get(person=candidate.person,
-                                                    election=election)
-        except models.Representation.MultipleObjectsReturned:
-            rep = models.Representation.objects.filter(person=candidate.person,
-                                                       election=election)[0]
-        return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
     @staticmethod
     def trail_search(election, last_round, pref_rounds, seat, target):
@@ -142,35 +130,6 @@ class Command(BaseCommand, aec_readers.AECReader):
                                                  pref_rounds, round_obj, seat)
         while last_pref.source_candidate:
             trail_index -= 1
-            last_pref = Command.add_candidate_source(
-                election, last_pref, pref_rounds, seat, trail, trail_index)
+            last_pref = seat.add_candidate_source(
+                election, last_pref, pref_rounds, trail, trail_index)
         return trail
-
-    @staticmethod
-    def add_candidate_source(election, last_pref, pref_rounds, seat, trail,
-                             trail_index):
-        last_pref, previous = seat.setup_source(election, last_pref,
-                                                pref_rounds, trail_index)
-        proximate = last_pref.votes_received - previous.votes_received
-        trail.append((last_pref.candidate, proximate,
-                      last_pref.round.round_number), )
-        return last_pref
-
-    #@staticmethod
-    #def setup_source(election, last_pref, pref_rounds, seat, trail_index):
-    #    return seat.setup_source(election, last_pref, pref_rounds, trail_index)
-        #return Command.PREF.get(
-        #    election=election, seat=seat, candidate=last_pref.source_candidate,
-        #    round=pref_rounds[trail_index]), Command.PREF.get(
-        #    election=election, seat=seat, candidate=last_pref.source_candidate,
-        #    round=pref_rounds[trail_index-1])
-
-    @staticmethod
-    def setup_trail(election, last_pref, pref_rounds, round_obj, seat):
-        trail_index = round_obj.round_number
-        previous = Command.PREF.get(election=election, seat=seat,
-                                    candidate=last_pref.candidate,
-                                    round=pref_rounds[trail_index-1])
-        trail = [(last_pref.candidate, last_pref.votes_received -
-                  previous.votes_received, last_pref.round.round_number), ]
-        return trail, trail_index

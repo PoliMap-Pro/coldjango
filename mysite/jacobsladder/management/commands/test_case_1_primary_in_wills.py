@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from ... import models
+from ... import models, house
 
 
 class Command(BaseCommand):
@@ -37,7 +37,7 @@ class Command(BaseCommand):
         wills = models.Seat.objects.get(name="Wills", state="vic")
         print(Command.help)
         [Command.check_election(election, wills) for election in
-         models.HouseElection.objects.all().order_by('election_date')]
+         house.HouseElection.objects.all().order_by('election_date')]
 
     @staticmethod
     def check_election(election, seat, print_before_date="Election on ",

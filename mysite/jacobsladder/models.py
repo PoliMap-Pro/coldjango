@@ -2,7 +2,7 @@
 from django.db import models
 #from django.contrib.gis.db import models as gis_models
 from django.db.models import UniqueConstraint
-from . import geography, model_fields, names
+from . import geography, model_fields, names, people, house
 from .abstract_models import Election, Beacon, Crown, Transition, BallotEntry, VoteRecord, Contest, Round, Transfer, \
     Confederation
 
@@ -120,20 +120,6 @@ class Geography(models.Model):
     lon = models.FloatField()
 
 
-class HouseElection(Election):
-    class ElectionType(models.TextChoices):
-        REGULAR = "federal", "Regular"
-        EQUESTRIAN = "equestrian", "Equestrian"
-
-    election_type = models.CharField(max_length=15,
-                                     choices=ElectionType.choices)
-
-    @staticmethod
-    def per(callback, *arguments, **keyword_arguments):
-        for election in HouseElection.objects.all().order_by('election_date'):
-            return callback(*arguments, election=election, **keyword_arguments)
-
-
 class SenateElection(Election):
     state = models.CharField(max_length=9,
                              choices=model_fields.StateName.choices)
@@ -170,7 +156,7 @@ class Lighthouse(Beacon):
 
 class Seat(Beacon):
     name = models.CharField(max_length=63, unique=True)
-    elections = models.ManyToManyField(HouseElection, blank=True)
+    elections = models.ManyToManyField(house.HouseElection, blank=True)
 
     def ordinary_primary(self, election, party_abbreviation):
         """
@@ -178,7 +164,7 @@ class Seat(Beacon):
         Supply a party abbreviation as a string.
         Returns the total ordinary votes for the party in the election.
         """
-        representation = Representation.objects.get(
+        representation = house.Representation.objects.get(
             election=election, party__abbreviation__iexact=party_abbreviation,
             person__candidate__contention__seat=self,
             person__candidate__contention__election=election)
@@ -196,6 +182,15 @@ class Seat(Beacon):
                                                candidate.pk else 0
         return sum([votes for booth in Booth.per(VoteTally.per(primary_votes))(
             self, elect) for votes in booth])
+
+    def add_candidate_source(self, election, last_pref, pref_rounds, trail,
+                             trail_index):
+        last_pref, previous = self.setup_source(election, last_pref,
+                                                pref_rounds, trail_index)
+        proximate = last_pref.votes_received - previous.votes_received
+        trail.append((last_pref.candidate, proximate,
+                      last_pref.round.round_number), )
+        return last_pref
 
     def setup_source(self, election, last_preference, preference_rounds,
                      target_index):
@@ -314,7 +309,7 @@ class Collection(models.Model):
             name='unique_combination_of_booth_election')]
 
     booth = models.ForeignKey(Booth, on_delete=models.CASCADE)
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
+    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.booth} in {self.election} ({self.pk})")
@@ -327,25 +322,12 @@ class BoothChange(Transition):
                                  blank=True, related_name="from_via")
 
 
-class Party(models.Model):
-    class Meta:
-        verbose_name_plural = "Parties"
-        constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
-                                        name='abbreviation_and_name')]
-
-    abbreviation = models.CharField(max_length=15, null=True, blank=True)
-    name = models.CharField(max_length=255)
-    meta_party = models.ForeignKey('MetaParty', null=True, blank=True,
-                                   on_delete=models.SET_NULL)
-    created = models.DateTimeField(auto_now_add=True)
-
-
 class PartyAlias(names.TrackedName):
     class Meta:
         verbose_name_plural = "Party Aliases"
 
-    party = models.ForeignKey(Party, on_delete=models.CASCADE)
-    elections = models.ManyToManyField(HouseElection, blank=True)
+    party = models.ForeignKey(people.Party, on_delete=models.CASCADE)
+    elections = models.ManyToManyField(house.HouseElection, blank=True)
 
 
 class MetaParty(Confederation):
@@ -353,7 +335,7 @@ class MetaParty(Confederation):
 
 
 class HouseAlliance(names.TrackedName):
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
+    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
 
     def __str__(self):
         return str(f"{self.name} at {self.election} ({self.pk})")
@@ -366,51 +348,18 @@ class SenateAlliance(names.TrackedName):
         return str(f"{self.name} at {self.election} ({self.pk})")
 
 
-class PersonCode(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['number', 'person',],
-                                        name='number_and_person')]
-
-    number = models.PositiveIntegerField()
-    person = models.ForeignKey("Person", on_delete=models.CASCADE)
-
-    def __str__(self):
-        return str(f"{self.number} in {self.person} ({self.pk})")
-
-
-class Person(names.TrackedName):
-    other_names = models.CharField(max_length=63, null=True, blank=True)
-    party = models.ManyToManyField(Party, through="Representation")
-
-    def __str__(self):
-        if self.other_names:
-            return f"{str(self.other_names).title()} " \
-                   f"{str(self.name).title()} ({self.pk})"
-        return str(self.name).title()
-
-
-class Representation(models.Model):
-    class Meta:
-        constraints = [UniqueConstraint(fields=['person', 'party', 'election'],
-                                        name='representation_person_party_election')]
-
-    person = models.ForeignKey(Person, on_delete=models.CASCADE)
-    party = models.ForeignKey(Party, on_delete=models.CASCADE)
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
-
-
 class Selection(models.Model):
     class Meta:
         constraints = [UniqueConstraint(fields=['person', 'election'],
                                         name='selection_person_election')]
-    person = models.ForeignKey(Person, on_delete=models.CASCADE)
-    party = models.ForeignKey(Party, on_delete=models.SET_NULL, null=True,
-                              blank=True)
+    person = models.ForeignKey(people.Person, on_delete=models.CASCADE)
+    party = models.ForeignKey(people.Party, on_delete=models.SET_NULL,
+                              null=True, blank=True)
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
 
 class HouseCandidate(models.Model):
-    person = models.OneToOneField(Person, on_delete=models.CASCADE,
+    person = models.OneToOneField(people.Person, on_delete=models.CASCADE,
                                   related_name='candidate')
     seat = models.ManyToManyField(Seat, through="Contention")
 
@@ -456,7 +405,7 @@ class SenateGroup(models.Model):
 
 
 class SenateCandidate(models.Model):
-    person = models.OneToOneField(Person, on_delete=models.CASCADE)
+    person = models.OneToOneField(people.Person, on_delete=models.CASCADE)
     group = models.ForeignKey(SenateGroup, on_delete=models.SET_NULL,
                               null=True, blank=True)
 
@@ -492,7 +441,7 @@ class VoteTally(VoteRecord):
             name='unique_combination_of_booth_election_and_candidate')]
 
     booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True)
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
+    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
     tcp_votes = models.IntegerField(null=True, blank=True)
 
@@ -507,7 +456,7 @@ class VoteTally(VoteRecord):
         Returns the VoteTally for the candidate representing that party in
         that booth in that seat in that election.
         """
-        representation = Representation.objects.get(
+        representation = house.Representation.objects.get(
             election=election, party__abbreviation__iexact=party_abbreviation,
             person__candidate__contention__seat=seat,
             person__candidate__contention__election=election
@@ -581,7 +530,7 @@ class CandidatePreference(Transfer):
             fields=['candidate', 'round', 'seat', 'election'],
             name='unique_combination_of_candidate_round_seat_election')]
 
-    election = models.ForeignKey(HouseElection, on_delete=models.CASCADE,
+    election = models.ForeignKey(house.HouseElection, on_delete=models.CASCADE,
                                  null=True, blank=True)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE,
                              null=True, blank=True)

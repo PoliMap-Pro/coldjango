@@ -1,4 +1,6 @@
 from django.core.management.base import BaseCommand
+
+import mysite.jacobsladder.house
 from ... import models
 
 
@@ -59,7 +61,7 @@ class Command(BaseCommand):
                 'election_date'):
             print(f"Election on {election.election_date}")
             all_lighthouses = election.lighthouse_set.all().order_by('name')
-            house_election = models.HouseElection.objects.get(
+            house_election = mysite.jacobsladder.house.HouseElection.objects.get(
                 election_date=election.election_date)
             all_seats = house_election.seat_set.all().order_by('name')
             both_houses = zip(all_lighthouses, all_seats)
@@ -77,7 +79,7 @@ class Command(BaseCommand):
 
     @staticmethod
     def check_seat(election, seat):
-        representation = models.Representation.objects.get(
+        representation = mysite.jacobsladder.house.Representation.objects.get(
             election=election, party__abbreviation__iexact='GRN',
             person__candidate__contention__seat=seat,
             person__candidate__contention__election=election

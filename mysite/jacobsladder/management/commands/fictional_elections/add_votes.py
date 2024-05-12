@@ -1,5 +1,8 @@
 from datetime import datetime
 from django.core.management.base import BaseCommand
+
+import mysite.jacobsladder.house
+import mysite.jacobsladder.people
 from .... import models
 
 
@@ -11,19 +14,19 @@ class Command(BaseCommand):
         seat2 = models.Seat.objects.get(name="Yossarian")
         twenty_ten = datetime(year=2010, month=1, day=1)
         twenty_thirteen = datetime(year=2013, month=1, day=1)
-        house_election_2010 = models.HouseElection.objects.get(
+        house_election_2010 = mysite.jacobsladder.house.HouseElection.objects.get(
             election_date=twenty_ten)
-        house_election_2013 = models.HouseElection.objects.get(
+        house_election_2013 = mysite.jacobsladder.house.HouseElection.objects.get(
             election_date=twenty_thirteen)
-        guy = models.Person.objects.get(name="Party Hack")
-        other_guy = models.Person.objects.get(name="Dangerous Idealogue")
-        third_guy = models.Person.objects.get(name="Narcissist")
-        fourth_guy = models.Person.objects.get(name="Crypto-Fascist")
-        fifth_guy = models.Person.objects.get(name="Bored Billionaire")
-        sixth_guy = models.Person.objects.get(name="Scandal Magnet")
-        seventh_guy = models.Person(name="Outmaneuvered Idealist")
+        guy = mysite.jacobsladder.people.Person.objects.get(name="Party Hack")
+        other_guy = mysite.jacobsladder.people.Person.objects.get(name="Dangerous Idealogue")
+        third_guy = mysite.jacobsladder.people.Person.objects.get(name="Narcissist")
+        fourth_guy = mysite.jacobsladder.people.Person.objects.get(name="Crypto-Fascist")
+        fifth_guy = mysite.jacobsladder.people.Person.objects.get(name="Bored Billionaire")
+        sixth_guy = mysite.jacobsladder.people.Person.objects.get(name="Scandal Magnet")
+        seventh_guy = mysite.jacobsladder.people.Person(name="Outmaneuvered Idealist")
         seventh_guy.save()
-        eighth_guy = models.Person(name="Rural Blowhard")
+        eighth_guy = mysite.jacobsladder.people.Person(name="Rural Blowhard")
         eighth_guy.save()
         hack = models.HouseCandidate.objects.get(person=guy)
         imp = models.HouseCandidate.objects.get(person=other_guy)

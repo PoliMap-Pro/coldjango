@@ -1,5 +1,7 @@
 from datetime import datetime
 from django.core.management.base import BaseCommand
+
+import mysite.jacobsladder.house
 from ... import model_fields
 from ... import models
 
@@ -10,7 +12,7 @@ class Command(BaseCommand):
 
     def handle(self, *arguments, **keywordarguments):
         twenty_twenty_two = datetime(year=2022, month=1, day=1)
-        house_election_2022 = models.HouseElection.objects.get(
+        house_election_2022 = mysite.jacobsladder.house.HouseElection.objects.get(
             election_date=twenty_twenty_two)
         seat1 = models.Seat.objects.get(name="Aston",
                                         state=model_fields.StateName.VIC)
@@ -25,10 +27,10 @@ class Command(BaseCommand):
 
     @staticmethod
     def show_candidate_if_major(election, seat, booth, vote_tally):
-        if models.Representation.objects.filter(
+        if mysite.jacobsladder.house.Representation.objects.filter(
                 person=vote_tally.candidate.person,
                 election=election).exists():
-            abbreviation = models.Representation.objects.get(
+            abbreviation = mysite.jacobsladder.house.Representation.objects.get(
                 person=vote_tally.candidate.person,
                 election=election).party.abbreviation
             if abbreviation in ('ALP', 'GRN', 'LP', ):
