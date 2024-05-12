@@ -22,6 +22,7 @@ class Command(BaseCommand):
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
         print(Command.TARGET)
+        print()
         twenty_twenty_two = house.HouseElection.objects.get(
             election_date=datetime(year=2022, month=1, day=1))
         result = set()
@@ -41,5 +42,6 @@ class Command(BaseCommand):
                             result.add(seat.name)
                             print(f"In {seat} {party.name} polled "
                                   f"{proportion * 100.0}%")
+                            break
         assert result == Command.TARGET
 
