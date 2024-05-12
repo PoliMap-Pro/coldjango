@@ -78,21 +78,29 @@ class Command(BaseCommand):
         print()
         last_five = house.HouseElection.objects.all().order_by(
             '-election_date__year')[:5]
-        for election in last_five:
-            print(election)
-            print()
-            totals = [(contention.seat.candidate_for(
-                contention.candidate, election), contention.seat) for
-                contention in election.get_contentions('GRN')]
-            totals.sort(key=itemgetter(0))
-            totals.reverse()
-            top_ten = totals[:10]
-            for total, seat in top_ten:
-                if election.election_date.year <= last_year_in_target:
-                    assert (seat.name, election.election_date.year, total) in \
-                           Command.TARGET
-                print(seat, total)
-            print()
+        [Command.check_election(election, last_year_in_target) for election in
+         last_five]
+
+    @staticmethod
+    def check_election(election, last_year_in_target):
+        top_ten = Command.setup_election(election)
+        for total, seat in top_ten:
+            if election.election_date.year <= last_year_in_target:
+                assert (seat.name, election.election_date.year, total) in \
+                       Command.TARGET
+            print(seat, total)
+        print()
+
+    @staticmethod
+    def setup_election(election):
+        print(election)
+        print()
+        totals = [(contention.seat.candidate_for(
+            contention.candidate, election), contention.seat) for
+            contention in election.get_contentions('GRN')]
+        totals.sort(key=itemgetter(0))
+        totals.reverse()
+        return totals[:10]
 
 
 
