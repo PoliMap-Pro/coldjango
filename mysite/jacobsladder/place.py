@@ -1,6 +1,6 @@
 from django.db import models
 from django.db.models import UniqueConstraint
-from . import abstract_models, house, geography, service
+from . import abstract_models, house, geography, service, section
 
 
 class SeatCode(models.Model):
@@ -43,6 +43,15 @@ class Seat(abstract_models.Beacon):
                                                candidate.pk else 0
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             primary_votes))(self, elect) for votes in booth])
+
+    def update_seat_result(self, election, representation, seat_result, total):
+        if service.Contention.objects.filter(
+                election=election, seat=self,
+                candidate=representation.person.candidate).exists():
+            votes = self.candidate_for(representation.person.candidate,
+                                       election)
+            seat_result[str(representation.party)] = {
+                'votes': votes, 'percent': 100.0 * votes / total}
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):

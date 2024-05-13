@@ -1,10 +1,9 @@
 from django.db import models
 from django.db.models import UniqueConstraint
-from . import names
-from .abstract_models import Confederation
+from . import names, abstract_models, section
 
 
-class Party(models.Model):
+class Party(section.Part):
     class Meta:
         verbose_name_plural = "Parties"
         constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
@@ -15,6 +14,9 @@ class Party(models.Model):
     meta_party = models.ForeignKey('MetaParty', null=True, blank=True,
                                    on_delete=models.SET_NULL)
     created = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.name} ({self.pk})"
 
 
 class PersonCode(models.Model):
@@ -40,5 +42,5 @@ class Person(names.TrackedName):
         return str(self.name).title()
 
 
-class MetaParty(Confederation):
+class MetaParty(abstract_models.Club):
     pass

@@ -1,7 +1,8 @@
 from django.db import models
+from . import section
 
 
-class Pin(models.Model):
+class Pin(section.Part):
     class Meta:
         abstract = True
 

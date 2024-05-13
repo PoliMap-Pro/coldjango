@@ -1,8 +1,8 @@
 from django.db import models
-from . import geography, model_fields, names
+from . import geography, model_fields, names, section
 
 
-class Election(models.Model):
+class Election(section.Part):
     class Meta:
         abstract = True
 
@@ -10,7 +10,8 @@ class Election(models.Model):
     created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f"{self.__class__.__name__} on {self.election_date} ({self.pk})"
+        return f"{self.__class__.__name__} in " \
+               f"{self.election_date.year} ({self.pk})"
 
 
 class Beacon(geography.Pin):
@@ -44,7 +45,7 @@ class BallotEntry(Crown):
     ballot_position = models.PositiveSmallIntegerField(default=0)
 
 
-class Confederation(names.TrackedName):
+class Club(names.TrackedName):
     class Meta:
         abstract = True
 

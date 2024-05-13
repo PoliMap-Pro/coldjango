@@ -36,6 +36,13 @@ class HouseElection(abstract_models.Election):
                                                 election=self)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
+    def update_election_result(self, election_result, representation_set, seat):
+        seat_result = {}
+        total = seat.total_primary_votes(self)
+        [seat.update_seat_result(self, representation, seat_result, total) for
+         representation in representation_set]
+        election_result[str(seat)] = seat_result
+
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
         for election in HouseElection.objects.all().order_by('election_date'):
