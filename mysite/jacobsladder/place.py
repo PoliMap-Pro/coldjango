@@ -44,14 +44,13 @@ class Seat(abstract_models.Beacon):
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             primary_votes))(self, elect) for votes in booth])
 
-    def update_seat_result(self, election, representation, seat_result, total):
+    def update_place_result(self, election, representation, result, total):
         if service.Contention.objects.filter(
                 election=election, seat=self,
                 candidate=representation.person.candidate).exists():
             votes = self.candidate_for(representation.person.candidate,
                                        election)
-            seat_result[str(representation.party)] = {
-                'votes': votes, 'percent': 100.0 * votes / total}
+            Seat.update_result(result, representation, votes, total)
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):
@@ -108,6 +107,15 @@ class Booth(geography.Pin):
 
     name = models.CharField(max_length=63, null=True, blank=True)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
+
+    def update_place_result(self, election, representation, result, total):
+        candidate = representation.person.candidate
+        if service.Contention.objects.filter(election=election, seat=self.seat,
+                                             candidate=candidate).exists():
+            tally = house.VoteTally.objects.get(booth=self, election=election,
+                                        candidate=candidate)
+            votes = tally.primary_votes
+            Booth.update_result(result, representation, votes, total)
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
