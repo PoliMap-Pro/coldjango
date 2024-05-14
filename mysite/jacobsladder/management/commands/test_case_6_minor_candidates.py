@@ -27,7 +27,7 @@ class Command(BaseCommand):
             election_date=datetime(year=2022, month=1, day=1))
         result = []
         for seat in place.Seat.objects.all():
-            total = seat.total_primary_votes(twenty_twenty_two)
+            total = seat.total_attribute(twenty_twenty_two)
             for contention in service.Contention.objects.filter(
                     election=twenty_twenty_two, seat=seat):
                 party = service.Representation.objects.get(

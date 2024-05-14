@@ -20,6 +20,18 @@ class HouseElection(abstract_models.Election):
             representation in Representation.objects.filter(
                 election=self, party__abbreviation=party_abbreviation)]
 
+    def result_by_place(self, party_set, place_set, places, result,
+                        tally_attribute):
+        election_result = {}
+        if not place_set:
+            place_set = Booth.get_set(self, places)
+        representation_set = Representation.objects.filter(election=self,
+                                                           party__in=party_set)
+        [self.update_election_result(
+            election_result, representation_set, seat, tally_attribute)
+         for seat in place_set]
+        result[str(self)] = election_result
+
     def new_dot_node(self, candidate):
         """
         Supply a HouseCandidate.
@@ -37,10 +49,11 @@ class HouseElection(abstract_models.Election):
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
     def update_election_result(self, election_result, representation_set,
-                               place):
+                               place, tally_attribute):
         result = {}
-        total = place.total_primary_votes(self)
-        [place.update_place_result(self, representation, result, total) for
+        total = place.total_attribute(self, tally_attribute)
+        [place.update_place_result(
+            self, representation, result, total, tally_attribute) for
          representation in representation_set]
         election_result[str(place)] = result
 

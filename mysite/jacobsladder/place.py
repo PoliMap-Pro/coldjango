@@ -31,25 +31,30 @@ class Seat(abstract_models.Beacon):
             person__candidate__contention__election=election)
         return self.candidate_for(representation.person.candidate, election)
 
-    def total_primary_votes(self, elect):
+    def total_attribute(self, elect, tally_attribute, default=0):
         def return_candidate(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes
+            result = getattr(vote_tally, tally_attribute)
+            if result:
+                return result
+            return default
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             return_candidate))(self, elect) for votes in booth])
 
-    def candidate_for(self, candidate, elect):
-        def primary_votes(election, seat, booth, vote_tally):
-            return vote_tally.primary_votes if vote_tally.candidate.pk == \
-                                               candidate.pk else 0
+    def candidate_for(self, candidate, elect, tally_attribute='primary_votes',
+                      default=0):
+        def attribute_or_zero(election, seat, booth, vote_tally):
+            return getattr(vote_tally, tally_attribute) or default if \
+                vote_tally.candidate.pk == candidate.pk else 0
         return sum([votes for booth in Booth.per(house.VoteTally.per(
-            primary_votes))(self, elect) for votes in booth])
+            attribute_or_zero))(self, elect) for votes in booth])
 
-    def update_place_result(self, election, representation, result, total):
+    def update_place_result(self, election, representation, result, total,
+                            tally_attribute):
         if service.Contention.objects.filter(
                 election=election, seat=self,
                 candidate=representation.person.candidate).exists():
             votes = self.candidate_for(representation.person.candidate,
-                                       election)
+                                       election, tally_attribute)
             Seat.update_result(result, representation, votes, total)
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
@@ -116,29 +121,32 @@ class Booth(geography.Pin):
 
         if selector:
             if isinstance(selector, dict):
+                #
                 # SLOW VERSION:
                 # return [booth for booth in cls.objects.filter(**selector) if
                 #         service.Collection.objects.filter(
                 #             election=election, booth=booth).exists()]
                 #
-                # FAST VERSION:
+
                 selector['collection__election'] = election
                 return cls.objects.filter(**selector)
             return selector
         return cls.objects.all()
 
-    def update_place_result(self, election, representation, result, total):
+    def update_place_result(self, election, representation, result, total,
+                            tally_attribute, default=0):
         candidate = representation.person.candidate
         if service.Contention.objects.filter(election=election, seat=self.seat,
                                              candidate=candidate).exists():
             tally = house.VoteTally.objects.get(booth=self, election=election,
                                                 candidate=candidate)
-            votes = tally.primary_votes
+            votes = getattr(tally, tally_attribute) or default
             Booth.update_result(result, representation, votes, total)
 
-    def total_primary_votes(self, elect):
-        return sum([vote_tally.primary_votes for vote_tally in
-                    house.VoteTally.objects.filter(booth=self, election=elect)])
+    def total_attribute(self, elect, tally_attribute, default=0):
+        return sum([getattr(vote_tally, tally_attribute) or default for
+                    vote_tally in house.VoteTally.objects.filter(
+                booth=self, election=elect)])
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):

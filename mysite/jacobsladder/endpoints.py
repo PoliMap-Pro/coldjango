@@ -2,20 +2,19 @@ import json
 from . import house, people, place, service
 
 
-def getHousePrimaryVote(elections=None, parties=None, places=None, seats=True):
+def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
+                      tally_attribute='primary_votes'):
     party_set = people.Party.get_set(parties)
     place_set = place.Seat.get_set(places) if seats else None
     result = {}
-    for election in house.HouseElection.get_set(elections):
-        election_result = {}
-        if not place_set:
-            place_set = place.Booth.get_set(election, places)
-        representation_set = service.Representation.objects.filter(
-            election=election, party__in=party_set)
-        [election.update_election_result(election_result, representation_set,
-                                         seat) for seat in place_set]
-        result[str(election)] = election_result
+    [election.result_by_place(
+        party_set, place_set, places, result, tally_attribute) for
+     election in house.HouseElection.get_set(elections)]
     return json.dumps(result)
+
+
+def getHousePrimaryVote(elections=None, parties=None, places=None, seats=True):
+    return getHouseAttribute(elections, parties, places, seats)
 
 
 def getHousePrimaryVoteBySeat(elections=None, parties=None, places=None):
@@ -24,6 +23,16 @@ def getHousePrimaryVoteBySeat(elections=None, parties=None, places=None):
 
 def getHousePrimaryVoteByBooth(elections=None, parties=None, places=None):
     return getHousePrimaryVote(elections, parties, places, False)
+
+
+def getHouseTwoPartyPreferred(elections=None, parties=None, places=None,
+                              seats=True):
+    return getHouseAttribute(elections, parties, places, seats, 'tcp_votes')
+
+
+def getHouseGeneralPartyPreferred(elections=None, places=None, seats=True,
+                                  how_many=3):
+    pass
 
 
 
