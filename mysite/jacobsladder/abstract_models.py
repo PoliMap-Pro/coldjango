@@ -13,6 +13,10 @@ class Election(section.Part):
         return f"{self.__class__.__name__} in " \
                f"{self.election_date.year} ({self.pk})"
 
+    @staticmethod
+    def by_votes(pair):
+        return -pair[1]['votes']
+
 
 class Beacon(geography.Pin):
     class Meta:

@@ -12,7 +12,5 @@ class Pin(section.Part):
 
     @staticmethod
     def update_result(result, representation, votes, total):
-        #print(str(representation.party),  {
-        #    'votes': votes, 'percent': 100.0 * votes / total})
         result[str(representation.party)] = {
             'votes': votes, 'percent': 100.0 * votes / total}

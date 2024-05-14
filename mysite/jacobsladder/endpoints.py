@@ -4,9 +4,7 @@ from . import house, people, place, service
 
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
                       tally_attribute='primary_votes'):
-    party_set = people.Party.get_set(parties)
-    place_set = place.Seat.get_set(places) if seats else None
-    result = {}
+    party_set, place_set, result = _setupHouseAttribute(parties, places, seats)
     [election.result_by_place(
         party_set, place_set, places, result, tally_attribute) for
      election in house.HouseElection.get_set(elections)]
@@ -31,8 +29,17 @@ def getHouseTwoPartyPreferred(elections=None, parties=None, places=None,
 
 
 def getHouseGeneralPartyPreferred(elections=None, places=None, seats=True,
-                                  how_many=3):
-    pass
+                                  how_many=3, tally_attribute='primary_votes'):
+    party_set, place_set, result = _setupHouseAttribute(None, places, seats)
+    [election.highest_by_votes(
+        how_many, place_set, places, result, tally_attribute) for election in
+        house.HouseElection.get_set(elections)]
+    return json.dumps(result)
+
+
+def _setupHouseAttribute(parties, places, seats):
+    return people.Party.get_set(parties), place.Seat.get_set(
+        places) if seats else None, {}
 
 
 

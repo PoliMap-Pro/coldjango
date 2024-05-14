@@ -33,3 +33,8 @@ class Command(BaseCommand):
             {'abbreviation__in': ('GRN', 'ALP', 'LP')},
             {'name': 'Chisholm', 'seat__name': 'Bean'},
             False))
+        print()
+        print(endpoints.getHouseGeneralPartyPreferred(
+            {'election_date__year__in': (2022, 2016, 2010)},
+            {'name': 'Aston'},
+            how_many=3))

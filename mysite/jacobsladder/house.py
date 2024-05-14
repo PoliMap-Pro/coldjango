@@ -9,7 +9,7 @@ from .service import Representation, Contention
 class HouseElection(abstract_models.Election):
     class ElectionType(models.TextChoices):
         REGULAR = "federal", "Regular"
-        BYELECTION = "equestrian", "Equestrian"
+        BY_ELECTION = "by-election", "By-Election"
 
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)
@@ -22,15 +22,19 @@ class HouseElection(abstract_models.Election):
 
     def result_by_place(self, party_set, place_set, places, result,
                         tally_attribute):
+        election_result, place_set = self.booths_for_election(place_set, places)
+        representation_set = Representation.objects.filter(
+            election=self, party__in=party_set)
+        [self.update_election_result(
+            election_result, representation_set, place, tally_attribute)
+         for place in place_set]
+        result[str(self)] = election_result
+
+    def booths_for_election(self, place_set, places):
         election_result = {}
         if not place_set:
             place_set = Booth.get_set(self, places)
-        representation_set = Representation.objects.filter(election=self,
-                                                           party__in=party_set)
-        [self.update_election_result(
-            election_result, representation_set, seat, tally_attribute)
-         for seat in place_set]
-        result[str(self)] = election_result
+        return election_result, place_set
 
     def new_dot_node(self, candidate):
         """
@@ -50,12 +54,33 @@ class HouseElection(abstract_models.Election):
 
     def update_election_result(self, election_result, representation_set,
                                place, tally_attribute):
+        election_result[str(place)] = self.election_place_result(
+            place, representation_set, tally_attribute)
+
+    def results_highest_by_votes(self, election_result, how_many, location,
+                                 representation_set, tally_attribute):
+        all_parties = self.election_place_result(
+            location, representation_set, tally_attribute)
+        pairs = list(all_parties.items())
+        pairs.sort(key=abstract_models.Election.by_votes)
+        election_result[str(location)] = dict(pairs[:how_many])
+
+    def election_place_result(self, place, representation_set, tally_attribute):
         result = {}
         total = place.total_attribute(self, tally_attribute)
         [place.update_place_result(
             self, representation, result, total, tally_attribute) for
-         representation in representation_set]
-        election_result[str(place)] = result
+            representation in representation_set]
+        return result
+
+    def highest_by_votes(self, how_many, place_set, places, result,
+                         tally_attribute):
+        election_result, place_set = self.booths_for_election(place_set, places)
+        representation_set = Representation.objects.filter(election=self)
+        [self.results_highest_by_votes(
+            election_result, how_many, location, representation_set,
+            tally_attribute) for location in place_set]
+        result[str(self)] = election_result
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
