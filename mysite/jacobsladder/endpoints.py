@@ -4,11 +4,12 @@ from . import house, people, place, service
 
 def getHousePrimaryVote(elections=None, parties=None, places=None, seats=True):
     party_set = people.Party.get_set(parties)
-    place_set = place.Seat.get_set(places) if seats else place.Booth.get_set(
-        places)
+    place_set = place.Seat.get_set(places) if seats else None
     result = {}
     for election in house.HouseElection.get_set(elections):
         election_result = {}
+        if not place_set:
+            place_set = place.Booth.get_set(election, places)
         representation_set = service.Representation.objects.filter(
             election=election, party__in=party_set)
         [election.update_election_result(election_result, representation_set,

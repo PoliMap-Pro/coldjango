@@ -12,6 +12,13 @@ class Command(BaseCommand):
             {'name': 'Aston'}))
         print()
         print(endpoints.getHousePrimaryVote(
-            {'election_date__year__in': (2019, 2013, 2007)},
-            {'abbreviation__in': ('IND', 'UAPP')},
-            {'name__in': ('Chisholm', 'Greenvale South')}))
+            {'election_date__year': 2022},
+            {'abbreviation': 'ALP'},
+            {'name': 'Chisholm', 'seat__name': 'Bean'},
+            False))
+        print()
+        print(endpoints.getHousePrimaryVote(
+            {'election_date__year': 2022},
+            {'abbreviation': 'ALP'},
+            {'name': 'Chisholm',},
+            False))

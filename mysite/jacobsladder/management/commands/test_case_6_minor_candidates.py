@@ -9,7 +9,7 @@ class Command(BaseCommand):
            "Adds up the results from the booths and asserts that the seats " \
            "where the total exceeds 10% are:\n"
 
-    EXCLUDED_PARTIES = ('GRN', 'ALP', 'LP', 'LNP', )
+    EXCLUDED_PARTIES = ('GRN', 'ALP', 'LP', 'LNP', 'NP' )
     TARGET = ('Bradfield', 'Calare', 'Capricornia', 'Clark', 'Cowper',
               'Curtin', 'Dawson', 'Fly', 'Fowler', 'Gippsland', 'Goldstein',
               'Grey', 'Hinkler', 'Hughes', 'Hume', 'Hunter', 'Indi', 'Kennedy',

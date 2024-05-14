@@ -9,7 +9,7 @@ from .service import Representation, Contention
 class HouseElection(abstract_models.Election):
     class ElectionType(models.TextChoices):
         REGULAR = "federal", "Regular"
-        EQUESTRIAN = "equestrian", "Equestrian"
+        BYELECTION = "equestrian", "Equestrian"
 
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)

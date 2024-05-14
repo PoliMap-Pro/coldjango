@@ -19,7 +19,7 @@ class Command(BaseCommand):
         print(f"\tSeat of {seat.name}")
         for booth in seat.booth_set.all():
             print(f"\t\t{booth}")
-            mysite.jacobsladder.house.VoteTally.per(Command.show_candidate)(
+            house.VoteTally.per(Command.show_candidate)(
                 booth, seat=seat, election=election)
         print()
 

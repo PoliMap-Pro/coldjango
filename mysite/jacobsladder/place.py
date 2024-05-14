@@ -108,14 +108,37 @@ class Booth(geography.Pin):
     name = models.CharField(max_length=63, null=True, blank=True)
     seat = models.ForeignKey(Seat, on_delete=models.CASCADE)
 
+    @classmethod
+    def get_set(cls, election, selector):
+        """
+        Overrides section.Part.get_set()
+        """
+
+        if selector:
+            if isinstance(selector, dict):
+                # SLOW VERSION:
+                # return [booth for booth in cls.objects.filter(**selector) if
+                #         service.Collection.objects.filter(
+                #             election=election, booth=booth).exists()]
+                #
+                # FAST VERSION:
+                selector['collection__election'] = election
+                return cls.objects.filter(**selector)
+            return selector
+        return cls.objects.all()
+
     def update_place_result(self, election, representation, result, total):
         candidate = representation.person.candidate
         if service.Contention.objects.filter(election=election, seat=self.seat,
                                              candidate=candidate).exists():
             tally = house.VoteTally.objects.get(booth=self, election=election,
-                                        candidate=candidate)
+                                                candidate=candidate)
             votes = tally.primary_votes
             Booth.update_result(result, representation, votes, total)
+
+    def total_primary_votes(self, elect):
+        return sum([vote_tally.primary_votes for vote_tally in
+                    house.VoteTally.objects.filter(booth=self, election=elect)])
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -129,7 +152,8 @@ class Booth(geography.Pin):
 
     def __str__(self):
         if self.name:
-            return f"{self.__class__.__name__} {self.name} ({self.pk})"
+            return f"{self.__class__.__name__} {self.name} in " \
+                   f"{self.seat} ({self.pk})"
         return f"{self.__class__.__name__} #{self.pk}"
 
 
