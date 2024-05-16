@@ -5,8 +5,9 @@ from . import csv_to_db, place, service, constants, folder_reader, people, house
 
 class BaseCode(csv_to_db.ElectionReader):
     def setup(self, booths_directory, house_election, seats_directory,
-              two_candidate_preferred_directory):
+              two_candidate_preferred_directory, types_directory):
         self.add_seats(house_election, seats_directory)
+        self.add_types(house_election, types_directory)
         self.add_booths(booths_directory, house_election)
         self.add_votes(house_election, two_candidate_preferred_directory)
 
@@ -14,6 +15,13 @@ class BaseCode(csv_to_db.ElectionReader):
                    single_create_method='add_one_booth',
                    text_to_print="Reading files in booths directory",
                    quiet=False):
+        self.map_report_with_blank_line(directory, election, quiet,
+                                        single_create_method, text_to_print)
+
+    def add_types(self, directory, election,
+                  single_create_method='add_one_type',
+                  text_to_print="Reading files in types directory",
+                  quiet=False):
         self.map_report_with_blank_line(directory, election, quiet,
                                         single_create_method, text_to_print)
 
@@ -55,6 +63,23 @@ class BaseCode(csv_to_db.ElectionReader):
         return booth, seat
 
     @staticmethod
+    def add_one_type(house_election, row, code_objects=place.SeatCode.objects):
+        seat = BaseCode.fetch_by_aec_code(
+            BaseCode.get_standard_beacon_attributes(row), place.Seat.objects,
+            code_objects, 'seat', int(row[BaseCode.SEAT_CODE_HEADER]))
+        candidate, party, person = BaseCode.fetch_candidate(
+            house_election, row, seat)
+        vote_tally, _ = house.VoteTally.objects.get_or_create(
+            bypass=seat, election=house_election, candidate=candidate,
+            absent_votes=int(row[constants.ABSENT_HEADER]),
+            provisional_votes=int(row[constants.PROVISIONAL_HEADER]),
+            declaration_pre_poll_votes=int(row[constants.DECLARATION_HEADER]),
+            postal_votes=int(row[constants.POSTAL_HEADER]),
+            aec_ordinary=int(row[BaseCode.ORDINARY_VOTES_HEADER]),
+            aec_total=int(row[constants.TOTAL_HEADER]),
+            aec_swing=int(row[constants.SWING_HEADER]),)
+
+    @staticmethod
     def set_ballot_position(candidate, house_election, party, person, row,
                             seat):
         representation, _ = service.Representation.objects.get_or_create(
@@ -82,5 +107,5 @@ class BaseCode(csv_to_db.ElectionReader):
             house_election, os.path.join(
             folder, constants.HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE), \
             os.path.join(folder, constants.SEATS_DIRECTORY_RELATIVE), \
-            os.path.join(folder,
-                         constants.TWO_CANDIDATE_PREFERRED_DIRECTORY_RELATIVE)
+            os.path.join(folder, constants.TWO_CANDIDATE_DIRECTORY_RELATIVE), \
+            os.path.join(folder, constants.TYPES_DIRECTORY_RELATIVE)

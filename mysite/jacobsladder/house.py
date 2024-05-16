@@ -97,17 +97,27 @@ class HouseCandidate(models.Model):
         return str(self.person)
 
 
-class VoteTally(VoteRecord):
+class VoteTally(models.Model):
     class Meta:
         verbose_name_plural = "Vote Tallies"
         constraints = [UniqueConstraint(
-            fields=['booth', 'election', 'candidate', ],
-            name='unique_combination_of_booth_election_and_candidate')]
+            fields=['booth', 'bypass', 'election', 'candidate', ],
+            name='booth_bypass_election_candidate')]
 
     booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True)
+    bypass = models.ForeignKey(Seat, on_delete=models.CASCADE, null=True)
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(HouseCandidate, on_delete=models.CASCADE)
     tcp_votes = models.IntegerField(null=True, blank=True)
+    primary_votes = models.IntegerField(null=True, blank=True)
+    absent_votes = models.PositiveIntegerField(default=0)
+    provisional_votes = models.PositiveIntegerField(default=0)
+    declaration_pre_poll_votes = models.PositiveIntegerField(default=0)
+    postal_votes = models.PositiveIntegerField(default=0)
+    aec_ordinary = models.PositiveIntegerField(default=0)
+    aec_total = models.PositiveIntegerField(default=0)
+    aec_swing = models.DecimalField(max_digits=8, decimal_places=4, default=0)
+    created = models.DateTimeField(auto_now_add=True)
 
     @staticmethod
     def via_representation(election, party_abbreviation, seat, booth,

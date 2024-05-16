@@ -33,10 +33,8 @@ class Seat(abstract_models.Beacon):
 
     def total_attribute(self, elect, tally_attribute, default=0):
         def return_candidate(election, seat, booth, vote_tally):
-            result = getattr(vote_tally, tally_attribute)
-            if result:
-                return result
-            return default
+            return getattr(vote_tally, tally_attribute) or default if \
+                vote_tally.candidate.person.name.lower() != 'informal' else 0
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             return_candidate))(self, elect) for votes in booth])
 

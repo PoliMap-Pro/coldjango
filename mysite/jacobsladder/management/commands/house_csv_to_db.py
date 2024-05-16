@@ -8,10 +8,10 @@ class Command(BaseCommand, base_code.BaseCode):
 
     def __call__(self, election_year, folder, pref_objects, round_objects):
         booths_directory, house_election, preference_distribution_directory, \
-            seats_directory, two_candidate_preferred_directory = \
-            self.start_election(election_year, folder)
+            seats_directory, two_candidate_preferred_directory, \
+            types_directory = self.start_election(election_year, folder)
         self.setup(booths_directory, house_election, seats_directory,
-                   two_candidate_preferred_directory)
+                   two_candidate_preferred_directory, types_directory)
         self.first_pass_preferences(house_election, pref_objects,
                                     preference_distribution_directory,
                                     round_objects)
