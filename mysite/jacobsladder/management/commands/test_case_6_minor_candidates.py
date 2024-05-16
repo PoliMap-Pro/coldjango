@@ -11,13 +11,12 @@ class Command(BaseCommand):
 
     EXCLUDED_PARTIES = ('GRN', 'ALP', 'LP', 'LNP', 'NP' )
     TARGET = ('Bradfield', 'Calare', 'Capricornia', 'Clark', 'Cowper',
-              'Curtin', 'Dawson', 'Fly', 'Fowler', 'Gippsland', 'Goldstein',
-              'Grey', 'Hinkler', 'Hughes', 'Hume', 'Hunter', 'Indi', 'Kennedy',
-              'Kooyong', 'Lingiari', 'Lyne', 'Lyons', 'Mackellar', 'Mallee',
-              'Maranoa', 'Mayo', 'Monash', 'New England', 'Nicholls',
-              'North Sydney', 'Page', 'Parkes', 'Richmond', 'Riverina',
-              'Solomon', 'Spence', 'Wannon', 'Warringah', 'Wentworth',
-              'Wright', )
+              'Curtin', 'Dawson', 'Flynn', 'Fowler', 'Goldstein', 'Grey',
+              'Hinkler', 'Holt', 'Hughes', 'Hume', 'Indi', 'Kennedy',
+              'Kooyong', 'Lingiari', 'Lyons', 'Mackellar', 'Mallee',
+              'Maranoa', 'Mayo', 'Monash', 'Nicholls', 'North Sydney',
+              'Page', 'Solomon', 'Spence', 'Wannon', 'Warringah',
+              'Wentworth', 'Wide Bay', 'Wright')
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
@@ -43,6 +42,7 @@ class Command(BaseCommand):
                             print(f"In {seat} {party.name} polled "
                                   f"{proportion * 100.0}%")
                             break
+        result.sort()
         for entry in result:
             assert entry in Command.TARGET
         for entry in Command.TARGET:
