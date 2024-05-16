@@ -18,7 +18,7 @@ class BaseCode(csv_to_db.ElectionReader):
         self.map_report_with_blank_line(directory, election, quiet,
                                         single_create_method, text_to_print)
 
-    def add_types(self, directory, election,
+    def add_types(self, election, directory,
                   single_create_method='add_one_type',
                   text_to_print="Reading files in types directory",
                   quiet=False):
@@ -77,7 +77,7 @@ class BaseCode(csv_to_db.ElectionReader):
             postal_votes=int(row[constants.POSTAL_HEADER]),
             aec_ordinary=int(row[BaseCode.ORDINARY_VOTES_HEADER]),
             aec_total=int(row[constants.TOTAL_HEADER]),
-            aec_swing=int(row[constants.SWING_HEADER]),)
+            aec_swing=row[constants.SWING_HEADER],)
 
     @staticmethod
     def set_ballot_position(candidate, house_election, party, person, row,

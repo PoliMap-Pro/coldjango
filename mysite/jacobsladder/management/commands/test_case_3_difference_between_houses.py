@@ -83,7 +83,7 @@ class Command(BaseCommand):
             person__candidate__contention__election=election
         )
         result = seat.candidate_for(representation.person.candidate, election)
-        key = seat.name, election.election_year.year
+        key = seat.name, election.election_date.year
         if key in Command.HOUSE_RESULTS:
             assert Command.HOUSE_RESULTS[key] == result
         print('House', result)

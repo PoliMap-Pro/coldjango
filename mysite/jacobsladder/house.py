@@ -7,6 +7,8 @@ from .service import Representation, Contention
 
 
 class HouseElection(abstract_models.Election):
+    BYPASSES = {'primary_votes': 'aec_total'}
+
     class ElectionType(models.TextChoices):
         REGULAR = "federal", "Regular"
         BY_ELECTION = "by-election", "By-Election"
@@ -21,13 +23,15 @@ class HouseElection(abstract_models.Election):
                 election=self, party__abbreviation=party_abbreviation)]
 
     def result_by_place(self, party_set, place_set, places, result,
-                        tally_attribute):
-        election_result, place_set = self.booths_for_election(place_set, places)
-        representation_set = Representation.objects.filter(
-            election=self, party__in=party_set)
+                        tally_attribute, sum_booths=False):
+        representation_set = Representation.objects.filter(election=self,
+                                                           party__in=party_set)
+        election_result = {}
+        if not place_set:
+            place_set = Booth.get_set(self, places)
         [self.update_election_result(
-            election_result, representation_set, place, tally_attribute)
-         for place in place_set]
+            election_result, representation_set, place, tally_attribute,
+            sum_booths) for place in place_set]
         result[str(self)] = election_result
 
     def booths_for_election(self, place_set, places):
@@ -53,34 +57,51 @@ class HouseElection(abstract_models.Election):
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
     def update_election_result(self, election_result, representation_set,
-                               place, tally_attribute):
+                               place, tally_attribute, sum_booths=False):
         election_result[str(place)] = self.election_place_result(
-            place, representation_set, tally_attribute)
+            place, representation_set, tally_attribute, sum_booths)
 
     def results_highest_by_votes(self, election_result, how_many, location,
-                                 representation_set, tally_attribute):
+                                 representation_set, tally_attribute,
+                                 sum_booths=False):
         all_parties = self.election_place_result(
-            location, representation_set, tally_attribute)
+            location, representation_set, tally_attribute, sum_booths)
         pairs = list(all_parties.items())
         pairs.sort(key=abstract_models.Election.by_votes)
         election_result[str(location)] = dict(pairs[:how_many])
 
-    def election_place_result(self, place, representation_set, tally_attribute):
+    def election_place_result(self, place, representation_set, tally_attribute,
+                              sum_booths=False):
         result = {}
-        total = place.total_attribute(self, tally_attribute)
+        total = self.fetch_total(place, sum_booths, tally_attribute)
         [place.update_place_result(
             self, representation, result, total, tally_attribute) for
-            representation in representation_set]
+            representation in representation_set if
+            representation.person.name.lower() != 'informal']
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
-                         tally_attribute):
+                         tally_attribute, sum_booths=False):
         election_result, place_set = self.booths_for_election(place_set, places)
         representation_set = Representation.objects.filter(election=self)
         [self.results_highest_by_votes(
             election_result, how_many, location, representation_set,
-            tally_attribute) for location in place_set]
+            tally_attribute, sum_booths) for location in place_set]
         result[str(self)] = election_result
+
+    def fetch_total(self, place, sum_booths, tally_attribute):
+        if sum_booths or isinstance(place, Booth):
+            return place.total_attribute(self, tally_attribute)
+        total = 0
+        for vote_tally in VoteTally.objects.filter(
+                election=self, bypass=place):
+            change = getattr(vote_tally, tally_attribute)
+            if change and (change > 0):
+                total += change
+            else:
+                total += getattr(vote_tally, HouseElection.BYPASSES[
+                    tally_attribute]) or 0
+        return total
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -158,8 +179,9 @@ class VoteTally(models.Model):
         return wrapper
 
     def __str__(self):
-        return str(f"{self.primary_votes} for {self.candidate} "
-                   f"at {self.booth} in {self.election} ({self.pk})")
+        return str(f"{self.primary_votes or self.aec_total} for "
+                   f"{self.candidate} at {self.booth or self.bypass} in "
+                   f"{self.election} ({self.pk})")
 
 
 class PreferenceRound(Crown, Round):
