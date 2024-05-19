@@ -1,6 +1,7 @@
 from django.core.management.base import BaseCommand
 from ... import endpoints
 
+
 class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
