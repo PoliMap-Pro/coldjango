@@ -1,7 +1,6 @@
 from django.core.management.base import BaseCommand
 from ... import endpoints
 
-
 class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
@@ -38,3 +37,30 @@ class Command(BaseCommand):
             {'election_date__year__in': (2022, 2016, 2010)},
             {'name': 'Aston'},
             how_many=3))
+
+        print(endpoints.getMetaParties())
+        print()
+        endpoints.addMetaParties(
+            Libnat={'abbreviation__in': ('LP', 'NP')},
+            Green={'abbreviation__in': ('GRN', 'GVIC')},
+        )
+        print(endpoints.getMetaParties())
+        print()
+        endpoints.deleteMetaParties('Libnat')
+        print()
+        print(endpoints.getMetaParties())
+        print()
+        endpoints.addMetaParties(Aus={'name__icontains': 'aus'})
+        print(endpoints.getMetaParties())
+        print()
+        endpoints.deleteMetaParties()
+        print(endpoints.getMetaParties())
+        endpoints.addMetaParties(
+            Libnat={'abbreviation__in': ('LP', 'NP')},
+            Green={'abbreviation__in': ('GRN', 'GVIC')},
+        )
+        print(endpoints.getHousePrimaryVote(
+            {'election_date__year__in': (2022, 2016, )},
+            {'meta_parties__name': 'Libnat'},
+            {'state__iexact': 'Vic'}))
+        print()

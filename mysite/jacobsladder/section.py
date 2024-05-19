@@ -1,5 +1,5 @@
 from django.db import models
-
+import time
 
 class Part(models.Model):
     class Meta:

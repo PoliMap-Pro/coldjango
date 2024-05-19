@@ -11,12 +11,22 @@ class Party(section.Part):
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
     name = models.CharField(max_length=255)
-    meta_party = models.ForeignKey('MetaParty', null=True, blank=True,
-                                   on_delete=models.SET_NULL)
+    meta_parties = models.ManyToManyField('MetaParty', blank=True)
     created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
         return f"{self.name} ({self.pk})"
+
+    @classmethod
+    def get_set(cls, selector):
+        """
+        Overrides Part.get_set()
+        """
+        if selector:
+            if isinstance(selector, dict):
+                return cls.objects.filter(**selector)
+            return selector
+        return cls.objects.all()
 
 
 class PersonCode(models.Model):

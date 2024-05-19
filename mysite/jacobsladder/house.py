@@ -1,10 +1,10 @@
 from django.db import models
-from django.db.models import UniqueConstraint
+from django.db.models import UniqueConstraint, Sum
 from . import abstract_models, people, names
 from .abstract_models import VoteRecord, Crown, Round, Transfer
 from .place import Seat, Booth
 from .service import Representation, Contention
-
+import time
 
 class HouseElection(abstract_models.Election):
     BYPASSES = {'primary_votes': 'aec_total'}
@@ -29,9 +29,15 @@ class HouseElection(abstract_models.Election):
         election_result = {}
         if not place_set:
             place_set = Booth.get_set(self, places)
+
+        #oldTime = time.time()
+
         [self.update_election_result(
             election_result, representation_set, place, tally_attribute,
             sum_booths) for place in place_set]
+        #print(time.time() - oldTime)
+        #print()
+
         result[str(self)] = election_result
 
     def booths_for_election(self, place_set, places):
@@ -73,11 +79,21 @@ class HouseElection(abstract_models.Election):
     def election_place_result(self, place, representation_set, tally_attribute,
                               sum_booths=False):
         result = {}
+
+        #oldTime = time.time()
+
         total = self.fetch_total(place, sum_booths, tally_attribute)
+
+        #print("election_place_result_1", time.time() - oldTime)
+        #oldTime = time.time()
+
         [place.update_place_result(
             self, representation, result, total, tally_attribute) for
             representation in representation_set if
             representation.person.name.lower() != 'informal']
+
+        #print("election_place_result_2", time.time() - oldTime)
+
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
@@ -89,9 +105,15 @@ class HouseElection(abstract_models.Election):
             tally_attribute, sum_booths) for location in place_set]
         result[str(self)] = election_result
 
-    def fetch_total(self, place, sum_booths, tally_attribute):
+    def fetch_total(self, place, sum_booths, tally_attribute,
+                    use_aggregate=True):
         if sum_booths or isinstance(place, Booth):
             return place.total_attribute(self, tally_attribute)
+        if use_aggregate:
+            return self.fetch_total_aggregate_version(place, tally_attribute)
+        return self.fetch_total_loop_version(place, tally_attribute)
+
+    def fetch_total_loop_version(self, place, tally_attribute):
         total = 0
         for vote_tally in VoteTally.objects.filter(
                 election=self, bypass=place):
@@ -102,6 +124,18 @@ class HouseElection(abstract_models.Election):
                 total += getattr(vote_tally, HouseElection.BYPASSES[
                     tally_attribute]) or 0
         return total
+
+    def fetch_total_aggregate_version(self, place, tally_attribute):
+        tallies = VoteTally.objects.filter(election=self, bypass=place)
+        if tallies:
+            if getattr(tallies[0], tally_attribute):
+                attrib = tally_attribute
+            else:
+                attrib = HouseElection.BYPASSES[tally_attribute]
+            aggregate = tallies.aggregate(Sum(attrib, default=0))
+            if aggregate:
+                return aggregate.popitem()[1]
+        return 0
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):

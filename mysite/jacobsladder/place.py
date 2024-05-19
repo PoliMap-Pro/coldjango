@@ -1,5 +1,5 @@
 from django.db import models
-from django.db.models import UniqueConstraint
+from django.db.models import UniqueConstraint, Sum
 from . import abstract_models, house, geography, service, section
 
 
@@ -37,20 +37,60 @@ class Seat(abstract_models.Beacon):
             candidate=representation.person.candidate)
         return seat_wide.aec_ordinary
 
-    def total_attribute(self, elect, tally_attribute, default=0):
+    def total_attribute(self, elect, tally_attribute, default=0,
+                        use_aggregate=True):
+        if use_aggregate:
+            return self.total_attribute_aggregate_version(default, elect,
+                                                          tally_attribute)
+        return self.total_attribute_sum_version(elect, tally_attribute,
+                                                default)
+
+    def total_attribute_sum_version(self, elect, tally_attribute, default):
         def return_candidate(election, seat, booth, vote_tally):
             return getattr(vote_tally, tally_attribute) or default if \
                 vote_tally.candidate.person.name.lower() != 'informal' else 0
+
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             return_candidate))(self, elect) for votes in booth])
 
+    def total_attribute_aggregate_version(self, default, elect, tally_attribute):
+        tallies = house.VoteTally.objects.filter(
+            booth__seat=self, election=elect).exclude(
+            candidate__person__name__iexact="Informal")
+        if tallies:
+            aggregate = tallies.aggregate(Sum(tally_attribute,
+                                              default=default))
+            if aggregate:
+                return aggregate.popitem()[1]
+        return default
+
     def candidate_for(self, candidate, elect, tally_attribute='primary_votes',
-                      default=0):
+                      default=0, use_aggregate=True):
+        if use_aggregate:
+            return self.candidate_for_aggregate_version(candidate, default,
+                                                        elect, tally_attribute)
+        return self.candidate_for_sum_version(elect, tally_attribute,
+                                               default, candidate)
+
+    def candidate_for_sum_version(self, elect, tally_attribute, default,
+                                   candidate):
         def attribute_or_zero(election, seat, booth, vote_tally):
             return getattr(vote_tally, tally_attribute) or default if \
                 vote_tally.candidate.pk == candidate.pk else 0
+
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             attribute_or_zero))(self, elect) for votes in booth])
+
+    def candidate_for_aggregate_version(self, candidate, default, elect, tally_attribute):
+        tallies = house.VoteTally.objects.filter(booth__seat=self,
+                                                 election=elect,
+                                                 candidate__pk=candidate.pk)
+        if tallies:
+            aggregate = tallies.aggregate(Sum(tally_attribute,
+                                              default=default))
+            if aggregate:
+                return aggregate.popitem()[1]
+        return default
 
     def update_place_result(self, election, representation, result, total,
                             tally_attribute, sum_booths=False):
