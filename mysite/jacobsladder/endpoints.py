@@ -1,18 +1,14 @@
 import json
 from . import house, people, place, service
-import time
 
 
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
                       tally_attribute='primary_votes', sum_booths=False):
     party_set, place_set, result = _setupHouseAttribute(parties, places, seats)
 
-    #oldTime = time.time()
     [election.result_by_place(
         party_set, place_set, places, result, tally_attribute, sum_booths) for
      election in house.HouseElection.get_set(elections)]
-    #print(time.time() - oldTime)
-    #exit()
     return json.dumps(result)
 
 

@@ -29,15 +29,9 @@ class HouseElection(abstract_models.Election):
         election_result = {}
         if not place_set:
             place_set = Booth.get_set(self, places)
-
-        #oldTime = time.time()
-
         [self.update_election_result(
             election_result, representation_set, place, tally_attribute,
             sum_booths) for place in place_set]
-        #print(time.time() - oldTime)
-        #print()
-
         result[str(self)] = election_result
 
     def booths_for_election(self, place_set, places):
@@ -79,21 +73,11 @@ class HouseElection(abstract_models.Election):
     def election_place_result(self, place, representation_set, tally_attribute,
                               sum_booths=False):
         result = {}
-
-        #oldTime = time.time()
-
         total = self.fetch_total(place, sum_booths, tally_attribute)
-
-        #print("election_place_result_1", time.time() - oldTime)
-        #oldTime = time.time()
-
         [place.update_place_result(
             self, representation, result, total, tally_attribute) for
             representation in representation_set if
             representation.person.name.lower() != 'informal']
-
-        #print("election_place_result_2", time.time() - oldTime)
-
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
