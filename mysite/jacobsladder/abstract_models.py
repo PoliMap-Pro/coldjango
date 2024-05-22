@@ -3,8 +3,9 @@ from . import geography, model_fields, names, section
 
 
 class Election(section.Part):
-    DEFAULT_PARTY_NAME_SEPARATOR = '_'
     DEFAULT_AFTER_END_OF_NAME = '/CED'
+    DEFAULT_BETWEEN_PARTS_OF_NAME = "/"
+    DEFAULT_PARTY_NAME_SEPARATOR = '_'
 
     class Meta:
         abstract = True

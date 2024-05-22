@@ -1,5 +1,5 @@
 from django.db import models
-from . import section
+from . import section, constants
 
 
 class Pin(section.Part):
@@ -13,4 +13,5 @@ class Pin(section.Part):
     @staticmethod
     def update_result(result, representation, votes, total):
         result[str(representation.party)] = {
-            'votes': votes, 'percent': 100.0 * votes / total}
+            constants.RETURN_VOTES: votes, constants.RETURN_PERCENTAGE:
+                100.0 * votes / total}

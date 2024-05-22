@@ -29,10 +29,10 @@ class HouseElection(abstract_models.Election):
                         return_format=constants.NEST_FORMAT):
         representation_set = Representation.objects.filter(election=self,
                                                            party__in=p_set)
-        elect_result, place_set = self.setup_pace(p_set, place_set, places,
-                                                  representation_set,
-                                                  return_format,
-                                                  tally_attribute)
+        elect_result, place_set = self.setup_place(p_set, place_set, places,
+                                                   representation_set,
+                                                   return_format,
+                                                   tally_attribute)
         [self.update_election_result(
             elect_result, representation_set, place, tally_attribute,
             sum_booths, return_format=return_format) for place in place_set]
@@ -45,11 +45,13 @@ class HouseElection(abstract_models.Election):
             abstract_models.Election.DEFAULT_PARTY_NAME_SEPARATOR,
             add_to_end_of_name=
             abstract_models.Election.DEFAULT_AFTER_END_OF_NAME,
-            between_parts_of_name="/"):
+            between_parts_of_name=
+            abstract_models.Election.DEFAULT_BETWEEN_PARTS_OF_NAME):
         if return_format == constants.TRANSACTION_FORMAT:
             return self.get_transaction_format_election_result(
                 add_to_end_of_name, between_parts_of_name, between_party_names,
-                house_elections_text, p_set, representation_set, tally_attribute)
+                house_elections_text, p_set, representation_set,
+                tally_attribute)
         return {}
 
     def format_result(self, elect_result, result, return_format):
@@ -107,8 +109,8 @@ class HouseElection(abstract_models.Election):
         else:
             election_result[str(place)] = result
 
-    def setup_pace(self, p_set, place_set, places, representation_set,
-                   return_format, tally_attribute):
+    def setup_place(self, p_set, place_set, places, representation_set,
+                    return_format, tally_attribute):
         elect_result = self.setup_election_result(p_set, representation_set,
                                                   return_format,
                                                   tally_attribute)
