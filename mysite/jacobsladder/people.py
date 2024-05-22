@@ -6,7 +6,7 @@ import collections
 import nltk.corpus
 from django.db import models
 from django.db.models import UniqueConstraint
-from . import names, abstract_models, section
+from . import names, abstract_models, section, constants
 
 
 class Party(section.Part):
