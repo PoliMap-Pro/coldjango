@@ -9,6 +9,7 @@ from .format import keep_query
 
 class HouseElection(abstract_models.Election):
     BYPASSES = {'primary_votes': 'aec_total'}
+    DEFAULT_HOUSE_ELECTION_TEXT = "/AEC/Elections/House/"
 
     class ElectionType(models.TextChoices):
         REGULAR = "federal", "Regular"
@@ -28,30 +29,30 @@ class HouseElection(abstract_models.Election):
                         return_format=constants.NEST_FORMAT):
         representation_set = Representation.objects.filter(election=self,
                                                            party__in=p_set)
-        if return_format == constants.TRANSACTION_FORMAT:
-            elect_result = {constants.NAMES:
-                            [f"/AEC/Elections/House/{self.election_date.year}"
-                             f"/{tally_attribute}/"
-                             f"{'_'.join(set([p.short_name() for p in p_set]))}"
-                             f"/CED", ], constants.DATA: [],
-                            constants.QUERIES: [str(representation_set.query), ]}
-        else:
-            elect_result = {}
-        if not place_set:
-            place_set = Booth.get_set(self, places)
-            keep_query(return_format, elect_result, place_set)
-            #if return_format == constants.TRANSACTION_FORMAT:
-            #    elect_result[constants.QUERIES].append(place_set.query)
-        if return_format == constants.TRANSACTION_FORMAT:
-            divisions = {'name': 'Division name',
-                         'values': [divi.name for divi in place_set]}
-            id_numbers = {'name': 'id',
-                          'values': [divi.id for divi in place_set]}
-            elect_result[constants.DATA].append(divisions)
-            elect_result[constants.DATA].append(id_numbers)
+        elect_result, place_set = self.setup_pace(p_set, place_set, places,
+                                                  representation_set,
+                                                  return_format,
+                                                  tally_attribute)
         [self.update_election_result(
             elect_result, representation_set, place, tally_attribute,
             sum_booths, return_format=return_format) for place in place_set]
+        self.format_result(elect_result, result, return_format)
+
+    def setup_election_result(
+            self, p_set, representation_set, return_format, tally_attribute,
+            house_elections_text=DEFAULT_HOUSE_ELECTION_TEXT,
+            between_party_names=
+            abstract_models.Election.DEFAULT_PARTY_NAME_SEPARATOR,
+            add_to_end_of_name=
+            abstract_models.Election.DEFAULT_AFTER_END_OF_NAME,
+            between_parts_of_name="/"):
+        if return_format == constants.TRANSACTION_FORMAT:
+            return self.get_transaction_format_election_result(
+                add_to_end_of_name, between_parts_of_name, between_party_names,
+                house_elections_text, p_set, representation_set, tally_attribute)
+        return {}
+
+    def format_result(self, elect_result, result, return_format):
         if return_format == constants.TRANSACTION_FORMAT:
             result[self.election_date.year] = elect_result
         else:
@@ -79,6 +80,21 @@ class HouseElection(abstract_models.Election):
                                                 election=self)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
+    def get_transaction_format_election_result(self, add_to_end_of_name,
+                                               between_parts_of_name,
+                                               between_party_names,
+                                               house_elections_text, p_set,
+                                               representation_set,
+                                               tally_attribute):
+        parties_string = between_party_names.join(set([p.short_name() for p in
+                                                       p_set]))
+        return {constants.NAMES:
+                    [f"{house_elections_text}{self.election_date.year}"
+                     f"{between_parts_of_name}{tally_attribute}"
+                     f"{between_parts_of_name}{parties_string}"
+                     f"{add_to_end_of_name}", ], constants.DATA: [],
+                constants.QUERIES: [str(representation_set.query), ]}
+
     def update_election_result(self, election_result, representation_set,
                                place, tally_attribute, sum_booths=False,
                                return_format=constants.NEST_FORMAT):
@@ -90,6 +106,18 @@ class HouseElection(abstract_models.Election):
             election_result[constants.DATA].append(entry)
         else:
             election_result[str(place)] = result
+
+    def setup_pace(self, p_set, place_set, places, representation_set,
+                   return_format, tally_attribute):
+        elect_result = self.setup_election_result(p_set, representation_set,
+                                                  return_format,
+                                                  tally_attribute)
+        if not place_set:
+            place_set = Booth.get_set(self, places)
+            keep_query(return_format, elect_result, place_set)
+        HouseElection.setup_transaction_format(elect_result, place_set,
+                                               return_format)
+        return elect_result, place_set
 
     def results_highest_by_votes(self, election_result, how_many, location,
                                  representation_set, tally_attribute,
@@ -175,6 +203,16 @@ class HouseElection(abstract_models.Election):
     def per(callback, *arguments, **keyword_arguments):
         for election in HouseElection.objects.all().order_by('election_date'):
             return callback(*arguments, election=election, **keyword_arguments)
+
+    @staticmethod
+    def setup_transaction_format(elect_result, place_set, return_format):
+        if return_format == constants.TRANSACTION_FORMAT:
+            divisions = {'name': 'Division name',
+                         'values': [divi.name for divi in place_set]}
+            id_numbers = {'name': 'id',
+                          'values': [divi.id for divi in place_set]}
+            elect_result[constants.DATA].append(divisions)
+            elect_result[constants.DATA].append(id_numbers)
 
 
 class HouseCandidate(models.Model):
