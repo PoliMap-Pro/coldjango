@@ -31,9 +31,9 @@ class Election(section.Part):
     @staticmethod
     def update_election_result_in_transaction_format(election_result, result,
                                                      tally_attribute):
-        entry = {constants.RETURN_NAME: tally_attribute,
-                 constants.RETURN_VALUES: result}
-        election_result[constants.DATA].append(entry)
+        election_result[constants.DATA].append({
+            constants.RETURN_NAME: tally_attribute,
+            constants.RETURN_VALUES: result})
 
 
 class Beacon(geography.Pin):

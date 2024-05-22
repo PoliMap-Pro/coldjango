@@ -223,13 +223,9 @@ class Booth(geography.Pin):
             election=election, seat=self.seat, candidate=candidate)
         keep_query(return_format, election_result, contentions)
         if contentions.exists():
-            query_parameters = {'booth': self, 'election': election,
-                                'candidate': candidate}
-            tally = house.VoteTally.objects.get(**query_parameters)
-            keep_query(return_format, election_result, query_parameters,
-                       model=house.VoteTally)
-            votes = getattr(tally, tally_attribute) or default
-            Booth.update_result(result, representation, votes, total)
+            self.booth_votes(
+                candidate, default, election, election_result, representation,
+                result, return_format, tally_attribute, total)
 
     def total_attribute(self, elect, tally_attribute, default=0,
                         return_format=constants.NEST_FORMAT,):
@@ -240,6 +236,17 @@ class Booth(geography.Pin):
             if vote_set:
                 return result, vote_set.query
         return result
+
+    def booth_votes(self, candidate, default, election, election_result,
+                    representation, result, return_format, tally_attribute,
+                    total):
+        query_parameters = {'booth': self, 'election': election,
+                            'candidate': candidate}
+        keep_query(return_format, election_result, query_parameters,
+                   model=house.VoteTally)
+        Booth.update_result(
+            result, representation, getattr(house.VoteTally.objects.get(
+                **query_parameters), tally_attribute) or default, total)
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
