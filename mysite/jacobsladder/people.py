@@ -14,7 +14,7 @@ class Party(section.Part):
 
     class Meta:
         verbose_name_plural = "Parties"
-        constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
+        constraints = [UniqueConstraint(fields=['abbreviation', constants.RETURN_NAME,],
                                         name='abbreviation_and_name')]
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)

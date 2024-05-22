@@ -104,7 +104,7 @@ class HouseElection(abstract_models.Election):
             place, representation_set, tally_attribute, sum_booths,
             return_format=return_format)
         if return_format == constants.TRANSACTION_FORMAT:
-            entry = {'name': tally_attribute, 'values': result}
+            entry = {constants.RETURN_NAME: tally_attribute, constants.VALUES_NAME: result}
             election_result[constants.DATA].append(entry)
         else:
             election_result[str(place)] = result
@@ -209,10 +209,10 @@ class HouseElection(abstract_models.Election):
     @staticmethod
     def setup_transaction_format(elect_result, place_set, return_format):
         if return_format == constants.TRANSACTION_FORMAT:
-            divisions = {'name': 'Division name',
-                         'values': [divi.name for divi in place_set]}
-            id_numbers = {'name': 'id',
-                          'values': [divi.id for divi in place_set]}
+            divisions = {constants.RETURN_NAME: 'Division name',
+                         constants.VALUES_NAME: [divi.name for divi in place_set]}
+            id_numbers = {constants.RETURN_NAME: 'id',
+                          constants.VALUES_NAME: [divi.id for divi in place_set]}
             elect_result[constants.DATA].append(divisions)
             elect_result[constants.DATA].append(id_numbers)
 

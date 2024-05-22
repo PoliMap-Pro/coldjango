@@ -86,7 +86,8 @@ class Seat(abstract_models.Beacon):
         return sum([votes for booth in Booth.per(house.VoteTally.per(
             attribute_or_zero))(self, elect) for votes in booth])
 
-    def candidate_for_aggregate_version(self, candidate, default, elect, tally_attribute):
+    def candidate_for_aggregate_version(self, candidate, default, elect,
+                                        tally_attribute):
         tallies = house.VoteTally.objects.filter(booth__seat=self,
                                                  election=elect,
                                                  candidate__pk=candidate.pk)
@@ -110,12 +111,13 @@ class Seat(abstract_models.Beacon):
                 election, representation, sum_booths, tally_attribute,
                 return_format=return_format, election_result=election_result)
             if return_format == constants.TRANSACTION_FORMAT:
-                result.append({'name': 'party',
-                               'values': [str(representation.party)]})
-                result.append({'name': tally_attribute,
-                               'values': [votes]})
-                result.append({'name': 'percentage',
-                               'values': [100 * votes / total]})
+                result.append({constants.RETURN_NAME: 'party',
+                               constants.VALUES_NAME: [str(
+                                   representation.party)]})
+                result.append({constants.RETURN_NAME: tally_attribute,
+                               constants.VALUES_NAME: [votes]})
+                result.append({constants.RETURN_NAME: 'percentage',
+                               constants.VALUES_NAME: [100 * votes / total]})
             else:
                 Seat.update_result(result, representation, votes, total)
 
@@ -139,9 +141,6 @@ class Seat(abstract_models.Beacon):
         seat_wide = house.VoteTally.objects.get(**query_parameters)
         keep_query(return_format, election_result, query_parameters,
                    model=house.VoteTally)
-        #if return_format == constants.TRANSACTION_FORMAT:
-        #    if election_result:
-        #        election_result[constants.QUERIES].append(seat_wide.query)
         return seat_wide.aec_ordinary
 
     def setup_source(self, election, last_preference, preference_rounds,
@@ -219,9 +218,6 @@ class Booth(geography.Pin):
         contentions = service.Contention.objects.filter(
             election=election, seat=self.seat, candidate=candidate)
         keep_query(return_format, election_result, contentions)
-        #if return_format == constants.TRANSACTION_FORMAT:
-        #    if election_result:
-        #        election_result[constants.QUERIES].append(contentions.query)
         if contentions.exists():
             query_parameters = {'booth': self, 'election': election,
                                 'candidate': candidate}

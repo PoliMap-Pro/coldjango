@@ -54,7 +54,7 @@ class AECReader(object):
 
     @staticmethod
     def get_standard_beacon_attributes(row):
-        return {'name': row[AECReader.SEAT_NAME_HEADER],
+        return {constants.RETURN_NAME: row[AECReader.SEAT_NAME_HEADER],
                 'state': row[constants.STATE_ABBREVIATION_HEADER].lower(), }
 
     @classmethod
@@ -86,7 +86,7 @@ class AECReader(object):
 
     @staticmethod
     def get_standard_person_attributes(row):
-        return {'name': row[AECReader.FIRST_NAME_HEADER],
+        return {constants.RETURN_NAME: row[AECReader.FIRST_NAME_HEADER],
                 'other_names': row[AECReader.OTHER_NAMES_HEADER], }
 
     @staticmethod

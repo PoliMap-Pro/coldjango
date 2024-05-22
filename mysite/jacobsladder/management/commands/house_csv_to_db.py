@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from ... import base_code, folder_reader, house, place, service
+from ... import base_code, folder_reader, house, place, service, constants
 
 
 class Command(BaseCommand, base_code.BaseCode):
@@ -77,7 +77,7 @@ class Command(BaseCommand, base_code.BaseCode):
     @staticmethod
     def add_one_tally(house_election, row):
         candidate, seat = Command.find_candidate_for_seat(house_election, row)
-        booth_attributes = {'name': row[Command.BOOTH_NAME_HEADER],
+        booth_attributes = {constants.RETURN_NAME: row[Command.BOOTH_NAME_HEADER],
                             'seat': seat}
         booth = Command.fetch_by_aec_code(
             booth_attributes, place.Booth.objects, place.BoothCode.objects,
