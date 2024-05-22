@@ -29,10 +29,9 @@ class HouseElection(abstract_models.Election):
                         return_format=constants.NEST_FORMAT):
         representation_set = Representation.objects.filter(election=self,
                                                            party__in=p_set)
-        elect_result, place_set = self.setup_place(p_set, place_set, places,
-                                                   representation_set,
-                                                   return_format,
-                                                   tally_attribute)
+        elect_result, place_set = self.setup_place(
+            p_set, place_set, places, representation_set, return_format,
+            tally_attribute)
         [self.update_election_result(
             elect_result, representation_set, place, tally_attribute,
             sum_booths, return_format=return_format) for place in place_set]
@@ -134,16 +133,17 @@ class HouseElection(abstract_models.Election):
     def election_place_result(self, place, representation_set, tally_attribute,
                               sum_booths=False,
                               return_format=constants.NEST_FORMAT,
-                              election_result=None):
+                              election_result=None,
+                              name_of_informal_vote=constants.INFORMAL_VOTER):
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
-                place, sum_booths, tally_attribute,
-                return_format=return_format))
+                place, sum_booths, tally_attribute, return_format=return_format
+            ))
         [place.update_place_result(
             self, representation, result, total, tally_attribute,
             return_format=return_format, election_result=election_result) for
             representation in representation_set if
-            representation.person.name.lower() != 'informal']
+            representation.person.name.lower() != name_of_informal_vote]
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,

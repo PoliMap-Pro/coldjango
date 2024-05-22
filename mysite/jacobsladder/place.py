@@ -142,9 +142,8 @@ class Seat(abstract_models.Beacon):
         if return_format == constants.TRANSACTION_FORMAT:
             [result.append({constants.RETURN_NAME: name_part,
                             constants.RETURN_VALUES: values_part}) for
-             name_part, values_part in ((constants.RETURN_GROUPING, [str(
-                representation.party)]), (tally_attribute, [votes]), (
-                constants.RETURN_PERCENTAGE, [100 * votes / total]))]
+             name_part, values_part in Seat.transaction_format_pieces(
+                representation, tally_attribute, votes, total)]
         else:
             Seat.update_result(result, representation, votes, total)
 

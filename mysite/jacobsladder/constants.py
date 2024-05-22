@@ -11,6 +11,7 @@ DEFAULT_DELIMITER = "-"
 DEFAULT_FILE_EXTENSION_FOR_SOURCE_FILES = ".csv"
 FLOORS_DIRECTORY_RELATIVE = "senate_prefs\\"
 HOUSE_DISTRIBUTION_DIRECTORY_RELATIVE = "house_distribution_of_preferences\\"
+INFORMAL_VOTER = 'informal'
 LIGHTHOUSES_DIRECTORY_RELATIVE = "senate_votes_counted\\"
 NAMES = 'names'
 NEST_FORMAT = "nest_format"
