@@ -104,10 +104,11 @@ class HouseElection(abstract_models.Election):
             place, representation_set, tally_attribute, sum_booths,
             return_format=return_format)
         if return_format == constants.TRANSACTION_FORMAT:
-            entry = {constants.RETURN_NAME: tally_attribute, constants.VALUES_NAME: result}
-            election_result[constants.DATA].append(entry)
+            HouseElection.update_election_result_in_transaction_format(
+                election_result, result, tally_attribute)
         else:
             election_result[str(place)] = result
+
 
     def setup_place(self, p_set, place_set, places, representation_set,
                     return_format, tally_attribute):
@@ -134,17 +135,10 @@ class HouseElection(abstract_models.Election):
                               sum_booths=False,
                               return_format=constants.NEST_FORMAT,
                               election_result=None):
-
-        total_returned = self.fetch_total(
-            place, sum_booths, tally_attribute, return_format=return_format)
-        if return_format == constants.TRANSACTION_FORMAT:
-            total, query = total_returned
-            result = []
-            if election_result:
-                election_result[constants.QUERIES].append(str(query))
-        else:
-            total = total_returned
-            result = {}
+        result, total = HouseElection.format_return(
+            election_result, return_format, self.fetch_total(
+                place, sum_booths, tally_attribute,
+                return_format=return_format))
         [place.update_place_result(
             self, representation, result, total, tally_attribute,
             return_format=return_format, election_result=election_result) for
@@ -207,12 +201,19 @@ class HouseElection(abstract_models.Election):
             return callback(*arguments, election=election, **keyword_arguments)
 
     @staticmethod
+    def format_return(election_result, return_format, total_returned):
+        if return_format == constants.TRANSACTION_FORMAT:
+            return HouseElection.format_return_for_transaction_format(
+                election_result, total_returned)
+        return {}, total_returned
+
+    @staticmethod
     def setup_transaction_format(elect_result, place_set, return_format):
         if return_format == constants.TRANSACTION_FORMAT:
             divisions = {constants.RETURN_NAME: 'Division name',
-                         constants.VALUES_NAME: [divi.name for divi in place_set]}
+                         constants.RETURN_VALUES: [divi.name for divi in place_set]}
             id_numbers = {constants.RETURN_NAME: 'id',
-                          constants.VALUES_NAME: [divi.id for divi in place_set]}
+                          constants.RETURN_VALUES: [divi.id for divi in place_set]}
             elect_result[constants.DATA].append(divisions)
             elect_result[constants.DATA].append(id_numbers)
 

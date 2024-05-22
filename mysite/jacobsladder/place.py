@@ -112,12 +112,12 @@ class Seat(abstract_models.Beacon):
                 return_format=return_format, election_result=election_result)
             if return_format == constants.TRANSACTION_FORMAT:
                 result.append({constants.RETURN_NAME: 'party',
-                               constants.VALUES_NAME: [str(
+                               constants.RETURN_VALUES: [str(
                                    representation.party)]})
                 result.append({constants.RETURN_NAME: tally_attribute,
-                               constants.VALUES_NAME: [votes]})
+                               constants.RETURN_VALUES: [votes]})
                 result.append({constants.RETURN_NAME: 'percentage',
-                               constants.VALUES_NAME: [100 * votes / total]})
+                               constants.RETURN_VALUES: [100 * votes / total]})
             else:
                 Seat.update_result(result, representation, votes, total)
 

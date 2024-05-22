@@ -1,5 +1,5 @@
 from django.db import models
-from . import geography, model_fields, names, section
+from . import geography, model_fields, names, section, constants
 
 
 class Election(section.Part):
@@ -20,6 +20,20 @@ class Election(section.Part):
     @staticmethod
     def by_votes(pair):
         return -pair[1]['votes']
+
+    @staticmethod
+    def format_return_for_transaction_format(election_result, total_returned):
+        total, query = total_returned
+        if election_result:
+            election_result[constants.QUERIES].append(str(query))
+        return [], total
+
+    @staticmethod
+    def update_election_result_in_transaction_format(election_result, result,
+                                                     tally_attribute):
+        entry = {constants.RETURN_NAME: tally_attribute,
+                 constants.RETURN_VALUES: result}
+        election_result[constants.DATA].append(entry)
 
 
 class Beacon(geography.Pin):
