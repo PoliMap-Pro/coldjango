@@ -107,19 +107,9 @@ class Seat(abstract_models.Beacon):
                 candidate=representation.person.candidate)
         keep_query(return_format, election_result, contentions)
         if contentions.exists():
-            votes = self.votes_for_place(
-                election, representation, sum_booths, tally_attribute,
-                return_format=return_format, election_result=election_result)
-            if return_format == constants.TRANSACTION_FORMAT:
-                result.append({constants.RETURN_NAME: 'party',
-                               constants.RETURN_VALUES: [str(
-                                   representation.party)]})
-                result.append({constants.RETURN_NAME: tally_attribute,
-                               constants.RETURN_VALUES: [votes]})
-                result.append({constants.RETURN_NAME: 'percentage',
-                               constants.RETURN_VALUES: [100 * votes / total]})
-            else:
-                Seat.update_result(result, representation, votes, total)
+            self.collect_vote_like(election, election_result, representation,
+                                   result, return_format, sum_booths,
+                                   tally_attribute, total)
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):
@@ -142,6 +132,21 @@ class Seat(abstract_models.Beacon):
         keep_query(return_format, election_result, query_parameters,
                    model=house.VoteTally)
         return seat_wide.aec_ordinary
+
+    def collect_vote_like(self, election, election_result, representation,
+                          result, return_format, sum_booths, tally_attribute,
+                          total):
+        votes = self.votes_for_place(
+            election, representation, sum_booths, tally_attribute,
+            return_format=return_format, election_result=election_result)
+        if return_format == constants.TRANSACTION_FORMAT:
+            [result.append({constants.RETURN_NAME: name_part,
+                            constants.RETURN_VALUES: values_part}) for
+             name_part, values_part in ((constants.RETURN_GROUPING, [str(
+                representation.party)]), (tally_attribute, [votes]), (
+                constants.RETURN_PERCENTAGE, [100 * votes / total]))]
+        else:
+            Seat.update_result(result, representation, votes, total)
 
     def setup_source(self, election, last_preference, preference_rounds,
                      target_index):

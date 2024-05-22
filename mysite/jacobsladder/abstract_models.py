@@ -22,10 +22,10 @@ class Election(section.Part):
         return -pair[1]['votes']
 
     @staticmethod
-    def format_return_for_transaction_format(election_result, total_returned):
-        total, query = total_returned
-        if election_result:
-            election_result[constants.QUERIES].append(str(query))
+    def format_return_for_transaction_format(elect_result, returned):
+        total, query = returned
+        if elect_result:
+            elect_result[constants.QUERIES].append(str(query))
         return [], total
 
     @staticmethod

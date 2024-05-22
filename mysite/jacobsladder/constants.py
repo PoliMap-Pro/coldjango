@@ -19,6 +19,7 @@ PARTY_NAME_HEADER = 'PartyNm'
 POSTAL_HEADER = "PostalVotes"
 PROVISIONAL_HEADER = "ProvisionalVotes"
 QUERIES = 'queries'
+RETURN_GROUPING = 'party'
 RETURN_NAME = 'name'
 RETURN_PERCENTAGE = 'percent'
 RETURN_VALUES = 'values'
