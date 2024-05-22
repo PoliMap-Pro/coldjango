@@ -1,38 +1,47 @@
 import json
-from . import house, people, place, service
+from . import house, people, place, service, constants
 
 
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
-                      tally_attribute='primary_votes', sum_booths=False):
+                      tally_attribute='primary_votes', sum_booths=False,
+                      return_format=constants.TRANSACTION_FORMAT):
     party_set, place_set, result = _setupHouseAttribute(parties, places, seats)
-
     [election.result_by_place(
-        party_set, place_set, places, result, tally_attribute, sum_booths) for
+        party_set, place_set, places, result, tally_attribute, sum_booths,
+        return_format) for
      election in house.HouseElection.get_set(elections)]
     return json.dumps(result)
 
 
-def getHousePrimaryVote(elections=None, parties=None, places=None, seats=True):
-    return getHouseAttribute(elections, parties, places, seats)
+def getHousePrimaryVote(elections=None, parties=None, places=None, seats=True,
+                        return_format=constants.TRANSACTION_FORMAT):
+    return getHouseAttribute(elections, parties, places, seats,
+                             return_format=return_format)
 
 
-def getHousePrimaryVoteBySeat(elections=None, parties=None, places=None):
-    return getHousePrimaryVote(elections, parties, places)
+def getHousePrimaryVoteBySeat(elections=None, parties=None, places=None,
+                              return_format=constants.TRANSACTION_FORMAT):
+    return getHousePrimaryVote(elections, parties, places,
+                               return_format=return_format)
 
 
-def getHousePrimaryVoteByBooth(elections=None, parties=None, places=None):
-    return getHousePrimaryVote(elections, parties, places, False)
+def getHousePrimaryVoteByBooth(elections=None, parties=None, places=None,
+                               return_format=constants.TRANSACTION_FORMAT):
+    return getHousePrimaryVote(elections, parties, places, False,
+                               return_format=return_format)
 
 
 def getHouseTwoPartyPreferred(elections=None, parties=None, places=None,
-                              seats=True):
+                              seats=True,
+                              return_format=constants.TRANSACTION_FORMAT):
     return getHouseAttribute(elections, parties, places, seats, 'tcp_votes',
-                             sum_booths=True)
+                             sum_booths=True, return_format=return_format)
 
 
 def getHouseGeneralPartyPreferred(elections=None, places=None, seats=True,
                                   how_many=3, tally_attribute='primary_votes',
-                                  sum_booths=False):
+                                  sum_booths=False,
+                                  return_format=constants.TRANSACTION_FORMAT):
     party_set, place_set, result = _setupHouseAttribute(None, places, seats)
     [election.highest_by_votes(
         how_many, place_set, places, result, tally_attribute, sum_booths) for

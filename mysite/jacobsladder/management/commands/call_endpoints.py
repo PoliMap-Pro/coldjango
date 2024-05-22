@@ -9,7 +9,8 @@ class Command(BaseCommand):
         print(endpoints.getHousePrimaryVote(
             {'election_date__year__in': (2022, 2016, 2010)},
             {'abbreviation__in': ('GRN', 'ALP', 'LP')},
-            {'name': 'Aston'}))
+            {'name': 'Aston'},))
+        exit()
         print()
         print(endpoints.getHousePrimaryVote(
             {'election_date__year': 2022},

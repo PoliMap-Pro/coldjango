@@ -1,10 +1,11 @@
 from django.db import models
 from django.db.models import UniqueConstraint, Sum
-from . import abstract_models, people, names
+from . import abstract_models, people, names, constants
 from .abstract_models import VoteRecord, Crown, Round, Transfer
 from .place import Seat, Booth
 from .service import Representation, Contention
-import time
+from .format import keep_query
+
 
 class HouseElection(abstract_models.Election):
     BYPASSES = {'primary_votes': 'aec_total'}
@@ -22,17 +23,39 @@ class HouseElection(abstract_models.Election):
             representation in Representation.objects.filter(
                 election=self, party__abbreviation=party_abbreviation)]
 
-    def result_by_place(self, party_set, place_set, places, result,
-                        tally_attribute, sum_booths=False):
+    def result_by_place(self, p_set, place_set, places, result,
+                        tally_attribute, sum_booths=False,
+                        return_format=constants.NEST_FORMAT):
         representation_set = Representation.objects.filter(election=self,
-                                                           party__in=party_set)
-        election_result = {}
+                                                           party__in=p_set)
+        if return_format == constants.TRANSACTION_FORMAT:
+            elect_result = {constants.NAMES:
+                            [f"/AEC/Elections/House/{self.election_date.year}"
+                             f"/{tally_attribute}/"
+                             f"{'_'.join(set([p.short_name() for p in p_set]))}"
+                             f"/CED", ], constants.DATA: [],
+                            constants.QUERIES: [str(representation_set.query), ]}
+        else:
+            elect_result = {}
         if not place_set:
             place_set = Booth.get_set(self, places)
+            keep_query(return_format, elect_result, place_set)
+            #if return_format == constants.TRANSACTION_FORMAT:
+            #    elect_result[constants.QUERIES].append(place_set.query)
+        if return_format == constants.TRANSACTION_FORMAT:
+            divisions = {'name': 'Division name',
+                         'values': [divi.name for divi in place_set]}
+            id_numbers = {'name': 'id',
+                          'values': [divi.id for divi in place_set]}
+            elect_result[constants.DATA].append(divisions)
+            elect_result[constants.DATA].append(id_numbers)
         [self.update_election_result(
-            election_result, representation_set, place, tally_attribute,
-            sum_booths) for place in place_set]
-        result[str(self)] = election_result
+            elect_result, representation_set, place, tally_attribute,
+            sum_booths, return_format=return_format) for place in place_set]
+        if return_format == constants.TRANSACTION_FORMAT:
+            result[self.election_date.year] = elect_result
+        else:
+            result[str(self)] = elect_result
 
     def booths_for_election(self, place_set, places):
         election_result = {}
@@ -57,9 +80,16 @@ class HouseElection(abstract_models.Election):
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
     def update_election_result(self, election_result, representation_set,
-                               place, tally_attribute, sum_booths=False):
-        election_result[str(place)] = self.election_place_result(
-            place, representation_set, tally_attribute, sum_booths)
+                               place, tally_attribute, sum_booths=False,
+                               return_format=constants.NEST_FORMAT):
+        result = self.election_place_result(
+            place, representation_set, tally_attribute, sum_booths,
+            return_format=return_format)
+        if return_format == constants.TRANSACTION_FORMAT:
+            entry = {'name': tally_attribute, 'values': result}
+            election_result[constants.DATA].append(entry)
+        else:
+            election_result[str(place)] = result
 
     def results_highest_by_votes(self, election_result, how_many, location,
                                  representation_set, tally_attribute,
@@ -71,11 +101,23 @@ class HouseElection(abstract_models.Election):
         election_result[str(location)] = dict(pairs[:how_many])
 
     def election_place_result(self, place, representation_set, tally_attribute,
-                              sum_booths=False):
-        result = {}
-        total = self.fetch_total(place, sum_booths, tally_attribute)
+                              sum_booths=False,
+                              return_format=constants.NEST_FORMAT,
+                              election_result=None):
+
+        total_returned = self.fetch_total(
+            place, sum_booths, tally_attribute, return_format=return_format)
+        if return_format == constants.TRANSACTION_FORMAT:
+            total, query = total_returned
+            result = []
+            if election_result:
+                election_result[constants.QUERIES].append(str(query))
+        else:
+            total = total_returned
+            result = {}
         [place.update_place_result(
-            self, representation, result, total, tally_attribute) for
+            self, representation, result, total, tally_attribute,
+            return_format=return_format, election_result=election_result) for
             representation in representation_set if
             representation.person.name.lower() != 'informal']
         return result
@@ -90,11 +132,14 @@ class HouseElection(abstract_models.Election):
         result[str(self)] = election_result
 
     def fetch_total(self, place, sum_booths, tally_attribute,
-                    use_aggregate=True):
+                    use_aggregate=True, return_format=constants.NEST_FORMAT):
         if sum_booths or isinstance(place, Booth):
-            return place.total_attribute(self, tally_attribute)
+            return place.total_attribute(self, tally_attribute,
+                                         return_format=return_format)
         if use_aggregate:
-            return self.fetch_total_aggregate_version(place, tally_attribute)
+            return self.fetch_total_aggregate_version(
+                place, tally_attribute, return_format=return_format)
+        print("LOOP!")
         return self.fetch_total_loop_version(place, tally_attribute)
 
     def fetch_total_loop_version(self, place, tally_attribute):
@@ -109,7 +154,8 @@ class HouseElection(abstract_models.Election):
                     tally_attribute]) or 0
         return total
 
-    def fetch_total_aggregate_version(self, place, tally_attribute):
+    def fetch_total_aggregate_version(self, place, tally_attribute,
+                                      return_format=constants.NEST_FORMAT):
         tallies = VoteTally.objects.filter(election=self, bypass=place)
         if tallies:
             if getattr(tallies[0], tally_attribute):
@@ -118,7 +164,11 @@ class HouseElection(abstract_models.Election):
                 attrib = HouseElection.BYPASSES[tally_attribute]
             aggregate = tallies.aggregate(Sum(attrib, default=0))
             if aggregate:
+                if return_format == constants.TRANSACTION_FORMAT:
+                    return aggregate.popitem()[1], tallies
                 return aggregate.popitem()[1]
+        if return_format == constants.TRANSACTION_FORMAT:
+            return 0, tallies
         return 0
 
     @staticmethod

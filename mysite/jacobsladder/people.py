@@ -1,9 +1,17 @@
+import urllib.parse
+import re
+import urllib.request
+import nltk
+import collections
+import nltk.corpus
 from django.db import models
 from django.db.models import UniqueConstraint
 from . import names, abstract_models, section
 
 
 class Party(section.Part):
+    nltk.download('stopwords')
+
     class Meta:
         verbose_name_plural = "Parties"
         constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
@@ -16,6 +24,15 @@ class Party(section.Part):
 
     def __str__(self):
         return f"{self.name} ({self.pk})"
+
+    def short_name(self, language='english'):
+        frequencies = collections.Counter([
+            word for word in
+            re.sub(r'[^\w\s_]', '', self.name.lower()).split()
+            if word not in nltk.corpus.stopwords.words(language)])
+        return urllib.parse.quote_plus(''.join(
+            character if character.isalnum() else '_' for character in
+            min(frequencies, key=frequencies.get)).strip('-'))
 
     @classmethod
     def get_set(cls, selector):
