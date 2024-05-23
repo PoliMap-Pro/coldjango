@@ -119,29 +119,9 @@ class HouseElection(abstract_models.Election):
             HouseElection.update_election_result_in_transaction_format(
                 election_result, result, tally_attribute)
         elif return_format == constants.SPREADSHEET_FORMAT:
-            result_values = result.values()
-            result_length = len(result_values)
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_YEAR_INDEX][
-                constants.DATA] += [self.election_date.year] * result_length
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_PLACE_INDEX][
-                constants.DATA] += [str(place)] * result_length
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_ATTRIBUTE_INDEX][
-                constants.DATA] += [tally_attribute] * result_length
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_PARTY_INDEX][
-                constants.DATA] += list(result.keys())
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_VOTES_INDEX][
-                constants.DATA] += [value[constants.RETURN_VOTES] for value
-                                    in result_values]
-            election_result[constants.SERIES][
-                constants.SPREADSHEET_FORMAT_PERCENT_INDEX][
-                constants.DATA] += [value[constants.RETURN_PERCENTAGE] for value
-                                    in result_values]
-
+            [election_result[constants.SERIES][index][constants.DATA].extend(
+                new_entries) for index, new_entries in self.get_result_entries(
+                place, result, tally_attribute)]
         else:
             election_result[str(place)] = result
 
@@ -165,6 +145,22 @@ class HouseElection(abstract_models.Election):
         pairs = list(all_parties.items())
         pairs.sort(key=abstract_models.Election.by_votes)
         election_result[str(location)] = dict(pairs[:how_many])
+
+    def get_result_entries(self, place, result, tally_attribute):
+        result_values = result.values()
+        result_length = len(result_values)
+        return ((constants.SPREADSHEET_FORMAT_YEAR_INDEX,
+                 [self.election_date.year] * result_length),
+                (constants.SPREADSHEET_FORMAT_PLACE_INDEX,
+                 [str(place)] * result_length),
+                (constants.SPREADSHEET_FORMAT_ATTRIBUTE_INDEX,
+                 [tally_attribute] * result_length),
+                (constants.SPREADSHEET_FORMAT_PARTY_INDEX, list(result.keys())),
+                (constants.SPREADSHEET_FORMAT_VOTES_INDEX,
+                 [value[constants.RETURN_VOTES] for value in result_values]),
+                (constants.SPREADSHEET_FORMAT_PERCENT_INDEX,
+                 [value[constants.RETURN_PERCENTAGE] for value in result_values
+                  ]),)
 
     def election_place_result(self, place, representation_set, tally_attribute,
                               sum_booths=False,
