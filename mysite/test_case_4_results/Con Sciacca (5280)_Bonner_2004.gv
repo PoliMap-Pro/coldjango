@@ -2,31 +2,31 @@
 digraph "Con Sciacca (5280)_Bonner_2004" {
 	graph [label="Bonner 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Barry Myatt (5279)" [label="Barry Myatt (5279)
+One Nation"]
+	"Chad Smith (5282)" [label="Chad Smith (5282)
+Australian Democrats"]
 	"Con Sciacca (5280)" [label="Con Sciacca (5280)
 Australian Labor Party"]
 	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
 The Greens"]
 	"Trevor Hunt (5281)" [label="Trevor Hunt (5281)
 Family First"]
-	"Barry Myatt (5279)" [label="Barry Myatt (5279)
-One Nation"]
-	"Chad Smith (5282)" [label="Chad Smith (5282)
-Australian Democrats"]
 	"William Raymond Wheeler (5278)" [label="William Raymond Wheeler (5278)
 Citizens Electoral Council"]
-	"Elissa Jenkins (3204)" -> "Con Sciacca (5280)" [label=3766]
-	"Trevor Hunt (5281)" -> "Elissa Jenkins (3204)" [label=561]
+	"Barry Myatt (5279)" -> "Con Sciacca (5280)" [label=393]
+	"Barry Myatt (5279)" -> "Elissa Jenkins (3204)" [label=232]
 	"Barry Myatt (5279)" -> "Trevor Hunt (5281)" [label=442]
 	"Chad Smith (5282)" -> "Barry Myatt (5279)" [label=42]
-	"William Raymond Wheeler (5278)" -> "Chad Smith (5282)" [label=16]
-	"Trevor Hunt (5281)" -> "Con Sciacca (5280)" [label=765]
-	"Barry Myatt (5279)" -> "Con Sciacca (5280)" [label=393]
 	"Chad Smith (5282)" -> "Con Sciacca (5280)" [label=277]
-	"William Raymond Wheeler (5278)" -> "Con Sciacca (5280)" [label=41]
-	"William Raymond Wheeler (5278)" -> "Barry Myatt (5279)" [label=85]
-	"Chad Smith (5282)" -> "Trevor Hunt (5281)" [label=89]
-	"William Raymond Wheeler (5278)" -> "Trevor Hunt (5281)" [label=34]
-	"Barry Myatt (5279)" -> "Elissa Jenkins (3204)" [label=232]
 	"Chad Smith (5282)" -> "Elissa Jenkins (3204)" [label=496]
+	"Chad Smith (5282)" -> "Trevor Hunt (5281)" [label=89]
+	"Elissa Jenkins (3204)" -> "Con Sciacca (5280)" [label=3766]
+	"Trevor Hunt (5281)" -> "Con Sciacca (5280)" [label=765]
+	"Trevor Hunt (5281)" -> "Elissa Jenkins (3204)" [label=561]
+	"William Raymond Wheeler (5278)" -> "Barry Myatt (5279)" [label=85]
+	"William Raymond Wheeler (5278)" -> "Chad Smith (5282)" [label=16]
+	"William Raymond Wheeler (5278)" -> "Con Sciacca (5280)" [label=41]
 	"William Raymond Wheeler (5278)" -> "Elissa Jenkins (3204)" [label=29]
+	"William Raymond Wheeler (5278)" -> "Trevor Hunt (5281)" [label=34]
 }

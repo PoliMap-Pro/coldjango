@@ -2,24 +2,24 @@
 digraph "Paul Klisaris (2528)_Higgins_2004" {
 	graph [label="Higgins 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Klisaris (2528)" [label="Paul Klisaris (2528)
-Australian Labor Party"]
-	"Robert Trafficante (5573)" [label="Robert Trafficante (5573)
-Australian Greens"]
 	"Adam Mcbeth (5570)" [label="Adam Mcbeth (5570)
 Democrats"]
 	"Glen Pringle (5572)" [label="Glen Pringle (5572)
 Family First"]
 	"Katherine Reid (5571)" [label="Katherine Reid (5571)
 Citizens Electoral Council"]
-	"Robert Trafficante (5573)" -> "Paul Klisaris (2528)" [label=7885]
+	"Paul Klisaris (2528)" [label="Paul Klisaris (2528)
+Australian Labor Party"]
+	"Robert Trafficante (5573)" [label="Robert Trafficante (5573)
+Australian Greens"]
+	"Adam Mcbeth (5570)" -> "Paul Klisaris (2528)" [label=479]
 	"Adam Mcbeth (5570)" -> "Robert Trafficante (5573)" [label=779]
 	"Glen Pringle (5572)" -> "Adam Mcbeth (5570)" [label=130]
-	"Katherine Reid (5571)" -> "Glen Pringle (5572)" [label=74]
-	"Adam Mcbeth (5570)" -> "Paul Klisaris (2528)" [label=479]
 	"Glen Pringle (5572)" -> "Paul Klisaris (2528)" [label=114]
-	"Katherine Reid (5571)" -> "Paul Klisaris (2528)" [label=34]
-	"Katherine Reid (5571)" -> "Adam Mcbeth (5570)" [label=61]
 	"Glen Pringle (5572)" -> "Robert Trafficante (5573)" [label=153]
+	"Katherine Reid (5571)" -> "Adam Mcbeth (5570)" [label=61]
+	"Katherine Reid (5571)" -> "Glen Pringle (5572)" [label=74]
+	"Katherine Reid (5571)" -> "Paul Klisaris (2528)" [label=34]
 	"Katherine Reid (5571)" -> "Robert Trafficante (5573)" [label=40]
+	"Robert Trafficante (5573)" -> "Paul Klisaris (2528)" [label=7885]
 }

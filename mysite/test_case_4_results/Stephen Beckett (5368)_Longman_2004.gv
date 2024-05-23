@@ -2,24 +2,24 @@
 digraph "Stephen Beckett (5368)_Longman_2004" {
 	graph [label="Longman 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Beckett (5368)" [label="Stephen Beckett (5368)
-Australian Labor Party"]
+	"Jacqueline Kennedy (5367)" [label="Jacqueline Kennedy (5367)
+Australian Democrats"]
 	"Philip Kimmet (5369)" [label="Philip Kimmet (5369)
 The Greens"]
+	"Stephen Beckett (5368)" [label="Stephen Beckett (5368)
+Australian Labor Party"]
 	"Susan Meredith (5370)" [label="Susan Meredith (5370)
 One Nation"]
 	"Tom Lew (5371)" [label="Tom Lew (5371)
 Family First"]
-	"Jacqueline Kennedy (5367)" [label="Jacqueline Kennedy (5367)
-Australian Democrats"]
-	"Philip Kimmet (5369)" -> "Stephen Beckett (5368)" [label=3355]
-	"Susan Meredith (5370)" -> "Philip Kimmet (5369)" [label=988]
-	"Tom Lew (5371)" -> "Susan Meredith (5370)" [label=444]
-	"Jacqueline Kennedy (5367)" -> "Tom Lew (5371)" [label=81]
-	"Susan Meredith (5370)" -> "Stephen Beckett (5368)" [label=913]
-	"Tom Lew (5371)" -> "Stephen Beckett (5368)" [label=338]
+	"Jacqueline Kennedy (5367)" -> "Philip Kimmet (5369)" [label=374]
 	"Jacqueline Kennedy (5367)" -> "Stephen Beckett (5368)" [label=530]
 	"Jacqueline Kennedy (5367)" -> "Susan Meredith (5370)" [label=122]
+	"Jacqueline Kennedy (5367)" -> "Tom Lew (5371)" [label=81]
+	"Philip Kimmet (5369)" -> "Stephen Beckett (5368)" [label=3355]
+	"Susan Meredith (5370)" -> "Philip Kimmet (5369)" [label=988]
+	"Susan Meredith (5370)" -> "Stephen Beckett (5368)" [label=913]
 	"Tom Lew (5371)" -> "Philip Kimmet (5369)" [label=263]
-	"Jacqueline Kennedy (5367)" -> "Philip Kimmet (5369)" [label=374]
+	"Tom Lew (5371)" -> "Stephen Beckett (5368)" [label=338]
+	"Tom Lew (5371)" -> "Susan Meredith (5370)" [label=444]
 }

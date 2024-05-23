@@ -2,31 +2,31 @@
 digraph "Bill Kruse (5684)_Curtin_2004" {
 	graph [label="Curtin 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bill Kruse (5684)" [label="Bill Kruse (5684)
-Australian Labor Party"]
-	"Sonja Lundie-Jenkins (5686)" [label="Sonja Lundie-Jenkins (5686)
-The Greens"]
-	"Rob Olver (5685)" [label="Rob Olver (5685)
-Australian Democrats"]
-	"Gail Forder (3590)" [label="Gail Forder (3590)
-CDP Christian Party"]
 	"Albert Martin Caine (5687)" [label="Albert Martin Caine (5687)
 Pauline Hanson's One Nation"]
+	"Bill Kruse (5684)" [label="Bill Kruse (5684)
+Australian Labor Party"]
 	"Colin Horne (4806)" [label="Colin Horne (4806)
 Citizens Electoral Council"]
-	"Sonja Lundie-Jenkins (5686)" -> "Bill Kruse (5684)" [label=8033]
-	"Rob Olver (5685)" -> "Sonja Lundie-Jenkins (5686)" [label=1005]
-	"Gail Forder (3590)" -> "Rob Olver (5685)" [label=184]
-	"Albert Martin Caine (5687)" -> "Gail Forder (3590)" [label=161]
-	"Colin Horne (4806)" -> "Albert Martin Caine (5687)" [label=76]
-	"Rob Olver (5685)" -> "Bill Kruse (5684)" [label=486]
-	"Gail Forder (3590)" -> "Bill Kruse (5684)" [label=169]
+	"Gail Forder (3590)" [label="Gail Forder (3590)
+CDP Christian Party"]
+	"Rob Olver (5685)" [label="Rob Olver (5685)
+Australian Democrats"]
+	"Sonja Lundie-Jenkins (5686)" [label="Sonja Lundie-Jenkins (5686)
+The Greens"]
 	"Albert Martin Caine (5687)" -> "Bill Kruse (5684)" [label=96]
+	"Albert Martin Caine (5687)" -> "Gail Forder (3590)" [label=161]
+	"Albert Martin Caine (5687)" -> "Rob Olver (5685)" [label=77]
+	"Albert Martin Caine (5687)" -> "Sonja Lundie-Jenkins (5686)" [label=219]
+	"Colin Horne (4806)" -> "Albert Martin Caine (5687)" [label=76]
 	"Colin Horne (4806)" -> "Bill Kruse (5684)" [label=19]
 	"Colin Horne (4806)" -> "Gail Forder (3590)" [label=22]
-	"Albert Martin Caine (5687)" -> "Rob Olver (5685)" [label=77]
 	"Colin Horne (4806)" -> "Rob Olver (5685)" [label=21]
-	"Gail Forder (3590)" -> "Sonja Lundie-Jenkins (5686)" [label=165]
-	"Albert Martin Caine (5687)" -> "Sonja Lundie-Jenkins (5686)" [label=219]
 	"Colin Horne (4806)" -> "Sonja Lundie-Jenkins (5686)" [label=50]
+	"Gail Forder (3590)" -> "Bill Kruse (5684)" [label=169]
+	"Gail Forder (3590)" -> "Rob Olver (5685)" [label=184]
+	"Gail Forder (3590)" -> "Sonja Lundie-Jenkins (5686)" [label=165]
+	"Rob Olver (5685)" -> "Bill Kruse (5684)" [label=486]
+	"Rob Olver (5685)" -> "Sonja Lundie-Jenkins (5686)" [label=1005]
+	"Sonja Lundie-Jenkins (5686)" -> "Bill Kruse (5684)" [label=8033]
 }

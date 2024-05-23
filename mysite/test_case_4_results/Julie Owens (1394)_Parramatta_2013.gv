@@ -2,39 +2,39 @@
 digraph "Julie Owens (1394)_Parramatta_2013" {
 	graph [label="Parramatta 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julie Owens (1394)" [label="Julie Owens (1394)
-Labor"]
-	"Phil Bradley (277)" [label="Phil Bradley (277)
-The Greens"]
-	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
-Palmer United Party"]
 	"Alex Sharah (2969)" [label="Alex Sharah (2969)
 Christian Democratic Party (Fred Nile Group)"]
-	"Miechele Williams (2965)" [label="Miechele Williams (2965)
-Democratic Labour Party (DLP)"]
+	"Ganesh Sahadev Loke (1395)" [label="Ganesh Sahadev Loke (1395)
+Palmer United Party"]
+	"Julie Owens (1394)" [label="Julie Owens (1394)
+Labor"]
 	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
 Independent"]
+	"Miechele Williams (2965)" [label="Miechele Williams (2965)
+Democratic Labour Party (DLP)"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
 	"Tania Rollinson (2968)" [label="Tania Rollinson (2968)
 One Nation"]
-	"Phil Bradley (277)" -> "Julie Owens (1394)" [label=4309]
-	"Ganesh Sahadev Loke (1395)" -> "Phil Bradley (277)" [label=675]
 	"Alex Sharah (2969)" -> "Ganesh Sahadev Loke (1395)" [label=329]
-	"Miechele Williams (2965)" -> "Alex Sharah (2969)" [label=141]
-	"Kalpesh Patel (2966)" -> "Miechele Williams (2965)" [label=123]
-	"Tania Rollinson (2968)" -> "Kalpesh Patel (2966)" [label=67]
-	"Ganesh Sahadev Loke (1395)" -> "Julie Owens (1394)" [label=1744]
 	"Alex Sharah (2969)" -> "Julie Owens (1394)" [label=471]
-	"Miechele Williams (2965)" -> "Julie Owens (1394)" [label=514]
-	"Kalpesh Patel (2966)" -> "Julie Owens (1394)" [label=335]
-	"Tania Rollinson (2968)" -> "Julie Owens (1394)" [label=131]
-	"Tania Rollinson (2968)" -> "Miechele Williams (2965)" [label=53]
-	"Kalpesh Patel (2966)" -> "Alex Sharah (2969)" [label=54]
-	"Tania Rollinson (2968)" -> "Alex Sharah (2969)" [label=160]
-	"Miechele Williams (2965)" -> "Ganesh Sahadev Loke (1395)" [label=815]
-	"Kalpesh Patel (2966)" -> "Ganesh Sahadev Loke (1395)" [label=348]
-	"Tania Rollinson (2968)" -> "Ganesh Sahadev Loke (1395)" [label=138]
 	"Alex Sharah (2969)" -> "Phil Bradley (277)" [label=203]
-	"Miechele Williams (2965)" -> "Phil Bradley (277)" [label=181]
+	"Ganesh Sahadev Loke (1395)" -> "Julie Owens (1394)" [label=1744]
+	"Ganesh Sahadev Loke (1395)" -> "Phil Bradley (277)" [label=675]
+	"Kalpesh Patel (2966)" -> "Alex Sharah (2969)" [label=54]
+	"Kalpesh Patel (2966)" -> "Ganesh Sahadev Loke (1395)" [label=348]
+	"Kalpesh Patel (2966)" -> "Julie Owens (1394)" [label=335]
+	"Kalpesh Patel (2966)" -> "Miechele Williams (2965)" [label=123]
 	"Kalpesh Patel (2966)" -> "Phil Bradley (277)" [label=163]
+	"Miechele Williams (2965)" -> "Alex Sharah (2969)" [label=141]
+	"Miechele Williams (2965)" -> "Ganesh Sahadev Loke (1395)" [label=815]
+	"Miechele Williams (2965)" -> "Julie Owens (1394)" [label=514]
+	"Miechele Williams (2965)" -> "Phil Bradley (277)" [label=181]
+	"Phil Bradley (277)" -> "Julie Owens (1394)" [label=4309]
+	"Tania Rollinson (2968)" -> "Alex Sharah (2969)" [label=160]
+	"Tania Rollinson (2968)" -> "Ganesh Sahadev Loke (1395)" [label=138]
+	"Tania Rollinson (2968)" -> "Julie Owens (1394)" [label=131]
+	"Tania Rollinson (2968)" -> "Kalpesh Patel (2966)" [label=67]
+	"Tania Rollinson (2968)" -> "Miechele Williams (2965)" [label=53]
 	"Tania Rollinson (2968)" -> "Phil Bradley (277)" [label=75]
 }

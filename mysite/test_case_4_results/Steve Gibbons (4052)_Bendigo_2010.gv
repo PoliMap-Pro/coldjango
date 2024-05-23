@@ -2,13 +2,13 @@
 digraph "Steve Gibbons (4052)_Bendigo_2010" {
 	graph [label="Bendigo 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Steve Gibbons (4052)" [label="Steve Gibbons (4052)
-Australian Labor Party"]
-	"Kymberlie Dimozantos (4053)" [label="Kymberlie Dimozantos (4053)
-Australian Greens"]
 	"Alan Howard (2552)" [label="Alan Howard (2552)
 Family First"]
-	"Kymberlie Dimozantos (4053)" -> "Steve Gibbons (4052)" [label=10037]
+	"Kymberlie Dimozantos (4053)" [label="Kymberlie Dimozantos (4053)
+Australian Greens"]
+	"Steve Gibbons (4052)" [label="Steve Gibbons (4052)
+Australian Labor Party"]
 	"Alan Howard (2552)" -> "Kymberlie Dimozantos (4053)" [label=751]
 	"Alan Howard (2552)" -> "Steve Gibbons (4052)" [label=926]
+	"Kymberlie Dimozantos (4053)" -> "Steve Gibbons (4052)" [label=10037]
 }

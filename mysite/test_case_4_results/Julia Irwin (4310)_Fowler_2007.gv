@@ -4,11 +4,11 @@ digraph "Julia Irwin (4310)_Fowler_2007" {
 	node [shape=box]
 	"Julia Irwin (4310)" [label="Julia Irwin (4310)
 Labor"]
-	"Vlaudin Vega (4307)" [label="Vlaudin Vega (4307)
-The Greens"]
 	"Paul Termeulen (4309)" [label="Paul Termeulen (4309)
 Christian Democratic Party (Fred Nile Group)"]
-	"Vlaudin Vega (4307)" -> "Julia Irwin (4310)" [label=2479]
-	"Paul Termeulen (4309)" -> "Vlaudin Vega (4307)" [label=345]
+	"Vlaudin Vega (4307)" [label="Vlaudin Vega (4307)
+The Greens"]
 	"Paul Termeulen (4309)" -> "Julia Irwin (4310)" [label=647]
+	"Paul Termeulen (4309)" -> "Vlaudin Vega (4307)" [label=345]
+	"Vlaudin Vega (4307)" -> "Julia Irwin (4310)" [label=2479]
 }

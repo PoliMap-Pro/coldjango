@@ -2,13 +2,13 @@
 digraph "Rupert Evans (3311)_Aston_2010" {
 	graph [label="Aston 2010" labelloc=t mclimit=10]
 	node [shape=box]
+	"Rachel Hanna (4045)" [label="Rachel Hanna (4045)
+Family First"]
 	"Rupert Evans (3311)" [label="Rupert Evans (3311)
 Australian Labor Party"]
 	"Salore Craig (4046)" [label="Salore Craig (4046)
 Australian Greens"]
-	"Rachel Hanna (4045)" [label="Rachel Hanna (4045)
-Family First"]
-	"Salore Craig (4046)" -> "Rupert Evans (3311)" [label=6856]
-	"Rachel Hanna (4045)" -> "Salore Craig (4046)" [label=867]
 	"Rachel Hanna (4045)" -> "Rupert Evans (3311)" [label=1335]
+	"Rachel Hanna (4045)" -> "Salore Craig (4046)" [label=867]
+	"Salore Craig (4046)" -> "Rupert Evans (3311)" [label=6856]
 }

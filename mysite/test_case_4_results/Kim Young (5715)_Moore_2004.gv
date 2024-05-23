@@ -2,31 +2,31 @@
 digraph "Kim Young (5715)_Moore_2004" {
 	graph [label="Moore 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kim Young (5715)" [label="Kim Young (5715)
-Australian Labor Party"]
-	"Thor Kerr (2782)" [label="Thor Kerr (2782)
-The Greens"]
+	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
+Citizens Electoral Council"]
 	"Evelynne Wong (5716)" [label="Evelynne Wong (5716)
 CDP Christian Party"]
 	"George Gault (4199)" [label="George Gault (4199)
 Pauline Hanson's One Nation"]
 	"Kevin Payne (5717)" [label="Kevin Payne (5717)
 Australian Democrats"]
-	"Arthur Harvey (4948)" [label="Arthur Harvey (4948)
-Citizens Electoral Council"]
-	"Thor Kerr (2782)" -> "Kim Young (5715)" [label=4121]
+	"Kim Young (5715)" [label="Kim Young (5715)
+Australian Labor Party"]
+	"Thor Kerr (2782)" [label="Thor Kerr (2782)
+The Greens"]
+	"Arthur Harvey (4948)" -> "Evelynne Wong (5716)" [label=37]
+	"Arthur Harvey (4948)" -> "George Gault (4199)" [label=26]
+	"Arthur Harvey (4948)" -> "Kevin Payne (5717)" [label=29]
+	"Arthur Harvey (4948)" -> "Kim Young (5715)" [label=22]
+	"Arthur Harvey (4948)" -> "Thor Kerr (2782)" [label=45]
+	"Evelynne Wong (5716)" -> "Kim Young (5715)" [label=522]
 	"Evelynne Wong (5716)" -> "Thor Kerr (2782)" [label=302]
 	"George Gault (4199)" -> "Evelynne Wong (5716)" [label=323]
-	"Kevin Payne (5717)" -> "George Gault (4199)" [label=71]
-	"Arthur Harvey (4948)" -> "Kevin Payne (5717)" [label=29]
-	"Evelynne Wong (5716)" -> "Kim Young (5715)" [label=522]
 	"George Gault (4199)" -> "Kim Young (5715)" [label=374]
-	"Kevin Payne (5717)" -> "Kim Young (5715)" [label=225]
-	"Arthur Harvey (4948)" -> "Kim Young (5715)" [label=22]
-	"Arthur Harvey (4948)" -> "George Gault (4199)" [label=26]
-	"Kevin Payne (5717)" -> "Evelynne Wong (5716)" [label=50]
-	"Arthur Harvey (4948)" -> "Evelynne Wong (5716)" [label=37]
 	"George Gault (4199)" -> "Thor Kerr (2782)" [label=312]
+	"Kevin Payne (5717)" -> "Evelynne Wong (5716)" [label=50]
+	"Kevin Payne (5717)" -> "George Gault (4199)" [label=71]
+	"Kevin Payne (5717)" -> "Kim Young (5715)" [label=225]
 	"Kevin Payne (5717)" -> "Thor Kerr (2782)" [label=575]
-	"Arthur Harvey (4948)" -> "Thor Kerr (2782)" [label=45]
+	"Thor Kerr (2782)" -> "Kim Young (5715)" [label=4121]
 }

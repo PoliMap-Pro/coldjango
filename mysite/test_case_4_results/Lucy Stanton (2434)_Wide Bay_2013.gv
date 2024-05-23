@@ -2,31 +2,31 @@
 digraph "Lucy Stanton (2434)_Wide Bay_2013" {
 	graph [label="Wide Bay 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Gordon Dale (3228)" [label="Gordon Dale (3228)
+Katter's Australian Party"]
+	"Grace Dickins (3232)" [label="Grace Dickins (3232)
+Rise Up Australia Party"]
+	"John Chapman (3231)" [label="John Chapman (3231)
+Family First"]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+The Greens"]
 	"Lucy Stanton (2434)" [label="Lucy Stanton (2434)
 Australian Labor Party"]
 	"Stephen Alfred Anderson (3230)" [label="Stephen Alfred Anderson (3230)
 Palmer United Party"]
-	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
-The Greens"]
-	"Gordon Dale (3228)" [label="Gordon Dale (3228)
-Katter's Australian Party"]
-	"John Chapman (3231)" [label="John Chapman (3231)
-Family First"]
-	"Grace Dickins (3232)" [label="Grace Dickins (3232)
-Rise Up Australia Party"]
-	"Stephen Alfred Anderson (3230)" -> "Lucy Stanton (2434)" [label=8917]
-	"Joy Ringrose (3229)" -> "Stephen Alfred Anderson (3230)" [label=1586]
 	"Gordon Dale (3228)" -> "Joy Ringrose (3229)" [label=462]
-	"John Chapman (3231)" -> "Gordon Dale (3228)" [label=194]
-	"Grace Dickins (3232)" -> "John Chapman (3231)" [label=209]
-	"Joy Ringrose (3229)" -> "Lucy Stanton (2434)" [label=3751]
 	"Gordon Dale (3228)" -> "Lucy Stanton (2434)" [label=811]
-	"John Chapman (3231)" -> "Lucy Stanton (2434)" [label=226]
-	"Grace Dickins (3232)" -> "Lucy Stanton (2434)" [label=82]
-	"Grace Dickins (3232)" -> "Gordon Dale (3228)" [label=51]
-	"John Chapman (3231)" -> "Joy Ringrose (3229)" [label=230]
-	"Grace Dickins (3232)" -> "Joy Ringrose (3229)" [label=57]
 	"Gordon Dale (3228)" -> "Stephen Alfred Anderson (3230)" [label=2899]
-	"John Chapman (3231)" -> "Stephen Alfred Anderson (3230)" [label=350]
+	"Grace Dickins (3232)" -> "Gordon Dale (3228)" [label=51]
+	"Grace Dickins (3232)" -> "John Chapman (3231)" [label=209]
+	"Grace Dickins (3232)" -> "Joy Ringrose (3229)" [label=57]
+	"Grace Dickins (3232)" -> "Lucy Stanton (2434)" [label=82]
 	"Grace Dickins (3232)" -> "Stephen Alfred Anderson (3230)" [label=61]
+	"John Chapman (3231)" -> "Gordon Dale (3228)" [label=194]
+	"John Chapman (3231)" -> "Joy Ringrose (3229)" [label=230]
+	"John Chapman (3231)" -> "Lucy Stanton (2434)" [label=226]
+	"John Chapman (3231)" -> "Stephen Alfred Anderson (3230)" [label=350]
+	"Joy Ringrose (3229)" -> "Lucy Stanton (2434)" [label=3751]
+	"Joy Ringrose (3229)" -> "Stephen Alfred Anderson (3230)" [label=1586]
+	"Stephen Alfred Anderson (3230)" -> "Lucy Stanton (2434)" [label=8917]
 }

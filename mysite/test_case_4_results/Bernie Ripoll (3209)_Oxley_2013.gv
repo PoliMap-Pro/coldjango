@@ -4,37 +4,37 @@ digraph "Bernie Ripoll (3209)_Oxley_2013" {
 	node [shape=box]
 	"Bernie Ripoll (3209)" [label="Bernie Ripoll (3209)
 Australian Labor Party"]
-	"Ricky Yue Mun Tang (3208)" [label="Ricky Yue Mun Tang (3208)
-Palmer United Party"]
-	"Martin Stephenson (3206)" [label="Martin Stephenson (3206)
-The Greens"]
 	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
 Family First"]
-	"Kathleen Hewlett (3207)" [label="Kathleen Hewlett (3207)
-Katter's Australian Party"]
 	"Frank Karg (3205)" [label="Frank Karg (3205)
 Democratic Labour Party (DLP)"]
+	"Kathleen Hewlett (3207)" [label="Kathleen Hewlett (3207)
+Katter's Australian Party"]
+	"Martin Stephenson (3206)" [label="Martin Stephenson (3206)
+The Greens"]
+	"Ricky Yue Mun Tang (3208)" [label="Ricky Yue Mun Tang (3208)
+Palmer United Party"]
 	"Scott Moerland (1618)" [label="Scott Moerland (1618)
 Rise Up Australia Party"]
-	"Ricky Yue Mun Tang (3208)" -> "Bernie Ripoll (3209)" [label=4172]
-	"Martin Stephenson (3206)" -> "Ricky Yue Mun Tang (3208)" [label=1110]
-	"Carrie Mccormack (2415)" -> "Martin Stephenson (3206)" [label=280]
-	"Kathleen Hewlett (3207)" -> "Carrie Mccormack (2415)" [label=168]
-	"Frank Karg (3205)" -> "Kathleen Hewlett (3207)" [label=105]
-	"Scott Moerland (1618)" -> "Frank Karg (3205)" [label=41]
-	"Martin Stephenson (3206)" -> "Bernie Ripoll (3209)" [label=2825]
 	"Carrie Mccormack (2415)" -> "Bernie Ripoll (3209)" [label=499]
-	"Kathleen Hewlett (3207)" -> "Bernie Ripoll (3209)" [label=280]
-	"Frank Karg (3205)" -> "Bernie Ripoll (3209)" [label=243]
-	"Scott Moerland (1618)" -> "Bernie Ripoll (3209)" [label=49]
-	"Scott Moerland (1618)" -> "Kathleen Hewlett (3207)" [label=70]
-	"Frank Karg (3205)" -> "Carrie Mccormack (2415)" [label=145]
-	"Scott Moerland (1618)" -> "Carrie Mccormack (2415)" [label=61]
-	"Kathleen Hewlett (3207)" -> "Martin Stephenson (3206)" [label=201]
-	"Frank Karg (3205)" -> "Martin Stephenson (3206)" [label=256]
-	"Scott Moerland (1618)" -> "Martin Stephenson (3206)" [label=43]
+	"Carrie Mccormack (2415)" -> "Martin Stephenson (3206)" [label=280]
 	"Carrie Mccormack (2415)" -> "Ricky Yue Mun Tang (3208)" [label=508]
-	"Kathleen Hewlett (3207)" -> "Ricky Yue Mun Tang (3208)" [label=697]
+	"Frank Karg (3205)" -> "Bernie Ripoll (3209)" [label=243]
+	"Frank Karg (3205)" -> "Carrie Mccormack (2415)" [label=145]
+	"Frank Karg (3205)" -> "Kathleen Hewlett (3207)" [label=105]
+	"Frank Karg (3205)" -> "Martin Stephenson (3206)" [label=256]
 	"Frank Karg (3205)" -> "Ricky Yue Mun Tang (3208)" [label=85]
+	"Kathleen Hewlett (3207)" -> "Bernie Ripoll (3209)" [label=280]
+	"Kathleen Hewlett (3207)" -> "Carrie Mccormack (2415)" [label=168]
+	"Kathleen Hewlett (3207)" -> "Martin Stephenson (3206)" [label=201]
+	"Kathleen Hewlett (3207)" -> "Ricky Yue Mun Tang (3208)" [label=697]
+	"Martin Stephenson (3206)" -> "Bernie Ripoll (3209)" [label=2825]
+	"Martin Stephenson (3206)" -> "Ricky Yue Mun Tang (3208)" [label=1110]
+	"Ricky Yue Mun Tang (3208)" -> "Bernie Ripoll (3209)" [label=4172]
+	"Scott Moerland (1618)" -> "Bernie Ripoll (3209)" [label=49]
+	"Scott Moerland (1618)" -> "Carrie Mccormack (2415)" [label=61]
+	"Scott Moerland (1618)" -> "Frank Karg (3205)" [label=41]
+	"Scott Moerland (1618)" -> "Kathleen Hewlett (3207)" [label=70]
+	"Scott Moerland (1618)" -> "Martin Stephenson (3206)" [label=43]
 	"Scott Moerland (1618)" -> "Ricky Yue Mun Tang (3208)" [label=66]
 }

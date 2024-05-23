@@ -2,39 +2,39 @@
 digraph "Sam Davis (4018)_Mayo_2010" {
 	graph [label="Mayo 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sam Davis (4018)" [label="Sam Davis (4018)
-Australian Labor Party"]
-	"Diane Atkinson (4016)" [label="Diane Atkinson (4016)
-The Greens"]
-	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
-Family First"]
-	"Bill Spragg (4017)" [label="Bill Spragg (4017)
-Independent"]
-	"Rebekkah Osmond (4019)" [label="Rebekkah Osmond (4019)
-Australian Democrats"]
 	"Andrew James Phillips (4015)" [label="Andrew James Phillips (4015)
 Independent"]
+	"Bill Spragg (4017)" [label="Bill Spragg (4017)
+Independent"]
+	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
+Family First"]
+	"Diane Atkinson (4016)" [label="Diane Atkinson (4016)
+The Greens"]
 	"John Wesley Michelmore (4020)" [label="John Wesley Michelmore (4020)
 The Climate Sceptics"]
-	"Diane Atkinson (4016)" -> "Sam Davis (4018)" [label=14144]
-	"Bruce Hicks (2483)" -> "Diane Atkinson (4016)" [label=1377]
-	"Bill Spragg (4017)" -> "Bruce Hicks (2483)" [label=541]
-	"Rebekkah Osmond (4019)" -> "Bill Spragg (4017)" [label=248]
-	"Andrew James Phillips (4015)" -> "Rebekkah Osmond (4019)" [label=52]
-	"John Wesley Michelmore (4020)" -> "Andrew James Phillips (4015)" [label=64]
-	"Bruce Hicks (2483)" -> "Sam Davis (4018)" [label=895]
-	"Bill Spragg (4017)" -> "Sam Davis (4018)" [label=710]
-	"Rebekkah Osmond (4019)" -> "Sam Davis (4018)" [label=300]
-	"Andrew James Phillips (4015)" -> "Sam Davis (4018)" [label=80]
-	"John Wesley Michelmore (4020)" -> "Sam Davis (4018)" [label=75]
-	"John Wesley Michelmore (4020)" -> "Rebekkah Osmond (4019)" [label=123]
+	"Rebekkah Osmond (4019)" [label="Rebekkah Osmond (4019)
+Australian Democrats"]
+	"Sam Davis (4018)" [label="Sam Davis (4018)
+Australian Labor Party"]
 	"Andrew James Phillips (4015)" -> "Bill Spragg (4017)" [label=463]
-	"John Wesley Michelmore (4020)" -> "Bill Spragg (4017)" [label=110]
-	"Rebekkah Osmond (4019)" -> "Bruce Hicks (2483)" [label=102]
 	"Andrew James Phillips (4015)" -> "Bruce Hicks (2483)" [label=117]
-	"John Wesley Michelmore (4020)" -> "Bruce Hicks (2483)" [label=85]
-	"Bill Spragg (4017)" -> "Diane Atkinson (4016)" [label=1250]
-	"Rebekkah Osmond (4019)" -> "Diane Atkinson (4016)" [label=322]
 	"Andrew James Phillips (4015)" -> "Diane Atkinson (4016)" [label=171]
+	"Andrew James Phillips (4015)" -> "Rebekkah Osmond (4019)" [label=52]
+	"Andrew James Phillips (4015)" -> "Sam Davis (4018)" [label=80]
+	"Bill Spragg (4017)" -> "Bruce Hicks (2483)" [label=541]
+	"Bill Spragg (4017)" -> "Diane Atkinson (4016)" [label=1250]
+	"Bill Spragg (4017)" -> "Sam Davis (4018)" [label=710]
+	"Bruce Hicks (2483)" -> "Diane Atkinson (4016)" [label=1377]
+	"Bruce Hicks (2483)" -> "Sam Davis (4018)" [label=895]
+	"Diane Atkinson (4016)" -> "Sam Davis (4018)" [label=14144]
+	"John Wesley Michelmore (4020)" -> "Andrew James Phillips (4015)" [label=64]
+	"John Wesley Michelmore (4020)" -> "Bill Spragg (4017)" [label=110]
+	"John Wesley Michelmore (4020)" -> "Bruce Hicks (2483)" [label=85]
 	"John Wesley Michelmore (4020)" -> "Diane Atkinson (4016)" [label=71]
+	"John Wesley Michelmore (4020)" -> "Rebekkah Osmond (4019)" [label=123]
+	"John Wesley Michelmore (4020)" -> "Sam Davis (4018)" [label=75]
+	"Rebekkah Osmond (4019)" -> "Bill Spragg (4017)" [label=248]
+	"Rebekkah Osmond (4019)" -> "Bruce Hicks (2483)" [label=102]
+	"Rebekkah Osmond (4019)" -> "Diane Atkinson (4016)" [label=322]
+	"Rebekkah Osmond (4019)" -> "Sam Davis (4018)" [label=300]
 }

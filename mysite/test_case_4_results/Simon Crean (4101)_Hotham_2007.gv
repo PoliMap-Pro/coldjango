@@ -2,31 +2,31 @@
 digraph "Simon Crean (4101)_Hotham_2007" {
 	graph [label="Hotham 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Simon Crean (4101)" [label="Simon Crean (4101)
-Australian Labor Party"]
-	"Matthew Billman (4819)" [label="Matthew Billman (4819)
-Australian Greens"]
-	"Peter Dorian (1832)" [label="Peter Dorian (1832)
-Family First"]
 	"Craig Cadby (4822)" [label="Craig Cadby (4822)
 Australian Democrats"]
-	"Terry Farrell (4821)" [label="Terry Farrell (4821)
-D.L.P. - Democratic Labor Party"]
+	"Matthew Billman (4819)" [label="Matthew Billman (4819)
+Australian Greens"]
 	"Mike Woodward (4820)" [label="Mike Woodward (4820)
 Citizens Electoral Council"]
-	"Matthew Billman (4819)" -> "Simon Crean (4101)" [label=5397]
-	"Peter Dorian (1832)" -> "Matthew Billman (4819)" [label=438]
-	"Craig Cadby (4822)" -> "Peter Dorian (1832)" [label=164]
-	"Terry Farrell (4821)" -> "Craig Cadby (4822)" [label=106]
-	"Mike Woodward (4820)" -> "Terry Farrell (4821)" [label=30]
-	"Peter Dorian (1832)" -> "Simon Crean (4101)" [label=506]
-	"Craig Cadby (4822)" -> "Simon Crean (4101)" [label=217]
-	"Terry Farrell (4821)" -> "Simon Crean (4101)" [label=192]
-	"Mike Woodward (4820)" -> "Simon Crean (4101)" [label=75]
-	"Mike Woodward (4820)" -> "Craig Cadby (4822)" [label=23]
-	"Terry Farrell (4821)" -> "Peter Dorian (1832)" [label=272]
-	"Mike Woodward (4820)" -> "Peter Dorian (1832)" [label=24]
+	"Peter Dorian (1832)" [label="Peter Dorian (1832)
+Family First"]
+	"Simon Crean (4101)" [label="Simon Crean (4101)
+Australian Labor Party"]
+	"Terry Farrell (4821)" [label="Terry Farrell (4821)
+D.L.P. - Democratic Labor Party"]
 	"Craig Cadby (4822)" -> "Matthew Billman (4819)" [label=362]
-	"Terry Farrell (4821)" -> "Matthew Billman (4819)" [label=99]
+	"Craig Cadby (4822)" -> "Peter Dorian (1832)" [label=164]
+	"Craig Cadby (4822)" -> "Simon Crean (4101)" [label=217]
+	"Matthew Billman (4819)" -> "Simon Crean (4101)" [label=5397]
+	"Mike Woodward (4820)" -> "Craig Cadby (4822)" [label=23]
 	"Mike Woodward (4820)" -> "Matthew Billman (4819)" [label=56]
+	"Mike Woodward (4820)" -> "Peter Dorian (1832)" [label=24]
+	"Mike Woodward (4820)" -> "Simon Crean (4101)" [label=75]
+	"Mike Woodward (4820)" -> "Terry Farrell (4821)" [label=30]
+	"Peter Dorian (1832)" -> "Matthew Billman (4819)" [label=438]
+	"Peter Dorian (1832)" -> "Simon Crean (4101)" [label=506]
+	"Terry Farrell (4821)" -> "Craig Cadby (4822)" [label=106]
+	"Terry Farrell (4821)" -> "Matthew Billman (4819)" [label=99]
+	"Terry Farrell (4821)" -> "Peter Dorian (1832)" [label=272]
+	"Terry Farrell (4821)" -> "Simon Crean (4101)" [label=192]
 }

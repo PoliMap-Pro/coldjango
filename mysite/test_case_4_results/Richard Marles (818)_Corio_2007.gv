@@ -2,48 +2,48 @@
 digraph "Richard Marles (818)_Corio_2007" {
 	graph [label="Corio 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Richard Marles (818)" [label="Richard Marles (818)
-Australian Labor Party"]
-	"Gavan O'Connor (4779)" [label="Gavan O'Connor (4779)
-Independent"]
-	"Rob Leach (4781)" [label="Rob Leach (4781)
-Australian Greens"]
-	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
-Family First"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Socialist Alliance"]
 	"Darrin Jeffrey Welden (4775)" [label="Darrin Jeffrey Welden (4775)
 LDP"]
 	"Erica C Menheere-Thompson (4780)" [label="Erica C Menheere-Thompson (4780)
 Australian Democrats"]
-	"Chris Johnson (3558)" [label="Chris Johnson (3558)
-Socialist Alliance"]
+	"Gavan O'Connor (4779)" [label="Gavan O'Connor (4779)
+Independent"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Richard Marles (818)" [label="Richard Marles (818)
+Australian Labor Party"]
+	"Rob Leach (4781)" [label="Rob Leach (4781)
+Australian Greens"]
 	"Ross Russell (4776)" [label="Ross Russell (4776)
 Citizens Electoral Council"]
-	"Gavan O'Connor (4779)" -> "Richard Marles (818)" [label=6655]
-	"Rob Leach (4781)" -> "Gavan O'Connor (4779)" [label=1352]
-	"Gordon Alderson (4777)" -> "Rob Leach (4781)" [label=349]
-	"Darrin Jeffrey Welden (4775)" -> "Gordon Alderson (4777)" [label=626]
-	"Erica C Menheere-Thompson (4780)" -> "Darrin Jeffrey Welden (4775)" [label=25]
-	"Chris Johnson (3558)" -> "Erica C Menheere-Thompson (4780)" [label=21]
-	"Ross Russell (4776)" -> "Chris Johnson (3558)" [label=29]
-	"Rob Leach (4781)" -> "Richard Marles (818)" [label=3701]
-	"Gordon Alderson (4777)" -> "Richard Marles (818)" [label=531]
-	"Darrin Jeffrey Welden (4775)" -> "Richard Marles (818)" [label=52]
-	"Erica C Menheere-Thompson (4780)" -> "Richard Marles (818)" [label=171]
-	"Chris Johnson (3558)" -> "Richard Marles (818)" [label=43]
-	"Ross Russell (4776)" -> "Richard Marles (818)" [label=8]
-	"Ross Russell (4776)" -> "Erica C Menheere-Thompson (4780)" [label=2]
 	"Chris Johnson (3558)" -> "Darrin Jeffrey Welden (4775)" [label=60]
-	"Ross Russell (4776)" -> "Darrin Jeffrey Welden (4775)" [label=58]
-	"Erica C Menheere-Thompson (4780)" -> "Gordon Alderson (4777)" [label=38]
-	"Chris Johnson (3558)" -> "Gordon Alderson (4777)" [label=59]
-	"Ross Russell (4776)" -> "Gordon Alderson (4777)" [label=40]
-	"Darrin Jeffrey Welden (4775)" -> "Rob Leach (4781)" [label=48]
-	"Erica C Menheere-Thompson (4780)" -> "Rob Leach (4781)" [label=224]
-	"Chris Johnson (3558)" -> "Rob Leach (4781)" [label=122]
-	"Ross Russell (4776)" -> "Rob Leach (4781)" [label=11]
-	"Gordon Alderson (4777)" -> "Gavan O'Connor (4779)" [label=657]
-	"Darrin Jeffrey Welden (4775)" -> "Gavan O'Connor (4779)" [label=68]
-	"Erica C Menheere-Thompson (4780)" -> "Gavan O'Connor (4779)" [label=126]
+	"Chris Johnson (3558)" -> "Erica C Menheere-Thompson (4780)" [label=21]
 	"Chris Johnson (3558)" -> "Gavan O'Connor (4779)" [label=36]
+	"Chris Johnson (3558)" -> "Gordon Alderson (4777)" [label=59]
+	"Chris Johnson (3558)" -> "Richard Marles (818)" [label=43]
+	"Chris Johnson (3558)" -> "Rob Leach (4781)" [label=122]
+	"Darrin Jeffrey Welden (4775)" -> "Gavan O'Connor (4779)" [label=68]
+	"Darrin Jeffrey Welden (4775)" -> "Gordon Alderson (4777)" [label=626]
+	"Darrin Jeffrey Welden (4775)" -> "Richard Marles (818)" [label=52]
+	"Darrin Jeffrey Welden (4775)" -> "Rob Leach (4781)" [label=48]
+	"Erica C Menheere-Thompson (4780)" -> "Darrin Jeffrey Welden (4775)" [label=25]
+	"Erica C Menheere-Thompson (4780)" -> "Gavan O'Connor (4779)" [label=126]
+	"Erica C Menheere-Thompson (4780)" -> "Gordon Alderson (4777)" [label=38]
+	"Erica C Menheere-Thompson (4780)" -> "Richard Marles (818)" [label=171]
+	"Erica C Menheere-Thompson (4780)" -> "Rob Leach (4781)" [label=224]
+	"Gavan O'Connor (4779)" -> "Richard Marles (818)" [label=6655]
+	"Gordon Alderson (4777)" -> "Gavan O'Connor (4779)" [label=657]
+	"Gordon Alderson (4777)" -> "Richard Marles (818)" [label=531]
+	"Gordon Alderson (4777)" -> "Rob Leach (4781)" [label=349]
+	"Rob Leach (4781)" -> "Gavan O'Connor (4779)" [label=1352]
+	"Rob Leach (4781)" -> "Richard Marles (818)" [label=3701]
+	"Ross Russell (4776)" -> "Chris Johnson (3558)" [label=29]
+	"Ross Russell (4776)" -> "Darrin Jeffrey Welden (4775)" [label=58]
+	"Ross Russell (4776)" -> "Erica C Menheere-Thompson (4780)" [label=2]
 	"Ross Russell (4776)" -> "Gavan O'Connor (4779)" [label=19]
+	"Ross Russell (4776)" -> "Gordon Alderson (4777)" [label=40]
+	"Ross Russell (4776)" -> "Richard Marles (818)" [label=8]
+	"Ross Russell (4776)" -> "Rob Leach (4781)" [label=11]
 }

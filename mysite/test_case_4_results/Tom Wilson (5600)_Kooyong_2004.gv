@@ -2,24 +2,24 @@
 digraph "Tom Wilson (5600)_Kooyong_2004" {
 	graph [label="Kooyong 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tom Wilson (5600)" [label="Tom Wilson (5600)
-Australian Labor Party"]
-	"Peter Campbell (4838)" [label="Peter Campbell (4838)
-Australian Greens"]
-	"Mary Dettman (4815)" [label="Mary Dettman (4815)
-Democrats"]
-	"John Laidler (4114)" [label="John Laidler (4114)
-Family First"]
 	"Andrew Reed (4869)" [label="Andrew Reed (4869)
 Citizens Electoral Council"]
-	"Peter Campbell (4838)" -> "Tom Wilson (5600)" [label=8455]
-	"Mary Dettman (4815)" -> "Peter Campbell (4838)" [label=803]
-	"John Laidler (4114)" -> "Mary Dettman (4815)" [label=160]
+	"John Laidler (4114)" [label="John Laidler (4114)
+Family First"]
+	"Mary Dettman (4815)" [label="Mary Dettman (4815)
+Democrats"]
+	"Peter Campbell (4838)" [label="Peter Campbell (4838)
+Australian Greens"]
+	"Tom Wilson (5600)" [label="Tom Wilson (5600)
+Australian Labor Party"]
 	"Andrew Reed (4869)" -> "John Laidler (4114)" [label=79]
-	"Mary Dettman (4815)" -> "Tom Wilson (5600)" [label=463]
-	"John Laidler (4114)" -> "Tom Wilson (5600)" [label=142]
-	"Andrew Reed (4869)" -> "Tom Wilson (5600)" [label=-260]
 	"Andrew Reed (4869)" -> "Mary Dettman (4815)" [label=41]
-	"John Laidler (4114)" -> "Peter Campbell (4838)" [label=167]
 	"Andrew Reed (4869)" -> "Peter Campbell (4838)" [label=213]
+	"Andrew Reed (4869)" -> "Tom Wilson (5600)" [label=-260]
+	"John Laidler (4114)" -> "Mary Dettman (4815)" [label=160]
+	"John Laidler (4114)" -> "Peter Campbell (4838)" [label=167]
+	"John Laidler (4114)" -> "Tom Wilson (5600)" [label=142]
+	"Mary Dettman (4815)" -> "Peter Campbell (4838)" [label=803]
+	"Mary Dettman (4815)" -> "Tom Wilson (5600)" [label=463]
+	"Peter Campbell (4838)" -> "Tom Wilson (5600)" [label=8455]
 }

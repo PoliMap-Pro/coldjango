@@ -4,37 +4,37 @@ digraph "Ann K Corcoran (5593)_Isaacs_2004" {
 	node [shape=box]
 	"Ann K Corcoran (5593)" [label="Ann K Corcoran (5593)
 Australian Labor Party"]
-	"Sean Hardy (5587)" [label="Sean Hardy (5587)
-Australian Greens"]
-	"Jacob Mathews (5591)" [label="Jacob Mathews (5591)
-Family First"]
-	"Haydn Fletcher (5589)" [label="Haydn Fletcher (5589)
-Democrats"]
-	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
-Independent"]
 	"Carl L Groves (5590)" [label="Carl L Groves (5590)
 One Nation"]
+	"Gordon W Ford (4108)" [label="Gordon W Ford (4108)
+Independent"]
+	"Haydn Fletcher (5589)" [label="Haydn Fletcher (5589)
+Democrats"]
+	"Jacob Mathews (5591)" [label="Jacob Mathews (5591)
+Family First"]
 	"Martha Malliotis (5592)" [label="Martha Malliotis (5592)
 Citizens Electoral Council"]
-	"Sean Hardy (5587)" -> "Ann K Corcoran (5593)" [label=4913]
-	"Jacob Mathews (5591)" -> "Sean Hardy (5587)" [label=543]
-	"Haydn Fletcher (5589)" -> "Jacob Mathews (5591)" [label=170]
-	"Gordon W Ford (4108)" -> "Haydn Fletcher (5589)" [label=222]
-	"Carl L Groves (5590)" -> "Gordon W Ford (4108)" [label=127]
-	"Martha Malliotis (5592)" -> "Carl L Groves (5590)" [label=19]
-	"Jacob Mathews (5591)" -> "Ann K Corcoran (5593)" [label=637]
-	"Haydn Fletcher (5589)" -> "Ann K Corcoran (5593)" [label=232]
-	"Gordon W Ford (4108)" -> "Ann K Corcoran (5593)" [label=119]
+	"Sean Hardy (5587)" [label="Sean Hardy (5587)
+Australian Greens"]
 	"Carl L Groves (5590)" -> "Ann K Corcoran (5593)" [label=69]
-	"Martha Malliotis (5592)" -> "Ann K Corcoran (5593)" [label=62]
-	"Martha Malliotis (5592)" -> "Gordon W Ford (4108)" [label=31]
+	"Carl L Groves (5590)" -> "Gordon W Ford (4108)" [label=127]
 	"Carl L Groves (5590)" -> "Haydn Fletcher (5589)" [label=49]
-	"Martha Malliotis (5592)" -> "Haydn Fletcher (5589)" [label=6]
-	"Gordon W Ford (4108)" -> "Jacob Mathews (5591)" [label=187]
 	"Carl L Groves (5590)" -> "Jacob Mathews (5591)" [label=142]
-	"Martha Malliotis (5592)" -> "Jacob Mathews (5591)" [label=40]
-	"Haydn Fletcher (5589)" -> "Sean Hardy (5587)" [label=403]
-	"Gordon W Ford (4108)" -> "Sean Hardy (5587)" [label=162]
 	"Carl L Groves (5590)" -> "Sean Hardy (5587)" [label=75]
+	"Gordon W Ford (4108)" -> "Ann K Corcoran (5593)" [label=119]
+	"Gordon W Ford (4108)" -> "Haydn Fletcher (5589)" [label=222]
+	"Gordon W Ford (4108)" -> "Jacob Mathews (5591)" [label=187]
+	"Gordon W Ford (4108)" -> "Sean Hardy (5587)" [label=162]
+	"Haydn Fletcher (5589)" -> "Ann K Corcoran (5593)" [label=232]
+	"Haydn Fletcher (5589)" -> "Jacob Mathews (5591)" [label=170]
+	"Haydn Fletcher (5589)" -> "Sean Hardy (5587)" [label=403]
+	"Jacob Mathews (5591)" -> "Ann K Corcoran (5593)" [label=637]
+	"Jacob Mathews (5591)" -> "Sean Hardy (5587)" [label=543]
+	"Martha Malliotis (5592)" -> "Ann K Corcoran (5593)" [label=62]
+	"Martha Malliotis (5592)" -> "Carl L Groves (5590)" [label=19]
+	"Martha Malliotis (5592)" -> "Gordon W Ford (4108)" [label=31]
+	"Martha Malliotis (5592)" -> "Haydn Fletcher (5589)" [label=6]
+	"Martha Malliotis (5592)" -> "Jacob Mathews (5591)" [label=40]
 	"Martha Malliotis (5592)" -> "Sean Hardy (5587)" [label=37]
+	"Sean Hardy (5587)" -> "Ann K Corcoran (5593)" [label=4913]
 }

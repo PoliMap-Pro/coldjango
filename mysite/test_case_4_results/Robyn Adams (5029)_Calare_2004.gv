@@ -2,24 +2,24 @@
 digraph "Robyn Adams (5029)_Calare_2004" {
 	graph [label="Calare 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robyn Adams (5029)" [label="Robyn Adams (5029)
-Country Labor"]
-	"Robert Griffith (5031)" [label="Robert Griffith (5031)
-Nationals"]
-	"Stephen Nugent (5030)" [label="Stephen Nugent (5030)
-The Greens"]
-	"Melanie Woods (5032)" [label="Melanie Woods (5032)
-Family First"]
 	"Heidi Van Schaik (5027)" [label="Heidi Van Schaik (5027)
 Citizens Electoral Council"]
-	"Robert Griffith (5031)" -> "Robyn Adams (5029)" [label=422]
-	"Stephen Nugent (5030)" -> "Robert Griffith (5031)" [label=171]
-	"Melanie Woods (5032)" -> "Stephen Nugent (5030)" [label=124]
+	"Melanie Woods (5032)" [label="Melanie Woods (5032)
+Family First"]
+	"Robert Griffith (5031)" [label="Robert Griffith (5031)
+Nationals"]
+	"Robyn Adams (5029)" [label="Robyn Adams (5029)
+Country Labor"]
+	"Stephen Nugent (5030)" [label="Stephen Nugent (5030)
+The Greens"]
 	"Heidi Van Schaik (5027)" -> "Melanie Woods (5032)" [label=25]
-	"Stephen Nugent (5030)" -> "Robyn Adams (5029)" [label=624]
-	"Melanie Woods (5032)" -> "Robyn Adams (5029)" [label=171]
+	"Heidi Van Schaik (5027)" -> "Robert Griffith (5031)" [label=20]
 	"Heidi Van Schaik (5027)" -> "Robyn Adams (5029)" [label=88]
 	"Heidi Van Schaik (5027)" -> "Stephen Nugent (5030)" [label=40]
 	"Melanie Woods (5032)" -> "Robert Griffith (5031)" [label=190]
-	"Heidi Van Schaik (5027)" -> "Robert Griffith (5031)" [label=20]
+	"Melanie Woods (5032)" -> "Robyn Adams (5029)" [label=171]
+	"Melanie Woods (5032)" -> "Stephen Nugent (5030)" [label=124]
+	"Robert Griffith (5031)" -> "Robyn Adams (5029)" [label=422]
+	"Stephen Nugent (5030)" -> "Robert Griffith (5031)" [label=171]
+	"Stephen Nugent (5030)" -> "Robyn Adams (5029)" [label=624]
 }

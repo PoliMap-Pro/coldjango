@@ -6,14 +6,14 @@ digraph "Anna Elizabeth Burke (3362)_Chisholm_2010" {
 Australian Labor Party"]
 	"Josh Fergeus (2569)" [label="Josh Fergeus (2569)
 Australian Greens"]
-	"Phil Goodman (4061)" [label="Phil Goodman (4061)
-Family First"]
 	"Nimrod Evans (4062)" [label="Nimrod Evans (4062)
 Secular Party of Australia"]
+	"Phil Goodman (4061)" [label="Phil Goodman (4061)
+Family First"]
 	"Josh Fergeus (2569)" -> "Anna Elizabeth Burke (3362)" [label=8063]
-	"Phil Goodman (4061)" -> "Josh Fergeus (2569)" [label=430]
-	"Nimrod Evans (4062)" -> "Phil Goodman (4061)" [label=106]
-	"Phil Goodman (4061)" -> "Anna Elizabeth Burke (3362)" [label=786]
 	"Nimrod Evans (4062)" -> "Anna Elizabeth Burke (3362)" [label=118]
 	"Nimrod Evans (4062)" -> "Josh Fergeus (2569)" [label=255]
+	"Nimrod Evans (4062)" -> "Phil Goodman (4061)" [label=106]
+	"Phil Goodman (4061)" -> "Anna Elizabeth Burke (3362)" [label=786]
+	"Phil Goodman (4061)" -> "Josh Fergeus (2569)" [label=430]
 }

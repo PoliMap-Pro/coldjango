@@ -2,31 +2,31 @@
 digraph "Sharon Grierson (3800)_Newcastle_2010" {
 	graph [label="Newcastle 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sharon Grierson (3800)" [label="Sharon Grierson (3800)
-Labor"]
-	"Michael Osborne (2954)" [label="Michael Osborne (2954)
-The Greens"]
 	"Dean Winter (3798)" [label="Dean Winter (3798)
 Australian Democrats"]
+	"Michael Osborne (2954)" [label="Michael Osborne (2954)
+The Greens"]
 	"Milton Caine (2184)" [label="Milton Caine (2184)
 Christian Democratic Party (Fred Nile Group)"]
-	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
-Socialist Alliance"]
 	"Noel Holt (3799)" [label="Noel Holt (3799)
 Socialist Equality Party"]
-	"Michael Osborne (2954)" -> "Sharon Grierson (3800)" [label=10720]
+	"Sharon Grierson (3800)" [label="Sharon Grierson (3800)
+Labor"]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
 	"Dean Winter (3798)" -> "Michael Osborne (2954)" [label=870]
-	"Milton Caine (2184)" -> "Dean Winter (3798)" [label=329]
-	"Zane Alcorn (2717)" -> "Milton Caine (2184)" [label=132]
-	"Noel Holt (3799)" -> "Zane Alcorn (2717)" [label=191]
 	"Dean Winter (3798)" -> "Sharon Grierson (3800)" [label=509]
-	"Milton Caine (2184)" -> "Sharon Grierson (3800)" [label=336]
-	"Zane Alcorn (2717)" -> "Sharon Grierson (3800)" [label=311]
-	"Noel Holt (3799)" -> "Sharon Grierson (3800)" [label=91]
-	"Noel Holt (3799)" -> "Milton Caine (2184)" [label=55]
-	"Zane Alcorn (2717)" -> "Dean Winter (3798)" [label=140]
-	"Noel Holt (3799)" -> "Dean Winter (3798)" [label=110]
+	"Michael Osborne (2954)" -> "Sharon Grierson (3800)" [label=10720]
+	"Milton Caine (2184)" -> "Dean Winter (3798)" [label=329]
 	"Milton Caine (2184)" -> "Michael Osborne (2954)" [label=183]
-	"Zane Alcorn (2717)" -> "Michael Osborne (2954)" [label=366]
+	"Milton Caine (2184)" -> "Sharon Grierson (3800)" [label=336]
+	"Noel Holt (3799)" -> "Dean Winter (3798)" [label=110]
 	"Noel Holt (3799)" -> "Michael Osborne (2954)" [label=122]
+	"Noel Holt (3799)" -> "Milton Caine (2184)" [label=55]
+	"Noel Holt (3799)" -> "Sharon Grierson (3800)" [label=91]
+	"Noel Holt (3799)" -> "Zane Alcorn (2717)" [label=191]
+	"Zane Alcorn (2717)" -> "Dean Winter (3798)" [label=140]
+	"Zane Alcorn (2717)" -> "Michael Osborne (2954)" [label=366]
+	"Zane Alcorn (2717)" -> "Milton Caine (2184)" [label=132]
+	"Zane Alcorn (2717)" -> "Sharon Grierson (3800)" [label=311]
 }

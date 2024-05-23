@@ -2,31 +2,31 @@
 digraph "Jason David Munro (3195)_Moncrieff_2013" {
 	graph [label="Moncrieff 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason David Munro (3195)" [label="Jason David Munro (3195)
-Australian Labor Party"]
-	"Grant James Pforr (3192)" [label="Grant James Pforr (3192)
-Palmer United Party"]
-	"Toni Mcpherson (3194)" [label="Toni Mcpherson (3194)
-The Greens"]
 	"Barrie Sinclair Nicholson (3190)" [label="Barrie Sinclair Nicholson (3190)
 Family First"]
-	"Veronica Bernadette Beric (3193)" [label="Veronica Bernadette Beric (3193)
-One Nation"]
+	"Grant James Pforr (3192)" [label="Grant James Pforr (3192)
+Palmer United Party"]
+	"Jason David Munro (3195)" [label="Jason David Munro (3195)
+Australian Labor Party"]
 	"Paul Spajic (3191)" [label="Paul Spajic (3191)
 Citizens Electoral Council"]
-	"Grant James Pforr (3192)" -> "Jason David Munro (3195)" [label=5396]
-	"Toni Mcpherson (3194)" -> "Grant James Pforr (3192)" [label=1467]
-	"Barrie Sinclair Nicholson (3190)" -> "Toni Mcpherson (3194)" [label=298]
-	"Veronica Bernadette Beric (3193)" -> "Barrie Sinclair Nicholson (3190)" [label=148]
-	"Paul Spajic (3191)" -> "Veronica Bernadette Beric (3193)" [label=32]
-	"Toni Mcpherson (3194)" -> "Jason David Munro (3195)" [label=3179]
-	"Barrie Sinclair Nicholson (3190)" -> "Jason David Munro (3195)" [label=234]
-	"Veronica Bernadette Beric (3193)" -> "Jason David Munro (3195)" [label=84]
-	"Paul Spajic (3191)" -> "Jason David Munro (3195)" [label=34]
-	"Paul Spajic (3191)" -> "Barrie Sinclair Nicholson (3190)" [label=107]
-	"Veronica Bernadette Beric (3193)" -> "Toni Mcpherson (3194)" [label=125]
-	"Paul Spajic (3191)" -> "Toni Mcpherson (3194)" [label=24]
+	"Toni Mcpherson (3194)" [label="Toni Mcpherson (3194)
+The Greens"]
+	"Veronica Bernadette Beric (3193)" [label="Veronica Bernadette Beric (3193)
+One Nation"]
 	"Barrie Sinclair Nicholson (3190)" -> "Grant James Pforr (3192)" [label=474]
-	"Veronica Bernadette Beric (3193)" -> "Grant James Pforr (3192)" [label=168]
+	"Barrie Sinclair Nicholson (3190)" -> "Jason David Munro (3195)" [label=234]
+	"Barrie Sinclair Nicholson (3190)" -> "Toni Mcpherson (3194)" [label=298]
+	"Grant James Pforr (3192)" -> "Jason David Munro (3195)" [label=5396]
+	"Paul Spajic (3191)" -> "Barrie Sinclair Nicholson (3190)" [label=107]
 	"Paul Spajic (3191)" -> "Grant James Pforr (3192)" [label=68]
+	"Paul Spajic (3191)" -> "Jason David Munro (3195)" [label=34]
+	"Paul Spajic (3191)" -> "Toni Mcpherson (3194)" [label=24]
+	"Paul Spajic (3191)" -> "Veronica Bernadette Beric (3193)" [label=32]
+	"Toni Mcpherson (3194)" -> "Grant James Pforr (3192)" [label=1467]
+	"Toni Mcpherson (3194)" -> "Jason David Munro (3195)" [label=3179]
+	"Veronica Bernadette Beric (3193)" -> "Barrie Sinclair Nicholson (3190)" [label=148]
+	"Veronica Bernadette Beric (3193)" -> "Grant James Pforr (3192)" [label=168]
+	"Veronica Bernadette Beric (3193)" -> "Jason David Munro (3195)" [label=84]
+	"Veronica Bernadette Beric (3193)" -> "Toni Mcpherson (3194)" [label=125]
 }

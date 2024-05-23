@@ -2,31 +2,31 @@
 digraph "Yvette D'Ath (3216)_Petrie_2007" {
 	graph [label="Petrie 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Yvette D'Ath (3216)" [label="Yvette D'Ath (3216)
-Australian Labor Party"]
-	"Terry Jones (4626)" [label="Terry Jones (4626)
-The Greens"]
-	"Sally Vincent (3969)" [label="Sally Vincent (3969)
-Family First"]
 	"Bruce Carnwell (4628)" [label="Bruce Carnwell (4628)
 Democrats"]
-	"Peter Britt (4629)" [label="Peter Britt (4629)
-Christian Democratic Party (Fred Nile Group)"]
 	"Michael James Pope (4627)" [label="Michael James Pope (4627)
 LDP"]
-	"Terry Jones (4626)" -> "Yvette D'Ath (3216)" [label=3594]
-	"Sally Vincent (3969)" -> "Terry Jones (4626)" [label=446]
+	"Peter Britt (4629)" [label="Peter Britt (4629)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sally Vincent (3969)" [label="Sally Vincent (3969)
+Family First"]
+	"Terry Jones (4626)" [label="Terry Jones (4626)
+The Greens"]
+	"Yvette D'Ath (3216)" [label="Yvette D'Ath (3216)
+Australian Labor Party"]
 	"Bruce Carnwell (4628)" -> "Sally Vincent (3969)" [label=95]
-	"Peter Britt (4629)" -> "Bruce Carnwell (4628)" [label=72]
-	"Michael James Pope (4627)" -> "Peter Britt (4629)" [label=12]
-	"Sally Vincent (3969)" -> "Yvette D'Ath (3216)" [label=378]
-	"Bruce Carnwell (4628)" -> "Yvette D'Ath (3216)" [label=225]
-	"Peter Britt (4629)" -> "Yvette D'Ath (3216)" [label=55]
-	"Michael James Pope (4627)" -> "Yvette D'Ath (3216)" [label=43]
-	"Michael James Pope (4627)" -> "Bruce Carnwell (4628)" [label=26]
-	"Peter Britt (4629)" -> "Sally Vincent (3969)" [label=180]
-	"Michael James Pope (4627)" -> "Sally Vincent (3969)" [label=36]
 	"Bruce Carnwell (4628)" -> "Terry Jones (4626)" [label=369]
-	"Peter Britt (4629)" -> "Terry Jones (4626)" [label=40]
+	"Bruce Carnwell (4628)" -> "Yvette D'Ath (3216)" [label=225]
+	"Michael James Pope (4627)" -> "Bruce Carnwell (4628)" [label=26]
+	"Michael James Pope (4627)" -> "Peter Britt (4629)" [label=12]
+	"Michael James Pope (4627)" -> "Sally Vincent (3969)" [label=36]
 	"Michael James Pope (4627)" -> "Terry Jones (4626)" [label=69]
+	"Michael James Pope (4627)" -> "Yvette D'Ath (3216)" [label=43]
+	"Peter Britt (4629)" -> "Bruce Carnwell (4628)" [label=72]
+	"Peter Britt (4629)" -> "Sally Vincent (3969)" [label=180]
+	"Peter Britt (4629)" -> "Terry Jones (4626)" [label=40]
+	"Peter Britt (4629)" -> "Yvette D'Ath (3216)" [label=55]
+	"Sally Vincent (3969)" -> "Terry Jones (4626)" [label=446]
+	"Sally Vincent (3969)" -> "Yvette D'Ath (3216)" [label=378]
+	"Terry Jones (4626)" -> "Yvette D'Ath (3216)" [label=3594]
 }

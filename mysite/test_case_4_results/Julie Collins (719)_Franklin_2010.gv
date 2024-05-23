@@ -2,13 +2,13 @@
 digraph "Julie Collins (719)_Franklin_2010" {
 	graph [label="Franklin 2010" labelloc=t mclimit=10]
 	node [shape=box]
+	"John Forster (4040)" [label="John Forster (4040)
+Independent"]
 	"Julie Collins (719)" [label="Julie Collins (719)
 Australian Labor Party"]
 	"Wendy Heatley (4039)" [label="Wendy Heatley (4039)
 Australian Greens"]
-	"John Forster (4040)" [label="John Forster (4040)
-Independent"]
-	"Wendy Heatley (4039)" -> "Julie Collins (719)" [label=11289]
-	"John Forster (4040)" -> "Wendy Heatley (4039)" [label=693]
 	"John Forster (4040)" -> "Julie Collins (719)" [label=488]
+	"John Forster (4040)" -> "Wendy Heatley (4039)" [label=693]
+	"Wendy Heatley (4039)" -> "Julie Collins (719)" [label=11289]
 }

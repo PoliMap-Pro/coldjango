@@ -2,18 +2,18 @@
 digraph "Rana Watson (3902)_Fadden_2010" {
 	graph [label="Fadden 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rana Watson (3902)" [label="Rana Watson (3902)
-Australian Labor Party"]
-	"Graeme Maizey (3904)" [label="Graeme Maizey (3904)
-The Greens"]
 	"Barrie Sinclair Nicholson (3190)" [label="Barrie Sinclair Nicholson (3190)
 Family First"]
+	"Graeme Maizey (3904)" [label="Graeme Maizey (3904)
+The Greens"]
 	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
 One Nation"]
-	"Graeme Maizey (3904)" -> "Rana Watson (3902)" [label=5439]
+	"Rana Watson (3902)" [label="Rana Watson (3902)
+Australian Labor Party"]
 	"Barrie Sinclair Nicholson (3190)" -> "Graeme Maizey (3904)" [label=951]
-	"Ian Rossiter (3903)" -> "Barrie Sinclair Nicholson (3190)" [label=349]
 	"Barrie Sinclair Nicholson (3190)" -> "Rana Watson (3902)" [label=521]
-	"Ian Rossiter (3903)" -> "Rana Watson (3902)" [label=286]
+	"Graeme Maizey (3904)" -> "Rana Watson (3902)" [label=5439]
+	"Ian Rossiter (3903)" -> "Barrie Sinclair Nicholson (3190)" [label=349]
 	"Ian Rossiter (3903)" -> "Graeme Maizey (3904)" [label=295]
+	"Ian Rossiter (3903)" -> "Rana Watson (3902)" [label=286]
 }

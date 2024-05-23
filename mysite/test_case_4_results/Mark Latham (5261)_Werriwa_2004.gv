@@ -2,31 +2,31 @@
 digraph "Mark Latham (5261)_Werriwa_2004" {
 	graph [label="Werriwa 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Latham (5261)" [label="Mark Latham (5261)
-Australian Labor Party"]
-	"Sam Bargshoon (5258)" [label="Sam Bargshoon (5258)
-Independent"]
 	"Ben Raue (4357)" [label="Ben Raue (4357)
 The Greens"]
 	"Charles Doggett (5260)" [label="Charles Doggett (5260)
 Pauline Hanson's One Nation (NSW Division)"]
-	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
-Australian Democrats"]
+	"Mark Latham (5261)" [label="Mark Latham (5261)
+Australian Labor Party"]
 	"Mike Head (1617)" [label="Mike Head (1617)
 "]
-	"Sam Bargshoon (5258)" -> "Mark Latham (5261)" [label=2852]
+	"Patrick Briscoe-Hough (5259)" [label="Patrick Briscoe-Hough (5259)
+Australian Democrats"]
+	"Sam Bargshoon (5258)" [label="Sam Bargshoon (5258)
+Independent"]
+	"Ben Raue (4357)" -> "Mark Latham (5261)" [label=1689]
 	"Ben Raue (4357)" -> "Sam Bargshoon (5258)" [label=893]
 	"Charles Doggett (5260)" -> "Ben Raue (4357)" [label=378]
-	"Patrick Briscoe-Hough (5259)" -> "Charles Doggett (5260)" [label=107]
-	"Mike Head (1617)" -> "Patrick Briscoe-Hough (5259)" [label=38]
-	"Ben Raue (4357)" -> "Mark Latham (5261)" [label=1689]
 	"Charles Doggett (5260)" -> "Mark Latham (5261)" [label=379]
-	"Patrick Briscoe-Hough (5259)" -> "Mark Latham (5261)" [label=176]
-	"Mike Head (1617)" -> "Mark Latham (5261)" [label=79]
-	"Mike Head (1617)" -> "Charles Doggett (5260)" [label=42]
-	"Patrick Briscoe-Hough (5259)" -> "Ben Raue (4357)" [label=209]
-	"Mike Head (1617)" -> "Ben Raue (4357)" [label=51]
 	"Charles Doggett (5260)" -> "Sam Bargshoon (5258)" [label=611]
-	"Patrick Briscoe-Hough (5259)" -> "Sam Bargshoon (5258)" [label=347]
+	"Mike Head (1617)" -> "Ben Raue (4357)" [label=51]
+	"Mike Head (1617)" -> "Charles Doggett (5260)" [label=42]
+	"Mike Head (1617)" -> "Mark Latham (5261)" [label=79]
+	"Mike Head (1617)" -> "Patrick Briscoe-Hough (5259)" [label=38]
 	"Mike Head (1617)" -> "Sam Bargshoon (5258)" [label=115]
+	"Patrick Briscoe-Hough (5259)" -> "Ben Raue (4357)" [label=209]
+	"Patrick Briscoe-Hough (5259)" -> "Charles Doggett (5260)" [label=107]
+	"Patrick Briscoe-Hough (5259)" -> "Mark Latham (5261)" [label=176]
+	"Patrick Briscoe-Hough (5259)" -> "Sam Bargshoon (5258)" [label=347]
+	"Sam Bargshoon (5258)" -> "Mark Latham (5261)" [label=2852]
 }

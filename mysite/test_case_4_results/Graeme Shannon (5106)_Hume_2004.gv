@@ -2,39 +2,39 @@
 digraph "Graeme Shannon (5106)_Hume_2004" {
 	graph [label="Hume 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Graeme Shannon (5106)" [label="Graeme Shannon (5106)
-Australian Labor Party"]
+	"Arthur Schofield (5105)" [label="Arthur Schofield (5105)
+Independent"]
 	"David Robert Horton (5107)" [label="David Robert Horton (5107)
 The Greens"]
 	"Geoff Peet (4332)" [label="Geoff Peet (4332)
 Christian Democratic Party (Fred Nile Group)"]
-	"Peter Martin (5104)" [label="Peter Martin (5104)
-Independent"]
-	"Arthur Schofield (5105)" [label="Arthur Schofield (5105)
-Independent"]
 	"Giuseppe Minissale (5103)" [label="Giuseppe Minissale (5103)
 Australian Democrats"]
+	"Graeme Shannon (5106)" [label="Graeme Shannon (5106)
+Australian Labor Party"]
 	"Lindsay Cosgrove (5108)" [label="Lindsay Cosgrove (5108)
 Citizens Electoral Council"]
+	"Peter Martin (5104)" [label="Peter Martin (5104)
+Independent"]
+	"Arthur Schofield (5105)" -> "David Robert Horton (5107)" [label=100]
+	"Arthur Schofield (5105)" -> "Geoff Peet (4332)" [label=127]
+	"Arthur Schofield (5105)" -> "Graeme Shannon (5106)" [label=171]
+	"Arthur Schofield (5105)" -> "Peter Martin (5104)" [label=481]
 	"David Robert Horton (5107)" -> "Graeme Shannon (5106)" [label=4950]
 	"Geoff Peet (4332)" -> "David Robert Horton (5107)" [label=359]
-	"Peter Martin (5104)" -> "Geoff Peet (4332)" [label=428]
-	"Arthur Schofield (5105)" -> "Peter Martin (5104)" [label=481]
-	"Giuseppe Minissale (5103)" -> "Arthur Schofield (5105)" [label=67]
-	"Lindsay Cosgrove (5108)" -> "Giuseppe Minissale (5103)" [label=18]
 	"Geoff Peet (4332)" -> "Graeme Shannon (5106)" [label=486]
-	"Peter Martin (5104)" -> "Graeme Shannon (5106)" [label=357]
-	"Arthur Schofield (5105)" -> "Graeme Shannon (5106)" [label=171]
-	"Giuseppe Minissale (5103)" -> "Graeme Shannon (5106)" [label=110]
-	"Lindsay Cosgrove (5108)" -> "Graeme Shannon (5106)" [label=102]
-	"Lindsay Cosgrove (5108)" -> "Arthur Schofield (5105)" [label=61]
-	"Giuseppe Minissale (5103)" -> "Peter Martin (5104)" [label=166]
-	"Lindsay Cosgrove (5108)" -> "Peter Martin (5104)" [label=41]
-	"Arthur Schofield (5105)" -> "Geoff Peet (4332)" [label=127]
-	"Giuseppe Minissale (5103)" -> "Geoff Peet (4332)" [label=128]
-	"Lindsay Cosgrove (5108)" -> "Geoff Peet (4332)" [label=59]
-	"Peter Martin (5104)" -> "David Robert Horton (5107)" [label=358]
-	"Arthur Schofield (5105)" -> "David Robert Horton (5107)" [label=100]
+	"Giuseppe Minissale (5103)" -> "Arthur Schofield (5105)" [label=67]
 	"Giuseppe Minissale (5103)" -> "David Robert Horton (5107)" [label=144]
+	"Giuseppe Minissale (5103)" -> "Geoff Peet (4332)" [label=128]
+	"Giuseppe Minissale (5103)" -> "Graeme Shannon (5106)" [label=110]
+	"Giuseppe Minissale (5103)" -> "Peter Martin (5104)" [label=166]
+	"Lindsay Cosgrove (5108)" -> "Arthur Schofield (5105)" [label=61]
 	"Lindsay Cosgrove (5108)" -> "David Robert Horton (5107)" [label=157]
+	"Lindsay Cosgrove (5108)" -> "Geoff Peet (4332)" [label=59]
+	"Lindsay Cosgrove (5108)" -> "Giuseppe Minissale (5103)" [label=18]
+	"Lindsay Cosgrove (5108)" -> "Graeme Shannon (5106)" [label=102]
+	"Lindsay Cosgrove (5108)" -> "Peter Martin (5104)" [label=41]
+	"Peter Martin (5104)" -> "David Robert Horton (5107)" [label=358]
+	"Peter Martin (5104)" -> "Geoff Peet (4332)" [label=428]
+	"Peter Martin (5104)" -> "Graeme Shannon (5106)" [label=357]
 }

@@ -2,24 +2,24 @@
 digraph "Gerry Raleigh (4733)_Aston_2007" {
 	graph [label="Aston 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Gerry Raleigh (4733)" [label="Gerry Raleigh (4733)
-Australian Labor Party"]
 	"Adam Pepper (4734)" [label="Adam Pepper (4734)
 Australian Greens"]
+	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
+Citizens Electoral Council"]
+	"Gerry Raleigh (4733)" [label="Gerry Raleigh (4733)
+Australian Labor Party"]
 	"Peter Lake (4070)" [label="Peter Lake (4070)
 Family First"]
 	"Rachal Aza (4730)" [label="Rachal Aza (4730)
 Australian Democrats"]
-	"Doug Mitchell (4731)" [label="Doug Mitchell (4731)
-Citizens Electoral Council"]
 	"Adam Pepper (4734)" -> "Gerry Raleigh (4733)" [label=4173]
-	"Peter Lake (4070)" -> "Adam Pepper (4734)" [label=628]
-	"Rachal Aza (4730)" -> "Peter Lake (4070)" [label=104]
-	"Doug Mitchell (4731)" -> "Rachal Aza (4730)" [label=62]
-	"Peter Lake (4070)" -> "Gerry Raleigh (4733)" [label=676]
-	"Rachal Aza (4730)" -> "Gerry Raleigh (4733)" [label=334]
+	"Doug Mitchell (4731)" -> "Adam Pepper (4734)" [label=32]
 	"Doug Mitchell (4731)" -> "Gerry Raleigh (4733)" [label=54]
 	"Doug Mitchell (4731)" -> "Peter Lake (4070)" [label=33]
+	"Doug Mitchell (4731)" -> "Rachal Aza (4730)" [label=62]
+	"Peter Lake (4070)" -> "Adam Pepper (4734)" [label=628]
+	"Peter Lake (4070)" -> "Gerry Raleigh (4733)" [label=676]
 	"Rachal Aza (4730)" -> "Adam Pepper (4734)" [label=388]
-	"Doug Mitchell (4731)" -> "Adam Pepper (4734)" [label=32]
+	"Rachal Aza (4730)" -> "Gerry Raleigh (4733)" [label=334]
+	"Rachal Aza (4730)" -> "Peter Lake (4070)" [label=104]
 }

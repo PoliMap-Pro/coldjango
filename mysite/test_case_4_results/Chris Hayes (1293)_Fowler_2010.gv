@@ -4,11 +4,11 @@ digraph "Chris Hayes (1293)_Fowler_2010" {
 	node [shape=box]
 	"Chris Hayes (1293)" [label="Chris Hayes (1293)
 Labor"]
-	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
-The Greens"]
 	"Mike Head (1617)" [label="Mike Head (1617)
 Socialist Equality Party"]
-	"Signe Westerberg (1448)" -> "Chris Hayes (1293)" [label=3906]
-	"Mike Head (1617)" -> "Signe Westerberg (1448)" [label=586]
+	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
+The Greens"]
 	"Mike Head (1617)" -> "Chris Hayes (1293)" [label=636]
+	"Mike Head (1617)" -> "Signe Westerberg (1448)" [label=586]
+	"Signe Westerberg (1448)" -> "Chris Hayes (1293)" [label=3906]
 }

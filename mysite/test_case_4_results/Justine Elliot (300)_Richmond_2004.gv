@@ -2,39 +2,39 @@
 digraph "Justine Elliot (300)_Richmond_2004" {
 	graph [label="Richmond 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Allan Watt (5220)" [label="Allan Watt (5220)
+Ex-Service, Service & Veterans Party"]
+	"Craig Lees (5218)" [label="Craig Lees (5218)
+Family First"]
+	"Dean Jefferys (5219)" [label="Dean Jefferys (5219)
+Nuclear Disarmament Party of Australia"]
+	"Fiona Tyler (5221)" [label="Fiona Tyler (5221)
+liberals for forests"]
 	"Justine Elliot (300)" [label="Justine Elliot (300)
 Australian Labor Party"]
 	"Susanna Flower (5222)" [label="Susanna Flower (5222)
 The Greens"]
-	"Craig Lees (5218)" [label="Craig Lees (5218)
-Family First"]
-	"Fiona Tyler (5221)" [label="Fiona Tyler (5221)
-liberals for forests"]
 	"Timothy Winton-Brown (5223)" [label="Timothy Winton-Brown (5223)
 Australian Democrats"]
-	"Allan Watt (5220)" [label="Allan Watt (5220)
-Ex-Service, Service & Veterans Party"]
-	"Dean Jefferys (5219)" [label="Dean Jefferys (5219)
-Nuclear Disarmament Party of Australia"]
-	"Susanna Flower (5222)" -> "Justine Elliot (300)" [label=10542]
-	"Craig Lees (5218)" -> "Susanna Flower (5222)" [label=1006]
-	"Fiona Tyler (5221)" -> "Craig Lees (5218)" [label=326]
-	"Timothy Winton-Brown (5223)" -> "Fiona Tyler (5221)" [label=57]
-	"Allan Watt (5220)" -> "Timothy Winton-Brown (5223)" [label=47]
-	"Dean Jefferys (5219)" -> "Allan Watt (5220)" [label=39]
-	"Craig Lees (5218)" -> "Justine Elliot (300)" [label=441]
-	"Fiona Tyler (5221)" -> "Justine Elliot (300)" [label=144]
-	"Timothy Winton-Brown (5223)" -> "Justine Elliot (300)" [label=234]
-	"Allan Watt (5220)" -> "Justine Elliot (300)" [label=111]
-	"Dean Jefferys (5219)" -> "Justine Elliot (300)" [label=29]
-	"Dean Jefferys (5219)" -> "Timothy Winton-Brown (5223)" [label=17]
-	"Allan Watt (5220)" -> "Fiona Tyler (5221)" [label=73]
-	"Dean Jefferys (5219)" -> "Fiona Tyler (5221)" [label=26]
-	"Timothy Winton-Brown (5223)" -> "Craig Lees (5218)" [label=131]
 	"Allan Watt (5220)" -> "Craig Lees (5218)" [label=216]
-	"Dean Jefferys (5219)" -> "Craig Lees (5218)" [label=50]
-	"Fiona Tyler (5221)" -> "Susanna Flower (5222)" [label=589]
-	"Timothy Winton-Brown (5223)" -> "Susanna Flower (5222)" [label=369]
+	"Allan Watt (5220)" -> "Fiona Tyler (5221)" [label=73]
+	"Allan Watt (5220)" -> "Justine Elliot (300)" [label=111]
 	"Allan Watt (5220)" -> "Susanna Flower (5222)" [label=79]
+	"Allan Watt (5220)" -> "Timothy Winton-Brown (5223)" [label=47]
+	"Craig Lees (5218)" -> "Justine Elliot (300)" [label=441]
+	"Craig Lees (5218)" -> "Susanna Flower (5222)" [label=1006]
+	"Dean Jefferys (5219)" -> "Allan Watt (5220)" [label=39]
+	"Dean Jefferys (5219)" -> "Craig Lees (5218)" [label=50]
+	"Dean Jefferys (5219)" -> "Fiona Tyler (5221)" [label=26]
+	"Dean Jefferys (5219)" -> "Justine Elliot (300)" [label=29]
 	"Dean Jefferys (5219)" -> "Susanna Flower (5222)" [label=166]
+	"Dean Jefferys (5219)" -> "Timothy Winton-Brown (5223)" [label=17]
+	"Fiona Tyler (5221)" -> "Craig Lees (5218)" [label=326]
+	"Fiona Tyler (5221)" -> "Justine Elliot (300)" [label=144]
+	"Fiona Tyler (5221)" -> "Susanna Flower (5222)" [label=589]
+	"Susanna Flower (5222)" -> "Justine Elliot (300)" [label=10542]
+	"Timothy Winton-Brown (5223)" -> "Craig Lees (5218)" [label=131]
+	"Timothy Winton-Brown (5223)" -> "Fiona Tyler (5221)" [label=57]
+	"Timothy Winton-Brown (5223)" -> "Justine Elliot (300)" [label=234]
+	"Timothy Winton-Brown (5223)" -> "Susanna Flower (5222)" [label=369]
 }

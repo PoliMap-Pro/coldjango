@@ -9,6 +9,6 @@ The Greens"]
 	"Timothy Stieler (3965)" [label="Timothy Stieler (3965)
 Family First"]
 	"Des Hoban (3966)" -> "Bernie Ripoll (3209)" [label=6963]
-	"Timothy Stieler (3965)" -> "Des Hoban (3966)" [label=1071]
 	"Timothy Stieler (3965)" -> "Bernie Ripoll (3209)" [label=946]
+	"Timothy Stieler (3965)" -> "Des Hoban (3966)" [label=1071]
 }

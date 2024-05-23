@@ -11,9 +11,9 @@ Family First"]
 	"Ken Degen (3982)" [label="Ken Degen (3982)
 Independent"]
 	"Anna Bridle (3980)" -> "Andrew Ramsay (3981)" [label=7809]
-	"Jeremy John Fredericks (3090)" -> "Anna Bridle (3980)" [label=1374]
-	"Ken Degen (3982)" -> "Jeremy John Fredericks (3090)" [label=1017]
 	"Jeremy John Fredericks (3090)" -> "Andrew Ramsay (3981)" [label=877]
+	"Jeremy John Fredericks (3090)" -> "Anna Bridle (3980)" [label=1374]
 	"Ken Degen (3982)" -> "Andrew Ramsay (3981)" [label=417]
 	"Ken Degen (3982)" -> "Anna Bridle (3980)" [label=589]
+	"Ken Degen (3982)" -> "Jeremy John Fredericks (3090)" [label=1017]
 }

@@ -4,11 +4,11 @@ digraph "Francis Gagliano-Ventura (4076)_Flinders_2010" {
 	node [shape=box]
 	"Francis Gagliano-Ventura (4076)" [label="Francis Gagliano-Ventura (4076)
 Australian Labor Party"]
-	"Robert Brown (4077)" [label="Robert Brown (4077)
-Australian Greens"]
 	"Reade Smith (1793)" [label="Reade Smith (1793)
 Family First"]
-	"Robert Brown (4077)" -> "Francis Gagliano-Ventura (4076)" [label=7653]
-	"Reade Smith (1793)" -> "Robert Brown (4077)" [label=513]
+	"Robert Brown (4077)" [label="Robert Brown (4077)
+Australian Greens"]
 	"Reade Smith (1793)" -> "Francis Gagliano-Ventura (4076)" [label=602]
+	"Reade Smith (1793)" -> "Robert Brown (4077)" [label=513]
+	"Robert Brown (4077)" -> "Francis Gagliano-Ventura (4076)" [label=7653]
 }

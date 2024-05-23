@@ -2,18 +2,18 @@
 digraph "John Murphy (2976)_Reid_2010" {
 	graph [label="Reid 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Murphy (2976)" [label="John Murphy (2976)
-Labor"]
 	"Adam Butler (3819)" [label="Adam Butler (3819)
 The Greens"]
 	"Bill Shailer (2982)" [label="Bill Shailer (2982)
 Christian Democratic Party (Fred Nile Group)"]
 	"Carolyn Kennett (3821)" [label="Carolyn Kennett (3821)
 Socialist Equality Party"]
+	"John Murphy (2976)" [label="John Murphy (2976)
+Labor"]
 	"Adam Butler (3819)" -> "John Murphy (2976)" [label=7504]
 	"Bill Shailer (2982)" -> "Adam Butler (3819)" [label=441]
-	"Carolyn Kennett (3821)" -> "Bill Shailer (2982)" [label=167]
 	"Bill Shailer (2982)" -> "John Murphy (2976)" [label=1197]
-	"Carolyn Kennett (3821)" -> "John Murphy (2976)" [label=197]
 	"Carolyn Kennett (3821)" -> "Adam Butler (3819)" [label=332]
+	"Carolyn Kennett (3821)" -> "Bill Shailer (2982)" [label=167]
+	"Carolyn Kennett (3821)" -> "John Murphy (2976)" [label=197]
 }

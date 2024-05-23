@@ -2,18 +2,18 @@
 digraph "Martin John Ferguson (4051)_Batman_2010" {
 	graph [label="Batman 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Martin John Ferguson (4051)" [label="Martin John Ferguson (4051)
-Australian Labor Party"]
-	"George Souris (2542)" [label="George Souris (2542)
-Liberal"]
 	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
 Family First"]
 	"Con Sarazen (4050)" [label="Con Sarazen (4050)
 Australian Democrats"]
-	"George Souris (2542)" -> "Martin John Ferguson (4051)" [label=3496]
+	"George Souris (2542)" [label="George Souris (2542)
+Liberal"]
+	"Martin John Ferguson (4051)" [label="Martin John Ferguson (4051)
+Australian Labor Party"]
 	"Andrew Conlon (3541)" -> "George Souris (2542)" [label=1492]
-	"Con Sarazen (4050)" -> "Andrew Conlon (3541)" [label=139]
 	"Andrew Conlon (3541)" -> "Martin John Ferguson (4051)" [label=531]
-	"Con Sarazen (4050)" -> "Martin John Ferguson (4051)" [label=218]
+	"Con Sarazen (4050)" -> "Andrew Conlon (3541)" [label=139]
 	"Con Sarazen (4050)" -> "George Souris (2542)" [label=148]
+	"Con Sarazen (4050)" -> "Martin John Ferguson (4051)" [label=218]
+	"George Souris (2542)" -> "Martin John Ferguson (4051)" [label=3496]
 }

@@ -2,10 +2,10 @@
 digraph "Joy Banerji (4149)_Menzies_2010" {
 	graph [label="Menzies 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joy Banerji (4149)" [label="Joy Banerji (4149)
-Australian Labor Party"]
 	"Chris Padgham (4148)" [label="Chris Padgham (4148)
 Australian Greens"]
+	"Joy Banerji (4149)" [label="Joy Banerji (4149)
+Australian Labor Party"]
 	"Ken Smithies (3326)" [label="Ken Smithies (3326)
 Family First"]
 	"Chris Padgham (4148)" -> "Joy Banerji (4149)" [label=7055]

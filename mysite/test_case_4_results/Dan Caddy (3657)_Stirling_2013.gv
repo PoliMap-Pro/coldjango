@@ -2,39 +2,39 @@
 digraph "Dan Caddy (3657)_Stirling_2013" {
 	graph [label="Stirling 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Alison Rowe (3656)" [label="Alison Rowe (3656)
+Rise Up Australia Party"]
 	"Dan Caddy (3657)" [label="Dan Caddy (3657)
 Australian Labor Party"]
-	"Tim Clifford (2769)" [label="Tim Clifford (2769)
-The Greens (WA)"]
-	"Wayne Gordon Thompson (3655)" [label="Wayne Gordon Thompson (3655)
-Palmer United Party"]
 	"Kevin Host (2006)" [label="Kevin Host (2006)
 Australian Christians"]
 	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
 Independent"]
 	"Matueny Marial Luke (3654)" [label="Matueny Marial Luke (3654)
 Family First Party"]
-	"Alison Rowe (3656)" [label="Alison Rowe (3656)
-Rise Up Australia Party"]
-	"Tim Clifford (2769)" -> "Dan Caddy (3657)" [label=7860]
-	"Wayne Gordon Thompson (3655)" -> "Tim Clifford (2769)" [label=1307]
-	"Kevin Host (2006)" -> "Wayne Gordon Thompson (3655)" [label=324]
-	"Kim Mubarak (2773)" -> "Kevin Host (2006)" [label=99]
-	"Matueny Marial Luke (3654)" -> "Kim Mubarak (2773)" [label=90]
-	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
-	"Wayne Gordon Thompson (3655)" -> "Dan Caddy (3657)" [label=974]
-	"Kevin Host (2006)" -> "Dan Caddy (3657)" [label=239]
-	"Kim Mubarak (2773)" -> "Dan Caddy (3657)" [label=194]
-	"Matueny Marial Luke (3654)" -> "Dan Caddy (3657)" [label=75]
+	"Tim Clifford (2769)" [label="Tim Clifford (2769)
+The Greens (WA)"]
+	"Wayne Gordon Thompson (3655)" [label="Wayne Gordon Thompson (3655)
+Palmer United Party"]
 	"Alison Rowe (3656)" -> "Dan Caddy (3657)" [label=104]
-	"Alison Rowe (3656)" -> "Kim Mubarak (2773)" [label=69]
-	"Matueny Marial Luke (3654)" -> "Kevin Host (2006)" [label=171]
 	"Alison Rowe (3656)" -> "Kevin Host (2006)" [label=90]
-	"Kim Mubarak (2773)" -> "Wayne Gordon Thompson (3655)" [label=224]
-	"Matueny Marial Luke (3654)" -> "Wayne Gordon Thompson (3655)" [label=127]
-	"Alison Rowe (3656)" -> "Wayne Gordon Thompson (3655)" [label=45]
-	"Kevin Host (2006)" -> "Tim Clifford (2769)" [label=397]
-	"Kim Mubarak (2773)" -> "Tim Clifford (2769)" [label=308]
-	"Matueny Marial Luke (3654)" -> "Tim Clifford (2769)" [label=150]
+	"Alison Rowe (3656)" -> "Kim Mubarak (2773)" [label=69]
+	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
 	"Alison Rowe (3656)" -> "Tim Clifford (2769)" [label=56]
+	"Alison Rowe (3656)" -> "Wayne Gordon Thompson (3655)" [label=45]
+	"Kevin Host (2006)" -> "Dan Caddy (3657)" [label=239]
+	"Kevin Host (2006)" -> "Tim Clifford (2769)" [label=397]
+	"Kevin Host (2006)" -> "Wayne Gordon Thompson (3655)" [label=324]
+	"Kim Mubarak (2773)" -> "Dan Caddy (3657)" [label=194]
+	"Kim Mubarak (2773)" -> "Kevin Host (2006)" [label=99]
+	"Kim Mubarak (2773)" -> "Tim Clifford (2769)" [label=308]
+	"Kim Mubarak (2773)" -> "Wayne Gordon Thompson (3655)" [label=224]
+	"Matueny Marial Luke (3654)" -> "Dan Caddy (3657)" [label=75]
+	"Matueny Marial Luke (3654)" -> "Kevin Host (2006)" [label=171]
+	"Matueny Marial Luke (3654)" -> "Kim Mubarak (2773)" [label=90]
+	"Matueny Marial Luke (3654)" -> "Tim Clifford (2769)" [label=150]
+	"Matueny Marial Luke (3654)" -> "Wayne Gordon Thompson (3655)" [label=127]
+	"Tim Clifford (2769)" -> "Dan Caddy (3657)" [label=7860]
+	"Wayne Gordon Thompson (3655)" -> "Dan Caddy (3657)" [label=974]
+	"Wayne Gordon Thompson (3655)" -> "Tim Clifford (2769)" [label=1307]
 }

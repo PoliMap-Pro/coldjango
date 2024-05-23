@@ -6,20 +6,20 @@ digraph "Anthony Albanese (134)_Grayndler_2013" {
 Labor"]
 	"Hall Greenland (2885)" [label="Hall Greenland (2885)
 The Greens"]
+	"Joel Scully (2883)" [label="Joel Scully (2883)
+Bullet Train For Australia"]
 	"Joshua Green (2061)" [label="Joshua Green (2061)
 Christian Democratic Party (Fred Nile Group)"]
 	"Mohanadas Balasingham (2886)" [label="Mohanadas Balasingham (2886)
 Palmer United Party"]
-	"Joel Scully (2883)" [label="Joel Scully (2883)
-Bullet Train For Australia"]
 	"Hall Greenland (2885)" -> "Anthony Albanese (134)" [label=19392]
-	"Joshua Green (2061)" -> "Hall Greenland (2885)" [label=430]
-	"Mohanadas Balasingham (2886)" -> "Joshua Green (2061)" [label=257]
+	"Joel Scully (2883)" -> "Anthony Albanese (134)" [label=271]
+	"Joel Scully (2883)" -> "Hall Greenland (2885)" [label=399]
+	"Joel Scully (2883)" -> "Joshua Green (2061)" [label=111]
 	"Joel Scully (2883)" -> "Mohanadas Balasingham (2886)" [label=158]
 	"Joshua Green (2061)" -> "Anthony Albanese (134)" [label=428]
+	"Joshua Green (2061)" -> "Hall Greenland (2885)" [label=430]
 	"Mohanadas Balasingham (2886)" -> "Anthony Albanese (134)" [label=513]
-	"Joel Scully (2883)" -> "Anthony Albanese (134)" [label=271]
-	"Joel Scully (2883)" -> "Joshua Green (2061)" [label=111]
 	"Mohanadas Balasingham (2886)" -> "Hall Greenland (2885)" [label=367]
-	"Joel Scully (2883)" -> "Hall Greenland (2885)" [label=399]
+	"Mohanadas Balasingham (2886)" -> "Joshua Green (2061)" [label=257]
 }

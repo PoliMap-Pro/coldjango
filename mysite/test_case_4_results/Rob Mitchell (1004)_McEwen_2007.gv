@@ -2,39 +2,39 @@
 digraph "Rob Mitchell (1004)_McEwen_2007" {
 	graph [label="McEwen 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
-Australian Labor Party"]
-	"Steve Meacher (3355)" [label="Steve Meacher (3355)
-Australian Greens"]
-	"Ian Cranson (3504)" [label="Ian Cranson (3504)
-Family First"]
-	"David Scott Kane (4860)" [label="David Scott Kane (4860)
-Australian Democrats"]
 	"Darren Trueman (4862)" [label="Darren Trueman (4862)
 Independent"]
+	"David Scott Kane (4860)" [label="David Scott Kane (4860)
+Australian Democrats"]
+	"Ian Cranson (3504)" [label="Ian Cranson (3504)
+Family First"]
+	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
+Australian Labor Party"]
 	"Robert A Newnham (4858)" [label="Robert A Newnham (4858)
 LDP"]
 	"Rod Mclennan (4861)" [label="Rod Mclennan (4861)
 Citizens Electoral Council"]
-	"Steve Meacher (3355)" -> "Rob Mitchell (1004)" [label=8145]
-	"Ian Cranson (3504)" -> "Steve Meacher (3355)" [label=840]
-	"David Scott Kane (4860)" -> "Ian Cranson (3504)" [label=156]
+	"Steve Meacher (3355)" [label="Steve Meacher (3355)
+Australian Greens"]
 	"Darren Trueman (4862)" -> "David Scott Kane (4860)" [label=104]
-	"Robert A Newnham (4858)" -> "Darren Trueman (4862)" [label=35]
-	"Rod Mclennan (4861)" -> "Robert A Newnham (4858)" [label=7]
-	"Ian Cranson (3504)" -> "Rob Mitchell (1004)" [label=621]
-	"David Scott Kane (4860)" -> "Rob Mitchell (1004)" [label=320]
-	"Darren Trueman (4862)" -> "Rob Mitchell (1004)" [label=154]
-	"Robert A Newnham (4858)" -> "Rob Mitchell (1004)" [label=193]
-	"Rod Mclennan (4861)" -> "Rob Mitchell (1004)" [label=19]
-	"Rod Mclennan (4861)" -> "Darren Trueman (4862)" [label=49]
-	"Robert A Newnham (4858)" -> "David Scott Kane (4860)" [label=54]
-	"Rod Mclennan (4861)" -> "David Scott Kane (4860)" [label=9]
 	"Darren Trueman (4862)" -> "Ian Cranson (3504)" [label=319]
-	"Robert A Newnham (4858)" -> "Ian Cranson (3504)" [label=40]
-	"Rod Mclennan (4861)" -> "Ian Cranson (3504)" [label=36]
-	"David Scott Kane (4860)" -> "Steve Meacher (3355)" [label=411]
+	"Darren Trueman (4862)" -> "Rob Mitchell (1004)" [label=154]
 	"Darren Trueman (4862)" -> "Steve Meacher (3355)" [label=154]
+	"David Scott Kane (4860)" -> "Ian Cranson (3504)" [label=156]
+	"David Scott Kane (4860)" -> "Rob Mitchell (1004)" [label=320]
+	"David Scott Kane (4860)" -> "Steve Meacher (3355)" [label=411]
+	"Ian Cranson (3504)" -> "Rob Mitchell (1004)" [label=621]
+	"Ian Cranson (3504)" -> "Steve Meacher (3355)" [label=840]
+	"Robert A Newnham (4858)" -> "Darren Trueman (4862)" [label=35]
+	"Robert A Newnham (4858)" -> "David Scott Kane (4860)" [label=54]
+	"Robert A Newnham (4858)" -> "Ian Cranson (3504)" [label=40]
+	"Robert A Newnham (4858)" -> "Rob Mitchell (1004)" [label=193]
 	"Robert A Newnham (4858)" -> "Steve Meacher (3355)" [label=53]
+	"Rod Mclennan (4861)" -> "Darren Trueman (4862)" [label=49]
+	"Rod Mclennan (4861)" -> "David Scott Kane (4860)" [label=9]
+	"Rod Mclennan (4861)" -> "Ian Cranson (3504)" [label=36]
+	"Rod Mclennan (4861)" -> "Rob Mitchell (1004)" [label=19]
+	"Rod Mclennan (4861)" -> "Robert A Newnham (4858)" [label=7]
 	"Rod Mclennan (4861)" -> "Steve Meacher (3355)" [label=23]
+	"Steve Meacher (3355)" -> "Rob Mitchell (1004)" [label=8145]
 }

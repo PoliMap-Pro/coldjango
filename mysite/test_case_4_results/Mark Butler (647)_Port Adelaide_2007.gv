@@ -2,18 +2,18 @@
 digraph "Mark Butler (647)_Port Adelaide_2007" {
 	graph [label="Port Adelaide 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Butler (647)" [label="Mark Butler (647)
-Australian Labor Party"]
-	"Colin Thomas (1695)" [label="Colin Thomas (1695)
-The Greens"]
 	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
 Family First Party"]
+	"Colin Thomas (1695)" [label="Colin Thomas (1695)
+The Greens"]
+	"Mark Butler (647)" [label="Mark Butler (647)
+Australian Labor Party"]
 	"Pam Moore (4690)" [label="Pam Moore (4690)
 Australian Democrats"]
-	"Colin Thomas (1695)" -> "Mark Butler (647)" [label=8212]
 	"Bruce Hambour (2485)" -> "Colin Thomas (1695)" [label=1924]
-	"Pam Moore (4690)" -> "Bruce Hambour (2485)" [label=234]
 	"Bruce Hambour (2485)" -> "Mark Butler (647)" [label=1746]
-	"Pam Moore (4690)" -> "Mark Butler (647)" [label=468]
+	"Colin Thomas (1695)" -> "Mark Butler (647)" [label=8212]
+	"Pam Moore (4690)" -> "Bruce Hambour (2485)" [label=234]
 	"Pam Moore (4690)" -> "Colin Thomas (1695)" [label=696]
+	"Pam Moore (4690)" -> "Mark Butler (647)" [label=468]
 }

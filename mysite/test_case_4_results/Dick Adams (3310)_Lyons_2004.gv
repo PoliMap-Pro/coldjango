@@ -11,9 +11,9 @@ Family First"]
 	"Saul Jenkins (5490)" [label="Saul Jenkins (5490)
 Citizens Electoral Council"]
 	"Glenn Millar (5491)" -> "Dick Adams (3310)" [label=4809]
-	"Marie Papiccio (5489)" -> "Glenn Millar (5491)" [label=238]
-	"Saul Jenkins (5490)" -> "Marie Papiccio (5489)" [label=129]
 	"Marie Papiccio (5489)" -> "Dick Adams (3310)" [label=649]
+	"Marie Papiccio (5489)" -> "Glenn Millar (5491)" [label=238]
 	"Saul Jenkins (5490)" -> "Dick Adams (3310)" [label=67]
 	"Saul Jenkins (5490)" -> "Glenn Millar (5491)" [label=46]
+	"Saul Jenkins (5490)" -> "Marie Papiccio (5489)" [label=129]
 }

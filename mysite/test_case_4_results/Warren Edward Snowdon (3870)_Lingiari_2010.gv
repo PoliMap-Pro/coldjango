@@ -2,8 +2,6 @@
 digraph "Warren Edward Snowdon (3870)_Lingiari_2010" {
 	graph [label="Lingiari 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Warren Edward Snowdon (3870)" [label="Warren Edward Snowdon (3870)
-Australian Labor Party (Northern Territory) Branch"]
 	"Barbara Shaw (3043)" [label="Barbara Shaw (3043)
 The Greens"]
 	"Deirdre Finter (3869)" [label="Deirdre Finter (3869)
@@ -12,14 +10,16 @@ Independent"]
 Independent"]
 	"Peter Flynn (2270)" [label="Peter Flynn (2270)
 Citizens Electoral Council"]
+	"Warren Edward Snowdon (3870)" [label="Warren Edward Snowdon (3870)
+Australian Labor Party (Northern Territory) Branch"]
 	"Barbara Shaw (3043)" -> "Warren Edward Snowdon (3870)" [label=4468]
 	"Deirdre Finter (3869)" -> "Barbara Shaw (3043)" [label=1161]
-	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
-	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
 	"Deirdre Finter (3869)" -> "Warren Edward Snowdon (3870)" [label=886]
-	"Kenny Lechleitner (3868)" -> "Warren Edward Snowdon (3870)" [label=357]
-	"Peter Flynn (2270)" -> "Warren Edward Snowdon (3870)" [label=135]
-	"Peter Flynn (2270)" -> "Deirdre Finter (3869)" [label=145]
 	"Kenny Lechleitner (3868)" -> "Barbara Shaw (3043)" [label=462]
+	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
+	"Kenny Lechleitner (3868)" -> "Warren Edward Snowdon (3870)" [label=357]
 	"Peter Flynn (2270)" -> "Barbara Shaw (3043)" [label=230]
+	"Peter Flynn (2270)" -> "Deirdre Finter (3869)" [label=145]
+	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
+	"Peter Flynn (2270)" -> "Warren Edward Snowdon (3870)" [label=135]
 }

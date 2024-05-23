@@ -4,29 +4,29 @@ digraph "Brent Thomas (3760)_Hughes_2010" {
 	node [shape=box]
 	"Brent Thomas (3760)" [label="Brent Thomas (3760)
 Labor"]
-	"Susan Roberts (3756)" [label="Susan Roberts (3756)
-The Greens"]
-	"Scott Nailon (3758)" [label="Scott Nailon (3758)
-Christian Democratic Party (Fred Nile Group)"]
-	"Peter Bussa (3755)" [label="Peter Bussa (3755)
-One Nation"]
-	"Stan Hurley (3757)" [label="Stan Hurley (3757)
-Family First"]
 	"Don Nguyen (3759)" [label="Don Nguyen (3759)
 Liberal Democrats (LDP)"]
-	"Susan Roberts (3756)" -> "Brent Thomas (3760)" [label=4722]
-	"Scott Nailon (3758)" -> "Susan Roberts (3756)" [label=503]
-	"Peter Bussa (3755)" -> "Scott Nailon (3758)" [label=248]
-	"Stan Hurley (3757)" -> "Peter Bussa (3755)" [label=174]
-	"Don Nguyen (3759)" -> "Stan Hurley (3757)" [label=91]
-	"Scott Nailon (3758)" -> "Brent Thomas (3760)" [label=582]
-	"Peter Bussa (3755)" -> "Brent Thomas (3760)" [label=316]
-	"Stan Hurley (3757)" -> "Brent Thomas (3760)" [label=232]
+	"Peter Bussa (3755)" [label="Peter Bussa (3755)
+One Nation"]
+	"Scott Nailon (3758)" [label="Scott Nailon (3758)
+Christian Democratic Party (Fred Nile Group)"]
+	"Stan Hurley (3757)" [label="Stan Hurley (3757)
+Family First"]
+	"Susan Roberts (3756)" [label="Susan Roberts (3756)
+The Greens"]
 	"Don Nguyen (3759)" -> "Brent Thomas (3760)" [label=225]
 	"Don Nguyen (3759)" -> "Peter Bussa (3755)" [label=50]
-	"Stan Hurley (3757)" -> "Scott Nailon (3758)" [label=300]
 	"Don Nguyen (3759)" -> "Scott Nailon (3758)" [label=85]
-	"Peter Bussa (3755)" -> "Susan Roberts (3756)" [label=340]
-	"Stan Hurley (3757)" -> "Susan Roberts (3756)" [label=281]
+	"Don Nguyen (3759)" -> "Stan Hurley (3757)" [label=91]
 	"Don Nguyen (3759)" -> "Susan Roberts (3756)" [label=94]
+	"Peter Bussa (3755)" -> "Brent Thomas (3760)" [label=316]
+	"Peter Bussa (3755)" -> "Scott Nailon (3758)" [label=248]
+	"Peter Bussa (3755)" -> "Susan Roberts (3756)" [label=340]
+	"Scott Nailon (3758)" -> "Brent Thomas (3760)" [label=582]
+	"Scott Nailon (3758)" -> "Susan Roberts (3756)" [label=503]
+	"Stan Hurley (3757)" -> "Brent Thomas (3760)" [label=232]
+	"Stan Hurley (3757)" -> "Peter Bussa (3755)" [label=174]
+	"Stan Hurley (3757)" -> "Scott Nailon (3758)" [label=300]
+	"Stan Hurley (3757)" -> "Susan Roberts (3756)" [label=281]
+	"Susan Roberts (3756)" -> "Brent Thomas (3760)" [label=4722]
 }

@@ -9,6 +9,6 @@ The Greens"]
 	"Quintin Hedges-Phillips (3672)" [label="Quintin Hedges-Phillips (3672)
 Secular Party of Australia"]
 	"Indra Esguerra (3673)" -> "Andrew Leigh (14)" [label=19897]
-	"Quintin Hedges-Phillips (3672)" -> "Indra Esguerra (3673)" [label=907]
 	"Quintin Hedges-Phillips (3672)" -> "Andrew Leigh (14)" [label=624]
+	"Quintin Hedges-Phillips (3672)" -> "Indra Esguerra (3673)" [label=907]
 }

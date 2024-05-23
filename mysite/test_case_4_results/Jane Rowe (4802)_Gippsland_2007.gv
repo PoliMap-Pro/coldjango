@@ -2,24 +2,24 @@
 digraph "Jane Rowe (4802)_Gippsland_2007" {
 	graph [label="Gippsland 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Ben Buckley (2610)" [label="Ben Buckley (2610)
+Independent"]
+	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
+What Women Want (Australia)"]
 	"Jane Rowe (4802)" [label="Jane Rowe (4802)
 Australian Labor Party"]
 	"Jeff Wrathall (4799)" [label="Jeff Wrathall (4799)
 Australian Greens"]
 	"Michael Rowell (4800)" [label="Michael Rowell (4800)
 Family First"]
-	"Ben Buckley (2610)" [label="Ben Buckley (2610)
-Independent"]
-	"Helen Mcadam (4798)" [label="Helen Mcadam (4798)
-What Women Want (Australia)"]
-	"Jeff Wrathall (4799)" -> "Jane Rowe (4802)" [label=4538]
-	"Michael Rowell (4800)" -> "Jeff Wrathall (4799)" [label=1064]
+	"Ben Buckley (2610)" -> "Jane Rowe (4802)" [label=802]
+	"Ben Buckley (2610)" -> "Jeff Wrathall (4799)" [label=412]
 	"Ben Buckley (2610)" -> "Michael Rowell (4800)" [label=620]
 	"Helen Mcadam (4798)" -> "Ben Buckley (2610)" [label=148]
-	"Michael Rowell (4800)" -> "Jane Rowe (4802)" [label=1018]
-	"Ben Buckley (2610)" -> "Jane Rowe (4802)" [label=802]
 	"Helen Mcadam (4798)" -> "Jane Rowe (4802)" [label=289]
-	"Helen Mcadam (4798)" -> "Michael Rowell (4800)" [label=380]
-	"Ben Buckley (2610)" -> "Jeff Wrathall (4799)" [label=412]
 	"Helen Mcadam (4798)" -> "Jeff Wrathall (4799)" [label=765]
+	"Helen Mcadam (4798)" -> "Michael Rowell (4800)" [label=380]
+	"Jeff Wrathall (4799)" -> "Jane Rowe (4802)" [label=4538]
+	"Michael Rowell (4800)" -> "Jane Rowe (4802)" [label=1018]
+	"Michael Rowell (4800)" -> "Jeff Wrathall (4799)" [label=1064]
 }

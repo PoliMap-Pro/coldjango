@@ -2,31 +2,31 @@
 digraph "Darin Schade (752)_Bendigo_2022" {
 	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Darin Schade (752)" [label="Darin Schade (752)
-Liberal"]
-	"Cate Sinclair (753)" [label="Cate Sinclair (753)
-The Greens"]
 	"Ben Mihail (755)" [label="Ben Mihail (755)
 Pauline Hanson's One Nation"]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"Darin Schade (752)" [label="Darin Schade (752)
+Liberal"]
 	"Elijah Suares (756)" [label="Elijah Suares (756)
 United Australia Party"]
 	"James Laurie (750)" [label="James Laurie (750)
 Independent"]
 	"Matt Bansemer (754)" [label="Matt Bansemer (754)
 Liberal Democrats"]
-	"Cate Sinclair (753)" -> "Darin Schade (752)" [label=2954]
 	"Ben Mihail (755)" -> "Cate Sinclair (753)" [label=2151]
-	"Elijah Suares (756)" -> "Ben Mihail (755)" [label=3997]
-	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
-	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
 	"Ben Mihail (755)" -> "Darin Schade (752)" [label=6527]
+	"Cate Sinclair (753)" -> "Darin Schade (752)" [label=2954]
+	"Elijah Suares (756)" -> "Ben Mihail (755)" [label=3997]
+	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
 	"Elijah Suares (756)" -> "Darin Schade (752)" [label=491]
+	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
+	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
 	"James Laurie (750)" -> "Darin Schade (752)" [label=663]
+	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
+	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
+	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
 	"Matt Bansemer (754)" -> "Darin Schade (752)" [label=600]
 	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
-	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
-	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
-	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
-	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
-	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
+	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
 }

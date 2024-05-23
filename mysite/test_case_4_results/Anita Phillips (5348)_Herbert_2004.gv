@@ -4,29 +4,29 @@ digraph "Anita Phillips (5348)_Herbert_2004" {
 	node [shape=box]
 	"Anita Phillips (5348)" [label="Anita Phillips (5348)
 Australian Labor Party"]
-	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
-The Greens"]
 	"Cathy Eaton (5347)" [label="Cathy Eaton (5347)
 Family First"]
-	"William Michael Brennan (5351)" [label="William Michael Brennan (5351)
-One Nation"]
-	"Richard Hoolihan (5349)" [label="Richard Hoolihan (5349)
-Australian Democrats"]
+	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
+The Greens"]
 	"Les Marsden (5350)" [label="Les Marsden (5350)
 Citizens Electoral Council"]
-	"Jenny Stirling (3159)" -> "Anita Phillips (5348)" [label=4055]
-	"Cathy Eaton (5347)" -> "Jenny Stirling (3159)" [label=1045]
-	"William Michael Brennan (5351)" -> "Cathy Eaton (5347)" [label=1091]
-	"Richard Hoolihan (5349)" -> "William Michael Brennan (5351)" [label=152]
-	"Les Marsden (5350)" -> "Richard Hoolihan (5349)" [label=54]
+	"Richard Hoolihan (5349)" [label="Richard Hoolihan (5349)
+Australian Democrats"]
+	"William Michael Brennan (5351)" [label="William Michael Brennan (5351)
+One Nation"]
 	"Cathy Eaton (5347)" -> "Anita Phillips (5348)" [label=797]
-	"William Michael Brennan (5351)" -> "Anita Phillips (5348)" [label=674]
-	"Richard Hoolihan (5349)" -> "Anita Phillips (5348)" [label=318]
+	"Cathy Eaton (5347)" -> "Jenny Stirling (3159)" [label=1045]
+	"Jenny Stirling (3159)" -> "Anita Phillips (5348)" [label=4055]
 	"Les Marsden (5350)" -> "Anita Phillips (5348)" [label=51]
-	"Les Marsden (5350)" -> "William Michael Brennan (5351)" [label=100]
-	"Richard Hoolihan (5349)" -> "Cathy Eaton (5347)" [label=104]
 	"Les Marsden (5350)" -> "Cathy Eaton (5347)" [label=45]
-	"William Michael Brennan (5351)" -> "Jenny Stirling (3159)" [label=478]
-	"Richard Hoolihan (5349)" -> "Jenny Stirling (3159)" [label=311]
 	"Les Marsden (5350)" -> "Jenny Stirling (3159)" [label=34]
+	"Les Marsden (5350)" -> "Richard Hoolihan (5349)" [label=54]
+	"Les Marsden (5350)" -> "William Michael Brennan (5351)" [label=100]
+	"Richard Hoolihan (5349)" -> "Anita Phillips (5348)" [label=318]
+	"Richard Hoolihan (5349)" -> "Cathy Eaton (5347)" [label=104]
+	"Richard Hoolihan (5349)" -> "Jenny Stirling (3159)" [label=311]
+	"Richard Hoolihan (5349)" -> "William Michael Brennan (5351)" [label=152]
+	"William Michael Brennan (5351)" -> "Anita Phillips (5348)" [label=674]
+	"William Michael Brennan (5351)" -> "Cathy Eaton (5347)" [label=1091]
+	"William Michael Brennan (5351)" -> "Jenny Stirling (3159)" [label=478]
 }

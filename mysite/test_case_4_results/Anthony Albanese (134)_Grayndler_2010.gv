@@ -2,10 +2,10 @@
 digraph "Anthony Albanese (134)_Grayndler_2010" {
 	graph [label="Grayndler 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anthony Albanese (134)" [label="Anthony Albanese (134)
-Labor"]
 	"Alexander Dore (3746)" [label="Alexander Dore (3746)
 Liberal"]
+	"Anthony Albanese (134)" [label="Anthony Albanese (134)
+Labor"]
 	"James Michael Cogan (3744)" [label="James Michael Cogan (3744)
 Socialist Equality Party"]
 	"Perry Lodovico Garofani (3748)" [label="Perry Lodovico Garofani (3748)
@@ -14,12 +14,12 @@ Australian Democrats"]
 Socialist Alliance"]
 	"Alexander Dore (3746)" -> "Anthony Albanese (134)" [label=6150]
 	"James Michael Cogan (3744)" -> "Alexander Dore (3746)" [label=762]
-	"Perry Lodovico Garofani (3748)" -> "James Michael Cogan (3744)" [label=190]
-	"Pip Hinman (3745)" -> "Perry Lodovico Garofani (3748)" [label=34]
 	"James Michael Cogan (3744)" -> "Anthony Albanese (134)" [label=274]
+	"Perry Lodovico Garofani (3748)" -> "Alexander Dore (3746)" [label=222]
 	"Perry Lodovico Garofani (3748)" -> "Anthony Albanese (134)" [label=234]
+	"Perry Lodovico Garofani (3748)" -> "James Michael Cogan (3744)" [label=190]
+	"Pip Hinman (3745)" -> "Alexander Dore (3746)" [label=73]
 	"Pip Hinman (3745)" -> "Anthony Albanese (134)" [label=111]
 	"Pip Hinman (3745)" -> "James Michael Cogan (3744)" [label=323]
-	"Perry Lodovico Garofani (3748)" -> "Alexander Dore (3746)" [label=222]
-	"Pip Hinman (3745)" -> "Alexander Dore (3746)" [label=73]
+	"Pip Hinman (3745)" -> "Perry Lodovico Garofani (3748)" [label=34]
 }

@@ -2,18 +2,18 @@
 digraph "Greg Smith (3795)_New England_2004" {
 	graph [label="New England 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Greg Smith (3795)" [label="Greg Smith (3795)
-Country Labor"]
 	"Bruce Richard Taylor (5168)" [label="Bruce Richard Taylor (5168)
 The Greens"]
+	"Greg Smith (3795)" [label="Greg Smith (3795)
+Country Labor"]
 	"Raymond Scholes (5171)" [label="Raymond Scholes (5171)
 Pauline Hanson's One Nation (NSW Division)"]
 	"Steve Lawler (5167)" [label="Steve Lawler (5167)
 Citizens Electoral Council"]
 	"Bruce Richard Taylor (5168)" -> "Greg Smith (3795)" [label=1004]
 	"Raymond Scholes (5171)" -> "Bruce Richard Taylor (5168)" [label=125]
-	"Steve Lawler (5167)" -> "Raymond Scholes (5171)" [label=19]
 	"Raymond Scholes (5171)" -> "Greg Smith (3795)" [label=174]
-	"Steve Lawler (5167)" -> "Greg Smith (3795)" [label=31]
 	"Steve Lawler (5167)" -> "Bruce Richard Taylor (5168)" [label=263]
+	"Steve Lawler (5167)" -> "Greg Smith (3795)" [label=31]
+	"Steve Lawler (5167)" -> "Raymond Scholes (5171)" [label=19]
 }

@@ -4,11 +4,11 @@ digraph "Alan Griffin (3341)_Bruce_2010" {
 	node [shape=box]
 	"Alan Griffin (3341)" [label="Alan Griffin (3341)
 Australian Labor Party"]
-	"Stefan Zibell (4056)" [label="Stefan Zibell (4056)
-Australian Greens"]
 	"Felicity Hemmersbach (4057)" [label="Felicity Hemmersbach (4057)
 Family First"]
-	"Stefan Zibell (4056)" -> "Alan Griffin (3341)" [label=5979]
-	"Felicity Hemmersbach (4057)" -> "Stefan Zibell (4056)" [label=897]
+	"Stefan Zibell (4056)" [label="Stefan Zibell (4056)
+Australian Greens"]
 	"Felicity Hemmersbach (4057)" -> "Alan Griffin (3341)" [label=830]
+	"Felicity Hemmersbach (4057)" -> "Stefan Zibell (4056)" [label=897]
+	"Stefan Zibell (4056)" -> "Alan Griffin (3341)" [label=5979]
 }

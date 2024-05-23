@@ -2,24 +2,24 @@
 digraph "Glenn Richard Sims (5096)_Gwydir_2004" {
 	graph [label="Gwydir 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Glenn Richard Sims (5096)" [label="Glenn Richard Sims (5096)
-Country Labor"]
 	"Bruce Haigh (5099)" [label="Bruce Haigh (5099)
 Independent"]
 	"Colin Rogers (5098)" [label="Colin Rogers (5098)
 Pauline Hanson's One Nation (NSW Division)"]
+	"Glenn Richard Sims (5096)" [label="Glenn Richard Sims (5096)
+Country Labor"]
 	"Michael John Anderson (5097)" [label="Michael John Anderson (5097)
 The Greens"]
 	"Richard Stringer (4405)" [label="Richard Stringer (4405)
 Citizens Electoral Council"]
 	"Bruce Haigh (5099)" -> "Glenn Richard Sims (5096)" [label=3904]
 	"Colin Rogers (5098)" -> "Bruce Haigh (5099)" [label=2135]
-	"Michael John Anderson (5097)" -> "Colin Rogers (5098)" [label=328]
-	"Richard Stringer (4405)" -> "Michael John Anderson (5097)" [label=85]
 	"Colin Rogers (5098)" -> "Glenn Richard Sims (5096)" [label=768]
-	"Michael John Anderson (5097)" -> "Glenn Richard Sims (5096)" [label=1750]
-	"Richard Stringer (4405)" -> "Glenn Richard Sims (5096)" [label=139]
-	"Richard Stringer (4405)" -> "Colin Rogers (5098)" [label=288]
 	"Michael John Anderson (5097)" -> "Bruce Haigh (5099)" [label=665]
+	"Michael John Anderson (5097)" -> "Colin Rogers (5098)" [label=328]
+	"Michael John Anderson (5097)" -> "Glenn Richard Sims (5096)" [label=1750]
 	"Richard Stringer (4405)" -> "Bruce Haigh (5099)" [label=133]
+	"Richard Stringer (4405)" -> "Colin Rogers (5098)" [label=288]
+	"Richard Stringer (4405)" -> "Glenn Richard Sims (5096)" [label=139]
+	"Richard Stringer (4405)" -> "Michael John Anderson (5097)" [label=85]
 }

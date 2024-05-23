@@ -2,12 +2,12 @@
 digraph "Steve Hurd (4112)_Kooyong_2010" {
 	graph [label="Kooyong 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Steve Hurd (4112)" [label="Steve Hurd (4112)
-Australian Labor Party"]
 	"Des Benson (4113)" [label="Des Benson (4113)
 Australian Greens"]
 	"John Laidler (4114)" [label="John Laidler (4114)
 Family First"]
+	"Steve Hurd (4112)" [label="Steve Hurd (4112)
+Australian Labor Party"]
 	"Des Benson (4113)" -> "Steve Hurd (4112)" [label=12006]
 	"John Laidler (4114)" -> "Des Benson (4113)" [label=276]
 	"John Laidler (4114)" -> "Steve Hurd (4112)" [label=234]

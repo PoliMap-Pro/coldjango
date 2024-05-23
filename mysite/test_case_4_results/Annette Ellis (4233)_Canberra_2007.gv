@@ -2,10 +2,10 @@
 digraph "Annette Ellis (4233)_Canberra_2007" {
 	graph [label="Canberra 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Annette Ellis (4233)" [label="Annette Ellis (4233)
-Australian Labor Party"]
 	"Amanda Bresnan (4231)" [label="Amanda Bresnan (4231)
 The Greens"]
+	"Annette Ellis (4233)" [label="Annette Ellis (4233)
+Australian Labor Party"]
 	"John Holder (4234)" [label="John Holder (4234)
 Citizens Electoral Council"]
 	"Amanda Bresnan (4231)" -> "Annette Ellis (4233)" [label=12000]

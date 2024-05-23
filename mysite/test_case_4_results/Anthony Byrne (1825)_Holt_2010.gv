@@ -11,9 +11,9 @@ Family First"]
 	"Mark Hitchins (4096)" [label="Mark Hitchins (4096)
 Secular Party of Australia"]
 	"Frank Di Mascolo (4095)" -> "Anthony Byrne (1825)" [label=6694]
-	"Ian George (4097)" -> "Frank Di Mascolo (4095)" [label=1259]
-	"Mark Hitchins (4096)" -> "Ian George (4097)" [label=209]
 	"Ian George (4097)" -> "Anthony Byrne (1825)" [label=1589]
+	"Ian George (4097)" -> "Frank Di Mascolo (4095)" [label=1259]
 	"Mark Hitchins (4096)" -> "Anthony Byrne (1825)" [label=131]
 	"Mark Hitchins (4096)" -> "Frank Di Mascolo (4095)" [label=229]
+	"Mark Hitchins (4096)" -> "Ian George (4097)" [label=209]
 }

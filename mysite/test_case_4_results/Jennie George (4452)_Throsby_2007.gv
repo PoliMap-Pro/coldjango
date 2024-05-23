@@ -9,6 +9,6 @@ The Greens"]
 	"Scott Gordon Deakes (4453)" [label="Scott Gordon Deakes (4453)
 Christian Democratic Party (Fred Nile Group)"]
 	"Peter Charles Moran (4451)" -> "Jennie George (4452)" [label=6169]
-	"Scott Gordon Deakes (4453)" -> "Peter Charles Moran (4451)" [label=352]
 	"Scott Gordon Deakes (4453)" -> "Jennie George (4452)" [label=655]
+	"Scott Gordon Deakes (4453)" -> "Peter Charles Moran (4451)" [label=352]
 }

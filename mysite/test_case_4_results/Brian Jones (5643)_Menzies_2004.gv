@@ -2,24 +2,24 @@
 digraph "Brian Jones (5643)_Menzies_2004" {
 	graph [label="Menzies 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brian Jones (5643)" [label="Brian Jones (5643)
-Australian Labor Party"]
-	"Matthew Wright (2490)" [label="Matthew Wright (2490)
-Australian Greens"]
-	"John Bridge (5645)" [label="John Bridge (5645)
-Family First"]
 	"Anne Page (5646)" [label="Anne Page (5646)
 Democrats"]
+	"Brian Jones (5643)" [label="Brian Jones (5643)
+Australian Labor Party"]
+	"John Bridge (5645)" [label="John Bridge (5645)
+Family First"]
 	"Jordon Davidson (5644)" [label="Jordon Davidson (5644)
 Citizens Electoral Council"]
-	"Matthew Wright (2490)" -> "Brian Jones (5643)" [label=4488]
-	"John Bridge (5645)" -> "Matthew Wright (2490)" [label=316]
-	"Anne Page (5646)" -> "John Bridge (5645)" [label=152]
-	"Jordon Davidson (5644)" -> "Anne Page (5646)" [label=38]
-	"John Bridge (5645)" -> "Brian Jones (5643)" [label=432]
+	"Matthew Wright (2490)" [label="Matthew Wright (2490)
+Australian Greens"]
 	"Anne Page (5646)" -> "Brian Jones (5643)" [label=313]
+	"Anne Page (5646)" -> "John Bridge (5645)" [label=152]
+	"Anne Page (5646)" -> "Matthew Wright (2490)" [label=488]
+	"John Bridge (5645)" -> "Brian Jones (5643)" [label=432]
+	"John Bridge (5645)" -> "Matthew Wright (2490)" [label=316]
+	"Jordon Davidson (5644)" -> "Anne Page (5646)" [label=38]
 	"Jordon Davidson (5644)" -> "Brian Jones (5643)" [label=83]
 	"Jordon Davidson (5644)" -> "John Bridge (5645)" [label=83]
-	"Anne Page (5646)" -> "Matthew Wright (2490)" [label=488]
 	"Jordon Davidson (5644)" -> "Matthew Wright (2490)" [label=21]
+	"Matthew Wright (2490)" -> "Brian Jones (5643)" [label=4488]
 }

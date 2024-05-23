@@ -2,31 +2,31 @@
 digraph "Jugandeep Singh (73)_Chifley_2022" {
 	graph [label="Chifley 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jugandeep Singh (73)" [label="Jugandeep Singh (73)
-Liberal"]
 	"Amit Batish (68)" [label="Amit Batish (68)
 Pauline Hanson's One Nation"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Ben Roughley (71)" [label="Ben Roughley (71)
+Liberal Democrats"]
+	"Jugandeep Singh (73)" [label="Jugandeep Singh (73)
+Liberal"]
 	"Sujan Selventhiran (72)" [label="Sujan Selventhiran (72)
 The Greens"]
 	"Zvetanka Raskov (69)" [label="Zvetanka Raskov (69)
 United Australia Party"]
-	"Ben Roughley (71)" [label="Ben Roughley (71)
-Liberal Democrats"]
-	"Ammar Khan (70)" [label="Ammar Khan (70)
-Independent"]
 	"Amit Batish (68)" -> "Jugandeep Singh (73)" [label=7355]
-	"Sujan Selventhiran (72)" -> "Amit Batish (68)" [label=972]
-	"Zvetanka Raskov (69)" -> "Sujan Selventhiran (72)" [label=718]
-	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
-	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
-	"Sujan Selventhiran (72)" -> "Jugandeep Singh (73)" [label=1551]
-	"Zvetanka Raskov (69)" -> "Jugandeep Singh (73)" [label=760]
-	"Ben Roughley (71)" -> "Jugandeep Singh (73)" [label=1501]
-	"Ammar Khan (70)" -> "Jugandeep Singh (73)" [label=294]
-	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
-	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
-	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
-	"Zvetanka Raskov (69)" -> "Amit Batish (68)" [label=3414]
-	"Ben Roughley (71)" -> "Amit Batish (68)" [label=478]
 	"Ammar Khan (70)" -> "Amit Batish (68)" [label=281]
+	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
+	"Ammar Khan (70)" -> "Jugandeep Singh (73)" [label=294]
+	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
+	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
+	"Ben Roughley (71)" -> "Amit Batish (68)" [label=478]
+	"Ben Roughley (71)" -> "Jugandeep Singh (73)" [label=1501]
+	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
+	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
+	"Sujan Selventhiran (72)" -> "Amit Batish (68)" [label=972]
+	"Sujan Selventhiran (72)" -> "Jugandeep Singh (73)" [label=1551]
+	"Zvetanka Raskov (69)" -> "Amit Batish (68)" [label=3414]
+	"Zvetanka Raskov (69)" -> "Jugandeep Singh (73)" [label=760]
+	"Zvetanka Raskov (69)" -> "Sujan Selventhiran (72)" [label=718]
 }

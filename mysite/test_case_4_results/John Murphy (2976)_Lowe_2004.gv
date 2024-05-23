@@ -2,31 +2,31 @@
 digraph "John Murphy (2976)_Lowe_2004" {
 	graph [label="Lowe 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Murphy (2976)" [label="John Murphy (2976)
-Australian Labor Party"]
-	"Shireen Murphy (5127)" [label="Shireen Murphy (5127)
-The Greens"]
-	"Peter Rahme (5129)" [label="Peter Rahme (5129)
-Christian Democratic Party (Fred Nile Group)"]
 	"Biannca Pace (5130)" [label="Biannca Pace (5130)
 Australian Democrats"]
-	"Timothy Avery (5128)" [label="Timothy Avery (5128)
-liberals for forests"]
 	"John Mason (5131)" [label="John Mason (5131)
 Pauline Hanson's One Nation (NSW Division)"]
-	"Shireen Murphy (5127)" -> "John Murphy (2976)" [label=6959]
-	"Peter Rahme (5129)" -> "Shireen Murphy (5127)" [label=379]
+	"John Murphy (2976)" [label="John Murphy (2976)
+Australian Labor Party"]
+	"Peter Rahme (5129)" [label="Peter Rahme (5129)
+Christian Democratic Party (Fred Nile Group)"]
+	"Shireen Murphy (5127)" [label="Shireen Murphy (5127)
+The Greens"]
+	"Timothy Avery (5128)" [label="Timothy Avery (5128)
+liberals for forests"]
+	"Biannca Pace (5130)" -> "John Murphy (2976)" [label=302]
 	"Biannca Pace (5130)" -> "Peter Rahme (5129)" [label=129]
-	"Timothy Avery (5128)" -> "Biannca Pace (5130)" [label=73]
+	"Biannca Pace (5130)" -> "Shireen Murphy (5127)" [label=490]
+	"John Mason (5131)" -> "Biannca Pace (5130)" [label=61]
+	"John Mason (5131)" -> "John Murphy (2976)" [label=140]
+	"John Mason (5131)" -> "Peter Rahme (5129)" [label=98]
+	"John Mason (5131)" -> "Shireen Murphy (5127)" [label=99]
 	"John Mason (5131)" -> "Timothy Avery (5128)" [label=43]
 	"Peter Rahme (5129)" -> "John Murphy (2976)" [label=494]
-	"Biannca Pace (5130)" -> "John Murphy (2976)" [label=302]
+	"Peter Rahme (5129)" -> "Shireen Murphy (5127)" [label=379]
+	"Shireen Murphy (5127)" -> "John Murphy (2976)" [label=6959]
+	"Timothy Avery (5128)" -> "Biannca Pace (5130)" [label=73]
 	"Timothy Avery (5128)" -> "John Murphy (2976)" [label=55]
-	"John Mason (5131)" -> "John Murphy (2976)" [label=140]
-	"John Mason (5131)" -> "Biannca Pace (5130)" [label=61]
 	"Timothy Avery (5128)" -> "Peter Rahme (5129)" [label=85]
-	"John Mason (5131)" -> "Peter Rahme (5129)" [label=98]
-	"Biannca Pace (5130)" -> "Shireen Murphy (5127)" [label=490]
 	"Timothy Avery (5128)" -> "Shireen Murphy (5127)" [label=227]
-	"John Mason (5131)" -> "Shireen Murphy (5127)" [label=99]
 }

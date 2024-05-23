@@ -4,11 +4,11 @@ digraph "Jennie George (4452)_Throsby_2004" {
 	node [shape=box]
 	"Jennie George (4452)" [label="Jennie George (4452)
 Australian Labor Party"]
-	"Trevor Jones (1662)" [label="Trevor Jones (1662)
-The Greens"]
 	"Madeleine Roberts (5238)" [label="Madeleine Roberts (5238)
 Australian Democrats"]
-	"Trevor Jones (1662)" -> "Jennie George (4452)" [label=6396]
-	"Madeleine Roberts (5238)" -> "Trevor Jones (1662)" [label=764]
+	"Trevor Jones (1662)" [label="Trevor Jones (1662)
+The Greens"]
 	"Madeleine Roberts (5238)" -> "Jennie George (4452)" [label=516]
+	"Madeleine Roberts (5238)" -> "Trevor Jones (1662)" [label=764]
+	"Trevor Jones (1662)" -> "Jennie George (4452)" [label=6396]
 }

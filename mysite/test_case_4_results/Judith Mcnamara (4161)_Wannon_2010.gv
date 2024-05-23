@@ -2,48 +2,48 @@
 digraph "Judith Mcnamara (4161)_Wannon_2010" {
 	graph [label="Wannon 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Judith Mcnamara (4161)" [label="Judith Mcnamara (4161)
-Australian Labor Party"]
-	"James Purcell (4158)" [label="James Purcell (4158)
-Independent"]
-	"Lisa Owen (4163)" [label="Lisa Owen (4163)
-Australian Greens"]
-	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
-Independent"]
-	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
+	"Allan Marsh (4160)" [label="Allan Marsh (4160)
 Independent"]
 	"Jahzeel Concepcion (4162)" [label="Jahzeel Concepcion (4162)
 Family First"]
-	"Allan Marsh (4160)" [label="Allan Marsh (4160)
+	"James Purcell (4158)" [label="James Purcell (4158)
+Independent"]
+	"Judith Mcnamara (4161)" [label="Judith Mcnamara (4161)
+Australian Labor Party"]
+	"Katrina Rainsford (4165)" [label="Katrina Rainsford (4165)
+Independent"]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
+	"Ralph Leutton (4159)" [label="Ralph Leutton (4159)
 Independent"]
 	"Robert O'Brien (4164)" [label="Robert O'Brien (4164)
 Independent"]
-	"James Purcell (4158)" -> "Judith Mcnamara (4161)" [label=5698]
-	"Lisa Owen (4163)" -> "James Purcell (4158)" [label=1877]
-	"Katrina Rainsford (4165)" -> "Lisa Owen (4163)" [label=926]
-	"Ralph Leutton (4159)" -> "Katrina Rainsford (4165)" [label=476]
-	"Jahzeel Concepcion (4162)" -> "Ralph Leutton (4159)" [label=112]
 	"Allan Marsh (4160)" -> "Jahzeel Concepcion (4162)" [label=67]
-	"Robert O'Brien (4164)" -> "Allan Marsh (4160)" [label=67]
-	"Lisa Owen (4163)" -> "Judith Mcnamara (4161)" [label=3815]
-	"Katrina Rainsford (4165)" -> "Judith Mcnamara (4161)" [label=691]
-	"Ralph Leutton (4159)" -> "Judith Mcnamara (4161)" [label=377]
-	"Jahzeel Concepcion (4162)" -> "Judith Mcnamara (4161)" [label=260]
-	"Allan Marsh (4160)" -> "Judith Mcnamara (4161)" [label=144]
-	"Robert O'Brien (4164)" -> "Judith Mcnamara (4161)" [label=67]
-	"Robert O'Brien (4164)" -> "Jahzeel Concepcion (4162)" [label=35]
-	"Allan Marsh (4160)" -> "Ralph Leutton (4159)" [label=174]
-	"Robert O'Brien (4164)" -> "Ralph Leutton (4159)" [label=61]
-	"Jahzeel Concepcion (4162)" -> "Katrina Rainsford (4165)" [label=227]
-	"Allan Marsh (4160)" -> "Katrina Rainsford (4165)" [label=128]
-	"Robert O'Brien (4164)" -> "Katrina Rainsford (4165)" [label=229]
-	"Ralph Leutton (4159)" -> "Lisa Owen (4163)" [label=207]
-	"Jahzeel Concepcion (4162)" -> "Lisa Owen (4163)" [label=286]
-	"Allan Marsh (4160)" -> "Lisa Owen (4163)" [label=97]
-	"Robert O'Brien (4164)" -> "Lisa Owen (4163)" [label=93]
-	"Katrina Rainsford (4165)" -> "James Purcell (4158)" [label=2423]
-	"Ralph Leutton (4159)" -> "James Purcell (4158)" [label=1397]
-	"Jahzeel Concepcion (4162)" -> "James Purcell (4158)" [label=174]
 	"Allan Marsh (4160)" -> "James Purcell (4158)" [label=303]
+	"Allan Marsh (4160)" -> "Judith Mcnamara (4161)" [label=144]
+	"Allan Marsh (4160)" -> "Katrina Rainsford (4165)" [label=128]
+	"Allan Marsh (4160)" -> "Lisa Owen (4163)" [label=97]
+	"Allan Marsh (4160)" -> "Ralph Leutton (4159)" [label=174]
+	"Jahzeel Concepcion (4162)" -> "James Purcell (4158)" [label=174]
+	"Jahzeel Concepcion (4162)" -> "Judith Mcnamara (4161)" [label=260]
+	"Jahzeel Concepcion (4162)" -> "Katrina Rainsford (4165)" [label=227]
+	"Jahzeel Concepcion (4162)" -> "Lisa Owen (4163)" [label=286]
+	"Jahzeel Concepcion (4162)" -> "Ralph Leutton (4159)" [label=112]
+	"James Purcell (4158)" -> "Judith Mcnamara (4161)" [label=5698]
+	"Katrina Rainsford (4165)" -> "James Purcell (4158)" [label=2423]
+	"Katrina Rainsford (4165)" -> "Judith Mcnamara (4161)" [label=691]
+	"Katrina Rainsford (4165)" -> "Lisa Owen (4163)" [label=926]
+	"Lisa Owen (4163)" -> "James Purcell (4158)" [label=1877]
+	"Lisa Owen (4163)" -> "Judith Mcnamara (4161)" [label=3815]
+	"Ralph Leutton (4159)" -> "James Purcell (4158)" [label=1397]
+	"Ralph Leutton (4159)" -> "Judith Mcnamara (4161)" [label=377]
+	"Ralph Leutton (4159)" -> "Katrina Rainsford (4165)" [label=476]
+	"Ralph Leutton (4159)" -> "Lisa Owen (4163)" [label=207]
+	"Robert O'Brien (4164)" -> "Allan Marsh (4160)" [label=67]
+	"Robert O'Brien (4164)" -> "Jahzeel Concepcion (4162)" [label=35]
 	"Robert O'Brien (4164)" -> "James Purcell (4158)" [label=115]
+	"Robert O'Brien (4164)" -> "Judith Mcnamara (4161)" [label=67]
+	"Robert O'Brien (4164)" -> "Katrina Rainsford (4165)" [label=229]
+	"Robert O'Brien (4164)" -> "Lisa Owen (4163)" [label=93]
+	"Robert O'Brien (4164)" -> "Ralph Leutton (4159)" [label=61]
 }

@@ -4,29 +4,29 @@ digraph "Daryl Melham (2793)_Banks_2004" {
 	node [shape=box]
 	"Daryl Melham (2793)" [label="Daryl Melham (2793)
 Australian Labor Party"]
-	"Stephen Makin (5000)" [label="Stephen Makin (5000)
-The Greens"]
-	"Janne Peterson (5004)" [label="Janne Peterson (5004)
-Christian Democratic Party (Fred Nile Group)"]
-	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
-Pauline Hanson's One Nation (NSW Division)"]
-	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
-Australian Democrats"]
 	"Greg Briscoe-Hough (5002)" [label="Greg Briscoe-Hough (5002)
 Family First"]
-	"Stephen Makin (5000)" -> "Daryl Melham (2793)" [label=3229]
-	"Janne Peterson (5004)" -> "Stephen Makin (5000)" [label=343]
-	"Harry Stavrinos (4262)" -> "Janne Peterson (5004)" [label=253]
-	"Mark Clyburn (5003)" -> "Harry Stavrinos (4262)" [label=53]
-	"Greg Briscoe-Hough (5002)" -> "Mark Clyburn (5003)" [label=78]
-	"Janne Peterson (5004)" -> "Daryl Melham (2793)" [label=685]
-	"Harry Stavrinos (4262)" -> "Daryl Melham (2793)" [label=454]
-	"Mark Clyburn (5003)" -> "Daryl Melham (2793)" [label=253]
+	"Harry Stavrinos (4262)" [label="Harry Stavrinos (4262)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Janne Peterson (5004)" [label="Janne Peterson (5004)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Clyburn (5003)" [label="Mark Clyburn (5003)
+Australian Democrats"]
+	"Stephen Makin (5000)" [label="Stephen Makin (5000)
+The Greens"]
 	"Greg Briscoe-Hough (5002)" -> "Daryl Melham (2793)" [label=111]
 	"Greg Briscoe-Hough (5002)" -> "Harry Stavrinos (4262)" [label=74]
-	"Mark Clyburn (5003)" -> "Janne Peterson (5004)" [label=64]
 	"Greg Briscoe-Hough (5002)" -> "Janne Peterson (5004)" [label=106]
-	"Harry Stavrinos (4262)" -> "Stephen Makin (5000)" [label=852]
-	"Mark Clyburn (5003)" -> "Stephen Makin (5000)" [label=215]
+	"Greg Briscoe-Hough (5002)" -> "Mark Clyburn (5003)" [label=78]
 	"Greg Briscoe-Hough (5002)" -> "Stephen Makin (5000)" [label=112]
+	"Harry Stavrinos (4262)" -> "Daryl Melham (2793)" [label=454]
+	"Harry Stavrinos (4262)" -> "Janne Peterson (5004)" [label=253]
+	"Harry Stavrinos (4262)" -> "Stephen Makin (5000)" [label=852]
+	"Janne Peterson (5004)" -> "Daryl Melham (2793)" [label=685]
+	"Janne Peterson (5004)" -> "Stephen Makin (5000)" [label=343]
+	"Mark Clyburn (5003)" -> "Daryl Melham (2793)" [label=253]
+	"Mark Clyburn (5003)" -> "Harry Stavrinos (4262)" [label=53]
+	"Mark Clyburn (5003)" -> "Janne Peterson (5004)" [label=64]
+	"Mark Clyburn (5003)" -> "Stephen Makin (5000)" [label=215]
+	"Stephen Makin (5000)" -> "Daryl Melham (2793)" [label=3229]
 }

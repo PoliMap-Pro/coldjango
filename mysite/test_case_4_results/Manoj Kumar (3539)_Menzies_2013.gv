@@ -2,31 +2,31 @@
 digraph "Manoj Kumar (3539)_Menzies_2013" {
 	graph [label="Menzies 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Manoj Kumar (3539)" [label="Manoj Kumar (3539)
-Australian Labor Party"]
-	"Richard Cranston (2693)" [label="Richard Cranston (2693)
-The Greens"]
 	"Agostino Guardiani (3540)" [label="Agostino Guardiani (3540)
 Palmer United Party"]
 	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
 Family First Party"]
-	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
-Independent"]
+	"Manoj Kumar (3539)" [label="Manoj Kumar (3539)
+Australian Labor Party"]
 	"Phil Baker (2338)" [label="Phil Baker (2338)
 Rise Up Australia Party"]
-	"Richard Cranston (2693)" -> "Manoj Kumar (3539)" [label=6944]
+	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
+Independent"]
+	"Richard Cranston (2693)" [label="Richard Cranston (2693)
+The Greens"]
+	"Agostino Guardiani (3540)" -> "Manoj Kumar (3539)" [label=1173]
 	"Agostino Guardiani (3540)" -> "Richard Cranston (2693)" [label=865]
 	"Andrew Conlon (3541)" -> "Agostino Guardiani (3540)" [label=684]
-	"Ramon Robinson (2691)" -> "Andrew Conlon (3541)" [label=231]
-	"Phil Baker (2338)" -> "Ramon Robinson (2691)" [label=69]
-	"Agostino Guardiani (3540)" -> "Manoj Kumar (3539)" [label=1173]
 	"Andrew Conlon (3541)" -> "Manoj Kumar (3539)" [label=330]
-	"Ramon Robinson (2691)" -> "Manoj Kumar (3539)" [label=296]
-	"Phil Baker (2338)" -> "Manoj Kumar (3539)" [label=40]
-	"Phil Baker (2338)" -> "Andrew Conlon (3541)" [label=214]
-	"Ramon Robinson (2691)" -> "Agostino Guardiani (3540)" [label=234]
-	"Phil Baker (2338)" -> "Agostino Guardiani (3540)" [label=50]
 	"Andrew Conlon (3541)" -> "Richard Cranston (2693)" [label=369]
-	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=333]
+	"Phil Baker (2338)" -> "Agostino Guardiani (3540)" [label=50]
+	"Phil Baker (2338)" -> "Andrew Conlon (3541)" [label=214]
+	"Phil Baker (2338)" -> "Manoj Kumar (3539)" [label=40]
+	"Phil Baker (2338)" -> "Ramon Robinson (2691)" [label=69]
 	"Phil Baker (2338)" -> "Richard Cranston (2693)" [label=36]
+	"Ramon Robinson (2691)" -> "Agostino Guardiani (3540)" [label=234]
+	"Ramon Robinson (2691)" -> "Andrew Conlon (3541)" [label=231]
+	"Ramon Robinson (2691)" -> "Manoj Kumar (3539)" [label=296]
+	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=333]
+	"Richard Cranston (2693)" -> "Manoj Kumar (3539)" [label=6944]
 }

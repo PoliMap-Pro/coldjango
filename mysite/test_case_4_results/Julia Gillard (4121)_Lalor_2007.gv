@@ -2,24 +2,24 @@
 digraph "Julia Gillard (4121)_Lalor_2007" {
 	graph [label="Lalor 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julia Gillard (4121)" [label="Julia Gillard (4121)
-Australian Labor Party"]
-	"Steve Gleeson (4846)" [label="Steve Gleeson (4846)
-Family First"]
 	"Jay Tilley (4848)" [label="Jay Tilley (4848)
 Australian Greens"]
+	"Julia Gillard (4121)" [label="Julia Gillard (4121)
+Australian Labor Party"]
 	"Libby Krepp (4847)" [label="Libby Krepp (4847)
 D.L.P. - Democratic Labor Party"]
 	"Roger Howe (4849)" [label="Roger Howe (4849)
 Australian Democrats"]
-	"Steve Gleeson (4846)" -> "Julia Gillard (4121)" [label=2007]
+	"Steve Gleeson (4846)" [label="Steve Gleeson (4846)
+Family First"]
+	"Jay Tilley (4848)" -> "Julia Gillard (4121)" [label=2800]
 	"Jay Tilley (4848)" -> "Steve Gleeson (4846)" [label=929]
 	"Libby Krepp (4847)" -> "Jay Tilley (4848)" [label=220]
-	"Roger Howe (4849)" -> "Libby Krepp (4847)" [label=109]
-	"Jay Tilley (4848)" -> "Julia Gillard (4121)" [label=2800]
 	"Libby Krepp (4847)" -> "Julia Gillard (4121)" [label=329]
-	"Roger Howe (4849)" -> "Julia Gillard (4121)" [label=256]
-	"Roger Howe (4849)" -> "Jay Tilley (4848)" [label=284]
 	"Libby Krepp (4847)" -> "Steve Gleeson (4846)" [label=354]
+	"Roger Howe (4849)" -> "Jay Tilley (4848)" [label=284]
+	"Roger Howe (4849)" -> "Julia Gillard (4121)" [label=256]
+	"Roger Howe (4849)" -> "Libby Krepp (4847)" [label=109]
 	"Roger Howe (4849)" -> "Steve Gleeson (4846)" [label=68]
+	"Steve Gleeson (4846)" -> "Julia Gillard (4121)" [label=2007]
 }

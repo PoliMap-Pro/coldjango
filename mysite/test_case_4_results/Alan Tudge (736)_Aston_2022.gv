@@ -6,27 +6,27 @@ digraph "Alan Tudge (736)_Aston_2022" {
 Liberal"]
 	"Asher Cookson (737)" [label="Asher Cookson (737)
 The Greens"]
-	"Rebekah Jane Spelman (735)" [label="Rebekah Jane Spelman (735)
-United Australia Party"]
 	"Craig Ibbotson (739)" [label="Craig Ibbotson (739)
 Pauline Hanson's One Nation"]
 	"Liam Roche (740)" [label="Liam Roche (740)
 Liberal Democrats"]
+	"Rebekah Jane Spelman (735)" [label="Rebekah Jane Spelman (735)
+United Australia Party"]
 	"Ryan Bruce (738)" [label="Ryan Bruce (738)
 TNL"]
 	"Asher Cookson (737)" -> "Alan Tudge (736)" [label=3137]
-	"Rebekah Jane Spelman (735)" -> "Asher Cookson (737)" [label=2217]
-	"Craig Ibbotson (739)" -> "Rebekah Jane Spelman (735)" [label=2429]
-	"Liam Roche (740)" -> "Craig Ibbotson (739)" [label=589]
-	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
-	"Rebekah Jane Spelman (735)" -> "Alan Tudge (736)" [label=5305]
 	"Craig Ibbotson (739)" -> "Alan Tudge (736)" [label=503]
-	"Liam Roche (740)" -> "Alan Tudge (736)" [label=513]
-	"Ryan Bruce (738)" -> "Alan Tudge (736)" [label=122]
-	"Ryan Bruce (738)" -> "Craig Ibbotson (739)" [label=103]
-	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
-	"Ryan Bruce (738)" -> "Rebekah Jane Spelman (735)" [label=91]
 	"Craig Ibbotson (739)" -> "Asher Cookson (737)" [label=407]
+	"Craig Ibbotson (739)" -> "Rebekah Jane Spelman (735)" [label=2429]
+	"Liam Roche (740)" -> "Alan Tudge (736)" [label=513]
 	"Liam Roche (740)" -> "Asher Cookson (737)" [label=198]
+	"Liam Roche (740)" -> "Craig Ibbotson (739)" [label=589]
+	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
+	"Rebekah Jane Spelman (735)" -> "Alan Tudge (736)" [label=5305]
+	"Rebekah Jane Spelman (735)" -> "Asher Cookson (737)" [label=2217]
+	"Ryan Bruce (738)" -> "Alan Tudge (736)" [label=122]
 	"Ryan Bruce (738)" -> "Asher Cookson (737)" [label=366]
+	"Ryan Bruce (738)" -> "Craig Ibbotson (739)" [label=103]
+	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
+	"Ryan Bruce (738)" -> "Rebekah Jane Spelman (735)" [label=91]
 }

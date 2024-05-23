@@ -2,31 +2,31 @@
 digraph "Tony Dib (5524)_Casey_2004" {
 	graph [label="Casey 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony Dib (5524)" [label="Tony Dib (5524)
-Australian Labor Party"]
-	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
-Australian Greens"]
 	"Andrew Rushton (5522)" [label="Andrew Rushton (5522)
 Family First"]
-	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
-Democrats"]
 	"Daniel Chapman (5521)" [label="Daniel Chapman (5521)
 "]
 	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
 Citizens Electoral Council"]
-	"Joy Ringrose (3229)" -> "Tony Dib (5524)" [label=6235]
+	"Jos Vandersman (5523)" [label="Jos Vandersman (5523)
+Democrats"]
+	"Joy Ringrose (3229)" [label="Joy Ringrose (3229)
+Australian Greens"]
+	"Tony Dib (5524)" [label="Tony Dib (5524)
+Australian Labor Party"]
 	"Andrew Rushton (5522)" -> "Joy Ringrose (3229)" [label=675]
-	"Jos Vandersman (5523)" -> "Andrew Rushton (5522)" [label=224]
-	"Daniel Chapman (5521)" -> "Jos Vandersman (5523)" [label=89]
-	"Jeremy Beck (4826)" -> "Daniel Chapman (5521)" [label=33]
 	"Andrew Rushton (5522)" -> "Tony Dib (5524)" [label=550]
-	"Jos Vandersman (5523)" -> "Tony Dib (5524)" [label=291]
-	"Daniel Chapman (5521)" -> "Tony Dib (5524)" [label=79]
-	"Jeremy Beck (4826)" -> "Tony Dib (5524)" [label=29]
-	"Jeremy Beck (4826)" -> "Jos Vandersman (5523)" [label=32]
 	"Daniel Chapman (5521)" -> "Andrew Rushton (5522)" [label=142]
-	"Jeremy Beck (4826)" -> "Andrew Rushton (5522)" [label=34]
-	"Jos Vandersman (5523)" -> "Joy Ringrose (3229)" [label=352]
+	"Daniel Chapman (5521)" -> "Jos Vandersman (5523)" [label=89]
 	"Daniel Chapman (5521)" -> "Joy Ringrose (3229)" [label=179]
+	"Daniel Chapman (5521)" -> "Tony Dib (5524)" [label=79]
+	"Jeremy Beck (4826)" -> "Andrew Rushton (5522)" [label=34]
+	"Jeremy Beck (4826)" -> "Daniel Chapman (5521)" [label=33]
+	"Jeremy Beck (4826)" -> "Jos Vandersman (5523)" [label=32]
 	"Jeremy Beck (4826)" -> "Joy Ringrose (3229)" [label=21]
+	"Jeremy Beck (4826)" -> "Tony Dib (5524)" [label=29]
+	"Jos Vandersman (5523)" -> "Andrew Rushton (5522)" [label=224]
+	"Jos Vandersman (5523)" -> "Joy Ringrose (3229)" [label=352]
+	"Jos Vandersman (5523)" -> "Tony Dib (5524)" [label=291]
+	"Joy Ringrose (3229)" -> "Tony Dib (5524)" [label=6235]
 }

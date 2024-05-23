@@ -4,37 +4,37 @@ digraph "Barbara Norman (4814)_Higgins_2007" {
 	node [shape=box]
 	"Barbara Norman (4814)" [label="Barbara Norman (4814)
 Australian Labor Party"]
-	"Michael Wilbur-Ham (4811)" [label="Michael Wilbur-Ham (4811)
-Australian Greens"]
-	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
-Independent"]
-	"Mary Dettman (4815)" [label="Mary Dettman (4815)
-Australian Democrats"]
-	"Penny Badwal (4812)" [label="Penny Badwal (4812)
-Family First"]
 	"Genevieve Maria Forde (4816)" [label="Genevieve Maria Forde (4816)
 Independent"]
 	"Graeme Meddings (4813)" [label="Graeme Meddings (4813)
 Independent"]
-	"Michael Wilbur-Ham (4811)" -> "Barbara Norman (4814)" [label=8410]
-	"Stephen Mayne (2696)" -> "Michael Wilbur-Ham (4811)" [label=928]
-	"Mary Dettman (4815)" -> "Stephen Mayne (2696)" [label=269]
-	"Penny Badwal (4812)" -> "Mary Dettman (4815)" [label=56]
-	"Genevieve Maria Forde (4816)" -> "Penny Badwal (4812)" [label=13]
-	"Graeme Meddings (4813)" -> "Genevieve Maria Forde (4816)" [label=20]
-	"Stephen Mayne (2696)" -> "Barbara Norman (4814)" [label=785]
-	"Mary Dettman (4815)" -> "Barbara Norman (4814)" [label=346]
-	"Penny Badwal (4812)" -> "Barbara Norman (4814)" [label=106]
+	"Mary Dettman (4815)" [label="Mary Dettman (4815)
+Australian Democrats"]
+	"Michael Wilbur-Ham (4811)" [label="Michael Wilbur-Ham (4811)
+Australian Greens"]
+	"Penny Badwal (4812)" [label="Penny Badwal (4812)
+Family First"]
+	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
+Independent"]
 	"Genevieve Maria Forde (4816)" -> "Barbara Norman (4814)" [label=31]
-	"Graeme Meddings (4813)" -> "Barbara Norman (4814)" [label=25]
-	"Graeme Meddings (4813)" -> "Penny Badwal (4812)" [label=39]
 	"Genevieve Maria Forde (4816)" -> "Mary Dettman (4815)" [label=95]
-	"Graeme Meddings (4813)" -> "Mary Dettman (4815)" [label=13]
-	"Penny Badwal (4812)" -> "Stephen Mayne (2696)" [label=95]
-	"Genevieve Maria Forde (4816)" -> "Stephen Mayne (2696)" [label=77]
-	"Graeme Meddings (4813)" -> "Stephen Mayne (2696)" [label=88]
-	"Mary Dettman (4815)" -> "Michael Wilbur-Ham (4811)" [label=397]
-	"Penny Badwal (4812)" -> "Michael Wilbur-Ham (4811)" [label=139]
 	"Genevieve Maria Forde (4816)" -> "Michael Wilbur-Ham (4811)" [label=49]
+	"Genevieve Maria Forde (4816)" -> "Penny Badwal (4812)" [label=13]
+	"Genevieve Maria Forde (4816)" -> "Stephen Mayne (2696)" [label=77]
+	"Graeme Meddings (4813)" -> "Barbara Norman (4814)" [label=25]
+	"Graeme Meddings (4813)" -> "Genevieve Maria Forde (4816)" [label=20]
+	"Graeme Meddings (4813)" -> "Mary Dettman (4815)" [label=13]
 	"Graeme Meddings (4813)" -> "Michael Wilbur-Ham (4811)" [label=28]
+	"Graeme Meddings (4813)" -> "Penny Badwal (4812)" [label=39]
+	"Graeme Meddings (4813)" -> "Stephen Mayne (2696)" [label=88]
+	"Mary Dettman (4815)" -> "Barbara Norman (4814)" [label=346]
+	"Mary Dettman (4815)" -> "Michael Wilbur-Ham (4811)" [label=397]
+	"Mary Dettman (4815)" -> "Stephen Mayne (2696)" [label=269]
+	"Michael Wilbur-Ham (4811)" -> "Barbara Norman (4814)" [label=8410]
+	"Penny Badwal (4812)" -> "Barbara Norman (4814)" [label=106]
+	"Penny Badwal (4812)" -> "Mary Dettman (4815)" [label=56]
+	"Penny Badwal (4812)" -> "Michael Wilbur-Ham (4811)" [label=139]
+	"Penny Badwal (4812)" -> "Stephen Mayne (2696)" [label=95]
+	"Stephen Mayne (2696)" -> "Barbara Norman (4814)" [label=785]
+	"Stephen Mayne (2696)" -> "Michael Wilbur-Ham (4811)" [label=928]
 }

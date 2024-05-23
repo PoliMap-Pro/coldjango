@@ -2,39 +2,39 @@
 digraph "Paul B King (5340)_Groom_2004" {
 	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Christoph Donges (5342)" [label="Christoph Donges (5342)
+Australian Democrats"]
+	"Karey Harrison (5345)" [label="Karey Harrison (5345)
+The Greens"]
+	"Noel Wieck (5346)" [label="Noel Wieck (5346)
+The Great Australians"]
+	"Oliver Carter (5343)" [label="Oliver Carter (5343)
+Citizens Electoral Council"]
 	"Paul B King (5340)" [label="Paul B King (5340)
 Australian Labor Party"]
 	"Peter C Findlay (5341)" [label="Peter C Findlay (5341)
 Family First"]
-	"Karey Harrison (5345)" [label="Karey Harrison (5345)
-The Greens"]
 	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
 Independent"]
-	"Noel Wieck (5346)" [label="Noel Wieck (5346)
-The Great Australians"]
-	"Christoph Donges (5342)" [label="Christoph Donges (5342)
-Australian Democrats"]
-	"Oliver Carter (5343)" [label="Oliver Carter (5343)
-Citizens Electoral Council"]
-	"Peter C Findlay (5341)" -> "Paul B King (5340)" [label=2443]
-	"Karey Harrison (5345)" -> "Peter C Findlay (5341)" [label=809]
-	"Rod Jeanneret (1490)" -> "Karey Harrison (5345)" [label=388]
-	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
-	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
-	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
-	"Karey Harrison (5345)" -> "Paul B King (5340)" [label=2353]
-	"Rod Jeanneret (1490)" -> "Paul B King (5340)" [label=593]
-	"Noel Wieck (5346)" -> "Paul B King (5340)" [label=154]
-	"Christoph Donges (5342)" -> "Paul B King (5340)" [label=187]
-	"Oliver Carter (5343)" -> "Paul B King (5340)" [label=29]
-	"Oliver Carter (5343)" -> "Noel Wieck (5346)" [label=39]
-	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
-	"Oliver Carter (5343)" -> "Rod Jeanneret (1490)" [label=65]
-	"Noel Wieck (5346)" -> "Karey Harrison (5345)" [label=188]
 	"Christoph Donges (5342)" -> "Karey Harrison (5345)" [label=233]
-	"Oliver Carter (5343)" -> "Karey Harrison (5345)" [label=28]
-	"Rod Jeanneret (1490)" -> "Peter C Findlay (5341)" [label=869]
-	"Noel Wieck (5346)" -> "Peter C Findlay (5341)" [label=347]
+	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
+	"Christoph Donges (5342)" -> "Paul B King (5340)" [label=187]
 	"Christoph Donges (5342)" -> "Peter C Findlay (5341)" [label=134]
+	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
+	"Karey Harrison (5345)" -> "Paul B King (5340)" [label=2353]
+	"Karey Harrison (5345)" -> "Peter C Findlay (5341)" [label=809]
+	"Noel Wieck (5346)" -> "Karey Harrison (5345)" [label=188]
+	"Noel Wieck (5346)" -> "Paul B King (5340)" [label=154]
+	"Noel Wieck (5346)" -> "Peter C Findlay (5341)" [label=347]
+	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
+	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
+	"Oliver Carter (5343)" -> "Karey Harrison (5345)" [label=28]
+	"Oliver Carter (5343)" -> "Noel Wieck (5346)" [label=39]
+	"Oliver Carter (5343)" -> "Paul B King (5340)" [label=29]
 	"Oliver Carter (5343)" -> "Peter C Findlay (5341)" [label=70]
+	"Oliver Carter (5343)" -> "Rod Jeanneret (1490)" [label=65]
+	"Peter C Findlay (5341)" -> "Paul B King (5340)" [label=2443]
+	"Rod Jeanneret (1490)" -> "Karey Harrison (5345)" [label=388]
+	"Rod Jeanneret (1490)" -> "Paul B King (5340)" [label=593]
+	"Rod Jeanneret (1490)" -> "Peter C Findlay (5341)" [label=869]
 }

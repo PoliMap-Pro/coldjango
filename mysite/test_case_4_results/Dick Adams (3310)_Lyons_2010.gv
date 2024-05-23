@@ -9,6 +9,6 @@ Australian Greens"]
 	"Lucas Noyes (4042)" [label="Lucas Noyes (4042)
 Secular Party of Australia"]
 	"Karen Frances Cassidy (4044)" -> "Dick Adams (3310)" [label=8508]
-	"Lucas Noyes (4042)" -> "Karen Frances Cassidy (4044)" [label=249]
 	"Lucas Noyes (4042)" -> "Dick Adams (3310)" [label=287]
+	"Lucas Noyes (4042)" -> "Karen Frances Cassidy (4044)" [label=249]
 }

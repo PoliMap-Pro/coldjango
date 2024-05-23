@@ -2,31 +2,31 @@
 digraph "Nicole Campbell (5010)_Bennelong_2004" {
 	graph [label="Bennelong 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nicole Campbell (5010)" [label="Nicole Campbell (5010)
-Australian Labor Party"]
 	"Andrew Wilkie (715)" [label="Andrew Wilkie (715)
 The Greens"]
-	"Ray Levick (4260)" [label="Ray Levick (4260)
-Christian Democratic Party (Fred Nile Group)"]
 	"Gary Hannah (5008)" [label="Gary Hannah (5008)
 Independent"]
+	"Nicole Campbell (5010)" [label="Nicole Campbell (5010)
+Australian Labor Party"]
 	"Peter Goldfinch (5011)" [label="Peter Goldfinch (5011)
 Australian Democrats"]
+	"Ray Levick (4260)" [label="Ray Levick (4260)
+Christian Democratic Party (Fred Nile Group)"]
 	"Troy Rollo (5009)" [label="Troy Rollo (5009)
 Independent"]
 	"Andrew Wilkie (715)" -> "Nicole Campbell (5010)" [label=12386]
-	"Ray Levick (4260)" -> "Andrew Wilkie (715)" [label=427]
-	"Gary Hannah (5008)" -> "Ray Levick (4260)" [label=161]
-	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
-	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
-	"Ray Levick (4260)" -> "Nicole Campbell (5010)" [label=462]
-	"Gary Hannah (5008)" -> "Nicole Campbell (5010)" [label=159]
-	"Peter Goldfinch (5011)" -> "Nicole Campbell (5010)" [label=217]
-	"Troy Rollo (5009)" -> "Nicole Campbell (5010)" [label=36]
-	"Troy Rollo (5009)" -> "Gary Hannah (5008)" [label=198]
-	"Peter Goldfinch (5011)" -> "Ray Levick (4260)" [label=44]
-	"Troy Rollo (5009)" -> "Ray Levick (4260)" [label=20]
 	"Gary Hannah (5008)" -> "Andrew Wilkie (715)" [label=698]
+	"Gary Hannah (5008)" -> "Nicole Campbell (5010)" [label=159]
+	"Gary Hannah (5008)" -> "Ray Levick (4260)" [label=161]
 	"Peter Goldfinch (5011)" -> "Andrew Wilkie (715)" [label=365]
+	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
+	"Peter Goldfinch (5011)" -> "Nicole Campbell (5010)" [label=217]
+	"Peter Goldfinch (5011)" -> "Ray Levick (4260)" [label=44]
+	"Ray Levick (4260)" -> "Andrew Wilkie (715)" [label=427]
+	"Ray Levick (4260)" -> "Nicole Campbell (5010)" [label=462]
 	"Troy Rollo (5009)" -> "Andrew Wilkie (715)" [label=90]
+	"Troy Rollo (5009)" -> "Gary Hannah (5008)" [label=198]
+	"Troy Rollo (5009)" -> "Nicole Campbell (5010)" [label=36]
+	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
+	"Troy Rollo (5009)" -> "Ray Levick (4260)" [label=20]
 }

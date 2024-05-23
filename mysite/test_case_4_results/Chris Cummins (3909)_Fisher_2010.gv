@@ -9,6 +9,6 @@ The Greens"]
 	"Robyn Leanne Robertson (3910)" [label="Robyn Leanne Robertson (3910)
 Family First"]
 	"Garry Claridge (3111)" -> "Chris Cummins (3909)" [label=10356]
-	"Robyn Leanne Robertson (3910)" -> "Garry Claridge (3111)" [label=1815]
 	"Robyn Leanne Robertson (3910)" -> "Chris Cummins (3909)" [label=1096]
+	"Robyn Leanne Robertson (3910)" -> "Garry Claridge (3111)" [label=1815]
 }

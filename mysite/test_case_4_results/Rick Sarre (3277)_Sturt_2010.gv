@@ -2,31 +2,31 @@
 digraph "Rick Sarre (3277)_Sturt_2010" {
 	graph [label="Sturt 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rick Sarre (3277)" [label="Rick Sarre (3277)
-Australian Labor Party"]
-	"Peter Fiebig (4025)" [label="Peter Fiebig (4025)
-The Greens"]
 	"Dale Clegg (4023)" [label="Dale Clegg (4023)
 Family First"]
-	"Jess Clark (4024)" [label="Jess Clark (4024)
-Liberal Democrats (LDP)"]
 	"Darren Andrews (4026)" [label="Darren Andrews (4026)
 Australian Democrats"]
 	"Jack King (4027)" [label="Jack King (4027)
 One Nation"]
-	"Peter Fiebig (4025)" -> "Rick Sarre (3277)" [label=7646]
+	"Jess Clark (4024)" [label="Jess Clark (4024)
+Liberal Democrats (LDP)"]
+	"Peter Fiebig (4025)" [label="Peter Fiebig (4025)
+The Greens"]
+	"Rick Sarre (3277)" [label="Rick Sarre (3277)
+Australian Labor Party"]
 	"Dale Clegg (4023)" -> "Peter Fiebig (4025)" [label=743]
-	"Jess Clark (4024)" -> "Dale Clegg (4023)" [label=177]
-	"Darren Andrews (4026)" -> "Jess Clark (4024)" [label=69]
-	"Jack King (4027)" -> "Darren Andrews (4026)" [label=93]
 	"Dale Clegg (4023)" -> "Rick Sarre (3277)" [label=1165]
-	"Jess Clark (4024)" -> "Rick Sarre (3277)" [label=135]
-	"Darren Andrews (4026)" -> "Rick Sarre (3277)" [label=119]
-	"Jack King (4027)" -> "Rick Sarre (3277)" [label=59]
-	"Jack King (4027)" -> "Jess Clark (4024)" [label=31]
 	"Darren Andrews (4026)" -> "Dale Clegg (4023)" [label=82]
-	"Jack King (4027)" -> "Dale Clegg (4023)" [label=83]
-	"Jess Clark (4024)" -> "Peter Fiebig (4025)" [label=147]
+	"Darren Andrews (4026)" -> "Jess Clark (4024)" [label=69]
 	"Darren Andrews (4026)" -> "Peter Fiebig (4025)" [label=297]
+	"Darren Andrews (4026)" -> "Rick Sarre (3277)" [label=119]
+	"Jack King (4027)" -> "Dale Clegg (4023)" [label=83]
+	"Jack King (4027)" -> "Darren Andrews (4026)" [label=93]
+	"Jack King (4027)" -> "Jess Clark (4024)" [label=31]
 	"Jack King (4027)" -> "Peter Fiebig (4025)" [label=100]
+	"Jack King (4027)" -> "Rick Sarre (3277)" [label=59]
+	"Jess Clark (4024)" -> "Dale Clegg (4023)" [label=177]
+	"Jess Clark (4024)" -> "Peter Fiebig (4025)" [label=147]
+	"Jess Clark (4024)" -> "Rick Sarre (3277)" [label=135]
+	"Peter Fiebig (4025)" -> "Rick Sarre (3277)" [label=7646]
 }

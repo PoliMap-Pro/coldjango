@@ -2,24 +2,24 @@
 digraph "Peter Mcmullin (5531)_Corangamite_2004" {
 	graph [label="Corangamite 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Andrew Bailey (5532)" [label="Andrew Bailey (5532)
+Citizens Electoral Council"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Socialist Alliance"]
+	"Christine Modra (5530)" [label="Christine Modra (5530)
+Family First"]
 	"Peter Mcmullin (5531)" [label="Peter Mcmullin (5531)
 Australian Labor Party"]
 	"Stephen Chenery (5529)" [label="Stephen Chenery (5529)
 Australian Greens"]
-	"Christine Modra (5530)" [label="Christine Modra (5530)
-Family First"]
-	"Chris Johnson (3558)" [label="Chris Johnson (3558)
-Socialist Alliance"]
-	"Andrew Bailey (5532)" [label="Andrew Bailey (5532)
-Citizens Electoral Council"]
-	"Stephen Chenery (5529)" -> "Peter Mcmullin (5531)" [label=5873]
-	"Christine Modra (5530)" -> "Stephen Chenery (5529)" [label=514]
-	"Chris Johnson (3558)" -> "Christine Modra (5530)" [label=102]
 	"Andrew Bailey (5532)" -> "Chris Johnson (3558)" [label=69]
-	"Christine Modra (5530)" -> "Peter Mcmullin (5531)" [label=582]
-	"Chris Johnson (3558)" -> "Peter Mcmullin (5531)" [label=174]
-	"Andrew Bailey (5532)" -> "Peter Mcmullin (5531)" [label=80]
 	"Andrew Bailey (5532)" -> "Christine Modra (5530)" [label=76]
-	"Chris Johnson (3558)" -> "Stephen Chenery (5529)" [label=236]
+	"Andrew Bailey (5532)" -> "Peter Mcmullin (5531)" [label=80]
 	"Andrew Bailey (5532)" -> "Stephen Chenery (5529)" [label=39]
+	"Chris Johnson (3558)" -> "Christine Modra (5530)" [label=102]
+	"Chris Johnson (3558)" -> "Peter Mcmullin (5531)" [label=174]
+	"Chris Johnson (3558)" -> "Stephen Chenery (5529)" [label=236]
+	"Christine Modra (5530)" -> "Peter Mcmullin (5531)" [label=582]
+	"Christine Modra (5530)" -> "Stephen Chenery (5529)" [label=514]
+	"Stephen Chenery (5529)" -> "Peter Mcmullin (5531)" [label=5873]
 }

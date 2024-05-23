@@ -2,39 +2,39 @@
 digraph "Sean Ambrose (5418)_Wide Bay_2004" {
 	graph [label="Wide Bay 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sean Ambrose (5418)" [label="Sean Ambrose (5418)
-Australian Labor Party"]
-	"Lars Hedberg (5417)" [label="Lars Hedberg (5417)
-Independent"]
-	"Wesley Charles Robinson (5416)" [label="Wesley Charles Robinson (5416)
-One Nation"]
-	"Ian Richards (5414)" [label="Ian Richards (5414)
-The Greens"]
-	"Glen Wilson (5419)" [label="Glen Wilson (5419)
-Family First"]
-	"Darryl William Weir (5420)" [label="Darryl William Weir (5420)
-Australian Democrats"]
 	"Cy D'Oliveira (5415)" [label="Cy D'Oliveira (5415)
 Independent"]
+	"Darryl William Weir (5420)" [label="Darryl William Weir (5420)
+Australian Democrats"]
+	"Glen Wilson (5419)" [label="Glen Wilson (5419)
+Family First"]
+	"Ian Richards (5414)" [label="Ian Richards (5414)
+The Greens"]
+	"Lars Hedberg (5417)" [label="Lars Hedberg (5417)
+Independent"]
+	"Sean Ambrose (5418)" [label="Sean Ambrose (5418)
+Australian Labor Party"]
+	"Wesley Charles Robinson (5416)" [label="Wesley Charles Robinson (5416)
+One Nation"]
+	"Cy D'Oliveira (5415)" -> "Darryl William Weir (5420)" [label=40]
+	"Cy D'Oliveira (5415)" -> "Glen Wilson (5419)" [label=52]
+	"Cy D'Oliveira (5415)" -> "Ian Richards (5414)" [label=76]
+	"Cy D'Oliveira (5415)" -> "Lars Hedberg (5417)" [label=289]
+	"Cy D'Oliveira (5415)" -> "Sean Ambrose (5418)" [label=54]
+	"Cy D'Oliveira (5415)" -> "Wesley Charles Robinson (5416)" [label=158]
+	"Darryl William Weir (5420)" -> "Glen Wilson (5419)" [label=189]
+	"Darryl William Weir (5420)" -> "Ian Richards (5414)" [label=171]
+	"Darryl William Weir (5420)" -> "Lars Hedberg (5417)" [label=208]
+	"Darryl William Weir (5420)" -> "Sean Ambrose (5418)" [label=164]
+	"Darryl William Weir (5420)" -> "Wesley Charles Robinson (5416)" [label=46]
+	"Glen Wilson (5419)" -> "Ian Richards (5414)" [label=325]
+	"Glen Wilson (5419)" -> "Lars Hedberg (5417)" [label=607]
+	"Glen Wilson (5419)" -> "Sean Ambrose (5418)" [label=588]
+	"Glen Wilson (5419)" -> "Wesley Charles Robinson (5416)" [label=411]
+	"Ian Richards (5414)" -> "Lars Hedberg (5417)" [label=828]
+	"Ian Richards (5414)" -> "Sean Ambrose (5418)" [label=1659]
+	"Ian Richards (5414)" -> "Wesley Charles Robinson (5416)" [label=507]
 	"Lars Hedberg (5417)" -> "Sean Ambrose (5418)" [label=6046]
 	"Wesley Charles Robinson (5416)" -> "Lars Hedberg (5417)" [label=2605]
-	"Ian Richards (5414)" -> "Wesley Charles Robinson (5416)" [label=507]
-	"Glen Wilson (5419)" -> "Ian Richards (5414)" [label=325]
-	"Darryl William Weir (5420)" -> "Glen Wilson (5419)" [label=189]
-	"Cy D'Oliveira (5415)" -> "Darryl William Weir (5420)" [label=40]
 	"Wesley Charles Robinson (5416)" -> "Sean Ambrose (5418)" [label=846]
-	"Ian Richards (5414)" -> "Sean Ambrose (5418)" [label=1659]
-	"Glen Wilson (5419)" -> "Sean Ambrose (5418)" [label=588]
-	"Darryl William Weir (5420)" -> "Sean Ambrose (5418)" [label=164]
-	"Cy D'Oliveira (5415)" -> "Sean Ambrose (5418)" [label=54]
-	"Cy D'Oliveira (5415)" -> "Glen Wilson (5419)" [label=52]
-	"Darryl William Weir (5420)" -> "Ian Richards (5414)" [label=171]
-	"Cy D'Oliveira (5415)" -> "Ian Richards (5414)" [label=76]
-	"Glen Wilson (5419)" -> "Wesley Charles Robinson (5416)" [label=411]
-	"Darryl William Weir (5420)" -> "Wesley Charles Robinson (5416)" [label=46]
-	"Cy D'Oliveira (5415)" -> "Wesley Charles Robinson (5416)" [label=158]
-	"Ian Richards (5414)" -> "Lars Hedberg (5417)" [label=828]
-	"Glen Wilson (5419)" -> "Lars Hedberg (5417)" [label=607]
-	"Darryl William Weir (5420)" -> "Lars Hedberg (5417)" [label=208]
-	"Cy D'Oliveira (5415)" -> "Lars Hedberg (5417)" [label=289]
 }

@@ -4,37 +4,37 @@ digraph "Alannah Mactiernan (3648)_Perth_2013" {
 	node [shape=box]
 	"Alannah Mactiernan (3648)" [label="Alannah Mactiernan (3648)
 Australian Labor Party"]
-	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
-The Greens (WA)"]
-	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
-Palmer United Party"]
-	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
-Australian Christians"]
 	"Ant Clark (3647)" [label="Ant Clark (3647)
 Independent"]
-	"Lesley Croll (3651)" [label="Lesley Croll (3651)
-Family First Party"]
 	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
 Rise Up Australia Party"]
-	"Jonathan Hallett (3649)" -> "Alannah Mactiernan (3648)" [label=8643]
-	"Gabriel Hasib Harfouche (3652)" -> "Jonathan Hallett (3649)" [label=996]
-	"Paul Michael Connelly (3646)" -> "Gabriel Hasib Harfouche (3652)" [label=288]
-	"Ant Clark (3647)" -> "Paul Michael Connelly (3646)" [label=196]
-	"Lesley Croll (3651)" -> "Ant Clark (3647)" [label=116]
-	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
-	"Gabriel Hasib Harfouche (3652)" -> "Alannah Mactiernan (3648)" [label=1007]
-	"Paul Michael Connelly (3646)" -> "Alannah Mactiernan (3648)" [label=798]
+	"Gabriel Hasib Harfouche (3652)" [label="Gabriel Hasib Harfouche (3652)
+Palmer United Party"]
+	"Jonathan Hallett (3649)" [label="Jonathan Hallett (3649)
+The Greens (WA)"]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
+	"Paul Michael Connelly (3646)" [label="Paul Michael Connelly (3646)
+Australian Christians"]
 	"Ant Clark (3647)" -> "Alannah Mactiernan (3648)" [label=275]
-	"Lesley Croll (3651)" -> "Alannah Mactiernan (3648)" [label=98]
+	"Ant Clark (3647)" -> "Gabriel Hasib Harfouche (3652)" [label=184]
+	"Ant Clark (3647)" -> "Jonathan Hallett (3649)" [label=365]
+	"Ant Clark (3647)" -> "Paul Michael Connelly (3646)" [label=196]
 	"Evelyn Patricia Edney (3650)" -> "Alannah Mactiernan (3648)" [label=43]
 	"Evelyn Patricia Edney (3650)" -> "Ant Clark (3647)" [label=55]
-	"Lesley Croll (3651)" -> "Paul Michael Connelly (3646)" [label=144]
-	"Evelyn Patricia Edney (3650)" -> "Paul Michael Connelly (3646)" [label=76]
-	"Ant Clark (3647)" -> "Gabriel Hasib Harfouche (3652)" [label=184]
-	"Lesley Croll (3651)" -> "Gabriel Hasib Harfouche (3652)" [label=136]
 	"Evelyn Patricia Edney (3650)" -> "Gabriel Hasib Harfouche (3652)" [label=45]
-	"Paul Michael Connelly (3646)" -> "Jonathan Hallett (3649)" [label=273]
-	"Ant Clark (3647)" -> "Jonathan Hallett (3649)" [label=365]
-	"Lesley Croll (3651)" -> "Jonathan Hallett (3649)" [label=146]
 	"Evelyn Patricia Edney (3650)" -> "Jonathan Hallett (3649)" [label=60]
+	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
+	"Evelyn Patricia Edney (3650)" -> "Paul Michael Connelly (3646)" [label=76]
+	"Gabriel Hasib Harfouche (3652)" -> "Alannah Mactiernan (3648)" [label=1007]
+	"Gabriel Hasib Harfouche (3652)" -> "Jonathan Hallett (3649)" [label=996]
+	"Jonathan Hallett (3649)" -> "Alannah Mactiernan (3648)" [label=8643]
+	"Lesley Croll (3651)" -> "Alannah Mactiernan (3648)" [label=98]
+	"Lesley Croll (3651)" -> "Ant Clark (3647)" [label=116]
+	"Lesley Croll (3651)" -> "Gabriel Hasib Harfouche (3652)" [label=136]
+	"Lesley Croll (3651)" -> "Jonathan Hallett (3649)" [label=146]
+	"Lesley Croll (3651)" -> "Paul Michael Connelly (3646)" [label=144]
+	"Paul Michael Connelly (3646)" -> "Alannah Mactiernan (3648)" [label=798]
+	"Paul Michael Connelly (3646)" -> "Gabriel Hasib Harfouche (3652)" [label=288]
+	"Paul Michael Connelly (3646)" -> "Jonathan Hallett (3649)" [label=273]
 }

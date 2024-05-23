@@ -2,31 +2,31 @@
 digraph "Kelvin Thomson (3568)_Wills_2007" {
 	graph [label="Wills 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kelvin Thomson (3568)" [label="Kelvin Thomson (3568)
-Australian Labor Party"]
+	"Craig William Isherwood (4898)" [label="Craig William Isherwood (4898)
+Citizens Electoral Council"]
 	"David Collis (4896)" [label="David Collis (4896)
 Australian Greens"]
 	"Edward Clarke (4895)" [label="Edward Clarke (4895)
 Australian Democrats"]
 	"Ihab Kelada (4897)" [label="Ihab Kelada (4897)
 Family First"]
+	"Kelvin Thomson (3568)" [label="Kelvin Thomson (3568)
+Australian Labor Party"]
 	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
 Socialist Alliance"]
-	"Craig William Isherwood (4898)" [label="Craig William Isherwood (4898)
-Citizens Electoral Council"]
+	"Craig William Isherwood (4898)" -> "David Collis (4896)" [label=24]
+	"Craig William Isherwood (4898)" -> "Edward Clarke (4895)" [label=24]
+	"Craig William Isherwood (4898)" -> "Ihab Kelada (4897)" [label=54]
+	"Craig William Isherwood (4898)" -> "Kelvin Thomson (3568)" [label=-31]
+	"Craig William Isherwood (4898)" -> "Zane Alcorn (2717)" [label=55]
 	"David Collis (4896)" -> "Kelvin Thomson (3568)" [label=12475]
 	"Edward Clarke (4895)" -> "David Collis (4896)" [label=1512]
-	"Ihab Kelada (4897)" -> "Edward Clarke (4895)" [label=153]
-	"Zane Alcorn (2717)" -> "Ihab Kelada (4897)" [label=120]
-	"Craig William Isherwood (4898)" -> "Zane Alcorn (2717)" [label=55]
 	"Edward Clarke (4895)" -> "Kelvin Thomson (3568)" [label=445]
-	"Ihab Kelada (4897)" -> "Kelvin Thomson (3568)" [label=346]
-	"Zane Alcorn (2717)" -> "Kelvin Thomson (3568)" [label=97]
-	"Craig William Isherwood (4898)" -> "Kelvin Thomson (3568)" [label=-31]
-	"Craig William Isherwood (4898)" -> "Ihab Kelada (4897)" [label=54]
-	"Zane Alcorn (2717)" -> "Edward Clarke (4895)" [label=65]
-	"Craig William Isherwood (4898)" -> "Edward Clarke (4895)" [label=24]
 	"Ihab Kelada (4897)" -> "David Collis (4896)" [label=257]
+	"Ihab Kelada (4897)" -> "Edward Clarke (4895)" [label=153]
+	"Ihab Kelada (4897)" -> "Kelvin Thomson (3568)" [label=346]
 	"Zane Alcorn (2717)" -> "David Collis (4896)" [label=375]
-	"Craig William Isherwood (4898)" -> "David Collis (4896)" [label=24]
+	"Zane Alcorn (2717)" -> "Edward Clarke (4895)" [label=65]
+	"Zane Alcorn (2717)" -> "Ihab Kelada (4897)" [label=120]
+	"Zane Alcorn (2717)" -> "Kelvin Thomson (3568)" [label=97]
 }

@@ -9,6 +9,6 @@ The Greens"]
 	"Ron Hunt (3907)" [label="Ron Hunt (3907)
 Family First"]
 	"Narelle Louise Mccarthy (3906)" -> "Dan Mcintyre (3905)" [label=11824]
-	"Ron Hunt (3907)" -> "Narelle Louise Mccarthy (3906)" [label=1226]
 	"Ron Hunt (3907)" -> "Dan Mcintyre (3905)" [label=621]
+	"Ron Hunt (3907)" -> "Narelle Louise Mccarthy (3906)" [label=1226]
 }

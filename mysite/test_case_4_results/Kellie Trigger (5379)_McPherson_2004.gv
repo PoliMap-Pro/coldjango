@@ -2,24 +2,24 @@
 digraph "Kellie Trigger (5379)_McPherson_2004" {
 	graph [label="McPherson 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kellie Trigger (5379)" [label="Kellie Trigger (5379)
-Australian Labor Party"]
 	"Ian Christian Gordon Latto (5381)" [label="Ian Christian Gordon Latto (5381)
 The Greens"]
-	"Rob Davey (5382)" [label="Rob Davey (5382)
-Family First"]
+	"Kellie Trigger (5379)" [label="Kellie Trigger (5379)
+Australian Labor Party"]
 	"Paul Lewis (3075)" [label="Paul Lewis (3075)
 One Nation"]
+	"Rob Davey (5382)" [label="Rob Davey (5382)
+Family First"]
 	"Russell V White (5380)" [label="Russell V White (5380)
 Australian Democrats"]
 	"Ian Christian Gordon Latto (5381)" -> "Kellie Trigger (5379)" [label=3450]
-	"Rob Davey (5382)" -> "Ian Christian Gordon Latto (5381)" [label=561]
-	"Paul Lewis (3075)" -> "Rob Davey (5382)" [label=461]
-	"Russell V White (5380)" -> "Paul Lewis (3075)" [label=48]
-	"Rob Davey (5382)" -> "Kellie Trigger (5379)" [label=417]
-	"Paul Lewis (3075)" -> "Kellie Trigger (5379)" [label=275]
-	"Russell V White (5380)" -> "Kellie Trigger (5379)" [label=231]
-	"Russell V White (5380)" -> "Rob Davey (5382)" [label=76]
 	"Paul Lewis (3075)" -> "Ian Christian Gordon Latto (5381)" [label=239]
+	"Paul Lewis (3075)" -> "Kellie Trigger (5379)" [label=275]
+	"Paul Lewis (3075)" -> "Rob Davey (5382)" [label=461]
+	"Rob Davey (5382)" -> "Ian Christian Gordon Latto (5381)" [label=561]
+	"Rob Davey (5382)" -> "Kellie Trigger (5379)" [label=417]
 	"Russell V White (5380)" -> "Ian Christian Gordon Latto (5381)" [label=294]
+	"Russell V White (5380)" -> "Kellie Trigger (5379)" [label=231]
+	"Russell V White (5380)" -> "Paul Lewis (3075)" [label=48]
+	"Russell V White (5380)" -> "Rob Davey (5382)" [label=76]
 }

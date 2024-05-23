@@ -2,24 +2,24 @@
 digraph "Mike Symon (3393)_Deakin_2007" {
 	graph [label="Deakin 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mike Symon (3393)" [label="Mike Symon (3393)
-Australian Labor Party"]
 	"Bill Pemberton (4785)" [label="Bill Pemberton (4785)
 Australian Greens"]
 	"Fiona Bronte (4783)" [label="Fiona Bronte (4783)
 Family First"]
-	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
-Australian Democrats"]
+	"Mike Symon (3393)" [label="Mike Symon (3393)
+Australian Labor Party"]
 	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
 LDP"]
+	"Paula Nicholson (4784)" [label="Paula Nicholson (4784)
+Australian Democrats"]
 	"Bill Pemberton (4785)" -> "Mike Symon (3393)" [label=6568]
 	"Fiona Bronte (4783)" -> "Bill Pemberton (4785)" [label=578]
-	"Paula Nicholson (4784)" -> "Fiona Bronte (4783)" [label=102]
-	"Nick Stevenson (4782)" -> "Paula Nicholson (4784)" [label=35]
 	"Fiona Bronte (4783)" -> "Mike Symon (3393)" [label=893]
-	"Paula Nicholson (4784)" -> "Mike Symon (3393)" [label=310]
-	"Nick Stevenson (4782)" -> "Mike Symon (3393)" [label=97]
-	"Nick Stevenson (4782)" -> "Fiona Bronte (4783)" [label=321]
-	"Paula Nicholson (4784)" -> "Bill Pemberton (4785)" [label=630]
 	"Nick Stevenson (4782)" -> "Bill Pemberton (4785)" [label=51]
+	"Nick Stevenson (4782)" -> "Fiona Bronte (4783)" [label=321]
+	"Nick Stevenson (4782)" -> "Mike Symon (3393)" [label=97]
+	"Nick Stevenson (4782)" -> "Paula Nicholson (4784)" [label=35]
+	"Paula Nicholson (4784)" -> "Bill Pemberton (4785)" [label=630]
+	"Paula Nicholson (4784)" -> "Fiona Bronte (4783)" [label=102]
+	"Paula Nicholson (4784)" -> "Mike Symon (3393)" [label=310]
 }

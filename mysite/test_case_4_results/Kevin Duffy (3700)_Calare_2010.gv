@@ -2,31 +2,31 @@
 digraph "Kevin Duffy (3700)_Calare_2010" {
 	graph [label="Calare 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kevin Duffy (3700)" [label="Kevin Duffy (3700)
-Country Labor"]
-	"Paul Blanch (3699)" [label="Paul Blanch (3699)
-Independent"]
 	"Jeremy Buckingham (3702)" [label="Jeremy Buckingham (3702)
 The Greens"]
-	"Karen Romano (3701)" [label="Karen Romano (3701)
-Independent"]
 	"Jessyka Norsworthy (3698)" [label="Jessyka Norsworthy (3698)
 Christian Democratic Party (Fred Nile Group)"]
+	"Karen Romano (3701)" [label="Karen Romano (3701)
+Independent"]
+	"Kevin Duffy (3700)" [label="Kevin Duffy (3700)
+Country Labor"]
 	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
 Independent"]
-	"Paul Blanch (3699)" -> "Kevin Duffy (3700)" [label=4692]
-	"Jeremy Buckingham (3702)" -> "Paul Blanch (3699)" [label=1635]
-	"Karen Romano (3701)" -> "Jeremy Buckingham (3702)" [label=436]
-	"Jessyka Norsworthy (3698)" -> "Karen Romano (3701)" [label=180]
-	"Macgregor Ross (2828)" -> "Jessyka Norsworthy (3698)" [label=76]
+	"Paul Blanch (3699)" [label="Paul Blanch (3699)
+Independent"]
 	"Jeremy Buckingham (3702)" -> "Kevin Duffy (3700)" [label=3179]
-	"Karen Romano (3701)" -> "Kevin Duffy (3700)" [label=780]
-	"Jessyka Norsworthy (3698)" -> "Kevin Duffy (3700)" [label=236]
-	"Macgregor Ross (2828)" -> "Kevin Duffy (3700)" [label=220]
-	"Macgregor Ross (2828)" -> "Karen Romano (3701)" [label=467]
+	"Jeremy Buckingham (3702)" -> "Paul Blanch (3699)" [label=1635]
 	"Jessyka Norsworthy (3698)" -> "Jeremy Buckingham (3702)" [label=91]
-	"Macgregor Ross (2828)" -> "Jeremy Buckingham (3702)" [label=204]
-	"Karen Romano (3701)" -> "Paul Blanch (3699)" [label=1789]
+	"Jessyka Norsworthy (3698)" -> "Karen Romano (3701)" [label=180]
+	"Jessyka Norsworthy (3698)" -> "Kevin Duffy (3700)" [label=236]
 	"Jessyka Norsworthy (3698)" -> "Paul Blanch (3699)" [label=764]
+	"Karen Romano (3701)" -> "Jeremy Buckingham (3702)" [label=436]
+	"Karen Romano (3701)" -> "Kevin Duffy (3700)" [label=780]
+	"Karen Romano (3701)" -> "Paul Blanch (3699)" [label=1789]
+	"Macgregor Ross (2828)" -> "Jeremy Buckingham (3702)" [label=204]
+	"Macgregor Ross (2828)" -> "Jessyka Norsworthy (3698)" [label=76]
+	"Macgregor Ross (2828)" -> "Karen Romano (3701)" [label=467]
+	"Macgregor Ross (2828)" -> "Kevin Duffy (3700)" [label=220]
 	"Macgregor Ross (2828)" -> "Paul Blanch (3699)" [label=411]
+	"Paul Blanch (3699)" -> "Kevin Duffy (3700)" [label=4692]
 }

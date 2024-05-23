@@ -2,31 +2,31 @@
 digraph "Ivan Molloy (5320)_Fairfax_2004" {
 	graph [label="Fairfax 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ivan Molloy (5320)" [label="Ivan Molloy (5320)
-Australian Labor Party"]
 	"David Norris (5321)" [label="David Norris (5321)
 The Greens"]
-	"Paula Hunt (5316)" [label="Paula Hunt (5316)
-Family First"]
-	"Patrick Rozanski (5318)" [label="Patrick Rozanski (5318)
-One Nation"]
 	"Debbie Campbell (5317)" [label="Debbie Campbell (5317)
 Australian Democrats"]
+	"Ivan Molloy (5320)" [label="Ivan Molloy (5320)
+Australian Labor Party"]
 	"Kev Watt (5319)" [label="Kev Watt (5319)
 Citizens Electoral Council"]
+	"Patrick Rozanski (5318)" [label="Patrick Rozanski (5318)
+One Nation"]
+	"Paula Hunt (5316)" [label="Paula Hunt (5316)
+Family First"]
 	"David Norris (5321)" -> "Ivan Molloy (5320)" [label=7372]
-	"Paula Hunt (5316)" -> "David Norris (5321)" [label=930]
-	"Patrick Rozanski (5318)" -> "Paula Hunt (5316)" [label=960]
-	"Debbie Campbell (5317)" -> "Patrick Rozanski (5318)" [label=166]
-	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
-	"Paula Hunt (5316)" -> "Ivan Molloy (5320)" [label=737]
-	"Patrick Rozanski (5318)" -> "Ivan Molloy (5320)" [label=467]
+	"Debbie Campbell (5317)" -> "David Norris (5321)" [label=745]
 	"Debbie Campbell (5317)" -> "Ivan Molloy (5320)" [label=370]
+	"Debbie Campbell (5317)" -> "Patrick Rozanski (5318)" [label=166]
+	"Debbie Campbell (5317)" -> "Paula Hunt (5316)" [label=224]
+	"Kev Watt (5319)" -> "David Norris (5321)" [label=34]
+	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
 	"Kev Watt (5319)" -> "Ivan Molloy (5320)" [label=32]
 	"Kev Watt (5319)" -> "Patrick Rozanski (5318)" [label=50]
-	"Debbie Campbell (5317)" -> "Paula Hunt (5316)" [label=224]
 	"Kev Watt (5319)" -> "Paula Hunt (5316)" [label=32]
 	"Patrick Rozanski (5318)" -> "David Norris (5321)" [label=376]
-	"Debbie Campbell (5317)" -> "David Norris (5321)" [label=745]
-	"Kev Watt (5319)" -> "David Norris (5321)" [label=34]
+	"Patrick Rozanski (5318)" -> "Ivan Molloy (5320)" [label=467]
+	"Patrick Rozanski (5318)" -> "Paula Hunt (5316)" [label=960]
+	"Paula Hunt (5316)" -> "David Norris (5321)" [label=930]
+	"Paula Hunt (5316)" -> "Ivan Molloy (5320)" [label=737]
 }

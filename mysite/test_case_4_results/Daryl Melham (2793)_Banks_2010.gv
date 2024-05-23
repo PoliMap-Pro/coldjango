@@ -4,11 +4,11 @@ digraph "Daryl Melham (2793)_Banks_2010" {
 	node [shape=box]
 	"Daryl Melham (2793)" [label="Daryl Melham (2793)
 Labor"]
-	"Paul Spight (2797)" [label="Paul Spight (2797)
-The Greens"]
 	"Michael Parsons (3674)" [label="Michael Parsons (3674)
 One Nation"]
-	"Paul Spight (2797)" -> "Daryl Melham (2793)" [label=6680]
-	"Michael Parsons (3674)" -> "Paul Spight (2797)" [label=576]
+	"Paul Spight (2797)" [label="Paul Spight (2797)
+The Greens"]
 	"Michael Parsons (3674)" -> "Daryl Melham (2793)" [label=436]
+	"Michael Parsons (3674)" -> "Paul Spight (2797)" [label=576]
+	"Paul Spight (2797)" -> "Daryl Melham (2793)" [label=6680]
 }

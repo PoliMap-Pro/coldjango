@@ -2,39 +2,39 @@
 digraph "Jim Arneman (3816)_Paterson_2010" {
 	graph [label="Paterson 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jim Arneman (3816)" [label="Jim Arneman (3816)
-Labor"]
-	"Jan Davis (1400)" [label="Jan Davis (1400)
-The Greens"]
-	"Kevin Leayr (3814)" [label="Kevin Leayr (3814)
-One Nation"]
 	"Anna Balfour (2970)" [label="Anna Balfour (2970)
 Christian Democratic Party (Fred Nile Group)"]
+	"Jan Davis (1400)" [label="Jan Davis (1400)
+The Greens"]
+	"Jim Arneman (3816)" [label="Jim Arneman (3816)
+Labor"]
 	"Josef Wiedenhorn (3818)" [label="Josef Wiedenhorn (3818)
 Independent"]
-	"Veronica Lambert (3815)" [label="Veronica Lambert (3815)
-Family First"]
+	"Kevin Leayr (3814)" [label="Kevin Leayr (3814)
+One Nation"]
 	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
 "]
-	"Jan Davis (1400)" -> "Jim Arneman (3816)" [label=4353]
-	"Kevin Leayr (3814)" -> "Jan Davis (1400)" [label=674]
-	"Anna Balfour (2970)" -> "Kevin Leayr (3814)" [label=215]
-	"Josef Wiedenhorn (3818)" -> "Anna Balfour (2970)" [label=65]
-	"Veronica Lambert (3815)" -> "Josef Wiedenhorn (3818)" [label=76]
-	"Paul Hennelly (3817)" -> "Veronica Lambert (3815)" [label=18]
-	"Kevin Leayr (3814)" -> "Jim Arneman (3816)" [label=367]
+	"Veronica Lambert (3815)" [label="Veronica Lambert (3815)
+Family First"]
+	"Anna Balfour (2970)" -> "Jan Davis (1400)" [label=116]
 	"Anna Balfour (2970)" -> "Jim Arneman (3816)" [label=111]
+	"Anna Balfour (2970)" -> "Kevin Leayr (3814)" [label=215]
+	"Jan Davis (1400)" -> "Jim Arneman (3816)" [label=4353]
+	"Josef Wiedenhorn (3818)" -> "Anna Balfour (2970)" [label=65]
+	"Josef Wiedenhorn (3818)" -> "Jan Davis (1400)" [label=174]
 	"Josef Wiedenhorn (3818)" -> "Jim Arneman (3816)" [label=263]
-	"Veronica Lambert (3815)" -> "Jim Arneman (3816)" [label=129]
+	"Josef Wiedenhorn (3818)" -> "Kevin Leayr (3814)" [label=199]
+	"Kevin Leayr (3814)" -> "Jan Davis (1400)" [label=674]
+	"Kevin Leayr (3814)" -> "Jim Arneman (3816)" [label=367]
+	"Paul Hennelly (3817)" -> "Anna Balfour (2970)" [label=6]
+	"Paul Hennelly (3817)" -> "Jan Davis (1400)" [label=22]
 	"Paul Hennelly (3817)" -> "Jim Arneman (3816)" [label=59]
 	"Paul Hennelly (3817)" -> "Josef Wiedenhorn (3818)" [label=96]
-	"Veronica Lambert (3815)" -> "Anna Balfour (2970)" [label=155]
-	"Paul Hennelly (3817)" -> "Anna Balfour (2970)" [label=6]
-	"Josef Wiedenhorn (3818)" -> "Kevin Leayr (3814)" [label=199]
-	"Veronica Lambert (3815)" -> "Kevin Leayr (3814)" [label=82]
 	"Paul Hennelly (3817)" -> "Kevin Leayr (3814)" [label=32]
-	"Anna Balfour (2970)" -> "Jan Davis (1400)" [label=116]
-	"Josef Wiedenhorn (3818)" -> "Jan Davis (1400)" [label=174]
+	"Paul Hennelly (3817)" -> "Veronica Lambert (3815)" [label=18]
+	"Veronica Lambert (3815)" -> "Anna Balfour (2970)" [label=155]
 	"Veronica Lambert (3815)" -> "Jan Davis (1400)" [label=124]
-	"Paul Hennelly (3817)" -> "Jan Davis (1400)" [label=22]
+	"Veronica Lambert (3815)" -> "Jim Arneman (3816)" [label=129]
+	"Veronica Lambert (3815)" -> "Josef Wiedenhorn (3818)" [label=76]
+	"Veronica Lambert (3815)" -> "Kevin Leayr (3814)" [label=82]
 }

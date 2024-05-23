@@ -4,22 +4,22 @@ digraph "Alannah Mactiernan (3648)_Canning_2010" {
 	node [shape=box]
 	"Alannah Mactiernan (3648)" [label="Alannah Mactiernan (3648)
 Australian Labor Party"]
-	"Denise Hardie (4173)" [label="Denise Hardie (4173)
-The Greens"]
-	"Jamie Van Burgel (4174)" [label="Jamie Van Burgel (4174)
-Christian Democratic Party"]
 	"Darren Vernede (4172)" [label="Darren Vernede (4172)
 Family First"]
+	"Denise Hardie (4173)" [label="Denise Hardie (4173)
+The Greens"]
 	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
 Citizens Electoral Council"]
-	"Denise Hardie (4173)" -> "Alannah Mactiernan (3648)" [label=5414]
-	"Jamie Van Burgel (4174)" -> "Denise Hardie (4173)" [label=487]
-	"Darren Vernede (4172)" -> "Jamie Van Burgel (4174)" [label=429]
-	"Ian Tuffnell (3605)" -> "Darren Vernede (4172)" [label=81]
-	"Jamie Van Burgel (4174)" -> "Alannah Mactiernan (3648)" [label=277]
+	"Jamie Van Burgel (4174)" [label="Jamie Van Burgel (4174)
+Christian Democratic Party"]
 	"Darren Vernede (4172)" -> "Alannah Mactiernan (3648)" [label=226]
-	"Ian Tuffnell (3605)" -> "Alannah Mactiernan (3648)" [label=56]
-	"Ian Tuffnell (3605)" -> "Jamie Van Burgel (4174)" [label=155]
 	"Darren Vernede (4172)" -> "Denise Hardie (4173)" [label=361]
+	"Darren Vernede (4172)" -> "Jamie Van Burgel (4174)" [label=429]
+	"Denise Hardie (4173)" -> "Alannah Mactiernan (3648)" [label=5414]
+	"Ian Tuffnell (3605)" -> "Alannah Mactiernan (3648)" [label=56]
+	"Ian Tuffnell (3605)" -> "Darren Vernede (4172)" [label=81]
 	"Ian Tuffnell (3605)" -> "Denise Hardie (4173)" [label=95]
+	"Ian Tuffnell (3605)" -> "Jamie Van Burgel (4174)" [label=155]
+	"Jamie Van Burgel (4174)" -> "Alannah Mactiernan (3648)" [label=277]
+	"Jamie Van Burgel (4174)" -> "Denise Hardie (4173)" [label=487]
 }

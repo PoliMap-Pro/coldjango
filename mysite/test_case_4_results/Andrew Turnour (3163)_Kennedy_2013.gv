@@ -4,29 +4,29 @@ digraph "Andrew Turnour (3163)_Kennedy_2013" {
 	node [shape=box]
 	"Andrew Turnour (3163)" [label="Andrew Turnour (3163)
 Australian Labor Party"]
-	"Ronald George Brazier (3157)" [label="Ronald George Brazier (3157)
-Palmer United Party"]
-	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
-The Greens"]
-	"Dan Vogler (3161)" [label="Dan Vogler (3161)
-Family First"]
 	"Chester Gordon Tuxford (3158)" [label="Chester Gordon Tuxford (3158)
 Independent"]
+	"Dan Vogler (3161)" [label="Dan Vogler (3161)
+Family First"]
+	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
+The Greens"]
 	"Pam Hecht (3160)" [label="Pam Hecht (3160)
 Rise Up Australia Party"]
-	"Ronald George Brazier (3157)" -> "Andrew Turnour (3163)" [label=934]
-	"Jenny Stirling (3159)" -> "Ronald George Brazier (3157)" [label=520]
-	"Dan Vogler (3161)" -> "Jenny Stirling (3159)" [label=154]
-	"Chester Gordon Tuxford (3158)" -> "Dan Vogler (3161)" [label=93]
-	"Pam Hecht (3160)" -> "Chester Gordon Tuxford (3158)" [label=25]
-	"Jenny Stirling (3159)" -> "Andrew Turnour (3163)" [label=1542]
-	"Dan Vogler (3161)" -> "Andrew Turnour (3163)" [label=127]
+	"Ronald George Brazier (3157)" [label="Ronald George Brazier (3157)
+Palmer United Party"]
 	"Chester Gordon Tuxford (3158)" -> "Andrew Turnour (3163)" [label=56]
-	"Pam Hecht (3160)" -> "Andrew Turnour (3163)" [label=28]
-	"Pam Hecht (3160)" -> "Dan Vogler (3161)" [label=212]
+	"Chester Gordon Tuxford (3158)" -> "Dan Vogler (3161)" [label=93]
 	"Chester Gordon Tuxford (3158)" -> "Jenny Stirling (3159)" [label=123]
-	"Pam Hecht (3160)" -> "Jenny Stirling (3159)" [label=25]
-	"Dan Vogler (3161)" -> "Ronald George Brazier (3157)" [label=266]
 	"Chester Gordon Tuxford (3158)" -> "Ronald George Brazier (3157)" [label=150]
+	"Dan Vogler (3161)" -> "Andrew Turnour (3163)" [label=127]
+	"Dan Vogler (3161)" -> "Jenny Stirling (3159)" [label=154]
+	"Dan Vogler (3161)" -> "Ronald George Brazier (3157)" [label=266]
+	"Jenny Stirling (3159)" -> "Andrew Turnour (3163)" [label=1542]
+	"Jenny Stirling (3159)" -> "Ronald George Brazier (3157)" [label=520]
+	"Pam Hecht (3160)" -> "Andrew Turnour (3163)" [label=28]
+	"Pam Hecht (3160)" -> "Chester Gordon Tuxford (3158)" [label=25]
+	"Pam Hecht (3160)" -> "Dan Vogler (3161)" [label=212]
+	"Pam Hecht (3160)" -> "Jenny Stirling (3159)" [label=25]
 	"Pam Hecht (3160)" -> "Ronald George Brazier (3157)" [label=55]
+	"Ronald George Brazier (3157)" -> "Andrew Turnour (3163)" [label=934]
 }

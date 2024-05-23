@@ -2,24 +2,24 @@
 digraph "Karen Lock (4651)_Barker_2007" {
 	graph [label="Barker 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Karen Lock (4651)" [label="Karen Lock (4651)
-Australian Labor Party"]
-	"Deb Thiele (4652)" [label="Deb Thiele (4652)
-National Party"]
 	"Andrew Jennings (4650)" [label="Andrew Jennings (4650)
 The Greens"]
-	"Phil Cornish (4653)" [label="Phil Cornish (4653)
-Family First Party"]
+	"Deb Thiele (4652)" [label="Deb Thiele (4652)
+National Party"]
 	"Justin Sneath (4649)" [label="Justin Sneath (4649)
 Australian Democrats"]
-	"Deb Thiele (4652)" -> "Karen Lock (4651)" [label=4616]
+	"Karen Lock (4651)" [label="Karen Lock (4651)
+Australian Labor Party"]
+	"Phil Cornish (4653)" [label="Phil Cornish (4653)
+Family First Party"]
 	"Andrew Jennings (4650)" -> "Deb Thiele (4652)" [label=1745]
-	"Phil Cornish (4653)" -> "Andrew Jennings (4650)" [label=1066]
-	"Justin Sneath (4649)" -> "Phil Cornish (4653)" [label=193]
 	"Andrew Jennings (4650)" -> "Karen Lock (4651)" [label=3843]
-	"Phil Cornish (4653)" -> "Karen Lock (4651)" [label=1037]
-	"Justin Sneath (4649)" -> "Karen Lock (4651)" [label=425]
+	"Deb Thiele (4652)" -> "Karen Lock (4651)" [label=4616]
 	"Justin Sneath (4649)" -> "Andrew Jennings (4650)" [label=987]
-	"Phil Cornish (4653)" -> "Deb Thiele (4652)" [label=2013]
 	"Justin Sneath (4649)" -> "Deb Thiele (4652)" [label=168]
+	"Justin Sneath (4649)" -> "Karen Lock (4651)" [label=425]
+	"Justin Sneath (4649)" -> "Phil Cornish (4653)" [label=193]
+	"Phil Cornish (4653)" -> "Andrew Jennings (4650)" [label=1066]
+	"Phil Cornish (4653)" -> "Deb Thiele (4652)" [label=2013]
+	"Phil Cornish (4653)" -> "Karen Lock (4651)" [label=1037]
 }

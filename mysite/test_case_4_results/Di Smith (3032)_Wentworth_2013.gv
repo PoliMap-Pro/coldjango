@@ -2,24 +2,24 @@
 digraph "Di Smith (3032)_Wentworth_2013" {
 	graph [label="Wentworth 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
+Christian Democratic Party (Fred Nile Group)"]
 	"Di Smith (3032)" [label="Di Smith (3032)
 Labor"]
+	"Marsha Foxman (3033)" [label="Marsha Foxman (3033)
+Palmer United Party"]
 	"Matthew Robertson (3034)" [label="Matthew Robertson (3034)
 The Greens"]
 	"Pat Sheil (2107)" [label="Pat Sheil (2107)
 Independent"]
-	"Marsha Foxman (3033)" [label="Marsha Foxman (3033)
-Palmer United Party"]
-	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
-Christian Democratic Party (Fred Nile Group)"]
-	"Matthew Robertson (3034)" -> "Di Smith (3032)" [label=11292]
-	"Pat Sheil (2107)" -> "Matthew Robertson (3034)" [label=586]
-	"Marsha Foxman (3033)" -> "Pat Sheil (2107)" [label=226]
-	"Beresford Thomas (2252)" -> "Marsha Foxman (3033)" [label=60]
-	"Pat Sheil (2107)" -> "Di Smith (3032)" [label=309]
-	"Marsha Foxman (3033)" -> "Di Smith (3032)" [label=236]
 	"Beresford Thomas (2252)" -> "Di Smith (3032)" [label=48]
-	"Beresford Thomas (2252)" -> "Pat Sheil (2107)" [label=60]
-	"Marsha Foxman (3033)" -> "Matthew Robertson (3034)" [label=131]
+	"Beresford Thomas (2252)" -> "Marsha Foxman (3033)" [label=60]
 	"Beresford Thomas (2252)" -> "Matthew Robertson (3034)" [label=28]
+	"Beresford Thomas (2252)" -> "Pat Sheil (2107)" [label=60]
+	"Marsha Foxman (3033)" -> "Di Smith (3032)" [label=236]
+	"Marsha Foxman (3033)" -> "Matthew Robertson (3034)" [label=131]
+	"Marsha Foxman (3033)" -> "Pat Sheil (2107)" [label=226]
+	"Matthew Robertson (3034)" -> "Di Smith (3032)" [label=11292]
+	"Pat Sheil (2107)" -> "Di Smith (3032)" [label=309]
+	"Pat Sheil (2107)" -> "Matthew Robertson (3034)" [label=586]
 }

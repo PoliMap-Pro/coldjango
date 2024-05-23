@@ -4,16 +4,16 @@ digraph "Jill Hall (3847)_Shortland_2010" {
 	node [shape=box]
 	"Jill Hall (3847)" [label="Jill Hall (3847)
 Labor"]
-	"Phillipa Parsons (3845)" [label="Phillipa Parsons (3845)
-The Greens"]
 	"Milton M Alchin (3849)" [label="Milton M Alchin (3849)
 One Nation"]
 	"Peter Williams (3848)" [label="Peter Williams (3848)
 Secular Party of Australia"]
-	"Phillipa Parsons (3845)" -> "Jill Hall (3847)" [label=6807]
-	"Milton M Alchin (3849)" -> "Phillipa Parsons (3845)" [label=592]
-	"Peter Williams (3848)" -> "Milton M Alchin (3849)" [label=185]
+	"Phillipa Parsons (3845)" [label="Phillipa Parsons (3845)
+The Greens"]
 	"Milton M Alchin (3849)" -> "Jill Hall (3847)" [label=665]
+	"Milton M Alchin (3849)" -> "Phillipa Parsons (3845)" [label=592]
 	"Peter Williams (3848)" -> "Jill Hall (3847)" [label=153]
+	"Peter Williams (3848)" -> "Milton M Alchin (3849)" [label=185]
 	"Peter Williams (3848)" -> "Phillipa Parsons (3845)" [label=157]
+	"Phillipa Parsons (3845)" -> "Jill Hall (3847)" [label=6807]
 }

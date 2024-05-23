@@ -6,27 +6,27 @@ digraph "Billy Gordon (3169)_Leichhardt_2013" {
 Australian Labor Party"]
 	"Bruce Gibson (3167)" [label="Bruce Gibson (3167)
 Palmer United Party"]
-	"Johanna Kloot (3168)" [label="Johanna Kloot (3168)
-The Greens"]
-	"George Ryan (3166)" [label="George Ryan (3166)
-Katter's Australian Party"]
-	"Frank Miles (3164)" [label="Frank Miles (3164)
-Family First"]
 	"Dale Edwards (3165)" [label="Dale Edwards (3165)
 Rise Up Australia Party"]
+	"Frank Miles (3164)" [label="Frank Miles (3164)
+Family First"]
+	"George Ryan (3166)" [label="George Ryan (3166)
+Katter's Australian Party"]
+	"Johanna Kloot (3168)" [label="Johanna Kloot (3168)
+The Greens"]
 	"Bruce Gibson (3167)" -> "Billy Gordon (3169)" [label=4983]
-	"Johanna Kloot (3168)" -> "Bruce Gibson (3167)" [label=1645]
-	"George Ryan (3166)" -> "Johanna Kloot (3168)" [label=490]
-	"Frank Miles (3164)" -> "George Ryan (3166)" [label=780]
-	"Dale Edwards (3165)" -> "Frank Miles (3164)" [label=199]
-	"Johanna Kloot (3168)" -> "Billy Gordon (3169)" [label=3859]
-	"George Ryan (3166)" -> "Billy Gordon (3169)" [label=919]
-	"Frank Miles (3164)" -> "Billy Gordon (3169)" [label=278]
 	"Dale Edwards (3165)" -> "Billy Gordon (3169)" [label=32]
-	"Dale Edwards (3165)" -> "George Ryan (3166)" [label=82]
-	"Frank Miles (3164)" -> "Johanna Kloot (3168)" [label=235]
-	"Dale Edwards (3165)" -> "Johanna Kloot (3168)" [label=39]
-	"George Ryan (3166)" -> "Bruce Gibson (3167)" [label=2316]
-	"Frank Miles (3164)" -> "Bruce Gibson (3167)" [label=305]
 	"Dale Edwards (3165)" -> "Bruce Gibson (3167)" [label=82]
+	"Dale Edwards (3165)" -> "Frank Miles (3164)" [label=199]
+	"Dale Edwards (3165)" -> "George Ryan (3166)" [label=82]
+	"Dale Edwards (3165)" -> "Johanna Kloot (3168)" [label=39]
+	"Frank Miles (3164)" -> "Billy Gordon (3169)" [label=278]
+	"Frank Miles (3164)" -> "Bruce Gibson (3167)" [label=305]
+	"Frank Miles (3164)" -> "George Ryan (3166)" [label=780]
+	"Frank Miles (3164)" -> "Johanna Kloot (3168)" [label=235]
+	"George Ryan (3166)" -> "Billy Gordon (3169)" [label=919]
+	"George Ryan (3166)" -> "Bruce Gibson (3167)" [label=2316]
+	"George Ryan (3166)" -> "Johanna Kloot (3168)" [label=490]
+	"Johanna Kloot (3168)" -> "Billy Gordon (3169)" [label=3859]
+	"Johanna Kloot (3168)" -> "Bruce Gibson (3167)" [label=1645]
 }

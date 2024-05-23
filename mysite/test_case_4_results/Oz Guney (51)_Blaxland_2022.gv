@@ -2,18 +2,18 @@
 digraph "Oz Guney (51)_Blaxland_2022" {
 	graph [label="Blaxland 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Oz Guney (51)" [label="Oz Guney (51)
-Liberal"]
+	"Adam Stepanoff (50)" [label="Adam Stepanoff (50)
+Pauline Hanson's One Nation"]
 	"Elvis Sinosic (54)" [label="Elvis Sinosic (54)
 United Australia Party"]
 	"Linda Eisler (52)" [label="Linda Eisler (52)
 The Greens"]
-	"Adam Stepanoff (50)" [label="Adam Stepanoff (50)
-Pauline Hanson's One Nation"]
+	"Oz Guney (51)" [label="Oz Guney (51)
+Liberal"]
+	"Adam Stepanoff (50)" -> "Elvis Sinosic (54)" [label=1886]
+	"Adam Stepanoff (50)" -> "Linda Eisler (52)" [label=415]
+	"Adam Stepanoff (50)" -> "Oz Guney (51)" [label=1700]
 	"Elvis Sinosic (54)" -> "Oz Guney (51)" [label=3893]
 	"Linda Eisler (52)" -> "Elvis Sinosic (54)" [label=776]
-	"Adam Stepanoff (50)" -> "Linda Eisler (52)" [label=415]
 	"Linda Eisler (52)" -> "Oz Guney (51)" [label=986]
-	"Adam Stepanoff (50)" -> "Oz Guney (51)" [label=1700]
-	"Adam Stepanoff (50)" -> "Elvis Sinosic (54)" [label=1886]
 }

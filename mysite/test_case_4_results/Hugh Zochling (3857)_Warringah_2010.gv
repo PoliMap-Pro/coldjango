@@ -2,18 +2,18 @@
 digraph "Hugh Zochling (3857)_Warringah_2010" {
 	graph [label="Warringah 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Hugh Zochling (3857)" [label="Hugh Zochling (3857)
-Labor"]
-	"Matthew Drake-Brockman (1441)" [label="Matthew Drake-Brockman (1441)
-The Greens"]
 	"Alexander Jacob Gutman (3856)" [label="Alexander Jacob Gutman (3856)
 Australian Sex Party"]
+	"Hugh Zochling (3857)" [label="Hugh Zochling (3857)
+Labor"]
 	"Kenneth Cooke (3858)" [label="Kenneth Cooke (3858)
 Secular Party of Australia"]
-	"Matthew Drake-Brockman (1441)" -> "Hugh Zochling (3857)" [label=12421]
+	"Matthew Drake-Brockman (1441)" [label="Matthew Drake-Brockman (1441)
+The Greens"]
+	"Alexander Jacob Gutman (3856)" -> "Hugh Zochling (3857)" [label=461]
 	"Alexander Jacob Gutman (3856)" -> "Matthew Drake-Brockman (1441)" [label=1354]
 	"Kenneth Cooke (3858)" -> "Alexander Jacob Gutman (3856)" [label=204]
-	"Alexander Jacob Gutman (3856)" -> "Hugh Zochling (3857)" [label=461]
 	"Kenneth Cooke (3858)" -> "Hugh Zochling (3857)" [label=93]
 	"Kenneth Cooke (3858)" -> "Matthew Drake-Brockman (1441)" [label=169]
+	"Matthew Drake-Brockman (1441)" -> "Hugh Zochling (3857)" [label=12421]
 }

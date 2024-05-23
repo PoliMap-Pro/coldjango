@@ -2,18 +2,18 @@
 digraph "Robert Mcclelland (3675)_Barton_2004" {
 	graph [label="Barton 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Mcclelland (3675)" [label="Robert Mcclelland (3675)
-Australian Labor Party"]
 	"Angelo Mourikis (5007)" [label="Angelo Mourikis (5007)
 The Greens"]
 	"Eoin Coghlan (5005)" [label="Eoin Coghlan (5005)
 Australian Democrats"]
 	"Neil Baird (5006)" [label="Neil Baird (5006)
 Pauline Hanson's One Nation (NSW Division)"]
+	"Robert Mcclelland (3675)" [label="Robert Mcclelland (3675)
+Australian Labor Party"]
 	"Angelo Mourikis (5007)" -> "Robert Mcclelland (3675)" [label=4526]
 	"Eoin Coghlan (5005)" -> "Angelo Mourikis (5007)" [label=466]
-	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
 	"Eoin Coghlan (5005)" -> "Robert Mcclelland (3675)" [label=999]
-	"Neil Baird (5006)" -> "Robert Mcclelland (3675)" [label=338]
 	"Neil Baird (5006)" -> "Angelo Mourikis (5007)" [label=182]
+	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
+	"Neil Baird (5006)" -> "Robert Mcclelland (3675)" [label=338]
 }

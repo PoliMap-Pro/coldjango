@@ -9,6 +9,6 @@ Australian Greens"]
 	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
 Family First"]
 	"Simon Tiller (3394)" -> "Helen Constas (4075)" [label=8377]
-	"Yasmin De Zilwa (3384)" -> "Simon Tiller (3394)" [label=547]
 	"Yasmin De Zilwa (3384)" -> "Helen Constas (4075)" [label=757]
+	"Yasmin De Zilwa (3384)" -> "Simon Tiller (3394)" [label=547]
 }

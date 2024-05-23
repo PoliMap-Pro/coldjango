@@ -2,39 +2,39 @@
 digraph "David Bradbury (2914)_Lindsay_2013" {
 	graph [label="Lindsay 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Bradbury (2914)" [label="David Bradbury (2914)
-Labor"]
-	"Andrew William Wilcox (2913)" [label="Andrew William Wilcox (2913)
-Palmer United Party"]
-	"David Lenton (2911)" [label="David Lenton (2911)
-The Greens"]
 	"Andrew Green (2915)" [label="Andrew Green (2915)
 Christian Democratic Party (Fred Nile Group)"]
+	"Andrew William Wilcox (2913)" [label="Andrew William Wilcox (2913)
+Palmer United Party"]
+	"David Bradbury (2914)" [label="David Bradbury (2914)
+Labor"]
+	"David Lenton (2911)" [label="David Lenton (2911)
+The Greens"]
+	"Geoff Brown (1340)" [label="Geoff Brown (1340)
+Stable Population Party"]
 	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
 One Nation"]
 	"Mick Saunders (2912)" [label="Mick Saunders (2912)
 Australia First Party"]
-	"Geoff Brown (1340)" [label="Geoff Brown (1340)
-Stable Population Party"]
+	"Andrew Green (2915)" -> "Andrew William Wilcox (2913)" [label=318]
+	"Andrew Green (2915)" -> "David Bradbury (2914)" [label=472]
+	"Andrew Green (2915)" -> "David Lenton (2911)" [label=275]
 	"Andrew William Wilcox (2913)" -> "David Bradbury (2914)" [label=4014]
 	"David Lenton (2911)" -> "Andrew William Wilcox (2913)" [label=1463]
-	"Andrew Green (2915)" -> "David Lenton (2911)" [label=275]
-	"Jeffrey Wayne Lawson (319)" -> "Andrew Green (2915)" [label=208]
-	"Mick Saunders (2912)" -> "Jeffrey Wayne Lawson (319)" [label=216]
-	"Geoff Brown (1340)" -> "Mick Saunders (2912)" [label=43]
 	"David Lenton (2911)" -> "David Bradbury (2914)" [label=2006]
-	"Andrew Green (2915)" -> "David Bradbury (2914)" [label=472]
-	"Jeffrey Wayne Lawson (319)" -> "David Bradbury (2914)" [label=321]
-	"Mick Saunders (2912)" -> "David Bradbury (2914)" [label=106]
-	"Geoff Brown (1340)" -> "David Bradbury (2914)" [label=81]
-	"Geoff Brown (1340)" -> "Jeffrey Wayne Lawson (319)" [label=56]
-	"Mick Saunders (2912)" -> "Andrew Green (2915)" [label=38]
 	"Geoff Brown (1340)" -> "Andrew Green (2915)" [label=32]
-	"Jeffrey Wayne Lawson (319)" -> "David Lenton (2911)" [label=782]
-	"Mick Saunders (2912)" -> "David Lenton (2911)" [label=87]
-	"Geoff Brown (1340)" -> "David Lenton (2911)" [label=69]
-	"Andrew Green (2915)" -> "Andrew William Wilcox (2913)" [label=318]
-	"Jeffrey Wayne Lawson (319)" -> "Andrew William Wilcox (2913)" [label=520]
-	"Mick Saunders (2912)" -> "Andrew William Wilcox (2913)" [label=131]
 	"Geoff Brown (1340)" -> "Andrew William Wilcox (2913)" [label=44]
+	"Geoff Brown (1340)" -> "David Bradbury (2914)" [label=81]
+	"Geoff Brown (1340)" -> "David Lenton (2911)" [label=69]
+	"Geoff Brown (1340)" -> "Jeffrey Wayne Lawson (319)" [label=56]
+	"Geoff Brown (1340)" -> "Mick Saunders (2912)" [label=43]
+	"Jeffrey Wayne Lawson (319)" -> "Andrew Green (2915)" [label=208]
+	"Jeffrey Wayne Lawson (319)" -> "Andrew William Wilcox (2913)" [label=520]
+	"Jeffrey Wayne Lawson (319)" -> "David Bradbury (2914)" [label=321]
+	"Jeffrey Wayne Lawson (319)" -> "David Lenton (2911)" [label=782]
+	"Mick Saunders (2912)" -> "Andrew Green (2915)" [label=38]
+	"Mick Saunders (2912)" -> "Andrew William Wilcox (2913)" [label=131]
+	"Mick Saunders (2912)" -> "David Bradbury (2914)" [label=106]
+	"Mick Saunders (2912)" -> "David Lenton (2911)" [label=87]
+	"Mick Saunders (2912)" -> "Jeffrey Wayne Lawson (319)" [label=216]
 }

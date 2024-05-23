@@ -2,39 +2,39 @@
 digraph "Christine Maxfield (4136)_McMillan_2007" {
 	graph [label="McMillan 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Christine Maxfield (4136)" [label="Christine Maxfield (4136)
-Australian Labor Party"]
-	"Sandra Betts (4866)" [label="Sandra Betts (4866)
-Australian Greens"]
-	"Terry Aeschlimann (4865)" [label="Terry Aeschlimann (4865)
-Family First"]
-	"Don Walters (4863)" [label="Don Walters (4863)
-Australian Democrats"]
-	"Suryan Chandrasegaran (4868)" [label="Suryan Chandrasegaran (4868)
-D.L.P. - Democratic Labor Party"]
-	"Theo Matthew Alblas (4864)" [label="Theo Matthew Alblas (4864)
-Citizens Electoral Council"]
 	"Ben Fiechtner (4867)" [label="Ben Fiechtner (4867)
 LDP"]
-	"Sandra Betts (4866)" -> "Christine Maxfield (4136)" [label=4474]
-	"Terry Aeschlimann (4865)" -> "Sandra Betts (4866)" [label=552]
-	"Don Walters (4863)" -> "Terry Aeschlimann (4865)" [label=215]
-	"Suryan Chandrasegaran (4868)" -> "Don Walters (4863)" [label=89]
-	"Theo Matthew Alblas (4864)" -> "Suryan Chandrasegaran (4868)" [label=26]
-	"Ben Fiechtner (4867)" -> "Theo Matthew Alblas (4864)" [label=6]
-	"Terry Aeschlimann (4865)" -> "Christine Maxfield (4136)" [label=767]
-	"Don Walters (4863)" -> "Christine Maxfield (4136)" [label=235]
-	"Suryan Chandrasegaran (4868)" -> "Christine Maxfield (4136)" [label=168]
-	"Theo Matthew Alblas (4864)" -> "Christine Maxfield (4136)" [label=38]
+	"Christine Maxfield (4136)" [label="Christine Maxfield (4136)
+Australian Labor Party"]
+	"Don Walters (4863)" [label="Don Walters (4863)
+Australian Democrats"]
+	"Sandra Betts (4866)" [label="Sandra Betts (4866)
+Australian Greens"]
+	"Suryan Chandrasegaran (4868)" [label="Suryan Chandrasegaran (4868)
+D.L.P. - Democratic Labor Party"]
+	"Terry Aeschlimann (4865)" [label="Terry Aeschlimann (4865)
+Family First"]
+	"Theo Matthew Alblas (4864)" [label="Theo Matthew Alblas (4864)
+Citizens Electoral Council"]
 	"Ben Fiechtner (4867)" -> "Christine Maxfield (4136)" [label=18]
-	"Ben Fiechtner (4867)" -> "Suryan Chandrasegaran (4868)" [label=32]
-	"Theo Matthew Alblas (4864)" -> "Don Walters (4863)" [label=85]
 	"Ben Fiechtner (4867)" -> "Don Walters (4863)" [label=17]
-	"Suryan Chandrasegaran (4868)" -> "Terry Aeschlimann (4865)" [label=292]
-	"Theo Matthew Alblas (4864)" -> "Terry Aeschlimann (4865)" [label=54]
-	"Ben Fiechtner (4867)" -> "Terry Aeschlimann (4865)" [label=11]
-	"Don Walters (4863)" -> "Sandra Betts (4866)" [label=320]
-	"Suryan Chandrasegaran (4868)" -> "Sandra Betts (4866)" [label=169]
-	"Theo Matthew Alblas (4864)" -> "Sandra Betts (4866)" [label=25]
 	"Ben Fiechtner (4867)" -> "Sandra Betts (4866)" [label=32]
+	"Ben Fiechtner (4867)" -> "Suryan Chandrasegaran (4868)" [label=32]
+	"Ben Fiechtner (4867)" -> "Terry Aeschlimann (4865)" [label=11]
+	"Ben Fiechtner (4867)" -> "Theo Matthew Alblas (4864)" [label=6]
+	"Don Walters (4863)" -> "Christine Maxfield (4136)" [label=235]
+	"Don Walters (4863)" -> "Sandra Betts (4866)" [label=320]
+	"Don Walters (4863)" -> "Terry Aeschlimann (4865)" [label=215]
+	"Sandra Betts (4866)" -> "Christine Maxfield (4136)" [label=4474]
+	"Suryan Chandrasegaran (4868)" -> "Christine Maxfield (4136)" [label=168]
+	"Suryan Chandrasegaran (4868)" -> "Don Walters (4863)" [label=89]
+	"Suryan Chandrasegaran (4868)" -> "Sandra Betts (4866)" [label=169]
+	"Suryan Chandrasegaran (4868)" -> "Terry Aeschlimann (4865)" [label=292]
+	"Terry Aeschlimann (4865)" -> "Christine Maxfield (4136)" [label=767]
+	"Terry Aeschlimann (4865)" -> "Sandra Betts (4866)" [label=552]
+	"Theo Matthew Alblas (4864)" -> "Christine Maxfield (4136)" [label=38]
+	"Theo Matthew Alblas (4864)" -> "Don Walters (4863)" [label=85]
+	"Theo Matthew Alblas (4864)" -> "Sandra Betts (4866)" [label=25]
+	"Theo Matthew Alblas (4864)" -> "Suryan Chandrasegaran (4868)" [label=26]
+	"Theo Matthew Alblas (4864)" -> "Terry Aeschlimann (4865)" [label=54]
 }

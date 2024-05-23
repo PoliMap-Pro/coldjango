@@ -2,10 +2,10 @@
 digraph "Sid Sidebottom (3291)_Braddon_2004" {
 	graph [label="Braddon 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sid Sidebottom (3291)" [label="Sid Sidebottom (3291)
-Australian Labor Party"]
 	"Michelle Foale (5480)" [label="Michelle Foale (5480)
 Australian Greens"]
+	"Sid Sidebottom (3291)" [label="Sid Sidebottom (3291)
+Australian Labor Party"]
 	"Wayne De Bomford (5481)" [label="Wayne De Bomford (5481)
 Family First"]
 	"Michelle Foale (5480)" -> "Sid Sidebottom (3291)" [label=2981]

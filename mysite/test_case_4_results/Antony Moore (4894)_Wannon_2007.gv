@@ -4,11 +4,11 @@ digraph "Antony Moore (4894)_Wannon_2007" {
 	node [shape=box]
 	"Antony Moore (4894)" [label="Antony Moore (4894)
 Australian Labor Party"]
-	"Lisa Owen (4163)" [label="Lisa Owen (4163)
-Australian Greens"]
 	"Daniel Pech (4892)" [label="Daniel Pech (4892)
 Family First"]
-	"Lisa Owen (4163)" -> "Antony Moore (4894)" [label=4680]
-	"Daniel Pech (4892)" -> "Lisa Owen (4163)" [label=894]
+	"Lisa Owen (4163)" [label="Lisa Owen (4163)
+Australian Greens"]
 	"Daniel Pech (4892)" -> "Antony Moore (4894)" [label=750]
+	"Daniel Pech (4892)" -> "Lisa Owen (4163)" [label=894]
+	"Lisa Owen (4163)" -> "Antony Moore (4894)" [label=4680]
 }

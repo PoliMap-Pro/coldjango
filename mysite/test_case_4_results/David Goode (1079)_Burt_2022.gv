@@ -2,39 +2,39 @@
 digraph "David Goode (1079)_Burt_2022" {
 	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Goode (1079)" [label="David Goode (1079)
-Liberal"]
 	"Daniel Garlett (1077)" [label="Daniel Garlett (1077)
 The Greens (WA)"]
-	"Travis Carter (1075)" [label="Travis Carter (1075)
-Pauline Hanson's One Nation"]
-	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
-Australian Christians"]
-	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
-WESTERN AUSTRALIA PARTY"]
+	"David Goode (1079)" [label="David Goode (1079)
+Liberal"]
 	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
 United Australia Party"]
 	"Michele Castle (1074)" [label="Michele Castle (1074)
 Australian Federation Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
+	"Travis Carter (1075)" [label="Travis Carter (1075)
+Pauline Hanson's One Nation"]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
 	"Daniel Garlett (1077)" -> "David Goode (1079)" [label=4674]
-	"Travis Carter (1075)" -> "Daniel Garlett (1077)" [label=3542]
-	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
-	"Stephen Phelan (1078)" -> "Warnar Spyker (1080)" [label=337]
-	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
-	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
-	"Travis Carter (1075)" -> "David Goode (1079)" [label=3229]
-	"Warnar Spyker (1080)" -> "David Goode (1079)" [label=2119]
-	"Stephen Phelan (1078)" -> "David Goode (1079)" [label=524]
-	"Joshua Mccurry (1076)" -> "David Goode (1079)" [label=219]
-	"Michele Castle (1074)" -> "David Goode (1079)" [label=72]
-	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
-	"Joshua Mccurry (1076)" -> "Warnar Spyker (1080)" [label=268]
-	"Michele Castle (1074)" -> "Warnar Spyker (1080)" [label=150]
-	"Stephen Phelan (1078)" -> "Travis Carter (1075)" [label=724]
-	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
-	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
-	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
-	"Stephen Phelan (1078)" -> "Daniel Garlett (1077)" [label=651]
 	"Joshua Mccurry (1076)" -> "Daniel Garlett (1077)" [label=274]
+	"Joshua Mccurry (1076)" -> "David Goode (1079)" [label=219]
+	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
+	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
+	"Joshua Mccurry (1076)" -> "Warnar Spyker (1080)" [label=268]
 	"Michele Castle (1074)" -> "Daniel Garlett (1077)" [label=125]
+	"Michele Castle (1074)" -> "David Goode (1079)" [label=72]
+	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
+	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
+	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
+	"Michele Castle (1074)" -> "Warnar Spyker (1080)" [label=150]
+	"Stephen Phelan (1078)" -> "Daniel Garlett (1077)" [label=651]
+	"Stephen Phelan (1078)" -> "David Goode (1079)" [label=524]
+	"Stephen Phelan (1078)" -> "Travis Carter (1075)" [label=724]
+	"Stephen Phelan (1078)" -> "Warnar Spyker (1080)" [label=337]
+	"Travis Carter (1075)" -> "Daniel Garlett (1077)" [label=3542]
+	"Travis Carter (1075)" -> "David Goode (1079)" [label=3229]
+	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
+	"Warnar Spyker (1080)" -> "David Goode (1079)" [label=2119]
+	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
 }

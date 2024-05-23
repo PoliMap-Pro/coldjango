@@ -2,39 +2,39 @@
 digraph "Amanda Rishworth (655)_Kingston_2007" {
 	graph [label="Kingston 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Amanda Rishworth (655)" [label="Amanda Rishworth (655)
-Australian Labor Party"]
-	"Bill Weller (4672)" [label="Bill Weller (4672)
-The Greens"]
-	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
-Family First Party"]
-	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
-Australian Democrats"]
-	"Barry J Becker (4671)" [label="Barry J Becker (4671)
-Independent"]
 	"Alex Kusznir (4675)" [label="Alex Kusznir (4675)
 Independent"]
+	"Amanda Rishworth (655)" [label="Amanda Rishworth (655)
+Australian Labor Party"]
+	"Barry J Becker (4671)" [label="Barry J Becker (4671)
+Independent"]
+	"Bill Weller (4672)" [label="Bill Weller (4672)
+The Greens"]
 	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
 LDP"]
-	"Bill Weller (4672)" -> "Amanda Rishworth (655)" [label=5059]
-	"Robert Brokenshire (4674)" -> "Bill Weller (4672)" [label=990]
-	"Matthew Fowler (4673)" -> "Robert Brokenshire (4674)" [label=109]
-	"Barry J Becker (4671)" -> "Matthew Fowler (4673)" [label=109]
-	"Alex Kusznir (4675)" -> "Barry J Becker (4671)" [label=138]
-	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
-	"Robert Brokenshire (4674)" -> "Amanda Rishworth (655)" [label=1493]
-	"Matthew Fowler (4673)" -> "Amanda Rishworth (655)" [label=269]
-	"Barry J Becker (4671)" -> "Amanda Rishworth (655)" [label=120]
+	"Matthew Fowler (4673)" [label="Matthew Fowler (4673)
+Australian Democrats"]
+	"Robert Brokenshire (4674)" [label="Robert Brokenshire (4674)
+Family First Party"]
 	"Alex Kusznir (4675)" -> "Amanda Rishworth (655)" [label=68]
+	"Alex Kusznir (4675)" -> "Barry J Becker (4671)" [label=138]
+	"Alex Kusznir (4675)" -> "Bill Weller (4672)" [label=51]
+	"Alex Kusznir (4675)" -> "Matthew Fowler (4673)" [label=36]
+	"Alex Kusznir (4675)" -> "Robert Brokenshire (4674)" [label=113]
+	"Barry J Becker (4671)" -> "Amanda Rishworth (655)" [label=120]
+	"Barry J Becker (4671)" -> "Bill Weller (4672)" [label=200]
+	"Barry J Becker (4671)" -> "Matthew Fowler (4673)" [label=109]
+	"Barry J Becker (4671)" -> "Robert Brokenshire (4674)" [label=98]
+	"Bill Weller (4672)" -> "Amanda Rishworth (655)" [label=5059]
+	"Lachlan Peter Smith (4676)" -> "Alex Kusznir (4675)" [label=85]
 	"Lachlan Peter Smith (4676)" -> "Amanda Rishworth (655)" [label=26]
 	"Lachlan Peter Smith (4676)" -> "Barry J Becker (4671)" [label=24]
-	"Alex Kusznir (4675)" -> "Matthew Fowler (4673)" [label=36]
-	"Lachlan Peter Smith (4676)" -> "Matthew Fowler (4673)" [label=13]
-	"Barry J Becker (4671)" -> "Robert Brokenshire (4674)" [label=98]
-	"Alex Kusznir (4675)" -> "Robert Brokenshire (4674)" [label=113]
-	"Lachlan Peter Smith (4676)" -> "Robert Brokenshire (4674)" [label=48]
-	"Matthew Fowler (4673)" -> "Bill Weller (4672)" [label=471]
-	"Barry J Becker (4671)" -> "Bill Weller (4672)" [label=200]
-	"Alex Kusznir (4675)" -> "Bill Weller (4672)" [label=51]
 	"Lachlan Peter Smith (4676)" -> "Bill Weller (4672)" [label=28]
+	"Lachlan Peter Smith (4676)" -> "Matthew Fowler (4673)" [label=13]
+	"Lachlan Peter Smith (4676)" -> "Robert Brokenshire (4674)" [label=48]
+	"Matthew Fowler (4673)" -> "Amanda Rishworth (655)" [label=269]
+	"Matthew Fowler (4673)" -> "Bill Weller (4672)" [label=471]
+	"Matthew Fowler (4673)" -> "Robert Brokenshire (4674)" [label=109]
+	"Robert Brokenshire (4674)" -> "Amanda Rishworth (655)" [label=1493]
+	"Robert Brokenshire (4674)" -> "Bill Weller (4672)" [label=990]
 }

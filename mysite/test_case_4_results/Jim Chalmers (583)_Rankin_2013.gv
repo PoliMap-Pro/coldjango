@@ -2,24 +2,24 @@
 digraph "Jim Chalmers (583)_Rankin_2013" {
 	graph [label="Rankin 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jim Chalmers (583)" [label="Jim Chalmers (583)
-Australian Labor Party"]
-	"William Tracy Rogan (3218)" [label="William Tracy Rogan (3218)
-Palmer United Party"]
-	"Neil Cotter (579)" [label="Neil Cotter (579)
-The Greens"]
-	"Chris Lawrie (3220)" [label="Chris Lawrie (3220)
-Family First"]
 	"Chris Claydon (3217)" [label="Chris Claydon (3217)
 Katter's Australian Party"]
-	"William Tracy Rogan (3218)" -> "Jim Chalmers (583)" [label=7033]
-	"Neil Cotter (579)" -> "William Tracy Rogan (3218)" [label=1780]
-	"Chris Lawrie (3220)" -> "Neil Cotter (579)" [label=550]
+	"Chris Lawrie (3220)" [label="Chris Lawrie (3220)
+Family First"]
+	"Jim Chalmers (583)" [label="Jim Chalmers (583)
+Australian Labor Party"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"William Tracy Rogan (3218)" [label="William Tracy Rogan (3218)
+Palmer United Party"]
 	"Chris Claydon (3217)" -> "Chris Lawrie (3220)" [label=177]
-	"Neil Cotter (579)" -> "Jim Chalmers (583)" [label=2693]
-	"Chris Lawrie (3220)" -> "Jim Chalmers (583)" [label=474]
 	"Chris Claydon (3217)" -> "Jim Chalmers (583)" [label=282]
 	"Chris Claydon (3217)" -> "Neil Cotter (579)" [label=233]
-	"Chris Lawrie (3220)" -> "William Tracy Rogan (3218)" [label=634]
 	"Chris Claydon (3217)" -> "William Tracy Rogan (3218)" [label=810]
+	"Chris Lawrie (3220)" -> "Jim Chalmers (583)" [label=474]
+	"Chris Lawrie (3220)" -> "Neil Cotter (579)" [label=550]
+	"Chris Lawrie (3220)" -> "William Tracy Rogan (3218)" [label=634]
+	"Neil Cotter (579)" -> "Jim Chalmers (583)" [label=2693]
+	"Neil Cotter (579)" -> "William Tracy Rogan (3218)" [label=1780]
+	"William Tracy Rogan (3218)" -> "Jim Chalmers (583)" [label=7033]
 }

@@ -2,39 +2,39 @@
 digraph "John Kennedy (3472)_Kooyong_2013" {
 	graph [label="Kooyong 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Kennedy (3472)" [label="John Kennedy (3472)
-Australian Labor Party"]
+	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+Independent"]
 	"Helen Mcleod (2647)" [label="Helen Mcleod (2647)
 The Greens"]
-	"Tiffany Harrison (3469)" [label="Tiffany Harrison (3469)
-Independent"]
-	"Luke Gerard Mcnamara (3470)" [label="Luke Gerard Mcnamara (3470)
-Palmer United Party"]
 	"Jaxon Calder (3473)" [label="Jaxon Calder (3473)
 Family First Party"]
-	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+	"John Kennedy (3472)" [label="John Kennedy (3472)
+Australian Labor Party"]
+	"Luke Gerard Mcnamara (3470)" [label="Luke Gerard Mcnamara (3470)
+Palmer United Party"]
+	"Tiffany Harrison (3469)" [label="Tiffany Harrison (3469)
 Independent"]
 	"Tim Kriedemann (3471)" [label="Tim Kriedemann (3471)
 Rise Up Australia Party"]
-	"Helen Mcleod (2647)" -> "John Kennedy (3472)" [label=13418]
-	"Tiffany Harrison (3469)" -> "Helen Mcleod (2647)" [label=1010]
-	"Luke Gerard Mcnamara (3470)" -> "Tiffany Harrison (3469)" [label=371]
-	"Jaxon Calder (3473)" -> "Luke Gerard Mcnamara (3470)" [label=119]
-	"Angelina Zubac (1850)" -> "Jaxon Calder (3473)" [label=27]
-	"Tim Kriedemann (3471)" -> "Angelina Zubac (1850)" [label=22]
-	"Tiffany Harrison (3469)" -> "John Kennedy (3472)" [label=440]
-	"Luke Gerard Mcnamara (3470)" -> "John Kennedy (3472)" [label=302]
-	"Jaxon Calder (3473)" -> "John Kennedy (3472)" [label=174]
-	"Angelina Zubac (1850)" -> "John Kennedy (3472)" [label=103]
-	"Tim Kriedemann (3471)" -> "John Kennedy (3472)" [label=30]
-	"Tim Kriedemann (3471)" -> "Jaxon Calder (3473)" [label=72]
-	"Angelina Zubac (1850)" -> "Luke Gerard Mcnamara (3470)" [label=23]
-	"Tim Kriedemann (3471)" -> "Luke Gerard Mcnamara (3470)" [label=54]
-	"Jaxon Calder (3473)" -> "Tiffany Harrison (3469)" [label=132]
-	"Angelina Zubac (1850)" -> "Tiffany Harrison (3469)" [label=279]
-	"Tim Kriedemann (3471)" -> "Tiffany Harrison (3469)" [label=27]
-	"Luke Gerard Mcnamara (3470)" -> "Helen Mcleod (2647)" [label=266]
-	"Jaxon Calder (3473)" -> "Helen Mcleod (2647)" [label=114]
 	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=127]
+	"Angelina Zubac (1850)" -> "Jaxon Calder (3473)" [label=27]
+	"Angelina Zubac (1850)" -> "John Kennedy (3472)" [label=103]
+	"Angelina Zubac (1850)" -> "Luke Gerard Mcnamara (3470)" [label=23]
+	"Angelina Zubac (1850)" -> "Tiffany Harrison (3469)" [label=279]
+	"Helen Mcleod (2647)" -> "John Kennedy (3472)" [label=13418]
+	"Jaxon Calder (3473)" -> "Helen Mcleod (2647)" [label=114]
+	"Jaxon Calder (3473)" -> "John Kennedy (3472)" [label=174]
+	"Jaxon Calder (3473)" -> "Luke Gerard Mcnamara (3470)" [label=119]
+	"Jaxon Calder (3473)" -> "Tiffany Harrison (3469)" [label=132]
+	"Luke Gerard Mcnamara (3470)" -> "Helen Mcleod (2647)" [label=266]
+	"Luke Gerard Mcnamara (3470)" -> "John Kennedy (3472)" [label=302]
+	"Luke Gerard Mcnamara (3470)" -> "Tiffany Harrison (3469)" [label=371]
+	"Tiffany Harrison (3469)" -> "Helen Mcleod (2647)" [label=1010]
+	"Tiffany Harrison (3469)" -> "John Kennedy (3472)" [label=440]
+	"Tim Kriedemann (3471)" -> "Angelina Zubac (1850)" [label=22]
 	"Tim Kriedemann (3471)" -> "Helen Mcleod (2647)" [label=45]
+	"Tim Kriedemann (3471)" -> "Jaxon Calder (3473)" [label=72]
+	"Tim Kriedemann (3471)" -> "John Kennedy (3472)" [label=30]
+	"Tim Kriedemann (3471)" -> "Luke Gerard Mcnamara (3470)" [label=54]
+	"Tim Kriedemann (3471)" -> "Tiffany Harrison (3469)" [label=27]
 }

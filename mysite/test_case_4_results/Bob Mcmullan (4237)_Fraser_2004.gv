@@ -6,14 +6,14 @@ digraph "Bob Mcmullan (4237)_Fraser_2004" {
 Australian Labor Party (ACT Branch)"]
 	"David Turbayne (4999)" [label="David Turbayne (4999)
 The Greens"]
-	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
-Australian Democrats"]
 	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
 Socialist Alliance"]
+	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
+Australian Democrats"]
 	"David Turbayne (4999)" -> "Bob Mcmullan (4237)" [label=12008]
-	"Lynne Grimsey (4998)" -> "David Turbayne (4999)" [label=1433]
-	"James Vassilopoulos (4997)" -> "Lynne Grimsey (4998)" [label=220]
-	"Lynne Grimsey (4998)" -> "Bob Mcmullan (4237)" [label=860]
 	"James Vassilopoulos (4997)" -> "Bob Mcmullan (4237)" [label=869]
 	"James Vassilopoulos (4997)" -> "David Turbayne (4999)" [label=723]
+	"James Vassilopoulos (4997)" -> "Lynne Grimsey (4998)" [label=220]
+	"Lynne Grimsey (4998)" -> "Bob Mcmullan (4237)" [label=860]
+	"Lynne Grimsey (4998)" -> "David Turbayne (4999)" [label=1433]
 }

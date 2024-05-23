@@ -2,39 +2,39 @@
 digraph "Tony Zappia (660)_Makin_2010" {
 	graph [label="Makin 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony Zappia (660)" [label="Tony Zappia (660)
-Australian Labor Party"]
+	"Anton Horvat (4012)" [label="Anton Horvat (4012)
+One Nation"]
 	"Jasemin Rose (4009)" [label="Jasemin Rose (4009)
 The Greens"]
 	"Mark Potter (2464)" [label="Mark Potter (2464)
 Family First"]
 	"Michael Gameau (4010)" [label="Michael Gameau (4010)
 Liberal Democrats (LDP)"]
-	"Anton Horvat (4012)" [label="Anton Horvat (4012)
-One Nation"]
-	"Wayne Roderick Rich (4014)" [label="Wayne Roderick Rich (4014)
-Australian Democrats"]
 	"Robert Gordon Stewart (4011)" [label="Robert Gordon Stewart (4011)
 The Climate Sceptics"]
+	"Tony Zappia (660)" [label="Tony Zappia (660)
+Australian Labor Party"]
+	"Wayne Roderick Rich (4014)" [label="Wayne Roderick Rich (4014)
+Australian Democrats"]
+	"Anton Horvat (4012)" -> "Jasemin Rose (4009)" [label=198]
+	"Anton Horvat (4012)" -> "Mark Potter (2464)" [label=189]
+	"Anton Horvat (4012)" -> "Michael Gameau (4010)" [label=90]
+	"Anton Horvat (4012)" -> "Tony Zappia (660)" [label=205]
 	"Jasemin Rose (4009)" -> "Tony Zappia (660)" [label=8137]
 	"Mark Potter (2464)" -> "Jasemin Rose (4009)" [label=1256]
-	"Michael Gameau (4010)" -> "Mark Potter (2464)" [label=128]
-	"Anton Horvat (4012)" -> "Michael Gameau (4010)" [label=90]
-	"Wayne Roderick Rich (4014)" -> "Anton Horvat (4012)" [label=32]
-	"Robert Gordon Stewart (4011)" -> "Wayne Roderick Rich (4014)" [label=22]
 	"Mark Potter (2464)" -> "Tony Zappia (660)" [label=1160]
-	"Michael Gameau (4010)" -> "Tony Zappia (660)" [label=212]
-	"Anton Horvat (4012)" -> "Tony Zappia (660)" [label=205]
-	"Wayne Roderick Rich (4014)" -> "Tony Zappia (660)" [label=122]
-	"Robert Gordon Stewart (4011)" -> "Tony Zappia (660)" [label=64]
-	"Robert Gordon Stewart (4011)" -> "Anton Horvat (4012)" [label=101]
-	"Wayne Roderick Rich (4014)" -> "Michael Gameau (4010)" [label=70]
-	"Robert Gordon Stewart (4011)" -> "Michael Gameau (4010)" [label=50]
-	"Anton Horvat (4012)" -> "Mark Potter (2464)" [label=189]
-	"Wayne Roderick Rich (4014)" -> "Mark Potter (2464)" [label=99]
-	"Robert Gordon Stewart (4011)" -> "Mark Potter (2464)" [label=45]
 	"Michael Gameau (4010)" -> "Jasemin Rose (4009)" [label=329]
-	"Anton Horvat (4012)" -> "Jasemin Rose (4009)" [label=198]
-	"Wayne Roderick Rich (4014)" -> "Jasemin Rose (4009)" [label=163]
+	"Michael Gameau (4010)" -> "Mark Potter (2464)" [label=128]
+	"Michael Gameau (4010)" -> "Tony Zappia (660)" [label=212]
+	"Robert Gordon Stewart (4011)" -> "Anton Horvat (4012)" [label=101]
 	"Robert Gordon Stewart (4011)" -> "Jasemin Rose (4009)" [label=76]
+	"Robert Gordon Stewart (4011)" -> "Mark Potter (2464)" [label=45]
+	"Robert Gordon Stewart (4011)" -> "Michael Gameau (4010)" [label=50]
+	"Robert Gordon Stewart (4011)" -> "Tony Zappia (660)" [label=64]
+	"Robert Gordon Stewart (4011)" -> "Wayne Roderick Rich (4014)" [label=22]
+	"Wayne Roderick Rich (4014)" -> "Anton Horvat (4012)" [label=32]
+	"Wayne Roderick Rich (4014)" -> "Jasemin Rose (4009)" [label=163]
+	"Wayne Roderick Rich (4014)" -> "Mark Potter (2464)" [label=99]
+	"Wayne Roderick Rich (4014)" -> "Michael Gameau (4010)" [label=70]
+	"Wayne Roderick Rich (4014)" -> "Tony Zappia (660)" [label=122]
 }

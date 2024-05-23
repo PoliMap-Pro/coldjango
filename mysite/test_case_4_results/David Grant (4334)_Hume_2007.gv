@@ -2,24 +2,24 @@
 digraph "David Grant (4334)_Hume_2007" {
 	graph [label="Hume 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Grant (4334)" [label="David Grant (4334)
-Labor"]
-	"Jim Clark (4333)" [label="Jim Clark (4333)
-The Greens"]
 	"Cathy Trent (4331)" [label="Cathy Trent (4331)
 Family First"]
+	"David Grant (4334)" [label="David Grant (4334)
+Labor"]
 	"Geoff Peet (4332)" [label="Geoff Peet (4332)
 Christian Democratic Party (Fred Nile Group)"]
+	"Jim Clark (4333)" [label="Jim Clark (4333)
+The Greens"]
 	"Lindsay D Cosgrove (2122)" [label="Lindsay D Cosgrove (2122)
 Citizens Electoral Council"]
-	"Jim Clark (4333)" -> "David Grant (4334)" [label=5557]
+	"Cathy Trent (4331)" -> "David Grant (4334)" [label=715]
 	"Cathy Trent (4331)" -> "Jim Clark (4333)" [label=1063]
 	"Geoff Peet (4332)" -> "Cathy Trent (4331)" [label=587]
-	"Lindsay D Cosgrove (2122)" -> "Geoff Peet (4332)" [label=34]
-	"Cathy Trent (4331)" -> "David Grant (4334)" [label=715]
 	"Geoff Peet (4332)" -> "David Grant (4334)" [label=244]
-	"Lindsay D Cosgrove (2122)" -> "David Grant (4334)" [label=139]
-	"Lindsay D Cosgrove (2122)" -> "Cathy Trent (4331)" [label=123]
 	"Geoff Peet (4332)" -> "Jim Clark (4333)" [label=144]
+	"Jim Clark (4333)" -> "David Grant (4334)" [label=5557]
+	"Lindsay D Cosgrove (2122)" -> "Cathy Trent (4331)" [label=123]
+	"Lindsay D Cosgrove (2122)" -> "David Grant (4334)" [label=139]
+	"Lindsay D Cosgrove (2122)" -> "Geoff Peet (4332)" [label=34]
 	"Lindsay D Cosgrove (2122)" -> "Jim Clark (4333)" [label=60]
 }

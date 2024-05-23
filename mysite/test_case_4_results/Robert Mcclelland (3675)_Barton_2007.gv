@@ -2,13 +2,13 @@
 digraph "Robert Mcclelland (3675)_Barton_2007" {
 	graph [label="Barton 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Mcclelland (3675)" [label="Robert Mcclelland (3675)
-Labor"]
-	"Michele Mckenzie (4244)" [label="Michele Mckenzie (4244)
-The Greens"]
 	"Chris Svolos (4245)" [label="Chris Svolos (4245)
 Christian Democratic Party (Fred Nile Group)"]
-	"Michele Mckenzie (4244)" -> "Robert Mcclelland (3675)" [label=5010]
+	"Michele Mckenzie (4244)" [label="Michele Mckenzie (4244)
+The Greens"]
+	"Robert Mcclelland (3675)" [label="Robert Mcclelland (3675)
+Labor"]
 	"Chris Svolos (4245)" -> "Michele Mckenzie (4244)" [label=501]
 	"Chris Svolos (4245)" -> "Robert Mcclelland (3675)" [label=600]
+	"Michele Mckenzie (4244)" -> "Robert Mcclelland (3675)" [label=5010]
 }

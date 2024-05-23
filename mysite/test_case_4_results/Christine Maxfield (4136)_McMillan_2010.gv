@@ -4,16 +4,16 @@ digraph "Christine Maxfield (4136)_McMillan_2010" {
 	node [shape=box]
 	"Christine Maxfield (4136)" [label="Christine Maxfield (4136)
 Australian Labor Party"]
-	"Malcolm Mckelvie (3511)" [label="Malcolm Mckelvie (3511)
-Australian Greens"]
-	"Linden Stokes (4138)" [label="Linden Stokes (4138)
-Family First"]
 	"Leigh Samuel Gatt (4137)" [label="Leigh Samuel Gatt (4137)
 Independent"]
-	"Malcolm Mckelvie (3511)" -> "Christine Maxfield (4136)" [label=7018]
-	"Linden Stokes (4138)" -> "Malcolm Mckelvie (3511)" [label=654]
-	"Leigh Samuel Gatt (4137)" -> "Linden Stokes (4138)" [label=568]
-	"Linden Stokes (4138)" -> "Christine Maxfield (4136)" [label=879]
+	"Linden Stokes (4138)" [label="Linden Stokes (4138)
+Family First"]
+	"Malcolm Mckelvie (3511)" [label="Malcolm Mckelvie (3511)
+Australian Greens"]
 	"Leigh Samuel Gatt (4137)" -> "Christine Maxfield (4136)" [label=622]
+	"Leigh Samuel Gatt (4137)" -> "Linden Stokes (4138)" [label=568]
 	"Leigh Samuel Gatt (4137)" -> "Malcolm Mckelvie (3511)" [label=286]
+	"Linden Stokes (4138)" -> "Christine Maxfield (4136)" [label=879]
+	"Linden Stokes (4138)" -> "Malcolm Mckelvie (3511)" [label=654]
+	"Malcolm Mckelvie (3511)" -> "Christine Maxfield (4136)" [label=7018]
 }

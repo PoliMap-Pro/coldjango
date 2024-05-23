@@ -2,31 +2,31 @@
 digraph "Wayne Swan (2382)_Lilley_2013" {
 	graph [label="Lilley 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Wayne Swan (2382)" [label="Wayne Swan (2382)
-Australian Labor Party"]
-	"Nic Forster (3171)" [label="Nic Forster (3171)
-The Greens"]
+	"Allan Vincent (3174)" [label="Allan Vincent (3174)
+Family First"]
 	"Benedict Figueroa (3172)" [label="Benedict Figueroa (3172)
 Palmer United Party"]
 	"James Michael Ryan (3170)" [label="James Michael Ryan (3170)
 Katter's Australian Party"]
-	"Allan Vincent (3174)" [label="Allan Vincent (3174)
-Family First"]
+	"Nic Forster (3171)" [label="Nic Forster (3171)
+The Greens"]
 	"Nick Contarino (3175)" [label="Nick Contarino (3175)
 Citizens Electoral Council"]
-	"Nic Forster (3171)" -> "Wayne Swan (2382)" [label=7112]
-	"Benedict Figueroa (3172)" -> "Nic Forster (3171)" [label=2332]
-	"James Michael Ryan (3170)" -> "Benedict Figueroa (3172)" [label=961]
-	"Allan Vincent (3174)" -> "James Michael Ryan (3170)" [label=214]
-	"Nick Contarino (3175)" -> "Allan Vincent (3174)" [label=107]
-	"Benedict Figueroa (3172)" -> "Wayne Swan (2382)" [label=2278]
-	"James Michael Ryan (3170)" -> "Wayne Swan (2382)" [label=315]
-	"Allan Vincent (3174)" -> "Wayne Swan (2382)" [label=266]
-	"Nick Contarino (3175)" -> "Wayne Swan (2382)" [label=38]
-	"Nick Contarino (3175)" -> "James Michael Ryan (3170)" [label=62]
+	"Wayne Swan (2382)" [label="Wayne Swan (2382)
+Australian Labor Party"]
 	"Allan Vincent (3174)" -> "Benedict Figueroa (3172)" [label=239]
-	"Nick Contarino (3175)" -> "Benedict Figueroa (3172)" [label=40]
-	"James Michael Ryan (3170)" -> "Nic Forster (3171)" [label=513]
+	"Allan Vincent (3174)" -> "James Michael Ryan (3170)" [label=214]
 	"Allan Vincent (3174)" -> "Nic Forster (3171)" [label=225]
+	"Allan Vincent (3174)" -> "Wayne Swan (2382)" [label=266]
+	"Benedict Figueroa (3172)" -> "Nic Forster (3171)" [label=2332]
+	"Benedict Figueroa (3172)" -> "Wayne Swan (2382)" [label=2278]
+	"James Michael Ryan (3170)" -> "Benedict Figueroa (3172)" [label=961]
+	"James Michael Ryan (3170)" -> "Nic Forster (3171)" [label=513]
+	"James Michael Ryan (3170)" -> "Wayne Swan (2382)" [label=315]
+	"Nic Forster (3171)" -> "Wayne Swan (2382)" [label=7112]
+	"Nick Contarino (3175)" -> "Allan Vincent (3174)" [label=107]
+	"Nick Contarino (3175)" -> "Benedict Figueroa (3172)" [label=40]
+	"Nick Contarino (3175)" -> "James Michael Ryan (3170)" [label=62]
 	"Nick Contarino (3175)" -> "Nic Forster (3171)" [label=58]
+	"Nick Contarino (3175)" -> "Wayne Swan (2382)" [label=38]
 }

@@ -11,9 +11,9 @@ The Greens"]
 	"Mick Colless (3811)" [label="Mick Colless (3811)
 Independent"]
 	"John Clements (3809)" -> "Andrew Brooks (3810)" [label=6539]
-	"Matt Parmeter (2198)" -> "John Clements (3809)" [label=2562]
-	"Mick Colless (3811)" -> "Matt Parmeter (2198)" [label=279]
 	"Matt Parmeter (2198)" -> "Andrew Brooks (3810)" [label=1861]
+	"Matt Parmeter (2198)" -> "John Clements (3809)" [label=2562]
 	"Mick Colless (3811)" -> "Andrew Brooks (3810)" [label=465]
 	"Mick Colless (3811)" -> "John Clements (3809)" [label=1475]
+	"Mick Colless (3811)" -> "Matt Parmeter (2198)" [label=279]
 }

@@ -4,16 +4,16 @@ digraph "Brendan Byron (2964)_Parkes_2013" {
 	node [shape=box]
 	"Brendan Byron (2964)" [label="Brendan Byron (2964)
 Country Labor"]
-	"Neil John Gorman (2963)" [label="Neil John Gorman (2963)
-Palmer United Party"]
 	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
 The Greens"]
 	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
 Christian Democratic Party (Fred Nile Group)"]
-	"Neil John Gorman (2963)" -> "Brendan Byron (2964)" [label=3301]
-	"Matt Parmeter (2198)" -> "Neil John Gorman (2963)" [label=855]
-	"Michelle Ryan (2078)" -> "Matt Parmeter (2198)" [label=185]
+	"Neil John Gorman (2963)" [label="Neil John Gorman (2963)
+Palmer United Party"]
 	"Matt Parmeter (2198)" -> "Brendan Byron (2964)" [label=2526]
+	"Matt Parmeter (2198)" -> "Neil John Gorman (2963)" [label=855]
 	"Michelle Ryan (2078)" -> "Brendan Byron (2964)" [label=387]
+	"Michelle Ryan (2078)" -> "Matt Parmeter (2198)" [label=185]
 	"Michelle Ryan (2078)" -> "Neil John Gorman (2963)" [label=358]
+	"Neil John Gorman (2963)" -> "Brendan Byron (2964)" [label=3301]
 }

@@ -4,29 +4,29 @@ digraph "Bob Mcmullan (4237)_Fraser_2007" {
 	node [shape=box]
 	"Bob Mcmullan (4237)" [label="Bob Mcmullan (4237)
 Australian Labor Party"]
-	"Meredith Hunter (4241)" [label="Meredith Hunter (4241)
-The Greens"]
 	"Darren Churchill (4235)" [label="Darren Churchill (4235)
 Australian Democrats"]
-	"Kerri Taranto (4240)" [label="Kerri Taranto (4240)
-Independent"]
 	"Farida Iqbal (4239)" [label="Farida Iqbal (4239)
 Socialist Alliance"]
 	"Jim Arnold (4238)" [label="Jim Arnold (4238)
 Citizens Electoral Council"]
-	"Meredith Hunter (4241)" -> "Bob Mcmullan (4237)" [label=13860]
-	"Darren Churchill (4235)" -> "Meredith Hunter (4241)" [label=1227]
-	"Kerri Taranto (4240)" -> "Darren Churchill (4235)" [label=309]
-	"Farida Iqbal (4239)" -> "Kerri Taranto (4240)" [label=125]
-	"Jim Arnold (4238)" -> "Farida Iqbal (4239)" [label=52]
+	"Kerri Taranto (4240)" [label="Kerri Taranto (4240)
+Independent"]
+	"Meredith Hunter (4241)" [label="Meredith Hunter (4241)
+The Greens"]
 	"Darren Churchill (4235)" -> "Bob Mcmullan (4237)" [label=787]
-	"Kerri Taranto (4240)" -> "Bob Mcmullan (4237)" [label=331]
+	"Darren Churchill (4235)" -> "Meredith Hunter (4241)" [label=1227]
 	"Farida Iqbal (4239)" -> "Bob Mcmullan (4237)" [label=118]
-	"Jim Arnold (4238)" -> "Bob Mcmullan (4237)" [label=86]
-	"Jim Arnold (4238)" -> "Kerri Taranto (4240)" [label=64]
 	"Farida Iqbal (4239)" -> "Darren Churchill (4235)" [label=59]
-	"Jim Arnold (4238)" -> "Darren Churchill (4235)" [label=43]
-	"Kerri Taranto (4240)" -> "Meredith Hunter (4241)" [label=552]
+	"Farida Iqbal (4239)" -> "Kerri Taranto (4240)" [label=125]
 	"Farida Iqbal (4239)" -> "Meredith Hunter (4241)" [label=246]
+	"Jim Arnold (4238)" -> "Bob Mcmullan (4237)" [label=86]
+	"Jim Arnold (4238)" -> "Darren Churchill (4235)" [label=43]
+	"Jim Arnold (4238)" -> "Farida Iqbal (4239)" [label=52]
+	"Jim Arnold (4238)" -> "Kerri Taranto (4240)" [label=64]
 	"Jim Arnold (4238)" -> "Meredith Hunter (4241)" [label=44]
+	"Kerri Taranto (4240)" -> "Bob Mcmullan (4237)" [label=331]
+	"Kerri Taranto (4240)" -> "Darren Churchill (4235)" [label=309]
+	"Kerri Taranto (4240)" -> "Meredith Hunter (4241)" [label=552]
+	"Meredith Hunter (4241)" -> "Bob Mcmullan (4237)" [label=13860]
 }

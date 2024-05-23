@@ -2,24 +2,24 @@
 digraph "Gail Hislop (3188)_McPherson_2013" {
 	graph [label="McPherson 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Gail Hislop (3188)" [label="Gail Hislop (3188)
-Australian Labor Party"]
-	"Susan Kim Douglas (3186)" [label="Susan Kim Douglas (3186)
-Palmer United Party"]
-	"David Michael Wyatt (3189)" [label="David Michael Wyatt (3189)
-The Greens"]
-	"Simon Green (2401)" [label="Simon Green (2401)
-Family First"]
 	"Charles Blake (3187)" [label="Charles Blake (3187)
 Australian Voice Party"]
-	"Susan Kim Douglas (3186)" -> "Gail Hislop (3188)" [label=7822]
+	"David Michael Wyatt (3189)" [label="David Michael Wyatt (3189)
+The Greens"]
+	"Gail Hislop (3188)" [label="Gail Hislop (3188)
+Australian Labor Party"]
+	"Simon Green (2401)" [label="Simon Green (2401)
+Family First"]
+	"Susan Kim Douglas (3186)" [label="Susan Kim Douglas (3186)
+Palmer United Party"]
+	"Charles Blake (3187)" -> "David Michael Wyatt (3189)" [label=73]
+	"Charles Blake (3187)" -> "Gail Hislop (3188)" [label=82]
+	"Charles Blake (3187)" -> "Simon Green (2401)" [label=126]
+	"Charles Blake (3187)" -> "Susan Kim Douglas (3186)" [label=146]
+	"David Michael Wyatt (3189)" -> "Gail Hislop (3188)" [label=3478]
 	"David Michael Wyatt (3189)" -> "Susan Kim Douglas (3186)" [label=1806]
 	"Simon Green (2401)" -> "David Michael Wyatt (3189)" [label=541]
-	"Charles Blake (3187)" -> "Simon Green (2401)" [label=126]
-	"David Michael Wyatt (3189)" -> "Gail Hislop (3188)" [label=3478]
 	"Simon Green (2401)" -> "Gail Hislop (3188)" [label=435]
-	"Charles Blake (3187)" -> "Gail Hislop (3188)" [label=82]
-	"Charles Blake (3187)" -> "David Michael Wyatt (3189)" [label=73]
 	"Simon Green (2401)" -> "Susan Kim Douglas (3186)" [label=1344]
-	"Charles Blake (3187)" -> "Susan Kim Douglas (3186)" [label=146]
+	"Susan Kim Douglas (3186)" -> "Gail Hislop (3188)" [label=7822]
 }

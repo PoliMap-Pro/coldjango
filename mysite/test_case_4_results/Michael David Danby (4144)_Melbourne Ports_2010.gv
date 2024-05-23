@@ -2,24 +2,24 @@
 digraph "Michael David Danby (4144)_Melbourne Ports_2010" {
 	graph [label="Melbourne Ports 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael David Danby (4144)" [label="Michael David Danby (4144)
-Australian Labor Party"]
-	"Sue Plowright (4143)" [label="Sue Plowright (4143)
-Australian Greens"]
 	"Christian Vega (4145)" [label="Christian Vega (4145)
 Australian Sex Party"]
 	"Daniel Emmerson (4147)" [label="Daniel Emmerson (4147)
 Family First"]
 	"Gregory Storer (4146)" [label="Gregory Storer (4146)
 Secular Party of Australia"]
-	"Sue Plowright (4143)" -> "Michael David Danby (4144)" [label=15698]
+	"Michael David Danby (4144)" [label="Michael David Danby (4144)
+Australian Labor Party"]
+	"Sue Plowright (4143)" [label="Sue Plowright (4143)
+Australian Greens"]
+	"Christian Vega (4145)" -> "Michael David Danby (4144)" [label=560]
 	"Christian Vega (4145)" -> "Sue Plowright (4143)" [label=1156]
 	"Daniel Emmerson (4147)" -> "Christian Vega (4145)" [label=112]
-	"Gregory Storer (4146)" -> "Daniel Emmerson (4147)" [label=22]
-	"Christian Vega (4145)" -> "Michael David Danby (4144)" [label=560]
 	"Daniel Emmerson (4147)" -> "Michael David Danby (4144)" [label=117]
-	"Gregory Storer (4146)" -> "Michael David Danby (4144)" [label=53]
-	"Gregory Storer (4146)" -> "Christian Vega (4145)" [label=148]
 	"Daniel Emmerson (4147)" -> "Sue Plowright (4143)" [label=129]
+	"Gregory Storer (4146)" -> "Christian Vega (4145)" [label=148]
+	"Gregory Storer (4146)" -> "Daniel Emmerson (4147)" [label=22]
+	"Gregory Storer (4146)" -> "Michael David Danby (4144)" [label=53]
 	"Gregory Storer (4146)" -> "Sue Plowright (4143)" [label=107]
+	"Sue Plowright (4143)" -> "Michael David Danby (4144)" [label=15698]
 }

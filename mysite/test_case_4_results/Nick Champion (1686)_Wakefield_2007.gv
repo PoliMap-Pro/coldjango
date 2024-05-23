@@ -2,39 +2,39 @@
 digraph "Nick Champion (1686)_Wakefield_2007" {
 	graph [label="Wakefield 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nick Champion (1686)" [label="Nick Champion (1686)
-Australian Labor Party"]
 	"Bruce Nairn (4696)" [label="Bruce Nairn (4696)
 Family First Party"]
-	"Terry Allen (4699)" [label="Terry Allen (4699)
-The Greens"]
 	"Felicity Martin (4702)" [label="Felicity Martin (4702)
 Australian Democrats"]
-	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
-One Nation"]
-	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
-What Women Want (Australia)"]
 	"Martin Walsh (4701)" [label="Martin Walsh (4701)
 LDP"]
+	"Nick Champion (1686)" [label="Nick Champion (1686)
+Australian Labor Party"]
+	"Pauline Edmunds (4697)" [label="Pauline Edmunds (4697)
+What Women Want (Australia)"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
+	"Terry Allen (4699)" [label="Terry Allen (4699)
+The Greens"]
 	"Bruce Nairn (4696)" -> "Nick Champion (1686)" [label=3799]
-	"Terry Allen (4699)" -> "Bruce Nairn (4696)" [label=1202]
-	"Felicity Martin (4702)" -> "Terry Allen (4699)" [label=457]
-	"Peter Fitzpatrick (4698)" -> "Felicity Martin (4702)" [label=70]
-	"Pauline Edmunds (4697)" -> "Peter Fitzpatrick (4698)" [label=70]
-	"Martin Walsh (4701)" -> "Pauline Edmunds (4697)" [label=11]
-	"Terry Allen (4699)" -> "Nick Champion (1686)" [label=2382]
-	"Felicity Martin (4702)" -> "Nick Champion (1686)" [label=248]
-	"Peter Fitzpatrick (4698)" -> "Nick Champion (1686)" [label=263]
-	"Pauline Edmunds (4697)" -> "Nick Champion (1686)" [label=171]
-	"Martin Walsh (4701)" -> "Nick Champion (1686)" [label=30]
-	"Martin Walsh (4701)" -> "Peter Fitzpatrick (4698)" [label=27]
-	"Pauline Edmunds (4697)" -> "Felicity Martin (4702)" [label=57]
-	"Martin Walsh (4701)" -> "Felicity Martin (4702)" [label=68]
-	"Peter Fitzpatrick (4698)" -> "Terry Allen (4699)" [label=187]
-	"Pauline Edmunds (4697)" -> "Terry Allen (4699)" [label=110]
-	"Martin Walsh (4701)" -> "Terry Allen (4699)" [label=46]
 	"Felicity Martin (4702)" -> "Bruce Nairn (4696)" [label=226]
-	"Peter Fitzpatrick (4698)" -> "Bruce Nairn (4696)" [label=240]
-	"Pauline Edmunds (4697)" -> "Bruce Nairn (4696)" [label=327]
+	"Felicity Martin (4702)" -> "Nick Champion (1686)" [label=248]
+	"Felicity Martin (4702)" -> "Terry Allen (4699)" [label=457]
 	"Martin Walsh (4701)" -> "Bruce Nairn (4696)" [label=36]
+	"Martin Walsh (4701)" -> "Felicity Martin (4702)" [label=68]
+	"Martin Walsh (4701)" -> "Nick Champion (1686)" [label=30]
+	"Martin Walsh (4701)" -> "Pauline Edmunds (4697)" [label=11]
+	"Martin Walsh (4701)" -> "Peter Fitzpatrick (4698)" [label=27]
+	"Martin Walsh (4701)" -> "Terry Allen (4699)" [label=46]
+	"Pauline Edmunds (4697)" -> "Bruce Nairn (4696)" [label=327]
+	"Pauline Edmunds (4697)" -> "Felicity Martin (4702)" [label=57]
+	"Pauline Edmunds (4697)" -> "Nick Champion (1686)" [label=171]
+	"Pauline Edmunds (4697)" -> "Peter Fitzpatrick (4698)" [label=70]
+	"Pauline Edmunds (4697)" -> "Terry Allen (4699)" [label=110]
+	"Peter Fitzpatrick (4698)" -> "Bruce Nairn (4696)" [label=240]
+	"Peter Fitzpatrick (4698)" -> "Felicity Martin (4702)" [label=70]
+	"Peter Fitzpatrick (4698)" -> "Nick Champion (1686)" [label=263]
+	"Peter Fitzpatrick (4698)" -> "Terry Allen (4699)" [label=187]
+	"Terry Allen (4699)" -> "Bruce Nairn (4696)" [label=1202]
+	"Terry Allen (4699)" -> "Nick Champion (1686)" [label=2382]
 }

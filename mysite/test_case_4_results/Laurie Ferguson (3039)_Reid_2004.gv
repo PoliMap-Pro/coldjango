@@ -2,39 +2,39 @@
 digraph "Laurie Ferguson (3039)_Reid_2004" {
 	graph [label="Reid 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Laurie Ferguson (3039)" [label="Laurie Ferguson (3039)
-Australian Labor Party"]
-	"Nicholas Khoury (5211)" [label="Nicholas Khoury (5211)
-No GST"]
-	"Wafaa Salti (5217)" [label="Wafaa Salti (5217)
-The Greens"]
 	"Kylie Mary Laurence (5214)" [label="Kylie Mary Laurence (5214)
 Christian Democratic Party (Fred Nile Group)"]
-	"Neville Williams (5213)" [label="Neville Williams (5213)
-Pauline Hanson's One Nation (NSW Division)"]
-	"Tony Yoo (5216)" [label="Tony Yoo (5216)
-Australian Democrats"]
+	"Laurie Ferguson (3039)" [label="Laurie Ferguson (3039)
+Australian Labor Party"]
 	"Lisa Macdonald (5212)" [label="Lisa Macdonald (5212)
 Socialist Alliance"]
-	"Nicholas Khoury (5211)" -> "Laurie Ferguson (3039)" [label=3536]
-	"Wafaa Salti (5217)" -> "Nicholas Khoury (5211)" [label=855]
-	"Kylie Mary Laurence (5214)" -> "Wafaa Salti (5217)" [label=220]
-	"Neville Williams (5213)" -> "Kylie Mary Laurence (5214)" [label=265]
-	"Tony Yoo (5216)" -> "Neville Williams (5213)" [label=29]
-	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
-	"Wafaa Salti (5217)" -> "Laurie Ferguson (3039)" [label=2560]
+	"Neville Williams (5213)" [label="Neville Williams (5213)
+Pauline Hanson's One Nation (NSW Division)"]
+	"Nicholas Khoury (5211)" [label="Nicholas Khoury (5211)
+No GST"]
+	"Tony Yoo (5216)" [label="Tony Yoo (5216)
+Australian Democrats"]
+	"Wafaa Salti (5217)" [label="Wafaa Salti (5217)
+The Greens"]
 	"Kylie Mary Laurence (5214)" -> "Laurie Ferguson (3039)" [label=678]
-	"Neville Williams (5213)" -> "Laurie Ferguson (3039)" [label=295]
-	"Tony Yoo (5216)" -> "Laurie Ferguson (3039)" [label=173]
+	"Kylie Mary Laurence (5214)" -> "Nicholas Khoury (5211)" [label=486]
+	"Kylie Mary Laurence (5214)" -> "Wafaa Salti (5217)" [label=220]
+	"Lisa Macdonald (5212)" -> "Kylie Mary Laurence (5214)" [label=79]
 	"Lisa Macdonald (5212)" -> "Laurie Ferguson (3039)" [label=94]
 	"Lisa Macdonald (5212)" -> "Neville Williams (5213)" [label=104]
-	"Tony Yoo (5216)" -> "Kylie Mary Laurence (5214)" [label=52]
-	"Lisa Macdonald (5212)" -> "Kylie Mary Laurence (5214)" [label=79]
-	"Neville Williams (5213)" -> "Wafaa Salti (5217)" [label=131]
-	"Tony Yoo (5216)" -> "Wafaa Salti (5217)" [label=321]
-	"Lisa Macdonald (5212)" -> "Wafaa Salti (5217)" [label=133]
-	"Kylie Mary Laurence (5214)" -> "Nicholas Khoury (5211)" [label=486]
-	"Neville Williams (5213)" -> "Nicholas Khoury (5211)" [label=349]
-	"Tony Yoo (5216)" -> "Nicholas Khoury (5211)" [label=85]
 	"Lisa Macdonald (5212)" -> "Nicholas Khoury (5211)" [label=217]
+	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
+	"Lisa Macdonald (5212)" -> "Wafaa Salti (5217)" [label=133]
+	"Neville Williams (5213)" -> "Kylie Mary Laurence (5214)" [label=265]
+	"Neville Williams (5213)" -> "Laurie Ferguson (3039)" [label=295]
+	"Neville Williams (5213)" -> "Nicholas Khoury (5211)" [label=349]
+	"Neville Williams (5213)" -> "Wafaa Salti (5217)" [label=131]
+	"Nicholas Khoury (5211)" -> "Laurie Ferguson (3039)" [label=3536]
+	"Tony Yoo (5216)" -> "Kylie Mary Laurence (5214)" [label=52]
+	"Tony Yoo (5216)" -> "Laurie Ferguson (3039)" [label=173]
+	"Tony Yoo (5216)" -> "Neville Williams (5213)" [label=29]
+	"Tony Yoo (5216)" -> "Nicholas Khoury (5211)" [label=85]
+	"Tony Yoo (5216)" -> "Wafaa Salti (5217)" [label=321]
+	"Wafaa Salti (5217)" -> "Laurie Ferguson (3039)" [label=2560]
+	"Wafaa Salti (5217)" -> "Nicholas Khoury (5211)" [label=855]
 }

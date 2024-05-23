@@ -2,9 +2,9 @@
 digraph "Linda Beattie (3785)_Mackellar_2010" {
 	graph [label="Mackellar 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Linda Beattie (3785)" [label="Linda Beattie (3785)
-Labor"]
 	"Jonathan King (2926)" [label="Jonathan King (2926)
 The Greens"]
+	"Linda Beattie (3785)" [label="Linda Beattie (3785)
+Labor"]
 	"Jonathan King (2926)" -> "Linda Beattie (3785)" [label=11474]
 }

@@ -11,9 +11,9 @@ Christian Democratic Party (Fred Nile Group)"]
 	"Matthew Reeves (3955)" [label="Matthew Reeves (3955)
 Family First"]
 	"Keith Parsons (4443)" -> "Jill Hall (3847)" [label=5997]
-	"Les Wallace (4445)" -> "Keith Parsons (4443)" [label=336]
-	"Matthew Reeves (3955)" -> "Les Wallace (4445)" [label=432]
 	"Les Wallace (4445)" -> "Jill Hall (3847)" [label=478]
+	"Les Wallace (4445)" -> "Keith Parsons (4443)" [label=336]
 	"Matthew Reeves (3955)" -> "Jill Hall (3847)" [label=379]
 	"Matthew Reeves (3955)" -> "Keith Parsons (4443)" [label=327]
+	"Matthew Reeves (3955)" -> "Les Wallace (4445)" [label=432]
 }

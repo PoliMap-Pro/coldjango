@@ -2,39 +2,39 @@
 digraph "Ben Green (743)_Ballarat_2022" {
 	graph [label="Ballarat 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
 	"Ben Green (743)" [label="Ben Green (743)
 Liberal"]
 	"John Barnes (742)" [label="John Barnes (742)
 The Greens"]
-	"Terri Elizabeth Pryse-Smith (746)" [label="Terri Elizabeth Pryse-Smith (746)
-United Australia Party"]
-	"Rosalie Taxis (747)" [label="Rosalie Taxis (747)
-Pauline Hanson's One Nation"]
 	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
 Liberal Democrats"]
-	"Alex Graham (744)" [label="Alex Graham (744)
-Independent"]
 	"Kerryn Sedgman (745)" [label="Kerryn Sedgman (745)
 Australian Federation Party"]
-	"John Barnes (742)" -> "Ben Green (743)" [label=3373]
-	"Terri Elizabeth Pryse-Smith (746)" -> "John Barnes (742)" [label=1567]
-	"Rosalie Taxis (747)" -> "Terri Elizabeth Pryse-Smith (746)" [label=2948]
-	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
-	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
-	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
-	"Terri Elizabeth Pryse-Smith (746)" -> "Ben Green (743)" [label=4406]
-	"Rosalie Taxis (747)" -> "Ben Green (743)" [label=654]
-	"Julia Mcgrath (748)" -> "Ben Green (743)" [label=841]
+	"Rosalie Taxis (747)" [label="Rosalie Taxis (747)
+Pauline Hanson's One Nation"]
+	"Terri Elizabeth Pryse-Smith (746)" [label="Terri Elizabeth Pryse-Smith (746)
+United Australia Party"]
 	"Alex Graham (744)" -> "Ben Green (743)" [label=265]
-	"Kerryn Sedgman (745)" -> "Ben Green (743)" [label=49]
-	"Kerryn Sedgman (745)" -> "Julia Mcgrath (748)" [label=131]
-	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
-	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
-	"Julia Mcgrath (748)" -> "Terri Elizabeth Pryse-Smith (746)" [label=1320]
-	"Alex Graham (744)" -> "Terri Elizabeth Pryse-Smith (746)" [label=369]
-	"Kerryn Sedgman (745)" -> "Terri Elizabeth Pryse-Smith (746)" [label=113]
-	"Rosalie Taxis (747)" -> "John Barnes (742)" [label=348]
-	"Julia Mcgrath (748)" -> "John Barnes (742)" [label=229]
 	"Alex Graham (744)" -> "John Barnes (742)" [label=543]
+	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
+	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
+	"Alex Graham (744)" -> "Terri Elizabeth Pryse-Smith (746)" [label=369]
+	"John Barnes (742)" -> "Ben Green (743)" [label=3373]
+	"Julia Mcgrath (748)" -> "Ben Green (743)" [label=841]
+	"Julia Mcgrath (748)" -> "John Barnes (742)" [label=229]
+	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
+	"Julia Mcgrath (748)" -> "Terri Elizabeth Pryse-Smith (746)" [label=1320]
+	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
+	"Kerryn Sedgman (745)" -> "Ben Green (743)" [label=49]
 	"Kerryn Sedgman (745)" -> "John Barnes (742)" [label=50]
+	"Kerryn Sedgman (745)" -> "Julia Mcgrath (748)" [label=131]
+	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
+	"Kerryn Sedgman (745)" -> "Terri Elizabeth Pryse-Smith (746)" [label=113]
+	"Rosalie Taxis (747)" -> "Ben Green (743)" [label=654]
+	"Rosalie Taxis (747)" -> "John Barnes (742)" [label=348]
+	"Rosalie Taxis (747)" -> "Terri Elizabeth Pryse-Smith (746)" [label=2948]
+	"Terri Elizabeth Pryse-Smith (746)" -> "Ben Green (743)" [label=4406]
+	"Terri Elizabeth Pryse-Smith (746)" -> "John Barnes (742)" [label=1567]
 }

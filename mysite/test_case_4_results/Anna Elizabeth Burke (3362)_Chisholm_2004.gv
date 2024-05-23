@@ -4,29 +4,29 @@ digraph "Anna Elizabeth Burke (3362)_Chisholm_2004" {
 	node [shape=box]
 	"Anna Elizabeth Burke (3362)" [label="Anna Elizabeth Burke (3362)
 Australian Labor Party"]
-	"Penny Harris (5528)" [label="Penny Harris (5528)
-Australian Greens"]
-	"James Bennett (2630)" [label="James Bennett (2630)
-Democrats"]
 	"Gary Ong (4100)" [label="Gary Ong (4100)
 Family First"]
+	"James Bennett (2630)" [label="James Bennett (2630)
+Democrats"]
 	"Owen Lysaght (5526)" [label="Owen Lysaght (5526)
 Independent"]
+	"Penny Harris (5528)" [label="Penny Harris (5528)
+Australian Greens"]
 	"Wayne Barwick (5527)" [label="Wayne Barwick (5527)
 Citizens Electoral Council"]
-	"Penny Harris (5528)" -> "Anna Elizabeth Burke (3362)" [label=5355]
-	"James Bennett (2630)" -> "Penny Harris (5528)" [label=655]
-	"Gary Ong (4100)" -> "James Bennett (2630)" [label=150]
-	"Owen Lysaght (5526)" -> "Gary Ong (4100)" [label=95]
-	"Wayne Barwick (5527)" -> "Owen Lysaght (5526)" [label=31]
-	"James Bennett (2630)" -> "Anna Elizabeth Burke (3362)" [label=879]
 	"Gary Ong (4100)" -> "Anna Elizabeth Burke (3362)" [label=327]
+	"Gary Ong (4100)" -> "James Bennett (2630)" [label=150]
+	"Gary Ong (4100)" -> "Penny Harris (5528)" [label=152]
+	"James Bennett (2630)" -> "Anna Elizabeth Burke (3362)" [label=879]
+	"James Bennett (2630)" -> "Penny Harris (5528)" [label=655]
 	"Owen Lysaght (5526)" -> "Anna Elizabeth Burke (3362)" [label=155]
+	"Owen Lysaght (5526)" -> "Gary Ong (4100)" [label=95]
+	"Owen Lysaght (5526)" -> "James Bennett (2630)" [label=152]
+	"Owen Lysaght (5526)" -> "Penny Harris (5528)" [label=176]
+	"Penny Harris (5528)" -> "Anna Elizabeth Burke (3362)" [label=5355]
 	"Wayne Barwick (5527)" -> "Anna Elizabeth Burke (3362)" [label=23]
 	"Wayne Barwick (5527)" -> "Gary Ong (4100)" [label=10]
-	"Owen Lysaght (5526)" -> "James Bennett (2630)" [label=152]
 	"Wayne Barwick (5527)" -> "James Bennett (2630)" [label=19]
-	"Gary Ong (4100)" -> "Penny Harris (5528)" [label=152]
-	"Owen Lysaght (5526)" -> "Penny Harris (5528)" [label=176]
+	"Wayne Barwick (5527)" -> "Owen Lysaght (5526)" [label=31]
 	"Wayne Barwick (5527)" -> "Penny Harris (5528)" [label=33]
 }

@@ -2,6 +2,8 @@
 digraph "Bill Shorten (991)_Maribyrnong_2007" {
 	graph [label="Maribyrnong 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
 	"Bill Shorten (991)" [label="Bill Shorten (991)
 Australian Labor Party"]
 	"Bob Muntz (4857)" [label="Bob Muntz (4857)
@@ -10,16 +12,14 @@ Australian Greens"]
 Family First"]
 	"Robert Livesay (4130)" [label="Robert Livesay (4130)
 Australian Democrats"]
-	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
-Citizens Electoral Council"]
-	"Bob Muntz (4857)" -> "Bill Shorten (991)" [label=5051]
-	"Ian Keeling (4856)" -> "Bob Muntz (4857)" [label=472]
-	"Robert Livesay (4130)" -> "Ian Keeling (4856)" [label=216]
-	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=676]
-	"Ian Keeling (4856)" -> "Bill Shorten (991)" [label=657]
-	"Robert Livesay (4130)" -> "Bill Shorten (991)" [label=337]
 	"Andre Kozlowski (4854)" -> "Bill Shorten (991)" [label=84]
-	"Andre Kozlowski (4854)" -> "Ian Keeling (4856)" [label=85]
-	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=436]
 	"Andre Kozlowski (4854)" -> "Bob Muntz (4857)" [label=87]
+	"Andre Kozlowski (4854)" -> "Ian Keeling (4856)" [label=85]
+	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=676]
+	"Bob Muntz (4857)" -> "Bill Shorten (991)" [label=5051]
+	"Ian Keeling (4856)" -> "Bill Shorten (991)" [label=657]
+	"Ian Keeling (4856)" -> "Bob Muntz (4857)" [label=472]
+	"Robert Livesay (4130)" -> "Bill Shorten (991)" [label=337]
+	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=436]
+	"Robert Livesay (4130)" -> "Ian Keeling (4856)" [label=216]
 }

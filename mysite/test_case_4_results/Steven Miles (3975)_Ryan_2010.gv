@@ -2,18 +2,18 @@
 digraph "Steven Miles (3975)_Ryan_2010" {
 	graph [label="Ryan 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Steven Miles (3975)" [label="Steven Miles (3975)
-Australian Labor Party"]
-	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
-The Greens"]
-	"Michael Johnson (3976)" [label="Michael Johnson (3976)
-Independent"]
 	"Allan Vincent (3174)" [label="Allan Vincent (3174)
 Family First"]
-	"Sandra Bayley (2431)" -> "Steven Miles (3975)" [label=14571]
-	"Michael Johnson (3976)" -> "Sandra Bayley (2431)" [label=1558]
+	"Michael Johnson (3976)" [label="Michael Johnson (3976)
+Independent"]
+	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
+The Greens"]
+	"Steven Miles (3975)" [label="Steven Miles (3975)
+Australian Labor Party"]
 	"Allan Vincent (3174)" -> "Michael Johnson (3976)" [label=400]
-	"Michael Johnson (3976)" -> "Steven Miles (3975)" [label=1109]
-	"Allan Vincent (3174)" -> "Steven Miles (3975)" [label=184]
 	"Allan Vincent (3174)" -> "Sandra Bayley (2431)" [label=302]
+	"Allan Vincent (3174)" -> "Steven Miles (3975)" [label=184]
+	"Michael Johnson (3976)" -> "Sandra Bayley (2431)" [label=1558]
+	"Michael Johnson (3976)" -> "Steven Miles (3975)" [label=1109]
+	"Sandra Bayley (2431)" -> "Steven Miles (3975)" [label=14571]
 }

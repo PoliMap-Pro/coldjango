@@ -2,39 +2,39 @@
 digraph "Debbie Blumel (4528)_Fairfax_2007" {
 	graph [label="Fairfax 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Debbie Blumel (4528)" [label="Debbie Blumel (4528)
-Australian Labor Party"]
 	"Dave Norris (4525)" [label="Dave Norris (4525)
 The Greens"]
-	"Lisa Woods (4526)" [label="Lisa Woods (4526)
-Family First"]
-	"Max Phillips (4529)" [label="Max Phillips (4529)
-Independent"]
+	"Debbie Blumel (4528)" [label="Debbie Blumel (4528)
+Australian Labor Party"]
 	"Janette Hashemi (4524)" [label="Janette Hashemi (4524)
 Democrats"]
 	"Kevin J Savage (4527)" [label="Kevin J Savage (4527)
 One Nation WA"]
 	"Kevin Watt (4523)" [label="Kevin Watt (4523)
 Citizens Electoral Council"]
+	"Lisa Woods (4526)" [label="Lisa Woods (4526)
+Family First"]
+	"Max Phillips (4529)" [label="Max Phillips (4529)
+Independent"]
 	"Dave Norris (4525)" -> "Debbie Blumel (4528)" [label=7259]
-	"Lisa Woods (4526)" -> "Dave Norris (4525)" [label=1101]
-	"Max Phillips (4529)" -> "Lisa Woods (4526)" [label=359]
-	"Janette Hashemi (4524)" -> "Max Phillips (4529)" [label=97]
-	"Kevin J Savage (4527)" -> "Janette Hashemi (4524)" [label=53]
-	"Kevin Watt (4523)" -> "Kevin J Savage (4527)" [label=24]
-	"Lisa Woods (4526)" -> "Debbie Blumel (4528)" [label=744]
-	"Max Phillips (4529)" -> "Debbie Blumel (4528)" [label=331]
+	"Janette Hashemi (4524)" -> "Dave Norris (4525)" [label=655]
 	"Janette Hashemi (4524)" -> "Debbie Blumel (4528)" [label=133]
+	"Janette Hashemi (4524)" -> "Lisa Woods (4526)" [label=96]
+	"Janette Hashemi (4524)" -> "Max Phillips (4529)" [label=97]
+	"Kevin J Savage (4527)" -> "Dave Norris (4525)" [label=148]
 	"Kevin J Savage (4527)" -> "Debbie Blumel (4528)" [label=162]
+	"Kevin J Savage (4527)" -> "Janette Hashemi (4524)" [label=53]
+	"Kevin J Savage (4527)" -> "Lisa Woods (4526)" [label=186]
+	"Kevin J Savage (4527)" -> "Max Phillips (4529)" [label=153]
+	"Kevin Watt (4523)" -> "Dave Norris (4525)" [label=85]
 	"Kevin Watt (4523)" -> "Debbie Blumel (4528)" [label=20]
 	"Kevin Watt (4523)" -> "Janette Hashemi (4524)" [label=266]
-	"Kevin J Savage (4527)" -> "Max Phillips (4529)" [label=153]
-	"Kevin Watt (4523)" -> "Max Phillips (4529)" [label=30]
-	"Janette Hashemi (4524)" -> "Lisa Woods (4526)" [label=96]
-	"Kevin J Savage (4527)" -> "Lisa Woods (4526)" [label=186]
+	"Kevin Watt (4523)" -> "Kevin J Savage (4527)" [label=24]
 	"Kevin Watt (4523)" -> "Lisa Woods (4526)" [label=53]
+	"Kevin Watt (4523)" -> "Max Phillips (4529)" [label=30]
+	"Lisa Woods (4526)" -> "Dave Norris (4525)" [label=1101]
+	"Lisa Woods (4526)" -> "Debbie Blumel (4528)" [label=744]
 	"Max Phillips (4529)" -> "Dave Norris (4525)" [label=451]
-	"Janette Hashemi (4524)" -> "Dave Norris (4525)" [label=655]
-	"Kevin J Savage (4527)" -> "Dave Norris (4525)" [label=148]
-	"Kevin Watt (4523)" -> "Dave Norris (4525)" [label=85]
+	"Max Phillips (4529)" -> "Debbie Blumel (4528)" [label=331]
+	"Max Phillips (4529)" -> "Lisa Woods (4526)" [label=359]
 }

@@ -2,31 +2,31 @@
 digraph "Sharon Grierson (3800)_Newcastle_2004" {
 	graph [label="Newcastle 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sharon Grierson (3800)" [label="Sharon Grierson (3800)
-Australian Labor Party"]
 	"Annie Rooke-Frizell (5173)" [label="Annie Rooke-Frizell (5173)
 The Greens"]
-	"Harry Williams (5175)" [label="Harry Williams (5175)
-Progressive Labour Party"]
-	"Eddie Smith (5174)" [label="Eddie Smith (5174)
-Australian Democrats"]
 	"Don Bower (5177)" [label="Don Bower (5177)
 Citizens Electoral Council"]
+	"Eddie Smith (5174)" [label="Eddie Smith (5174)
+Australian Democrats"]
+	"Harry Williams (5175)" [label="Harry Williams (5175)
+Progressive Labour Party"]
 	"Peter Robson (5176)" [label="Peter Robson (5176)
 Socialist Alliance"]
+	"Sharon Grierson (3800)" [label="Sharon Grierson (3800)
+Australian Labor Party"]
 	"Annie Rooke-Frizell (5173)" -> "Sharon Grierson (3800)" [label=9410]
-	"Harry Williams (5175)" -> "Annie Rooke-Frizell (5173)" [label=951]
-	"Eddie Smith (5174)" -> "Harry Williams (5175)" [label=255]
-	"Don Bower (5177)" -> "Eddie Smith (5174)" [label=148]
-	"Peter Robson (5176)" -> "Don Bower (5177)" [label=104]
-	"Harry Williams (5175)" -> "Sharon Grierson (3800)" [label=1136]
-	"Eddie Smith (5174)" -> "Sharon Grierson (3800)" [label=487]
-	"Don Bower (5177)" -> "Sharon Grierson (3800)" [label=267]
-	"Peter Robson (5176)" -> "Sharon Grierson (3800)" [label=79]
-	"Peter Robson (5176)" -> "Eddie Smith (5174)" [label=40]
-	"Don Bower (5177)" -> "Harry Williams (5175)" [label=166]
-	"Peter Robson (5176)" -> "Harry Williams (5175)" [label=51]
-	"Eddie Smith (5174)" -> "Annie Rooke-Frizell (5173)" [label=967]
 	"Don Bower (5177)" -> "Annie Rooke-Frizell (5173)" [label=148]
+	"Don Bower (5177)" -> "Eddie Smith (5174)" [label=148]
+	"Don Bower (5177)" -> "Harry Williams (5175)" [label=166]
+	"Don Bower (5177)" -> "Sharon Grierson (3800)" [label=267]
+	"Eddie Smith (5174)" -> "Annie Rooke-Frizell (5173)" [label=967]
+	"Eddie Smith (5174)" -> "Harry Williams (5175)" [label=255]
+	"Eddie Smith (5174)" -> "Sharon Grierson (3800)" [label=487]
+	"Harry Williams (5175)" -> "Annie Rooke-Frizell (5173)" [label=951]
+	"Harry Williams (5175)" -> "Sharon Grierson (3800)" [label=1136]
 	"Peter Robson (5176)" -> "Annie Rooke-Frizell (5173)" [label=186]
+	"Peter Robson (5176)" -> "Don Bower (5177)" [label=104]
+	"Peter Robson (5176)" -> "Eddie Smith (5174)" [label=40]
+	"Peter Robson (5176)" -> "Harry Williams (5175)" [label=51]
+	"Peter Robson (5176)" -> "Sharon Grierson (3800)" [label=79]
 }

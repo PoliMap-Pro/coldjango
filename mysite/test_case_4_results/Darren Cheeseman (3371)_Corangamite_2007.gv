@@ -6,20 +6,20 @@ digraph "Darren Cheeseman (3371)_Corangamite_2007" {
 Australian Labor Party"]
 	"Fiona Nelson (4773)" [label="Fiona Nelson (4773)
 Australian Greens"]
-	"Jan Edwards (4771)" [label="Jan Edwards (4771)
-Family First"]
 	"Gabrielle Killeen (4770)" [label="Gabrielle Killeen (4770)
 Australian Democrats"]
+	"Jan Edwards (4771)" [label="Jan Edwards (4771)
+Family First"]
 	"Sukrit Sabhlok (4774)" [label="Sukrit Sabhlok (4774)
 LDP"]
 	"Fiona Nelson (4773)" -> "Darren Cheeseman (3371)" [label=6617]
-	"Jan Edwards (4771)" -> "Fiona Nelson (4773)" [label=572]
-	"Gabrielle Killeen (4770)" -> "Jan Edwards (4771)" [label=235]
-	"Sukrit Sabhlok (4774)" -> "Gabrielle Killeen (4770)" [label=18]
-	"Jan Edwards (4771)" -> "Darren Cheeseman (3371)" [label=830]
 	"Gabrielle Killeen (4770)" -> "Darren Cheeseman (3371)" [label=618]
-	"Sukrit Sabhlok (4774)" -> "Darren Cheeseman (3371)" [label=17]
-	"Sukrit Sabhlok (4774)" -> "Jan Edwards (4771)" [label=27]
 	"Gabrielle Killeen (4770)" -> "Fiona Nelson (4773)" [label=439]
+	"Gabrielle Killeen (4770)" -> "Jan Edwards (4771)" [label=235]
+	"Jan Edwards (4771)" -> "Darren Cheeseman (3371)" [label=830]
+	"Jan Edwards (4771)" -> "Fiona Nelson (4773)" [label=572]
+	"Sukrit Sabhlok (4774)" -> "Darren Cheeseman (3371)" [label=17]
 	"Sukrit Sabhlok (4774)" -> "Fiona Nelson (4773)" [label=68]
+	"Sukrit Sabhlok (4774)" -> "Gabrielle Killeen (4770)" [label=18]
+	"Sukrit Sabhlok (4774)" -> "Jan Edwards (4771)" [label=27]
 }

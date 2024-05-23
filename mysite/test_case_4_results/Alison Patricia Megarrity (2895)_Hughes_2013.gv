@@ -6,14 +6,14 @@ digraph "Alison Patricia Megarrity (2895)_Hughes_2013" {
 Labor"]
 	"John Peters (2894)" [label="John Peters (2894)
 Palmer United Party"]
-	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
-The Greens"]
 	"Peter M Colsell (2896)" [label="Peter M Colsell (2896)
 Christian Democratic Party (Fred Nile Group)"]
+	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
+The Greens"]
 	"John Peters (2894)" -> "Alison Patricia Megarrity (2895)" [label=3215]
-	"Signe Westerberg (1448)" -> "John Peters (2894)" [label=602]
-	"Peter M Colsell (2896)" -> "Signe Westerberg (1448)" [label=182]
-	"Signe Westerberg (1448)" -> "Alison Patricia Megarrity (2895)" [label=2775]
 	"Peter M Colsell (2896)" -> "Alison Patricia Megarrity (2895)" [label=444]
 	"Peter M Colsell (2896)" -> "John Peters (2894)" [label=314]
+	"Peter M Colsell (2896)" -> "Signe Westerberg (1448)" [label=182]
+	"Signe Westerberg (1448)" -> "Alison Patricia Megarrity (2895)" [label=2775]
+	"Signe Westerberg (1448)" -> "John Peters (2894)" [label=602]
 }

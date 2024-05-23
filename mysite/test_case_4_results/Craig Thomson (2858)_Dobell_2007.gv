@@ -4,37 +4,37 @@ digraph "Craig Thomson (2858)_Dobell_2007" {
 	node [shape=box]
 	"Craig Thomson (2858)" [label="Craig Thomson (2858)
 Labor"]
-	"Scott Rickard (1276)" [label="Scott Rickard (1276)
-The Greens"]
-	"Michael Darby (4293)" [label="Michael Darby (4293)
-Christian Democratic Party (Fred Nile Group)"]
 	"Doug Eaton (4296)" [label="Doug Eaton (4296)
 Independent"]
-	"Hadden Ervin (957)" [label="Hadden Ervin (957)
-Family First"]
 	"Graeme Bird (4294)" [label="Graeme Bird (4294)
 LDP"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
+	"Michael Darby (4293)" [label="Michael Darby (4293)
+Christian Democratic Party (Fred Nile Group)"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
 	"Steve Hughes (4295)" [label="Steve Hughes (4295)
 Citizens Electoral Council"]
-	"Scott Rickard (1276)" -> "Craig Thomson (2858)" [label=4954]
-	"Michael Darby (4293)" -> "Scott Rickard (1276)" [label=947]
-	"Doug Eaton (4296)" -> "Michael Darby (4293)" [label=269]
-	"Hadden Ervin (957)" -> "Doug Eaton (4296)" [label=139]
-	"Graeme Bird (4294)" -> "Hadden Ervin (957)" [label=43]
-	"Steve Hughes (4295)" -> "Graeme Bird (4294)" [label=13]
-	"Michael Darby (4293)" -> "Craig Thomson (2858)" [label=406]
 	"Doug Eaton (4296)" -> "Craig Thomson (2858)" [label=626]
-	"Hadden Ervin (957)" -> "Craig Thomson (2858)" [label=211]
-	"Graeme Bird (4294)" -> "Craig Thomson (2858)" [label=23]
-	"Steve Hughes (4295)" -> "Craig Thomson (2858)" [label=25]
-	"Steve Hughes (4295)" -> "Hadden Ervin (957)" [label=19]
-	"Graeme Bird (4294)" -> "Doug Eaton (4296)" [label=25]
-	"Steve Hughes (4295)" -> "Doug Eaton (4296)" [label=30]
-	"Hadden Ervin (957)" -> "Michael Darby (4293)" [label=625]
-	"Graeme Bird (4294)" -> "Michael Darby (4293)" [label=40]
-	"Steve Hughes (4295)" -> "Michael Darby (4293)" [label=14]
+	"Doug Eaton (4296)" -> "Michael Darby (4293)" [label=269]
 	"Doug Eaton (4296)" -> "Scott Rickard (1276)" [label=436]
-	"Hadden Ervin (957)" -> "Scott Rickard (1276)" [label=281]
+	"Graeme Bird (4294)" -> "Craig Thomson (2858)" [label=23]
+	"Graeme Bird (4294)" -> "Doug Eaton (4296)" [label=25]
+	"Graeme Bird (4294)" -> "Hadden Ervin (957)" [label=43]
+	"Graeme Bird (4294)" -> "Michael Darby (4293)" [label=40]
 	"Graeme Bird (4294)" -> "Scott Rickard (1276)" [label=48]
+	"Hadden Ervin (957)" -> "Craig Thomson (2858)" [label=211]
+	"Hadden Ervin (957)" -> "Doug Eaton (4296)" [label=139]
+	"Hadden Ervin (957)" -> "Michael Darby (4293)" [label=625]
+	"Hadden Ervin (957)" -> "Scott Rickard (1276)" [label=281]
+	"Michael Darby (4293)" -> "Craig Thomson (2858)" [label=406]
+	"Michael Darby (4293)" -> "Scott Rickard (1276)" [label=947]
+	"Scott Rickard (1276)" -> "Craig Thomson (2858)" [label=4954]
+	"Steve Hughes (4295)" -> "Craig Thomson (2858)" [label=25]
+	"Steve Hughes (4295)" -> "Doug Eaton (4296)" [label=30]
+	"Steve Hughes (4295)" -> "Graeme Bird (4294)" [label=13]
+	"Steve Hughes (4295)" -> "Hadden Ervin (957)" [label=19]
+	"Steve Hughes (4295)" -> "Michael Darby (4293)" [label=14]
 	"Steve Hughes (4295)" -> "Scott Rickard (1276)" [label=34]
 }
