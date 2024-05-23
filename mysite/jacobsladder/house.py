@@ -133,6 +133,7 @@ class HouseElection(abstract_models.Election):
                                return_format=constants.NEST_FORMAT):
         """
         Adds the results for the seats or the booths.
+        Most of the execution time gets spent here.
         """
         result = self.election_place_result(
             place, representation_set, tally_attribute, sum_booths,
