@@ -102,6 +102,9 @@ class Seat(abstract_models.Beacon):
                             tally_attribute, sum_booths=False,
                             return_format=constants.NEST_FORMAT,
                             election_result=None):
+        """
+        Most of the execution time gets spent here
+        """
         contentions = service.Contention.objects.filter(
                 election=election, seat=self,
                 candidate=representation.person.candidate)

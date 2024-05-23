@@ -213,8 +213,6 @@ class HouseElection(abstract_models.Election):
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
             ))
-
-        # Most of the execution time gets spent here
         if check_for_informal:
             [place.update_place_result(
                 self, representation, result, total, tally_attribute,
