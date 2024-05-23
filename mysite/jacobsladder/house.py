@@ -207,13 +207,12 @@ class HouseElection(abstract_models.Election):
                               return_format=constants.NEST_FORMAT,
                               election_result=None,
                               name_of_informal_vote=constants.INFORMAL_VOTER):
-        """
-        Most of the execution time gets spent here.
-        """
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
             ))
+
+        # Most of the execution time gets spent here
         [place.update_place_result(
             self, representation, result, total, tally_attribute,
             return_format=return_format, election_result=election_result) for
