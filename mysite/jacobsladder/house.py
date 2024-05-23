@@ -31,7 +31,7 @@ class HouseElection(abstract_models.Election):
                                                            party__in=p_set)
         elect_result, place_set = self.setup_place(
             p_set, place_set, places, representation_set, return_format,
-            tally_attribute)
+            tally_attribute, parent_result=result)
         [self.update_election_result(
             elect_result, representation_set, place, tally_attribute,
             sum_booths, return_format=return_format) for place in place_set]
@@ -45,17 +45,43 @@ class HouseElection(abstract_models.Election):
             add_to_end_of_name=
             abstract_models.Election.DEFAULT_AFTER_END_OF_NAME,
             between_parts_of_name=
-            abstract_models.Election.DEFAULT_BETWEEN_PARTS_OF_NAME):
+            abstract_models.Election.DEFAULT_BETWEEN_PARTS_OF_NAME,
+            parent_result=None):
         if return_format == constants.TRANSACTION_FORMAT:
             return self.get_transaction_format_election_result(
                 add_to_end_of_name, between_parts_of_name, between_party_names,
                 house_elections_text, p_set, representation_set,
                 tally_attribute)
+        if return_format == constants.SPREADSHEET_FORMAT:
+            if constants.NAMES not in parent_result:
+                parent_result[constants.NAMES] = [
+                    self.get_call_name(
+                        add_to_end_of_name, between_parts_of_name,
+                        between_party_names, house_elections_text, p_set,
+                        tally_attribute), ]
+            if constants.SERIES not in parent_result:
+                parent_result[constants.SERIES] = [
+                    {constants.RETURN_NAME: constants.RETURN_YEAR,
+                     constants.DATA: []},
+                    {constants.RETURN_NAME: constants.PLACE_NAME,
+                     constants.DATA: []},
+                    {constants.RETURN_NAME: constants.ATTRIBUTE_NAME,
+                     constants.DATA: []},
+                    {constants.RETURN_NAME: constants.RETURN_GROUPING,
+                     constants.DATA: []},
+                    {constants.RETURN_NAME: constants.RETURN_VOTES,
+                     constants.DATA: []},
+                    {constants.RETURN_NAME: constants.RETURN_PERCENTAGE,
+                     constants.DATA: []},
+                ]
+            return parent_result
         return {}
 
     def format_result(self, elect_result, result, return_format):
         if return_format == constants.TRANSACTION_FORMAT:
             result[self.election_date.year] = elect_result
+        elif return_format == constants.SPREADSHEET_FORMAT:
+            pass
         else:
             result[str(self)] = elect_result
 
@@ -87,13 +113,11 @@ class HouseElection(abstract_models.Election):
                                                house_elections_text, p_set,
                                                representation_set,
                                                tally_attribute):
-        parties_string = between_party_names.join(set([p.short_name() for p in
-                                                       p_set]))
-        return {constants.NAMES:
-                    [f"{house_elections_text}{self.election_date.year}"
-                     f"{between_parts_of_name}{tally_attribute}"
-                     f"{between_parts_of_name}{parties_string}"
-                     f"{add_to_end_of_name}", ], constants.DATA: [],
+
+        return {constants.NAMES: [
+            self.get_call_name(add_to_end_of_name, between_parts_of_name,
+                               between_party_names, house_elections_text,
+                               p_set, tally_attribute), ], constants.DATA: [],
                 constants.QUERIES: [str(representation_set.query), ]}
 
     def update_election_result(self, election_result, representation_set,
@@ -105,15 +129,38 @@ class HouseElection(abstract_models.Election):
         if return_format == constants.TRANSACTION_FORMAT:
             HouseElection.update_election_result_in_transaction_format(
                 election_result, result, tally_attribute)
+        elif return_format == constants.SPREADSHEET_FORMAT:
+            result_values = result.values()
+            result_length = len(result_values)
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_YEAR_INDEX][
+                constants.DATA] += [self.election_date.year] * result_length
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_PLACE_INDEX][
+                constants.DATA] += [str(place)] * result_length
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_ATTRIBUTE_INDEX][
+                constants.DATA] += [tally_attribute] * result_length
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_PARTY_INDEX][
+                constants.DATA] += list(result.keys())
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_VOTES_INDEX][
+                constants.DATA] += [value[constants.RETURN_VOTES] for value
+                                    in result_values]
+            election_result[constants.SERIES][
+                constants.SPREADSHEET_FORMAT_PERCENT_INDEX][
+                constants.DATA] += [value[constants.RETURN_PERCENTAGE] for value
+                                    in result_values]
+
         else:
             election_result[str(place)] = result
 
-
     def setup_place(self, p_set, place_set, places, representation_set,
-                    return_format, tally_attribute):
-        elect_result = self.setup_election_result(p_set, representation_set,
-                                                  return_format,
-                                                  tally_attribute)
+                    return_format, tally_attribute, parent_result=None):
+        elect_result = self.setup_election_result(
+            p_set, representation_set, return_format, tally_attribute,
+            parent_result=parent_result)
         if not place_set:
             place_set = Booth.get_set(self, places)
             keep_query(return_format, elect_result, place_set)

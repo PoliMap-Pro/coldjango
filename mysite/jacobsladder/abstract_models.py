@@ -13,6 +13,15 @@ class Election(section.Part):
     election_date = models.DateField()
     created = models.DateTimeField(auto_now_add=True)
 
+    def get_call_name(self, add_to_end_of_name, between_parts_of_name,
+                      between_party_names, house_elections_text, p_set,
+                      tally_attribute):
+        parties_string = between_party_names.join(set([p.short_name() for p in
+                                                       p_set]))
+        return f"{house_elections_text}{self.election_date.year}" \
+               f"{between_parts_of_name}{tally_attribute}" \
+               f"{between_parts_of_name}{parties_string}{add_to_end_of_name}"
+
     def __str__(self):
         return f"{self.__class__.__name__} in " \
                f"{self.election_date.year} ({self.pk})"
