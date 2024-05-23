@@ -6,9 +6,9 @@ from ... import place, aec_readers, house
 
 class Command(BaseCommand, aec_readers.AECReader):
     N = 300
-    YEARS = (2022, 2016, )
-    PARTY_ABBREVIATION = 'GRN'
+    PARTY_ABBREVIATION = 'ALP'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
+    YEARS = (2022, 2016, 2019, 2013, 2010, 2007, 2004)
 
     help = "Look at these N seats. How do preferences flow from the Libs to " \
            "ALP/Greens in the 2016 election, and how about 2022 (where the " \
@@ -16,8 +16,7 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     def handle(self, *arguments, **keywordarguments):
         print(Command.help)
-        seat_list = list(place.Seat.objects.all().order_by('name'))[:
-                                                                     Command.N]
+        seat_list = list(place.Seat.objects.all().order_by('name'))[:Command.N]
         [Command.year_flow(seat_list, year) for year in Command.YEARS]
 
     @staticmethod
@@ -51,6 +50,8 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     @staticmethod
     def render_dot_file(dot, edges, nodes):
+        nodes.sort()
+        edges.sort()
         [dot.node(*node) for node in nodes]
         [dot.edge(*edge) for edge in edges]
         dot.render(directory=Command.RESULTS_DIRECTORY)

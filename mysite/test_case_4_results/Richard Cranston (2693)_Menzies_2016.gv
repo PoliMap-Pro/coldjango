@@ -2,31 +2,31 @@
 digraph "Richard Cranston (2693)_Menzies_2016" {
 	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Richard Cranston (2693)" [label="Richard Cranston (2693)
-The Greens"]
-	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
-Independent"]
-	"David Clark (2692)" [label="David Clark (2692)
-Family First Party"]
 	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
 Animal Justice Party"]
+	"David Clark (2692)" [label="David Clark (2692)
+Family First Party"]
 	"Jay Franklin (2695)" [label="Jay Franklin (2695)
 Voluntary Euthanasia Party"]
 	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
 Independent"]
-	"Stephen Mayne (2696)" -> "Richard Cranston (2693)" [label=3354]
-	"David Clark (2692)" -> "Stephen Mayne (2696)" [label=739]
+	"Richard Cranston (2693)" [label="Richard Cranston (2693)
+The Greens"]
+	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
+Independent"]
 	"Antony John Hulbert (2690)" -> "David Clark (2692)" [label=820]
-	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
-	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
-	"David Clark (2692)" -> "Richard Cranston (2693)" [label=559]
 	"Antony John Hulbert (2690)" -> "Richard Cranston (2693)" [label=770]
-	"Jay Franklin (2695)" -> "Richard Cranston (2693)" [label=131]
-	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=90]
-	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
-	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
-	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
 	"Antony John Hulbert (2690)" -> "Stephen Mayne (2696)" [label=393]
+	"David Clark (2692)" -> "Richard Cranston (2693)" [label=559]
+	"David Clark (2692)" -> "Stephen Mayne (2696)" [label=739]
+	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
+	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
+	"Jay Franklin (2695)" -> "Richard Cranston (2693)" [label=131]
 	"Jay Franklin (2695)" -> "Stephen Mayne (2696)" [label=339]
+	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
+	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
+	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
+	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=90]
 	"Ramon Robinson (2691)" -> "Stephen Mayne (2696)" [label=258]
+	"Stephen Mayne (2696)" -> "Richard Cranston (2693)" [label=3354]
 }

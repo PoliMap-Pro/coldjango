@@ -9,6 +9,6 @@ The Nationals"]
 	"Taffy Samuriwo-Vuntarde (2767)" [label="Taffy Samuriwo-Vuntarde (2767)
 Rise Up Australia Party"]
 	"Maddison Simmonds (2766)" -> "Lee-Anne Miles (1974)" [label=1792]
-	"Taffy Samuriwo-Vuntarde (2767)" -> "Maddison Simmonds (2766)" [label=2158]
 	"Taffy Samuriwo-Vuntarde (2767)" -> "Lee-Anne Miles (1974)" [label=601]
+	"Taffy Samuriwo-Vuntarde (2767)" -> "Maddison Simmonds (2766)" [label=2158]
 }

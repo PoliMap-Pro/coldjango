@@ -2,9 +2,9 @@
 digraph "Michael Bellstedt (2171)_Mitchell_2016" {
 	graph [label="Mitchell 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Bellstedt (2171)" [label="Michael Bellstedt (2171)
-The Greens"]
 	"Darryl Allen (2170)" [label="Darryl Allen (2170)
 Christian Democratic Party (Fred Nile Group)"]
+	"Michael Bellstedt (2171)" [label="Michael Bellstedt (2171)
+The Greens"]
 	"Darryl Allen (2170)" -> "Michael Bellstedt (2171)" [label=535]
 }

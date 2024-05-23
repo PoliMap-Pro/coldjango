@@ -1,5 +1,5 @@
 import json
-from . import house, people, place, service, constants
+from . import constants, house, people, place
 
 
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
@@ -63,7 +63,6 @@ def addMetaParties(**meta_parties):
         name_of_meta_party_three = {'name__contains': 'Australia'},
         etc.
     """
-
     for key, value in meta_parties.items():
         meta_party, _ = people.MetaParty.objects.get_or_create(name=key)
         for party in people.Party.objects.filter(**value):
@@ -80,7 +79,6 @@ def deleteMetaParties(*meta_parties):
     """
     Call with no parameters to delete all metaparties
     """
-
     if meta_parties:
         for meta_party_name in meta_parties:
             meta_party = people.MetaParty.objects.get(name=meta_party_name)

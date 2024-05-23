@@ -2,18 +2,18 @@
 digraph "Patrick O'Sullivan (644)_Hindmarsh_2016" {
 	graph [label="Hindmarsh 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
-The Greens"]
-	"Mark Potter (2464)" [label="Mark Potter (2464)
-Family First"]
 	"Bin Liu (2468)" [label="Bin Liu (2468)
 Animal Justice Party"]
 	"Marina William (2467)" [label="Marina William (2467)
 Christian Democratic Party (Fred Nile Group)"]
-	"Mark Potter (2464)" -> "Patrick O'Sullivan (644)" [label=409]
+	"Mark Potter (2464)" [label="Mark Potter (2464)
+Family First"]
+	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
+The Greens"]
 	"Bin Liu (2468)" -> "Mark Potter (2464)" [label=230]
-	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
 	"Bin Liu (2468)" -> "Patrick O'Sullivan (644)" [label=479]
-	"Marina William (2467)" -> "Patrick O'Sullivan (644)" [label=26]
+	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
 	"Marina William (2467)" -> "Mark Potter (2464)" [label=194]
+	"Marina William (2467)" -> "Patrick O'Sullivan (644)" [label=26]
+	"Mark Potter (2464)" -> "Patrick O'Sullivan (644)" [label=409]
 }

@@ -2,10 +2,10 @@
 digraph "Jen Brown (2515)_Denison_2016" {
 	graph [label="Denison 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jen Brown (2515)" [label="Jen Brown (2515)
-The Greens"]
 	"Amanda Excell (2511)" [label="Amanda Excell (2511)
 Christian Democratic Party (Fred Nile Group)"]
+	"Jen Brown (2515)" [label="Jen Brown (2515)
+The Greens"]
 	"Wayne Williams (2514)" [label="Wayne Williams (2514)
 Democratic Labour Party (DLP)"]
 	"Amanda Excell (2511)" -> "Jen Brown (2515)" [label=58]

@@ -4,22 +4,22 @@ digraph "Adam Bandt (1007)_Melbourne_2016" {
 	node [shape=box]
 	"Adam Bandt (1007)" [label="Adam Bandt (1007)
 The Greens"]
-	"Sophie Ismail (2680)" [label="Sophie Ismail (2680)
-Australian Labor Party"]
 	"Lewis Freeman-Harrison (2679)" [label="Lewis Freeman-Harrison (2679)
 Australian Sex Party"]
-	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
-Animal Justice Party"]
 	"Matt Riley (2683)" [label="Matt Riley (2683)
 Drug Law Reform"]
-	"Sophie Ismail (2680)" -> "Adam Bandt (1007)" [label=20142]
-	"Lewis Freeman-Harrison (2679)" -> "Sophie Ismail (2680)" [label=1328]
-	"Miranda Joyce Smith (2682)" -> "Lewis Freeman-Harrison (2679)" [label=527]
-	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
+	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
+Animal Justice Party"]
+	"Sophie Ismail (2680)" [label="Sophie Ismail (2680)
+Australian Labor Party"]
 	"Lewis Freeman-Harrison (2679)" -> "Adam Bandt (1007)" [label=2029]
-	"Miranda Joyce Smith (2682)" -> "Adam Bandt (1007)" [label=864]
+	"Lewis Freeman-Harrison (2679)" -> "Sophie Ismail (2680)" [label=1328]
 	"Matt Riley (2683)" -> "Adam Bandt (1007)" [label=359]
 	"Matt Riley (2683)" -> "Lewis Freeman-Harrison (2679)" [label=378]
-	"Miranda Joyce Smith (2682)" -> "Sophie Ismail (2680)" [label=268]
+	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
 	"Matt Riley (2683)" -> "Sophie Ismail (2680)" [label=116]
+	"Miranda Joyce Smith (2682)" -> "Adam Bandt (1007)" [label=864]
+	"Miranda Joyce Smith (2682)" -> "Lewis Freeman-Harrison (2679)" [label=527]
+	"Miranda Joyce Smith (2682)" -> "Sophie Ismail (2680)" [label=268]
+	"Sophie Ismail (2680)" -> "Adam Bandt (1007)" [label=20142]
 }

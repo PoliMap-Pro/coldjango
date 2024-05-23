@@ -4,16 +4,16 @@ digraph "Carol Vernon (2070)_Cowper_2016" {
 	node [shape=box]
 	"Carol Vernon (2070)" [label="Carol Vernon (2070)
 The Greens"]
-	"Wayne Lawrence (2068)" [label="Wayne Lawrence (2068)
-Christian Democratic Party (Fred Nile Group)"]
 	"John Arkan (2074)" [label="John Arkan (2074)
 Independent"]
 	"Michael Gough (2069)" [label="Michael Gough (2069)
 Citizens Electoral Council"]
-	"Wayne Lawrence (2068)" -> "Carol Vernon (2070)" [label=847]
-	"John Arkan (2074)" -> "Wayne Lawrence (2068)" [label=368]
-	"Michael Gough (2069)" -> "John Arkan (2074)" [label=106]
+	"Wayne Lawrence (2068)" [label="Wayne Lawrence (2068)
+Christian Democratic Party (Fred Nile Group)"]
 	"John Arkan (2074)" -> "Carol Vernon (2070)" [label=383]
+	"John Arkan (2074)" -> "Wayne Lawrence (2068)" [label=368]
 	"Michael Gough (2069)" -> "Carol Vernon (2070)" [label=117]
+	"Michael Gough (2069)" -> "John Arkan (2074)" [label=106]
 	"Michael Gough (2069)" -> "Wayne Lawrence (2068)" [label=218]
+	"Wayne Lawrence (2068)" -> "Carol Vernon (2070)" [label=847]
 }

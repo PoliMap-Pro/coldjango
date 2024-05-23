@@ -2,39 +2,39 @@
 digraph "Jason Ball (1821)_Higgins_2016" {
 	graph [label="Higgins 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Ball (1821)" [label="Jason Ball (1821)
-The Greens"]
 	"Carl Katter (2622)" [label="Carl Katter (2622)
 Australian Labor Party"]
-	"Nancy Bassett (2623)" [label="Nancy Bassett (2623)
-Nick Xenophon Team"]
-	"Jessica Tregear (2619)" [label="Jessica Tregear (2619)
-Derryn Hinch's Justice Party"]
 	"Eleonora Gullone (2624)" [label="Eleonora Gullone (2624)
 Animal Justice Party"]
+	"Jason Ball (1821)" [label="Jason Ball (1821)
+The Greens"]
+	"Jessica Tregear (2619)" [label="Jessica Tregear (2619)
+Derryn Hinch's Justice Party"]
+	"Nancy Bassett (2623)" [label="Nancy Bassett (2623)
+Nick Xenophon Team"]
 	"Rebecca O'Brien (2618)" [label="Rebecca O'Brien (2618)
 Marriage Equality"]
 	"Robert Kennedy (2621)" [label="Robert Kennedy (2621)
 Liberal Democrats"]
 	"Carl Katter (2622)" -> "Jason Ball (1821)" [label=12398]
-	"Nancy Bassett (2623)" -> "Carl Katter (2622)" [label=832]
-	"Jessica Tregear (2619)" -> "Nancy Bassett (2623)" [label=520]
-	"Eleonora Gullone (2624)" -> "Jessica Tregear (2619)" [label=275]
-	"Rebecca O'Brien (2618)" -> "Eleonora Gullone (2624)" [label=221]
-	"Robert Kennedy (2621)" -> "Rebecca O'Brien (2618)" [label=128]
-	"Nancy Bassett (2623)" -> "Jason Ball (1821)" [label=1094]
-	"Jessica Tregear (2619)" -> "Jason Ball (1821)" [label=363]
-	"Eleonora Gullone (2624)" -> "Jason Ball (1821)" [label=675]
-	"Rebecca O'Brien (2618)" -> "Jason Ball (1821)" [label=395]
-	"Robert Kennedy (2621)" -> "Jason Ball (1821)" [label=137]
-	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
-	"Rebecca O'Brien (2618)" -> "Jessica Tregear (2619)" [label=379]
-	"Robert Kennedy (2621)" -> "Jessica Tregear (2619)" [label=130]
-	"Eleonora Gullone (2624)" -> "Nancy Bassett (2623)" [label=241]
-	"Rebecca O'Brien (2618)" -> "Nancy Bassett (2623)" [label=65]
-	"Robert Kennedy (2621)" -> "Nancy Bassett (2623)" [label=87]
-	"Jessica Tregear (2619)" -> "Carl Katter (2622)" [label=301]
 	"Eleonora Gullone (2624)" -> "Carl Katter (2622)" [label=190]
+	"Eleonora Gullone (2624)" -> "Jason Ball (1821)" [label=675]
+	"Eleonora Gullone (2624)" -> "Jessica Tregear (2619)" [label=275]
+	"Eleonora Gullone (2624)" -> "Nancy Bassett (2623)" [label=241]
+	"Jessica Tregear (2619)" -> "Carl Katter (2622)" [label=301]
+	"Jessica Tregear (2619)" -> "Jason Ball (1821)" [label=363]
+	"Jessica Tregear (2619)" -> "Nancy Bassett (2623)" [label=520]
+	"Nancy Bassett (2623)" -> "Carl Katter (2622)" [label=832]
+	"Nancy Bassett (2623)" -> "Jason Ball (1821)" [label=1094]
 	"Rebecca O'Brien (2618)" -> "Carl Katter (2622)" [label=149]
+	"Rebecca O'Brien (2618)" -> "Eleonora Gullone (2624)" [label=221]
+	"Rebecca O'Brien (2618)" -> "Jason Ball (1821)" [label=395]
+	"Rebecca O'Brien (2618)" -> "Jessica Tregear (2619)" [label=379]
+	"Rebecca O'Brien (2618)" -> "Nancy Bassett (2623)" [label=65]
 	"Robert Kennedy (2621)" -> "Carl Katter (2622)" [label=92]
+	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
+	"Robert Kennedy (2621)" -> "Jason Ball (1821)" [label=137]
+	"Robert Kennedy (2621)" -> "Jessica Tregear (2619)" [label=130]
+	"Robert Kennedy (2621)" -> "Nancy Bassett (2623)" [label=87]
+	"Robert Kennedy (2621)" -> "Rebecca O'Brien (2618)" [label=128]
 }

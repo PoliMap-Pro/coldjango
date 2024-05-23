@@ -2,24 +2,24 @@
 digraph "Chris Winslow (2113)_Greenway_2016" {
 	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Winslow (2113)" [label="Chris Winslow (2113)
-The Greens"]
-	"Timothy Mak (2112)" [label="Timothy Mak (2112)
-Liberal Democrats"]
 	"Avtar Singh Billu (2117)" [label="Avtar Singh Billu (2117)
 Independent"]
+	"Chris Winslow (2113)" [label="Chris Winslow (2113)
+The Greens"]
 	"Rohan Salins (2114)" [label="Rohan Salins (2114)
 Family First"]
+	"Timothy Mak (2112)" [label="Timothy Mak (2112)
+Liberal Democrats"]
 	"Vivek Singha (218)" [label="Vivek Singha (218)
 Science Party"]
-	"Timothy Mak (2112)" -> "Chris Winslow (2113)" [label=1202]
+	"Avtar Singh Billu (2117)" -> "Chris Winslow (2113)" [label=267]
 	"Avtar Singh Billu (2117)" -> "Timothy Mak (2112)" [label=389]
 	"Rohan Salins (2114)" -> "Avtar Singh Billu (2117)" [label=176]
-	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
-	"Avtar Singh Billu (2117)" -> "Chris Winslow (2113)" [label=267]
 	"Rohan Salins (2114)" -> "Chris Winslow (2113)" [label=267]
-	"Vivek Singha (218)" -> "Chris Winslow (2113)" [label=267]
-	"Vivek Singha (218)" -> "Avtar Singh Billu (2117)" [label=148]
 	"Rohan Salins (2114)" -> "Timothy Mak (2112)" [label=163]
+	"Timothy Mak (2112)" -> "Chris Winslow (2113)" [label=1202]
+	"Vivek Singha (218)" -> "Avtar Singh Billu (2117)" [label=148]
+	"Vivek Singha (218)" -> "Chris Winslow (2113)" [label=267]
+	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
 	"Vivek Singha (218)" -> "Timothy Mak (2112)" [label=93]
 }

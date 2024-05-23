@@ -9,6 +9,6 @@ Christian Democratic Party (Fred Nile Group)"]
 	"Marylou Carter (2208)" [label="Marylou Carter (2208)
 Family First"]
 	"Ju Kang (2211)" -> "Alice Mantel (2212)" [label=558]
-	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
 	"Marylou Carter (2208)" -> "Alice Mantel (2212)" [label=297]
+	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
 }

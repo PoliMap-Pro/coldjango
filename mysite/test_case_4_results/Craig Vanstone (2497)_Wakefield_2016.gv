@@ -9,6 +9,6 @@ Independent"]
 	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
 Christian Democratic Party (Fred Nile Group)"]
 	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
-	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
 	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
+	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
 }

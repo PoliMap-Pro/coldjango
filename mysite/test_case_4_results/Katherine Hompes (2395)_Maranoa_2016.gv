@@ -9,6 +9,6 @@ CountryMinded"]
 	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
 Rise Up Australia Party"]
 	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
-	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 	"Sherrilyn Church (2396)" -> "Katherine Hompes (2395)" [label=96]
+	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 }

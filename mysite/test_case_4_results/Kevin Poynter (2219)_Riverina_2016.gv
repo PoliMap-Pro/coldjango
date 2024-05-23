@@ -2,10 +2,10 @@
 digraph "Kevin Poynter (2219)_Riverina_2016" {
 	graph [label="Riverina 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
-The Greens"]
 	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
 Family First"]
+	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
+The Greens"]
 	"Philip Langfield (1287)" [label="Philip Langfield (1287)
 Christian Democratic Party (Fred Nile Group)"]
 	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]

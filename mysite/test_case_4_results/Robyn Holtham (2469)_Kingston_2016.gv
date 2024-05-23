@@ -2,9 +2,9 @@
 digraph "Robyn Holtham (2469)_Kingston_2016" {
 	graph [label="Kingston 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robyn Holtham (2469)" [label="Robyn Holtham (2469)
-The Greens"]
 	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
 Family First"]
+	"Robyn Holtham (2469)" [label="Robyn Holtham (2469)
+The Greens"]
 	"Geoff Doecke (2470)" -> "Robyn Holtham (2469)" [label=611]
 }

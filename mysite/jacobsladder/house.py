@@ -1,10 +1,10 @@
 from django.db import models
 from django.db.models import UniqueConstraint, Sum
-from . import abstract_models, people, names, constants
+from . import abstract_models, constants, names, people
 from .abstract_models import Crown, Round, Transfer
-from .place import Seat, Booth
-from .service import Representation, Contention
 from .format import keep_query
+from .place import Booth, Seat
+from .service import Contention, Representation
 
 
 class HouseElection(abstract_models.Election):
@@ -12,8 +12,8 @@ class HouseElection(abstract_models.Election):
     DEFAULT_HOUSE_ELECTION_TEXT = "/AEC/Elections/House/"
 
     class ElectionType(models.TextChoices):
-        REGULAR = "federal", "Regular"
         BY_ELECTION = "by-election", "By-Election"
+        REGULAR = "federal", "Regular"
 
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)
@@ -26,6 +26,11 @@ class HouseElection(abstract_models.Election):
 
     def result_by_place(self, party_set, place_set, places, parent, target,
                         sum_booths=False, return_format=constants.NEST_FORMAT):
+        """
+        Adds results to the election results dictionary for each of the places
+        in a new place set generated from the representation set for this
+        election and the party set.
+        """
         representation_set = Representation.objects.filter(election=self,
                                                            party__in=party_set)
         elect_result, place_set = self.setup_place(
@@ -46,22 +51,19 @@ class HouseElection(abstract_models.Election):
             between_parts_of_name=
             abstract_models.Election.DEFAULT_BETWEEN_PARTS_OF_NAME,
             parent_result=None):
+        """
+        Generates (or sends back) an election result that agrees with the
+        return format.
+        """
         if return_format == constants.TRANSACTION_FORMAT:
             return self.get_transaction_format_election_result(
                 add_to_end_of_name, between_parts_of_name, between_party_names,
                 house_elections_text, p_set, representation_set,
                 tally_attribute)
         if return_format == constants.SPREADSHEET_FORMAT:
-            if constants.NAMES not in parent_result:
-                parent_result[constants.NAMES] = [
-                    self.get_call_name(
-                        add_to_end_of_name, between_parts_of_name,
-                        between_party_names, house_elections_text, p_set,
-                        tally_attribute), ]
-            if constants.SERIES not in parent_result:
-                parent_result[constants.SERIES] = [
-                    {constants.RETURN_NAME: name, constants.DATA: []} for name
-                    in constants.SPREADSHEET_NAMES]
+            self.set_top_level_entries_for_the_spreadsheet_format(
+                add_to_end_of_name, between_parts_of_name, between_party_names,
+                house_elections_text, p_set, parent_result, tally_attribute)
             return parent_result
         return {}
 
@@ -85,7 +87,6 @@ class HouseElection(abstract_models.Election):
         Returns a dot node name and text for dot's label attribute for that
         candidate and the party they represented in the election.
         """
-
         node_name = str(candidate)
         try:
             rep = Representation.objects.get(person=candidate.person,
@@ -94,6 +95,21 @@ class HouseElection(abstract_models.Election):
             rep = Representation.objects.filter(person=candidate.person,
                                                 election=self)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
+
+    def set_top_level_entries_for_the_spreadsheet_format(
+            self, add_to_end_of_name, between_parts_of_name,
+            between_party_names, house_elections_text, p_set, parent_result,
+            tally_attribute):
+        if constants.NAMES not in parent_result:
+            parent_result[constants.NAMES] = [
+                self.get_call_name(
+                    add_to_end_of_name, between_parts_of_name,
+                    between_party_names, house_elections_text, p_set,
+                    tally_attribute), ]
+        if constants.SERIES not in parent_result:
+            parent_result[constants.SERIES] = [
+                {constants.RETURN_NAME: name, constants.DATA: []} for name
+                in constants.SPREADSHEET_NAMES]
 
     def get_transaction_format_election_result(self, add_to_end_of_name,
                                                between_parts_of_name,
@@ -126,6 +142,10 @@ class HouseElection(abstract_models.Election):
 
     def setup_place(self, p_set, place_set, places, standing,
                     return_format, tally_attribute, parent_result=None):
+        """
+        Starts a new election result. Fetches the place set if it doesn't
+        exist yet.
+        """
         elect_result, place_set = self.setup_query_sets(
             p_set, parent_result, place_set, places, standing, return_format,
             tally_attribute)
@@ -160,6 +180,10 @@ class HouseElection(abstract_models.Election):
 
     def setup_query_sets(self, p_set, parent_result, place_set, places,
                          representation_set, return_format, tally_attribute):
+        """
+        If the place set contains booths (instead of seats), captures the query
+        used to fetch them. Starts a new election result.
+        """
         elect_result = self.setup_election_result(
             p_set, representation_set, return_format, tally_attribute,
             parent_result=parent_result)

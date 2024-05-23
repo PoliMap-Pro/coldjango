@@ -2,39 +2,39 @@
 digraph "Tamara Ryan (2090)_Eden-Monaro_2016" {
 	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tamara Ryan (2090)" [label="Tamara Ryan (2090)
-The Greens"]
-	"Daniel Grosmaire (2085)" [label="Daniel Grosmaire (2085)
-Independent"]
-	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
-Animal Justice Party"]
-	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
-Christian Democratic Party (Fred Nile Group)"]
-	"Don Friend (2087)" [label="Don Friend (2087)
-Veterans Party"]
 	"Andrew Evan Thaler (2092)" [label="Andrew Evan Thaler (2092)
 Independent"]
+	"Daniel Grosmaire (2085)" [label="Daniel Grosmaire (2085)
+Independent"]
+	"Don Friend (2087)" [label="Don Friend (2087)
+Veterans Party"]
+	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
+Animal Justice Party"]
 	"Ray Buckley (2088)" [label="Ray Buckley (2088)
 Independent"]
-	"Daniel Grosmaire (2085)" -> "Tamara Ryan (2090)" [label=1324]
-	"Frankie Seymour (2091)" -> "Daniel Grosmaire (2085)" [label=918]
-	"Ursula Bennett (2086)" -> "Frankie Seymour (2091)" [label=281]
-	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
-	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
-	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
-	"Frankie Seymour (2091)" -> "Tamara Ryan (2090)" [label=784]
-	"Ursula Bennett (2086)" -> "Tamara Ryan (2090)" [label=55]
-	"Don Friend (2087)" -> "Tamara Ryan (2090)" [label=97]
-	"Andrew Evan Thaler (2092)" -> "Tamara Ryan (2090)" [label=78]
-	"Ray Buckley (2088)" -> "Tamara Ryan (2090)" [label=61]
-	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
-	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
-	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
-	"Don Friend (2087)" -> "Frankie Seymour (2091)" [label=213]
-	"Andrew Evan Thaler (2092)" -> "Frankie Seymour (2091)" [label=104]
-	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
-	"Ursula Bennett (2086)" -> "Daniel Grosmaire (2085)" [label=689]
-	"Don Friend (2087)" -> "Daniel Grosmaire (2085)" [label=625]
+	"Tamara Ryan (2090)" [label="Tamara Ryan (2090)
+The Greens"]
+	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
+Christian Democratic Party (Fred Nile Group)"]
 	"Andrew Evan Thaler (2092)" -> "Daniel Grosmaire (2085)" [label=518]
+	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
+	"Andrew Evan Thaler (2092)" -> "Frankie Seymour (2091)" [label=104]
+	"Andrew Evan Thaler (2092)" -> "Tamara Ryan (2090)" [label=78]
+	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
+	"Daniel Grosmaire (2085)" -> "Tamara Ryan (2090)" [label=1324]
+	"Don Friend (2087)" -> "Daniel Grosmaire (2085)" [label=625]
+	"Don Friend (2087)" -> "Frankie Seymour (2091)" [label=213]
+	"Don Friend (2087)" -> "Tamara Ryan (2090)" [label=97]
+	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
+	"Frankie Seymour (2091)" -> "Daniel Grosmaire (2085)" [label=918]
+	"Frankie Seymour (2091)" -> "Tamara Ryan (2090)" [label=784]
+	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
 	"Ray Buckley (2088)" -> "Daniel Grosmaire (2085)" [label=272]
+	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
+	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
+	"Ray Buckley (2088)" -> "Tamara Ryan (2090)" [label=61]
+	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
+	"Ursula Bennett (2086)" -> "Daniel Grosmaire (2085)" [label=689]
+	"Ursula Bennett (2086)" -> "Frankie Seymour (2091)" [label=281]
+	"Ursula Bennett (2086)" -> "Tamara Ryan (2090)" [label=55]
 }

@@ -9,6 +9,6 @@ Rise Up Australia Party"]
 	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
 Australia First Party"]
 	"Marion Vale (2657)" -> "Daniel Sova (2658)" [label=1504]
-	"Susan Jakobi (1861)" -> "Marion Vale (2657)" [label=1753]
 	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
+	"Susan Jakobi (1861)" -> "Marion Vale (2657)" [label=1753]
 }
