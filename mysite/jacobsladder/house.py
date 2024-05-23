@@ -31,8 +31,9 @@ class HouseElection(abstract_models.Election):
         in a new place set generated from the representation set for this
         election and the party set.
         """
-        representation_set = Representation.objects.filter(election=self,
-                                                           party__in=party_set)
+        representation_set = Representation.objects.filter(
+            election=self, party__in=party_set).exlude(
+            person__name__iexact=constants.INFORMAL_VOTER)
         elect_result, place_set = self.setup_place(
             party_set, place_set, places, representation_set, return_format,
             target, parent_result=parent)
@@ -206,18 +207,25 @@ class HouseElection(abstract_models.Election):
                               sum_booths=False,
                               return_format=constants.NEST_FORMAT,
                               election_result=None,
-                              name_of_informal_vote=constants.INFORMAL_VOTER):
+                              name_of_informal_vote=constants.INFORMAL_VOTER,
+                              check_for_informal=False):
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
             ))
 
         # Most of the execution time gets spent here
-        [place.update_place_result(
-            self, representation, result, total, tally_attribute,
-            return_format=return_format, election_result=election_result) for
-            representation in representation_set if
-            representation.person.name.lower() != name_of_informal_vote]
+        if check_for_informal:
+            [place.update_place_result(
+                self, representation, result, total, tally_attribute,
+                return_format=return_format, election_result=election_result)
+                for representation in representation_set if
+                representation.person.name.lower() != name_of_informal_vote]
+        else:
+            [place.update_place_result(
+                self, representation, result, total, tally_attribute,
+                return_format=return_format, election_result=election_result)
+                for representation in representation_set]
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
