@@ -24,18 +24,17 @@ class HouseElection(abstract_models.Election):
             representation in Representation.objects.filter(
                 election=self, party__abbreviation=party_abbreviation)]
 
-    def result_by_place(self, p_set, place_set, places, result,
-                        tally_attribute, sum_booths=False,
-                        return_format=constants.NEST_FORMAT):
+    def result_by_place(self, party_set, place_set, places, parent, target,
+                        sum_booths=False, return_format=constants.NEST_FORMAT):
         representation_set = Representation.objects.filter(election=self,
-                                                           party__in=p_set)
+                                                           party__in=party_set)
         elect_result, place_set = self.setup_place(
-            p_set, place_set, places, representation_set, return_format,
-            tally_attribute, parent_result=result)
+            party_set, place_set, places, representation_set, return_format,
+            target, parent_result=parent)
         [self.update_election_result(
-            elect_result, representation_set, place, tally_attribute,
+            elect_result, representation_set, place, target,
             sum_booths, return_format=return_format) for place in place_set]
-        self.format_result(elect_result, result, return_format)
+        self.format_result(elect_result, parent, return_format)
 
     def setup_election_result(
             self, p_set, representation_set, return_format, tally_attribute,
@@ -125,14 +124,11 @@ class HouseElection(abstract_models.Election):
         else:
             election_result[str(place)] = result
 
-    def setup_place(self, p_set, place_set, places, representation_set,
+    def setup_place(self, p_set, place_set, places, standing,
                     return_format, tally_attribute, parent_result=None):
-        elect_result = self.setup_election_result(
-            p_set, representation_set, return_format, tally_attribute,
-            parent_result=parent_result)
-        if not place_set:
-            place_set = Booth.get_set(self, places)
-            keep_query(return_format, elect_result, place_set)
+        elect_result, place_set = self.setup_query_sets(
+            p_set, parent_result, place_set, places, standing, return_format,
+            tally_attribute)
         HouseElection.setup_transaction_format(elect_result, place_set,
                                                return_format)
         return elect_result, place_set
@@ -161,6 +157,16 @@ class HouseElection(abstract_models.Election):
                 (constants.SPREADSHEET_FORMAT_PERCENT_INDEX,
                  [value[constants.RETURN_PERCENTAGE] for value in result_values
                   ]),)
+
+    def setup_query_sets(self, p_set, parent_result, place_set, places,
+                         representation_set, return_format, tally_attribute):
+        elect_result = self.setup_election_result(
+            p_set, representation_set, return_format, tally_attribute,
+            parent_result=parent_result)
+        if not place_set:
+            place_set = Booth.get_set(self, places)
+            keep_query(return_format, elect_result, place_set)
+        return elect_result, place_set
 
     def election_place_result(self, place, representation_set, tally_attribute,
                               sum_booths=False,

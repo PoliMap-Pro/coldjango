@@ -2,24 +2,24 @@
 digraph "Danielle Mutton (385)_Blair_2022" {
 	graph [label="Blair 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Danielle Mutton (385)" [label="Danielle Mutton (385)
-Queensland Greens"]
-	"Quinton Stewart Cunningham (387)" [label="Quinton Stewart Cunningham (387)
-United Australia Party"]
-	"Michelle Jaques (386)" [label="Michelle Jaques (386)
-Liberal Democrats"]
 	"Angela Lowery (391)" [label="Angela Lowery (391)
 Animal Justice Party"]
+	"Danielle Mutton (385)" [label="Danielle Mutton (385)
+Queensland Greens"]
 	"Maria Pitman (390)" [label="Maria Pitman (390)
 Australian Values Party"]
-	"Quinton Stewart Cunningham (387)" -> "Danielle Mutton (385)" [label=1124]
-	"Michelle Jaques (386)" -> "Quinton Stewart Cunningham (387)" [label=659]
-	"Angela Lowery (391)" -> "Michelle Jaques (386)" [label=185]
-	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
-	"Michelle Jaques (386)" -> "Danielle Mutton (385)" [label=542]
+	"Michelle Jaques (386)" [label="Michelle Jaques (386)
+Liberal Democrats"]
+	"Quinton Stewart Cunningham (387)" [label="Quinton Stewart Cunningham (387)
+United Australia Party"]
 	"Angela Lowery (391)" -> "Danielle Mutton (385)" [label=1055]
+	"Angela Lowery (391)" -> "Michelle Jaques (386)" [label=185]
+	"Angela Lowery (391)" -> "Quinton Stewart Cunningham (387)" [label=342]
+	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
 	"Maria Pitman (390)" -> "Danielle Mutton (385)" [label=219]
 	"Maria Pitman (390)" -> "Michelle Jaques (386)" [label=175]
-	"Angela Lowery (391)" -> "Quinton Stewart Cunningham (387)" [label=342]
 	"Maria Pitman (390)" -> "Quinton Stewart Cunningham (387)" [label=213]
+	"Michelle Jaques (386)" -> "Danielle Mutton (385)" [label=542]
+	"Michelle Jaques (386)" -> "Quinton Stewart Cunningham (387)" [label=659]
+	"Quinton Stewart Cunningham (387)" -> "Danielle Mutton (385)" [label=1124]
 }

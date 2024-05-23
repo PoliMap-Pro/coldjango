@@ -6,35 +6,35 @@ digraph "Alex Marshall (802)_Corangamite_2022" {
 The Greens"]
 	"Daniel William Abou-Zeid (808)" [label="Daniel William Abou-Zeid (808)
 United Australia Party"]
-	"Luke Sorensen (807)" [label="Luke Sorensen (807)
-Pauline Hanson's One Nation"]
-	"Paul Barker (806)" [label="Paul Barker (806)
-Liberal Democrats"]
-	"Meg Watkins (804)" [label="Meg Watkins (804)
-Animal Justice Party"]
 	"Jean-Marie D'Argent (809)" [label="Jean-Marie D'Argent (809)
 Derryn Hinch's Justice Party"]
+	"Luke Sorensen (807)" [label="Luke Sorensen (807)
+Pauline Hanson's One Nation"]
+	"Meg Watkins (804)" [label="Meg Watkins (804)
+Animal Justice Party"]
+	"Paul Barker (806)" [label="Paul Barker (806)
+Liberal Democrats"]
 	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
 Australian Federation Party"]
 	"Daniel William Abou-Zeid (808)" -> "Alex Marshall (802)" [label=1872]
-	"Luke Sorensen (807)" -> "Daniel William Abou-Zeid (808)" [label=2737]
-	"Paul Barker (806)" -> "Luke Sorensen (807)" [label=858]
-	"Meg Watkins (804)" -> "Paul Barker (806)" [label=156]
-	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
-	"Stephen Juhasz (801)" -> "Jean-Marie D'Argent (809)" [label=46]
-	"Luke Sorensen (807)" -> "Alex Marshall (802)" [label=363]
-	"Paul Barker (806)" -> "Alex Marshall (802)" [label=188]
-	"Meg Watkins (804)" -> "Alex Marshall (802)" [label=950]
 	"Jean-Marie D'Argent (809)" -> "Alex Marshall (802)" [label=191]
-	"Stephen Juhasz (801)" -> "Alex Marshall (802)" [label=305]
-	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
-	"Jean-Marie D'Argent (809)" -> "Paul Barker (806)" [label=77]
-	"Stephen Juhasz (801)" -> "Paul Barker (806)" [label=106]
-	"Meg Watkins (804)" -> "Luke Sorensen (807)" [label=231]
-	"Jean-Marie D'Argent (809)" -> "Luke Sorensen (807)" [label=285]
-	"Stephen Juhasz (801)" -> "Luke Sorensen (807)" [label=112]
-	"Paul Barker (806)" -> "Daniel William Abou-Zeid (808)" [label=1012]
-	"Meg Watkins (804)" -> "Daniel William Abou-Zeid (808)" [label=159]
 	"Jean-Marie D'Argent (809)" -> "Daniel William Abou-Zeid (808)" [label=261]
+	"Jean-Marie D'Argent (809)" -> "Luke Sorensen (807)" [label=285]
+	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
+	"Jean-Marie D'Argent (809)" -> "Paul Barker (806)" [label=77]
+	"Luke Sorensen (807)" -> "Alex Marshall (802)" [label=363]
+	"Luke Sorensen (807)" -> "Daniel William Abou-Zeid (808)" [label=2737]
+	"Meg Watkins (804)" -> "Alex Marshall (802)" [label=950]
+	"Meg Watkins (804)" -> "Daniel William Abou-Zeid (808)" [label=159]
+	"Meg Watkins (804)" -> "Luke Sorensen (807)" [label=231]
+	"Meg Watkins (804)" -> "Paul Barker (806)" [label=156]
+	"Paul Barker (806)" -> "Alex Marshall (802)" [label=188]
+	"Paul Barker (806)" -> "Daniel William Abou-Zeid (808)" [label=1012]
+	"Paul Barker (806)" -> "Luke Sorensen (807)" [label=858]
+	"Stephen Juhasz (801)" -> "Alex Marshall (802)" [label=305]
 	"Stephen Juhasz (801)" -> "Daniel William Abou-Zeid (808)" [label=80]
+	"Stephen Juhasz (801)" -> "Jean-Marie D'Argent (809)" [label=46]
+	"Stephen Juhasz (801)" -> "Luke Sorensen (807)" [label=112]
+	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
+	"Stephen Juhasz (801)" -> "Paul Barker (806)" [label=106]
 }

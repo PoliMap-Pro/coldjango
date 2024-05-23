@@ -2,48 +2,48 @@
 digraph "Donna Nelson (1166)_Pearce_2022" {
 	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Donna Nelson (1166)" [label="Donna Nelson (1166)
-The Greens (WA)"]
 	"Aaron Malloy (1171)" [label="Aaron Malloy (1171)
 Pauline Hanson's One Nation"]
-	"Trevor Richard Dalby (1169)" [label="Trevor Richard Dalby (1169)
-United Australia Party"]
-	"Jim Paice (1170)" [label="Jim Paice (1170)
-WESTERN AUSTRALIA PARTY"]
-	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
-The Great Australian Party"]
-	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
-Australian Christians"]
 	"David Marshall (1167)" [label="David Marshall (1167)
 Liberal Democrats"]
+	"Donna Nelson (1166)" [label="Donna Nelson (1166)
+The Greens (WA)"]
+	"Jim Paice (1170)" [label="Jim Paice (1170)
+WESTERN AUSTRALIA PARTY"]
 	"Nigel March (1174)" [label="Nigel March (1174)
 Australian Federation Party"]
+	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
+The Great Australian Party"]
+	"Trevor Richard Dalby (1169)" [label="Trevor Richard Dalby (1169)
+United Australia Party"]
+	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
+Australian Christians"]
 	"Aaron Malloy (1171)" -> "Donna Nelson (1166)" [label=3203]
-	"Trevor Richard Dalby (1169)" -> "Aaron Malloy (1171)" [label=2574]
-	"Jim Paice (1170)" -> "Trevor Richard Dalby (1169)" [label=440]
-	"Roslyn Stewart (1165)" -> "Jim Paice (1170)" [label=368]
-	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
-	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
-	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
-	"Trevor Richard Dalby (1169)" -> "Donna Nelson (1166)" [label=518]
-	"Jim Paice (1170)" -> "Donna Nelson (1166)" [label=659]
-	"Roslyn Stewart (1165)" -> "Donna Nelson (1166)" [label=761]
-	"Vanessa Montgomery (1173)" -> "Donna Nelson (1166)" [label=131]
-	"David Marshall (1167)" -> "Donna Nelson (1166)" [label=199]
-	"Nigel March (1174)" -> "Donna Nelson (1166)" [label=47]
-	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
-	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
-	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
-	"Vanessa Montgomery (1173)" -> "Jim Paice (1170)" [label=172]
-	"David Marshall (1167)" -> "Jim Paice (1170)" [label=151]
-	"Nigel March (1174)" -> "Jim Paice (1170)" [label=65]
-	"Roslyn Stewart (1165)" -> "Trevor Richard Dalby (1169)" [label=552]
-	"Vanessa Montgomery (1173)" -> "Trevor Richard Dalby (1169)" [label=158]
-	"David Marshall (1167)" -> "Trevor Richard Dalby (1169)" [label=146]
-	"Nigel March (1174)" -> "Trevor Richard Dalby (1169)" [label=36]
-	"Jim Paice (1170)" -> "Aaron Malloy (1171)" [label=667]
-	"Roslyn Stewart (1165)" -> "Aaron Malloy (1171)" [label=687]
-	"Vanessa Montgomery (1173)" -> "Aaron Malloy (1171)" [label=459]
 	"David Marshall (1167)" -> "Aaron Malloy (1171)" [label=190]
+	"David Marshall (1167)" -> "Donna Nelson (1166)" [label=199]
+	"David Marshall (1167)" -> "Jim Paice (1170)" [label=151]
+	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
+	"David Marshall (1167)" -> "Trevor Richard Dalby (1169)" [label=146]
+	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
+	"Jim Paice (1170)" -> "Aaron Malloy (1171)" [label=667]
+	"Jim Paice (1170)" -> "Donna Nelson (1166)" [label=659]
+	"Jim Paice (1170)" -> "Trevor Richard Dalby (1169)" [label=440]
 	"Nigel March (1174)" -> "Aaron Malloy (1171)" [label=117]
+	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
+	"Nigel March (1174)" -> "Donna Nelson (1166)" [label=47]
+	"Nigel March (1174)" -> "Jim Paice (1170)" [label=65]
+	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
+	"Nigel March (1174)" -> "Trevor Richard Dalby (1169)" [label=36]
+	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
+	"Roslyn Stewart (1165)" -> "Aaron Malloy (1171)" [label=687]
+	"Roslyn Stewart (1165)" -> "Donna Nelson (1166)" [label=761]
+	"Roslyn Stewart (1165)" -> "Jim Paice (1170)" [label=368]
+	"Roslyn Stewart (1165)" -> "Trevor Richard Dalby (1169)" [label=552]
+	"Trevor Richard Dalby (1169)" -> "Aaron Malloy (1171)" [label=2574]
+	"Trevor Richard Dalby (1169)" -> "Donna Nelson (1166)" [label=518]
+	"Vanessa Montgomery (1173)" -> "Aaron Malloy (1171)" [label=459]
+	"Vanessa Montgomery (1173)" -> "Donna Nelson (1166)" [label=131]
+	"Vanessa Montgomery (1173)" -> "Jim Paice (1170)" [label=172]
+	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
+	"Vanessa Montgomery (1173)" -> "Trevor Richard Dalby (1169)" [label=158]
 }

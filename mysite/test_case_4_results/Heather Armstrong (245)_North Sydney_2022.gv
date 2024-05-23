@@ -2,39 +2,39 @@
 digraph "Heather Armstrong (245)_North Sydney_2022" {
 	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Heather Armstrong (245)" [label="Heather Armstrong (245)
-The Greens"]
-	"Robert Nalbandian (244)" [label="Robert Nalbandian (244)
-United Australia Party"]
 	"Dajen Tinkler (248)" [label="Dajen Tinkler (248)
 Liberal Democrats"]
-	"William Bourke (243)" [label="William Bourke (243)
-Sustainable Australia Party - Stop Overdevelopment / Corruption"]
-	"Michael Walls (251)" [label="Michael Walls (251)
-Pauline Hanson's One Nation"]
-	"Victor Kline (246)" [label="Victor Kline (246)
-TNL"]
+	"Heather Armstrong (245)" [label="Heather Armstrong (245)
+The Greens"]
 	"Lesley Kinney (247)" [label="Lesley Kinney (247)
 Informed Medical Options Party"]
-	"Robert Nalbandian (244)" -> "Heather Armstrong (245)" [label=544]
-	"Dajen Tinkler (248)" -> "Robert Nalbandian (244)" [label=579]
-	"William Bourke (243)" -> "Dajen Tinkler (248)" [label=83]
-	"Michael Walls (251)" -> "William Bourke (243)" [label=86]
-	"Victor Kline (246)" -> "Michael Walls (251)" [label=11]
-	"Lesley Kinney (247)" -> "Victor Kline (246)" [label=36]
+	"Michael Walls (251)" [label="Michael Walls (251)
+Pauline Hanson's One Nation"]
+	"Robert Nalbandian (244)" [label="Robert Nalbandian (244)
+United Australia Party"]
+	"Victor Kline (246)" [label="Victor Kline (246)
+TNL"]
+	"William Bourke (243)" [label="William Bourke (243)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
 	"Dajen Tinkler (248)" -> "Heather Armstrong (245)" [label=75]
-	"William Bourke (243)" -> "Heather Armstrong (245)" [label=387]
-	"Michael Walls (251)" -> "Heather Armstrong (245)" [label=34]
-	"Victor Kline (246)" -> "Heather Armstrong (245)" [label=185]
+	"Dajen Tinkler (248)" -> "Robert Nalbandian (244)" [label=579]
+	"Lesley Kinney (247)" -> "Dajen Tinkler (248)" [label=81]
 	"Lesley Kinney (247)" -> "Heather Armstrong (245)" [label=43]
 	"Lesley Kinney (247)" -> "Michael Walls (251)" [label=88]
-	"Victor Kline (246)" -> "William Bourke (243)" [label=71]
+	"Lesley Kinney (247)" -> "Robert Nalbandian (244)" [label=70]
+	"Lesley Kinney (247)" -> "Victor Kline (246)" [label=36]
 	"Lesley Kinney (247)" -> "William Bourke (243)" [label=60]
 	"Michael Walls (251)" -> "Dajen Tinkler (248)" [label=221]
-	"Victor Kline (246)" -> "Dajen Tinkler (248)" [label=53]
-	"Lesley Kinney (247)" -> "Dajen Tinkler (248)" [label=81]
-	"William Bourke (243)" -> "Robert Nalbandian (244)" [label=359]
+	"Michael Walls (251)" -> "Heather Armstrong (245)" [label=34]
 	"Michael Walls (251)" -> "Robert Nalbandian (244)" [label=542]
+	"Michael Walls (251)" -> "William Bourke (243)" [label=86]
+	"Robert Nalbandian (244)" -> "Heather Armstrong (245)" [label=544]
+	"Victor Kline (246)" -> "Dajen Tinkler (248)" [label=53]
+	"Victor Kline (246)" -> "Heather Armstrong (245)" [label=185]
+	"Victor Kline (246)" -> "Michael Walls (251)" [label=11]
 	"Victor Kline (246)" -> "Robert Nalbandian (244)" [label=15]
-	"Lesley Kinney (247)" -> "Robert Nalbandian (244)" [label=70]
+	"Victor Kline (246)" -> "William Bourke (243)" [label=71]
+	"William Bourke (243)" -> "Dajen Tinkler (248)" [label=83]
+	"William Bourke (243)" -> "Heather Armstrong (245)" [label=387]
+	"William Bourke (243)" -> "Robert Nalbandian (244)" [label=359]
 }

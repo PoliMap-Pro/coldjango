@@ -5,6 +5,12 @@ from . import house, people, place, service, constants
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
                       tally_attribute='primary_votes', sum_booths=False,
                       return_format=constants.SPREADSHEET_FORMAT):
+    """
+    For each of elections, parties, places and seats either provide a list of
+    django models or a dictionary of arguments for model.objects.filter() such
+    as {'name': 'Chisholm', 'seat__name': 'Bean'} or
+    {'abbreviation__in': ('GRN', 'ALP', 'LP')}
+    """
     party_set, place_set, result = _setupHouseAttribute(parties, places, seats)
     [election.result_by_place(
         party_set, place_set, places, result, tally_attribute, sum_booths,
@@ -85,6 +91,10 @@ def deleteMetaParties(*meta_parties):
 
 
 def _setupHouseAttribute(parties, places, seats):
+    """
+    Fetches a query_set of Party models. If seats evaluates to True, also
+    fetches a query_set of Seat models.
+    """
     return people.Party.get_set(parties), place.Seat.get_set(
         places) if seats else None, {}
 

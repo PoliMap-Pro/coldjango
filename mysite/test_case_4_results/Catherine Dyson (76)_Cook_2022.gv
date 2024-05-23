@@ -9,6 +9,6 @@ Pauline Hanson's One Nation"]
 	"Jacqueline Guinane (78)" [label="Jacqueline Guinane (78)
 United Australia Party"]
 	"Gaye Cameron (75)" -> "Catherine Dyson (76)" [label=2217]
-	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
 	"Jacqueline Guinane (78)" -> "Catherine Dyson (76)" [label=478]
+	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
 }

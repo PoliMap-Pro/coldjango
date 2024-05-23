@@ -2,48 +2,48 @@
 digraph "Isabella Tripp (1094)_Cowan_2022" {
 	graph [label="Cowan 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Isabella Tripp (1094)" [label="Isabella Tripp (1094)
-The Greens (WA)"]
-	"Tyler Walsh (1097)" [label="Tyler Walsh (1097)
-Pauline Hanson's One Nation"]
 	"Claire Elizabeth Hand (1100)" [label="Claire Elizabeth Hand (1100)
 United Australia Party"]
-	"Roland Laverack (1099)" [label="Roland Laverack (1099)
-WESTERN AUSTRALIA PARTY"]
-	"Sylvia Iradukunda (1095)" [label="Sylvia Iradukunda (1095)
-Australian Christians"]
+	"Isabella Tripp (1094)" [label="Isabella Tripp (1094)
+The Greens (WA)"]
+	"Micah Van Krieken (1098)" [label="Micah Van Krieken (1098)
+Liberal Democrats"]
 	"Michael Anagno (1102)" [label="Michael Anagno (1102)
 Animal Justice Party"]
 	"Michael Calautti (1096)" [label="Michael Calautti (1096)
 Australian Federation Party"]
-	"Micah Van Krieken (1098)" [label="Micah Van Krieken (1098)
-Liberal Democrats"]
-	"Tyler Walsh (1097)" -> "Isabella Tripp (1094)" [label=2487]
-	"Claire Elizabeth Hand (1100)" -> "Tyler Walsh (1097)" [label=2102]
-	"Roland Laverack (1099)" -> "Claire Elizabeth Hand (1100)" [label=473]
-	"Sylvia Iradukunda (1095)" -> "Roland Laverack (1099)" [label=199]
-	"Michael Anagno (1102)" -> "Sylvia Iradukunda (1095)" [label=97]
-	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
-	"Micah Van Krieken (1098)" -> "Michael Calautti (1096)" [label=69]
+	"Roland Laverack (1099)" [label="Roland Laverack (1099)
+WESTERN AUSTRALIA PARTY"]
+	"Sylvia Iradukunda (1095)" [label="Sylvia Iradukunda (1095)
+Australian Christians"]
+	"Tyler Walsh (1097)" [label="Tyler Walsh (1097)
+Pauline Hanson's One Nation"]
 	"Claire Elizabeth Hand (1100)" -> "Isabella Tripp (1094)" [label=466]
-	"Roland Laverack (1099)" -> "Isabella Tripp (1094)" [label=514]
-	"Sylvia Iradukunda (1095)" -> "Isabella Tripp (1094)" [label=243]
-	"Michael Anagno (1102)" -> "Isabella Tripp (1094)" [label=597]
-	"Michael Calautti (1096)" -> "Isabella Tripp (1094)" [label=62]
+	"Claire Elizabeth Hand (1100)" -> "Tyler Walsh (1097)" [label=2102]
+	"Micah Van Krieken (1098)" -> "Claire Elizabeth Hand (1100)" [label=107]
 	"Micah Van Krieken (1098)" -> "Isabella Tripp (1094)" [label=63]
 	"Micah Van Krieken (1098)" -> "Michael Anagno (1102)" [label=36]
-	"Michael Calautti (1096)" -> "Sylvia Iradukunda (1095)" [label=230]
-	"Micah Van Krieken (1098)" -> "Sylvia Iradukunda (1095)" [label=40]
-	"Michael Anagno (1102)" -> "Roland Laverack (1099)" [label=355]
-	"Michael Calautti (1096)" -> "Roland Laverack (1099)" [label=147]
+	"Micah Van Krieken (1098)" -> "Michael Calautti (1096)" [label=69]
 	"Micah Van Krieken (1098)" -> "Roland Laverack (1099)" [label=150]
-	"Sylvia Iradukunda (1095)" -> "Claire Elizabeth Hand (1100)" [label=208]
-	"Michael Anagno (1102)" -> "Claire Elizabeth Hand (1100)" [label=133]
-	"Michael Calautti (1096)" -> "Claire Elizabeth Hand (1100)" [label=193]
-	"Micah Van Krieken (1098)" -> "Claire Elizabeth Hand (1100)" [label=107]
-	"Roland Laverack (1099)" -> "Tyler Walsh (1097)" [label=495]
-	"Sylvia Iradukunda (1095)" -> "Tyler Walsh (1097)" [label=446]
-	"Michael Anagno (1102)" -> "Tyler Walsh (1097)" [label=144]
-	"Michael Calautti (1096)" -> "Tyler Walsh (1097)" [label=323]
+	"Micah Van Krieken (1098)" -> "Sylvia Iradukunda (1095)" [label=40]
 	"Micah Van Krieken (1098)" -> "Tyler Walsh (1097)" [label=180]
+	"Michael Anagno (1102)" -> "Claire Elizabeth Hand (1100)" [label=133]
+	"Michael Anagno (1102)" -> "Isabella Tripp (1094)" [label=597]
+	"Michael Anagno (1102)" -> "Roland Laverack (1099)" [label=355]
+	"Michael Anagno (1102)" -> "Sylvia Iradukunda (1095)" [label=97]
+	"Michael Anagno (1102)" -> "Tyler Walsh (1097)" [label=144]
+	"Michael Calautti (1096)" -> "Claire Elizabeth Hand (1100)" [label=193]
+	"Michael Calautti (1096)" -> "Isabella Tripp (1094)" [label=62]
+	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
+	"Michael Calautti (1096)" -> "Roland Laverack (1099)" [label=147]
+	"Michael Calautti (1096)" -> "Sylvia Iradukunda (1095)" [label=230]
+	"Michael Calautti (1096)" -> "Tyler Walsh (1097)" [label=323]
+	"Roland Laverack (1099)" -> "Claire Elizabeth Hand (1100)" [label=473]
+	"Roland Laverack (1099)" -> "Isabella Tripp (1094)" [label=514]
+	"Roland Laverack (1099)" -> "Tyler Walsh (1097)" [label=495]
+	"Sylvia Iradukunda (1095)" -> "Claire Elizabeth Hand (1100)" [label=208]
+	"Sylvia Iradukunda (1095)" -> "Isabella Tripp (1094)" [label=243]
+	"Sylvia Iradukunda (1095)" -> "Roland Laverack (1099)" [label=199]
+	"Sylvia Iradukunda (1095)" -> "Tyler Walsh (1097)" [label=446]
+	"Tyler Walsh (1097)" -> "Isabella Tripp (1094)" [label=2487]
 }

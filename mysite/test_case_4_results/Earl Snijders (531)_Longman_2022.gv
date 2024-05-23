@@ -4,22 +4,22 @@ digraph "Earl Snijders (531)_Longman_2022" {
 	node [shape=box]
 	"Earl Snijders (531)" [label="Earl Snijders (531)
 Queensland Greens"]
-	"Nigel David Quinlan (530)" [label="Nigel David Quinlan (530)
-Legalise Cannabis Australia"]
-	"Stefanie Alexis Sutherland (529)" [label="Stefanie Alexis Sutherland (529)
-United Australia Party"]
-	"Paula Gilbard (534)" [label="Paula Gilbard (534)
-Animal Justice Party"]
 	"Jens Lipponer (533)" [label="Jens Lipponer (533)
 Liberal Democrats"]
-	"Nigel David Quinlan (530)" -> "Earl Snijders (531)" [label=2677]
-	"Stefanie Alexis Sutherland (529)" -> "Nigel David Quinlan (530)" [label=1033]
-	"Paula Gilbard (534)" -> "Stefanie Alexis Sutherland (529)" [label=113]
-	"Jens Lipponer (533)" -> "Paula Gilbard (534)" [label=169]
-	"Stefanie Alexis Sutherland (529)" -> "Earl Snijders (531)" [label=374]
-	"Paula Gilbard (534)" -> "Earl Snijders (531)" [label=553]
+	"Nigel David Quinlan (530)" [label="Nigel David Quinlan (530)
+Legalise Cannabis Australia"]
+	"Paula Gilbard (534)" [label="Paula Gilbard (534)
+Animal Justice Party"]
+	"Stefanie Alexis Sutherland (529)" [label="Stefanie Alexis Sutherland (529)
+United Australia Party"]
 	"Jens Lipponer (533)" -> "Earl Snijders (531)" [label=88]
-	"Jens Lipponer (533)" -> "Stefanie Alexis Sutherland (529)" [label=326]
-	"Paula Gilbard (534)" -> "Nigel David Quinlan (530)" [label=640]
 	"Jens Lipponer (533)" -> "Nigel David Quinlan (530)" [label=127]
+	"Jens Lipponer (533)" -> "Paula Gilbard (534)" [label=169]
+	"Jens Lipponer (533)" -> "Stefanie Alexis Sutherland (529)" [label=326]
+	"Nigel David Quinlan (530)" -> "Earl Snijders (531)" [label=2677]
+	"Paula Gilbard (534)" -> "Earl Snijders (531)" [label=553]
+	"Paula Gilbard (534)" -> "Nigel David Quinlan (530)" [label=640]
+	"Paula Gilbard (534)" -> "Stefanie Alexis Sutherland (529)" [label=113]
+	"Stefanie Alexis Sutherland (529)" -> "Earl Snijders (531)" [label=374]
+	"Stefanie Alexis Sutherland (529)" -> "Nigel David Quinlan (530)" [label=1033]
 }

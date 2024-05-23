@@ -2,24 +2,24 @@
 digraph "Dylan Green (91)_Cunningham_2022" {
 	graph [label="Cunningham 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dylan Green (91)" [label="Dylan Green (91)
-The Greens"]
-	"Thomas Grogan (93)" [label="Thomas Grogan (93)
-Pauline Hanson's One Nation"]
-	"Ben Britton (88)" [label="Ben Britton (88)
-United Australia Party"]
-	"Michael Glover (92)" [label="Michael Glover (92)
-Liberal Democrats"]
 	"Alexis Garnaut-Miller (90)" [label="Alexis Garnaut-Miller (90)
 Citizens Party"]
-	"Thomas Grogan (93)" -> "Dylan Green (91)" [label=2279]
+	"Ben Britton (88)" [label="Ben Britton (88)
+United Australia Party"]
+	"Dylan Green (91)" [label="Dylan Green (91)
+The Greens"]
+	"Michael Glover (92)" [label="Michael Glover (92)
+Liberal Democrats"]
+	"Thomas Grogan (93)" [label="Thomas Grogan (93)
+Pauline Hanson's One Nation"]
+	"Alexis Garnaut-Miller (90)" -> "Ben Britton (88)" [label=242]
+	"Alexis Garnaut-Miller (90)" -> "Dylan Green (91)" [label=292]
+	"Alexis Garnaut-Miller (90)" -> "Michael Glover (92)" [label=116]
+	"Alexis Garnaut-Miller (90)" -> "Thomas Grogan (93)" [label=173]
+	"Ben Britton (88)" -> "Dylan Green (91)" [label=596]
 	"Ben Britton (88)" -> "Thomas Grogan (93)" [label=3235]
 	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
-	"Alexis Garnaut-Miller (90)" -> "Michael Glover (92)" [label=116]
-	"Ben Britton (88)" -> "Dylan Green (91)" [label=596]
 	"Michael Glover (92)" -> "Dylan Green (91)" [label=252]
-	"Alexis Garnaut-Miller (90)" -> "Dylan Green (91)" [label=292]
-	"Alexis Garnaut-Miller (90)" -> "Ben Britton (88)" [label=242]
 	"Michael Glover (92)" -> "Thomas Grogan (93)" [label=419]
-	"Alexis Garnaut-Miller (90)" -> "Thomas Grogan (93)" [label=173]
+	"Thomas Grogan (93)" -> "Dylan Green (91)" [label=2279]
 }

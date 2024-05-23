@@ -4,29 +4,29 @@ digraph "Greg Elliott (669)_Mayo_2022" {
 	node [shape=box]
 	"Greg Elliott (669)" [label="Greg Elliott (669)
 The Greens"]
-	"Tonya Scott (672)" [label="Tonya Scott (672)
-Pauline Hanson's One Nation"]
-	"Samantha Mcgrail (671)" [label="Samantha Mcgrail (671)
-United Australia Party"]
-	"Padma Chaplin (666)" [label="Padma Chaplin (666)
-Animal Justice Party"]
 	"Jacob Van Raalte (667)" [label="Jacob Van Raalte (667)
 Liberal Democrats"]
 	"Mark Neugebauer (673)" [label="Mark Neugebauer (673)
 Australian Federation Party"]
-	"Tonya Scott (672)" -> "Greg Elliott (669)" [label=1027]
-	"Samantha Mcgrail (671)" -> "Tonya Scott (672)" [label=3165]
-	"Padma Chaplin (666)" -> "Samantha Mcgrail (671)" [label=152]
-	"Jacob Van Raalte (667)" -> "Padma Chaplin (666)" [label=114]
-	"Mark Neugebauer (673)" -> "Jacob Van Raalte (667)" [label=236]
-	"Samantha Mcgrail (671)" -> "Greg Elliott (669)" [label=337]
-	"Padma Chaplin (666)" -> "Greg Elliott (669)" [label=825]
+	"Padma Chaplin (666)" [label="Padma Chaplin (666)
+Animal Justice Party"]
+	"Samantha Mcgrail (671)" [label="Samantha Mcgrail (671)
+United Australia Party"]
+	"Tonya Scott (672)" [label="Tonya Scott (672)
+Pauline Hanson's One Nation"]
 	"Jacob Van Raalte (667)" -> "Greg Elliott (669)" [label=114]
-	"Mark Neugebauer (673)" -> "Greg Elliott (669)" [label=37]
-	"Mark Neugebauer (673)" -> "Padma Chaplin (666)" [label=72]
+	"Jacob Van Raalte (667)" -> "Padma Chaplin (666)" [label=114]
 	"Jacob Van Raalte (667)" -> "Samantha Mcgrail (671)" [label=262]
-	"Mark Neugebauer (673)" -> "Samantha Mcgrail (671)" [label=276]
-	"Padma Chaplin (666)" -> "Tonya Scott (672)" [label=186]
 	"Jacob Van Raalte (667)" -> "Tonya Scott (672)" [label=354]
+	"Mark Neugebauer (673)" -> "Greg Elliott (669)" [label=37]
+	"Mark Neugebauer (673)" -> "Jacob Van Raalte (667)" [label=236]
+	"Mark Neugebauer (673)" -> "Padma Chaplin (666)" [label=72]
+	"Mark Neugebauer (673)" -> "Samantha Mcgrail (671)" [label=276]
 	"Mark Neugebauer (673)" -> "Tonya Scott (672)" [label=510]
+	"Padma Chaplin (666)" -> "Greg Elliott (669)" [label=825]
+	"Padma Chaplin (666)" -> "Samantha Mcgrail (671)" [label=152]
+	"Padma Chaplin (666)" -> "Tonya Scott (672)" [label=186]
+	"Samantha Mcgrail (671)" -> "Greg Elliott (669)" [label=337]
+	"Samantha Mcgrail (671)" -> "Tonya Scott (672)" [label=3165]
+	"Tonya Scott (672)" -> "Greg Elliott (669)" [label=1027]
 }

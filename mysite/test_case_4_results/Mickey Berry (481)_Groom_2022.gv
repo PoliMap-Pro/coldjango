@@ -2,10 +2,10 @@
 digraph "Mickey Berry (481)_Groom_2022" {
 	graph [label="Groom 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mickey Berry (481)" [label="Mickey Berry (481)
-Queensland Greens"]
 	"Melissa Bannister (482)" [label="Melissa Bannister (482)
 United Australia Party"]
+	"Mickey Berry (481)" [label="Mickey Berry (481)
+Queensland Greens"]
 	"Ryan Otto (479)" [label="Ryan Otto (479)
 Australian Federation Party"]
 	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]

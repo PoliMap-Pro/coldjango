@@ -5,7 +5,7 @@ from ... import place, aec_readers, house
 
 
 class Command(BaseCommand, aec_readers.AECReader):
-    N = 3
+    N = 300
     YEARS = (2022, 2016, )
     PARTY_ABBREVIATION = 'GRN'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")

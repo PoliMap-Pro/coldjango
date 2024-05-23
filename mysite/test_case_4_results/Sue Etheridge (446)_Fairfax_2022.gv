@@ -2,48 +2,48 @@
 digraph "Sue Etheridge (446)_Fairfax_2022" {
 	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Etheridge (446)" [label="Sue Etheridge (446)
-Queensland Greens"]
-	"Nikki Civitarese (451)" [label="Nikki Civitarese (451)
-Pauline Hanson's One Nation"]
-	"Lisa Khoury (448)" [label="Lisa Khoury (448)
-United Australia Party"]
-	"Wendy Hazelton (443)" [label="Wendy Hazelton (443)
-Informed Medical Options Party"]
-	"Tash Poole (444)" [label="Tash Poole (444)
-Animal Justice Party"]
 	"Barry Smith (445)" [label="Barry Smith (445)
 Independent"]
 	"Craig White (450)" [label="Craig White (450)
 The Great Australian Party"]
+	"Lisa Khoury (448)" [label="Lisa Khoury (448)
+United Australia Party"]
+	"Nikki Civitarese (451)" [label="Nikki Civitarese (451)
+Pauline Hanson's One Nation"]
 	"Sinim Barbara Australie (447)" [label="Sinim Barbara Australie (447)
 Independent"]
-	"Nikki Civitarese (451)" -> "Sue Etheridge (446)" [label=4333]
-	"Lisa Khoury (448)" -> "Nikki Civitarese (451)" [label=5521]
-	"Wendy Hazelton (443)" -> "Lisa Khoury (448)" [label=967]
-	"Tash Poole (444)" -> "Wendy Hazelton (443)" [label=748]
-	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
-	"Craig White (450)" -> "Barry Smith (445)" [label=104]
-	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
-	"Lisa Khoury (448)" -> "Sue Etheridge (446)" [label=652]
-	"Wendy Hazelton (443)" -> "Sue Etheridge (446)" [label=727]
-	"Tash Poole (444)" -> "Sue Etheridge (446)" [label=964]
+	"Sue Etheridge (446)" [label="Sue Etheridge (446)
+Queensland Greens"]
+	"Tash Poole (444)" [label="Tash Poole (444)
+Animal Justice Party"]
+	"Wendy Hazelton (443)" [label="Wendy Hazelton (443)
+Informed Medical Options Party"]
+	"Barry Smith (445)" -> "Lisa Khoury (448)" [label=180]
+	"Barry Smith (445)" -> "Nikki Civitarese (451)" [label=276]
 	"Barry Smith (445)" -> "Sue Etheridge (446)" [label=289]
-	"Craig White (450)" -> "Sue Etheridge (446)" [label=54]
-	"Sinim Barbara Australie (447)" -> "Sue Etheridge (446)" [label=95]
-	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
-	"Craig White (450)" -> "Tash Poole (444)" [label=53]
-	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
+	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
 	"Barry Smith (445)" -> "Wendy Hazelton (443)" [label=359]
+	"Craig White (450)" -> "Barry Smith (445)" [label=104]
+	"Craig White (450)" -> "Lisa Khoury (448)" [label=199]
+	"Craig White (450)" -> "Nikki Civitarese (451)" [label=389]
+	"Craig White (450)" -> "Sue Etheridge (446)" [label=54]
+	"Craig White (450)" -> "Tash Poole (444)" [label=53]
 	"Craig White (450)" -> "Wendy Hazelton (443)" [label=443]
+	"Lisa Khoury (448)" -> "Nikki Civitarese (451)" [label=5521]
+	"Lisa Khoury (448)" -> "Sue Etheridge (446)" [label=652]
+	"Nikki Civitarese (451)" -> "Sue Etheridge (446)" [label=4333]
+	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
+	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
+	"Sinim Barbara Australie (447)" -> "Lisa Khoury (448)" [label=38]
+	"Sinim Barbara Australie (447)" -> "Nikki Civitarese (451)" [label=54]
+	"Sinim Barbara Australie (447)" -> "Sue Etheridge (446)" [label=95]
+	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
 	"Sinim Barbara Australie (447)" -> "Wendy Hazelton (443)" [label=24]
 	"Tash Poole (444)" -> "Lisa Khoury (448)" [label=172]
-	"Barry Smith (445)" -> "Lisa Khoury (448)" [label=180]
-	"Craig White (450)" -> "Lisa Khoury (448)" [label=199]
-	"Sinim Barbara Australie (447)" -> "Lisa Khoury (448)" [label=38]
-	"Wendy Hazelton (443)" -> "Nikki Civitarese (451)" [label=1410]
 	"Tash Poole (444)" -> "Nikki Civitarese (451)" [label=226]
-	"Barry Smith (445)" -> "Nikki Civitarese (451)" [label=276]
-	"Craig White (450)" -> "Nikki Civitarese (451)" [label=389]
-	"Sinim Barbara Australie (447)" -> "Nikki Civitarese (451)" [label=54]
+	"Tash Poole (444)" -> "Sue Etheridge (446)" [label=964]
+	"Tash Poole (444)" -> "Wendy Hazelton (443)" [label=748]
+	"Wendy Hazelton (443)" -> "Lisa Khoury (448)" [label=967]
+	"Wendy Hazelton (443)" -> "Nikki Civitarese (451)" [label=1410]
+	"Wendy Hazelton (443)" -> "Sue Etheridge (446)" [label=727]
 }

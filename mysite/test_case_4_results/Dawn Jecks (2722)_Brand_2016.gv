@@ -9,6 +9,6 @@ Rise Up Australia Party"]
 	"Robert Burdett (2721)" [label="Robert Burdett (2721)
 Australian Christians"]
 	"Philip Scott (2720)" -> "Dawn Jecks (2722)" [label=1469]
-	"Robert Burdett (2721)" -> "Philip Scott (2720)" [label=1267]
 	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=299]
+	"Robert Burdett (2721)" -> "Philip Scott (2720)" [label=1267]
 }

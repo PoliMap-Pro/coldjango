@@ -2,31 +2,31 @@
 digraph "Jack Boddeke (971)_Lalor_2022" {
 	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
+Independent"]
+	"Claudio Uribe (965)" [label="Claudio Uribe (965)
+Victorian Socialists"]
 	"Jack Boddeke (971)" [label="Jack Boddeke (971)
 The Greens"]
 	"James Ingarfill (970)" [label="James Ingarfill (970)
 Pauline Hanson's One Nation"]
 	"Patrizia Barcatta (968)" [label="Patrizia Barcatta (968)
 Liberal Democrats"]
-	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
-Independent"]
-	"Claudio Uribe (965)" [label="Claudio Uribe (965)
-Victorian Socialists"]
 	"Peter Malliaros (969)" [label="Peter Malliaros (969)
 Australian Federation Party"]
-	"James Ingarfill (970)" -> "Jack Boddeke (971)" [label=667]
-	"Patrizia Barcatta (968)" -> "James Ingarfill (970)" [label=696]
+	"Aijaz Moinuddin (964)" -> "Jack Boddeke (971)" [label=440]
+	"Aijaz Moinuddin (964)" -> "James Ingarfill (970)" [label=211]
 	"Aijaz Moinuddin (964)" -> "Patrizia Barcatta (968)" [label=253]
 	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
-	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
-	"Patrizia Barcatta (968)" -> "Jack Boddeke (971)" [label=341]
-	"Aijaz Moinuddin (964)" -> "Jack Boddeke (971)" [label=440]
 	"Claudio Uribe (965)" -> "Jack Boddeke (971)" [label=600]
-	"Peter Malliaros (969)" -> "Jack Boddeke (971)" [label=82]
-	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
-	"Claudio Uribe (965)" -> "Patrizia Barcatta (968)" [label=69]
-	"Peter Malliaros (969)" -> "Patrizia Barcatta (968)" [label=197]
-	"Aijaz Moinuddin (964)" -> "James Ingarfill (970)" [label=211]
 	"Claudio Uribe (965)" -> "James Ingarfill (970)" [label=60]
+	"Claudio Uribe (965)" -> "Patrizia Barcatta (968)" [label=69]
+	"James Ingarfill (970)" -> "Jack Boddeke (971)" [label=667]
+	"Patrizia Barcatta (968)" -> "Jack Boddeke (971)" [label=341]
+	"Patrizia Barcatta (968)" -> "James Ingarfill (970)" [label=696]
+	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
+	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
+	"Peter Malliaros (969)" -> "Jack Boddeke (971)" [label=82]
 	"Peter Malliaros (969)" -> "James Ingarfill (970)" [label=175]
+	"Peter Malliaros (969)" -> "Patrizia Barcatta (968)" [label=197]
 }
