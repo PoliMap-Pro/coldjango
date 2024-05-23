@@ -10,8 +10,6 @@ def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
         party_set, place_set, places, result, tally_attribute, sum_booths,
         return_format) for
      election in house.HouseElection.get_set(elections)]
-    print(result)
-    exit()
     return json.dumps(result)
 
 

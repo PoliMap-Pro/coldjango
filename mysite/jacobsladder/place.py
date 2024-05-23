@@ -171,7 +171,7 @@ class Seat(abstract_models.Beacon):
 
     def __str__(self):
         return f"{self.__class__.__name__} {self.name} in " \
-               f"{self.state} ({self.pk})"
+               f"{self.state}"
 
 
 class SeatChange(abstract_models.Transition):
@@ -257,7 +257,7 @@ class Booth(geography.Pin):
     def __str__(self):
         if self.name:
             return f"{self.__class__.__name__} {self.name} in " \
-                   f"{self.seat} ({self.pk})"
+                   f"{self.seat}"
         return f"{self.__class__.__name__} #{self.pk}"
 
 

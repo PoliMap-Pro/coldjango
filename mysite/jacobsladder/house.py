@@ -61,19 +61,8 @@ class HouseElection(abstract_models.Election):
                         tally_attribute), ]
             if constants.SERIES not in parent_result:
                 parent_result[constants.SERIES] = [
-                    {constants.RETURN_NAME: constants.RETURN_YEAR,
-                     constants.DATA: []},
-                    {constants.RETURN_NAME: constants.PLACE_NAME,
-                     constants.DATA: []},
-                    {constants.RETURN_NAME: constants.ATTRIBUTE_NAME,
-                     constants.DATA: []},
-                    {constants.RETURN_NAME: constants.RETURN_GROUPING,
-                     constants.DATA: []},
-                    {constants.RETURN_NAME: constants.RETURN_VOTES,
-                     constants.DATA: []},
-                    {constants.RETURN_NAME: constants.RETURN_PERCENTAGE,
-                     constants.DATA: []},
-                ]
+                    {constants.RETURN_NAME: name, constants.DATA: []} for name
+                    in constants.SPREADSHEET_NAMES]
             return parent_result
         return {}
 

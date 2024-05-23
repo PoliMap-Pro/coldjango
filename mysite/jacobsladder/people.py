@@ -14,7 +14,7 @@ class Party(section.Part):
 
     class Meta:
         verbose_name_plural = "Parties"
-        constraints = [UniqueConstraint(fields=['abbreviation', constants.RETURN_NAME,],
+        constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
                                         name='abbreviation_and_name')]
 
     abbreviation = models.CharField(max_length=15, null=True, blank=True)
@@ -23,7 +23,9 @@ class Party(section.Part):
     created = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f"{self.name} ({self.pk})"
+        if self.abbreviation:
+            return f"{self.name} ({self.abbreviation})"
+        return self.name
 
     def short_name(self, language='english'):
         frequencies = collections.Counter([
