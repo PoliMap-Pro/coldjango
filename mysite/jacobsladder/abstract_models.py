@@ -40,12 +40,6 @@ class Beacon(geography.Pin):
     class Meta:
         abstract = True
 
-    @staticmethod
-    def transaction_format_pieces(represen, tally_attribute, vote_like, total):
-        return ((constants.RETURN_GROUPING, [str(represen.party)]), (
-            tally_attribute, [vote_like]), (constants.RETURN_PERCENTAGE, [
-            100 * vote_like / total]))
-
     state = models.CharField(max_length=9,
                              choices=model_fields.StateName.choices)
 

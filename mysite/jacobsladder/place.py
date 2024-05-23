@@ -139,13 +139,8 @@ class Seat(abstract_models.Beacon):
         votes = self.votes_for_place(
             election, representation, sum_booths, tally_attribute,
             return_format=return_format, election_result=election_result)
-        if return_format == constants.TRANSACTION_FORMAT:
-            [result.append({constants.RETURN_NAME: name_part,
-                            constants.RETURN_VALUES: values_part}) for
-             name_part, values_part in Seat.transaction_format_pieces(
-                representation, tally_attribute, votes, total)]
-        else:
-            Seat.update_result(result, representation, votes, total)
+        self.format_results(representation, result, return_format,
+                            tally_attribute, total, votes)
 
     def setup_source(self, election, last_preference, preference_rounds,
                      target_index):
@@ -244,9 +239,10 @@ class Booth(geography.Pin):
                             'candidate': candidate}
         keep_query(return_format, election_result, query_parameters,
                    model=house.VoteTally)
-        Booth.update_result(
-            result, representation, getattr(house.VoteTally.objects.get(
-                **query_parameters), tally_attribute) or default, total)
+        self.format_results(representation, result, return_format,
+                            tally_attribute, total, getattr(
+                                house.VoteTally.objects.get(**query_parameters),
+                                tally_attribute) or default)
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):

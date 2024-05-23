@@ -10,7 +10,6 @@ class Command(BaseCommand):
             {'election_date__year__in': (2022, 2016, 2010)},
             {'abbreviation__in': ('GRN', 'ALP', 'LP')},
             {'name': 'Aston'},))
-        exit()
         print()
         print(endpoints.getHousePrimaryVote(
             {'election_date__year': 2022},
@@ -39,7 +38,6 @@ class Command(BaseCommand):
             {'election_date__year__in': (2022, 2016, 2010)},
             {'name': 'Aston'},
             how_many=3))
-
         print(endpoints.getMetaParties())
         print()
         endpoints.addMetaParties(
