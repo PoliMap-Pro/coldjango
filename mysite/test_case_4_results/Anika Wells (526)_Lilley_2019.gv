@@ -4,29 +4,29 @@ digraph "Anika Wells (526)_Lilley_2019" {
 	node [shape=box]
 	"Anika Wells (526)" [label="Anika Wells (526)
 Australian Labor Party"]
-	"John Meyer (1579)" [label="John Meyer (1579)
-The Greens"]
-	"Tracey Bell-Henselin (302)" [label="Tracey Bell-Henselin (302)
-Pauline Hanson's One Nation"]
 	"David Bruce Mcclaer (1580)" [label="David Bruce Mcclaer (1580)
 United Australia Party"]
 	"Don Coles (1576)" [label="Don Coles (1576)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"John Meyer (1579)" [label="John Meyer (1579)
+The Greens"]
 	"Mike Crook (1577)" [label="Mike Crook (1577)
 Socialist Alliance"]
-	"John Meyer (1579)" -> "Anika Wells (526)" [label=12599]
-	"Tracey Bell-Henselin (302)" -> "John Meyer (1579)" [label=1376]
-	"David Bruce Mcclaer (1580)" -> "Tracey Bell-Henselin (302)" [label=940]
-	"Don Coles (1576)" -> "David Bruce Mcclaer (1580)" [label=152]
-	"Mike Crook (1577)" -> "Don Coles (1576)" [label=85]
-	"Tracey Bell-Henselin (302)" -> "Anika Wells (526)" [label=1364]
+	"Tracey Bell-Henselin (302)" [label="Tracey Bell-Henselin (302)
+Pauline Hanson's One Nation"]
 	"David Bruce Mcclaer (1580)" -> "Anika Wells (526)" [label=309]
+	"David Bruce Mcclaer (1580)" -> "John Meyer (1579)" [label=356]
+	"David Bruce Mcclaer (1580)" -> "Tracey Bell-Henselin (302)" [label=940]
 	"Don Coles (1576)" -> "Anika Wells (526)" [label=89]
+	"Don Coles (1576)" -> "David Bruce Mcclaer (1580)" [label=152]
+	"Don Coles (1576)" -> "John Meyer (1579)" [label=94]
+	"Don Coles (1576)" -> "Tracey Bell-Henselin (302)" [label=688]
+	"John Meyer (1579)" -> "Anika Wells (526)" [label=12599]
 	"Mike Crook (1577)" -> "Anika Wells (526)" [label=122]
 	"Mike Crook (1577)" -> "David Bruce Mcclaer (1580)" [label=38]
-	"Don Coles (1576)" -> "Tracey Bell-Henselin (302)" [label=688]
-	"Mike Crook (1577)" -> "Tracey Bell-Henselin (302)" [label=58]
-	"David Bruce Mcclaer (1580)" -> "John Meyer (1579)" [label=356]
-	"Don Coles (1576)" -> "John Meyer (1579)" [label=94]
+	"Mike Crook (1577)" -> "Don Coles (1576)" [label=85]
 	"Mike Crook (1577)" -> "John Meyer (1579)" [label=376]
+	"Mike Crook (1577)" -> "Tracey Bell-Henselin (302)" [label=58]
+	"Tracey Bell-Henselin (302)" -> "Anika Wells (526)" [label=1364]
+	"Tracey Bell-Henselin (302)" -> "John Meyer (1579)" [label=1376]
 }

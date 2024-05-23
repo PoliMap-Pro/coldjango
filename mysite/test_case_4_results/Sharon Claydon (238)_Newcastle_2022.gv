@@ -2,39 +2,39 @@
 digraph "Sharon Claydon (238)_Newcastle_2022" {
 	graph [label="Newcastle 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sharon Claydon (238)" [label="Sharon Claydon (238)
-Labor"]
-	"Charlotte Mccabe (236)" [label="Charlotte Mccabe (236)
-The Greens"]
-	"Mark James Watson (241)" [label="Mark James Watson (241)
-Pauline Hanson's One Nation"]
-	"Emily Brollo (242)" [label="Emily Brollo (242)
-Animal Justice Party"]
 	"Amanda Cook (237)" [label="Amanda Cook (237)
 United Australia Party"]
-	"William Hussey (239)" [label="William Hussey (239)
-Informed Medical Options Party"]
+	"Charlotte Mccabe (236)" [label="Charlotte Mccabe (236)
+The Greens"]
+	"Emily Brollo (242)" [label="Emily Brollo (242)
+Animal Justice Party"]
 	"Garth Pywell (235)" [label="Garth Pywell (235)
 Australian Federation Party"]
-	"Charlotte Mccabe (236)" -> "Sharon Claydon (238)" [label=22458]
-	"Mark James Watson (241)" -> "Charlotte Mccabe (236)" [label=1935]
-	"Emily Brollo (242)" -> "Mark James Watson (241)" [label=691]
-	"Amanda Cook (237)" -> "Emily Brollo (242)" [label=262]
-	"William Hussey (239)" -> "Amanda Cook (237)" [label=193]
-	"Garth Pywell (235)" -> "William Hussey (239)" [label=119]
-	"Mark James Watson (241)" -> "Sharon Claydon (238)" [label=1588]
-	"Emily Brollo (242)" -> "Sharon Claydon (238)" [label=566]
-	"Amanda Cook (237)" -> "Sharon Claydon (238)" [label=412]
-	"William Hussey (239)" -> "Sharon Claydon (238)" [label=115]
-	"Garth Pywell (235)" -> "Sharon Claydon (238)" [label=117]
-	"Garth Pywell (235)" -> "Amanda Cook (237)" [label=168]
-	"William Hussey (239)" -> "Emily Brollo (242)" [label=283]
-	"Garth Pywell (235)" -> "Emily Brollo (242)" [label=83]
-	"Amanda Cook (237)" -> "Mark James Watson (241)" [label=1479]
-	"William Hussey (239)" -> "Mark James Watson (241)" [label=397]
-	"Garth Pywell (235)" -> "Mark James Watson (241)" [label=92]
-	"Emily Brollo (242)" -> "Charlotte Mccabe (236)" [label=1549]
+	"Mark James Watson (241)" [label="Mark James Watson (241)
+Pauline Hanson's One Nation"]
+	"Sharon Claydon (238)" [label="Sharon Claydon (238)
+Labor"]
+	"William Hussey (239)" [label="William Hussey (239)
+Informed Medical Options Party"]
 	"Amanda Cook (237)" -> "Charlotte Mccabe (236)" [label=359]
-	"William Hussey (239)" -> "Charlotte Mccabe (236)" [label=161]
+	"Amanda Cook (237)" -> "Emily Brollo (242)" [label=262]
+	"Amanda Cook (237)" -> "Mark James Watson (241)" [label=1479]
+	"Amanda Cook (237)" -> "Sharon Claydon (238)" [label=412]
+	"Charlotte Mccabe (236)" -> "Sharon Claydon (238)" [label=22458]
+	"Emily Brollo (242)" -> "Charlotte Mccabe (236)" [label=1549]
+	"Emily Brollo (242)" -> "Mark James Watson (241)" [label=691]
+	"Emily Brollo (242)" -> "Sharon Claydon (238)" [label=566]
+	"Garth Pywell (235)" -> "Amanda Cook (237)" [label=168]
 	"Garth Pywell (235)" -> "Charlotte Mccabe (236)" [label=433]
+	"Garth Pywell (235)" -> "Emily Brollo (242)" [label=83]
+	"Garth Pywell (235)" -> "Mark James Watson (241)" [label=92]
+	"Garth Pywell (235)" -> "Sharon Claydon (238)" [label=117]
+	"Garth Pywell (235)" -> "William Hussey (239)" [label=119]
+	"Mark James Watson (241)" -> "Charlotte Mccabe (236)" [label=1935]
+	"Mark James Watson (241)" -> "Sharon Claydon (238)" [label=1588]
+	"William Hussey (239)" -> "Amanda Cook (237)" [label=193]
+	"William Hussey (239)" -> "Charlotte Mccabe (236)" [label=161]
+	"William Hussey (239)" -> "Emily Brollo (242)" [label=283]
+	"William Hussey (239)" -> "Mark James Watson (241)" [label=397]
+	"William Hussey (239)" -> "Sharon Claydon (238)" [label=115]
 }

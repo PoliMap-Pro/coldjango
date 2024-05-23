@@ -2,31 +2,31 @@
 digraph "Sharyn Morrow (1954)_Durack_2019" {
 	graph [label="Durack 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sharyn Morrow (1954)" [label="Sharyn Morrow (1954)
-Australian Labor Party"]
-	"Scott Bourne (1956)" [label="Scott Bourne (1956)
-The Nationals"]
+	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
+United Australia Party"]
+	"Gary Mounsey (1951)" [label="Gary Mounsey (1951)
+WESTERN AUSTRALIA PARTY"]
 	"Grahame Gould (1952)" [label="Grahame Gould (1952)
 Pauline Hanson's One Nation"]
 	"Johani Mamid (1953)" [label="Johani Mamid (1953)
 The Greens (WA)"]
-	"Gary Mounsey (1951)" [label="Gary Mounsey (1951)
-WESTERN AUSTRALIA PARTY"]
-	"Brenden Hatton (1955)" [label="Brenden Hatton (1955)
-United Australia Party"]
-	"Scott Bourne (1956)" -> "Sharyn Morrow (1954)" [label=4106]
-	"Grahame Gould (1952)" -> "Scott Bourne (1956)" [label=4216]
-	"Johani Mamid (1953)" -> "Grahame Gould (1952)" [label=636]
-	"Gary Mounsey (1951)" -> "Johani Mamid (1953)" [label=525]
+	"Scott Bourne (1956)" [label="Scott Bourne (1956)
+The Nationals"]
+	"Sharyn Morrow (1954)" [label="Sharyn Morrow (1954)
+Australian Labor Party"]
 	"Brenden Hatton (1955)" -> "Gary Mounsey (1951)" [label=258]
-	"Grahame Gould (1952)" -> "Sharyn Morrow (1954)" [label=1889]
-	"Johani Mamid (1953)" -> "Sharyn Morrow (1954)" [label=4009]
-	"Gary Mounsey (1951)" -> "Sharyn Morrow (1954)" [label=488]
-	"Brenden Hatton (1955)" -> "Sharyn Morrow (1954)" [label=155]
-	"Brenden Hatton (1955)" -> "Johani Mamid (1953)" [label=149]
-	"Gary Mounsey (1951)" -> "Grahame Gould (1952)" [label=785]
 	"Brenden Hatton (1955)" -> "Grahame Gould (1952)" [label=699]
-	"Johani Mamid (1953)" -> "Scott Bourne (1956)" [label=1219]
-	"Gary Mounsey (1951)" -> "Scott Bourne (1956)" [label=553]
+	"Brenden Hatton (1955)" -> "Johani Mamid (1953)" [label=149]
 	"Brenden Hatton (1955)" -> "Scott Bourne (1956)" [label=339]
+	"Brenden Hatton (1955)" -> "Sharyn Morrow (1954)" [label=155]
+	"Gary Mounsey (1951)" -> "Grahame Gould (1952)" [label=785]
+	"Gary Mounsey (1951)" -> "Johani Mamid (1953)" [label=525]
+	"Gary Mounsey (1951)" -> "Scott Bourne (1956)" [label=553]
+	"Gary Mounsey (1951)" -> "Sharyn Morrow (1954)" [label=488]
+	"Grahame Gould (1952)" -> "Scott Bourne (1956)" [label=4216]
+	"Grahame Gould (1952)" -> "Sharyn Morrow (1954)" [label=1889]
+	"Johani Mamid (1953)" -> "Grahame Gould (1952)" [label=636]
+	"Johani Mamid (1953)" -> "Scott Bourne (1956)" [label=1219]
+	"Johani Mamid (1953)" -> "Sharyn Morrow (1954)" [label=4009]
+	"Scott Bourne (1956)" -> "Sharyn Morrow (1954)" [label=4106]
 }

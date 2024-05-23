@@ -2,39 +2,39 @@
 digraph "Steve Mcmahon (2803)_Barton_2013" {
 	graph [label="Barton 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Steve Mcmahon (2803)" [label="Steve Mcmahon (2803)
-Labor"]
-	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
-The Greens"]
 	"Edward Caruana (2800)" [label="Edward Caruana (2800)
 Palmer United Party"]
-	"Michael Nagi (2801)" [label="Michael Nagi (2801)
-Independent"]
+	"Jackie Brooker (2805)" [label="Jackie Brooker (2805)
+The Greens"]
 	"Kylie Mary French (2804)" [label="Kylie Mary French (2804)
 Christian Democratic Party (Fred Nile Group)"]
+	"Michael Nagi (2801)" [label="Michael Nagi (2801)
+Independent"]
 	"Perry Theo (2802)" [label="Perry Theo (2802)
 One Nation"]
 	"Rodney Tim Wyse (2806)" [label="Rodney Tim Wyse (2806)
 Katter's Australian Party"]
-	"Jackie Brooker (2805)" -> "Steve Mcmahon (2803)" [label=5060]
+	"Steve Mcmahon (2803)" [label="Steve Mcmahon (2803)
+Labor"]
 	"Edward Caruana (2800)" -> "Jackie Brooker (2805)" [label=808]
-	"Michael Nagi (2801)" -> "Edward Caruana (2800)" [label=909]
-	"Kylie Mary French (2804)" -> "Michael Nagi (2801)" [label=174]
-	"Perry Theo (2802)" -> "Kylie Mary French (2804)" [label=76]
-	"Rodney Tim Wyse (2806)" -> "Perry Theo (2802)" [label=52]
 	"Edward Caruana (2800)" -> "Steve Mcmahon (2803)" [label=1064]
-	"Michael Nagi (2801)" -> "Steve Mcmahon (2803)" [label=787]
-	"Kylie Mary French (2804)" -> "Steve Mcmahon (2803)" [label=284]
-	"Perry Theo (2802)" -> "Steve Mcmahon (2803)" [label=149]
-	"Rodney Tim Wyse (2806)" -> "Steve Mcmahon (2803)" [label=67]
-	"Rodney Tim Wyse (2806)" -> "Kylie Mary French (2804)" [label=115]
-	"Perry Theo (2802)" -> "Michael Nagi (2801)" [label=133]
-	"Rodney Tim Wyse (2806)" -> "Michael Nagi (2801)" [label=64]
+	"Jackie Brooker (2805)" -> "Steve Mcmahon (2803)" [label=5060]
 	"Kylie Mary French (2804)" -> "Edward Caruana (2800)" [label=178]
-	"Perry Theo (2802)" -> "Edward Caruana (2800)" [label=162]
-	"Rodney Tim Wyse (2806)" -> "Edward Caruana (2800)" [label=105]
-	"Michael Nagi (2801)" -> "Jackie Brooker (2805)" [label=412]
 	"Kylie Mary French (2804)" -> "Jackie Brooker (2805)" [label=202]
+	"Kylie Mary French (2804)" -> "Michael Nagi (2801)" [label=174]
+	"Kylie Mary French (2804)" -> "Steve Mcmahon (2803)" [label=284]
+	"Michael Nagi (2801)" -> "Edward Caruana (2800)" [label=909]
+	"Michael Nagi (2801)" -> "Jackie Brooker (2805)" [label=412]
+	"Michael Nagi (2801)" -> "Steve Mcmahon (2803)" [label=787]
+	"Perry Theo (2802)" -> "Edward Caruana (2800)" [label=162]
 	"Perry Theo (2802)" -> "Jackie Brooker (2805)" [label=60]
+	"Perry Theo (2802)" -> "Kylie Mary French (2804)" [label=76]
+	"Perry Theo (2802)" -> "Michael Nagi (2801)" [label=133]
+	"Perry Theo (2802)" -> "Steve Mcmahon (2803)" [label=149]
+	"Rodney Tim Wyse (2806)" -> "Edward Caruana (2800)" [label=105]
 	"Rodney Tim Wyse (2806)" -> "Jackie Brooker (2805)" [label=113]
+	"Rodney Tim Wyse (2806)" -> "Kylie Mary French (2804)" [label=115]
+	"Rodney Tim Wyse (2806)" -> "Michael Nagi (2801)" [label=64]
+	"Rodney Tim Wyse (2806)" -> "Perry Theo (2802)" [label=52]
+	"Rodney Tim Wyse (2806)" -> "Steve Mcmahon (2803)" [label=67]
 }

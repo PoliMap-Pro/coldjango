@@ -2,24 +2,24 @@
 digraph "Justine Elliot (300)_Richmond_2016" {
 	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Justine Elliot (300)" [label="Justine Elliot (300)
-Labor"]
-	"Dawn Walker (2215)" [label="Dawn Walker (2215)
-The Greens"]
-	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
-Pauline Hanson's One Nation"]
 	"Angela Pollard (2213)" [label="Angela Pollard (2213)
 Animal Justice Party"]
+	"Dawn Walker (2215)" [label="Dawn Walker (2215)
+The Greens"]
+	"Justine Elliot (300)" [label="Justine Elliot (300)
+Labor"]
+	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
+Pauline Hanson's One Nation"]
 	"Russell Kilarney (2216)" [label="Russell Kilarney (2216)
 Christian Democratic Party (Fred Nile Group)"]
+	"Angela Pollard (2213)" -> "Dawn Walker (2215)" [label=1483]
+	"Angela Pollard (2213)" -> "Justine Elliot (300)" [label=427]
+	"Angela Pollard (2213)" -> "Neil Gordon Smith (2214)" [label=932]
 	"Dawn Walker (2215)" -> "Justine Elliot (300)" [label=19796]
 	"Neil Gordon Smith (2214)" -> "Dawn Walker (2215)" [label=1946]
-	"Angela Pollard (2213)" -> "Neil Gordon Smith (2214)" [label=932]
-	"Russell Kilarney (2216)" -> "Angela Pollard (2213)" [label=132]
 	"Neil Gordon Smith (2214)" -> "Justine Elliot (300)" [label=2174]
-	"Angela Pollard (2213)" -> "Justine Elliot (300)" [label=427]
+	"Russell Kilarney (2216)" -> "Angela Pollard (2213)" [label=132]
+	"Russell Kilarney (2216)" -> "Dawn Walker (2215)" [label=91]
 	"Russell Kilarney (2216)" -> "Justine Elliot (300)" [label=144]
 	"Russell Kilarney (2216)" -> "Neil Gordon Smith (2214)" [label=289]
-	"Angela Pollard (2213)" -> "Dawn Walker (2215)" [label=1483]
-	"Russell Kilarney (2216)" -> "Dawn Walker (2215)" [label=91]
 }

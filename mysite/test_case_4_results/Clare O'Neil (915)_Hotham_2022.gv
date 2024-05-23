@@ -2,24 +2,24 @@
 digraph "Clare O'Neil (915)_Hotham_2022" {
 	graph [label="Hotham 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Clare O'Neil (915)" [label="Clare O'Neil (915)
-Australian Labor Party"]
-	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
-The Greens"]
-	"Edward Sok (914)" [label="Edward Sok (914)
-Liberal Democrats"]
 	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
 United Australia Party"]
+	"Clare O'Neil (915)" [label="Clare O'Neil (915)
+Australian Labor Party"]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
+The Greens"]
 	"Roger Tull (918)" [label="Roger Tull (918)
 Pauline Hanson's One Nation"]
-	"Louisa Willoughby (916)" -> "Clare O'Neil (915)" [label=12852]
-	"Edward Sok (914)" -> "Louisa Willoughby (916)" [label=1580]
-	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
-	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
-	"Edward Sok (914)" -> "Clare O'Neil (915)" [label=2906]
 	"Bruce Scott Ridgway (917)" -> "Clare O'Neil (915)" [label=1241]
+	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
+	"Bruce Scott Ridgway (917)" -> "Louisa Willoughby (916)" [label=1391]
+	"Edward Sok (914)" -> "Clare O'Neil (915)" [label=2906]
+	"Edward Sok (914)" -> "Louisa Willoughby (916)" [label=1580]
+	"Louisa Willoughby (916)" -> "Clare O'Neil (915)" [label=12852]
+	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
 	"Roger Tull (918)" -> "Clare O'Neil (915)" [label=248]
 	"Roger Tull (918)" -> "Edward Sok (914)" [label=728]
-	"Bruce Scott Ridgway (917)" -> "Louisa Willoughby (916)" [label=1391]
 	"Roger Tull (918)" -> "Louisa Willoughby (916)" [label=223]
 }

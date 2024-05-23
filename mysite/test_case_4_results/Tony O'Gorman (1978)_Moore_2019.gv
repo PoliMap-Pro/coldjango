@@ -2,39 +2,39 @@
 digraph "Tony O'Gorman (1978)_Moore_2019" {
 	graph [label="Moore 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony O'Gorman (1978)" [label="Tony O'Gorman (1978)
-Australian Labor Party"]
 	"Daniel Vujcich (1975)" [label="Daniel Vujcich (1975)
 The Greens (WA)"]
-	"Tyler Walsh (1097)" [label="Tyler Walsh (1097)
-Pauline Hanson's One Nation"]
-	"Ziggi Murphy (1979)" [label="Ziggi Murphy (1979)
-Independent"]
-	"Rod Chilcott (1980)" [label="Rod Chilcott (1980)
-United Australia Party"]
 	"Jen Jacobs (1977)" [label="Jen Jacobs (1977)
 WESTERN AUSTRALIA PARTY"]
 	"Rex Host (1976)" [label="Rex Host (1976)
 Australian Christians"]
+	"Rod Chilcott (1980)" [label="Rod Chilcott (1980)
+United Australia Party"]
+	"Tony O'Gorman (1978)" [label="Tony O'Gorman (1978)
+Australian Labor Party"]
+	"Tyler Walsh (1097)" [label="Tyler Walsh (1097)
+Pauline Hanson's One Nation"]
+	"Ziggi Murphy (1979)" [label="Ziggi Murphy (1979)
+Independent"]
 	"Daniel Vujcich (1975)" -> "Tony O'Gorman (1978)" [label=9756]
-	"Tyler Walsh (1097)" -> "Daniel Vujcich (1975)" [label=1213]
-	"Ziggi Murphy (1979)" -> "Tyler Walsh (1097)" [label=490]
-	"Rod Chilcott (1980)" -> "Ziggi Murphy (1979)" [label=324]
-	"Jen Jacobs (1977)" -> "Rod Chilcott (1980)" [label=130]
-	"Rex Host (1976)" -> "Jen Jacobs (1977)" [label=103]
-	"Tyler Walsh (1097)" -> "Tony O'Gorman (1978)" [label=1152]
-	"Ziggi Murphy (1979)" -> "Tony O'Gorman (1978)" [label=836]
-	"Rod Chilcott (1980)" -> "Tony O'Gorman (1978)" [label=163]
-	"Jen Jacobs (1977)" -> "Tony O'Gorman (1978)" [label=296]
-	"Rex Host (1976)" -> "Tony O'Gorman (1978)" [label=81]
-	"Rex Host (1976)" -> "Rod Chilcott (1980)" [label=50]
-	"Jen Jacobs (1977)" -> "Ziggi Murphy (1979)" [label=356]
-	"Rex Host (1976)" -> "Ziggi Murphy (1979)" [label=65]
-	"Rod Chilcott (1980)" -> "Tyler Walsh (1097)" [label=535]
-	"Jen Jacobs (1977)" -> "Tyler Walsh (1097)" [label=156]
-	"Rex Host (1976)" -> "Tyler Walsh (1097)" [label=118]
-	"Ziggi Murphy (1979)" -> "Daniel Vujcich (1975)" [label=1030]
-	"Rod Chilcott (1980)" -> "Daniel Vujcich (1975)" [label=150]
 	"Jen Jacobs (1977)" -> "Daniel Vujcich (1975)" [label=273]
+	"Jen Jacobs (1977)" -> "Rod Chilcott (1980)" [label=130]
+	"Jen Jacobs (1977)" -> "Tony O'Gorman (1978)" [label=296]
+	"Jen Jacobs (1977)" -> "Tyler Walsh (1097)" [label=156]
+	"Jen Jacobs (1977)" -> "Ziggi Murphy (1979)" [label=356]
 	"Rex Host (1976)" -> "Daniel Vujcich (1975)" [label=81]
+	"Rex Host (1976)" -> "Jen Jacobs (1977)" [label=103]
+	"Rex Host (1976)" -> "Rod Chilcott (1980)" [label=50]
+	"Rex Host (1976)" -> "Tony O'Gorman (1978)" [label=81]
+	"Rex Host (1976)" -> "Tyler Walsh (1097)" [label=118]
+	"Rex Host (1976)" -> "Ziggi Murphy (1979)" [label=65]
+	"Rod Chilcott (1980)" -> "Daniel Vujcich (1975)" [label=150]
+	"Rod Chilcott (1980)" -> "Tony O'Gorman (1978)" [label=163]
+	"Rod Chilcott (1980)" -> "Tyler Walsh (1097)" [label=535]
+	"Rod Chilcott (1980)" -> "Ziggi Murphy (1979)" [label=324]
+	"Tyler Walsh (1097)" -> "Daniel Vujcich (1975)" [label=1213]
+	"Tyler Walsh (1097)" -> "Tony O'Gorman (1978)" [label=1152]
+	"Ziggi Murphy (1979)" -> "Daniel Vujcich (1975)" [label=1030]
+	"Ziggi Murphy (1979)" -> "Tony O'Gorman (1978)" [label=836]
+	"Ziggi Murphy (1979)" -> "Tyler Walsh (1097)" [label=490]
 }

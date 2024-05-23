@@ -2,39 +2,39 @@
 digraph "Michelle Rowland (142)_Greenway_2016" {
 	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michelle Rowland (142)" [label="Michelle Rowland (142)
-Labor"]
 	"Aaron Wright (2115)" [label="Aaron Wright (2115)
 Christian Democratic Party (Fred Nile Group)"]
-	"Chris Winslow (2113)" [label="Chris Winslow (2113)
-The Greens"]
-	"Timothy Mak (2112)" [label="Timothy Mak (2112)
-Liberal Democrats"]
 	"Avtar Singh Billu (2117)" [label="Avtar Singh Billu (2117)
 Independent"]
+	"Chris Winslow (2113)" [label="Chris Winslow (2113)
+The Greens"]
+	"Michelle Rowland (142)" [label="Michelle Rowland (142)
+Labor"]
 	"Rohan Salins (2114)" [label="Rohan Salins (2114)
 Family First"]
+	"Timothy Mak (2112)" [label="Timothy Mak (2112)
+Liberal Democrats"]
 	"Vivek Singha (218)" [label="Vivek Singha (218)
 Science Party"]
 	"Aaron Wright (2115)" -> "Michelle Rowland (142)" [label=1754]
-	"Chris Winslow (2113)" -> "Aaron Wright (2115)" [label=1581]
-	"Timothy Mak (2112)" -> "Chris Winslow (2113)" [label=1202]
-	"Avtar Singh Billu (2117)" -> "Timothy Mak (2112)" [label=389]
-	"Rohan Salins (2114)" -> "Avtar Singh Billu (2117)" [label=176]
-	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
-	"Chris Winslow (2113)" -> "Michelle Rowland (142)" [label=2971]
-	"Timothy Mak (2112)" -> "Michelle Rowland (142)" [label=476]
-	"Avtar Singh Billu (2117)" -> "Michelle Rowland (142)" [label=806]
-	"Rohan Salins (2114)" -> "Michelle Rowland (142)" [label=264]
-	"Vivek Singha (218)" -> "Michelle Rowland (142)" [label=170]
-	"Vivek Singha (218)" -> "Avtar Singh Billu (2117)" [label=148]
-	"Rohan Salins (2114)" -> "Timothy Mak (2112)" [label=163]
-	"Vivek Singha (218)" -> "Timothy Mak (2112)" [label=93]
-	"Avtar Singh Billu (2117)" -> "Chris Winslow (2113)" [label=267]
-	"Rohan Salins (2114)" -> "Chris Winslow (2113)" [label=267]
-	"Vivek Singha (218)" -> "Chris Winslow (2113)" [label=267]
-	"Timothy Mak (2112)" -> "Aaron Wright (2115)" [label=487]
 	"Avtar Singh Billu (2117)" -> "Aaron Wright (2115)" [label=196]
+	"Avtar Singh Billu (2117)" -> "Chris Winslow (2113)" [label=267]
+	"Avtar Singh Billu (2117)" -> "Michelle Rowland (142)" [label=806]
+	"Avtar Singh Billu (2117)" -> "Timothy Mak (2112)" [label=389]
+	"Chris Winslow (2113)" -> "Aaron Wright (2115)" [label=1581]
+	"Chris Winslow (2113)" -> "Michelle Rowland (142)" [label=2971]
 	"Rohan Salins (2114)" -> "Aaron Wright (2115)" [label=368]
+	"Rohan Salins (2114)" -> "Avtar Singh Billu (2117)" [label=176]
+	"Rohan Salins (2114)" -> "Chris Winslow (2113)" [label=267]
+	"Rohan Salins (2114)" -> "Michelle Rowland (142)" [label=264]
+	"Rohan Salins (2114)" -> "Timothy Mak (2112)" [label=163]
+	"Timothy Mak (2112)" -> "Aaron Wright (2115)" [label=487]
+	"Timothy Mak (2112)" -> "Chris Winslow (2113)" [label=1202]
+	"Timothy Mak (2112)" -> "Michelle Rowland (142)" [label=476]
 	"Vivek Singha (218)" -> "Aaron Wright (2115)" [label=34]
+	"Vivek Singha (218)" -> "Avtar Singh Billu (2117)" [label=148]
+	"Vivek Singha (218)" -> "Chris Winslow (2113)" [label=267]
+	"Vivek Singha (218)" -> "Michelle Rowland (142)" [label=170]
+	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
+	"Vivek Singha (218)" -> "Timothy Mak (2112)" [label=93]
 }

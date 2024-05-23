@@ -2,31 +2,31 @@
 digraph "Emma Mcbride (100)_Dobell_2016" {
 	graph [label="Dobell 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Emma Mcbride (100)" [label="Emma Mcbride (100)
-Labor"]
-	"Carter Edwards (2080)" [label="Carter Edwards (2080)
-Pauline Hanson's One Nation"]
 	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
 The Greens"]
-	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
-Christian Democratic Party (Fred Nile Group)"]
+	"Carter Edwards (2080)" [label="Carter Edwards (2080)
+Pauline Hanson's One Nation"]
+	"Emma Mcbride (100)" [label="Emma Mcbride (100)
+Labor"]
 	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
 Independent"]
+	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
+Christian Democratic Party (Fred Nile Group)"]
 	"Paul Baker (2084)" [label="Paul Baker (2084)
 Independent"]
-	"Carter Edwards (2080)" -> "Emma Mcbride (100)" [label=6113]
 	"Abigail Boyd (2082)" -> "Carter Edwards (2080)" [label=796]
-	"Hadden Robert Ervin (2079)" -> "Abigail Boyd (2082)" [label=134]
-	"Gregory F Stephenson (2083)" -> "Hadden Robert Ervin (2079)" [label=187]
-	"Paul Baker (2084)" -> "Gregory F Stephenson (2083)" [label=687]
 	"Abigail Boyd (2082)" -> "Emma Mcbride (100)" [label=4597]
-	"Hadden Robert Ervin (2079)" -> "Emma Mcbride (100)" [label=366]
-	"Gregory F Stephenson (2083)" -> "Emma Mcbride (100)" [label=397]
-	"Paul Baker (2084)" -> "Emma Mcbride (100)" [label=64]
-	"Paul Baker (2084)" -> "Hadden Robert Ervin (2079)" [label=28]
+	"Carter Edwards (2080)" -> "Emma Mcbride (100)" [label=6113]
 	"Gregory F Stephenson (2083)" -> "Abigail Boyd (2082)" [label=627]
-	"Paul Baker (2084)" -> "Abigail Boyd (2082)" [label=66]
-	"Hadden Robert Ervin (2079)" -> "Carter Edwards (2080)" [label=966]
 	"Gregory F Stephenson (2083)" -> "Carter Edwards (2080)" [label=389]
+	"Gregory F Stephenson (2083)" -> "Emma Mcbride (100)" [label=397]
+	"Gregory F Stephenson (2083)" -> "Hadden Robert Ervin (2079)" [label=187]
+	"Hadden Robert Ervin (2079)" -> "Abigail Boyd (2082)" [label=134]
+	"Hadden Robert Ervin (2079)" -> "Carter Edwards (2080)" [label=966]
+	"Hadden Robert Ervin (2079)" -> "Emma Mcbride (100)" [label=366]
+	"Paul Baker (2084)" -> "Abigail Boyd (2082)" [label=66]
 	"Paul Baker (2084)" -> "Carter Edwards (2080)" [label=40]
+	"Paul Baker (2084)" -> "Emma Mcbride (100)" [label=64]
+	"Paul Baker (2084)" -> "Gregory F Stephenson (2083)" [label=687]
+	"Paul Baker (2084)" -> "Hadden Robert Ervin (2079)" [label=28]
 }

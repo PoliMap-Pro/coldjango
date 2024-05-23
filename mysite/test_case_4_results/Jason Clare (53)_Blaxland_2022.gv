@@ -2,18 +2,18 @@
 digraph "Jason Clare (53)_Blaxland_2022" {
 	graph [label="Blaxland 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Clare (53)" [label="Jason Clare (53)
-Labor"]
-	"Elvis Sinosic (54)" [label="Elvis Sinosic (54)
-United Australia Party"]
-	"Linda Eisler (52)" [label="Linda Eisler (52)
-The Greens"]
 	"Adam Stepanoff (50)" [label="Adam Stepanoff (50)
 Pauline Hanson's One Nation"]
+	"Elvis Sinosic (54)" [label="Elvis Sinosic (54)
+United Australia Party"]
+	"Jason Clare (53)" [label="Jason Clare (53)
+Labor"]
+	"Linda Eisler (52)" [label="Linda Eisler (52)
+The Greens"]
+	"Adam Stepanoff (50)" -> "Elvis Sinosic (54)" [label=1886]
+	"Adam Stepanoff (50)" -> "Jason Clare (53)" [label=420]
+	"Adam Stepanoff (50)" -> "Linda Eisler (52)" [label=415]
 	"Elvis Sinosic (54)" -> "Jason Clare (53)" [label=3874]
 	"Linda Eisler (52)" -> "Elvis Sinosic (54)" [label=776]
-	"Adam Stepanoff (50)" -> "Linda Eisler (52)" [label=415]
 	"Linda Eisler (52)" -> "Jason Clare (53)" [label=3840]
-	"Adam Stepanoff (50)" -> "Jason Clare (53)" [label=420]
-	"Adam Stepanoff (50)" -> "Elvis Sinosic (54)" [label=1886]
 }

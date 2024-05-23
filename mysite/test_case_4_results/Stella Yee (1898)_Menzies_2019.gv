@@ -2,24 +2,24 @@
 digraph "Stella Yee (1898)_Menzies_2019" {
 	graph [label="Menzies 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stella Yee (1898)" [label="Stella Yee (1898)
-Australian Labor Party"]
-	"Robert Humphreys (1901)" [label="Robert Humphreys (1901)
-The Greens (VIC)"]
-	"Teresa Mary Kelleher (1896)" [label="Teresa Mary Kelleher (1896)
-Labour DLP"]
 	"Brett Stephen Fuller (1900)" [label="Brett Stephen Fuller (1900)
 United Australia Party"]
 	"Rachel Payne (1899)" [label="Rachel Payne (1899)
 Reason Australia"]
-	"Robert Humphreys (1901)" -> "Stella Yee (1898)" [label=9866]
-	"Teresa Mary Kelleher (1896)" -> "Robert Humphreys (1901)" [label=699]
+	"Robert Humphreys (1901)" [label="Robert Humphreys (1901)
+The Greens (VIC)"]
+	"Stella Yee (1898)" [label="Stella Yee (1898)
+Australian Labor Party"]
+	"Teresa Mary Kelleher (1896)" [label="Teresa Mary Kelleher (1896)
+Labour DLP"]
+	"Brett Stephen Fuller (1900)" -> "Robert Humphreys (1901)" [label=587]
+	"Brett Stephen Fuller (1900)" -> "Stella Yee (1898)" [label=369]
 	"Brett Stephen Fuller (1900)" -> "Teresa Mary Kelleher (1896)" [label=377]
 	"Rachel Payne (1899)" -> "Brett Stephen Fuller (1900)" [label=267]
-	"Teresa Mary Kelleher (1896)" -> "Stella Yee (1898)" [label=1433]
-	"Brett Stephen Fuller (1900)" -> "Stella Yee (1898)" [label=369]
+	"Rachel Payne (1899)" -> "Robert Humphreys (1901)" [label=725]
 	"Rachel Payne (1899)" -> "Stella Yee (1898)" [label=551]
 	"Rachel Payne (1899)" -> "Teresa Mary Kelleher (1896)" [label=201]
-	"Brett Stephen Fuller (1900)" -> "Robert Humphreys (1901)" [label=587]
-	"Rachel Payne (1899)" -> "Robert Humphreys (1901)" [label=725]
+	"Robert Humphreys (1901)" -> "Stella Yee (1898)" [label=9866]
+	"Teresa Mary Kelleher (1896)" -> "Robert Humphreys (1901)" [label=699]
+	"Teresa Mary Kelleher (1896)" -> "Stella Yee (1898)" [label=1433]
 }

@@ -4,37 +4,37 @@ digraph "Carole Hart (985)_Mallee_2022" {
 	node [shape=box]
 	"Carole Hart (985)" [label="Carole Hart (985)
 Australian Labor Party"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
+	"Claudia Haenel (983)" [label="Claudia Haenel (983)
+Independent"]
+	"Sam Mccoll (986)" [label="Sam Mccoll (986)
+The Greens"]
 	"Sophie Baldwin (982)" [label="Sophie Baldwin (982)
 Independent"]
 	"Stuart William King (987)" [label="Stuart William King (987)
 United Australia Party"]
 	"Vanessa Atkinson (988)" [label="Vanessa Atkinson (988)
 Pauline Hanson's One Nation"]
-	"Sam Mccoll (986)" [label="Sam Mccoll (986)
-The Greens"]
-	"Claudia Haenel (983)" [label="Claudia Haenel (983)
-Independent"]
-	"Chris Lahy (984)" [label="Chris Lahy (984)
-Citizens Party"]
-	"Sophie Baldwin (982)" -> "Carole Hart (985)" [label=8272]
-	"Stuart William King (987)" -> "Sophie Baldwin (982)" [label=6691]
-	"Vanessa Atkinson (988)" -> "Stuart William King (987)" [label=3426]
-	"Sam Mccoll (986)" -> "Vanessa Atkinson (988)" [label=251]
-	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
-	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
-	"Stuart William King (987)" -> "Carole Hart (985)" [label=2211]
-	"Vanessa Atkinson (988)" -> "Carole Hart (985)" [label=715]
-	"Sam Mccoll (986)" -> "Carole Hart (985)" [label=2964]
-	"Claudia Haenel (983)" -> "Carole Hart (985)" [label=295]
 	"Chris Lahy (984)" -> "Carole Hart (985)" [label=116]
+	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
 	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
-	"Claudia Haenel (983)" -> "Vanessa Atkinson (988)" [label=139]
-	"Chris Lahy (984)" -> "Vanessa Atkinson (988)" [label=96]
-	"Sam Mccoll (986)" -> "Stuart William King (987)" [label=369]
-	"Claudia Haenel (983)" -> "Stuart William King (987)" [label=119]
-	"Chris Lahy (984)" -> "Stuart William King (987)" [label=113]
-	"Vanessa Atkinson (988)" -> "Sophie Baldwin (982)" [label=1509]
-	"Sam Mccoll (986)" -> "Sophie Baldwin (982)" [label=1439]
-	"Claudia Haenel (983)" -> "Sophie Baldwin (982)" [label=1257]
 	"Chris Lahy (984)" -> "Sophie Baldwin (982)" [label=160]
+	"Chris Lahy (984)" -> "Stuart William King (987)" [label=113]
+	"Chris Lahy (984)" -> "Vanessa Atkinson (988)" [label=96]
+	"Claudia Haenel (983)" -> "Carole Hart (985)" [label=295]
+	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
+	"Claudia Haenel (983)" -> "Sophie Baldwin (982)" [label=1257]
+	"Claudia Haenel (983)" -> "Stuart William King (987)" [label=119]
+	"Claudia Haenel (983)" -> "Vanessa Atkinson (988)" [label=139]
+	"Sam Mccoll (986)" -> "Carole Hart (985)" [label=2964]
+	"Sam Mccoll (986)" -> "Sophie Baldwin (982)" [label=1439]
+	"Sam Mccoll (986)" -> "Stuart William King (987)" [label=369]
+	"Sam Mccoll (986)" -> "Vanessa Atkinson (988)" [label=251]
+	"Sophie Baldwin (982)" -> "Carole Hart (985)" [label=8272]
+	"Stuart William King (987)" -> "Carole Hart (985)" [label=2211]
+	"Stuart William King (987)" -> "Sophie Baldwin (982)" [label=6691]
+	"Vanessa Atkinson (988)" -> "Carole Hart (985)" [label=715]
+	"Vanessa Atkinson (988)" -> "Sophie Baldwin (982)" [label=1509]
+	"Vanessa Atkinson (988)" -> "Stuart William King (987)" [label=3426]
 }

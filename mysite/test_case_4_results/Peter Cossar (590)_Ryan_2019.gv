@@ -2,31 +2,31 @@
 digraph "Peter Cossar (590)_Ryan_2019" {
 	graph [label="Ryan 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Cossar (590)" [label="Peter Cossar (590)
-Australian Labor Party"]
+	"Andrew Banks (1634)" [label="Andrew Banks (1634)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Jake Schoermer (1633)" [label="Jake Schoermer (1633)
 The Greens"]
-	"Rodney Miles (1632)" [label="Rodney Miles (1632)
-Pauline Hanson's One Nation"]
 	"Joanne Webb (1631)" [label="Joanne Webb (1631)
 Animal Justice Party"]
 	"Larry Edward Crouch (1630)" [label="Larry Edward Crouch (1630)
 United Australia Party"]
-	"Andrew Banks (1634)" [label="Andrew Banks (1634)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Jake Schoermer (1633)" -> "Peter Cossar (590)" [label=17681]
-	"Rodney Miles (1632)" -> "Jake Schoermer (1633)" [label=685]
-	"Joanne Webb (1631)" -> "Rodney Miles (1632)" [label=298]
-	"Larry Edward Crouch (1630)" -> "Joanne Webb (1631)" [label=175]
-	"Andrew Banks (1634)" -> "Larry Edward Crouch (1630)" [label=139]
-	"Rodney Miles (1632)" -> "Peter Cossar (590)" [label=608]
-	"Joanne Webb (1631)" -> "Peter Cossar (590)" [label=347]
-	"Larry Edward Crouch (1630)" -> "Peter Cossar (590)" [label=175]
-	"Andrew Banks (1634)" -> "Peter Cossar (590)" [label=32]
-	"Andrew Banks (1634)" -> "Joanne Webb (1631)" [label=66]
-	"Larry Edward Crouch (1630)" -> "Rodney Miles (1632)" [label=564]
-	"Andrew Banks (1634)" -> "Rodney Miles (1632)" [label=480]
-	"Joanne Webb (1631)" -> "Jake Schoermer (1633)" [label=1040]
-	"Larry Edward Crouch (1630)" -> "Jake Schoermer (1633)" [label=117]
+	"Peter Cossar (590)" [label="Peter Cossar (590)
+Australian Labor Party"]
+	"Rodney Miles (1632)" [label="Rodney Miles (1632)
+Pauline Hanson's One Nation"]
 	"Andrew Banks (1634)" -> "Jake Schoermer (1633)" [label=57]
+	"Andrew Banks (1634)" -> "Joanne Webb (1631)" [label=66]
+	"Andrew Banks (1634)" -> "Larry Edward Crouch (1630)" [label=139]
+	"Andrew Banks (1634)" -> "Peter Cossar (590)" [label=32]
+	"Andrew Banks (1634)" -> "Rodney Miles (1632)" [label=480]
+	"Jake Schoermer (1633)" -> "Peter Cossar (590)" [label=17681]
+	"Joanne Webb (1631)" -> "Jake Schoermer (1633)" [label=1040]
+	"Joanne Webb (1631)" -> "Peter Cossar (590)" [label=347]
+	"Joanne Webb (1631)" -> "Rodney Miles (1632)" [label=298]
+	"Larry Edward Crouch (1630)" -> "Jake Schoermer (1633)" [label=117]
+	"Larry Edward Crouch (1630)" -> "Joanne Webb (1631)" [label=175]
+	"Larry Edward Crouch (1630)" -> "Peter Cossar (590)" [label=175]
+	"Larry Edward Crouch (1630)" -> "Rodney Miles (1632)" [label=564]
+	"Rodney Miles (1632)" -> "Jake Schoermer (1633)" [label=685]
+	"Rodney Miles (1632)" -> "Peter Cossar (590)" [label=608]
 }

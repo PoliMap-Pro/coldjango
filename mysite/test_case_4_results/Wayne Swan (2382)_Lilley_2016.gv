@@ -2,18 +2,18 @@
 digraph "Wayne Swan (2382)_Lilley_2016" {
 	graph [label="Lilley 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Wayne Swan (2382)" [label="Wayne Swan (2382)
-Australian Labor Party"]
 	"Claire Ogden (2383)" [label="Claire Ogden (2383)
 The Greens"]
 	"Sharan Hall (2380)" [label="Sharan Hall (2380)
 Family First"]
 	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
 Liberal Democrats"]
+	"Wayne Swan (2382)" [label="Wayne Swan (2382)
+Australian Labor Party"]
 	"Claire Ogden (2383)" -> "Wayne Swan (2382)" [label=9977]
 	"Sharan Hall (2380)" -> "Claire Ogden (2383)" [label=999]
-	"Simon James Holmick (2381)" -> "Sharan Hall (2380)" [label=576]
 	"Sharan Hall (2380)" -> "Wayne Swan (2382)" [label=934]
-	"Simon James Holmick (2381)" -> "Wayne Swan (2382)" [label=460]
 	"Simon James Holmick (2381)" -> "Claire Ogden (2383)" [label=286]
+	"Simon James Holmick (2381)" -> "Sharan Hall (2380)" [label=576]
+	"Simon James Holmick (2381)" -> "Wayne Swan (2382)" [label=460]
 }

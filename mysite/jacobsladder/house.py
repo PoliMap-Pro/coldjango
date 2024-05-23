@@ -100,6 +100,11 @@ class HouseElection(abstract_models.Election):
             self, add_to_end_of_name, between_parts_of_name,
             between_party_names, house_elections_text, p_set, parent_result,
             tally_attribute):
+        """
+        Adds empty lists for the series entry if they don't exist yet.
+        If the names entry doesn't exist yet, tries to write it by tying
+        together parts of the names of the supplied parties.
+        """
         if constants.NAMES not in parent_result:
             parent_result[constants.NAMES] = [
                 self.get_call_name(
@@ -117,7 +122,6 @@ class HouseElection(abstract_models.Election):
                                                house_elections_text, p_set,
                                                representation_set,
                                                tally_attribute):
-
         return {constants.NAMES: [
             self.get_call_name(add_to_end_of_name, between_parts_of_name,
                                between_party_names, house_elections_text,
@@ -127,6 +131,9 @@ class HouseElection(abstract_models.Election):
     def update_election_result(self, election_result, representation_set,
                                place, tally_attribute, sum_booths=False,
                                return_format=constants.NEST_FORMAT):
+        """
+        Adds the results for the seats or the booths.
+        """
         result = self.election_place_result(
             place, representation_set, tally_attribute, sum_booths,
             return_format=return_format)
@@ -163,6 +170,9 @@ class HouseElection(abstract_models.Election):
         election_result[str(location)] = dict(pairs[:how_many])
 
     def get_result_entries(self, place, result, tally_attribute):
+        """
+        Returns result entries for the spreadsheet format
+        """
         result_values = result.values()
         result_length = len(result_values)
         return ((constants.SPREADSHEET_FORMAT_YEAR_INDEX,

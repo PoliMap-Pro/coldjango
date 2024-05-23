@@ -2,39 +2,39 @@
 digraph "Mike Kelly (541)_Eden-Monaro_2013" {
 	graph [label="Eden-Monaro 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mike Kelly (541)" [label="Mike Kelly (541)
-Labor"]
-	"Catherine Moore (2864)" [label="Catherine Moore (2864)
-The Greens"]
-	"Dean Lynch (2863)" [label="Dean Lynch (2863)
-Palmer United Party"]
 	"Andrew Thaler (109)" [label="Andrew Thaler (109)
 Independent"]
-	"Warren Catton (2866)" [label="Warren Catton (2866)
-Christian Democratic Party (Fred Nile Group)"]
-	"Martin Tye (2862)" [label="Martin Tye (2862)
-Stable Population Party"]
+	"Catherine Moore (2864)" [label="Catherine Moore (2864)
+The Greens"]
 	"Costas Goumas (2865)" [label="Costas Goumas (2865)
 Citizens Electoral Council"]
-	"Catherine Moore (2864)" -> "Mike Kelly (541)" [label=7083]
-	"Dean Lynch (2863)" -> "Catherine Moore (2864)" [label=1038]
+	"Dean Lynch (2863)" [label="Dean Lynch (2863)
+Palmer United Party"]
+	"Martin Tye (2862)" [label="Martin Tye (2862)
+Stable Population Party"]
+	"Mike Kelly (541)" [label="Mike Kelly (541)
+Labor"]
+	"Warren Catton (2866)" [label="Warren Catton (2866)
+Christian Democratic Party (Fred Nile Group)"]
+	"Andrew Thaler (109)" -> "Catherine Moore (2864)" [label=492]
 	"Andrew Thaler (109)" -> "Dean Lynch (2863)" [label=407]
-	"Warren Catton (2866)" -> "Andrew Thaler (109)" [label=185]
-	"Martin Tye (2862)" -> "Warren Catton (2866)" [label=28]
-	"Costas Goumas (2865)" -> "Martin Tye (2862)" [label=19]
-	"Dean Lynch (2863)" -> "Mike Kelly (541)" [label=1798]
 	"Andrew Thaler (109)" -> "Mike Kelly (541)" [label=328]
-	"Warren Catton (2866)" -> "Mike Kelly (541)" [label=128]
-	"Martin Tye (2862)" -> "Mike Kelly (541)" [label=114]
+	"Catherine Moore (2864)" -> "Mike Kelly (541)" [label=7083]
+	"Costas Goumas (2865)" -> "Andrew Thaler (109)" [label=45]
+	"Costas Goumas (2865)" -> "Catherine Moore (2864)" [label=22]
+	"Costas Goumas (2865)" -> "Dean Lynch (2863)" [label=24]
+	"Costas Goumas (2865)" -> "Martin Tye (2862)" [label=19]
 	"Costas Goumas (2865)" -> "Mike Kelly (541)" [label=25]
 	"Costas Goumas (2865)" -> "Warren Catton (2866)" [label=16]
+	"Dean Lynch (2863)" -> "Catherine Moore (2864)" [label=1038]
+	"Dean Lynch (2863)" -> "Mike Kelly (541)" [label=1798]
 	"Martin Tye (2862)" -> "Andrew Thaler (109)" [label=110]
-	"Costas Goumas (2865)" -> "Andrew Thaler (109)" [label=45]
-	"Warren Catton (2866)" -> "Dean Lynch (2863)" [label=99]
-	"Martin Tye (2862)" -> "Dean Lynch (2863)" [label=126]
-	"Costas Goumas (2865)" -> "Dean Lynch (2863)" [label=24]
-	"Andrew Thaler (109)" -> "Catherine Moore (2864)" [label=492]
-	"Warren Catton (2866)" -> "Catherine Moore (2864)" [label=57]
 	"Martin Tye (2862)" -> "Catherine Moore (2864)" [label=106]
-	"Costas Goumas (2865)" -> "Catherine Moore (2864)" [label=22]
+	"Martin Tye (2862)" -> "Dean Lynch (2863)" [label=126]
+	"Martin Tye (2862)" -> "Mike Kelly (541)" [label=114]
+	"Martin Tye (2862)" -> "Warren Catton (2866)" [label=28]
+	"Warren Catton (2866)" -> "Andrew Thaler (109)" [label=185]
+	"Warren Catton (2866)" -> "Catherine Moore (2864)" [label=57]
+	"Warren Catton (2866)" -> "Dean Lynch (2863)" [label=99]
+	"Warren Catton (2866)" -> "Mike Kelly (541)" [label=128]
 }

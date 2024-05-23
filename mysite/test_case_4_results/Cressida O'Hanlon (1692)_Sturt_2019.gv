@@ -2,39 +2,39 @@
 digraph "Cressida O'Hanlon (1692)_Sturt_2019" {
 	graph [label="Sturt 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cressida O'Hanlon (1692)" [label="Cressida O'Hanlon (1692)
-Australian Labor Party"]
-	"Paul Boundy (1691)" [label="Paul Boundy (1691)
-The Greens"]
-	"Nick Larcombe (1696)" [label="Nick Larcombe (1696)
-Independent"]
-	"Hedley Harding (1694)" [label="Hedley Harding (1694)
-United Australia Party"]
-	"Harbinda Roberts (1693)" [label="Harbinda Roberts (1693)
-Animal Justice Party"]
-	"Colin Thomas (1695)" [label="Colin Thomas (1695)
-Child Protection Party"]
 	"Angela Fulco (684)" [label="Angela Fulco (684)
 Australian Progressives"]
-	"Paul Boundy (1691)" -> "Cressida O'Hanlon (1692)" [label=12044]
-	"Nick Larcombe (1696)" -> "Paul Boundy (1691)" [label=1812]
-	"Hedley Harding (1694)" -> "Nick Larcombe (1696)" [label=841]
-	"Harbinda Roberts (1693)" -> "Hedley Harding (1694)" [label=243]
-	"Colin Thomas (1695)" -> "Harbinda Roberts (1693)" [label=435]
+	"Colin Thomas (1695)" [label="Colin Thomas (1695)
+Child Protection Party"]
+	"Cressida O'Hanlon (1692)" [label="Cressida O'Hanlon (1692)
+Australian Labor Party"]
+	"Harbinda Roberts (1693)" [label="Harbinda Roberts (1693)
+Animal Justice Party"]
+	"Hedley Harding (1694)" [label="Hedley Harding (1694)
+United Australia Party"]
+	"Nick Larcombe (1696)" [label="Nick Larcombe (1696)
+Independent"]
+	"Paul Boundy (1691)" [label="Paul Boundy (1691)
+The Greens"]
 	"Angela Fulco (684)" -> "Colin Thomas (1695)" [label=59]
-	"Nick Larcombe (1696)" -> "Cressida O'Hanlon (1692)" [label=1447]
-	"Hedley Harding (1694)" -> "Cressida O'Hanlon (1692)" [label=437]
-	"Harbinda Roberts (1693)" -> "Cressida O'Hanlon (1692)" [label=395]
-	"Colin Thomas (1695)" -> "Cressida O'Hanlon (1692)" [label=148]
 	"Angela Fulco (684)" -> "Cressida O'Hanlon (1692)" [label=91]
 	"Angela Fulco (684)" -> "Harbinda Roberts (1693)" [label=39]
-	"Colin Thomas (1695)" -> "Hedley Harding (1694)" [label=134]
 	"Angela Fulco (684)" -> "Hedley Harding (1694)" [label=23]
-	"Harbinda Roberts (1693)" -> "Nick Larcombe (1696)" [label=430]
-	"Colin Thomas (1695)" -> "Nick Larcombe (1696)" [label=220]
 	"Angela Fulco (684)" -> "Nick Larcombe (1696)" [label=178]
-	"Hedley Harding (1694)" -> "Paul Boundy (1691)" [label=401]
-	"Harbinda Roberts (1693)" -> "Paul Boundy (1691)" [label=994]
-	"Colin Thomas (1695)" -> "Paul Boundy (1691)" [label=199]
 	"Angela Fulco (684)" -> "Paul Boundy (1691)" [label=138]
+	"Colin Thomas (1695)" -> "Cressida O'Hanlon (1692)" [label=148]
+	"Colin Thomas (1695)" -> "Harbinda Roberts (1693)" [label=435]
+	"Colin Thomas (1695)" -> "Hedley Harding (1694)" [label=134]
+	"Colin Thomas (1695)" -> "Nick Larcombe (1696)" [label=220]
+	"Colin Thomas (1695)" -> "Paul Boundy (1691)" [label=199]
+	"Harbinda Roberts (1693)" -> "Cressida O'Hanlon (1692)" [label=395]
+	"Harbinda Roberts (1693)" -> "Hedley Harding (1694)" [label=243]
+	"Harbinda Roberts (1693)" -> "Nick Larcombe (1696)" [label=430]
+	"Harbinda Roberts (1693)" -> "Paul Boundy (1691)" [label=994]
+	"Hedley Harding (1694)" -> "Cressida O'Hanlon (1692)" [label=437]
+	"Hedley Harding (1694)" -> "Nick Larcombe (1696)" [label=841]
+	"Hedley Harding (1694)" -> "Paul Boundy (1691)" [label=401]
+	"Nick Larcombe (1696)" -> "Cressida O'Hanlon (1692)" [label=1447]
+	"Nick Larcombe (1696)" -> "Paul Boundy (1691)" [label=1812]
+	"Paul Boundy (1691)" -> "Cressida O'Hanlon (1692)" [label=12044]
 }

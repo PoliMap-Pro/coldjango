@@ -2,24 +2,24 @@
 digraph "Nick Champion (1686)_Spence_2019" {
 	graph [label="Spence 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nick Champion (1686)" [label="Nick Champion (1686)
-Australian Labor Party"]
 	"Daniel Jury (1688)" [label="Daniel Jury (1688)
 The Greens"]
-	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
-United Australia Party"]
 	"Nathan Herbert (1690)" [label="Nathan Herbert (1690)
 Independent"]
+	"Nick Champion (1686)" [label="Nick Champion (1686)
+Australian Labor Party"]
 	"Rita Kuhlmann (1689)" [label="Rita Kuhlmann (1689)
 Animal Justice Party"]
+	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
+United Australia Party"]
 	"Daniel Jury (1688)" -> "Nick Champion (1686)" [label=8569]
-	"Ron Fiedler (1687)" -> "Daniel Jury (1688)" [label=2685]
-	"Nathan Herbert (1690)" -> "Ron Fiedler (1687)" [label=1774]
-	"Rita Kuhlmann (1689)" -> "Nathan Herbert (1690)" [label=1094]
-	"Ron Fiedler (1687)" -> "Nick Champion (1686)" [label=2611]
+	"Nathan Herbert (1690)" -> "Daniel Jury (1688)" [label=2314]
 	"Nathan Herbert (1690)" -> "Nick Champion (1686)" [label=1606]
+	"Nathan Herbert (1690)" -> "Ron Fiedler (1687)" [label=1774]
+	"Rita Kuhlmann (1689)" -> "Daniel Jury (1688)" [label=1271]
+	"Rita Kuhlmann (1689)" -> "Nathan Herbert (1690)" [label=1094]
 	"Rita Kuhlmann (1689)" -> "Nick Champion (1686)" [label=597]
 	"Rita Kuhlmann (1689)" -> "Ron Fiedler (1687)" [label=377]
-	"Nathan Herbert (1690)" -> "Daniel Jury (1688)" [label=2314]
-	"Rita Kuhlmann (1689)" -> "Daniel Jury (1688)" [label=1271]
+	"Ron Fiedler (1687)" -> "Daniel Jury (1688)" [label=2685]
+	"Ron Fiedler (1687)" -> "Nick Champion (1686)" [label=2611]
 }

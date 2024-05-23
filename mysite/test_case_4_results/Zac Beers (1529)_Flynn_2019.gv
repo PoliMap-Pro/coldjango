@@ -2,39 +2,39 @@
 digraph "Zac Beers (1529)_Flynn_2019" {
 	graph [label="Flynn 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Zac Beers (1529)" [label="Zac Beers (1529)
-Australian Labor Party"]
-	"Sharon Lohse (461)" [label="Sharon Lohse (461)
-Pauline Hanson's One Nation"]
-	"Nathan David Harris (1530)" [label="Nathan David Harris (1530)
-United Australia Party"]
-	"Murray Peterson (1532)" [label="Murray Peterson (1532)
+	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
 Independent"]
 	"Jaiben Baker (1531)" [label="Jaiben Baker (1531)
 The Greens"]
 	"Marcus John Hiesler (1534)" [label="Marcus John Hiesler (1534)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Duncan George Scott (1533)" [label="Duncan George Scott (1533)
+	"Murray Peterson (1532)" [label="Murray Peterson (1532)
 Independent"]
-	"Sharon Lohse (461)" -> "Zac Beers (1529)" [label=7507]
-	"Nathan David Harris (1530)" -> "Sharon Lohse (461)" [label=2946]
-	"Murray Peterson (1532)" -> "Nathan David Harris (1530)" [label=772]
-	"Jaiben Baker (1531)" -> "Murray Peterson (1532)" [label=630]
-	"Marcus John Hiesler (1534)" -> "Jaiben Baker (1531)" [label=34]
-	"Duncan George Scott (1533)" -> "Marcus John Hiesler (1534)" [label=104]
-	"Nathan David Harris (1530)" -> "Zac Beers (1529)" [label=994]
-	"Murray Peterson (1532)" -> "Zac Beers (1529)" [label=989]
-	"Jaiben Baker (1531)" -> "Zac Beers (1529)" [label=1582]
-	"Marcus John Hiesler (1534)" -> "Zac Beers (1529)" [label=126]
-	"Duncan George Scott (1533)" -> "Zac Beers (1529)" [label=159]
+	"Nathan David Harris (1530)" [label="Nathan David Harris (1530)
+United Australia Party"]
+	"Sharon Lohse (461)" [label="Sharon Lohse (461)
+Pauline Hanson's One Nation"]
+	"Zac Beers (1529)" [label="Zac Beers (1529)
+Australian Labor Party"]
 	"Duncan George Scott (1533)" -> "Jaiben Baker (1531)" [label=67]
-	"Marcus John Hiesler (1534)" -> "Murray Peterson (1532)" [label=307]
+	"Duncan George Scott (1533)" -> "Marcus John Hiesler (1534)" [label=104]
 	"Duncan George Scott (1533)" -> "Murray Peterson (1532)" [label=732]
-	"Jaiben Baker (1531)" -> "Nathan David Harris (1530)" [label=188]
-	"Marcus John Hiesler (1534)" -> "Nathan David Harris (1530)" [label=286]
 	"Duncan George Scott (1533)" -> "Nathan David Harris (1530)" [label=50]
-	"Murray Peterson (1532)" -> "Sharon Lohse (461)" [label=1148]
-	"Jaiben Baker (1531)" -> "Sharon Lohse (461)" [label=227]
-	"Marcus John Hiesler (1534)" -> "Sharon Lohse (461)" [label=1280]
 	"Duncan George Scott (1533)" -> "Sharon Lohse (461)" [label=150]
+	"Duncan George Scott (1533)" -> "Zac Beers (1529)" [label=159]
+	"Jaiben Baker (1531)" -> "Murray Peterson (1532)" [label=630]
+	"Jaiben Baker (1531)" -> "Nathan David Harris (1530)" [label=188]
+	"Jaiben Baker (1531)" -> "Sharon Lohse (461)" [label=227]
+	"Jaiben Baker (1531)" -> "Zac Beers (1529)" [label=1582]
+	"Marcus John Hiesler (1534)" -> "Jaiben Baker (1531)" [label=34]
+	"Marcus John Hiesler (1534)" -> "Murray Peterson (1532)" [label=307]
+	"Marcus John Hiesler (1534)" -> "Nathan David Harris (1530)" [label=286]
+	"Marcus John Hiesler (1534)" -> "Sharon Lohse (461)" [label=1280]
+	"Marcus John Hiesler (1534)" -> "Zac Beers (1529)" [label=126]
+	"Murray Peterson (1532)" -> "Nathan David Harris (1530)" [label=772]
+	"Murray Peterson (1532)" -> "Sharon Lohse (461)" [label=1148]
+	"Murray Peterson (1532)" -> "Zac Beers (1529)" [label=989]
+	"Nathan David Harris (1530)" -> "Sharon Lohse (461)" [label=2946]
+	"Nathan David Harris (1530)" -> "Zac Beers (1529)" [label=994]
+	"Sharon Lohse (461)" -> "Zac Beers (1529)" [label=7507]
 }

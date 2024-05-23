@@ -2,24 +2,24 @@
 digraph "Joanne Ryan (967)_Lalor_2019" {
 	graph [label="Lalor 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joanne Ryan (967)" [label="Joanne Ryan (967)
-Australian Labor Party"]
+	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
+"]
 	"Jay Dessi (1864)" [label="Jay Dessi (1864)
 The Greens (VIC)"]
 	"Jeffrey Edward Robinson (1863)" [label="Jeffrey Edward Robinson (1863)
 United Australia Party"]
+	"Joanne Ryan (967)" [label="Joanne Ryan (967)
+Australian Labor Party"]
 	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
 Australia First Party"]
-	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
-"]
+	"Aijaz Moinuddin (964)" -> "Jay Dessi (1864)" [label=427]
+	"Aijaz Moinuddin (964)" -> "Jeffrey Edward Robinson (1863)" [label=100]
+	"Aijaz Moinuddin (964)" -> "Joanne Ryan (967)" [label=358]
+	"Aijaz Moinuddin (964)" -> "Susan Jakobi (1861)" [label=119]
 	"Jay Dessi (1864)" -> "Joanne Ryan (967)" [label=6960]
 	"Jeffrey Edward Robinson (1863)" -> "Jay Dessi (1864)" [label=1324]
-	"Susan Jakobi (1861)" -> "Jeffrey Edward Robinson (1863)" [label=1354]
-	"Aijaz Moinuddin (964)" -> "Susan Jakobi (1861)" [label=119]
 	"Jeffrey Edward Robinson (1863)" -> "Joanne Ryan (967)" [label=1733]
-	"Susan Jakobi (1861)" -> "Joanne Ryan (967)" [label=958]
-	"Aijaz Moinuddin (964)" -> "Joanne Ryan (967)" [label=358]
-	"Aijaz Moinuddin (964)" -> "Jeffrey Edward Robinson (1863)" [label=100]
 	"Susan Jakobi (1861)" -> "Jay Dessi (1864)" [label=381]
-	"Aijaz Moinuddin (964)" -> "Jay Dessi (1864)" [label=427]
+	"Susan Jakobi (1861)" -> "Jeffrey Edward Robinson (1863)" [label=1354]
+	"Susan Jakobi (1861)" -> "Joanne Ryan (967)" [label=958]
 }

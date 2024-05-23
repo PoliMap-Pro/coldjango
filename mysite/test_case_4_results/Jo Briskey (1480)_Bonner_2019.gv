@@ -2,24 +2,24 @@
 digraph "Jo Briskey (1480)_Bonner_2019" {
 	graph [label="Bonner 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jo Briskey (1480)" [label="Jo Briskey (1480)
-Australian Labor Party"]
+	"Alex Maynard (1479)" [label="Alex Maynard (1479)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Barbara Bell (1477)" [label="Barbara Bell (1477)
 The Greens"]
 	"Ian Symes (1478)" [label="Ian Symes (1478)
 Pauline Hanson's One Nation"]
+	"Jo Briskey (1480)" [label="Jo Briskey (1480)
+Australian Labor Party"]
 	"Simon E F Flitcroft (1476)" [label="Simon E F Flitcroft (1476)
 United Australia Party"]
-	"Alex Maynard (1479)" [label="Alex Maynard (1479)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Alex Maynard (1479)" -> "Barbara Bell (1477)" [label=76]
+	"Alex Maynard (1479)" -> "Ian Symes (1478)" [label=460]
+	"Alex Maynard (1479)" -> "Jo Briskey (1480)" [label=109]
+	"Alex Maynard (1479)" -> "Simon E F Flitcroft (1476)" [label=185]
 	"Barbara Bell (1477)" -> "Jo Briskey (1480)" [label=9334]
 	"Ian Symes (1478)" -> "Barbara Bell (1477)" [label=1179]
-	"Simon E F Flitcroft (1476)" -> "Ian Symes (1478)" [label=947]
-	"Alex Maynard (1479)" -> "Simon E F Flitcroft (1476)" [label=185]
 	"Ian Symes (1478)" -> "Jo Briskey (1480)" [label=1087]
-	"Simon E F Flitcroft (1476)" -> "Jo Briskey (1480)" [label=294]
-	"Alex Maynard (1479)" -> "Jo Briskey (1480)" [label=109]
-	"Alex Maynard (1479)" -> "Ian Symes (1478)" [label=460]
 	"Simon E F Flitcroft (1476)" -> "Barbara Bell (1477)" [label=511]
-	"Alex Maynard (1479)" -> "Barbara Bell (1477)" [label=76]
+	"Simon E F Flitcroft (1476)" -> "Ian Symes (1478)" [label=947]
+	"Simon E F Flitcroft (1476)" -> "Jo Briskey (1480)" [label=294]
 }

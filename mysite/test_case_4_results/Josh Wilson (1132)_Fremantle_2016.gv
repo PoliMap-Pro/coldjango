@@ -2,18 +2,18 @@
 digraph "Josh Wilson (1132)_Fremantle_2016" {
 	graph [label="Fremantle 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
+Socialist Alliance"]
 	"Josh Wilson (1132)" [label="Josh Wilson (1132)
 Australian Labor Party"]
 	"Kate Davis (2753)" [label="Kate Davis (2753)
 The Greens (WA)"]
 	"Mick Connolly (2751)" [label="Mick Connolly (2751)
 Mature Australia"]
-	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
-Socialist Alliance"]
-	"Kate Davis (2753)" -> "Josh Wilson (1132)" [label=13109]
-	"Mick Connolly (2751)" -> "Kate Davis (2753)" [label=1391]
-	"Chris Jenkins (2752)" -> "Mick Connolly (2751)" [label=505]
-	"Mick Connolly (2751)" -> "Josh Wilson (1132)" [label=700]
 	"Chris Jenkins (2752)" -> "Josh Wilson (1132)" [label=220]
 	"Chris Jenkins (2752)" -> "Kate Davis (2753)" [label=559]
+	"Chris Jenkins (2752)" -> "Mick Connolly (2751)" [label=505]
+	"Kate Davis (2753)" -> "Josh Wilson (1132)" [label=13109]
+	"Mick Connolly (2751)" -> "Josh Wilson (1132)" [label=700]
+	"Mick Connolly (2751)" -> "Kate Davis (2753)" [label=1391]
 }

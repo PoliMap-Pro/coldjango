@@ -4,16 +4,16 @@ digraph "Alfredo Navarro (2851)_Cowper_2013" {
 	node [shape=box]
 	"Alfredo Navarro (2851)" [label="Alfredo Navarro (2851)
 Country Labor"]
+	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
+Christian Democratic Party (Fred Nile Group)"]
 	"Carol Vernon (2070)" [label="Carol Vernon (2070)
 The Greens"]
 	"Rodney Norman Jeanneret (2850)" [label="Rodney Norman Jeanneret (2850)
 Palmer United Party"]
-	"Bethany Mcalpine (2849)" [label="Bethany Mcalpine (2849)
-Christian Democratic Party (Fred Nile Group)"]
-	"Carol Vernon (2070)" -> "Alfredo Navarro (2851)" [label=8842]
-	"Rodney Norman Jeanneret (2850)" -> "Carol Vernon (2070)" [label=1094]
-	"Bethany Mcalpine (2849)" -> "Rodney Norman Jeanneret (2850)" [label=318]
-	"Rodney Norman Jeanneret (2850)" -> "Alfredo Navarro (2851)" [label=2067]
 	"Bethany Mcalpine (2849)" -> "Alfredo Navarro (2851)" [label=256]
 	"Bethany Mcalpine (2849)" -> "Carol Vernon (2070)" [label=258]
+	"Bethany Mcalpine (2849)" -> "Rodney Norman Jeanneret (2850)" [label=318]
+	"Carol Vernon (2070)" -> "Alfredo Navarro (2851)" [label=8842]
+	"Rodney Norman Jeanneret (2850)" -> "Alfredo Navarro (2851)" [label=2067]
+	"Rodney Norman Jeanneret (2850)" -> "Carol Vernon (2070)" [label=1094]
 }

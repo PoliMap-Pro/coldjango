@@ -4,29 +4,29 @@ digraph "Dave Kerrigan (538)_Maranoa_2016" {
 	node [shape=box]
 	"Dave Kerrigan (538)" [label="Dave Kerrigan (538)
 Australian Labor Party"]
-	"Rick Gurnett (2398)" [label="Rick Gurnett (2398)
-Katter's Australian Party"]
-	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
-Family First"]
 	"Katherine Hompes (2395)" [label="Katherine Hompes (2395)
 The Greens"]
 	"Luke Arbuckle (2397)" [label="Luke Arbuckle (2397)
 CountryMinded"]
+	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
+Family First"]
+	"Rick Gurnett (2398)" [label="Rick Gurnett (2398)
+Katter's Australian Party"]
 	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
 Rise Up Australia Party"]
-	"Rick Gurnett (2398)" -> "Dave Kerrigan (538)" [label=1083]
-	"Myfanwy Schenk (2394)" -> "Rick Gurnett (2398)" [label=924]
-	"Katherine Hompes (2395)" -> "Myfanwy Schenk (2394)" [label=647]
-	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
-	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
-	"Myfanwy Schenk (2394)" -> "Dave Kerrigan (538)" [label=1066]
 	"Katherine Hompes (2395)" -> "Dave Kerrigan (538)" [label=1691]
+	"Katherine Hompes (2395)" -> "Myfanwy Schenk (2394)" [label=647]
+	"Katherine Hompes (2395)" -> "Rick Gurnett (2398)" [label=368]
 	"Luke Arbuckle (2397)" -> "Dave Kerrigan (538)" [label=216]
+	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
+	"Luke Arbuckle (2397)" -> "Myfanwy Schenk (2394)" [label=330]
+	"Luke Arbuckle (2397)" -> "Rick Gurnett (2398)" [label=511]
+	"Myfanwy Schenk (2394)" -> "Dave Kerrigan (538)" [label=1066]
+	"Myfanwy Schenk (2394)" -> "Rick Gurnett (2398)" [label=924]
+	"Rick Gurnett (2398)" -> "Dave Kerrigan (538)" [label=1083]
 	"Sherrilyn Church (2396)" -> "Dave Kerrigan (538)" [label=75]
 	"Sherrilyn Church (2396)" -> "Katherine Hompes (2395)" [label=96]
-	"Luke Arbuckle (2397)" -> "Myfanwy Schenk (2394)" [label=330]
+	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 	"Sherrilyn Church (2396)" -> "Myfanwy Schenk (2394)" [label=203]
-	"Katherine Hompes (2395)" -> "Rick Gurnett (2398)" [label=368]
-	"Luke Arbuckle (2397)" -> "Rick Gurnett (2398)" [label=511]
 	"Sherrilyn Church (2396)" -> "Rick Gurnett (2398)" [label=88]
 }

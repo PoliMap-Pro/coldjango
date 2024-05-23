@@ -6,27 +6,27 @@ digraph "Anne Charlton (1418)_Robertson_2016" {
 Labor"]
 	"Hillary Morris (2222)" [label="Hillary Morris (2222)
 The Greens"]
-	"Van Davy (2221)" [label="Van Davy (2221)
-Independent"]
-	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
-Christian Democratic Party (Fred Nile Group)"]
 	"Lawrie Higgins (2220)" [label="Lawrie Higgins (2220)
 Antipaedophile Party"]
 	"Matthew Craig (2223)" [label="Matthew Craig (2223)
 Liberal Democrats"]
+	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
+Christian Democratic Party (Fred Nile Group)"]
+	"Van Davy (2221)" [label="Van Davy (2221)
+Independent"]
 	"Hillary Morris (2222)" -> "Anne Charlton (1418)" [label=7804]
-	"Van Davy (2221)" -> "Hillary Morris (2222)" [label=1466]
-	"Robert Stoddart (2224)" -> "Van Davy (2221)" [label=661]
-	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
-	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
-	"Van Davy (2221)" -> "Anne Charlton (1418)" [label=1382]
-	"Robert Stoddart (2224)" -> "Anne Charlton (1418)" [label=376]
 	"Lawrie Higgins (2220)" -> "Anne Charlton (1418)" [label=237]
-	"Matthew Craig (2223)" -> "Anne Charlton (1418)" [label=139]
-	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
-	"Lawrie Higgins (2220)" -> "Van Davy (2221)" [label=831]
-	"Matthew Craig (2223)" -> "Van Davy (2221)" [label=199]
-	"Robert Stoddart (2224)" -> "Hillary Morris (2222)" [label=144]
 	"Lawrie Higgins (2220)" -> "Hillary Morris (2222)" [label=159]
+	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
+	"Lawrie Higgins (2220)" -> "Van Davy (2221)" [label=831]
+	"Matthew Craig (2223)" -> "Anne Charlton (1418)" [label=139]
 	"Matthew Craig (2223)" -> "Hillary Morris (2222)" [label=111]
+	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
+	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
+	"Matthew Craig (2223)" -> "Van Davy (2221)" [label=199]
+	"Robert Stoddart (2224)" -> "Anne Charlton (1418)" [label=376]
+	"Robert Stoddart (2224)" -> "Hillary Morris (2222)" [label=144]
+	"Robert Stoddart (2224)" -> "Van Davy (2221)" [label=661]
+	"Van Davy (2221)" -> "Anne Charlton (1418)" [label=1382]
+	"Van Davy (2221)" -> "Hillary Morris (2222)" [label=1466]
 }

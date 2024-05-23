@@ -2,31 +2,31 @@
 digraph "Jason Clare (53)_Blaxland_2013" {
 	graph [label="Blaxland 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
+Democratic Labour Party (DLP)"]
 	"Jason Clare (53)" [label="Jason Clare (53)
 Labor"]
 	"John Ky (2819)" [label="John Ky (2819)
 The Greens"]
-	"Zali Burrows (2817)" [label="Zali Burrows (2817)
-Palmer United Party"]
-	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
-Katter's Australian Party"]
 	"Juliat Nasr (2818)" [label="Juliat Nasr (2818)
 Christian Democratic Party (Fred Nile Group)"]
-	"Boutros Zalloua (2820)" [label="Boutros Zalloua (2820)
-Democratic Labour Party (DLP)"]
-	"John Ky (2819)" -> "Jason Clare (53)" [label=2577]
-	"Zali Burrows (2817)" -> "John Ky (2819)" [label=616]
-	"Nafez Taleb (2815)" -> "Zali Burrows (2817)" [label=360]
-	"Juliat Nasr (2818)" -> "Nafez Taleb (2815)" [label=151]
-	"Boutros Zalloua (2820)" -> "Juliat Nasr (2818)" [label=173]
-	"Zali Burrows (2817)" -> "Jason Clare (53)" [label=962]
-	"Nafez Taleb (2815)" -> "Jason Clare (53)" [label=271]
-	"Juliat Nasr (2818)" -> "Jason Clare (53)" [label=412]
+	"Nafez Taleb (2815)" [label="Nafez Taleb (2815)
+Katter's Australian Party"]
+	"Zali Burrows (2817)" [label="Zali Burrows (2817)
+Palmer United Party"]
 	"Boutros Zalloua (2820)" -> "Jason Clare (53)" [label=235]
-	"Boutros Zalloua (2820)" -> "Nafez Taleb (2815)" [label=68]
-	"Juliat Nasr (2818)" -> "Zali Burrows (2817)" [label=156]
-	"Boutros Zalloua (2820)" -> "Zali Burrows (2817)" [label=35]
-	"Nafez Taleb (2815)" -> "John Ky (2819)" [label=150]
-	"Juliat Nasr (2818)" -> "John Ky (2819)" [label=244]
 	"Boutros Zalloua (2820)" -> "John Ky (2819)" [label=177]
+	"Boutros Zalloua (2820)" -> "Juliat Nasr (2818)" [label=173]
+	"Boutros Zalloua (2820)" -> "Nafez Taleb (2815)" [label=68]
+	"Boutros Zalloua (2820)" -> "Zali Burrows (2817)" [label=35]
+	"John Ky (2819)" -> "Jason Clare (53)" [label=2577]
+	"Juliat Nasr (2818)" -> "Jason Clare (53)" [label=412]
+	"Juliat Nasr (2818)" -> "John Ky (2819)" [label=244]
+	"Juliat Nasr (2818)" -> "Nafez Taleb (2815)" [label=151]
+	"Juliat Nasr (2818)" -> "Zali Burrows (2817)" [label=156]
+	"Nafez Taleb (2815)" -> "Jason Clare (53)" [label=271]
+	"Nafez Taleb (2815)" -> "John Ky (2819)" [label=150]
+	"Nafez Taleb (2815)" -> "Zali Burrows (2817)" [label=360]
+	"Zali Burrows (2817)" -> "Jason Clare (53)" [label=962]
+	"Zali Burrows (2817)" -> "John Ky (2819)" [label=616]
 }

@@ -4,22 +4,22 @@ digraph "Clare O'Neil (915)_Hotham_2019" {
 	node [shape=box]
 	"Clare O'Neil (915)" [label="Clare O'Neil (915)
 Australian Labor Party"]
+	"Dennis Bilic (1833)" [label="Dennis Bilic (1833)
+Sustainable Australia"]
 	"Jess Gonsalvez (1831)" [label="Jess Gonsalvez (1831)
 The Greens (VIC)"]
 	"Jin Luan (1829)" [label="Jin Luan (1829)
 United Australia Party"]
-	"Dennis Bilic (1833)" [label="Dennis Bilic (1833)
-Sustainable Australia"]
 	"Peter Dorian (1832)" [label="Peter Dorian (1832)
 Rise Up Australia Party"]
-	"Jess Gonsalvez (1831)" -> "Clare O'Neil (915)" [label=8247]
-	"Jin Luan (1829)" -> "Jess Gonsalvez (1831)" [label=642]
-	"Dennis Bilic (1833)" -> "Jin Luan (1829)" [label=461]
-	"Peter Dorian (1832)" -> "Dennis Bilic (1833)" [label=358]
-	"Jin Luan (1829)" -> "Clare O'Neil (915)" [label=1524]
 	"Dennis Bilic (1833)" -> "Clare O'Neil (915)" [label=425]
-	"Peter Dorian (1832)" -> "Clare O'Neil (915)" [label=91]
-	"Peter Dorian (1832)" -> "Jin Luan (1829)" [label=288]
 	"Dennis Bilic (1833)" -> "Jess Gonsalvez (1831)" [label=855]
+	"Dennis Bilic (1833)" -> "Jin Luan (1829)" [label=461]
+	"Jess Gonsalvez (1831)" -> "Clare O'Neil (915)" [label=8247]
+	"Jin Luan (1829)" -> "Clare O'Neil (915)" [label=1524]
+	"Jin Luan (1829)" -> "Jess Gonsalvez (1831)" [label=642]
+	"Peter Dorian (1832)" -> "Clare O'Neil (915)" [label=91]
+	"Peter Dorian (1832)" -> "Dennis Bilic (1833)" [label=358]
 	"Peter Dorian (1832)" -> "Jess Gonsalvez (1831)" [label=117]
+	"Peter Dorian (1832)" -> "Jin Luan (1829)" [label=288]
 }

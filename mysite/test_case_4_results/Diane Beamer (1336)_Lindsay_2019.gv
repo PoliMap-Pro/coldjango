@@ -2,48 +2,48 @@
 digraph "Diane Beamer (1336)_Lindsay_2019" {
 	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Diane Beamer (1336)" [label="Diane Beamer (1336)
-Labor"]
-	"Nick Best (1337)" [label="Nick Best (1337)
-The Greens"]
-	"Mark Tyndall (1339)" [label="Mark Tyndall (1339)
-Independent"]
-	"Christopher Buttel (1338)" [label="Christopher Buttel (1338)
-United Australia Party"]
 	"Brandon Lees (1335)" [label="Brandon Lees (1335)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
-Christian Democratic Party (Fred Nile Group)"]
-	"Jim Saleam (1342)" [label="Jim Saleam (1342)
-Australia First Party"]
+	"Christopher Buttel (1338)" [label="Christopher Buttel (1338)
+United Australia Party"]
+	"Diane Beamer (1336)" [label="Diane Beamer (1336)
+Labor"]
 	"Geoff Brown (1340)" [label="Geoff Brown (1340)
 Sustainable Australia"]
-	"Nick Best (1337)" -> "Diane Beamer (1336)" [label=5222]
-	"Mark Tyndall (1339)" -> "Nick Best (1337)" [label=2053]
-	"Christopher Buttel (1338)" -> "Mark Tyndall (1339)" [label=1511]
+	"Jim Saleam (1342)" [label="Jim Saleam (1342)
+Australia First Party"]
+	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Tyndall (1339)" [label="Mark Tyndall (1339)
+Independent"]
+	"Nick Best (1337)" [label="Nick Best (1337)
+The Greens"]
 	"Brandon Lees (1335)" -> "Christopher Buttel (1338)" [label=725]
-	"Mark K.C. Moody-Basedow (1341)" -> "Brandon Lees (1335)" [label=213]
-	"Jim Saleam (1342)" -> "Mark K.C. Moody-Basedow (1341)" [label=306]
-	"Geoff Brown (1340)" -> "Jim Saleam (1342)" [label=147]
-	"Mark Tyndall (1339)" -> "Diane Beamer (1336)" [label=1744]
-	"Christopher Buttel (1338)" -> "Diane Beamer (1336)" [label=763]
 	"Brandon Lees (1335)" -> "Diane Beamer (1336)" [label=786]
-	"Mark K.C. Moody-Basedow (1341)" -> "Diane Beamer (1336)" [label=229]
-	"Jim Saleam (1342)" -> "Diane Beamer (1336)" [label=134]
-	"Geoff Brown (1340)" -> "Diane Beamer (1336)" [label=221]
-	"Geoff Brown (1340)" -> "Mark K.C. Moody-Basedow (1341)" [label=76]
-	"Jim Saleam (1342)" -> "Brandon Lees (1335)" [label=147]
-	"Geoff Brown (1340)" -> "Brandon Lees (1335)" [label=61]
-	"Mark K.C. Moody-Basedow (1341)" -> "Christopher Buttel (1338)" [label=266]
-	"Jim Saleam (1342)" -> "Christopher Buttel (1338)" [label=363]
-	"Geoff Brown (1340)" -> "Christopher Buttel (1338)" [label=100]
 	"Brandon Lees (1335)" -> "Mark Tyndall (1339)" [label=415]
-	"Mark K.C. Moody-Basedow (1341)" -> "Mark Tyndall (1339)" [label=519]
-	"Jim Saleam (1342)" -> "Mark Tyndall (1339)" [label=292]
-	"Geoff Brown (1340)" -> "Mark Tyndall (1339)" [label=288]
-	"Christopher Buttel (1338)" -> "Nick Best (1337)" [label=516]
 	"Brandon Lees (1335)" -> "Nick Best (1337)" [label=136]
-	"Mark K.C. Moody-Basedow (1341)" -> "Nick Best (1337)" [label=98]
-	"Jim Saleam (1342)" -> "Nick Best (1337)" [label=92]
+	"Christopher Buttel (1338)" -> "Diane Beamer (1336)" [label=763]
+	"Christopher Buttel (1338)" -> "Mark Tyndall (1339)" [label=1511]
+	"Christopher Buttel (1338)" -> "Nick Best (1337)" [label=516]
+	"Geoff Brown (1340)" -> "Brandon Lees (1335)" [label=61]
+	"Geoff Brown (1340)" -> "Christopher Buttel (1338)" [label=100]
+	"Geoff Brown (1340)" -> "Diane Beamer (1336)" [label=221]
+	"Geoff Brown (1340)" -> "Jim Saleam (1342)" [label=147]
+	"Geoff Brown (1340)" -> "Mark K.C. Moody-Basedow (1341)" [label=76]
+	"Geoff Brown (1340)" -> "Mark Tyndall (1339)" [label=288]
 	"Geoff Brown (1340)" -> "Nick Best (1337)" [label=298]
+	"Jim Saleam (1342)" -> "Brandon Lees (1335)" [label=147]
+	"Jim Saleam (1342)" -> "Christopher Buttel (1338)" [label=363]
+	"Jim Saleam (1342)" -> "Diane Beamer (1336)" [label=134]
+	"Jim Saleam (1342)" -> "Mark K.C. Moody-Basedow (1341)" [label=306]
+	"Jim Saleam (1342)" -> "Mark Tyndall (1339)" [label=292]
+	"Jim Saleam (1342)" -> "Nick Best (1337)" [label=92]
+	"Mark K.C. Moody-Basedow (1341)" -> "Brandon Lees (1335)" [label=213]
+	"Mark K.C. Moody-Basedow (1341)" -> "Christopher Buttel (1338)" [label=266]
+	"Mark K.C. Moody-Basedow (1341)" -> "Diane Beamer (1336)" [label=229]
+	"Mark K.C. Moody-Basedow (1341)" -> "Mark Tyndall (1339)" [label=519]
+	"Mark K.C. Moody-Basedow (1341)" -> "Nick Best (1337)" [label=98]
+	"Mark Tyndall (1339)" -> "Diane Beamer (1336)" [label=1744]
+	"Mark Tyndall (1339)" -> "Nick Best (1337)" [label=2053]
+	"Nick Best (1337)" -> "Diane Beamer (1336)" [label=5222]
 }

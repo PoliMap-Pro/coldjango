@@ -2,39 +2,39 @@
 digraph "Scott Anderson (2326)_Fairfax_2016" {
 	graph [label="Fairfax 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"David Rees (2324)" [label="David Rees (2324)
+Family First"]
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+Independent"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+Independent"]
+	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
+Pauline Hanson's One Nation"]
 	"Scott Anderson (2326)" [label="Scott Anderson (2326)
 Australian Labor Party"]
 	"Susan Etheridge (2323)" [label="Susan Etheridge (2323)
 The Greens"]
-	"Robert Pasquali (2329)" [label="Robert Pasquali (2329)
-Pauline Hanson's One Nation"]
-	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
-Independent"]
-	"David Rees (2324)" [label="David Rees (2324)
-Family First"]
-	"Robert Dickson (2328)" [label="Robert Dickson (2328)
-Independent"]
-	"Kris Bullen (2327)" [label="Kris Bullen (2327)
-Online Direct Democracy - (Empowering the People!)"]
-	"Susan Etheridge (2323)" -> "Scott Anderson (2326)" [label=12777]
-	"Robert Pasquali (2329)" -> "Susan Etheridge (2323)" [label=3162]
-	"Keith Alexander Campbell (2325)" -> "Robert Pasquali (2329)" [label=1137]
 	"David Rees (2324)" -> "Keith Alexander Campbell (2325)" [label=453]
-	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
-	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
-	"Robert Pasquali (2329)" -> "Scott Anderson (2326)" [label=3010]
-	"Keith Alexander Campbell (2325)" -> "Scott Anderson (2326)" [label=852]
-	"David Rees (2324)" -> "Scott Anderson (2326)" [label=263]
-	"Robert Dickson (2328)" -> "Scott Anderson (2326)" [label=154]
-	"Kris Bullen (2327)" -> "Scott Anderson (2326)" [label=54]
-	"Kris Bullen (2327)" -> "David Rees (2324)" [label=47]
-	"Robert Dickson (2328)" -> "Keith Alexander Campbell (2325)" [label=744]
-	"Kris Bullen (2327)" -> "Keith Alexander Campbell (2325)" [label=101]
 	"David Rees (2324)" -> "Robert Pasquali (2329)" [label=667]
-	"Robert Dickson (2328)" -> "Robert Pasquali (2329)" [label=587]
-	"Kris Bullen (2327)" -> "Robert Pasquali (2329)" [label=79]
-	"Keith Alexander Campbell (2325)" -> "Susan Etheridge (2323)" [label=1265]
+	"David Rees (2324)" -> "Scott Anderson (2326)" [label=263]
 	"David Rees (2324)" -> "Susan Etheridge (2323)" [label=479]
-	"Robert Dickson (2328)" -> "Susan Etheridge (2323)" [label=176]
+	"Keith Alexander Campbell (2325)" -> "Robert Pasquali (2329)" [label=1137]
+	"Keith Alexander Campbell (2325)" -> "Scott Anderson (2326)" [label=852]
+	"Keith Alexander Campbell (2325)" -> "Susan Etheridge (2323)" [label=1265]
+	"Kris Bullen (2327)" -> "David Rees (2324)" [label=47]
+	"Kris Bullen (2327)" -> "Keith Alexander Campbell (2325)" [label=101]
+	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
+	"Kris Bullen (2327)" -> "Robert Pasquali (2329)" [label=79]
+	"Kris Bullen (2327)" -> "Scott Anderson (2326)" [label=54]
 	"Kris Bullen (2327)" -> "Susan Etheridge (2323)" [label=147]
+	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
+	"Robert Dickson (2328)" -> "Keith Alexander Campbell (2325)" [label=744]
+	"Robert Dickson (2328)" -> "Robert Pasquali (2329)" [label=587]
+	"Robert Dickson (2328)" -> "Scott Anderson (2326)" [label=154]
+	"Robert Dickson (2328)" -> "Susan Etheridge (2323)" [label=176]
+	"Robert Pasquali (2329)" -> "Scott Anderson (2326)" [label=3010]
+	"Robert Pasquali (2329)" -> "Susan Etheridge (2323)" [label=3162]
+	"Susan Etheridge (2323)" -> "Scott Anderson (2326)" [label=12777]
 }

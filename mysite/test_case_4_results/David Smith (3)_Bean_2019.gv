@@ -2,39 +2,39 @@
 digraph "David Smith (3)_Bean_2019" {
 	graph [label="Bean 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Smith (3)" [label="David Smith (3)
-Australian Labor Party"]
-	"Johnathan Davis (1210)" [label="Johnathan Davis (1210)
-The Greens"]
-	"Jamie Christie (4)" [label="Jamie Christie (4)
-Independent"]
-	"Therese Faulkner (1205)" [label="Therese Faulkner (1205)
-Australian Progressives"]
-	"Matt Donnelly (1207)" [label="Matt Donnelly (1207)
-Liberal Democrats"]
-	"Tony Hanley (1208)" [label="Tony Hanley (1208)
-United Australia Party"]
 	"Ben Rushton (1206)" [label="Ben Rushton (1206)
 The Great Australian Party"]
-	"Johnathan Davis (1210)" -> "David Smith (3)" [label=13719]
-	"Jamie Christie (4)" -> "Johnathan Davis (1210)" [label=3215]
-	"Therese Faulkner (1205)" -> "Jamie Christie (4)" [label=1763]
-	"Matt Donnelly (1207)" -> "Therese Faulkner (1205)" [label=165]
-	"Tony Hanley (1208)" -> "Matt Donnelly (1207)" [label=301]
+	"David Smith (3)" [label="David Smith (3)
+Australian Labor Party"]
+	"Jamie Christie (4)" [label="Jamie Christie (4)
+Independent"]
+	"Johnathan Davis (1210)" [label="Johnathan Davis (1210)
+The Greens"]
+	"Matt Donnelly (1207)" [label="Matt Donnelly (1207)
+Liberal Democrats"]
+	"Therese Faulkner (1205)" [label="Therese Faulkner (1205)
+Australian Progressives"]
+	"Tony Hanley (1208)" [label="Tony Hanley (1208)
+United Australia Party"]
+	"Ben Rushton (1206)" -> "David Smith (3)" [label=75]
+	"Ben Rushton (1206)" -> "Jamie Christie (4)" [label=241]
+	"Ben Rushton (1206)" -> "Johnathan Davis (1210)" [label=49]
+	"Ben Rushton (1206)" -> "Matt Donnelly (1207)" [label=116]
+	"Ben Rushton (1206)" -> "Therese Faulkner (1205)" [label=117]
 	"Ben Rushton (1206)" -> "Tony Hanley (1208)" [label=227]
 	"Jamie Christie (4)" -> "David Smith (3)" [label=3219]
-	"Therese Faulkner (1205)" -> "David Smith (3)" [label=498]
+	"Jamie Christie (4)" -> "Johnathan Davis (1210)" [label=3215]
+	"Johnathan Davis (1210)" -> "David Smith (3)" [label=13719]
 	"Matt Donnelly (1207)" -> "David Smith (3)" [label=185]
-	"Tony Hanley (1208)" -> "David Smith (3)" [label=312]
-	"Ben Rushton (1206)" -> "David Smith (3)" [label=75]
-	"Ben Rushton (1206)" -> "Matt Donnelly (1207)" [label=116]
-	"Tony Hanley (1208)" -> "Therese Faulkner (1205)" [label=254]
-	"Ben Rushton (1206)" -> "Therese Faulkner (1205)" [label=117]
 	"Matt Donnelly (1207)" -> "Jamie Christie (4)" [label=503]
-	"Tony Hanley (1208)" -> "Jamie Christie (4)" [label=537]
-	"Ben Rushton (1206)" -> "Jamie Christie (4)" [label=241]
-	"Therese Faulkner (1205)" -> "Johnathan Davis (1210)" [label=735]
 	"Matt Donnelly (1207)" -> "Johnathan Davis (1210)" [label=145]
+	"Matt Donnelly (1207)" -> "Therese Faulkner (1205)" [label=165]
+	"Therese Faulkner (1205)" -> "David Smith (3)" [label=498]
+	"Therese Faulkner (1205)" -> "Jamie Christie (4)" [label=1763]
+	"Therese Faulkner (1205)" -> "Johnathan Davis (1210)" [label=735]
+	"Tony Hanley (1208)" -> "David Smith (3)" [label=312]
+	"Tony Hanley (1208)" -> "Jamie Christie (4)" [label=537]
 	"Tony Hanley (1208)" -> "Johnathan Davis (1210)" [label=221]
-	"Ben Rushton (1206)" -> "Johnathan Davis (1210)" [label=49]
+	"Tony Hanley (1208)" -> "Matt Donnelly (1207)" [label=301]
+	"Tony Hanley (1208)" -> "Therese Faulkner (1205)" [label=254]
 }

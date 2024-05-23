@@ -2,39 +2,39 @@
 digraph "Susan Templeman (208)_Macquarie_2022" {
 	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
+	"James Jackson (210)" [label="James Jackson (210)
+Liberal Democrats"]
+	"Michelle Palmer (213)" [label="Michelle Palmer (213)
+Informed Medical Options Party"]
+	"Nicole Evans (209)" [label="Nicole Evans (209)
+United Australia Party"]
 	"Susan Templeman (208)" [label="Susan Templeman (208)
 Labor"]
 	"Tony Hickey (212)" [label="Tony Hickey (212)
 The Greens"]
 	"Tony Pettitt (207)" [label="Tony Pettitt (207)
 Pauline Hanson's One Nation"]
-	"Nicole Evans (209)" [label="Nicole Evans (209)
-United Australia Party"]
-	"Greg Keightley (211)" [label="Greg Keightley (211)
-Animal Justice Party"]
-	"Michelle Palmer (213)" [label="Michelle Palmer (213)
-Informed Medical Options Party"]
-	"James Jackson (210)" [label="James Jackson (210)
-Liberal Democrats"]
-	"Tony Hickey (212)" -> "Susan Templeman (208)" [label=10293]
-	"Tony Pettitt (207)" -> "Tony Hickey (212)" [label=1548]
-	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
 	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
-	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
-	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
-	"Tony Pettitt (207)" -> "Susan Templeman (208)" [label=2509]
-	"Nicole Evans (209)" -> "Susan Templeman (208)" [label=437]
 	"Greg Keightley (211)" -> "Susan Templeman (208)" [label=650]
-	"Michelle Palmer (213)" -> "Susan Templeman (208)" [label=91]
-	"James Jackson (210)" -> "Susan Templeman (208)" [label=138]
-	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
-	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
-	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
-	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
-	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
-	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
-	"Nicole Evans (209)" -> "Tony Hickey (212)" [label=282]
 	"Greg Keightley (211)" -> "Tony Hickey (212)" [label=879]
-	"Michelle Palmer (213)" -> "Tony Hickey (212)" [label=120]
+	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
+	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
+	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
+	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
+	"James Jackson (210)" -> "Susan Templeman (208)" [label=138]
 	"James Jackson (210)" -> "Tony Hickey (212)" [label=57]
+	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
+	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
+	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
+	"Michelle Palmer (213)" -> "Susan Templeman (208)" [label=91]
+	"Michelle Palmer (213)" -> "Tony Hickey (212)" [label=120]
+	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
+	"Nicole Evans (209)" -> "Susan Templeman (208)" [label=437]
+	"Nicole Evans (209)" -> "Tony Hickey (212)" [label=282]
+	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
+	"Tony Hickey (212)" -> "Susan Templeman (208)" [label=10293]
+	"Tony Pettitt (207)" -> "Susan Templeman (208)" [label=2509]
+	"Tony Pettitt (207)" -> "Tony Hickey (212)" [label=1548]
 }

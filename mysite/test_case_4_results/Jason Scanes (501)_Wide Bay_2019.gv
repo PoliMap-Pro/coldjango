@@ -2,31 +2,31 @@
 digraph "Jason Scanes (501)_Wide Bay_2019" {
 	graph [label="Wide Bay 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Scanes (501)" [label="Jason Scanes (501)
-Australian Labor Party"]
 	"Aaron Vico (1638)" [label="Aaron Vico (1638)
 Pauline Hanson's One Nation"]
-	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
-The Greens"]
-	"Tim Jerome (599)" [label="Tim Jerome (599)
-Independent"]
 	"Andrew Schebella (1636)" [label="Andrew Schebella (1636)
 United Australia Party"]
+	"Daniel Bryar (1635)" [label="Daniel Bryar (1635)
+The Greens"]
 	"Jasmine Smith (1637)" [label="Jasmine Smith (1637)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Jason Scanes (501)" [label="Jason Scanes (501)
+Australian Labor Party"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
 	"Aaron Vico (1638)" -> "Jason Scanes (501)" [label=5239]
-	"Daniel Bryar (1635)" -> "Aaron Vico (1638)" [label=1267]
-	"Tim Jerome (599)" -> "Daniel Bryar (1635)" [label=1021]
-	"Andrew Schebella (1636)" -> "Tim Jerome (599)" [label=485]
-	"Jasmine Smith (1637)" -> "Andrew Schebella (1636)" [label=198]
-	"Daniel Bryar (1635)" -> "Jason Scanes (501)" [label=7657]
-	"Tim Jerome (599)" -> "Jason Scanes (501)" [label=840]
+	"Andrew Schebella (1636)" -> "Aaron Vico (1638)" [label=1467]
+	"Andrew Schebella (1636)" -> "Daniel Bryar (1635)" [label=259]
 	"Andrew Schebella (1636)" -> "Jason Scanes (501)" [label=366]
+	"Andrew Schebella (1636)" -> "Tim Jerome (599)" [label=485]
+	"Daniel Bryar (1635)" -> "Aaron Vico (1638)" [label=1267]
+	"Daniel Bryar (1635)" -> "Jason Scanes (501)" [label=7657]
+	"Jasmine Smith (1637)" -> "Aaron Vico (1638)" [label=1051]
+	"Jasmine Smith (1637)" -> "Andrew Schebella (1636)" [label=198]
+	"Jasmine Smith (1637)" -> "Daniel Bryar (1635)" [label=84]
 	"Jasmine Smith (1637)" -> "Jason Scanes (501)" [label=73]
 	"Jasmine Smith (1637)" -> "Tim Jerome (599)" [label=526]
-	"Andrew Schebella (1636)" -> "Daniel Bryar (1635)" [label=259]
-	"Jasmine Smith (1637)" -> "Daniel Bryar (1635)" [label=84]
 	"Tim Jerome (599)" -> "Aaron Vico (1638)" [label=2052]
-	"Andrew Schebella (1636)" -> "Aaron Vico (1638)" [label=1467]
-	"Jasmine Smith (1637)" -> "Aaron Vico (1638)" [label=1051]
+	"Tim Jerome (599)" -> "Daniel Bryar (1635)" [label=1021]
+	"Tim Jerome (599)" -> "Jason Scanes (501)" [label=840]
 }

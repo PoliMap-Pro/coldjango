@@ -2,24 +2,24 @@
 digraph "Matt Burnell (675)_Spence_2022" {
 	graph [label="Spence 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matt Burnell (675)" [label="Matt Burnell (675)
-Australian Labor Party"]
-	"Linda Champion (679)" [label="Linda Champion (679)
-Pauline Hanson's One Nation"]
-	"David Deex (676)" [label="David Deex (676)
-The Greens"]
 	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
 United Australia Party"]
+	"David Deex (676)" [label="David Deex (676)
+The Greens"]
+	"Linda Champion (679)" [label="Linda Champion (679)
+Pauline Hanson's One Nation"]
 	"Matilda Bawden (677)" [label="Matilda Bawden (677)
 Australian Federation Party"]
-	"Linda Champion (679)" -> "Matt Burnell (675)" [label=8716]
-	"David Deex (676)" -> "Linda Champion (679)" [label=2468]
+	"Matt Burnell (675)" [label="Matt Burnell (675)
+Australian Labor Party"]
 	"Alvin Eric Warren (674)" -> "David Deex (676)" [label=1255]
-	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
-	"David Deex (676)" -> "Matt Burnell (675)" [label=9216]
-	"Alvin Eric Warren (674)" -> "Matt Burnell (675)" [label=2057]
-	"Matilda Bawden (677)" -> "Matt Burnell (675)" [label=233]
-	"Matilda Bawden (677)" -> "David Deex (676)" [label=320]
 	"Alvin Eric Warren (674)" -> "Linda Champion (679)" [label=3353]
+	"Alvin Eric Warren (674)" -> "Matt Burnell (675)" [label=2057]
+	"David Deex (676)" -> "Linda Champion (679)" [label=2468]
+	"David Deex (676)" -> "Matt Burnell (675)" [label=9216]
+	"Linda Champion (679)" -> "Matt Burnell (675)" [label=8716]
+	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
+	"Matilda Bawden (677)" -> "David Deex (676)" [label=320]
 	"Matilda Bawden (677)" -> "Linda Champion (679)" [label=607]
+	"Matilda Bawden (677)" -> "Matt Burnell (675)" [label=233]
 }

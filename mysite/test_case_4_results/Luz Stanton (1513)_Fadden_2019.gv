@@ -2,31 +2,31 @@
 digraph "Luz Stanton (1513)_Fadden_2019" {
 	graph [label="Fadden 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Luz Stanton (1513)" [label="Luz Stanton (1513)
-Australian Labor Party"]
-	"Darren Eather (1514)" [label="Darren Eather (1514)
-Pauline Hanson's One Nation"]
-	"Scott Turner (546)" [label="Scott Turner (546)
-The Greens"]
-	"Mara Krischker (1516)" [label="Mara Krischker (1516)
-United Australia Party"]
-	"Jake Welch (1512)" [label="Jake Welch (1512)
-Liberal Democrats"]
 	"Allan Barber (1515)" [label="Allan Barber (1515)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Darren Eather (1514)" -> "Luz Stanton (1513)" [label=4979]
-	"Scott Turner (546)" -> "Darren Eather (1514)" [label=1393]
-	"Mara Krischker (1516)" -> "Scott Turner (546)" [label=650]
-	"Jake Welch (1512)" -> "Mara Krischker (1516)" [label=379]
+	"Darren Eather (1514)" [label="Darren Eather (1514)
+Pauline Hanson's One Nation"]
+	"Jake Welch (1512)" [label="Jake Welch (1512)
+Liberal Democrats"]
+	"Luz Stanton (1513)" [label="Luz Stanton (1513)
+Australian Labor Party"]
+	"Mara Krischker (1516)" [label="Mara Krischker (1516)
+United Australia Party"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+The Greens"]
+	"Allan Barber (1515)" -> "Darren Eather (1514)" [label=645]
 	"Allan Barber (1515)" -> "Jake Welch (1512)" [label=201]
-	"Scott Turner (546)" -> "Luz Stanton (1513)" [label=6172]
-	"Mara Krischker (1516)" -> "Luz Stanton (1513)" [label=601]
-	"Jake Welch (1512)" -> "Luz Stanton (1513)" [label=1090]
 	"Allan Barber (1515)" -> "Luz Stanton (1513)" [label=101]
 	"Allan Barber (1515)" -> "Mara Krischker (1516)" [label=221]
-	"Jake Welch (1512)" -> "Scott Turner (546)" [label=475]
 	"Allan Barber (1515)" -> "Scott Turner (546)" [label=156]
-	"Mara Krischker (1516)" -> "Darren Eather (1514)" [label=2147]
+	"Darren Eather (1514)" -> "Luz Stanton (1513)" [label=4979]
 	"Jake Welch (1512)" -> "Darren Eather (1514)" [label=1012]
-	"Allan Barber (1515)" -> "Darren Eather (1514)" [label=645]
+	"Jake Welch (1512)" -> "Luz Stanton (1513)" [label=1090]
+	"Jake Welch (1512)" -> "Mara Krischker (1516)" [label=379]
+	"Jake Welch (1512)" -> "Scott Turner (546)" [label=475]
+	"Mara Krischker (1516)" -> "Darren Eather (1514)" [label=2147]
+	"Mara Krischker (1516)" -> "Luz Stanton (1513)" [label=601]
+	"Mara Krischker (1516)" -> "Scott Turner (546)" [label=650]
+	"Scott Turner (546)" -> "Darren Eather (1514)" [label=1393]
+	"Scott Turner (546)" -> "Luz Stanton (1513)" [label=6172]
 }

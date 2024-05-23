@@ -1,12 +1,12 @@
 import os
+from ... import aec_readers, house, place
 from datetime import datetime
 from django.core.management.base import BaseCommand
-from ... import place, aec_readers, house
 
 
 class Command(BaseCommand, aec_readers.AECReader):
     N = 300
-    PARTY_ABBREVIATION = 'ALP'
+    PARTY_ABBREVIATION = 'LP'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
     YEARS = (2022, 2016, 2019, 2013, 2010, 2007, 2004)
 
@@ -14,7 +14,7 @@ class Command(BaseCommand, aec_readers.AECReader):
            "ALP/Greens in the 2016 election, and how about 2022 (where the " \
            "Lib recommendation was different?)\n\n"
 
-    def handle(self, *arguments, **keywordarguments):
+    def handle(self, *arguments, **keyword_arguments):
         print(Command.help)
         seat_list = list(place.Seat.objects.all().order_by('name'))[:Command.N]
         [Command.year_flow(seat_list, year) for year in Command.YEARS]

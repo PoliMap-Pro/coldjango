@@ -2,39 +2,39 @@
 digraph "Pam Mccreadie (607)_Wright_2019" {
 	graph [label="Wright 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pam Mccreadie (607)" [label="Pam Mccreadie (607)
-Australian Labor Party"]
 	"Chris O'Callaghan (1644)" [label="Chris O'Callaghan (1644)
 Pauline Hanson's One Nation"]
-	"Shannon Girard (1640)" [label="Shannon Girard (1640)
-The Greens"]
-	"Innes Larkin (1641)" [label="Innes Larkin (1641)
-Independent"]
 	"David William Wright (1639)" [label="David William Wright (1639)
 United Australia Party"]
+	"Innes Larkin (1641)" [label="Innes Larkin (1641)
+Independent"]
 	"Matthew Tomlinson (1643)" [label="Matthew Tomlinson (1643)
 Katter's Australian Party (KAP)"]
+	"Pam Mccreadie (607)" [label="Pam Mccreadie (607)
+Australian Labor Party"]
 	"Rod Smith (1642)" [label="Rod Smith (1642)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Shannon Girard (1640)" [label="Shannon Girard (1640)
+The Greens"]
 	"Chris O'Callaghan (1644)" -> "Pam Mccreadie (607)" [label=7191]
-	"Shannon Girard (1640)" -> "Chris O'Callaghan (1644)" [label=1558]
-	"Innes Larkin (1641)" -> "Shannon Girard (1640)" [label=2187]
-	"David William Wright (1639)" -> "Innes Larkin (1641)" [label=744]
-	"Matthew Tomlinson (1643)" -> "David William Wright (1639)" [label=335]
-	"Rod Smith (1642)" -> "Matthew Tomlinson (1643)" [label=646]
-	"Shannon Girard (1640)" -> "Pam Mccreadie (607)" [label=6936]
-	"Innes Larkin (1641)" -> "Pam Mccreadie (607)" [label=1325]
-	"David William Wright (1639)" -> "Pam Mccreadie (607)" [label=428]
-	"Matthew Tomlinson (1643)" -> "Pam Mccreadie (607)" [label=205]
-	"Rod Smith (1642)" -> "Pam Mccreadie (607)" [label=82]
-	"Rod Smith (1642)" -> "David William Wright (1639)" [label=205]
-	"Matthew Tomlinson (1643)" -> "Innes Larkin (1641)" [label=437]
-	"Rod Smith (1642)" -> "Innes Larkin (1641)" [label=192]
-	"David William Wright (1639)" -> "Shannon Girard (1640)" [label=851]
-	"Matthew Tomlinson (1643)" -> "Shannon Girard (1640)" [label=104]
-	"Rod Smith (1642)" -> "Shannon Girard (1640)" [label=56]
-	"Innes Larkin (1641)" -> "Chris O'Callaghan (1644)" [label=1714]
 	"David William Wright (1639)" -> "Chris O'Callaghan (1644)" [label=2036]
+	"David William Wright (1639)" -> "Innes Larkin (1641)" [label=744]
+	"David William Wright (1639)" -> "Pam Mccreadie (607)" [label=428]
+	"David William Wright (1639)" -> "Shannon Girard (1640)" [label=851]
+	"Innes Larkin (1641)" -> "Chris O'Callaghan (1644)" [label=1714]
+	"Innes Larkin (1641)" -> "Pam Mccreadie (607)" [label=1325]
+	"Innes Larkin (1641)" -> "Shannon Girard (1640)" [label=2187]
 	"Matthew Tomlinson (1643)" -> "Chris O'Callaghan (1644)" [label=1642]
+	"Matthew Tomlinson (1643)" -> "David William Wright (1639)" [label=335]
+	"Matthew Tomlinson (1643)" -> "Innes Larkin (1641)" [label=437]
+	"Matthew Tomlinson (1643)" -> "Pam Mccreadie (607)" [label=205]
+	"Matthew Tomlinson (1643)" -> "Shannon Girard (1640)" [label=104]
 	"Rod Smith (1642)" -> "Chris O'Callaghan (1644)" [label=766]
+	"Rod Smith (1642)" -> "David William Wright (1639)" [label=205]
+	"Rod Smith (1642)" -> "Innes Larkin (1641)" [label=192]
+	"Rod Smith (1642)" -> "Matthew Tomlinson (1643)" [label=646]
+	"Rod Smith (1642)" -> "Pam Mccreadie (607)" [label=82]
+	"Rod Smith (1642)" -> "Shannon Girard (1640)" [label=56]
+	"Shannon Girard (1640)" -> "Chris O'Callaghan (1644)" [label=1558]
+	"Shannon Girard (1640)" -> "Pam Mccreadie (607)" [label=6936]
 }

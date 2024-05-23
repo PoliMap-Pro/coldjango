@@ -2,18 +2,18 @@
 digraph "Matt Thistlethwaite (178)_Kingsford Smith_2022" {
 	graph [label="Kingsford Smith 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matt Thistlethwaite (178)" [label="Matt Thistlethwaite (178)
-Labor"]
-	"Stuart Davis (174)" [label="Stuart Davis (174)
-The Greens"]
 	"Anthony Tawaf (176)" [label="Anthony Tawaf (176)
 United Australia Party"]
 	"Darrin Marr (175)" [label="Darrin Marr (175)
 Pauline Hanson's One Nation"]
-	"Stuart Davis (174)" -> "Matt Thistlethwaite (178)" [label=14849]
+	"Matt Thistlethwaite (178)" [label="Matt Thistlethwaite (178)
+Labor"]
+	"Stuart Davis (174)" [label="Stuart Davis (174)
+The Greens"]
+	"Anthony Tawaf (176)" -> "Matt Thistlethwaite (178)" [label=1022]
 	"Anthony Tawaf (176)" -> "Stuart Davis (174)" [label=1407]
 	"Darrin Marr (175)" -> "Anthony Tawaf (176)" [label=1961]
-	"Anthony Tawaf (176)" -> "Matt Thistlethwaite (178)" [label=1022]
 	"Darrin Marr (175)" -> "Matt Thistlethwaite (178)" [label=300]
 	"Darrin Marr (175)" -> "Stuart Davis (174)" [label=313]
+	"Stuart Davis (174)" -> "Matt Thistlethwaite (178)" [label=14849]
 }

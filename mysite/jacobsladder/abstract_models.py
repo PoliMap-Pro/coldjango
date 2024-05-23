@@ -16,6 +16,11 @@ class Election(section.Part):
     def get_call_name(self, add_to_end_of_name, between_parts_of_name,
                       between_party_names, house_elections_text, p_set,
                       tally_attribute):
+        """
+        Smudges together the short names of the parties, the tally attribute and
+        this election's year. Returns the result between house_elections_text at
+        the front and add_to_end_of_name at the back
+        """
         parties_string = between_party_names.join(set([p.short_name() for p in
                                                        p_set]))
         return f"{house_elections_text}{self.election_date.year}" \

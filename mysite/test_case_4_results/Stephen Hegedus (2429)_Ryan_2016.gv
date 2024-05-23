@@ -2,24 +2,24 @@
 digraph "Stephen Hegedus (2429)_Ryan_2016" {
 	graph [label="Ryan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Hegedus (2429)" [label="Stephen Hegedus (2429)
-Australian Labor Party"]
-	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
-The Greens"]
 	"David Todd (2428)" [label="David Todd (2428)
 Family First"]
-	"S Gryphon (1607)" [label="S Gryphon (1607)
-Liberal Democrats"]
 	"John Lawrence Quinn (2427)" [label="John Lawrence Quinn (2427)
 Democratic Labour Party (DLP)"]
-	"Sandra Bayley (2431)" -> "Stephen Hegedus (2429)" [label=15443]
+	"S Gryphon (1607)" [label="S Gryphon (1607)
+Liberal Democrats"]
+	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
+The Greens"]
+	"Stephen Hegedus (2429)" [label="Stephen Hegedus (2429)
+Australian Labor Party"]
 	"David Todd (2428)" -> "Sandra Bayley (2431)" [label=673]
-	"S Gryphon (1607)" -> "David Todd (2428)" [label=529]
-	"John Lawrence Quinn (2427)" -> "S Gryphon (1607)" [label=181]
 	"David Todd (2428)" -> "Stephen Hegedus (2429)" [label=937]
-	"S Gryphon (1607)" -> "Stephen Hegedus (2429)" [label=282]
-	"John Lawrence Quinn (2427)" -> "Stephen Hegedus (2429)" [label=514]
 	"John Lawrence Quinn (2427)" -> "David Todd (2428)" [label=455]
-	"S Gryphon (1607)" -> "Sandra Bayley (2431)" [label=394]
+	"John Lawrence Quinn (2427)" -> "S Gryphon (1607)" [label=181]
 	"John Lawrence Quinn (2427)" -> "Sandra Bayley (2431)" [label=240]
+	"John Lawrence Quinn (2427)" -> "Stephen Hegedus (2429)" [label=514]
+	"S Gryphon (1607)" -> "David Todd (2428)" [label=529]
+	"S Gryphon (1607)" -> "Sandra Bayley (2431)" [label=394]
+	"S Gryphon (1607)" -> "Stephen Hegedus (2429)" [label=282]
+	"Sandra Bayley (2431)" -> "Stephen Hegedus (2429)" [label=15443]
 }

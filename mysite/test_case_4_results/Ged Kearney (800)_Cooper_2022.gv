@@ -2,39 +2,39 @@
 digraph "Ged Kearney (800)_Cooper_2022" {
 	graph [label="Cooper 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Adam La Rosa (798)" [label="Adam La Rosa (798)
+United Australia Party"]
+	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Ged Kearney (800)" [label="Ged Kearney (800)
 Australian Labor Party"]
 	"Jadon Atkinson (797)" [label="Jadon Atkinson (797)
 Liberal"]
-	"Adam La Rosa (798)" [label="Adam La Rosa (798)
-United Australia Party"]
 	"Kath Larkin (794)" [label="Kath Larkin (794)
 Victorian Socialists"]
-	"William Tristan Turner (799)" [label="William Tristan Turner (799)
-Pauline Hanson's One Nation"]
 	"Rabin Bangaar (793)" [label="Rabin Bangaar (793)
 Animal Justice Party"]
-	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Jadon Atkinson (797)" -> "Ged Kearney (800)" [label=13085]
-	"Adam La Rosa (798)" -> "Jadon Atkinson (797)" [label=3351]
-	"Kath Larkin (794)" -> "Adam La Rosa (798)" [label=369]
-	"William Tristan Turner (799)" -> "Kath Larkin (794)" [label=225]
-	"Rabin Bangaar (793)" -> "William Tristan Turner (799)" [label=126]
-	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+	"William Tristan Turner (799)" [label="William Tristan Turner (799)
+Pauline Hanson's One Nation"]
 	"Adam La Rosa (798)" -> "Ged Kearney (800)" [label=1720]
-	"Kath Larkin (794)" -> "Ged Kearney (800)" [label=545]
-	"William Tristan Turner (799)" -> "Ged Kearney (800)" [label=292]
-	"Rabin Bangaar (793)" -> "Ged Kearney (800)" [label=381]
-	"Adrian Whitehead (796)" -> "Ged Kearney (800)" [label=229]
-	"Adrian Whitehead (796)" -> "William Tristan Turner (799)" [label=41]
-	"Rabin Bangaar (793)" -> "Kath Larkin (794)" [label=803]
-	"Adrian Whitehead (796)" -> "Kath Larkin (794)" [label=289]
-	"William Tristan Turner (799)" -> "Adam La Rosa (798)" [label=2017]
-	"Rabin Bangaar (793)" -> "Adam La Rosa (798)" [label=180]
+	"Adam La Rosa (798)" -> "Jadon Atkinson (797)" [label=3351]
 	"Adrian Whitehead (796)" -> "Adam La Rosa (798)" [label=66]
-	"Kath Larkin (794)" -> "Jadon Atkinson (797)" [label=150]
-	"William Tristan Turner (799)" -> "Jadon Atkinson (797)" [label=311]
-	"Rabin Bangaar (793)" -> "Jadon Atkinson (797)" [label=191]
+	"Adrian Whitehead (796)" -> "Ged Kearney (800)" [label=229]
 	"Adrian Whitehead (796)" -> "Jadon Atkinson (797)" [label=104]
+	"Adrian Whitehead (796)" -> "Kath Larkin (794)" [label=289]
+	"Adrian Whitehead (796)" -> "Rabin Bangaar (793)" [label=252]
+	"Adrian Whitehead (796)" -> "William Tristan Turner (799)" [label=41]
+	"Jadon Atkinson (797)" -> "Ged Kearney (800)" [label=13085]
+	"Kath Larkin (794)" -> "Adam La Rosa (798)" [label=369]
+	"Kath Larkin (794)" -> "Ged Kearney (800)" [label=545]
+	"Kath Larkin (794)" -> "Jadon Atkinson (797)" [label=150]
+	"Rabin Bangaar (793)" -> "Adam La Rosa (798)" [label=180]
+	"Rabin Bangaar (793)" -> "Ged Kearney (800)" [label=381]
+	"Rabin Bangaar (793)" -> "Jadon Atkinson (797)" [label=191]
+	"Rabin Bangaar (793)" -> "Kath Larkin (794)" [label=803]
+	"Rabin Bangaar (793)" -> "William Tristan Turner (799)" [label=126]
+	"William Tristan Turner (799)" -> "Adam La Rosa (798)" [label=2017]
+	"William Tristan Turner (799)" -> "Ged Kearney (800)" [label=292]
+	"William Tristan Turner (799)" -> "Jadon Atkinson (797)" [label=311]
+	"William Tristan Turner (799)" -> "Kath Larkin (794)" [label=225]
 }

@@ -6,14 +6,14 @@ digraph "Amanda Rishworth (655)_Kingston_2016" {
 Australian Labor Party"]
 	"Damian Carey (2471)" [label="Damian Carey (2471)
 Nick Xenophon Team"]
-	"Robyn Holtham (2469)" [label="Robyn Holtham (2469)
-The Greens"]
 	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
 Family First"]
+	"Robyn Holtham (2469)" [label="Robyn Holtham (2469)
+The Greens"]
 	"Damian Carey (2471)" -> "Amanda Rishworth (655)" [label=12023]
-	"Robyn Holtham (2469)" -> "Damian Carey (2471)" [label=1865]
-	"Geoff Doecke (2470)" -> "Robyn Holtham (2469)" [label=611]
-	"Robyn Holtham (2469)" -> "Amanda Rishworth (655)" [label=3686]
 	"Geoff Doecke (2470)" -> "Amanda Rishworth (655)" [label=756]
 	"Geoff Doecke (2470)" -> "Damian Carey (2471)" [label=1041]
+	"Geoff Doecke (2470)" -> "Robyn Holtham (2469)" [label=611]
+	"Robyn Holtham (2469)" -> "Amanda Rishworth (655)" [label=3686]
+	"Robyn Holtham (2469)" -> "Damian Carey (2471)" [label=1865]
 }

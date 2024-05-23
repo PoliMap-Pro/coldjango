@@ -2,39 +2,39 @@
 digraph "Terri Butler (476)_Griffith_2016" {
 	graph [label="Griffith 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Terri Butler (476)" [label="Terri Butler (476)
-Australian Labor Party"]
-	"Karen Anderson (2346)" [label="Karen Anderson (2346)
-The Greens"]
-	"John Jiggens (2350)" [label="John Jiggens (2350)
-Drug Law Reform"]
 	"Bronwyn Ablett (2347)" [label="Bronwyn Ablett (2347)
 Liberal Democrats"]
-	"Matt Darragh (2345)" [label="Matt Darragh (2345)
-Australian Liberty Alliance"]
+	"John Jiggens (2350)" [label="John Jiggens (2350)
+Drug Law Reform"]
 	"Karel Boele (2348)" [label="Karel Boele (2348)
 Independent"]
+	"Karen Anderson (2346)" [label="Karen Anderson (2346)
+The Greens"]
+	"Matt Darragh (2345)" [label="Matt Darragh (2345)
+Australian Liberty Alliance"]
+	"Terri Butler (476)" [label="Terri Butler (476)
+Australian Labor Party"]
 	"Theresa Graham (2351)" [label="Theresa Graham (2351)
 Family First"]
-	"Karen Anderson (2346)" -> "Terri Butler (476)" [label=15157]
-	"John Jiggens (2350)" -> "Karen Anderson (2346)" [label=1397]
 	"Bronwyn Ablett (2347)" -> "John Jiggens (2350)" [label=380]
-	"Matt Darragh (2345)" -> "Bronwyn Ablett (2347)" [label=457]
-	"Karel Boele (2348)" -> "Matt Darragh (2345)" [label=242]
-	"Theresa Graham (2351)" -> "Karel Boele (2348)" [label=172]
-	"John Jiggens (2350)" -> "Terri Butler (476)" [label=794]
-	"Bronwyn Ablett (2347)" -> "Terri Butler (476)" [label=335]
-	"Matt Darragh (2345)" -> "Terri Butler (476)" [label=186]
-	"Karel Boele (2348)" -> "Terri Butler (476)" [label=275]
-	"Theresa Graham (2351)" -> "Terri Butler (476)" [label=193]
-	"Theresa Graham (2351)" -> "Matt Darragh (2345)" [label=254]
-	"Karel Boele (2348)" -> "Bronwyn Ablett (2347)" [label=139]
-	"Theresa Graham (2351)" -> "Bronwyn Ablett (2347)" [label=91]
-	"Matt Darragh (2345)" -> "John Jiggens (2350)" [label=470]
-	"Karel Boele (2348)" -> "John Jiggens (2350)" [label=263]
-	"Theresa Graham (2351)" -> "John Jiggens (2350)" [label=187]
 	"Bronwyn Ablett (2347)" -> "Karen Anderson (2346)" [label=510]
-	"Matt Darragh (2345)" -> "Karen Anderson (2346)" [label=388]
+	"Bronwyn Ablett (2347)" -> "Terri Butler (476)" [label=335]
+	"John Jiggens (2350)" -> "Karen Anderson (2346)" [label=1397]
+	"John Jiggens (2350)" -> "Terri Butler (476)" [label=794]
+	"Karel Boele (2348)" -> "Bronwyn Ablett (2347)" [label=139]
+	"Karel Boele (2348)" -> "John Jiggens (2350)" [label=263]
 	"Karel Boele (2348)" -> "Karen Anderson (2346)" [label=481]
+	"Karel Boele (2348)" -> "Matt Darragh (2345)" [label=242]
+	"Karel Boele (2348)" -> "Terri Butler (476)" [label=275]
+	"Karen Anderson (2346)" -> "Terri Butler (476)" [label=15157]
+	"Matt Darragh (2345)" -> "Bronwyn Ablett (2347)" [label=457]
+	"Matt Darragh (2345)" -> "John Jiggens (2350)" [label=470]
+	"Matt Darragh (2345)" -> "Karen Anderson (2346)" [label=388]
+	"Matt Darragh (2345)" -> "Terri Butler (476)" [label=186]
+	"Theresa Graham (2351)" -> "Bronwyn Ablett (2347)" [label=91]
+	"Theresa Graham (2351)" -> "John Jiggens (2350)" [label=187]
+	"Theresa Graham (2351)" -> "Karel Boele (2348)" [label=172]
 	"Theresa Graham (2351)" -> "Karen Anderson (2346)" [label=137]
+	"Theresa Graham (2351)" -> "Matt Darragh (2345)" [label=254]
+	"Theresa Graham (2351)" -> "Terri Butler (476)" [label=193]
 }

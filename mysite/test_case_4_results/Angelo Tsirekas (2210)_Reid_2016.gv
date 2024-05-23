@@ -2,18 +2,18 @@
 digraph "Angelo Tsirekas (2210)_Reid_2016" {
 	graph [label="Reid 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Angelo Tsirekas (2210)" [label="Angelo Tsirekas (2210)
-Labor"]
 	"Alice Mantel (2212)" [label="Alice Mantel (2212)
 The Greens"]
+	"Angelo Tsirekas (2210)" [label="Angelo Tsirekas (2210)
+Labor"]
 	"Ju Kang (2211)" [label="Ju Kang (2211)
 Christian Democratic Party (Fred Nile Group)"]
 	"Marylou Carter (2208)" [label="Marylou Carter (2208)
 Family First"]
 	"Alice Mantel (2212)" -> "Angelo Tsirekas (2210)" [label=6844]
 	"Ju Kang (2211)" -> "Alice Mantel (2212)" [label=558]
-	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
 	"Ju Kang (2211)" -> "Angelo Tsirekas (2210)" [label=877]
-	"Marylou Carter (2208)" -> "Angelo Tsirekas (2210)" [label=415]
 	"Marylou Carter (2208)" -> "Alice Mantel (2212)" [label=297]
+	"Marylou Carter (2208)" -> "Angelo Tsirekas (2210)" [label=415]
+	"Marylou Carter (2208)" -> "Ju Kang (2211)" [label=555]
 }

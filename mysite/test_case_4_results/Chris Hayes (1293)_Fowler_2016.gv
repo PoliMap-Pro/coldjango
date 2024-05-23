@@ -2,18 +2,18 @@
 digraph "Chris Hayes (1293)_Fowler_2016" {
 	graph [label="Fowler 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Hayes (1293)" [label="Chris Hayes (1293)
-Labor"]
 	"Bill Cashman (2098)" [label="Bill Cashman (2098)
 The Greens"]
+	"Chris Hayes (1293)" [label="Chris Hayes (1293)
+Labor"]
 	"Craig Hall (2101)" [label="Craig Hall (2101)
 Christian Democratic Party (Fred Nile Group)"]
 	"Joaquim De Lima (2100)" [label="Joaquim De Lima (2100)
 Smokers Rights"]
 	"Bill Cashman (2098)" -> "Chris Hayes (1293)" [label=3526]
 	"Craig Hall (2101)" -> "Bill Cashman (2098)" [label=801]
-	"Joaquim De Lima (2100)" -> "Craig Hall (2101)" [label=381]
 	"Craig Hall (2101)" -> "Chris Hayes (1293)" [label=1660]
-	"Joaquim De Lima (2100)" -> "Chris Hayes (1293)" [label=464]
 	"Joaquim De Lima (2100)" -> "Bill Cashman (2098)" [label=288]
+	"Joaquim De Lima (2100)" -> "Chris Hayes (1293)" [label=464]
+	"Joaquim De Lima (2100)" -> "Craig Hall (2101)" [label=381]
 }

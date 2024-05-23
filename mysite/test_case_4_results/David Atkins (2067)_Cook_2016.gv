@@ -4,16 +4,16 @@ digraph "David Atkins (2067)_Cook_2016" {
 	node [shape=box]
 	"David Atkins (2067)" [label="David Atkins (2067)
 Labor"]
-	"Nathan Hunt (2066)" [label="Nathan Hunt (2066)
-The Greens"]
 	"George Capsis (2065)" [label="George Capsis (2065)
 Christian Democratic Party (Fred Nile Group)"]
 	"John Brett (2064)" [label="John Brett (2064)
 Independent"]
-	"Nathan Hunt (2066)" -> "David Atkins (2067)" [label=5785]
-	"George Capsis (2065)" -> "Nathan Hunt (2066)" [label=696]
-	"John Brett (2064)" -> "George Capsis (2065)" [label=601]
+	"Nathan Hunt (2066)" [label="Nathan Hunt (2066)
+The Greens"]
 	"George Capsis (2065)" -> "David Atkins (2067)" [label=866]
+	"George Capsis (2065)" -> "Nathan Hunt (2066)" [label=696]
 	"John Brett (2064)" -> "David Atkins (2067)" [label=691]
+	"John Brett (2064)" -> "George Capsis (2065)" [label=601]
 	"John Brett (2064)" -> "Nathan Hunt (2066)" [label=694]
+	"Nathan Hunt (2066)" -> "David Atkins (2067)" [label=5785]
 }

@@ -2,18 +2,18 @@
 digraph "Kate Thwaites (937)_Jagajaga_2019" {
 	graph [label="Jagajaga 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kate Thwaites (937)" [label="Kate Thwaites (937)
-Australian Labor Party"]
-	"Paul Kennedy (1847)" [label="Paul Kennedy (1847)
-The Greens (VIC)"]
-	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
-United Australia Party"]
 	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
 Rise Up Australia Party"]
-	"Paul Kennedy (1847)" -> "Kate Thwaites (937)" [label=12682]
-	"Maria Marcia Rigoni (1845)" -> "Paul Kennedy (1847)" [label=735]
-	"Jeff Truscott (1846)" -> "Maria Marcia Rigoni (1845)" [label=567]
-	"Maria Marcia Rigoni (1845)" -> "Kate Thwaites (937)" [label=1290]
+	"Kate Thwaites (937)" [label="Kate Thwaites (937)
+Australian Labor Party"]
+	"Maria Marcia Rigoni (1845)" [label="Maria Marcia Rigoni (1845)
+United Australia Party"]
+	"Paul Kennedy (1847)" [label="Paul Kennedy (1847)
+The Greens (VIC)"]
 	"Jeff Truscott (1846)" -> "Kate Thwaites (937)" [label=246]
+	"Jeff Truscott (1846)" -> "Maria Marcia Rigoni (1845)" [label=567]
 	"Jeff Truscott (1846)" -> "Paul Kennedy (1847)" [label=160]
+	"Maria Marcia Rigoni (1845)" -> "Kate Thwaites (937)" [label=1290]
+	"Maria Marcia Rigoni (1845)" -> "Paul Kennedy (1847)" [label=735]
+	"Paul Kennedy (1847)" -> "Kate Thwaites (937)" [label=12682]
 }

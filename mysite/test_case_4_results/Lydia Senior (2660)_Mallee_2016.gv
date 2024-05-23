@@ -2,18 +2,18 @@
 digraph "Lydia Senior (2660)_Mallee_2016" {
 	graph [label="Mallee 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lydia Senior (2660)" [label="Lydia Senior (2660)
-Australian Labor Party"]
-	"Helen Healy (2662)" [label="Helen Healy (2662)
-The Greens"]
-	"Tim Middleton (2661)" [label="Tim Middleton (2661)
-Rise Up Australia Party"]
 	"Chris Lahy (984)" [label="Chris Lahy (984)
 Citizens Electoral Council"]
+	"Helen Healy (2662)" [label="Helen Healy (2662)
+The Greens"]
+	"Lydia Senior (2660)" [label="Lydia Senior (2660)
+Australian Labor Party"]
+	"Tim Middleton (2661)" [label="Tim Middleton (2661)
+Rise Up Australia Party"]
+	"Chris Lahy (984)" -> "Helen Healy (2662)" [label=163]
+	"Chris Lahy (984)" -> "Lydia Senior (2660)" [label=328]
+	"Chris Lahy (984)" -> "Tim Middleton (2661)" [label=605]
 	"Helen Healy (2662)" -> "Lydia Senior (2660)" [label=4734]
 	"Tim Middleton (2661)" -> "Helen Healy (2662)" [label=1113]
-	"Chris Lahy (984)" -> "Tim Middleton (2661)" [label=605]
 	"Tim Middleton (2661)" -> "Lydia Senior (2660)" [label=1279]
-	"Chris Lahy (984)" -> "Lydia Senior (2660)" [label=328]
-	"Chris Lahy (984)" -> "Helen Healy (2662)" [label=163]
 }

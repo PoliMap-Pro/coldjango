@@ -4,37 +4,37 @@ digraph "Andrew Charlton (278)_Parramatta_2022" {
 	node [shape=box]
 	"Andrew Charlton (278)" [label="Andrew Charlton (278)
 Labor"]
-	"Phil Bradley (277)" [label="Phil Bradley (277)
-The Greens"]
-	"Julian Fayad (276)" [label="Julian Fayad (276)
-United Australia Party"]
-	"Steve Christou (279)" [label="Steve Christou (279)
-Independent"]
-	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
-Animal Justice Party"]
 	"Heather Freeman (274)" [label="Heather Freeman (274)
 Pauline Hanson's One Nation"]
+	"Julian Fayad (276)" [label="Julian Fayad (276)
+United Australia Party"]
 	"Liza Tazewell (275)" [label="Liza Tazewell (275)
 Liberal Democrats"]
-	"Phil Bradley (277)" -> "Andrew Charlton (278)" [label=8494]
-	"Julian Fayad (276)" -> "Phil Bradley (277)" [label=1651]
-	"Steve Christou (279)" -> "Julian Fayad (276)" [label=827]
-	"Rohan Laxmanalal (272)" -> "Steve Christou (279)" [label=343]
-	"Heather Freeman (274)" -> "Rohan Laxmanalal (272)" [label=209]
-	"Liza Tazewell (275)" -> "Heather Freeman (274)" [label=160]
-	"Julian Fayad (276)" -> "Andrew Charlton (278)" [label=1524]
-	"Steve Christou (279)" -> "Andrew Charlton (278)" [label=994]
-	"Rohan Laxmanalal (272)" -> "Andrew Charlton (278)" [label=405]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
+Animal Justice Party"]
+	"Steve Christou (279)" [label="Steve Christou (279)
+Independent"]
 	"Heather Freeman (274)" -> "Andrew Charlton (278)" [label=160]
-	"Liza Tazewell (275)" -> "Andrew Charlton (278)" [label=145]
-	"Liza Tazewell (275)" -> "Rohan Laxmanalal (272)" [label=51]
-	"Heather Freeman (274)" -> "Steve Christou (279)" [label=282]
-	"Liza Tazewell (275)" -> "Steve Christou (279)" [label=97]
-	"Rohan Laxmanalal (272)" -> "Julian Fayad (276)" [label=314]
 	"Heather Freeman (274)" -> "Julian Fayad (276)" [label=990]
-	"Liza Tazewell (275)" -> "Julian Fayad (276)" [label=289]
-	"Steve Christou (279)" -> "Phil Bradley (277)" [label=756]
-	"Rohan Laxmanalal (272)" -> "Phil Bradley (277)" [label=603]
 	"Heather Freeman (274)" -> "Phil Bradley (277)" [label=103]
+	"Heather Freeman (274)" -> "Rohan Laxmanalal (272)" [label=209]
+	"Heather Freeman (274)" -> "Steve Christou (279)" [label=282]
+	"Julian Fayad (276)" -> "Andrew Charlton (278)" [label=1524]
+	"Julian Fayad (276)" -> "Phil Bradley (277)" [label=1651]
+	"Liza Tazewell (275)" -> "Andrew Charlton (278)" [label=145]
+	"Liza Tazewell (275)" -> "Heather Freeman (274)" [label=160]
+	"Liza Tazewell (275)" -> "Julian Fayad (276)" [label=289]
 	"Liza Tazewell (275)" -> "Phil Bradley (277)" [label=77]
+	"Liza Tazewell (275)" -> "Rohan Laxmanalal (272)" [label=51]
+	"Liza Tazewell (275)" -> "Steve Christou (279)" [label=97]
+	"Phil Bradley (277)" -> "Andrew Charlton (278)" [label=8494]
+	"Rohan Laxmanalal (272)" -> "Andrew Charlton (278)" [label=405]
+	"Rohan Laxmanalal (272)" -> "Julian Fayad (276)" [label=314]
+	"Rohan Laxmanalal (272)" -> "Phil Bradley (277)" [label=603]
+	"Rohan Laxmanalal (272)" -> "Steve Christou (279)" [label=343]
+	"Steve Christou (279)" -> "Andrew Charlton (278)" [label=994]
+	"Steve Christou (279)" -> "Julian Fayad (276)" [label=827]
+	"Steve Christou (279)" -> "Phil Bradley (277)" [label=756]
 }

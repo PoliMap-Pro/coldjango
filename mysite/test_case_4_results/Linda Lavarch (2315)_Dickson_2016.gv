@@ -2,6 +2,8 @@
 digraph "Linda Lavarch (2315)_Dickson_2016" {
 	graph [label="Dickson 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Doug Nicholson (2314)" [label="Doug Nicholson (2314)
+Liberal Democrats"]
 	"Linda Lavarch (2315)" [label="Linda Lavarch (2315)
 Australian Labor Party"]
 	"Michael Berkman (2316)" [label="Michael Berkman (2316)
@@ -10,16 +12,14 @@ The Greens"]
 Family First"]
 	"Thor Prohaska (430)" [label="Thor Prohaska (430)
 Independent"]
-	"Doug Nicholson (2314)" [label="Doug Nicholson (2314)
-Liberal Democrats"]
-	"Michael Berkman (2316)" -> "Linda Lavarch (2315)" [label=9455]
-	"Ray Hutchinson (2317)" -> "Michael Berkman (2316)" [label=1649]
-	"Thor Prohaska (430)" -> "Ray Hutchinson (2317)" [label=1284]
-	"Doug Nicholson (2314)" -> "Thor Prohaska (430)" [label=783]
-	"Ray Hutchinson (2317)" -> "Linda Lavarch (2315)" [label=1260]
-	"Thor Prohaska (430)" -> "Linda Lavarch (2315)" [label=1173]
 	"Doug Nicholson (2314)" -> "Linda Lavarch (2315)" [label=354]
-	"Doug Nicholson (2314)" -> "Ray Hutchinson (2317)" [label=371]
-	"Thor Prohaska (430)" -> "Michael Berkman (2316)" [label=993]
 	"Doug Nicholson (2314)" -> "Michael Berkman (2316)" [label=222]
+	"Doug Nicholson (2314)" -> "Ray Hutchinson (2317)" [label=371]
+	"Doug Nicholson (2314)" -> "Thor Prohaska (430)" [label=783]
+	"Michael Berkman (2316)" -> "Linda Lavarch (2315)" [label=9455]
+	"Ray Hutchinson (2317)" -> "Linda Lavarch (2315)" [label=1260]
+	"Ray Hutchinson (2317)" -> "Michael Berkman (2316)" [label=1649]
+	"Thor Prohaska (430)" -> "Linda Lavarch (2315)" [label=1173]
+	"Thor Prohaska (430)" -> "Michael Berkman (2316)" [label=993]
+	"Thor Prohaska (430)" -> "Ray Hutchinson (2317)" [label=1284]
 }

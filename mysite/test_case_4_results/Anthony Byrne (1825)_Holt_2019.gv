@@ -4,11 +4,11 @@ digraph "Anthony Byrne (1825)_Holt_2019" {
 	node [shape=box]
 	"Anthony Byrne (1825)" [label="Anthony Byrne (1825)
 Australian Labor Party"]
-	"Jess Wheelock (1826)" [label="Jess Wheelock (1826)
-The Greens (VIC)"]
 	"Jatinder Singh (1827)" [label="Jatinder Singh (1827)
 United Australia Party"]
-	"Jess Wheelock (1826)" -> "Anthony Byrne (1825)" [label=5904]
-	"Jatinder Singh (1827)" -> "Jess Wheelock (1826)" [label=1355]
+	"Jess Wheelock (1826)" [label="Jess Wheelock (1826)
+The Greens (VIC)"]
 	"Jatinder Singh (1827)" -> "Anthony Byrne (1825)" [label=1642]
+	"Jatinder Singh (1827)" -> "Jess Wheelock (1826)" [label=1355]
+	"Jess Wheelock (1826)" -> "Anthony Byrne (1825)" [label=5904]
 }

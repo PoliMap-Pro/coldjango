@@ -2,24 +2,24 @@
 digraph "Sam Crosby (1403)_Reid_2019" {
 	graph [label="Reid 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sam Crosby (1403)" [label="Sam Crosby (1403)
-Labor"]
 	"Charles Jago (294)" [label="Charles Jago (294)
 The Greens"]
 	"Keith Piper (1402)" [label="Keith Piper (1402)
 Christian Democratic Party (Fred Nile Group)"]
 	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
 Animal Justice Party"]
+	"Sam Crosby (1403)" [label="Sam Crosby (1403)
+Labor"]
 	"Young Lee (1404)" [label="Young Lee (1404)
 United Australia Party"]
 	"Charles Jago (294)" -> "Sam Crosby (1403)" [label=7705]
 	"Keith Piper (1402)" -> "Charles Jago (294)" [label=750]
-	"Rohan Laxmanalal (272)" -> "Keith Piper (1402)" [label=282]
-	"Young Lee (1404)" -> "Rohan Laxmanalal (272)" [label=290]
 	"Keith Piper (1402)" -> "Sam Crosby (1403)" [label=469]
-	"Rohan Laxmanalal (272)" -> "Sam Crosby (1403)" [label=506]
-	"Young Lee (1404)" -> "Sam Crosby (1403)" [label=332]
-	"Young Lee (1404)" -> "Keith Piper (1402)" [label=237]
 	"Rohan Laxmanalal (272)" -> "Charles Jago (294)" [label=861]
+	"Rohan Laxmanalal (272)" -> "Keith Piper (1402)" [label=282]
+	"Rohan Laxmanalal (272)" -> "Sam Crosby (1403)" [label=506]
 	"Young Lee (1404)" -> "Charles Jago (294)" [label=186]
+	"Young Lee (1404)" -> "Keith Piper (1402)" [label=237]
+	"Young Lee (1404)" -> "Rohan Laxmanalal (272)" [label=290]
+	"Young Lee (1404)" -> "Sam Crosby (1403)" [label=332]
 }

@@ -2,24 +2,24 @@
 digraph "Mark Butler (647)_Hindmarsh_2019" {
 	graph [label="Hindmarsh 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Alison Kelty (1670)" [label="Alison Kelty (1670)
+Animal Justice Party"]
 	"Mark Butler (647)" [label="Mark Butler (647)
 Australian Labor Party"]
 	"Matt Farrell (1672)" [label="Matt Farrell (1672)
 The Greens"]
-	"Rose Morris (1669)" [label="Rose Morris (1669)
-United Australia Party"]
-	"Alison Kelty (1670)" [label="Alison Kelty (1670)
-Animal Justice Party"]
 	"Rajan Vaid (662)" [label="Rajan Vaid (662)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Matt Farrell (1672)" -> "Mark Butler (647)" [label=11460]
-	"Rose Morris (1669)" -> "Matt Farrell (1672)" [label=1300]
-	"Alison Kelty (1670)" -> "Rose Morris (1669)" [label=626]
-	"Rajan Vaid (662)" -> "Alison Kelty (1670)" [label=245]
-	"Rose Morris (1669)" -> "Mark Butler (647)" [label=2203]
+	"Rose Morris (1669)" [label="Rose Morris (1669)
+United Australia Party"]
 	"Alison Kelty (1670)" -> "Mark Butler (647)" [label=751]
-	"Rajan Vaid (662)" -> "Mark Butler (647)" [label=242]
-	"Rajan Vaid (662)" -> "Rose Morris (1669)" [label=1152]
 	"Alison Kelty (1670)" -> "Matt Farrell (1672)" [label=1628]
+	"Alison Kelty (1670)" -> "Rose Morris (1669)" [label=626]
+	"Matt Farrell (1672)" -> "Mark Butler (647)" [label=11460]
+	"Rajan Vaid (662)" -> "Alison Kelty (1670)" [label=245]
+	"Rajan Vaid (662)" -> "Mark Butler (647)" [label=242]
 	"Rajan Vaid (662)" -> "Matt Farrell (1672)" [label=92]
+	"Rajan Vaid (662)" -> "Rose Morris (1669)" [label=1152]
+	"Rose Morris (1669)" -> "Mark Butler (647)" [label=2203]
+	"Rose Morris (1669)" -> "Matt Farrell (1672)" [label=1300]
 }

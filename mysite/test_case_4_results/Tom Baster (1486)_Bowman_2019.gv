@@ -2,24 +2,24 @@
 digraph "Tom Baster (1486)_Bowman_2019" {
 	graph [label="Bowman 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tom Baster (1486)" [label="Tom Baster (1486)
-Australian Labor Party"]
+	"David Anderson (1484)" [label="David Anderson (1484)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Emerald Moon (1481)" [label="Emerald Moon (1481)
 The Greens"]
 	"Glen Wadsworth (1485)" [label="Glen Wadsworth (1485)
 Pauline Hanson's One Nation"]
 	"Shane Clarke (1483)" [label="Shane Clarke (1483)
 United Australia Party"]
-	"David Anderson (1484)" [label="David Anderson (1484)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Tom Baster (1486)" [label="Tom Baster (1486)
+Australian Labor Party"]
+	"David Anderson (1484)" -> "Emerald Moon (1481)" [label=134]
+	"David Anderson (1484)" -> "Glen Wadsworth (1485)" [label=905]
+	"David Anderson (1484)" -> "Shane Clarke (1483)" [label=326]
+	"David Anderson (1484)" -> "Tom Baster (1486)" [label=114]
 	"Emerald Moon (1481)" -> "Tom Baster (1486)" [label=10008]
 	"Glen Wadsworth (1485)" -> "Emerald Moon (1481)" [label=2221]
-	"Shane Clarke (1483)" -> "Glen Wadsworth (1485)" [label=1641]
-	"David Anderson (1484)" -> "Shane Clarke (1483)" [label=326]
 	"Glen Wadsworth (1485)" -> "Tom Baster (1486)" [label=2493]
-	"Shane Clarke (1483)" -> "Tom Baster (1486)" [label=340]
-	"David Anderson (1484)" -> "Tom Baster (1486)" [label=114]
-	"David Anderson (1484)" -> "Glen Wadsworth (1485)" [label=905]
 	"Shane Clarke (1483)" -> "Emerald Moon (1481)" [label=461]
-	"David Anderson (1484)" -> "Emerald Moon (1481)" [label=134]
+	"Shane Clarke (1483)" -> "Glen Wadsworth (1485)" [label=1641]
+	"Shane Clarke (1483)" -> "Tom Baster (1486)" [label=340]
 }

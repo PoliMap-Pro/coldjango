@@ -2,24 +2,24 @@
 digraph "Madonna Jarrett (407)_Brisbane_2022" {
 	graph [label="Brisbane 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Madonna Jarrett (407)" [label="Madonna Jarrett (407)
-Australian Labor Party"]
-	"Trevor Hold (409)" [label="Trevor Hold (409)
-Pauline Hanson's One Nation"]
-	"Justin Marc Knudson (405)" [label="Justin Marc Knudson (405)
-United Australia Party"]
-	"Tiana Kennedy (404)" [label="Tiana Kennedy (404)
-Animal Justice Party"]
 	"Anthony Bull (410)" [label="Anthony Bull (410)
 Liberal Democrats"]
-	"Trevor Hold (409)" -> "Madonna Jarrett (407)" [label=577]
+	"Justin Marc Knudson (405)" [label="Justin Marc Knudson (405)
+United Australia Party"]
+	"Madonna Jarrett (407)" [label="Madonna Jarrett (407)
+Australian Labor Party"]
+	"Tiana Kennedy (404)" [label="Tiana Kennedy (404)
+Animal Justice Party"]
+	"Trevor Hold (409)" [label="Trevor Hold (409)
+Pauline Hanson's One Nation"]
+	"Anthony Bull (410)" -> "Justin Marc Knudson (405)" [label=266]
+	"Anthony Bull (410)" -> "Madonna Jarrett (407)" [label=178]
+	"Anthony Bull (410)" -> "Tiana Kennedy (404)" [label=133]
+	"Anthony Bull (410)" -> "Trevor Hold (409)" [label=414]
+	"Justin Marc Knudson (405)" -> "Madonna Jarrett (407)" [label=211]
 	"Justin Marc Knudson (405)" -> "Trevor Hold (409)" [label=1471]
 	"Tiana Kennedy (404)" -> "Justin Marc Knudson (405)" [label=423]
-	"Anthony Bull (410)" -> "Tiana Kennedy (404)" [label=133]
-	"Justin Marc Knudson (405)" -> "Madonna Jarrett (407)" [label=211]
 	"Tiana Kennedy (404)" -> "Madonna Jarrett (407)" [label=314]
-	"Anthony Bull (410)" -> "Madonna Jarrett (407)" [label=178]
-	"Anthony Bull (410)" -> "Justin Marc Knudson (405)" [label=266]
 	"Tiana Kennedy (404)" -> "Trevor Hold (409)" [label=196]
-	"Anthony Bull (410)" -> "Trevor Hold (409)" [label=414]
+	"Trevor Hold (409)" -> "Madonna Jarrett (407)" [label=577]
 }

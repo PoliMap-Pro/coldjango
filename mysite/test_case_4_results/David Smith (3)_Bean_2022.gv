@@ -2,24 +2,24 @@
 digraph "David Smith (3)_Bean_2022" {
 	graph [label="Bean 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Smith (3)" [label="David Smith (3)
-Australian Labor Party"]
-	"Kathryn Jane Savery (5)" [label="Kathryn Jane Savery (5)
-The Greens"]
-	"Jamie Christie (4)" [label="Jamie Christie (4)
-Independent"]
-	"Sean Conway (1)" [label="Sean Conway (1)
-United Australia Party"]
 	"Benjamin Ambard (2)" [label="Benjamin Ambard (2)
 Pauline Hanson's One Nation"]
-	"Kathryn Jane Savery (5)" -> "David Smith (3)" [label=16215]
-	"Jamie Christie (4)" -> "Kathryn Jane Savery (5)" [label=3981]
-	"Sean Conway (1)" -> "Jamie Christie (4)" [label=1613]
-	"Benjamin Ambard (2)" -> "Sean Conway (1)" [label=1395]
-	"Jamie Christie (4)" -> "David Smith (3)" [label=3392]
-	"Sean Conway (1)" -> "David Smith (3)" [label=983]
+	"David Smith (3)" [label="David Smith (3)
+Australian Labor Party"]
+	"Jamie Christie (4)" [label="Jamie Christie (4)
+Independent"]
+	"Kathryn Jane Savery (5)" [label="Kathryn Jane Savery (5)
+The Greens"]
+	"Sean Conway (1)" [label="Sean Conway (1)
+United Australia Party"]
 	"Benjamin Ambard (2)" -> "David Smith (3)" [label=285]
 	"Benjamin Ambard (2)" -> "Jamie Christie (4)" [label=425]
-	"Sean Conway (1)" -> "Kathryn Jane Savery (5)" [label=262]
 	"Benjamin Ambard (2)" -> "Kathryn Jane Savery (5)" [label=109]
+	"Benjamin Ambard (2)" -> "Sean Conway (1)" [label=1395]
+	"Jamie Christie (4)" -> "David Smith (3)" [label=3392]
+	"Jamie Christie (4)" -> "Kathryn Jane Savery (5)" [label=3981]
+	"Kathryn Jane Savery (5)" -> "David Smith (3)" [label=16215]
+	"Sean Conway (1)" -> "David Smith (3)" [label=983]
+	"Sean Conway (1)" -> "Jamie Christie (4)" [label=1613]
+	"Sean Conway (1)" -> "Kathryn Jane Savery (5)" [label=262]
 }

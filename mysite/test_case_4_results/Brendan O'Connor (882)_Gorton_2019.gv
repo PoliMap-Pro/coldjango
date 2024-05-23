@@ -4,16 +4,16 @@ digraph "Brendan O'Connor (882)_Gorton_2019" {
 	node [shape=box]
 	"Brendan O'Connor (882)" [label="Brendan O'Connor (882)
 Australian Labor Party"]
+	"Harkirat Singh (1819)" [label="Harkirat Singh (1819)
+The Greens (VIC)"]
 	"Jarrod Bingham (1818)" [label="Jarrod Bingham (1818)
 Independent"]
 	"Richard Turton (1817)" [label="Richard Turton (1817)
 United Australia Party"]
-	"Harkirat Singh (1819)" [label="Harkirat Singh (1819)
-The Greens (VIC)"]
-	"Jarrod Bingham (1818)" -> "Brendan O'Connor (882)" [label=8719]
-	"Richard Turton (1817)" -> "Jarrod Bingham (1818)" [label=4112]
-	"Harkirat Singh (1819)" -> "Richard Turton (1817)" [label=645]
-	"Richard Turton (1817)" -> "Brendan O'Connor (882)" [label=1791]
 	"Harkirat Singh (1819)" -> "Brendan O'Connor (882)" [label=3953]
 	"Harkirat Singh (1819)" -> "Jarrod Bingham (1818)" [label=1379]
+	"Harkirat Singh (1819)" -> "Richard Turton (1817)" [label=645]
+	"Jarrod Bingham (1818)" -> "Brendan O'Connor (882)" [label=8719]
+	"Richard Turton (1817)" -> "Brendan O'Connor (882)" [label=1791]
+	"Richard Turton (1817)" -> "Jarrod Bingham (1818)" [label=4112]
 }

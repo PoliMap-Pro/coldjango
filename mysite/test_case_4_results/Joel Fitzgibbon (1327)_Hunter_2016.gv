@@ -2,39 +2,39 @@
 digraph "Joel Fitzgibbon (1327)_Hunter_2016" {
 	graph [label="Hunter 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Arjay Rase Martin (2128)" [label="Arjay Rase Martin (2128)
+Independent"]
+	"Cordelia Troy (2131)" [label="Cordelia Troy (2131)
+Independent"]
 	"Joel Fitzgibbon (1327)" [label="Joel Fitzgibbon (1327)
 Labor"]
 	"John Harvey (2127)" [label="John Harvey (2127)
 Independent"]
-	"Peter Morris (2129)" [label="Peter Morris (2129)
-The Greens"]
-	"Cordelia Troy (2131)" [label="Cordelia Troy (2131)
-Independent"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
 	"John Warham (2130)" [label="John Warham (2130)
 Independent"]
-	"Arjay Rase Martin (2128)" [label="Arjay Rase Martin (2128)
-Independent"]
-	"John Harvey (2127)" -> "Joel Fitzgibbon (1327)" [label=3857]
-	"Peter Morris (2129)" -> "John Harvey (2127)" [label=1784]
-	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
-	"Richard Stretton (1326)" -> "Cordelia Troy (2131)" [label=687]
-	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
-	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
-	"Peter Morris (2129)" -> "Joel Fitzgibbon (1327)" [label=4937]
-	"Cordelia Troy (2131)" -> "Joel Fitzgibbon (1327)" [label=702]
-	"Richard Stretton (1326)" -> "Joel Fitzgibbon (1327)" [label=429]
-	"John Warham (2130)" -> "Joel Fitzgibbon (1327)" [label=166]
-	"Arjay Rase Martin (2128)" -> "Joel Fitzgibbon (1327)" [label=202]
-	"Arjay Rase Martin (2128)" -> "Richard Stretton (1326)" [label=75]
-	"John Warham (2130)" -> "Cordelia Troy (2131)" [label=1121]
+	"Peter Morris (2129)" [label="Peter Morris (2129)
+The Greens"]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
 	"Arjay Rase Martin (2128)" -> "Cordelia Troy (2131)" [label=101]
-	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
-	"John Warham (2130)" -> "Peter Morris (2129)" [label=138]
-	"Arjay Rase Martin (2128)" -> "Peter Morris (2129)" [label=120]
-	"Cordelia Troy (2131)" -> "John Harvey (2127)" [label=2832]
-	"Richard Stretton (1326)" -> "John Harvey (2127)" [label=456]
-	"John Warham (2130)" -> "John Harvey (2127)" [label=397]
+	"Arjay Rase Martin (2128)" -> "Joel Fitzgibbon (1327)" [label=202]
 	"Arjay Rase Martin (2128)" -> "John Harvey (2127)" [label=296]
+	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
+	"Arjay Rase Martin (2128)" -> "Peter Morris (2129)" [label=120]
+	"Arjay Rase Martin (2128)" -> "Richard Stretton (1326)" [label=75]
+	"Cordelia Troy (2131)" -> "Joel Fitzgibbon (1327)" [label=702]
+	"Cordelia Troy (2131)" -> "John Harvey (2127)" [label=2832]
+	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
+	"John Harvey (2127)" -> "Joel Fitzgibbon (1327)" [label=3857]
+	"John Warham (2130)" -> "Cordelia Troy (2131)" [label=1121]
+	"John Warham (2130)" -> "Joel Fitzgibbon (1327)" [label=166]
+	"John Warham (2130)" -> "John Harvey (2127)" [label=397]
+	"John Warham (2130)" -> "Peter Morris (2129)" [label=138]
+	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
+	"Peter Morris (2129)" -> "Joel Fitzgibbon (1327)" [label=4937]
+	"Peter Morris (2129)" -> "John Harvey (2127)" [label=1784]
+	"Richard Stretton (1326)" -> "Cordelia Troy (2131)" [label=687]
+	"Richard Stretton (1326)" -> "Joel Fitzgibbon (1327)" [label=429]
+	"Richard Stretton (1326)" -> "John Harvey (2127)" [label=456]
+	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
 }

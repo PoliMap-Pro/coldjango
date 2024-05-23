@@ -6,20 +6,20 @@ digraph "Donisha Duff (403)_Bowman_2022" {
 Australian Labor Party"]
 	"Ian Mazlin (400)" [label="Ian Mazlin (400)
 Queensland Greens"]
-	"Walter Todd (398)" [label="Walter Todd (398)
-Pauline Hanson's One Nation"]
 	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
 United Australia Party"]
 	"Phil Johnson (402)" [label="Phil Johnson (402)
 TNL"]
+	"Walter Todd (398)" [label="Walter Todd (398)
+Pauline Hanson's One Nation"]
 	"Ian Mazlin (400)" -> "Donisha Duff (403)" [label=12631]
-	"Walter Todd (398)" -> "Ian Mazlin (400)" [label=4028]
-	"Mary-Jane Stevens (399)" -> "Walter Todd (398)" [label=4609]
-	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]
-	"Walter Todd (398)" -> "Donisha Duff (403)" [label=2160]
 	"Mary-Jane Stevens (399)" -> "Donisha Duff (403)" [label=499]
-	"Phil Johnson (402)" -> "Donisha Duff (403)" [label=261]
-	"Phil Johnson (402)" -> "Walter Todd (398)" [label=188]
 	"Mary-Jane Stevens (399)" -> "Ian Mazlin (400)" [label=744]
+	"Mary-Jane Stevens (399)" -> "Walter Todd (398)" [label=4609]
+	"Phil Johnson (402)" -> "Donisha Duff (403)" [label=261]
 	"Phil Johnson (402)" -> "Ian Mazlin (400)" [label=408]
+	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]
+	"Phil Johnson (402)" -> "Walter Todd (398)" [label=188]
+	"Walter Todd (398)" -> "Donisha Duff (403)" [label=2160]
+	"Walter Todd (398)" -> "Ian Mazlin (400)" [label=4028]
 }

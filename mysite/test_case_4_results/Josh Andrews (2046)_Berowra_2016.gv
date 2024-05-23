@@ -2,31 +2,31 @@
 digraph "Josh Andrews (2046)_Berowra_2016" {
 	graph [label="Berowra 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Josh Andrews (2046)" [label="Josh Andrews (2046)
-Labor"]
+	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
+Science Party"]
 	"Emma Heyde (2047)" [label="Emma Heyde (2047)
 The Greens"]
+	"Josh Andrews (2046)" [label="Josh Andrews (2046)
+Labor"]
 	"Leighton Thew (2048)" [label="Leighton Thew (2048)
 Christian Democratic Party (Fred Nile Group)"]
 	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
 Independent"]
-	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
-Science Party"]
 	"Roger Woodward (47)" [label="Roger Woodward (47)
 Independent"]
+	"Brendan Michael Clarke (44)" -> "Emma Heyde (2047)" [label=739]
+	"Brendan Michael Clarke (44)" -> "Josh Andrews (2046)" [label=385]
+	"Brendan Michael Clarke (44)" -> "Leighton Thew (2048)" [label=146]
+	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=423]
 	"Emma Heyde (2047)" -> "Josh Andrews (2046)" [label=10745]
 	"Leighton Thew (2048)" -> "Emma Heyde (2047)" [label=758]
-	"Mick Gallagher (1235)" -> "Leighton Thew (2048)" [label=597]
-	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=423]
-	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=120]
 	"Leighton Thew (2048)" -> "Josh Andrews (2046)" [label=723]
-	"Mick Gallagher (1235)" -> "Josh Andrews (2046)" [label=921]
-	"Brendan Michael Clarke (44)" -> "Josh Andrews (2046)" [label=385]
-	"Roger Woodward (47)" -> "Josh Andrews (2046)" [label=80]
-	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
-	"Brendan Michael Clarke (44)" -> "Leighton Thew (2048)" [label=146]
-	"Roger Woodward (47)" -> "Leighton Thew (2048)" [label=59]
 	"Mick Gallagher (1235)" -> "Emma Heyde (2047)" [label=965]
-	"Brendan Michael Clarke (44)" -> "Emma Heyde (2047)" [label=739]
+	"Mick Gallagher (1235)" -> "Josh Andrews (2046)" [label=921]
+	"Mick Gallagher (1235)" -> "Leighton Thew (2048)" [label=597]
+	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=120]
 	"Roger Woodward (47)" -> "Emma Heyde (2047)" [label=111]
+	"Roger Woodward (47)" -> "Josh Andrews (2046)" [label=80]
+	"Roger Woodward (47)" -> "Leighton Thew (2048)" [label=59]
+	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
 }

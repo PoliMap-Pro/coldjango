@@ -6,14 +6,14 @@ digraph "Chris Hayes (1293)_Fowler_2019" {
 Labor"]
 	"Francesca Mocanu (1292)" [label="Francesca Mocanu (1292)
 Christian Democratic Party (Fred Nile Group)"]
-	"Seamus Lee (1295)" [label="Seamus Lee (1295)
-The Greens"]
 	"Joshua Jabbour (1294)" [label="Joshua Jabbour (1294)
 United Australia Party"]
+	"Seamus Lee (1295)" [label="Seamus Lee (1295)
+The Greens"]
 	"Francesca Mocanu (1292)" -> "Chris Hayes (1293)" [label=3467]
-	"Seamus Lee (1295)" -> "Francesca Mocanu (1292)" [label=712]
-	"Joshua Jabbour (1294)" -> "Seamus Lee (1295)" [label=680]
-	"Seamus Lee (1295)" -> "Chris Hayes (1293)" [label=3318]
 	"Joshua Jabbour (1294)" -> "Chris Hayes (1293)" [label=1128]
 	"Joshua Jabbour (1294)" -> "Francesca Mocanu (1292)" [label=752]
+	"Joshua Jabbour (1294)" -> "Seamus Lee (1295)" [label=680]
+	"Seamus Lee (1295)" -> "Chris Hayes (1293)" [label=3318]
+	"Seamus Lee (1295)" -> "Francesca Mocanu (1292)" [label=712]
 }

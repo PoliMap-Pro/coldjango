@@ -2,24 +2,24 @@
 digraph "Troy Kay (1549)_Groom_2019" {
 	graph [label="Groom 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Troy Kay (1549)" [label="Troy Kay (1549)
-Australian Labor Party"]
-	"David King (1545)" [label="David King (1545)
-Pauline Hanson's One Nation"]
 	"Alyce Nelligan (1544)" [label="Alyce Nelligan (1544)
 The Greens"]
+	"David King (1545)" [label="David King (1545)
+Pauline Hanson's One Nation"]
 	"Kenneth Ian Law (1548)" [label="Kenneth Ian Law (1548)
 United Australia Party"]
 	"Perry Adrelius (1546)" [label="Perry Adrelius (1546)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"David King (1545)" -> "Troy Kay (1549)" [label=4647]
+	"Troy Kay (1549)" [label="Troy Kay (1549)
+Australian Labor Party"]
 	"Alyce Nelligan (1544)" -> "David King (1545)" [label=1479]
-	"Kenneth Ian Law (1548)" -> "Alyce Nelligan (1544)" [label=349]
-	"Perry Adrelius (1546)" -> "Kenneth Ian Law (1548)" [label=446]
 	"Alyce Nelligan (1544)" -> "Troy Kay (1549)" [label=5047]
-	"Kenneth Ian Law (1548)" -> "Troy Kay (1549)" [label=544]
-	"Perry Adrelius (1546)" -> "Troy Kay (1549)" [label=125]
-	"Perry Adrelius (1546)" -> "Alyce Nelligan (1544)" [label=137]
+	"David King (1545)" -> "Troy Kay (1549)" [label=4647]
+	"Kenneth Ian Law (1548)" -> "Alyce Nelligan (1544)" [label=349]
 	"Kenneth Ian Law (1548)" -> "David King (1545)" [label=2117]
+	"Kenneth Ian Law (1548)" -> "Troy Kay (1549)" [label=544]
+	"Perry Adrelius (1546)" -> "Alyce Nelligan (1544)" [label=137]
 	"Perry Adrelius (1546)" -> "David King (1545)" [label=1479]
+	"Perry Adrelius (1546)" -> "Kenneth Ian Law (1548)" [label=446]
+	"Perry Adrelius (1546)" -> "Troy Kay (1549)" [label=125]
 }

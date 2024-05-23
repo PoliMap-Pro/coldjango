@@ -2,39 +2,39 @@
 digraph "Tim Watts (862)_Gellibrand_2022" {
 	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Watts (862)" [label="Tim Watts (862)
-Australian Labor Party"]
-	"Suzette Rodoreda (855)" [label="Suzette Rodoreda (855)
-The Greens"]
 	"Abraham Isac (859)" [label="Abraham Isac (859)
 United Australia Party"]
-	"Rob Braddock (861)" [label="Rob Braddock (861)
-Pauline Hanson's One Nation"]
-	"Chloe Glasson (860)" [label="Chloe Glasson (860)
-Liberal Democrats"]
 	"Andrew Charles (858)" [label="Andrew Charles (858)
 Victorian Socialists"]
+	"Chloe Glasson (860)" [label="Chloe Glasson (860)
+Liberal Democrats"]
+	"Rob Braddock (861)" [label="Rob Braddock (861)
+Pauline Hanson's One Nation"]
 	"Sharynn Moors (857)" [label="Sharynn Moors (857)
 Australian Federation Party"]
-	"Suzette Rodoreda (855)" -> "Tim Watts (862)" [label=14349]
+	"Suzette Rodoreda (855)" [label="Suzette Rodoreda (855)
+The Greens"]
+	"Tim Watts (862)" [label="Tim Watts (862)
+Australian Labor Party"]
 	"Abraham Isac (859)" -> "Suzette Rodoreda (855)" [label=1947]
-	"Rob Braddock (861)" -> "Abraham Isac (859)" [label=2504]
-	"Chloe Glasson (860)" -> "Rob Braddock (861)" [label=776]
-	"Andrew Charles (858)" -> "Chloe Glasson (860)" [label=99]
-	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
 	"Abraham Isac (859)" -> "Tim Watts (862)" [label=1817]
-	"Rob Braddock (861)" -> "Tim Watts (862)" [label=526]
-	"Chloe Glasson (860)" -> "Tim Watts (862)" [label=299]
-	"Andrew Charles (858)" -> "Tim Watts (862)" [label=260]
-	"Sharynn Moors (857)" -> "Tim Watts (862)" [label=105]
-	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
-	"Andrew Charles (858)" -> "Rob Braddock (861)" [label=87]
-	"Sharynn Moors (857)" -> "Rob Braddock (861)" [label=137]
-	"Chloe Glasson (860)" -> "Abraham Isac (859)" [label=573]
 	"Andrew Charles (858)" -> "Abraham Isac (859)" [label=218]
-	"Sharynn Moors (857)" -> "Abraham Isac (859)" [label=179]
-	"Rob Braddock (861)" -> "Suzette Rodoreda (855)" [label=322]
-	"Chloe Glasson (860)" -> "Suzette Rodoreda (855)" [label=217]
+	"Andrew Charles (858)" -> "Chloe Glasson (860)" [label=99]
+	"Andrew Charles (858)" -> "Rob Braddock (861)" [label=87]
 	"Andrew Charles (858)" -> "Suzette Rodoreda (855)" [label=846]
+	"Andrew Charles (858)" -> "Tim Watts (862)" [label=260]
+	"Chloe Glasson (860)" -> "Abraham Isac (859)" [label=573]
+	"Chloe Glasson (860)" -> "Rob Braddock (861)" [label=776]
+	"Chloe Glasson (860)" -> "Suzette Rodoreda (855)" [label=217]
+	"Chloe Glasson (860)" -> "Tim Watts (862)" [label=299]
+	"Rob Braddock (861)" -> "Abraham Isac (859)" [label=2504]
+	"Rob Braddock (861)" -> "Suzette Rodoreda (855)" [label=322]
+	"Rob Braddock (861)" -> "Tim Watts (862)" [label=526]
+	"Sharynn Moors (857)" -> "Abraham Isac (859)" [label=179]
+	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
+	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
+	"Sharynn Moors (857)" -> "Rob Braddock (861)" [label=137]
 	"Sharynn Moors (857)" -> "Suzette Rodoreda (855)" [label=142]
+	"Sharynn Moors (857)" -> "Tim Watts (862)" [label=105]
+	"Suzette Rodoreda (855)" -> "Tim Watts (862)" [label=14349]
 }

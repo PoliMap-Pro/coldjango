@@ -6,20 +6,20 @@ digraph "Brian Mitchell (729)_Lyons_2019" {
 Australian Labor Party"]
 	"Deanna Hutchinson (1719)" [label="Deanna Hutchinson (1719)
 The Nationals"]
-	"Tennille Murtagh (1721)" [label="Tennille Murtagh (1721)
-Pauline Hanson's One Nation"]
 	"Gary Whisson (1720)" [label="Gary Whisson (1720)
 The Greens"]
 	"Michael Warne (1723)" [label="Michael Warne (1723)
 United Australia Party"]
+	"Tennille Murtagh (1721)" [label="Tennille Murtagh (1721)
+Pauline Hanson's One Nation"]
 	"Deanna Hutchinson (1719)" -> "Brian Mitchell (729)" [label=5268]
-	"Tennille Murtagh (1721)" -> "Deanna Hutchinson (1719)" [label=3117]
-	"Gary Whisson (1720)" -> "Tennille Murtagh (1721)" [label=445]
-	"Michael Warne (1723)" -> "Gary Whisson (1720)" [label=204]
-	"Tennille Murtagh (1721)" -> "Brian Mitchell (729)" [label=2135]
 	"Gary Whisson (1720)" -> "Brian Mitchell (729)" [label=5347]
-	"Michael Warne (1723)" -> "Brian Mitchell (729)" [label=650]
-	"Michael Warne (1723)" -> "Tennille Murtagh (1721)" [label=1664]
 	"Gary Whisson (1720)" -> "Deanna Hutchinson (1719)" [label=706]
+	"Gary Whisson (1720)" -> "Tennille Murtagh (1721)" [label=445]
+	"Michael Warne (1723)" -> "Brian Mitchell (729)" [label=650]
 	"Michael Warne (1723)" -> "Deanna Hutchinson (1719)" [label=732]
+	"Michael Warne (1723)" -> "Gary Whisson (1720)" [label=204]
+	"Michael Warne (1723)" -> "Tennille Murtagh (1721)" [label=1664]
+	"Tennille Murtagh (1721)" -> "Brian Mitchell (729)" [label=2135]
+	"Tennille Murtagh (1721)" -> "Deanna Hutchinson (1719)" [label=3117]
 }

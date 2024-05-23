@@ -2,10 +2,10 @@
 digraph "Fiona Phillips (132)_Gilmore_2016" {
 	graph [label="Gilmore 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Fiona Phillips (132)" [label="Fiona Phillips (132)
-Labor"]
 	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
 The Greens"]
+	"Fiona Phillips (132)" [label="Fiona Phillips (132)
+Labor"]
 	"Steve Ryan (2102)" [label="Steve Ryan (2102)
 Christian Democratic Party (Fred Nile Group)"]
 	"Carmel Mary Mccallum (1297)" -> "Fiona Phillips (132)" [label=9368]

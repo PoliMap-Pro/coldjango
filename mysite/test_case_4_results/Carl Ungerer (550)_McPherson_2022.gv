@@ -2,39 +2,39 @@
 digraph "Carl Ungerer (550)_McPherson_2022" {
 	graph [label="McPherson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Carl Ungerer (550)" [label="Carl Ungerer (550)
-Australian Labor Party"]
-	"Scott Turner (546)" [label="Scott Turner (546)
-Queensland Greens"]
-	"Kevin Hargraves (544)" [label="Kevin Hargraves (544)
-Pauline Hanson's One Nation"]
-	"Joshua Lawrence Berrigan (548)" [label="Joshua Lawrence Berrigan (548)
-United Australia Party"]
 	"Andy Cullen (547)" [label="Andy Cullen (547)
 Australian Values Party"]
-	"Glenn Pyne (549)" [label="Glenn Pyne (549)
-Liberal Democrats"]
+	"Carl Ungerer (550)" [label="Carl Ungerer (550)
+Australian Labor Party"]
 	"Gary Pead (545)" [label="Gary Pead (545)
 Australian Federation Party"]
-	"Scott Turner (546)" -> "Carl Ungerer (550)" [label=14907]
-	"Kevin Hargraves (544)" -> "Scott Turner (546)" [label=3888]
-	"Joshua Lawrence Berrigan (548)" -> "Kevin Hargraves (544)" [label=5137]
-	"Andy Cullen (547)" -> "Joshua Lawrence Berrigan (548)" [label=610]
-	"Glenn Pyne (549)" -> "Andy Cullen (547)" [label=207]
-	"Gary Pead (545)" -> "Glenn Pyne (549)" [label=37]
-	"Kevin Hargraves (544)" -> "Carl Ungerer (550)" [label=2139]
-	"Joshua Lawrence Berrigan (548)" -> "Carl Ungerer (550)" [label=524]
+	"Glenn Pyne (549)" [label="Glenn Pyne (549)
+Liberal Democrats"]
+	"Joshua Lawrence Berrigan (548)" [label="Joshua Lawrence Berrigan (548)
+United Australia Party"]
+	"Kevin Hargraves (544)" [label="Kevin Hargraves (544)
+Pauline Hanson's One Nation"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+Queensland Greens"]
 	"Andy Cullen (547)" -> "Carl Ungerer (550)" [label=254]
-	"Glenn Pyne (549)" -> "Carl Ungerer (550)" [label=274]
-	"Gary Pead (545)" -> "Carl Ungerer (550)" [label=26]
-	"Gary Pead (545)" -> "Andy Cullen (547)" [label=178]
-	"Glenn Pyne (549)" -> "Joshua Lawrence Berrigan (548)" [label=432]
-	"Gary Pead (545)" -> "Joshua Lawrence Berrigan (548)" [label=48]
+	"Andy Cullen (547)" -> "Joshua Lawrence Berrigan (548)" [label=610]
 	"Andy Cullen (547)" -> "Kevin Hargraves (544)" [label=921]
-	"Glenn Pyne (549)" -> "Kevin Hargraves (544)" [label=316]
-	"Gary Pead (545)" -> "Kevin Hargraves (544)" [label=140]
-	"Joshua Lawrence Berrigan (548)" -> "Scott Turner (546)" [label=916]
 	"Andy Cullen (547)" -> "Scott Turner (546)" [label=523]
-	"Glenn Pyne (549)" -> "Scott Turner (546)" [label=188]
+	"Gary Pead (545)" -> "Andy Cullen (547)" [label=178]
+	"Gary Pead (545)" -> "Carl Ungerer (550)" [label=26]
+	"Gary Pead (545)" -> "Glenn Pyne (549)" [label=37]
+	"Gary Pead (545)" -> "Joshua Lawrence Berrigan (548)" [label=48]
+	"Gary Pead (545)" -> "Kevin Hargraves (544)" [label=140]
 	"Gary Pead (545)" -> "Scott Turner (546)" [label=111]
+	"Glenn Pyne (549)" -> "Andy Cullen (547)" [label=207]
+	"Glenn Pyne (549)" -> "Carl Ungerer (550)" [label=274]
+	"Glenn Pyne (549)" -> "Joshua Lawrence Berrigan (548)" [label=432]
+	"Glenn Pyne (549)" -> "Kevin Hargraves (544)" [label=316]
+	"Glenn Pyne (549)" -> "Scott Turner (546)" [label=188]
+	"Joshua Lawrence Berrigan (548)" -> "Carl Ungerer (550)" [label=524]
+	"Joshua Lawrence Berrigan (548)" -> "Kevin Hargraves (544)" [label=5137]
+	"Joshua Lawrence Berrigan (548)" -> "Scott Turner (546)" [label=916]
+	"Kevin Hargraves (544)" -> "Carl Ungerer (550)" [label=2139]
+	"Kevin Hargraves (544)" -> "Scott Turner (546)" [label=3888]
+	"Scott Turner (546)" -> "Carl Ungerer (550)" [label=14907]
 }

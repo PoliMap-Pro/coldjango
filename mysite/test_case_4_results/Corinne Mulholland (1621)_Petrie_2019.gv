@@ -4,22 +4,22 @@ digraph "Corinne Mulholland (1621)_Petrie_2019" {
 	node [shape=box]
 	"Corinne Mulholland (1621)" [label="Corinne Mulholland (1621)
 Australian Labor Party"]
-	"Nikhil Aai Reddy (1620)" [label="Nikhil Aai Reddy (1620)
-Pauline Hanson's One Nation"]
 	"Jason Kennedy (1623)" [label="Jason Kennedy (1623)
 The Greens"]
-	"Troy Hopkins (1619)" [label="Troy Hopkins (1619)
-United Australia Party"]
 	"Neville John Fowler (1622)" [label="Neville John Fowler (1622)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Nikhil Aai Reddy (1620)" -> "Corinne Mulholland (1621)" [label=3930]
-	"Jason Kennedy (1623)" -> "Nikhil Aai Reddy (1620)" [label=1143]
-	"Troy Hopkins (1619)" -> "Jason Kennedy (1623)" [label=379]
-	"Neville John Fowler (1622)" -> "Troy Hopkins (1619)" [label=261]
+	"Nikhil Aai Reddy (1620)" [label="Nikhil Aai Reddy (1620)
+Pauline Hanson's One Nation"]
+	"Troy Hopkins (1619)" [label="Troy Hopkins (1619)
+United Australia Party"]
 	"Jason Kennedy (1623)" -> "Corinne Mulholland (1621)" [label=6510]
-	"Troy Hopkins (1619)" -> "Corinne Mulholland (1621)" [label=378]
+	"Jason Kennedy (1623)" -> "Nikhil Aai Reddy (1620)" [label=1143]
 	"Neville John Fowler (1622)" -> "Corinne Mulholland (1621)" [label=100]
 	"Neville John Fowler (1622)" -> "Jason Kennedy (1623)" [label=202]
-	"Troy Hopkins (1619)" -> "Nikhil Aai Reddy (1620)" [label=1461]
 	"Neville John Fowler (1622)" -> "Nikhil Aai Reddy (1620)" [label=673]
+	"Neville John Fowler (1622)" -> "Troy Hopkins (1619)" [label=261]
+	"Nikhil Aai Reddy (1620)" -> "Corinne Mulholland (1621)" [label=3930]
+	"Troy Hopkins (1619)" -> "Corinne Mulholland (1621)" [label=378]
+	"Troy Hopkins (1619)" -> "Jason Kennedy (1623)" [label=379]
+	"Troy Hopkins (1619)" -> "Nikhil Aai Reddy (1620)" [label=1461]
 }

@@ -2,18 +2,18 @@
 digraph "Jason Clare (53)_Blaxland_2016" {
 	graph [label="Blaxland 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Clare (53)" [label="Jason Clare (53)
-Labor"]
 	"Clint Nasr (2052)" [label="Clint Nasr (2052)
 Christian Democratic Party (Fred Nile Group)"]
-	"Suzan Virago (2049)" [label="Suzan Virago (2049)
-The Greens"]
 	"Gabriela Zabala (2050)" [label="Gabriela Zabala (2050)
 Socialist Equality Party"]
+	"Jason Clare (53)" [label="Jason Clare (53)
+Labor"]
+	"Suzan Virago (2049)" [label="Suzan Virago (2049)
+The Greens"]
 	"Clint Nasr (2052)" -> "Jason Clare (53)" [label=1678]
-	"Suzan Virago (2049)" -> "Clint Nasr (2052)" [label=368]
-	"Gabriela Zabala (2050)" -> "Suzan Virago (2049)" [label=325]
-	"Suzan Virago (2049)" -> "Jason Clare (53)" [label=2974]
-	"Gabriela Zabala (2050)" -> "Jason Clare (53)" [label=283]
 	"Gabriela Zabala (2050)" -> "Clint Nasr (2052)" [label=197]
+	"Gabriela Zabala (2050)" -> "Jason Clare (53)" [label=283]
+	"Gabriela Zabala (2050)" -> "Suzan Virago (2049)" [label=325]
+	"Suzan Virago (2049)" -> "Clint Nasr (2052)" [label=368]
+	"Suzan Virago (2049)" -> "Jason Clare (53)" [label=2974]
 }

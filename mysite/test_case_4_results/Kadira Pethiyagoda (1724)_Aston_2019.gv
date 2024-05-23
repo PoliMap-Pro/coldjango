@@ -2,18 +2,18 @@
 digraph "Kadira Pethiyagoda (1724)_Aston_2019" {
 	graph [label="Aston 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kadira Pethiyagoda (1724)" [label="Kadira Pethiyagoda (1724)
-Australian Labor Party"]
-	"Asher Cookson (737)" [label="Asher Cookson (737)
-The Greens (VIC)"]
-	"Matthew Sirianni-Duffy (1725)" [label="Matthew Sirianni-Duffy (1725)
-United Australia Party"]
 	"Anna Kennedy (1726)" [label="Anna Kennedy (1726)
 Labour DLP"]
+	"Asher Cookson (737)" [label="Asher Cookson (737)
+The Greens (VIC)"]
+	"Kadira Pethiyagoda (1724)" [label="Kadira Pethiyagoda (1724)
+Australian Labor Party"]
+	"Matthew Sirianni-Duffy (1725)" [label="Matthew Sirianni-Duffy (1725)
+United Australia Party"]
+	"Anna Kennedy (1726)" -> "Asher Cookson (737)" [label=521]
+	"Anna Kennedy (1726)" -> "Kadira Pethiyagoda (1724)" [label=1115]
+	"Anna Kennedy (1726)" -> "Matthew Sirianni-Duffy (1725)" [label=465]
 	"Asher Cookson (737)" -> "Kadira Pethiyagoda (1724)" [label=7817]
 	"Matthew Sirianni-Duffy (1725)" -> "Asher Cookson (737)" [label=766]
-	"Anna Kennedy (1726)" -> "Matthew Sirianni-Duffy (1725)" [label=465]
 	"Matthew Sirianni-Duffy (1725)" -> "Kadira Pethiyagoda (1724)" [label=1139]
-	"Anna Kennedy (1726)" -> "Kadira Pethiyagoda (1724)" [label=1115]
-	"Anna Kennedy (1726)" -> "Asher Cookson (737)" [label=521]
 }

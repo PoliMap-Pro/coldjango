@@ -2,24 +2,24 @@
 digraph "Daniel Pollock (1814)_Goldstein_2019" {
 	graph [label="Goldstein 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Brandon James Hoult (1813)" [label="Brandon James Hoult (1813)
+Sustainable Australia"]
 	"Daniel Pollock (1814)" [label="Daniel Pollock (1814)
 Australian Labor Party"]
+	"John Tiger Casley (1816)" [label="John Tiger Casley (1816)
+Independent"]
 	"Sue Pennicuik (1815)" [label="Sue Pennicuik (1815)
 The Greens (VIC)"]
 	"Wayne Connolly (1812)" [label="Wayne Connolly (1812)
 United Australia Party"]
-	"Brandon James Hoult (1813)" [label="Brandon James Hoult (1813)
-Sustainable Australia"]
-	"John Tiger Casley (1816)" [label="John Tiger Casley (1816)
-Independent"]
-	"Sue Pennicuik (1815)" -> "Daniel Pollock (1814)" [label=12496]
-	"Wayne Connolly (1812)" -> "Sue Pennicuik (1815)" [label=488]
+	"Brandon James Hoult (1813)" -> "Daniel Pollock (1814)" [label=399]
+	"Brandon James Hoult (1813)" -> "Sue Pennicuik (1815)" [label=791]
 	"Brandon James Hoult (1813)" -> "Wayne Connolly (1812)" [label=393]
 	"John Tiger Casley (1816)" -> "Brandon James Hoult (1813)" [label=351]
-	"Wayne Connolly (1812)" -> "Daniel Pollock (1814)" [label=725]
-	"Brandon James Hoult (1813)" -> "Daniel Pollock (1814)" [label=399]
 	"John Tiger Casley (1816)" -> "Daniel Pollock (1814)" [label=190]
-	"John Tiger Casley (1816)" -> "Wayne Connolly (1812)" [label=198]
-	"Brandon James Hoult (1813)" -> "Sue Pennicuik (1815)" [label=791]
 	"John Tiger Casley (1816)" -> "Sue Pennicuik (1815)" [label=259]
+	"John Tiger Casley (1816)" -> "Wayne Connolly (1812)" [label=198]
+	"Sue Pennicuik (1815)" -> "Daniel Pollock (1814)" [label=12496]
+	"Wayne Connolly (1812)" -> "Daniel Pollock (1814)" [label=725]
+	"Wayne Connolly (1812)" -> "Sue Pennicuik (1815)" [label=488]
 }

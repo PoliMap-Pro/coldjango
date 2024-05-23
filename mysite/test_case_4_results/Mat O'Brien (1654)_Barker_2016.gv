@@ -2,13 +2,13 @@
 digraph "Mat O'Brien (1654)_Barker_2016" {
 	graph [label="Barker 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Mark Keough (2452)" [label="Mark Keough (2452)
+The Greens"]
 	"Mat O'Brien (1654)" [label="Mat O'Brien (1654)
 Australian Labor Party"]
 	"Yvonne Zeppel (2451)" [label="Yvonne Zeppel (2451)
 Family First"]
-	"Mark Keough (2452)" [label="Mark Keough (2452)
-The Greens"]
-	"Yvonne Zeppel (2451)" -> "Mat O'Brien (1654)" [label=1364]
-	"Mark Keough (2452)" -> "Yvonne Zeppel (2451)" [label=659]
 	"Mark Keough (2452)" -> "Mat O'Brien (1654)" [label=1107]
+	"Mark Keough (2452)" -> "Yvonne Zeppel (2451)" [label=659]
+	"Yvonne Zeppel (2451)" -> "Mat O'Brien (1654)" [label=1364]
 }
