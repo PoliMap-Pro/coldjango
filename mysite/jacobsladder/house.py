@@ -1,7 +1,7 @@
 from django.db import models
 from django.db.models import UniqueConstraint, Sum
 from . import abstract_models, people, names, constants
-from .abstract_models import VoteRecord, Crown, Round, Transfer
+from .abstract_models import Crown, Round, Transfer
 from .place import Seat, Booth
 from .service import Representation, Contention
 from .format import keep_query
