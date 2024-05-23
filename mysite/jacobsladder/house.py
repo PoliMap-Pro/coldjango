@@ -32,7 +32,7 @@ class HouseElection(abstract_models.Election):
         election and the party set.
         """
         representation_set = Representation.objects.filter(
-            election=self, party__in=party_set).exlude(
+            election=self, party__in=party_set).exclude(
             person__name__iexact=constants.INFORMAL_VOTER)
         elect_result, place_set = self.setup_place(
             party_set, place_set, places, representation_set, return_format,
