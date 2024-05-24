@@ -107,6 +107,22 @@ class Seat(abstract_models.Beacon):
         Checking whether contentions exist each time is the wrong way to
         do this.
         """
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         contentions = service.Contention.objects.filter(
                 election=election, seat=self,
                 candidate=representation.person.candidate)
