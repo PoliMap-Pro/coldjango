@@ -25,35 +25,29 @@ class HouseElection(abstract_models.Election):
                 election=self, party__abbreviation=party_abbreviation)]
 
     def result_by_place(self, party_set, place_set, places, parent, target,
-                        sum_booths=False, return_format=constants.NEST_FORMAT):
+                        sum_booths=False, return_format=constants.NEST_FORMAT,
+                        use_full_representation_set=False):
         """
         Adds results to the election results dictionary for each of the places
         in a new place set generated from the representation set for this
         election and the party set.
         """
-        representation_set = Representation.objects.filter(
-            election=self, party__in=party_set).exclude(
-            person__name__iexact=constants.INFORMAL_VOTER)
-        #contentions = service.Contention.objects.filter(
-        #        election=election, seat=self,
-        #        candidate=representation.person.candidate)
-        #place_set[0]
-        elect_result, place_set = self.setup_place(
-            party_set, place_set, places, representation_set, return_format,
-            target, parent_result=parent)
-
         if isinstance(place_set[0], Seat):
             contention_set = Contention.objects.filter(
                 election=self, seat__in=place_set)
         else:
             contention_set = Contention.objects.filter(
                 election=self, seat__booth__in=place_set)
-        persons = [contention.candidate.person for contention in contention_set]
-        for place in place_set:
-            subset = [rep for rep in representation_set if rep.person in persons]
-            self.update_election_result(
-                elect_result, subset, place, target,
-                sum_booths, return_format=return_format)
+        representation_set = Representation.objects.filter(
+            election=self, party__in=party_set,
+            person__candidate__contention__in=contention_set).exclude(
+            person__name__iexact=constants.INFORMAL_VOTER)
+        elect_result, place_set = self.setup_place(
+            party_set, place_set, places, representation_set, return_format,
+            target, parent_result=parent)
+        [self.update_election_result(
+            elect_result, representation_set, place, target, sum_booths,
+            return_format=return_format) for place in place_set]
         self.format_result(elect_result, parent, return_format)
 
     def setup_election_result(

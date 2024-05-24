@@ -103,11 +103,6 @@ class Seat(abstract_models.Beacon):
                             return_format=constants.NEST_FORMAT,
                             election_result=None,
                             check_contentions=False):
-        """
-        Most of the execution time gets spent here.
-        Checking whether contentions exist each time is the wrong way to
-        do this.
-        """
         if check_contentions:
             contentions = service.Contention.objects.filter(
                     election=election, seat=self,
