@@ -5,10 +5,10 @@ from django.core.management.base import BaseCommand
 
 
 class Command(BaseCommand, aec_readers.AECReader):
-    N = 300
+    N = 3
     PARTY_ABBREVIATION = 'GRN'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
-    YEARS = (2022, 2016, 2019, 2013, 2010, 2007, 2004)
+    YEARS = (2022, 2016, )
 
     help = "Look at these N seats. How do preferences flow from the Libs to " \
            "ALP/Greens in the 2016 election, and how about 2022 (where the " \
@@ -50,8 +50,6 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     @staticmethod
     def render_dot_file(dot, edges, nodes):
-        nodes.sort()
-        edges.sort()
         [dot.node(*node) for node in nodes]
         [dot.edge(*edge) for edge in edges]
         dot.render(directory=Command.RESULTS_DIRECTORY)

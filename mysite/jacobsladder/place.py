@@ -98,31 +98,23 @@ class Seat(abstract_models.Beacon):
                 return aggregate.popitem()[1]
         return default
 
-    def update_place_result(self, election, representation, result, total,
-                            tally_attribute, sum_booths=False,
-                            return_format=constants.NEST_FORMAT,
-                            election_result=None,
-                            check_contentions=False):
+    def update_place_result(
+            self, election, representation, result, total, tally_attribute,
+            sum_booths=False, return_format=constants.NEST_FORMAT,
+            election_result=None, check_contentions=False):
         if check_contentions:
             contentions = service.Contention.objects.filter(
                     election=election, seat=self,
                     candidate=representation.person.candidate)
             keep_query(return_format, election_result, contentions)
             if contentions.exists():
-                self.collect_vote_like(election, election_result,
-                                       representation, result, return_format,
-                                       sum_booths, tally_attribute, total)
-        else:
-            try:
                 self.collect_vote_like(
-                    election, election_result, representation,
-                    result, return_format, sum_booths, tally_attribute,
-                    total)
-            except house.VoteTally.DoesNotExist:
-                self.update_place_result(
-                    election, representation, result, total, tally_attribute,
-                    sum_booths=sum_booths, return_format=return_format,
-                    election_result=election_result, check_contentions=True)
+                    election, election_result, representation, result,
+                    return_format, sum_booths, tally_attribute, total)
+        else:
+            self.try_to_collect_without_checking_contentions(
+                election, election_result, representation, result,
+                return_format, sum_booths, tally_attribute, total)
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):
@@ -132,6 +124,20 @@ class Seat(abstract_models.Beacon):
         trail.append((last_pref.candidate, proximate,
                       last_pref.round.round_number), )
         return last_pref
+
+    def try_to_collect_without_checking_contentions(
+            self, election, election_result, representation, result,
+            return_format, sum_booths, tally_attribute, total):
+        try:
+            self.collect_vote_like(
+                election, election_result, representation,
+                result, return_format, sum_booths, tally_attribute,
+                total)
+        except house.VoteTally.DoesNotExist:
+            self.update_place_result(
+                election, representation, result, total, tally_attribute,
+                sum_booths=sum_booths, return_format=return_format,
+                election_result=election_result, check_contentions=True)
 
     def votes_for_place(self, election, representation, sum_booths,
                         tally_attribute, return_format=constants.NEST_FORMAT,
