@@ -101,33 +101,23 @@ class Seat(abstract_models.Beacon):
     def update_place_result(self, election, representation, result, total,
                             tally_attribute, sum_booths=False,
                             return_format=constants.NEST_FORMAT,
-                            election_result=None):
+                            election_result=None,
+                            check_contentions=False):
         """
         Most of the execution time gets spent here.
         Checking whether contentions exist each time is the wrong way to
         do this.
         """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        contentions = service.Contention.objects.filter(
-                election=election, seat=self,
-                candidate=representation.person.candidate)
-        keep_query(return_format, election_result, contentions)
-        if contentions.exists():
+        if check_contentions:
+            contentions = service.Contention.objects.filter(
+                    election=election, seat=self,
+                    candidate=representation.person.candidate)
+            keep_query(return_format, election_result, contentions)
+            if contentions.exists():
+                self.collect_vote_like(election, election_result,
+                                       representation, result, return_format,
+                                       sum_booths, tally_attribute, total)
+        else:
             self.collect_vote_like(election, election_result, representation,
                                    result, return_format, sum_booths,
                                    tally_attribute, total)

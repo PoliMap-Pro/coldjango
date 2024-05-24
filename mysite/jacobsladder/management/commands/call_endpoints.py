@@ -8,6 +8,11 @@ class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
     def handle(self, *arguments, **keywordarguments):
+        pprint.pp(endpoints.getHousePrimaryVote(
+            {'election_date__year__in': (2022, 2016, 2010)},
+            {'abbreviation__in': ('GRN', 'ALP', 'LP')},
+            {'name': 'Aston'}, ))
+        exit()
         with cProfile.Profile() as pr:
             pprint.pp(endpoints.getHousePrimaryVote(
                 {'election_date__year__in': (2022, 2016, 2010)},

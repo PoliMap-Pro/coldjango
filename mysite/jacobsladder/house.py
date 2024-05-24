@@ -34,26 +34,10 @@ class HouseElection(abstract_models.Election):
         representation_set = Representation.objects.filter(
             election=self, party__in=party_set).exclude(
             person__name__iexact=constants.INFORMAL_VOTER)
-
-
-
-
-
-        contentions = service.Contention.objects.filter(
-                election=election, seat=self,
-                candidate=representation.person.candidate)
-        place_set[0]
-
-
-
-
-
-
-
-
-
-
-
+        #contentions = service.Contention.objects.filter(
+        #        election=election, seat=self,
+        #        candidate=representation.person.candidate)
+        #place_set[0]
         elect_result, place_set = self.setup_place(
             party_set, place_set, places, representation_set, return_format,
             target, parent_result=parent)
@@ -70,9 +54,6 @@ class HouseElection(abstract_models.Election):
             self.update_election_result(
                 elect_result, subset, place, target,
                 sum_booths, return_format=return_format)
-        #[self.update_election_result(
-        #    elect_result, representation_set, place, target,
-        #    sum_booths, return_format=return_format) for place in place_set]
         self.format_result(elect_result, parent, return_format)
 
     def setup_election_result(
