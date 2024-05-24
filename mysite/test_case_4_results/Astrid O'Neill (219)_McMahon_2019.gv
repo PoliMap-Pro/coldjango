@@ -9,6 +9,6 @@ United Australia Party"]
 	"Zeeshan Philip Francis (1365)" [label="Zeeshan Philip Francis (1365)
 Christian Democratic Party (Fred Nile Group)"]
 	"Meg Libby Wrightson (1363)" -> "Astrid O'Neill (219)" [label=369]
-	"Zeeshan Philip Francis (1365)" -> "Meg Libby Wrightson (1363)" [label=301]
 	"Zeeshan Philip Francis (1365)" -> "Astrid O'Neill (219)" [label=187]
+	"Zeeshan Philip Francis (1365)" -> "Meg Libby Wrightson (1363)" [label=301]
 }

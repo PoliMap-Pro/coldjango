@@ -2,18 +2,18 @@
 digraph "Jim Reiher (4115)_La Trobe_2010" {
 	graph [label="La Trobe 2010" labelloc=t mclimit=10]
 	node [shape=box]
+	"David Barrow (2242)" [label="David Barrow (2242)
+Family First"]
 	"Jim Reiher (4115)" [label="Jim Reiher (4115)
 Australian Greens"]
 	"Martin Leahy (2655)" [label="Martin Leahy (2655)
 Australian Sex Party"]
-	"David Barrow (2242)" [label="David Barrow (2242)
-Family First"]
 	"Shem Bennett (4116)" [label="Shem Bennett (4116)
 Liberal Democrats (LDP)"]
-	"Martin Leahy (2655)" -> "Jim Reiher (4115)" [label=1057]
-	"David Barrow (2242)" -> "Martin Leahy (2655)" [label=253]
-	"Shem Bennett (4116)" -> "David Barrow (2242)" [label=79]
 	"David Barrow (2242)" -> "Jim Reiher (4115)" [label=376]
+	"David Barrow (2242)" -> "Martin Leahy (2655)" [label=253]
+	"Martin Leahy (2655)" -> "Jim Reiher (4115)" [label=1057]
+	"Shem Bennett (4116)" -> "David Barrow (2242)" [label=79]
 	"Shem Bennett (4116)" -> "Jim Reiher (4115)" [label=161]
 	"Shem Bennett (4116)" -> "Martin Leahy (2655)" [label=76]
 }

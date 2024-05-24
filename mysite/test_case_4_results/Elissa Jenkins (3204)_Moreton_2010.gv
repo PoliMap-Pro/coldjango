@@ -4,11 +4,11 @@ digraph "Elissa Jenkins (3204)_Moreton_2010" {
 	node [shape=box]
 	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
 The Greens"]
-	"Steve Christian (3961)" [label="Steve Christian (3961)
-Family First"]
 	"Lee David Nightingale (3962)" [label="Lee David Nightingale (3962)
 D.L.P. - Democratic Labor Party"]
-	"Steve Christian (3961)" -> "Elissa Jenkins (3204)" [label=1131]
-	"Lee David Nightingale (3962)" -> "Steve Christian (3961)" [label=251]
+	"Steve Christian (3961)" [label="Steve Christian (3961)
+Family First"]
 	"Lee David Nightingale (3962)" -> "Elissa Jenkins (3204)" [label=279]
+	"Lee David Nightingale (3962)" -> "Steve Christian (3961)" [label=251]
+	"Steve Christian (3961)" -> "Elissa Jenkins (3204)" [label=1131]
 }

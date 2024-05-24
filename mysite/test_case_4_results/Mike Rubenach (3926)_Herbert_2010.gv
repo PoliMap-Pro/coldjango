@@ -2,9 +2,9 @@
 digraph "Mike Rubenach (3926)_Herbert_2010" {
 	graph [label="Herbert 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mike Rubenach (3926)" [label="Mike Rubenach (3926)
-The Greens"]
 	"Michael John Punshon (3925)" [label="Michael John Punshon (3925)
 Family First"]
+	"Mike Rubenach (3926)" [label="Mike Rubenach (3926)
+The Greens"]
 	"Michael John Punshon (3925)" -> "Mike Rubenach (3926)" [label=1429]
 }

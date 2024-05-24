@@ -9,6 +9,6 @@ One Nation"]
 	"Wayne Gregory Riley (3769)" [label="Wayne Gregory Riley (3769)
 Christian Democratic Party (Fred Nile Group)"]
 	"Jennifer Leayr (3768)" -> "Chris Parker (3767)" [label=870]
-	"Wayne Gregory Riley (3769)" -> "Jennifer Leayr (3768)" [label=302]
 	"Wayne Gregory Riley (3769)" -> "Chris Parker (3767)" [label=209]
+	"Wayne Gregory Riley (3769)" -> "Jennifer Leayr (3768)" [label=302]
 }

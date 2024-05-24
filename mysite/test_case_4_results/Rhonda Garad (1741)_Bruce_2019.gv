@@ -2,10 +2,10 @@
 digraph "Rhonda Garad (1741)_Bruce_2019" {
 	graph [label="Bruce 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rhonda Garad (1741)" [label="Rhonda Garad (1741)
-The Greens (VIC)"]
 	"Mubahil Ahmed (1739)" [label="Mubahil Ahmed (1739)
 United Australia Party"]
+	"Rhonda Garad (1741)" [label="Rhonda Garad (1741)
+The Greens (VIC)"]
 	"Tim Boyanton (1738)" [label="Tim Boyanton (1738)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Mubahil Ahmed (1739)" -> "Rhonda Garad (1741)" [label=907]

@@ -9,6 +9,6 @@ Christian Democratic Party (Fred Nile Group)"]
 	"Julie Mezyed (4327)" [label="Julie Mezyed (4327)
 Family First"]
 	"John Vanderjagt (4330)" -> "Jamie Paterson (4328)" [label=309]
-	"Julie Mezyed (4327)" -> "John Vanderjagt (4330)" [label=184]
 	"Julie Mezyed (4327)" -> "Jamie Paterson (4328)" [label=281]
+	"Julie Mezyed (4327)" -> "John Vanderjagt (4330)" [label=184]
 }

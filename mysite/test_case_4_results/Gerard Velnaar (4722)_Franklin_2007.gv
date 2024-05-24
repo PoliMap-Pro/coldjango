@@ -11,9 +11,9 @@ Socialist Alliance"]
 	"Roger Honey (4721)" [label="Roger Honey (4721)
 Citizens Electoral Council"]
 	"Gino Papiccio (4724)" -> "Gerard Velnaar (4722)" [label=368]
-	"Matt Holloway (4723)" -> "Gino Papiccio (4724)" [label=84]
-	"Roger Honey (4721)" -> "Matt Holloway (4723)" [label=45]
 	"Matt Holloway (4723)" -> "Gerard Velnaar (4722)" [label=165]
+	"Matt Holloway (4723)" -> "Gino Papiccio (4724)" [label=84]
 	"Roger Honey (4721)" -> "Gerard Velnaar (4722)" [label=42]
 	"Roger Honey (4721)" -> "Gino Papiccio (4724)" [label=44]
+	"Roger Honey (4721)" -> "Matt Holloway (4723)" [label=45]
 }

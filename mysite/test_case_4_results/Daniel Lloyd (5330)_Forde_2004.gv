@@ -2,31 +2,31 @@
 digraph "Daniel Lloyd (5330)_Forde_2004" {
 	graph [label="Forde 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Lloyd (5330)" [label="Daniel Lloyd (5330)
-The Greens"]
 	"Aaron Heaps (5327)" [label="Aaron Heaps (5327)
 One Nation"]
-	"Shereen Hinds (5329)" [label="Shereen Hinds (5329)
-Family First"]
 	"Anita Martin (5332)" [label="Anita Martin (5332)
 Australian Democrats"]
-	"David Gordon Howse (5328)" [label="David Gordon Howse (5328)
-"]
 	"Daniel Hope (5331)" [label="Daniel Hope (5331)
 Citizens Electoral Council"]
+	"Daniel Lloyd (5330)" [label="Daniel Lloyd (5330)
+The Greens"]
+	"David Gordon Howse (5328)" [label="David Gordon Howse (5328)
+"]
+	"Shereen Hinds (5329)" [label="Shereen Hinds (5329)
+Family First"]
 	"Aaron Heaps (5327)" -> "Daniel Lloyd (5330)" [label=1685]
-	"Shereen Hinds (5329)" -> "Aaron Heaps (5327)" [label=600]
-	"Anita Martin (5332)" -> "Shereen Hinds (5329)" [label=94]
-	"David Gordon Howse (5328)" -> "Anita Martin (5332)" [label=47]
-	"Daniel Hope (5331)" -> "David Gordon Howse (5328)" [label=15]
-	"Shereen Hinds (5329)" -> "Daniel Lloyd (5330)" [label=467]
-	"Anita Martin (5332)" -> "Daniel Lloyd (5330)" [label=368]
-	"David Gordon Howse (5328)" -> "Daniel Lloyd (5330)" [label=84]
-	"Daniel Hope (5331)" -> "Daniel Lloyd (5330)" [label=40]
-	"Daniel Hope (5331)" -> "Anita Martin (5332)" [label=28]
-	"David Gordon Howse (5328)" -> "Shereen Hinds (5329)" [label=79]
-	"Daniel Hope (5331)" -> "Shereen Hinds (5329)" [label=24]
 	"Anita Martin (5332)" -> "Aaron Heaps (5327)" [label=104]
-	"David Gordon Howse (5328)" -> "Aaron Heaps (5327)" [label=144]
+	"Anita Martin (5332)" -> "Daniel Lloyd (5330)" [label=368]
+	"Anita Martin (5332)" -> "Shereen Hinds (5329)" [label=94]
 	"Daniel Hope (5331)" -> "Aaron Heaps (5327)" [label=30]
+	"Daniel Hope (5331)" -> "Anita Martin (5332)" [label=28]
+	"Daniel Hope (5331)" -> "Daniel Lloyd (5330)" [label=40]
+	"Daniel Hope (5331)" -> "David Gordon Howse (5328)" [label=15]
+	"Daniel Hope (5331)" -> "Shereen Hinds (5329)" [label=24]
+	"David Gordon Howse (5328)" -> "Aaron Heaps (5327)" [label=144]
+	"David Gordon Howse (5328)" -> "Anita Martin (5332)" [label=47]
+	"David Gordon Howse (5328)" -> "Daniel Lloyd (5330)" [label=84]
+	"David Gordon Howse (5328)" -> "Shereen Hinds (5329)" [label=79]
+	"Shereen Hinds (5329)" -> "Aaron Heaps (5327)" [label=600]
+	"Shereen Hinds (5329)" -> "Daniel Lloyd (5330)" [label=467]
 }

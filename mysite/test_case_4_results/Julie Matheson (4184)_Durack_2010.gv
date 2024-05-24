@@ -2,10 +2,10 @@
 digraph "Julie Matheson (4184)_Durack_2010" {
 	graph [label="Durack 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julie Matheson (4184)" [label="Julie Matheson (4184)
-The Greens"]
 	"Jane Foreman (4185)" [label="Jane Foreman (4185)
 Family First"]
+	"Julie Matheson (4184)" [label="Julie Matheson (4184)
+The Greens"]
 	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
 Christian Democratic Party"]
 	"Jane Foreman (4185)" -> "Julie Matheson (4184)" [label=626]

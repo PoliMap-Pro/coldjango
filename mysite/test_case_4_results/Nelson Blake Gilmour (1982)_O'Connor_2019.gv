@@ -2,24 +2,24 @@
 digraph "Nelson Blake Gilmour (1982)_O'Connor_2019" {
 	graph [label="O'Connor 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nelson Blake Gilmour (1982)" [label="Nelson Blake Gilmour (1982)
-The Greens (WA)"]
-	"Ian 'T Hart (1984)" [label="Ian 'T Hart (1984)
-Australian Christians"]
 	"Anthony James Fels (1114)" [label="Anthony James Fels (1114)
 United Australia Party"]
-	"Peter Swift (1985)" [label="Peter Swift (1985)
-WESTERN AUSTRALIA PARTY"]
+	"Ian 'T Hart (1984)" [label="Ian 'T Hart (1984)
+Australian Christians"]
+	"Nelson Blake Gilmour (1982)" [label="Nelson Blake Gilmour (1982)
+The Greens (WA)"]
 	"Nicholas Andrew Robinson (1987)" [label="Nicholas Andrew Robinson (1987)
 The Great Australian Party"]
-	"Ian 'T Hart (1984)" -> "Nelson Blake Gilmour (1982)" [label=152]
+	"Peter Swift (1985)" [label="Peter Swift (1985)
+WESTERN AUSTRALIA PARTY"]
 	"Anthony James Fels (1114)" -> "Ian 'T Hart (1984)" [label=130]
-	"Peter Swift (1985)" -> "Anthony James Fels (1114)" [label=192]
-	"Nicholas Andrew Robinson (1987)" -> "Peter Swift (1985)" [label=248]
 	"Anthony James Fels (1114)" -> "Nelson Blake Gilmour (1982)" [label=134]
-	"Peter Swift (1985)" -> "Nelson Blake Gilmour (1982)" [label=150]
-	"Nicholas Andrew Robinson (1987)" -> "Nelson Blake Gilmour (1982)" [label=43]
+	"Ian 'T Hart (1984)" -> "Nelson Blake Gilmour (1982)" [label=152]
 	"Nicholas Andrew Robinson (1987)" -> "Anthony James Fels (1114)" [label=67]
-	"Peter Swift (1985)" -> "Ian 'T Hart (1984)" [label=175]
 	"Nicholas Andrew Robinson (1987)" -> "Ian 'T Hart (1984)" [label=56]
+	"Nicholas Andrew Robinson (1987)" -> "Nelson Blake Gilmour (1982)" [label=43]
+	"Nicholas Andrew Robinson (1987)" -> "Peter Swift (1985)" [label=248]
+	"Peter Swift (1985)" -> "Anthony James Fels (1114)" [label=192]
+	"Peter Swift (1985)" -> "Ian 'T Hart (1984)" [label=175]
+	"Peter Swift (1985)" -> "Nelson Blake Gilmour (1982)" [label=150]
 }

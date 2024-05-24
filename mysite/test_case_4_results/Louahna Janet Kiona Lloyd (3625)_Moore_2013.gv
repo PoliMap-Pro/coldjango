@@ -2,24 +2,24 @@
 digraph "Louahna Janet Kiona Lloyd (3625)_Moore_2013" {
 	graph [label="Moore 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Louahna Janet Kiona Lloyd (3625)" [label="Louahna Janet Kiona Lloyd (3625)
-The Greens (WA)"]
 	"Gary John Morris (3624)" [label="Gary John Morris (3624)
 Palmer United Party"]
-	"Rex Host (1976)" [label="Rex Host (1976)
-Australian Christians"]
 	"Josh Catalano (3627)" [label="Josh Catalano (3627)
 Australian Sports Party"]
+	"Louahna Janet Kiona Lloyd (3625)" [label="Louahna Janet Kiona Lloyd (3625)
+The Greens (WA)"]
 	"Mary Patricia Pritchett (3626)" [label="Mary Patricia Pritchett (3626)
 Rise Up Australia Party"]
+	"Rex Host (1976)" [label="Rex Host (1976)
+Australian Christians"]
 	"Gary John Morris (3624)" -> "Louahna Janet Kiona Lloyd (3625)" [label=1725]
-	"Rex Host (1976)" -> "Gary John Morris (3624)" [label=345]
-	"Josh Catalano (3627)" -> "Rex Host (1976)" [label=134]
-	"Mary Patricia Pritchett (3626)" -> "Josh Catalano (3627)" [label=146]
-	"Rex Host (1976)" -> "Louahna Janet Kiona Lloyd (3625)" [label=231]
+	"Josh Catalano (3627)" -> "Gary John Morris (3624)" [label=293]
 	"Josh Catalano (3627)" -> "Louahna Janet Kiona Lloyd (3625)" [label=368]
+	"Josh Catalano (3627)" -> "Rex Host (1976)" [label=134]
+	"Mary Patricia Pritchett (3626)" -> "Gary John Morris (3624)" [label=126]
+	"Mary Patricia Pritchett (3626)" -> "Josh Catalano (3627)" [label=146]
 	"Mary Patricia Pritchett (3626)" -> "Louahna Janet Kiona Lloyd (3625)" [label=104]
 	"Mary Patricia Pritchett (3626)" -> "Rex Host (1976)" [label=164]
-	"Josh Catalano (3627)" -> "Gary John Morris (3624)" [label=293]
-	"Mary Patricia Pritchett (3626)" -> "Gary John Morris (3624)" [label=126]
+	"Rex Host (1976)" -> "Gary John Morris (3624)" [label=345]
+	"Rex Host (1976)" -> "Louahna Janet Kiona Lloyd (3625)" [label=231]
 }

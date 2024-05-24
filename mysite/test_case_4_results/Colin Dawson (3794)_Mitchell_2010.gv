@@ -2,9 +2,9 @@
 digraph "Colin Dawson (3794)_Mitchell_2010" {
 	graph [label="Mitchell 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Colin Dawson (3794)" [label="Colin Dawson (3794)
-The Greens"]
 	"Brendon Phillip Prentice (3792)" [label="Brendon Phillip Prentice (3792)
 Christian Democratic Party (Fred Nile Group)"]
+	"Colin Dawson (3794)" [label="Colin Dawson (3794)
+The Greens"]
 	"Brendon Phillip Prentice (3792)" -> "Colin Dawson (3794)" [label=382]
 }

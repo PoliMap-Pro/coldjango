@@ -2,24 +2,24 @@
 digraph "Dean Moss (1291)_Farrer_2019" {
 	graph [label="Farrer 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dean Moss (1291)" [label="Dean Moss (1291)
-The Greens"]
-	"Ross Hamilton (1284)" [label="Ross Hamilton (1284)
-Sustainable Australia"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
 	"Brian Mills (1289)" [label="Brian Mills (1289)
 Independent"]
+	"Dean Moss (1291)" [label="Dean Moss (1291)
+The Greens"]
 	"Mark Ellis (1288)" [label="Mark Ellis (1288)
 Liberal Democrats"]
-	"Ross Hamilton (1284)" -> "Dean Moss (1291)" [label=287]
-	"Philip Langfield (1287)" -> "Ross Hamilton (1284)" [label=94]
-	"Brian Mills (1289)" -> "Philip Langfield (1287)" [label=82]
-	"Mark Ellis (1288)" -> "Brian Mills (1289)" [label=111]
-	"Philip Langfield (1287)" -> "Dean Moss (1291)" [label=36]
+	"Philip Langfield (1287)" [label="Philip Langfield (1287)
+Christian Democratic Party (Fred Nile Group)"]
+	"Ross Hamilton (1284)" [label="Ross Hamilton (1284)
+Sustainable Australia"]
 	"Brian Mills (1289)" -> "Dean Moss (1291)" [label=83]
+	"Brian Mills (1289)" -> "Philip Langfield (1287)" [label=82]
+	"Brian Mills (1289)" -> "Ross Hamilton (1284)" [label=102]
+	"Mark Ellis (1288)" -> "Brian Mills (1289)" [label=111]
 	"Mark Ellis (1288)" -> "Dean Moss (1291)" [label=42]
 	"Mark Ellis (1288)" -> "Philip Langfield (1287)" [label=65]
-	"Brian Mills (1289)" -> "Ross Hamilton (1284)" [label=102]
 	"Mark Ellis (1288)" -> "Ross Hamilton (1284)" [label=44]
+	"Philip Langfield (1287)" -> "Dean Moss (1291)" [label=36]
+	"Philip Langfield (1287)" -> "Ross Hamilton (1284)" [label=94]
+	"Ross Hamilton (1284)" -> "Dean Moss (1291)" [label=287]
 }

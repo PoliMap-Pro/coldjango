@@ -2,31 +2,31 @@
 digraph "Corey Birtles (5042)_Cook_2004" {
 	graph [label="Cook 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Corey Birtles (5042)" [label="Corey Birtles (5042)
-The Greens"]
-	"Beth Smith (2846)" [label="Beth Smith (2846)
-Christian Democratic Party (Fred Nile Group)"]
 	"Andy Frew (5045)" [label="Andy Frew (5045)
 Pauline Hanson's One Nation (NSW Division)"]
-	"Peter Phillips (5041)" [label="Peter Phillips (5041)
-No GST"]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Corey Birtles (5042)" [label="Corey Birtles (5042)
+The Greens"]
 	"David Mendelssohn (5043)" [label="David Mendelssohn (5043)
 Australian Democrats"]
 	"Graeme Strang (2848)" [label="Graeme Strang (2848)
 Independent"]
-	"Beth Smith (2846)" -> "Corey Birtles (5042)" [label=270]
+	"Peter Phillips (5041)" [label="Peter Phillips (5041)
+No GST"]
 	"Andy Frew (5045)" -> "Beth Smith (2846)" [label=619]
-	"Peter Phillips (5041)" -> "Andy Frew (5045)" [label=90]
-	"David Mendelssohn (5043)" -> "Peter Phillips (5041)" [label=49]
-	"Graeme Strang (2848)" -> "David Mendelssohn (5043)" [label=54]
 	"Andy Frew (5045)" -> "Corey Birtles (5042)" [label=305]
-	"Peter Phillips (5041)" -> "Corey Birtles (5042)" [label=582]
-	"David Mendelssohn (5043)" -> "Corey Birtles (5042)" [label=274]
-	"Graeme Strang (2848)" -> "Corey Birtles (5042)" [label=88]
-	"Graeme Strang (2848)" -> "Peter Phillips (5041)" [label=41]
+	"Beth Smith (2846)" -> "Corey Birtles (5042)" [label=270]
 	"David Mendelssohn (5043)" -> "Andy Frew (5045)" [label=32]
-	"Graeme Strang (2848)" -> "Andy Frew (5045)" [label=61]
-	"Peter Phillips (5041)" -> "Beth Smith (2846)" [label=43]
 	"David Mendelssohn (5043)" -> "Beth Smith (2846)" [label=28]
+	"David Mendelssohn (5043)" -> "Corey Birtles (5042)" [label=274]
+	"David Mendelssohn (5043)" -> "Peter Phillips (5041)" [label=49]
+	"Graeme Strang (2848)" -> "Andy Frew (5045)" [label=61]
 	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=19]
+	"Graeme Strang (2848)" -> "Corey Birtles (5042)" [label=88]
+	"Graeme Strang (2848)" -> "David Mendelssohn (5043)" [label=54]
+	"Graeme Strang (2848)" -> "Peter Phillips (5041)" [label=41]
+	"Peter Phillips (5041)" -> "Andy Frew (5045)" [label=90]
+	"Peter Phillips (5041)" -> "Beth Smith (2846)" [label=43]
+	"Peter Phillips (5041)" -> "Corey Birtles (5042)" [label=582]
 }

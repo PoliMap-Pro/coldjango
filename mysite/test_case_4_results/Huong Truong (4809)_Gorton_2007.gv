@@ -9,6 +9,6 @@ Family First"]
 	"Vern Hughes (4807)" [label="Vern Hughes (4807)
 D.L.P. - Democratic Labor Party"]
 	"Scott Amberley (3432)" -> "Huong Truong (4809)" [label=944]
-	"Vern Hughes (4807)" -> "Scott Amberley (3432)" [label=458]
 	"Vern Hughes (4807)" -> "Huong Truong (4809)" [label=416]
+	"Vern Hughes (4807)" -> "Scott Amberley (3432)" [label=458]
 }

@@ -2,31 +2,31 @@
 digraph "Sue Wynn (2861)_Dobell_2013" {
 	graph [label="Dobell 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Wynn (2861)" [label="Sue Wynn (2861)
-The Greens"]
-	"Craig Thomson (2858)" [label="Craig Thomson (2858)
-Independent"]
-	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
-Palmer United Party"]
-	"Hadden Ervin (957)" [label="Hadden Ervin (957)
-Christian Democratic Party (Fred Nile Group)"]
-	"Greg Owen (2857)" [label="Greg Owen (2857)
-Citizens Electoral Council"]
 	"Christian Kunde (2096)" [label="Christian Kunde (2096)
 Bullet Train For Australia"]
-	"Craig Thomson (2858)" -> "Sue Wynn (2861)" [label=833]
-	"Kate Angelique Mcgill (2860)" -> "Craig Thomson (2858)" [label=326]
-	"Hadden Ervin (957)" -> "Kate Angelique Mcgill (2860)" [label=121]
-	"Greg Owen (2857)" -> "Hadden Ervin (957)" [label=20]
-	"Christian Kunde (2096)" -> "Greg Owen (2857)" [label=54]
-	"Kate Angelique Mcgill (2860)" -> "Sue Wynn (2861)" [label=420]
-	"Hadden Ervin (957)" -> "Sue Wynn (2861)" [label=66]
-	"Greg Owen (2857)" -> "Sue Wynn (2861)" [label=48]
-	"Christian Kunde (2096)" -> "Sue Wynn (2861)" [label=77]
-	"Christian Kunde (2096)" -> "Hadden Ervin (957)" [label=21]
-	"Greg Owen (2857)" -> "Kate Angelique Mcgill (2860)" [label=56]
-	"Christian Kunde (2096)" -> "Kate Angelique Mcgill (2860)" [label=83]
-	"Hadden Ervin (957)" -> "Craig Thomson (2858)" [label=61]
-	"Greg Owen (2857)" -> "Craig Thomson (2858)" [label=415]
+	"Craig Thomson (2858)" [label="Craig Thomson (2858)
+Independent"]
+	"Greg Owen (2857)" [label="Greg Owen (2857)
+Citizens Electoral Council"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Christian Democratic Party (Fred Nile Group)"]
+	"Kate Angelique Mcgill (2860)" [label="Kate Angelique Mcgill (2860)
+Palmer United Party"]
+	"Sue Wynn (2861)" [label="Sue Wynn (2861)
+The Greens"]
 	"Christian Kunde (2096)" -> "Craig Thomson (2858)" [label=86]
+	"Christian Kunde (2096)" -> "Greg Owen (2857)" [label=54]
+	"Christian Kunde (2096)" -> "Hadden Ervin (957)" [label=21]
+	"Christian Kunde (2096)" -> "Kate Angelique Mcgill (2860)" [label=83]
+	"Christian Kunde (2096)" -> "Sue Wynn (2861)" [label=77]
+	"Craig Thomson (2858)" -> "Sue Wynn (2861)" [label=833]
+	"Greg Owen (2857)" -> "Craig Thomson (2858)" [label=415]
+	"Greg Owen (2857)" -> "Hadden Ervin (957)" [label=20]
+	"Greg Owen (2857)" -> "Kate Angelique Mcgill (2860)" [label=56]
+	"Greg Owen (2857)" -> "Sue Wynn (2861)" [label=48]
+	"Hadden Ervin (957)" -> "Craig Thomson (2858)" [label=61]
+	"Hadden Ervin (957)" -> "Kate Angelique Mcgill (2860)" [label=121]
+	"Hadden Ervin (957)" -> "Sue Wynn (2861)" [label=66]
+	"Kate Angelique Mcgill (2860)" -> "Craig Thomson (2858)" [label=326]
+	"Kate Angelique Mcgill (2860)" -> "Sue Wynn (2861)" [label=420]
 }

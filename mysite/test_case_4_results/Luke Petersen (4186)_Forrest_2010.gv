@@ -2,18 +2,18 @@
 digraph "Luke Petersen (4186)_Forrest_2010" {
 	graph [label="Forrest 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Luke Petersen (4186)" [label="Luke Petersen (4186)
-The Greens"]
-	"Cale John Hill (4189)" [label="Cale John Hill (4189)
-The Nationals"]
 	"Bev Custers (3601)" [label="Bev Custers (3601)
 Family First"]
+	"Cale John Hill (4189)" [label="Cale John Hill (4189)
+The Nationals"]
 	"Lee Herridge (4188)" [label="Lee Herridge (4188)
 Christian Democratic Party"]
-	"Cale John Hill (4189)" -> "Luke Petersen (4186)" [label=1568]
+	"Luke Petersen (4186)" [label="Luke Petersen (4186)
+The Greens"]
 	"Bev Custers (3601)" -> "Cale John Hill (4189)" [label=616]
-	"Lee Herridge (4188)" -> "Bev Custers (3601)" [label=656]
 	"Bev Custers (3601)" -> "Luke Petersen (4186)" [label=438]
-	"Lee Herridge (4188)" -> "Luke Petersen (4186)" [label=47]
+	"Cale John Hill (4189)" -> "Luke Petersen (4186)" [label=1568]
+	"Lee Herridge (4188)" -> "Bev Custers (3601)" [label=656]
 	"Lee Herridge (4188)" -> "Cale John Hill (4189)" [label=86]
+	"Lee Herridge (4188)" -> "Luke Petersen (4186)" [label=47]
 }

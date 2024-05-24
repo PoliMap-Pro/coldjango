@@ -9,6 +9,6 @@ Palmer United Party"]
 	"Terry Cooksley (3273)" [label="Terry Cooksley (3273)
 Australia First Party"]
 	"Ngoc Chau Huynh (3272)" -> "Dusan Popovic (3275)" [label=624]
-	"Terry Cooksley (3273)" -> "Ngoc Chau Huynh (3272)" [label=291]
 	"Terry Cooksley (3273)" -> "Dusan Popovic (3275)" [label=117]
+	"Terry Cooksley (3273)" -> "Ngoc Chau Huynh (3272)" [label=291]
 }

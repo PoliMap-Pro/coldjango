@@ -4,37 +4,37 @@ digraph "Anna Reynolds (3295)_Denison_2013" {
 	node [shape=box]
 	"Anna Reynolds (3295)" [label="Anna Reynolds (3295)
 Australian Greens"]
-	"Debra Joyce Thurley (3298)" [label="Debra Joyce Thurley (3298)
-Palmer United Party"]
 	"Bob Butler (3296)" [label="Bob Butler (3296)
 Sex Party"]
+	"Brandon Hoult (871)" [label="Brandon Hoult (871)
+Stable Population Party"]
+	"Debra Joyce Thurley (3298)" [label="Debra Joyce Thurley (3298)
+Palmer United Party"]
+	"Graeme Devlin (3299)" [label="Graeme Devlin (3299)
+Rise Up Australia Party"]
 	"Trevlyn Mccallum (3297)" [label="Trevlyn Mccallum (3297)
 Family First"]
 	"Wayne Williams (2514)" [label="Wayne Williams (2514)
 DLP Democratic Labour"]
-	"Graeme Devlin (3299)" [label="Graeme Devlin (3299)
-Rise Up Australia Party"]
-	"Brandon Hoult (871)" [label="Brandon Hoult (871)
-Stable Population Party"]
-	"Debra Joyce Thurley (3298)" -> "Anna Reynolds (3295)" [label=143]
-	"Bob Butler (3296)" -> "Debra Joyce Thurley (3298)" [label=186]
-	"Trevlyn Mccallum (3297)" -> "Bob Butler (3296)" [label=69]
-	"Wayne Williams (2514)" -> "Trevlyn Mccallum (3297)" [label=105]
-	"Graeme Devlin (3299)" -> "Wayne Williams (2514)" [label=16]
-	"Brandon Hoult (871)" -> "Graeme Devlin (3299)" [label=9]
 	"Bob Butler (3296)" -> "Anna Reynolds (3295)" [label=209]
-	"Trevlyn Mccallum (3297)" -> "Anna Reynolds (3295)" [label=33]
-	"Wayne Williams (2514)" -> "Anna Reynolds (3295)" [label=52]
-	"Graeme Devlin (3299)" -> "Anna Reynolds (3295)" [label=6]
+	"Bob Butler (3296)" -> "Debra Joyce Thurley (3298)" [label=186]
 	"Brandon Hoult (871)" -> "Anna Reynolds (3295)" [label=17]
-	"Brandon Hoult (871)" -> "Wayne Williams (2514)" [label=5]
-	"Graeme Devlin (3299)" -> "Trevlyn Mccallum (3297)" [label=30]
-	"Brandon Hoult (871)" -> "Trevlyn Mccallum (3297)" [label=7]
-	"Wayne Williams (2514)" -> "Bob Butler (3296)" [label=46]
-	"Graeme Devlin (3299)" -> "Bob Butler (3296)" [label=12]
 	"Brandon Hoult (871)" -> "Bob Butler (3296)" [label=26]
-	"Trevlyn Mccallum (3297)" -> "Debra Joyce Thurley (3298)" [label=88]
-	"Wayne Williams (2514)" -> "Debra Joyce Thurley (3298)" [label=27]
-	"Graeme Devlin (3299)" -> "Debra Joyce Thurley (3298)" [label=26]
 	"Brandon Hoult (871)" -> "Debra Joyce Thurley (3298)" [label=7]
+	"Brandon Hoult (871)" -> "Graeme Devlin (3299)" [label=9]
+	"Brandon Hoult (871)" -> "Trevlyn Mccallum (3297)" [label=7]
+	"Brandon Hoult (871)" -> "Wayne Williams (2514)" [label=5]
+	"Debra Joyce Thurley (3298)" -> "Anna Reynolds (3295)" [label=143]
+	"Graeme Devlin (3299)" -> "Anna Reynolds (3295)" [label=6]
+	"Graeme Devlin (3299)" -> "Bob Butler (3296)" [label=12]
+	"Graeme Devlin (3299)" -> "Debra Joyce Thurley (3298)" [label=26]
+	"Graeme Devlin (3299)" -> "Trevlyn Mccallum (3297)" [label=30]
+	"Graeme Devlin (3299)" -> "Wayne Williams (2514)" [label=16]
+	"Trevlyn Mccallum (3297)" -> "Anna Reynolds (3295)" [label=33]
+	"Trevlyn Mccallum (3297)" -> "Bob Butler (3296)" [label=69]
+	"Trevlyn Mccallum (3297)" -> "Debra Joyce Thurley (3298)" [label=88]
+	"Wayne Williams (2514)" -> "Anna Reynolds (3295)" [label=52]
+	"Wayne Williams (2514)" -> "Bob Butler (3296)" [label=46]
+	"Wayne Williams (2514)" -> "Debra Joyce Thurley (3298)" [label=27]
+	"Wayne Williams (2514)" -> "Trevlyn Mccallum (3297)" [label=105]
 }

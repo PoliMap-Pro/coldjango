@@ -2,18 +2,18 @@
 digraph "Jess Gonsalvez (1831)_Hotham_2019" {
 	graph [label="Hotham 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Dennis Bilic (1833)" [label="Dennis Bilic (1833)
+Sustainable Australia"]
 	"Jess Gonsalvez (1831)" [label="Jess Gonsalvez (1831)
 The Greens (VIC)"]
 	"Jin Luan (1829)" [label="Jin Luan (1829)
 United Australia Party"]
-	"Dennis Bilic (1833)" [label="Dennis Bilic (1833)
-Sustainable Australia"]
 	"Peter Dorian (1832)" [label="Peter Dorian (1832)
 Rise Up Australia Party"]
-	"Jin Luan (1829)" -> "Jess Gonsalvez (1831)" [label=642]
-	"Dennis Bilic (1833)" -> "Jin Luan (1829)" [label=461]
-	"Peter Dorian (1832)" -> "Dennis Bilic (1833)" [label=358]
 	"Dennis Bilic (1833)" -> "Jess Gonsalvez (1831)" [label=855]
+	"Dennis Bilic (1833)" -> "Jin Luan (1829)" [label=461]
+	"Jin Luan (1829)" -> "Jess Gonsalvez (1831)" [label=642]
+	"Peter Dorian (1832)" -> "Dennis Bilic (1833)" [label=358]
 	"Peter Dorian (1832)" -> "Jess Gonsalvez (1831)" [label=117]
 	"Peter Dorian (1832)" -> "Jin Luan (1829)" [label=288]
 }

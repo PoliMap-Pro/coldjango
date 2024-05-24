@@ -2,12 +2,12 @@
 digraph "Stephen Thomas (3247)_Boothby_2013" {
 	graph [label="Boothby 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Thomas (3247)" [label="Stephen Thomas (3247)
-Australian Greens"]
 	"Natasha Edmonds (3251)" [label="Natasha Edmonds (3251)
 Family First"]
 	"Sally Dawn Cox (3249)" [label="Sally Dawn Cox (3249)
 Palmer United Party"]
+	"Stephen Thomas (3247)" [label="Stephen Thomas (3247)
+Australian Greens"]
 	"Natasha Edmonds (3251)" -> "Stephen Thomas (3247)" [label=1209]
 	"Sally Dawn Cox (3249)" -> "Natasha Edmonds (3251)" [label=679]
 	"Sally Dawn Cox (3249)" -> "Stephen Thomas (3247)" [label=508]

@@ -2,24 +2,24 @@
 digraph "Howard Nielsen (4514)_Dickson_2007" {
 	graph [label="Dickson 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Howard Nielsen (4514)" [label="Howard Nielsen (4514)
-The Greens"]
-	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
-Family First"]
-	"Peter Kerin (4515)" [label="Peter Kerin (4515)
-Democrats"]
-	"Connie Wood (4513)" [label="Connie Wood (4513)
-Christian Democratic Party (Fred Nile Group)"]
 	"Brad Cornwell (4512)" [label="Brad Cornwell (4512)
 LDP"]
-	"Dale Shuttleworth (4511)" -> "Howard Nielsen (4514)" [label=456]
-	"Peter Kerin (4515)" -> "Dale Shuttleworth (4511)" [label=72]
-	"Connie Wood (4513)" -> "Peter Kerin (4515)" [label=16]
+	"Connie Wood (4513)" [label="Connie Wood (4513)
+Christian Democratic Party (Fred Nile Group)"]
+	"Dale Shuttleworth (4511)" [label="Dale Shuttleworth (4511)
+Family First"]
+	"Howard Nielsen (4514)" [label="Howard Nielsen (4514)
+The Greens"]
+	"Peter Kerin (4515)" [label="Peter Kerin (4515)
+Democrats"]
 	"Brad Cornwell (4512)" -> "Connie Wood (4513)" [label=25]
-	"Peter Kerin (4515)" -> "Howard Nielsen (4514)" [label=338]
-	"Connie Wood (4513)" -> "Howard Nielsen (4514)" [label=52]
+	"Brad Cornwell (4512)" -> "Dale Shuttleworth (4511)" [label=40]
 	"Brad Cornwell (4512)" -> "Howard Nielsen (4514)" [label=56]
 	"Brad Cornwell (4512)" -> "Peter Kerin (4515)" [label=15]
 	"Connie Wood (4513)" -> "Dale Shuttleworth (4511)" [label=143]
-	"Brad Cornwell (4512)" -> "Dale Shuttleworth (4511)" [label=40]
+	"Connie Wood (4513)" -> "Howard Nielsen (4514)" [label=52]
+	"Connie Wood (4513)" -> "Peter Kerin (4515)" [label=16]
+	"Dale Shuttleworth (4511)" -> "Howard Nielsen (4514)" [label=456]
+	"Peter Kerin (4515)" -> "Dale Shuttleworth (4511)" [label=72]
+	"Peter Kerin (4515)" -> "Howard Nielsen (4514)" [label=338]
 }

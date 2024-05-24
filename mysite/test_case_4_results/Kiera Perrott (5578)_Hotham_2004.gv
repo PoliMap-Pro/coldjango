@@ -2,24 +2,24 @@
 digraph "Kiera Perrott (5578)_Hotham_2004" {
 	graph [label="Hotham 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kiera Perrott (5578)" [label="Kiera Perrott (5578)
-Australian Greens"]
-	"Roger Coombe (5577)" [label="Roger Coombe (5577)
-Family First"]
+	"Adam Ellery (5582)" [label="Adam Ellery (5582)
+Citizens Electoral Council"]
 	"Jessica Joss (5581)" [label="Jessica Joss (5581)
 Democrats"]
 	"Josephine Cox (5579)" [label="Josephine Cox (5579)
 Socialist Alliance"]
-	"Adam Ellery (5582)" [label="Adam Ellery (5582)
-Citizens Electoral Council"]
-	"Roger Coombe (5577)" -> "Kiera Perrott (5578)" [label=926]
+	"Kiera Perrott (5578)" [label="Kiera Perrott (5578)
+Australian Greens"]
+	"Roger Coombe (5577)" [label="Roger Coombe (5577)
+Family First"]
+	"Adam Ellery (5582)" -> "Jessica Joss (5581)" [label=67]
+	"Adam Ellery (5582)" -> "Josephine Cox (5579)" [label=25]
+	"Adam Ellery (5582)" -> "Kiera Perrott (5578)" [label=18]
+	"Adam Ellery (5582)" -> "Roger Coombe (5577)" [label=52]
+	"Jessica Joss (5581)" -> "Kiera Perrott (5578)" [label=352]
 	"Jessica Joss (5581)" -> "Roger Coombe (5577)" [label=125]
 	"Josephine Cox (5579)" -> "Jessica Joss (5581)" [label=26]
-	"Adam Ellery (5582)" -> "Josephine Cox (5579)" [label=25]
-	"Jessica Joss (5581)" -> "Kiera Perrott (5578)" [label=352]
 	"Josephine Cox (5579)" -> "Kiera Perrott (5578)" [label=125]
-	"Adam Ellery (5582)" -> "Kiera Perrott (5578)" [label=18]
-	"Adam Ellery (5582)" -> "Jessica Joss (5581)" [label=67]
 	"Josephine Cox (5579)" -> "Roger Coombe (5577)" [label=60]
-	"Adam Ellery (5582)" -> "Roger Coombe (5577)" [label=52]
+	"Roger Coombe (5577)" -> "Kiera Perrott (5578)" [label=926]
 }

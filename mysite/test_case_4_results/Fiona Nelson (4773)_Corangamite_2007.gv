@@ -4,16 +4,16 @@ digraph "Fiona Nelson (4773)_Corangamite_2007" {
 	node [shape=box]
 	"Fiona Nelson (4773)" [label="Fiona Nelson (4773)
 Australian Greens"]
-	"Jan Edwards (4771)" [label="Jan Edwards (4771)
-Family First"]
 	"Gabrielle Killeen (4770)" [label="Gabrielle Killeen (4770)
 Australian Democrats"]
+	"Jan Edwards (4771)" [label="Jan Edwards (4771)
+Family First"]
 	"Sukrit Sabhlok (4774)" [label="Sukrit Sabhlok (4774)
 LDP"]
-	"Jan Edwards (4771)" -> "Fiona Nelson (4773)" [label=572]
-	"Gabrielle Killeen (4770)" -> "Jan Edwards (4771)" [label=235]
-	"Sukrit Sabhlok (4774)" -> "Gabrielle Killeen (4770)" [label=18]
 	"Gabrielle Killeen (4770)" -> "Fiona Nelson (4773)" [label=439]
+	"Gabrielle Killeen (4770)" -> "Jan Edwards (4771)" [label=235]
+	"Jan Edwards (4771)" -> "Fiona Nelson (4773)" [label=572]
 	"Sukrit Sabhlok (4774)" -> "Fiona Nelson (4773)" [label=68]
+	"Sukrit Sabhlok (4774)" -> "Gabrielle Killeen (4770)" [label=18]
 	"Sukrit Sabhlok (4774)" -> "Jan Edwards (4771)" [label=27]
 }

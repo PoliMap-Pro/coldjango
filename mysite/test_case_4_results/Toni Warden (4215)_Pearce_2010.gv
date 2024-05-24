@@ -2,24 +2,24 @@
 digraph "Toni Warden (4215)_Pearce_2010" {
 	graph [label="Pearce 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Toni Warden (4215)" [label="Toni Warden (4215)
-The Greens"]
-	"Darren Gregory Moir (4214)" [label="Darren Gregory Moir (4214)
-The Nationals"]
-	"Janet Elizabeth Broadstock (4216)" [label="Janet Elizabeth Broadstock (4216)
-Christian Democratic Party"]
-	"Ian Rose (3597)" [label="Ian Rose (3597)
-Family First"]
 	"Chris Pepper (4213)" [label="Chris Pepper (4213)
 Citizens Electoral Council"]
-	"Darren Gregory Moir (4214)" -> "Toni Warden (4215)" [label=866]
-	"Janet Elizabeth Broadstock (4216)" -> "Darren Gregory Moir (4214)" [label=418]
-	"Ian Rose (3597)" -> "Janet Elizabeth Broadstock (4216)" [label=515]
-	"Chris Pepper (4213)" -> "Ian Rose (3597)" [label=78]
-	"Janet Elizabeth Broadstock (4216)" -> "Toni Warden (4215)" [label=430]
-	"Ian Rose (3597)" -> "Toni Warden (4215)" [label=519]
-	"Chris Pepper (4213)" -> "Toni Warden (4215)" [label=68]
-	"Chris Pepper (4213)" -> "Janet Elizabeth Broadstock (4216)" [label=41]
-	"Ian Rose (3597)" -> "Darren Gregory Moir (4214)" [label=175]
+	"Darren Gregory Moir (4214)" [label="Darren Gregory Moir (4214)
+The Nationals"]
+	"Ian Rose (3597)" [label="Ian Rose (3597)
+Family First"]
+	"Janet Elizabeth Broadstock (4216)" [label="Janet Elizabeth Broadstock (4216)
+Christian Democratic Party"]
+	"Toni Warden (4215)" [label="Toni Warden (4215)
+The Greens"]
 	"Chris Pepper (4213)" -> "Darren Gregory Moir (4214)" [label=93]
+	"Chris Pepper (4213)" -> "Ian Rose (3597)" [label=78]
+	"Chris Pepper (4213)" -> "Janet Elizabeth Broadstock (4216)" [label=41]
+	"Chris Pepper (4213)" -> "Toni Warden (4215)" [label=68]
+	"Darren Gregory Moir (4214)" -> "Toni Warden (4215)" [label=866]
+	"Ian Rose (3597)" -> "Darren Gregory Moir (4214)" [label=175]
+	"Ian Rose (3597)" -> "Janet Elizabeth Broadstock (4216)" [label=515]
+	"Ian Rose (3597)" -> "Toni Warden (4215)" [label=519]
+	"Janet Elizabeth Broadstock (4216)" -> "Darren Gregory Moir (4214)" [label=418]
+	"Janet Elizabeth Broadstock (4216)" -> "Toni Warden (4215)" [label=430]
 }

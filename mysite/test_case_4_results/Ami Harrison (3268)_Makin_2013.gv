@@ -9,6 +9,6 @@ Palmer United Party"]
 	"Robert Jameson (3266)" [label="Robert Jameson (3266)
 Katter's Australian Party"]
 	"Andrew Morgan Graham (3265)" -> "Ami Harrison (3268)" [label=526]
-	"Robert Jameson (3266)" -> "Andrew Morgan Graham (3265)" [label=295]
 	"Robert Jameson (3266)" -> "Ami Harrison (3268)" [label=52]
+	"Robert Jameson (3266)" -> "Andrew Morgan Graham (3265)" [label=295]
 }

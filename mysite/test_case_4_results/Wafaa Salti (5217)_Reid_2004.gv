@@ -2,24 +2,24 @@
 digraph "Wafaa Salti (5217)_Reid_2004" {
 	graph [label="Reid 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Wafaa Salti (5217)" [label="Wafaa Salti (5217)
-The Greens"]
 	"Kylie Mary Laurence (5214)" [label="Kylie Mary Laurence (5214)
 Christian Democratic Party (Fred Nile Group)"]
+	"Lisa Macdonald (5212)" [label="Lisa Macdonald (5212)
+Socialist Alliance"]
 	"Neville Williams (5213)" [label="Neville Williams (5213)
 Pauline Hanson's One Nation (NSW Division)"]
 	"Tony Yoo (5216)" [label="Tony Yoo (5216)
 Australian Democrats"]
-	"Lisa Macdonald (5212)" [label="Lisa Macdonald (5212)
-Socialist Alliance"]
+	"Wafaa Salti (5217)" [label="Wafaa Salti (5217)
+The Greens"]
 	"Kylie Mary Laurence (5214)" -> "Wafaa Salti (5217)" [label=220]
-	"Neville Williams (5213)" -> "Kylie Mary Laurence (5214)" [label=265]
-	"Tony Yoo (5216)" -> "Neville Williams (5213)" [label=29]
-	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
-	"Neville Williams (5213)" -> "Wafaa Salti (5217)" [label=131]
-	"Tony Yoo (5216)" -> "Wafaa Salti (5217)" [label=321]
-	"Lisa Macdonald (5212)" -> "Wafaa Salti (5217)" [label=133]
-	"Lisa Macdonald (5212)" -> "Neville Williams (5213)" [label=104]
-	"Tony Yoo (5216)" -> "Kylie Mary Laurence (5214)" [label=52]
 	"Lisa Macdonald (5212)" -> "Kylie Mary Laurence (5214)" [label=79]
+	"Lisa Macdonald (5212)" -> "Neville Williams (5213)" [label=104]
+	"Lisa Macdonald (5212)" -> "Tony Yoo (5216)" [label=14]
+	"Lisa Macdonald (5212)" -> "Wafaa Salti (5217)" [label=133]
+	"Neville Williams (5213)" -> "Kylie Mary Laurence (5214)" [label=265]
+	"Neville Williams (5213)" -> "Wafaa Salti (5217)" [label=131]
+	"Tony Yoo (5216)" -> "Kylie Mary Laurence (5214)" [label=52]
+	"Tony Yoo (5216)" -> "Neville Williams (5213)" [label=29]
+	"Tony Yoo (5216)" -> "Wafaa Salti (5217)" [label=321]
 }

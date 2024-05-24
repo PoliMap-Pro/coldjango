@@ -2,18 +2,18 @@
 digraph "Pat Schultz (2945)_New England_2013" {
 	graph [label="New England 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pat Schultz (2945)" [label="Pat Schultz (2945)
-The Greens"]
-	"Brian Charles Dettmann (2944)" [label="Brian Charles Dettmann (2944)
-One Nation"]
 	"Aaron Michael Evans (2949)" [label="Aaron Michael Evans (2949)
 Christian Democratic Party (Fred Nile Group)"]
+	"Brian Charles Dettmann (2944)" [label="Brian Charles Dettmann (2944)
+One Nation"]
+	"Pat Schultz (2945)" [label="Pat Schultz (2945)
+The Greens"]
 	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
 Citizens Electoral Council"]
-	"Brian Charles Dettmann (2944)" -> "Pat Schultz (2945)" [label=156]
 	"Aaron Michael Evans (2949)" -> "Brian Charles Dettmann (2944)" [label=70]
-	"Richard Innes Witten (2947)" -> "Aaron Michael Evans (2949)" [label=21]
 	"Aaron Michael Evans (2949)" -> "Pat Schultz (2945)" [label=61]
-	"Richard Innes Witten (2947)" -> "Pat Schultz (2945)" [label=21]
+	"Brian Charles Dettmann (2944)" -> "Pat Schultz (2945)" [label=156]
+	"Richard Innes Witten (2947)" -> "Aaron Michael Evans (2949)" [label=21]
 	"Richard Innes Witten (2947)" -> "Brian Charles Dettmann (2944)" [label=24]
+	"Richard Innes Witten (2947)" -> "Pat Schultz (2945)" [label=21]
 }

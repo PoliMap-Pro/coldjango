@@ -4,22 +4,22 @@ digraph "Asher Cookson (737)_Aston_2022" {
 	node [shape=box]
 	"Asher Cookson (737)" [label="Asher Cookson (737)
 The Greens"]
+	"Rebekah Jane Spelman (735)" [label="Rebekah Jane Spelman (735)
+United Australia Party"]
 	"Craig Ibbotson (739)" [label="Craig Ibbotson (739)
 Pauline Hanson's One Nation"]
 	"Liam Roche (740)" [label="Liam Roche (740)
 Liberal Democrats"]
-	"Rebekah Jane Spelman (735)" [label="Rebekah Jane Spelman (735)
-United Australia Party"]
 	"Ryan Bruce (738)" [label="Ryan Bruce (738)
 TNL"]
-	"Craig Ibbotson (739)" -> "Asher Cookson (737)" [label=407]
-	"Craig Ibbotson (739)" -> "Rebekah Jane Spelman (735)" [label=2429]
-	"Liam Roche (740)" -> "Asher Cookson (737)" [label=198]
-	"Liam Roche (740)" -> "Craig Ibbotson (739)" [label=589]
-	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
 	"Rebekah Jane Spelman (735)" -> "Asher Cookson (737)" [label=2217]
+	"Craig Ibbotson (739)" -> "Rebekah Jane Spelman (735)" [label=2429]
+	"Liam Roche (740)" -> "Craig Ibbotson (739)" [label=589]
+	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
+	"Craig Ibbotson (739)" -> "Asher Cookson (737)" [label=407]
+	"Liam Roche (740)" -> "Asher Cookson (737)" [label=198]
 	"Ryan Bruce (738)" -> "Asher Cookson (737)" [label=366]
 	"Ryan Bruce (738)" -> "Craig Ibbotson (739)" [label=103]
-	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
+	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
 	"Ryan Bruce (738)" -> "Rebekah Jane Spelman (735)" [label=91]
 }

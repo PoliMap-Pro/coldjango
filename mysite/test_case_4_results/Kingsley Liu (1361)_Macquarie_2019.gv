@@ -2,13 +2,13 @@
 digraph "Kingsley Liu (1361)_Macquarie_2019" {
 	graph [label="Macquarie 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
 	"Kingsley Liu (1361)" [label="Kingsley Liu (1361)
 The Greens"]
 	"Tony Bryan Pettitt (1362)" [label="Tony Bryan Pettitt (1362)
 United Australia Party"]
-	"Greg Keightley (211)" [label="Greg Keightley (211)
-Animal Justice Party"]
-	"Tony Bryan Pettitt (1362)" -> "Kingsley Liu (1361)" [label=878]
-	"Greg Keightley (211)" -> "Tony Bryan Pettitt (1362)" [label=700]
 	"Greg Keightley (211)" -> "Kingsley Liu (1361)" [label=1570]
+	"Greg Keightley (211)" -> "Tony Bryan Pettitt (1362)" [label=700]
+	"Tony Bryan Pettitt (1362)" -> "Kingsley Liu (1361)" [label=878]
 }

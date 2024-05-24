@@ -4,16 +4,16 @@ digraph "Alistair Mccaskill (4769)_Chisholm_2007" {
 	node [shape=box]
 	"Alistair Mccaskill (4769)" [label="Alistair Mccaskill (4769)
 Australian Greens"]
-	"Gary Ong (4100)" [label="Gary Ong (4100)
-Family First"]
 	"Daniel Berk (4767)" [label="Daniel Berk (4767)
 Australian Democrats"]
+	"Gary Ong (4100)" [label="Gary Ong (4100)
+Family First"]
 	"Lars Thystrup (4768)" [label="Lars Thystrup (4768)
 Citizens Electoral Council"]
-	"Gary Ong (4100)" -> "Alistair Mccaskill (4769)" [label=292]
-	"Daniel Berk (4767)" -> "Gary Ong (4100)" [label=79]
-	"Lars Thystrup (4768)" -> "Daniel Berk (4767)" [label=40]
 	"Daniel Berk (4767)" -> "Alistair Mccaskill (4769)" [label=518]
+	"Daniel Berk (4767)" -> "Gary Ong (4100)" [label=79]
+	"Gary Ong (4100)" -> "Alistair Mccaskill (4769)" [label=292]
 	"Lars Thystrup (4768)" -> "Alistair Mccaskill (4769)" [label=39]
+	"Lars Thystrup (4768)" -> "Daniel Berk (4767)" [label=40]
 	"Lars Thystrup (4768)" -> "Gary Ong (4100)" [label=22]
 }

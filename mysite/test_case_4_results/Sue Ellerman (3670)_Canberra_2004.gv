@@ -2,12 +2,12 @@
 digraph "Sue Ellerman (3670)_Canberra_2004" {
 	graph [label="Canberra 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
-The Greens"]
 	"Aaron Matthews (4996)" [label="Aaron Matthews (4996)
 Australian Democrats"]
 	"Jim Arnold (4238)" [label="Jim Arnold (4238)
 Citizens Electoral Council"]
+	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
+The Greens"]
 	"Aaron Matthews (4996)" -> "Sue Ellerman (3670)" [label=958]
 	"Jim Arnold (4238)" -> "Aaron Matthews (4996)" [label=196]
 	"Jim Arnold (4238)" -> "Sue Ellerman (3670)" [label=149]

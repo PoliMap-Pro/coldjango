@@ -9,6 +9,6 @@ Socialist Alliance"]
 	"John Flanagan (1270)" [label="John Flanagan (1270)
 Non-Custodial Parents Party (Equal Parenting)"]
 	"Jess Moore (3721)" -> "George Takacs (3720)" [label=995]
-	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=237]
 	"John Flanagan (1270)" -> "George Takacs (3720)" [label=277]
+	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=237]
 }

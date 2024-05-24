@@ -2,31 +2,31 @@
 digraph "Tim Clifford (2769)_Stirling_2013" {
 	graph [label="Stirling 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Clifford (2769)" [label="Tim Clifford (2769)
-The Greens (WA)"]
-	"Wayne Gordon Thompson (3655)" [label="Wayne Gordon Thompson (3655)
-Palmer United Party"]
+	"Alison Rowe (3656)" [label="Alison Rowe (3656)
+Rise Up Australia Party"]
 	"Kevin Host (2006)" [label="Kevin Host (2006)
 Australian Christians"]
 	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
 Independent"]
 	"Matueny Marial Luke (3654)" [label="Matueny Marial Luke (3654)
 Family First Party"]
-	"Alison Rowe (3656)" [label="Alison Rowe (3656)
-Rise Up Australia Party"]
-	"Wayne Gordon Thompson (3655)" -> "Tim Clifford (2769)" [label=1307]
+	"Tim Clifford (2769)" [label="Tim Clifford (2769)
+The Greens (WA)"]
+	"Wayne Gordon Thompson (3655)" [label="Wayne Gordon Thompson (3655)
+Palmer United Party"]
+	"Alison Rowe (3656)" -> "Kevin Host (2006)" [label=90]
+	"Alison Rowe (3656)" -> "Kim Mubarak (2773)" [label=69]
+	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
+	"Alison Rowe (3656)" -> "Tim Clifford (2769)" [label=56]
+	"Alison Rowe (3656)" -> "Wayne Gordon Thompson (3655)" [label=45]
+	"Kevin Host (2006)" -> "Tim Clifford (2769)" [label=397]
 	"Kevin Host (2006)" -> "Wayne Gordon Thompson (3655)" [label=324]
 	"Kim Mubarak (2773)" -> "Kevin Host (2006)" [label=99]
-	"Matueny Marial Luke (3654)" -> "Kim Mubarak (2773)" [label=90]
-	"Alison Rowe (3656)" -> "Matueny Marial Luke (3654)" [label=47]
-	"Kevin Host (2006)" -> "Tim Clifford (2769)" [label=397]
 	"Kim Mubarak (2773)" -> "Tim Clifford (2769)" [label=308]
-	"Matueny Marial Luke (3654)" -> "Tim Clifford (2769)" [label=150]
-	"Alison Rowe (3656)" -> "Tim Clifford (2769)" [label=56]
-	"Alison Rowe (3656)" -> "Kim Mubarak (2773)" [label=69]
-	"Matueny Marial Luke (3654)" -> "Kevin Host (2006)" [label=171]
-	"Alison Rowe (3656)" -> "Kevin Host (2006)" [label=90]
 	"Kim Mubarak (2773)" -> "Wayne Gordon Thompson (3655)" [label=224]
+	"Matueny Marial Luke (3654)" -> "Kevin Host (2006)" [label=171]
+	"Matueny Marial Luke (3654)" -> "Kim Mubarak (2773)" [label=90]
+	"Matueny Marial Luke (3654)" -> "Tim Clifford (2769)" [label=150]
 	"Matueny Marial Luke (3654)" -> "Wayne Gordon Thompson (3655)" [label=127]
-	"Alison Rowe (3656)" -> "Wayne Gordon Thompson (3655)" [label=45]
+	"Wayne Gordon Thompson (3655)" -> "Tim Clifford (2769)" [label=1307]
 }

@@ -2,39 +2,39 @@
 digraph "Joanna Nevill (3354)_Calwell_2013" {
 	graph [label="Calwell 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joanna Nevill (3354)" [label="Joanna Nevill (3354)
-The Greens"]
-	"Bryce Newton Letcher (3349)" [label="Bryce Newton Letcher (3349)
-Palmer United Party"]
-	"Nevena Spirovska (3350)" [label="Nevena Spirovska (3350)
-Sex Party"]
-	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
-Australian Christians"]
 	"Brett Watson (3347)" [label="Brett Watson (3347)
 Katter's Australian Party"]
-	"Omar Jabir Omar (3353)" [label="Omar Jabir Omar (3353)
-DLP Democratic Labour"]
+	"Bryce Newton Letcher (3349)" [label="Bryce Newton Letcher (3349)
+Palmer United Party"]
 	"Charles Rozario (3352)" [label="Charles Rozario (3352)
 Rise Up Australia Party"]
-	"Bryce Newton Letcher (3349)" -> "Joanna Nevill (3354)" [label=596]
-	"Nevena Spirovska (3350)" -> "Bryce Newton Letcher (3349)" [label=421]
-	"Maria Bengtsson (769)" -> "Nevena Spirovska (3350)" [label=112]
-	"Brett Watson (3347)" -> "Maria Bengtsson (769)" [label=59]
-	"Omar Jabir Omar (3353)" -> "Brett Watson (3347)" [label=73]
-	"Charles Rozario (3352)" -> "Omar Jabir Omar (3353)" [label=63]
-	"Nevena Spirovska (3350)" -> "Joanna Nevill (3354)" [label=595]
-	"Maria Bengtsson (769)" -> "Joanna Nevill (3354)" [label=274]
-	"Brett Watson (3347)" -> "Joanna Nevill (3354)" [label=98]
-	"Omar Jabir Omar (3353)" -> "Joanna Nevill (3354)" [label=345]
-	"Charles Rozario (3352)" -> "Joanna Nevill (3354)" [label=33]
-	"Charles Rozario (3352)" -> "Brett Watson (3347)" [label=44]
-	"Omar Jabir Omar (3353)" -> "Maria Bengtsson (769)" [label=96]
-	"Charles Rozario (3352)" -> "Maria Bengtsson (769)" [label=68]
-	"Brett Watson (3347)" -> "Nevena Spirovska (3350)" [label=108]
-	"Omar Jabir Omar (3353)" -> "Nevena Spirovska (3350)" [label=81]
-	"Charles Rozario (3352)" -> "Nevena Spirovska (3350)" [label=30]
-	"Maria Bengtsson (769)" -> "Bryce Newton Letcher (3349)" [label=132]
+	"Joanna Nevill (3354)" [label="Joanna Nevill (3354)
+The Greens"]
+	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
+Australian Christians"]
+	"Nevena Spirovska (3350)" [label="Nevena Spirovska (3350)
+Sex Party"]
+	"Omar Jabir Omar (3353)" [label="Omar Jabir Omar (3353)
+DLP Democratic Labour"]
 	"Brett Watson (3347)" -> "Bryce Newton Letcher (3349)" [label=341]
-	"Omar Jabir Omar (3353)" -> "Bryce Newton Letcher (3349)" [label=48]
+	"Brett Watson (3347)" -> "Joanna Nevill (3354)" [label=98]
+	"Brett Watson (3347)" -> "Maria Bengtsson (769)" [label=59]
+	"Brett Watson (3347)" -> "Nevena Spirovska (3350)" [label=108]
+	"Bryce Newton Letcher (3349)" -> "Joanna Nevill (3354)" [label=596]
+	"Charles Rozario (3352)" -> "Brett Watson (3347)" [label=44]
 	"Charles Rozario (3352)" -> "Bryce Newton Letcher (3349)" [label=27]
+	"Charles Rozario (3352)" -> "Joanna Nevill (3354)" [label=33]
+	"Charles Rozario (3352)" -> "Maria Bengtsson (769)" [label=68]
+	"Charles Rozario (3352)" -> "Nevena Spirovska (3350)" [label=30]
+	"Charles Rozario (3352)" -> "Omar Jabir Omar (3353)" [label=63]
+	"Maria Bengtsson (769)" -> "Bryce Newton Letcher (3349)" [label=132]
+	"Maria Bengtsson (769)" -> "Joanna Nevill (3354)" [label=274]
+	"Maria Bengtsson (769)" -> "Nevena Spirovska (3350)" [label=112]
+	"Nevena Spirovska (3350)" -> "Bryce Newton Letcher (3349)" [label=421]
+	"Nevena Spirovska (3350)" -> "Joanna Nevill (3354)" [label=595]
+	"Omar Jabir Omar (3353)" -> "Brett Watson (3347)" [label=73]
+	"Omar Jabir Omar (3353)" -> "Bryce Newton Letcher (3349)" [label=48]
+	"Omar Jabir Omar (3353)" -> "Joanna Nevill (3354)" [label=345]
+	"Omar Jabir Omar (3353)" -> "Maria Bengtsson (769)" [label=96]
+	"Omar Jabir Omar (3353)" -> "Nevena Spirovska (3350)" [label=81]
 }

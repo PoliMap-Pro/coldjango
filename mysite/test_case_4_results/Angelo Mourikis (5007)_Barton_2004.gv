@@ -9,6 +9,6 @@ Australian Democrats"]
 	"Neil Baird (5006)" [label="Neil Baird (5006)
 Pauline Hanson's One Nation (NSW Division)"]
 	"Eoin Coghlan (5005)" -> "Angelo Mourikis (5007)" [label=466]
-	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
 	"Neil Baird (5006)" -> "Angelo Mourikis (5007)" [label=182]
+	"Neil Baird (5006)" -> "Eoin Coghlan (5005)" [label=191]
 }

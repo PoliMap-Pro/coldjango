@@ -4,22 +4,22 @@ digraph "David Norris (5321)_Fairfax_2004" {
 	node [shape=box]
 	"David Norris (5321)" [label="David Norris (5321)
 The Greens"]
-	"Paula Hunt (5316)" [label="Paula Hunt (5316)
-Family First"]
-	"Patrick Rozanski (5318)" [label="Patrick Rozanski (5318)
-One Nation"]
 	"Debbie Campbell (5317)" [label="Debbie Campbell (5317)
 Australian Democrats"]
 	"Kev Watt (5319)" [label="Kev Watt (5319)
 Citizens Electoral Council"]
-	"Paula Hunt (5316)" -> "David Norris (5321)" [label=930]
-	"Patrick Rozanski (5318)" -> "Paula Hunt (5316)" [label=960]
-	"Debbie Campbell (5317)" -> "Patrick Rozanski (5318)" [label=166]
-	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
-	"Patrick Rozanski (5318)" -> "David Norris (5321)" [label=376]
+	"Patrick Rozanski (5318)" [label="Patrick Rozanski (5318)
+One Nation"]
+	"Paula Hunt (5316)" [label="Paula Hunt (5316)
+Family First"]
 	"Debbie Campbell (5317)" -> "David Norris (5321)" [label=745]
-	"Kev Watt (5319)" -> "David Norris (5321)" [label=34]
-	"Kev Watt (5319)" -> "Patrick Rozanski (5318)" [label=50]
+	"Debbie Campbell (5317)" -> "Patrick Rozanski (5318)" [label=166]
 	"Debbie Campbell (5317)" -> "Paula Hunt (5316)" [label=224]
+	"Kev Watt (5319)" -> "David Norris (5321)" [label=34]
+	"Kev Watt (5319)" -> "Debbie Campbell (5317)" [label=28]
+	"Kev Watt (5319)" -> "Patrick Rozanski (5318)" [label=50]
 	"Kev Watt (5319)" -> "Paula Hunt (5316)" [label=32]
+	"Patrick Rozanski (5318)" -> "David Norris (5321)" [label=376]
+	"Patrick Rozanski (5318)" -> "Paula Hunt (5316)" [label=960]
+	"Paula Hunt (5316)" -> "David Norris (5321)" [label=930]
 }

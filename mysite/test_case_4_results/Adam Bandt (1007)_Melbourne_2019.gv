@@ -4,29 +4,29 @@ digraph "Adam Bandt (1007)_Melbourne_2019" {
 	node [shape=box]
 	"Adam Bandt (1007)" [label="Adam Bandt (1007)
 The Greens (VIC)"]
-	"Luke Creasey (1894)" [label="Luke Creasey (1894)
-Australian Labor Party"]
+	"Dave Blake (1891)" [label="Dave Blake (1891)
+Independent"]
 	"Judy Ryan (1890)" [label="Judy Ryan (1890)
 Reason Australia"]
 	"Lawrence Pope (1892)" [label="Lawrence Pope (1892)
 Animal Justice Party"]
-	"Dave Blake (1891)" [label="Dave Blake (1891)
-Independent"]
+	"Luke Creasey (1894)" [label="Luke Creasey (1894)
+Australian Labor Party"]
 	"Tony Pecora (1895)" [label="Tony Pecora (1895)
 United Australia Party"]
-	"Luke Creasey (1894)" -> "Adam Bandt (1007)" [label=15750]
-	"Judy Ryan (1890)" -> "Luke Creasey (1894)" [label=1012]
-	"Lawrence Pope (1892)" -> "Judy Ryan (1890)" [label=461]
-	"Dave Blake (1891)" -> "Lawrence Pope (1892)" [label=185]
-	"Tony Pecora (1895)" -> "Dave Blake (1891)" [label=140]
-	"Judy Ryan (1890)" -> "Adam Bandt (1007)" [label=3729]
-	"Lawrence Pope (1892)" -> "Adam Bandt (1007)" [label=1101]
 	"Dave Blake (1891)" -> "Adam Bandt (1007)" [label=285]
-	"Tony Pecora (1895)" -> "Adam Bandt (1007)" [label=111]
-	"Tony Pecora (1895)" -> "Lawrence Pope (1892)" [label=100]
 	"Dave Blake (1891)" -> "Judy Ryan (1890)" [label=302]
-	"Tony Pecora (1895)" -> "Judy Ryan (1890)" [label=130]
-	"Lawrence Pope (1892)" -> "Luke Creasey (1894)" [label=258]
+	"Dave Blake (1891)" -> "Lawrence Pope (1892)" [label=185]
 	"Dave Blake (1891)" -> "Luke Creasey (1894)" [label=137]
+	"Judy Ryan (1890)" -> "Adam Bandt (1007)" [label=3729]
+	"Judy Ryan (1890)" -> "Luke Creasey (1894)" [label=1012]
+	"Lawrence Pope (1892)" -> "Adam Bandt (1007)" [label=1101]
+	"Lawrence Pope (1892)" -> "Judy Ryan (1890)" [label=461]
+	"Lawrence Pope (1892)" -> "Luke Creasey (1894)" [label=258]
+	"Luke Creasey (1894)" -> "Adam Bandt (1007)" [label=15750]
+	"Tony Pecora (1895)" -> "Adam Bandt (1007)" [label=111]
+	"Tony Pecora (1895)" -> "Dave Blake (1891)" [label=140]
+	"Tony Pecora (1895)" -> "Judy Ryan (1890)" [label=130]
+	"Tony Pecora (1895)" -> "Lawrence Pope (1892)" [label=100]
 	"Tony Pecora (1895)" -> "Luke Creasey (1894)" [label=174]
 }

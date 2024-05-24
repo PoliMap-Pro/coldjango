@@ -2,39 +2,39 @@
 digraph "Jeremy Bradley (5138)_Lyne_2004" {
 	graph [label="Lyne 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeremy Bradley (5138)" [label="Jeremy Bradley (5138)
-The Greens"]
-	"Robyn Murphy (5135)" [label="Robyn Murphy (5135)
-New Country"]
-	"Peter Wildblood (5133)" [label="Peter Wildblood (5133)
-Australian Democrats"]
-	"Kerry Salt (5140)" [label="Kerry Salt (5140)
-Independent"]
-	"Simon Apostle (5136)" [label="Simon Apostle (5136)
-Family First"]
 	"Graeme Muldoon (4355)" [label="Graeme Muldoon (4355)
 Citizens Electoral Council"]
+	"Jeremy Bradley (5138)" [label="Jeremy Bradley (5138)
+The Greens"]
+	"Kerry Salt (5140)" [label="Kerry Salt (5140)
+Independent"]
+	"Peter Wildblood (5133)" [label="Peter Wildblood (5133)
+Australian Democrats"]
+	"Robyn Murphy (5135)" [label="Robyn Murphy (5135)
+New Country"]
 	"Ron Bailey (5139)" [label="Ron Bailey (5139)
 Socialist Alliance"]
-	"Robyn Murphy (5135)" -> "Jeremy Bradley (5138)" [label=296]
-	"Peter Wildblood (5133)" -> "Robyn Murphy (5135)" [label=213]
-	"Kerry Salt (5140)" -> "Peter Wildblood (5133)" [label=209]
-	"Simon Apostle (5136)" -> "Kerry Salt (5140)" [label=120]
-	"Graeme Muldoon (4355)" -> "Simon Apostle (5136)" [label=28]
-	"Ron Bailey (5139)" -> "Graeme Muldoon (4355)" [label=7]
-	"Peter Wildblood (5133)" -> "Jeremy Bradley (5138)" [label=306]
-	"Kerry Salt (5140)" -> "Jeremy Bradley (5138)" [label=243]
-	"Simon Apostle (5136)" -> "Jeremy Bradley (5138)" [label=130]
+	"Simon Apostle (5136)" [label="Simon Apostle (5136)
+Family First"]
 	"Graeme Muldoon (4355)" -> "Jeremy Bradley (5138)" [label=12]
-	"Ron Bailey (5139)" -> "Jeremy Bradley (5138)" [label=31]
-	"Ron Bailey (5139)" -> "Simon Apostle (5136)" [label=10]
 	"Graeme Muldoon (4355)" -> "Kerry Salt (5140)" [label=17]
-	"Ron Bailey (5139)" -> "Kerry Salt (5140)" [label=36]
-	"Simon Apostle (5136)" -> "Peter Wildblood (5133)" [label=98]
 	"Graeme Muldoon (4355)" -> "Peter Wildblood (5133)" [label=31]
-	"Ron Bailey (5139)" -> "Peter Wildblood (5133)" [label=10]
-	"Kerry Salt (5140)" -> "Robyn Murphy (5135)" [label=192]
-	"Simon Apostle (5136)" -> "Robyn Murphy (5135)" [label=198]
 	"Graeme Muldoon (4355)" -> "Robyn Murphy (5135)" [label=34]
+	"Graeme Muldoon (4355)" -> "Simon Apostle (5136)" [label=28]
+	"Kerry Salt (5140)" -> "Jeremy Bradley (5138)" [label=243]
+	"Kerry Salt (5140)" -> "Peter Wildblood (5133)" [label=209]
+	"Kerry Salt (5140)" -> "Robyn Murphy (5135)" [label=192]
+	"Peter Wildblood (5133)" -> "Jeremy Bradley (5138)" [label=306]
+	"Peter Wildblood (5133)" -> "Robyn Murphy (5135)" [label=213]
+	"Robyn Murphy (5135)" -> "Jeremy Bradley (5138)" [label=296]
+	"Ron Bailey (5139)" -> "Graeme Muldoon (4355)" [label=7]
+	"Ron Bailey (5139)" -> "Jeremy Bradley (5138)" [label=31]
+	"Ron Bailey (5139)" -> "Kerry Salt (5140)" [label=36]
+	"Ron Bailey (5139)" -> "Peter Wildblood (5133)" [label=10]
 	"Ron Bailey (5139)" -> "Robyn Murphy (5135)" [label=7]
+	"Ron Bailey (5139)" -> "Simon Apostle (5136)" [label=10]
+	"Simon Apostle (5136)" -> "Jeremy Bradley (5138)" [label=130]
+	"Simon Apostle (5136)" -> "Kerry Salt (5140)" [label=120]
+	"Simon Apostle (5136)" -> "Peter Wildblood (5133)" [label=98]
+	"Simon Apostle (5136)" -> "Robyn Murphy (5135)" [label=198]
 }

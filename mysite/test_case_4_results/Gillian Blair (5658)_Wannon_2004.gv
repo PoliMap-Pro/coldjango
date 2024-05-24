@@ -4,22 +4,22 @@ digraph "Gillian Blair (5658)_Wannon_2004" {
 	node [shape=box]
 	"Gillian Blair (5658)" [label="Gillian Blair (5658)
 Australian Greens"]
-	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
-Family First"]
-	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
-Independent"]
 	"Kerre Willsher (5656)" [label="Kerre Willsher (5656)
 Democrats"]
+	"Leigh Mcdonald (5659)" [label="Leigh Mcdonald (5659)
+Independent"]
 	"Robert Barwick (4740)" [label="Robert Barwick (4740)
 Citizens Electoral Council"]
-	"Ruth Hazelton (5657)" -> "Gillian Blair (5658)" [label=627]
-	"Leigh Mcdonald (5659)" -> "Ruth Hazelton (5657)" [label=357]
-	"Kerre Willsher (5656)" -> "Leigh Mcdonald (5659)" [label=107]
-	"Robert Barwick (4740)" -> "Kerre Willsher (5656)" [label=7]
-	"Leigh Mcdonald (5659)" -> "Gillian Blair (5658)" [label=456]
+	"Ruth Hazelton (5657)" [label="Ruth Hazelton (5657)
+Family First"]
 	"Kerre Willsher (5656)" -> "Gillian Blair (5658)" [label=216]
-	"Robert Barwick (4740)" -> "Gillian Blair (5658)" [label=27]
-	"Robert Barwick (4740)" -> "Leigh Mcdonald (5659)" [label=66]
+	"Kerre Willsher (5656)" -> "Leigh Mcdonald (5659)" [label=107]
 	"Kerre Willsher (5656)" -> "Ruth Hazelton (5657)" [label=81]
+	"Leigh Mcdonald (5659)" -> "Gillian Blair (5658)" [label=456]
+	"Leigh Mcdonald (5659)" -> "Ruth Hazelton (5657)" [label=357]
+	"Robert Barwick (4740)" -> "Gillian Blair (5658)" [label=27]
+	"Robert Barwick (4740)" -> "Kerre Willsher (5656)" [label=7]
+	"Robert Barwick (4740)" -> "Leigh Mcdonald (5659)" [label=66]
 	"Robert Barwick (4740)" -> "Ruth Hazelton (5657)" [label=19]
+	"Ruth Hazelton (5657)" -> "Gillian Blair (5658)" [label=627]
 }

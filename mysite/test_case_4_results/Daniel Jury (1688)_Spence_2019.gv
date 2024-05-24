@@ -4,16 +4,16 @@ digraph "Daniel Jury (1688)_Spence_2019" {
 	node [shape=box]
 	"Daniel Jury (1688)" [label="Daniel Jury (1688)
 The Greens"]
-	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
-United Australia Party"]
 	"Nathan Herbert (1690)" [label="Nathan Herbert (1690)
 Independent"]
 	"Rita Kuhlmann (1689)" [label="Rita Kuhlmann (1689)
 Animal Justice Party"]
-	"Ron Fiedler (1687)" -> "Daniel Jury (1688)" [label=2685]
-	"Nathan Herbert (1690)" -> "Ron Fiedler (1687)" [label=1774]
-	"Rita Kuhlmann (1689)" -> "Nathan Herbert (1690)" [label=1094]
+	"Ron Fiedler (1687)" [label="Ron Fiedler (1687)
+United Australia Party"]
 	"Nathan Herbert (1690)" -> "Daniel Jury (1688)" [label=2314]
+	"Nathan Herbert (1690)" -> "Ron Fiedler (1687)" [label=1774]
 	"Rita Kuhlmann (1689)" -> "Daniel Jury (1688)" [label=1271]
+	"Rita Kuhlmann (1689)" -> "Nathan Herbert (1690)" [label=1094]
 	"Rita Kuhlmann (1689)" -> "Ron Fiedler (1687)" [label=377]
+	"Ron Fiedler (1687)" -> "Daniel Jury (1688)" [label=2685]
 }

@@ -4,29 +4,29 @@ digraph "Adam Bandt (1007)_Melbourne_2010" {
 	node [shape=box]
 	"Adam Bandt (1007)" [label="Adam Bandt (1007)
 Australian Greens"]
-	"Simon Olsen (4142)" [label="Simon Olsen (4142)
-Liberal"]
-	"Joel Murray (2538)" [label="Joel Murray (2538)
-Australian Sex Party"]
-	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
-Family First"]
-	"Penelope Green (4141)" [label="Penelope Green (4141)
-Secular Party of Australia"]
 	"David Collyer (4140)" [label="David Collyer (4140)
 Australian Democrats"]
-	"Simon Olsen (4142)" -> "Adam Bandt (1007)" [label=15395]
-	"Joel Murray (2538)" -> "Simon Olsen (4142)" [label=392]
-	"Georgia Pearson (4139)" -> "Joel Murray (2538)" [label=204]
-	"Penelope Green (4141)" -> "Georgia Pearson (4139)" [label=77]
-	"David Collyer (4140)" -> "Penelope Green (4141)" [label=58]
-	"Joel Murray (2538)" -> "Adam Bandt (1007)" [label=1293]
-	"Georgia Pearson (4139)" -> "Adam Bandt (1007)" [label=695]
-	"Penelope Green (4141)" -> "Adam Bandt (1007)" [label=195]
+	"Georgia Pearson (4139)" [label="Georgia Pearson (4139)
+Family First"]
+	"Joel Murray (2538)" [label="Joel Murray (2538)
+Australian Sex Party"]
+	"Penelope Green (4141)" [label="Penelope Green (4141)
+Secular Party of Australia"]
+	"Simon Olsen (4142)" [label="Simon Olsen (4142)
+Liberal"]
 	"David Collyer (4140)" -> "Adam Bandt (1007)" [label=173]
 	"David Collyer (4140)" -> "Georgia Pearson (4139)" [label=56]
-	"Penelope Green (4141)" -> "Joel Murray (2538)" [label=177]
 	"David Collyer (4140)" -> "Joel Murray (2538)" [label=106]
-	"Georgia Pearson (4139)" -> "Simon Olsen (4142)" [label=363]
-	"Penelope Green (4141)" -> "Simon Olsen (4142)" [label=69]
+	"David Collyer (4140)" -> "Penelope Green (4141)" [label=58]
 	"David Collyer (4140)" -> "Simon Olsen (4142)" [label=97]
+	"Georgia Pearson (4139)" -> "Adam Bandt (1007)" [label=695]
+	"Georgia Pearson (4139)" -> "Joel Murray (2538)" [label=204]
+	"Georgia Pearson (4139)" -> "Simon Olsen (4142)" [label=363]
+	"Joel Murray (2538)" -> "Adam Bandt (1007)" [label=1293]
+	"Joel Murray (2538)" -> "Simon Olsen (4142)" [label=392]
+	"Penelope Green (4141)" -> "Adam Bandt (1007)" [label=195]
+	"Penelope Green (4141)" -> "Georgia Pearson (4139)" [label=77]
+	"Penelope Green (4141)" -> "Joel Murray (2538)" [label=177]
+	"Penelope Green (4141)" -> "Simon Olsen (4142)" [label=69]
+	"Simon Olsen (4142)" -> "Adam Bandt (1007)" [label=15395]
 }

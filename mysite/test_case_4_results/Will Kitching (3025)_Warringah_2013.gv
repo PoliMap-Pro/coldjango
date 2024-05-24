@@ -2,24 +2,24 @@
 digraph "Will Kitching (3025)_Warringah_2013" {
 	graph [label="Warringah 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Will Kitching (3025)" [label="Will Kitching (3025)
-The Greens"]
 	"Brodie Martin O'Connor Stewart (3023)" [label="Brodie Martin O'Connor Stewart (3023)
 Palmer United Party"]
+	"Mike Bloomfield (3024)" [label="Mike Bloomfield (3024)
+Rise Up Australia Party"]
 	"Mike Cottee (3026)" [label="Mike Cottee (3026)
 Stable Population Party"]
 	"Ula Falanga (2227)" [label="Ula Falanga (2227)
 Christian Democratic Party (Fred Nile Group)"]
-	"Mike Bloomfield (3024)" [label="Mike Bloomfield (3024)
-Rise Up Australia Party"]
+	"Will Kitching (3025)" [label="Will Kitching (3025)
+The Greens"]
 	"Brodie Martin O'Connor Stewart (3023)" -> "Will Kitching (3025)" [label=744]
-	"Mike Cottee (3026)" -> "Brodie Martin O'Connor Stewart (3023)" [label=179]
-	"Ula Falanga (2227)" -> "Mike Cottee (3026)" [label=56]
-	"Mike Bloomfield (3024)" -> "Ula Falanga (2227)" [label=54]
-	"Mike Cottee (3026)" -> "Will Kitching (3025)" [label=286]
-	"Ula Falanga (2227)" -> "Will Kitching (3025)" [label=94]
-	"Mike Bloomfield (3024)" -> "Will Kitching (3025)" [label=89]
-	"Mike Bloomfield (3024)" -> "Mike Cottee (3026)" [label=72]
-	"Ula Falanga (2227)" -> "Brodie Martin O'Connor Stewart (3023)" [label=71]
 	"Mike Bloomfield (3024)" -> "Brodie Martin O'Connor Stewart (3023)" [label=98]
+	"Mike Bloomfield (3024)" -> "Mike Cottee (3026)" [label=72]
+	"Mike Bloomfield (3024)" -> "Ula Falanga (2227)" [label=54]
+	"Mike Bloomfield (3024)" -> "Will Kitching (3025)" [label=89]
+	"Mike Cottee (3026)" -> "Brodie Martin O'Connor Stewart (3023)" [label=179]
+	"Mike Cottee (3026)" -> "Will Kitching (3025)" [label=286]
+	"Ula Falanga (2227)" -> "Brodie Martin O'Connor Stewart (3023)" [label=71]
+	"Ula Falanga (2227)" -> "Mike Cottee (3026)" [label=56]
+	"Ula Falanga (2227)" -> "Will Kitching (3025)" [label=94]
 }

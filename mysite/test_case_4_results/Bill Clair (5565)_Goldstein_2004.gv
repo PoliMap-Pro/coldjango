@@ -2,24 +2,24 @@
 digraph "Bill Clair (5565)_Goldstein_2004" {
 	graph [label="Goldstein 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bill Clair (5565)" [label="Bill Clair (5565)
-Australian Greens"]
-	"Terry O'Brien (5561)" [label="Terry O'Brien (5561)
-Independent"]
-	"Mark Hermans (5562)" [label="Mark Hermans (5562)
-Family First"]
 	"Aron Paul Igai (5564)" [label="Aron Paul Igai (5564)
 Democrats"]
+	"Bill Clair (5565)" [label="Bill Clair (5565)
+Australian Greens"]
 	"Heather E Shomali (5566)" [label="Heather E Shomali (5566)
 Citizens Electoral Council"]
-	"Terry O'Brien (5561)" -> "Bill Clair (5565)" [label=552]
-	"Mark Hermans (5562)" -> "Terry O'Brien (5561)" [label=166]
-	"Aron Paul Igai (5564)" -> "Mark Hermans (5562)" [label=51]
-	"Heather E Shomali (5566)" -> "Aron Paul Igai (5564)" [label=17]
-	"Mark Hermans (5562)" -> "Bill Clair (5565)" [label=131]
+	"Mark Hermans (5562)" [label="Mark Hermans (5562)
+Family First"]
+	"Terry O'Brien (5561)" [label="Terry O'Brien (5561)
+Independent"]
 	"Aron Paul Igai (5564)" -> "Bill Clair (5565)" [label=496]
+	"Aron Paul Igai (5564)" -> "Mark Hermans (5562)" [label=51]
+	"Aron Paul Igai (5564)" -> "Terry O'Brien (5561)" [label=131]
+	"Heather E Shomali (5566)" -> "Aron Paul Igai (5564)" [label=17]
 	"Heather E Shomali (5566)" -> "Bill Clair (5565)" [label=43]
 	"Heather E Shomali (5566)" -> "Mark Hermans (5562)" [label=22]
-	"Aron Paul Igai (5564)" -> "Terry O'Brien (5561)" [label=131]
 	"Heather E Shomali (5566)" -> "Terry O'Brien (5561)" [label=33]
+	"Mark Hermans (5562)" -> "Bill Clair (5565)" [label=131]
+	"Mark Hermans (5562)" -> "Terry O'Brien (5561)" [label=166]
+	"Terry O'Brien (5561)" -> "Bill Clair (5565)" [label=552]
 }

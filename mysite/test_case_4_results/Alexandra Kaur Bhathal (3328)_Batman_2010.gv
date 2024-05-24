@@ -4,16 +4,16 @@ digraph "Alexandra Kaur Bhathal (3328)_Batman_2010" {
 	node [shape=box]
 	"Alexandra Kaur Bhathal (3328)" [label="Alexandra Kaur Bhathal (3328)
 Australian Greens"]
-	"George Souris (2542)" [label="George Souris (2542)
-Liberal"]
 	"Andrew Conlon (3541)" [label="Andrew Conlon (3541)
 Family First"]
 	"Con Sarazen (4050)" [label="Con Sarazen (4050)
 Australian Democrats"]
-	"George Souris (2542)" -> "Alexandra Kaur Bhathal (3328)" [label=13556]
-	"Andrew Conlon (3541)" -> "George Souris (2542)" [label=1492]
-	"Con Sarazen (4050)" -> "Andrew Conlon (3541)" [label=139]
+	"George Souris (2542)" [label="George Souris (2542)
+Liberal"]
 	"Andrew Conlon (3541)" -> "Alexandra Kaur Bhathal (3328)" [label=581]
+	"Andrew Conlon (3541)" -> "George Souris (2542)" [label=1492]
 	"Con Sarazen (4050)" -> "Alexandra Kaur Bhathal (3328)" [label=318]
+	"Con Sarazen (4050)" -> "Andrew Conlon (3541)" [label=139]
 	"Con Sarazen (4050)" -> "George Souris (2542)" [label=148]
+	"George Souris (2542)" -> "Alexandra Kaur Bhathal (3328)" [label=13556]
 }

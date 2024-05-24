@@ -9,6 +9,6 @@ One Nation"]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]
 	"John Kearney (2274)" -> "Emma Young (3871)" [label=701]
-	"Trudy Campbell (3048)" -> "John Kearney (2274)" [label=204]
 	"Trudy Campbell (3048)" -> "Emma Young (3871)" [label=165]
+	"Trudy Campbell (3048)" -> "John Kearney (2274)" [label=204]
 }

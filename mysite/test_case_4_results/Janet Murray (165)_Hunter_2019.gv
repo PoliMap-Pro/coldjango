@@ -2,24 +2,24 @@
 digraph "Janet Murray (165)_Hunter_2019" {
 	graph [label="Hunter 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Janet Murray (165)" [label="Janet Murray (165)
-The Greens"]
-	"Paul Davies (1325)" [label="Paul Davies (1325)
-United Australia Party"]
 	"James Murphy (1324)" [label="James Murphy (1324)
 Animal Justice Party"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
+	"Janet Murray (165)" [label="Janet Murray (165)
+The Greens"]
 	"Max Boddy (1328)" [label="Max Boddy (1328)
 Socialist Equality Party"]
-	"Paul Davies (1325)" -> "Janet Murray (165)" [label=582]
-	"James Murphy (1324)" -> "Paul Davies (1325)" [label=399]
-	"Richard Stretton (1326)" -> "James Murphy (1324)" [label=187]
-	"Max Boddy (1328)" -> "Richard Stretton (1326)" [label=67]
+	"Paul Davies (1325)" [label="Paul Davies (1325)
+United Australia Party"]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
 	"James Murphy (1324)" -> "Janet Murray (165)" [label=1183]
-	"Richard Stretton (1326)" -> "Janet Murray (165)" [label=155]
-	"Max Boddy (1328)" -> "Janet Murray (165)" [label=115]
+	"James Murphy (1324)" -> "Paul Davies (1325)" [label=399]
 	"Max Boddy (1328)" -> "James Murphy (1324)" [label=96]
-	"Richard Stretton (1326)" -> "Paul Davies (1325)" [label=231]
+	"Max Boddy (1328)" -> "Janet Murray (165)" [label=115]
 	"Max Boddy (1328)" -> "Paul Davies (1325)" [label=52]
+	"Max Boddy (1328)" -> "Richard Stretton (1326)" [label=67]
+	"Paul Davies (1325)" -> "Janet Murray (165)" [label=582]
+	"Richard Stretton (1326)" -> "James Murphy (1324)" [label=187]
+	"Richard Stretton (1326)" -> "Janet Murray (165)" [label=155]
+	"Richard Stretton (1326)" -> "Paul Davies (1325)" [label=231]
 }

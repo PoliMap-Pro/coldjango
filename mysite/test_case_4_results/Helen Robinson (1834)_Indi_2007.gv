@@ -4,16 +4,16 @@ digraph "Helen Robinson (1834)_Indi_2007" {
 	node [shape=box]
 	"Helen Robinson (1834)" [label="Helen Robinson (1834)
 Australian Greens"]
+	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
+Citizens Electoral Council"]
 	"Jim Rainey (4049)" [label="Jim Rainey (4049)
 Family First"]
 	"Sarah Benson (4825)" [label="Sarah Benson (4825)
 Australian Democrats"]
-	"Jeremy Beck (4826)" [label="Jeremy Beck (4826)
-Citizens Electoral Council"]
-	"Jim Rainey (4049)" -> "Helen Robinson (1834)" [label=770]
-	"Sarah Benson (4825)" -> "Jim Rainey (4049)" [label=215]
-	"Jeremy Beck (4826)" -> "Sarah Benson (4825)" [label=56]
-	"Sarah Benson (4825)" -> "Helen Robinson (1834)" [label=554]
 	"Jeremy Beck (4826)" -> "Helen Robinson (1834)" [label=38]
 	"Jeremy Beck (4826)" -> "Jim Rainey (4049)" [label=147]
+	"Jeremy Beck (4826)" -> "Sarah Benson (4825)" [label=56]
+	"Jim Rainey (4049)" -> "Helen Robinson (1834)" [label=770]
+	"Sarah Benson (4825)" -> "Helen Robinson (1834)" [label=554]
+	"Sarah Benson (4825)" -> "Jim Rainey (4049)" [label=215]
 }

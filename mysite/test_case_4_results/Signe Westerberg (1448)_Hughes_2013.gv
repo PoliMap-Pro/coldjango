@@ -2,9 +2,9 @@
 digraph "Signe Westerberg (1448)_Hughes_2013" {
 	graph [label="Hughes 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
-The Greens"]
 	"Peter M Colsell (2896)" [label="Peter M Colsell (2896)
 Christian Democratic Party (Fred Nile Group)"]
+	"Signe Westerberg (1448)" [label="Signe Westerberg (1448)
+The Greens"]
 	"Peter M Colsell (2896)" -> "Signe Westerberg (1448)" [label=182]
 }

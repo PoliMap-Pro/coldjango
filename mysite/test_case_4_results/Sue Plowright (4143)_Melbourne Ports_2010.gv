@@ -2,18 +2,18 @@
 digraph "Sue Plowright (4143)_Melbourne Ports_2010" {
 	graph [label="Melbourne Ports 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Plowright (4143)" [label="Sue Plowright (4143)
-Australian Greens"]
 	"Christian Vega (4145)" [label="Christian Vega (4145)
 Australian Sex Party"]
 	"Daniel Emmerson (4147)" [label="Daniel Emmerson (4147)
 Family First"]
 	"Gregory Storer (4146)" [label="Gregory Storer (4146)
 Secular Party of Australia"]
+	"Sue Plowright (4143)" [label="Sue Plowright (4143)
+Australian Greens"]
 	"Christian Vega (4145)" -> "Sue Plowright (4143)" [label=1156]
 	"Daniel Emmerson (4147)" -> "Christian Vega (4145)" [label=112]
-	"Gregory Storer (4146)" -> "Daniel Emmerson (4147)" [label=22]
 	"Daniel Emmerson (4147)" -> "Sue Plowright (4143)" [label=129]
-	"Gregory Storer (4146)" -> "Sue Plowright (4143)" [label=107]
 	"Gregory Storer (4146)" -> "Christian Vega (4145)" [label=148]
+	"Gregory Storer (4146)" -> "Daniel Emmerson (4147)" [label=22]
+	"Gregory Storer (4146)" -> "Sue Plowright (4143)" [label=107]
 }

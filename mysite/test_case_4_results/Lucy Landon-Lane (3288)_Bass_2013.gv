@@ -2,24 +2,24 @@
 digraph "Lucy Landon-Lane (3288)_Bass_2013" {
 	graph [label="Bass 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lucy Landon-Lane (3288)" [label="Lucy Landon-Lane (3288)
-Australian Greens"]
-	"Christopher Lee Dobson (3285)" [label="Christopher Lee Dobson (3285)
-Palmer United Party"]
 	"Christine Bergman (3286)" [label="Christine Bergman (3286)
 Family First"]
-	"Ray Kroeze (3284)" [label="Ray Kroeze (3284)
-Australian Christians"]
+	"Christopher Lee Dobson (3285)" [label="Christopher Lee Dobson (3285)
+Palmer United Party"]
 	"Jin-Oh Choi (3289)" [label="Jin-Oh Choi (3289)
 Secular Party of Australia"]
-	"Christopher Lee Dobson (3285)" -> "Lucy Landon-Lane (3288)" [label=522]
+	"Lucy Landon-Lane (3288)" [label="Lucy Landon-Lane (3288)
+Australian Greens"]
+	"Ray Kroeze (3284)" [label="Ray Kroeze (3284)
+Australian Christians"]
 	"Christine Bergman (3286)" -> "Christopher Lee Dobson (3285)" [label=421]
-	"Ray Kroeze (3284)" -> "Christine Bergman (3286)" [label=313]
-	"Jin-Oh Choi (3289)" -> "Ray Kroeze (3284)" [label=24]
 	"Christine Bergman (3286)" -> "Lucy Landon-Lane (3288)" [label=166]
-	"Ray Kroeze (3284)" -> "Lucy Landon-Lane (3288)" [label=38]
-	"Jin-Oh Choi (3289)" -> "Lucy Landon-Lane (3288)" [label=153]
+	"Christopher Lee Dobson (3285)" -> "Lucy Landon-Lane (3288)" [label=522]
 	"Jin-Oh Choi (3289)" -> "Christine Bergman (3286)" [label=40]
-	"Ray Kroeze (3284)" -> "Christopher Lee Dobson (3285)" [label=87]
 	"Jin-Oh Choi (3289)" -> "Christopher Lee Dobson (3285)" [label=34]
+	"Jin-Oh Choi (3289)" -> "Lucy Landon-Lane (3288)" [label=153]
+	"Jin-Oh Choi (3289)" -> "Ray Kroeze (3284)" [label=24]
+	"Ray Kroeze (3284)" -> "Christine Bergman (3286)" [label=313]
+	"Ray Kroeze (3284)" -> "Christopher Lee Dobson (3285)" [label=87]
+	"Ray Kroeze (3284)" -> "Lucy Landon-Lane (3288)" [label=38]
 }

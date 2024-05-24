@@ -2,18 +2,18 @@
 digraph "Ian Richards (5414)_Wide Bay_2004" {
 	graph [label="Wide Bay 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian Richards (5414)" [label="Ian Richards (5414)
-The Greens"]
-	"Glen Wilson (5419)" [label="Glen Wilson (5419)
-Family First"]
-	"Darryl William Weir (5420)" [label="Darryl William Weir (5420)
-Australian Democrats"]
 	"Cy D'Oliveira (5415)" [label="Cy D'Oliveira (5415)
 Independent"]
-	"Glen Wilson (5419)" -> "Ian Richards (5414)" [label=325]
-	"Darryl William Weir (5420)" -> "Glen Wilson (5419)" [label=189]
+	"Darryl William Weir (5420)" [label="Darryl William Weir (5420)
+Australian Democrats"]
+	"Glen Wilson (5419)" [label="Glen Wilson (5419)
+Family First"]
+	"Ian Richards (5414)" [label="Ian Richards (5414)
+The Greens"]
 	"Cy D'Oliveira (5415)" -> "Darryl William Weir (5420)" [label=40]
-	"Darryl William Weir (5420)" -> "Ian Richards (5414)" [label=171]
-	"Cy D'Oliveira (5415)" -> "Ian Richards (5414)" [label=76]
 	"Cy D'Oliveira (5415)" -> "Glen Wilson (5419)" [label=52]
+	"Cy D'Oliveira (5415)" -> "Ian Richards (5414)" [label=76]
+	"Darryl William Weir (5420)" -> "Glen Wilson (5419)" [label=189]
+	"Darryl William Weir (5420)" -> "Ian Richards (5414)" [label=171]
+	"Glen Wilson (5419)" -> "Ian Richards (5414)" [label=325]
 }

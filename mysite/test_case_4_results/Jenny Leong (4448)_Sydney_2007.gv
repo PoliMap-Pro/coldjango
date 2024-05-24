@@ -2,24 +2,24 @@
 digraph "Jenny Leong (4448)_Sydney_2007" {
 	graph [label="Sydney 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jenny Leong (4448)" [label="Jenny Leong (4448)
-The Greens"]
-	"Jane Ward (3006)" [label="Jane Ward (3006)
-Independent"]
-	"Mayo Materazzo (4450)" [label="Mayo Materazzo (4450)
-Democrats"]
-	"John Lee (4449)" [label="John Lee (4449)
-Christian Democratic Party (Fred Nile Group)"]
 	"Adrian Ford (4447)" [label="Adrian Ford (4447)
 Citizens Electoral Council"]
-	"Jane Ward (3006)" -> "Jenny Leong (4448)" [label=568]
-	"Mayo Materazzo (4450)" -> "Jane Ward (3006)" [label=147]
-	"John Lee (4449)" -> "Mayo Materazzo (4450)" [label=33]
-	"Adrian Ford (4447)" -> "John Lee (4449)" [label=30]
-	"Mayo Materazzo (4450)" -> "Jenny Leong (4448)" [label=364]
-	"John Lee (4449)" -> "Jenny Leong (4448)" [label=125]
-	"Adrian Ford (4447)" -> "Jenny Leong (4448)" [label=51]
-	"Adrian Ford (4447)" -> "Mayo Materazzo (4450)" [label=11]
-	"John Lee (4449)" -> "Jane Ward (3006)" [label=93]
+	"Jane Ward (3006)" [label="Jane Ward (3006)
+Independent"]
+	"Jenny Leong (4448)" [label="Jenny Leong (4448)
+The Greens"]
+	"John Lee (4449)" [label="John Lee (4449)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mayo Materazzo (4450)" [label="Mayo Materazzo (4450)
+Democrats"]
 	"Adrian Ford (4447)" -> "Jane Ward (3006)" [label=25]
+	"Adrian Ford (4447)" -> "Jenny Leong (4448)" [label=51]
+	"Adrian Ford (4447)" -> "John Lee (4449)" [label=30]
+	"Adrian Ford (4447)" -> "Mayo Materazzo (4450)" [label=11]
+	"Jane Ward (3006)" -> "Jenny Leong (4448)" [label=568]
+	"John Lee (4449)" -> "Jane Ward (3006)" [label=93]
+	"John Lee (4449)" -> "Jenny Leong (4448)" [label=125]
+	"John Lee (4449)" -> "Mayo Materazzo (4450)" [label=33]
+	"Mayo Materazzo (4450)" -> "Jane Ward (3006)" [label=147]
+	"Mayo Materazzo (4450)" -> "Jenny Leong (4448)" [label=364]
 }

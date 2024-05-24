@@ -4,11 +4,11 @@ digraph "Frida Katherine Forsberg (3922)_Groom_2010" {
 	node [shape=box]
 	"Frida Katherine Forsberg (3922)" [label="Frida Katherine Forsberg (3922)
 The Greens"]
-	"Rose Kirkwood (3921)" [label="Rose Kirkwood (3921)
-Family First"]
 	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
 Independent"]
-	"Rose Kirkwood (3921)" -> "Frida Katherine Forsberg (3922)" [label=1838]
-	"Rod Jeanneret (1490)" -> "Rose Kirkwood (3921)" [label=961]
+	"Rose Kirkwood (3921)" [label="Rose Kirkwood (3921)
+Family First"]
 	"Rod Jeanneret (1490)" -> "Frida Katherine Forsberg (3922)" [label=554]
+	"Rod Jeanneret (1490)" -> "Rose Kirkwood (3921)" [label=961]
+	"Rose Kirkwood (3921)" -> "Frida Katherine Forsberg (3922)" [label=1838]
 }

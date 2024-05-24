@@ -2,10 +2,10 @@
 digraph "Palitja Moore (3262)_Kingston_2010" {
 	graph [label="Kingston 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Palitja Moore (3262)" [label="Palitja Moore (3262)
-The Greens"]
 	"Geoff Doecke (2470)" [label="Geoff Doecke (2470)
 Family First"]
+	"Palitja Moore (3262)" [label="Palitja Moore (3262)
+The Greens"]
 	"Ron Baker (4007)" [label="Ron Baker (4007)
 Australian Democrats"]
 	"Geoff Doecke (2470)" -> "Palitja Moore (3262)" [label=1471]

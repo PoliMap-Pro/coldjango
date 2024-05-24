@@ -4,16 +4,16 @@ digraph "Debbie Hudson (4484)_Solomon_2007" {
 	node [shape=box]
 	"Debbie Hudson (4484)" [label="Debbie Hudson (4484)
 The Greens"]
-	"Maurice Foley (4483)" [label="Maurice Foley (4483)
-Independent"]
 	"Jacques Chester (4481)" [label="Jacques Chester (4481)
 LDP"]
+	"Maurice Foley (4483)" [label="Maurice Foley (4483)
+Independent"]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]
-	"Maurice Foley (4483)" -> "Debbie Hudson (4484)" [label=338]
-	"Jacques Chester (4481)" -> "Maurice Foley (4483)" [label=65]
-	"Trudy Campbell (3048)" -> "Jacques Chester (4481)" [label=49]
 	"Jacques Chester (4481)" -> "Debbie Hudson (4484)" [label=68]
+	"Jacques Chester (4481)" -> "Maurice Foley (4483)" [label=65]
+	"Maurice Foley (4483)" -> "Debbie Hudson (4484)" [label=338]
 	"Trudy Campbell (3048)" -> "Debbie Hudson (4484)" [label=40]
+	"Trudy Campbell (3048)" -> "Jacques Chester (4481)" [label=49]
 	"Trudy Campbell (3048)" -> "Maurice Foley (4483)" [label=33]
 }

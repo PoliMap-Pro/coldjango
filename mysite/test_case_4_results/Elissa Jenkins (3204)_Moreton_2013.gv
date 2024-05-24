@@ -2,39 +2,39 @@
 digraph "Elissa Jenkins (3204)_Moreton_2013" {
 	graph [label="Moreton 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
-The Greens"]
-	"Jeremy Peter Davey (3202)" [label="Jeremy Peter Davey (3202)
-Palmer United Party"]
+	"Bruce Mayburn Fry (3203)" [label="Bruce Mayburn Fry (3203)
+Rise Up Australia Party"]
 	"Carolyn Ferrando (3200)" [label="Carolyn Ferrando (3200)
 Family First"]
 	"Chris Allan Mallcott (3198)" [label="Chris Allan Mallcott (3198)
 Katter's Australian Party"]
+	"Elissa Jenkins (3204)" [label="Elissa Jenkins (3204)
+The Greens"]
 	"Hayden Muscat (3199)" [label="Hayden Muscat (3199)
 Future Party"]
-	"Bruce Mayburn Fry (3203)" [label="Bruce Mayburn Fry (3203)
-Rise Up Australia Party"]
+	"Jeremy Peter Davey (3202)" [label="Jeremy Peter Davey (3202)
+Palmer United Party"]
 	"Wayne J M Grunert (3197)" [label="Wayne J M Grunert (3197)
 Citizens Electoral Council"]
-	"Jeremy Peter Davey (3202)" -> "Elissa Jenkins (3204)" [label=1561]
+	"Bruce Mayburn Fry (3203)" -> "Carolyn Ferrando (3200)" [label=98]
+	"Bruce Mayburn Fry (3203)" -> "Chris Allan Mallcott (3198)" [label=28]
+	"Bruce Mayburn Fry (3203)" -> "Elissa Jenkins (3204)" [label=43]
+	"Bruce Mayburn Fry (3203)" -> "Hayden Muscat (3199)" [label=31]
+	"Bruce Mayburn Fry (3203)" -> "Jeremy Peter Davey (3202)" [label=50]
+	"Carolyn Ferrando (3200)" -> "Elissa Jenkins (3204)" [label=257]
 	"Carolyn Ferrando (3200)" -> "Jeremy Peter Davey (3202)" [label=383]
 	"Chris Allan Mallcott (3198)" -> "Carolyn Ferrando (3200)" [label=193]
-	"Hayden Muscat (3199)" -> "Chris Allan Mallcott (3198)" [label=61]
-	"Bruce Mayburn Fry (3203)" -> "Hayden Muscat (3199)" [label=31]
-	"Wayne J M Grunert (3197)" -> "Bruce Mayburn Fry (3203)" [label=14]
-	"Carolyn Ferrando (3200)" -> "Elissa Jenkins (3204)" [label=257]
 	"Chris Allan Mallcott (3198)" -> "Elissa Jenkins (3204)" [label=112]
+	"Chris Allan Mallcott (3198)" -> "Jeremy Peter Davey (3202)" [label=411]
+	"Hayden Muscat (3199)" -> "Carolyn Ferrando (3200)" [label=75]
+	"Hayden Muscat (3199)" -> "Chris Allan Mallcott (3198)" [label=61]
 	"Hayden Muscat (3199)" -> "Elissa Jenkins (3204)" [label=192]
-	"Bruce Mayburn Fry (3203)" -> "Elissa Jenkins (3204)" [label=43]
+	"Hayden Muscat (3199)" -> "Jeremy Peter Davey (3202)" [label=53]
+	"Jeremy Peter Davey (3202)" -> "Elissa Jenkins (3204)" [label=1561]
+	"Wayne J M Grunert (3197)" -> "Bruce Mayburn Fry (3203)" [label=14]
+	"Wayne J M Grunert (3197)" -> "Carolyn Ferrando (3200)" [label=18]
+	"Wayne J M Grunert (3197)" -> "Chris Allan Mallcott (3198)" [label=34]
 	"Wayne J M Grunert (3197)" -> "Elissa Jenkins (3204)" [label=8]
 	"Wayne J M Grunert (3197)" -> "Hayden Muscat (3199)" [label=50]
-	"Bruce Mayburn Fry (3203)" -> "Chris Allan Mallcott (3198)" [label=28]
-	"Wayne J M Grunert (3197)" -> "Chris Allan Mallcott (3198)" [label=34]
-	"Hayden Muscat (3199)" -> "Carolyn Ferrando (3200)" [label=75]
-	"Bruce Mayburn Fry (3203)" -> "Carolyn Ferrando (3200)" [label=98]
-	"Wayne J M Grunert (3197)" -> "Carolyn Ferrando (3200)" [label=18]
-	"Chris Allan Mallcott (3198)" -> "Jeremy Peter Davey (3202)" [label=411]
-	"Hayden Muscat (3199)" -> "Jeremy Peter Davey (3202)" [label=53]
-	"Bruce Mayburn Fry (3203)" -> "Jeremy Peter Davey (3202)" [label=50]
 	"Wayne J M Grunert (3197)" -> "Jeremy Peter Davey (3202)" [label=14]
 }

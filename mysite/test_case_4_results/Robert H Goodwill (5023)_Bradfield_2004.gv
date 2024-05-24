@@ -2,10 +2,10 @@
 digraph "Robert H Goodwill (5023)_Bradfield_2004" {
 	graph [label="Bradfield 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert H Goodwill (5023)" [label="Robert H Goodwill (5023)
-The Greens"]
 	"Jeannette Tsoulos (5025)" [label="Jeannette Tsoulos (5025)
 Australian Democrats"]
+	"Robert H Goodwill (5023)" [label="Robert H Goodwill (5023)
+The Greens"]
 	"Sarah Montgomery (5024)" [label="Sarah Montgomery (5024)
 Family First"]
 	"Jeannette Tsoulos (5025)" -> "Robert H Goodwill (5023)" [label=916]

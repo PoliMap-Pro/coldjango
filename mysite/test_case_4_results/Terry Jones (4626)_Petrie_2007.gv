@@ -2,24 +2,24 @@
 digraph "Terry Jones (4626)_Petrie_2007" {
 	graph [label="Petrie 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Terry Jones (4626)" [label="Terry Jones (4626)
-The Greens"]
-	"Sally Vincent (3969)" [label="Sally Vincent (3969)
-Family First"]
 	"Bruce Carnwell (4628)" [label="Bruce Carnwell (4628)
 Democrats"]
-	"Peter Britt (4629)" [label="Peter Britt (4629)
-Christian Democratic Party (Fred Nile Group)"]
 	"Michael James Pope (4627)" [label="Michael James Pope (4627)
 LDP"]
-	"Sally Vincent (3969)" -> "Terry Jones (4626)" [label=446]
+	"Peter Britt (4629)" [label="Peter Britt (4629)
+Christian Democratic Party (Fred Nile Group)"]
+	"Sally Vincent (3969)" [label="Sally Vincent (3969)
+Family First"]
+	"Terry Jones (4626)" [label="Terry Jones (4626)
+The Greens"]
 	"Bruce Carnwell (4628)" -> "Sally Vincent (3969)" [label=95]
-	"Peter Britt (4629)" -> "Bruce Carnwell (4628)" [label=72]
-	"Michael James Pope (4627)" -> "Peter Britt (4629)" [label=12]
 	"Bruce Carnwell (4628)" -> "Terry Jones (4626)" [label=369]
-	"Peter Britt (4629)" -> "Terry Jones (4626)" [label=40]
-	"Michael James Pope (4627)" -> "Terry Jones (4626)" [label=69]
 	"Michael James Pope (4627)" -> "Bruce Carnwell (4628)" [label=26]
-	"Peter Britt (4629)" -> "Sally Vincent (3969)" [label=180]
+	"Michael James Pope (4627)" -> "Peter Britt (4629)" [label=12]
 	"Michael James Pope (4627)" -> "Sally Vincent (3969)" [label=36]
+	"Michael James Pope (4627)" -> "Terry Jones (4626)" [label=69]
+	"Peter Britt (4629)" -> "Bruce Carnwell (4628)" [label=72]
+	"Peter Britt (4629)" -> "Sally Vincent (3969)" [label=180]
+	"Peter Britt (4629)" -> "Terry Jones (4626)" [label=40]
+	"Sally Vincent (3969)" -> "Terry Jones (4626)" [label=446]
 }

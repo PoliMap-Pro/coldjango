@@ -2,9 +2,9 @@
 digraph "Jane Oakley (3004)_Shortland_2013" {
 	graph [label="Shortland 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jane Oakley (3004)" [label="Jane Oakley (3004)
-The Greens"]
 	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
 Christian Democratic Party (Fred Nile Group)"]
+	"Jane Oakley (3004)" [label="Jane Oakley (3004)
+The Greens"]
 	"Andrew Weatherstone (2133)" -> "Jane Oakley (3004)" [label=109]
 }

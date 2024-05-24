@@ -2,39 +2,39 @@
 digraph "Richard Nielsen (5290)_Brisbane_2004" {
 	graph [label="Brisbane 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Richard Nielsen (5290)" [label="Richard Nielsen (5290)
-The Greens"]
-	"Nick Withycombe (5292)" [label="Nick Withycombe (5292)
-The Nationals"]
 	"Charles Newington (5294)" [label="Charles Newington (5294)
 Family First"]
-	"Tracy Schrader (5291)" [label="Tracy Schrader (5291)
-Australian Democrats"]
-	"J F Barnes (5289)" [label="J F Barnes (5289)
-Independent"]
 	"Coral Wynter (5293)" [label="Coral Wynter (5293)
 Socialist Alliance"]
+	"J F Barnes (5289)" [label="J F Barnes (5289)
+Independent"]
 	"Nick Contarino (3175)" [label="Nick Contarino (3175)
 Citizens Electoral Council"]
-	"Nick Withycombe (5292)" -> "Richard Nielsen (5290)" [label=287]
+	"Nick Withycombe (5292)" [label="Nick Withycombe (5292)
+The Nationals"]
+	"Richard Nielsen (5290)" [label="Richard Nielsen (5290)
+The Greens"]
+	"Tracy Schrader (5291)" [label="Tracy Schrader (5291)
+Australian Democrats"]
 	"Charles Newington (5294)" -> "Nick Withycombe (5292)" [label=952]
-	"Tracy Schrader (5291)" -> "Charles Newington (5294)" [label=66]
-	"J F Barnes (5289)" -> "Tracy Schrader (5291)" [label=111]
-	"Coral Wynter (5293)" -> "J F Barnes (5289)" [label=25]
-	"Nick Contarino (3175)" -> "Coral Wynter (5293)" [label=8]
 	"Charles Newington (5294)" -> "Richard Nielsen (5290)" [label=280]
-	"Tracy Schrader (5291)" -> "Richard Nielsen (5290)" [label=586]
-	"J F Barnes (5289)" -> "Richard Nielsen (5290)" [label=233]
-	"Coral Wynter (5293)" -> "Richard Nielsen (5290)" [label=165]
-	"Nick Contarino (3175)" -> "Richard Nielsen (5290)" [label=11]
-	"Nick Contarino (3175)" -> "J F Barnes (5289)" [label=14]
-	"Coral Wynter (5293)" -> "Tracy Schrader (5291)" [label=24]
-	"Nick Contarino (3175)" -> "Tracy Schrader (5291)" [label=9]
-	"J F Barnes (5289)" -> "Charles Newington (5294)" [label=105]
 	"Coral Wynter (5293)" -> "Charles Newington (5294)" [label=25]
-	"Nick Contarino (3175)" -> "Charles Newington (5294)" [label=10]
-	"Tracy Schrader (5291)" -> "Nick Withycombe (5292)" [label=102]
-	"J F Barnes (5289)" -> "Nick Withycombe (5292)" [label=56]
+	"Coral Wynter (5293)" -> "J F Barnes (5289)" [label=25]
 	"Coral Wynter (5293)" -> "Nick Withycombe (5292)" [label=9]
+	"Coral Wynter (5293)" -> "Richard Nielsen (5290)" [label=165]
+	"Coral Wynter (5293)" -> "Tracy Schrader (5291)" [label=24]
+	"J F Barnes (5289)" -> "Charles Newington (5294)" [label=105]
+	"J F Barnes (5289)" -> "Nick Withycombe (5292)" [label=56]
+	"J F Barnes (5289)" -> "Richard Nielsen (5290)" [label=233]
+	"J F Barnes (5289)" -> "Tracy Schrader (5291)" [label=111]
+	"Nick Contarino (3175)" -> "Charles Newington (5294)" [label=10]
+	"Nick Contarino (3175)" -> "Coral Wynter (5293)" [label=8]
+	"Nick Contarino (3175)" -> "J F Barnes (5289)" [label=14]
 	"Nick Contarino (3175)" -> "Nick Withycombe (5292)" [label=7]
+	"Nick Contarino (3175)" -> "Richard Nielsen (5290)" [label=11]
+	"Nick Contarino (3175)" -> "Tracy Schrader (5291)" [label=9]
+	"Nick Withycombe (5292)" -> "Richard Nielsen (5290)" [label=287]
+	"Tracy Schrader (5291)" -> "Charles Newington (5294)" [label=66]
+	"Tracy Schrader (5291)" -> "Nick Withycombe (5292)" [label=102]
+	"Tracy Schrader (5291)" -> "Richard Nielsen (5290)" [label=586]
 }

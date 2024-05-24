@@ -2,18 +2,18 @@
 digraph "Tania Giles (5513)_Bruce_2004" {
 	graph [label="Bruce 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tania Giles (5513)" [label="Tania Giles (5513)
-Australian Greens"]
-	"Richard Warner (5514)" [label="Richard Warner (5514)
-Family First"]
 	"Paul Van Den Bergen (5515)" [label="Paul Van Den Bergen (5515)
 Democrats"]
+	"Richard Warner (5514)" [label="Richard Warner (5514)
+Family First"]
+	"Tania Giles (5513)" [label="Tania Giles (5513)
+Australian Greens"]
 	"William Larner (5516)" [label="William Larner (5516)
 Citizens Electoral Council"]
-	"Richard Warner (5514)" -> "Tania Giles (5513)" [label=505]
 	"Paul Van Den Bergen (5515)" -> "Richard Warner (5514)" [label=177]
-	"William Larner (5516)" -> "Paul Van Den Bergen (5515)" [label=61]
 	"Paul Van Den Bergen (5515)" -> "Tania Giles (5513)" [label=435]
-	"William Larner (5516)" -> "Tania Giles (5513)" [label=36]
+	"Richard Warner (5514)" -> "Tania Giles (5513)" [label=505]
+	"William Larner (5516)" -> "Paul Van Den Bergen (5515)" [label=61]
 	"William Larner (5516)" -> "Richard Warner (5514)" [label=53]
+	"William Larner (5516)" -> "Tania Giles (5513)" [label=36]
 }

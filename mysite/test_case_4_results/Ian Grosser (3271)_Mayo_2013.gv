@@ -2,13 +2,13 @@
 digraph "Ian Grosser (3271)_Mayo_2013" {
 	graph [label="Mayo 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian Grosser (3271)" [label="Ian Grosser (3271)
-Australian Greens"]
-	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
-Family First"]
 	"Bikkar Singh Brar (3269)" [label="Bikkar Singh Brar (3269)
 Palmer United Party"]
-	"Bruce Hicks (2483)" -> "Ian Grosser (3271)" [label=1904]
+	"Bruce Hicks (2483)" [label="Bruce Hicks (2483)
+Family First"]
+	"Ian Grosser (3271)" [label="Ian Grosser (3271)
+Australian Greens"]
 	"Bikkar Singh Brar (3269)" -> "Bruce Hicks (2483)" [label=1147]
 	"Bikkar Singh Brar (3269)" -> "Ian Grosser (3271)" [label=570]
+	"Bruce Hicks (2483)" -> "Ian Grosser (3271)" [label=1904]
 }

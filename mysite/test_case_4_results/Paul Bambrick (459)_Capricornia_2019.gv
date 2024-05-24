@@ -2,31 +2,31 @@
 digraph "Paul Bambrick (459)_Capricornia_2019" {
 	graph [label="Capricornia 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Bambrick (459)" [label="Paul Bambrick (459)
-The Greens"]
 	"George Birkbeck (1493)" [label="George Birkbeck (1493)
 Katter's Australian Party (KAP)"]
-	"Lindsay Sturgeon (1496)" [label="Lindsay Sturgeon (1496)
-United Australia Party"]
-	"Ken Murray (416)" [label="Ken Murray (416)
-Independent"]
 	"Grant Pratt (1497)" [label="Grant Pratt (1497)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Ken Murray (416)" [label="Ken Murray (416)
+Independent"]
+	"Lindsay Sturgeon (1496)" [label="Lindsay Sturgeon (1496)
+United Australia Party"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+The Greens"]
 	"Richard Temple (1494)" [label="Richard Temple (1494)
 Labour DLP"]
 	"George Birkbeck (1493)" -> "Paul Bambrick (459)" [label=498]
-	"Lindsay Sturgeon (1496)" -> "George Birkbeck (1493)" [label=641]
-	"Ken Murray (416)" -> "Lindsay Sturgeon (1496)" [label=279]
-	"Grant Pratt (1497)" -> "Ken Murray (416)" [label=317]
-	"Richard Temple (1494)" -> "Grant Pratt (1497)" [label=44]
-	"Lindsay Sturgeon (1496)" -> "Paul Bambrick (459)" [label=212]
-	"Ken Murray (416)" -> "Paul Bambrick (459)" [label=346]
-	"Grant Pratt (1497)" -> "Paul Bambrick (459)" [label=50]
-	"Richard Temple (1494)" -> "Paul Bambrick (459)" [label=264]
-	"Richard Temple (1494)" -> "Ken Murray (416)" [label=188]
-	"Grant Pratt (1497)" -> "Lindsay Sturgeon (1496)" [label=327]
-	"Richard Temple (1494)" -> "Lindsay Sturgeon (1496)" [label=49]
-	"Ken Murray (416)" -> "George Birkbeck (1493)" [label=680]
 	"Grant Pratt (1497)" -> "George Birkbeck (1493)" [label=253]
+	"Grant Pratt (1497)" -> "Ken Murray (416)" [label=317]
+	"Grant Pratt (1497)" -> "Lindsay Sturgeon (1496)" [label=327]
+	"Grant Pratt (1497)" -> "Paul Bambrick (459)" [label=50]
+	"Ken Murray (416)" -> "George Birkbeck (1493)" [label=680]
+	"Ken Murray (416)" -> "Lindsay Sturgeon (1496)" [label=279]
+	"Ken Murray (416)" -> "Paul Bambrick (459)" [label=346]
+	"Lindsay Sturgeon (1496)" -> "George Birkbeck (1493)" [label=641]
+	"Lindsay Sturgeon (1496)" -> "Paul Bambrick (459)" [label=212]
 	"Richard Temple (1494)" -> "George Birkbeck (1493)" [label=174]
+	"Richard Temple (1494)" -> "Grant Pratt (1497)" [label=44]
+	"Richard Temple (1494)" -> "Ken Murray (416)" [label=188]
+	"Richard Temple (1494)" -> "Lindsay Sturgeon (1496)" [label=49]
+	"Richard Temple (1494)" -> "Paul Bambrick (459)" [label=264]
 }

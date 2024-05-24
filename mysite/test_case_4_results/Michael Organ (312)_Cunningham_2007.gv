@@ -2,24 +2,24 @@
 digraph "Michael Organ (312)_Cunningham_2007" {
 	graph [label="Cunningham 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Organ (312)" [label="Michael Organ (312)
-The Greens"]
-	"Nolene Norsworthy (3782)" [label="Nolene Norsworthy (3782)
-Christian Democratic Party (Fred Nile Group)"]
 	"Jemma Tribe (4291)" [label="Jemma Tribe (4291)
 Family First"]
 	"Jess Moore (3721)" [label="Jess Moore (3721)
 Socialist Alliance"]
 	"John Flanagan (1270)" [label="John Flanagan (1270)
 Non-Custodial Parents Party (Equal Parenting)"]
-	"Nolene Norsworthy (3782)" -> "Michael Organ (312)" [label=462]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Nolene Norsworthy (3782)" [label="Nolene Norsworthy (3782)
+Christian Democratic Party (Fred Nile Group)"]
+	"Jemma Tribe (4291)" -> "Michael Organ (312)" [label=364]
 	"Jemma Tribe (4291)" -> "Nolene Norsworthy (3782)" [label=397]
 	"Jess Moore (3721)" -> "Jemma Tribe (4291)" [label=87]
-	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=44]
-	"Jemma Tribe (4291)" -> "Michael Organ (312)" [label=364]
 	"Jess Moore (3721)" -> "Michael Organ (312)" [label=472]
-	"John Flanagan (1270)" -> "Michael Organ (312)" [label=79]
-	"John Flanagan (1270)" -> "Jemma Tribe (4291)" [label=80]
 	"Jess Moore (3721)" -> "Nolene Norsworthy (3782)" [label=47]
+	"John Flanagan (1270)" -> "Jemma Tribe (4291)" [label=80]
+	"John Flanagan (1270)" -> "Jess Moore (3721)" [label=44]
+	"John Flanagan (1270)" -> "Michael Organ (312)" [label=79]
 	"John Flanagan (1270)" -> "Nolene Norsworthy (3782)" [label=105]
+	"Nolene Norsworthy (3782)" -> "Michael Organ (312)" [label=462]
 }

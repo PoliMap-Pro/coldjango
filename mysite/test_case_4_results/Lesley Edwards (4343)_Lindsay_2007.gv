@@ -2,31 +2,31 @@
 digraph "Lesley Edwards (4343)_Lindsay_2007" {
 	graph [label="Lindsay 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lesley Edwards (4343)" [label="Lesley Edwards (4343)
-The Greens"]
 	"Andrew Green (2915)" [label="Andrew Green (2915)
 Christian Democratic Party (Fred Nile Group)"]
-	"Lisa Harrold (4345)" [label="Lisa Harrold (4345)
-Independent"]
+	"Grant Bayley (4342)" [label="Grant Bayley (4342)
+LDP"]
 	"Iris Muller (3754)" [label="Iris Muller (3754)
 Family First"]
 	"Kerry Mcnally (4346)" [label="Kerry Mcnally (4346)
 Independent"]
-	"Grant Bayley (4342)" [label="Grant Bayley (4342)
-LDP"]
+	"Lesley Edwards (4343)" [label="Lesley Edwards (4343)
+The Greens"]
+	"Lisa Harrold (4345)" [label="Lisa Harrold (4345)
+Independent"]
 	"Andrew Green (2915)" -> "Lesley Edwards (4343)" [label=466]
-	"Lisa Harrold (4345)" -> "Andrew Green (2915)" [label=242]
-	"Iris Muller (3754)" -> "Lisa Harrold (4345)" [label=213]
-	"Kerry Mcnally (4346)" -> "Iris Muller (3754)" [label=82]
-	"Grant Bayley (4342)" -> "Kerry Mcnally (4346)" [label=34]
-	"Lisa Harrold (4345)" -> "Lesley Edwards (4343)" [label=477]
-	"Iris Muller (3754)" -> "Lesley Edwards (4343)" [label=195]
-	"Kerry Mcnally (4346)" -> "Lesley Edwards (4343)" [label=82]
-	"Grant Bayley (4342)" -> "Lesley Edwards (4343)" [label=408]
+	"Grant Bayley (4342)" -> "Andrew Green (2915)" [label=19]
 	"Grant Bayley (4342)" -> "Iris Muller (3754)" [label=26]
-	"Kerry Mcnally (4346)" -> "Lisa Harrold (4345)" [label=237]
+	"Grant Bayley (4342)" -> "Kerry Mcnally (4346)" [label=34]
+	"Grant Bayley (4342)" -> "Lesley Edwards (4343)" [label=408]
 	"Grant Bayley (4342)" -> "Lisa Harrold (4345)" [label=41]
 	"Iris Muller (3754)" -> "Andrew Green (2915)" [label=181]
+	"Iris Muller (3754)" -> "Lesley Edwards (4343)" [label=195]
+	"Iris Muller (3754)" -> "Lisa Harrold (4345)" [label=213]
 	"Kerry Mcnally (4346)" -> "Andrew Green (2915)" [label=62]
-	"Grant Bayley (4342)" -> "Andrew Green (2915)" [label=19]
+	"Kerry Mcnally (4346)" -> "Iris Muller (3754)" [label=82]
+	"Kerry Mcnally (4346)" -> "Lesley Edwards (4343)" [label=82]
+	"Kerry Mcnally (4346)" -> "Lisa Harrold (4345)" [label=237]
+	"Lisa Harrold (4345)" -> "Andrew Green (2915)" [label=242]
+	"Lisa Harrold (4345)" -> "Lesley Edwards (4343)" [label=477]
 }

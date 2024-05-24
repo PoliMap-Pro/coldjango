@@ -2,39 +2,39 @@
 digraph "Simone Collins (1929)_Burt_2019" {
 	graph [label="Burt 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Simone Collins (1929)" [label="Simone Collins (1929)
-The Greens (WA)"]
+	"Naomi Nation (1932)" [label="Naomi Nation (1932)
+Independent"]
 	"Nicole Devincentis (1930)" [label="Nicole Devincentis (1930)
 Pauline Hanson's One Nation"]
-	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
-Australian Christians"]
 	"Peter Joseph Raffaelli (1934)" [label="Peter Joseph Raffaelli (1934)
 Shooters, Fishers and Farmers"]
 	"Sahil Chawla (1933)" [label="Sahil Chawla (1933)
 United Australia Party"]
-	"Naomi Nation (1932)" [label="Naomi Nation (1932)
-Independent"]
 	"Sarcha Sagisaka (1931)" [label="Sarcha Sagisaka (1931)
 WESTERN AUSTRALIA PARTY"]
-	"Nicole Devincentis (1930)" -> "Simone Collins (1929)" [label=2022]
-	"Warnar Spyker (1080)" -> "Nicole Devincentis (1930)" [label=635]
-	"Peter Joseph Raffaelli (1934)" -> "Warnar Spyker (1080)" [label=502]
-	"Sahil Chawla (1933)" -> "Peter Joseph Raffaelli (1934)" [label=243]
-	"Naomi Nation (1932)" -> "Sahil Chawla (1933)" [label=108]
-	"Sarcha Sagisaka (1931)" -> "Naomi Nation (1932)" [label=175]
-	"Warnar Spyker (1080)" -> "Simone Collins (1929)" [label=399]
-	"Peter Joseph Raffaelli (1934)" -> "Simone Collins (1929)" [label=406]
-	"Sahil Chawla (1933)" -> "Simone Collins (1929)" [label=261]
-	"Naomi Nation (1932)" -> "Simone Collins (1929)" [label=303]
-	"Sarcha Sagisaka (1931)" -> "Simone Collins (1929)" [label=124]
-	"Sarcha Sagisaka (1931)" -> "Sahil Chawla (1933)" [label=75]
-	"Naomi Nation (1932)" -> "Peter Joseph Raffaelli (1934)" [label=191]
-	"Sarcha Sagisaka (1931)" -> "Peter Joseph Raffaelli (1934)" [label=90]
-	"Sahil Chawla (1933)" -> "Warnar Spyker (1080)" [label=161]
-	"Naomi Nation (1932)" -> "Warnar Spyker (1080)" [label=75]
-	"Sarcha Sagisaka (1931)" -> "Warnar Spyker (1080)" [label=41]
-	"Peter Joseph Raffaelli (1934)" -> "Nicole Devincentis (1930)" [label=773]
-	"Sahil Chawla (1933)" -> "Nicole Devincentis (1930)" [label=526]
+	"Simone Collins (1929)" [label="Simone Collins (1929)
+The Greens (WA)"]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
 	"Naomi Nation (1932)" -> "Nicole Devincentis (1930)" [label=172]
+	"Naomi Nation (1932)" -> "Peter Joseph Raffaelli (1934)" [label=191]
+	"Naomi Nation (1932)" -> "Sahil Chawla (1933)" [label=108]
+	"Naomi Nation (1932)" -> "Simone Collins (1929)" [label=303]
+	"Naomi Nation (1932)" -> "Warnar Spyker (1080)" [label=75]
+	"Nicole Devincentis (1930)" -> "Simone Collins (1929)" [label=2022]
+	"Peter Joseph Raffaelli (1934)" -> "Nicole Devincentis (1930)" [label=773]
+	"Peter Joseph Raffaelli (1934)" -> "Simone Collins (1929)" [label=406]
+	"Peter Joseph Raffaelli (1934)" -> "Warnar Spyker (1080)" [label=502]
+	"Sahil Chawla (1933)" -> "Nicole Devincentis (1930)" [label=526]
+	"Sahil Chawla (1933)" -> "Peter Joseph Raffaelli (1934)" [label=243]
+	"Sahil Chawla (1933)" -> "Simone Collins (1929)" [label=261]
+	"Sahil Chawla (1933)" -> "Warnar Spyker (1080)" [label=161]
+	"Sarcha Sagisaka (1931)" -> "Naomi Nation (1932)" [label=175]
 	"Sarcha Sagisaka (1931)" -> "Nicole Devincentis (1930)" [label=134]
+	"Sarcha Sagisaka (1931)" -> "Peter Joseph Raffaelli (1934)" [label=90]
+	"Sarcha Sagisaka (1931)" -> "Sahil Chawla (1933)" [label=75]
+	"Sarcha Sagisaka (1931)" -> "Simone Collins (1929)" [label=124]
+	"Sarcha Sagisaka (1931)" -> "Warnar Spyker (1080)" [label=41]
+	"Warnar Spyker (1080)" -> "Nicole Devincentis (1930)" [label=635]
+	"Warnar Spyker (1080)" -> "Simone Collins (1929)" [label=399]
 }

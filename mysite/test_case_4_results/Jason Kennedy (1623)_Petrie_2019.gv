@@ -4,11 +4,11 @@ digraph "Jason Kennedy (1623)_Petrie_2019" {
 	node [shape=box]
 	"Jason Kennedy (1623)" [label="Jason Kennedy (1623)
 The Greens"]
-	"Troy Hopkins (1619)" [label="Troy Hopkins (1619)
-United Australia Party"]
 	"Neville John Fowler (1622)" [label="Neville John Fowler (1622)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Troy Hopkins (1619)" -> "Jason Kennedy (1623)" [label=379]
-	"Neville John Fowler (1622)" -> "Troy Hopkins (1619)" [label=261]
+	"Troy Hopkins (1619)" [label="Troy Hopkins (1619)
+United Australia Party"]
 	"Neville John Fowler (1622)" -> "Jason Kennedy (1623)" [label=202]
+	"Neville John Fowler (1622)" -> "Troy Hopkins (1619)" [label=261]
+	"Troy Hopkins (1619)" -> "Jason Kennedy (1623)" [label=379]
 }

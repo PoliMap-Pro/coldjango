@@ -4,29 +4,29 @@ digraph "Andy Huntley (4204)_O'Connor_2010" {
 	node [shape=box]
 	"Andy Huntley (4204)" [label="Andy Huntley (4204)
 The Greens"]
+	"Geoffrey Stokes (4209)" [label="Geoffrey Stokes (4209)
+Independent"]
 	"Jacky Young (4207)" [label="Jacky Young (4207)
 Christian Democratic Party"]
-	"Geoffrey Stokes (4209)" [label="Geoffrey Stokes (4209)
+	"Jean Robinson (3629)" [label="Jean Robinson (3629)
+Citizens Electoral Council"]
+	"Neil Ramsay Smithson (4211)" [label="Neil Ramsay Smithson (4211)
 Independent"]
 	"Pat Scallan (4206)" [label="Pat Scallan (4206)
 Family First"]
-	"Neil Ramsay Smithson (4211)" [label="Neil Ramsay Smithson (4211)
-Independent"]
-	"Jean Robinson (3629)" [label="Jean Robinson (3629)
-Citizens Electoral Council"]
-	"Jacky Young (4207)" -> "Andy Huntley (4204)" [label=307]
-	"Geoffrey Stokes (4209)" -> "Jacky Young (4207)" [label=238]
-	"Pat Scallan (4206)" -> "Geoffrey Stokes (4209)" [label=137]
-	"Neil Ramsay Smithson (4211)" -> "Pat Scallan (4206)" [label=27]
-	"Jean Robinson (3629)" -> "Neil Ramsay Smithson (4211)" [label=25]
 	"Geoffrey Stokes (4209)" -> "Andy Huntley (4204)" [label=445]
-	"Pat Scallan (4206)" -> "Andy Huntley (4204)" [label=226]
-	"Neil Ramsay Smithson (4211)" -> "Andy Huntley (4204)" [label=66]
+	"Geoffrey Stokes (4209)" -> "Jacky Young (4207)" [label=238]
+	"Jacky Young (4207)" -> "Andy Huntley (4204)" [label=307]
 	"Jean Robinson (3629)" -> "Andy Huntley (4204)" [label=85]
-	"Jean Robinson (3629)" -> "Pat Scallan (4206)" [label=72]
-	"Neil Ramsay Smithson (4211)" -> "Geoffrey Stokes (4209)" [label=220]
 	"Jean Robinson (3629)" -> "Geoffrey Stokes (4209)" [label=19]
-	"Pat Scallan (4206)" -> "Jacky Young (4207)" [label=350]
-	"Neil Ramsay Smithson (4211)" -> "Jacky Young (4207)" [label=17]
 	"Jean Robinson (3629)" -> "Jacky Young (4207)" [label=37]
+	"Jean Robinson (3629)" -> "Neil Ramsay Smithson (4211)" [label=25]
+	"Jean Robinson (3629)" -> "Pat Scallan (4206)" [label=72]
+	"Neil Ramsay Smithson (4211)" -> "Andy Huntley (4204)" [label=66]
+	"Neil Ramsay Smithson (4211)" -> "Geoffrey Stokes (4209)" [label=220]
+	"Neil Ramsay Smithson (4211)" -> "Jacky Young (4207)" [label=17]
+	"Neil Ramsay Smithson (4211)" -> "Pat Scallan (4206)" [label=27]
+	"Pat Scallan (4206)" -> "Andy Huntley (4204)" [label=226]
+	"Pat Scallan (4206)" -> "Geoffrey Stokes (4209)" [label=137]
+	"Pat Scallan (4206)" -> "Jacky Young (4207)" [label=350]
 }

@@ -4,22 +4,22 @@ digraph "David Wyatt (4495)_Bonner_2007" {
 	node [shape=box]
 	"David Wyatt (4495)" [label="David Wyatt (4495)
 The Greens"]
-	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
-Family First"]
-	"Shane Boese (4494)" [label="Shane Boese (4494)
-The Fishing Party"]
-	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
-Democrats"]
 	"Lisa Charles (4491)" [label="Lisa Charles (4491)
 LDP"]
-	"Stephen Gellatly (4492)" -> "David Wyatt (4495)" [label=374]
-	"Shane Boese (4494)" -> "Stephen Gellatly (4492)" [label=208]
-	"Vicki Stocks (4493)" -> "Shane Boese (4494)" [label=66]
-	"Lisa Charles (4491)" -> "Vicki Stocks (4493)" [label=22]
-	"Shane Boese (4494)" -> "David Wyatt (4495)" [label=367]
-	"Vicki Stocks (4493)" -> "David Wyatt (4495)" [label=394]
+	"Shane Boese (4494)" [label="Shane Boese (4494)
+The Fishing Party"]
+	"Stephen Gellatly (4492)" [label="Stephen Gellatly (4492)
+Family First"]
+	"Vicki Stocks (4493)" [label="Vicki Stocks (4493)
+Democrats"]
 	"Lisa Charles (4491)" -> "David Wyatt (4495)" [label=20]
 	"Lisa Charles (4491)" -> "Shane Boese (4494)" [label=19]
-	"Vicki Stocks (4493)" -> "Stephen Gellatly (4492)" [label=65]
 	"Lisa Charles (4491)" -> "Stephen Gellatly (4492)" [label=22]
+	"Lisa Charles (4491)" -> "Vicki Stocks (4493)" [label=22]
+	"Shane Boese (4494)" -> "David Wyatt (4495)" [label=367]
+	"Shane Boese (4494)" -> "Stephen Gellatly (4492)" [label=208]
+	"Stephen Gellatly (4492)" -> "David Wyatt (4495)" [label=374]
+	"Vicki Stocks (4493)" -> "David Wyatt (4495)" [label=394]
+	"Vicki Stocks (4493)" -> "Shane Boese (4494)" [label=66]
+	"Vicki Stocks (4493)" -> "Stephen Gellatly (4492)" [label=65]
 }

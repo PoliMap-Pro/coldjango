@@ -4,11 +4,11 @@ digraph "Helen Robinson (1834)_Indi_2019" {
 	node [shape=box]
 	"Helen Robinson (1834)" [label="Helen Robinson (1834)
 The Greens (VIC)"]
-	"Shane Wheatland (1838)" [label="Shane Wheatland (1838)
-United Australia Party"]
 	"Jason Peter Whalley (1835)" [label="Jason Peter Whalley (1835)
 Derryn Hinch's Justice Party"]
-	"Shane Wheatland (1838)" -> "Helen Robinson (1834)" [label=243]
-	"Jason Peter Whalley (1835)" -> "Shane Wheatland (1838)" [label=440]
+	"Shane Wheatland (1838)" [label="Shane Wheatland (1838)
+United Australia Party"]
 	"Jason Peter Whalley (1835)" -> "Helen Robinson (1834)" [label=334]
+	"Jason Peter Whalley (1835)" -> "Shane Wheatland (1838)" [label=440]
+	"Shane Wheatland (1838)" -> "Helen Robinson (1834)" [label=243]
 }

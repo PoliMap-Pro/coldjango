@@ -9,6 +9,6 @@ D.L.P. - Democratic Labor Party"]
 	"Roger Howe (4849)" [label="Roger Howe (4849)
 Australian Democrats"]
 	"Libby Krepp (4847)" -> "Jay Tilley (4848)" [label=220]
-	"Roger Howe (4849)" -> "Libby Krepp (4847)" [label=109]
 	"Roger Howe (4849)" -> "Jay Tilley (4848)" [label=284]
+	"Roger Howe (4849)" -> "Libby Krepp (4847)" [label=109]
 }

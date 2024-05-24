@@ -2,31 +2,31 @@
 digraph "Ian James (2740)_Durack_2013" {
 	graph [label="Durack 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian James (2740)" [label="Ian James (2740)
-The Greens (WA)"]
-	"Grahame Gould (1952)" [label="Grahame Gould (1952)
-Australian Christians"]
-	"Shane Foreman (3594)" [label="Shane Foreman (3594)
-Rise Up Australia Party"]
 	"Aaron Todd (3599)" [label="Aaron Todd (3599)
 Katter's Australian Party"]
+	"Grahame Gould (1952)" [label="Grahame Gould (1952)
+Australian Christians"]
+	"Ian James (2740)" [label="Ian James (2740)
+The Greens (WA)"]
 	"Ian Rose (3597)" [label="Ian Rose (3597)
 Family First Party"]
 	"Judy F Sudholz (3596)" [label="Judy F Sudholz (3596)
 Citizens Electoral Council"]
-	"Grahame Gould (1952)" -> "Ian James (2740)" [label=132]
-	"Shane Foreman (3594)" -> "Grahame Gould (1952)" [label=327]
-	"Aaron Todd (3599)" -> "Shane Foreman (3594)" [label=74]
-	"Ian Rose (3597)" -> "Aaron Todd (3599)" [label=59]
-	"Judy F Sudholz (3596)" -> "Ian Rose (3597)" [label=20]
-	"Shane Foreman (3594)" -> "Ian James (2740)" [label=127]
-	"Aaron Todd (3599)" -> "Ian James (2740)" [label=53]
-	"Ian Rose (3597)" -> "Ian James (2740)" [label=103]
-	"Judy F Sudholz (3596)" -> "Ian James (2740)" [label=11]
-	"Judy F Sudholz (3596)" -> "Aaron Todd (3599)" [label=15]
-	"Ian Rose (3597)" -> "Shane Foreman (3594)" [label=80]
-	"Judy F Sudholz (3596)" -> "Shane Foreman (3594)" [label=32]
+	"Shane Foreman (3594)" [label="Shane Foreman (3594)
+Rise Up Australia Party"]
 	"Aaron Todd (3599)" -> "Grahame Gould (1952)" [label=51]
+	"Aaron Todd (3599)" -> "Ian James (2740)" [label=53]
+	"Aaron Todd (3599)" -> "Shane Foreman (3594)" [label=74]
+	"Grahame Gould (1952)" -> "Ian James (2740)" [label=132]
+	"Ian Rose (3597)" -> "Aaron Todd (3599)" [label=59]
 	"Ian Rose (3597)" -> "Grahame Gould (1952)" [label=134]
+	"Ian Rose (3597)" -> "Ian James (2740)" [label=103]
+	"Ian Rose (3597)" -> "Shane Foreman (3594)" [label=80]
+	"Judy F Sudholz (3596)" -> "Aaron Todd (3599)" [label=15]
 	"Judy F Sudholz (3596)" -> "Grahame Gould (1952)" [label=21]
+	"Judy F Sudholz (3596)" -> "Ian James (2740)" [label=11]
+	"Judy F Sudholz (3596)" -> "Ian Rose (3597)" [label=20]
+	"Judy F Sudholz (3596)" -> "Shane Foreman (3594)" [label=32]
+	"Shane Foreman (3594)" -> "Grahame Gould (1952)" [label=327]
+	"Shane Foreman (3594)" -> "Ian James (2740)" [label=127]
 }

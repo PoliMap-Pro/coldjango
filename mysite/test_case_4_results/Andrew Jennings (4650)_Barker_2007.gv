@@ -4,11 +4,11 @@ digraph "Andrew Jennings (4650)_Barker_2007" {
 	node [shape=box]
 	"Andrew Jennings (4650)" [label="Andrew Jennings (4650)
 The Greens"]
-	"Phil Cornish (4653)" [label="Phil Cornish (4653)
-Family First Party"]
 	"Justin Sneath (4649)" [label="Justin Sneath (4649)
 Australian Democrats"]
-	"Phil Cornish (4653)" -> "Andrew Jennings (4650)" [label=1066]
-	"Justin Sneath (4649)" -> "Phil Cornish (4653)" [label=193]
+	"Phil Cornish (4653)" [label="Phil Cornish (4653)
+Family First Party"]
 	"Justin Sneath (4649)" -> "Andrew Jennings (4650)" [label=987]
+	"Justin Sneath (4649)" -> "Phil Cornish (4653)" [label=193]
+	"Phil Cornish (4653)" -> "Andrew Jennings (4650)" [label=1066]
 }

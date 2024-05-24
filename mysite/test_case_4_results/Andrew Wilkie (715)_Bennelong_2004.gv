@@ -4,22 +4,22 @@ digraph "Andrew Wilkie (715)_Bennelong_2004" {
 	node [shape=box]
 	"Andrew Wilkie (715)" [label="Andrew Wilkie (715)
 The Greens"]
-	"Ray Levick (4260)" [label="Ray Levick (4260)
-Christian Democratic Party (Fred Nile Group)"]
 	"Gary Hannah (5008)" [label="Gary Hannah (5008)
 Independent"]
 	"Peter Goldfinch (5011)" [label="Peter Goldfinch (5011)
 Australian Democrats"]
+	"Ray Levick (4260)" [label="Ray Levick (4260)
+Christian Democratic Party (Fred Nile Group)"]
 	"Troy Rollo (5009)" [label="Troy Rollo (5009)
 Independent"]
-	"Ray Levick (4260)" -> "Andrew Wilkie (715)" [label=427]
-	"Gary Hannah (5008)" -> "Ray Levick (4260)" [label=161]
-	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
-	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
 	"Gary Hannah (5008)" -> "Andrew Wilkie (715)" [label=698]
+	"Gary Hannah (5008)" -> "Ray Levick (4260)" [label=161]
 	"Peter Goldfinch (5011)" -> "Andrew Wilkie (715)" [label=365]
+	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
+	"Peter Goldfinch (5011)" -> "Ray Levick (4260)" [label=44]
+	"Ray Levick (4260)" -> "Andrew Wilkie (715)" [label=427]
 	"Troy Rollo (5009)" -> "Andrew Wilkie (715)" [label=90]
 	"Troy Rollo (5009)" -> "Gary Hannah (5008)" [label=198]
-	"Peter Goldfinch (5011)" -> "Ray Levick (4260)" [label=44]
+	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
 	"Troy Rollo (5009)" -> "Ray Levick (4260)" [label=20]
 }

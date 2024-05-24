@@ -2,24 +2,24 @@
 digraph "Marella Pettinato (4541)_Flynn_2007" {
 	graph [label="Flynn 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Marella Pettinato (4541)" [label="Marella Pettinato (4541)
-The Greens"]
 	"Duncan Scott (462)" [label="Duncan Scott (462)
 Independent"]
-	"Phillip Martin Costello (4540)" [label="Phillip Martin Costello (4540)
-Independent"]
-	"Julie Noble (4538)" [label="Julie Noble (4538)
-Democrats"]
 	"Jarrah Job (4536)" [label="Jarrah Job (4536)
 LDP"]
+	"Julie Noble (4538)" [label="Julie Noble (4538)
+Democrats"]
+	"Marella Pettinato (4541)" [label="Marella Pettinato (4541)
+The Greens"]
+	"Phillip Martin Costello (4540)" [label="Phillip Martin Costello (4540)
+Independent"]
 	"Duncan Scott (462)" -> "Marella Pettinato (4541)" [label=426]
-	"Phillip Martin Costello (4540)" -> "Duncan Scott (462)" [label=559]
-	"Julie Noble (4538)" -> "Phillip Martin Costello (4540)" [label=77]
+	"Jarrah Job (4536)" -> "Duncan Scott (462)" [label=10]
 	"Jarrah Job (4536)" -> "Julie Noble (4538)" [label=9]
-	"Phillip Martin Costello (4540)" -> "Marella Pettinato (4541)" [label=27]
-	"Julie Noble (4538)" -> "Marella Pettinato (4541)" [label=88]
 	"Jarrah Job (4536)" -> "Marella Pettinato (4541)" [label=7]
 	"Jarrah Job (4536)" -> "Phillip Martin Costello (4540)" [label=11]
 	"Julie Noble (4538)" -> "Duncan Scott (462)" [label=43]
-	"Jarrah Job (4536)" -> "Duncan Scott (462)" [label=10]
+	"Julie Noble (4538)" -> "Marella Pettinato (4541)" [label=88]
+	"Julie Noble (4538)" -> "Phillip Martin Costello (4540)" [label=77]
+	"Phillip Martin Costello (4540)" -> "Duncan Scott (462)" [label=559]
+	"Phillip Martin Costello (4540)" -> "Marella Pettinato (4541)" [label=27]
 }

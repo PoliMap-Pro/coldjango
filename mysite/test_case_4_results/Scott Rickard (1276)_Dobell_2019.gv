@@ -2,18 +2,18 @@
 digraph "Scott Rickard (1276)_Dobell_2019" {
 	graph [label="Dobell 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Scott Rickard (1276)" [label="Scott Rickard (1276)
-The Greens"]
 	"Aaron Gregory Harpley-Carr (1273)" [label="Aaron Gregory Harpley-Carr (1273)
 United Australia Party"]
 	"Gregory Francis Stephenson (1277)" [label="Gregory Francis Stephenson (1277)
 Independent"]
 	"Paula Grundy (1274)" [label="Paula Grundy (1274)
 Christian Democratic Party (Fred Nile Group)"]
+	"Scott Rickard (1276)" [label="Scott Rickard (1276)
+The Greens"]
 	"Aaron Gregory Harpley-Carr (1273)" -> "Scott Rickard (1276)" [label=1432]
 	"Gregory Francis Stephenson (1277)" -> "Aaron Gregory Harpley-Carr (1273)" [label=1005]
-	"Paula Grundy (1274)" -> "Gregory Francis Stephenson (1277)" [label=210]
 	"Gregory Francis Stephenson (1277)" -> "Scott Rickard (1276)" [label=704]
-	"Paula Grundy (1274)" -> "Scott Rickard (1276)" [label=107]
 	"Paula Grundy (1274)" -> "Aaron Gregory Harpley-Carr (1273)" [label=381]
+	"Paula Grundy (1274)" -> "Gregory Francis Stephenson (1277)" [label=210]
+	"Paula Grundy (1274)" -> "Scott Rickard (1276)" [label=107]
 }

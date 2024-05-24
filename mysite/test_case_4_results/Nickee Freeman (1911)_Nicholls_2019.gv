@@ -2,10 +2,10 @@
 digraph "Nickee Freeman (1911)_Nicholls_2019" {
 	graph [label="Nicholls 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nickee Freeman (1911)" [label="Nickee Freeman (1911)
-The Greens (VIC)"]
 	"Jeremy Parker (1908)" [label="Jeremy Parker (1908)
 Independent"]
+	"Nickee Freeman (1911)" [label="Nickee Freeman (1911)
+The Greens (VIC)"]
 	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
 Independent"]
 	"Jeremy Parker (1908)" -> "Nickee Freeman (1911)" [label=59]

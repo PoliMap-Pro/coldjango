@@ -11,9 +11,9 @@ Independent"]
 	"Peter Flynn (2270)" [label="Peter Flynn (2270)
 Citizens Electoral Council"]
 	"Deirdre Finter (3869)" -> "Barbara Shaw (3043)" [label=1161]
-	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
-	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
 	"Kenny Lechleitner (3868)" -> "Barbara Shaw (3043)" [label=462]
+	"Kenny Lechleitner (3868)" -> "Deirdre Finter (3869)" [label=786]
 	"Peter Flynn (2270)" -> "Barbara Shaw (3043)" [label=230]
 	"Peter Flynn (2270)" -> "Deirdre Finter (3869)" [label=145]
+	"Peter Flynn (2270)" -> "Kenny Lechleitner (3868)" [label=175]
 }

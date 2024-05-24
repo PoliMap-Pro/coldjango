@@ -2,24 +2,24 @@
 digraph "Peter Fiebig (4025)_Sturt_2010" {
 	graph [label="Sturt 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Fiebig (4025)" [label="Peter Fiebig (4025)
-The Greens"]
 	"Dale Clegg (4023)" [label="Dale Clegg (4023)
 Family First"]
-	"Jess Clark (4024)" [label="Jess Clark (4024)
-Liberal Democrats (LDP)"]
 	"Darren Andrews (4026)" [label="Darren Andrews (4026)
 Australian Democrats"]
 	"Jack King (4027)" [label="Jack King (4027)
 One Nation"]
+	"Jess Clark (4024)" [label="Jess Clark (4024)
+Liberal Democrats (LDP)"]
+	"Peter Fiebig (4025)" [label="Peter Fiebig (4025)
+The Greens"]
 	"Dale Clegg (4023)" -> "Peter Fiebig (4025)" [label=743]
-	"Jess Clark (4024)" -> "Dale Clegg (4023)" [label=177]
-	"Darren Andrews (4026)" -> "Jess Clark (4024)" [label=69]
-	"Jack King (4027)" -> "Darren Andrews (4026)" [label=93]
-	"Jess Clark (4024)" -> "Peter Fiebig (4025)" [label=147]
-	"Darren Andrews (4026)" -> "Peter Fiebig (4025)" [label=297]
-	"Jack King (4027)" -> "Peter Fiebig (4025)" [label=100]
-	"Jack King (4027)" -> "Jess Clark (4024)" [label=31]
 	"Darren Andrews (4026)" -> "Dale Clegg (4023)" [label=82]
+	"Darren Andrews (4026)" -> "Jess Clark (4024)" [label=69]
+	"Darren Andrews (4026)" -> "Peter Fiebig (4025)" [label=297]
 	"Jack King (4027)" -> "Dale Clegg (4023)" [label=83]
+	"Jack King (4027)" -> "Darren Andrews (4026)" [label=93]
+	"Jack King (4027)" -> "Jess Clark (4024)" [label=31]
+	"Jack King (4027)" -> "Peter Fiebig (4025)" [label=100]
+	"Jess Clark (4024)" -> "Dale Clegg (4023)" [label=177]
+	"Jess Clark (4024)" -> "Peter Fiebig (4025)" [label=147]
 }

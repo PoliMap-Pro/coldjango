@@ -2,18 +2,18 @@
 digraph "Kim Samiotis (1840)_Isaacs_2019" {
 	graph [label="Isaacs 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
+Rise Up Australia Party"]
+	"Bronwyn Currie (1843)" [label="Bronwyn Currie (1843)
+Animal Justice Party"]
 	"Kim Samiotis (1840)" [label="Kim Samiotis (1840)
 The Greens (VIC)"]
 	"Tony Seals (1844)" [label="Tony Seals (1844)
 United Australia Party"]
-	"Bronwyn Currie (1843)" [label="Bronwyn Currie (1843)
-Animal Justice Party"]
-	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
-Rise Up Australia Party"]
-	"Tony Seals (1844)" -> "Kim Samiotis (1840)" [label=931]
-	"Bronwyn Currie (1843)" -> "Tony Seals (1844)" [label=572]
 	"Ash Puvimanasinghe (1842)" -> "Bronwyn Currie (1843)" [label=237]
-	"Bronwyn Currie (1843)" -> "Kim Samiotis (1840)" [label=1685]
 	"Ash Puvimanasinghe (1842)" -> "Kim Samiotis (1840)" [label=128]
 	"Ash Puvimanasinghe (1842)" -> "Tony Seals (1844)" [label=269]
+	"Bronwyn Currie (1843)" -> "Kim Samiotis (1840)" [label=1685]
+	"Bronwyn Currie (1843)" -> "Tony Seals (1844)" [label=572]
+	"Tony Seals (1844)" -> "Kim Samiotis (1840)" [label=931]
 }

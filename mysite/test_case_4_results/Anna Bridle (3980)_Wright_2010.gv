@@ -9,6 +9,6 @@ Family First"]
 	"Ken Degen (3982)" [label="Ken Degen (3982)
 Independent"]
 	"Jeremy John Fredericks (3090)" -> "Anna Bridle (3980)" [label=1374]
-	"Ken Degen (3982)" -> "Jeremy John Fredericks (3090)" [label=1017]
 	"Ken Degen (3982)" -> "Anna Bridle (3980)" [label=589]
+	"Ken Degen (3982)" -> "Jeremy John Fredericks (3090)" [label=1017]
 }

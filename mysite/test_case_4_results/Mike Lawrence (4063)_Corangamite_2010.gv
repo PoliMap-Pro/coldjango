@@ -2,18 +2,18 @@
 digraph "Mike Lawrence (4063)_Corangamite_2010" {
 	graph [label="Corangamite 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mike Lawrence (4063)" [label="Mike Lawrence (4063)
-Australian Greens"]
 	"Ann Wojczuk (4065)" [label="Ann Wojczuk (4065)
 Family First"]
-	"Sally-Anne Brown (4064)" [label="Sally-Anne Brown (4064)
-Independent"]
+	"Mike Lawrence (4063)" [label="Mike Lawrence (4063)
+Australian Greens"]
 	"Nathan Timmins (4066)" [label="Nathan Timmins (4066)
 Liberal Democrats (LDP)"]
+	"Sally-Anne Brown (4064)" [label="Sally-Anne Brown (4064)
+Independent"]
 	"Ann Wojczuk (4065)" -> "Mike Lawrence (4063)" [label=507]
-	"Sally-Anne Brown (4064)" -> "Ann Wojczuk (4065)" [label=390]
-	"Nathan Timmins (4066)" -> "Sally-Anne Brown (4064)" [label=79]
-	"Sally-Anne Brown (4064)" -> "Mike Lawrence (4063)" [label=486]
-	"Nathan Timmins (4066)" -> "Mike Lawrence (4063)" [label=61]
 	"Nathan Timmins (4066)" -> "Ann Wojczuk (4065)" [label=121]
+	"Nathan Timmins (4066)" -> "Mike Lawrence (4063)" [label=61]
+	"Nathan Timmins (4066)" -> "Sally-Anne Brown (4064)" [label=79]
+	"Sally-Anne Brown (4064)" -> "Ann Wojczuk (4065)" [label=390]
+	"Sally-Anne Brown (4064)" -> "Mike Lawrence (4063)" [label=486]
 }

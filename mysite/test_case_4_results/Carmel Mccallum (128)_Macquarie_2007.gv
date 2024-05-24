@@ -4,29 +4,29 @@ digraph "Carmel Mccallum (128)_Macquarie_2007" {
 	node [shape=box]
 	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
 The Greens"]
-	"Tim Williams (4374)" [label="Tim Williams (4374)
-Independent"]
-	"Robert Gifford (4370)" [label="Robert Gifford (4370)
-Christian Democratic Party (Fred Nile Group)"]
 	"Charles Liptak (3761)" [label="Charles Liptak (3761)
 Family First"]
 	"Kirk Fletcher (4369)" [label="Kirk Fletcher (4369)
 LDP"]
 	"Michael Segedin (4373)" [label="Michael Segedin (4373)
 Citizens Electoral Council"]
-	"Tim Williams (4374)" -> "Carmel Mccallum (128)" [label=1792]
-	"Robert Gifford (4370)" -> "Tim Williams (4374)" [label=224]
-	"Charles Liptak (3761)" -> "Robert Gifford (4370)" [label=113]
-	"Kirk Fletcher (4369)" -> "Charles Liptak (3761)" [label=24]
-	"Michael Segedin (4373)" -> "Kirk Fletcher (4369)" [label=9]
-	"Robert Gifford (4370)" -> "Carmel Mccallum (128)" [label=104]
+	"Robert Gifford (4370)" [label="Robert Gifford (4370)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tim Williams (4374)" [label="Tim Williams (4374)
+Independent"]
 	"Charles Liptak (3761)" -> "Carmel Mccallum (128)" [label=65]
+	"Charles Liptak (3761)" -> "Robert Gifford (4370)" [label=113]
+	"Charles Liptak (3761)" -> "Tim Williams (4374)" [label=88]
 	"Kirk Fletcher (4369)" -> "Carmel Mccallum (128)" [label=17]
+	"Kirk Fletcher (4369)" -> "Charles Liptak (3761)" [label=24]
+	"Kirk Fletcher (4369)" -> "Robert Gifford (4370)" [label=206]
+	"Kirk Fletcher (4369)" -> "Tim Williams (4374)" [label=27]
 	"Michael Segedin (4373)" -> "Carmel Mccallum (128)" [label=21]
 	"Michael Segedin (4373)" -> "Charles Liptak (3761)" [label=11]
-	"Kirk Fletcher (4369)" -> "Robert Gifford (4370)" [label=206]
+	"Michael Segedin (4373)" -> "Kirk Fletcher (4369)" [label=9]
 	"Michael Segedin (4373)" -> "Robert Gifford (4370)" [label=7]
-	"Charles Liptak (3761)" -> "Tim Williams (4374)" [label=88]
-	"Kirk Fletcher (4369)" -> "Tim Williams (4374)" [label=27]
 	"Michael Segedin (4373)" -> "Tim Williams (4374)" [label=18]
+	"Robert Gifford (4370)" -> "Carmel Mccallum (128)" [label=104]
+	"Robert Gifford (4370)" -> "Tim Williams (4374)" [label=224]
+	"Tim Williams (4374)" -> "Carmel Mccallum (128)" [label=1792]
 }

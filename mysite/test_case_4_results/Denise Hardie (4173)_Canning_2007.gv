@@ -2,24 +2,24 @@
 digraph "Denise Hardie (4173)_Canning_2007" {
 	graph [label="Canning 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Brian Deane (4908)" [label="Brian Deane (4908)
+One Nation WA"]
+	"Brian F Mccarthy (4905)" [label="Brian F Mccarthy (4905)
+Citizens Electoral Council"]
 	"Denise Hardie (4173)" [label="Denise Hardie (4173)
 The Greens"]
 	"Kevin Swarts (4906)" [label="Kevin Swarts (4906)
 Christian Democratic Party"]
-	"Brian Deane (4908)" [label="Brian Deane (4908)
-One Nation WA"]
 	"Rodney Grasso (4907)" [label="Rodney Grasso (4907)
 Family First"]
-	"Brian F Mccarthy (4905)" [label="Brian F Mccarthy (4905)
-Citizens Electoral Council"]
-	"Kevin Swarts (4906)" -> "Denise Hardie (4173)" [label=487]
-	"Brian Deane (4908)" -> "Kevin Swarts (4906)" [label=228]
-	"Rodney Grasso (4907)" -> "Brian Deane (4908)" [label=104]
-	"Brian F Mccarthy (4905)" -> "Rodney Grasso (4907)" [label=22]
 	"Brian Deane (4908)" -> "Denise Hardie (4173)" [label=413]
-	"Rodney Grasso (4907)" -> "Denise Hardie (4173)" [label=198]
-	"Brian F Mccarthy (4905)" -> "Denise Hardie (4173)" [label=55]
+	"Brian Deane (4908)" -> "Kevin Swarts (4906)" [label=228]
 	"Brian F Mccarthy (4905)" -> "Brian Deane (4908)" [label=28]
-	"Rodney Grasso (4907)" -> "Kevin Swarts (4906)" [label=255]
+	"Brian F Mccarthy (4905)" -> "Denise Hardie (4173)" [label=55]
 	"Brian F Mccarthy (4905)" -> "Kevin Swarts (4906)" [label=40]
+	"Brian F Mccarthy (4905)" -> "Rodney Grasso (4907)" [label=22]
+	"Kevin Swarts (4906)" -> "Denise Hardie (4173)" [label=487]
+	"Rodney Grasso (4907)" -> "Brian Deane (4908)" [label=104]
+	"Rodney Grasso (4907)" -> "Denise Hardie (4173)" [label=198]
+	"Rodney Grasso (4907)" -> "Kevin Swarts (4906)" [label=255]
 }

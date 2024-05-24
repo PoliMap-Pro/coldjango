@@ -1,14 +1,13 @@
 from django.db import models
-from django.db.models import UniqueConstraint, Sum
-from . import abstract_models, constants, names, people
+from django.db.models import UniqueConstraint
+from . import abstract_models, constants, names, people, ballot
 from .abstract_models import Crown, Round, Transfer
 from .format import keep_query
 from .place import Booth, Seat
-from .service import Contention, Representation
+from .service import Representation
 
 
-class HouseElection(abstract_models.Election):
-    BYPASSES = {'primary_votes': 'aec_total'}
+class HouseElection(abstract_models.Election, ballot.Poll):
     DEFAULT_HOUSE_ELECTION_TEXT = "/AEC/Elections/House/"
 
     class ElectionType(models.TextChoices):
@@ -18,27 +17,15 @@ class HouseElection(abstract_models.Election):
     election_type = models.CharField(max_length=15,
                                      choices=ElectionType.choices)
 
-    def get_contentions(self, party_abbreviation):
-        return [Contention.objects.get(
-            election=self, candidate=representation.person.candidate) for
-            representation in Representation.objects.filter(
-                election=self, party__abbreviation=party_abbreviation)]
-
     def result_by_place(self, party_set, place_set, places, parent, target,
-                        sum_booths=False, return_format=constants.NEST_FORMAT,
-                        use_full_representation_set=False):
+                        sum_booths=False, return_format=constants.NEST_FORMAT):
         """
         Adds results to the election results dictionary for each of the places
         in a new place set generated from the representation set for this
         election and the party set.
         """
-        if not place_set:
-            place_set = Booth.get_set(self, places)
-            keep_query(return_format, target, place_set)
-        representation_set = self.thin_representation_set(party_set, place_set)
-        elect_result, place_set = self.setup_place(
-            party_set, place_set, places, representation_set, return_format,
-            target, parent_result=parent)
+        elect_result, place_set, representation_set = self.setup_service_sets(
+            parent, party_set, place_set, places, return_format, target)
         [self.update_election_result(
             elect_result, representation_set, place, target, sum_booths,
             return_format=return_format) for place in place_set]
@@ -70,20 +57,6 @@ class HouseElection(abstract_models.Election):
             return parent_result
         return {}
 
-    def format_result(self, elect_result, result, return_format):
-        if return_format == constants.TRANSACTION_FORMAT:
-            result[self.election_date.year] = elect_result
-        elif return_format == constants.SPREADSHEET_FORMAT:
-            pass
-        else:
-            result[str(self)] = elect_result
-
-    def booths_for_election(self, place_set, places):
-        election_result = {}
-        if not place_set:
-            place_set = Booth.get_set(self, places)
-        return election_result, place_set
-
     def new_dot_node(self, candidate):
         """
         Supply a HouseCandidate.
@@ -99,17 +72,15 @@ class HouseElection(abstract_models.Election):
                                                 election=self)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
 
-    def thin_representation_set(self, party_set, place_set):
-        if isinstance(place_set[0], Seat):
-            contention_set = Contention.objects.filter(
-                election=self, seat__in=place_set)
-        else:
-            contention_set = Contention.objects.filter(
-                election=self, seat__booth__in=place_set)
-        return Representation.objects.filter(
-            election=self, party__in=party_set,
-            person__candidate__contention__in=contention_set).exclude(
-            person__name__iexact=constants.INFORMAL_VOTER)
+    def setup_service_sets(self, parent, party_set, place_set, places,
+                           return_format, target):
+        if not place_set:
+            place_set = Booth.get_set(self, places)
+            keep_query(return_format, target, place_set)
+        representation_set = self.thin_representation_set(party_set, place_set)
+        return *self.setup_place(
+            party_set, place_set, places, representation_set, return_format,
+            target, parent_result=parent), representation_set
 
     def set_top_level_entries_for_the_spreadsheet_format(
             self, add_to_end_of_name, between_parts_of_name,
@@ -149,18 +120,10 @@ class HouseElection(abstract_models.Election):
         """
         Adds the results for the seats or the booths.
         """
-        result = self.election_place_result(
-            place, representation_set, tally_attribute, sum_booths,
-            return_format=return_format)
-        if return_format == constants.TRANSACTION_FORMAT:
-            HouseElection.update_election_result_in_transaction_format(
-                election_result, result, tally_attribute)
-        elif return_format == constants.SPREADSHEET_FORMAT:
-            [election_result[constants.SERIES][index][constants.DATA].extend(
-                new_entries) for index, new_entries in self.get_result_entries(
-                place, result, tally_attribute)]
-        else:
-            election_result[str(place)] = result
+        self.place_to_election(
+            election_result, place, self.election_place_result(
+                place, representation_set, tally_attribute, sum_booths,
+                return_format=return_format), return_format, tally_attribute)
 
     def setup_place(self, p_set, place_set, places, standing,
                     return_format, tally_attribute, parent_result=None):
@@ -174,6 +137,18 @@ class HouseElection(abstract_models.Election):
         HouseElection.setup_transaction_format(elect_result, place_set,
                                                return_format)
         return elect_result, place_set
+
+    def place_to_election(self, election_result, place, result, return_format,
+                          tally_attribute):
+        if return_format == constants.TRANSACTION_FORMAT:
+            HouseElection.update_election_result_in_transaction_format(
+                election_result, result, tally_attribute)
+        elif return_format == constants.SPREADSHEET_FORMAT:
+            [election_result[constants.SERIES][index][constants.DATA].extend(
+                new_entries) for index, new_entries in self.get_result_entries(
+                place, result, tally_attribute)]
+        else:
+            election_result[str(place)] = result
 
     def results_highest_by_votes(self, election_result, how_many, location,
                                  representation_set, tally_attribute,
@@ -229,18 +204,10 @@ class HouseElection(abstract_models.Election):
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
             ))
-        if check_for_informal:
-            [place.update_place_result(
-                self, representation, result, total, tally_attribute,
-                return_format=return_format, election_result=election_result)
-                for representation in representation_subset if
-                representation.person.name.lower() != name_of_informal_vote]
-        else:
-            [place.update_place_result(
-                self, representation, result, total, tally_attribute,
-                return_format=return_format, election_result=election_result,
-                check_contentions=check_contentions)
-                for representation in representation_subset]
+        self.update_result(
+            check_contentions, check_for_informal, election_result,
+            name_of_informal_vote, place, representation_subset, result,
+            return_format, tally_attribute, total)
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
@@ -260,37 +227,7 @@ class HouseElection(abstract_models.Election):
         if use_aggregate:
             return self.fetch_total_aggregate_version(
                 place, tally_attribute, return_format=return_format)
-        print("LOOP!")
         return self.fetch_total_loop_version(place, tally_attribute)
-
-    def fetch_total_loop_version(self, place, tally_attribute):
-        total = 0
-        for vote_tally in VoteTally.objects.filter(
-                election=self, bypass=place):
-            change = getattr(vote_tally, tally_attribute)
-            if change and (change > 0):
-                total += change
-            else:
-                total += getattr(vote_tally, HouseElection.BYPASSES[
-                    tally_attribute]) or 0
-        return total
-
-    def fetch_total_aggregate_version(self, place, tally_attribute,
-                                      return_format=constants.NEST_FORMAT):
-        tallies = VoteTally.objects.filter(election=self, bypass=place)
-        if tallies:
-            if getattr(tallies[0], tally_attribute):
-                attrib = tally_attribute
-            else:
-                attrib = HouseElection.BYPASSES[tally_attribute]
-            aggregate = tallies.aggregate(Sum(attrib, default=0))
-            if aggregate:
-                if return_format == constants.TRANSACTION_FORMAT:
-                    return aggregate.popitem()[1], tallies
-                return aggregate.popitem()[1]
-        if return_format == constants.TRANSACTION_FORMAT:
-            return 0, tallies
-        return 0
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -307,10 +244,12 @@ class HouseElection(abstract_models.Election):
     @staticmethod
     def setup_transaction_format(elect_result, place_set, return_format):
         if return_format == constants.TRANSACTION_FORMAT:
-            divisions = {constants.RETURN_NAME: 'Division name',
-                         constants.RETURN_VALUES: [divi.name for divi in place_set]}
-            id_numbers = {constants.RETURN_NAME: 'id',
-                          constants.RETURN_VALUES: [divi.id for divi in place_set]}
+            divisions = {constants.RETURN_NAME: constants.RETURN_DIVISION,
+                         constants.RETURN_VALUES: [divi.name for divi in
+                                                   place_set]}
+            id_numbers = {constants.RETURN_NAME: constants.RETURN_IDENTITY,
+                          constants.RETURN_VALUES: [divi.id for divi in
+                                                    place_set]}
             elect_result[constants.DATA].append(divisions)
             elect_result[constants.DATA].append(id_numbers)
 

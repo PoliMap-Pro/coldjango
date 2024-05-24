@@ -2,18 +2,18 @@
 digraph "Bob Muntz (4857)_Maribyrnong_2004" {
 	graph [label="Maribyrnong 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
+Citizens Electoral Council"]
 	"Bob Muntz (4857)" [label="Bob Muntz (4857)
 Australian Greens"]
 	"David Holt (5614)" [label="David Holt (5614)
 Family First"]
 	"Robert Livesay (4130)" [label="Robert Livesay (4130)
 Democrats"]
-	"Andre Kozlowski (4854)" [label="Andre Kozlowski (4854)
-Citizens Electoral Council"]
-	"David Holt (5614)" -> "Bob Muntz (4857)" [label=414]
-	"Robert Livesay (4130)" -> "David Holt (5614)" [label=142]
-	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=65]
-	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=405]
 	"Andre Kozlowski (4854)" -> "Bob Muntz (4857)" [label=179]
 	"Andre Kozlowski (4854)" -> "David Holt (5614)" [label=144]
+	"Andre Kozlowski (4854)" -> "Robert Livesay (4130)" [label=65]
+	"David Holt (5614)" -> "Bob Muntz (4857)" [label=414]
+	"Robert Livesay (4130)" -> "Bob Muntz (4857)" [label=405]
+	"Robert Livesay (4130)" -> "David Holt (5614)" [label=142]
 }

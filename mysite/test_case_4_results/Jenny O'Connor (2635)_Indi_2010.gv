@@ -2,18 +2,18 @@
 digraph "Jenny O'Connor (2635)_Indi_2010" {
 	graph [label="Indi 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
-Australian Greens"]
 	"Alan Lappin (4102)" [label="Alan Lappin (4102)
 Independent"]
-	"Robert Cavedon (4105)" [label="Robert Cavedon (4105)
-Family First"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+Australian Greens"]
 	"Mark Carey (4104)" [label="Mark Carey (4104)
 Australian Democrats"]
+	"Robert Cavedon (4105)" [label="Robert Cavedon (4105)
+Family First"]
 	"Alan Lappin (4102)" -> "Jenny O'Connor (2635)" [label=2653]
-	"Robert Cavedon (4105)" -> "Alan Lappin (4102)" [label=803]
-	"Mark Carey (4104)" -> "Robert Cavedon (4105)" [label=84]
-	"Robert Cavedon (4105)" -> "Jenny O'Connor (2635)" [label=315]
-	"Mark Carey (4104)" -> "Jenny O'Connor (2635)" [label=231]
 	"Mark Carey (4104)" -> "Alan Lappin (4102)" [label=275]
+	"Mark Carey (4104)" -> "Jenny O'Connor (2635)" [label=231]
+	"Mark Carey (4104)" -> "Robert Cavedon (4105)" [label=84]
+	"Robert Cavedon (4105)" -> "Alan Lappin (4102)" [label=803]
+	"Robert Cavedon (4105)" -> "Jenny O'Connor (2635)" [label=315]
 }

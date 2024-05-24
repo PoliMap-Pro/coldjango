@@ -9,6 +9,6 @@ Independent"]
 	"John F G Mcmahon (3912)" [label="John F G Mcmahon (3912)
 D.L.P. - Democratic Labor Party"]
 	"Duncan Scott (462)" -> "Anne Goddard (3913)" [label=704]
-	"John F G Mcmahon (3912)" -> "Duncan Scott (462)" [label=107]
 	"John F G Mcmahon (3912)" -> "Anne Goddard (3913)" [label=68]
+	"John F G Mcmahon (3912)" -> "Duncan Scott (462)" [label=107]
 }

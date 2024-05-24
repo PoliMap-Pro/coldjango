@@ -2,18 +2,18 @@
 digraph "Max Chandler-Mather (475)_Griffith_2019" {
 	graph [label="Griffith 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Max Chandler-Mather (475)" [label="Max Chandler-Mather (475)
-The Greens"]
-	"Julie Darlington (1542)" [label="Julie Darlington (1542)
-Pauline Hanson's One Nation"]
 	"Christian John Julius (1541)" [label="Christian John Julius (1541)
 United Australia Party"]
+	"Julie Darlington (1542)" [label="Julie Darlington (1542)
+Pauline Hanson's One Nation"]
+	"Max Chandler-Mather (475)" [label="Max Chandler-Mather (475)
+The Greens"]
 	"Tony Murray (1543)" [label="Tony Murray (1543)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Julie Darlington (1542)" -> "Max Chandler-Mather (475)" [label=852]
 	"Christian John Julius (1541)" -> "Julie Darlington (1542)" [label=588]
-	"Tony Murray (1543)" -> "Christian John Julius (1541)" [label=128]
 	"Christian John Julius (1541)" -> "Max Chandler-Mather (475)" [label=232]
-	"Tony Murray (1543)" -> "Max Chandler-Mather (475)" [label=62]
+	"Julie Darlington (1542)" -> "Max Chandler-Mather (475)" [label=852]
+	"Tony Murray (1543)" -> "Christian John Julius (1541)" [label=128]
 	"Tony Murray (1543)" -> "Julie Darlington (1542)" [label=448]
+	"Tony Murray (1543)" -> "Max Chandler-Mather (475)" [label=62]
 }

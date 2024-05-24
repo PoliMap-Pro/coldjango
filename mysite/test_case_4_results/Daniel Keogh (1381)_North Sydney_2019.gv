@@ -2,24 +2,24 @@
 digraph "Daniel Keogh (1381)_North Sydney_2019" {
 	graph [label="North Sydney 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Keogh (1381)" [label="Daniel Keogh (1381)
-The Greens"]
 	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
 Independent"]
-	"Greg Graham (1383)" [label="Greg Graham (1383)
-Sustainable Australia"]
+	"Daniel Keogh (1381)" [label="Daniel Keogh (1381)
+The Greens"]
 	"David Vernon (1378)" [label="David Vernon (1378)
 Christian Democratic Party (Fred Nile Group)"]
+	"Greg Graham (1383)" [label="Greg Graham (1383)
+Sustainable Australia"]
 	"Peter John Vagg (1380)" [label="Peter John Vagg (1380)
 United Australia Party"]
 	"Arthur Chesterfield-Evans (1382)" -> "Daniel Keogh (1381)" [label=2260]
-	"Greg Graham (1383)" -> "Arthur Chesterfield-Evans (1382)" [label=664]
-	"David Vernon (1378)" -> "Greg Graham (1383)" [label=209]
-	"Peter John Vagg (1380)" -> "David Vernon (1378)" [label=215]
-	"Greg Graham (1383)" -> "Daniel Keogh (1381)" [label=618]
-	"David Vernon (1378)" -> "Daniel Keogh (1381)" [label=79]
-	"Peter John Vagg (1380)" -> "Daniel Keogh (1381)" [label=111]
-	"Peter John Vagg (1380)" -> "Greg Graham (1383)" [label=130]
 	"David Vernon (1378)" -> "Arthur Chesterfield-Evans (1382)" [label=283]
+	"David Vernon (1378)" -> "Daniel Keogh (1381)" [label=79]
+	"David Vernon (1378)" -> "Greg Graham (1383)" [label=209]
+	"Greg Graham (1383)" -> "Arthur Chesterfield-Evans (1382)" [label=664]
+	"Greg Graham (1383)" -> "Daniel Keogh (1381)" [label=618]
 	"Peter John Vagg (1380)" -> "Arthur Chesterfield-Evans (1382)" [label=160]
+	"Peter John Vagg (1380)" -> "Daniel Keogh (1381)" [label=111]
+	"Peter John Vagg (1380)" -> "David Vernon (1378)" [label=215]
+	"Peter John Vagg (1380)" -> "Greg Graham (1383)" [label=130]
 }

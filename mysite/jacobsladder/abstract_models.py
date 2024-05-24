@@ -27,6 +27,14 @@ class Election(section.Part):
                f"{between_parts_of_name}{tally_attribute}" \
                f"{between_parts_of_name}{parties_string}{add_to_end_of_name}"
 
+    def format_result(self, elect_result, result, return_format):
+        if return_format == constants.TRANSACTION_FORMAT:
+            result[self.election_date.year] = elect_result
+        elif return_format == constants.SPREADSHEET_FORMAT:
+            pass
+        else:
+            result[str(self)] = elect_result
+
     def __str__(self):
         return f"{self.__class__.__name__} in " \
                f"{self.election_date.year} ({self.pk})"

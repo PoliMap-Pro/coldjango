@@ -2,9 +2,9 @@
 digraph "Wendy Heatley (4039)_Franklin_2010" {
 	graph [label="Franklin 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Wendy Heatley (4039)" [label="Wendy Heatley (4039)
-Australian Greens"]
 	"John Forster (4040)" [label="John Forster (4040)
 Independent"]
+	"Wendy Heatley (4039)" [label="Wendy Heatley (4039)
+Australian Greens"]
 	"John Forster (4040)" -> "Wendy Heatley (4039)" [label=693]
 }

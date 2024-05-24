@@ -11,9 +11,9 @@ Animal Justice Party"]
 	"Yassin Akram Albarri (1916)" [label="Yassin Akram Albarri (1916)
 Independent"]
 	"Firas Hasan (1913)" -> "Cynthia Smith (1914)" [label=1253]
-	"Rod Whitfield (785)" -> "Firas Hasan (1913)" [label=677]
-	"Yassin Akram Albarri (1916)" -> "Rod Whitfield (785)" [label=314]
 	"Rod Whitfield (785)" -> "Cynthia Smith (1914)" [label=1609]
+	"Rod Whitfield (785)" -> "Firas Hasan (1913)" [label=677]
 	"Yassin Akram Albarri (1916)" -> "Cynthia Smith (1914)" [label=202]
 	"Yassin Akram Albarri (1916)" -> "Firas Hasan (1913)" [label=345]
+	"Yassin Akram Albarri (1916)" -> "Rod Whitfield (785)" [label=314]
 }

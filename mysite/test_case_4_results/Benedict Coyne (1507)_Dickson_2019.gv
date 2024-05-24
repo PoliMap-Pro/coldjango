@@ -6,27 +6,27 @@ digraph "Benedict Coyne (1507)_Dickson_2019" {
 The Greens"]
 	"Carrol Halliwell (1509)" [label="Carrol Halliwell (1509)
 Pauline Hanson's One Nation"]
-	"Thor Prohaska (430)" [label="Thor Prohaska (430)
-Independent"]
-	"Steve Austin (1508)" [label="Steve Austin (1508)
-United Australia Party"]
 	"Maureen Brohman (1511)" [label="Maureen Brohman (1511)
 Animal Justice Party"]
 	"Richelle Simpson (1510)" [label="Richelle Simpson (1510)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Steve Austin (1508)" [label="Steve Austin (1508)
+United Australia Party"]
+	"Thor Prohaska (430)" [label="Thor Prohaska (430)
+Independent"]
 	"Carrol Halliwell (1509)" -> "Benedict Coyne (1507)" [label=2062]
-	"Thor Prohaska (430)" -> "Carrol Halliwell (1509)" [label=825]
-	"Steve Austin (1508)" -> "Thor Prohaska (430)" [label=337]
-	"Maureen Brohman (1511)" -> "Steve Austin (1508)" [label=117]
-	"Richelle Simpson (1510)" -> "Maureen Brohman (1511)" [label=90]
-	"Thor Prohaska (430)" -> "Benedict Coyne (1507)" [label=940]
-	"Steve Austin (1508)" -> "Benedict Coyne (1507)" [label=205]
 	"Maureen Brohman (1511)" -> "Benedict Coyne (1507)" [label=703]
-	"Richelle Simpson (1510)" -> "Benedict Coyne (1507)" [label=22]
-	"Richelle Simpson (1510)" -> "Steve Austin (1508)" [label=126]
-	"Maureen Brohman (1511)" -> "Thor Prohaska (430)" [label=370]
-	"Richelle Simpson (1510)" -> "Thor Prohaska (430)" [label=84]
-	"Steve Austin (1508)" -> "Carrol Halliwell (1509)" [label=944]
 	"Maureen Brohman (1511)" -> "Carrol Halliwell (1509)" [label=335]
+	"Maureen Brohman (1511)" -> "Steve Austin (1508)" [label=117]
+	"Maureen Brohman (1511)" -> "Thor Prohaska (430)" [label=370]
+	"Richelle Simpson (1510)" -> "Benedict Coyne (1507)" [label=22]
 	"Richelle Simpson (1510)" -> "Carrol Halliwell (1509)" [label=483]
+	"Richelle Simpson (1510)" -> "Maureen Brohman (1511)" [label=90]
+	"Richelle Simpson (1510)" -> "Steve Austin (1508)" [label=126]
+	"Richelle Simpson (1510)" -> "Thor Prohaska (430)" [label=84]
+	"Steve Austin (1508)" -> "Benedict Coyne (1507)" [label=205]
+	"Steve Austin (1508)" -> "Carrol Halliwell (1509)" [label=944]
+	"Steve Austin (1508)" -> "Thor Prohaska (430)" [label=337]
+	"Thor Prohaska (430)" -> "Benedict Coyne (1507)" [label=940]
+	"Thor Prohaska (430)" -> "Carrol Halliwell (1509)" [label=825]
 }

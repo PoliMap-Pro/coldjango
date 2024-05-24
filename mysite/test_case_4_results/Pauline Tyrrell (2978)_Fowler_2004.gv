@@ -2,13 +2,13 @@
 digraph "Pauline Tyrrell (2978)_Fowler_2004" {
 	graph [label="Fowler 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pauline Tyrrell (2978)" [label="Pauline Tyrrell (2978)
-The Greens"]
-	"Jose Nunez (5079)" [label="Jose Nunez (5079)
-Independent"]
 	"Hal Johnson (4426)" [label="Hal Johnson (4426)
 Citizens Electoral Council"]
-	"Jose Nunez (5079)" -> "Pauline Tyrrell (2978)" [label=1035]
+	"Jose Nunez (5079)" [label="Jose Nunez (5079)
+Independent"]
+	"Pauline Tyrrell (2978)" [label="Pauline Tyrrell (2978)
+The Greens"]
 	"Hal Johnson (4426)" -> "Jose Nunez (5079)" [label=411]
 	"Hal Johnson (4426)" -> "Pauline Tyrrell (2978)" [label=264]
+	"Jose Nunez (5079)" -> "Pauline Tyrrell (2978)" [label=1035]
 }

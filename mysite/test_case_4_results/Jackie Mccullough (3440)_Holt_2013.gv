@@ -4,29 +4,29 @@ digraph "Jackie Mccullough (3440)_Holt_2013" {
 	node [shape=box]
 	"Jackie Mccullough (3440)" [label="Jackie Mccullough (3440)
 The Greens"]
-	"Pam Keenan (3441)" [label="Pam Keenan (3441)
-Family First Party"]
+	"Jonathan Eli (3442)" [label="Jonathan Eli (3442)
+Rise Up Australia Party"]
 	"Lachlan John Smith (3443)" [label="Lachlan John Smith (3443)
 Sex Party"]
 	"Michael Joseph Palma (3444)" [label="Michael Joseph Palma (3444)
 DLP Democratic Labour"]
+	"Pam Keenan (3441)" [label="Pam Keenan (3441)
+Family First Party"]
 	"Vivian Hill (3445)" [label="Vivian Hill (3445)
 Australian Christians"]
-	"Jonathan Eli (3442)" [label="Jonathan Eli (3442)
-Rise Up Australia Party"]
-	"Pam Keenan (3441)" -> "Jackie Mccullough (3440)" [label=846]
-	"Lachlan John Smith (3443)" -> "Pam Keenan (3441)" [label=572]
-	"Michael Joseph Palma (3444)" -> "Lachlan John Smith (3443)" [label=359]
-	"Vivian Hill (3445)" -> "Michael Joseph Palma (3444)" [label=236]
+	"Jonathan Eli (3442)" -> "Jackie Mccullough (3440)" [label=36]
+	"Jonathan Eli (3442)" -> "Lachlan John Smith (3443)" [label=83]
+	"Jonathan Eli (3442)" -> "Michael Joseph Palma (3444)" [label=54]
+	"Jonathan Eli (3442)" -> "Pam Keenan (3441)" [label=145]
 	"Jonathan Eli (3442)" -> "Vivian Hill (3445)" [label=299]
 	"Lachlan John Smith (3443)" -> "Jackie Mccullough (3440)" [label=561]
+	"Lachlan John Smith (3443)" -> "Pam Keenan (3441)" [label=572]
 	"Michael Joseph Palma (3444)" -> "Jackie Mccullough (3440)" [label=145]
-	"Vivian Hill (3445)" -> "Jackie Mccullough (3440)" [label=71]
-	"Jonathan Eli (3442)" -> "Jackie Mccullough (3440)" [label=36]
-	"Jonathan Eli (3442)" -> "Michael Joseph Palma (3444)" [label=54]
-	"Vivian Hill (3445)" -> "Lachlan John Smith (3443)" [label=80]
-	"Jonathan Eli (3442)" -> "Lachlan John Smith (3443)" [label=83]
+	"Michael Joseph Palma (3444)" -> "Lachlan John Smith (3443)" [label=359]
 	"Michael Joseph Palma (3444)" -> "Pam Keenan (3441)" [label=312]
+	"Pam Keenan (3441)" -> "Jackie Mccullough (3440)" [label=846]
+	"Vivian Hill (3445)" -> "Jackie Mccullough (3440)" [label=71]
+	"Vivian Hill (3445)" -> "Lachlan John Smith (3443)" [label=80]
+	"Vivian Hill (3445)" -> "Michael Joseph Palma (3444)" [label=236]
 	"Vivian Hill (3445)" -> "Pam Keenan (3441)" [label=611]
-	"Jonathan Eli (3442)" -> "Pam Keenan (3441)" [label=145]
 }

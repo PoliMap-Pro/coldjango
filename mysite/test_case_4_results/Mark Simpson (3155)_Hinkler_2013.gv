@@ -4,11 +4,11 @@ digraph "Mark Simpson (3155)_Hinkler_2013" {
 	node [shape=box]
 	"Mark Simpson (3155)" [label="Mark Simpson (3155)
 The Greens"]
-	"Troy Bradly Sullivan (3154)" [label="Troy Bradly Sullivan (3154)
-Family First"]
 	"Reid Schirmer (3153)" [label="Reid Schirmer (3153)
 Independent"]
-	"Troy Bradly Sullivan (3154)" -> "Mark Simpson (3155)" [label=280]
-	"Reid Schirmer (3153)" -> "Troy Bradly Sullivan (3154)" [label=168]
+	"Troy Bradly Sullivan (3154)" [label="Troy Bradly Sullivan (3154)
+Family First"]
 	"Reid Schirmer (3153)" -> "Mark Simpson (3155)" [label=112]
+	"Reid Schirmer (3153)" -> "Troy Bradly Sullivan (3154)" [label=168]
+	"Troy Bradly Sullivan (3154)" -> "Mark Simpson (3155)" [label=280]
 }

@@ -4,16 +4,16 @@ digraph "Paul O'Halloran (4711)_Braddon_2007" {
 	node [shape=box]
 	"Paul O'Halloran (4711)" [label="Paul O'Halloran (4711)
 The Greens"]
-	"Wayne De Bomford (4709)" [label="Wayne De Bomford (4709)
-Family First"]
 	"Peter Cunningham (4713)" [label="Peter Cunningham (4713)
 LDP"]
 	"Stephen Anthony Dick (4712)" [label="Stephen Anthony Dick (4712)
 Citizens Electoral Council"]
-	"Wayne De Bomford (4709)" -> "Paul O'Halloran (4711)" [label=355]
-	"Peter Cunningham (4713)" -> "Wayne De Bomford (4709)" [label=80]
-	"Stephen Anthony Dick (4712)" -> "Peter Cunningham (4713)" [label=75]
+	"Wayne De Bomford (4709)" [label="Wayne De Bomford (4709)
+Family First"]
 	"Peter Cunningham (4713)" -> "Paul O'Halloran (4711)" [label=83]
+	"Peter Cunningham (4713)" -> "Wayne De Bomford (4709)" [label=80]
 	"Stephen Anthony Dick (4712)" -> "Paul O'Halloran (4711)" [label=42]
+	"Stephen Anthony Dick (4712)" -> "Peter Cunningham (4713)" [label=75]
 	"Stephen Anthony Dick (4712)" -> "Wayne De Bomford (4709)" [label=45]
+	"Wayne De Bomford (4709)" -> "Paul O'Halloran (4711)" [label=355]
 }

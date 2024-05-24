@@ -2,24 +2,24 @@
 digraph "Helen Fairweather (3179)_Longman_2013" {
 	graph [label="Longman 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Helen Fairweather (3179)" [label="Helen Fairweather (3179)
-The Greens"]
-	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
-Katter's Australian Party"]
-	"Will Smith (2393)" [label="Will Smith (2393)
-Family First"]
 	"Ayla Goeytes (3178)" [label="Ayla Goeytes (3178)
 Sex Party"]
+	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
+Katter's Australian Party"]
 	"Caleb Wells (2388)" [label="Caleb Wells (2388)
 Independent"]
-	"Brad Kennedy (2389)" -> "Helen Fairweather (3179)" [label=209]
-	"Will Smith (2393)" -> "Brad Kennedy (2389)" [label=250]
-	"Ayla Goeytes (3178)" -> "Will Smith (2393)" [label=290]
-	"Caleb Wells (2388)" -> "Ayla Goeytes (3178)" [label=63]
-	"Will Smith (2393)" -> "Helen Fairweather (3179)" [label=455]
+	"Helen Fairweather (3179)" [label="Helen Fairweather (3179)
+The Greens"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Ayla Goeytes (3178)" -> "Brad Kennedy (2389)" [label=89]
 	"Ayla Goeytes (3178)" -> "Helen Fairweather (3179)" [label=381]
+	"Ayla Goeytes (3178)" -> "Will Smith (2393)" [label=290]
+	"Brad Kennedy (2389)" -> "Helen Fairweather (3179)" [label=209]
+	"Caleb Wells (2388)" -> "Ayla Goeytes (3178)" [label=63]
+	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=83]
 	"Caleb Wells (2388)" -> "Helen Fairweather (3179)" [label=139]
 	"Caleb Wells (2388)" -> "Will Smith (2393)" [label=132]
-	"Ayla Goeytes (3178)" -> "Brad Kennedy (2389)" [label=89]
-	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=83]
+	"Will Smith (2393)" -> "Brad Kennedy (2389)" [label=250]
+	"Will Smith (2393)" -> "Helen Fairweather (3179)" [label=455]
 }

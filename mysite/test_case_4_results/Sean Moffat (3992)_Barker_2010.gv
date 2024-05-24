@@ -4,11 +4,11 @@ digraph "Sean Moffat (3992)_Barker_2010" {
 	node [shape=box]
 	"Sean Moffat (3992)" [label="Sean Moffat (3992)
 The Greens"]
-	"Trevor Honeychurch (3991)" [label="Trevor Honeychurch (3991)
-Family First"]
 	"Steven Donald Davies (3989)" [label="Steven Donald Davies (3989)
 The Climate Sceptics"]
-	"Trevor Honeychurch (3991)" -> "Sean Moffat (3992)" [label=1809]
-	"Steven Donald Davies (3989)" -> "Trevor Honeychurch (3991)" [label=479]
+	"Trevor Honeychurch (3991)" [label="Trevor Honeychurch (3991)
+Family First"]
 	"Steven Donald Davies (3989)" -> "Sean Moffat (3992)" [label=233]
+	"Steven Donald Davies (3989)" -> "Trevor Honeychurch (3991)" [label=479]
+	"Trevor Honeychurch (3991)" -> "Sean Moffat (3992)" [label=1809]
 }

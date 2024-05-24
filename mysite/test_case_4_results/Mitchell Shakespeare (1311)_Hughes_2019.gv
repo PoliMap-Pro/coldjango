@@ -2,24 +2,24 @@
 digraph "Mitchell Shakespeare (1311)_Hughes_2019" {
 	graph [label="Hughes 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mitchell Shakespeare (1311)" [label="Mitchell Shakespeare (1311)
-The Greens"]
 	"Gae Constable (1312)" [label="Gae Constable (1312)
 Animal Justice Party"]
-	"Terrance Keep (1313)" [label="Terrance Keep (1313)
-United Australia Party"]
 	"Leo-Ning Liu (1316)" [label="Leo-Ning Liu (1316)
 Christian Democratic Party (Fred Nile Group)"]
 	"Matt Bryan (1315)" [label="Matt Bryan (1315)
 Independent"]
+	"Mitchell Shakespeare (1311)" [label="Mitchell Shakespeare (1311)
+The Greens"]
+	"Terrance Keep (1313)" [label="Terrance Keep (1313)
+United Australia Party"]
 	"Gae Constable (1312)" -> "Mitchell Shakespeare (1311)" [label=1688]
-	"Terrance Keep (1313)" -> "Gae Constable (1312)" [label=570]
-	"Leo-Ning Liu (1316)" -> "Terrance Keep (1313)" [label=283]
-	"Matt Bryan (1315)" -> "Leo-Ning Liu (1316)" [label=205]
-	"Terrance Keep (1313)" -> "Mitchell Shakespeare (1311)" [label=289]
+	"Leo-Ning Liu (1316)" -> "Gae Constable (1312)" [label=183]
 	"Leo-Ning Liu (1316)" -> "Mitchell Shakespeare (1311)" [label=89]
+	"Leo-Ning Liu (1316)" -> "Terrance Keep (1313)" [label=283]
+	"Matt Bryan (1315)" -> "Gae Constable (1312)" [label=289]
+	"Matt Bryan (1315)" -> "Leo-Ning Liu (1316)" [label=205]
 	"Matt Bryan (1315)" -> "Mitchell Shakespeare (1311)" [label=287]
 	"Matt Bryan (1315)" -> "Terrance Keep (1313)" [label=261]
-	"Leo-Ning Liu (1316)" -> "Gae Constable (1312)" [label=183]
-	"Matt Bryan (1315)" -> "Gae Constable (1312)" [label=289]
+	"Terrance Keep (1313)" -> "Gae Constable (1312)" [label=570]
+	"Terrance Keep (1313)" -> "Mitchell Shakespeare (1311)" [label=289]
 }

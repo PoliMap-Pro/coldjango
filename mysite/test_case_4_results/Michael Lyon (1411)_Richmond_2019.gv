@@ -2,31 +2,31 @@
 digraph "Michael Lyon (1411)_Richmond_2019" {
 	graph [label="Richmond 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Lyon (1411)" [label="Michael Lyon (1411)
-The Greens"]
 	"Hamish Jenkin Mitchell (1406)" [label="Hamish Jenkin Mitchell (1406)
 United Australia Party"]
-	"Ronald Mcdonald (1405)" [label="Ronald Mcdonald (1405)
-Sustainable Australia"]
-	"Ray Karam (1408)" [label="Ray Karam (1408)
-Independent"]
+	"Michael Lyon (1411)" [label="Michael Lyon (1411)
+The Greens"]
 	"Morgan Cox (1407)" [label="Morgan Cox (1407)
 Christian Democratic Party (Fred Nile Group)"]
+	"Ray Karam (1408)" [label="Ray Karam (1408)
+Independent"]
+	"Ronald Mcdonald (1405)" [label="Ronald Mcdonald (1405)
+Sustainable Australia"]
 	"Tom Barnett (1409)" [label="Tom Barnett (1409)
 Involuntary Medication Objectors (Vaccination/Fluoride) Party"]
 	"Hamish Jenkin Mitchell (1406)" -> "Michael Lyon (1411)" [label=1036]
-	"Ronald Mcdonald (1405)" -> "Hamish Jenkin Mitchell (1406)" [label=1434]
-	"Ray Karam (1408)" -> "Ronald Mcdonald (1405)" [label=509]
-	"Morgan Cox (1407)" -> "Ray Karam (1408)" [label=140]
-	"Tom Barnett (1409)" -> "Morgan Cox (1407)" [label=94]
-	"Ronald Mcdonald (1405)" -> "Michael Lyon (1411)" [label=1408]
-	"Ray Karam (1408)" -> "Michael Lyon (1411)" [label=375]
-	"Morgan Cox (1407)" -> "Michael Lyon (1411)" [label=75]
-	"Tom Barnett (1409)" -> "Michael Lyon (1411)" [label=380]
-	"Tom Barnett (1409)" -> "Ray Karam (1408)" [label=142]
-	"Morgan Cox (1407)" -> "Ronald Mcdonald (1405)" [label=168]
-	"Tom Barnett (1409)" -> "Ronald Mcdonald (1405)" [label=326]
-	"Ray Karam (1408)" -> "Hamish Jenkin Mitchell (1406)" [label=235]
 	"Morgan Cox (1407)" -> "Hamish Jenkin Mitchell (1406)" [label=271]
+	"Morgan Cox (1407)" -> "Michael Lyon (1411)" [label=75]
+	"Morgan Cox (1407)" -> "Ray Karam (1408)" [label=140]
+	"Morgan Cox (1407)" -> "Ronald Mcdonald (1405)" [label=168]
+	"Ray Karam (1408)" -> "Hamish Jenkin Mitchell (1406)" [label=235]
+	"Ray Karam (1408)" -> "Michael Lyon (1411)" [label=375]
+	"Ray Karam (1408)" -> "Ronald Mcdonald (1405)" [label=509]
+	"Ronald Mcdonald (1405)" -> "Hamish Jenkin Mitchell (1406)" [label=1434]
+	"Ronald Mcdonald (1405)" -> "Michael Lyon (1411)" [label=1408]
 	"Tom Barnett (1409)" -> "Hamish Jenkin Mitchell (1406)" [label=83]
+	"Tom Barnett (1409)" -> "Michael Lyon (1411)" [label=380]
+	"Tom Barnett (1409)" -> "Morgan Cox (1407)" [label=94]
+	"Tom Barnett (1409)" -> "Ray Karam (1408)" [label=142]
+	"Tom Barnett (1409)" -> "Ronald Mcdonald (1405)" [label=326]
 }

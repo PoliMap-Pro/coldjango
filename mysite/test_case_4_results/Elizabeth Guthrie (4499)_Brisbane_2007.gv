@@ -2,24 +2,24 @@
 digraph "Elizabeth Guthrie (4499)_Brisbane_2007" {
 	graph [label="Brisbane 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Elizabeth Guthrie (4499)" [label="Elizabeth Guthrie (4499)
-The Greens"]
 	"Don Sinnamon (4500)" [label="Don Sinnamon (4500)
 Democrats"]
-	"Mark A White (2420)" [label="Mark A White (2420)
-Family First"]
+	"Elizabeth Guthrie (4499)" [label="Elizabeth Guthrie (4499)
+The Greens"]
 	"Ewan Saunders (3887)" [label="Ewan Saunders (3887)
 Socialist Alliance"]
+	"Mark A White (2420)" [label="Mark A White (2420)
+Family First"]
 	"Nick Contarino (3175)" [label="Nick Contarino (3175)
 Citizens Electoral Council"]
 	"Don Sinnamon (4500)" -> "Elizabeth Guthrie (4499)" [label=929]
-	"Mark A White (2420)" -> "Don Sinnamon (4500)" [label=152]
-	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=28]
-	"Nick Contarino (3175)" -> "Ewan Saunders (3887)" [label=15]
-	"Mark A White (2420)" -> "Elizabeth Guthrie (4499)" [label=227]
-	"Ewan Saunders (3887)" -> "Elizabeth Guthrie (4499)" [label=223]
-	"Nick Contarino (3175)" -> "Elizabeth Guthrie (4499)" [label=33]
-	"Nick Contarino (3175)" -> "Mark A White (2420)" [label=15]
 	"Ewan Saunders (3887)" -> "Don Sinnamon (4500)" [label=49]
+	"Ewan Saunders (3887)" -> "Elizabeth Guthrie (4499)" [label=223]
+	"Ewan Saunders (3887)" -> "Mark A White (2420)" [label=28]
+	"Mark A White (2420)" -> "Don Sinnamon (4500)" [label=152]
+	"Mark A White (2420)" -> "Elizabeth Guthrie (4499)" [label=227]
 	"Nick Contarino (3175)" -> "Don Sinnamon (4500)" [label=17]
+	"Nick Contarino (3175)" -> "Elizabeth Guthrie (4499)" [label=33]
+	"Nick Contarino (3175)" -> "Ewan Saunders (3887)" [label=15]
+	"Nick Contarino (3175)" -> "Mark A White (2420)" [label=15]
 }

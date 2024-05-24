@@ -2,39 +2,39 @@
 digraph "Tim White (635)_Hindmarsh_2004" {
 	graph [label="Hindmarsh 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim White (635)" [label="Tim White (635)
-The Greens"]
-	"Trevor Grace (5444)" [label="Trevor Grace (5444)
-Family First"]
-	"Joe Ienco (5442)" [label="Joe Ienco (5442)
-Independent"]
-	"Nicole Prince (5443)" [label="Nicole Prince (5443)
-Australian Democrats"]
-	"Tony Musolino (3282)" [label="Tony Musolino (3282)
-Independent"]
 	"Barbara Pannach (4654)" [label="Barbara Pannach (4654)
 One Nation"]
 	"Bill Thomas (5445)" [label="Bill Thomas (5445)
 Independent"]
-	"Trevor Grace (5444)" -> "Tim White (635)" [label=641]
-	"Joe Ienco (5442)" -> "Trevor Grace (5444)" [label=281]
-	"Nicole Prince (5443)" -> "Joe Ienco (5442)" [label=198]
-	"Tony Musolino (3282)" -> "Nicole Prince (5443)" [label=31]
-	"Barbara Pannach (4654)" -> "Tony Musolino (3282)" [label=39]
-	"Bill Thomas (5445)" -> "Barbara Pannach (4654)" [label=20]
-	"Joe Ienco (5442)" -> "Tim White (635)" [label=238]
-	"Nicole Prince (5443)" -> "Tim White (635)" [label=440]
-	"Tony Musolino (3282)" -> "Tim White (635)" [label=64]
+	"Joe Ienco (5442)" [label="Joe Ienco (5442)
+Independent"]
+	"Nicole Prince (5443)" [label="Nicole Prince (5443)
+Australian Democrats"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Tony Musolino (3282)" [label="Tony Musolino (3282)
+Independent"]
+	"Trevor Grace (5444)" [label="Trevor Grace (5444)
+Family First"]
+	"Barbara Pannach (4654)" -> "Joe Ienco (5442)" [label=69]
+	"Barbara Pannach (4654)" -> "Nicole Prince (5443)" [label=52]
 	"Barbara Pannach (4654)" -> "Tim White (635)" [label=68]
+	"Barbara Pannach (4654)" -> "Tony Musolino (3282)" [label=39]
+	"Barbara Pannach (4654)" -> "Trevor Grace (5444)" [label=114]
+	"Bill Thomas (5445)" -> "Barbara Pannach (4654)" [label=20]
+	"Bill Thomas (5445)" -> "Joe Ienco (5442)" [label=86]
+	"Bill Thomas (5445)" -> "Nicole Prince (5443)" [label=24]
 	"Bill Thomas (5445)" -> "Tim White (635)" [label=50]
 	"Bill Thomas (5445)" -> "Tony Musolino (3282)" [label=60]
-	"Barbara Pannach (4654)" -> "Nicole Prince (5443)" [label=52]
-	"Bill Thomas (5445)" -> "Nicole Prince (5443)" [label=24]
-	"Tony Musolino (3282)" -> "Joe Ienco (5442)" [label=265]
-	"Barbara Pannach (4654)" -> "Joe Ienco (5442)" [label=69]
-	"Bill Thomas (5445)" -> "Joe Ienco (5442)" [label=86]
-	"Nicole Prince (5443)" -> "Trevor Grace (5444)" [label=167]
-	"Tony Musolino (3282)" -> "Trevor Grace (5444)" [label=41]
-	"Barbara Pannach (4654)" -> "Trevor Grace (5444)" [label=114]
 	"Bill Thomas (5445)" -> "Trevor Grace (5444)" [label=38]
+	"Joe Ienco (5442)" -> "Tim White (635)" [label=238]
+	"Joe Ienco (5442)" -> "Trevor Grace (5444)" [label=281]
+	"Nicole Prince (5443)" -> "Joe Ienco (5442)" [label=198]
+	"Nicole Prince (5443)" -> "Tim White (635)" [label=440]
+	"Nicole Prince (5443)" -> "Trevor Grace (5444)" [label=167]
+	"Tony Musolino (3282)" -> "Joe Ienco (5442)" [label=265]
+	"Tony Musolino (3282)" -> "Nicole Prince (5443)" [label=31]
+	"Tony Musolino (3282)" -> "Tim White (635)" [label=64]
+	"Tony Musolino (3282)" -> "Trevor Grace (5444)" [label=41]
+	"Trevor Grace (5444)" -> "Tim White (635)" [label=641]
 }

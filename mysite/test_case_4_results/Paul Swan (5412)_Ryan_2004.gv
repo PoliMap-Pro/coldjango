@@ -2,18 +2,18 @@
 digraph "Paul Swan (5412)_Ryan_2004" {
 	graph [label="Ryan 2004" labelloc=t mclimit=10]
 	node [shape=box]
+	"Neville W Solomon (5411)" [label="Neville W Solomon (5411)
+Citizens Electoral Council"]
 	"Paul Swan (5412)" [label="Paul Swan (5412)
 The Greens"]
 	"Percy Campbell (5409)" [label="Percy Campbell (5409)
 Family First"]
 	"Simon Ingram (5410)" [label="Simon Ingram (5410)
 Australian Democrats"]
-	"Neville W Solomon (5411)" [label="Neville W Solomon (5411)
-Citizens Electoral Council"]
-	"Percy Campbell (5409)" -> "Paul Swan (5412)" [label=465]
-	"Simon Ingram (5410)" -> "Percy Campbell (5409)" [label=175]
-	"Neville W Solomon (5411)" -> "Simon Ingram (5410)" [label=38]
-	"Simon Ingram (5410)" -> "Paul Swan (5412)" [label=929]
 	"Neville W Solomon (5411)" -> "Paul Swan (5412)" [label=51]
 	"Neville W Solomon (5411)" -> "Percy Campbell (5409)" [label=55]
+	"Neville W Solomon (5411)" -> "Simon Ingram (5410)" [label=38]
+	"Percy Campbell (5409)" -> "Paul Swan (5412)" [label=465]
+	"Simon Ingram (5410)" -> "Paul Swan (5412)" [label=929]
+	"Simon Ingram (5410)" -> "Percy Campbell (5409)" [label=175]
 }

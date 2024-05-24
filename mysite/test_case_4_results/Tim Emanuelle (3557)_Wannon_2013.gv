@@ -2,8 +2,6 @@
 digraph "Tim Emanuelle (3557)_Wannon_2013" {
 	graph [label="Wannon 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Emanuelle (3557)" [label="Tim Emanuelle (3557)
-The Greens"]
 	"Bradley Ian Ferguson (3560)" [label="Bradley Ian Ferguson (3560)
 Palmer United Party"]
 	"Chris Johnson (3558)" [label="Chris Johnson (3558)
@@ -12,14 +10,16 @@ Sex Party"]
 Family First Party"]
 	"Therese Corbett (3555)" [label="Therese Corbett (3555)
 Australian Christians"]
+	"Tim Emanuelle (3557)" [label="Tim Emanuelle (3557)
+The Greens"]
 	"Bradley Ian Ferguson (3560)" -> "Tim Emanuelle (3557)" [label=891]
 	"Chris Johnson (3558)" -> "Bradley Ian Ferguson (3560)" [label=588]
-	"Craig Haberfield (3559)" -> "Chris Johnson (3558)" [label=270]
-	"Therese Corbett (3555)" -> "Craig Haberfield (3559)" [label=339]
 	"Chris Johnson (3558)" -> "Tim Emanuelle (3557)" [label=825]
-	"Craig Haberfield (3559)" -> "Tim Emanuelle (3557)" [label=225]
-	"Therese Corbett (3555)" -> "Tim Emanuelle (3557)" [label=101]
-	"Therese Corbett (3555)" -> "Chris Johnson (3558)" [label=57]
 	"Craig Haberfield (3559)" -> "Bradley Ian Ferguson (3560)" [label=548]
+	"Craig Haberfield (3559)" -> "Chris Johnson (3558)" [label=270]
+	"Craig Haberfield (3559)" -> "Tim Emanuelle (3557)" [label=225]
 	"Therese Corbett (3555)" -> "Bradley Ian Ferguson (3560)" [label=47]
+	"Therese Corbett (3555)" -> "Chris Johnson (3558)" [label=57]
+	"Therese Corbett (3555)" -> "Craig Haberfield (3559)" [label=339]
+	"Therese Corbett (3555)" -> "Tim Emanuelle (3557)" [label=101]
 }

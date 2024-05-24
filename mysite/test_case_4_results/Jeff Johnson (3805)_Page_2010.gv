@@ -2,18 +2,18 @@
 digraph "Jeff Johnson (3805)_Page_2010" {
 	graph [label="Page 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeff Johnson (3805)" [label="Jeff Johnson (3805)
-The Greens"]
 	"Doug Behn (3808)" [label="Doug Behn (3808)
 Independent"]
-	"Merle Desley Summerville (3806)" [label="Merle Desley Summerville (3806)
-Independent"]
+	"Jeff Johnson (3805)" [label="Jeff Johnson (3805)
+The Greens"]
 	"Julia Melland (3807)" [label="Julia Melland (3807)
 Australian Democrats"]
+	"Merle Desley Summerville (3806)" [label="Merle Desley Summerville (3806)
+Independent"]
 	"Doug Behn (3808)" -> "Jeff Johnson (3805)" [label=402]
-	"Merle Desley Summerville (3806)" -> "Doug Behn (3808)" [label=560]
-	"Julia Melland (3807)" -> "Merle Desley Summerville (3806)" [label=103]
-	"Merle Desley Summerville (3806)" -> "Jeff Johnson (3805)" [label=65]
-	"Julia Melland (3807)" -> "Jeff Johnson (3805)" [label=87]
 	"Julia Melland (3807)" -> "Doug Behn (3808)" [label=165]
+	"Julia Melland (3807)" -> "Jeff Johnson (3805)" [label=87]
+	"Julia Melland (3807)" -> "Merle Desley Summerville (3806)" [label=103]
+	"Merle Desley Summerville (3806)" -> "Doug Behn (3808)" [label=560]
+	"Merle Desley Summerville (3806)" -> "Jeff Johnson (3805)" [label=65]
 }

@@ -2,24 +2,24 @@
 digraph "Gary Oliver (1575)_Leichhardt_2019" {
 	graph [label="Leichhardt 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Gary Oliver (1575)" [label="Gary Oliver (1575)
-The Greens"]
-	"Ross Macdonald (1573)" [label="Ross Macdonald (1573)
-Pauline Hanson's One Nation"]
-	"Jen Sackley (506)" [label="Jen Sackley (506)
-United Australia Party"]
 	"Chad Anderson (1572)" [label="Chad Anderson (1572)
 Independent"]
+	"Gary Oliver (1575)" [label="Gary Oliver (1575)
+The Greens"]
+	"Jen Sackley (506)" [label="Jen Sackley (506)
+United Australia Party"]
 	"Jo Ashby (1571)" [label="Jo Ashby (1571)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Ross Macdonald (1573)" -> "Gary Oliver (1575)" [label=760]
-	"Jen Sackley (506)" -> "Ross Macdonald (1573)" [label=984]
-	"Chad Anderson (1572)" -> "Jen Sackley (506)" [label=222]
-	"Jo Ashby (1571)" -> "Chad Anderson (1572)" [label=641]
-	"Jen Sackley (506)" -> "Gary Oliver (1575)" [label=337]
+	"Ross Macdonald (1573)" [label="Ross Macdonald (1573)
+Pauline Hanson's One Nation"]
 	"Chad Anderson (1572)" -> "Gary Oliver (1575)" [label=620]
+	"Chad Anderson (1572)" -> "Jen Sackley (506)" [label=222]
+	"Chad Anderson (1572)" -> "Ross Macdonald (1573)" [label=427]
+	"Jen Sackley (506)" -> "Gary Oliver (1575)" [label=337]
+	"Jen Sackley (506)" -> "Ross Macdonald (1573)" [label=984]
+	"Jo Ashby (1571)" -> "Chad Anderson (1572)" [label=641]
 	"Jo Ashby (1571)" -> "Gary Oliver (1575)" [label=58]
 	"Jo Ashby (1571)" -> "Jen Sackley (506)" [label=136]
-	"Chad Anderson (1572)" -> "Ross Macdonald (1573)" [label=427]
 	"Jo Ashby (1571)" -> "Ross Macdonald (1573)" [label=518]
+	"Ross Macdonald (1573)" -> "Gary Oliver (1575)" [label=760]
 }

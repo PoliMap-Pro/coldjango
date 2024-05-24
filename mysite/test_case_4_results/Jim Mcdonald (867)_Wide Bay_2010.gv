@@ -9,6 +9,6 @@ Family First"]
 	"Santo Ferraro (3977)" [label="Santo Ferraro (3977)
 One Nation"]
 	"Ken Herschell (3978)" -> "Jim Mcdonald (867)" [label=1283]
-	"Santo Ferraro (3977)" -> "Ken Herschell (3978)" [label=845]
 	"Santo Ferraro (3977)" -> "Jim Mcdonald (867)" [label=225]
+	"Santo Ferraro (3977)" -> "Ken Herschell (3978)" [label=845]
 }

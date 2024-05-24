@@ -4,29 +4,29 @@ digraph "Andrew Duckett (5751)_Tangney_2004" {
 	node [shape=box]
 	"Andrew Duckett (5751)" [label="Andrew Duckett (5751)
 The Greens"]
-	"Wilson Wu (5750)" [label="Wilson Wu (5750)
-Independent"]
+	"Andrew Ingram (5749)" [label="Andrew Ingram (5749)
+Australian Democrats"]
 	"Colleen Tapley (5752)" [label="Colleen Tapley (5752)
 CDP Christian Party"]
 	"Lloyd Boon (4991)" [label="Lloyd Boon (4991)
 Pauline Hanson's One Nation"]
-	"Andrew Ingram (5749)" [label="Andrew Ingram (5749)
-Australian Democrats"]
 	"Neil A Vincent (4932)" [label="Neil A Vincent (4932)
 Citizens Electoral Council"]
-	"Wilson Wu (5750)" -> "Andrew Duckett (5751)" [label=885]
-	"Colleen Tapley (5752)" -> "Wilson Wu (5750)" [label=771]
-	"Lloyd Boon (4991)" -> "Colleen Tapley (5752)" [label=216]
-	"Andrew Ingram (5749)" -> "Lloyd Boon (4991)" [label=140]
-	"Neil A Vincent (4932)" -> "Andrew Ingram (5749)" [label=53]
-	"Colleen Tapley (5752)" -> "Andrew Duckett (5751)" [label=307]
-	"Lloyd Boon (4991)" -> "Andrew Duckett (5751)" [label=266]
+	"Wilson Wu (5750)" [label="Wilson Wu (5750)
+Independent"]
 	"Andrew Ingram (5749)" -> "Andrew Duckett (5751)" [label=454]
-	"Neil A Vincent (4932)" -> "Andrew Duckett (5751)" [label=7]
-	"Neil A Vincent (4932)" -> "Lloyd Boon (4991)" [label=30]
 	"Andrew Ingram (5749)" -> "Colleen Tapley (5752)" [label=58]
-	"Neil A Vincent (4932)" -> "Colleen Tapley (5752)" [label=12]
-	"Lloyd Boon (4991)" -> "Wilson Wu (5750)" [label=722]
+	"Andrew Ingram (5749)" -> "Lloyd Boon (4991)" [label=140]
 	"Andrew Ingram (5749)" -> "Wilson Wu (5750)" [label=278]
+	"Colleen Tapley (5752)" -> "Andrew Duckett (5751)" [label=307]
+	"Colleen Tapley (5752)" -> "Wilson Wu (5750)" [label=771]
+	"Lloyd Boon (4991)" -> "Andrew Duckett (5751)" [label=266]
+	"Lloyd Boon (4991)" -> "Colleen Tapley (5752)" [label=216]
+	"Lloyd Boon (4991)" -> "Wilson Wu (5750)" [label=722]
+	"Neil A Vincent (4932)" -> "Andrew Duckett (5751)" [label=7]
+	"Neil A Vincent (4932)" -> "Andrew Ingram (5749)" [label=53]
+	"Neil A Vincent (4932)" -> "Colleen Tapley (5752)" [label=12]
+	"Neil A Vincent (4932)" -> "Lloyd Boon (4991)" [label=30]
 	"Neil A Vincent (4932)" -> "Wilson Wu (5750)" [label=46]
+	"Wilson Wu (5750)" -> "Andrew Duckett (5751)" [label=885]
 }

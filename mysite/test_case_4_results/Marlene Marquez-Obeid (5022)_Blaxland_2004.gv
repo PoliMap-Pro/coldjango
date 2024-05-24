@@ -2,31 +2,31 @@
 digraph "Marlene Marquez-Obeid (5022)_Blaxland_2004" {
 	graph [label="Blaxland 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Marlene Marquez-Obeid (5022)" [label="Marlene Marquez-Obeid (5022)
-The Greens"]
 	"Bob Vinnicombe (3695)" [label="Bob Vinnicombe (3695)
 Pauline Hanson's One Nation (NSW Division)"]
-	"Matthew Squires (5018)" [label="Matthew Squires (5018)
-Christian Democratic Party (Fred Nile Group)"]
+	"Marlene Marquez-Obeid (5022)" [label="Marlene Marquez-Obeid (5022)
+The Greens"]
 	"Martine Eve-Macleod (5020)" [label="Martine Eve-Macleod (5020)
 Australian Democrats"]
+	"Matthew Squires (5018)" [label="Matthew Squires (5018)
+Christian Democratic Party (Fred Nile Group)"]
 	"Raul Bassi (4263)" [label="Raul Bassi (4263)
 Socialist Alliance"]
 	"Terry Boath (5021)" [label="Terry Boath (5021)
 Citizens Electoral Council"]
 	"Bob Vinnicombe (3695)" -> "Marlene Marquez-Obeid (5022)" [label=446]
-	"Matthew Squires (5018)" -> "Bob Vinnicombe (3695)" [label=427]
-	"Martine Eve-Macleod (5020)" -> "Matthew Squires (5018)" [label=86]
-	"Raul Bassi (4263)" -> "Martine Eve-Macleod (5020)" [label=48]
-	"Terry Boath (5021)" -> "Raul Bassi (4263)" [label=47]
-	"Matthew Squires (5018)" -> "Marlene Marquez-Obeid (5022)" [label=176]
+	"Martine Eve-Macleod (5020)" -> "Bob Vinnicombe (3695)" [label=120]
 	"Martine Eve-Macleod (5020)" -> "Marlene Marquez-Obeid (5022)" [label=234]
+	"Martine Eve-Macleod (5020)" -> "Matthew Squires (5018)" [label=86]
+	"Matthew Squires (5018)" -> "Bob Vinnicombe (3695)" [label=427]
+	"Matthew Squires (5018)" -> "Marlene Marquez-Obeid (5022)" [label=176]
+	"Raul Bassi (4263)" -> "Bob Vinnicombe (3695)" [label=34]
 	"Raul Bassi (4263)" -> "Marlene Marquez-Obeid (5022)" [label=268]
+	"Raul Bassi (4263)" -> "Martine Eve-Macleod (5020)" [label=48]
+	"Raul Bassi (4263)" -> "Matthew Squires (5018)" [label=34]
+	"Terry Boath (5021)" -> "Bob Vinnicombe (3695)" [label=30]
 	"Terry Boath (5021)" -> "Marlene Marquez-Obeid (5022)" [label=49]
 	"Terry Boath (5021)" -> "Martine Eve-Macleod (5020)" [label=17]
-	"Raul Bassi (4263)" -> "Matthew Squires (5018)" [label=34]
 	"Terry Boath (5021)" -> "Matthew Squires (5018)" [label=18]
-	"Martine Eve-Macleod (5020)" -> "Bob Vinnicombe (3695)" [label=120]
-	"Raul Bassi (4263)" -> "Bob Vinnicombe (3695)" [label=34]
-	"Terry Boath (5021)" -> "Bob Vinnicombe (3695)" [label=30]
+	"Terry Boath (5021)" -> "Raul Bassi (4263)" [label=47]
 }

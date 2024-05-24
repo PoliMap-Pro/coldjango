@@ -2,31 +2,31 @@
 digraph "John Forrester (4283)_Chifley_2007" {
 	graph [label="Chifley 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Amarjit Tanda (3752)" [label="Amarjit Tanda (3752)
+Independent"]
+	"Evan Jewell (4279)" [label="Evan Jewell (4279)
+Family First"]
+	"James Cogan (4278)" [label="James Cogan (4278)
+Socialist Equality Party"]
 	"John Forrester (4283)" [label="John Forrester (4283)
 The Greens"]
 	"Louise Kedwell (3710)" [label="Louise Kedwell (3710)
 One Nation"]
-	"James Cogan (4278)" [label="James Cogan (4278)
-Socialist Equality Party"]
-	"Evan Jewell (4279)" [label="Evan Jewell (4279)
-Family First"]
 	"Wayne Hyland (4280)" [label="Wayne Hyland (4280)
 Independent"]
-	"Amarjit Tanda (3752)" [label="Amarjit Tanda (3752)
-Independent"]
-	"Louise Kedwell (3710)" -> "John Forrester (4283)" [label=301]
-	"James Cogan (4278)" -> "Louise Kedwell (3710)" [label=108]
-	"Evan Jewell (4279)" -> "James Cogan (4278)" [label=230]
-	"Wayne Hyland (4280)" -> "Evan Jewell (4279)" [label=105]
-	"Amarjit Tanda (3752)" -> "Wayne Hyland (4280)" [label=42]
-	"James Cogan (4278)" -> "John Forrester (4283)" [label=129]
-	"Evan Jewell (4279)" -> "John Forrester (4283)" [label=168]
-	"Wayne Hyland (4280)" -> "John Forrester (4283)" [label=94]
-	"Amarjit Tanda (3752)" -> "John Forrester (4283)" [label=32]
 	"Amarjit Tanda (3752)" -> "Evan Jewell (4279)" [label=17]
-	"Wayne Hyland (4280)" -> "James Cogan (4278)" [label=56]
 	"Amarjit Tanda (3752)" -> "James Cogan (4278)" [label=17]
-	"Evan Jewell (4279)" -> "Louise Kedwell (3710)" [label=117]
-	"Wayne Hyland (4280)" -> "Louise Kedwell (3710)" [label=57]
+	"Amarjit Tanda (3752)" -> "John Forrester (4283)" [label=32]
 	"Amarjit Tanda (3752)" -> "Louise Kedwell (3710)" [label=24]
+	"Amarjit Tanda (3752)" -> "Wayne Hyland (4280)" [label=42]
+	"Evan Jewell (4279)" -> "James Cogan (4278)" [label=230]
+	"Evan Jewell (4279)" -> "John Forrester (4283)" [label=168]
+	"Evan Jewell (4279)" -> "Louise Kedwell (3710)" [label=117]
+	"James Cogan (4278)" -> "John Forrester (4283)" [label=129]
+	"James Cogan (4278)" -> "Louise Kedwell (3710)" [label=108]
+	"Louise Kedwell (3710)" -> "John Forrester (4283)" [label=301]
+	"Wayne Hyland (4280)" -> "Evan Jewell (4279)" [label=105]
+	"Wayne Hyland (4280)" -> "James Cogan (4278)" [label=56]
+	"Wayne Hyland (4280)" -> "John Forrester (4283)" [label=94]
+	"Wayne Hyland (4280)" -> "Louise Kedwell (3710)" [label=57]
 }

@@ -2,31 +2,31 @@
 digraph "Peter Langlands (3620)_Hasluck_2013" {
 	graph [label="Hasluck 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Chris Munro (3616)" [label="Chris Munro (3616)
+Sex Party"]
+	"Daniel Stevens (3617)" [label="Daniel Stevens (3617)
+Katter's Australian Party"]
+	"Jason Whittaker (3621)" [label="Jason Whittaker (3621)
+Australian Christians"]
+	"Kyran Sharrin (3622)" [label="Kyran Sharrin (3622)
+Family First Party"]
 	"Peter Langlands (3620)" [label="Peter Langlands (3620)
 The Greens (WA)"]
 	"Robin David Scott (3619)" [label="Robin David Scott (3619)
 Palmer United Party"]
-	"Jason Whittaker (3621)" [label="Jason Whittaker (3621)
-Australian Christians"]
-	"Chris Munro (3616)" [label="Chris Munro (3616)
-Sex Party"]
-	"Kyran Sharrin (3622)" [label="Kyran Sharrin (3622)
-Family First Party"]
-	"Daniel Stevens (3617)" [label="Daniel Stevens (3617)
-Katter's Australian Party"]
-	"Robin David Scott (3619)" -> "Peter Langlands (3620)" [label=2777]
-	"Jason Whittaker (3621)" -> "Robin David Scott (3619)" [label=416]
 	"Chris Munro (3616)" -> "Jason Whittaker (3621)" [label=141]
-	"Kyran Sharrin (3622)" -> "Chris Munro (3616)" [label=180]
-	"Daniel Stevens (3617)" -> "Kyran Sharrin (3622)" [label=29]
-	"Jason Whittaker (3621)" -> "Peter Langlands (3620)" [label=454]
 	"Chris Munro (3616)" -> "Peter Langlands (3620)" [label=624]
-	"Kyran Sharrin (3622)" -> "Peter Langlands (3620)" [label=283]
-	"Daniel Stevens (3617)" -> "Peter Langlands (3620)" [label=42]
-	"Daniel Stevens (3617)" -> "Chris Munro (3616)" [label=99]
-	"Kyran Sharrin (3622)" -> "Jason Whittaker (3621)" [label=406]
-	"Daniel Stevens (3617)" -> "Jason Whittaker (3621)" [label=13]
 	"Chris Munro (3616)" -> "Robin David Scott (3619)" [label=617]
-	"Kyran Sharrin (3622)" -> "Robin David Scott (3619)" [label=130]
+	"Daniel Stevens (3617)" -> "Chris Munro (3616)" [label=99]
+	"Daniel Stevens (3617)" -> "Jason Whittaker (3621)" [label=13]
+	"Daniel Stevens (3617)" -> "Kyran Sharrin (3622)" [label=29]
+	"Daniel Stevens (3617)" -> "Peter Langlands (3620)" [label=42]
 	"Daniel Stevens (3617)" -> "Robin David Scott (3619)" [label=172]
+	"Jason Whittaker (3621)" -> "Peter Langlands (3620)" [label=454]
+	"Jason Whittaker (3621)" -> "Robin David Scott (3619)" [label=416]
+	"Kyran Sharrin (3622)" -> "Chris Munro (3616)" [label=180]
+	"Kyran Sharrin (3622)" -> "Jason Whittaker (3621)" [label=406]
+	"Kyran Sharrin (3622)" -> "Peter Langlands (3620)" [label=283]
+	"Kyran Sharrin (3622)" -> "Robin David Scott (3619)" [label=130]
+	"Robin David Scott (3619)" -> "Peter Langlands (3620)" [label=2777]
 }

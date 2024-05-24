@@ -2,10 +2,10 @@
 digraph "Merinda Gray (5654)_Scullin_2004" {
 	graph [label="Scullin 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Merinda Gray (5654)" [label="Merinda Gray (5654)
-Australian Greens"]
 	"Amy Shand (5653)" [label="Amy Shand (5653)
 Family First"]
+	"Merinda Gray (5654)" [label="Merinda Gray (5654)
+Australian Greens"]
 	"Simon Steer (5651)" [label="Simon Steer (5651)
 Citizens Electoral Council"]
 	"Amy Shand (5653)" -> "Merinda Gray (5654)" [label=530]

@@ -2,24 +2,24 @@
 digraph "Petrina Maizey (3089)_Fadden_2013" {
 	graph [label="Fadden 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
-The Greens"]
-	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
-Family First"]
 	"Billy Lawrence (3092)" [label="Billy Lawrence (3092)
 Katter's Australian Party"]
+	"Jeremy John Fredericks (3090)" [label="Jeremy John Fredericks (3090)
+Family First"]
 	"Maurie Carroll (3093)" [label="Maurie Carroll (3093)
 Independent"]
+	"Petrina Maizey (3089)" [label="Petrina Maizey (3089)
+The Greens"]
 	"Stewart Boyd (3094)" [label="Stewart Boyd (3094)
 One Nation"]
-	"Jeremy John Fredericks (3090)" -> "Petrina Maizey (3089)" [label=482]
 	"Billy Lawrence (3092)" -> "Jeremy John Fredericks (3090)" [label=141]
-	"Maurie Carroll (3093)" -> "Billy Lawrence (3092)" [label=121]
-	"Stewart Boyd (3094)" -> "Maurie Carroll (3093)" [label=80]
 	"Billy Lawrence (3092)" -> "Petrina Maizey (3089)" [label=132]
-	"Maurie Carroll (3093)" -> "Petrina Maizey (3089)" [label=163]
-	"Stewart Boyd (3094)" -> "Petrina Maizey (3089)" [label=41]
-	"Stewart Boyd (3094)" -> "Billy Lawrence (3092)" [label=50]
+	"Jeremy John Fredericks (3090)" -> "Petrina Maizey (3089)" [label=482]
+	"Maurie Carroll (3093)" -> "Billy Lawrence (3092)" [label=121]
 	"Maurie Carroll (3093)" -> "Jeremy John Fredericks (3090)" [label=88]
+	"Maurie Carroll (3093)" -> "Petrina Maizey (3089)" [label=163]
+	"Stewart Boyd (3094)" -> "Billy Lawrence (3092)" [label=50]
 	"Stewart Boyd (3094)" -> "Jeremy John Fredericks (3090)" [label=60]
+	"Stewart Boyd (3094)" -> "Maurie Carroll (3093)" [label=80]
+	"Stewart Boyd (3094)" -> "Petrina Maizey (3089)" [label=41]
 }

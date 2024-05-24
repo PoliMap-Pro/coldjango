@@ -2,18 +2,18 @@
 digraph "Neerav Bhatt (4476)_Werriwa_2007" {
 	graph [label="Werriwa 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Neerav Bhatt (4476)" [label="Neerav Bhatt (4476)
-The Greens"]
 	"Andrew Mills (4473)" [label="Andrew Mills (4473)
 Family First"]
-	"Joe Bryant (4474)" [label="Joe Bryant (4474)
-Independent"]
 	"Hany Gayed (4475)" [label="Hany Gayed (4475)
 Christian Democratic Party (Fred Nile Group)"]
+	"Joe Bryant (4474)" [label="Joe Bryant (4474)
+Independent"]
+	"Neerav Bhatt (4476)" [label="Neerav Bhatt (4476)
+The Greens"]
 	"Andrew Mills (4473)" -> "Neerav Bhatt (4476)" [label=670]
-	"Joe Bryant (4474)" -> "Andrew Mills (4473)" [label=567]
-	"Hany Gayed (4475)" -> "Joe Bryant (4474)" [label=206]
-	"Joe Bryant (4474)" -> "Neerav Bhatt (4476)" [label=634]
-	"Hany Gayed (4475)" -> "Neerav Bhatt (4476)" [label=160]
 	"Hany Gayed (4475)" -> "Andrew Mills (4473)" [label=493]
+	"Hany Gayed (4475)" -> "Joe Bryant (4474)" [label=206]
+	"Hany Gayed (4475)" -> "Neerav Bhatt (4476)" [label=160]
+	"Joe Bryant (4474)" -> "Andrew Mills (4473)" [label=567]
+	"Joe Bryant (4474)" -> "Neerav Bhatt (4476)" [label=634]
 }

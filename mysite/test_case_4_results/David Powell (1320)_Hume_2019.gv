@@ -4,11 +4,11 @@ digraph "David Powell (1320)_Hume_2019" {
 	node [shape=box]
 	"David Powell (1320)" [label="David Powell (1320)
 The Greens"]
-	"Tanya Hargraves (1319)" [label="Tanya Hargraves (1319)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Ian Stanley Nebauer (1322)" [label="Ian Stanley Nebauer (1322)
 Christian Democratic Party (Fred Nile Group)"]
-	"Tanya Hargraves (1319)" -> "David Powell (1320)" [label=97]
-	"Ian Stanley Nebauer (1322)" -> "Tanya Hargraves (1319)" [label=162]
+	"Tanya Hargraves (1319)" [label="Tanya Hargraves (1319)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Ian Stanley Nebauer (1322)" -> "David Powell (1320)" [label=94]
+	"Ian Stanley Nebauer (1322)" -> "Tanya Hargraves (1319)" [label=162]
+	"Tanya Hargraves (1319)" -> "David Powell (1320)" [label=97]
 }

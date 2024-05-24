@@ -2,31 +2,31 @@
 digraph "Ted Nixon (4391)_North Sydney_2007" {
 	graph [label="North Sydney 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ted Nixon (4391)" [label="Ted Nixon (4391)
-The Greens"]
-	"Barry Thompson (4392)" [label="Barry Thompson (4392)
-Climate Change Coalition"]
 	"Arie Baalbergen (4389)" [label="Arie Baalbergen (4389)
 Christian Democratic Party (Fred Nile Group)"]
-	"Marcus Aussie-Stone (4390)" [label="Marcus Aussie-Stone (4390)
-Independent"]
+	"Barry Thompson (4392)" [label="Barry Thompson (4392)
+Climate Change Coalition"]
 	"John Cafferatta (4393)" [label="John Cafferatta (4393)
 Family First"]
 	"Kundan Misra (4388)" [label="Kundan Misra (4388)
 Citizens Electoral Council"]
-	"Barry Thompson (4392)" -> "Ted Nixon (4391)" [label=769]
+	"Marcus Aussie-Stone (4390)" [label="Marcus Aussie-Stone (4390)
+Independent"]
+	"Ted Nixon (4391)" [label="Ted Nixon (4391)
+The Greens"]
 	"Arie Baalbergen (4389)" -> "Barry Thompson (4392)" [label=75]
-	"Marcus Aussie-Stone (4390)" -> "Arie Baalbergen (4389)" [label=64]
-	"John Cafferatta (4393)" -> "Marcus Aussie-Stone (4390)" [label=32]
-	"Kundan Misra (4388)" -> "John Cafferatta (4393)" [label=11]
 	"Arie Baalbergen (4389)" -> "Ted Nixon (4391)" [label=94]
-	"Marcus Aussie-Stone (4390)" -> "Ted Nixon (4391)" [label=173]
-	"John Cafferatta (4393)" -> "Ted Nixon (4391)" [label=38]
-	"Kundan Misra (4388)" -> "Ted Nixon (4391)" [label=10]
-	"Kundan Misra (4388)" -> "Marcus Aussie-Stone (4390)" [label=30]
+	"Barry Thompson (4392)" -> "Ted Nixon (4391)" [label=769]
 	"John Cafferatta (4393)" -> "Arie Baalbergen (4389)" [label=98]
-	"Kundan Misra (4388)" -> "Arie Baalbergen (4389)" [label=131]
-	"Marcus Aussie-Stone (4390)" -> "Barry Thompson (4392)" [label=85]
 	"John Cafferatta (4393)" -> "Barry Thompson (4392)" [label=48]
+	"John Cafferatta (4393)" -> "Marcus Aussie-Stone (4390)" [label=32]
+	"John Cafferatta (4393)" -> "Ted Nixon (4391)" [label=38]
+	"Kundan Misra (4388)" -> "Arie Baalbergen (4389)" [label=131]
 	"Kundan Misra (4388)" -> "Barry Thompson (4392)" [label=6]
+	"Kundan Misra (4388)" -> "John Cafferatta (4393)" [label=11]
+	"Kundan Misra (4388)" -> "Marcus Aussie-Stone (4390)" [label=30]
+	"Kundan Misra (4388)" -> "Ted Nixon (4391)" [label=10]
+	"Marcus Aussie-Stone (4390)" -> "Arie Baalbergen (4389)" [label=64]
+	"Marcus Aussie-Stone (4390)" -> "Barry Thompson (4392)" [label=85]
+	"Marcus Aussie-Stone (4390)" -> "Ted Nixon (4391)" [label=173]
 }

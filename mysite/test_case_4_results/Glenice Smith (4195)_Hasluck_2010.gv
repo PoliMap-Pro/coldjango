@@ -2,24 +2,24 @@
 digraph "Glenice Smith (4195)_Hasluck_2010" {
 	graph [label="Hasluck 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Glenice Smith (4195)" [label="Glenice Smith (4195)
-The Greens"]
-	"Linda E Brewer (4196)" [label="Linda E Brewer (4196)
-Christian Democratic Party"]
-	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
-Family First"]
-	"Dot Henry (4198)" [label="Dot Henry (4198)
-Independent"]
 	"Andrew Charles Middleton (1119)" [label="Andrew Charles Middleton (1119)
 The Climate Sceptics"]
-	"Linda E Brewer (4196)" -> "Glenice Smith (4195)" [label=725]
-	"Jim Mccourt (3613)" -> "Linda E Brewer (4196)" [label=785]
-	"Dot Henry (4198)" -> "Jim Mccourt (3613)" [label=370]
+	"Dot Henry (4198)" [label="Dot Henry (4198)
+Independent"]
+	"Glenice Smith (4195)" [label="Glenice Smith (4195)
+The Greens"]
+	"Jim Mccourt (3613)" [label="Jim Mccourt (3613)
+Family First"]
+	"Linda E Brewer (4196)" [label="Linda E Brewer (4196)
+Christian Democratic Party"]
 	"Andrew Charles Middleton (1119)" -> "Dot Henry (4198)" [label=105]
-	"Jim Mccourt (3613)" -> "Glenice Smith (4195)" [label=679]
-	"Dot Henry (4198)" -> "Glenice Smith (4195)" [label=454]
 	"Andrew Charles Middleton (1119)" -> "Glenice Smith (4195)" [label=142]
 	"Andrew Charles Middleton (1119)" -> "Jim Mccourt (3613)" [label=103]
-	"Dot Henry (4198)" -> "Linda E Brewer (4196)" [label=122]
 	"Andrew Charles Middleton (1119)" -> "Linda E Brewer (4196)" [label=79]
+	"Dot Henry (4198)" -> "Glenice Smith (4195)" [label=454]
+	"Dot Henry (4198)" -> "Jim Mccourt (3613)" [label=370]
+	"Dot Henry (4198)" -> "Linda E Brewer (4196)" [label=122]
+	"Jim Mccourt (3613)" -> "Glenice Smith (4195)" [label=679]
+	"Jim Mccourt (3613)" -> "Linda E Brewer (4196)" [label=785]
+	"Linda E Brewer (4196)" -> "Glenice Smith (4195)" [label=725]
 }

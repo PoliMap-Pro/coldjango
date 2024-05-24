@@ -4,11 +4,11 @@ digraph "Josh Fergeus (2569)_Chisholm_2010" {
 	node [shape=box]
 	"Josh Fergeus (2569)" [label="Josh Fergeus (2569)
 Australian Greens"]
-	"Phil Goodman (4061)" [label="Phil Goodman (4061)
-Family First"]
 	"Nimrod Evans (4062)" [label="Nimrod Evans (4062)
 Secular Party of Australia"]
-	"Phil Goodman (4061)" -> "Josh Fergeus (2569)" [label=430]
-	"Nimrod Evans (4062)" -> "Phil Goodman (4061)" [label=106]
+	"Phil Goodman (4061)" [label="Phil Goodman (4061)
+Family First"]
 	"Nimrod Evans (4062)" -> "Josh Fergeus (2569)" [label=255]
+	"Nimrod Evans (4062)" -> "Phil Goodman (4061)" [label=106]
+	"Phil Goodman (4061)" -> "Josh Fergeus (2569)" [label=430]
 }

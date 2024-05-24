@@ -9,6 +9,6 @@ Christian Democratic Party (Fred Nile Group)"]
 	"Carolyn Kennett (3821)" [label="Carolyn Kennett (3821)
 Socialist Equality Party"]
 	"Bill Shailer (2982)" -> "Adam Butler (3819)" [label=441]
-	"Carolyn Kennett (3821)" -> "Bill Shailer (2982)" [label=167]
 	"Carolyn Kennett (3821)" -> "Adam Butler (3819)" [label=332]
+	"Carolyn Kennett (3821)" -> "Bill Shailer (2982)" [label=167]
 }

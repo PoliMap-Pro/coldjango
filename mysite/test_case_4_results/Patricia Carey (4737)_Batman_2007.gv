@@ -2,18 +2,18 @@
 digraph "Patricia Carey (4737)_Batman_2007" {
 	graph [label="Batman 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Darren Hassan (4030)" [label="Darren Hassan (4030)
+Australian Democrats"]
 	"Patricia Carey (4737)" [label="Patricia Carey (4737)
 Australian Greens"]
 	"Peter Kerin (4515)" [label="Peter Kerin (4515)
 Democrats"]
-	"Darren Hassan (4030)" [label="Darren Hassan (4030)
-Australian Democrats"]
 	"Robert Barwick (4740)" [label="Robert Barwick (4740)
 Citizens Electoral Council"]
-	"Peter Kerin (4515)" -> "Patricia Carey (4737)" [label=1238]
-	"Darren Hassan (4030)" -> "Peter Kerin (4515)" [label=678]
-	"Robert Barwick (4740)" -> "Darren Hassan (4030)" [label=55]
 	"Darren Hassan (4030)" -> "Patricia Carey (4737)" [label=528]
+	"Darren Hassan (4030)" -> "Peter Kerin (4515)" [label=678]
+	"Peter Kerin (4515)" -> "Patricia Carey (4737)" [label=1238]
+	"Robert Barwick (4740)" -> "Darren Hassan (4030)" [label=55]
 	"Robert Barwick (4740)" -> "Patricia Carey (4737)" [label=35]
 	"Robert Barwick (4740)" -> "Peter Kerin (4515)" [label=44]
 }

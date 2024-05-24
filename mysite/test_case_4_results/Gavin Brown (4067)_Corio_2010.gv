@@ -9,6 +9,6 @@ Family First"]
 	"Sue Bull (810)" [label="Sue Bull (810)
 Socialist Alliance"]
 	"Scott Amberley (3432)" -> "Gavin Brown (4067)" [label=822]
-	"Sue Bull (810)" -> "Scott Amberley (3432)" [label=198]
 	"Sue Bull (810)" -> "Gavin Brown (4067)" [label=494]
+	"Sue Bull (810)" -> "Scott Amberley (3432)" [label=198]
 }

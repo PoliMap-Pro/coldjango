@@ -6,27 +6,27 @@ digraph "Craig Smith (5601)_La Trobe_2004" {
 Australian Greens"]
 	"Darryl Bridges (5606)" [label="Darryl Bridges (5606)
 Family First"]
-	"Tony Holland (5602)" [label="Tony Holland (5602)
-Democrats"]
 	"Frank Dean (5604)" [label="Frank Dean (5604)
 Independent"]
-	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
-Christian Democratic Party (Fred Nile Group)"]
 	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
 Citizens Electoral Council"]
+	"Tony Holland (5602)" [label="Tony Holland (5602)
+Democrats"]
+	"Wolf Voigt (5605)" [label="Wolf Voigt (5605)
+Christian Democratic Party (Fred Nile Group)"]
 	"Darryl Bridges (5606)" -> "Craig Smith (5601)" [label=455]
-	"Tony Holland (5602)" -> "Darryl Bridges (5606)" [label=129]
+	"Frank Dean (5604)" -> "Craig Smith (5601)" [label=173]
+	"Frank Dean (5604)" -> "Darryl Bridges (5606)" [label=139]
 	"Frank Dean (5604)" -> "Tony Holland (5602)" [label=150]
-	"Wolf Voigt (5605)" -> "Frank Dean (5604)" [label=20]
+	"Kurt Beilharz (4842)" -> "Craig Smith (5601)" [label=28]
+	"Kurt Beilharz (4842)" -> "Darryl Bridges (5606)" [label=22]
+	"Kurt Beilharz (4842)" -> "Frank Dean (5604)" [label=19]
+	"Kurt Beilharz (4842)" -> "Tony Holland (5602)" [label=11]
 	"Kurt Beilharz (4842)" -> "Wolf Voigt (5605)" [label=17]
 	"Tony Holland (5602)" -> "Craig Smith (5601)" [label=538]
-	"Frank Dean (5604)" -> "Craig Smith (5601)" [label=173]
+	"Tony Holland (5602)" -> "Darryl Bridges (5606)" [label=129]
 	"Wolf Voigt (5605)" -> "Craig Smith (5601)" [label=21]
-	"Kurt Beilharz (4842)" -> "Craig Smith (5601)" [label=28]
-	"Kurt Beilharz (4842)" -> "Frank Dean (5604)" [label=19]
-	"Wolf Voigt (5605)" -> "Tony Holland (5602)" [label=14]
-	"Kurt Beilharz (4842)" -> "Tony Holland (5602)" [label=11]
-	"Frank Dean (5604)" -> "Darryl Bridges (5606)" [label=139]
 	"Wolf Voigt (5605)" -> "Darryl Bridges (5606)" [label=203]
-	"Kurt Beilharz (4842)" -> "Darryl Bridges (5606)" [label=22]
+	"Wolf Voigt (5605)" -> "Frank Dean (5604)" [label=20]
+	"Wolf Voigt (5605)" -> "Tony Holland (5602)" [label=14]
 }

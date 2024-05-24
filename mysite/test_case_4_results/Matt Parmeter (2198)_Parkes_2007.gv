@@ -2,18 +2,18 @@
 digraph "Matt Parmeter (2198)_Parkes_2007" {
 	graph [label="Parkes 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
-The Greens"]
 	"Bruce Douglas Haigh (4404)" [label="Bruce Douglas Haigh (4404)
 Independent"]
+	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
+The Greens"]
 	"Michael Kiely (4403)" [label="Michael Kiely (4403)
 Climate Change Coalition"]
 	"Richard Stringer (4405)" [label="Richard Stringer (4405)
 Citizens Electoral Council"]
 	"Bruce Douglas Haigh (4404)" -> "Matt Parmeter (2198)" [label=316]
 	"Michael Kiely (4403)" -> "Bruce Douglas Haigh (4404)" [label=129]
-	"Richard Stringer (4405)" -> "Michael Kiely (4403)" [label=28]
 	"Michael Kiely (4403)" -> "Matt Parmeter (2198)" [label=210]
-	"Richard Stringer (4405)" -> "Matt Parmeter (2198)" [label=15]
 	"Richard Stringer (4405)" -> "Bruce Douglas Haigh (4404)" [label=44]
+	"Richard Stringer (4405)" -> "Matt Parmeter (2198)" [label=15]
+	"Richard Stringer (4405)" -> "Michael Kiely (4403)" [label=28]
 }

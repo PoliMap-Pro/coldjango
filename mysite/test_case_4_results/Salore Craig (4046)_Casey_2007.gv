@@ -2,18 +2,18 @@
 digraph "Salore Craig (4046)_Casey_2007" {
 	graph [label="Casey 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Salore Craig (4046)" [label="Salore Craig (4046)
-Australian Greens"]
 	"Daniel Harrison (4060)" [label="Daniel Harrison (4060)
 Family First"]
-	"Tony Inglese (4762)" [label="Tony Inglese (4762)
-Australian Democrats"]
 	"George Thomas Moran (4763)" [label="George Thomas Moran (4763)
 Christian Democratic Party (Fred Nile Group)"]
+	"Salore Craig (4046)" [label="Salore Craig (4046)
+Australian Greens"]
+	"Tony Inglese (4762)" [label="Tony Inglese (4762)
+Australian Democrats"]
 	"Daniel Harrison (4060)" -> "Salore Craig (4046)" [label=727]
-	"Tony Inglese (4762)" -> "Daniel Harrison (4060)" [label=146]
-	"George Thomas Moran (4763)" -> "Tony Inglese (4762)" [label=59]
-	"Tony Inglese (4762)" -> "Salore Craig (4046)" [label=524]
-	"George Thomas Moran (4763)" -> "Salore Craig (4046)" [label=30]
 	"George Thomas Moran (4763)" -> "Daniel Harrison (4060)" [label=209]
+	"George Thomas Moran (4763)" -> "Salore Craig (4046)" [label=30]
+	"George Thomas Moran (4763)" -> "Tony Inglese (4762)" [label=59]
+	"Tony Inglese (4762)" -> "Daniel Harrison (4060)" [label=146]
+	"Tony Inglese (4762)" -> "Salore Craig (4046)" [label=524]
 }

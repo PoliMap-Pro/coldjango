@@ -2,31 +2,31 @@
 digraph "Naomi Waizer (3714)_Cook_2007" {
 	graph [label="Cook 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Naomi Waizer (3714)" [label="Naomi Waizer (3714)
-The Greens"]
-	"Beth Smith (2846)" [label="Beth Smith (2846)
-Christian Democratic Party (Fred Nile Group)"]
-	"Richard Putral (3715)" [label="Richard Putral (3715)
-One Nation"]
-	"Graeme Strang (2848)" [label="Graeme Strang (2848)
-Independent"]
 	"Ari Katsoulas (4284)" [label="Ari Katsoulas (4284)
 Family First"]
+	"Beth Smith (2846)" [label="Beth Smith (2846)
+Christian Democratic Party (Fred Nile Group)"]
+	"Graeme Strang (2848)" [label="Graeme Strang (2848)
+Independent"]
+	"Naomi Waizer (3714)" [label="Naomi Waizer (3714)
+The Greens"]
 	"Patricia Poulos (4285)" [label="Patricia Poulos (4285)
 Independent"]
-	"Beth Smith (2846)" -> "Naomi Waizer (3714)" [label=362]
-	"Richard Putral (3715)" -> "Beth Smith (2846)" [label=294]
-	"Graeme Strang (2848)" -> "Richard Putral (3715)" [label=72]
-	"Ari Katsoulas (4284)" -> "Graeme Strang (2848)" [label=159]
-	"Patricia Poulos (4285)" -> "Ari Katsoulas (4284)" [label=90]
-	"Richard Putral (3715)" -> "Naomi Waizer (3714)" [label=283]
-	"Graeme Strang (2848)" -> "Naomi Waizer (3714)" [label=588]
-	"Ari Katsoulas (4284)" -> "Naomi Waizer (3714)" [label=159]
-	"Patricia Poulos (4285)" -> "Naomi Waizer (3714)" [label=66]
-	"Patricia Poulos (4285)" -> "Graeme Strang (2848)" [label=127]
-	"Ari Katsoulas (4284)" -> "Richard Putral (3715)" [label=43]
-	"Patricia Poulos (4285)" -> "Richard Putral (3715)" [label=9]
-	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=88]
+	"Richard Putral (3715)" [label="Richard Putral (3715)
+One Nation"]
 	"Ari Katsoulas (4284)" -> "Beth Smith (2846)" [label=92]
+	"Ari Katsoulas (4284)" -> "Graeme Strang (2848)" [label=159]
+	"Ari Katsoulas (4284)" -> "Naomi Waizer (3714)" [label=159]
+	"Ari Katsoulas (4284)" -> "Richard Putral (3715)" [label=43]
+	"Beth Smith (2846)" -> "Naomi Waizer (3714)" [label=362]
+	"Graeme Strang (2848)" -> "Beth Smith (2846)" [label=88]
+	"Graeme Strang (2848)" -> "Naomi Waizer (3714)" [label=588]
+	"Graeme Strang (2848)" -> "Richard Putral (3715)" [label=72]
+	"Patricia Poulos (4285)" -> "Ari Katsoulas (4284)" [label=90]
 	"Patricia Poulos (4285)" -> "Beth Smith (2846)" [label=23]
+	"Patricia Poulos (4285)" -> "Graeme Strang (2848)" [label=127]
+	"Patricia Poulos (4285)" -> "Naomi Waizer (3714)" [label=66]
+	"Patricia Poulos (4285)" -> "Richard Putral (3715)" [label=9]
+	"Richard Putral (3715)" -> "Beth Smith (2846)" [label=294]
+	"Richard Putral (3715)" -> "Naomi Waizer (3714)" [label=283]
 }

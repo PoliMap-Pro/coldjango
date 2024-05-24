@@ -2,10 +2,10 @@
 digraph "Lenka Thompson (4058)_Calwell_2010" {
 	graph [label="Calwell 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lenka Thompson (4058)" [label="Lenka Thompson (4058)
-Australian Greens"]
 	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
 Family First"]
+	"Lenka Thompson (4058)" [label="Lenka Thompson (4058)
+Australian Greens"]
 	"Peter Byrne (1746)" [label="Peter Byrne (1746)
 Socialist Equality Party"]
 	"Jeff Truscott (1846)" -> "Lenka Thompson (4058)" [label=1384]

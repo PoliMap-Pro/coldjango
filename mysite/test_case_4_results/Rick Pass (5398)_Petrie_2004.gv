@@ -4,11 +4,11 @@ digraph "Rick Pass (5398)_Petrie_2004" {
 	node [shape=box]
 	"Rick Pass (5398)" [label="Rick Pass (5398)
 The Greens"]
-	"Wade Whincop (5399)" [label="Wade Whincop (5399)
-Family First"]
 	"Terri Bell (5400)" [label="Terri Bell (5400)
 Australian Democrats"]
-	"Wade Whincop (5399)" -> "Rick Pass (5398)" [label=747]
-	"Terri Bell (5400)" -> "Wade Whincop (5399)" [label=220]
+	"Wade Whincop (5399)" [label="Wade Whincop (5399)
+Family First"]
 	"Terri Bell (5400)" -> "Rick Pass (5398)" [label=489]
+	"Terri Bell (5400)" -> "Wade Whincop (5399)" [label=220]
+	"Wade Whincop (5399)" -> "Rick Pass (5398)" [label=747]
 }

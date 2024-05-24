@@ -2,10 +2,10 @@
 digraph "Geoff Payne (4098)_Hotham_2010" {
 	graph [label="Hotham 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Geoff Payne (4098)" [label="Geoff Payne (4098)
-Australian Greens"]
 	"Gary Ong (4100)" [label="Gary Ong (4100)
 Family First"]
+	"Geoff Payne (4098)" [label="Geoff Payne (4098)
+Australian Greens"]
 	"Trent Reardon (4099)" [label="Trent Reardon (4099)
 Secular Party of Australia"]
 	"Gary Ong (4100)" -> "Geoff Payne (4098)" [label=506]

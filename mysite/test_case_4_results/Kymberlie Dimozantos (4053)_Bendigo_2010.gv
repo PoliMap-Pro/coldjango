@@ -2,9 +2,9 @@
 digraph "Kymberlie Dimozantos (4053)_Bendigo_2010" {
 	graph [label="Bendigo 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kymberlie Dimozantos (4053)" [label="Kymberlie Dimozantos (4053)
-Australian Greens"]
 	"Alan Howard (2552)" [label="Alan Howard (2552)
 Family First"]
+	"Kymberlie Dimozantos (4053)" [label="Kymberlie Dimozantos (4053)
+Australian Greens"]
 	"Alan Howard (2552)" -> "Kymberlie Dimozantos (4053)" [label=751]
 }

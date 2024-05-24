@@ -2,12 +2,12 @@
 digraph "Lizza Gebilagin (4420)_Prospect_2007" {
 	graph [label="Prospect 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lizza Gebilagin (4420)" [label="Lizza Gebilagin (4420)
-The Greens"]
 	"Carolyn Lever (4419)" [label="Carolyn Lever (4419)
 Family First"]
 	"Jason Callander (4422)" [label="Jason Callander (4422)
 Christian Democratic Party (Fred Nile Group)"]
+	"Lizza Gebilagin (4420)" [label="Lizza Gebilagin (4420)
+The Greens"]
 	"Carolyn Lever (4419)" -> "Lizza Gebilagin (4420)" [label=1620]
 	"Jason Callander (4422)" -> "Carolyn Lever (4419)" [label=604]
 	"Jason Callander (4422)" -> "Lizza Gebilagin (4420)" [label=162]

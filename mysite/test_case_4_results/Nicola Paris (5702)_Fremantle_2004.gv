@@ -2,31 +2,31 @@
 digraph "Nicola Paris (5702)_Fremantle_2004" {
 	graph [label="Fremantle 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nicola Paris (5702)" [label="Nicola Paris (5702)
-The Greens"]
 	"Craig Alan Mackintosh (5701)" [label="Craig Alan Mackintosh (5701)
 Pauline Hanson's One Nation"]
-	"Michelle Shave (5697)" [label="Michelle Shave (5697)
-CDP Christian Party"]
-	"Delys Beaumont (5699)" [label="Delys Beaumont (5699)
-Australian Democrats"]
 	"Damian Poole (5695)" [label="Damian Poole (5695)
 Citizens Electoral Council"]
+	"Delys Beaumont (5699)" [label="Delys Beaumont (5699)
+Australian Democrats"]
 	"Ian Jamieson (5698)" [label="Ian Jamieson (5698)
 Socialist Alliance"]
+	"Michelle Shave (5697)" [label="Michelle Shave (5697)
+CDP Christian Party"]
+	"Nicola Paris (5702)" [label="Nicola Paris (5702)
+The Greens"]
 	"Craig Alan Mackintosh (5701)" -> "Nicola Paris (5702)" [label=795]
-	"Michelle Shave (5697)" -> "Craig Alan Mackintosh (5701)" [label=198]
-	"Delys Beaumont (5699)" -> "Michelle Shave (5697)" [label=83]
-	"Damian Poole (5695)" -> "Delys Beaumont (5699)" [label=48]
-	"Ian Jamieson (5698)" -> "Damian Poole (5695)" [label=29]
-	"Michelle Shave (5697)" -> "Nicola Paris (5702)" [label=206]
-	"Delys Beaumont (5699)" -> "Nicola Paris (5702)" [label=576]
-	"Damian Poole (5695)" -> "Nicola Paris (5702)" [label=68]
-	"Ian Jamieson (5698)" -> "Nicola Paris (5702)" [label=134]
-	"Ian Jamieson (5698)" -> "Delys Beaumont (5699)" [label=37]
-	"Damian Poole (5695)" -> "Michelle Shave (5697)" [label=132]
-	"Ian Jamieson (5698)" -> "Michelle Shave (5697)" [label=43]
-	"Delys Beaumont (5699)" -> "Craig Alan Mackintosh (5701)" [label=79]
 	"Damian Poole (5695)" -> "Craig Alan Mackintosh (5701)" [label=47]
+	"Damian Poole (5695)" -> "Delys Beaumont (5699)" [label=48]
+	"Damian Poole (5695)" -> "Michelle Shave (5697)" [label=132]
+	"Damian Poole (5695)" -> "Nicola Paris (5702)" [label=68]
+	"Delys Beaumont (5699)" -> "Craig Alan Mackintosh (5701)" [label=79]
+	"Delys Beaumont (5699)" -> "Michelle Shave (5697)" [label=83]
+	"Delys Beaumont (5699)" -> "Nicola Paris (5702)" [label=576]
 	"Ian Jamieson (5698)" -> "Craig Alan Mackintosh (5701)" [label=16]
+	"Ian Jamieson (5698)" -> "Damian Poole (5695)" [label=29]
+	"Ian Jamieson (5698)" -> "Delys Beaumont (5699)" [label=37]
+	"Ian Jamieson (5698)" -> "Michelle Shave (5697)" [label=43]
+	"Ian Jamieson (5698)" -> "Nicola Paris (5702)" [label=134]
+	"Michelle Shave (5697)" -> "Craig Alan Mackintosh (5701)" [label=198]
+	"Michelle Shave (5697)" -> "Nicola Paris (5702)" [label=206]
 }

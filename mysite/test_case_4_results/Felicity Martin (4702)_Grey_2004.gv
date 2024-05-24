@@ -6,14 +6,14 @@ digraph "Felicity Martin (4702)_Grey_2004" {
 The Greens"]
 	"Gil Robertson (4663)" [label="Gil Robertson (4663)
 Australian Democrats"]
-	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
-One Nation"]
 	"Paul Siebert (5440)" [label="Paul Siebert (5440)
 Citizens Electoral Council"]
+	"Peter Fitzpatrick (4698)" [label="Peter Fitzpatrick (4698)
+One Nation"]
 	"Gil Robertson (4663)" -> "Felicity Martin (4702)" [label=444]
-	"Peter Fitzpatrick (4698)" -> "Gil Robertson (4663)" [label=198]
-	"Paul Siebert (5440)" -> "Peter Fitzpatrick (4698)" [label=47]
-	"Peter Fitzpatrick (4698)" -> "Felicity Martin (4702)" [label=195]
 	"Paul Siebert (5440)" -> "Felicity Martin (4702)" [label=53]
 	"Paul Siebert (5440)" -> "Gil Robertson (4663)" [label=29]
+	"Paul Siebert (5440)" -> "Peter Fitzpatrick (4698)" [label=47]
+	"Peter Fitzpatrick (4698)" -> "Felicity Martin (4702)" [label=195]
+	"Peter Fitzpatrick (4698)" -> "Gil Robertson (4663)" [label=198]
 }

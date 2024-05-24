@@ -2,31 +2,31 @@
 digraph "Ros Prangnell (2991)_Riverina_2013" {
 	graph [label="Riverina 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ros Prangnell (2991)" [label="Ros Prangnell (2991)
-The Greens"]
 	"Andrew John Lamont (2986)" [label="Andrew John Lamont (2986)
 Bullet Train For Australia"]
 	"Keith Pech (2989)" [label="Keith Pech (2989)
 Christian Democratic Party (Fred Nile Group)"]
+	"Kim Heath (2993)" [label="Kim Heath (2993)
+Rise Up Australia Party"]
 	"Lorraine Sharp (2987)" [label="Lorraine Sharp (2987)
 Australia First Party"]
 	"Norm Dunn (2990)" [label="Norm Dunn (2990)
 Katter's Australian Party"]
-	"Kim Heath (2993)" [label="Kim Heath (2993)
-Rise Up Australia Party"]
+	"Ros Prangnell (2991)" [label="Ros Prangnell (2991)
+The Greens"]
 	"Andrew John Lamont (2986)" -> "Ros Prangnell (2991)" [label=237]
 	"Keith Pech (2989)" -> "Andrew John Lamont (2986)" [label=187]
-	"Lorraine Sharp (2987)" -> "Keith Pech (2989)" [label=120]
-	"Norm Dunn (2990)" -> "Lorraine Sharp (2987)" [label=111]
-	"Kim Heath (2993)" -> "Norm Dunn (2990)" [label=64]
 	"Keith Pech (2989)" -> "Ros Prangnell (2991)" [label=58]
-	"Lorraine Sharp (2987)" -> "Ros Prangnell (2991)" [label=93]
-	"Norm Dunn (2990)" -> "Ros Prangnell (2991)" [label=67]
-	"Kim Heath (2993)" -> "Ros Prangnell (2991)" [label=113]
-	"Kim Heath (2993)" -> "Lorraine Sharp (2987)" [label=90]
-	"Norm Dunn (2990)" -> "Keith Pech (2989)" [label=75]
-	"Kim Heath (2993)" -> "Keith Pech (2989)" [label=175]
-	"Lorraine Sharp (2987)" -> "Andrew John Lamont (2986)" [label=376]
-	"Norm Dunn (2990)" -> "Andrew John Lamont (2986)" [label=98]
 	"Kim Heath (2993)" -> "Andrew John Lamont (2986)" [label=104]
+	"Kim Heath (2993)" -> "Keith Pech (2989)" [label=175]
+	"Kim Heath (2993)" -> "Lorraine Sharp (2987)" [label=90]
+	"Kim Heath (2993)" -> "Norm Dunn (2990)" [label=64]
+	"Kim Heath (2993)" -> "Ros Prangnell (2991)" [label=113]
+	"Lorraine Sharp (2987)" -> "Andrew John Lamont (2986)" [label=376]
+	"Lorraine Sharp (2987)" -> "Keith Pech (2989)" [label=120]
+	"Lorraine Sharp (2987)" -> "Ros Prangnell (2991)" [label=93]
+	"Norm Dunn (2990)" -> "Andrew John Lamont (2986)" [label=98]
+	"Norm Dunn (2990)" -> "Keith Pech (2989)" [label=75]
+	"Norm Dunn (2990)" -> "Lorraine Sharp (2987)" [label=111]
+	"Norm Dunn (2990)" -> "Ros Prangnell (2991)" [label=67]
 }

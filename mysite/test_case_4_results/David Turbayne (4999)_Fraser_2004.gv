@@ -4,11 +4,11 @@ digraph "David Turbayne (4999)_Fraser_2004" {
 	node [shape=box]
 	"David Turbayne (4999)" [label="David Turbayne (4999)
 The Greens"]
-	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
-Australian Democrats"]
 	"James Vassilopoulos (4997)" [label="James Vassilopoulos (4997)
 Socialist Alliance"]
-	"Lynne Grimsey (4998)" -> "David Turbayne (4999)" [label=1433]
-	"James Vassilopoulos (4997)" -> "Lynne Grimsey (4998)" [label=220]
+	"Lynne Grimsey (4998)" [label="Lynne Grimsey (4998)
+Australian Democrats"]
 	"James Vassilopoulos (4997)" -> "David Turbayne (4999)" [label=723]
+	"James Vassilopoulos (4997)" -> "Lynne Grimsey (4998)" [label=220]
+	"Lynne Grimsey (4998)" -> "David Turbayne (4999)" [label=1433]
 }

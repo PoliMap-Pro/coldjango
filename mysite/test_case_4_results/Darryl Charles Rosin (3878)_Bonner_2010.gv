@@ -2,18 +2,18 @@
 digraph "Darryl Charles Rosin (3878)_Bonner_2010" {
 	graph [label="Bonner 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Darryl Charles Rosin (3878)" [label="Darryl Charles Rosin (3878)
-The Greens"]
 	"Carolyn Maree Ferrando (3881)" [label="Carolyn Maree Ferrando (3881)
 Family First"]
+	"Darryl Charles Rosin (3878)" [label="Darryl Charles Rosin (3878)
+The Greens"]
 	"Greg Sowden (3127)" [label="Greg Sowden (3127)
 Independent"]
 	"Utz Wellner (3877)" [label="Utz Wellner (3877)
 D.L.P. - Democratic Labor Party"]
 	"Carolyn Maree Ferrando (3881)" -> "Darryl Charles Rosin (3878)" [label=874]
 	"Greg Sowden (3127)" -> "Carolyn Maree Ferrando (3881)" [label=644]
-	"Utz Wellner (3877)" -> "Greg Sowden (3127)" [label=90]
 	"Greg Sowden (3127)" -> "Darryl Charles Rosin (3878)" [label=572]
-	"Utz Wellner (3877)" -> "Darryl Charles Rosin (3878)" [label=406]
 	"Utz Wellner (3877)" -> "Carolyn Maree Ferrando (3881)" [label=92]
+	"Utz Wellner (3877)" -> "Darryl Charles Rosin (3878)" [label=406]
+	"Utz Wellner (3877)" -> "Greg Sowden (3127)" [label=90]
 }

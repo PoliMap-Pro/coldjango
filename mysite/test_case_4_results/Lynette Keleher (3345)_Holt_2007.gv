@@ -2,18 +2,18 @@
 digraph "Lynette Keleher (3345)_Holt_2007" {
 	graph [label="Holt 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Chris Morgan (4818)" [label="Chris Morgan (4818)
+Citizens Electoral Council"]
+	"Ken Seymour (4817)" [label="Ken Seymour (4817)
+Australian Democrats"]
 	"Lynette Keleher (3345)" [label="Lynette Keleher (3345)
 Australian Greens"]
 	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
 Family First"]
-	"Ken Seymour (4817)" [label="Ken Seymour (4817)
-Australian Democrats"]
-	"Chris Morgan (4818)" [label="Chris Morgan (4818)
-Citizens Electoral Council"]
-	"Yasmin De Zilwa (3384)" -> "Lynette Keleher (3345)" [label=811]
-	"Ken Seymour (4817)" -> "Yasmin De Zilwa (3384)" [label=150]
 	"Chris Morgan (4818)" -> "Ken Seymour (4817)" [label=88]
-	"Ken Seymour (4817)" -> "Lynette Keleher (3345)" [label=568]
 	"Chris Morgan (4818)" -> "Lynette Keleher (3345)" [label=113]
 	"Chris Morgan (4818)" -> "Yasmin De Zilwa (3384)" [label=68]
+	"Ken Seymour (4817)" -> "Lynette Keleher (3345)" [label=568]
+	"Ken Seymour (4817)" -> "Yasmin De Zilwa (3384)" [label=150]
+	"Yasmin De Zilwa (3384)" -> "Lynette Keleher (3345)" [label=811]
 }

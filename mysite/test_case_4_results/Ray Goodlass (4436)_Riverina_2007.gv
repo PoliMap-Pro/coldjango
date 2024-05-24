@@ -2,12 +2,12 @@
 digraph "Ray Goodlass (4436)_Riverina_2007" {
 	graph [label="Riverina 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ray Goodlass (4436)" [label="Ray Goodlass (4436)
-The Greens"]
 	"Craig Hesketh (3832)" [label="Craig Hesketh (3832)
 One Nation"]
 	"Gary Johnson (4433)" [label="Gary Johnson (4433)
 Citizens Electoral Council"]
+	"Ray Goodlass (4436)" [label="Ray Goodlass (4436)
+The Greens"]
 	"Craig Hesketh (3832)" -> "Ray Goodlass (4436)" [label=528]
 	"Gary Johnson (4433)" -> "Craig Hesketh (3832)" [label=148]
 	"Gary Johnson (4433)" -> "Ray Goodlass (4436)" [label=107]

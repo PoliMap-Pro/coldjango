@@ -4,29 +4,29 @@ digraph "Jennifer Hanson (5143)_Macarthur_2004" {
 	node [shape=box]
 	"Jennifer Hanson (5143)" [label="Jennifer Hanson (5143)
 The Greens"]
-	"Mick Agius (5141)" [label="Mick Agius (5141)
-Family First"]
-	"Ralph Bernard Dunkerley (5142)" [label="Ralph Bernard Dunkerley (5142)
-Christian Democratic Party (Fred Nile Group)"]
 	"Len Watkins (5144)" [label="Len Watkins (5144)
 Pauline Hanson's One Nation (NSW Division)"]
 	"Lester Pearce (5147)" [label="Lester Pearce (5147)
 Australian Democrats"]
 	"Max Brazenall (5145)" [label="Max Brazenall (5145)
 Independent"]
-	"Mick Agius (5141)" -> "Jennifer Hanson (5143)" [label=1247]
-	"Ralph Bernard Dunkerley (5142)" -> "Mick Agius (5141)" [label=1058]
-	"Len Watkins (5144)" -> "Ralph Bernard Dunkerley (5142)" [label=128]
-	"Lester Pearce (5147)" -> "Len Watkins (5144)" [label=42]
-	"Max Brazenall (5145)" -> "Lester Pearce (5147)" [label=69]
-	"Ralph Bernard Dunkerley (5142)" -> "Jennifer Hanson (5143)" [label=125]
+	"Mick Agius (5141)" [label="Mick Agius (5141)
+Family First"]
+	"Ralph Bernard Dunkerley (5142)" [label="Ralph Bernard Dunkerley (5142)
+Christian Democratic Party (Fred Nile Group)"]
 	"Len Watkins (5144)" -> "Jennifer Hanson (5143)" [label=307]
+	"Len Watkins (5144)" -> "Mick Agius (5141)" [label=243]
+	"Len Watkins (5144)" -> "Ralph Bernard Dunkerley (5142)" [label=128]
 	"Lester Pearce (5147)" -> "Jennifer Hanson (5143)" [label=187]
+	"Lester Pearce (5147)" -> "Len Watkins (5144)" [label=42]
+	"Lester Pearce (5147)" -> "Mick Agius (5141)" [label=59]
+	"Lester Pearce (5147)" -> "Ralph Bernard Dunkerley (5142)" [label=24]
 	"Max Brazenall (5145)" -> "Jennifer Hanson (5143)" [label=92]
 	"Max Brazenall (5145)" -> "Len Watkins (5144)" [label=88]
-	"Lester Pearce (5147)" -> "Ralph Bernard Dunkerley (5142)" [label=24]
-	"Max Brazenall (5145)" -> "Ralph Bernard Dunkerley (5142)" [label=14]
-	"Len Watkins (5144)" -> "Mick Agius (5141)" [label=243]
-	"Lester Pearce (5147)" -> "Mick Agius (5141)" [label=59]
+	"Max Brazenall (5145)" -> "Lester Pearce (5147)" [label=69]
 	"Max Brazenall (5145)" -> "Mick Agius (5141)" [label=75]
+	"Max Brazenall (5145)" -> "Ralph Bernard Dunkerley (5142)" [label=14]
+	"Mick Agius (5141)" -> "Jennifer Hanson (5143)" [label=1247]
+	"Ralph Bernard Dunkerley (5142)" -> "Jennifer Hanson (5143)" [label=125]
+	"Ralph Bernard Dunkerley (5142)" -> "Mick Agius (5141)" [label=1058]
 }

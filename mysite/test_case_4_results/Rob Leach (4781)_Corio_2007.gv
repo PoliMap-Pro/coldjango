@@ -2,31 +2,31 @@
 digraph "Rob Leach (4781)_Corio_2007" {
 	graph [label="Corio 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rob Leach (4781)" [label="Rob Leach (4781)
-Australian Greens"]
-	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
-Family First"]
+	"Chris Johnson (3558)" [label="Chris Johnson (3558)
+Socialist Alliance"]
 	"Darrin Jeffrey Welden (4775)" [label="Darrin Jeffrey Welden (4775)
 LDP"]
 	"Erica C Menheere-Thompson (4780)" [label="Erica C Menheere-Thompson (4780)
 Australian Democrats"]
-	"Chris Johnson (3558)" [label="Chris Johnson (3558)
-Socialist Alliance"]
+	"Gordon Alderson (4777)" [label="Gordon Alderson (4777)
+Family First"]
+	"Rob Leach (4781)" [label="Rob Leach (4781)
+Australian Greens"]
 	"Ross Russell (4776)" [label="Ross Russell (4776)
 Citizens Electoral Council"]
-	"Gordon Alderson (4777)" -> "Rob Leach (4781)" [label=349]
-	"Darrin Jeffrey Welden (4775)" -> "Gordon Alderson (4777)" [label=626]
-	"Erica C Menheere-Thompson (4780)" -> "Darrin Jeffrey Welden (4775)" [label=25]
-	"Chris Johnson (3558)" -> "Erica C Menheere-Thompson (4780)" [label=21]
-	"Ross Russell (4776)" -> "Chris Johnson (3558)" [label=29]
-	"Darrin Jeffrey Welden (4775)" -> "Rob Leach (4781)" [label=48]
-	"Erica C Menheere-Thompson (4780)" -> "Rob Leach (4781)" [label=224]
-	"Chris Johnson (3558)" -> "Rob Leach (4781)" [label=122]
-	"Ross Russell (4776)" -> "Rob Leach (4781)" [label=11]
-	"Ross Russell (4776)" -> "Erica C Menheere-Thompson (4780)" [label=2]
 	"Chris Johnson (3558)" -> "Darrin Jeffrey Welden (4775)" [label=60]
-	"Ross Russell (4776)" -> "Darrin Jeffrey Welden (4775)" [label=58]
-	"Erica C Menheere-Thompson (4780)" -> "Gordon Alderson (4777)" [label=38]
+	"Chris Johnson (3558)" -> "Erica C Menheere-Thompson (4780)" [label=21]
 	"Chris Johnson (3558)" -> "Gordon Alderson (4777)" [label=59]
+	"Chris Johnson (3558)" -> "Rob Leach (4781)" [label=122]
+	"Darrin Jeffrey Welden (4775)" -> "Gordon Alderson (4777)" [label=626]
+	"Darrin Jeffrey Welden (4775)" -> "Rob Leach (4781)" [label=48]
+	"Erica C Menheere-Thompson (4780)" -> "Darrin Jeffrey Welden (4775)" [label=25]
+	"Erica C Menheere-Thompson (4780)" -> "Gordon Alderson (4777)" [label=38]
+	"Erica C Menheere-Thompson (4780)" -> "Rob Leach (4781)" [label=224]
+	"Gordon Alderson (4777)" -> "Rob Leach (4781)" [label=349]
+	"Ross Russell (4776)" -> "Chris Johnson (3558)" [label=29]
+	"Ross Russell (4776)" -> "Darrin Jeffrey Welden (4775)" [label=58]
+	"Ross Russell (4776)" -> "Erica C Menheere-Thompson (4780)" [label=2]
 	"Ross Russell (4776)" -> "Gordon Alderson (4777)" [label=40]
+	"Ross Russell (4776)" -> "Rob Leach (4781)" [label=11]
 }

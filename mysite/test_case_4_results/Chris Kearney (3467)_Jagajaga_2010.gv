@@ -9,6 +9,6 @@ Family First"]
 	"Peter Harris (627)" [label="Peter Harris (627)
 Secular Party of Australia"]
 	"Joe Sgarlata (4110)" -> "Chris Kearney (3467)" [label=428]
-	"Peter Harris (627)" -> "Joe Sgarlata (4110)" [label=82]
 	"Peter Harris (627)" -> "Chris Kearney (3467)" [label=270]
+	"Peter Harris (627)" -> "Joe Sgarlata (4110)" [label=82]
 }

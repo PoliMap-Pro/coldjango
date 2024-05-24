@@ -2,24 +2,24 @@
 digraph "Phill Parsons (1707)_Braddon_2019" {
 	graph [label="Braddon 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Phill Parsons (1707)" [label="Phill Parsons (1707)
-The Greens"]
-	"Karen Wendy Spaulding (1703)" [label="Karen Wendy Spaulding (1703)
-United Australia Party"]
-	"Sally Milbourne (1706)" [label="Sally Milbourne (1706)
-The Nationals"]
 	"Brett Michael Smith (1708)" [label="Brett Michael Smith (1708)
 Independent"]
+	"Karen Wendy Spaulding (1703)" [label="Karen Wendy Spaulding (1703)
+United Australia Party"]
+	"Phill Parsons (1707)" [label="Phill Parsons (1707)
+The Greens"]
+	"Sally Milbourne (1706)" [label="Sally Milbourne (1706)
+The Nationals"]
 	"Shane Allan (1705)" [label="Shane Allan (1705)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
+	"Brett Michael Smith (1708)" -> "Karen Wendy Spaulding (1703)" [label=73]
+	"Brett Michael Smith (1708)" -> "Phill Parsons (1707)" [label=80]
+	"Brett Michael Smith (1708)" -> "Sally Milbourne (1706)" [label=67]
 	"Karen Wendy Spaulding (1703)" -> "Phill Parsons (1707)" [label=124]
 	"Sally Milbourne (1706)" -> "Karen Wendy Spaulding (1703)" [label=180]
-	"Brett Michael Smith (1708)" -> "Sally Milbourne (1706)" [label=67]
-	"Shane Allan (1705)" -> "Brett Michael Smith (1708)" [label=31]
 	"Sally Milbourne (1706)" -> "Phill Parsons (1707)" [label=124]
-	"Brett Michael Smith (1708)" -> "Phill Parsons (1707)" [label=80]
+	"Shane Allan (1705)" -> "Brett Michael Smith (1708)" [label=31]
+	"Shane Allan (1705)" -> "Karen Wendy Spaulding (1703)" [label=107]
 	"Shane Allan (1705)" -> "Phill Parsons (1707)" [label=19]
 	"Shane Allan (1705)" -> "Sally Milbourne (1706)" [label=54]
-	"Brett Michael Smith (1708)" -> "Karen Wendy Spaulding (1703)" [label=73]
-	"Shane Allan (1705)" -> "Karen Wendy Spaulding (1703)" [label=107]
 }

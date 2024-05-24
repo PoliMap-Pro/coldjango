@@ -2,31 +2,31 @@
 digraph "David Mallard (2830)_Calare_2013" {
 	graph [label="Calare 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Mallard (2830)" [label="David Mallard (2830)
-The Greens"]
-	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
-Independent"]
-	"Ian Scott Lyons (2827)" [label="Ian Scott Lyons (2827)
-Christian Democratic Party (Fred Nile Group)"]
-	"Billie Kirkland (2826)" [label="Billie Kirkland (2826)
-Katter's Australian Party"]
-	"Peter Schultze (2831)" [label="Peter Schultze (2831)
-Australia First Party"]
 	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
 Democratic Labour Party (DLP)"]
-	"Macgregor Ross (2828)" -> "David Mallard (2830)" [label=567]
-	"Ian Scott Lyons (2827)" -> "Macgregor Ross (2828)" [label=242]
-	"Billie Kirkland (2826)" -> "Ian Scott Lyons (2827)" [label=162]
-	"Peter Schultze (2831)" -> "Billie Kirkland (2826)" [label=130]
-	"Anthony Gerard Craig (2059)" -> "Peter Schultze (2831)" [label=115]
-	"Ian Scott Lyons (2827)" -> "David Mallard (2830)" [label=68]
-	"Billie Kirkland (2826)" -> "David Mallard (2830)" [label=55]
-	"Peter Schultze (2831)" -> "David Mallard (2830)" [label=268]
-	"Anthony Gerard Craig (2059)" -> "David Mallard (2830)" [label=105]
+	"Billie Kirkland (2826)" [label="Billie Kirkland (2826)
+Katter's Australian Party"]
+	"David Mallard (2830)" [label="David Mallard (2830)
+The Greens"]
+	"Ian Scott Lyons (2827)" [label="Ian Scott Lyons (2827)
+Christian Democratic Party (Fred Nile Group)"]
+	"Macgregor Ross (2828)" [label="Macgregor Ross (2828)
+Independent"]
+	"Peter Schultze (2831)" [label="Peter Schultze (2831)
+Australia First Party"]
 	"Anthony Gerard Craig (2059)" -> "Billie Kirkland (2826)" [label=22]
-	"Peter Schultze (2831)" -> "Ian Scott Lyons (2827)" [label=37]
+	"Anthony Gerard Craig (2059)" -> "David Mallard (2830)" [label=105]
 	"Anthony Gerard Craig (2059)" -> "Ian Scott Lyons (2827)" [label=60]
-	"Billie Kirkland (2826)" -> "Macgregor Ross (2828)" [label=161]
-	"Peter Schultze (2831)" -> "Macgregor Ross (2828)" [label=170]
 	"Anthony Gerard Craig (2059)" -> "Macgregor Ross (2828)" [label=67]
+	"Anthony Gerard Craig (2059)" -> "Peter Schultze (2831)" [label=115]
+	"Billie Kirkland (2826)" -> "David Mallard (2830)" [label=55]
+	"Billie Kirkland (2826)" -> "Ian Scott Lyons (2827)" [label=162]
+	"Billie Kirkland (2826)" -> "Macgregor Ross (2828)" [label=161]
+	"Ian Scott Lyons (2827)" -> "David Mallard (2830)" [label=68]
+	"Ian Scott Lyons (2827)" -> "Macgregor Ross (2828)" [label=242]
+	"Macgregor Ross (2828)" -> "David Mallard (2830)" [label=567]
+	"Peter Schultze (2831)" -> "Billie Kirkland (2826)" [label=130]
+	"Peter Schultze (2831)" -> "David Mallard (2830)" [label=268]
+	"Peter Schultze (2831)" -> "Ian Scott Lyons (2827)" [label=37]
+	"Peter Schultze (2831)" -> "Macgregor Ross (2828)" [label=170]
 }

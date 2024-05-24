@@ -2,24 +2,24 @@
 digraph "Karey Harrison (5345)_Groom_2004" {
 	graph [label="Groom 2004" labelloc=t mclimit=10]
 	node [shape=box]
-	"Karey Harrison (5345)" [label="Karey Harrison (5345)
-The Greens"]
-	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
-Independent"]
-	"Noel Wieck (5346)" [label="Noel Wieck (5346)
-The Great Australians"]
 	"Christoph Donges (5342)" [label="Christoph Donges (5342)
 Australian Democrats"]
+	"Karey Harrison (5345)" [label="Karey Harrison (5345)
+The Greens"]
+	"Noel Wieck (5346)" [label="Noel Wieck (5346)
+The Great Australians"]
 	"Oliver Carter (5343)" [label="Oliver Carter (5343)
 Citizens Electoral Council"]
-	"Rod Jeanneret (1490)" -> "Karey Harrison (5345)" [label=388]
-	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
-	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
-	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
-	"Noel Wieck (5346)" -> "Karey Harrison (5345)" [label=188]
+	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
+Independent"]
 	"Christoph Donges (5342)" -> "Karey Harrison (5345)" [label=233]
+	"Christoph Donges (5342)" -> "Noel Wieck (5346)" [label=31]
+	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
+	"Noel Wieck (5346)" -> "Karey Harrison (5345)" [label=188]
+	"Noel Wieck (5346)" -> "Rod Jeanneret (1490)" [label=311]
+	"Oliver Carter (5343)" -> "Christoph Donges (5342)" [label=25]
 	"Oliver Carter (5343)" -> "Karey Harrison (5345)" [label=28]
 	"Oliver Carter (5343)" -> "Noel Wieck (5346)" [label=39]
-	"Christoph Donges (5342)" -> "Rod Jeanneret (1490)" [label=128]
 	"Oliver Carter (5343)" -> "Rod Jeanneret (1490)" [label=65]
+	"Rod Jeanneret (1490)" -> "Karey Harrison (5345)" [label=388]
 }

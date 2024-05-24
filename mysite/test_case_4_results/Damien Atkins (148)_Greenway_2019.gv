@@ -4,16 +4,16 @@ digraph "Damien Atkins (148)_Greenway_2019" {
 	node [shape=box]
 	"Damien Atkins (148)" [label="Damien Atkins (148)
 The Greens"]
-	"Scott Daniel Feeney (1309)" [label="Scott Daniel Feeney (1309)
-United Australia Party"]
-	"Osbourn Inparajah Rajadurai (1310)" [label="Osbourn Inparajah Rajadurai (1310)
-Christian Democratic Party (Fred Nile Group)"]
 	"Graham Mcfarland (1308)" [label="Graham Mcfarland (1308)
 Australian Better Families"]
-	"Scott Daniel Feeney (1309)" -> "Damien Atkins (148)" [label=760]
-	"Osbourn Inparajah Rajadurai (1310)" -> "Scott Daniel Feeney (1309)" [label=534]
-	"Graham Mcfarland (1308)" -> "Osbourn Inparajah Rajadurai (1310)" [label=222]
-	"Osbourn Inparajah Rajadurai (1310)" -> "Damien Atkins (148)" [label=211]
+	"Osbourn Inparajah Rajadurai (1310)" [label="Osbourn Inparajah Rajadurai (1310)
+Christian Democratic Party (Fred Nile Group)"]
+	"Scott Daniel Feeney (1309)" [label="Scott Daniel Feeney (1309)
+United Australia Party"]
 	"Graham Mcfarland (1308)" -> "Damien Atkins (148)" [label=810]
+	"Graham Mcfarland (1308)" -> "Osbourn Inparajah Rajadurai (1310)" [label=222]
 	"Graham Mcfarland (1308)" -> "Scott Daniel Feeney (1309)" [label=288]
+	"Osbourn Inparajah Rajadurai (1310)" -> "Damien Atkins (148)" [label=211]
+	"Osbourn Inparajah Rajadurai (1310)" -> "Scott Daniel Feeney (1309)" [label=534]
+	"Scott Daniel Feeney (1309)" -> "Damien Atkins (148)" [label=760]
 }

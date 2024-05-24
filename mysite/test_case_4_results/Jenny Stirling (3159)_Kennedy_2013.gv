@@ -2,18 +2,18 @@
 digraph "Jenny Stirling (3159)_Kennedy_2013" {
 	graph [label="Kennedy 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
-The Greens"]
-	"Dan Vogler (3161)" [label="Dan Vogler (3161)
-Family First"]
 	"Chester Gordon Tuxford (3158)" [label="Chester Gordon Tuxford (3158)
 Independent"]
+	"Dan Vogler (3161)" [label="Dan Vogler (3161)
+Family First"]
+	"Jenny Stirling (3159)" [label="Jenny Stirling (3159)
+The Greens"]
 	"Pam Hecht (3160)" [label="Pam Hecht (3160)
 Rise Up Australia Party"]
-	"Dan Vogler (3161)" -> "Jenny Stirling (3159)" [label=154]
 	"Chester Gordon Tuxford (3158)" -> "Dan Vogler (3161)" [label=93]
-	"Pam Hecht (3160)" -> "Chester Gordon Tuxford (3158)" [label=25]
 	"Chester Gordon Tuxford (3158)" -> "Jenny Stirling (3159)" [label=123]
-	"Pam Hecht (3160)" -> "Jenny Stirling (3159)" [label=25]
+	"Dan Vogler (3161)" -> "Jenny Stirling (3159)" [label=154]
+	"Pam Hecht (3160)" -> "Chester Gordon Tuxford (3158)" [label=25]
 	"Pam Hecht (3160)" -> "Dan Vogler (3161)" [label=212]
+	"Pam Hecht (3160)" -> "Jenny Stirling (3159)" [label=25]
 }

@@ -8,18 +8,18 @@ The Greens"]
 Palmer United Party"]
 	"Lisa Demedio (3226)" [label="Lisa Demedio (3226)
 Family First"]
-	"Peter Andrew Walker (3224)" [label="Peter Andrew Walker (3224)
-Katter's Australian Party"]
 	"Michael C Sweedman (3225)" [label="Michael C Sweedman (3225)
 Secular Party of Australia"]
+	"Peter Andrew Walker (3224)" [label="Peter Andrew Walker (3224)
+Katter's Australian Party"]
 	"Craig Geoffrey Gunnis (3223)" -> "Charles Worringham (3222)" [label=1383]
-	"Lisa Demedio (3226)" -> "Craig Geoffrey Gunnis (3223)" [label=385]
-	"Peter Andrew Walker (3224)" -> "Lisa Demedio (3226)" [label=137]
-	"Michael C Sweedman (3225)" -> "Peter Andrew Walker (3224)" [label=44]
 	"Lisa Demedio (3226)" -> "Charles Worringham (3222)" [label=211]
-	"Peter Andrew Walker (3224)" -> "Charles Worringham (3222)" [label=119]
+	"Lisa Demedio (3226)" -> "Craig Geoffrey Gunnis (3223)" [label=385]
 	"Michael C Sweedman (3225)" -> "Charles Worringham (3222)" [label=368]
-	"Michael C Sweedman (3225)" -> "Lisa Demedio (3226)" [label=35]
-	"Peter Andrew Walker (3224)" -> "Craig Geoffrey Gunnis (3223)" [label=504]
 	"Michael C Sweedman (3225)" -> "Craig Geoffrey Gunnis (3223)" [label=75]
+	"Michael C Sweedman (3225)" -> "Lisa Demedio (3226)" [label=35]
+	"Michael C Sweedman (3225)" -> "Peter Andrew Walker (3224)" [label=44]
+	"Peter Andrew Walker (3224)" -> "Charles Worringham (3222)" [label=119]
+	"Peter Andrew Walker (3224)" -> "Craig Geoffrey Gunnis (3223)" [label=504]
+	"Peter Andrew Walker (3224)" -> "Lisa Demedio (3226)" [label=137]
 }

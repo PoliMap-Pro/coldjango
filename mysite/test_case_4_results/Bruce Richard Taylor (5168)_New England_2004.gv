@@ -9,6 +9,6 @@ Pauline Hanson's One Nation (NSW Division)"]
 	"Steve Lawler (5167)" [label="Steve Lawler (5167)
 Citizens Electoral Council"]
 	"Raymond Scholes (5171)" -> "Bruce Richard Taylor (5168)" [label=125]
-	"Steve Lawler (5167)" -> "Raymond Scholes (5171)" [label=19]
 	"Steve Lawler (5167)" -> "Bruce Richard Taylor (5168)" [label=263]
+	"Steve Lawler (5167)" -> "Raymond Scholes (5171)" [label=19]
 }
