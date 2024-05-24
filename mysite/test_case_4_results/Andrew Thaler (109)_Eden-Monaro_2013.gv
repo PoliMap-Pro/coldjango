@@ -4,16 +4,16 @@ digraph "Andrew Thaler (109)_Eden-Monaro_2013" {
 	node [shape=box]
 	"Andrew Thaler (109)" [label="Andrew Thaler (109)
 Independent"]
-	"Warren Catton (2866)" [label="Warren Catton (2866)
-Christian Democratic Party (Fred Nile Group)"]
-	"Martin Tye (2862)" [label="Martin Tye (2862)
-Stable Population Party"]
 	"Costas Goumas (2865)" [label="Costas Goumas (2865)
 Citizens Electoral Council"]
-	"Warren Catton (2866)" -> "Andrew Thaler (109)" [label=185]
-	"Martin Tye (2862)" -> "Warren Catton (2866)" [label=28]
-	"Costas Goumas (2865)" -> "Martin Tye (2862)" [label=19]
-	"Martin Tye (2862)" -> "Andrew Thaler (109)" [label=110]
+	"Martin Tye (2862)" [label="Martin Tye (2862)
+Stable Population Party"]
+	"Warren Catton (2866)" [label="Warren Catton (2866)
+Christian Democratic Party (Fred Nile Group)"]
 	"Costas Goumas (2865)" -> "Andrew Thaler (109)" [label=45]
+	"Costas Goumas (2865)" -> "Martin Tye (2862)" [label=19]
 	"Costas Goumas (2865)" -> "Warren Catton (2866)" [label=16]
+	"Martin Tye (2862)" -> "Andrew Thaler (109)" [label=110]
+	"Martin Tye (2862)" -> "Warren Catton (2866)" [label=28]
+	"Warren Catton (2866)" -> "Andrew Thaler (109)" [label=185]
 }

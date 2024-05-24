@@ -9,6 +9,6 @@ Victorian Socialists"]
 	"Peter Malliaros (969)" [label="Peter Malliaros (969)
 Australian Federation Party"]
 	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
-	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
 	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
+	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
 }

@@ -4,11 +4,11 @@ digraph "Josef Wiedenhorn (3818)_Paterson_2010" {
 	node [shape=box]
 	"Josef Wiedenhorn (3818)" [label="Josef Wiedenhorn (3818)
 Independent"]
-	"Veronica Lambert (3815)" [label="Veronica Lambert (3815)
-Family First"]
 	"Paul Hennelly (3817)" [label="Paul Hennelly (3817)
 "]
-	"Veronica Lambert (3815)" -> "Josef Wiedenhorn (3818)" [label=76]
-	"Paul Hennelly (3817)" -> "Veronica Lambert (3815)" [label=18]
+	"Veronica Lambert (3815)" [label="Veronica Lambert (3815)
+Family First"]
 	"Paul Hennelly (3817)" -> "Josef Wiedenhorn (3818)" [label=96]
+	"Paul Hennelly (3817)" -> "Veronica Lambert (3815)" [label=18]
+	"Veronica Lambert (3815)" -> "Josef Wiedenhorn (3818)" [label=76]
 }

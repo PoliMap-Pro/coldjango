@@ -4,11 +4,11 @@ digraph "Allen Ridgeway (3491)_Mallee_2013" {
 	node [shape=box]
 	"Allen Ridgeway (3491)" [label="Allen Ridgeway (3491)
 Independent"]
-	"Michael Coldham (3494)" [label="Michael Coldham (3494)
-Country Alliance"]
 	"Chris Lahy (984)" [label="Chris Lahy (984)
 Citizens Electoral Council"]
-	"Michael Coldham (3494)" -> "Allen Ridgeway (3491)" [label=24]
-	"Chris Lahy (984)" -> "Michael Coldham (3494)" [label=1]
+	"Michael Coldham (3494)" [label="Michael Coldham (3494)
+Country Alliance"]
 	"Chris Lahy (984)" -> "Allen Ridgeway (3491)" [label=39]
+	"Chris Lahy (984)" -> "Michael Coldham (3494)" [label=1]
+	"Michael Coldham (3494)" -> "Allen Ridgeway (3491)" [label=24]
 }

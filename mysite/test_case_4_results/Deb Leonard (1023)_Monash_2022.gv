@@ -2,31 +2,31 @@
 digraph "Deb Leonard (1023)_Monash_2022" {
 	graph [label="Monash 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Deb Leonard (1023)" [label="Deb Leonard (1023)
-Independent"]
 	"Allan Hicken (1024)" [label="Allan Hicken (1024)
 Pauline Hanson's One Nation"]
-	"Mat Morgan (1021)" [label="Mat Morgan (1021)
-The Greens"]
 	"Christine Ann Mcshane (1028)" [label="Christine Ann Mcshane (1028)
 United Australia Party"]
-	"Meg Edwards (1027)" [label="Meg Edwards (1027)
-Liberal Democrats"]
 	"David Matthew Welsh (1025)" [label="David Matthew Welsh (1025)
 Australian Federation Party"]
+	"Deb Leonard (1023)" [label="Deb Leonard (1023)
+Independent"]
+	"Mat Morgan (1021)" [label="Mat Morgan (1021)
+The Greens"]
+	"Meg Edwards (1027)" [label="Meg Edwards (1027)
+Liberal Democrats"]
 	"Allan Hicken (1024)" -> "Deb Leonard (1023)" [label=6102]
-	"Mat Morgan (1021)" -> "Allan Hicken (1024)" [label=458]
-	"Christine Ann Mcshane (1028)" -> "Mat Morgan (1021)" [label=252]
-	"Meg Edwards (1027)" -> "Christine Ann Mcshane (1028)" [label=1176]
-	"David Matthew Welsh (1025)" -> "Meg Edwards (1027)" [label=124]
-	"Mat Morgan (1021)" -> "Deb Leonard (1023)" [label=2906]
-	"Christine Ann Mcshane (1028)" -> "Deb Leonard (1023)" [label=577]
-	"Meg Edwards (1027)" -> "Deb Leonard (1023)" [label=342]
-	"David Matthew Welsh (1025)" -> "Deb Leonard (1023)" [label=112]
-	"David Matthew Welsh (1025)" -> "Christine Ann Mcshane (1028)" [label=58]
-	"Meg Edwards (1027)" -> "Mat Morgan (1021)" [label=105]
-	"David Matthew Welsh (1025)" -> "Mat Morgan (1021)" [label=58]
 	"Christine Ann Mcshane (1028)" -> "Allan Hicken (1024)" [label=2956]
-	"Meg Edwards (1027)" -> "Allan Hicken (1024)" [label=1083]
+	"Christine Ann Mcshane (1028)" -> "Deb Leonard (1023)" [label=577]
+	"Christine Ann Mcshane (1028)" -> "Mat Morgan (1021)" [label=252]
 	"David Matthew Welsh (1025)" -> "Allan Hicken (1024)" [label=199]
+	"David Matthew Welsh (1025)" -> "Christine Ann Mcshane (1028)" [label=58]
+	"David Matthew Welsh (1025)" -> "Deb Leonard (1023)" [label=112]
+	"David Matthew Welsh (1025)" -> "Mat Morgan (1021)" [label=58]
+	"David Matthew Welsh (1025)" -> "Meg Edwards (1027)" [label=124]
+	"Mat Morgan (1021)" -> "Allan Hicken (1024)" [label=458]
+	"Mat Morgan (1021)" -> "Deb Leonard (1023)" [label=2906]
+	"Meg Edwards (1027)" -> "Allan Hicken (1024)" [label=1083]
+	"Meg Edwards (1027)" -> "Christine Ann Mcshane (1028)" [label=1176]
+	"Meg Edwards (1027)" -> "Deb Leonard (1023)" [label=342]
+	"Meg Edwards (1027)" -> "Mat Morgan (1021)" [label=105]
 }

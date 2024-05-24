@@ -4,11 +4,11 @@ digraph "Ant Clark (3647)_Perth_2013" {
 	node [shape=box]
 	"Ant Clark (3647)" [label="Ant Clark (3647)
 Independent"]
-	"Lesley Croll (3651)" [label="Lesley Croll (3651)
-Family First Party"]
 	"Evelyn Patricia Edney (3650)" [label="Evelyn Patricia Edney (3650)
 Rise Up Australia Party"]
-	"Lesley Croll (3651)" -> "Ant Clark (3647)" [label=116]
-	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
+	"Lesley Croll (3651)" [label="Lesley Croll (3651)
+Family First Party"]
 	"Evelyn Patricia Edney (3650)" -> "Ant Clark (3647)" [label=55]
+	"Evelyn Patricia Edney (3650)" -> "Lesley Croll (3651)" [label=85]
+	"Lesley Croll (3651)" -> "Ant Clark (3647)" [label=116]
 }

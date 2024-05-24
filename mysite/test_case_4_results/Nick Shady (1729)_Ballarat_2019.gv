@@ -2,9 +2,9 @@
 digraph "Nick Shady (1729)_Ballarat_2019" {
 	graph [label="Ballarat 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nick Shady (1729)" [label="Nick Shady (1729)
-Independent"]
 	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Nick Shady (1729)" [label="Nick Shady (1729)
 Independent"]
 	"Alex Graham (744)" -> "Nick Shady (1729)" [label=1061]
 }

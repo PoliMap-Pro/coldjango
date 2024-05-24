@@ -32,16 +32,10 @@ class HouseElection(abstract_models.Election):
         in a new place set generated from the representation set for this
         election and the party set.
         """
-        if isinstance(place_set[0], Seat):
-            contention_set = Contention.objects.filter(
-                election=self, seat__in=place_set)
-        else:
-            contention_set = Contention.objects.filter(
-                election=self, seat__booth__in=place_set)
-        representation_set = Representation.objects.filter(
-            election=self, party__in=party_set,
-            person__candidate__contention__in=contention_set).exclude(
-            person__name__iexact=constants.INFORMAL_VOTER)
+        if not place_set:
+            place_set = Booth.get_set(self, places)
+            keep_query(return_format, target, place_set)
+        representation_set = self.thin_representation_set(party_set, place_set)
         elect_result, place_set = self.setup_place(
             party_set, place_set, places, representation_set, return_format,
             target, parent_result=parent)
@@ -104,6 +98,18 @@ class HouseElection(abstract_models.Election):
             rep = Representation.objects.filter(person=candidate.person,
                                                 election=self)[0]
         return (node_name, f"{node_name}\n{rep.party.name}"), node_name
+
+    def thin_representation_set(self, party_set, place_set):
+        if isinstance(place_set[0], Seat):
+            contention_set = Contention.objects.filter(
+                election=self, seat__in=place_set)
+        else:
+            contention_set = Contention.objects.filter(
+                election=self, seat__booth__in=place_set)
+        return Representation.objects.filter(
+            election=self, party__in=party_set,
+            person__candidate__contention__in=contention_set).exclude(
+            person__name__iexact=constants.INFORMAL_VOTER)
 
     def set_top_level_entries_for_the_spreadsheet_format(
             self, add_to_end_of_name, between_parts_of_name,
@@ -173,7 +179,8 @@ class HouseElection(abstract_models.Election):
                                  representation_set, tally_attribute,
                                  sum_booths=False):
         all_parties = self.election_place_result(
-            location, representation_set, tally_attribute, sum_booths)
+            location, representation_set, tally_attribute, sum_booths,
+            check_contentions=True)
         pairs = list(all_parties.items())
         pairs.sort(key=abstract_models.Election.by_votes)
         election_result[str(location)] = dict(pairs[:how_many])
@@ -216,7 +223,8 @@ class HouseElection(abstract_models.Election):
                               return_format=constants.NEST_FORMAT,
                               election_result=None,
                               name_of_informal_vote=constants.INFORMAL_VOTER,
-                              check_for_informal=False):
+                              check_for_informal=False,
+                              check_contentions=False):
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
@@ -230,7 +238,8 @@ class HouseElection(abstract_models.Election):
         else:
             [place.update_place_result(
                 self, representation, result, total, tally_attribute,
-                return_format=return_format, election_result=election_result)
+                return_format=return_format, election_result=election_result,
+                check_contentions=check_contentions)
                 for representation in representation_subset]
         return result
 

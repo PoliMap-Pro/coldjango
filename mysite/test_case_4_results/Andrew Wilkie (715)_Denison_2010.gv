@@ -11,9 +11,9 @@ Australian Greens"]
 	"Mel Barnes (4036)" [label="Mel Barnes (4036)
 Socialist Alliance"]
 	"Cameron John Simpkins (4037)" -> "Andrew Wilkie (715)" [label=12525]
-	"Geoffrey Alan Couser (4038)" -> "Cameron John Simpkins (4037)" [label=1049]
-	"Mel Barnes (4036)" -> "Geoffrey Alan Couser (4038)" [label=260]
 	"Geoffrey Alan Couser (4038)" -> "Andrew Wilkie (715)" [label=6635]
+	"Geoffrey Alan Couser (4038)" -> "Cameron John Simpkins (4037)" [label=1049]
 	"Mel Barnes (4036)" -> "Andrew Wilkie (715)" [label=269]
 	"Mel Barnes (4036)" -> "Cameron John Simpkins (4037)" [label=98]
+	"Mel Barnes (4036)" -> "Geoffrey Alan Couser (4038)" [label=260]
 }

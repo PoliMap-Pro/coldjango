@@ -9,6 +9,6 @@ United Australia Party"]
 	"Serah Kolukulapally (1300)" [label="Serah Kolukulapally (1300)
 Christian Democratic Party (Fred Nile Group)"]
 	"Milton Leslight (1299)" -> "Grant Schultz (1298)" [label=1293]
-	"Serah Kolukulapally (1300)" -> "Milton Leslight (1299)" [label=177]
 	"Serah Kolukulapally (1300)" -> "Grant Schultz (1298)" [label=266]
+	"Serah Kolukulapally (1300)" -> "Milton Leslight (1299)" [label=177]
 }

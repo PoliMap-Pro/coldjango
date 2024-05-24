@@ -6,20 +6,20 @@ digraph "Charles Worringham (3222)_Ryan_2007" {
 Independent"]
 	"James Page (4634)" [label="James Page (4634)
 Democrats"]
-	"Leisa Schmid (4636)" [label="Leisa Schmid (4636)
-Family First"]
 	"Jock Mackenzie (4639)" [label="Jock Mackenzie (4639)
 LDP"]
+	"Leisa Schmid (4636)" [label="Leisa Schmid (4636)
+Family First"]
 	"Neville Solomon (4635)" [label="Neville Solomon (4635)
 Citizens Electoral Council"]
 	"James Page (4634)" -> "Charles Worringham (3222)" [label=223]
-	"Leisa Schmid (4636)" -> "James Page (4634)" [label=89]
-	"Jock Mackenzie (4639)" -> "Leisa Schmid (4636)" [label=14]
-	"Neville Solomon (4635)" -> "Jock Mackenzie (4639)" [label=4]
-	"Leisa Schmid (4636)" -> "Charles Worringham (3222)" [label=170]
 	"Jock Mackenzie (4639)" -> "Charles Worringham (3222)" [label=28]
-	"Neville Solomon (4635)" -> "Charles Worringham (3222)" [label=13]
-	"Neville Solomon (4635)" -> "Leisa Schmid (4636)" [label=12]
 	"Jock Mackenzie (4639)" -> "James Page (4634)" [label=16]
+	"Jock Mackenzie (4639)" -> "Leisa Schmid (4636)" [label=14]
+	"Leisa Schmid (4636)" -> "Charles Worringham (3222)" [label=170]
+	"Leisa Schmid (4636)" -> "James Page (4634)" [label=89]
+	"Neville Solomon (4635)" -> "Charles Worringham (3222)" [label=13]
 	"Neville Solomon (4635)" -> "James Page (4634)" [label=19]
+	"Neville Solomon (4635)" -> "Jock Mackenzie (4639)" [label=4]
+	"Neville Solomon (4635)" -> "Leisa Schmid (4636)" [label=12]
 }

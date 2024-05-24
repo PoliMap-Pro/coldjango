@@ -2,24 +2,24 @@
 digraph "Ashley Elphin Williams (1090)_Canning_2022" {
 	graph [label="Canning 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ashley Elphin Williams (1090)" [label="Ashley Elphin Williams (1090)
-Independent"]
 	"Andriette Du Plessis (1091)" [label="Andriette Du Plessis (1091)
 Australian Christians"]
-	"Judith Congrene (1088)" [label="Judith Congrene (1088)
-Informed Medical Options Party"]
-	"David Gardiner (1092)" [label="David Gardiner (1092)
-Liberal Democrats"]
 	"Anthony Gardyne (1085)" [label="Anthony Gardyne (1085)
 Australian Federation Party"]
+	"Ashley Elphin Williams (1090)" [label="Ashley Elphin Williams (1090)
+Independent"]
+	"David Gardiner (1092)" [label="David Gardiner (1092)
+Liberal Democrats"]
+	"Judith Congrene (1088)" [label="Judith Congrene (1088)
+Informed Medical Options Party"]
 	"Andriette Du Plessis (1091)" -> "Ashley Elphin Williams (1090)" [label=213]
-	"Judith Congrene (1088)" -> "Andriette Du Plessis (1091)" [label=109]
-	"David Gardiner (1092)" -> "Judith Congrene (1088)" [label=54]
-	"Anthony Gardyne (1085)" -> "David Gardiner (1092)" [label=32]
-	"Judith Congrene (1088)" -> "Ashley Elphin Williams (1090)" [label=248]
-	"David Gardiner (1092)" -> "Ashley Elphin Williams (1090)" [label=69]
+	"Anthony Gardyne (1085)" -> "Andriette Du Plessis (1091)" [label=19]
 	"Anthony Gardyne (1085)" -> "Ashley Elphin Williams (1090)" [label=46]
+	"Anthony Gardyne (1085)" -> "David Gardiner (1092)" [label=32]
 	"Anthony Gardyne (1085)" -> "Judith Congrene (1088)" [label=222]
 	"David Gardiner (1092)" -> "Andriette Du Plessis (1091)" [label=112]
-	"Anthony Gardyne (1085)" -> "Andriette Du Plessis (1091)" [label=19]
+	"David Gardiner (1092)" -> "Ashley Elphin Williams (1090)" [label=69]
+	"David Gardiner (1092)" -> "Judith Congrene (1088)" [label=54]
+	"Judith Congrene (1088)" -> "Andriette Du Plessis (1091)" [label=109]
+	"Judith Congrene (1088)" -> "Ashley Elphin Williams (1090)" [label=248]
 }

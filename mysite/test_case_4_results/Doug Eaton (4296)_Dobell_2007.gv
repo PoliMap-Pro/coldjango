@@ -4,16 +4,16 @@ digraph "Doug Eaton (4296)_Dobell_2007" {
 	node [shape=box]
 	"Doug Eaton (4296)" [label="Doug Eaton (4296)
 Independent"]
-	"Hadden Ervin (957)" [label="Hadden Ervin (957)
-Family First"]
 	"Graeme Bird (4294)" [label="Graeme Bird (4294)
 LDP"]
+	"Hadden Ervin (957)" [label="Hadden Ervin (957)
+Family First"]
 	"Steve Hughes (4295)" [label="Steve Hughes (4295)
 Citizens Electoral Council"]
-	"Hadden Ervin (957)" -> "Doug Eaton (4296)" [label=139]
-	"Graeme Bird (4294)" -> "Hadden Ervin (957)" [label=43]
-	"Steve Hughes (4295)" -> "Graeme Bird (4294)" [label=13]
 	"Graeme Bird (4294)" -> "Doug Eaton (4296)" [label=25]
+	"Graeme Bird (4294)" -> "Hadden Ervin (957)" [label=43]
+	"Hadden Ervin (957)" -> "Doug Eaton (4296)" [label=139]
 	"Steve Hughes (4295)" -> "Doug Eaton (4296)" [label=30]
+	"Steve Hughes (4295)" -> "Graeme Bird (4294)" [label=13]
 	"Steve Hughes (4295)" -> "Hadden Ervin (957)" [label=19]
 }

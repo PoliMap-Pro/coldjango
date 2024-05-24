@@ -2,18 +2,18 @@
 digraph "Sven Wiener (4703)_Bass_2007" {
 	graph [label="Bass 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sven Wiener (4703)" [label="Sven Wiener (4703)
-Independent"]
+	"Adrian Ronald Watts (4704)" [label="Adrian Ronald Watts (4704)
+Citizens Electoral Council"]
 	"Ixa De Haan (4707)" [label="Ixa De Haan (4707)
 Family First"]
 	"Shem Bennett (4116)" [label="Shem Bennett (4116)
 LDP"]
-	"Adrian Ronald Watts (4704)" [label="Adrian Ronald Watts (4704)
-Citizens Electoral Council"]
+	"Sven Wiener (4703)" [label="Sven Wiener (4703)
+Independent"]
+	"Adrian Ronald Watts (4704)" -> "Ixa De Haan (4707)" [label=23]
+	"Adrian Ronald Watts (4704)" -> "Shem Bennett (4116)" [label=9]
+	"Adrian Ronald Watts (4704)" -> "Sven Wiener (4703)" [label=95]
 	"Ixa De Haan (4707)" -> "Sven Wiener (4703)" [label=185]
 	"Shem Bennett (4116)" -> "Ixa De Haan (4707)" [label=76]
-	"Adrian Ronald Watts (4704)" -> "Shem Bennett (4116)" [label=9]
 	"Shem Bennett (4116)" -> "Sven Wiener (4703)" [label=41]
-	"Adrian Ronald Watts (4704)" -> "Sven Wiener (4703)" [label=95]
-	"Adrian Ronald Watts (4704)" -> "Ixa De Haan (4707)" [label=23]
 }

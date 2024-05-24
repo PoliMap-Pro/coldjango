@@ -2,13 +2,13 @@
 digraph "Zahra Mustaf (940)_Jagajaga_2022" {
 	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Zahra Mustaf (940)" [label="Zahra Mustaf (940)
-Independent"]
-	"John Booker (943)" [label="John Booker (943)
-Pauline Hanson's One Nation"]
 	"Brendan Palmarini (938)" [label="Brendan Palmarini (938)
 Australian Federation Party"]
-	"John Booker (943)" -> "Zahra Mustaf (940)" [label=234]
+	"John Booker (943)" [label="John Booker (943)
+Pauline Hanson's One Nation"]
+	"Zahra Mustaf (940)" [label="Zahra Mustaf (940)
+Independent"]
 	"Brendan Palmarini (938)" -> "John Booker (943)" [label=103]
 	"Brendan Palmarini (938)" -> "Zahra Mustaf (940)" [label=124]
+	"John Booker (943)" -> "Zahra Mustaf (940)" [label=234]
 }

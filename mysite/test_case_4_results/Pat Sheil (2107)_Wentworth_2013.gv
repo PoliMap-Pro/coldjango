@@ -2,13 +2,13 @@
 digraph "Pat Sheil (2107)_Wentworth_2013" {
 	graph [label="Wentworth 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pat Sheil (2107)" [label="Pat Sheil (2107)
-Independent"]
-	"Marsha Foxman (3033)" [label="Marsha Foxman (3033)
-Palmer United Party"]
 	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
 Christian Democratic Party (Fred Nile Group)"]
-	"Marsha Foxman (3033)" -> "Pat Sheil (2107)" [label=226]
+	"Marsha Foxman (3033)" [label="Marsha Foxman (3033)
+Palmer United Party"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
 	"Beresford Thomas (2252)" -> "Marsha Foxman (3033)" [label=60]
 	"Beresford Thomas (2252)" -> "Pat Sheil (2107)" [label=60]
+	"Marsha Foxman (3033)" -> "Pat Sheil (2107)" [label=226]
 }

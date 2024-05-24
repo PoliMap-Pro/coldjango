@@ -2,18 +2,18 @@
 digraph "Katherine Jackson (4994)_Tangney_2007" {
 	graph [label="Tangney 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Katherine Jackson (4994)" [label="Katherine Jackson (4994)
-Independent"]
 	"Ka-Ren Chew (4230)" [label="Ka-Ren Chew (4230)
 Christian Democratic Party"]
+	"Katherine Jackson (4994)" [label="Katherine Jackson (4994)
+Independent"]
 	"Lisa Saladine (4992)" [label="Lisa Saladine (4992)
 Family First"]
 	"Lloyd Boon (4991)" [label="Lloyd Boon (4991)
 One Nation WA"]
 	"Ka-Ren Chew (4230)" -> "Katherine Jackson (4994)" [label=824]
 	"Lisa Saladine (4992)" -> "Ka-Ren Chew (4230)" [label=175]
-	"Lloyd Boon (4991)" -> "Lisa Saladine (4992)" [label=95]
 	"Lisa Saladine (4992)" -> "Katherine Jackson (4994)" [label=127]
-	"Lloyd Boon (4991)" -> "Katherine Jackson (4994)" [label=91]
 	"Lloyd Boon (4991)" -> "Ka-Ren Chew (4230)" [label=34]
+	"Lloyd Boon (4991)" -> "Katherine Jackson (4994)" [label=91]
+	"Lloyd Boon (4991)" -> "Lisa Saladine (4992)" [label=95]
 }

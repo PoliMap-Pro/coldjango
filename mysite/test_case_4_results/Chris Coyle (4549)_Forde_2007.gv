@@ -4,11 +4,11 @@ digraph "Chris Coyle (4549)_Forde_2007" {
 	node [shape=box]
 	"Chris Coyle (4549)" [label="Chris Coyle (4549)
 Independent"]
-	"Maaz Syed (4546)" [label="Maaz Syed (4546)
-Democrats"]
 	"Danny Hope (4544)" [label="Danny Hope (4544)
 Citizens Electoral Council"]
-	"Maaz Syed (4546)" -> "Chris Coyle (4549)" [label=59]
-	"Danny Hope (4544)" -> "Maaz Syed (4546)" [label=30]
+	"Maaz Syed (4546)" [label="Maaz Syed (4546)
+Democrats"]
 	"Danny Hope (4544)" -> "Chris Coyle (4549)" [label=10]
+	"Danny Hope (4544)" -> "Maaz Syed (4546)" [label=30]
+	"Maaz Syed (4546)" -> "Chris Coyle (4549)" [label=59]
 }

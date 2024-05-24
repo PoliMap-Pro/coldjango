@@ -2,10 +2,10 @@
 digraph "Ray Karam (1408)_Richmond_2019" {
 	graph [label="Richmond 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ray Karam (1408)" [label="Ray Karam (1408)
-Independent"]
 	"Morgan Cox (1407)" [label="Morgan Cox (1407)
 Christian Democratic Party (Fred Nile Group)"]
+	"Ray Karam (1408)" [label="Ray Karam (1408)
+Independent"]
 	"Tom Barnett (1409)" [label="Tom Barnett (1409)
 Involuntary Medication Objectors (Vaccination/Fluoride) Party"]
 	"Morgan Cox (1407)" -> "Ray Karam (1408)" [label=140]

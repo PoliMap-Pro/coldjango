@@ -9,6 +9,6 @@ Australian Democrats"]
 	"Troy Rollo (5009)" [label="Troy Rollo (5009)
 Independent"]
 	"Peter Goldfinch (5011)" -> "Gary Hannah (5008)" [label=149]
-	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
 	"Troy Rollo (5009)" -> "Gary Hannah (5008)" [label=198]
+	"Troy Rollo (5009)" -> "Peter Goldfinch (5011)" [label=39]
 }

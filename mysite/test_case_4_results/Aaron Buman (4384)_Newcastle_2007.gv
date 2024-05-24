@@ -4,37 +4,37 @@ digraph "Aaron Buman (4384)_Newcastle_2007" {
 	node [shape=box]
 	"Aaron Buman (4384)" [label="Aaron Buman (4384)
 Independent"]
+	"Aaron Johnson (4383)" [label="Aaron Johnson (4383)
+Democrats"]
+	"Geoff Payne (4098)" [label="Geoff Payne (4098)
+Socialist Alliance"]
+	"Joel Curry (4386)" [label="Joel Curry (4386)
+Independent"]
 	"Malcolm East (4382)" [label="Malcolm East (4382)
 Family First"]
 	"Milton Caine (2184)" [label="Milton Caine (2184)
 Christian Democratic Party (Fred Nile Group)"]
-	"Aaron Johnson (4383)" [label="Aaron Johnson (4383)
-Democrats"]
-	"Joel Curry (4386)" [label="Joel Curry (4386)
-Independent"]
-	"Geoff Payne (4098)" [label="Geoff Payne (4098)
-Socialist Alliance"]
 	"Noel Holt (3799)" [label="Noel Holt (3799)
 Socialist Equality Party"]
-	"Malcolm East (4382)" -> "Aaron Buman (4384)" [label=1048]
-	"Milton Caine (2184)" -> "Malcolm East (4382)" [label=361]
-	"Aaron Johnson (4383)" -> "Milton Caine (2184)" [label=14]
-	"Joel Curry (4386)" -> "Aaron Johnson (4383)" [label=40]
-	"Geoff Payne (4098)" -> "Joel Curry (4386)" [label=16]
-	"Noel Holt (3799)" -> "Geoff Payne (4098)" [label=53]
-	"Milton Caine (2184)" -> "Aaron Buman (4384)" [label=108]
 	"Aaron Johnson (4383)" -> "Aaron Buman (4384)" [label=218]
-	"Joel Curry (4386)" -> "Aaron Buman (4384)" [label=245]
-	"Geoff Payne (4098)" -> "Aaron Buman (4384)" [label=41]
-	"Noel Holt (3799)" -> "Aaron Buman (4384)" [label=24]
-	"Noel Holt (3799)" -> "Joel Curry (4386)" [label=21]
-	"Geoff Payne (4098)" -> "Aaron Johnson (4383)" [label=48]
-	"Noel Holt (3799)" -> "Aaron Johnson (4383)" [label=9]
-	"Joel Curry (4386)" -> "Milton Caine (2184)" [label=55]
-	"Geoff Payne (4098)" -> "Milton Caine (2184)" [label=8]
-	"Noel Holt (3799)" -> "Milton Caine (2184)" [label=6]
 	"Aaron Johnson (4383)" -> "Malcolm East (4382)" [label=135]
-	"Joel Curry (4386)" -> "Malcolm East (4382)" [label=55]
+	"Aaron Johnson (4383)" -> "Milton Caine (2184)" [label=14]
+	"Geoff Payne (4098)" -> "Aaron Buman (4384)" [label=41]
+	"Geoff Payne (4098)" -> "Aaron Johnson (4383)" [label=48]
+	"Geoff Payne (4098)" -> "Joel Curry (4386)" [label=16]
 	"Geoff Payne (4098)" -> "Malcolm East (4382)" [label=42]
+	"Geoff Payne (4098)" -> "Milton Caine (2184)" [label=8]
+	"Joel Curry (4386)" -> "Aaron Buman (4384)" [label=245]
+	"Joel Curry (4386)" -> "Aaron Johnson (4383)" [label=40]
+	"Joel Curry (4386)" -> "Malcolm East (4382)" [label=55]
+	"Joel Curry (4386)" -> "Milton Caine (2184)" [label=55]
+	"Malcolm East (4382)" -> "Aaron Buman (4384)" [label=1048]
+	"Milton Caine (2184)" -> "Aaron Buman (4384)" [label=108]
+	"Milton Caine (2184)" -> "Malcolm East (4382)" [label=361]
+	"Noel Holt (3799)" -> "Aaron Buman (4384)" [label=24]
+	"Noel Holt (3799)" -> "Aaron Johnson (4383)" [label=9]
+	"Noel Holt (3799)" -> "Geoff Payne (4098)" [label=53]
+	"Noel Holt (3799)" -> "Joel Curry (4386)" [label=21]
 	"Noel Holt (3799)" -> "Malcolm East (4382)" [label=20]
+	"Noel Holt (3799)" -> "Milton Caine (2184)" [label=6]
 }

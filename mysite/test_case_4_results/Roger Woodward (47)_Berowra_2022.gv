@@ -2,9 +2,9 @@
 digraph "Roger Woodward (47)_Berowra_2022" {
 	graph [label="Berowra 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Roger Woodward (47)" [label="Roger Woodward (47)
-Independent"]
 	"David James Louie (46)" [label="David James Louie (46)
 Australian Federation Party"]
+	"Roger Woodward (47)" [label="Roger Woodward (47)
+Independent"]
 	"David James Louie (46)" -> "Roger Woodward (47)" [label=33]
 }

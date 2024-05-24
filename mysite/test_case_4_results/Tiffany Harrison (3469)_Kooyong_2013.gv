@@ -2,24 +2,24 @@
 digraph "Tiffany Harrison (3469)_Kooyong_2013" {
 	graph [label="Kooyong 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tiffany Harrison (3469)" [label="Tiffany Harrison (3469)
+	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
 Independent"]
-	"Luke Gerard Mcnamara (3470)" [label="Luke Gerard Mcnamara (3470)
-Palmer United Party"]
 	"Jaxon Calder (3473)" [label="Jaxon Calder (3473)
 Family First Party"]
-	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+	"Luke Gerard Mcnamara (3470)" [label="Luke Gerard Mcnamara (3470)
+Palmer United Party"]
+	"Tiffany Harrison (3469)" [label="Tiffany Harrison (3469)
 Independent"]
 	"Tim Kriedemann (3471)" [label="Tim Kriedemann (3471)
 Rise Up Australia Party"]
-	"Luke Gerard Mcnamara (3470)" -> "Tiffany Harrison (3469)" [label=371]
-	"Jaxon Calder (3473)" -> "Luke Gerard Mcnamara (3470)" [label=119]
 	"Angelina Zubac (1850)" -> "Jaxon Calder (3473)" [label=27]
-	"Tim Kriedemann (3471)" -> "Angelina Zubac (1850)" [label=22]
-	"Jaxon Calder (3473)" -> "Tiffany Harrison (3469)" [label=132]
-	"Angelina Zubac (1850)" -> "Tiffany Harrison (3469)" [label=279]
-	"Tim Kriedemann (3471)" -> "Tiffany Harrison (3469)" [label=27]
-	"Tim Kriedemann (3471)" -> "Jaxon Calder (3473)" [label=72]
 	"Angelina Zubac (1850)" -> "Luke Gerard Mcnamara (3470)" [label=23]
+	"Angelina Zubac (1850)" -> "Tiffany Harrison (3469)" [label=279]
+	"Jaxon Calder (3473)" -> "Luke Gerard Mcnamara (3470)" [label=119]
+	"Jaxon Calder (3473)" -> "Tiffany Harrison (3469)" [label=132]
+	"Luke Gerard Mcnamara (3470)" -> "Tiffany Harrison (3469)" [label=371]
+	"Tim Kriedemann (3471)" -> "Angelina Zubac (1850)" [label=22]
+	"Tim Kriedemann (3471)" -> "Jaxon Calder (3473)" [label=72]
 	"Tim Kriedemann (3471)" -> "Luke Gerard Mcnamara (3470)" [label=54]
+	"Tim Kriedemann (3471)" -> "Tiffany Harrison (3469)" [label=27]
 }

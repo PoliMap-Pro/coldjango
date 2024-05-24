@@ -2,24 +2,24 @@
 digraph "Tony Windsor (2177)_New England_2010" {
 	graph [label="New England 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony Windsor (2177)" [label="Tony Windsor (2177)
-Independent"]
+	"Brian Charles Dettmann (2944)" [label="Brian Charles Dettmann (2944)
+One Nation"]
 	"Greg Smith (3795)" [label="Greg Smith (3795)
 Country Labor"]
 	"Pat Schultz (2945)" [label="Pat Schultz (2945)
 The Greens"]
-	"Brian Charles Dettmann (2944)" [label="Brian Charles Dettmann (2944)
-One Nation"]
 	"Richard Innes Witten (2947)" [label="Richard Innes Witten (2947)
 Citizens Electoral Council of Australia"]
+	"Tony Windsor (2177)" [label="Tony Windsor (2177)
+Independent"]
+	"Brian Charles Dettmann (2944)" -> "Greg Smith (3795)" [label=121]
+	"Brian Charles Dettmann (2944)" -> "Pat Schultz (2945)" [label=130]
+	"Brian Charles Dettmann (2944)" -> "Tony Windsor (2177)" [label=338]
 	"Greg Smith (3795)" -> "Tony Windsor (2177)" [label=6723]
 	"Pat Schultz (2945)" -> "Greg Smith (3795)" [label=1427]
-	"Brian Charles Dettmann (2944)" -> "Pat Schultz (2945)" [label=130]
-	"Richard Innes Witten (2947)" -> "Brian Charles Dettmann (2944)" [label=52]
 	"Pat Schultz (2945)" -> "Tony Windsor (2177)" [label=1597]
-	"Brian Charles Dettmann (2944)" -> "Tony Windsor (2177)" [label=338]
-	"Richard Innes Witten (2947)" -> "Tony Windsor (2177)" [label=130]
-	"Richard Innes Witten (2947)" -> "Pat Schultz (2945)" [label=29]
-	"Brian Charles Dettmann (2944)" -> "Greg Smith (3795)" [label=121]
+	"Richard Innes Witten (2947)" -> "Brian Charles Dettmann (2944)" [label=52]
 	"Richard Innes Witten (2947)" -> "Greg Smith (3795)" [label=25]
+	"Richard Innes Witten (2947)" -> "Pat Schultz (2945)" [label=29]
+	"Richard Innes Witten (2947)" -> "Tony Windsor (2177)" [label=130]
 }

@@ -2,31 +2,31 @@
 digraph "Francesco Timpano (2719)_Wills_2016" {
 	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Francesco Timpano (2719)" [label="Francesco Timpano (2719)
-Independent"]
-	"Camille Sydow (2718)" [label="Camille Sydow (2718)
-Animal Justice Party"]
 	"Ash Blackwell (2712)" [label="Ash Blackwell (2712)
 Drug Law Reform"]
+	"Camille Sydow (2718)" [label="Camille Sydow (2718)
+Animal Justice Party"]
 	"Dougal Gillman (2715)" [label="Dougal Gillman (2715)
 Renewable Energy Party"]
-	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
-Socialist Alliance"]
+	"Francesco Timpano (2719)" [label="Francesco Timpano (2719)
+Independent"]
 	"Will Fulgenzi (2716)" [label="Will Fulgenzi (2716)
 Socialist Equality Party"]
-	"Camille Sydow (2718)" -> "Francesco Timpano (2719)" [label=407]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
 	"Ash Blackwell (2712)" -> "Camille Sydow (2718)" [label=162]
-	"Dougal Gillman (2715)" -> "Ash Blackwell (2712)" [label=96]
-	"Zane Alcorn (2717)" -> "Dougal Gillman (2715)" [label=68]
-	"Will Fulgenzi (2716)" -> "Zane Alcorn (2717)" [label=84]
 	"Ash Blackwell (2712)" -> "Francesco Timpano (2719)" [label=80]
-	"Dougal Gillman (2715)" -> "Francesco Timpano (2719)" [label=98]
-	"Zane Alcorn (2717)" -> "Francesco Timpano (2719)" [label=42]
-	"Will Fulgenzi (2716)" -> "Francesco Timpano (2719)" [label=24]
-	"Will Fulgenzi (2716)" -> "Dougal Gillman (2715)" [label=37]
-	"Zane Alcorn (2717)" -> "Ash Blackwell (2712)" [label=36]
-	"Will Fulgenzi (2716)" -> "Ash Blackwell (2712)" [label=14]
+	"Camille Sydow (2718)" -> "Francesco Timpano (2719)" [label=407]
+	"Dougal Gillman (2715)" -> "Ash Blackwell (2712)" [label=96]
 	"Dougal Gillman (2715)" -> "Camille Sydow (2718)" [label=147]
-	"Zane Alcorn (2717)" -> "Camille Sydow (2718)" [label=69]
+	"Dougal Gillman (2715)" -> "Francesco Timpano (2719)" [label=98]
+	"Will Fulgenzi (2716)" -> "Ash Blackwell (2712)" [label=14]
 	"Will Fulgenzi (2716)" -> "Camille Sydow (2718)" [label=19]
+	"Will Fulgenzi (2716)" -> "Dougal Gillman (2715)" [label=37]
+	"Will Fulgenzi (2716)" -> "Francesco Timpano (2719)" [label=24]
+	"Will Fulgenzi (2716)" -> "Zane Alcorn (2717)" [label=84]
+	"Zane Alcorn (2717)" -> "Ash Blackwell (2712)" [label=36]
+	"Zane Alcorn (2717)" -> "Camille Sydow (2718)" [label=69]
+	"Zane Alcorn (2717)" -> "Dougal Gillman (2715)" [label=68]
+	"Zane Alcorn (2717)" -> "Francesco Timpano (2719)" [label=42]
 }

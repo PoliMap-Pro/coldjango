@@ -2,9 +2,9 @@
 digraph "Natasha Ledger (229)_New England_2022" {
 	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Natasha Ledger (229)" [label="Natasha Ledger (229)
-Independent"]
 	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
 United Australia Party"]
+	"Natasha Ledger (229)" [label="Natasha Ledger (229)
+Independent"]
 	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
 }

@@ -2,39 +2,39 @@
 digraph "Daniel Mccarthy (1574)_Leichhardt_2016" {
 	graph [label="Leichhardt 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Mccarthy (1574)" [label="Daniel Mccarthy (1574)
-Independent"]
-	"Kurt Pudniks (2373)" [label="Kurt Pudniks (2373)
-The Greens"]
-	"Peter Leonard Rogers (2374)" [label="Peter Leonard Rogers (2374)
-Pauline Hanson's One Nation"]
 	"Brad Tassell (2378)" [label="Brad Tassell (2378)
 Katter's Australian Party"]
-	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
-Family First"]
+	"Daniel Mccarthy (1574)" [label="Daniel Mccarthy (1574)
+Independent"]
 	"John Kelly (2372)" [label="John Kelly (2372)
 Rise Up Australia Party"]
+	"Kurt Pudniks (2373)" [label="Kurt Pudniks (2373)
+The Greens"]
 	"Michael Newie (2377)" [label="Michael Newie (2377)
 Independent"]
-	"Kurt Pudniks (2373)" -> "Daniel Mccarthy (1574)" [label=2401]
-	"Peter Leonard Rogers (2374)" -> "Kurt Pudniks (2373)" [label=1101]
-	"Brad Tassell (2378)" -> "Peter Leonard Rogers (2374)" [label=1145]
-	"Ned Kelly Gebadi (2376)" -> "Brad Tassell (2378)" [label=304]
-	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
-	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
-	"Peter Leonard Rogers (2374)" -> "Daniel Mccarthy (1574)" [label=3716]
+	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
+Family First"]
+	"Peter Leonard Rogers (2374)" [label="Peter Leonard Rogers (2374)
+Pauline Hanson's One Nation"]
 	"Brad Tassell (2378)" -> "Daniel Mccarthy (1574)" [label=1425]
-	"Ned Kelly Gebadi (2376)" -> "Daniel Mccarthy (1574)" [label=616]
-	"John Kelly (2372)" -> "Daniel Mccarthy (1574)" [label=108]
-	"Michael Newie (2377)" -> "Daniel Mccarthy (1574)" [label=270]
-	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
-	"John Kelly (2372)" -> "Brad Tassell (2378)" [label=120]
-	"Michael Newie (2377)" -> "Brad Tassell (2378)" [label=87]
-	"Ned Kelly Gebadi (2376)" -> "Peter Leonard Rogers (2374)" [label=267]
-	"John Kelly (2372)" -> "Peter Leonard Rogers (2374)" [label=312]
-	"Michael Newie (2377)" -> "Peter Leonard Rogers (2374)" [label=14]
 	"Brad Tassell (2378)" -> "Kurt Pudniks (2373)" [label=349]
-	"Ned Kelly Gebadi (2376)" -> "Kurt Pudniks (2373)" [label=341]
+	"Brad Tassell (2378)" -> "Peter Leonard Rogers (2374)" [label=1145]
+	"John Kelly (2372)" -> "Brad Tassell (2378)" [label=120]
+	"John Kelly (2372)" -> "Daniel Mccarthy (1574)" [label=108]
 	"John Kelly (2372)" -> "Kurt Pudniks (2373)" [label=571]
+	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
+	"John Kelly (2372)" -> "Peter Leonard Rogers (2374)" [label=312]
+	"Kurt Pudniks (2373)" -> "Daniel Mccarthy (1574)" [label=2401]
+	"Michael Newie (2377)" -> "Brad Tassell (2378)" [label=87]
+	"Michael Newie (2377)" -> "Daniel Mccarthy (1574)" [label=270]
+	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
 	"Michael Newie (2377)" -> "Kurt Pudniks (2373)" [label=35]
+	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
+	"Michael Newie (2377)" -> "Peter Leonard Rogers (2374)" [label=14]
+	"Ned Kelly Gebadi (2376)" -> "Brad Tassell (2378)" [label=304]
+	"Ned Kelly Gebadi (2376)" -> "Daniel Mccarthy (1574)" [label=616]
+	"Ned Kelly Gebadi (2376)" -> "Kurt Pudniks (2373)" [label=341]
+	"Ned Kelly Gebadi (2376)" -> "Peter Leonard Rogers (2374)" [label=267]
+	"Peter Leonard Rogers (2374)" -> "Daniel Mccarthy (1574)" [label=3716]
+	"Peter Leonard Rogers (2374)" -> "Kurt Pudniks (2373)" [label=1101]
 }

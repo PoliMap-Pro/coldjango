@@ -113,9 +113,16 @@ class Seat(abstract_models.Beacon):
                                        representation, result, return_format,
                                        sum_booths, tally_attribute, total)
         else:
-            self.collect_vote_like(election, election_result, representation,
-                                   result, return_format, sum_booths,
-                                   tally_attribute, total)
+            try:
+                self.collect_vote_like(
+                    election, election_result, representation,
+                    result, return_format, sum_booths, tally_attribute,
+                    total)
+            except house.VoteTally.DoesNotExist:
+                self.update_place_result(
+                    election, representation, result, total, tally_attribute,
+                    sum_booths=sum_booths, return_format=return_format,
+                    election_result=election_result, check_contentions=True)
 
     def add_candidate_source(self, election, last_pref, pref_rounds, trail,
                              trail_index):
@@ -218,7 +225,8 @@ class Booth(geography.Pin):
     def update_place_result(self, election, representation, result, total,
                             tally_attribute, default=0,
                             return_format=constants.NEST_FORMAT,
-                            election_result=None):
+                            election_result=None,
+                            check_contentions=False):
         candidate = representation.person.candidate
         contentions = service.Contention.objects.filter(
             election=election, seat=self.seat, candidate=candidate)

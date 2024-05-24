@@ -2,13 +2,13 @@
 digraph "Patrick Barry (3706)_Charlton_2010" {
 	graph [label="Charlton 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Patrick Barry (3706)" [label="Patrick Barry (3706)
-Independent"]
-	"Mitchell Pickstone (3707)" [label="Mitchell Pickstone (3707)
-Christian Democratic Party (Fred Nile Group)"]
 	"Ann Lawler (2905)" [label="Ann Lawler (2905)
 Citizens Electoral Council of Australia"]
-	"Mitchell Pickstone (3707)" -> "Patrick Barry (3706)" [label=698]
+	"Mitchell Pickstone (3707)" [label="Mitchell Pickstone (3707)
+Christian Democratic Party (Fred Nile Group)"]
+	"Patrick Barry (3706)" [label="Patrick Barry (3706)
+Independent"]
 	"Ann Lawler (2905)" -> "Mitchell Pickstone (3707)" [label=74]
 	"Ann Lawler (2905)" -> "Patrick Barry (3706)" [label=202]
+	"Mitchell Pickstone (3707)" -> "Patrick Barry (3706)" [label=698]
 }

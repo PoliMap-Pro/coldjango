@@ -9,6 +9,6 @@ Australian Independents"]
 	"Rod Christensen (3108)" [label="Rod Christensen (3108)
 Rise Up Australia Party"]
 	"Mark Maguire (3104)" -> "Jarreau Terry (3109)" [label=212]
-	"Rod Christensen (3108)" -> "Mark Maguire (3104)" [label=13]
 	"Rod Christensen (3108)" -> "Jarreau Terry (3109)" [label=25]
+	"Rod Christensen (3108)" -> "Mark Maguire (3104)" [label=13]
 }

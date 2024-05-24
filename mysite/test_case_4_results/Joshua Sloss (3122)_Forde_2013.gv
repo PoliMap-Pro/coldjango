@@ -2,13 +2,13 @@
 digraph "Joshua Sloss (3122)_Forde_2013" {
 	graph [label="Forde 2013" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
+Citizens Electoral Council"]
 	"Joshua Sloss (3122)" [label="Joshua Sloss (3122)
 Independent"]
 	"Keith Douglas (3120)" [label="Keith Douglas (3120)
 Australian Voice"]
-	"Jan Pukallus (3123)" [label="Jan Pukallus (3123)
-Citizens Electoral Council"]
-	"Keith Douglas (3120)" -> "Joshua Sloss (3122)" [label=46]
-	"Jan Pukallus (3123)" -> "Keith Douglas (3120)" [label=12]
 	"Jan Pukallus (3123)" -> "Joshua Sloss (3122)" [label=11]
+	"Jan Pukallus (3123)" -> "Keith Douglas (3120)" [label=12]
+	"Keith Douglas (3120)" -> "Joshua Sloss (3122)" [label=46]
 }

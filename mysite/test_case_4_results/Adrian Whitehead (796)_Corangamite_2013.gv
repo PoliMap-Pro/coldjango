@@ -4,29 +4,29 @@ digraph "Adrian Whitehead (796)_Corangamite_2013" {
 	node [shape=box]
 	"Adrian Whitehead (796)" [label="Adrian Whitehead (796)
 Independent"]
-	"Andrew Black (3376)" [label="Andrew Black (3376)
-The Nationals"]
 	"Alan Barron (2572)" [label="Alan Barron (2572)
 Australian Christians"]
-	"Warren Jackman (3374)" [label="Warren Jackman (3374)
-Country Alliance"]
+	"Andrew Black (3376)" [label="Andrew Black (3376)
+The Nationals"]
 	"Helen Rashleigh (3370)" [label="Helen Rashleigh (3370)
 Rise Up Australia Party"]
 	"Nick Steel (2573)" [label="Nick Steel (2573)
 Australian Protectionist Party"]
-	"Andrew Black (3376)" -> "Adrian Whitehead (796)" [label=37]
-	"Alan Barron (2572)" -> "Andrew Black (3376)" [label=19]
-	"Warren Jackman (3374)" -> "Alan Barron (2572)" [label=14]
-	"Helen Rashleigh (3370)" -> "Warren Jackman (3374)" [label=9]
-	"Nick Steel (2573)" -> "Helen Rashleigh (3370)" [label=14]
+	"Warren Jackman (3374)" [label="Warren Jackman (3374)
+Country Alliance"]
 	"Alan Barron (2572)" -> "Adrian Whitehead (796)" [label=28]
-	"Warren Jackman (3374)" -> "Adrian Whitehead (796)" [label=36]
+	"Alan Barron (2572)" -> "Andrew Black (3376)" [label=19]
+	"Andrew Black (3376)" -> "Adrian Whitehead (796)" [label=37]
 	"Helen Rashleigh (3370)" -> "Adrian Whitehead (796)" [label=18]
-	"Nick Steel (2573)" -> "Adrian Whitehead (796)" [label=13]
-	"Nick Steel (2573)" -> "Warren Jackman (3374)" [label=11]
 	"Helen Rashleigh (3370)" -> "Alan Barron (2572)" [label=103]
-	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=2]
-	"Warren Jackman (3374)" -> "Andrew Black (3376)" [label=39]
 	"Helen Rashleigh (3370)" -> "Andrew Black (3376)" [label=8]
+	"Helen Rashleigh (3370)" -> "Warren Jackman (3374)" [label=9]
+	"Nick Steel (2573)" -> "Adrian Whitehead (796)" [label=13]
+	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=2]
 	"Nick Steel (2573)" -> "Andrew Black (3376)" [label=24]
+	"Nick Steel (2573)" -> "Helen Rashleigh (3370)" [label=14]
+	"Nick Steel (2573)" -> "Warren Jackman (3374)" [label=11]
+	"Warren Jackman (3374)" -> "Adrian Whitehead (796)" [label=36]
+	"Warren Jackman (3374)" -> "Alan Barron (2572)" [label=14]
+	"Warren Jackman (3374)" -> "Andrew Black (3376)" [label=39]
 }

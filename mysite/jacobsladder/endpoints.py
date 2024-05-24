@@ -1,6 +1,5 @@
 import json
 from . import constants, house, people, place
-import time
 
 
 def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
@@ -12,12 +11,10 @@ def getHouseAttribute(elections=None, parties=None, places=None, seats=True,
     as {'name': 'Chisholm', 'seat__name': 'Bean'} or
     {'abbreviation__in': ('GRN', 'ALP', 'LP')}
     """
-    old_time = time.time()
     party_set, place_set, result = _setupHouseAttribute(parties, places, seats)
     [election.result_by_place(
         party_set, place_set, places, result, tally_attribute, sum_booths,
         return_format) for election in house.HouseElection.get_set(elections)]
-    print(time.time() - old_time)
     return json.dumps(result)
 
 
@@ -48,8 +45,10 @@ def getHouseTwoPartyPreferred(elections=None, parties=None, places=None,
 
 def getHouseGeneralPartyPreferred(elections=None, places=None, seats=True,
                                   how_many=3, tally_attribute='primary_votes',
-                                  sum_booths=False,
-                                  return_format=constants.SPREADSHEET_FORMAT):
+                                  sum_booths=False,):
+    """
+    Slow.
+    """
     party_set, place_set, result = _setupHouseAttribute(None, places, seats)
     [election.highest_by_votes(
         how_many, place_set, places, result, tally_attribute, sum_booths) for

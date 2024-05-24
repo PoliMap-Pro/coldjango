@@ -2,13 +2,13 @@
 digraph "Kim Mubarak (2773)_Stirling_2016" {
 	graph [label="Stirling 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
-Independent"]
-	"Kevin Host (2006)" [label="Kevin Host (2006)
-Australian Christians"]
 	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
 Rise Up Australia Party"]
-	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
+	"Kevin Host (2006)" [label="Kevin Host (2006)
+Australian Christians"]
+	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
+Independent"]
 	"Alison L Rowe (2774)" -> "Kevin Host (2006)" [label=343]
 	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
+	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
 }

@@ -11,9 +11,9 @@ Australia First Party"]
 	"Terry Tremethick (3787)" [label="Terry Tremethick (3787)
 Carers Alliance"]
 	"Jason Cornelius (3790)" -> "Amy Bell (3786)" [label=213]
-	"John Bates (3788)" -> "Jason Cornelius (3790)" [label=172]
-	"Terry Tremethick (3787)" -> "John Bates (3788)" [label=43]
 	"John Bates (3788)" -> "Amy Bell (3786)" [label=141]
+	"John Bates (3788)" -> "Jason Cornelius (3790)" [label=172]
 	"Terry Tremethick (3787)" -> "Amy Bell (3786)" [label=112]
 	"Terry Tremethick (3787)" -> "Jason Cornelius (3790)" [label=64]
+	"Terry Tremethick (3787)" -> "John Bates (3788)" [label=43]
 }

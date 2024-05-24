@@ -11,9 +11,9 @@ One Nation WA"]
 	"Terry Shaw (4644)" [label="Terry Shaw (4644)
 Democrats"]
 	"John Chapman (3231)" -> "Cate Molloy (4640)" [label=635]
-	"Martin Essenberg (4641)" -> "John Chapman (3231)" [label=223]
-	"Terry Shaw (4644)" -> "Martin Essenberg (4641)" [label=48]
 	"Martin Essenberg (4641)" -> "Cate Molloy (4640)" [label=323]
+	"Martin Essenberg (4641)" -> "John Chapman (3231)" [label=223]
 	"Terry Shaw (4644)" -> "Cate Molloy (4640)" [label=107]
 	"Terry Shaw (4644)" -> "John Chapman (3231)" [label=42]
+	"Terry Shaw (4644)" -> "Martin Essenberg (4641)" [label=48]
 }

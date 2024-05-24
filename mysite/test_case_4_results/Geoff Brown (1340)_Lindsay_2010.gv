@@ -9,6 +9,6 @@ Family First"]
 	"Mick Saunders (2912)" [label="Mick Saunders (2912)
 Australia First Party"]
 	"John Phillips (3775)" -> "Geoff Brown (1340)" [label=228]
-	"Mick Saunders (2912)" -> "John Phillips (3775)" [label=187]
 	"Mick Saunders (2912)" -> "Geoff Brown (1340)" [label=328]
+	"Mick Saunders (2912)" -> "John Phillips (3775)" [label=187]
 }

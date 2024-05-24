@@ -2,9 +2,9 @@
 digraph "Rasmus Torkel (2037)_Barton_2016" {
 	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
-Independent"]
 	"Harry Tsoukalas (2040)" [label="Harry Tsoukalas (2040)
 Online Direct Democracy - (Empowering the People!)"]
+	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
+Independent"]
 	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
 }

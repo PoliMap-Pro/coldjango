@@ -2,24 +2,24 @@
 digraph "Tim Horan (4402)_Parkes_2007" {
 	graph [label="Parkes 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Horan (4402)" [label="Tim Horan (4402)
+	"Bruce Douglas Haigh (4404)" [label="Bruce Douglas Haigh (4404)
 Independent"]
 	"Matt Parmeter (2198)" [label="Matt Parmeter (2198)
 The Greens"]
-	"Bruce Douglas Haigh (4404)" [label="Bruce Douglas Haigh (4404)
-Independent"]
 	"Michael Kiely (4403)" [label="Michael Kiely (4403)
 Climate Change Coalition"]
 	"Richard Stringer (4405)" [label="Richard Stringer (4405)
 Citizens Electoral Council"]
-	"Matt Parmeter (2198)" -> "Tim Horan (4402)" [label=1253]
+	"Tim Horan (4402)" [label="Tim Horan (4402)
+Independent"]
 	"Bruce Douglas Haigh (4404)" -> "Matt Parmeter (2198)" [label=316]
-	"Michael Kiely (4403)" -> "Bruce Douglas Haigh (4404)" [label=129]
-	"Richard Stringer (4405)" -> "Michael Kiely (4403)" [label=28]
 	"Bruce Douglas Haigh (4404)" -> "Tim Horan (4402)" [label=1269]
-	"Michael Kiely (4403)" -> "Tim Horan (4402)" [label=309]
-	"Richard Stringer (4405)" -> "Tim Horan (4402)" [label=78]
-	"Richard Stringer (4405)" -> "Bruce Douglas Haigh (4404)" [label=44]
+	"Matt Parmeter (2198)" -> "Tim Horan (4402)" [label=1253]
+	"Michael Kiely (4403)" -> "Bruce Douglas Haigh (4404)" [label=129]
 	"Michael Kiely (4403)" -> "Matt Parmeter (2198)" [label=210]
+	"Michael Kiely (4403)" -> "Tim Horan (4402)" [label=309]
+	"Richard Stringer (4405)" -> "Bruce Douglas Haigh (4404)" [label=44]
 	"Richard Stringer (4405)" -> "Matt Parmeter (2198)" [label=15]
+	"Richard Stringer (4405)" -> "Michael Kiely (4403)" [label=28]
+	"Richard Stringer (4405)" -> "Tim Horan (4402)" [label=78]
 }

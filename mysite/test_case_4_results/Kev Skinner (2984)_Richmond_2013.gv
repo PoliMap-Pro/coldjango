@@ -2,9 +2,9 @@
 digraph "Kev Skinner (2984)_Richmond_2013" {
 	graph [label="Richmond 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kev Skinner (2984)" [label="Kev Skinner (2984)
-Independent"]
 	"John Ordish (2983)" [label="John Ordish (2983)
 Christian Democratic Party (Fred Nile Group)"]
+	"Kev Skinner (2984)" [label="Kev Skinner (2984)
+Independent"]
 	"John Ordish (2983)" -> "Kev Skinner (2984)" [label=388]
 }

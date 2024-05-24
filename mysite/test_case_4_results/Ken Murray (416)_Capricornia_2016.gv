@@ -2,9 +2,9 @@
 digraph "Ken Murray (416)_Capricornia_2016" {
 	graph [label="Capricornia 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ken Murray (416)" [label="Ken Murray (416)
-Independent"]
 	"Kate Giamarelos (2304)" [label="Kate Giamarelos (2304)
 The Greens"]
+	"Ken Murray (416)" [label="Ken Murray (416)
+Independent"]
 	"Kate Giamarelos (2304)" -> "Ken Murray (416)" [label=640]
 }

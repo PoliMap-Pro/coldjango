@@ -4,11 +4,11 @@ digraph "Graeme Strang (2848)_Cook_2010" {
 	node [shape=box]
 	"Graeme Strang (2848)" [label="Graeme Strang (2848)
 Independent"]
-	"Richard Putral (3715)" [label="Richard Putral (3715)
-One Nation"]
 	"Merelyn Foy (3713)" [label="Merelyn Foy (3713)
 Family First"]
-	"Richard Putral (3715)" -> "Graeme Strang (2848)" [label=219]
-	"Merelyn Foy (3713)" -> "Richard Putral (3715)" [label=65]
+	"Richard Putral (3715)" [label="Richard Putral (3715)
+One Nation"]
 	"Merelyn Foy (3713)" -> "Graeme Strang (2848)" [label=99]
+	"Merelyn Foy (3713)" -> "Richard Putral (3715)" [label=65]
+	"Richard Putral (3715)" -> "Graeme Strang (2848)" [label=219]
 }

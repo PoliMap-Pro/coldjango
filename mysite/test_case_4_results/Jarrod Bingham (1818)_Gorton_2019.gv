@@ -2,13 +2,13 @@
 digraph "Jarrod Bingham (1818)_Gorton_2019" {
 	graph [label="Gorton 2019" labelloc=t mclimit=10]
 	node [shape=box]
+	"Harkirat Singh (1819)" [label="Harkirat Singh (1819)
+The Greens (VIC)"]
 	"Jarrod Bingham (1818)" [label="Jarrod Bingham (1818)
 Independent"]
 	"Richard Turton (1817)" [label="Richard Turton (1817)
 United Australia Party"]
-	"Harkirat Singh (1819)" [label="Harkirat Singh (1819)
-The Greens (VIC)"]
-	"Richard Turton (1817)" -> "Jarrod Bingham (1818)" [label=4112]
-	"Harkirat Singh (1819)" -> "Richard Turton (1817)" [label=645]
 	"Harkirat Singh (1819)" -> "Jarrod Bingham (1818)" [label=1379]
+	"Harkirat Singh (1819)" -> "Richard Turton (1817)" [label=645]
+	"Richard Turton (1817)" -> "Jarrod Bingham (1818)" [label=4112]
 }

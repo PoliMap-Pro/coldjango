@@ -2,31 +2,31 @@
 digraph "Kelli Jacobi (593)_Wide Bay_2022" {
 	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
-Independent"]
-	"Tracy Bennett (595)" [label="Tracy Bennett (595)
-United Australia Party"]
-	"Tim Jerome (599)" [label="Tim Jerome (599)
-Independent"]
 	"Andrea Newland (602)" [label="Andrea Newland (602)
 Informed Medical Options Party"]
 	"Daniel Williams (601)" [label="Daniel Williams (601)
 Australian Values Party"]
 	"John Woodward (598)" [label="John Woodward (598)
 Australian Federation Party"]
-	"Tracy Bennett (595)" -> "Kelli Jacobi (593)" [label=795]
-	"Tim Jerome (599)" -> "Tracy Bennett (595)" [label=215]
-	"Andrea Newland (602)" -> "Tim Jerome (599)" [label=429]
-	"Daniel Williams (601)" -> "Andrea Newland (602)" [label=203]
-	"John Woodward (598)" -> "Daniel Williams (601)" [label=54]
-	"Tim Jerome (599)" -> "Kelli Jacobi (593)" [label=1700]
+	"Kelli Jacobi (593)" [label="Kelli Jacobi (593)
+Independent"]
+	"Tim Jerome (599)" [label="Tim Jerome (599)
+Independent"]
+	"Tracy Bennett (595)" [label="Tracy Bennett (595)
+United Australia Party"]
 	"Andrea Newland (602)" -> "Kelli Jacobi (593)" [label=584]
-	"Daniel Williams (601)" -> "Kelli Jacobi (593)" [label=123]
-	"John Woodward (598)" -> "Kelli Jacobi (593)" [label=76]
-	"John Woodward (598)" -> "Andrea Newland (602)" [label=58]
-	"Daniel Williams (601)" -> "Tim Jerome (599)" [label=147]
-	"John Woodward (598)" -> "Tim Jerome (599)" [label=65]
+	"Andrea Newland (602)" -> "Tim Jerome (599)" [label=429]
 	"Andrea Newland (602)" -> "Tracy Bennett (595)" [label=252]
+	"Daniel Williams (601)" -> "Andrea Newland (602)" [label=203]
+	"Daniel Williams (601)" -> "Kelli Jacobi (593)" [label=123]
+	"Daniel Williams (601)" -> "Tim Jerome (599)" [label=147]
 	"Daniel Williams (601)" -> "Tracy Bennett (595)" [label=62]
+	"John Woodward (598)" -> "Andrea Newland (602)" [label=58]
+	"John Woodward (598)" -> "Daniel Williams (601)" [label=54]
+	"John Woodward (598)" -> "Kelli Jacobi (593)" [label=76]
+	"John Woodward (598)" -> "Tim Jerome (599)" [label=65]
 	"John Woodward (598)" -> "Tracy Bennett (595)" [label=44]
+	"Tim Jerome (599)" -> "Kelli Jacobi (593)" [label=1700]
+	"Tim Jerome (599)" -> "Tracy Bennett (595)" [label=215]
+	"Tracy Bennett (595)" -> "Kelli Jacobi (593)" [label=795]
 }

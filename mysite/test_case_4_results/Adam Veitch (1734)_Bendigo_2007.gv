@@ -4,11 +4,11 @@ digraph "Adam Veitch (1734)_Bendigo_2007" {
 	node [shape=box]
 	"Adam Veitch (1734)" [label="Adam Veitch (1734)
 Independent"]
-	"Peter Consandine (4744)" [label="Peter Consandine (4744)
-Independent"]
 	"Clinton Gale (4742)" [label="Clinton Gale (4742)
 LDP"]
-	"Peter Consandine (4744)" -> "Adam Veitch (1734)" [label=108]
-	"Clinton Gale (4742)" -> "Peter Consandine (4744)" [label=28]
+	"Peter Consandine (4744)" [label="Peter Consandine (4744)
+Independent"]
 	"Clinton Gale (4742)" -> "Adam Veitch (1734)" [label=6]
+	"Clinton Gale (4742)" -> "Peter Consandine (4744)" [label=28]
+	"Peter Consandine (4744)" -> "Adam Veitch (1734)" [label=108]
 }

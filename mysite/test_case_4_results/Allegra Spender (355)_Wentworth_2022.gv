@@ -4,29 +4,29 @@ digraph "Allegra Spender (355)_Wentworth_2022" {
 	node [shape=box]
 	"Allegra Spender (355)" [label="Allegra Spender (355)
 Independent"]
-	"Tim Murray (351)" [label="Tim Murray (351)
-Labor"]
-	"Dominic Wy Kanak (353)" [label="Dominic Wy Kanak (353)
-The Greens"]
-	"Natalie Dumer (354)" [label="Natalie Dumer (354)
-United Australia Party"]
 	"Daniel Lewkovitz (356)" [label="Daniel Lewkovitz (356)
 Liberal Democrats"]
 	"Dean Fisher (352)" [label="Dean Fisher (352)
 Pauline Hanson's One Nation"]
-	"Tim Murray (351)" -> "Allegra Spender (355)" [label=10800]
-	"Dominic Wy Kanak (353)" -> "Tim Murray (351)" [label=2835]
-	"Natalie Dumer (354)" -> "Dominic Wy Kanak (353)" [label=269]
-	"Daniel Lewkovitz (356)" -> "Natalie Dumer (354)" [label=650]
-	"Dean Fisher (352)" -> "Daniel Lewkovitz (356)" [label=126]
-	"Dominic Wy Kanak (353)" -> "Allegra Spender (355)" [label=4442]
-	"Natalie Dumer (354)" -> "Allegra Spender (355)" [label=932]
+	"Dominic Wy Kanak (353)" [label="Dominic Wy Kanak (353)
+The Greens"]
+	"Natalie Dumer (354)" [label="Natalie Dumer (354)
+United Australia Party"]
+	"Tim Murray (351)" [label="Tim Murray (351)
+Labor"]
 	"Daniel Lewkovitz (356)" -> "Allegra Spender (355)" [label=126]
-	"Dean Fisher (352)" -> "Allegra Spender (355)" [label=76]
-	"Dean Fisher (352)" -> "Natalie Dumer (354)" [label=475]
 	"Daniel Lewkovitz (356)" -> "Dominic Wy Kanak (353)" [label=44]
-	"Dean Fisher (352)" -> "Dominic Wy Kanak (353)" [label=56]
-	"Natalie Dumer (354)" -> "Tim Murray (351)" [label=311]
+	"Daniel Lewkovitz (356)" -> "Natalie Dumer (354)" [label=650]
 	"Daniel Lewkovitz (356)" -> "Tim Murray (351)" [label=56]
+	"Dean Fisher (352)" -> "Allegra Spender (355)" [label=76]
+	"Dean Fisher (352)" -> "Daniel Lewkovitz (356)" [label=126]
+	"Dean Fisher (352)" -> "Dominic Wy Kanak (353)" [label=56]
+	"Dean Fisher (352)" -> "Natalie Dumer (354)" [label=475]
 	"Dean Fisher (352)" -> "Tim Murray (351)" [label=56]
+	"Dominic Wy Kanak (353)" -> "Allegra Spender (355)" [label=4442]
+	"Dominic Wy Kanak (353)" -> "Tim Murray (351)" [label=2835]
+	"Natalie Dumer (354)" -> "Allegra Spender (355)" [label=932]
+	"Natalie Dumer (354)" -> "Dominic Wy Kanak (353)" [label=269]
+	"Natalie Dumer (354)" -> "Tim Murray (351)" [label=311]
+	"Tim Murray (351)" -> "Allegra Spender (355)" [label=10800]
 }

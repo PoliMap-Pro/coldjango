@@ -2,9 +2,9 @@
 digraph "Sheneli Meneripitiyage Dona (159)_Hume_2022" {
 	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sheneli Meneripitiyage Dona (159)" [label="Sheneli Meneripitiyage Dona (159)
-Independent"]
 	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
 Liberal Democrats"]
+	"Sheneli Meneripitiyage Dona (159)" [label="Sheneli Meneripitiyage Dona (159)
+Independent"]
 	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
 }

@@ -2,24 +2,24 @@
 digraph "Stuart Ulrich (4272)_Charlton_2007" {
 	graph [label="Charlton 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stuart Ulrich (4272)" [label="Stuart Ulrich (4272)
-Independent"]
+	"David Stow (4274)" [label="David Stow (4274)
+Citizens Electoral Council"]
 	"Jim Kendall (4277)" [label="Jim Kendall (4277)
 Christian Democratic Party (Fred Nile Group)"]
 	"Patrick Barry (3706)" [label="Patrick Barry (3706)
 Independent"]
+	"Stuart Ulrich (4272)" [label="Stuart Ulrich (4272)
+Independent"]
 	"Terry Cook (4275)" [label="Terry Cook (4275)
 Socialist Equality Party"]
-	"David Stow (4274)" [label="David Stow (4274)
-Citizens Electoral Council"]
+	"David Stow (4274)" -> "Jim Kendall (4277)" [label=36]
+	"David Stow (4274)" -> "Patrick Barry (3706)" [label=21]
+	"David Stow (4274)" -> "Stuart Ulrich (4272)" [label=71]
+	"David Stow (4274)" -> "Terry Cook (4275)" [label=34]
 	"Jim Kendall (4277)" -> "Stuart Ulrich (4272)" [label=371]
 	"Patrick Barry (3706)" -> "Jim Kendall (4277)" [label=101]
-	"Terry Cook (4275)" -> "Patrick Barry (3706)" [label=29]
-	"David Stow (4274)" -> "Terry Cook (4275)" [label=34]
 	"Patrick Barry (3706)" -> "Stuart Ulrich (4272)" [label=662]
-	"Terry Cook (4275)" -> "Stuart Ulrich (4272)" [label=85]
-	"David Stow (4274)" -> "Stuart Ulrich (4272)" [label=71]
-	"David Stow (4274)" -> "Patrick Barry (3706)" [label=21]
 	"Terry Cook (4275)" -> "Jim Kendall (4277)" [label=20]
-	"David Stow (4274)" -> "Jim Kendall (4277)" [label=36]
+	"Terry Cook (4275)" -> "Patrick Barry (3706)" [label=29]
+	"Terry Cook (4275)" -> "Stuart Ulrich (4272)" [label=85]
 }

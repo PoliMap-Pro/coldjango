@@ -2,10 +2,10 @@
 digraph "Maurice Foley (4483)_Solomon_2007" {
 	graph [label="Solomon 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Maurice Foley (4483)" [label="Maurice Foley (4483)
-Independent"]
 	"Jacques Chester (4481)" [label="Jacques Chester (4481)
 LDP"]
+	"Maurice Foley (4483)" [label="Maurice Foley (4483)
+Independent"]
 	"Trudy Campbell (3048)" [label="Trudy Campbell (3048)
 Citizens Electoral Council"]
 	"Jacques Chester (4481)" -> "Maurice Foley (4483)" [label=65]

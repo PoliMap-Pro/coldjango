@@ -9,6 +9,6 @@ Australian Cyclists Party"]
 	"Russell Hayward (2540)" [label="Russell Hayward (2540)
 Australian Progressives"]
 	"Geoffrey Cicuto (2541)" -> "Franco Guardiani (2545)" [label=17]
-	"Russell Hayward (2540)" -> "Geoffrey Cicuto (2541)" [label=35]
 	"Russell Hayward (2540)" -> "Franco Guardiani (2545)" [label=7]
+	"Russell Hayward (2540)" -> "Geoffrey Cicuto (2541)" [label=35]
 }

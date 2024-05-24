@@ -2,9 +2,9 @@
 digraph "David Norman (1559)_Hinkler_2019" {
 	graph [label="Hinkler 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Norman (1559)" [label="David Norman (1559)
-Independent"]
 	"Adrian Jacob Wone (1565)" [label="Adrian Jacob Wone (1565)
+Independent"]
+	"David Norman (1559)" [label="David Norman (1559)
 Independent"]
 	"Adrian Jacob Wone (1565)" -> "David Norman (1559)" [label=106]
 }

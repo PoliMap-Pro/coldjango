@@ -4,11 +4,11 @@ digraph "Abraham Seviloglou (4074)_Deakin_2010" {
 	node [shape=box]
 	"Abraham Seviloglou (4074)" [label="Abraham Seviloglou (4074)
 Independent"]
-	"Benjamin Walsh (4072)" [label="Benjamin Walsh (4072)
-Liberal Democrats (LDP)"]
 	"Alex Norwick (2840)" [label="Alex Norwick (2840)
 Australia First Party"]
-	"Benjamin Walsh (4072)" -> "Abraham Seviloglou (4074)" [label=53]
-	"Alex Norwick (2840)" -> "Benjamin Walsh (4072)" [label=13]
+	"Benjamin Walsh (4072)" [label="Benjamin Walsh (4072)
+Liberal Democrats (LDP)"]
 	"Alex Norwick (2840)" -> "Abraham Seviloglou (4074)" [label=91]
+	"Alex Norwick (2840)" -> "Benjamin Walsh (4072)" [label=13]
+	"Benjamin Walsh (4072)" -> "Abraham Seviloglou (4074)" [label=53]
 }

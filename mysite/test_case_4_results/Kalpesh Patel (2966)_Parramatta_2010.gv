@@ -2,12 +2,12 @@
 digraph "Kalpesh Patel (2966)_Parramatta_2010" {
 	graph [label="Parramatta 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
-Independent"]
 	"Chris Gordon (3812)" [label="Chris Gordon (3812)
 Socialist Equality Party"]
 	"Duncan Roden (3813)" [label="Duncan Roden (3813)
 Socialist Alliance"]
+	"Kalpesh Patel (2966)" [label="Kalpesh Patel (2966)
+Independent"]
 	"Chris Gordon (3812)" -> "Kalpesh Patel (2966)" [label=712]
 	"Duncan Roden (3813)" -> "Chris Gordon (3812)" [label=85]
 	"Duncan Roden (3813)" -> "Kalpesh Patel (2966)" [label=22]

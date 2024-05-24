@@ -2,12 +2,12 @@
 digraph "Tim Bohm (10)_Canberra_2022" {
 	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Bohm (10)" [label="Tim Bohm (10)
-Independent"]
 	"Catherine Smith (8)" [label="Catherine Smith (8)
 United Australia Party"]
 	"James Miles (9)" [label="James Miles (9)
 Pauline Hanson's One Nation"]
+	"Tim Bohm (10)" [label="Tim Bohm (10)
+Independent"]
 	"Catherine Smith (8)" -> "Tim Bohm (10)" [label=1299]
 	"James Miles (9)" -> "Catherine Smith (8)" [label=859]
 	"James Miles (9)" -> "Tim Bohm (10)" [label=205]

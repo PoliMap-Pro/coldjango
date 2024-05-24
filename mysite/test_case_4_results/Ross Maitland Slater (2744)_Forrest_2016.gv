@@ -2,24 +2,24 @@
 digraph "Ross Maitland Slater (2744)_Forrest_2016" {
 	graph [label="Forrest 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ross Maitland Slater (2744)" [label="Ross Maitland Slater (2744)
-Independent"]
-	"Luke Pilkington (2748)" [label="Luke Pilkington (2748)
-The Nationals"]
 	"David Fishlock (2746)" [label="David Fishlock (2746)
 Outdoor Recreation Party (Stop The Greens)"]
 	"Edward Dabrowski (2745)" [label="Edward Dabrowski (2745)
 Australian Christians"]
 	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
 Rise Up Australia Party"]
-	"Luke Pilkington (2748)" -> "Ross Maitland Slater (2744)" [label=862]
+	"Luke Pilkington (2748)" [label="Luke Pilkington (2748)
+The Nationals"]
+	"Ross Maitland Slater (2744)" [label="Ross Maitland Slater (2744)
+Independent"]
 	"David Fishlock (2746)" -> "Luke Pilkington (2748)" [label=424]
-	"Edward Dabrowski (2745)" -> "David Fishlock (2746)" [label=274]
-	"Jennifer Whately (2747)" -> "Edward Dabrowski (2745)" [label=259]
 	"David Fishlock (2746)" -> "Ross Maitland Slater (2744)" [label=1489]
-	"Edward Dabrowski (2745)" -> "Ross Maitland Slater (2744)" [label=487]
-	"Jennifer Whately (2747)" -> "Ross Maitland Slater (2744)" [label=383]
-	"Jennifer Whately (2747)" -> "David Fishlock (2746)" [label=489]
+	"Edward Dabrowski (2745)" -> "David Fishlock (2746)" [label=274]
 	"Edward Dabrowski (2745)" -> "Luke Pilkington (2748)" [label=243]
+	"Edward Dabrowski (2745)" -> "Ross Maitland Slater (2744)" [label=487]
+	"Jennifer Whately (2747)" -> "David Fishlock (2746)" [label=489]
+	"Jennifer Whately (2747)" -> "Edward Dabrowski (2745)" [label=259]
 	"Jennifer Whately (2747)" -> "Luke Pilkington (2748)" [label=119]
+	"Jennifer Whately (2747)" -> "Ross Maitland Slater (2744)" [label=383]
+	"Luke Pilkington (2748)" -> "Ross Maitland Slater (2744)" [label=862]
 }

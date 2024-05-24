@@ -2,57 +2,57 @@
 digraph "Kate Borland (3521)_Melbourne_2013" {
 	graph [label="Melbourne 2013" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kate Borland (3521)" [label="Kate Borland (3521)
-Independent"]
-	"Noelle Walker (3522)" [label="Noelle Walker (3522)
-Family First Party"]
-	"Michael Murphy (3526)" [label="Michael Murphy (3526)
-DLP Democratic Labour"]
-	"Josh Davidson (3527)" [label="Josh Davidson (3527)
-Bullet Train For Australia"]
 	"Frazer Kirkman (3531)" [label="Frazer Kirkman (3531)
 Independent"]
-	"Royston Wilding (3529)" [label="Royston Wilding (3529)
-Secular Party of Australia"]
-	"Michael Bayliss (3525)" [label="Michael Bayliss (3525)
-Stable Population Party"]
-	"Paul Cummins (3532)" [label="Paul Cummins (3532)
-Australian Independents"]
+	"Josh Davidson (3527)" [label="Josh Davidson (3527)
+Bullet Train For Australia"]
 	"Joyce Mei Lin Khoo (3528)" [label="Joyce Mei Lin Khoo (3528)
 Rise Up Australia Party"]
-	"Noelle Walker (3522)" -> "Kate Borland (3521)" [label=76]
-	"Michael Murphy (3526)" -> "Noelle Walker (3522)" [label=48]
-	"Josh Davidson (3527)" -> "Michael Murphy (3526)" [label=18]
+	"Kate Borland (3521)" [label="Kate Borland (3521)
+Independent"]
+	"Michael Bayliss (3525)" [label="Michael Bayliss (3525)
+Stable Population Party"]
+	"Michael Murphy (3526)" [label="Michael Murphy (3526)
+DLP Democratic Labour"]
+	"Noelle Walker (3522)" [label="Noelle Walker (3522)
+Family First Party"]
+	"Paul Cummins (3532)" [label="Paul Cummins (3532)
+Australian Independents"]
+	"Royston Wilding (3529)" [label="Royston Wilding (3529)
+Secular Party of Australia"]
 	"Frazer Kirkman (3531)" -> "Josh Davidson (3527)" [label=12]
-	"Royston Wilding (3529)" -> "Frazer Kirkman (3531)" [label=14]
-	"Michael Bayliss (3525)" -> "Royston Wilding (3529)" [label=16]
-	"Paul Cummins (3532)" -> "Michael Bayliss (3525)" [label=2]
-	"Joyce Mei Lin Khoo (3528)" -> "Paul Cummins (3532)" [label=4]
-	"Michael Murphy (3526)" -> "Kate Borland (3521)" [label=59]
-	"Josh Davidson (3527)" -> "Kate Borland (3521)" [label=19]
 	"Frazer Kirkman (3531)" -> "Kate Borland (3521)" [label=71]
-	"Royston Wilding (3529)" -> "Kate Borland (3521)" [label=5]
-	"Michael Bayliss (3525)" -> "Kate Borland (3521)" [label=4]
-	"Paul Cummins (3532)" -> "Kate Borland (3521)" [label=13]
+	"Frazer Kirkman (3531)" -> "Michael Murphy (3526)" [label=12]
+	"Frazer Kirkman (3531)" -> "Noelle Walker (3522)" [label=5]
+	"Josh Davidson (3527)" -> "Kate Borland (3521)" [label=19]
+	"Josh Davidson (3527)" -> "Michael Murphy (3526)" [label=18]
+	"Josh Davidson (3527)" -> "Noelle Walker (3522)" [label=14]
+	"Joyce Mei Lin Khoo (3528)" -> "Josh Davidson (3527)" [label=14]
 	"Joyce Mei Lin Khoo (3528)" -> "Kate Borland (3521)" [label=3]
 	"Joyce Mei Lin Khoo (3528)" -> "Michael Bayliss (3525)" [label=8]
-	"Paul Cummins (3532)" -> "Royston Wilding (3529)" [label=9]
+	"Joyce Mei Lin Khoo (3528)" -> "Michael Murphy (3526)" [label=10]
+	"Joyce Mei Lin Khoo (3528)" -> "Noelle Walker (3522)" [label=28]
+	"Joyce Mei Lin Khoo (3528)" -> "Paul Cummins (3532)" [label=4]
 	"Joyce Mei Lin Khoo (3528)" -> "Royston Wilding (3529)" [label=6]
 	"Michael Bayliss (3525)" -> "Frazer Kirkman (3531)" [label=8]
-	"Paul Cummins (3532)" -> "Frazer Kirkman (3531)" [label=77]
-	"Royston Wilding (3529)" -> "Josh Davidson (3527)" [label=20]
 	"Michael Bayliss (3525)" -> "Josh Davidson (3527)" [label=5]
-	"Paul Cummins (3532)" -> "Josh Davidson (3527)" [label=4]
-	"Joyce Mei Lin Khoo (3528)" -> "Josh Davidson (3527)" [label=14]
-	"Frazer Kirkman (3531)" -> "Michael Murphy (3526)" [label=12]
-	"Royston Wilding (3529)" -> "Michael Murphy (3526)" [label=3]
+	"Michael Bayliss (3525)" -> "Kate Borland (3521)" [label=4]
 	"Michael Bayliss (3525)" -> "Michael Murphy (3526)" [label=17]
-	"Paul Cummins (3532)" -> "Michael Murphy (3526)" [label=4]
-	"Joyce Mei Lin Khoo (3528)" -> "Michael Murphy (3526)" [label=10]
-	"Josh Davidson (3527)" -> "Noelle Walker (3522)" [label=14]
-	"Frazer Kirkman (3531)" -> "Noelle Walker (3522)" [label=5]
-	"Royston Wilding (3529)" -> "Noelle Walker (3522)" [label=2]
 	"Michael Bayliss (3525)" -> "Noelle Walker (3522)" [label=14]
+	"Michael Bayliss (3525)" -> "Royston Wilding (3529)" [label=16]
+	"Michael Murphy (3526)" -> "Kate Borland (3521)" [label=59]
+	"Michael Murphy (3526)" -> "Noelle Walker (3522)" [label=48]
+	"Noelle Walker (3522)" -> "Kate Borland (3521)" [label=76]
+	"Paul Cummins (3532)" -> "Frazer Kirkman (3531)" [label=77]
+	"Paul Cummins (3532)" -> "Josh Davidson (3527)" [label=4]
+	"Paul Cummins (3532)" -> "Kate Borland (3521)" [label=13]
+	"Paul Cummins (3532)" -> "Michael Bayliss (3525)" [label=2]
+	"Paul Cummins (3532)" -> "Michael Murphy (3526)" [label=4]
 	"Paul Cummins (3532)" -> "Noelle Walker (3522)" [label=4]
-	"Joyce Mei Lin Khoo (3528)" -> "Noelle Walker (3522)" [label=28]
+	"Paul Cummins (3532)" -> "Royston Wilding (3529)" [label=9]
+	"Royston Wilding (3529)" -> "Frazer Kirkman (3531)" [label=14]
+	"Royston Wilding (3529)" -> "Josh Davidson (3527)" [label=20]
+	"Royston Wilding (3529)" -> "Kate Borland (3521)" [label=5]
+	"Royston Wilding (3529)" -> "Michael Murphy (3526)" [label=3]
+	"Royston Wilding (3529)" -> "Noelle Walker (3522)" [label=2]
 }

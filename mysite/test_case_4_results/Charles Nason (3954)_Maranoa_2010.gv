@@ -9,6 +9,6 @@ The Greens"]
 	"Greg Mckay (3952)" [label="Greg Mckay (3952)
 Family First"]
 	"Grant Newson (3181)" -> "Charles Nason (3954)" [label=1677]
-	"Greg Mckay (3952)" -> "Grant Newson (3181)" [label=597]
 	"Greg Mckay (3952)" -> "Charles Nason (3954)" [label=1073]
+	"Greg Mckay (3952)" -> "Grant Newson (3181)" [label=597]
 }

@@ -2,24 +2,24 @@
 digraph "Of The Above None (4312)_Gilmore_2007" {
 	graph [label="Gilmore 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Of The Above None (4312)" [label="Of The Above None (4312)
-Independent"]
 	"Brett Greenhalgh (4313)" [label="Brett Greenhalgh (4313)
 Family First"]
-	"Simon Blake (4311)" [label="Simon Blake (4311)
-Conservatives for Climate and Environment"]
 	"Kevin Ramsey (4315)" [label="Kevin Ramsey (4315)
 LDP"]
+	"Of The Above None (4312)" [label="Of The Above None (4312)
+Independent"]
+	"Simon Blake (4311)" [label="Simon Blake (4311)
+Conservatives for Climate and Environment"]
 	"Warwick William Hunt (4314)" [label="Warwick William Hunt (4314)
 Citizens Electoral Council"]
 	"Brett Greenhalgh (4313)" -> "Of The Above None (4312)" [label=82]
-	"Simon Blake (4311)" -> "Brett Greenhalgh (4313)" [label=16]
-	"Kevin Ramsey (4315)" -> "Simon Blake (4311)" [label=6]
-	"Warwick William Hunt (4314)" -> "Kevin Ramsey (4315)" [label=3]
-	"Simon Blake (4311)" -> "Of The Above None (4312)" [label=26]
+	"Kevin Ramsey (4315)" -> "Brett Greenhalgh (4313)" [label=15]
 	"Kevin Ramsey (4315)" -> "Of The Above None (4312)" [label=18]
+	"Kevin Ramsey (4315)" -> "Simon Blake (4311)" [label=6]
+	"Simon Blake (4311)" -> "Brett Greenhalgh (4313)" [label=16]
+	"Simon Blake (4311)" -> "Of The Above None (4312)" [label=26]
+	"Warwick William Hunt (4314)" -> "Brett Greenhalgh (4313)" [label=8]
+	"Warwick William Hunt (4314)" -> "Kevin Ramsey (4315)" [label=3]
 	"Warwick William Hunt (4314)" -> "Of The Above None (4312)" [label=12]
 	"Warwick William Hunt (4314)" -> "Simon Blake (4311)" [label=2]
-	"Kevin Ramsey (4315)" -> "Brett Greenhalgh (4313)" [label=15]
-	"Warwick William Hunt (4314)" -> "Brett Greenhalgh (4313)" [label=8]
 }

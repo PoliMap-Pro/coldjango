@@ -2,6 +2,8 @@
 digraph "Bob Katter (504)_Kennedy_2007" {
 	graph [label="Kennedy 2007" labelloc=t mclimit=10]
 	node [shape=box]
+	"Bill Hankin (4576)" [label="Bill Hankin (4576)
+One Nation WA"]
 	"Bob Katter (504)" [label="Bob Katter (504)
 Independent"]
 	"Ed Morrison (3935)" [label="Ed Morrison (3935)
@@ -10,23 +12,21 @@ The Nationals"]
 The Greens"]
 	"Keith Douglas (3120)" [label="Keith Douglas (3120)
 Family First"]
-	"Bill Hankin (4576)" [label="Bill Hankin (4576)
-One Nation WA"]
 	"Nigel Asplin (4579)" [label="Nigel Asplin (4579)
 Democrats"]
-	"Ed Morrison (3935)" -> "Bob Katter (504)" [label=19479]
-	"Frank Reilly (4577)" -> "Ed Morrison (3935)" [label=456]
-	"Keith Douglas (3120)" -> "Frank Reilly (4577)" [label=380]
-	"Bill Hankin (4576)" -> "Keith Douglas (3120)" [label=230]
-	"Nigel Asplin (4579)" -> "Bill Hankin (4576)" [label=28]
-	"Frank Reilly (4577)" -> "Bob Katter (504)" [label=969]
-	"Keith Douglas (3120)" -> "Bob Katter (504)" [label=776]
 	"Bill Hankin (4576)" -> "Bob Katter (504)" [label=713]
-	"Nigel Asplin (4579)" -> "Bob Katter (504)" [label=97]
-	"Nigel Asplin (4579)" -> "Keith Douglas (3120)" [label=43]
-	"Bill Hankin (4576)" -> "Frank Reilly (4577)" [label=132]
-	"Nigel Asplin (4579)" -> "Frank Reilly (4577)" [label=151]
-	"Keith Douglas (3120)" -> "Ed Morrison (3935)" [label=467]
 	"Bill Hankin (4576)" -> "Ed Morrison (3935)" [label=244]
+	"Bill Hankin (4576)" -> "Frank Reilly (4577)" [label=132]
+	"Bill Hankin (4576)" -> "Keith Douglas (3120)" [label=230]
+	"Ed Morrison (3935)" -> "Bob Katter (504)" [label=19479]
+	"Frank Reilly (4577)" -> "Bob Katter (504)" [label=969]
+	"Frank Reilly (4577)" -> "Ed Morrison (3935)" [label=456]
+	"Keith Douglas (3120)" -> "Bob Katter (504)" [label=776]
+	"Keith Douglas (3120)" -> "Ed Morrison (3935)" [label=467]
+	"Keith Douglas (3120)" -> "Frank Reilly (4577)" [label=380]
+	"Nigel Asplin (4579)" -> "Bill Hankin (4576)" [label=28]
+	"Nigel Asplin (4579)" -> "Bob Katter (504)" [label=97]
 	"Nigel Asplin (4579)" -> "Ed Morrison (3935)" [label=110]
+	"Nigel Asplin (4579)" -> "Frank Reilly (4577)" [label=151]
+	"Nigel Asplin (4579)" -> "Keith Douglas (3120)" [label=43]
 }

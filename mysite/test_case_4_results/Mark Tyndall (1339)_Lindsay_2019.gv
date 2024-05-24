@@ -2,31 +2,31 @@
 digraph "Mark Tyndall (1339)_Lindsay_2019" {
 	graph [label="Lindsay 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Tyndall (1339)" [label="Mark Tyndall (1339)
-Independent"]
-	"Christopher Buttel (1338)" [label="Christopher Buttel (1338)
-United Australia Party"]
 	"Brandon Lees (1335)" [label="Brandon Lees (1335)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
-Christian Democratic Party (Fred Nile Group)"]
-	"Jim Saleam (1342)" [label="Jim Saleam (1342)
-Australia First Party"]
+	"Christopher Buttel (1338)" [label="Christopher Buttel (1338)
+United Australia Party"]
 	"Geoff Brown (1340)" [label="Geoff Brown (1340)
 Sustainable Australia"]
-	"Christopher Buttel (1338)" -> "Mark Tyndall (1339)" [label=1511]
+	"Jim Saleam (1342)" [label="Jim Saleam (1342)
+Australia First Party"]
+	"Mark K.C. Moody-Basedow (1341)" [label="Mark K.C. Moody-Basedow (1341)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mark Tyndall (1339)" [label="Mark Tyndall (1339)
+Independent"]
 	"Brandon Lees (1335)" -> "Christopher Buttel (1338)" [label=725]
-	"Mark K.C. Moody-Basedow (1341)" -> "Brandon Lees (1335)" [label=213]
-	"Jim Saleam (1342)" -> "Mark K.C. Moody-Basedow (1341)" [label=306]
-	"Geoff Brown (1340)" -> "Jim Saleam (1342)" [label=147]
 	"Brandon Lees (1335)" -> "Mark Tyndall (1339)" [label=415]
-	"Mark K.C. Moody-Basedow (1341)" -> "Mark Tyndall (1339)" [label=519]
-	"Jim Saleam (1342)" -> "Mark Tyndall (1339)" [label=292]
-	"Geoff Brown (1340)" -> "Mark Tyndall (1339)" [label=288]
-	"Geoff Brown (1340)" -> "Mark K.C. Moody-Basedow (1341)" [label=76]
-	"Jim Saleam (1342)" -> "Brandon Lees (1335)" [label=147]
+	"Christopher Buttel (1338)" -> "Mark Tyndall (1339)" [label=1511]
 	"Geoff Brown (1340)" -> "Brandon Lees (1335)" [label=61]
-	"Mark K.C. Moody-Basedow (1341)" -> "Christopher Buttel (1338)" [label=266]
-	"Jim Saleam (1342)" -> "Christopher Buttel (1338)" [label=363]
 	"Geoff Brown (1340)" -> "Christopher Buttel (1338)" [label=100]
+	"Geoff Brown (1340)" -> "Jim Saleam (1342)" [label=147]
+	"Geoff Brown (1340)" -> "Mark K.C. Moody-Basedow (1341)" [label=76]
+	"Geoff Brown (1340)" -> "Mark Tyndall (1339)" [label=288]
+	"Jim Saleam (1342)" -> "Brandon Lees (1335)" [label=147]
+	"Jim Saleam (1342)" -> "Christopher Buttel (1338)" [label=363]
+	"Jim Saleam (1342)" -> "Mark K.C. Moody-Basedow (1341)" [label=306]
+	"Jim Saleam (1342)" -> "Mark Tyndall (1339)" [label=292]
+	"Mark K.C. Moody-Basedow (1341)" -> "Brandon Lees (1335)" [label=213]
+	"Mark K.C. Moody-Basedow (1341)" -> "Christopher Buttel (1338)" [label=266]
+	"Mark K.C. Moody-Basedow (1341)" -> "Mark Tyndall (1339)" [label=519]
 }

@@ -2,9 +2,9 @@
 digraph "Dot Henry (4198)_Hasluck_2010" {
 	graph [label="Hasluck 2010" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dot Henry (4198)" [label="Dot Henry (4198)
-Independent"]
 	"Andrew Charles Middleton (1119)" [label="Andrew Charles Middleton (1119)
 The Climate Sceptics"]
+	"Dot Henry (4198)" [label="Dot Henry (4198)
+Independent"]
 	"Andrew Charles Middleton (1119)" -> "Dot Henry (4198)" [label=105]
 }

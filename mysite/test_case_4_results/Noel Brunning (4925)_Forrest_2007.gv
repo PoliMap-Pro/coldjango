@@ -2,31 +2,31 @@
 digraph "Noel Brunning (4925)_Forrest_2007" {
 	graph [label="Forrest 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Noel Brunning (4925)" [label="Noel Brunning (4925)
-Independent"]
-	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
-The Greens"]
-	"John Lewis (4923)" [label="John Lewis (4923)
-Christian Democratic Party"]
-	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
-Family First"]
-	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
-One Nation WA"]
 	"Ian Tuffnell (3605)" [label="Ian Tuffnell (3605)
 Citizens Electoral Council"]
-	"Kingsley Gibson (4926)" -> "Noel Brunning (4925)" [label=2177]
-	"John Lewis (4923)" -> "Kingsley Gibson (4926)" [label=151]
-	"Leighton Knoll (4922)" -> "John Lewis (4923)" [label=217]
-	"Jodie Yardley (4924)" -> "Leighton Knoll (4922)" [label=93]
+	"Jodie Yardley (4924)" [label="Jodie Yardley (4924)
+One Nation WA"]
+	"John Lewis (4923)" [label="John Lewis (4923)
+Christian Democratic Party"]
+	"Kingsley Gibson (4926)" [label="Kingsley Gibson (4926)
+The Greens"]
+	"Leighton Knoll (4922)" [label="Leighton Knoll (4922)
+Family First"]
+	"Noel Brunning (4925)" [label="Noel Brunning (4925)
+Independent"]
 	"Ian Tuffnell (3605)" -> "Jodie Yardley (4924)" [label=16]
-	"John Lewis (4923)" -> "Noel Brunning (4925)" [label=329]
-	"Leighton Knoll (4922)" -> "Noel Brunning (4925)" [label=171]
-	"Jodie Yardley (4924)" -> "Noel Brunning (4925)" [label=295]
-	"Ian Tuffnell (3605)" -> "Noel Brunning (4925)" [label=28]
-	"Ian Tuffnell (3605)" -> "Leighton Knoll (4922)" [label=9]
-	"Jodie Yardley (4924)" -> "John Lewis (4923)" [label=67]
 	"Ian Tuffnell (3605)" -> "John Lewis (4923)" [label=9]
-	"Leighton Knoll (4922)" -> "Kingsley Gibson (4926)" [label=165]
-	"Jodie Yardley (4924)" -> "Kingsley Gibson (4926)" [label=165]
 	"Ian Tuffnell (3605)" -> "Kingsley Gibson (4926)" [label=39]
+	"Ian Tuffnell (3605)" -> "Leighton Knoll (4922)" [label=9]
+	"Ian Tuffnell (3605)" -> "Noel Brunning (4925)" [label=28]
+	"Jodie Yardley (4924)" -> "John Lewis (4923)" [label=67]
+	"Jodie Yardley (4924)" -> "Kingsley Gibson (4926)" [label=165]
+	"Jodie Yardley (4924)" -> "Leighton Knoll (4922)" [label=93]
+	"Jodie Yardley (4924)" -> "Noel Brunning (4925)" [label=295]
+	"John Lewis (4923)" -> "Kingsley Gibson (4926)" [label=151]
+	"John Lewis (4923)" -> "Noel Brunning (4925)" [label=329]
+	"Kingsley Gibson (4926)" -> "Noel Brunning (4925)" [label=2177]
+	"Leighton Knoll (4922)" -> "John Lewis (4923)" [label=217]
+	"Leighton Knoll (4922)" -> "Kingsley Gibson (4926)" [label=165]
+	"Leighton Knoll (4922)" -> "Noel Brunning (4925)" [label=171]
 }

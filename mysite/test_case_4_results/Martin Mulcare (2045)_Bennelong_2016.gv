@@ -2,13 +2,13 @@
 digraph "Martin Mulcare (2045)_Bennelong_2016" {
 	graph [label="Bennelong 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
-Independent"]
-	"John Peter August (2042)" [label="John Peter August (2042)
-Pirate Party Australia"]
 	"Christopher Gordon (2044)" [label="Christopher Gordon (2044)
 The Arts Party"]
-	"John Peter August (2042)" -> "Martin Mulcare (2045)" [label=352]
+	"John Peter August (2042)" [label="John Peter August (2042)
+Pirate Party Australia"]
+	"Martin Mulcare (2045)" [label="Martin Mulcare (2045)
+Independent"]
 	"Christopher Gordon (2044)" -> "John Peter August (2042)" [label=132]
 	"Christopher Gordon (2044)" -> "Martin Mulcare (2045)" [label=176]
+	"John Peter August (2042)" -> "Martin Mulcare (2045)" [label=352]
 }

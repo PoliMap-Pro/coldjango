@@ -2,39 +2,39 @@
 digraph "Dani Ecuyer (4463)_Wentworth_2007" {
 	graph [label="Wentworth 2007" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
-Independent"]
-	"Pierce Field (4471)" [label="Pierce Field (4471)
-Democrats"]
 	"Bradley Molony (4469)" [label="Bradley Molony (4469)
 Christian Democratic Party (Fred Nile Group)"]
-	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+	"Dani Ecuyer (4463)" [label="Dani Ecuyer (4463)
 Independent"]
 	"James Adams (4466)" [label="James Adams (4466)
 Family First"]
-	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
-LDP"]
 	"John Jamieson (4467)" [label="John Jamieson (4467)
 Citizens Electoral Council"]
-	"Pierce Field (4471)" -> "Dani Ecuyer (4463)" [label=108]
-	"Bradley Molony (4469)" -> "Pierce Field (4471)" [label=24]
-	"Pat Sheil (2107)" -> "Bradley Molony (4469)" [label=38]
-	"James Adams (4466)" -> "Pat Sheil (2107)" [label=20]
-	"Jonatan Kelu (4468)" -> "James Adams (4466)" [label=13]
-	"John Jamieson (4467)" -> "Jonatan Kelu (4468)" [label=17]
+	"Jonatan Kelu (4468)" [label="Jonatan Kelu (4468)
+LDP"]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Independent"]
+	"Pierce Field (4471)" [label="Pierce Field (4471)
+Democrats"]
 	"Bradley Molony (4469)" -> "Dani Ecuyer (4463)" [label=31]
-	"Pat Sheil (2107)" -> "Dani Ecuyer (4463)" [label=98]
+	"Bradley Molony (4469)" -> "Pierce Field (4471)" [label=24]
+	"James Adams (4466)" -> "Bradley Molony (4469)" [label=38]
 	"James Adams (4466)" -> "Dani Ecuyer (4463)" [label=30]
-	"Jonatan Kelu (4468)" -> "Dani Ecuyer (4463)" [label=13]
+	"James Adams (4466)" -> "Pat Sheil (2107)" [label=20]
+	"James Adams (4466)" -> "Pierce Field (4471)" [label=17]
+	"John Jamieson (4467)" -> "Bradley Molony (4469)" [label=5]
 	"John Jamieson (4467)" -> "Dani Ecuyer (4463)" [label=8]
 	"John Jamieson (4467)" -> "James Adams (4466)" [label=8]
-	"Jonatan Kelu (4468)" -> "Pat Sheil (2107)" [label=37]
+	"John Jamieson (4467)" -> "Jonatan Kelu (4468)" [label=17]
 	"John Jamieson (4467)" -> "Pat Sheil (2107)" [label=6]
-	"James Adams (4466)" -> "Bradley Molony (4469)" [label=38]
-	"Jonatan Kelu (4468)" -> "Bradley Molony (4469)" [label=7]
-	"John Jamieson (4467)" -> "Bradley Molony (4469)" [label=5]
-	"Pat Sheil (2107)" -> "Pierce Field (4471)" [label=24]
-	"James Adams (4466)" -> "Pierce Field (4471)" [label=17]
-	"Jonatan Kelu (4468)" -> "Pierce Field (4471)" [label=5]
 	"John Jamieson (4467)" -> "Pierce Field (4471)" [label=5]
+	"Jonatan Kelu (4468)" -> "Bradley Molony (4469)" [label=7]
+	"Jonatan Kelu (4468)" -> "Dani Ecuyer (4463)" [label=13]
+	"Jonatan Kelu (4468)" -> "James Adams (4466)" [label=13]
+	"Jonatan Kelu (4468)" -> "Pat Sheil (2107)" [label=37]
+	"Jonatan Kelu (4468)" -> "Pierce Field (4471)" [label=5]
+	"Pat Sheil (2107)" -> "Bradley Molony (4469)" [label=38]
+	"Pat Sheil (2107)" -> "Dani Ecuyer (4463)" [label=98]
+	"Pat Sheil (2107)" -> "Pierce Field (4471)" [label=24]
+	"Pierce Field (4471)" -> "Dani Ecuyer (4463)" [label=108]
 }

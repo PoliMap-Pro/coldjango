@@ -4,22 +4,22 @@ digraph "Cecilia Moar (1873)_Mallee_2019" {
 	node [shape=box]
 	"Cecilia Moar (1873)" [label="Cecilia Moar (1873)
 Independent"]
-	"Rick Grosvenor (1875)" [label="Rick Grosvenor (1875)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-	"Philip Mollison (1876)" [label="Philip Mollison (1876)
-Rise Up Australia Party"]
-	"Leigh Firman (1877)" [label="Leigh Firman (1877)
-Science Party"]
 	"Chris Lahy (984)" [label="Chris Lahy (984)
 Citizens Electoral Council"]
-	"Rick Grosvenor (1875)" -> "Cecilia Moar (1873)" [label=91]
-	"Philip Mollison (1876)" -> "Rick Grosvenor (1875)" [label=104]
-	"Leigh Firman (1877)" -> "Philip Mollison (1876)" [label=31]
-	"Chris Lahy (984)" -> "Leigh Firman (1877)" [label=20]
-	"Philip Mollison (1876)" -> "Cecilia Moar (1873)" [label=42]
-	"Leigh Firman (1877)" -> "Cecilia Moar (1873)" [label=41]
+	"Leigh Firman (1877)" [label="Leigh Firman (1877)
+Science Party"]
+	"Philip Mollison (1876)" [label="Philip Mollison (1876)
+Rise Up Australia Party"]
+	"Rick Grosvenor (1875)" [label="Rick Grosvenor (1875)
+FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"Chris Lahy (984)" -> "Cecilia Moar (1873)" [label=31]
+	"Chris Lahy (984)" -> "Leigh Firman (1877)" [label=20]
 	"Chris Lahy (984)" -> "Philip Mollison (1876)" [label=56]
-	"Leigh Firman (1877)" -> "Rick Grosvenor (1875)" [label=23]
 	"Chris Lahy (984)" -> "Rick Grosvenor (1875)" [label=25]
+	"Leigh Firman (1877)" -> "Cecilia Moar (1873)" [label=41]
+	"Leigh Firman (1877)" -> "Philip Mollison (1876)" [label=31]
+	"Leigh Firman (1877)" -> "Rick Grosvenor (1875)" [label=23]
+	"Philip Mollison (1876)" -> "Cecilia Moar (1873)" [label=42]
+	"Philip Mollison (1876)" -> "Rick Grosvenor (1875)" [label=104]
+	"Rick Grosvenor (1875)" -> "Cecilia Moar (1873)" [label=91]
 }

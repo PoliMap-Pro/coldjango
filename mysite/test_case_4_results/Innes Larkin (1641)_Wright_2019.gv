@@ -2,18 +2,18 @@
 digraph "Innes Larkin (1641)_Wright_2019" {
 	graph [label="Wright 2019" labelloc=t mclimit=10]
 	node [shape=box]
-	"Innes Larkin (1641)" [label="Innes Larkin (1641)
-Independent"]
 	"David William Wright (1639)" [label="David William Wright (1639)
 United Australia Party"]
+	"Innes Larkin (1641)" [label="Innes Larkin (1641)
+Independent"]
 	"Matthew Tomlinson (1643)" [label="Matthew Tomlinson (1643)
 Katter's Australian Party (KAP)"]
 	"Rod Smith (1642)" [label="Rod Smith (1642)
 FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
 	"David William Wright (1639)" -> "Innes Larkin (1641)" [label=744]
 	"Matthew Tomlinson (1643)" -> "David William Wright (1639)" [label=335]
-	"Rod Smith (1642)" -> "Matthew Tomlinson (1643)" [label=646]
 	"Matthew Tomlinson (1643)" -> "Innes Larkin (1641)" [label=437]
-	"Rod Smith (1642)" -> "Innes Larkin (1641)" [label=192]
 	"Rod Smith (1642)" -> "David William Wright (1639)" [label=205]
+	"Rod Smith (1642)" -> "Innes Larkin (1641)" [label=192]
+	"Rod Smith (1642)" -> "Matthew Tomlinson (1643)" [label=646]
 }

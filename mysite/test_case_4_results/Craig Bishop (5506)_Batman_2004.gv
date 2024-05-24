@@ -11,9 +11,9 @@ Socialist Alliance"]
 	"Walter Hernan Mellado (5504)" [label="Walter Hernan Mellado (5504)
 Citizens Electoral Council"]
 	"Graham Matthews (5507)" -> "Craig Bishop (5506)" [label=129]
-	"Peter Byrne (1746)" -> "Graham Matthews (5507)" [label=28]
-	"Walter Hernan Mellado (5504)" -> "Peter Byrne (1746)" [label=5]
 	"Peter Byrne (1746)" -> "Craig Bishop (5506)" [label=59]
+	"Peter Byrne (1746)" -> "Graham Matthews (5507)" [label=28]
 	"Walter Hernan Mellado (5504)" -> "Craig Bishop (5506)" [label=25]
 	"Walter Hernan Mellado (5504)" -> "Graham Matthews (5507)" [label=4]
+	"Walter Hernan Mellado (5504)" -> "Peter Byrne (1746)" [label=5]
 }

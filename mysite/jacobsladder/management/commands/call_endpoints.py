@@ -1,20 +1,20 @@
 import pprint
 from django.core.management.base import BaseCommand
 from ... import endpoints
-import cProfile
+#import cProfile
 
 
 class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
     def handle(self, *arguments, **keywordarguments):
-        with cProfile.Profile() as pr:
-            pprint.pp(endpoints.getHousePrimaryVote(
-                {'election_date__year__in': (2022, 2016, 2010)},
-                {'abbreviation__in': ('GRN', 'ALP', 'LP')},
-                {'name': 'Aston'}, ))
-            pr.print_stats()
-        exit()
+
+        #with cProfile.Profile() as pr:
+        pprint.pp(endpoints.getHousePrimaryVote(
+            {'election_date__year__in': (2022, 2016, 2010)},
+            {'abbreviation__in': ('GRN', 'ALP', 'LP')},
+            {'name': 'Aston'}, ))
+            #pr.print_stats()
         print()
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year': 2022},
@@ -43,29 +43,34 @@ class Command(BaseCommand):
             {'election_date__year__in': (2022, 2016, 2010)},
             {'name': 'Aston'},
             how_many=3))
+
         pprint.pp(endpoints.getMetaParties())
-        print()
+        print(1)
         endpoints.addMetaParties(
             Libnat={'abbreviation__in': ('LP', 'NP')},
             Green={'abbreviation__in': ('GRN', 'GVIC')},
         )
         pprint.pp(endpoints.getMetaParties())
-        print()
+        print(2)
         endpoints.deleteMetaParties('Libnat')
-        print()
+        print(3)
         pprint.pp(endpoints.getMetaParties())
-        print()
+        print(4)
         endpoints.addMetaParties(Aus={'name__icontains': 'aus'})
+        print(5)
         pprint.pp(endpoints.getMetaParties())
-        print()
+        print(6)
         endpoints.deleteMetaParties()
+        print(7)
         pprint.pp(endpoints.getMetaParties())
+        print(8)
         endpoints.addMetaParties(
             Libnat={'abbreviation__in': ('LP', 'NP')},
             Green={'abbreviation__in': ('GRN', 'GVIC')},
         )
+        print(9)
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year__in': (2022, 2016, )},
             {'meta_parties__name': 'Libnat'},
             {'state__iexact': 'Vic'}))
-        print()
+        print(10)

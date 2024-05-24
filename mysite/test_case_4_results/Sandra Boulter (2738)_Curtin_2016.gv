@@ -2,9 +2,9 @@
 digraph "Sandra Boulter (2738)_Curtin_2016" {
 	graph [label="Curtin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sandra Boulter (2738)" [label="Sandra Boulter (2738)
-Independent"]
 	"David Archibald (2735)" [label="David Archibald (2735)
 Australian Liberty Alliance"]
+	"Sandra Boulter (2738)" [label="Sandra Boulter (2738)
+Independent"]
 	"David Archibald (2735)" -> "Sandra Boulter (2738)" [label=587]
 }

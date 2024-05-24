@@ -2,24 +2,24 @@
 digraph "Sarah Russell (844)_Flinders_2022" {
 	graph [label="Flinders 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sarah Russell (844)" [label="Sarah Russell (844)
-Independent"]
-	"Cyndi Marr (839)" [label="Cyndi Marr (839)
-Pauline Hanson's One Nation"]
 	"Chrysten Abraham (840)" [label="Chrysten Abraham (840)
 Liberal Democrats"]
-	"Pamela Engelander (847)" [label="Pamela Engelander (847)
-Animal Justice Party"]
+	"Cyndi Marr (839)" [label="Cyndi Marr (839)
+Pauline Hanson's One Nation"]
 	"Jefferson Earl (842)" [label="Jefferson Earl (842)
 Australian Federation Party"]
-	"Cyndi Marr (839)" -> "Sarah Russell (844)" [label=378]
+	"Pamela Engelander (847)" [label="Pamela Engelander (847)
+Animal Justice Party"]
+	"Sarah Russell (844)" [label="Sarah Russell (844)
+Independent"]
 	"Chrysten Abraham (840)" -> "Cyndi Marr (839)" [label=751]
-	"Pamela Engelander (847)" -> "Chrysten Abraham (840)" [label=26]
-	"Jefferson Earl (842)" -> "Pamela Engelander (847)" [label=11]
 	"Chrysten Abraham (840)" -> "Sarah Russell (844)" [label=134]
-	"Pamela Engelander (847)" -> "Sarah Russell (844)" [label=218]
-	"Jefferson Earl (842)" -> "Sarah Russell (844)" [label=56]
+	"Cyndi Marr (839)" -> "Sarah Russell (844)" [label=378]
 	"Jefferson Earl (842)" -> "Chrysten Abraham (840)" [label=96]
-	"Pamela Engelander (847)" -> "Cyndi Marr (839)" [label=161]
 	"Jefferson Earl (842)" -> "Cyndi Marr (839)" [label=110]
+	"Jefferson Earl (842)" -> "Pamela Engelander (847)" [label=11]
+	"Jefferson Earl (842)" -> "Sarah Russell (844)" [label=56]
+	"Pamela Engelander (847)" -> "Chrysten Abraham (840)" [label=26]
+	"Pamela Engelander (847)" -> "Cyndi Marr (839)" [label=161]
+	"Pamela Engelander (847)" -> "Sarah Russell (844)" [label=218]
 }

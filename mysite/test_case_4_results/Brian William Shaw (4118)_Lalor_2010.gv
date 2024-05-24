@@ -4,11 +4,11 @@ digraph "Brian William Shaw (4118)_Lalor_2010" {
 	node [shape=box]
 	"Brian William Shaw (4118)" [label="Brian William Shaw (4118)
 Independent"]
-	"Van Rudd (4122)" [label="Van Rudd (4122)
-"]
 	"Marc Aussie-Stone (2256)" [label="Marc Aussie-Stone (2256)
 Independent"]
-	"Van Rudd (4122)" -> "Brian William Shaw (4118)" [label=32]
-	"Marc Aussie-Stone (2256)" -> "Van Rudd (4122)" [label=29]
+	"Van Rudd (4122)" [label="Van Rudd (4122)
+"]
 	"Marc Aussie-Stone (2256)" -> "Brian William Shaw (4118)" [label=64]
+	"Marc Aussie-Stone (2256)" -> "Van Rudd (4122)" [label=29]
+	"Van Rudd (4122)" -> "Brian William Shaw (4118)" [label=32]
 }
