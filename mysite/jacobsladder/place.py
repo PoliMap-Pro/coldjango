@@ -1,7 +1,7 @@
 from django.db import models
 from django.db.models import UniqueConstraint, Sum
-from . import abstract_models, house, geography, service, section, constants
-from .format import keep_query
+from . import abstract_models, aggregate, constants, format, house, geography, \
+    service
 
 
 class SeatCode(models.Model):
@@ -16,7 +16,7 @@ class SeatCode(models.Model):
         return f"{self.number} for {self.seat} ({self.pk})"
 
 
-class Seat(abstract_models.Beacon):
+class Seat(abstract_models.Beacon, aggregate.Aggregator):
     name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField("HouseElection", blank=True)
 
@@ -26,7 +26,6 @@ class Seat(abstract_models.Beacon):
         Supply a party abbreviation as a string.
         Returns the total ordinary votes for the party in the election.
         """
-
         representation = house.Representation.objects.get(
             election=election, party__abbreviation__iexact=party_abbreviation,
             person__candidate__contention__seat=self,
@@ -46,29 +45,6 @@ class Seat(abstract_models.Beacon):
         return self.total_attribute_sum_version(elect, tally_attribute,
                                                 default)
 
-    def total_attribute_sum_version(self, elect, tally_attribute, default):
-        def return_candidate(election, seat, booth, vote_tally):
-            return getattr(vote_tally, tally_attribute) or default if \
-                vote_tally.candidate.person.name.lower() != 'informal' else 0
-
-        return sum([votes for booth in Booth.per(house.VoteTally.per(
-            return_candidate))(self, elect) for votes in booth])
-
-    def total_attribute_aggregate_version(self, default, elect,
-                                          tally_attribute,
-                                          return_format=constants.NEST_FORMAT):
-        tallies = house.VoteTally.objects.filter(
-            booth__seat=self, election=elect).exclude(
-            candidate__person__name__iexact="Informal")
-        if tallies:
-            aggregate = tallies.aggregate(Sum(tally_attribute,
-                                              default=default))
-            if aggregate:
-                if return_format == constants.TRANSACTION_FORMAT:
-                    return aggregate.popitem()[1], tallies.query
-                return aggregate.popitem()[1]
-        return default
-
     def candidate_for(self, candidate, elect, tally_attribute='primary_votes',
                       default=0, use_aggregate=True):
         if use_aggregate:
@@ -76,6 +52,14 @@ class Seat(abstract_models.Beacon):
                                                         elect, tally_attribute)
         return self.candidate_for_sum_version(elect, tally_attribute,
                                                default, candidate)
+
+    def total_attribute_sum_version(self, elect, tally_attribute, default):
+        def return_candidate(election, seat, booth, vote_tally):
+            return getattr(vote_tally, tally_attribute) or default if \
+                vote_tally.candidate.person.name.lower() != 'informal' else 0
+
+        return sum([votes for booth in Booth.per(house.VoteTally.per(
+            return_candidate))(self, elect) for votes in booth])
 
     def candidate_for_sum_version(self, elect, tally_attribute, default,
                                    candidate):
@@ -103,14 +87,9 @@ class Seat(abstract_models.Beacon):
             sum_booths=False, return_format=constants.NEST_FORMAT,
             election_result=None, check_contentions=False):
         if check_contentions:
-            contentions = service.Contention.objects.filter(
-                    election=election, seat=self,
-                    candidate=representation.person.candidate)
-            keep_query(return_format, election_result, contentions)
-            if contentions.exists():
-                self.collect_vote_like(
-                    election, election_result, representation, result,
-                    return_format, sum_booths, tally_attribute, total)
+            self.collect_if_contending(
+                election, election_result, representation, result,
+                return_format, sum_booths, tally_attribute, total)
         else:
             self.try_to_collect_without_checking_contentions(
                 election, election_result, representation, result,
@@ -124,6 +103,18 @@ class Seat(abstract_models.Beacon):
         trail.append((last_pref.candidate, proximate,
                       last_pref.round.round_number), )
         return last_pref
+
+    def collect_if_contending(
+            self, election, election_result, representation, result,
+            return_format, sum_booths, tally_attribute, total):
+        contentions = service.Contention.objects.filter(
+            election=election, seat=self,
+            candidate=representation.person.candidate)
+        format.keep_query(return_format, election_result, contentions)
+        if contentions.exists():
+            self.collect_vote_like(
+                election, election_result, representation, result,
+                return_format, sum_booths, tally_attribute, total)
 
     def try_to_collect_without_checking_contentions(
             self, election, election_result, representation, result,
@@ -148,7 +139,7 @@ class Seat(abstract_models.Beacon):
         query_parameters = {'bypass': self, 'election': election,
                             'candidate': representation.person.candidate}
         seat_wide = house.VoteTally.objects.get(**query_parameters)
-        keep_query(return_format, election_result, query_parameters,
+        format.keep_query(return_format, election_result, query_parameters,
                    model=house.VoteTally)
         return seat_wide.aec_ordinary
 
@@ -160,17 +151,6 @@ class Seat(abstract_models.Beacon):
             return_format=return_format, election_result=election_result)
         self.format_results(representation, result, return_format,
                             tally_attribute, total, votes)
-
-    def setup_source(self, election, last_preference, preference_rounds,
-                     target_index):
-        return house.CandidatePreference.objects.get(
-            election=election, seat=self,
-            candidate=last_preference.source_candidate,
-            round=preference_rounds[target_index]), \
-               house.CandidatePreference.objects.get(
-                   election=election, seat=self,
-                   candidate=last_preference.source_candidate,
-                   round=preference_rounds[target_index-1])
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):
@@ -236,7 +216,7 @@ class Booth(geography.Pin):
         candidate = representation.person.candidate
         contentions = service.Contention.objects.filter(
             election=election, seat=self.seat, candidate=candidate)
-        keep_query(return_format, election_result, contentions)
+        format.keep_query(return_format, election_result, contentions)
         if contentions.exists():
             self.booth_votes(
                 candidate, default, election, election_result, representation,
@@ -257,7 +237,7 @@ class Booth(geography.Pin):
                     total):
         query_parameters = {'booth': self, 'election': election,
                             'candidate': candidate}
-        keep_query(return_format, election_result, query_parameters,
+        format.keep_query(return_format, election_result, query_parameters,
                    model=house.VoteTally)
         self.format_results(representation, result, return_format,
                             tally_attribute, total, getattr(

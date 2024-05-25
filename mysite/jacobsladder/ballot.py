@@ -1,42 +1,7 @@
-from django.db.models import Sum
-
-from . import service, place, constants, house
+from . import service, constants, place, aggregate
 
 
-class Aggregator(object):
-    BYPASSES = {'primary_votes': 'aec_total'}
-
-    def fetch_total_aggregate_version(self, place, tally_attribute,
-                                      return_format=constants.NEST_FORMAT):
-        tallies = house.VoteTally.objects.filter(election=self, bypass=place)
-        if tallies:
-            if getattr(tallies[0], tally_attribute):
-                attrib = tally_attribute
-            else:
-                attrib = Aggregator.BYPASSES[tally_attribute]
-            aggregate = tallies.aggregate(Sum(attrib, default=0))
-            if aggregate:
-                if return_format == constants.TRANSACTION_FORMAT:
-                    return aggregate.popitem()[1], tallies
-                return aggregate.popitem()[1]
-        if return_format == constants.TRANSACTION_FORMAT:
-            return 0, tallies
-        return 0
-
-    def fetch_total_loop_version(self, place, tally_attribute):
-        total = 0
-        for vote_tally in house.VoteTally.objects.filter(
-                election=self, bypass=place):
-            change = getattr(vote_tally, tally_attribute)
-            if change and (change > 0):
-                total += change
-            else:
-                total += getattr(vote_tally, Aggregator.BYPASSES[
-                    tally_attribute]) or 0
-        return total
-
-
-class Poll(Aggregator):
+class Poll(aggregate.Aggregator):
     def get_contentions(self, party_abbreviation):
         return [service.Contention.objects.get(
             election=self, candidate=representation.person.candidate) for
@@ -44,10 +9,9 @@ class Poll(Aggregator):
                 election=self, party__abbreviation=party_abbreviation)]
 
     def booths_for_election(self, place_set, places):
-        election_result = {}
         if not place_set:
             place_set = place.Booth.get_set(self, places)
-        return election_result, place_set
+        return {}, place_set
 
     def thin_representation_set(self, party_set, place_set):
         if isinstance(place_set[0], place.Seat):

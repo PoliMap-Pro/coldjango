@@ -1,4 +1,5 @@
 import os
+import random
 from ... import aec_readers, house, place
 from datetime import datetime
 from django.core.management.base import BaseCommand
@@ -50,6 +51,8 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     @staticmethod
     def render_dot_file(dot, edges, nodes):
+        random.shuffle(nodes)
+        random.shuffle(edges)
         [dot.node(*node) for node in nodes]
         [dot.edge(*edge) for edge in edges]
         dot.render(directory=Command.RESULTS_DIRECTORY)

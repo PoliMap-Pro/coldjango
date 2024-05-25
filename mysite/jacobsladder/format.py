@@ -8,7 +8,6 @@ def keep_query(return_format, election_result, query_set, model=None):
                 if isinstance(query_set, dict):
                     query = model.objects.filter(**query_set).query
                 else:
-                    assert False
                     query = model.objects.all().query
             else:
                 query = query_set.query
