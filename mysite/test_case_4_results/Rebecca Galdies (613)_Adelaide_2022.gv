@@ -2,24 +2,24 @@
 digraph "Rebecca Galdies (613)_Adelaide_2022" {
 	graph [label="Adelaide 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matthew Mcmillan (612)" [label="Matthew Mcmillan (612)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Sean Allwood (611)" [label="Sean Allwood (611)
 United Australia Party"]
-	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
-The Greens"]
+	"Matthew Mcmillan (612)" [label="Matthew Mcmillan (612)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Gayle Allwood (615)" [label="Gayle Allwood (615)
 Pauline Hanson's One Nation"]
 	"Faith Gerhard (614)" [label="Faith Gerhard (614)
 Australian Federation Party"]
-	"Matthew Mcmillan (612)" -> "Gayle Allwood (615)" [label=139]
-	"Matthew Mcmillan (612)" -> "Sean Allwood (611)" [label=204]
-	"Faith Gerhard (614)" -> "Sean Allwood (611)" [label=215]
-	"Faith Gerhard (614)" -> "Rebecca Galdies (613)" [label=74]
+	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
+The Greens"]
 	"Matthew Mcmillan (612)" -> "Rebecca Galdies (613)" [label=943]
-	"Faith Gerhard (614)" -> "Gayle Allwood (615)" [label=309]
-	"Sean Allwood (611)" -> "Rebecca Galdies (613)" [label=527]
-	"Faith Gerhard (614)" -> "Matthew Mcmillan (612)" [label=125]
+	"Faith Gerhard (614)" -> "Rebecca Galdies (613)" [label=74]
 	"Sean Allwood (611)" -> "Gayle Allwood (615)" [label=1871]
 	"Gayle Allwood (615)" -> "Rebecca Galdies (613)" [label=1900]
+	"Faith Gerhard (614)" -> "Gayle Allwood (615)" [label=309]
+	"Sean Allwood (611)" -> "Rebecca Galdies (613)" [label=527]
+	"Faith Gerhard (614)" -> "Sean Allwood (611)" [label=215]
+	"Matthew Mcmillan (612)" -> "Sean Allwood (611)" [label=204]
+	"Faith Gerhard (614)" -> "Matthew Mcmillan (612)" [label=125]
+	"Matthew Mcmillan (612)" -> "Gayle Allwood (615)" [label=139]
 }

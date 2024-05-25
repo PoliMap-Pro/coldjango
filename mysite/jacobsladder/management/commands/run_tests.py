@@ -4,6 +4,7 @@ from . import test_case_1_primary_in_wills, test_case_2_by_booth_in_aston_2019, 
     test_case_6_minor_candidates, \
     test_case_9_no_assertions_primary_by_booth_in_aston_2022, call_endpoints
 
+
 class Command(BaseCommand):
     help = "Calls test cases"
 
