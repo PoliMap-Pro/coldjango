@@ -6,7 +6,7 @@ from django.core.management.base import BaseCommand
 
 
 class Command(BaseCommand, aec_readers.AECReader):
-    N = 3
+    N = 300
     PARTY_ABBREVIATION = 'GRN'
     RESULTS_DIRECTORY = os.path.join(".", "test_case_4_results")
     YEARS = (2022, 2016, )

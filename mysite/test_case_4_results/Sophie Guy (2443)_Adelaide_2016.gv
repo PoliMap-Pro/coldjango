@@ -2,18 +2,18 @@
 digraph "Sophie Guy (2443)_Adelaide_2016" {
 	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
-Family First"]
 	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
 Animal Justice Party"]
-	"Sophie Guy (2443)" [label="Sophie Guy (2443)
-The Greens"]
+	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
+Family First"]
 	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
 Liberal Democrats"]
-	"Matt Tidswell (2445)" -> "Sophie Guy (2443)" [label=523]
+	"Sophie Guy (2443)" [label="Sophie Guy (2443)
+The Greens"]
 	"Tyrone Lock (2446)" -> "Sophie Guy (2443)" [label=88]
 	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
+	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
+	"Matt Tidswell (2445)" -> "Sophie Guy (2443)" [label=523]
 	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
 	"Adrian Rivish (2444)" -> "Sophie Guy (2443)" [label=372]
-	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
 }
