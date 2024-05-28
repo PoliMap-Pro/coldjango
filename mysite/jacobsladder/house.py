@@ -258,6 +258,9 @@ class HouseElection(abstract_models.Election, ballot.Poll):
 
 
 class HouseCandidate(models.Model):
+    class Meta:
+        app_label = 'jacobsladder'
+
     person = models.OneToOneField(people.Person, on_delete=models.CASCADE,
                                   related_name='candidate')
     seat = models.ManyToManyField(Seat, through="Contention")
@@ -268,6 +271,7 @@ class HouseCandidate(models.Model):
 
 class VoteTally(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         verbose_name_plural = "Vote Tallies"
         constraints = [UniqueConstraint(
             fields=['booth', 'bypass', 'election', 'candidate', ],
@@ -334,6 +338,7 @@ class VoteTally(models.Model):
 
 class PreferenceRound(Crown, Round):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['seat', 'election', 'round_number',],
             name='unique_combination_of_seat_election_round_number')]
@@ -344,6 +349,7 @@ class PreferenceRound(Crown, Round):
 
 class CandidatePreference(Transfer):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['candidate', 'round', 'seat', 'election'],
             name='unique_combination_of_candidate_round_seat_election')]
@@ -368,6 +374,7 @@ class CandidatePreference(Transfer):
 
 class Enrollment(Crown):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['seat', 'election',],
                                         name='unique_seat_for_election')]
 
@@ -379,6 +386,9 @@ class Enrollment(Crown):
 
 
 class HouseAlliance(names.TrackedName):
+    class Meta:
+        app_label = 'jacobsladder'
+
     election = models.ForeignKey(HouseElection, on_delete=models.CASCADE)
 
     def __str__(self):
