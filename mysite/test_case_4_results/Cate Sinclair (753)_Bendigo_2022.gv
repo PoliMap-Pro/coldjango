@@ -2,24 +2,24 @@
 digraph "Cate Sinclair (753)_Bendigo_2022" {
 	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ben Mihail (755)" [label="Ben Mihail (755)
-Pauline Hanson's One Nation"]
-	"Cate Sinclair (753)" [label="Cate Sinclair (753)
-The Greens"]
-	"Elijah Suares (756)" [label="Elijah Suares (756)
-United Australia Party"]
-	"James Laurie (750)" [label="James Laurie (750)
-Independent"]
 	"Matt Bansemer (754)" [label="Matt Bansemer (754)
 Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Cate Sinclair (753)" [label="Cate Sinclair (753)
+The Greens"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
 	"Ben Mihail (755)" -> "Cate Sinclair (753)" [label=2151]
 	"Elijah Suares (756)" -> "Ben Mihail (755)" [label=3997]
-	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
-	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
-	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
-	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
-	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
-	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
-	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
 	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
+	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
+	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
+	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
+	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
+	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
+	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
+	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
 }

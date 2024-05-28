@@ -8,7 +8,7 @@ Christian Democratic Party (Fred Nile Group)"]
 The Greens"]
 	"Wayne Williams (2514)" [label="Wayne Williams (2514)
 Democratic Labour Party (DLP)"]
-	"Amanda Excell (2511)" -> "Jen Brown (2515)" [label=58]
 	"Wayne Williams (2514)" -> "Amanda Excell (2511)" [label=80]
 	"Wayne Williams (2514)" -> "Jen Brown (2515)" [label=57]
+	"Amanda Excell (2511)" -> "Jen Brown (2515)" [label=58]
 }

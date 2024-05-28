@@ -4,29 +4,29 @@ digraph "Kim Grierson (330)_Shortland_2022" {
 	node [shape=box]
 	"Barry Reed (326)" [label="Barry Reed (326)
 Liberal Democrats"]
-	"Basil Paynter (325)" [label="Basil Paynter (325)
-Independent"]
 	"Bree Suzanne Roberts (324)" [label="Bree Suzanne Roberts (324)
 Animal Justice Party"]
-	"Kenneth John Maxwell (329)" [label="Kenneth John Maxwell (329)
-United Australia Party"]
 	"Kim Grierson (330)" [label="Kim Grierson (330)
 The Greens"]
+	"Kenneth John Maxwell (329)" [label="Kenneth John Maxwell (329)
+United Australia Party"]
 	"Quintin King (331)" [label="Quintin King (331)
 Pauline Hanson's One Nation"]
-	"Barry Reed (326)" -> "Bree Suzanne Roberts (324)" [label=270]
-	"Barry Reed (326)" -> "Kenneth John Maxwell (329)" [label=696]
+	"Basil Paynter (325)" [label="Basil Paynter (325)
+Independent"]
 	"Barry Reed (326)" -> "Kim Grierson (330)" [label=143]
-	"Barry Reed (326)" -> "Quintin King (331)" [label=442]
-	"Basil Paynter (325)" -> "Barry Reed (326)" [label=324]
-	"Basil Paynter (325)" -> "Bree Suzanne Roberts (324)" [label=496]
-	"Basil Paynter (325)" -> "Kenneth John Maxwell (329)" [label=187]
 	"Basil Paynter (325)" -> "Kim Grierson (330)" [label=410]
-	"Basil Paynter (325)" -> "Quintin King (331)" [label=311]
-	"Bree Suzanne Roberts (324)" -> "Kenneth John Maxwell (329)" [label=403]
 	"Bree Suzanne Roberts (324)" -> "Kim Grierson (330)" [label=1054]
-	"Bree Suzanne Roberts (324)" -> "Quintin King (331)" [label=473]
-	"Kenneth John Maxwell (329)" -> "Kim Grierson (330)" [label=526]
+	"Bree Suzanne Roberts (324)" -> "Kenneth John Maxwell (329)" [label=403]
+	"Basil Paynter (325)" -> "Barry Reed (326)" [label=324]
 	"Kenneth John Maxwell (329)" -> "Quintin King (331)" [label=2665]
 	"Quintin King (331)" -> "Kim Grierson (330)" [label=2785]
+	"Barry Reed (326)" -> "Bree Suzanne Roberts (324)" [label=270]
+	"Basil Paynter (325)" -> "Quintin King (331)" [label=311]
+	"Kenneth John Maxwell (329)" -> "Kim Grierson (330)" [label=526]
+	"Barry Reed (326)" -> "Quintin King (331)" [label=442]
+	"Bree Suzanne Roberts (324)" -> "Quintin King (331)" [label=473]
+	"Basil Paynter (325)" -> "Kenneth John Maxwell (329)" [label=187]
+	"Basil Paynter (325)" -> "Bree Suzanne Roberts (324)" [label=496]
+	"Barry Reed (326)" -> "Kenneth John Maxwell (329)" [label=696]
 }

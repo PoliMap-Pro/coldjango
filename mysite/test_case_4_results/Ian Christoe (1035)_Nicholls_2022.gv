@@ -2,18 +2,18 @@
 digraph "Ian Christoe (1035)_Nicholls_2022" {
 	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrea Otto (1036)" [label="Andrea Otto (1036)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
-Australian Federation Party"]
-	"Ian Christoe (1035)" [label="Ian Christoe (1035)
-The Greens"]
 	"Jeff Davy (1033)" [label="Jeff Davy (1033)
 Citizens Party"]
-	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
-	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
+	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
+Australian Federation Party"]
+	"Andrea Otto (1036)" [label="Andrea Otto (1036)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Ian Christoe (1035)" [label="Ian Christoe (1035)
+The Greens"]
 	"Eleonor Tabone (1038)" -> "Ian Christoe (1035)" [label=18]
 	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
+	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
+	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
 	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
 	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=27]
 }

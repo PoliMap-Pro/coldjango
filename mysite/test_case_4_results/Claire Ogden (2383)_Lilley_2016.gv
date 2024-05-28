@@ -2,10 +2,10 @@
 digraph "Claire Ogden (2383)_Lilley_2016" {
 	graph [label="Lilley 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Claire Ogden (2383)" [label="Claire Ogden (2383)
-The Greens"]
 	"Sharan Hall (2380)" [label="Sharan Hall (2380)
 Family First"]
+	"Claire Ogden (2383)" [label="Claire Ogden (2383)
+The Greens"]
 	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
 Liberal Democrats"]
 	"Sharan Hall (2380)" -> "Claire Ogden (2383)" [label=999]

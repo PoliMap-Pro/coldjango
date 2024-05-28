@@ -8,7 +8,7 @@ United Australia Party"]
 Pauline Hanson's One Nation"]
 	"Stuart Davis (174)" [label="Stuart Davis (174)
 The Greens"]
-	"Anthony Tawaf (176)" -> "Stuart Davis (174)" [label=1407]
 	"Darrin Marr (175)" -> "Anthony Tawaf (176)" [label=1961]
 	"Darrin Marr (175)" -> "Stuart Davis (174)" [label=313]
+	"Anthony Tawaf (176)" -> "Stuart Davis (174)" [label=1407]
 }

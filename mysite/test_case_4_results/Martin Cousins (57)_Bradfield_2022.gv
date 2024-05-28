@@ -10,10 +10,10 @@ The Greens"]
 Pauline Hanson's One Nation"]
 	"Rob Fletcher (59)" [label="Rob Fletcher (59)
 United Australia Party"]
-	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
-	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
 	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
+	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
 	"Michael Lowe (61)" -> "Rob Fletcher (59)" [label=896]
+	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
 }

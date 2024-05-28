@@ -2,24 +2,24 @@
 digraph "Mike Hall (2154)_Mackellar_2016" {
 	graph [label="Mackellar 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jim Ball (2153)" [label="Jim Ball (2153)
+Independent"]
 	"Annie Wright (2155)" [label="Annie Wright (2155)
 Christian Democratic Party (Fred Nile Group)"]
-	"Jim Ball (2153)" [label="Jim Ball (2153)
+	"Liam Gavin (2152)" [label="Liam Gavin (2152)
 Independent"]
 	"Julie Hegarty (2157)" [label="Julie Hegarty (2157)
 Independent"]
-	"Liam Gavin (2152)" [label="Liam Gavin (2152)
-Independent"]
 	"Mike Hall (2154)" [label="Mike Hall (2154)
 The Greens"]
-	"Annie Wright (2155)" -> "Jim Ball (2153)" [label=317]
-	"Annie Wright (2155)" -> "Julie Hegarty (2157)" [label=204]
-	"Annie Wright (2155)" -> "Liam Gavin (2152)" [label=156]
-	"Annie Wright (2155)" -> "Mike Hall (2154)" [label=188]
 	"Jim Ball (2153)" -> "Mike Hall (2154)" [label=2635]
-	"Julie Hegarty (2157)" -> "Jim Ball (2153)" [label=1825]
+	"Liam Gavin (2152)" -> "Mike Hall (2154)" [label=305]
+	"Annie Wright (2155)" -> "Mike Hall (2154)" [label=188]
+	"Liam Gavin (2152)" -> "Julie Hegarty (2157)" [label=389]
+	"Annie Wright (2155)" -> "Liam Gavin (2152)" [label=156]
+	"Annie Wright (2155)" -> "Julie Hegarty (2157)" [label=204]
+	"Annie Wright (2155)" -> "Jim Ball (2153)" [label=317]
 	"Julie Hegarty (2157)" -> "Mike Hall (2154)" [label=1375]
 	"Liam Gavin (2152)" -> "Jim Ball (2153)" [label=1453]
-	"Liam Gavin (2152)" -> "Julie Hegarty (2157)" [label=389]
-	"Liam Gavin (2152)" -> "Mike Hall (2154)" [label=305]
+	"Julie Hegarty (2157)" -> "Jim Ball (2153)" [label=1825]
 }

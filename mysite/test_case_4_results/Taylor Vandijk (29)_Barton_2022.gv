@@ -8,7 +8,7 @@ United Australia Party"]
 Pauline Hanson's One Nation"]
 	"Taylor Vandijk (29)" [label="Taylor Vandijk (29)
 The Greens"]
-	"Dimitri Honos (28)" -> "Taylor Vandijk (29)" [label=1933]
 	"Phillip Pollard (31)" -> "Dimitri Honos (28)" [label=2850]
 	"Phillip Pollard (31)" -> "Taylor Vandijk (29)" [label=314]
+	"Dimitri Honos (28)" -> "Taylor Vandijk (29)" [label=1933]
 }

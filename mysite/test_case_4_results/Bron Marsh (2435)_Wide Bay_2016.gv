@@ -6,14 +6,14 @@ digraph "Bron Marsh (2435)_Wide Bay_2016" {
 Katter's Australian Party"]
 	"Bron Marsh (2435)" [label="Bron Marsh (2435)
 The Greens"]
-	"Bruce Mayer (2436)" [label="Bruce Mayer (2436)
-Family First"]
 	"Jannean Dean (2432)" [label="Jannean Dean (2432)
 Glenn Lazarus Team"]
-	"Barry Cook (2437)" -> "Bron Marsh (2435)" [label=178]
-	"Barry Cook (2437)" -> "Bruce Mayer (2436)" [label=432]
+	"Bruce Mayer (2436)" [label="Bruce Mayer (2436)
+Family First"]
 	"Barry Cook (2437)" -> "Jannean Dean (2432)" [label=418]
-	"Bruce Mayer (2436)" -> "Bron Marsh (2435)" [label=595]
+	"Barry Cook (2437)" -> "Bruce Mayer (2436)" [label=432]
 	"Bruce Mayer (2436)" -> "Jannean Dean (2432)" [label=405]
+	"Bruce Mayer (2436)" -> "Bron Marsh (2435)" [label=595]
+	"Barry Cook (2437)" -> "Bron Marsh (2435)" [label=178]
 	"Jannean Dean (2432)" -> "Bron Marsh (2435)" [label=651]
 }

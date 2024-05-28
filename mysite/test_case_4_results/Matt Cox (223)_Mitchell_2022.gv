@@ -2,18 +2,18 @@
 digraph "Matt Cox (223)_Mitchell_2022" {
 	graph [label="Mitchell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Clinton Mead (221)" [label="Clinton Mead (221)
-Liberal Democrats"]
-	"Donald Mckenzie (225)" [label="Donald Mckenzie (225)
-Pauline Hanson's One Nation"]
-	"Linda Daniel (222)" [label="Linda Daniel (222)
-United Australia Party"]
 	"Matt Cox (223)" [label="Matt Cox (223)
 The Greens"]
+	"Donald Mckenzie (225)" [label="Donald Mckenzie (225)
+Pauline Hanson's One Nation"]
+	"Clinton Mead (221)" [label="Clinton Mead (221)
+Liberal Democrats"]
+	"Linda Daniel (222)" [label="Linda Daniel (222)
+United Australia Party"]
+	"Donald Mckenzie (225)" -> "Matt Cox (223)" [label=222]
+	"Donald Mckenzie (225)" -> "Linda Daniel (222)" [label=1393]
+	"Linda Daniel (222)" -> "Matt Cox (223)" [label=2065]
 	"Clinton Mead (221)" -> "Linda Daniel (222)" [label=1694]
 	"Clinton Mead (221)" -> "Matt Cox (223)" [label=459]
 	"Donald Mckenzie (225)" -> "Clinton Mead (221)" [label=716]
-	"Donald Mckenzie (225)" -> "Linda Daniel (222)" [label=1393]
-	"Donald Mckenzie (225)" -> "Matt Cox (223)" [label=222]
-	"Linda Daniel (222)" -> "Matt Cox (223)" [label=2065]
 }

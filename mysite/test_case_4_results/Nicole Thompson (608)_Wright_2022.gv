@@ -8,7 +8,7 @@ United Australia Party"]
 Queensland Greens"]
 	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
 Australian Federation Party"]
-	"Cassandra Deanne Duffill (604)" -> "Nicole Thompson (608)" [label=736]
 	"Shonna-Lee Banasiak (606)" -> "Cassandra Deanne Duffill (604)" [label=357]
 	"Shonna-Lee Banasiak (606)" -> "Nicole Thompson (608)" [label=272]
+	"Cassandra Deanne Duffill (604)" -> "Nicole Thompson (608)" [label=736]
 }

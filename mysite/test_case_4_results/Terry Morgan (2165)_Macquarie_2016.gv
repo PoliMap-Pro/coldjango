@@ -2,39 +2,39 @@
 digraph "Terry Morgan (2165)_Macquarie_2016" {
 	graph [label="Macquarie 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
+Animal Justice Party"]
 	"Carl Halley (2159)" [label="Carl Halley (2159)
 Australian Liberty Alliance"]
 	"Catherine Lincoln (2164)" [label="Catherine Lincoln (2164)
 Christian Democratic Party (Fred Nile Group)"]
-	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
-Animal Justice Party"]
-	"Jake Grizelj (2158)" [label="Jake Grizelj (2158)
-Shooters, Fishers and Farmers"]
 	"Liz Cooper (2161)" [label="Liz Cooper (2161)
 Derryn Hinch's Justice Party"]
-	"Olya Shornikov (2162)" [label="Olya Shornikov (2162)
-Liberal Democrats"]
 	"Terry Morgan (2165)" [label="Terry Morgan (2165)
 The Greens"]
-	"Carl Halley (2159)" -> "Catherine Lincoln (2164)" [label=313]
-	"Carl Halley (2159)" -> "Hal Jon Ginges (2163)" [label=256]
-	"Carl Halley (2159)" -> "Jake Grizelj (2158)" [label=646]
-	"Carl Halley (2159)" -> "Terry Morgan (2165)" [label=74]
-	"Catherine Lincoln (2164)" -> "Jake Grizelj (2158)" [label=871]
-	"Catherine Lincoln (2164)" -> "Terry Morgan (2165)" [label=414]
-	"Hal Jon Ginges (2163)" -> "Catherine Lincoln (2164)" [label=379]
-	"Hal Jon Ginges (2163)" -> "Jake Grizelj (2158)" [label=665]
-	"Hal Jon Ginges (2163)" -> "Terry Morgan (2165)" [label=1277]
-	"Jake Grizelj (2158)" -> "Terry Morgan (2165)" [label=1209]
-	"Liz Cooper (2161)" -> "Carl Halley (2159)" [label=171]
+	"Olya Shornikov (2162)" [label="Olya Shornikov (2162)
+Liberal Democrats"]
+	"Jake Grizelj (2158)" [label="Jake Grizelj (2158)
+Shooters, Fishers and Farmers"]
 	"Liz Cooper (2161)" -> "Catherine Lincoln (2164)" [label=128]
-	"Liz Cooper (2161)" -> "Hal Jon Ginges (2163)" [label=398]
 	"Liz Cooper (2161)" -> "Jake Grizelj (2158)" [label=306]
+	"Liz Cooper (2161)" -> "Carl Halley (2159)" [label=171]
 	"Liz Cooper (2161)" -> "Terry Morgan (2165)" [label=98]
-	"Olya Shornikov (2162)" -> "Carl Halley (2159)" [label=66]
-	"Olya Shornikov (2162)" -> "Catherine Lincoln (2164)" [label=61]
-	"Olya Shornikov (2162)" -> "Hal Jon Ginges (2163)" [label=70]
-	"Olya Shornikov (2162)" -> "Jake Grizelj (2158)" [label=121]
-	"Olya Shornikov (2162)" -> "Liz Cooper (2161)" [label=87]
 	"Olya Shornikov (2162)" -> "Terry Morgan (2165)" [label=43]
+	"Hal Jon Ginges (2163)" -> "Catherine Lincoln (2164)" [label=379]
+	"Olya Shornikov (2162)" -> "Jake Grizelj (2158)" [label=121]
+	"Jake Grizelj (2158)" -> "Terry Morgan (2165)" [label=1209]
+	"Hal Jon Ginges (2163)" -> "Jake Grizelj (2158)" [label=665]
+	"Carl Halley (2159)" -> "Hal Jon Ginges (2163)" [label=256]
+	"Catherine Lincoln (2164)" -> "Jake Grizelj (2158)" [label=871]
+	"Olya Shornikov (2162)" -> "Liz Cooper (2161)" [label=87]
+	"Carl Halley (2159)" -> "Terry Morgan (2165)" [label=74]
+	"Liz Cooper (2161)" -> "Hal Jon Ginges (2163)" [label=398]
+	"Hal Jon Ginges (2163)" -> "Terry Morgan (2165)" [label=1277]
+	"Carl Halley (2159)" -> "Jake Grizelj (2158)" [label=646]
+	"Catherine Lincoln (2164)" -> "Terry Morgan (2165)" [label=414]
+	"Olya Shornikov (2162)" -> "Catherine Lincoln (2164)" [label=61]
+	"Olya Shornikov (2162)" -> "Carl Halley (2159)" [label=66]
+	"Olya Shornikov (2162)" -> "Hal Jon Ginges (2163)" [label=70]
+	"Carl Halley (2159)" -> "Catherine Lincoln (2164)" [label=313]
 }

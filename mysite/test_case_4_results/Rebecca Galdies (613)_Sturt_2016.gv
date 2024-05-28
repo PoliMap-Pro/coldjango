@@ -10,10 +10,10 @@ Animal Justice Party"]
 Independent"]
 	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
 The Greens"]
-	"Craig Bowyer (2491)" -> "Rebecca Galdies (613)" [label=432]
-	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
 	"Geoff Russell (1655)" -> "Rebecca Galdies (613)" [label=493]
-	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
+	"Craig Bowyer (2491)" -> "Rebecca Galdies (613)" [label=432]
 	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
+	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
 	"Neil Aitchison (2494)" -> "Rebecca Galdies (613)" [label=66]
+	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
 }

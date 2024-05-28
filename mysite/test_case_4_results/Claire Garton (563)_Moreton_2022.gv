@@ -4,14 +4,14 @@ digraph "Claire Garton (563)_Moreton_2022" {
 	node [shape=box]
 	"Chelsea Follett (565)" [label="Chelsea Follett (565)
 United Australia Party"]
+	"Peter Power (560)" [label="Peter Power (560)
+Australian Federation Party"]
 	"Claire Garton (563)" [label="Claire Garton (563)
 Queensland Greens"]
 	"Neil Swann (561)" [label="Neil Swann (561)
 Pauline Hanson's One Nation"]
-	"Peter Power (560)" [label="Peter Power (560)
-Australian Federation Party"]
-	"Chelsea Follett (565)" -> "Claire Garton (563)" [label=448]
 	"Chelsea Follett (565)" -> "Neil Swann (561)" [label=1835]
+	"Chelsea Follett (565)" -> "Claire Garton (563)" [label=448]
 	"Neil Swann (561)" -> "Claire Garton (563)" [label=1390]
 	"Peter Power (560)" -> "Chelsea Follett (565)" [label=214]
 	"Peter Power (560)" -> "Claire Garton (563)" [label=201]

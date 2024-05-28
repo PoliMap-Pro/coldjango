@@ -8,7 +8,7 @@ Australian Christians"]
 The Greens (WA)"]
 	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
 Rise Up Australia Party"]
-	"Grahame Gould (1952)" -> "Ian James (2740)" [label=220]
-	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
 	"Mitchell Sambell (2742)" -> "Ian James (2740)" [label=647]
+	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
+	"Grahame Gould (1952)" -> "Ian James (2740)" [label=220]
 }

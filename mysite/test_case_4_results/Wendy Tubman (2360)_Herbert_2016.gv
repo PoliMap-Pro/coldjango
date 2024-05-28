@@ -2,24 +2,24 @@
 digraph "Wendy Tubman (2360)_Herbert_2016" {
 	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
-Glenn Lazarus Team"]
-	"David Harris (2363)" [label="David Harris (2363)
-Liberal Democrats"]
-	"Martin Brewster (2358)" [label="Martin Brewster (2358)
-Palmer United Party"]
 	"Michael Punshon (2356)" [label="Michael Punshon (2356)
 Family First"]
+	"Martin Brewster (2358)" [label="Martin Brewster (2358)
+Palmer United Party"]
+	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
+Glenn Lazarus Team"]
 	"Wendy Tubman (2360)" [label="Wendy Tubman (2360)
 The Greens"]
-	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
+	"David Harris (2363)" [label="David Harris (2363)
+Liberal Democrats"]
+	"Martin Brewster (2358)" -> "Wendy Tubman (2360)" [label=24]
 	"Aaron Raffin (2362)" -> "Wendy Tubman (2360)" [label=207]
+	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
+	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
+	"Michael Punshon (2356)" -> "Wendy Tubman (2360)" [label=351]
+	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
+	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
+	"David Harris (2363)" -> "Wendy Tubman (2360)" [label=85]
 	"David Harris (2363)" -> "Aaron Raffin (2362)" [label=134]
 	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
-	"David Harris (2363)" -> "Wendy Tubman (2360)" [label=85]
-	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
-	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
-	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
-	"Martin Brewster (2358)" -> "Wendy Tubman (2360)" [label=24]
-	"Michael Punshon (2356)" -> "Wendy Tubman (2360)" [label=351]
 }

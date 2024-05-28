@@ -8,7 +8,6 @@ class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
     def handle(self, *arguments, **keywordarguments):
-
         #with cProfile.Profile() as pr:
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year__in': (2022, 2016, 2010)},
@@ -20,9 +19,8 @@ class Command(BaseCommand):
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year__in': (2022, 2016, 2010)},
             {'abbreviation__in': ('GRN', 'ALP', 'LP')},
-            {'state__iexact': 'vic'},
+            {'state__iexact': 'tas'},
         ))
-        exit()
         print()
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year': 2022},
@@ -47,10 +45,10 @@ class Command(BaseCommand):
             {'name': 'Chisholm', 'seat__name': 'Bean'},
             False))
         print()
-        pprint.pp(endpoints.getHouseGeneralPartyPreferred(
-            {'election_date__year__in': (2022, 2016, 2010)},
-            {'name': 'Aston'},
-            how_many=3))
+        #pprint.pp(endpoints.getHouseGeneralPartyPreferred(
+        #    {'election_date__year__in': (2022, 2016, 2010)},
+        #    {'name': 'Aston'},
+        #    how_many=3))
 
         pprint.pp(endpoints.getMetaParties())
         print(1)
@@ -77,8 +75,8 @@ class Command(BaseCommand):
             Green={'abbreviation__in': ('GRN', 'GVIC')},
         )
         print(9)
-        pprint.pp(endpoints.getHousePrimaryVote(
-            {'election_date__year__in': (2022, 2016, )},
-            {'meta_parties__name': 'Libnat'},
-            {'state__iexact': 'Vic'}))
-        print(10)
+        #pprint.pp(endpoints.getHousePrimaryVote(
+        #    {'election_date__year__in': (2022, 2016, )},
+        #    {'meta_parties__name': 'Libnat'},
+        #    {'state__iexact': 'Vic'}))
+        #print(10)

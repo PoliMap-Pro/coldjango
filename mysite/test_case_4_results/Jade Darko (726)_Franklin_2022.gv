@@ -2,39 +2,39 @@
 digraph "Jade Darko (726)_Franklin_2022" {
 	graph [label="Franklin 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anna Bateman (718)" [label="Anna Bateman (718)
-The Local Party"]
-	"Chris Hannan (723)" [label="Chris Hannan (723)
-Jacqui Lambie Network"]
 	"Duane Pitt (720)" [label="Duane Pitt (720)
 Liberal Democrats"]
-	"Jade Darko (726)" [label="Jade Darko (726)
-The Greens"]
+	"Anna Bateman (718)" [label="Anna Bateman (718)
+The Local Party"]
 	"Katrina Love (725)" [label="Katrina Love (725)
 Animal Justice Party"]
-	"Lisa Matthews (722)" [label="Lisa Matthews (722)
-United Australia Party"]
 	"Steve Hindley (721)" [label="Steve Hindley (721)
 Pauline Hanson's One Nation"]
-	"Anna Bateman (718)" -> "Chris Hannan (723)" [label=1448]
-	"Anna Bateman (718)" -> "Jade Darko (726)" [label=1536]
-	"Chris Hannan (723)" -> "Jade Darko (726)" [label=1997]
-	"Duane Pitt (720)" -> "Anna Bateman (718)" [label=236]
-	"Duane Pitt (720)" -> "Chris Hannan (723)" [label=174]
-	"Duane Pitt (720)" -> "Jade Darko (726)" [label=42]
+	"Chris Hannan (723)" [label="Chris Hannan (723)
+Jacqui Lambie Network"]
+	"Lisa Matthews (722)" [label="Lisa Matthews (722)
+United Australia Party"]
+	"Jade Darko (726)" [label="Jade Darko (726)
+The Greens"]
 	"Duane Pitt (720)" -> "Steve Hindley (721)" [label=369]
-	"Katrina Love (725)" -> "Anna Bateman (718)" [label=169]
-	"Katrina Love (725)" -> "Chris Hannan (723)" [label=156]
-	"Katrina Love (725)" -> "Duane Pitt (720)" [label=23]
-	"Katrina Love (725)" -> "Jade Darko (726)" [label=411]
 	"Katrina Love (725)" -> "Lisa Matthews (722)" [label=53]
-	"Katrina Love (725)" -> "Steve Hindley (721)" [label=39]
-	"Lisa Matthews (722)" -> "Anna Bateman (718)" [label=142]
-	"Lisa Matthews (722)" -> "Chris Hannan (723)" [label=223]
-	"Lisa Matthews (722)" -> "Duane Pitt (720)" [label=188]
-	"Lisa Matthews (722)" -> "Jade Darko (726)" [label=67]
-	"Lisa Matthews (722)" -> "Steve Hindley (721)" [label=515]
-	"Steve Hindley (721)" -> "Anna Bateman (718)" [label=934]
 	"Steve Hindley (721)" -> "Chris Hannan (723)" [label=904]
+	"Katrina Love (725)" -> "Anna Bateman (718)" [label=169]
+	"Duane Pitt (720)" -> "Jade Darko (726)" [label=42]
+	"Katrina Love (725)" -> "Duane Pitt (720)" [label=23]
+	"Lisa Matthews (722)" -> "Chris Hannan (723)" [label=223]
+	"Chris Hannan (723)" -> "Jade Darko (726)" [label=1997]
+	"Katrina Love (725)" -> "Chris Hannan (723)" [label=156]
+	"Lisa Matthews (722)" -> "Steve Hindley (721)" [label=515]
 	"Steve Hindley (721)" -> "Jade Darko (726)" [label=147]
+	"Steve Hindley (721)" -> "Anna Bateman (718)" [label=934]
+	"Duane Pitt (720)" -> "Anna Bateman (718)" [label=236]
+	"Anna Bateman (718)" -> "Jade Darko (726)" [label=1536]
+	"Lisa Matthews (722)" -> "Anna Bateman (718)" [label=142]
+	"Anna Bateman (718)" -> "Chris Hannan (723)" [label=1448]
+	"Lisa Matthews (722)" -> "Duane Pitt (720)" [label=188]
+	"Katrina Love (725)" -> "Steve Hindley (721)" [label=39]
+	"Katrina Love (725)" -> "Jade Darko (726)" [label=411]
+	"Lisa Matthews (722)" -> "Jade Darko (726)" [label=67]
+	"Duane Pitt (720)" -> "Chris Hannan (723)" [label=174]
 }

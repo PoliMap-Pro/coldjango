@@ -2,24 +2,24 @@
 digraph "John Mackenzie (1373)_Newcastle_2016" {
 	graph [label="Newcastle 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Stuart Southwell (2181)" [label="Stuart Southwell (2181)
+Democratic Labour Party (DLP)"]
+	"Rod Holding (2183)" [label="Rod Holding (2183)
+Independent"]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
 	"John Mackenzie (1373)" [label="John Mackenzie (1373)
 The Greens"]
 	"Karen Burge (2182)" [label="Karen Burge (2182)
 Drug Law Reform"]
-	"Milton Caine (2184)" [label="Milton Caine (2184)
-Christian Democratic Party (Fred Nile Group)"]
-	"Rod Holding (2183)" [label="Rod Holding (2183)
-Independent"]
-	"Stuart Southwell (2181)" [label="Stuart Southwell (2181)
-Democratic Labour Party (DLP)"]
-	"Karen Burge (2182)" -> "John Mackenzie (1373)" [label=2203]
-	"Milton Caine (2184)" -> "John Mackenzie (1373)" [label=95]
-	"Milton Caine (2184)" -> "Karen Burge (2182)" [label=173]
-	"Milton Caine (2184)" -> "Rod Holding (2183)" [label=629]
-	"Rod Holding (2183)" -> "John Mackenzie (1373)" [label=660]
 	"Rod Holding (2183)" -> "Karen Burge (2182)" [label=1192]
+	"Rod Holding (2183)" -> "John Mackenzie (1373)" [label=660]
+	"Milton Caine (2184)" -> "John Mackenzie (1373)" [label=95]
 	"Stuart Southwell (2181)" -> "John Mackenzie (1373)" [label=118]
+	"Milton Caine (2184)" -> "Rod Holding (2183)" [label=629]
+	"Milton Caine (2184)" -> "Karen Burge (2182)" [label=173]
+	"Stuart Southwell (2181)" -> "Rod Holding (2183)" [label=155]
 	"Stuart Southwell (2181)" -> "Karen Burge (2182)" [label=86]
 	"Stuart Southwell (2181)" -> "Milton Caine (2184)" [label=276]
-	"Stuart Southwell (2181)" -> "Rod Holding (2183)" [label=155]
+	"Karen Burge (2182)" -> "John Mackenzie (1373)" [label=2203]
 }

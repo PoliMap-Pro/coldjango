@@ -2,24 +2,24 @@
 digraph "Hilary Mcallister (1050)_Wannon_2022" {
 	graph [label="Wannon 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Amanda Mead (1053)" [label="Amanda Mead (1053)
-Liberal Democrats"]
-	"Craige Kensen (1052)" [label="Craige Kensen (1052)
-United Australia Party"]
-	"Graham Garner (1047)" [label="Graham Garner (1047)
-Independent"]
-	"Hilary Mcallister (1050)" [label="Hilary Mcallister (1050)
-The Greens"]
 	"Ronnie Graham (1049)" [label="Ronnie Graham (1049)
 Pauline Hanson's One Nation"]
-	"Amanda Mead (1053)" -> "Craige Kensen (1052)" [label=546]
-	"Amanda Mead (1053)" -> "Graham Garner (1047)" [label=168]
-	"Amanda Mead (1053)" -> "Hilary Mcallister (1050)" [label=71]
-	"Amanda Mead (1053)" -> "Ronnie Graham (1049)" [label=378]
-	"Craige Kensen (1052)" -> "Hilary Mcallister (1050)" [label=330]
+	"Craige Kensen (1052)" [label="Craige Kensen (1052)
+United Australia Party"]
+	"Hilary Mcallister (1050)" [label="Hilary Mcallister (1050)
+The Greens"]
+	"Graham Garner (1047)" [label="Graham Garner (1047)
+Independent"]
+	"Amanda Mead (1053)" [label="Amanda Mead (1053)
+Liberal Democrats"]
+	"Ronnie Graham (1049)" -> "Craige Kensen (1052)" [label=1838]
+	"Graham Garner (1047)" -> "Ronnie Graham (1049)" [label=454]
+	"Ronnie Graham (1049)" -> "Hilary Mcallister (1050)" [label=243]
 	"Graham Garner (1047)" -> "Craige Kensen (1052)" [label=382]
 	"Graham Garner (1047)" -> "Hilary Mcallister (1050)" [label=150]
-	"Graham Garner (1047)" -> "Ronnie Graham (1049)" [label=454]
-	"Ronnie Graham (1049)" -> "Craige Kensen (1052)" [label=1838]
-	"Ronnie Graham (1049)" -> "Hilary Mcallister (1050)" [label=243]
+	"Craige Kensen (1052)" -> "Hilary Mcallister (1050)" [label=330]
+	"Amanda Mead (1053)" -> "Graham Garner (1047)" [label=168]
+	"Amanda Mead (1053)" -> "Hilary Mcallister (1050)" [label=71]
+	"Amanda Mead (1053)" -> "Craige Kensen (1052)" [label=546]
+	"Amanda Mead (1053)" -> "Ronnie Graham (1049)" [label=378]
 }

@@ -4,29 +4,29 @@ digraph "Scott Turner (546)_McPherson_2022" {
 	node [shape=box]
 	"Andy Cullen (547)" [label="Andy Cullen (547)
 Australian Values Party"]
-	"Gary Pead (545)" [label="Gary Pead (545)
-Australian Federation Party"]
 	"Glenn Pyne (549)" [label="Glenn Pyne (549)
 Liberal Democrats"]
+	"Scott Turner (546)" [label="Scott Turner (546)
+Queensland Greens"]
+	"Gary Pead (545)" [label="Gary Pead (545)
+Australian Federation Party"]
 	"Joshua Lawrence Berrigan (548)" [label="Joshua Lawrence Berrigan (548)
 United Australia Party"]
 	"Kevin Hargraves (544)" [label="Kevin Hargraves (544)
 Pauline Hanson's One Nation"]
-	"Scott Turner (546)" [label="Scott Turner (546)
-Queensland Greens"]
-	"Andy Cullen (547)" -> "Joshua Lawrence Berrigan (548)" [label=610]
-	"Andy Cullen (547)" -> "Kevin Hargraves (544)" [label=921]
-	"Andy Cullen (547)" -> "Scott Turner (546)" [label=523]
-	"Gary Pead (545)" -> "Andy Cullen (547)" [label=178]
-	"Gary Pead (545)" -> "Glenn Pyne (549)" [label=37]
-	"Gary Pead (545)" -> "Joshua Lawrence Berrigan (548)" [label=48]
-	"Gary Pead (545)" -> "Kevin Hargraves (544)" [label=140]
 	"Gary Pead (545)" -> "Scott Turner (546)" [label=111]
-	"Glenn Pyne (549)" -> "Andy Cullen (547)" [label=207]
+	"Andy Cullen (547)" -> "Joshua Lawrence Berrigan (548)" [label=610]
 	"Glenn Pyne (549)" -> "Joshua Lawrence Berrigan (548)" [label=432]
-	"Glenn Pyne (549)" -> "Kevin Hargraves (544)" [label=316]
-	"Glenn Pyne (549)" -> "Scott Turner (546)" [label=188]
-	"Joshua Lawrence Berrigan (548)" -> "Kevin Hargraves (544)" [label=5137]
-	"Joshua Lawrence Berrigan (548)" -> "Scott Turner (546)" [label=916]
 	"Kevin Hargraves (544)" -> "Scott Turner (546)" [label=3888]
+	"Glenn Pyne (549)" -> "Kevin Hargraves (544)" [label=316]
+	"Joshua Lawrence Berrigan (548)" -> "Scott Turner (546)" [label=916]
+	"Glenn Pyne (549)" -> "Scott Turner (546)" [label=188]
+	"Gary Pead (545)" -> "Andy Cullen (547)" [label=178]
+	"Joshua Lawrence Berrigan (548)" -> "Kevin Hargraves (544)" [label=5137]
+	"Gary Pead (545)" -> "Kevin Hargraves (544)" [label=140]
+	"Gary Pead (545)" -> "Joshua Lawrence Berrigan (548)" [label=48]
+	"Andy Cullen (547)" -> "Kevin Hargraves (544)" [label=921]
+	"Gary Pead (545)" -> "Glenn Pyne (549)" [label=37]
+	"Andy Cullen (547)" -> "Scott Turner (546)" [label=523]
+	"Glenn Pyne (549)" -> "Andy Cullen (547)" [label=207]
 }
