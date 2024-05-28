@@ -9,6 +9,7 @@ class Election(section.Part):
 
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     election_date = models.DateField()
     created = models.DateTimeField(auto_now_add=True)
@@ -61,6 +62,7 @@ class Election(section.Part):
 class Beacon(geography.Pin):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     state = models.CharField(max_length=9,
                              choices=model_fields.StateName.choices)
@@ -69,6 +71,7 @@ class Beacon(geography.Pin):
 class Crown(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     seat = models.ForeignKey('Seat', on_delete=models.CASCADE)
     election = models.ForeignKey('HouseElection', on_delete=models.CASCADE)
@@ -77,6 +80,7 @@ class Crown(models.Model):
 class Transfer(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     votes_transferred = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
@@ -85,6 +89,7 @@ class Transfer(models.Model):
 class BallotEntry(Crown):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     ballot_position = models.PositiveSmallIntegerField(default=0)
 
@@ -92,6 +97,7 @@ class BallotEntry(Crown):
 class Club(names.TrackedName):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     def __str__(self):
         return self.name
@@ -100,6 +106,7 @@ class Club(names.TrackedName):
 class Transition(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     reason = models.CharField(max_length=127)
     date_of_change = models.DateField()
@@ -109,6 +116,7 @@ class Transition(models.Model):
 class VoteRecord(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     primary_votes = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)
@@ -117,6 +125,7 @@ class VoteRecord(models.Model):
 class Contest(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     state = models.CharField(max_length=9,
                              choices=model_fields.StateName.choices)
@@ -126,6 +135,7 @@ class Contest(models.Model):
 class Round(models.Model):
     class Meta:
         abstract = True
+        app_label = "jacobsladder"
 
     round_number = models.IntegerField()
     created = models.DateTimeField(auto_now_add=True)

@@ -28,16 +28,17 @@ class Poll(aggregate.Aggregator):
     def update_result(
             self, check_contentions, check_for_informal, election_result,
             name_of_informal_vote, place, representation_subset, result,
-            return_format, tally_attribute, total):
+            return_format, tally_attribute, total, party_multi=False):
         if check_for_informal:
             [place.update_place_result(
                 self, representation, result, total, tally_attribute,
-                return_format=return_format, election_result=election_result)
-                for representation in representation_subset if
+                return_format=return_format, election_result=election_result,
+                party_multi=party_multi) for representation in
+                representation_subset if
                 representation.person.name.lower() != name_of_informal_vote]
         else:
             [place.update_place_result(
                 self, representation, result, total, tally_attribute,
                 return_format=return_format, election_result=election_result,
-                check_contentions=check_contentions)
+                check_contentions=check_contentions, party_multi=party_multi)
                 for representation in representation_subset]

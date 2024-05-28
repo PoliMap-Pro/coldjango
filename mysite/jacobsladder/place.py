@@ -88,7 +88,7 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
     def update_place_result(
             self, election, representation, result, total, tally_attribute,
             sum_booths=False, return_format=constants.NEST_FORMAT,
-            election_result=None, check_contentions=False):
+            election_result=None, check_contentions=False, party_multi=False):
         if check_contentions:
             self.collect_if_contending(
                 election, election_result, representation, result,
@@ -211,7 +211,8 @@ class Booth(geography.Pin):
                             tally_attribute, default=0,
                             return_format=constants.NEST_FORMAT,
                             election_result=None,
-                            check_contentions=False):
+                            check_contentions=False,
+                            party_multi=False):
         candidate = representation.person.candidate
         contentions = service.Contention.objects.filter(
             election=election, seat=self.seat, candidate=candidate)

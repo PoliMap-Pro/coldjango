@@ -1,3 +1,5 @@
+import multiprocessing
+import os
 from django.db import models
 from django.db.models import UniqueConstraint
 from . import abstract_models, constants, names, people, ballot
@@ -31,7 +33,8 @@ class HouseElection(abstract_models.Election, ballot.Poll):
             parent, party_set, place_set, places, return_format, target)
         [self.update_election_result(
             elect_result, representation_set, place, target, sum_booths,
-            return_format=return_format) for place in place_set]
+            return_format=return_format) for
+            place in place_set]
         self.format_result(elect_result, parent, return_format)
 
     def setup_election_result(
@@ -119,14 +122,16 @@ class HouseElection(abstract_models.Election, ballot.Poll):
 
     def update_election_result(self, election_result, representation_set,
                                place, tally_attribute, sum_booths=False,
-                               return_format=constants.NEST_FORMAT):
+                               return_format=constants.NEST_FORMAT,
+                               party_multi=False):
         """
         Adds the results for the seats or the booths.
         """
         self.place_to_election(
             election_result, place, self.election_place_result(
                 place, representation_set, tally_attribute, sum_booths,
-                return_format=return_format), return_format, tally_attribute)
+                return_format=return_format, party_multi=party_multi),
+            return_format, tally_attribute)
 
     def setup_place(self, p_set, place_set, places, standing,
                     return_format, tally_attribute, parent_result=None):
@@ -202,7 +207,8 @@ class HouseElection(abstract_models.Election, ballot.Poll):
                               election_result=None,
                               name_of_informal_vote=constants.INFORMAL_VOTER,
                               check_for_informal=False,
-                              check_contentions=False):
+                              check_contentions=False,
+                              party_multi=False):
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
@@ -210,7 +216,7 @@ class HouseElection(abstract_models.Election, ballot.Poll):
         self.update_result(
             check_contentions, check_for_informal, election_result,
             name_of_informal_vote, place, representation_subset, result,
-            return_format, tally_attribute, total)
+            return_format, tally_attribute, total, party_multi=party_multi)
         return result
 
     def highest_by_votes(self, how_many, place_set, places, result,
