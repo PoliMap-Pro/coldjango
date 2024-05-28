@@ -5,6 +5,7 @@ from . import abstract_models
 
 class Representation(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['person', 'party', 'election'],
             name='representation_person_party_election')]
@@ -16,6 +17,7 @@ class Representation(models.Model):
 
 class Collection(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['booth', 'election',],
             name='unique_combination_of_booth_election')]
@@ -29,6 +31,7 @@ class Collection(models.Model):
 
 class Contention(abstract_models.BallotEntry):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['seat', 'candidate', 'election', ],
             name='unique_seat_candidate_election')]
@@ -44,6 +47,7 @@ class Contention(abstract_models.BallotEntry):
 
 class Selection(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['person', 'election'],
                                         name='selection_person_election')]
     person = models.ForeignKey("Person", on_delete=models.CASCADE)
@@ -54,6 +58,7 @@ class Selection(models.Model):
 
 class Stand(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['candidate', 'election', ],
                                         name='candidate_election')]
 

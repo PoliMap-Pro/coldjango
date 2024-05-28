@@ -5,6 +5,7 @@ from . import section, constants
 class Pin(section.Part):
     class Meta:
         abstract = True
+        app_label = 'jacobsladder'
 
     location = models.OneToOneField('Geography', on_delete=models.SET_NULL,
                                     null=True, blank=True)

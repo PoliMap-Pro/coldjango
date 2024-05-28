@@ -13,6 +13,7 @@ class Party(section.Part):
     nltk.download('stopwords')
 
     class Meta:
+        app_label = 'jacobsladder'
         verbose_name_plural = "Parties"
         constraints = [UniqueConstraint(fields=['abbreviation', 'name',],
                                         name='abbreviation_and_name')]
@@ -50,6 +51,7 @@ class Party(section.Part):
 
 class PersonCode(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['number', 'person',],
                                         name='number_and_person')]
 
@@ -61,6 +63,9 @@ class PersonCode(models.Model):
 
 
 class Person(names.TrackedName):
+    class Meta:
+        app_label = 'jacobsladder'
+
     other_names = models.CharField(max_length=63, null=True, blank=True)
     party = models.ManyToManyField(Party, through="Representation")
 
@@ -72,4 +77,5 @@ class Person(names.TrackedName):
 
 
 class MetaParty(abstract_models.Club):
-    pass
+    class Meta:
+        app_label = 'jacobsladder'

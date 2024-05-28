@@ -106,6 +106,9 @@ where,
 
 
 class Geography(models.Model):
+    class Meta:
+        app_label = 'jacobsladder'
+
     #multi_polygon = gis_models.MultiPolygonField()
     un = models.IntegerField("United Nations Code")
     area = models.IntegerField()
@@ -121,6 +124,9 @@ class Geography(models.Model):
 
 
 class SenateElection(Election):
+    class Meta:
+        app_label = 'jacobsladder'
+
     state = models.CharField(max_length=9,
                              choices=model_fields.StateName.choices)
 
@@ -128,12 +134,16 @@ class SenateElection(Election):
 class PartyAlias(names.TrackedName):
     class Meta:
         verbose_name_plural = "Party Aliases"
+        app_label = 'jacobsladder'
 
     party = models.ForeignKey(people.Party, on_delete=models.CASCADE)
     elections = models.ManyToManyField(house.HouseElection, blank=True)
 
 
 class SenateAlliance(names.TrackedName):
+    class Meta:
+        app_label = 'jacobsladder'
+
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
     def __str__(self):
@@ -141,12 +151,18 @@ class SenateAlliance(names.TrackedName):
 
 
 class SenateGroup(models.Model):
+    class Meta:
+        app_label = 'jacobsladder'
+
     name = models.CharField(max_length=63, null=True, blank=True)
     abbreviation = models.CharField(max_length=15)
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
 
 
 class SenateCandidate(models.Model):
+    class Meta:
+        app_label = 'jacobsladder'
+
     person = models.OneToOneField(people.Person, on_delete=models.CASCADE)
     group = models.ForeignKey(SenateGroup, on_delete=models.SET_NULL,
                               null=True, blank=True)
@@ -154,6 +170,7 @@ class SenateCandidate(models.Model):
 
 class VoteStack(VoteRecord, Contest):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['floor', 'election', 'candidate', ],
             name='floor_election_and_candidate')]
@@ -167,6 +184,7 @@ class VoteStack(VoteRecord, Contest):
 
 class Pool(Contest):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['state', 'election',],
                                         name='pool_state_and_election')]
 
@@ -176,6 +194,9 @@ class Pool(Contest):
 
 
 class SenateRound(Round):
+    class Meta:
+        app_label = 'jacobsladder'
+
     pool = models.ForeignKey(Pool, on_delete=models.CASCADE)
 
     def __str__(self):
@@ -184,6 +205,9 @@ class SenateRound(Round):
 
 
 class SenatePreference(Transfer):
+    class Meta:
+        app_label = 'jacobsladder'
+
     election = models.ForeignKey(SenateElection, on_delete=models.CASCADE)
     candidate = models.ForeignKey(SenateCandidate, on_delete=models.CASCADE,
                                   related_name="target_senate")

@@ -6,6 +6,7 @@ from . import abstract_models, aggregate, constants, format, house, geography, \
 
 class SeatCode(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['number', 'seat',],
                                         name='number_and_seat')]
 
@@ -17,6 +18,9 @@ class SeatCode(models.Model):
 
 
 class Seat(abstract_models.Beacon, aggregate.Aggregator):
+    class Meta:
+        app_label = 'jacobsladder'
+
     name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField("HouseElection", blank=True)
 
@@ -172,6 +176,9 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
 
 
 class SeatChange(abstract_models.Transition):
+    class Meta:
+        app_label = 'jacobsladder'
+
     from_seat = models.ForeignKey(Seat, on_delete=models.CASCADE, null=True,
                                   blank=True, related_name="to_via")
     to_seat = models.ForeignKey(Seat, on_delete=models.CASCADE, null=True,
@@ -180,6 +187,7 @@ class SeatChange(abstract_models.Transition):
 
 class Booth(geography.Pin):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['name', 'seat',],
                                         name='name_and_seat')]
 
@@ -253,6 +261,9 @@ class Booth(geography.Pin):
 
 
 class BoothChange(abstract_models.Transition):
+    class Meta:
+        app_label = 'jacobsladder'
+
     from_booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True,
                                    blank=True, related_name="to_via")
     to_booth = models.ForeignKey(Booth, on_delete=models.CASCADE, null=True,
@@ -261,6 +272,7 @@ class BoothChange(abstract_models.Transition):
 
 class BoothCode(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['number', 'booth',],
             name='unique_combination_of_number_and_booth')]
@@ -274,6 +286,7 @@ class BoothCode(models.Model):
 
 class LighthouseCode(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['number', 'lighthouse',],
                                         name='number_and_lighthouse')]
 
@@ -285,12 +298,16 @@ class LighthouseCode(models.Model):
 
 
 class Lighthouse(abstract_models.Beacon):
+    class Meta:
+        app_label = 'jacobsladder'
+
     name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField("SenateElection", blank=True)
 
 
 class FloorCode(models.Model):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(
             fields=['number', 'floor',],
             name='unique_combination_of_number_and_floor')]
@@ -304,6 +321,7 @@ class FloorCode(models.Model):
 
 class Floor(geography.Pin):
     class Meta:
+        app_label = 'jacobsladder'
         constraints = [UniqueConstraint(fields=['name', 'lighthouse',],
                                         name='name_and_lighthouse')]
 

@@ -10,6 +10,9 @@ from .service import Representation
 class HouseElection(abstract_models.Election, ballot.Poll):
     DEFAULT_HOUSE_ELECTION_TEXT = "/AEC/Elections/House/"
 
+    class Meta:
+        app_label = 'jacobsladder'
+
     class ElectionType(models.TextChoices):
         BY_ELECTION = "by-election", "By-Election"
         REGULAR = "federal", "Regular"
