@@ -2,13 +2,13 @@
 digraph "Mickey Berry (481)_Groom_2022" {
 	graph [label="Groom 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Melissa Bannister (482)" [label="Melissa Bannister (482)
-United Australia Party"]
-	"Ryan Otto (479)" [label="Ryan Otto (479)
-Australian Federation Party"]
 	"Mickey Berry (481)" [label="Mickey Berry (481)
 Queensland Greens"]
-	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
+	"Ryan Otto (479)" [label="Ryan Otto (479)
+Australian Federation Party"]
+	"Melissa Bannister (482)" [label="Melissa Bannister (482)
+United Australia Party"]
 	"Ryan Otto (479)" -> "Melissa Bannister (482)" [label=262]
 	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
+	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
 }

@@ -2,10 +2,10 @@
 digraph "Nicole Thompson (608)_Wright_2022" {
 	graph [label="Wright 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
-United Australia Party"]
 	"Nicole Thompson (608)" [label="Nicole Thompson (608)
 Queensland Greens"]
+	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
+United Australia Party"]
 	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
 Australian Federation Party"]
 	"Shonna-Lee Banasiak (606)" -> "Cassandra Deanne Duffill (604)" [label=357]

@@ -2,18 +2,18 @@
 digraph "Jamie Dixon (369)_Whitlam_2022" {
 	graph [label="Whitlam 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Colin Hughes (366)" [label="Colin Hughes (366)
-Pauline Hanson's One Nation"]
+	"Allan Wode (368)" [label="Allan Wode (368)
+United Australia Party"]
 	"Michael Wheeler (365)" [label="Michael Wheeler (365)
 Liberal Democrats"]
 	"Jamie Dixon (369)" [label="Jamie Dixon (369)
 The Greens"]
-	"Allan Wode (368)" [label="Allan Wode (368)
-United Australia Party"]
-	"Michael Wheeler (365)" -> "Allan Wode (368)" [label=664]
-	"Michael Wheeler (365)" -> "Colin Hughes (366)" [label=746]
+	"Colin Hughes (366)" [label="Colin Hughes (366)
+Pauline Hanson's One Nation"]
 	"Allan Wode (368)" -> "Jamie Dixon (369)" [label=806]
+	"Michael Wheeler (365)" -> "Allan Wode (368)" [label=664]
 	"Michael Wheeler (365)" -> "Jamie Dixon (369)" [label=206]
 	"Colin Hughes (366)" -> "Jamie Dixon (369)" [label=2716]
+	"Michael Wheeler (365)" -> "Colin Hughes (366)" [label=746]
 	"Allan Wode (368)" -> "Colin Hughes (366)" [label=3303]
 }

@@ -2,13 +2,13 @@
 digraph "Dawn Jecks (2722)_Brand_2016" {
 	graph [label="Brand 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
-The Greens (WA)"]
 	"Philip Scott (2720)" [label="Philip Scott (2720)
 Rise Up Australia Party"]
 	"Robert Burdett (2721)" [label="Robert Burdett (2721)
 Australian Christians"]
+	"Dawn Jecks (2722)" [label="Dawn Jecks (2722)
+The Greens (WA)"]
 	"Robert Burdett (2721)" -> "Philip Scott (2720)" [label=1267]
-	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=299]
 	"Philip Scott (2720)" -> "Dawn Jecks (2722)" [label=1469]
+	"Robert Burdett (2721)" -> "Dawn Jecks (2722)" [label=299]
 }

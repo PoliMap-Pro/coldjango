@@ -2,39 +2,39 @@
 digraph "Rhonda Pryor (995)_Maribyrnong_2022" {
 	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
-Victorian Socialists"]
 	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
 The Great Australian Party"]
-	"Darren Besanko (993)" [label="Darren Besanko (993)
-United Australia Party"]
+	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
+The Greens"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
 	"Cameron Smith (997)" [label="Cameron Smith (997)
 Liberal Democrats"]
+	"Darren Besanko (993)" [label="Darren Besanko (993)
+United Australia Party"]
 	"Jodie Tindal (992)" [label="Jodie Tindal (992)
 Pauline Hanson's One Nation"]
 	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
 Australian Federation Party"]
-	"Rhonda Pryor (995)" [label="Rhonda Pryor (995)
-The Greens"]
+	"Daniel Nair Dadich (990)" -> "Cameron Smith (997)" [label=25]
+	"Daniel Nair Dadich (990)" -> "Rhonda Pryor (995)" [label=1224]
+	"Darren Besanko (993)" -> "Rhonda Pryor (995)" [label=1464]
+	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
 	"Mark Michael Hobart (989)" -> "Cameron Smith (997)" [label=260]
+	"Alexander Anthony Ansalone (996)" -> "Rhonda Pryor (995)" [label=85]
 	"Cameron Smith (997)" -> "Rhonda Pryor (995)" [label=441]
-	"Alexander Anthony Ansalone (996)" -> "Darren Besanko (993)" [label=45]
-	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Jodie Tindal (992)" -> "Darren Besanko (993)" [label=1328]
+	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
+	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
 	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
 	"Alexander Anthony Ansalone (996)" -> "Jodie Tindal (992)" [label=48]
-	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
-	"Mark Michael Hobart (989)" -> "Rhonda Pryor (995)" [label=114]
 	"Mark Michael Hobart (989)" -> "Darren Besanko (993)" [label=469]
-	"Jodie Tindal (992)" -> "Rhonda Pryor (995)" [label=214]
-	"Daniel Nair Dadich (990)" -> "Jodie Tindal (992)" [label=55]
-	"Darren Besanko (993)" -> "Rhonda Pryor (995)" [label=1464]
-	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
-	"Jodie Tindal (992)" -> "Darren Besanko (993)" [label=1328]
-	"Alexander Anthony Ansalone (996)" -> "Rhonda Pryor (995)" [label=85]
-	"Daniel Nair Dadich (990)" -> "Cameron Smith (997)" [label=25]
-	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
-	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
-	"Daniel Nair Dadich (990)" -> "Rhonda Pryor (995)" [label=1224]
-	"Cameron Smith (997)" -> "Darren Besanko (993)" [label=2596]
 	"Daniel Nair Dadich (990)" -> "Darren Besanko (993)" [label=51]
+	"Jodie Tindal (992)" -> "Rhonda Pryor (995)" [label=214]
+	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
+	"Daniel Nair Dadich (990)" -> "Jodie Tindal (992)" [label=55]
+	"Cameron Smith (997)" -> "Darren Besanko (993)" [label=2596]
+	"Mark Michael Hobart (989)" -> "Rhonda Pryor (995)" [label=114]
+	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Alexander Anthony Ansalone (996)" -> "Darren Besanko (993)" [label=45]
 }

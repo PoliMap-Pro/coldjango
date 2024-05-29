@@ -2,18 +2,18 @@
 digraph "Natalie Abboud (765)_Calwell_2022" {
 	graph [label="Calwell 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jerome Small (768)" [label="Jerome Small (768)
+Victorian Socialists"]
 	"Mark Preston (763)" [label="Mark Preston (763)
 Pauline Hanson's One Nation"]
 	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
 Australian Federation Party"]
 	"Natalie Abboud (765)" [label="Natalie Abboud (765)
 The Greens"]
-	"Jerome Small (768)" [label="Jerome Small (768)
-Victorian Socialists"]
-	"Jerome Small (768)" -> "Mark Preston (763)" [label=323]
-	"Mark Preston (763)" -> "Natalie Abboud (765)" [label=860]
 	"Maria Bengtsson (769)" -> "Natalie Abboud (765)" [label=136]
 	"Maria Bengtsson (769)" -> "Mark Preston (763)" [label=336]
-	"Jerome Small (768)" -> "Natalie Abboud (765)" [label=1542]
+	"Mark Preston (763)" -> "Natalie Abboud (765)" [label=860]
 	"Maria Bengtsson (769)" -> "Jerome Small (768)" [label=377]
+	"Jerome Small (768)" -> "Natalie Abboud (765)" [label=1542]
+	"Jerome Small (768)" -> "Mark Preston (763)" [label=323]
 }

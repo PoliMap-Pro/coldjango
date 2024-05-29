@@ -8,7 +8,7 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
 Family First"]
+	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
 	"Philip Langfield (1287)" -> "Glenn O'Rourke (2218)" [label=927]
 	"Philip Langfield (1287)" -> "Kevin Poynter (2219)" [label=72]
-	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
 }

@@ -2,18 +2,18 @@
 digraph "Sue Weber (2421)_Petrie_2016" {
 	graph [label="Petrie 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Catherine Buckley (2418)" [label="Catherine Buckley (2418)
-Liberal Democrats"]
+	"Andrew Charles Tyrrell (2422)" [label="Andrew Charles Tyrrell (2422)
+The Arts Party"]
 	"Sue Weber (2421)" [label="Sue Weber (2421)
 The Greens"]
 	"Mark A White (2420)" [label="Mark A White (2420)
 Family First"]
-	"Andrew Charles Tyrrell (2422)" [label="Andrew Charles Tyrrell (2422)
-The Arts Party"]
+	"Catherine Buckley (2418)" [label="Catherine Buckley (2418)
+Liberal Democrats"]
 	"Andrew Charles Tyrrell (2422)" -> "Sue Weber (2421)" [label=511]
+	"Andrew Charles Tyrrell (2422)" -> "Mark A White (2420)" [label=348]
 	"Catherine Buckley (2418)" -> "Mark A White (2420)" [label=659]
 	"Andrew Charles Tyrrell (2422)" -> "Catherine Buckley (2418)" [label=120]
 	"Catherine Buckley (2418)" -> "Sue Weber (2421)" [label=295]
 	"Mark A White (2420)" -> "Sue Weber (2421)" [label=2009]
-	"Andrew Charles Tyrrell (2422)" -> "Mark A White (2420)" [label=348]
 }

@@ -4,16 +4,16 @@ digraph "Kirsten Lovejoy (2302)_Brisbane_2016" {
 	node [shape=box]
 	"Kirsten Lovejoy (2302)" [label="Kirsten Lovejoy (2302)
 The Greens"]
-	"Mark Vegar (2303)" [label="Mark Vegar (2303)
-Family First"]
 	"Bridget Clinch (2301)" [label="Bridget Clinch (2301)
 Veterans Party"]
+	"Mark Vegar (2303)" [label="Mark Vegar (2303)
+Family First"]
 	"John Humphreys (2300)" [label="John Humphreys (2300)
 Liberal Democrats"]
 	"Bridget Clinch (2301)" -> "Kirsten Lovejoy (2302)" [label=258]
-	"Bridget Clinch (2301)" -> "Mark Vegar (2303)" [label=265]
 	"Bridget Clinch (2301)" -> "John Humphreys (2300)" [label=129]
 	"Mark Vegar (2303)" -> "John Humphreys (2300)" [label=560]
 	"Mark Vegar (2303)" -> "Kirsten Lovejoy (2302)" [label=473]
 	"John Humphreys (2300)" -> "Kirsten Lovejoy (2302)" [label=561]
+	"Bridget Clinch (2301)" -> "Mark Vegar (2303)" [label=265]
 }

@@ -8,7 +8,7 @@ United Australia Party"]
 The Greens"]
 	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
 Liberal Democrats"]
-	"Gregory Emil Forster (865)" -> "Marjorie Thorpe (866)" [label=284]
 	"Jim Mcdonald (867)" -> "Marjorie Thorpe (866)" [label=336]
+	"Gregory Emil Forster (865)" -> "Marjorie Thorpe (866)" [label=284]
 	"Jim Mcdonald (867)" -> "Gregory Emil Forster (865)" [label=590]
 }

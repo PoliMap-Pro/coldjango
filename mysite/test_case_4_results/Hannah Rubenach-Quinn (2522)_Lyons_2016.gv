@@ -2,18 +2,18 @@
 digraph "Hannah Rubenach-Quinn (2522)_Lyons_2016" {
 	graph [label="Lyons 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Gene Mawer (2523)" [label="Gene Mawer (2523)
-Christian Democratic Party (Fred Nile Group)"]
-	"Hannah Rubenach-Quinn (2522)" [label="Hannah Rubenach-Quinn (2522)
-The Greens"]
 	"Shelley Shay (2520)" [label="Shelley Shay (2520)
 Australian Recreational Fishers Party"]
 	"Duncan Livingston (2521)" [label="Duncan Livingston (2521)
 Renewable Energy Party"]
-	"Gene Mawer (2523)" -> "Duncan Livingston (2521)" [label=195]
+	"Gene Mawer (2523)" [label="Gene Mawer (2523)
+Christian Democratic Party (Fred Nile Group)"]
+	"Hannah Rubenach-Quinn (2522)" [label="Hannah Rubenach-Quinn (2522)
+The Greens"]
 	"Duncan Livingston (2521)" -> "Shelley Shay (2520)" [label=763]
-	"Gene Mawer (2523)" -> "Shelley Shay (2520)" [label=213]
-	"Shelley Shay (2520)" -> "Hannah Rubenach-Quinn (2522)" [label=1247]
-	"Gene Mawer (2523)" -> "Hannah Rubenach-Quinn (2522)" [label=83]
 	"Duncan Livingston (2521)" -> "Hannah Rubenach-Quinn (2522)" [label=464]
+	"Shelley Shay (2520)" -> "Hannah Rubenach-Quinn (2522)" [label=1247]
+	"Gene Mawer (2523)" -> "Duncan Livingston (2521)" [label=195]
+	"Gene Mawer (2523)" -> "Shelley Shay (2520)" [label=213]
+	"Gene Mawer (2523)" -> "Hannah Rubenach-Quinn (2522)" [label=83]
 }

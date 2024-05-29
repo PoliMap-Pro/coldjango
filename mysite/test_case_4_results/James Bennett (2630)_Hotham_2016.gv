@@ -4,16 +4,16 @@ digraph "James Bennett (2630)_Hotham_2016" {
 	node [shape=box]
 	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
 Animal Justice Party"]
+	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
+Family First Party"]
 	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
 Rise Up Australia Party"]
 	"James Bennett (2630)" [label="James Bennett (2630)
 The Greens"]
-	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
-Family First Party"]
-	"Peter Vassiliou (2632)" -> "Helen Ann Jeges (2629)" [label=220]
-	"Peter Vassiliou (2632)" -> "James Bennett (2630)" [label=245]
 	"Tatiana Rathbone (2631)" -> "James Bennett (2630)" [label=1193]
+	"Peter Vassiliou (2632)" -> "James Bennett (2630)" [label=245]
+	"Helen Ann Jeges (2629)" -> "Tatiana Rathbone (2631)" [label=550]
+	"Peter Vassiliou (2632)" -> "Helen Ann Jeges (2629)" [label=220]
 	"Peter Vassiliou (2632)" -> "Tatiana Rathbone (2631)" [label=959]
 	"Helen Ann Jeges (2629)" -> "James Bennett (2630)" [label=1034]
-	"Helen Ann Jeges (2629)" -> "Tatiana Rathbone (2631)" [label=550]
 }

@@ -4,16 +4,16 @@ digraph "Martin Cousins (57)_Bradfield_2022" {
 	node [shape=box]
 	"Janine Kitson (58)" [label="Janine Kitson (58)
 Independent"]
-	"Martin Cousins (57)" [label="Martin Cousins (57)
-The Greens"]
 	"Michael Lowe (61)" [label="Michael Lowe (61)
 Pauline Hanson's One Nation"]
+	"Martin Cousins (57)" [label="Martin Cousins (57)
+The Greens"]
 	"Rob Fletcher (59)" [label="Rob Fletcher (59)
 United Australia Party"]
-	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
-	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
-	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
 	"Michael Lowe (61)" -> "Rob Fletcher (59)" [label=896]
-	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
+	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
+	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
+	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
+	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
 }

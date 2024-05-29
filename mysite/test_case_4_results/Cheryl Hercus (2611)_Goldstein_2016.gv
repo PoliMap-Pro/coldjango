@@ -2,18 +2,18 @@
 digraph "Cheryl Hercus (2611)_Goldstein_2016" {
 	graph [label="Goldstein 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
-Animal Justice Party"]
 	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
 The Greens"]
 	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
 Drug Law Reform"]
 	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
 Family First Party"]
-	"Trevor Bishop (2612)" -> "Cheryl Hercus (2611)" [label=228]
-	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
+	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
+Animal Justice Party"]
 	"Lee Kavanagh (2614)" -> "Cheryl Hercus (2611)" [label=556]
 	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
 	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
+	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
 	"Naren Chellappah (2613)" -> "Cheryl Hercus (2611)" [label=1827]
+	"Trevor Bishop (2612)" -> "Cheryl Hercus (2611)" [label=228]
 }

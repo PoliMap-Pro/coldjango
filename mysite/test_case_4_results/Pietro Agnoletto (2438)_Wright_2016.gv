@@ -11,9 +11,9 @@ Family First"]
 	"Mark M Stone (2442)" [label="Mark M Stone (2442)
 Liberal Democrats"]
 	"John Cox (2440)" -> "Mark M Stone (2442)" [label=76]
-	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
-	"Mark M Stone (2442)" -> "Pietro Agnoletto (2438)" [label=202]
 	"John Cox (2440)" -> "Pietro Agnoletto (2438)" [label=108]
 	"Barry Austin (2441)" -> "Pietro Agnoletto (2438)" [label=655]
 	"Mark M Stone (2442)" -> "Barry Austin (2441)" [label=441]
+	"Mark M Stone (2442)" -> "Pietro Agnoletto (2438)" [label=202]
+	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
 }

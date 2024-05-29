@@ -8,7 +8,7 @@ Christian Democratic Party (Fred Nile Group)"]
 The Arts Party"]
 	"Martine Delaney (2517)" [label="Martine Delaney (2517)
 The Greens"]
-	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
 	"George James Muskett (2518)" -> "Martine Delaney (2517)" [label=79]
+	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
 	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
 }

@@ -8,7 +8,7 @@ Independent"]
 The Greens"]
 	"Narelle Seymour (153)" [label="Narelle Seymour (153)
 Pauline Hanson's One Nation"]
+	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
 	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
 	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
-	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
 }

@@ -2,18 +2,18 @@
 digraph "Neil Cotter (579)_Rankin_2016" {
 	graph [label="Rankin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ric Davies (1627)" [label="Ric Davies (1627)
-Liberal Democrats"]
-	"Jeffrey Dale Hodges (2424)" [label="Jeffrey Dale Hodges (2424)
-Consumer Rights & No-Tolls"]
-	"Neil Cotter (579)" [label="Neil Cotter (579)
-The Greens"]
 	"Shane Holley (2423)" [label="Shane Holley (2423)
 Katter's Australian Party"]
+	"Neil Cotter (579)" [label="Neil Cotter (579)
+The Greens"]
+	"Jeffrey Dale Hodges (2424)" [label="Jeffrey Dale Hodges (2424)
+Consumer Rights & No-Tolls"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
 	"Jeffrey Dale Hodges (2424)" -> "Neil Cotter (579)" [label=324]
-	"Jeffrey Dale Hodges (2424)" -> "Ric Davies (1627)" [label=148]
-	"Ric Davies (1627)" -> "Neil Cotter (579)" [label=641]
-	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
-	"Shane Holley (2423)" -> "Neil Cotter (579)" [label=399]
 	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
+	"Shane Holley (2423)" -> "Neil Cotter (579)" [label=399]
+	"Ric Davies (1627)" -> "Neil Cotter (579)" [label=641]
+	"Jeffrey Dale Hodges (2424)" -> "Ric Davies (1627)" [label=148]
+	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
 }

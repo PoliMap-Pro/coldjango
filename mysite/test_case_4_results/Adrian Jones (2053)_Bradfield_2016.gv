@@ -2,17 +2,17 @@
 digraph "Adrian Jones (2053)_Bradfield_2016" {
 	graph [label="Bradfield 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Adrian Jones (2053)" [label="Adrian Jones (2053)
+The Greens"]
 	"Chris Vale (2055)" [label="Chris Vale (2055)
 Christian Democratic Party (Fred Nile Group)"]
 	"Christine Berman (2054)" [label="Christine Berman (2054)
 Independent"]
-	"Adrian Jones (2053)" [label="Adrian Jones (2053)
-The Greens"]
 	"Peter Kelly (1255)" [label="Peter Kelly (1255)
 Australian Liberty Alliance"]
+	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 	"Christine Berman (2054)" -> "Adrian Jones (2053)" [label=1478]
 	"Peter Kelly (1255)" -> "Adrian Jones (2053)" [label=360]
-	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 	"Chris Vale (2055)" -> "Adrian Jones (2053)" [label=198]
 	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
 	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]

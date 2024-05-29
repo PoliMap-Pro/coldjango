@@ -6,20 +6,20 @@ digraph "Peter Morris (2129)_Hunter_2016" {
 Independent"]
 	"Richard Stretton (1326)" [label="Richard Stretton (1326)
 Christian Democratic Party (Fred Nile Group)"]
-	"Peter Morris (2129)" [label="Peter Morris (2129)
-The Greens"]
-	"John Warham (2130)" [label="John Warham (2130)
-Independent"]
 	"Cordelia Troy (2131)" [label="Cordelia Troy (2131)
 Independent"]
-	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
+	"John Warham (2130)" [label="John Warham (2130)
+Independent"]
+	"Peter Morris (2129)" [label="Peter Morris (2129)
+The Greens"]
+	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
 	"Arjay Rase Martin (2128)" -> "Richard Stretton (1326)" [label=75]
+	"Arjay Rase Martin (2128)" -> "Cordelia Troy (2131)" [label=101]
 	"John Warham (2130)" -> "Peter Morris (2129)" [label=138]
-	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
+	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
+	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
 	"Arjay Rase Martin (2128)" -> "Peter Morris (2129)" [label=120]
 	"Richard Stretton (1326)" -> "Cordelia Troy (2131)" [label=687]
+	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
 	"John Warham (2130)" -> "Cordelia Troy (2131)" [label=1121]
-	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
-	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
-	"Arjay Rase Martin (2128)" -> "Cordelia Troy (2131)" [label=101]
 }

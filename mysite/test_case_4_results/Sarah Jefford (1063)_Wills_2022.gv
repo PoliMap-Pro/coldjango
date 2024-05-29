@@ -2,48 +2,48 @@
 digraph "Sarah Jefford (1063)_Wills_2022" {
 	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Bolton (1059)" [label="Sue Bolton (1059)
-Socialist Alliance"]
-	"Sarah Jefford (1063)" [label="Sarah Jefford (1063)
-The Greens"]
-	"Sam Sergi (1058)" [label="Sam Sergi (1058)
-Australian Federation Party"]
-	"Emma Black (1057)" [label="Emma Black (1057)
-Victorian Socialists"]
 	"Tom Wright (1055)" [label="Tom Wright (1055)
 Liberal"]
-	"Jill Tindal (1056)" [label="Jill Tindal (1056)
-Pauline Hanson's One Nation"]
 	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
 Animal Justice Party"]
 	"Irene Zivkovic (1060)" [label="Irene Zivkovic (1060)
 United Australia Party"]
-	"Jill Tindal (1056)" -> "Tom Wright (1055)" [label=418]
+	"Emma Black (1057)" [label="Emma Black (1057)
+Victorian Socialists"]
+	"Jill Tindal (1056)" [label="Jill Tindal (1056)
+Pauline Hanson's One Nation"]
+	"Sue Bolton (1059)" [label="Sue Bolton (1059)
+Socialist Alliance"]
+	"Sam Sergi (1058)" [label="Sam Sergi (1058)
+Australian Federation Party"]
+	"Sarah Jefford (1063)" [label="Sarah Jefford (1063)
+The Greens"]
+	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
+	"Irene Zivkovic (1060)" -> "Sarah Jefford (1063)" [label=1445]
 	"Emma Black (1057)" -> "Irene Zivkovic (1060)" [label=126]
-	"Irene Zivkovic (1060)" -> "Tom Wright (1055)" [label=3007]
+	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
+	"Leah Horsfall (1062)" -> "Tom Wright (1055)" [label=122]
+	"Jill Tindal (1056)" -> "Irene Zivkovic (1060)" [label=1810]
+	"Leah Horsfall (1062)" -> "Irene Zivkovic (1060)" [label=117]
+	"Tom Wright (1055)" -> "Sarah Jefford (1063)" [label=5289]
+	"Emma Black (1057)" -> "Sarah Jefford (1063)" [label=892]
+	"Jill Tindal (1056)" -> "Sarah Jefford (1063)" [label=117]
 	"Jill Tindal (1056)" -> "Sue Bolton (1059)" [label=150]
+	"Emma Black (1057)" -> "Tom Wright (1055)" [label=170]
+	"Sam Sergi (1058)" -> "Sarah Jefford (1063)" [label=27]
+	"Emma Black (1057)" -> "Sue Bolton (1059)" [label=1705]
+	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
+	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
+	"Irene Zivkovic (1060)" -> "Tom Wright (1055)" [label=3007]
+	"Sue Bolton (1059)" -> "Sarah Jefford (1063)" [label=3485]
+	"Sue Bolton (1059)" -> "Tom Wright (1055)" [label=248]
+	"Leah Horsfall (1062)" -> "Sarah Jefford (1063)" [label=735]
 	"Sam Sergi (1058)" -> "Sue Bolton (1059)" [label=72]
 	"Sam Sergi (1058)" -> "Tom Wright (1055)" [label=102]
 	"Leah Horsfall (1062)" -> "Sue Bolton (1059)" [label=165]
-	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
-	"Irene Zivkovic (1060)" -> "Sarah Jefford (1063)" [label=1445]
-	"Jill Tindal (1056)" -> "Irene Zivkovic (1060)" [label=1810]
-	"Sam Sergi (1058)" -> "Sarah Jefford (1063)" [label=27]
-	"Emma Black (1057)" -> "Sarah Jefford (1063)" [label=892]
-	"Jill Tindal (1056)" -> "Sarah Jefford (1063)" [label=117]
-	"Leah Horsfall (1062)" -> "Irene Zivkovic (1060)" [label=117]
-	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
-	"Emma Black (1057)" -> "Tom Wright (1055)" [label=170]
-	"Sue Bolton (1059)" -> "Tom Wright (1055)" [label=248]
-	"Sam Sergi (1058)" -> "Irene Zivkovic (1060)" [label=137]
-	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
-	"Emma Black (1057)" -> "Sue Bolton (1059)" [label=1705]
-	"Sue Bolton (1059)" -> "Sarah Jefford (1063)" [label=3485]
-	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
 	"Sue Bolton (1059)" -> "Irene Zivkovic (1060)" [label=517]
 	"Sam Sergi (1058)" -> "Emma Black (1057)" [label=82]
-	"Leah Horsfall (1062)" -> "Tom Wright (1055)" [label=122]
 	"Leah Horsfall (1062)" -> "Emma Black (1057)" [label=151]
-	"Leah Horsfall (1062)" -> "Sarah Jefford (1063)" [label=735]
-	"Tom Wright (1055)" -> "Sarah Jefford (1063)" [label=5289]
+	"Sam Sergi (1058)" -> "Irene Zivkovic (1060)" [label=137]
+	"Jill Tindal (1056)" -> "Tom Wright (1055)" [label=418]
 }

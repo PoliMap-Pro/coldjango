@@ -2,13 +2,13 @@
 digraph "Asha Worsteling (567)_Oxley_2022" {
 	graph [label="Oxley 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dylan Kozlowski (569)" [label="Dylan Kozlowski (569)
-Pauline Hanson's One Nation"]
 	"Timothy Coombes (566)" [label="Timothy Coombes (566)
 United Australia Party"]
+	"Dylan Kozlowski (569)" [label="Dylan Kozlowski (569)
+Pauline Hanson's One Nation"]
 	"Asha Worsteling (567)" [label="Asha Worsteling (567)
 Queensland Greens"]
-	"Timothy Coombes (566)" -> "Dylan Kozlowski (569)" [label=2485]
-	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
 	"Timothy Coombes (566)" -> "Asha Worsteling (567)" [label=1118]
+	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
+	"Timothy Coombes (566)" -> "Dylan Kozlowski (569)" [label=2485]
 }

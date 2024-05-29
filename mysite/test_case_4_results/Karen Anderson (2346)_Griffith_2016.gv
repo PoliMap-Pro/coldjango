@@ -2,31 +2,31 @@
 digraph "Karen Anderson (2346)_Griffith_2016" {
 	graph [label="Griffith 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Theresa Graham (2351)" [label="Theresa Graham (2351)
-Family First"]
-	"Matt Darragh (2345)" [label="Matt Darragh (2345)
-Australian Liberty Alliance"]
 	"Karen Anderson (2346)" [label="Karen Anderson (2346)
 The Greens"]
-	"John Jiggens (2350)" [label="John Jiggens (2350)
-Drug Law Reform"]
 	"Bronwyn Ablett (2347)" [label="Bronwyn Ablett (2347)
 Liberal Democrats"]
+	"Matt Darragh (2345)" [label="Matt Darragh (2345)
+Australian Liberty Alliance"]
+	"John Jiggens (2350)" [label="John Jiggens (2350)
+Drug Law Reform"]
 	"Karel Boele (2348)" [label="Karel Boele (2348)
 Independent"]
-	"Karel Boele (2348)" -> "Karen Anderson (2346)" [label=481]
-	"Karel Boele (2348)" -> "Matt Darragh (2345)" [label=242]
+	"Theresa Graham (2351)" [label="Theresa Graham (2351)
+Family First"]
 	"Matt Darragh (2345)" -> "Bronwyn Ablett (2347)" [label=457]
-	"Theresa Graham (2351)" -> "John Jiggens (2350)" [label=187]
 	"Bronwyn Ablett (2347)" -> "John Jiggens (2350)" [label=380]
-	"Theresa Graham (2351)" -> "Matt Darragh (2345)" [label=254]
-	"Theresa Graham (2351)" -> "Bronwyn Ablett (2347)" [label=91]
-	"John Jiggens (2350)" -> "Karen Anderson (2346)" [label=1397]
-	"Karel Boele (2348)" -> "Bronwyn Ablett (2347)" [label=139]
-	"Bronwyn Ablett (2347)" -> "Karen Anderson (2346)" [label=510]
-	"Theresa Graham (2351)" -> "Karen Anderson (2346)" [label=137]
+	"Karel Boele (2348)" -> "Karen Anderson (2346)" [label=481]
 	"Matt Darragh (2345)" -> "John Jiggens (2350)" [label=470]
 	"Theresa Graham (2351)" -> "Karel Boele (2348)" [label=172]
-	"Matt Darragh (2345)" -> "Karen Anderson (2346)" [label=388]
 	"Karel Boele (2348)" -> "John Jiggens (2350)" [label=263]
+	"Theresa Graham (2351)" -> "Bronwyn Ablett (2347)" [label=91]
+	"Bronwyn Ablett (2347)" -> "Karen Anderson (2346)" [label=510]
+	"John Jiggens (2350)" -> "Karen Anderson (2346)" [label=1397]
+	"Theresa Graham (2351)" -> "Matt Darragh (2345)" [label=254]
+	"Theresa Graham (2351)" -> "John Jiggens (2350)" [label=187]
+	"Matt Darragh (2345)" -> "Karen Anderson (2346)" [label=388]
+	"Karel Boele (2348)" -> "Bronwyn Ablett (2347)" [label=139]
+	"Karel Boele (2348)" -> "Matt Darragh (2345)" [label=242]
+	"Theresa Graham (2351)" -> "Karen Anderson (2346)" [label=137]
 }

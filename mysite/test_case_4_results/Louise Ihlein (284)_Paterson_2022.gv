@@ -2,18 +2,18 @@
 digraph "Louise Ihlein (284)_Paterson_2022" {
 	graph [label="Paterson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sonia Bailey (285)" [label="Sonia Bailey (285)
-Liberal Democrats"]
-	"Louise Ihlein (284)" [label="Louise Ihlein (284)
-The Greens"]
 	"Jason Mark Olbourne (286)" [label="Jason Mark Olbourne (286)
 United Australia Party"]
+	"Louise Ihlein (284)" [label="Louise Ihlein (284)
+The Greens"]
 	"Angela Ketas (283)" [label="Angela Ketas (283)
 Informed Medical Options Party"]
+	"Sonia Bailey (285)" [label="Sonia Bailey (285)
+Liberal Democrats"]
 	"Angela Ketas (283)" -> "Louise Ihlein (284)" [label=341]
-	"Sonia Bailey (285)" -> "Louise Ihlein (284)" [label=152]
 	"Sonia Bailey (285)" -> "Jason Mark Olbourne (286)" [label=380]
-	"Sonia Bailey (285)" -> "Angela Ketas (283)" [label=125]
 	"Jason Mark Olbourne (286)" -> "Louise Ihlein (284)" [label=753]
+	"Sonia Bailey (285)" -> "Louise Ihlein (284)" [label=152]
 	"Angela Ketas (283)" -> "Jason Mark Olbourne (286)" [label=596]
+	"Sonia Bailey (285)" -> "Angela Ketas (283)" [label=125]
 }

@@ -2,18 +2,18 @@
 digraph "Michael Berkman (2316)_Dickson_2016" {
 	graph [label="Dickson 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Berkman (2316)" [label="Michael Berkman (2316)
-The Greens"]
 	"Doug Nicholson (2314)" [label="Doug Nicholson (2314)
 Liberal Democrats"]
-	"Ray Hutchinson (2317)" [label="Ray Hutchinson (2317)
-Family First"]
 	"Thor Prohaska (430)" [label="Thor Prohaska (430)
 Independent"]
-	"Doug Nicholson (2314)" -> "Michael Berkman (2316)" [label=222]
+	"Michael Berkman (2316)" [label="Michael Berkman (2316)
+The Greens"]
+	"Ray Hutchinson (2317)" [label="Ray Hutchinson (2317)
+Family First"]
 	"Thor Prohaska (430)" -> "Ray Hutchinson (2317)" [label=1284]
-	"Ray Hutchinson (2317)" -> "Michael Berkman (2316)" [label=1649]
-	"Doug Nicholson (2314)" -> "Thor Prohaska (430)" [label=783]
-	"Thor Prohaska (430)" -> "Michael Berkman (2316)" [label=993]
 	"Doug Nicholson (2314)" -> "Ray Hutchinson (2317)" [label=371]
+	"Thor Prohaska (430)" -> "Michael Berkman (2316)" [label=993]
+	"Doug Nicholson (2314)" -> "Thor Prohaska (430)" [label=783]
+	"Doug Nicholson (2314)" -> "Michael Berkman (2316)" [label=222]
+	"Ray Hutchinson (2317)" -> "Michael Berkman (2316)" [label=1649]
 }

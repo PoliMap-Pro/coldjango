@@ -2,31 +2,31 @@
 digraph "Sonya Semmens (905)_Higgins_2022" {
 	graph [label="Higgins 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matthew Ford (898)" [label="Matthew Ford (898)
-Liberal Democrats"]
-	"Suzie Menoudakis (904)" [label="Suzie Menoudakis (904)
-Australian Federation Party"]
 	"Ingram Magnus Spencer (899)" [label="Ingram Magnus Spencer (899)
 United Australia Party"]
 	"Alicia Walker (900)" [label="Alicia Walker (900)
 Animal Justice Party"]
+	"Suzie Menoudakis (904)" [label="Suzie Menoudakis (904)
+Australian Federation Party"]
 	"Sonya Semmens (905)" [label="Sonya Semmens (905)
 The Greens"]
+	"Matthew Ford (898)" [label="Matthew Ford (898)
+Liberal Democrats"]
 	"Andrew Johnson (902)" [label="Andrew Johnson (902)
 Reason Australia"]
-	"Alicia Walker (900)" -> "Andrew Johnson (902)" [label=182]
-	"Ingram Magnus Spencer (899)" -> "Matthew Ford (898)" [label=1167]
-	"Suzie Menoudakis (904)" -> "Alicia Walker (900)" [label=44]
-	"Ingram Magnus Spencer (899)" -> "Sonya Semmens (905)" [label=387]
-	"Suzie Menoudakis (904)" -> "Ingram Magnus Spencer (899)" [label=98]
-	"Alicia Walker (900)" -> "Sonya Semmens (905)" [label=524]
-	"Suzie Menoudakis (904)" -> "Sonya Semmens (905)" [label=61]
-	"Suzie Menoudakis (904)" -> "Andrew Johnson (902)" [label=49]
-	"Matthew Ford (898)" -> "Sonya Semmens (905)" [label=581]
-	"Suzie Menoudakis (904)" -> "Matthew Ford (898)" [label=156]
-	"Alicia Walker (900)" -> "Matthew Ford (898)" [label=67]
-	"Andrew Johnson (902)" -> "Ingram Magnus Spencer (899)" [label=103]
 	"Alicia Walker (900)" -> "Ingram Magnus Spencer (899)" [label=136]
-	"Andrew Johnson (902)" -> "Matthew Ford (898)" [label=130]
+	"Matthew Ford (898)" -> "Sonya Semmens (905)" [label=581]
+	"Suzie Menoudakis (904)" -> "Sonya Semmens (905)" [label=61]
+	"Andrew Johnson (902)" -> "Ingram Magnus Spencer (899)" [label=103]
+	"Suzie Menoudakis (904)" -> "Andrew Johnson (902)" [label=49]
 	"Andrew Johnson (902)" -> "Sonya Semmens (905)" [label=909]
+	"Ingram Magnus Spencer (899)" -> "Sonya Semmens (905)" [label=387]
+	"Suzie Menoudakis (904)" -> "Matthew Ford (898)" [label=156]
+	"Alicia Walker (900)" -> "Andrew Johnson (902)" [label=182]
+	"Suzie Menoudakis (904)" -> "Ingram Magnus Spencer (899)" [label=98]
+	"Andrew Johnson (902)" -> "Matthew Ford (898)" [label=130]
+	"Alicia Walker (900)" -> "Sonya Semmens (905)" [label=524]
+	"Alicia Walker (900)" -> "Matthew Ford (898)" [label=67]
+	"Suzie Menoudakis (904)" -> "Alicia Walker (900)" [label=44]
+	"Ingram Magnus Spencer (899)" -> "Matthew Ford (898)" [label=1167]
 }

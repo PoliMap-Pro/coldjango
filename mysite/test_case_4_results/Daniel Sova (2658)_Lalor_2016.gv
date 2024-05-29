@@ -2,13 +2,13 @@
 digraph "Daniel Sova (2658)_Lalor_2016" {
 	graph [label="Lalor 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
+Australia First Party"]
 	"Marion Vale (2657)" [label="Marion Vale (2657)
 Rise Up Australia Party"]
 	"Daniel Sova (2658)" [label="Daniel Sova (2658)
 The Greens"]
-	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
-Australia First Party"]
-	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
-	"Marion Vale (2657)" -> "Daniel Sova (2658)" [label=1504]
 	"Susan Jakobi (1861)" -> "Marion Vale (2657)" [label=1753]
+	"Marion Vale (2657)" -> "Daniel Sova (2658)" [label=1504]
+	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
 }

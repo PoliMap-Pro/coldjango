@@ -2,8 +2,6 @@
 digraph "Emma Heyde (2047)_Berowra_2016" {
 	graph [label="Berowra 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
-Independent"]
 	"Brendan Michael Clarke (44)" [label="Brendan Michael Clarke (44)
 Science Party"]
 	"Emma Heyde (2047)" [label="Emma Heyde (2047)
@@ -12,14 +10,16 @@ The Greens"]
 Independent"]
 	"Leighton Thew (2048)" [label="Leighton Thew (2048)
 Christian Democratic Party (Fred Nile Group)"]
-	"Mick Gallagher (1235)" -> "Leighton Thew (2048)" [label=597]
-	"Roger Woodward (47)" -> "Leighton Thew (2048)" [label=59]
-	"Mick Gallagher (1235)" -> "Emma Heyde (2047)" [label=965]
+	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
+Independent"]
 	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=423]
-	"Leighton Thew (2048)" -> "Emma Heyde (2047)" [label=758]
-	"Roger Woodward (47)" -> "Emma Heyde (2047)" [label=111]
 	"Brendan Michael Clarke (44)" -> "Leighton Thew (2048)" [label=146]
 	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
-	"Brendan Michael Clarke (44)" -> "Emma Heyde (2047)" [label=739]
+	"Roger Woodward (47)" -> "Emma Heyde (2047)" [label=111]
+	"Leighton Thew (2048)" -> "Emma Heyde (2047)" [label=758]
+	"Mick Gallagher (1235)" -> "Leighton Thew (2048)" [label=597]
+	"Roger Woodward (47)" -> "Leighton Thew (2048)" [label=59]
 	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=120]
+	"Mick Gallagher (1235)" -> "Emma Heyde (2047)" [label=965]
+	"Brendan Michael Clarke (44)" -> "Emma Heyde (2047)" [label=739]
 }

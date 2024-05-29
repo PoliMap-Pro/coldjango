@@ -2,18 +2,18 @@
 digraph "Abigail Boyd (2082)_Dobell_2016" {
 	graph [label="Dobell 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
-Christian Democratic Party (Fred Nile Group)"]
-	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
-The Greens"]
 	"Paul Baker (2084)" [label="Paul Baker (2084)
 Independent"]
 	"Gregory F Stephenson (2083)" [label="Gregory F Stephenson (2083)
 Independent"]
-	"Gregory F Stephenson (2083)" -> "Abigail Boyd (2082)" [label=627]
-	"Hadden Robert Ervin (2079)" -> "Abigail Boyd (2082)" [label=134]
-	"Paul Baker (2084)" -> "Hadden Robert Ervin (2079)" [label=28]
+	"Hadden Robert Ervin (2079)" [label="Hadden Robert Ervin (2079)
+Christian Democratic Party (Fred Nile Group)"]
+	"Abigail Boyd (2082)" [label="Abigail Boyd (2082)
+The Greens"]
 	"Paul Baker (2084)" -> "Gregory F Stephenson (2083)" [label=687]
+	"Paul Baker (2084)" -> "Hadden Robert Ervin (2079)" [label=28]
 	"Paul Baker (2084)" -> "Abigail Boyd (2082)" [label=66]
+	"Gregory F Stephenson (2083)" -> "Abigail Boyd (2082)" [label=627]
 	"Gregory F Stephenson (2083)" -> "Hadden Robert Ervin (2079)" [label=187]
+	"Hadden Robert Ervin (2079)" -> "Abigail Boyd (2082)" [label=134]
 }

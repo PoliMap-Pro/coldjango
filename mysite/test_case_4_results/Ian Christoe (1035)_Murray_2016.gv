@@ -2,31 +2,31 @@
 digraph "Ian Christoe (1035)_Murray_2016" {
 	graph [label="Murray 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeff Davy (1033)" [label="Jeff Davy (1033)
-Citizens Electoral Council"]
-	"Yasmin Gunasekera (2702)" [label="Yasmin Gunasekera (2702)
-Rise Up Australia Party"]
-	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
-Independent"]
 	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
 Independent"]
+	"Yasmin Gunasekera (2702)" [label="Yasmin Gunasekera (2702)
+Rise Up Australia Party"]
 	"Andrew Bock (1909)" [label="Andrew Bock (1909)
 Independent"]
 	"Ian Christoe (1035)" [label="Ian Christoe (1035)
 The Greens"]
-	"Yasmin Gunasekera (2702)" -> "Ian Christoe (1035)" [label=60]
-	"Jeff Davy (1033)" -> "Yasmin Gunasekera (2702)" [label=14]
-	"Jeff Davy (1033)" -> "Diane Teasdale (2699)" [label=29]
-	"Nigel Hicks (1912)" -> "Andrew Bock (1909)" [label=156]
-	"Nigel Hicks (1912)" -> "Yasmin Gunasekera (2702)" [label=21]
-	"Andrew Bock (1909)" -> "Ian Christoe (1035)" [label=264]
-	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=7]
-	"Diane Teasdale (2699)" -> "Andrew Bock (1909)" [label=186]
-	"Jeff Davy (1033)" -> "Andrew Bock (1909)" [label=24]
-	"Diane Teasdale (2699)" -> "Ian Christoe (1035)" [label=44]
-	"Yasmin Gunasekera (2702)" -> "Andrew Bock (1909)" [label=153]
+	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
+Independent"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
 	"Nigel Hicks (1912)" -> "Ian Christoe (1035)" [label=42]
 	"Nigel Hicks (1912)" -> "Diane Teasdale (2699)" [label=83]
+	"Andrew Bock (1909)" -> "Ian Christoe (1035)" [label=264]
+	"Yasmin Gunasekera (2702)" -> "Andrew Bock (1909)" [label=153]
+	"Diane Teasdale (2699)" -> "Ian Christoe (1035)" [label=44]
+	"Jeff Davy (1033)" -> "Diane Teasdale (2699)" [label=29]
+	"Jeff Davy (1033)" -> "Andrew Bock (1909)" [label=24]
+	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=7]
+	"Nigel Hicks (1912)" -> "Andrew Bock (1909)" [label=156]
 	"Jeff Davy (1033)" -> "Nigel Hicks (1912)" [label=18]
+	"Jeff Davy (1033)" -> "Yasmin Gunasekera (2702)" [label=14]
+	"Nigel Hicks (1912)" -> "Yasmin Gunasekera (2702)" [label=21]
+	"Diane Teasdale (2699)" -> "Andrew Bock (1909)" [label=186]
+	"Yasmin Gunasekera (2702)" -> "Ian Christoe (1035)" [label=60]
 	"Diane Teasdale (2699)" -> "Yasmin Gunasekera (2702)" [label=169]
 }

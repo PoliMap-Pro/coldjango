@@ -2,18 +2,18 @@
 digraph "Emma Mustaca (664)_Makin_2022" {
 	graph [label="Makin 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
-Australian Federation Party"]
-	"Emma Mustaca (664)" [label="Emma Mustaca (664)
-The Greens"]
 	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
 United Australia Party"]
+	"Emma Mustaca (664)" [label="Emma Mustaca (664)
+The Greens"]
+	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
+Australian Federation Party"]
 	"Rajan Vaid (662)" [label="Rajan Vaid (662)
 Pauline Hanson's One Nation"]
 	"Abram Nicholas Lazootin (659)" -> "Emma Mustaca (664)" [label=161]
+	"Rajan Vaid (662)" -> "Emma Mustaca (664)" [label=2131]
 	"Kimberley Drozdoff (661)" -> "Rajan Vaid (662)" [label=2892]
+	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
 	"Kimberley Drozdoff (661)" -> "Emma Mustaca (664)" [label=606]
 	"Abram Nicholas Lazootin (659)" -> "Kimberley Drozdoff (661)" [label=441]
-	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
-	"Rajan Vaid (662)" -> "Emma Mustaca (664)" [label=2131]
 }

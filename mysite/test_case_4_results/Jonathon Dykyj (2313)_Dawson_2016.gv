@@ -2,13 +2,13 @@
 digraph "Jonathon Dykyj (2313)_Dawson_2016" {
 	graph [label="Dawson 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
+The Greens"]
 	"Amanda Nickson (2311)" [label="Amanda Nickson (2311)
 Family First"]
 	"Michael Hall (2308)" [label="Michael Hall (2308)
 Glenn Lazarus Team"]
-	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
-The Greens"]
+	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
 	"Amanda Nickson (2311)" -> "Jonathon Dykyj (2313)" [label=435]
 	"Michael Hall (2308)" -> "Jonathon Dykyj (2313)" [label=247]
-	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
 }

@@ -2,18 +2,18 @@
 digraph "Ken Austin (2291)_Bonner_2016" {
 	graph [label="Bonner 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ken Austin (2291)" [label="Ken Austin (2291)
-The Greens"]
-	"Jarrod John Wirth (2292)" [label="Jarrod John Wirth (2292)
-Independent"]
 	"Matthew Linney (2290)" [label="Matthew Linney (2290)
 Liberal Democrats"]
+	"Jarrod John Wirth (2292)" [label="Jarrod John Wirth (2292)
+Independent"]
 	"Andrew Broughton (2294)" [label="Andrew Broughton (2294)
 Family First"]
+	"Ken Austin (2291)" [label="Ken Austin (2291)
+The Greens"]
+	"Jarrod John Wirth (2292)" -> "Andrew Broughton (2294)" [label=633]
+	"Andrew Broughton (2294)" -> "Ken Austin (2291)" [label=1112]
+	"Jarrod John Wirth (2292)" -> "Matthew Linney (2290)" [label=368]
 	"Jarrod John Wirth (2292)" -> "Ken Austin (2291)" [label=638]
 	"Matthew Linney (2290)" -> "Andrew Broughton (2294)" [label=588]
 	"Matthew Linney (2290)" -> "Ken Austin (2291)" [label=755]
-	"Jarrod John Wirth (2292)" -> "Matthew Linney (2290)" [label=368]
-	"Jarrod John Wirth (2292)" -> "Andrew Broughton (2294)" [label=633]
-	"Andrew Broughton (2294)" -> "Ken Austin (2291)" [label=1112]
 }

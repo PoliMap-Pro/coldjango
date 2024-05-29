@@ -2,48 +2,48 @@
 digraph "Patchouli Paterson (1040)_Corangamite_2016" {
 	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
-Drug Law Reform"]
-	"Andy Meddick (2576)" [label="Andy Meddick (2576)
-Animal Justice Party"]
-	"Alan Barron (2572)" [label="Alan Barron (2572)
-Family First Party"]
-	"Patchouli Paterson (1040)" [label="Patchouli Paterson (1040)
-The Greens"]
-	"Patrice Nelson (2575)" [label="Patrice Nelson (2575)
-Derryn Hinch's Justice Party"]
-	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
-Independent"]
 	"Louis Rowe (2574)" [label="Louis Rowe (2574)
 Liberal Democrats"]
+	"Patchouli Paterson (1040)" [label="Patchouli Paterson (1040)
+The Greens"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Family First Party"]
+	"Patrice Nelson (2575)" [label="Patrice Nelson (2575)
+Derryn Hinch's Justice Party"]
 	"Nick Steel (2573)" [label="Nick Steel (2573)
 Rise Up Australia Party"]
-	"Courtney Dalton (2577)" -> "Patrice Nelson (2575)" [label=168]
-	"Courtney Dalton (2577)" -> "Andy Meddick (2576)" [label=228]
-	"Louis Rowe (2574)" -> "Alan Barron (2572)" [label=128]
-	"Patrice Nelson (2575)" -> "Patchouli Paterson (1040)" [label=1594]
-	"Michael Lawrence (2571)" -> "Patrice Nelson (2575)" [label=312]
-	"Louis Rowe (2574)" -> "Andy Meddick (2576)" [label=40]
-	"Louis Rowe (2574)" -> "Patrice Nelson (2575)" [label=89]
-	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
-	"Alan Barron (2572)" -> "Patrice Nelson (2575)" [label=990]
-	"Andy Meddick (2576)" -> "Patchouli Paterson (1040)" [label=692]
+	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
+Independent"]
+	"Andy Meddick (2576)" [label="Andy Meddick (2576)
+Animal Justice Party"]
+	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
+Drug Law Reform"]
 	"Louis Rowe (2574)" -> "Courtney Dalton (2577)" [label=72]
-	"Courtney Dalton (2577)" -> "Patchouli Paterson (1040)" [label=392]
-	"Michael Lawrence (2571)" -> "Patchouli Paterson (1040)" [label=218]
-	"Nick Steel (2573)" -> "Michael Lawrence (2571)" [label=97]
-	"Michael Lawrence (2571)" -> "Andy Meddick (2576)" [label=159]
-	"Nick Steel (2573)" -> "Patrice Nelson (2575)" [label=153]
-	"Louis Rowe (2574)" -> "Patchouli Paterson (1040)" [label=40]
-	"Alan Barron (2572)" -> "Patchouli Paterson (1040)" [label=370]
-	"Nick Steel (2573)" -> "Louis Rowe (2574)" [label=50]
-	"Nick Steel (2573)" -> "Andy Meddick (2576)" [label=43]
-	"Andy Meddick (2576)" -> "Alan Barron (2572)" [label=280]
-	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=329]
-	"Louis Rowe (2574)" -> "Michael Lawrence (2571)" [label=112]
-	"Michael Lawrence (2571)" -> "Alan Barron (2572)" [label=613]
-	"Andy Meddick (2576)" -> "Patrice Nelson (2575)" [label=463]
 	"Nick Steel (2573)" -> "Patchouli Paterson (1040)" [label=13]
+	"Louis Rowe (2574)" -> "Alan Barron (2572)" [label=128]
+	"Courtney Dalton (2577)" -> "Patchouli Paterson (1040)" [label=392]
+	"Louis Rowe (2574)" -> "Andy Meddick (2576)" [label=40]
+	"Michael Lawrence (2571)" -> "Andy Meddick (2576)" [label=159]
+	"Courtney Dalton (2577)" -> "Andy Meddick (2576)" [label=228]
 	"Courtney Dalton (2577)" -> "Alan Barron (2572)" [label=123]
+	"Nick Steel (2573)" -> "Louis Rowe (2574)" [label=50]
+	"Alan Barron (2572)" -> "Patchouli Paterson (1040)" [label=370]
+	"Andy Meddick (2576)" -> "Patchouli Paterson (1040)" [label=692]
+	"Alan Barron (2572)" -> "Patrice Nelson (2575)" [label=990]
+	"Michael Lawrence (2571)" -> "Patrice Nelson (2575)" [label=312]
 	"Courtney Dalton (2577)" -> "Michael Lawrence (2571)" [label=108]
+	"Nick Steel (2573)" -> "Patrice Nelson (2575)" [label=153]
+	"Andy Meddick (2576)" -> "Alan Barron (2572)" [label=280]
+	"Louis Rowe (2574)" -> "Patrice Nelson (2575)" [label=89]
+	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=329]
+	"Nick Steel (2573)" -> "Michael Lawrence (2571)" [label=97]
+	"Louis Rowe (2574)" -> "Patchouli Paterson (1040)" [label=40]
+	"Andy Meddick (2576)" -> "Patrice Nelson (2575)" [label=463]
+	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
+	"Courtney Dalton (2577)" -> "Patrice Nelson (2575)" [label=168]
+	"Louis Rowe (2574)" -> "Michael Lawrence (2571)" [label=112]
+	"Michael Lawrence (2571)" -> "Patchouli Paterson (1040)" [label=218]
+	"Michael Lawrence (2571)" -> "Alan Barron (2572)" [label=613]
+	"Patrice Nelson (2575)" -> "Patchouli Paterson (1040)" [label=1594]
+	"Nick Steel (2573)" -> "Andy Meddick (2576)" [label=43]
 }
