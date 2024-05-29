@@ -1,4 +1,3 @@
-import json
 from . import constants, house, people, place
 
 
@@ -54,7 +53,7 @@ def getHouseGeneralPartyPreferred(elections=None, places=None, seats=True,
     [election.highest_by_votes(
         how_many, place_set, places, result, tally_attribute, sum_booths) for
         election in house.HouseElection.get_set(elections)]
-    return json.dumps(result)
+    return result
 
 
 def addMetaParties(**meta_parties):
@@ -72,9 +71,9 @@ def addMetaParties(**meta_parties):
 
 
 def getMetaParties():
-    return json.dumps({meta_party.name: [
+    return {meta_party.name: [
         str(party) for party in meta_party.party_set.all()] for meta_party in
-        people.MetaParty.objects.all()})
+        people.MetaParty.objects.all()}
 
 
 def deleteMetaParties(*meta_parties):
