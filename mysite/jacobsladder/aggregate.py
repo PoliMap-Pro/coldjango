@@ -18,7 +18,9 @@ class Aggregator(object):
 
     def fetch_total_aggregate_version(self, place, tally_attribute,
                                       return_format=constants.NEST_FORMAT):
-        tallies = house.VoteTally.objects.filter(election=self, bypass=place)
+        tallies = house.VoteTally.objects.filter(
+            election=self, bypass=place).exclude(
+            candidate__person__name=constants.INFORMAL_VOTER_WITH_CASE)
         if tallies:
             aggregate = Aggregator.set_aggregate(tallies, tally_attribute)
             if aggregate:
