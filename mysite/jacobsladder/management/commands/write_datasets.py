@@ -7,19 +7,19 @@ class Command(BaseCommand):
     seat_attributes = ("primary_votes", "aec_ordinary", "postal_votes",
                        "declaration_pre_poll_votes", )
 
+    ALP_ABBREVIATIONS = ['ALP', ]
+    COALITION_ABBREVIATIONS = ['LNQ', 'LP', 'LNP', 'CLP', 'NP']
     GREEN_ABBREVIATIONS = ['GRN', 'GVIC', ]
     LIBERAL_ABBREVIATIONS = ['LP', 'LNQ', 'LNP', 'CLP' ]
     NATIONALS_ABBREVIATIONS = ['NP', 'LNQ', ]
-    ALP_ABBREVIATIONS = ['ALP', ]
-    COALITION_ABBREVIATIONS = ['LNQ', 'LP', 'LNP', 'CLP', 'NP']
 
     parties = {
-        "Greens": ({'abbreviation__in': GREEN_ABBREVIATIONS}, None),
-        "Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
-        "Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
         "ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
         "Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
+        "Greens": ({'abbreviation__in': GREEN_ABBREVIATIONS}, None),
         "Independents": ({'abbreviation': 'IND'}, None),
+        "Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
+        "Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
         "Other": (None, {
             'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
         "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS +
