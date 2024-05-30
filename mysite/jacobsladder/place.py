@@ -24,12 +24,8 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
     name = models.CharField(max_length=63, unique=True)
     elections = models.ManyToManyField("HouseElection", blank=True)
 
-    def ordinary_primary(self, election, party_abbreviation, sum_booths=False):
-        """
-        Supply a HouseElection.
-        Supply a party abbreviation as a string.
-        Returns the total ordinary votes for the party in the election.
-        """
+    def primary(self, election, party_abbreviation, sum_booths=False,
+                         tally_attribute='aec_ordinary'):
         representation = house.Representation.objects.get(
             election=election, party__abbreviation__iexact=party_abbreviation,
             person__candidate__contention__seat=self,
@@ -39,7 +35,16 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
         seat_wide = house.VoteTally.objects.get(
             bypass=self, election=election,
             candidate=representation.person.candidate)
-        return seat_wide.aec_ordinary
+        return getattr(seat_wide, tally_attribute)
+
+    def ordinary_primary(self, election, party_abbreviation, sum_booths=False):
+        """
+        Supply a HouseElection.
+        Supply a party abbreviation as a string.
+        Returns the total ordinary votes for the party in the election.
+        """
+        return self.primary(election, party_abbreviation, sum_booths=sum_booths,
+                            tally_attribute="aec_ordinary")
 
     def total_attribute(
             self, elect, tally_attribute, default=0, use_aggregate=True,
@@ -143,7 +148,7 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
         seat_wide = house.VoteTally.objects.get(**query_parameters)
         format.keep_query(return_format, election_result, query_parameters,
                           model=house.VoteTally)
-        return seat_wide.aec_ordinary
+        return seat_wide.aec_total
 
     def collect_vote_like(self, election, election_result, representation,
                           result, return_format, sum_booths, tally_attribute,
