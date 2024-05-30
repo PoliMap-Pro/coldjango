@@ -38,9 +38,9 @@ class Command(BaseCommand):
                     data_set_id = Command.get_data_sets(
                         data_set_id, election, key, out_lines, party,
                         party_data)
-                    with open("./jsondatasets.txt", "a") as outfile:
-                        outfile.writelines(out_lines)
-                    out_lines = []
+            with open("./jsondatasets.txt", "a") as outfile:
+                outfile.writelines(out_lines)
+            out_lines = []
 
     @staticmethod
     def get_data_sets(data_set_id, election, key, out_lines, party,
