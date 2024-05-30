@@ -1,12 +1,10 @@
 from django.core.management.base import BaseCommand
-from ... import house, place, people, service, constants, endpoints
+from ... import house, place, people, endpoints
 
 
 class Command(BaseCommand):
     help = "writes dataset json"
-    seat_attributes = ("primary_votes",
-                       "aec_ordinary",
-                       "postal_votes",
+    seat_attributes = ("primary_votes", "aec_ordinary", "postal_votes",
                        "declaration_pre_poll_votes", )
 
     GREEN_ABBREVIATIONS = ['GRN', 'GVIC', ]
@@ -22,9 +20,10 @@ class Command(BaseCommand):
         "ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
         "Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
         "Independents": ({'abbreviation': 'IND'}, None),
-        "Other": (None, {'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
-        "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS + ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
-    }
+        "Other": (None, {
+            'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
+        "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS +
+                          ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),}
 
     def handle(self, *arguments, **keywordarguments):
         data_set_id = 1006
@@ -33,48 +32,82 @@ class Command(BaseCommand):
         #for election in house.HouseElection.objects.filter(election_date__year=2022):
             for key, (yes, no) in Command.parties.items():
                 print(election.election_date.year, yes, no)
-                parties = self.get_parties(no, yes)
+                parties = Command.get_parties(no, yes)
                 if parties:
-                    party = parties[0]
-                    if yes and not no:
-                        party_data = yes
-                    else:
-                        abbr_list = []
-                        for party in parties:
-                            if party.abbreviation not in abbr_list:
-                                abbr_list.append(party.abbreviation)
-                        party_data = {'abbreviation__in': abbr_list}
-                    for tally_attr in Command.seat_attributes:
-                        data = endpoints.getHouseAttribute(
-                            elections=[election, ],
-                            parties=party_data,
-                            seats=True,
-                            tally_attribute=tally_attr)
-                        if data['series'][0]['data']:
-                            self.add_out_line(data_set_id, election, key, out_lines, party, tally_attr, "", seats_bool=True, party_data=party_data)
-                            data_set_id += 1
-                    for seat in place.Seat.objects.all():
-                        data = endpoints.getHouseAttribute(
-                            elections=[election, ],
-                            parties=party_data,
-                            places={'seat__name': seat.name},
-                            seats=False,
-                            tally_attribute="primary_votes")
-                        if data['series'][0]['data']:
-                            self.add_out_line(data_set_id, election, key, out_lines, party, "primary_votes", seat.name, seats_bool=False, party_data=party_data)
-                            data_set_id += 1
-                    data = endpoints.getHouseTwoPartyPreferred(
-                        elections=[election, ],
-                        parties=party_data,
-                        seats=True)
-                    if data['series'][0]['data']:
-                        self.add_out_line(data_set_id, election, key, out_lines, party, "tcp_votes", "", seats_bool=True, party_data=party_data)
-                        data_set_id += 1
-                    with open("./jsondatasets.txt", "w") as outfile:
+                    party, party_data = Command.get_party_data(
+                        no, parties, parties[0], yes)
+                    data_set_id = Command.seat_set(
+                        data_set_id, election, key, out_lines, party,
+                        party_data)
+                    data_set_id = Command.booth_set(
+                        data_set_id, election, key, out_lines, party,
+                        party_data)
+                    data_set_id = Command.tcp_set(
+                        data_set_id, election, key, out_lines, party,
+                        party_data)
+                    with open("./jsondatasets.txt", "a") as outfile:
                         outfile.writelines(out_lines)
                     out_lines = []
 
-    def get_parties(self, no, yes):
+    @staticmethod
+    def tcp_set(data_set_id, election, key, out_lines, party, party_data):
+        data = endpoints.getHouseTwoPartyPreferred(
+            elections=[election, ],
+            parties=party_data,
+            seats=True)
+        if data['series'][0]['data']:
+            Command.add_out_line(
+                data_set_id, election, key, out_lines, party, "tcp_votes", "",
+                seats_bool=True, party_data=party_data)
+            data_set_id += 1
+        return data_set_id
+
+    @staticmethod
+    def booth_set(data_set_id, election, key, out_lines, party, party_data):
+        for seat in place.Seat.objects.all():
+            data = endpoints.getHouseAttribute(
+                elections=[election, ],
+                parties=party_data,
+                places={'seat__name': seat.name},
+                seats=False,
+                tally_attribute="primary_votes")
+            if data['series'][0]['data']:
+                Command.add_out_line(
+                    data_set_id, election, key, out_lines, party,
+                    "primary_votes", seat.name, seats_bool=False,
+                    party_data=party_data)
+                data_set_id += 1
+        return data_set_id
+
+    @staticmethod
+    def seat_set(data_set_id, election, key, out_lines, party, party_data):
+        for tally_attr in Command.seat_attributes:
+            data = endpoints.getHouseAttribute(
+                elections=[election, ],
+                parties=party_data,
+                seats=True,
+                tally_attribute=tally_attr)
+            if data['series'][0]['data']:
+                Command.add_out_line(
+                    data_set_id, election, key, out_lines, party, tally_attr,
+                    "", seats_bool=True, party_data=party_data)
+                data_set_id += 1
+        return data_set_id
+
+    @staticmethod
+    def get_party_data(no, parties, party, yes):
+        if yes and not no:
+            party_data = yes
+        else:
+            abbr_list = []
+            for party in parties:
+                if party.abbreviation not in abbr_list:
+                    abbr_list.append(party.abbreviation)
+            party_data = {'abbreviation__in': abbr_list}
+        return party, party_data
+
+    @staticmethod
+    def get_parties(no, yes):
         if yes:
             parties = people.Party.objects.filter(**yes)
         else:
@@ -83,7 +116,9 @@ class Command(BaseCommand):
             parties = parties.exclude(**no)
         return parties
 
-    def add_out_line(self, data_set_id, election, key, out_lines, party, tally_attr, seat, seats_bool=False, party_data=""):
+    @staticmethod
+    def add_out_line(data_set_id, election, key, out_lines, party,
+                     tally_attr, seat, seats_bool=False, party_data=""):
         if seat:
             name_string = f"/{seat}"
             place_string = f" {seat}"
@@ -95,11 +130,13 @@ class Command(BaseCommand):
         out_lines.append(f"""
     {{
         "id": {data_set_id},
-        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/{key}{name_string}/CED",
+        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/
+{key}{name_string}/CED",
         "display_name": "{tally_attr} {key} (percent)",
         "type": "region",
         "level": "CED",
-        "series_name": "{election.election_date.year} {party.abbreviation}{place_string} {tally_attr}",
+        "series_name": "{election.election_date.year} {party.abbreviation}
+{place_string} {tally_attr}",
         "data": [],
         "source": {{
             "name": "AEC",
@@ -110,7 +147,8 @@ class Command(BaseCommand):
             "query_type": "elecdata",
             "query_text": {{
                 tally_attribute: {tally_attr},
-                elections: {{'election_date__year': {election.election_date.year}}},
+                elections: {{'election_date__year': 
+{election.election_date.year}}},
                 parties: {party_data},
                 seats: {seats_bool}
             }},
