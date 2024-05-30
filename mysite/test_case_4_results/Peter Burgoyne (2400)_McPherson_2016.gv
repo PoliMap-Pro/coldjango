@@ -4,11 +4,11 @@ digraph "Peter Burgoyne (2400)_McPherson_2016" {
 	node [shape=box]
 	"Rob Jones (2403)" [label="Rob Jones (2403)
 Independent"]
-	"Simon Green (2401)" [label="Simon Green (2401)
-Family First"]
 	"Peter Burgoyne (2400)" [label="Peter Burgoyne (2400)
 The Greens"]
+	"Simon Green (2401)" [label="Simon Green (2401)
+Family First"]
 	"Simon Green (2401)" -> "Peter Burgoyne (2400)" [label=2171]
-	"Rob Jones (2403)" -> "Simon Green (2401)" [label=1388]
 	"Rob Jones (2403)" -> "Peter Burgoyne (2400)" [label=738]
+	"Rob Jones (2403)" -> "Simon Green (2401)" [label=1388]
 }

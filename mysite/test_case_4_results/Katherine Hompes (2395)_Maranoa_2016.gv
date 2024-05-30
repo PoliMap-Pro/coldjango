@@ -2,13 +2,13 @@
 digraph "Katherine Hompes (2395)_Maranoa_2016" {
 	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Luke Arbuckle (2397)" [label="Luke Arbuckle (2397)
-CountryMinded"]
 	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
 Rise Up Australia Party"]
 	"Katherine Hompes (2395)" [label="Katherine Hompes (2395)
 The Greens"]
-	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
+	"Luke Arbuckle (2397)" [label="Luke Arbuckle (2397)
+CountryMinded"]
 	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 	"Sherrilyn Church (2396)" -> "Katherine Hompes (2395)" [label=96]
+	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
 }

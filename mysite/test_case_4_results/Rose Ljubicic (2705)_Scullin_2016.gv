@@ -2,13 +2,13 @@
 digraph "Rose Ljubicic (2705)_Scullin_2016" {
 	graph [label="Scullin 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"John Matlen (2703)" [label="John Matlen (2703)
+Animal Justice Party"]
 	"Adriana Buccianti (2706)" [label="Adriana Buccianti (2706)
 Drug Law Reform"]
 	"Rose Ljubicic (2705)" [label="Rose Ljubicic (2705)
 The Greens"]
-	"John Matlen (2703)" [label="John Matlen (2703)
-Animal Justice Party"]
-	"John Matlen (2703)" -> "Rose Ljubicic (2705)" [label=1754]
 	"Adriana Buccianti (2706)" -> "John Matlen (2703)" [label=1007]
 	"Adriana Buccianti (2706)" -> "Rose Ljubicic (2705)" [label=922]
+	"John Matlen (2703)" -> "Rose Ljubicic (2705)" [label=1754]
 }

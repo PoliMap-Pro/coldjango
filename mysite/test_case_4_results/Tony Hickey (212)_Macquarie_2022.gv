@@ -2,31 +2,31 @@
 digraph "Tony Hickey (212)_Macquarie_2022" {
 	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony Hickey (212)" [label="Tony Hickey (212)
-The Greens"]
-	"Michelle Palmer (213)" [label="Michelle Palmer (213)
-Informed Medical Options Party"]
 	"Tony Pettitt (207)" [label="Tony Pettitt (207)
 Pauline Hanson's One Nation"]
-	"Nicole Evans (209)" [label="Nicole Evans (209)
-United Australia Party"]
-	"Greg Keightley (211)" [label="Greg Keightley (211)
-Animal Justice Party"]
+	"Tony Hickey (212)" [label="Tony Hickey (212)
+The Greens"]
 	"James Jackson (210)" [label="James Jackson (210)
 Liberal Democrats"]
-	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
-	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
-	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
-	"Michelle Palmer (213)" -> "Tony Hickey (212)" [label=120]
-	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
-	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
+	"Nicole Evans (209)" [label="Nicole Evans (209)
+United Australia Party"]
+	"Michelle Palmer (213)" [label="Michelle Palmer (213)
+Informed Medical Options Party"]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
+	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
 	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
 	"Nicole Evans (209)" -> "Tony Hickey (212)" [label=282]
+	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
+	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
 	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
-	"James Jackson (210)" -> "Tony Hickey (212)" [label=57]
-	"Tony Pettitt (207)" -> "Tony Hickey (212)" [label=1548]
 	"Greg Keightley (211)" -> "Tony Hickey (212)" [label=879]
-	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
-	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
+	"James Jackson (210)" -> "Tony Hickey (212)" [label=57]
+	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
+	"Tony Pettitt (207)" -> "Tony Hickey (212)" [label=1548]
+	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
+	"Michelle Palmer (213)" -> "Tony Hickey (212)" [label=120]
 	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
+	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
+	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
 }

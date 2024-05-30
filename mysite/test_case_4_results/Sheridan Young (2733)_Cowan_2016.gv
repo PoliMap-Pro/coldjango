@@ -2,24 +2,24 @@
 digraph "Sheridan Young (2733)_Cowan_2016" {
 	graph [label="Cowan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sheridan Young (2733)" [label="Sheridan Young (2733)
-The Greens (WA)"]
-	"Jamie Chester (2731)" [label="Jamie Chester (2731)
-Shooters, Fishers and Farmers"]
-	"Neil Hamilton (2732)" [label="Neil Hamilton (2732)
-Liberal Democrats"]
-	"Rex Host (1976)" [label="Rex Host (1976)
-Australian Christians"]
 	"Steve Veness (2734)" [label="Steve Veness (2734)
 Mature Australia"]
-	"Steve Veness (2734)" -> "Sheridan Young (2733)" [label=133]
-	"Steve Veness (2734)" -> "Neil Hamilton (2732)" [label=78]
-	"Neil Hamilton (2732)" -> "Jamie Chester (2731)" [label=265]
-	"Rex Host (1976)" -> "Sheridan Young (2733)" [label=686]
-	"Jamie Chester (2731)" -> "Sheridan Young (2733)" [label=636]
-	"Steve Veness (2734)" -> "Jamie Chester (2731)" [label=215]
-	"Neil Hamilton (2732)" -> "Sheridan Young (2733)" [label=150]
+	"Sheridan Young (2733)" [label="Sheridan Young (2733)
+The Greens (WA)"]
+	"Neil Hamilton (2732)" [label="Neil Hamilton (2732)
+Liberal Democrats"]
+	"Jamie Chester (2731)" [label="Jamie Chester (2731)
+Shooters, Fishers and Farmers"]
+	"Rex Host (1976)" [label="Rex Host (1976)
+Australian Christians"]
 	"Neil Hamilton (2732)" -> "Rex Host (1976)" [label=129]
+	"Steve Veness (2734)" -> "Sheridan Young (2733)" [label=133]
 	"Steve Veness (2734)" -> "Rex Host (1976)" [label=183]
+	"Steve Veness (2734)" -> "Jamie Chester (2731)" [label=215]
+	"Neil Hamilton (2732)" -> "Jamie Chester (2731)" [label=265]
+	"Steve Veness (2734)" -> "Neil Hamilton (2732)" [label=78]
+	"Neil Hamilton (2732)" -> "Sheridan Young (2733)" [label=150]
+	"Jamie Chester (2731)" -> "Sheridan Young (2733)" [label=636]
+	"Rex Host (1976)" -> "Sheridan Young (2733)" [label=686]
 	"Jamie Chester (2731)" -> "Rex Host (1976)" [label=678]
 }

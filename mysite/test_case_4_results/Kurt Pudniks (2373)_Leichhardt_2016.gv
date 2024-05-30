@@ -4,29 +4,29 @@ digraph "Kurt Pudniks (2373)_Leichhardt_2016" {
 	node [shape=box]
 	"Brad Tassell (2378)" [label="Brad Tassell (2378)
 Katter's Australian Party"]
-	"Michael Newie (2377)" [label="Michael Newie (2377)
-Independent"]
-	"Kurt Pudniks (2373)" [label="Kurt Pudniks (2373)
-The Greens"]
-	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
-Family First"]
-	"John Kelly (2372)" [label="John Kelly (2372)
-Rise Up Australia Party"]
 	"Peter Leonard Rogers (2374)" [label="Peter Leonard Rogers (2374)
 Pauline Hanson's One Nation"]
-	"Michael Newie (2377)" -> "Brad Tassell (2378)" [label=87]
-	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
-	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
+	"Ned Kelly Gebadi (2376)" [label="Ned Kelly Gebadi (2376)
+Family First"]
+	"Kurt Pudniks (2373)" [label="Kurt Pudniks (2373)
+The Greens"]
+	"John Kelly (2372)" [label="John Kelly (2372)
+Rise Up Australia Party"]
+	"Michael Newie (2377)" [label="Michael Newie (2377)
+Independent"]
 	"Ned Kelly Gebadi (2376)" -> "Kurt Pudniks (2373)" [label=341]
-	"Brad Tassell (2378)" -> "Peter Leonard Rogers (2374)" [label=1145]
-	"Brad Tassell (2378)" -> "Kurt Pudniks (2373)" [label=349]
-	"Ned Kelly Gebadi (2376)" -> "Brad Tassell (2378)" [label=304]
-	"John Kelly (2372)" -> "Brad Tassell (2378)" [label=120]
+	"Michael Newie (2377)" -> "Brad Tassell (2378)" [label=87]
 	"Peter Leonard Rogers (2374)" -> "Kurt Pudniks (2373)" [label=1101]
-	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
-	"Michael Newie (2377)" -> "Peter Leonard Rogers (2374)" [label=14]
+	"Michael Newie (2377)" -> "John Kelly (2372)" [label=35]
+	"John Kelly (2372)" -> "Ned Kelly Gebadi (2376)" [label=111]
 	"Ned Kelly Gebadi (2376)" -> "Peter Leonard Rogers (2374)" [label=267]
 	"John Kelly (2372)" -> "Kurt Pudniks (2373)" [label=571]
 	"Michael Newie (2377)" -> "Kurt Pudniks (2373)" [label=35]
+	"Brad Tassell (2378)" -> "Peter Leonard Rogers (2374)" [label=1145]
+	"Ned Kelly Gebadi (2376)" -> "Brad Tassell (2378)" [label=304]
+	"Brad Tassell (2378)" -> "Kurt Pudniks (2373)" [label=349]
+	"Michael Newie (2377)" -> "Ned Kelly Gebadi (2376)" [label=141]
+	"Michael Newie (2377)" -> "Peter Leonard Rogers (2374)" [label=14]
 	"John Kelly (2372)" -> "Peter Leonard Rogers (2374)" [label=312]
+	"John Kelly (2372)" -> "Brad Tassell (2378)" [label=120]
 }

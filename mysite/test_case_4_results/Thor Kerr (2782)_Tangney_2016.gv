@@ -2,9 +2,9 @@
 digraph "Thor Kerr (2782)_Tangney_2016" {
 	graph [label="Tangney 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Wieske (2781)" [label="John Wieske (2781)
-Australian Christians"]
 	"Thor Kerr (2782)" [label="Thor Kerr (2782)
 The Greens (WA)"]
+	"John Wieske (2781)" [label="John Wieske (2781)
+Australian Christians"]
 	"John Wieske (2781)" -> "Thor Kerr (2782)" [label=235]
 }

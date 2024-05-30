@@ -8,7 +8,7 @@ The Greens"]
 Animal Justice Party"]
 	"Michael Caudre (2120)" [label="Michael Caudre (2120)
 Christian Democratic Party (Fred Nile Group)"]
-	"Michael Caudre (2120)" -> "Phil Smith (2119)" [label=664]
-	"Ellie Robertson (2118)" -> "Phil Smith (2119)" [label=1705]
 	"Ellie Robertson (2118)" -> "Michael Caudre (2120)" [label=533]
+	"Ellie Robertson (2118)" -> "Phil Smith (2119)" [label=1705]
+	"Michael Caudre (2120)" -> "Phil Smith (2119)" [label=664]
 }

@@ -4,11 +4,11 @@ digraph "Jayden Rivera (194)_Macarthur_2022" {
 	node [shape=box]
 	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
 United Australia Party"]
-	"Jayden Rivera (194)" [label="Jayden Rivera (194)
-The Greens"]
 	"Scott Korman (198)" [label="Scott Korman (198)
 Liberal Democrats"]
-	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
+	"Jayden Rivera (194)" [label="Jayden Rivera (194)
+The Greens"]
 	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
+	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
 	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
 }

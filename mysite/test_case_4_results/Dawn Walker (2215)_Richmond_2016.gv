@@ -2,18 +2,18 @@
 digraph "Dawn Walker (2215)_Richmond_2016" {
 	graph [label="Richmond 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Angela Pollard (2213)" [label="Angela Pollard (2213)
-Animal Justice Party"]
-	"Dawn Walker (2215)" [label="Dawn Walker (2215)
-The Greens"]
-	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
-Pauline Hanson's One Nation"]
 	"Russell Kilarney (2216)" [label="Russell Kilarney (2216)
 Christian Democratic Party (Fred Nile Group)"]
+	"Dawn Walker (2215)" [label="Dawn Walker (2215)
+The Greens"]
+	"Angela Pollard (2213)" [label="Angela Pollard (2213)
+Animal Justice Party"]
+	"Neil Gordon Smith (2214)" [label="Neil Gordon Smith (2214)
+Pauline Hanson's One Nation"]
 	"Neil Gordon Smith (2214)" -> "Dawn Walker (2215)" [label=1946]
-	"Russell Kilarney (2216)" -> "Dawn Walker (2215)" [label=91]
-	"Russell Kilarney (2216)" -> "Neil Gordon Smith (2214)" [label=289]
-	"Angela Pollard (2213)" -> "Neil Gordon Smith (2214)" [label=932]
-	"Russell Kilarney (2216)" -> "Angela Pollard (2213)" [label=132]
 	"Angela Pollard (2213)" -> "Dawn Walker (2215)" [label=1483]
+	"Russell Kilarney (2216)" -> "Neil Gordon Smith (2214)" [label=289]
+	"Russell Kilarney (2216)" -> "Dawn Walker (2215)" [label=91]
+	"Russell Kilarney (2216)" -> "Angela Pollard (2213)" [label=132]
+	"Angela Pollard (2213)" -> "Neil Gordon Smith (2214)" [label=932]
 }

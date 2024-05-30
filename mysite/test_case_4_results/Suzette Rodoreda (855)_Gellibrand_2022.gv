@@ -2,31 +2,31 @@
 digraph "Suzette Rodoreda (855)_Gellibrand_2022" {
 	graph [label="Gellibrand 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrew Charles (858)" [label="Andrew Charles (858)
-Victorian Socialists"]
-	"Abraham Isac (859)" [label="Abraham Isac (859)
-United Australia Party"]
-	"Sharynn Moors (857)" [label="Sharynn Moors (857)
-Australian Federation Party"]
 	"Chloe Glasson (860)" [label="Chloe Glasson (860)
 Liberal Democrats"]
-	"Rob Braddock (861)" [label="Rob Braddock (861)
-Pauline Hanson's One Nation"]
 	"Suzette Rodoreda (855)" [label="Suzette Rodoreda (855)
 The Greens"]
-	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
-	"Abraham Isac (859)" -> "Suzette Rodoreda (855)" [label=1947]
-	"Rob Braddock (861)" -> "Suzette Rodoreda (855)" [label=322]
-	"Sharynn Moors (857)" -> "Suzette Rodoreda (855)" [label=142]
-	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
-	"Chloe Glasson (860)" -> "Abraham Isac (859)" [label=573]
-	"Chloe Glasson (860)" -> "Rob Braddock (861)" [label=776]
-	"Andrew Charles (858)" -> "Rob Braddock (861)" [label=87]
+	"Abraham Isac (859)" [label="Abraham Isac (859)
+United Australia Party"]
+	"Rob Braddock (861)" [label="Rob Braddock (861)
+Pauline Hanson's One Nation"]
+	"Sharynn Moors (857)" [label="Sharynn Moors (857)
+Australian Federation Party"]
+	"Andrew Charles (858)" [label="Andrew Charles (858)
+Victorian Socialists"]
 	"Sharynn Moors (857)" -> "Abraham Isac (859)" [label=179]
-	"Andrew Charles (858)" -> "Abraham Isac (859)" [label=218]
+	"Sharynn Moors (857)" -> "Andrew Charles (858)" [label=155]
 	"Andrew Charles (858)" -> "Chloe Glasson (860)" [label=99]
+	"Chloe Glasson (860)" -> "Abraham Isac (859)" [label=573]
+	"Sharynn Moors (857)" -> "Suzette Rodoreda (855)" [label=142]
 	"Rob Braddock (861)" -> "Abraham Isac (859)" [label=2504]
+	"Chloe Glasson (860)" -> "Rob Braddock (861)" [label=776]
+	"Rob Braddock (861)" -> "Suzette Rodoreda (855)" [label=322]
+	"Sharynn Moors (857)" -> "Chloe Glasson (860)" [label=232]
 	"Chloe Glasson (860)" -> "Suzette Rodoreda (855)" [label=217]
-	"Sharynn Moors (857)" -> "Rob Braddock (861)" [label=137]
+	"Andrew Charles (858)" -> "Abraham Isac (859)" [label=218]
+	"Andrew Charles (858)" -> "Rob Braddock (861)" [label=87]
 	"Andrew Charles (858)" -> "Suzette Rodoreda (855)" [label=846]
+	"Abraham Isac (859)" -> "Suzette Rodoreda (855)" [label=1947]
+	"Sharynn Moors (857)" -> "Rob Braddock (861)" [label=137]
 }

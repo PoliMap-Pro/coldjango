@@ -2,13 +2,13 @@
 digraph "Giz Watson (1158)_O'Connor_2016" {
 	graph [label="O'Connor 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Trevor Young (2762)" [label="Trevor Young (2762)
+Australian Christians"]
 	"Giz Watson (1158)" [label="Giz Watson (1158)
 The Greens (WA)"]
 	"Stephen Carson (2764)" [label="Stephen Carson (2764)
 Rise Up Australia Party"]
-	"Trevor Young (2762)" [label="Trevor Young (2762)
-Australian Christians"]
 	"Stephen Carson (2764)" -> "Giz Watson (1158)" [label=634]
-	"Stephen Carson (2764)" -> "Trevor Young (2762)" [label=905]
 	"Trevor Young (2762)" -> "Giz Watson (1158)" [label=478]
+	"Stephen Carson (2764)" -> "Trevor Young (2762)" [label=905]
 }

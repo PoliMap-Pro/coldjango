@@ -2,18 +2,18 @@
 digraph "Ethan Hrnjak (206)_Mackellar_2022" {
 	graph [label="Mackellar 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Barry Steele (200)" [label="Barry Steele (200)
-TNL"]
-	"Darren Dickson (201)" [label="Darren Dickson (201)
-Pauline Hanson's One Nation"]
 	"Christopher Thomas Ball (205)" [label="Christopher Thomas Ball (205)
 United Australia Party"]
+	"Darren Dickson (201)" [label="Darren Dickson (201)
+Pauline Hanson's One Nation"]
 	"Ethan Hrnjak (206)" [label="Ethan Hrnjak (206)
 The Greens"]
+	"Barry Steele (200)" [label="Barry Steele (200)
+TNL"]
+	"Darren Dickson (201)" -> "Christopher Thomas Ball (205)" [label=1645]
 	"Darren Dickson (201)" -> "Ethan Hrnjak (206)" [label=95]
+	"Christopher Thomas Ball (205)" -> "Ethan Hrnjak (206)" [label=453]
 	"Barry Steele (200)" -> "Darren Dickson (201)" [label=225]
 	"Barry Steele (200)" -> "Ethan Hrnjak (206)" [label=70]
-	"Christopher Thomas Ball (205)" -> "Ethan Hrnjak (206)" [label=453]
 	"Barry Steele (200)" -> "Christopher Thomas Ball (205)" [label=34]
-	"Darren Dickson (201)" -> "Christopher Thomas Ball (205)" [label=1645]
 }

@@ -2,31 +2,31 @@
 digraph "Donna Lancaster (2674)_McMillan_2016" {
 	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Donna Lancaster (2674)" [label="Donna Lancaster (2674)
-The Greens"]
-	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
-Australian Christians"]
-	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
-Animal Justice Party"]
-	"Norman Baker (1856)" [label="Norman Baker (1856)
-Rise Up Australia Party"]
 	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
 Liberal Democrats"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
 	"Nathan Harding (2677)" [label="Nathan Harding (2677)
 Family First Party"]
-	"Kathleen Ipsen (2675)" -> "Nathan Harding (2677)" [label=874]
-	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
-	"Kathleen Ipsen (2675)" -> "Donna Lancaster (2674)" [label=100]
-	"Jennifer Mcadam (2676)" -> "Norman Baker (1856)" [label=709]
-	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
-	"Nathan Harding (2677)" -> "Donna Lancaster (2674)" [label=2207]
-	"Norman Baker (1856)" -> "Donna Lancaster (2674)" [label=631]
-	"Jennifer Mcadam (2676)" -> "Donna Lancaster (2674)" [label=965]
-	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
-	"Jim Mcdonald (867)" -> "Norman Baker (1856)" [label=251]
-	"Jennifer Mcadam (2676)" -> "Nathan Harding (2677)" [label=834]
-	"Jim Mcdonald (867)" -> "Donna Lancaster (2674)" [label=182]
+	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
+Animal Justice Party"]
+	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
+Australian Christians"]
+	"Donna Lancaster (2674)" [label="Donna Lancaster (2674)
+The Greens"]
 	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
-	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
+	"Jennifer Mcadam (2676)" -> "Norman Baker (1856)" [label=709]
 	"Norman Baker (1856)" -> "Nathan Harding (2677)" [label=2357]
+	"Jim Mcdonald (867)" -> "Norman Baker (1856)" [label=251]
+	"Kathleen Ipsen (2675)" -> "Donna Lancaster (2674)" [label=100]
+	"Jennifer Mcadam (2676)" -> "Donna Lancaster (2674)" [label=965]
+	"Jennifer Mcadam (2676)" -> "Nathan Harding (2677)" [label=834]
+	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
+	"Nathan Harding (2677)" -> "Donna Lancaster (2674)" [label=2207]
+	"Kathleen Ipsen (2675)" -> "Nathan Harding (2677)" [label=874]
+	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
+	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
+	"Norman Baker (1856)" -> "Donna Lancaster (2674)" [label=631]
+	"Jim Mcdonald (867)" -> "Donna Lancaster (2674)" [label=182]
+	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
 }

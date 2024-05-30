@@ -2,31 +2,31 @@
 digraph "Alice Barnes (2532)_Ballarat_2016" {
 	graph [label="Ballarat 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Graham Howard (2533)" [label="Graham Howard (2533)
-Family First Party"]
-	"Bren Eckel (2531)" [label="Bren Eckel (2531)
-Independent"]
 	"Dianne Colbert (2529)" [label="Dianne Colbert (2529)
 Australian Christians"]
-	"Alice Barnes (2532)" [label="Alice Barnes (2532)
-The Greens"]
-	"Paul Tatchell (2530)" [label="Paul Tatchell (2530)
-The Nationals"]
+	"Graham Howard (2533)" [label="Graham Howard (2533)
+Family First Party"]
 	"Tran Tran (2534)" [label="Tran Tran (2534)
 Rise Up Australia Party"]
-	"Bren Eckel (2531)" -> "Dianne Colbert (2529)" [label=189]
-	"Tran Tran (2534)" -> "Bren Eckel (2531)" [label=273]
-	"Dianne Colbert (2529)" -> "Alice Barnes (2532)" [label=119]
-	"Tran Tran (2534)" -> "Paul Tatchell (2530)" [label=93]
+	"Paul Tatchell (2530)" [label="Paul Tatchell (2530)
+The Nationals"]
+	"Alice Barnes (2532)" [label="Alice Barnes (2532)
+The Greens"]
+	"Bren Eckel (2531)" [label="Bren Eckel (2531)
+Independent"]
+	"Paul Tatchell (2530)" -> "Alice Barnes (2532)" [label=863]
 	"Dianne Colbert (2529)" -> "Paul Tatchell (2530)" [label=548]
-	"Tran Tran (2534)" -> "Dianne Colbert (2529)" [label=144]
-	"Graham Howard (2533)" -> "Alice Barnes (2532)" [label=645]
+	"Bren Eckel (2531)" -> "Paul Tatchell (2530)" [label=375]
+	"Tran Tran (2534)" -> "Paul Tatchell (2530)" [label=93]
 	"Tran Tran (2534)" -> "Alice Barnes (2532)" [label=55]
+	"Dianne Colbert (2529)" -> "Alice Barnes (2532)" [label=119]
+	"Tran Tran (2534)" -> "Bren Eckel (2531)" [label=273]
 	"Bren Eckel (2531)" -> "Graham Howard (2533)" [label=448]
 	"Tran Tran (2534)" -> "Graham Howard (2533)" [label=314]
-	"Bren Eckel (2531)" -> "Paul Tatchell (2530)" [label=375]
-	"Bren Eckel (2531)" -> "Alice Barnes (2532)" [label=400]
-	"Paul Tatchell (2530)" -> "Alice Barnes (2532)" [label=863]
 	"Dianne Colbert (2529)" -> "Graham Howard (2533)" [label=1171]
+	"Bren Eckel (2531)" -> "Dianne Colbert (2529)" [label=189]
+	"Tran Tran (2534)" -> "Dianne Colbert (2529)" [label=144]
 	"Graham Howard (2533)" -> "Paul Tatchell (2530)" [label=1246]
+	"Bren Eckel (2531)" -> "Alice Barnes (2532)" [label=400]
+	"Graham Howard (2533)" -> "Alice Barnes (2532)" [label=645]
 }

@@ -8,6 +8,20 @@ class Command(BaseCommand):
     help = "Calls functions in endpoints.py"
 
     def handle(self, *arguments, **keywordarguments):
+        pprint.pp(endpoints.getHouseAttribute(
+            {'election_date__year': 2022},
+            {'abbreviation__in': ('GRN', 'GVIC')},
+            {'name': 'Wills'},
+            tally_attribute="absent_votes"
+        ))
+        print()
+        pprint.pp(endpoints.getHouseAttribute(
+            {'election_date__year': 2022},
+            {'abbreviation__in': ('GRN', 'GVIC')},
+            {'name': 'Wills'},
+            tally_attribute="primary_votes"
+        ))
+        print()
         pprint.pp(endpoints.getHousePrimaryVote(
             {'election_date__year': 2022},
             {'abbreviation__in': ('GRN', 'GVIC')},

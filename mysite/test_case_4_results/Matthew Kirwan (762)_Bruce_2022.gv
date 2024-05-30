@@ -8,7 +8,7 @@ Pauline Hanson's One Nation"]
 Liberal Democrats"]
 	"Matthew Kirwan (762)" [label="Matthew Kirwan (762)
 The Greens"]
-	"Hayley Deans (759)" -> "Matthew Kirwan (762)" [label=382]
 	"Hayley Deans (759)" -> "Christine Skrobo (757)" [label=956]
+	"Hayley Deans (759)" -> "Matthew Kirwan (762)" [label=382]
 	"Christine Skrobo (757)" -> "Matthew Kirwan (762)" [label=311]
 }

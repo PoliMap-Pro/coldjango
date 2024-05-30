@@ -2,39 +2,39 @@
 digraph "Blair Mcfarland (371)_Lingiari_2022" {
 	graph [label="Lingiari 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Setford Gravener (375)" [label="Michael Setford Gravener (375)
+	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
 Independent"]
 	"Tim Gallard (377)" [label="Tim Gallard (377)
 Pauline Hanson's One Nation"]
-	"Blair Mcfarland (371)" [label="Blair Mcfarland (371)
-The Greens"]
-	"George Kasparek (378)" [label="George Kasparek (378)
-Liberal Democrats"]
-	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
+	"Michael Setford Gravener (375)" [label="Michael Setford Gravener (375)
 Independent"]
 	"Allan Mcleod (373)" [label="Allan Mcleod (373)
 United Australia Party"]
 	"Thong Sum Lee (372)" [label="Thong Sum Lee (372)
 Citizens Party"]
-	"Thong Sum Lee (372)" -> "Blair Mcfarland (371)" [label=94]
-	"Imelda Adamson Agars (376)" -> "Tim Gallard (377)" [label=31]
-	"Michael Setford Gravener (375)" -> "Allan Mcleod (373)" [label=179]
-	"Thong Sum Lee (372)" -> "Tim Gallard (377)" [label=29]
-	"George Kasparek (378)" -> "Blair Mcfarland (371)" [label=214]
-	"George Kasparek (378)" -> "Tim Gallard (377)" [label=528]
+	"George Kasparek (378)" [label="George Kasparek (378)
+Liberal Democrats"]
+	"Blair Mcfarland (371)" [label="Blair Mcfarland (371)
+The Greens"]
 	"George Kasparek (378)" -> "Allan Mcleod (373)" [label=315]
-	"Thong Sum Lee (372)" -> "George Kasparek (378)" [label=32]
-	"Imelda Adamson Agars (376)" -> "Thong Sum Lee (372)" [label=9]
-	"Imelda Adamson Agars (376)" -> "Allan Mcleod (373)" [label=15]
-	"Imelda Adamson Agars (376)" -> "George Kasparek (378)" [label=13]
-	"Thong Sum Lee (372)" -> "Michael Setford Gravener (375)" [label=86]
-	"Tim Gallard (377)" -> "Blair Mcfarland (371)" [label=1042]
-	"Michael Setford Gravener (375)" -> "Blair Mcfarland (371)" [label=320]
-	"Michael Setford Gravener (375)" -> "Tim Gallard (377)" [label=283]
-	"Allan Mcleod (373)" -> "Blair Mcfarland (371)" [label=435]
-	"Thong Sum Lee (372)" -> "Allan Mcleod (373)" [label=101]
-	"Michael Setford Gravener (375)" -> "George Kasparek (378)" [label=109]
-	"Allan Mcleod (373)" -> "Tim Gallard (377)" [label=1128]
-	"Imelda Adamson Agars (376)" -> "Blair Mcfarland (371)" [label=25]
 	"Imelda Adamson Agars (376)" -> "Michael Setford Gravener (375)" [label=277]
+	"Michael Setford Gravener (375)" -> "Tim Gallard (377)" [label=283]
+	"Imelda Adamson Agars (376)" -> "Thong Sum Lee (372)" [label=9]
+	"Thong Sum Lee (372)" -> "Tim Gallard (377)" [label=29]
+	"Imelda Adamson Agars (376)" -> "George Kasparek (378)" [label=13]
+	"Michael Setford Gravener (375)" -> "Allan Mcleod (373)" [label=179]
+	"Thong Sum Lee (372)" -> "Blair Mcfarland (371)" [label=94]
+	"Thong Sum Lee (372)" -> "Allan Mcleod (373)" [label=101]
+	"Michael Setford Gravener (375)" -> "Blair Mcfarland (371)" [label=320]
+	"Allan Mcleod (373)" -> "Blair Mcfarland (371)" [label=435]
+	"George Kasparek (378)" -> "Blair Mcfarland (371)" [label=214]
+	"Imelda Adamson Agars (376)" -> "Allan Mcleod (373)" [label=15]
+	"Thong Sum Lee (372)" -> "Michael Setford Gravener (375)" [label=86]
+	"Thong Sum Lee (372)" -> "George Kasparek (378)" [label=32]
+	"Allan Mcleod (373)" -> "Tim Gallard (377)" [label=1128]
+	"George Kasparek (378)" -> "Tim Gallard (377)" [label=528]
+	"Michael Setford Gravener (375)" -> "George Kasparek (378)" [label=109]
+	"Tim Gallard (377)" -> "Blair Mcfarland (371)" [label=1042]
+	"Imelda Adamson Agars (376)" -> "Tim Gallard (377)" [label=31]
+	"Imelda Adamson Agars (376)" -> "Blair Mcfarland (371)" [label=25]
 }

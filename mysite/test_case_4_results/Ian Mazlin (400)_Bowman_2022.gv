@@ -2,18 +2,18 @@
 digraph "Ian Mazlin (400)_Bowman_2022" {
 	graph [label="Bowman 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Walter Todd (398)" [label="Walter Todd (398)
+Pauline Hanson's One Nation"]
 	"Mary-Jane Stevens (399)" [label="Mary-Jane Stevens (399)
 United Australia Party"]
 	"Phil Johnson (402)" [label="Phil Johnson (402)
 TNL"]
-	"Walter Todd (398)" [label="Walter Todd (398)
-Pauline Hanson's One Nation"]
 	"Ian Mazlin (400)" [label="Ian Mazlin (400)
 Queensland Greens"]
-	"Mary-Jane Stevens (399)" -> "Walter Todd (398)" [label=4609]
-	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]
-	"Walter Todd (398)" -> "Ian Mazlin (400)" [label=4028]
-	"Mary-Jane Stevens (399)" -> "Ian Mazlin (400)" [label=744]
 	"Phil Johnson (402)" -> "Walter Todd (398)" [label=188]
+	"Mary-Jane Stevens (399)" -> "Ian Mazlin (400)" [label=744]
 	"Phil Johnson (402)" -> "Ian Mazlin (400)" [label=408]
+	"Mary-Jane Stevens (399)" -> "Walter Todd (398)" [label=4609]
+	"Walter Todd (398)" -> "Ian Mazlin (400)" [label=4028]
+	"Phil Johnson (402)" -> "Mary-Jane Stevens (399)" [label=157]
 }

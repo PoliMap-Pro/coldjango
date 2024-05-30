@@ -2,18 +2,18 @@
 digraph "Olivia Ball (2664)_Maribyrnong_2016" {
 	graph [label="Maribyrnong 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
-Australian Christians"]
-	"Olivia Ball (2664)" [label="Olivia Ball (2664)
-The Greens"]
 	"Catherine Cumming (2666)" [label="Catherine Cumming (2666)
 Independent"]
+	"Olivia Ball (2664)" [label="Olivia Ball (2664)
+The Greens"]
 	"Fiona Mcrostie (2667)" [label="Fiona Mcrostie (2667)
 Animal Justice Party"]
-	"Anthony O'Neill (2665)" -> "Olivia Ball (2664)" [label=118]
-	"Fiona Mcrostie (2667)" -> "Catherine Cumming (2666)" [label=923]
-	"Fiona Mcrostie (2667)" -> "Olivia Ball (2664)" [label=740]
+	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
+Australian Christians"]
 	"Anthony O'Neill (2665)" -> "Catherine Cumming (2666)" [label=406]
+	"Fiona Mcrostie (2667)" -> "Olivia Ball (2664)" [label=740]
 	"Anthony O'Neill (2665)" -> "Fiona Mcrostie (2667)" [label=151]
 	"Catherine Cumming (2666)" -> "Olivia Ball (2664)" [label=1512]
+	"Anthony O'Neill (2665)" -> "Olivia Ball (2664)" [label=118]
+	"Fiona Mcrostie (2667)" -> "Catherine Cumming (2666)" [label=923]
 }

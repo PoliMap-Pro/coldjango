@@ -8,7 +8,7 @@ Family First"]
 The Greens"]
 	"Luke Dzivinski (2480)" [label="Luke Dzivinski (2480)
 Liberal Democrats"]
-	"Luke Dzivinski (2480)" -> "Nathan Daniell (2481)" [label=126]
-	"Bruce Hicks (2483)" -> "Nathan Daniell (2481)" [label=604]
 	"Luke Dzivinski (2480)" -> "Bruce Hicks (2483)" [label=167]
+	"Bruce Hicks (2483)" -> "Nathan Daniell (2481)" [label=604]
+	"Luke Dzivinski (2480)" -> "Nathan Daniell (2481)" [label=126]
 }

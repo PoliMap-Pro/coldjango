@@ -2,24 +2,24 @@
 digraph "Neil Barker (998)_McEwen_2022" {
 	graph [label="McEwen 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
-Pauline Hanson's One Nation"]
-	"John Herron (1002)" [label="John Herron (1002)
-Liberal Democrats"]
 	"Neil Barker (998)" [label="Neil Barker (998)
 The Greens"]
-	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
-United Australia Party"]
+	"John Herron (1002)" [label="John Herron (1002)
+Liberal Democrats"]
 	"Christopher Neil (1000)" [label="Christopher Neil (1000)
 Australian Federation Party"]
-	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
-	"Christopher Neil (1000)" -> "Chris Bradbury (1001)" [label=623]
-	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
-	"Christopher Neil (1000)" -> "Paul Joseph Mcrae (999)" [label=271]
-	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
-	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
-	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
-	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
+	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
+United Australia Party"]
+	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
+Pauline Hanson's One Nation"]
 	"Paul Joseph Mcrae (999)" -> "Neil Barker (998)" [label=884]
+	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
+	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
+	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
+	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
+	"Christopher Neil (1000)" -> "Chris Bradbury (1001)" [label=623]
+	"Christopher Neil (1000)" -> "Paul Joseph Mcrae (999)" [label=271]
+	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
+	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
 	"Christopher Neil (1000)" -> "Neil Barker (998)" [label=206]
 }

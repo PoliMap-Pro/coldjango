@@ -2,58 +2,58 @@
 digraph "Jeanette Swain (2588)_Dunkley_2016" {
 	graph [label="Dunkley 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sally Baillieu (2590)" [label="Sally Baillieu (2590)
-The Arts Party"]
-	"Ruth Stanfield (2587)" [label="Ruth Stanfield (2587)
-Derryn Hinch's Justice Party"]
-	"Jeff Reaney (2595)" [label="Jeff Reaney (2595)
-Australian Christians"]
-	"Lin Tregenza (2591)" [label="Lin Tregenza (2591)
-Rise Up Australia Party"]
-	"Tim Wilms (2594)" [label="Tim Wilms (2594)
-Liberal Democrats"]
-	"Michael Rathbone (2589)" [label="Michael Rathbone (2589)
-Family First Party"]
-	"Tyson Jack (2592)" [label="Tyson Jack (2592)
-Animal Justice Party"]
-	"Jeanette Swain (2588)" [label="Jeanette Swain (2588)
-The Greens"]
 	"Joseph Toscano (2593)" [label="Joseph Toscano (2593)
 Independent"]
-	"Lin Tregenza (2591)" -> "Michael Rathbone (2589)" [label=193]
-	"Sally Baillieu (2590)" -> "Lin Tregenza (2591)" [label=23]
-	"Jeff Reaney (2595)" -> "Lin Tregenza (2591)" [label=48]
+	"Sally Baillieu (2590)" [label="Sally Baillieu (2590)
+The Arts Party"]
+	"Michael Rathbone (2589)" [label="Michael Rathbone (2589)
+Family First Party"]
+	"Tim Wilms (2594)" [label="Tim Wilms (2594)
+Liberal Democrats"]
+	"Tyson Jack (2592)" [label="Tyson Jack (2592)
+Animal Justice Party"]
+	"Lin Tregenza (2591)" [label="Lin Tregenza (2591)
+Rise Up Australia Party"]
+	"Jeanette Swain (2588)" [label="Jeanette Swain (2588)
+The Greens"]
+	"Jeff Reaney (2595)" [label="Jeff Reaney (2595)
+Australian Christians"]
+	"Ruth Stanfield (2587)" [label="Ruth Stanfield (2587)
+Derryn Hinch's Justice Party"]
 	"Jeff Reaney (2595)" -> "Joseph Toscano (2593)" [label=46]
-	"Lin Tregenza (2591)" -> "Joseph Toscano (2593)" [label=75]
+	"Sally Baillieu (2590)" -> "Jeanette Swain (2588)" [label=138]
+	"Jeff Reaney (2595)" -> "Lin Tregenza (2591)" [label=48]
 	"Lin Tregenza (2591)" -> "Tyson Jack (2592)" [label=84]
+	"Sally Baillieu (2590)" -> "Michael Rathbone (2589)" [label=42]
+	"Lin Tregenza (2591)" -> "Tim Wilms (2594)" [label=50]
+	"Tim Wilms (2594)" -> "Jeanette Swain (2588)" [label=63]
+	"Ruth Stanfield (2587)" -> "Jeanette Swain (2588)" [label=2859]
+	"Lin Tregenza (2591)" -> "Michael Rathbone (2589)" [label=193]
+	"Tim Wilms (2594)" -> "Joseph Toscano (2593)" [label=153]
 	"Tim Wilms (2594)" -> "Ruth Stanfield (2587)" [label=144]
 	"Sally Baillieu (2590)" -> "Tim Wilms (2594)" [label=8]
-	"Ruth Stanfield (2587)" -> "Jeanette Swain (2588)" [label=2859]
-	"Sally Baillieu (2590)" -> "Ruth Stanfield (2587)" [label=57]
-	"Tim Wilms (2594)" -> "Joseph Toscano (2593)" [label=153]
-	"Tim Wilms (2594)" -> "Tyson Jack (2592)" [label=98]
-	"Sally Baillieu (2590)" -> "Jeanette Swain (2588)" [label=138]
-	"Sally Baillieu (2590)" -> "Tyson Jack (2592)" [label=90]
-	"Tim Wilms (2594)" -> "Michael Rathbone (2589)" [label=250]
-	"Jeff Reaney (2595)" -> "Tim Wilms (2594)" [label=56]
-	"Tyson Jack (2592)" -> "Ruth Stanfield (2587)" [label=858]
-	"Lin Tregenza (2591)" -> "Tim Wilms (2594)" [label=50]
-	"Jeff Reaney (2595)" -> "Ruth Stanfield (2587)" [label=39]
 	"Sally Baillieu (2590)" -> "Jeff Reaney (2595)" [label=10]
-	"Michael Rathbone (2589)" -> "Ruth Stanfield (2587)" [label=601]
-	"Tyson Jack (2592)" -> "Jeanette Swain (2588)" [label=1022]
+	"Jeff Reaney (2595)" -> "Ruth Stanfield (2587)" [label=39]
+	"Lin Tregenza (2591)" -> "Ruth Stanfield (2587)" [label=202]
+	"Jeff Reaney (2595)" -> "Michael Rathbone (2589)" [label=317]
+	"Joseph Toscano (2593)" -> "Michael Rathbone (2589)" [label=145]
 	"Jeff Reaney (2595)" -> "Tyson Jack (2592)" [label=26]
-	"Tim Wilms (2594)" -> "Jeanette Swain (2588)" [label=63]
+	"Tim Wilms (2594)" -> "Tyson Jack (2592)" [label=98]
+	"Joseph Toscano (2593)" -> "Ruth Stanfield (2587)" [label=349]
+	"Sally Baillieu (2590)" -> "Lin Tregenza (2591)" [label=23]
+	"Michael Rathbone (2589)" -> "Jeanette Swain (2588)" [label=278]
+	"Lin Tregenza (2591)" -> "Jeanette Swain (2588)" [label=22]
 	"Sally Baillieu (2590)" -> "Joseph Toscano (2593)" [label=32]
 	"Jeff Reaney (2595)" -> "Jeanette Swain (2588)" [label=28]
-	"Joseph Toscano (2593)" -> "Michael Rathbone (2589)" [label=145]
-	"Joseph Toscano (2593)" -> "Ruth Stanfield (2587)" [label=349]
-	"Jeff Reaney (2595)" -> "Michael Rathbone (2589)" [label=317]
-	"Michael Rathbone (2589)" -> "Jeanette Swain (2588)" [label=278]
-	"Michael Rathbone (2589)" -> "Tyson Jack (2592)" [label=337]
-	"Lin Tregenza (2591)" -> "Ruth Stanfield (2587)" [label=202]
-	"Lin Tregenza (2591)" -> "Jeanette Swain (2588)" [label=22]
-	"Sally Baillieu (2590)" -> "Michael Rathbone (2589)" [label=42]
-	"Joseph Toscano (2593)" -> "Tyson Jack (2592)" [label=270]
+	"Tyson Jack (2592)" -> "Ruth Stanfield (2587)" [label=858]
+	"Lin Tregenza (2591)" -> "Joseph Toscano (2593)" [label=75]
 	"Joseph Toscano (2593)" -> "Jeanette Swain (2588)" [label=245]
+	"Sally Baillieu (2590)" -> "Ruth Stanfield (2587)" [label=57]
+	"Jeff Reaney (2595)" -> "Tim Wilms (2594)" [label=56]
+	"Michael Rathbone (2589)" -> "Tyson Jack (2592)" [label=337]
+	"Tim Wilms (2594)" -> "Michael Rathbone (2589)" [label=250]
+	"Sally Baillieu (2590)" -> "Tyson Jack (2592)" [label=90]
+	"Joseph Toscano (2593)" -> "Tyson Jack (2592)" [label=270]
+	"Tyson Jack (2592)" -> "Jeanette Swain (2588)" [label=1022]
+	"Michael Rathbone (2589)" -> "Ruth Stanfield (2587)" [label=601]
 }

@@ -2,18 +2,18 @@
 digraph "Renay Wells (456)_Fisher_2022" {
 	graph [label="Fisher 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Renay Wells (456)" [label="Renay Wells (456)
-Queensland Greens"]
-	"Tony Richard Moore (457)" [label="Tony Richard Moore (457)
-United Australia Party"]
 	"Vickie Breckenridge (455)" [label="Vickie Breckenridge (455)
 Animal Justice Party"]
+	"Tony Richard Moore (457)" [label="Tony Richard Moore (457)
+United Australia Party"]
 	"Sam Schriever (452)" [label="Sam Schriever (452)
 Pauline Hanson's One Nation"]
+	"Renay Wells (456)" [label="Renay Wells (456)
+Queensland Greens"]
+	"Tony Richard Moore (457)" -> "Renay Wells (456)" [label=937]
+	"Vickie Breckenridge (455)" -> "Sam Schriever (452)" [label=471]
 	"Vickie Breckenridge (455)" -> "Renay Wells (456)" [label=1324]
 	"Sam Schriever (452)" -> "Renay Wells (456)" [label=4603]
 	"Vickie Breckenridge (455)" -> "Tony Richard Moore (457)" [label=323]
-	"Vickie Breckenridge (455)" -> "Sam Schriever (452)" [label=471]
 	"Tony Richard Moore (457)" -> "Sam Schriever (452)" [label=5279]
-	"Tony Richard Moore (457)" -> "Renay Wells (456)" [label=937]
 }

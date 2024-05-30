@@ -4,10 +4,10 @@ digraph "Nathan Hunt (2066)_Cook_2016" {
 	node [shape=box]
 	"John Brett (2064)" [label="John Brett (2064)
 Independent"]
-	"George Capsis (2065)" [label="George Capsis (2065)
-Christian Democratic Party (Fred Nile Group)"]
 	"Nathan Hunt (2066)" [label="Nathan Hunt (2066)
 The Greens"]
+	"George Capsis (2065)" [label="George Capsis (2065)
+Christian Democratic Party (Fred Nile Group)"]
 	"John Brett (2064)" -> "George Capsis (2065)" [label=601]
 	"John Brett (2064)" -> "Nathan Hunt (2066)" [label=694]
 	"George Capsis (2065)" -> "Nathan Hunt (2066)" [label=696]

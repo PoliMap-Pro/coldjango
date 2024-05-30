@@ -27,10 +27,10 @@ class Pin(section.Part):
             self.__class__.update_result(result, representation, votes, total)
 
     @staticmethod
-    def update_result(result, representation, votes, total):
+    def update_result(result, representation, votes, total, decimal_places=2):
         result[str(representation.party)] = {
             constants.RETURN_VOTES: votes, constants.RETURN_PERCENTAGE:
-                100.0 * votes / total}
+                round(100.0 * votes / total, decimal_places)}
 
     @staticmethod
     def transaction_format_pieces(represen, tally_attribute, vote_like, total):

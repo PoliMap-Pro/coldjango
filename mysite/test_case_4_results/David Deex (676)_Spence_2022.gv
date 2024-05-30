@@ -4,10 +4,10 @@ digraph "David Deex (676)_Spence_2022" {
 	node [shape=box]
 	"Matilda Bawden (677)" [label="Matilda Bawden (677)
 Australian Federation Party"]
-	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
-United Australia Party"]
 	"David Deex (676)" [label="David Deex (676)
 The Greens"]
+	"Alvin Eric Warren (674)" [label="Alvin Eric Warren (674)
+United Australia Party"]
 	"Matilda Bawden (677)" -> "Alvin Eric Warren (674)" [label=383]
 	"Matilda Bawden (677)" -> "David Deex (676)" [label=320]
 	"Alvin Eric Warren (674)" -> "David Deex (676)" [label=1255]

@@ -2,39 +2,39 @@
 digraph "Brendan Sturcke (1140)_Hasluck_2022" {
 	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pauline Clark (1142)" [label="Pauline Clark (1142)
-WESTERN AUSTRALIA PARTY"]
-	"Jeanene Williams (1139)" [label="Jeanene Williams (1139)
-Independent"]
-	"Ian Monck (1143)" [label="Ian Monck (1143)
-Pauline Hanson's One Nation"]
-	"Brendan Sturcke (1140)" [label="Brendan Sturcke (1140)
-The Greens (WA)"]
-	"Will Scott (1141)" [label="Will Scott (1141)
-United Australia Party"]
 	"Steven Mccreanor (1147)" [label="Steven Mccreanor (1147)
 Liberal Democrats"]
+	"Will Scott (1141)" [label="Will Scott (1141)
+United Australia Party"]
+	"Pauline Clark (1142)" [label="Pauline Clark (1142)
+WESTERN AUSTRALIA PARTY"]
 	"Marijanna Smith (1145)" [label="Marijanna Smith (1145)
 Australian Federation Party"]
-	"Jeanene Williams (1139)" -> "Brendan Sturcke (1140)" [label=2303]
-	"Ian Monck (1143)" -> "Brendan Sturcke (1140)" [label=3115]
-	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
-	"Pauline Clark (1142)" -> "Brendan Sturcke (1140)" [label=409]
+	"Brendan Sturcke (1140)" [label="Brendan Sturcke (1140)
+The Greens (WA)"]
+	"Ian Monck (1143)" [label="Ian Monck (1143)
+Pauline Hanson's One Nation"]
+	"Jeanene Williams (1139)" [label="Jeanene Williams (1139)
+Independent"]
 	"Marijanna Smith (1145)" -> "Ian Monck (1143)" [label=517]
-	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
-	"Will Scott (1141)" -> "Brendan Sturcke (1140)" [label=401]
-	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
-	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
 	"Pauline Clark (1142)" -> "Jeanene Williams (1139)" [label=633]
-	"Marijanna Smith (1145)" -> "Brendan Sturcke (1140)" [label=200]
-	"Marijanna Smith (1145)" -> "Jeanene Williams (1139)" [label=209]
-	"Steven Mccreanor (1147)" -> "Brendan Sturcke (1140)" [label=53]
-	"Steven Mccreanor (1147)" -> "Pauline Clark (1142)" [label=95]
-	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
-	"Will Scott (1141)" -> "Jeanene Williams (1139)" [label=519]
-	"Steven Mccreanor (1147)" -> "Will Scott (1141)" [label=175]
-	"Marijanna Smith (1145)" -> "Will Scott (1141)" [label=309]
-	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
 	"Pauline Clark (1142)" -> "Ian Monck (1143)" [label=425]
+	"Jeanene Williams (1139)" -> "Brendan Sturcke (1140)" [label=2303]
+	"Will Scott (1141)" -> "Jeanene Williams (1139)" [label=519]
+	"Marijanna Smith (1145)" -> "Will Scott (1141)" [label=309]
+	"Steven Mccreanor (1147)" -> "Pauline Clark (1142)" [label=95]
+	"Steven Mccreanor (1147)" -> "Brendan Sturcke (1140)" [label=53]
+	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
+	"Marijanna Smith (1145)" -> "Brendan Sturcke (1140)" [label=200]
 	"Steven Mccreanor (1147)" -> "Jeanene Williams (1139)" [label=93]
+	"Marijanna Smith (1145)" -> "Jeanene Williams (1139)" [label=209]
+	"Will Scott (1141)" -> "Brendan Sturcke (1140)" [label=401]
+	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
+	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
+	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
+	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
+	"Ian Monck (1143)" -> "Brendan Sturcke (1140)" [label=3115]
+	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
+	"Pauline Clark (1142)" -> "Brendan Sturcke (1140)" [label=409]
+	"Steven Mccreanor (1147)" -> "Will Scott (1141)" [label=175]
 }

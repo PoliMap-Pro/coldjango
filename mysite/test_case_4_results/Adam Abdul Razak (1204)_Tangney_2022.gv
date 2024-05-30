@@ -2,39 +2,39 @@
 digraph "Adam Abdul Razak (1204)_Tangney_2022" {
 	graph [label="Tangney 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brent Fowler (1202)" [label="Brent Fowler (1202)
-Australian Federation Party"]
 	"Jay Dean Gillett (1197)" [label="Jay Dean Gillett (1197)
 WESTERN AUSTRALIA PARTY"]
+	"Brent Fowler (1202)" [label="Brent Fowler (1202)
+Australian Federation Party"]
 	"Adam Abdul Razak (1204)" [label="Adam Abdul Razak (1204)
 The Greens (WA)"]
 	"Mark Staer (1198)" [label="Mark Staer (1198)
 Australian Christians"]
-	"Jacqueline Holroyd (1203)" [label="Jacqueline Holroyd (1203)
-Liberal Democrats"]
 	"Tshung-Hui Chang (1196)" [label="Tshung-Hui Chang (1196)
 Pauline Hanson's One Nation"]
+	"Jacqueline Holroyd (1203)" [label="Jacqueline Holroyd (1203)
+Liberal Democrats"]
 	"Travis Llewellyn Mark (1199)" [label="Travis Llewellyn Mark (1199)
 United Australia Party"]
-	"Brent Fowler (1202)" -> "Travis Llewellyn Mark (1199)" [label=125]
+	"Travis Llewellyn Mark (1199)" -> "Adam Abdul Razak (1204)" [label=136]
+	"Jay Dean Gillett (1197)" -> "Mark Staer (1198)" [label=330]
+	"Tshung-Hui Chang (1196)" -> "Adam Abdul Razak (1204)" [label=1531]
+	"Brent Fowler (1202)" -> "Jay Dean Gillett (1197)" [label=129]
+	"Jacqueline Holroyd (1203)" -> "Mark Staer (1198)" [label=80]
+	"Jay Dean Gillett (1197)" -> "Tshung-Hui Chang (1196)" [label=568]
+	"Brent Fowler (1202)" -> "Adam Abdul Razak (1204)" [label=79]
+	"Brent Fowler (1202)" -> "Jacqueline Holroyd (1203)" [label=212]
 	"Jacqueline Holroyd (1203)" -> "Jay Dean Gillett (1197)" [label=155]
 	"Travis Llewellyn Mark (1199)" -> "Jay Dean Gillett (1197)" [label=254]
 	"Mark Staer (1198)" -> "Tshung-Hui Chang (1196)" [label=953]
-	"Jay Dean Gillett (1197)" -> "Tshung-Hui Chang (1196)" [label=568]
-	"Jacqueline Holroyd (1203)" -> "Tshung-Hui Chang (1196)" [label=249]
-	"Jacqueline Holroyd (1203)" -> "Mark Staer (1198)" [label=80]
-	"Brent Fowler (1202)" -> "Adam Abdul Razak (1204)" [label=79]
-	"Travis Llewellyn Mark (1199)" -> "Mark Staer (1198)" [label=199]
-	"Jay Dean Gillett (1197)" -> "Adam Abdul Razak (1204)" [label=477]
-	"Travis Llewellyn Mark (1199)" -> "Tshung-Hui Chang (1196)" [label=1146]
-	"Brent Fowler (1202)" -> "Jay Dean Gillett (1197)" [label=129]
 	"Brent Fowler (1202)" -> "Tshung-Hui Chang (1196)" [label=185]
-	"Jay Dean Gillett (1197)" -> "Mark Staer (1198)" [label=330]
-	"Jacqueline Holroyd (1203)" -> "Adam Abdul Razak (1204)" [label=162]
-	"Brent Fowler (1202)" -> "Jacqueline Holroyd (1203)" [label=212]
-	"Brent Fowler (1202)" -> "Mark Staer (1198)" [label=114]
-	"Travis Llewellyn Mark (1199)" -> "Adam Abdul Razak (1204)" [label=136]
 	"Jacqueline Holroyd (1203)" -> "Travis Llewellyn Mark (1199)" [label=231]
+	"Brent Fowler (1202)" -> "Mark Staer (1198)" [label=114]
 	"Mark Staer (1198)" -> "Adam Abdul Razak (1204)" [label=261]
-	"Tshung-Hui Chang (1196)" -> "Adam Abdul Razak (1204)" [label=1531]
+	"Jay Dean Gillett (1197)" -> "Adam Abdul Razak (1204)" [label=477]
+	"Jacqueline Holroyd (1203)" -> "Adam Abdul Razak (1204)" [label=162]
+	"Brent Fowler (1202)" -> "Travis Llewellyn Mark (1199)" [label=125]
+	"Travis Llewellyn Mark (1199)" -> "Tshung-Hui Chang (1196)" [label=1146]
+	"Jacqueline Holroyd (1203)" -> "Tshung-Hui Chang (1196)" [label=249]
+	"Travis Llewellyn Mark (1199)" -> "Mark Staer (1198)" [label=199]
 }

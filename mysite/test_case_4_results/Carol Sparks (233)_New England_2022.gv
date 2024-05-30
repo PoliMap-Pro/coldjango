@@ -8,18 +8,18 @@ United Australia Party"]
 Liberal Democrats"]
 	"Natasha Ledger (229)" [label="Natasha Ledger (229)
 Independent"]
-	"Carol Sparks (233)" [label="Carol Sparks (233)
-The Greens"]
 	"Richard Thomas (232)" [label="Richard Thomas (232)
 Pauline Hanson's One Nation"]
-	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
-	"Natasha Ledger (229)" -> "Richard Thomas (232)" [label=184]
-	"Pavlo Samios (227)" -> "Carol Sparks (233)" [label=177]
-	"Cindy Anne Duncan (228)" -> "Richard Thomas (232)" [label=878]
-	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
-	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
-	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
+	"Carol Sparks (233)" [label="Carol Sparks (233)
+The Greens"]
 	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
+	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
+	"Cindy Anne Duncan (228)" -> "Richard Thomas (232)" [label=878]
+	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
 	"Richard Thomas (232)" -> "Carol Sparks (233)" [label=573]
+	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
+	"Pavlo Samios (227)" -> "Carol Sparks (233)" [label=177]
 	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
+	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
+	"Natasha Ledger (229)" -> "Richard Thomas (232)" [label=184]
 }

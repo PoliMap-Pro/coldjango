@@ -10,10 +10,10 @@ United Australia Party"]
 The Greens"]
 	"Ben Roughley (71)" [label="Ben Roughley (71)
 Liberal Democrats"]
+	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
+	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
 	"Zvetanka Raskov (69)" -> "Sujan Selventhiran (72)" [label=718]
 	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
-	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
-	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
 	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
-	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
+	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
 }

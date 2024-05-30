@@ -148,7 +148,9 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
         seat_wide = house.VoteTally.objects.get(**query_parameters)
         format.keep_query(return_format, election_result, query_parameters,
                           model=house.VoteTally)
-        return seat_wide.aec_total
+        if tally_attribute == 'primary_votes':
+            return seat_wide.aec_total
+        return getattr(seat_wide, tally_attribute)
 
     def collect_vote_like(self, election, election_result, representation,
                           result, return_format, sum_booths, tally_attribute,

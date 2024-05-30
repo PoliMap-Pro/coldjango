@@ -4,22 +4,22 @@ digraph "Karl Attenborough (193)_Lyne_2022" {
 	node [shape=box]
 	"Joanne Pearce (186)" [label="Joanne Pearce (186)
 Independent"]
-	"Joel Putland (187)" [label="Joel Putland (187)
-United Australia Party"]
-	"Mark Hornshaw (191)" [label="Mark Hornshaw (191)
-Liberal Democrats"]
-	"Steve Attkins (190)" [label="Steve Attkins (190)
-Independent"]
 	"Karl Attenborough (193)" [label="Karl Attenborough (193)
 The Greens"]
-	"Steve Attkins (190)" -> "Karl Attenborough (193)" [label=1470]
-	"Joel Putland (187)" -> "Steve Attkins (190)" [label=596]
+	"Mark Hornshaw (191)" [label="Mark Hornshaw (191)
+Liberal Democrats"]
+	"Joel Putland (187)" [label="Joel Putland (187)
+United Australia Party"]
+	"Steve Attkins (190)" [label="Steve Attkins (190)
+Independent"]
+	"Joel Putland (187)" -> "Mark Hornshaw (191)" [label=1015]
 	"Joanne Pearce (186)" -> "Mark Hornshaw (191)" [label=107]
 	"Joel Putland (187)" -> "Karl Attenborough (193)" [label=223]
+	"Steve Attkins (190)" -> "Karl Attenborough (193)" [label=1470]
+	"Joel Putland (187)" -> "Steve Attkins (190)" [label=596]
+	"Joanne Pearce (186)" -> "Steve Attkins (190)" [label=1590]
 	"Steve Attkins (190)" -> "Mark Hornshaw (191)" [label=1079]
 	"Mark Hornshaw (191)" -> "Karl Attenborough (193)" [label=710]
-	"Joanne Pearce (186)" -> "Karl Attenborough (193)" [label=324]
-	"Joel Putland (187)" -> "Mark Hornshaw (191)" [label=1015]
 	"Joanne Pearce (186)" -> "Joel Putland (187)" [label=678]
-	"Joanne Pearce (186)" -> "Steve Attkins (190)" [label=1590]
+	"Joanne Pearce (186)" -> "Karl Attenborough (193)" [label=324]
 }

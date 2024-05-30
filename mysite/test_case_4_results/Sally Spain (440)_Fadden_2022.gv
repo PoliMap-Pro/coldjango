@@ -4,16 +4,16 @@ digraph "Sally Spain (440)_Fadden_2022" {
 	node [shape=box]
 	"Alex Forbes (441)" [label="Alex Forbes (441)
 Liberal Democrats"]
-	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
-Independent"]
 	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
 United Australia Party"]
+	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
+Independent"]
 	"Sally Spain (440)" [label="Sally Spain (440)
 Queensland Greens"]
-	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
 	"Alex Forbes (441)" -> "Sally Spain (440)" [label=406]
-	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
-	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
-	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
 	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
+	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
+	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
+	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
+	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
 }
