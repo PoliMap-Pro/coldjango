@@ -29,25 +29,31 @@ class Command(BaseCommand):
         data_set_id = 1006
         out_lines = []
         for election in house.HouseElection.objects.all():
-        #for election in house.HouseElection.objects.filter(election_date__year=2022):
             for key, (yes, no) in Command.parties.items():
                 print(election.election_date.year, yes, no)
                 parties = Command.get_parties(no, yes)
                 if parties:
                     party, party_data = Command.get_party_data(
                         no, parties, parties[0], yes)
-                    data_set_id = Command.seat_set(
-                        data_set_id, election, key, out_lines, party,
-                        party_data)
-                    data_set_id = Command.booth_set(
-                        data_set_id, election, key, out_lines, party,
-                        party_data)
-                    data_set_id = Command.tcp_set(
+                    data_set_id = Command.get_data_sets(
                         data_set_id, election, key, out_lines, party,
                         party_data)
                     with open("./jsondatasets.txt", "a") as outfile:
                         outfile.writelines(out_lines)
                     out_lines = []
+
+    @staticmethod
+    def get_data_sets(data_set_id, election, key, out_lines, party, party_data):
+        data_set_id = Command.seat_set(
+            data_set_id, election, key, out_lines, party,
+            party_data)
+        data_set_id = Command.booth_set(
+            data_set_id, election, key, out_lines, party,
+            party_data)
+        data_set_id = Command.tcp_set(
+            data_set_id, election, key, out_lines, party,
+            party_data)
+        return data_set_id
 
     @staticmethod
     def tcp_set(data_set_id, election, key, out_lines, party, party_data):
@@ -120,23 +126,18 @@ class Command(BaseCommand):
     def add_out_line(data_set_id, election, key, out_lines, party,
                      tally_attr, seat, seats_bool=False, party_data=""):
         if seat:
-            name_string = f"/{seat}"
-            place_string = f" {seat}"
+            name_string, place_string = f"/{seat}", f" {seat}"
             places_selector = f"{{'name': \"{seat}\"}}"
         else:
-            name_string = ""
-            place_string = ""
-            places_selector = ""
+            name_string, place_string, places_selector = "", "", ""
         out_lines.append(f"""
     {{
         "id": {data_set_id},
-        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/
-{key}{name_string}/CED",
+        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/{key}{name_string}/CED",
         "display_name": "{tally_attr} {key} (percent)",
         "type": "region",
         "level": "CED",
-        "series_name": "{election.election_date.year} {party.abbreviation}
-{place_string} {tally_attr}",
+        "series_name": "{election.election_date.year} {party.abbreviation}{place_string} {tally_attr}",
         "data": [],
         "source": {{
             "name": "AEC",
@@ -147,13 +148,12 @@ class Command(BaseCommand):
             "query_type": "elecdata",
             "query_text": {{
                 tally_attribute: "{tally_attr}",
-                elections: {{'election_date__year': 
-{election.election_date.year}}},
+                elections: {{'election_date__year': {election.election_date.year}}},
                 parties: {party_data},
                 seats: "{seats_bool}"
             }},
             "filter": {{
-                'places': {places_selector}
+                'places': "{places_selector}"
             }}
         }}
     }}
