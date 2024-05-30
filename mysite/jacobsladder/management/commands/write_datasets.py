@@ -43,7 +43,8 @@ class Command(BaseCommand):
                     out_lines = []
 
     @staticmethod
-    def get_data_sets(data_set_id, election, key, out_lines, party, party_data):
+    def get_data_sets(data_set_id, election, key, out_lines, party,
+                      party_data):
         data_set_id = Command.seat_set(
             data_set_id, election, key, out_lines, party,
             party_data)
