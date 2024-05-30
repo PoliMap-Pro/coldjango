@@ -26,7 +26,7 @@ class Command(BaseCommand):
                           ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),}
 
     def handle(self, *arguments, **keyword_arguments):
-        data_set_id = 1162
+        data_set_id = 1003
         out_lines = []
         for election in house.HouseElection.objects.all():
             for key, (yes, no) in Command.parties.items():
@@ -127,7 +127,7 @@ class Command(BaseCommand):
                      tally_attr, seat, seats_bool=False, party_data=""):
         if seat:
             name_string, place_string = f"/{seat}", f" {seat}"
-            places_selector = f"{{'name': \"{seat}\"}}"
+            places_selector = f"{{'name': \\\"{seat}\\\"}}"
         else:
             name_string, place_string, places_selector = "", "", ""
         out_lines.append(f"""
@@ -154,9 +154,9 @@ class Command(BaseCommand):
             }},
             "filter": {{
                 'places': "{places_selector}"
-            }}
-        }}
-    }}
+            }},
+        }},
+    }},
                                     """)
 
 
