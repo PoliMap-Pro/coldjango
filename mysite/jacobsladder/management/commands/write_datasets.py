@@ -25,7 +25,7 @@ class Command(BaseCommand):
         "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS +
                           ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),}
 
-    def handle(self, *arguments, **keywordarguments):
+    def handle(self, *arguments, **keyword_arguments):
         data_set_id = 1006
         out_lines = []
         for election in house.HouseElection.objects.all():
