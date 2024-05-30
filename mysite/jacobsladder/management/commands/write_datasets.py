@@ -26,7 +26,7 @@ class Command(BaseCommand):
                           ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),}
 
     def handle(self, *arguments, **keyword_arguments):
-        data_set_id = 1006
+        data_set_id = 1162
         out_lines = []
         for election in house.HouseElection.objects.all():
             for key, (yes, no) in Command.parties.items():
