@@ -51,10 +51,9 @@ class Command(BaseCommand):
         data_set_id = Command.booth_set(
             data_set_id, election, key, out_lines, party,
             party_data)
-        data_set_id = Command.tcp_set(
+        return Command.tcp_set(
             data_set_id, election, key, out_lines, party,
             party_data)
-        return data_set_id
 
     @staticmethod
     def tcp_set(data_set_id, election, key, out_lines, party, party_data):
