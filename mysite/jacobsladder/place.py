@@ -143,11 +143,8 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
         if sum_booths:
             return self.candidate_for(representation.person.candidate,
                                       election, tally_attribute)
-        query_parameters = {'bypass': self, 'election': election,
-                            'candidate': representation.person.candidate}
-        seat_wide = house.VoteTally.objects.get(**query_parameters)
-        format.keep_query(return_format, election_result, query_parameters,
-                          model=house.VoteTally)
+        seat_wide = self.bypass_tally(election, election_result,
+                                      representation, return_format)
         if tally_attribute == 'primary_votes':
             return seat_wide.aec_total
         return getattr(seat_wide, tally_attribute)
@@ -160,6 +157,15 @@ class Seat(abstract_models.Beacon, aggregate.Aggregator):
             return_format=return_format, election_result=election_result)
         self.format_results(representation, result, return_format,
                             tally_attribute, total, votes)
+
+    def bypass_tally(self, election, election_result, representation,
+                     return_format):
+        query_parameters = {'bypass': self, 'election': election,
+                            'candidate': representation.person.candidate}
+        seat_wide = house.VoteTally.objects.get(**query_parameters)
+        format.keep_query(return_format, election_result, query_parameters,
+                          model=house.VoteTally)
+        return seat_wide
 
     @staticmethod
     def per(callback, *arguments, **keyword_arguments):

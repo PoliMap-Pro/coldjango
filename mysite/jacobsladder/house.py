@@ -201,14 +201,13 @@ class HouseElection(abstract_models.Election, ballot.Poll):
             keep_query(return_format, elect_result, place_set)
         return elect_result, place_set
 
-    def election_place_result(self, place, representation_subset,
-                              tally_attribute, sum_booths=False,
-                              return_format=constants.NEST_FORMAT,
-                              election_result=None,
-                              name_of_informal_vote=constants.INFORMAL_VOTER,
-                              check_for_informal=False,
-                              check_contentions=False,
-                              party_multi=False):
+    def election_place_result(
+            self, place, representation_subset, tally_attribute,
+            sum_booths=False, return_format=constants.NEST_FORMAT,
+            election_result=None,
+            name_of_informal_vote=constants.INFORMAL_VOTER,
+            check_for_informal=False, check_contentions=False,
+            party_multi=False):
         result, total = HouseElection.format_return(
             election_result, return_format, self.fetch_total(
                 place, sum_booths, tally_attribute, return_format=return_format
