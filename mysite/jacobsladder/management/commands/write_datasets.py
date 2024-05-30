@@ -122,7 +122,7 @@ class Command(BaseCommand):
         if seat:
             name_string = f"/{seat}"
             place_string = f" {seat}"
-            places_selector = f"{{'name': {seat}}}"
+            places_selector = f"{{'name': \"{seat}\"}}"
         else:
             name_string = ""
             place_string = ""
@@ -146,11 +146,11 @@ class Command(BaseCommand):
         "query": {{
             "query_type": "elecdata",
             "query_text": {{
-                tally_attribute: {tally_attr},
+                tally_attribute: "{tally_attr}",
                 elections: {{'election_date__year': 
 {election.election_date.year}}},
                 parties: {party_data},
-                seats: {seats_bool}
+                seats: "{seats_bool}"
             }},
             "filter": {{
                 'places': {places_selector}
