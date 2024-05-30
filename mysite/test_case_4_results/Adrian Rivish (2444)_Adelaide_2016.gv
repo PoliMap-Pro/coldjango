@@ -8,7 +8,7 @@ Family First"]
 Animal Justice Party"]
 	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
 Liberal Democrats"]
+	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
 	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
 	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
-	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
 }

@@ -2,9 +2,9 @@
 digraph "Fiona Mcrostie (2667)_Maribyrnong_2016" {
 	graph [label="Maribyrnong 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Fiona Mcrostie (2667)" [label="Fiona Mcrostie (2667)
-Animal Justice Party"]
 	"Anthony O'Neill (2665)" [label="Anthony O'Neill (2665)
 Australian Christians"]
+	"Fiona Mcrostie (2667)" [label="Fiona Mcrostie (2667)
+Animal Justice Party"]
 	"Anthony O'Neill (2665)" -> "Fiona Mcrostie (2667)" [label=151]
 }

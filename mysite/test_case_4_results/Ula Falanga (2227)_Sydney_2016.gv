@@ -2,24 +2,24 @@
 digraph "Ula Falanga (2227)_Sydney_2016" {
 	graph [label="Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ula Falanga (2227)" [label="Ula Falanga (2227)
-Christian Democratic Party (Fred Nile Group)"]
-	"Tom Geiser (2231)" [label="Tom Geiser (2231)
-Science Party"]
 	"Kris Spike (2229)" [label="Kris Spike (2229)
 Sustainable Australia"]
-	"Peter Boyle (2233)" [label="Peter Boyle (2233)
-Socialist Alliance"]
 	"Tula Tzoras (2235)" [label="Tula Tzoras (2235)
 Online Direct Democracy - (Empowering the People!)"]
-	"Tom Geiser (2231)" -> "Ula Falanga (2227)" [label=39]
-	"Kris Spike (2229)" -> "Tom Geiser (2231)" [label=111]
+	"Tom Geiser (2231)" [label="Tom Geiser (2231)
+Science Party"]
+	"Ula Falanga (2227)" [label="Ula Falanga (2227)
+Christian Democratic Party (Fred Nile Group)"]
+	"Peter Boyle (2233)" [label="Peter Boyle (2233)
+Socialist Alliance"]
 	"Peter Boyle (2233)" -> "Kris Spike (2229)" [label=15]
-	"Tula Tzoras (2235)" -> "Peter Boyle (2233)" [label=23]
-	"Kris Spike (2229)" -> "Ula Falanga (2227)" [label=51]
-	"Peter Boyle (2233)" -> "Ula Falanga (2227)" [label=17]
-	"Tula Tzoras (2235)" -> "Ula Falanga (2227)" [label=21]
-	"Tula Tzoras (2235)" -> "Kris Spike (2229)" [label=32]
 	"Peter Boyle (2233)" -> "Tom Geiser (2231)" [label=41]
+	"Tula Tzoras (2235)" -> "Ula Falanga (2227)" [label=21]
+	"Kris Spike (2229)" -> "Ula Falanga (2227)" [label=51]
+	"Tula Tzoras (2235)" -> "Kris Spike (2229)" [label=32]
+	"Tula Tzoras (2235)" -> "Peter Boyle (2233)" [label=23]
+	"Tom Geiser (2231)" -> "Ula Falanga (2227)" [label=39]
 	"Tula Tzoras (2235)" -> "Tom Geiser (2231)" [label=53]
+	"Peter Boyle (2233)" -> "Ula Falanga (2227)" [label=17]
+	"Kris Spike (2229)" -> "Tom Geiser (2231)" [label=111]
 }

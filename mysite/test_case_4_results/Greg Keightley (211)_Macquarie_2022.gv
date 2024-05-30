@@ -2,13 +2,13 @@
 digraph "Greg Keightley (211)_Macquarie_2022" {
 	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Greg Keightley (211)" [label="Greg Keightley (211)
-Animal Justice Party"]
 	"Michelle Palmer (213)" [label="Michelle Palmer (213)
 Informed Medical Options Party"]
+	"Greg Keightley (211)" [label="Greg Keightley (211)
+Animal Justice Party"]
 	"James Jackson (210)" [label="James Jackson (210)
 Liberal Democrats"]
-	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
 	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
+	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
 	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
 }

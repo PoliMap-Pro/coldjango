@@ -2,48 +2,48 @@
 digraph "Jeremy Carter (625)_Boothby_2022" {
 	graph [label="Boothby 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Graeme Clark (626)" [label="Graeme Clark (626)
-United Australia Party"]
-	"Bob Couch (634)" [label="Bob Couch (634)
-Pauline Hanson's One Nation"]
-	"Jeremy Carter (625)" [label="Jeremy Carter (625)
-The Greens"]
-	"Paul Busuttil (629)" [label="Paul Busuttil (629)
-Independent"]
 	"Aleksandra Nikolic (628)" [label="Aleksandra Nikolic (628)
 Liberal Democrats"]
+	"Jo Dyer (632)" [label="Jo Dyer (632)
+Independent"]
+	"Paul Busuttil (629)" [label="Paul Busuttil (629)
+Independent"]
+	"Bob Couch (634)" [label="Bob Couch (634)
+Pauline Hanson's One Nation"]
+	"Graeme Clark (626)" [label="Graeme Clark (626)
+United Australia Party"]
 	"Peter Harris (627)" [label="Peter Harris (627)
 Australian Federation Party"]
 	"Frankie Bray (630)" [label="Frankie Bray (630)
 Animal Justice Party"]
-	"Jo Dyer (632)" [label="Jo Dyer (632)
-Independent"]
-	"Graeme Clark (626)" -> "Jeremy Carter (625)" [label=736]
-	"Bob Couch (634)" -> "Graeme Clark (626)" [label=1671]
-	"Frankie Bray (630)" -> "Graeme Clark (626)" [label=76]
+	"Jeremy Carter (625)" [label="Jeremy Carter (625)
+The Greens"]
 	"Paul Busuttil (629)" -> "Aleksandra Nikolic (628)" [label=231]
-	"Aleksandra Nikolic (628)" -> "Jo Dyer (632)" [label=135]
-	"Aleksandra Nikolic (628)" -> "Bob Couch (634)" [label=382]
-	"Peter Harris (627)" -> "Aleksandra Nikolic (628)" [label=108]
-	"Paul Busuttil (629)" -> "Graeme Clark (626)" [label=116]
-	"Paul Busuttil (629)" -> "Jo Dyer (632)" [label=313]
 	"Aleksandra Nikolic (628)" -> "Jeremy Carter (625)" [label=198]
+	"Graeme Clark (626)" -> "Jeremy Carter (625)" [label=736]
+	"Peter Harris (627)" -> "Bob Couch (634)" [label=104]
+	"Paul Busuttil (629)" -> "Frankie Bray (630)" [label=69]
+	"Graeme Clark (626)" -> "Jo Dyer (632)" [label=1943]
 	"Peter Harris (627)" -> "Jeremy Carter (625)" [label=41]
+	"Frankie Bray (630)" -> "Jo Dyer (632)" [label=245]
+	"Paul Busuttil (629)" -> "Bob Couch (634)" [label=156]
+	"Frankie Bray (630)" -> "Bob Couch (634)" [label=90]
+	"Frankie Bray (630)" -> "Jeremy Carter (625)" [label=586]
 	"Peter Harris (627)" -> "Jo Dyer (632)" [label=22]
-	"Aleksandra Nikolic (628)" -> "Graeme Clark (626)" [label=312]
+	"Aleksandra Nikolic (628)" -> "Jo Dyer (632)" [label=135]
+	"Bob Couch (634)" -> "Jeremy Carter (625)" [label=181]
 	"Peter Harris (627)" -> "Paul Busuttil (629)" [label=58]
+	"Jo Dyer (632)" -> "Jeremy Carter (625)" [label=5448]
+	"Paul Busuttil (629)" -> "Jeremy Carter (625)" [label=94]
+	"Peter Harris (627)" -> "Aleksandra Nikolic (628)" [label=108]
+	"Aleksandra Nikolic (628)" -> "Bob Couch (634)" [label=382]
+	"Paul Busuttil (629)" -> "Graeme Clark (626)" [label=116]
 	"Bob Couch (634)" -> "Jo Dyer (632)" [label=539]
+	"Peter Harris (627)" -> "Graeme Clark (626)" [label=122]
+	"Frankie Bray (630)" -> "Graeme Clark (626)" [label=76]
+	"Bob Couch (634)" -> "Graeme Clark (626)" [label=1671]
 	"Frankie Bray (630)" -> "Aleksandra Nikolic (628)" [label=52]
 	"Peter Harris (627)" -> "Frankie Bray (630)" [label=17]
-	"Paul Busuttil (629)" -> "Frankie Bray (630)" [label=69]
-	"Peter Harris (627)" -> "Bob Couch (634)" [label=104]
-	"Peter Harris (627)" -> "Graeme Clark (626)" [label=122]
-	"Frankie Bray (630)" -> "Bob Couch (634)" [label=90]
-	"Paul Busuttil (629)" -> "Jeremy Carter (625)" [label=94]
-	"Jo Dyer (632)" -> "Jeremy Carter (625)" [label=5448]
-	"Graeme Clark (626)" -> "Jo Dyer (632)" [label=1943]
-	"Frankie Bray (630)" -> "Jeremy Carter (625)" [label=586]
-	"Paul Busuttil (629)" -> "Bob Couch (634)" [label=156]
-	"Frankie Bray (630)" -> "Jo Dyer (632)" [label=245]
-	"Bob Couch (634)" -> "Jeremy Carter (625)" [label=181]
+	"Aleksandra Nikolic (628)" -> "Graeme Clark (626)" [label=312]
+	"Paul Busuttil (629)" -> "Jo Dyer (632)" [label=313]
 }

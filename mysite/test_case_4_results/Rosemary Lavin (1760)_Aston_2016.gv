@@ -8,7 +8,7 @@ Animal Justice Party"]
 Independent"]
 	"Joel Moore (2527)" [label="Joel Moore (2527)
 Liberal Democrats"]
-	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
-	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
 	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
+	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
+	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
 }

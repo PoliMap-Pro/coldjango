@@ -2,39 +2,39 @@
 digraph "Rebecca Fanning (528)_Longman_2022" {
 	graph [label="Longman 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Earl Snijders (531)" [label="Earl Snijders (531)
-Queensland Greens"]
-	"Jens Lipponer (533)" [label="Jens Lipponer (533)
-Liberal Democrats"]
-	"Nigel David Quinlan (530)" [label="Nigel David Quinlan (530)
-Legalise Cannabis Australia"]
-	"Paula Gilbard (534)" [label="Paula Gilbard (534)
-Animal Justice Party"]
-	"Rebecca Fanning (528)" [label="Rebecca Fanning (528)
-Australian Labor Party"]
 	"Ross Taylor (532)" [label="Ross Taylor (532)
 Pauline Hanson's One Nation"]
+	"Earl Snijders (531)" [label="Earl Snijders (531)
+Queensland Greens"]
 	"Stefanie Alexis Sutherland (529)" [label="Stefanie Alexis Sutherland (529)
 United Australia Party"]
-	"Earl Snijders (531)" -> "Rebecca Fanning (528)" [label=7326]
-	"Earl Snijders (531)" -> "Ross Taylor (532)" [label=2450]
-	"Jens Lipponer (533)" -> "Earl Snijders (531)" [label=88]
-	"Jens Lipponer (533)" -> "Nigel David Quinlan (530)" [label=127]
-	"Jens Lipponer (533)" -> "Paula Gilbard (534)" [label=169]
-	"Jens Lipponer (533)" -> "Rebecca Fanning (528)" [label=208]
-	"Jens Lipponer (533)" -> "Ross Taylor (532)" [label=447]
-	"Jens Lipponer (533)" -> "Stefanie Alexis Sutherland (529)" [label=326]
-	"Nigel David Quinlan (530)" -> "Earl Snijders (531)" [label=2677]
-	"Nigel David Quinlan (530)" -> "Rebecca Fanning (528)" [label=1653]
+	"Nigel David Quinlan (530)" [label="Nigel David Quinlan (530)
+Legalise Cannabis Australia"]
+	"Rebecca Fanning (528)" [label="Rebecca Fanning (528)
+Australian Labor Party"]
+	"Jens Lipponer (533)" [label="Jens Lipponer (533)
+Liberal Democrats"]
+	"Paula Gilbard (534)" [label="Paula Gilbard (534)
+Animal Justice Party"]
 	"Nigel David Quinlan (530)" -> "Ross Taylor (532)" [label=2490]
 	"Paula Gilbard (534)" -> "Earl Snijders (531)" [label=553]
+	"Jens Lipponer (533)" -> "Rebecca Fanning (528)" [label=208]
 	"Paula Gilbard (534)" -> "Nigel David Quinlan (530)" [label=640]
-	"Paula Gilbard (534)" -> "Rebecca Fanning (528)" [label=263]
-	"Paula Gilbard (534)" -> "Ross Taylor (532)" [label=325]
-	"Paula Gilbard (534)" -> "Stefanie Alexis Sutherland (529)" [label=113]
 	"Ross Taylor (532)" -> "Rebecca Fanning (528)" [label=6534]
+	"Jens Lipponer (533)" -> "Earl Snijders (531)" [label=88]
 	"Stefanie Alexis Sutherland (529)" -> "Earl Snijders (531)" [label=374]
+	"Earl Snijders (531)" -> "Ross Taylor (532)" [label=2450]
+	"Jens Lipponer (533)" -> "Ross Taylor (532)" [label=447]
+	"Paula Gilbard (534)" -> "Rebecca Fanning (528)" [label=263]
 	"Stefanie Alexis Sutherland (529)" -> "Nigel David Quinlan (530)" [label=1033]
+	"Jens Lipponer (533)" -> "Nigel David Quinlan (530)" [label=127]
 	"Stefanie Alexis Sutherland (529)" -> "Rebecca Fanning (528)" [label=686]
 	"Stefanie Alexis Sutherland (529)" -> "Ross Taylor (532)" [label=3635]
+	"Jens Lipponer (533)" -> "Stefanie Alexis Sutherland (529)" [label=326]
+	"Nigel David Quinlan (530)" -> "Rebecca Fanning (528)" [label=1653]
+	"Nigel David Quinlan (530)" -> "Earl Snijders (531)" [label=2677]
+	"Earl Snijders (531)" -> "Rebecca Fanning (528)" [label=7326]
+	"Paula Gilbard (534)" -> "Ross Taylor (532)" [label=325]
+	"Paula Gilbard (534)" -> "Stefanie Alexis Sutherland (529)" [label=113]
+	"Jens Lipponer (533)" -> "Paula Gilbard (534)" [label=169]
 }

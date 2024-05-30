@@ -2,31 +2,31 @@
 digraph "Mark Butler (647)_Port Adelaide_2016" {
 	graph [label="Port Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
-Family First"]
+	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
+Christian Democratic Party (Fred Nile Group)"]
 	"Emma Flowerdew (2488)" [label="Emma Flowerdew (2488)
 Liberal"]
 	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
 Animal Justice Party"]
-	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
-Christian Democratic Party (Fred Nile Group)"]
 	"Mark Butler (647)" [label="Mark Butler (647)
 Australian Labor Party"]
+	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
+Family First"]
 	"Matthew Carey (2484)" [label="Matthew Carey (2484)
 The Greens"]
-	"Bruce Hambour (2485)" -> "Emma Flowerdew (2488)" [label=1426]
-	"Bruce Hambour (2485)" -> "Mark Butler (647)" [label=1184]
-	"Bruce Hambour (2485)" -> "Matthew Carey (2484)" [label=1608]
-	"Emma Flowerdew (2488)" -> "Mark Butler (647)" [label=8543]
-	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
 	"Janine Clipstone (2486)" -> "Emma Flowerdew (2488)" [label=158]
-	"Janine Clipstone (2486)" -> "Mark Butler (647)" [label=422]
+	"Emma Flowerdew (2488)" -> "Mark Butler (647)" [label=8543]
 	"Janine Clipstone (2486)" -> "Matthew Carey (2484)" [label=577]
-	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
-	"Jenalie Salt (2487)" -> "Emma Flowerdew (2488)" [label=65]
-	"Jenalie Salt (2487)" -> "Janine Clipstone (2486)" [label=100]
+	"Bruce Hambour (2485)" -> "Mark Butler (647)" [label=1184]
 	"Jenalie Salt (2487)" -> "Mark Butler (647)" [label=89]
+	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
+	"Bruce Hambour (2485)" -> "Emma Flowerdew (2488)" [label=1426]
+	"Janine Clipstone (2486)" -> "Mark Butler (647)" [label=422]
+	"Jenalie Salt (2487)" -> "Janine Clipstone (2486)" [label=100]
+	"Jenalie Salt (2487)" -> "Emma Flowerdew (2488)" [label=65]
 	"Jenalie Salt (2487)" -> "Matthew Carey (2484)" [label=61]
+	"Bruce Hambour (2485)" -> "Matthew Carey (2484)" [label=1608]
+	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
 	"Matthew Carey (2484)" -> "Emma Flowerdew (2488)" [label=764]
 	"Matthew Carey (2484)" -> "Mark Butler (647)" [label=5722]
 }

@@ -2,13 +2,13 @@
 digraph "Rod Holding (2183)_Newcastle_2016" {
 	graph [label="Newcastle 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Milton Caine (2184)" [label="Milton Caine (2184)
-Christian Democratic Party (Fred Nile Group)"]
-	"Rod Holding (2183)" [label="Rod Holding (2183)
-Independent"]
 	"Stuart Southwell (2181)" [label="Stuart Southwell (2181)
 Democratic Labour Party (DLP)"]
-	"Milton Caine (2184)" -> "Rod Holding (2183)" [label=629]
-	"Stuart Southwell (2181)" -> "Milton Caine (2184)" [label=276]
+	"Rod Holding (2183)" [label="Rod Holding (2183)
+Independent"]
+	"Milton Caine (2184)" [label="Milton Caine (2184)
+Christian Democratic Party (Fred Nile Group)"]
 	"Stuart Southwell (2181)" -> "Rod Holding (2183)" [label=155]
+	"Stuart Southwell (2181)" -> "Milton Caine (2184)" [label=276]
+	"Milton Caine (2184)" -> "Rod Holding (2183)" [label=629]
 }

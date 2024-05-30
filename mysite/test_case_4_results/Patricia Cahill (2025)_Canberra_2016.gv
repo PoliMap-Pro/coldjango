@@ -2,9 +2,9 @@
 digraph "Patricia Cahill (2025)_Canberra_2016" {
 	graph [label="Canberra 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
-Bullet Train For Australia"]
 	"Patricia Cahill (2025)" [label="Patricia Cahill (2025)
 The Greens"]
+	"Christopher D'Arcy Bucknell (2026)" [label="Christopher D'Arcy Bucknell (2026)
+Bullet Train For Australia"]
 	"Christopher D'Arcy Bucknell (2026)" -> "Patricia Cahill (2025)" [label=2077]
 }

@@ -8,7 +8,7 @@ United Australia Party"]
 Pauline Hanson's One Nation"]
 	"Asha Worsteling (567)" [label="Asha Worsteling (567)
 Queensland Greens"]
-	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
 	"Timothy Coombes (566)" -> "Dylan Kozlowski (569)" [label=2485]
+	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
 	"Timothy Coombes (566)" -> "Asha Worsteling (567)" [label=1118]
 }

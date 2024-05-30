@@ -2,24 +2,24 @@
 digraph "Hovig Melkonian (2564)_Casey_2016" {
 	graph [label="Casey 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Angela Dorian (2565)" [label="Angela Dorian (2565)
-Rise Up Australia Party"]
-	"Elissa Sutherland (2562)" [label="Elissa Sutherland (2562)
-The Greens"]
 	"Hovig Melkonian (2564)" [label="Hovig Melkonian (2564)
 Australian Labor Party"]
 	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
 Animal Justice Party"]
+	"Angela Dorian (2565)" [label="Angela Dorian (2565)
+Rise Up Australia Party"]
 	"Peter Charleton (1748)" [label="Peter Charleton (1748)
 Independent"]
-	"Angela Dorian (2565)" -> "Elissa Sutherland (2562)" [label=149]
-	"Angela Dorian (2565)" -> "Hovig Melkonian (2564)" [label=229]
-	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
-	"Angela Dorian (2565)" -> "Peter Charleton (1748)" [label=910]
-	"Elissa Sutherland (2562)" -> "Hovig Melkonian (2564)" [label=11655]
-	"Kristin Bacon (2563)" -> "Elissa Sutherland (2562)" [label=2932]
-	"Kristin Bacon (2563)" -> "Hovig Melkonian (2564)" [label=1481]
-	"Peter Charleton (1748)" -> "Elissa Sutherland (2562)" [label=533]
-	"Peter Charleton (1748)" -> "Hovig Melkonian (2564)" [label=998]
+	"Elissa Sutherland (2562)" [label="Elissa Sutherland (2562)
+The Greens"]
 	"Peter Charleton (1748)" -> "Kristin Bacon (2563)" [label=1216]
+	"Peter Charleton (1748)" -> "Hovig Melkonian (2564)" [label=998]
+	"Elissa Sutherland (2562)" -> "Hovig Melkonian (2564)" [label=11655]
+	"Kristin Bacon (2563)" -> "Hovig Melkonian (2564)" [label=1481]
+	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
+	"Peter Charleton (1748)" -> "Elissa Sutherland (2562)" [label=533]
+	"Angela Dorian (2565)" -> "Elissa Sutherland (2562)" [label=149]
+	"Angela Dorian (2565)" -> "Peter Charleton (1748)" [label=910]
+	"Angela Dorian (2565)" -> "Hovig Melkonian (2564)" [label=229]
+	"Kristin Bacon (2563)" -> "Elissa Sutherland (2562)" [label=2932]
 }

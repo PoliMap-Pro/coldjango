@@ -35,7 +35,8 @@ class Party(section.Part):
             if word not in nltk.corpus.stopwords.words(language)])
         return urllib.parse.quote_plus(''.join(
             character if character.isalnum() else '_' for character in
-            min(frequencies, key=frequencies.get)).strip('-'))
+            min(frequencies, key=frequencies.get)).strip('-') if frequencies
+                                       else "")
 
     @classmethod
     def get_set(cls, selector):

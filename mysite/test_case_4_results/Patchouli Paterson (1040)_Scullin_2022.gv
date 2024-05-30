@@ -2,18 +2,18 @@
 digraph "Patchouli Paterson (1040)_Scullin_2022" {
 	graph [label="Scullin 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Eric Koelmeyer (1042)" [label="Eric Koelmeyer (1042)
+Liberal Democrats"]
 	"Patchouli Paterson (1040)" [label="Patchouli Paterson (1040)
 The Greens"]
 	"Cameron Rowe (1046)" [label="Cameron Rowe (1046)
 Victorian Socialists"]
-	"Eric Koelmeyer (1042)" [label="Eric Koelmeyer (1042)
-Liberal Democrats"]
 	"Ursula Van Bree (1041)" [label="Ursula Van Bree (1041)
 Pauline Hanson's One Nation"]
-	"Cameron Rowe (1046)" -> "Ursula Van Bree (1041)" [label=151]
 	"Eric Koelmeyer (1042)" -> "Patchouli Paterson (1040)" [label=289]
-	"Cameron Rowe (1046)" -> "Patchouli Paterson (1040)" [label=1213]
+	"Cameron Rowe (1046)" -> "Ursula Van Bree (1041)" [label=151]
 	"Cameron Rowe (1046)" -> "Eric Koelmeyer (1042)" [label=98]
+	"Cameron Rowe (1046)" -> "Patchouli Paterson (1040)" [label=1213]
 	"Ursula Van Bree (1041)" -> "Patchouli Paterson (1040)" [label=1005]
 	"Eric Koelmeyer (1042)" -> "Ursula Van Bree (1041)" [label=1019]
 }

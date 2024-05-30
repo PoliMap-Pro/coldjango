@@ -2,31 +2,31 @@
 digraph "Nicolette Boele (55)_Bradfield_2022" {
 	graph [label="Bradfield 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Gordon Brigden (56)" [label="David Gordon Brigden (56)
-Labor"]
-	"Janine Kitson (58)" [label="Janine Kitson (58)
-Independent"]
-	"Martin Cousins (57)" [label="Martin Cousins (57)
-The Greens"]
-	"Michael Lowe (61)" [label="Michael Lowe (61)
-Pauline Hanson's One Nation"]
 	"Nicolette Boele (55)" [label="Nicolette Boele (55)
 Independent"]
+	"David Gordon Brigden (56)" [label="David Gordon Brigden (56)
+Labor"]
+	"Martin Cousins (57)" [label="Martin Cousins (57)
+The Greens"]
 	"Rob Fletcher (59)" [label="Rob Fletcher (59)
 United Australia Party"]
-	"David Gordon Brigden (56)" -> "Nicolette Boele (55)" [label=16472]
-	"Janine Kitson (58)" -> "David Gordon Brigden (56)" [label=352]
-	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
-	"Janine Kitson (58)" -> "Nicolette Boele (55)" [label=1840]
-	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
-	"Martin Cousins (57)" -> "David Gordon Brigden (56)" [label=4199]
-	"Martin Cousins (57)" -> "Nicolette Boele (55)" [label=4592]
-	"Michael Lowe (61)" -> "David Gordon Brigden (56)" [label=52]
+	"Janine Kitson (58)" [label="Janine Kitson (58)
+Independent"]
+	"Michael Lowe (61)" [label="Michael Lowe (61)
+Pauline Hanson's One Nation"]
 	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
-	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
+	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
+	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
 	"Michael Lowe (61)" -> "Nicolette Boele (55)" [label=106]
 	"Michael Lowe (61)" -> "Rob Fletcher (59)" [label=896]
+	"Janine Kitson (58)" -> "Nicolette Boele (55)" [label=1840]
+	"Michael Lowe (61)" -> "David Gordon Brigden (56)" [label=52]
 	"Rob Fletcher (59)" -> "David Gordon Brigden (56)" [label=346]
-	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
+	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
+	"Martin Cousins (57)" -> "Nicolette Boele (55)" [label=4592]
+	"David Gordon Brigden (56)" -> "Nicolette Boele (55)" [label=16472]
+	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 	"Rob Fletcher (59)" -> "Nicolette Boele (55)" [label=1049]
+	"Janine Kitson (58)" -> "David Gordon Brigden (56)" [label=352]
+	"Martin Cousins (57)" -> "David Gordon Brigden (56)" [label=4199]
 }

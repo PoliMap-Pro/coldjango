@@ -2,48 +2,48 @@
 digraph "Peta Murphy (830)_Dunkley_2022" {
 	graph [label="Dunkley 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adrian Kain Irvine (837)" [label="Adrian Kain Irvine (837)
-United Australia Party"]
-	"Damian Willis (831)" [label="Damian Willis (831)
-Liberal Democrats"]
-	"Darren Bergwerf (829)" [label="Darren Bergwerf (829)
-Independent"]
-	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
-Animal Justice Party"]
-	"Kathryn Woods (836)" [label="Kathryn Woods (836)
-Australian Federation Party"]
-	"Liam O'Brien (833)" [label="Liam O'Brien (833)
-The Greens"]
-	"Peta Murphy (830)" [label="Peta Murphy (830)
-Australian Labor Party"]
 	"Scott Middlebrook (835)" [label="Scott Middlebrook (835)
 Pauline Hanson's One Nation"]
+	"Peta Murphy (830)" [label="Peta Murphy (830)
+Australian Labor Party"]
+	"Darren Bergwerf (829)" [label="Darren Bergwerf (829)
+Independent"]
+	"Damian Willis (831)" [label="Damian Willis (831)
+Liberal Democrats"]
+	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
+Animal Justice Party"]
+	"Liam O'Brien (833)" [label="Liam O'Brien (833)
+The Greens"]
+	"Adrian Kain Irvine (837)" [label="Adrian Kain Irvine (837)
+United Australia Party"]
+	"Kathryn Woods (836)" [label="Kathryn Woods (836)
+Australian Federation Party"]
+	"Elizabeth Johnston (832)" -> "Darren Bergwerf (829)" [label=308]
+	"Kathryn Woods (836)" -> "Elizabeth Johnston (832)" [label=56]
+	"Elizabeth Johnston (832)" -> "Peta Murphy (830)" [label=437]
+	"Elizabeth Johnston (832)" -> "Adrian Kain Irvine (837)" [label=113]
+	"Kathryn Woods (836)" -> "Adrian Kain Irvine (837)" [label=96]
+	"Kathryn Woods (836)" -> "Peta Murphy (830)" [label=37]
 	"Adrian Kain Irvine (837)" -> "Liam O'Brien (833)" [label=2397]
+	"Kathryn Woods (836)" -> "Damian Willis (831)" [label=70]
 	"Adrian Kain Irvine (837)" -> "Peta Murphy (830)" [label=1763]
 	"Damian Willis (831)" -> "Adrian Kain Irvine (837)" [label=586]
-	"Damian Willis (831)" -> "Darren Bergwerf (829)" [label=326]
-	"Damian Willis (831)" -> "Liam O'Brien (833)" [label=155]
-	"Damian Willis (831)" -> "Peta Murphy (830)" [label=248]
-	"Damian Willis (831)" -> "Scott Middlebrook (835)" [label=614]
-	"Darren Bergwerf (829)" -> "Adrian Kain Irvine (837)" [label=2492]
 	"Darren Bergwerf (829)" -> "Liam O'Brien (833)" [label=843]
-	"Darren Bergwerf (829)" -> "Peta Murphy (830)" [label=1284]
-	"Elizabeth Johnston (832)" -> "Adrian Kain Irvine (837)" [label=113]
-	"Elizabeth Johnston (832)" -> "Damian Willis (831)" [label=75]
-	"Elizabeth Johnston (832)" -> "Darren Bergwerf (829)" [label=308]
-	"Elizabeth Johnston (832)" -> "Liam O'Brien (833)" [label=798]
-	"Elizabeth Johnston (832)" -> "Peta Murphy (830)" [label=437]
-	"Elizabeth Johnston (832)" -> "Scott Middlebrook (835)" [label=175]
-	"Kathryn Woods (836)" -> "Adrian Kain Irvine (837)" [label=96]
-	"Kathryn Woods (836)" -> "Damian Willis (831)" [label=70]
-	"Kathryn Woods (836)" -> "Darren Bergwerf (829)" [label=129]
-	"Kathryn Woods (836)" -> "Elizabeth Johnston (832)" [label=56]
-	"Kathryn Woods (836)" -> "Liam O'Brien (833)" [label=49]
-	"Kathryn Woods (836)" -> "Peta Murphy (830)" [label=37]
-	"Kathryn Woods (836)" -> "Scott Middlebrook (835)" [label=74]
-	"Liam O'Brien (833)" -> "Peta Murphy (830)" [label=11318]
+	"Damian Willis (831)" -> "Scott Middlebrook (835)" [label=614]
+	"Damian Willis (831)" -> "Peta Murphy (830)" [label=248]
 	"Scott Middlebrook (835)" -> "Adrian Kain Irvine (837)" [label=2023]
-	"Scott Middlebrook (835)" -> "Darren Bergwerf (829)" [label=657]
-	"Scott Middlebrook (835)" -> "Liam O'Brien (833)" [label=193]
+	"Elizabeth Johnston (832)" -> "Liam O'Brien (833)" [label=798]
+	"Elizabeth Johnston (832)" -> "Scott Middlebrook (835)" [label=175]
 	"Scott Middlebrook (835)" -> "Peta Murphy (830)" [label=272]
+	"Kathryn Woods (836)" -> "Darren Bergwerf (829)" [label=129]
+	"Scott Middlebrook (835)" -> "Liam O'Brien (833)" [label=193]
+	"Kathryn Woods (836)" -> "Liam O'Brien (833)" [label=49]
+	"Darren Bergwerf (829)" -> "Adrian Kain Irvine (837)" [label=2492]
+	"Kathryn Woods (836)" -> "Scott Middlebrook (835)" [label=74]
+	"Damian Willis (831)" -> "Darren Bergwerf (829)" [label=326]
+	"Scott Middlebrook (835)" -> "Darren Bergwerf (829)" [label=657]
+	"Darren Bergwerf (829)" -> "Peta Murphy (830)" [label=1284]
+	"Elizabeth Johnston (832)" -> "Damian Willis (831)" [label=75]
+	"Damian Willis (831)" -> "Liam O'Brien (833)" [label=155]
+	"Liam O'Brien (833)" -> "Peta Murphy (830)" [label=11318]
 }

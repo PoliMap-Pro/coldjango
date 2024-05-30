@@ -2,13 +2,13 @@
 digraph "Peter Arena (2207)_Paterson_2016" {
 	graph [label="Paterson 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Peter Davis (2205)" [label="Peter Davis (2205)
+Citizens Electoral Council"]
 	"Peter Arena (2207)" [label="Peter Arena (2207)
 Christian Democratic Party (Fred Nile Group)"]
 	"Brian Clare (1434)" [label="Brian Clare (1434)
 Rise Up Australia Party"]
-	"Peter Davis (2205)" [label="Peter Davis (2205)
-Citizens Electoral Council"]
+	"Peter Davis (2205)" -> "Peter Arena (2207)" [label=52]
 	"Brian Clare (1434)" -> "Peter Arena (2207)" [label=129]
 	"Peter Davis (2205)" -> "Brian Clare (1434)" [label=95]
-	"Peter Davis (2205)" -> "Peter Arena (2207)" [label=52]
 }

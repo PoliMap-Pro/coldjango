@@ -2,18 +2,18 @@
 digraph "Michael David Barling (2707)_Wannon_2016" {
 	graph [label="Wannon 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
-Independent"]
-	"Michael David Barling (2707)" [label="Michael David Barling (2707)
-Australian Labor Party"]
 	"Michael John Mccluskey (2710)" [label="Michael John Mccluskey (2710)
 Independent"]
 	"Thomas Campbell (2708)" [label="Thomas Campbell (2708)
 The Greens"]
-	"Bernardine Atkinson (2709)" -> "Michael David Barling (2707)" [label=199]
+	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
+Independent"]
+	"Michael David Barling (2707)" [label="Michael David Barling (2707)
+Australian Labor Party"]
+	"Thomas Campbell (2708)" -> "Michael David Barling (2707)" [label=7087]
 	"Bernardine Atkinson (2709)" -> "Michael John Mccluskey (2710)" [label=2342]
 	"Bernardine Atkinson (2709)" -> "Thomas Campbell (2708)" [label=165]
 	"Michael John Mccluskey (2710)" -> "Michael David Barling (2707)" [label=1933]
 	"Michael John Mccluskey (2710)" -> "Thomas Campbell (2708)" [label=1938]
-	"Thomas Campbell (2708)" -> "Michael David Barling (2707)" [label=7087]
+	"Bernardine Atkinson (2709)" -> "Michael David Barling (2707)" [label=199]
 }

@@ -8,18 +8,18 @@ The Greens"]
 Drug Law Reform"]
 	"Matthew Ross Coote (2615)" [label="Matthew Ross Coote (2615)
 Australian Labor Party"]
-	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
-Animal Justice Party"]
 	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
 Family First Party"]
+	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
+Animal Justice Party"]
 	"Cheryl Hercus (2611)" -> "Matthew Ross Coote (2615)" [label=13401]
 	"Lee Kavanagh (2614)" -> "Cheryl Hercus (2611)" [label=556]
 	"Lee Kavanagh (2614)" -> "Matthew Ross Coote (2615)" [label=309]
+	"Naren Chellappah (2613)" -> "Matthew Ross Coote (2615)" [label=568]
 	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
 	"Naren Chellappah (2613)" -> "Cheryl Hercus (2611)" [label=1827]
-	"Naren Chellappah (2613)" -> "Matthew Ross Coote (2615)" [label=568]
 	"Trevor Bishop (2612)" -> "Cheryl Hercus (2611)" [label=228]
-	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
-	"Trevor Bishop (2612)" -> "Matthew Ross Coote (2615)" [label=168]
 	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
+	"Trevor Bishop (2612)" -> "Matthew Ross Coote (2615)" [label=168]
+	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
 }

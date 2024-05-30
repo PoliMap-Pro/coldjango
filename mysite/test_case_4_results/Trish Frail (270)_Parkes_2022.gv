@@ -10,10 +10,10 @@ Informed Medical Options Party"]
 The Greens"]
 	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
 United Australia Party"]
-	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
 	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
-	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
 	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
-	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
 	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
+	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
+	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
+	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
 }

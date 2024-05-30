@@ -11,9 +11,9 @@ Independent"]
 	"Ray Buckley (2088)" [label="Ray Buckley (2088)
 Independent"]
 	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
-	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
-	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
 	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
-	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
 	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
+	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
+	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
+	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
 }

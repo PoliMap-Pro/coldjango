@@ -51,9 +51,21 @@ TYPES_DIRECTORY_RELATIVE = "seats\\"
 SPREADSHEET_NAMES = (RETURN_YEAR, PLACE_NAME, ATTRIBUTE_NAME, RETURN_GROUPING,
                      RETURN_VOTES, RETURN_PERCENTAGE, )
 
-ABBREVIATION_LIST = ['IND', 'UAPP', 'ON', 'LP', 'NAFD', 'AJP', 'IMO', 'CYA',
-                     'CLP', 'CEC', 'LDP', 'AUVA', 'SOPA', 'DPDA', 'TNL',
-                     'JLN', 'VNS', 'SAL', 'GAP', 'AUP', 'CDP', 'RUA',
-                     'FACN', 'WAP', 'BTA', 'FFP', 'ASP', 'CEC', 'XEN',
-                     'REP', 'ARF', 'SPA', 'KAP', 'FNPP', 'AIN', 'ASXP',
-                     'DEM', 'NCO', 'TGA', 'NGST', ]
+ABBREVIATION_LIST = ['AAHP', 'AAPP', 'ABFA', 'ACP', 'ADP', 'ADVP', 'AEQ',
+                     'AFI', 'AFLP', 'AFN', 'AIN', 'AJP', 'ALA', 'ALP', 'AMEP',
+                     'AMHP', 'APA', 'APEP', 'APP', 'ARF', 'ARTS', 'ASP',
+                     'ASXP', 'AUC', 'AUD', 'AUP', 'AUVA', 'AWP', 'BAP', 'BRP',
+                     'BTA', 'CA', 'CAL', 'CCC', 'CCE', 'CDP', 'CEC', 'CLP',
+                     'CLR', 'CM', 'CPP', 'CRNT', 'CYA', 'CYC', 'DAVI', 'DEM',
+                     'DHJP', 'DLP', 'DPDA', 'DRF', 'FACN', 'FFP', 'FIN',
+                     'FLUX', 'FNPP', 'FPY', 'FUT', 'GAP', 'GLT', 'GRN',
+                     'GVIC', 'HAN', 'HMP', 'HOV', 'HPA', 'IAP', 'ICAN',
+                     'IMO', 'IND', 'JLN', 'JMP', 'KAP', 'KCBR', 'LAOL',
+                     'LDP', 'LEF', 'LFF', 'LNP', 'LNQ', 'LP', 'MAP', 'NAFD',
+                     'NCO', 'NCP', 'NDP', 'NGST', 'NMP', 'NP', 'ODR', 'ON',
+                     'ORP', 'PIR', 'PLP', 'PUA', 'PUP', 'REAS', 'REP', 'RPA',
+                     'RPT', 'RUA', 'SAL', 'SAS', 'SCSG', 'SEP', 'SMK', 'SOL',
+                     'SOPA', 'SPA', 'SPP', 'SPRT', 'SUN', 'TAP', 'TCS', 'TGA',
+                     'TLOC', 'TNL', 'TSBP', 'TTP', 'TWP', 'UAPP', 'UNP', 'VCE',
+                     'VEP', 'VET', 'VNS', 'WAP', 'WKP', 'WWW', 'XEN']
+

@@ -2,39 +2,39 @@
 digraph "Warren Howard Wormald (2140)_Lindsay_2016" {
 	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Warren Howard Wormald (2140)" [label="Warren Howard Wormald (2140)
-Christian Democratic Party (Fred Nile Group)"]
-	"Marcus Cornish (2135)" [label="Marcus Cornish (2135)
-"]
-	"Stephen Roddick (2139)" [label="Stephen Roddick (2139)
-Australian Liberty Alliance"]
 	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
 Nick Xenophon Team"]
 	"Scott Grimley (2137)" [label="Scott Grimley (2137)
 Derryn Hinch's Justice Party"]
-	"Deborah May Blundell (2141)" [label="Deborah May Blundell (2141)
-Animal Justice Party"]
 	"Jim Saleam (1342)" [label="Jim Saleam (1342)
 Australia First Party"]
-	"Marcus Cornish (2135)" -> "Warren Howard Wormald (2140)" [label=600]
+	"Warren Howard Wormald (2140)" [label="Warren Howard Wormald (2140)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marcus Cornish (2135)" [label="Marcus Cornish (2135)
+"]
+	"Deborah May Blundell (2141)" [label="Deborah May Blundell (2141)
+Animal Justice Party"]
+	"Stephen Roddick (2139)" [label="Stephen Roddick (2139)
+Australian Liberty Alliance"]
+	"Stephen Roddick (2139)" -> "Warren Howard Wormald (2140)" [label=391]
+	"Scott Grimley (2137)" -> "Stephen Roddick (2139)" [label=193]
 	"Stephen Roddick (2139)" -> "Marcus Cornish (2135)" [label=361]
-	"Stephen Lynch (2143)" -> "Stephen Roddick (2139)" [label=179]
+	"Marcus Cornish (2135)" -> "Warren Howard Wormald (2140)" [label=600]
+	"Jim Saleam (1342)" -> "Warren Howard Wormald (2140)" [label=47]
+	"Stephen Lynch (2143)" -> "Warren Howard Wormald (2140)" [label=146]
+	"Jim Saleam (1342)" -> "Scott Grimley (2137)" [label=97]
+	"Scott Grimley (2137)" -> "Warren Howard Wormald (2140)" [label=116]
+	"Deborah May Blundell (2141)" -> "Stephen Lynch (2143)" [label=54]
+	"Deborah May Blundell (2141)" -> "Warren Howard Wormald (2140)" [label=77]
+	"Jim Saleam (1342)" -> "Marcus Cornish (2135)" [label=48]
+	"Deborah May Blundell (2141)" -> "Stephen Roddick (2139)" [label=66]
+	"Scott Grimley (2137)" -> "Marcus Cornish (2135)" [label=148]
 	"Scott Grimley (2137)" -> "Stephen Lynch (2143)" [label=192]
+	"Stephen Lynch (2143)" -> "Stephen Roddick (2139)" [label=179]
+	"Deborah May Blundell (2141)" -> "Marcus Cornish (2135)" [label=69]
+	"Jim Saleam (1342)" -> "Stephen Roddick (2139)" [label=113]
 	"Deborah May Blundell (2141)" -> "Scott Grimley (2137)" [label=182]
 	"Jim Saleam (1342)" -> "Deborah May Blundell (2141)" [label=97]
-	"Stephen Roddick (2139)" -> "Warren Howard Wormald (2140)" [label=391]
-	"Stephen Lynch (2143)" -> "Warren Howard Wormald (2140)" [label=146]
-	"Scott Grimley (2137)" -> "Warren Howard Wormald (2140)" [label=116]
-	"Deborah May Blundell (2141)" -> "Warren Howard Wormald (2140)" [label=77]
-	"Jim Saleam (1342)" -> "Warren Howard Wormald (2140)" [label=47]
-	"Jim Saleam (1342)" -> "Scott Grimley (2137)" [label=97]
-	"Deborah May Blundell (2141)" -> "Stephen Lynch (2143)" [label=54]
-	"Jim Saleam (1342)" -> "Stephen Lynch (2143)" [label=56]
-	"Scott Grimley (2137)" -> "Stephen Roddick (2139)" [label=193]
-	"Deborah May Blundell (2141)" -> "Stephen Roddick (2139)" [label=66]
-	"Jim Saleam (1342)" -> "Stephen Roddick (2139)" [label=113]
 	"Stephen Lynch (2143)" -> "Marcus Cornish (2135)" [label=299]
-	"Scott Grimley (2137)" -> "Marcus Cornish (2135)" [label=148]
-	"Deborah May Blundell (2141)" -> "Marcus Cornish (2135)" [label=69]
-	"Jim Saleam (1342)" -> "Marcus Cornish (2135)" [label=48]
+	"Jim Saleam (1342)" -> "Stephen Lynch (2143)" [label=56]
 }

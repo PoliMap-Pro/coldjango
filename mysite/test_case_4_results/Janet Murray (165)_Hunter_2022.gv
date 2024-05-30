@@ -2,31 +2,31 @@
 digraph "Janet Murray (165)_Hunter_2022" {
 	graph [label="Hunter 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cathy Townsend (169)" [label="Cathy Townsend (169)
-Informed Medical Options Party"]
-	"Victoria Davies (167)" [label="Victoria Davies (167)
-Animal Justice Party"]
+	"Scott Fulvio Laruffa (173)" [label="Scott Fulvio Laruffa (173)
+Independent"]
 	"Geoff Passfield (170)" [label="Geoff Passfield (170)
 United Australia Party"]
 	"Stuart Bonds (168)" [label="Stuart Bonds (168)
 Independent"]
 	"Janet Murray (165)" [label="Janet Murray (165)
 The Greens"]
-	"Scott Fulvio Laruffa (173)" [label="Scott Fulvio Laruffa (173)
-Independent"]
-	"Geoff Passfield (170)" -> "Janet Murray (165)" [label=300]
-	"Victoria Davies (167)" -> "Geoff Passfield (170)" [label=233]
+	"Victoria Davies (167)" [label="Victoria Davies (167)
+Animal Justice Party"]
+	"Cathy Townsend (169)" [label="Cathy Townsend (169)
+Informed Medical Options Party"]
 	"Cathy Townsend (169)" -> "Geoff Passfield (170)" [label=201]
-	"Victoria Davies (167)" -> "Stuart Bonds (168)" [label=566]
-	"Cathy Townsend (169)" -> "Victoria Davies (167)" [label=213]
-	"Stuart Bonds (168)" -> "Janet Murray (165)" [label=1164]
-	"Cathy Townsend (169)" -> "Stuart Bonds (168)" [label=414]
-	"Scott Fulvio Laruffa (173)" -> "Victoria Davies (167)" [label=107]
-	"Scott Fulvio Laruffa (173)" -> "Stuart Bonds (168)" [label=861]
-	"Victoria Davies (167)" -> "Janet Murray (165)" [label=888]
-	"Geoff Passfield (170)" -> "Stuart Bonds (168)" [label=1165]
-	"Cathy Townsend (169)" -> "Janet Murray (165)" [label=128]
-	"Cathy Townsend (169)" -> "Scott Fulvio Laruffa (173)" [label=94]
-	"Scott Fulvio Laruffa (173)" -> "Geoff Passfield (170)" [label=117]
 	"Scott Fulvio Laruffa (173)" -> "Janet Murray (165)" [label=164]
+	"Stuart Bonds (168)" -> "Janet Murray (165)" [label=1164]
+	"Victoria Davies (167)" -> "Geoff Passfield (170)" [label=233]
+	"Geoff Passfield (170)" -> "Stuart Bonds (168)" [label=1165]
+	"Geoff Passfield (170)" -> "Janet Murray (165)" [label=300]
+	"Cathy Townsend (169)" -> "Victoria Davies (167)" [label=213]
+	"Victoria Davies (167)" -> "Stuart Bonds (168)" [label=566]
+	"Cathy Townsend (169)" -> "Stuart Bonds (168)" [label=414]
+	"Cathy Townsend (169)" -> "Scott Fulvio Laruffa (173)" [label=94]
+	"Scott Fulvio Laruffa (173)" -> "Stuart Bonds (168)" [label=861]
+	"Cathy Townsend (169)" -> "Janet Murray (165)" [label=128]
+	"Victoria Davies (167)" -> "Janet Murray (165)" [label=888]
+	"Scott Fulvio Laruffa (173)" -> "Geoff Passfield (170)" [label=117]
+	"Scott Fulvio Laruffa (173)" -> "Victoria Davies (167)" [label=107]
 }

@@ -2,13 +2,13 @@
 digraph "Cathy Gavranich (1131)_Fremantle_2022" {
 	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
-Australian Federation Party"]
-	"Yan Loh (1136)" [label="Yan Loh (1136)
-Liberal Democrats"]
 	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
 Socialist Alliance"]
-	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
+	"Yan Loh (1136)" [label="Yan Loh (1136)
+Liberal Democrats"]
+	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
+Australian Federation Party"]
 	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
 	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
+	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
 }

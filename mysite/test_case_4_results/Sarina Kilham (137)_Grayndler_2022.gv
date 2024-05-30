@@ -2,18 +2,18 @@
 digraph "Sarina Kilham (137)_Grayndler_2022" {
 	graph [label="Grayndler 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Sarina Kilham (137)" [label="Sarina Kilham (137)
+Independent"]
+	"Paul Henselin (138)" [label="Paul Henselin (138)
+Pauline Hanson's One Nation"]
 	"James Haggerty (136)" [label="James Haggerty (136)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Michael Armando Dello-Iacovo (139)" [label="Michael Armando Dello-Iacovo (139)
 Animal Justice Party"]
-	"Paul Henselin (138)" [label="Paul Henselin (138)
-Pauline Hanson's One Nation"]
-	"Sarina Kilham (137)" [label="Sarina Kilham (137)
-Independent"]
-	"James Haggerty (136)" -> "Paul Henselin (138)" [label=39]
 	"James Haggerty (136)" -> "Sarina Kilham (137)" [label=312]
-	"Michael Armando Dello-Iacovo (139)" -> "James Haggerty (136)" [label=110]
-	"Michael Armando Dello-Iacovo (139)" -> "Paul Henselin (138)" [label=64]
-	"Michael Armando Dello-Iacovo (139)" -> "Sarina Kilham (137)" [label=110]
 	"Paul Henselin (138)" -> "Sarina Kilham (137)" [label=244]
+	"Michael Armando Dello-Iacovo (139)" -> "Paul Henselin (138)" [label=64]
+	"Michael Armando Dello-Iacovo (139)" -> "James Haggerty (136)" [label=110]
+	"Michael Armando Dello-Iacovo (139)" -> "Sarina Kilham (137)" [label=110]
+	"James Haggerty (136)" -> "Paul Henselin (138)" [label=39]
 }

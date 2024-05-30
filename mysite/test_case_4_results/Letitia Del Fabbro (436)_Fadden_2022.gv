@@ -2,31 +2,31 @@
 digraph "Letitia Del Fabbro (436)_Fadden_2022" {
 	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Alex Forbes (441)" [label="Alex Forbes (441)
-Liberal Democrats"]
+	"Sandy Roach (438)" [label="Sandy Roach (438)
+Pauline Hanson's One Nation"]
 	"Letitia Del Fabbro (436)" [label="Letitia Del Fabbro (436)
 Australian Labor Party"]
 	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
 United Australia Party"]
 	"Sally Spain (440)" [label="Sally Spain (440)
 Queensland Greens"]
-	"Sandy Roach (438)" [label="Sandy Roach (438)
-Pauline Hanson's One Nation"]
+	"Alex Forbes (441)" [label="Alex Forbes (441)
+Liberal Democrats"]
 	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
 Independent"]
-	"Alex Forbes (441)" -> "Letitia Del Fabbro (436)" [label=284]
-	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
-	"Alex Forbes (441)" -> "Sally Spain (440)" [label=406]
-	"Alex Forbes (441)" -> "Sandy Roach (438)" [label=450]
 	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
-	"Nathan Grant O'Brien (437)" -> "Letitia Del Fabbro (436)" [label=932]
-	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
-	"Nathan Grant O'Brien (437)" -> "Sandy Roach (438)" [label=5230]
-	"Sally Spain (440)" -> "Letitia Del Fabbro (436)" [label=8853]
-	"Sally Spain (440)" -> "Sandy Roach (438)" [label=2178]
-	"Sandy Roach (438)" -> "Letitia Del Fabbro (436)" [label=6449]
-	"Stewart Gordon Brooker (435)" -> "Letitia Del Fabbro (436)" [label=1489]
-	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
-	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
+	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
 	"Stewart Gordon Brooker (435)" -> "Sandy Roach (438)" [label=864]
+	"Sandy Roach (438)" -> "Letitia Del Fabbro (436)" [label=6449]
+	"Alex Forbes (441)" -> "Sally Spain (440)" [label=406]
+	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
+	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
+	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
+	"Sally Spain (440)" -> "Letitia Del Fabbro (436)" [label=8853]
+	"Stewart Gordon Brooker (435)" -> "Letitia Del Fabbro (436)" [label=1489]
+	"Alex Forbes (441)" -> "Letitia Del Fabbro (436)" [label=284]
+	"Nathan Grant O'Brien (437)" -> "Letitia Del Fabbro (436)" [label=932]
+	"Nathan Grant O'Brien (437)" -> "Sandy Roach (438)" [label=5230]
+	"Sally Spain (440)" -> "Sandy Roach (438)" [label=2178]
+	"Alex Forbes (441)" -> "Sandy Roach (438)" [label=450]
 }

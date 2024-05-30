@@ -4,37 +4,37 @@ digraph "Shayne Neumann (389)_Blair_2022" {
 	node [shape=box]
 	"Angela Lowery (391)" [label="Angela Lowery (391)
 Animal Justice Party"]
-	"Danielle Mutton (385)" [label="Danielle Mutton (385)
-Queensland Greens"]
-	"Liz Suduk (388)" [label="Liz Suduk (388)
-Pauline Hanson's One Nation"]
 	"Maria Pitman (390)" [label="Maria Pitman (390)
 Australian Values Party"]
-	"Michelle Jaques (386)" [label="Michelle Jaques (386)
-Liberal Democrats"]
+	"Liz Suduk (388)" [label="Liz Suduk (388)
+Pauline Hanson's One Nation"]
 	"Quinton Stewart Cunningham (387)" [label="Quinton Stewart Cunningham (387)
 United Australia Party"]
 	"Shayne Neumann (389)" [label="Shayne Neumann (389)
 Australian Labor Party"]
-	"Angela Lowery (391)" -> "Danielle Mutton (385)" [label=1055]
-	"Angela Lowery (391)" -> "Liz Suduk (388)" [label=593]
-	"Angela Lowery (391)" -> "Michelle Jaques (386)" [label=185]
+	"Danielle Mutton (385)" [label="Danielle Mutton (385)
+Queensland Greens"]
+	"Michelle Jaques (386)" [label="Michelle Jaques (386)
+Liberal Democrats"]
 	"Angela Lowery (391)" -> "Quinton Stewart Cunningham (387)" [label=342]
-	"Angela Lowery (391)" -> "Shayne Neumann (389)" [label=463]
-	"Danielle Mutton (385)" -> "Liz Suduk (388)" [label=3433]
-	"Danielle Mutton (385)" -> "Shayne Neumann (389)" [label=10222]
-	"Liz Suduk (388)" -> "Shayne Neumann (389)" [label=8775]
-	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
-	"Maria Pitman (390)" -> "Danielle Mutton (385)" [label=219]
-	"Maria Pitman (390)" -> "Liz Suduk (388)" [label=414]
-	"Maria Pitman (390)" -> "Michelle Jaques (386)" [label=175]
-	"Maria Pitman (390)" -> "Quinton Stewart Cunningham (387)" [label=213]
-	"Maria Pitman (390)" -> "Shayne Neumann (389)" [label=274]
 	"Michelle Jaques (386)" -> "Danielle Mutton (385)" [label=542]
+	"Angela Lowery (391)" -> "Danielle Mutton (385)" [label=1055]
+	"Liz Suduk (388)" -> "Shayne Neumann (389)" [label=8775]
 	"Michelle Jaques (386)" -> "Liz Suduk (388)" [label=736]
-	"Michelle Jaques (386)" -> "Quinton Stewart Cunningham (387)" [label=659]
-	"Michelle Jaques (386)" -> "Shayne Neumann (389)" [label=477]
-	"Quinton Stewart Cunningham (387)" -> "Danielle Mutton (385)" [label=1124]
 	"Quinton Stewart Cunningham (387)" -> "Liz Suduk (388)" [label=4622]
+	"Danielle Mutton (385)" -> "Liz Suduk (388)" [label=3433]
+	"Angela Lowery (391)" -> "Michelle Jaques (386)" [label=185]
+	"Maria Pitman (390)" -> "Quinton Stewart Cunningham (387)" [label=213]
+	"Michelle Jaques (386)" -> "Shayne Neumann (389)" [label=477]
+	"Maria Pitman (390)" -> "Shayne Neumann (389)" [label=274]
+	"Maria Pitman (390)" -> "Michelle Jaques (386)" [label=175]
+	"Angela Lowery (391)" -> "Shayne Neumann (389)" [label=463]
+	"Maria Pitman (390)" -> "Liz Suduk (388)" [label=414]
+	"Maria Pitman (390)" -> "Danielle Mutton (385)" [label=219]
+	"Michelle Jaques (386)" -> "Quinton Stewart Cunningham (387)" [label=659]
+	"Maria Pitman (390)" -> "Angela Lowery (391)" [label=482]
+	"Angela Lowery (391)" -> "Liz Suduk (388)" [label=593]
+	"Danielle Mutton (385)" -> "Shayne Neumann (389)" [label=10222]
 	"Quinton Stewart Cunningham (387)" -> "Shayne Neumann (389)" [label=870]
+	"Quinton Stewart Cunningham (387)" -> "Danielle Mutton (385)" [label=1124]
 }

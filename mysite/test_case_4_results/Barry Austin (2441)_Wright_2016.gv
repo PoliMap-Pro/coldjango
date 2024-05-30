@@ -4,11 +4,11 @@ digraph "Barry Austin (2441)_Wright_2016" {
 	node [shape=box]
 	"Barry Austin (2441)" [label="Barry Austin (2441)
 Family First"]
-	"Mark M Stone (2442)" [label="Mark M Stone (2442)
-Liberal Democrats"]
 	"John Cox (2440)" [label="John Cox (2440)
 Mature Australia"]
+	"Mark M Stone (2442)" [label="Mark M Stone (2442)
+Liberal Democrats"]
+	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
 	"Mark M Stone (2442)" -> "Barry Austin (2441)" [label=441]
 	"John Cox (2440)" -> "Mark M Stone (2442)" [label=76]
-	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
 }

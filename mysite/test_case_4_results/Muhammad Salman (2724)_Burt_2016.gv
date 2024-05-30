@@ -4,11 +4,11 @@ digraph "Muhammad Salman (2724)_Burt_2016" {
 	node [shape=box]
 	"Muhammad Salman (2724)" [label="Muhammad Salman (2724)
 The Greens (WA)"]
-	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
-Australian Christians"]
 	"Ian Blevin (2726)" [label="Ian Blevin (2726)
 Shooters, Fishers and Farmers"]
-	"Warnar Spyker (1080)" -> "Muhammad Salman (2724)" [label=902]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
 	"Ian Blevin (2726)" -> "Muhammad Salman (2724)" [label=627]
+	"Warnar Spyker (1080)" -> "Muhammad Salman (2724)" [label=902]
 	"Ian Blevin (2726)" -> "Warnar Spyker (1080)" [label=1226]
 }

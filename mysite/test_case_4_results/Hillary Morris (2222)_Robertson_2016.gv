@@ -2,24 +2,24 @@
 digraph "Hillary Morris (2222)_Robertson_2016" {
 	graph [label="Robertson 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Hillary Morris (2222)" [label="Hillary Morris (2222)
-The Greens"]
-	"Matthew Craig (2223)" [label="Matthew Craig (2223)
-Liberal Democrats"]
-	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
-Christian Democratic Party (Fred Nile Group)"]
 	"Van Davy (2221)" [label="Van Davy (2221)
 Independent"]
+	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
+Christian Democratic Party (Fred Nile Group)"]
+	"Matthew Craig (2223)" [label="Matthew Craig (2223)
+Liberal Democrats"]
+	"Hillary Morris (2222)" [label="Hillary Morris (2222)
+The Greens"]
 	"Lawrie Higgins (2220)" [label="Lawrie Higgins (2220)
 Antipaedophile Party"]
+	"Matthew Craig (2223)" -> "Hillary Morris (2222)" [label=111]
+	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
+	"Robert Stoddart (2224)" -> "Hillary Morris (2222)" [label=144]
 	"Lawrie Higgins (2220)" -> "Van Davy (2221)" [label=831]
 	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
 	"Lawrie Higgins (2220)" -> "Hillary Morris (2222)" [label=159]
-	"Robert Stoddart (2224)" -> "Van Davy (2221)" [label=661]
-	"Matthew Craig (2223)" -> "Hillary Morris (2222)" [label=111]
-	"Matthew Craig (2223)" -> "Van Davy (2221)" [label=199]
-	"Robert Stoddart (2224)" -> "Hillary Morris (2222)" [label=144]
 	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
+	"Matthew Craig (2223)" -> "Van Davy (2221)" [label=199]
 	"Van Davy (2221)" -> "Hillary Morris (2222)" [label=1466]
-	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
+	"Robert Stoddart (2224)" -> "Van Davy (2221)" [label=661]
 }

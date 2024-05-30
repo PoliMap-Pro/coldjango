@@ -2,31 +2,31 @@
 digraph "Jordan Hall (467)_Forde_2022" {
 	graph [label="Forde 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jordan Hall (467)" [label="Jordan Hall (467)
-Queensland Greens"]
 	"Samuel Holland (468)" [label="Samuel Holland (468)
 TNL"]
-	"Linda Mccarthy (473)" [label="Linda Mccarthy (473)
-Animal Justice Party"]
-	"Christopher Greaves (472)" [label="Christopher Greaves (472)
-Independent"]
-	"Tobby Sutherland (471)" [label="Tobby Sutherland (471)
-Liberal Democrats"]
 	"Roxanne O'Halloran (465)" [label="Roxanne O'Halloran (465)
 United Australia Party"]
-	"Tobby Sutherland (471)" -> "Christopher Greaves (472)" [label=381]
+	"Christopher Greaves (472)" [label="Christopher Greaves (472)
+Independent"]
+	"Linda Mccarthy (473)" [label="Linda Mccarthy (473)
+Animal Justice Party"]
+	"Jordan Hall (467)" [label="Jordan Hall (467)
+Queensland Greens"]
+	"Tobby Sutherland (471)" [label="Tobby Sutherland (471)
+Liberal Democrats"]
+	"Linda Mccarthy (473)" -> "Tobby Sutherland (471)" [label=101]
+	"Linda Mccarthy (473)" -> "Christopher Greaves (472)" [label=862]
+	"Linda Mccarthy (473)" -> "Jordan Hall (467)" [label=626]
+	"Tobby Sutherland (471)" -> "Roxanne O'Halloran (465)" [label=712]
+	"Samuel Holland (468)" -> "Linda Mccarthy (473)" [label=48]
 	"Samuel Holland (468)" -> "Jordan Hall (467)" [label=170]
 	"Samuel Holland (468)" -> "Roxanne O'Halloran (465)" [label=63]
-	"Linda Mccarthy (473)" -> "Jordan Hall (467)" [label=626]
+	"Linda Mccarthy (473)" -> "Roxanne O'Halloran (465)" [label=230]
 	"Samuel Holland (468)" -> "Christopher Greaves (472)" [label=154]
-	"Tobby Sutherland (471)" -> "Jordan Hall (467)" [label=174]
-	"Samuel Holland (468)" -> "Linda Mccarthy (473)" [label=48]
-	"Linda Mccarthy (473)" -> "Christopher Greaves (472)" [label=862]
-	"Linda Mccarthy (473)" -> "Tobby Sutherland (471)" [label=101]
 	"Roxanne O'Halloran (465)" -> "Jordan Hall (467)" [label=1226]
 	"Christopher Greaves (472)" -> "Roxanne O'Halloran (465)" [label=711]
-	"Christopher Greaves (472)" -> "Jordan Hall (467)" [label=1045]
+	"Tobby Sutherland (471)" -> "Christopher Greaves (472)" [label=381]
 	"Samuel Holland (468)" -> "Tobby Sutherland (471)" [label=46]
-	"Linda Mccarthy (473)" -> "Roxanne O'Halloran (465)" [label=230]
-	"Tobby Sutherland (471)" -> "Roxanne O'Halloran (465)" [label=712]
+	"Christopher Greaves (472)" -> "Jordan Hall (467)" [label=1045]
+	"Tobby Sutherland (471)" -> "Jordan Hall (467)" [label=174]
 }

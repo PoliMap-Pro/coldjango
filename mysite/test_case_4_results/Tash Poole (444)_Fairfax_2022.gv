@@ -6,14 +6,14 @@ digraph "Tash Poole (444)_Fairfax_2022" {
 Animal Justice Party"]
 	"Barry Smith (445)" [label="Barry Smith (445)
 Independent"]
-	"Craig White (450)" [label="Craig White (450)
-The Great Australian Party"]
 	"Sinim Barbara Australie (447)" [label="Sinim Barbara Australie (447)
 Independent"]
-	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
-	"Craig White (450)" -> "Barry Smith (445)" [label=104]
-	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
+	"Craig White (450)" [label="Craig White (450)
+The Great Australian Party"]
 	"Craig White (450)" -> "Tash Poole (444)" [label=53]
-	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
 	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
+	"Craig White (450)" -> "Barry Smith (445)" [label=104]
+	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
+	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
+	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
 }

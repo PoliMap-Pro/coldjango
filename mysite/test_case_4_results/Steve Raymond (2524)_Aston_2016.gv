@@ -4,22 +4,22 @@ digraph "Steve Raymond (2524)_Aston_2016" {
 	node [shape=box]
 	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
 Animal Justice Party"]
-	"Steve Raymond (2524)" [label="Steve Raymond (2524)
-The Greens"]
+	"Joel Moore (2527)" [label="Joel Moore (2527)
+Liberal Democrats"]
 	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
 Independent"]
 	"Daniel Edward Martin (2525)" [label="Daniel Edward Martin (2525)
 Family First Party"]
-	"Joel Moore (2527)" [label="Joel Moore (2527)
-Liberal Democrats"]
-	"Joel Moore (2527)" -> "Daniel Edward Martin (2525)" [label=152]
-	"Daniel Huppert (2526)" -> "Steve Raymond (2524)" [label=444]
-	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
-	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
-	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
-	"Joel Moore (2527)" -> "Steve Raymond (2524)" [label=108]
+	"Steve Raymond (2524)" [label="Steve Raymond (2524)
+The Greens"]
 	"Rosemary Lavin (1760)" -> "Steve Raymond (2524)" [label=923]
-	"Daniel Huppert (2526)" -> "Daniel Edward Martin (2525)" [label=585]
+	"Daniel Huppert (2526)" -> "Steve Raymond (2524)" [label=444]
 	"Daniel Edward Martin (2525)" -> "Steve Raymond (2524)" [label=1482]
+	"Joel Moore (2527)" -> "Steve Raymond (2524)" [label=108]
+	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
+	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
+	"Daniel Huppert (2526)" -> "Daniel Edward Martin (2525)" [label=585]
 	"Rosemary Lavin (1760)" -> "Daniel Edward Martin (2525)" [label=848]
+	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
+	"Joel Moore (2527)" -> "Daniel Edward Martin (2525)" [label=152]
 }

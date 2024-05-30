@@ -2,31 +2,31 @@
 digraph "Chris Gambian (1219)_Banks_2016" {
 	graph [label="Banks 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bob Spanswick (2036)" [label="Bob Spanswick (2036)
-Independent"]
-	"Chris Gambian (1219)" [label="Chris Gambian (1219)
-Labor"]
-	"Greg Bondar (2034)" [label="Greg Bondar (2034)
-Christian Democratic Party (Fred Nile Group)"]
-	"Philippa Clark (2033)" [label="Philippa Clark (2033)
-The Greens"]
-	"Roy Owen Barnes (2035)" [label="Roy Owen Barnes (2035)
-Animal Justice Party"]
 	"Sharon Wu (2032)" [label="Sharon Wu (2032)
 Family First"]
-	"Bob Spanswick (2036)" -> "Chris Gambian (1219)" [label=252]
-	"Bob Spanswick (2036)" -> "Greg Bondar (2034)" [label=163]
-	"Bob Spanswick (2036)" -> "Philippa Clark (2033)" [label=150]
-	"Bob Spanswick (2036)" -> "Roy Owen Barnes (2035)" [label=340]
-	"Bob Spanswick (2036)" -> "Sharon Wu (2032)" [label=184]
-	"Greg Bondar (2034)" -> "Chris Gambian (1219)" [label=1045]
-	"Greg Bondar (2034)" -> "Philippa Clark (2033)" [label=658]
-	"Philippa Clark (2033)" -> "Chris Gambian (1219)" [label=5520]
-	"Roy Owen Barnes (2035)" -> "Chris Gambian (1219)" [label=476]
-	"Roy Owen Barnes (2035)" -> "Greg Bondar (2034)" [label=578]
-	"Roy Owen Barnes (2035)" -> "Philippa Clark (2033)" [label=745]
-	"Sharon Wu (2032)" -> "Chris Gambian (1219)" [label=439]
-	"Sharon Wu (2032)" -> "Greg Bondar (2034)" [label=386]
+	"Roy Owen Barnes (2035)" [label="Roy Owen Barnes (2035)
+Animal Justice Party"]
+	"Chris Gambian (1219)" [label="Chris Gambian (1219)
+Labor"]
+	"Bob Spanswick (2036)" [label="Bob Spanswick (2036)
+Independent"]
+	"Philippa Clark (2033)" [label="Philippa Clark (2033)
+The Greens"]
+	"Greg Bondar (2034)" [label="Greg Bondar (2034)
+Christian Democratic Party (Fred Nile Group)"]
 	"Sharon Wu (2032)" -> "Philippa Clark (2033)" [label=316]
+	"Greg Bondar (2034)" -> "Philippa Clark (2033)" [label=658]
+	"Roy Owen Barnes (2035)" -> "Philippa Clark (2033)" [label=745]
+	"Bob Spanswick (2036)" -> "Roy Owen Barnes (2035)" [label=340]
+	"Roy Owen Barnes (2035)" -> "Greg Bondar (2034)" [label=578]
+	"Greg Bondar (2034)" -> "Chris Gambian (1219)" [label=1045]
 	"Sharon Wu (2032)" -> "Roy Owen Barnes (2035)" [label=298]
+	"Bob Spanswick (2036)" -> "Philippa Clark (2033)" [label=150]
+	"Bob Spanswick (2036)" -> "Chris Gambian (1219)" [label=252]
+	"Bob Spanswick (2036)" -> "Sharon Wu (2032)" [label=184]
+	"Sharon Wu (2032)" -> "Greg Bondar (2034)" [label=386]
+	"Bob Spanswick (2036)" -> "Greg Bondar (2034)" [label=163]
+	"Philippa Clark (2033)" -> "Chris Gambian (1219)" [label=5520]
+	"Sharon Wu (2032)" -> "Chris Gambian (1219)" [label=439]
+	"Roy Owen Barnes (2035)" -> "Chris Gambian (1219)" [label=476]
 }

@@ -6,14 +6,14 @@ digraph "Scott Jordan (2505)_Braddon_2016" {
 Christian Democratic Party (Fred Nile Group)"]
 	"Clinton Rice (2509)" [label="Clinton Rice (2509)
 Renewable Energy Party"]
-	"Scott Jordan (2505)" [label="Scott Jordan (2505)
-The Greens"]
 	"Joshua Boag (2510)" [label="Joshua Boag (2510)
 Liberal Democrats"]
+	"Scott Jordan (2505)" [label="Scott Jordan (2505)
+The Greens"]
 	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
-	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
 	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
+	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
+	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
 	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
 	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
-	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
 }

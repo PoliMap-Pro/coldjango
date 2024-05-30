@@ -2,13 +2,13 @@
 digraph "Robert Stoddart (2224)_Robertson_2016" {
 	graph [label="Robertson 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Matthew Craig (2223)" [label="Matthew Craig (2223)
+Liberal Democrats"]
 	"Robert Stoddart (2224)" [label="Robert Stoddart (2224)
 Christian Democratic Party (Fred Nile Group)"]
 	"Lawrie Higgins (2220)" [label="Lawrie Higgins (2220)
 Antipaedophile Party"]
-	"Matthew Craig (2223)" [label="Matthew Craig (2223)
-Liberal Democrats"]
-	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
-	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
 	"Matthew Craig (2223)" -> "Robert Stoddart (2224)" [label=229]
+	"Matthew Craig (2223)" -> "Lawrie Higgins (2220)" [label=102]
+	"Lawrie Higgins (2220)" -> "Robert Stoddart (2224)" [label=113]
 }

@@ -2,31 +2,31 @@
 digraph "Jeffrey Bartram (2656)_La Trobe_2016" {
 	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeffrey Bartram (2656)" [label="Jeffrey Bartram (2656)
-Family First Party"]
-	"Leah Folloni (2650)" [label="Leah Folloni (2650)
-Animal Justice Party"]
-	"Martin Leahy (2655)" [label="Martin Leahy (2655)
-Australian Sex Party"]
-	"David Fent (2654)" [label="David Fent (2654)
-Shooters, Fishers and Farmers"]
 	"Leslie Hughes (2652)" [label="Leslie Hughes (2652)
 Liberal Democrats"]
+	"Martin Leahy (2655)" [label="Martin Leahy (2655)
+Australian Sex Party"]
 	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
 Rise Up Australia Party"]
-	"Leah Folloni (2650)" -> "Jeffrey Bartram (2656)" [label=440]
+	"Jeffrey Bartram (2656)" [label="Jeffrey Bartram (2656)
+Family First Party"]
+	"David Fent (2654)" [label="David Fent (2654)
+Shooters, Fishers and Farmers"]
+	"Leah Folloni (2650)" [label="Leah Folloni (2650)
+Animal Justice Party"]
+	"Leslie Hughes (2652)" -> "Leah Folloni (2650)" [label=65]
+	"Leslie Hughes (2652)" -> "Martin Leahy (2655)" [label=117]
 	"Martin Leahy (2655)" -> "Leah Folloni (2650)" [label=356]
+	"Leslie Hughes (2652)" -> "Jeffrey Bartram (2656)" [label=103]
+	"Martin Leahy (2655)" -> "Jeffrey Bartram (2656)" [label=567]
+	"Leah Folloni (2650)" -> "Jeffrey Bartram (2656)" [label=440]
+	"Margaret Quinn (2653)" -> "Jeffrey Bartram (2656)" [label=416]
+	"David Fent (2654)" -> "Leah Folloni (2650)" [label=98]
 	"David Fent (2654)" -> "Martin Leahy (2655)" [label=347]
 	"Leslie Hughes (2652)" -> "David Fent (2654)" [label=87]
-	"Margaret Quinn (2653)" -> "Leslie Hughes (2652)" [label=58]
-	"Martin Leahy (2655)" -> "Jeffrey Bartram (2656)" [label=567]
-	"David Fent (2654)" -> "Jeffrey Bartram (2656)" [label=354]
-	"Leslie Hughes (2652)" -> "Jeffrey Bartram (2656)" [label=103]
-	"Margaret Quinn (2653)" -> "Jeffrey Bartram (2656)" [label=416]
-	"Margaret Quinn (2653)" -> "David Fent (2654)" [label=138]
-	"Leslie Hughes (2652)" -> "Martin Leahy (2655)" [label=117]
-	"Margaret Quinn (2653)" -> "Martin Leahy (2655)" [label=41]
-	"David Fent (2654)" -> "Leah Folloni (2650)" [label=98]
-	"Leslie Hughes (2652)" -> "Leah Folloni (2650)" [label=65]
 	"Margaret Quinn (2653)" -> "Leah Folloni (2650)" [label=74]
+	"Margaret Quinn (2653)" -> "Martin Leahy (2655)" [label=41]
+	"Margaret Quinn (2653)" -> "David Fent (2654)" [label=138]
+	"David Fent (2654)" -> "Jeffrey Bartram (2656)" [label=354]
+	"Margaret Quinn (2653)" -> "Leslie Hughes (2652)" [label=58]
 }

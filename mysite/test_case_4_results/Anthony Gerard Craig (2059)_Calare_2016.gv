@@ -2,9 +2,9 @@
 digraph "Anthony Gerard Craig (2059)_Calare_2016" {
 	graph [label="Calare 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
-Independent"]
 	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
 Christian Democratic Party (Fred Nile Group)"]
+	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
+Independent"]
 	"Bernie Gesling (2058)" -> "Anthony Gerard Craig (2059)" [label=390]
 }

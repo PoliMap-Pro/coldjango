@@ -14,7 +14,7 @@ class Poll(aggregate.Aggregator):
         return {}, place_set
 
     def thin_representation_set(self, party_set, place_set):
-        if isinstance(place_set[0], place.Seat):
+        if place_set and len(place_set) > 0 and isinstance(place_set[0], place.Seat):
             contention_set = service.Contention.objects.filter(
                 election=self, seat__in=place_set)
         else:

@@ -9,6 +9,6 @@ Animal Justice Party"]
 	"Melanie Vassiliou (2566)" [label="Melanie Vassiliou (2566)
 Rise Up Australia Party"]
 	"Nyree Walshe (2567)" -> "Craig Mccracken (2568)" [label=909]
-	"Melanie Vassiliou (2566)" -> "Nyree Walshe (2567)" [label=548]
 	"Melanie Vassiliou (2566)" -> "Craig Mccracken (2568)" [label=603]
+	"Melanie Vassiliou (2566)" -> "Nyree Walshe (2567)" [label=548]
 }

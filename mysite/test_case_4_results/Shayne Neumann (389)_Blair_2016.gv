@@ -2,39 +2,39 @@
 digraph "Shayne Neumann (389)_Blair_2016" {
 	graph [label="Blair 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Geoff Darr (2289)" [label="Geoff Darr (2289)
-Family First"]
-	"Jonathan Emms (2284)" [label="Jonathan Emms (2284)
-Independent"]
 	"Pat Walsh (2286)" [label="Pat Walsh (2286)
 The Greens"]
-	"Patricia Petersen (2285)" [label="Patricia Petersen (2285)
+	"Jonathan Emms (2284)" [label="Jonathan Emms (2284)
 Independent"]
+	"Troy Aggett (2287)" [label="Troy Aggett (2287)
+Pauline Hanson's One Nation"]
 	"Sandy Turner (2283)" [label="Sandy Turner (2283)
 Independent"]
 	"Shayne Neumann (389)" [label="Shayne Neumann (389)
 Australian Labor Party"]
-	"Troy Aggett (2287)" [label="Troy Aggett (2287)
-Pauline Hanson's One Nation"]
-	"Geoff Darr (2289)" -> "Pat Walsh (2286)" [label=280]
-	"Geoff Darr (2289)" -> "Sandy Turner (2283)" [label=437]
-	"Geoff Darr (2289)" -> "Shayne Neumann (389)" [label=362]
-	"Geoff Darr (2289)" -> "Troy Aggett (2287)" [label=799]
-	"Jonathan Emms (2284)" -> "Geoff Darr (2289)" [label=53]
-	"Jonathan Emms (2284)" -> "Pat Walsh (2286)" [label=53]
-	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
-	"Jonathan Emms (2284)" -> "Sandy Turner (2283)" [label=342]
-	"Jonathan Emms (2284)" -> "Shayne Neumann (389)" [label=89]
-	"Jonathan Emms (2284)" -> "Troy Aggett (2287)" [label=57]
-	"Pat Walsh (2286)" -> "Shayne Neumann (389)" [label=4229]
-	"Pat Walsh (2286)" -> "Troy Aggett (2287)" [label=1378]
-	"Patricia Petersen (2285)" -> "Geoff Darr (2289)" [label=74]
-	"Patricia Petersen (2285)" -> "Pat Walsh (2286)" [label=197]
-	"Patricia Petersen (2285)" -> "Sandy Turner (2283)" [label=572]
-	"Patricia Petersen (2285)" -> "Shayne Neumann (389)" [label=342]
-	"Patricia Petersen (2285)" -> "Troy Aggett (2287)" [label=204]
-	"Sandy Turner (2283)" -> "Pat Walsh (2286)" [label=698]
-	"Sandy Turner (2283)" -> "Shayne Neumann (389)" [label=1184]
+	"Geoff Darr (2289)" [label="Geoff Darr (2289)
+Family First"]
+	"Patricia Petersen (2285)" [label="Patricia Petersen (2285)
+Independent"]
 	"Sandy Turner (2283)" -> "Troy Aggett (2287)" [label=975]
+	"Pat Walsh (2286)" -> "Troy Aggett (2287)" [label=1378]
+	"Jonathan Emms (2284)" -> "Troy Aggett (2287)" [label=57]
 	"Troy Aggett (2287)" -> "Shayne Neumann (389)" [label=8261]
+	"Sandy Turner (2283)" -> "Pat Walsh (2286)" [label=698]
+	"Jonathan Emms (2284)" -> "Sandy Turner (2283)" [label=342]
+	"Patricia Petersen (2285)" -> "Shayne Neumann (389)" [label=342]
+	"Patricia Petersen (2285)" -> "Pat Walsh (2286)" [label=197]
+	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
+	"Sandy Turner (2283)" -> "Shayne Neumann (389)" [label=1184]
+	"Geoff Darr (2289)" -> "Pat Walsh (2286)" [label=280]
+	"Jonathan Emms (2284)" -> "Shayne Neumann (389)" [label=89]
+	"Geoff Darr (2289)" -> "Sandy Turner (2283)" [label=437]
+	"Jonathan Emms (2284)" -> "Geoff Darr (2289)" [label=53]
+	"Geoff Darr (2289)" -> "Troy Aggett (2287)" [label=799]
+	"Jonathan Emms (2284)" -> "Pat Walsh (2286)" [label=53]
+	"Geoff Darr (2289)" -> "Shayne Neumann (389)" [label=362]
+	"Patricia Petersen (2285)" -> "Geoff Darr (2289)" [label=74]
+	"Pat Walsh (2286)" -> "Shayne Neumann (389)" [label=4229]
+	"Patricia Petersen (2285)" -> "Troy Aggett (2287)" [label=204]
+	"Patricia Petersen (2285)" -> "Sandy Turner (2283)" [label=572]
 }

@@ -2,18 +2,18 @@
 digraph "Gary Wheatcroft (2456)_Boothby_2016" {
 	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Gary Wheatcroft (2456)" [label="Gary Wheatcroft (2456)
-Family First"]
 	"Evelyn Carroll (2457)" [label="Evelyn Carroll (2457)
 Animal Justice Party"]
-	"Jamie Armfield (2455)" [label="Jamie Armfield (2455)
-Independent"]
 	"Robert De Jonge (2459)" [label="Robert De Jonge (2459)
 Independent"]
-	"Evelyn Carroll (2457)" -> "Gary Wheatcroft (2456)" [label=199]
-	"Jamie Armfield (2455)" -> "Evelyn Carroll (2457)" [label=121]
+	"Gary Wheatcroft (2456)" [label="Gary Wheatcroft (2456)
+Family First"]
+	"Jamie Armfield (2455)" [label="Jamie Armfield (2455)
+Independent"]
 	"Robert De Jonge (2459)" -> "Jamie Armfield (2455)" [label=146]
-	"Jamie Armfield (2455)" -> "Gary Wheatcroft (2456)" [label=101]
 	"Robert De Jonge (2459)" -> "Gary Wheatcroft (2456)" [label=18]
+	"Evelyn Carroll (2457)" -> "Gary Wheatcroft (2456)" [label=199]
+	"Jamie Armfield (2455)" -> "Gary Wheatcroft (2456)" [label=101]
 	"Robert De Jonge (2459)" -> "Evelyn Carroll (2457)" [label=31]
+	"Jamie Armfield (2455)" -> "Evelyn Carroll (2457)" [label=121]
 }

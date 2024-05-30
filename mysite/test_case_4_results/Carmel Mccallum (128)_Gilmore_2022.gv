@@ -2,24 +2,24 @@
 digraph "Carmel Mccallum (128)_Gilmore_2022" {
 	graph [label="Gilmore 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
-The Greens"]
-	"Jordan Lindsay Maloney (129)" [label="Jordan Lindsay Maloney (129)
-United Australia Party"]
 	"Jerremy Eid (130)" [label="Jerremy Eid (130)
 Pauline Hanson's One Nation"]
-	"Nina Digiglio (127)" [label="Nina Digiglio (127)
-Independent"]
+	"Jordan Lindsay Maloney (129)" [label="Jordan Lindsay Maloney (129)
+United Australia Party"]
 	"Adrian Fadini (131)" [label="Adrian Fadini (131)
 Liberal Democrats"]
-	"Adrian Fadini (131)" -> "Nina Digiglio (127)" [label=91]
-	"Adrian Fadini (131)" -> "Jerremy Eid (130)" [label=242]
-	"Jordan Lindsay Maloney (129)" -> "Nina Digiglio (127)" [label=745]
+	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
+The Greens"]
+	"Nina Digiglio (127)" [label="Nina Digiglio (127)
+Independent"]
 	"Adrian Fadini (131)" -> "Carmel Mccallum (128)" [label=47]
-	"Jordan Lindsay Maloney (129)" -> "Carmel Mccallum (128)" [label=213]
-	"Nina Digiglio (127)" -> "Jerremy Eid (130)" [label=2333]
+	"Adrian Fadini (131)" -> "Jerremy Eid (130)" [label=242]
 	"Jerremy Eid (130)" -> "Carmel Mccallum (128)" [label=2430]
-	"Nina Digiglio (127)" -> "Carmel Mccallum (128)" [label=1212]
+	"Nina Digiglio (127)" -> "Jerremy Eid (130)" [label=2333]
 	"Adrian Fadini (131)" -> "Jordan Lindsay Maloney (129)" [label=132]
+	"Adrian Fadini (131)" -> "Nina Digiglio (127)" [label=91]
+	"Jordan Lindsay Maloney (129)" -> "Carmel Mccallum (128)" [label=213]
 	"Jordan Lindsay Maloney (129)" -> "Jerremy Eid (130)" [label=1553]
+	"Jordan Lindsay Maloney (129)" -> "Nina Digiglio (127)" [label=745]
+	"Nina Digiglio (127)" -> "Carmel Mccallum (128)" [label=1212]
 }

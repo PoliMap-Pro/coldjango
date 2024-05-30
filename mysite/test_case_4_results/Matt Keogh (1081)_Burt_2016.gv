@@ -10,10 +10,10 @@ Australian Labor Party"]
 The Greens (WA)"]
 	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
 Australian Christians"]
+	"Warnar Spyker (1080)" -> "Muhammad Salman (2724)" [label=902]
 	"Ian Blevin (2726)" -> "Matt Keogh (1081)" [label=1054]
 	"Ian Blevin (2726)" -> "Muhammad Salman (2724)" [label=627]
-	"Ian Blevin (2726)" -> "Warnar Spyker (1080)" [label=1226]
-	"Muhammad Salman (2724)" -> "Matt Keogh (1081)" [label=6325]
 	"Warnar Spyker (1080)" -> "Matt Keogh (1081)" [label=1125]
-	"Warnar Spyker (1080)" -> "Muhammad Salman (2724)" [label=902]
+	"Muhammad Salman (2724)" -> "Matt Keogh (1081)" [label=6325]
+	"Ian Blevin (2726)" -> "Warnar Spyker (1080)" [label=1226]
 }

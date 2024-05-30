@@ -8,7 +8,7 @@ Animal Justice Party"]
 Voluntary Euthanasia Party"]
 	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
 Independent"]
+	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
 	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
 	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
-	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
 }

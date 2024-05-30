@@ -9,6 +9,6 @@ Independent"]
 	"Samantha Bastin (827)" [label="Samantha Bastin (827)
 Australian Federation Party"]
 	"Judith Thompson (825)" -> "Qian Liu (821)" [label=116]
-	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
 	"Samantha Bastin (827)" -> "Qian Liu (821)" [label=44]
+	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
 }

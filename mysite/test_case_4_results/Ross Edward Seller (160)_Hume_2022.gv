@@ -8,7 +8,7 @@ Shooters, Fishers and Farmers Party"]
 Independent"]
 	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
 Liberal Democrats"]
-	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
-	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
 	"Joaquim Eduardo De Lima (163)" -> "Ross Edward Seller (160)" [label=76]
+	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
+	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
 }

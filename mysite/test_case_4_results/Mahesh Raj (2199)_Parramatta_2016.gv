@@ -2,18 +2,18 @@
 digraph "Mahesh Raj (2199)_Parramatta_2016" {
 	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
-Online Direct Democracy - (Empowering the People!)"]
-	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
-Independent"]
 	"Mark Guest (2200)" [label="Mark Guest (2200)
 Liberal Democrats"]
 	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
 Family First"]
-	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
+	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
+Online Direct Democracy - (Empowering the People!)"]
+	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
+Independent"]
 	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
 	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
-	"Mark Guest (2200)" -> "Mahesh Raj (2199)" [label=189]
-	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
 	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
+	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
+	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
+	"Mark Guest (2200)" -> "Mahesh Raj (2199)" [label=189]
 }

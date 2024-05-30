@@ -2,8 +2,6 @@
 digraph "Riley Campbell (155)_Hughes_2022" {
 	graph [label="Hughes 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Craig Kelly (152)" [label="Craig Kelly (152)
-United Australia Party"]
 	"Georgia Steele (151)" [label="Georgia Steele (151)
 Independent"]
 	"Linda Seymour (154)" [label="Linda Seymour (154)
@@ -14,19 +12,21 @@ Pauline Hanson's One Nation"]
 The Greens"]
 	"Riley Campbell (155)" [label="Riley Campbell (155)
 Labor"]
-	"Craig Kelly (152)" -> "Georgia Steele (151)" [label=3162]
-	"Craig Kelly (152)" -> "Riley Campbell (155)" [label=1529]
-	"Georgia Steele (151)" -> "Riley Campbell (155)" [label=14402]
-	"Linda Seymour (154)" -> "Craig Kelly (152)" [label=225]
-	"Linda Seymour (154)" -> "Georgia Steele (151)" [label=1761]
-	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
-	"Linda Seymour (154)" -> "Riley Campbell (155)" [label=681]
-	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
+	"Craig Kelly (152)" [label="Craig Kelly (152)
+United Australia Party"]
 	"Narelle Seymour (153)" -> "Georgia Steele (151)" [label=256]
+	"Linda Seymour (154)" -> "Riley Campbell (155)" [label=681]
+	"Linda Seymour (154)" -> "Craig Kelly (152)" [label=225]
+	"Craig Kelly (152)" -> "Georgia Steele (151)" [label=3162]
+	"Pete Thompson (150)" -> "Riley Campbell (155)" [label=3011]
+	"Georgia Steele (151)" -> "Riley Campbell (155)" [label=14402]
+	"Pete Thompson (150)" -> "Georgia Steele (151)" [label=2622]
+	"Narelle Seymour (153)" -> "Riley Campbell (155)" [label=214]
+	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
 	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
 	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
-	"Narelle Seymour (153)" -> "Riley Campbell (155)" [label=214]
+	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
+	"Craig Kelly (152)" -> "Riley Campbell (155)" [label=1529]
+	"Linda Seymour (154)" -> "Georgia Steele (151)" [label=1761]
 	"Pete Thompson (150)" -> "Craig Kelly (152)" [label=290]
-	"Pete Thompson (150)" -> "Georgia Steele (151)" [label=2622]
-	"Pete Thompson (150)" -> "Riley Campbell (155)" [label=3011]
 }

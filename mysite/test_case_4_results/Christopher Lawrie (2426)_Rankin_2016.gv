@@ -4,22 +4,22 @@ digraph "Christopher Lawrie (2426)_Rankin_2016" {
 	node [shape=box]
 	"Christopher Lawrie (2426)" [label="Christopher Lawrie (2426)
 Family First"]
+	"Shane Holley (2423)" [label="Shane Holley (2423)
+Katter's Australian Party"]
 	"Neil Cotter (579)" [label="Neil Cotter (579)
 The Greens"]
 	"Ric Davies (1627)" [label="Ric Davies (1627)
 Liberal Democrats"]
-	"Shane Holley (2423)" [label="Shane Holley (2423)
-Katter's Australian Party"]
 	"Jeffrey Dale Hodges (2424)" [label="Jeffrey Dale Hodges (2424)
 Consumer Rights & No-Tolls"]
-	"Neil Cotter (579)" -> "Christopher Lawrie (2426)" [label=1496]
-	"Ric Davies (1627)" -> "Neil Cotter (579)" [label=641]
-	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
-	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
-	"Ric Davies (1627)" -> "Christopher Lawrie (2426)" [label=695]
-	"Shane Holley (2423)" -> "Christopher Lawrie (2426)" [label=1370]
 	"Jeffrey Dale Hodges (2424)" -> "Christopher Lawrie (2426)" [label=609]
 	"Jeffrey Dale Hodges (2424)" -> "Ric Davies (1627)" [label=148]
-	"Shane Holley (2423)" -> "Neil Cotter (579)" [label=399]
+	"Neil Cotter (579)" -> "Christopher Lawrie (2426)" [label=1496]
+	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
+	"Ric Davies (1627)" -> "Neil Cotter (579)" [label=641]
 	"Jeffrey Dale Hodges (2424)" -> "Neil Cotter (579)" [label=324]
+	"Shane Holley (2423)" -> "Neil Cotter (579)" [label=399]
+	"Ric Davies (1627)" -> "Christopher Lawrie (2426)" [label=695]
+	"Shane Holley (2423)" -> "Christopher Lawrie (2426)" [label=1370]
+	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
 }

@@ -6,27 +6,27 @@ digraph "Frank Gilbert (2312)_Dawson_2016" {
 Family First"]
 	"Ash Dodd (2310)" [label="Ash Dodd (2310)
 Katter's Australian Party"]
+	"Michael Hall (2308)" [label="Michael Hall (2308)
+Glenn Lazarus Team"]
 	"Frank Gilbert (2312)" [label="Frank Gilbert (2312)
 Australian Labor Party"]
 	"Jonathon Dykyj (2313)" [label="Jonathon Dykyj (2313)
 The Greens"]
-	"Michael Hall (2308)" [label="Michael Hall (2308)
-Glenn Lazarus Team"]
 	"Steven Large (2309)" [label="Steven Large (2309)
 Independent"]
+	"Michael Hall (2308)" -> "Jonathon Dykyj (2313)" [label=247]
+	"Michael Hall (2308)" -> "Frank Gilbert (2312)" [label=648]
+	"Steven Large (2309)" -> "Frank Gilbert (2312)" [label=1916]
+	"Jonathon Dykyj (2313)" -> "Frank Gilbert (2312)" [label=2983]
 	"Amanda Nickson (2311)" -> "Ash Dodd (2310)" [label=731]
-	"Amanda Nickson (2311)" -> "Frank Gilbert (2312)" [label=582]
-	"Amanda Nickson (2311)" -> "Jonathon Dykyj (2313)" [label=435]
-	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
 	"Amanda Nickson (2311)" -> "Steven Large (2309)" [label=627]
+	"Amanda Nickson (2311)" -> "Michael Hall (2308)" [label=337]
+	"Steven Large (2309)" -> "Ash Dodd (2310)" [label=3498]
+	"Michael Hall (2308)" -> "Ash Dodd (2310)" [label=1248]
+	"Amanda Nickson (2311)" -> "Frank Gilbert (2312)" [label=582]
 	"Ash Dodd (2310)" -> "Frank Gilbert (2312)" [label=6396]
 	"Jonathon Dykyj (2313)" -> "Ash Dodd (2310)" [label=577]
-	"Jonathon Dykyj (2313)" -> "Frank Gilbert (2312)" [label=2983]
+	"Amanda Nickson (2311)" -> "Jonathon Dykyj (2313)" [label=435]
 	"Jonathon Dykyj (2313)" -> "Steven Large (2309)" [label=1173]
-	"Michael Hall (2308)" -> "Ash Dodd (2310)" [label=1248]
-	"Michael Hall (2308)" -> "Frank Gilbert (2312)" [label=648]
-	"Michael Hall (2308)" -> "Jonathon Dykyj (2313)" [label=247]
 	"Michael Hall (2308)" -> "Steven Large (2309)" [label=1214]
-	"Steven Large (2309)" -> "Ash Dodd (2310)" [label=3498]
-	"Steven Large (2309)" -> "Frank Gilbert (2312)" [label=1916]
 }

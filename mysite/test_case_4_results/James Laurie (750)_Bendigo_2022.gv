@@ -2,9 +2,9 @@
 digraph "James Laurie (750)_Bendigo_2022" {
 	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"James Laurie (750)" [label="James Laurie (750)
-Independent"]
 	"Matt Bansemer (754)" [label="Matt Bansemer (754)
 Liberal Democrats"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
 	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
 }

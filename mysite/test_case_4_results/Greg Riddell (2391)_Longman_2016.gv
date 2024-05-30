@@ -2,18 +2,18 @@
 digraph "Greg Riddell (2391)_Longman_2016" {
 	graph [label="Longman 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Rob Law (2392)" [label="Rob Law (2392)
+Independent"]
 	"Caleb Wells (2388)" [label="Caleb Wells (2388)
 "]
 	"Greg Riddell (2391)" [label="Greg Riddell (2391)
 Independent"]
-	"Rob Law (2392)" [label="Rob Law (2392)
-Independent"]
 	"Stephen Beck (2390)" [label="Stephen Beck (2390)
 The Arts Party"]
-	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
 	"Caleb Wells (2388)" -> "Rob Law (2392)" [label=30]
-	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
-	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
-	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
 	"Stephen Beck (2390)" -> "Rob Law (2392)" [label=15]
+	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
+	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
+	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
+	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
 }

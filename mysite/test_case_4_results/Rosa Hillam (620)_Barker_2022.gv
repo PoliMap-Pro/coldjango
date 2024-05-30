@@ -6,27 +6,27 @@ digraph "Rosa Hillam (620)_Barker_2022" {
 National Party"]
 	"Rosa Hillam (620)" [label="Rosa Hillam (620)
 The Greens"]
-	"David Swiggs (622)" [label="David Swiggs (622)
-United Australia Party"]
 	"Kym Hanton (624)" [label="Kym Hanton (624)
 Australian Federation Party"]
+	"David Swiggs (622)" [label="David Swiggs (622)
+United Australia Party"]
 	"Vince Pannell (618)" [label="Vince Pannell (618)
 Independent"]
 	"Maddy Fry (619)" [label="Maddy Fry (619)
 Independent"]
-	"Jonathan Pietzsch (616)" -> "Rosa Hillam (620)" [label=188]
-	"Kym Hanton (624)" -> "Vince Pannell (618)" [label=61]
-	"David Swiggs (622)" -> "Rosa Hillam (620)" [label=338]
-	"Kym Hanton (624)" -> "Rosa Hillam (620)" [label=50]
-	"David Swiggs (622)" -> "Maddy Fry (619)" [label=1238]
 	"Vince Pannell (618)" -> "David Swiggs (622)" [label=66]
-	"Kym Hanton (624)" -> "Maddy Fry (619)" [label=100]
+	"David Swiggs (622)" -> "Rosa Hillam (620)" [label=338]
+	"Maddy Fry (619)" -> "Rosa Hillam (620)" [label=1247]
 	"Vince Pannell (618)" -> "Jonathan Pietzsch (616)" [label=109]
+	"Vince Pannell (618)" -> "Rosa Hillam (620)" [label=105]
+	"Kym Hanton (624)" -> "Maddy Fry (619)" [label=100]
+	"Kym Hanton (624)" -> "Vince Pannell (618)" [label=61]
+	"David Swiggs (622)" -> "Maddy Fry (619)" [label=1238]
 	"Jonathan Pietzsch (616)" -> "Maddy Fry (619)" [label=254]
+	"Kym Hanton (624)" -> "Rosa Hillam (620)" [label=50]
+	"Kym Hanton (624)" -> "David Swiggs (622)" [label=139]
+	"Jonathan Pietzsch (616)" -> "Rosa Hillam (620)" [label=188]
 	"Vince Pannell (618)" -> "Maddy Fry (619)" [label=1274]
 	"Kym Hanton (624)" -> "Jonathan Pietzsch (616)" [label=71]
-	"Maddy Fry (619)" -> "Rosa Hillam (620)" [label=1247]
-	"Kym Hanton (624)" -> "David Swiggs (622)" [label=139]
-	"Vince Pannell (618)" -> "Rosa Hillam (620)" [label=105]
 	"Jonathan Pietzsch (616)" -> "David Swiggs (622)" [label=200]
 }

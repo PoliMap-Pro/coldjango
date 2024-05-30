@@ -9,6 +9,6 @@ Victorian Socialists"]
 	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
 Australian Federation Party"]
 	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
-	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
 	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
+	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
 }

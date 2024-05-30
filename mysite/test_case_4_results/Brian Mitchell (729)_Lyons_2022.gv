@@ -2,39 +2,39 @@
 digraph "Brian Mitchell (729)_Lyons_2022" {
 	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
-Animal Justice Party"]
-	"Brian Mitchell (729)" [label="Brian Mitchell (729)
-Australian Labor Party"]
-	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
-Pauline Hanson's One Nation"]
-	"Jason Evans (731)" [label="Jason Evans (731)
-United Australia Party"]
-	"Liz Johnstone (734)" [label="Liz Johnstone (734)
-The Greens"]
-	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
-Liberal Democrats"]
 	"Troy Robert Pfitzner (732)" [label="Troy Robert Pfitzner (732)
 Jacqui Lambie Network"]
+	"Brian Mitchell (729)" [label="Brian Mitchell (729)
+Australian Labor Party"]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Jason Evans (731)" [label="Jason Evans (731)
+United Australia Party"]
+	"Liz Johnstone (734)" -> "Troy Robert Pfitzner (732)" [label=3243]
+	"Anna Megan Gralton (730)" -> "Troy Robert Pfitzner (732)" [label=293]
+	"Rhys Griffiths (728)" -> "Brian Mitchell (729)" [label=109]
+	"Troy Robert Pfitzner (732)" -> "Brian Mitchell (729)" [label=9303]
+	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
+	"Jason Evans (731)" -> "Brian Mitchell (729)" [label=281]
+	"Jason Evans (731)" -> "Troy Robert Pfitzner (732)" [label=639]
+	"Rhys Griffiths (728)" -> "Troy Robert Pfitzner (732)" [label=81]
+	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
 	"Anna Megan Gralton (730)" -> "Brian Mitchell (729)" [label=227]
+	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
+	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
+	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]
+	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
+	"Liz Johnstone (734)" -> "Brian Mitchell (729)" [label=5434]
+	"Emma Jane Goyne (733)" -> "Troy Robert Pfitzner (732)" [label=2630]
+	"Emma Jane Goyne (733)" -> "Brian Mitchell (729)" [label=692]
 	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
 	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
 	"Anna Megan Gralton (730)" -> "Liz Johnstone (734)" [label=374]
-	"Anna Megan Gralton (730)" -> "Troy Robert Pfitzner (732)" [label=293]
-	"Emma Jane Goyne (733)" -> "Brian Mitchell (729)" [label=692]
-	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
-	"Emma Jane Goyne (733)" -> "Troy Robert Pfitzner (732)" [label=2630]
-	"Jason Evans (731)" -> "Brian Mitchell (729)" [label=281]
 	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
-	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
-	"Jason Evans (731)" -> "Troy Robert Pfitzner (732)" [label=639]
-	"Liz Johnstone (734)" -> "Brian Mitchell (729)" [label=5434]
-	"Liz Johnstone (734)" -> "Troy Robert Pfitzner (732)" [label=3243]
-	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
-	"Rhys Griffiths (728)" -> "Brian Mitchell (729)" [label=109]
-	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
-	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]
-	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
-	"Rhys Griffiths (728)" -> "Troy Robert Pfitzner (732)" [label=81]
-	"Troy Robert Pfitzner (732)" -> "Brian Mitchell (729)" [label=9303]
 }

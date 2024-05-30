@@ -6,20 +6,20 @@ digraph "Will Simon (572)_Petrie_2022" {
 Queensland Greens"]
 	"Anneke Wilson (573)" [label="Anneke Wilson (573)
 Liberal Democrats"]
-	"Marcus Mitchell (574)" [label="Marcus Mitchell (574)
-Pauline Hanson's One Nation"]
 	"Chris Cicchitti (577)" [label="Chris Cicchitti (577)
 Animal Justice Party"]
 	"Kelly Anne Guenoun (571)" [label="Kelly Anne Guenoun (571)
 United Australia Party"]
-	"Anneke Wilson (573)" -> "Marcus Mitchell (574)" [label=422]
-	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
-	"Chris Cicchitti (577)" -> "Kelly Anne Guenoun (571)" [label=331]
-	"Marcus Mitchell (574)" -> "Will Simon (572)" [label=814]
-	"Anneke Wilson (573)" -> "Will Simon (572)" [label=263]
-	"Chris Cicchitti (577)" -> "Will Simon (572)" [label=939]
-	"Kelly Anne Guenoun (571)" -> "Will Simon (572)" [label=3507]
-	"Anneke Wilson (573)" -> "Kelly Anne Guenoun (571)" [label=421]
-	"Marcus Mitchell (574)" -> "Kelly Anne Guenoun (571)" [label=3748]
+	"Marcus Mitchell (574)" [label="Marcus Mitchell (574)
+Pauline Hanson's One Nation"]
 	"Chris Cicchitti (577)" -> "Marcus Mitchell (574)" [label=372]
+	"Chris Cicchitti (577)" -> "Will Simon (572)" [label=939]
+	"Marcus Mitchell (574)" -> "Will Simon (572)" [label=814]
+	"Marcus Mitchell (574)" -> "Kelly Anne Guenoun (571)" [label=3748]
+	"Anneke Wilson (573)" -> "Marcus Mitchell (574)" [label=422]
+	"Chris Cicchitti (577)" -> "Kelly Anne Guenoun (571)" [label=331]
+	"Anneke Wilson (573)" -> "Kelly Anne Guenoun (571)" [label=421]
+	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
+	"Anneke Wilson (573)" -> "Will Simon (572)" [label=263]
+	"Kelly Anne Guenoun (571)" -> "Will Simon (572)" [label=3507]
 }

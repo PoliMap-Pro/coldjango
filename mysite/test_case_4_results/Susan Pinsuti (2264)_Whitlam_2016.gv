@@ -2,9 +2,9 @@
 digraph "Susan Pinsuti (2264)_Whitlam_2016" {
 	graph [label="Whitlam 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
-Christian Democratic Party (Fred Nile Group)"]
 	"Wayne Hartman (2263)" [label="Wayne Hartman (2263)
 Non-Custodial Parents Party (Equal Parenting)"]
+	"Susan Pinsuti (2264)" [label="Susan Pinsuti (2264)
+Christian Democratic Party (Fred Nile Group)"]
 	"Wayne Hartman (2263)" -> "Susan Pinsuti (2264)" [label=428]
 }

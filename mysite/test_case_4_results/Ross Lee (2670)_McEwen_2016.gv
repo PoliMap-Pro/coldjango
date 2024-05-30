@@ -2,24 +2,24 @@
 digraph "Ross Lee (2670)_McEwen_2016" {
 	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Ross Lee (2670)" [label="Ross Lee (2670)
+Independent"]
 	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
 Animal Justice Party"]
 	"James Anderson (2668)" [label="James Anderson (2668)
 The Nationals"]
 	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
 Rise Up Australia Party"]
-	"Ross Lee (2670)" [label="Ross Lee (2670)
-Independent"]
 	"Tracey Andrew (2671)" [label="Tracey Andrew (2671)
 Australian Country Party"]
-	"Cathy Vaina (2672)" -> "Ross Lee (2670)" [label=596]
-	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
-	"James Anderson (2668)" -> "Ross Lee (2670)" [label=321]
-	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
-	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
-	"Jeff Truscott (1846)" -> "Ross Lee (2670)" [label=440]
-	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
 	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
+	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
+	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
 	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
+	"Cathy Vaina (2672)" -> "Ross Lee (2670)" [label=596]
+	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
+	"James Anderson (2668)" -> "Ross Lee (2670)" [label=321]
+	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
 	"Tracey Andrew (2671)" -> "Ross Lee (2670)" [label=304]
+	"Jeff Truscott (1846)" -> "Ross Lee (2670)" [label=440]
 }

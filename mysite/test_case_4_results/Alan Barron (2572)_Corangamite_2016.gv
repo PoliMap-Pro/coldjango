@@ -2,31 +2,31 @@
 digraph "Alan Barron (2572)_Corangamite_2016" {
 	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Alan Barron (2572)" [label="Alan Barron (2572)
-Family First Party"]
-	"Andy Meddick (2576)" [label="Andy Meddick (2576)
-Animal Justice Party"]
-	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
-Independent"]
-	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
-Drug Law Reform"]
 	"Louis Rowe (2574)" [label="Louis Rowe (2574)
 Liberal Democrats"]
+	"Alan Barron (2572)" [label="Alan Barron (2572)
+Family First Party"]
 	"Nick Steel (2573)" [label="Nick Steel (2573)
 Rise Up Australia Party"]
-	"Andy Meddick (2576)" -> "Alan Barron (2572)" [label=280]
-	"Michael Lawrence (2571)" -> "Andy Meddick (2576)" [label=159]
-	"Courtney Dalton (2577)" -> "Michael Lawrence (2571)" [label=108]
-	"Louis Rowe (2574)" -> "Courtney Dalton (2577)" [label=72]
+	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
+Drug Law Reform"]
+	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
+Independent"]
+	"Andy Meddick (2576)" [label="Andy Meddick (2576)
+Animal Justice Party"]
+	"Nick Steel (2573)" -> "Michael Lawrence (2571)" [label=97]
+	"Louis Rowe (2574)" -> "Alan Barron (2572)" [label=128]
 	"Nick Steel (2573)" -> "Louis Rowe (2574)" [label=50]
+	"Louis Rowe (2574)" -> "Andy Meddick (2576)" [label=40]
+	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=329]
+	"Andy Meddick (2576)" -> "Alan Barron (2572)" [label=280]
+	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
+	"Nick Steel (2573)" -> "Andy Meddick (2576)" [label=43]
 	"Michael Lawrence (2571)" -> "Alan Barron (2572)" [label=613]
 	"Courtney Dalton (2577)" -> "Alan Barron (2572)" [label=123]
-	"Louis Rowe (2574)" -> "Alan Barron (2572)" [label=128]
-	"Nick Steel (2573)" -> "Alan Barron (2572)" [label=329]
-	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
 	"Louis Rowe (2574)" -> "Michael Lawrence (2571)" [label=112]
-	"Nick Steel (2573)" -> "Michael Lawrence (2571)" [label=97]
+	"Louis Rowe (2574)" -> "Courtney Dalton (2577)" [label=72]
 	"Courtney Dalton (2577)" -> "Andy Meddick (2576)" [label=228]
-	"Louis Rowe (2574)" -> "Andy Meddick (2576)" [label=40]
-	"Nick Steel (2573)" -> "Andy Meddick (2576)" [label=43]
+	"Courtney Dalton (2577)" -> "Michael Lawrence (2571)" [label=108]
+	"Michael Lawrence (2571)" -> "Andy Meddick (2576)" [label=159]
 }

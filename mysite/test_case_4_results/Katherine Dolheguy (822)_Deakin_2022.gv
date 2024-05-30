@@ -4,16 +4,16 @@ digraph "Katherine Dolheguy (822)_Deakin_2022" {
 	node [shape=box]
 	"Katherine Dolheguy (822)" [label="Katherine Dolheguy (822)
 Animal Justice Party"]
-	"Qian Liu (821)" [label="Qian Liu (821)
-Independent"]
 	"Judith Thompson (825)" [label="Judith Thompson (825)
 Derryn Hinch's Justice Party"]
+	"Qian Liu (821)" [label="Qian Liu (821)
+Independent"]
 	"Samantha Bastin (827)" [label="Samantha Bastin (827)
 Australian Federation Party"]
-	"Qian Liu (821)" -> "Katherine Dolheguy (822)" [label=248]
 	"Judith Thompson (825)" -> "Qian Liu (821)" [label=116]
-	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
-	"Judith Thompson (825)" -> "Katherine Dolheguy (822)" [label=176]
 	"Samantha Bastin (827)" -> "Katherine Dolheguy (822)" [label=49]
+	"Qian Liu (821)" -> "Katherine Dolheguy (822)" [label=248]
 	"Samantha Bastin (827)" -> "Qian Liu (821)" [label=44]
+	"Judith Thompson (825)" -> "Katherine Dolheguy (822)" [label=176]
+	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
 }

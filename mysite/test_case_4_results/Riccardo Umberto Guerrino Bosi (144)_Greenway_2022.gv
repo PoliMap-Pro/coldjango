@@ -2,18 +2,18 @@
 digraph "Riccardo Umberto Guerrino Bosi (144)_Greenway_2022" {
 	graph [label="Greenway 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adam Kachwalla (143)" [label="Adam Kachwalla (143)
-Liberal Democrats"]
-	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
-Independent"]
 	"Riccardo Umberto Guerrino Bosi (144)" [label="Riccardo Umberto Guerrino Bosi (144)
 Independent"]
+	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
+Independent"]
+	"Adam Kachwalla (143)" [label="Adam Kachwalla (143)
+Liberal Democrats"]
 	"Rick Turner (146)" [label="Rick Turner (146)
 Pauline Hanson's One Nation"]
-	"Adam Kachwalla (143)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=579]
+	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
 	"Love Preet Singh Nanda (145)" -> "Adam Kachwalla (143)" [label=72]
+	"Adam Kachwalla (143)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=579]
+	"Rick Turner (146)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=408]
 	"Love Preet Singh Nanda (145)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=442]
 	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
-	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
-	"Rick Turner (146)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=408]
 }

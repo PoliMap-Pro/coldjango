@@ -2,48 +2,48 @@
 digraph "Hanabeth Luke (261)_Page_2022" {
 	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brett Rodney Duroux (258)" [label="Brett Rodney Duroux (258)
-Indigenous - Aboriginal Party of Australia"]
-	"Donna Pike (254)" [label="Donna Pike (254)
-Pauline Hanson's One Nation"]
-	"Hanabeth Luke (261)" [label="Hanabeth Luke (261)
-Independent"]
 	"Heather Mary Smith (256)" [label="Heather Mary Smith (256)
 Australian Federation Party"]
-	"Ian Williamson (259)" [label="Ian Williamson (259)
-United Australia Party"]
 	"Kashmir Miller (255)" [label="Kashmir Miller (255)
 The Greens"]
-	"Serge Killingbeck (262)" [label="Serge Killingbeck (262)
-TNL"]
+	"Donna Pike (254)" [label="Donna Pike (254)
+Pauline Hanson's One Nation"]
 	"Thomas Searles (253)" [label="Thomas Searles (253)
 Liberal Democrats"]
-	"Brett Rodney Duroux (258)" -> "Donna Pike (254)" [label=160]
-	"Brett Rodney Duroux (258)" -> "Hanabeth Luke (261)" [label=492]
-	"Brett Rodney Duroux (258)" -> "Ian Williamson (259)" [label=129]
-	"Brett Rodney Duroux (258)" -> "Kashmir Miller (255)" [label=395]
+	"Brett Rodney Duroux (258)" [label="Brett Rodney Duroux (258)
+Indigenous - Aboriginal Party of Australia"]
+	"Ian Williamson (259)" [label="Ian Williamson (259)
+United Australia Party"]
+	"Hanabeth Luke (261)" [label="Hanabeth Luke (261)
+Independent"]
+	"Serge Killingbeck (262)" [label="Serge Killingbeck (262)
+TNL"]
+	"Heather Mary Smith (256)" -> "Hanabeth Luke (261)" [label=97]
 	"Brett Rodney Duroux (258)" -> "Thomas Searles (253)" [label=91]
+	"Serge Killingbeck (262)" -> "Kashmir Miller (255)" [label=25]
+	"Ian Williamson (259)" -> "Thomas Searles (253)" [label=528]
+	"Thomas Searles (253)" -> "Hanabeth Luke (261)" [label=470]
+	"Serge Killingbeck (262)" -> "Ian Williamson (259)" [label=12]
+	"Thomas Searles (253)" -> "Donna Pike (254)" [label=2163]
+	"Ian Williamson (259)" -> "Hanabeth Luke (261)" [label=337]
+	"Serge Killingbeck (262)" -> "Brett Rodney Duroux (258)" [label=17]
+	"Serge Killingbeck (262)" -> "Heather Mary Smith (256)" [label=8]
 	"Donna Pike (254)" -> "Hanabeth Luke (261)" [label=3319]
+	"Serge Killingbeck (262)" -> "Hanabeth Luke (261)" [label=112]
+	"Serge Killingbeck (262)" -> "Donna Pike (254)" [label=11]
+	"Heather Mary Smith (256)" -> "Ian Williamson (259)" [label=52]
+	"Brett Rodney Duroux (258)" -> "Ian Williamson (259)" [label=129]
+	"Ian Williamson (259)" -> "Kashmir Miller (255)" [label=118]
+	"Serge Killingbeck (262)" -> "Thomas Searles (253)" [label=14]
+	"Brett Rodney Duroux (258)" -> "Donna Pike (254)" [label=160]
+	"Heather Mary Smith (256)" -> "Thomas Searles (253)" [label=295]
+	"Thomas Searles (253)" -> "Kashmir Miller (255)" [label=306]
 	"Donna Pike (254)" -> "Kashmir Miller (255)" [label=1025]
 	"Heather Mary Smith (256)" -> "Brett Rodney Duroux (258)" [label=70]
-	"Heather Mary Smith (256)" -> "Donna Pike (254)" [label=148]
-	"Heather Mary Smith (256)" -> "Hanabeth Luke (261)" [label=97]
-	"Heather Mary Smith (256)" -> "Ian Williamson (259)" [label=52]
-	"Heather Mary Smith (256)" -> "Kashmir Miller (255)" [label=59]
-	"Heather Mary Smith (256)" -> "Thomas Searles (253)" [label=295]
 	"Ian Williamson (259)" -> "Donna Pike (254)" [label=1008]
-	"Ian Williamson (259)" -> "Hanabeth Luke (261)" [label=337]
-	"Ian Williamson (259)" -> "Kashmir Miller (255)" [label=118]
-	"Ian Williamson (259)" -> "Thomas Searles (253)" [label=528]
+	"Brett Rodney Duroux (258)" -> "Hanabeth Luke (261)" [label=492]
 	"Kashmir Miller (255)" -> "Hanabeth Luke (261)" [label=5085]
-	"Serge Killingbeck (262)" -> "Brett Rodney Duroux (258)" [label=17]
-	"Serge Killingbeck (262)" -> "Donna Pike (254)" [label=11]
-	"Serge Killingbeck (262)" -> "Hanabeth Luke (261)" [label=112]
-	"Serge Killingbeck (262)" -> "Heather Mary Smith (256)" [label=8]
-	"Serge Killingbeck (262)" -> "Ian Williamson (259)" [label=12]
-	"Serge Killingbeck (262)" -> "Kashmir Miller (255)" [label=25]
-	"Serge Killingbeck (262)" -> "Thomas Searles (253)" [label=14]
-	"Thomas Searles (253)" -> "Donna Pike (254)" [label=2163]
-	"Thomas Searles (253)" -> "Hanabeth Luke (261)" [label=470]
-	"Thomas Searles (253)" -> "Kashmir Miller (255)" [label=306]
+	"Brett Rodney Duroux (258)" -> "Kashmir Miller (255)" [label=395]
+	"Heather Mary Smith (256)" -> "Kashmir Miller (255)" [label=59]
+	"Heather Mary Smith (256)" -> "Donna Pike (254)" [label=148]
 }

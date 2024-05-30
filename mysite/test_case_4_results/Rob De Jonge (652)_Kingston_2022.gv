@@ -2,9 +2,9 @@
 digraph "Rob De Jonge (652)_Kingston_2022" {
 	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rob De Jonge (652)" [label="Rob De Jonge (652)
-Independent"]
 	"Sam Enright (657)" [label="Sam Enright (657)
 Australian Federation Party"]
+	"Rob De Jonge (652)" [label="Rob De Jonge (652)
+Independent"]
 	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
 }

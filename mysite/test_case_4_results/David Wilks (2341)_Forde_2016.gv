@@ -4,11 +4,11 @@ digraph "David Wilks (2341)_Forde_2016" {
 	node [shape=box]
 	"David Wilks (2341)" [label="David Wilks (2341)
 Independent"]
-	"Sally Spain (440)" [label="Sally Spain (440)
-The Greens"]
 	"Shaun Charles Spain (2344)" [label="Shaun Charles Spain (2344)
 Australian Liberty Alliance"]
+	"Sally Spain (440)" [label="Sally Spain (440)
+The Greens"]
 	"Sally Spain (440)" -> "David Wilks (2341)" [label=1204]
-	"Shaun Charles Spain (2344)" -> "David Wilks (2341)" [label=769]
 	"Shaun Charles Spain (2344)" -> "Sally Spain (440)" [label=219]
+	"Shaun Charles Spain (2344)" -> "David Wilks (2341)" [label=769]
 }

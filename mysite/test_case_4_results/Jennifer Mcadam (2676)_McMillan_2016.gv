@@ -2,12 +2,12 @@
 digraph "Jennifer Mcadam (2676)_McMillan_2016" {
 	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
+Australian Christians"]
 	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
 Animal Justice Party"]
 	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
 Liberal Democrats"]
-	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
-Australian Christians"]
 	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
 	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
 	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]

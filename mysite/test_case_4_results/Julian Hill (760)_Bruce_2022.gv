@@ -2,24 +2,24 @@
 digraph "Julian Hill (760)_Bruce_2022" {
 	graph [label="Bruce 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Christine Skrobo (757)" [label="Christine Skrobo (757)
-Liberal Democrats"]
 	"Hayley Deans (759)" [label="Hayley Deans (759)
 Pauline Hanson's One Nation"]
-	"Julian Hill (760)" [label="Julian Hill (760)
-Australian Labor Party"]
 	"Matt Babet (758)" [label="Matt Babet (758)
 United Australia Party"]
+	"Christine Skrobo (757)" [label="Christine Skrobo (757)
+Liberal Democrats"]
 	"Matthew Kirwan (762)" [label="Matthew Kirwan (762)
 The Greens"]
+	"Julian Hill (760)" [label="Julian Hill (760)
+Australian Labor Party"]
+	"Christine Skrobo (757)" -> "Matthew Kirwan (762)" [label=311]
+	"Hayley Deans (759)" -> "Julian Hill (760)" [label=536]
+	"Hayley Deans (759)" -> "Christine Skrobo (757)" [label=956]
+	"Matthew Kirwan (762)" -> "Matt Babet (758)" [label=1427]
+	"Matthew Kirwan (762)" -> "Julian Hill (760)" [label=6924]
 	"Christine Skrobo (757)" -> "Julian Hill (760)" [label=589]
 	"Christine Skrobo (757)" -> "Matt Babet (758)" [label=3313]
-	"Christine Skrobo (757)" -> "Matthew Kirwan (762)" [label=311]
-	"Hayley Deans (759)" -> "Christine Skrobo (757)" [label=956]
-	"Hayley Deans (759)" -> "Julian Hill (760)" [label=536]
-	"Hayley Deans (759)" -> "Matt Babet (758)" [label=2193]
-	"Hayley Deans (759)" -> "Matthew Kirwan (762)" [label=382]
 	"Matt Babet (758)" -> "Julian Hill (760)" [label=6355]
-	"Matthew Kirwan (762)" -> "Julian Hill (760)" [label=6924]
-	"Matthew Kirwan (762)" -> "Matt Babet (758)" [label=1427]
+	"Hayley Deans (759)" -> "Matthew Kirwan (762)" [label=382]
+	"Hayley Deans (759)" -> "Matt Babet (758)" [label=2193]
 }

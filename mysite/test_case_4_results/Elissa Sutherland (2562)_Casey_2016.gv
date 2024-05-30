@@ -2,18 +2,18 @@
 digraph "Elissa Sutherland (2562)_Casey_2016" {
 	graph [label="Casey 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Peter Charleton (1748)" [label="Peter Charleton (1748)
+Independent"]
+	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
+Animal Justice Party"]
 	"Elissa Sutherland (2562)" [label="Elissa Sutherland (2562)
 The Greens"]
 	"Angela Dorian (2565)" [label="Angela Dorian (2565)
 Rise Up Australia Party"]
-	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
-Animal Justice Party"]
-	"Peter Charleton (1748)" [label="Peter Charleton (1748)
-Independent"]
-	"Angela Dorian (2565)" -> "Elissa Sutherland (2562)" [label=149]
 	"Peter Charleton (1748)" -> "Elissa Sutherland (2562)" [label=533]
-	"Kristin Bacon (2563)" -> "Elissa Sutherland (2562)" [label=2932]
 	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
+	"Angela Dorian (2565)" -> "Elissa Sutherland (2562)" [label=149]
+	"Kristin Bacon (2563)" -> "Elissa Sutherland (2562)" [label=2932]
 	"Angela Dorian (2565)" -> "Peter Charleton (1748)" [label=910]
 	"Peter Charleton (1748)" -> "Kristin Bacon (2563)" [label=1216]
 }

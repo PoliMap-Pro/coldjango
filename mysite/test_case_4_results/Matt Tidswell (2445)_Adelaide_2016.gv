@@ -2,9 +2,9 @@
 digraph "Matt Tidswell (2445)_Adelaide_2016" {
 	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
-Animal Justice Party"]
 	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
 Liberal Democrats"]
+	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
+Animal Justice Party"]
 	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
 }

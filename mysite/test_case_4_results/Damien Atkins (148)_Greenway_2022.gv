@@ -2,24 +2,24 @@
 digraph "Damien Atkins (148)_Greenway_2022" {
 	graph [label="Greenway 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Riccardo Umberto Guerrino Bosi (144)" [label="Riccardo Umberto Guerrino Bosi (144)
-Independent"]
-	"Damien Atkins (148)" [label="Damien Atkins (148)
-The Greens"]
-	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
-Independent"]
 	"Adam Kachwalla (143)" [label="Adam Kachwalla (143)
 Liberal Democrats"]
+	"Damien Atkins (148)" [label="Damien Atkins (148)
+The Greens"]
+	"Riccardo Umberto Guerrino Bosi (144)" [label="Riccardo Umberto Guerrino Bosi (144)
+Independent"]
 	"Rick Turner (146)" [label="Rick Turner (146)
 Pauline Hanson's One Nation"]
-	"Adam Kachwalla (143)" -> "Damien Atkins (148)" [label=131]
-	"Love Preet Singh Nanda (145)" -> "Adam Kachwalla (143)" [label=72]
-	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
-	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
-	"Riccardo Umberto Guerrino Bosi (144)" -> "Damien Atkins (148)" [label=531]
+	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
+Independent"]
 	"Love Preet Singh Nanda (145)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=442]
-	"Love Preet Singh Nanda (145)" -> "Damien Atkins (148)" [label=108]
-	"Rick Turner (146)" -> "Damien Atkins (148)" [label=217]
+	"Adam Kachwalla (143)" -> "Damien Atkins (148)" [label=131]
+	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
+	"Love Preet Singh Nanda (145)" -> "Adam Kachwalla (143)" [label=72]
 	"Rick Turner (146)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=408]
+	"Love Preet Singh Nanda (145)" -> "Damien Atkins (148)" [label=108]
+	"Riccardo Umberto Guerrino Bosi (144)" -> "Damien Atkins (148)" [label=531]
+	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
+	"Rick Turner (146)" -> "Damien Atkins (148)" [label=217]
 	"Adam Kachwalla (143)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=579]
 }

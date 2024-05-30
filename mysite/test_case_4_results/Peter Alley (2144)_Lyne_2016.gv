@@ -2,24 +2,24 @@
 digraph "Peter Alley (2144)_Lyne_2016" {
 	graph [label="Lyne 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brad Christensen (2147)" [label="Brad Christensen (2147)
+	"Rodger John Riach (2148)" [label="Rodger John Riach (2148)
 Independent"]
-	"Elaine Carter (2146)" [label="Elaine Carter (2146)
-Christian Democratic Party (Fred Nile Group)"]
 	"Julie Lyford (2145)" [label="Julie Lyford (2145)
 The Greens"]
 	"Peter Alley (2144)" [label="Peter Alley (2144)
 Labor"]
-	"Rodger John Riach (2148)" [label="Rodger John Riach (2148)
+	"Elaine Carter (2146)" [label="Elaine Carter (2146)
+Christian Democratic Party (Fred Nile Group)"]
+	"Brad Christensen (2147)" [label="Brad Christensen (2147)
 Independent"]
-	"Brad Christensen (2147)" -> "Peter Alley (2144)" [label=5793]
-	"Elaine Carter (2146)" -> "Brad Christensen (2147)" [label=917]
-	"Elaine Carter (2146)" -> "Julie Lyford (2145)" [label=269]
-	"Elaine Carter (2146)" -> "Peter Alley (2144)" [label=304]
-	"Julie Lyford (2145)" -> "Brad Christensen (2147)" [label=2692]
-	"Julie Lyford (2145)" -> "Peter Alley (2144)" [label=5470]
-	"Rodger John Riach (2148)" -> "Brad Christensen (2147)" [label=1229]
-	"Rodger John Riach (2148)" -> "Elaine Carter (2146)" [label=80]
-	"Rodger John Riach (2148)" -> "Julie Lyford (2145)" [label=122]
 	"Rodger John Riach (2148)" -> "Peter Alley (2144)" [label=201]
+	"Rodger John Riach (2148)" -> "Julie Lyford (2145)" [label=122]
+	"Elaine Carter (2146)" -> "Peter Alley (2144)" [label=304]
+	"Rodger John Riach (2148)" -> "Brad Christensen (2147)" [label=1229]
+	"Elaine Carter (2146)" -> "Julie Lyford (2145)" [label=269]
+	"Elaine Carter (2146)" -> "Brad Christensen (2147)" [label=917]
+	"Brad Christensen (2147)" -> "Peter Alley (2144)" [label=5793]
+	"Julie Lyford (2145)" -> "Brad Christensen (2147)" [label=2692]
+	"Rodger John Riach (2148)" -> "Elaine Carter (2146)" [label=80]
+	"Julie Lyford (2145)" -> "Peter Alley (2144)" [label=5470]
 }

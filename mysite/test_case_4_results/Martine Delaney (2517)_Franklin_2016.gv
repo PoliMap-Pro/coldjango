@@ -2,13 +2,13 @@
 digraph "Martine Delaney (2517)_Franklin_2016" {
 	graph [label="Franklin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
-The Arts Party"]
 	"George James Muskett (2518)" [label="George James Muskett (2518)
 Christian Democratic Party (Fred Nile Group)"]
+	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
+The Arts Party"]
 	"Martine Delaney (2517)" [label="Martine Delaney (2517)
 The Greens"]
-	"George James Muskett (2518)" -> "Martine Delaney (2517)" [label=79]
 	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
+	"George James Muskett (2518)" -> "Martine Delaney (2517)" [label=79]
 	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
 }

@@ -4,16 +4,16 @@ digraph "Matt Thistlethwaite (178)_Kingsford Smith_2016" {
 	node [shape=box]
 	"Andrea Leong (2134)" [label="Andrea Leong (2134)
 Science Party"]
-	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
-Christian Democratic Party (Fred Nile Group)"]
 	"James Macdonald (2132)" [label="James Macdonald (2132)
 The Greens"]
+	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
+Christian Democratic Party (Fred Nile Group)"]
 	"Matt Thistlethwaite (178)" [label="Matt Thistlethwaite (178)
 Labor"]
-	"Andrea Leong (2134)" -> "Andrew Weatherstone (2133)" [label=218]
 	"Andrea Leong (2134)" -> "James Macdonald (2132)" [label=934]
 	"Andrea Leong (2134)" -> "Matt Thistlethwaite (178)" [label=519]
-	"Andrew Weatherstone (2133)" -> "James Macdonald (2132)" [label=327]
 	"Andrew Weatherstone (2133)" -> "Matt Thistlethwaite (178)" [label=503]
+	"Andrew Weatherstone (2133)" -> "James Macdonald (2132)" [label=327]
 	"James Macdonald (2132)" -> "Matt Thistlethwaite (178)" [label=9298]
+	"Andrea Leong (2134)" -> "Andrew Weatherstone (2133)" [label=218]
 }

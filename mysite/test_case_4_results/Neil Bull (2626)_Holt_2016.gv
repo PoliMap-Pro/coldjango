@@ -8,7 +8,7 @@ Family First Party"]
 The Greens"]
 	"Colin Robertson (2625)" [label="Colin Robertson (2625)
 Rise Up Australia Party"]
+	"Colin Robertson (2625)" -> "Neil Bull (2626)" [label=2141]
 	"Jake Tilton (2627)" -> "Neil Bull (2626)" [label=1711]
 	"Colin Robertson (2625)" -> "Jake Tilton (2627)" [label=322]
-	"Colin Robertson (2625)" -> "Neil Bull (2626)" [label=2141]
 }

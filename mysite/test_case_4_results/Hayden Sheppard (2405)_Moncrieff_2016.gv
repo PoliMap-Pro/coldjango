@@ -8,7 +8,7 @@ Australian Labor Party"]
 Family First"]
 	"Roger Brisbane (2407)" [label="Roger Brisbane (2407)
 The Greens"]
-	"Julie Rose (2406)" -> "Hayden Sheppard (2405)" [label=1427]
 	"Julie Rose (2406)" -> "Roger Brisbane (2407)" [label=1861]
 	"Roger Brisbane (2407)" -> "Hayden Sheppard (2405)" [label=7753]
+	"Julie Rose (2406)" -> "Hayden Sheppard (2405)" [label=1427]
 }

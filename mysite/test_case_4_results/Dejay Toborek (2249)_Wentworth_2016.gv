@@ -2,31 +2,31 @@
 digraph "Dejay Toborek (2249)_Wentworth_2016" {
 	graph [label="Wentworth 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"David Allen (2253)" [label="David Allen (2253)
+Independent"]
+	"Peter Xing (2250)" [label="Peter Xing (2250)
+Science Party"]
+	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
+Christian Democratic Party (Fred Nile Group)"]
 	"Anthony Michael Ackroyd (2251)" [label="Anthony Michael Ackroyd (2251)
 The Arts Party"]
 	"Dejay Toborek (2249)" [label="Dejay Toborek (2249)
 The Greens"]
-	"Peter Xing (2250)" [label="Peter Xing (2250)
-Science Party"]
-	"David Allen (2253)" [label="David Allen (2253)
-Independent"]
 	"Marc Aussie-Stone (2256)" [label="Marc Aussie-Stone (2256)
 Independent"]
-	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
-Christian Democratic Party (Fred Nile Group)"]
-	"David Allen (2253)" -> "Dejay Toborek (2249)" [label=117]
-	"Peter Xing (2250)" -> "Dejay Toborek (2249)" [label=364]
-	"David Allen (2253)" -> "Anthony Michael Ackroyd (2251)" [label=113]
-	"David Allen (2253)" -> "Peter Xing (2250)" [label=113]
-	"Marc Aussie-Stone (2256)" -> "Dejay Toborek (2249)" [label=46]
 	"Marc Aussie-Stone (2256)" -> "David Allen (2253)" [label=169]
-	"David Allen (2253)" -> "Beresford Thomas (2252)" [label=90]
-	"Peter Xing (2250)" -> "Anthony Michael Ackroyd (2251)" [label=529]
-	"Marc Aussie-Stone (2256)" -> "Beresford Thomas (2252)" [label=14]
-	"Anthony Michael Ackroyd (2251)" -> "Dejay Toborek (2249)" [label=1201]
+	"Beresford Thomas (2252)" -> "Dejay Toborek (2249)" [label=45]
 	"Marc Aussie-Stone (2256)" -> "Peter Xing (2250)" [label=18]
+	"Peter Xing (2250)" -> "Dejay Toborek (2249)" [label=364]
+	"David Allen (2253)" -> "Beresford Thomas (2252)" [label=90]
+	"David Allen (2253)" -> "Dejay Toborek (2249)" [label=117]
+	"Anthony Michael Ackroyd (2251)" -> "Dejay Toborek (2249)" [label=1201]
+	"Marc Aussie-Stone (2256)" -> "Beresford Thomas (2252)" [label=14]
+	"David Allen (2253)" -> "Peter Xing (2250)" [label=113]
+	"Peter Xing (2250)" -> "Anthony Michael Ackroyd (2251)" [label=529]
 	"Beresford Thomas (2252)" -> "Peter Xing (2250)" [label=161]
 	"Beresford Thomas (2252)" -> "Anthony Michael Ackroyd (2251)" [label=176]
-	"Beresford Thomas (2252)" -> "Dejay Toborek (2249)" [label=45]
+	"Marc Aussie-Stone (2256)" -> "Dejay Toborek (2249)" [label=46]
 	"Marc Aussie-Stone (2256)" -> "Anthony Michael Ackroyd (2251)" [label=21]
+	"David Allen (2253)" -> "Anthony Michael Ackroyd (2251)" [label=113]
 }

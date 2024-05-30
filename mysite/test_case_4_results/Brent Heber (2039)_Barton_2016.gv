@@ -4,16 +4,16 @@ digraph "Brent Heber (2039)_Barton_2016" {
 	node [shape=box]
 	"Harry Tsoukalas (2040)" [label="Harry Tsoukalas (2040)
 Online Direct Democracy - (Empowering the People!)"]
+	"Brent Heber (2039)" [label="Brent Heber (2039)
+The Greens"]
 	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
 Independent"]
 	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
 Christian Democratic Party (Fred Nile Group)"]
-	"Brent Heber (2039)" [label="Brent Heber (2039)
-The Greens"]
+	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
+	"Rasmus Torkel (2037)" -> "Brent Heber (2039)" [label=453]
 	"Harry Tsoukalas (2040)" -> "Brent Heber (2039)" [label=330]
 	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
 	"Sonny Susilo (1225)" -> "Brent Heber (2039)" [label=590]
 	"Harry Tsoukalas (2040)" -> "Sonny Susilo (1225)" [label=133]
-	"Rasmus Torkel (2037)" -> "Brent Heber (2039)" [label=453]
-	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
 }

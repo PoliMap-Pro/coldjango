@@ -9,6 +9,6 @@ Pauline Hanson's One Nation"]
 	"Terri Butler (476)" [label="Terri Butler (476)
 Australian Labor Party"]
 	"Robert Gordon Mcmullan (477)" -> "Shari Ware (474)" [label=1547]
-	"Robert Gordon Mcmullan (477)" -> "Terri Butler (476)" [label=201]
 	"Shari Ware (474)" -> "Terri Butler (476)" [label=618]
+	"Robert Gordon Mcmullan (477)" -> "Terri Butler (476)" [label=201]
 }

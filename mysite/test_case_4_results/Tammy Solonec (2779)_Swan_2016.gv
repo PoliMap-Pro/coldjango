@@ -2,13 +2,13 @@
 digraph "Tammy Solonec (2779)_Swan_2016" {
 	graph [label="Swan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sarah Nielsen-Harvey (2778)" [label="Sarah Nielsen-Harvey (2778)
-The Greens (WA)"]
 	"Steve Klomp (2009)" [label="Steve Klomp (2009)
 Australian Christians"]
 	"Tammy Solonec (2779)" [label="Tammy Solonec (2779)
 Australian Labor Party"]
+	"Sarah Nielsen-Harvey (2778)" [label="Sarah Nielsen-Harvey (2778)
+The Greens (WA)"]
 	"Sarah Nielsen-Harvey (2778)" -> "Tammy Solonec (2779)" [label=10276]
-	"Steve Klomp (2009)" -> "Sarah Nielsen-Harvey (2778)" [label=595]
 	"Steve Klomp (2009)" -> "Tammy Solonec (2779)" [label=632]
+	"Steve Klomp (2009)" -> "Sarah Nielsen-Harvey (2778)" [label=595]
 }

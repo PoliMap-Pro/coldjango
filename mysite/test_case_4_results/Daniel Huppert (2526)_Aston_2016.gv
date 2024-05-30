@@ -2,9 +2,9 @@
 digraph "Daniel Huppert (2526)_Aston_2016" {
 	graph [label="Aston 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
-Independent"]
 	"Joel Moore (2527)" [label="Joel Moore (2527)
 Liberal Democrats"]
+	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
+Independent"]
 	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
 }

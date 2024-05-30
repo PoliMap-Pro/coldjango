@@ -2,9 +2,9 @@
 digraph "Florian Heise (2413)_Moreton_2016" {
 	graph [label="Moreton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Florian Heise (2413)" [label="Florian Heise (2413)
-Family First"]
 	"Shan-Ju Lin (2411)" [label="Shan-Ju Lin (2411)
 Katter's Australian Party"]
+	"Florian Heise (2413)" [label="Florian Heise (2413)
+Family First"]
 	"Shan-Ju Lin (2411)" -> "Florian Heise (2413)" [label=329]
 }

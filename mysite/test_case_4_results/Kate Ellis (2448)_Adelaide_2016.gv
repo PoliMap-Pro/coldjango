@@ -2,31 +2,31 @@
 digraph "Kate Ellis (2448)_Adelaide_2016" {
 	graph [label="Adelaide 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
-Family First"]
-	"Joe Hill (2449)" [label="Joe Hill (2449)
-Nick Xenophon Team"]
-	"Kate Ellis (2448)" [label="Kate Ellis (2448)
-Australian Labor Party"]
 	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
 Animal Justice Party"]
-	"Sophie Guy (2443)" [label="Sophie Guy (2443)
-The Greens"]
+	"Kate Ellis (2448)" [label="Kate Ellis (2448)
+Australian Labor Party"]
+	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
+Family First"]
 	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
 Liberal Democrats"]
-	"Adrian Rivish (2444)" -> "Joe Hill (2449)" [label=417]
-	"Adrian Rivish (2444)" -> "Kate Ellis (2448)" [label=329]
-	"Adrian Rivish (2444)" -> "Sophie Guy (2443)" [label=372]
-	"Joe Hill (2449)" -> "Kate Ellis (2448)" [label=10174]
-	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
-	"Matt Tidswell (2445)" -> "Joe Hill (2449)" [label=252]
-	"Matt Tidswell (2445)" -> "Kate Ellis (2448)" [label=221]
-	"Matt Tidswell (2445)" -> "Sophie Guy (2443)" [label=523]
-	"Sophie Guy (2443)" -> "Joe Hill (2449)" [label=2721]
-	"Sophie Guy (2443)" -> "Kate Ellis (2448)" [label=7067]
+	"Sophie Guy (2443)" [label="Sophie Guy (2443)
+The Greens"]
+	"Joe Hill (2449)" [label="Joe Hill (2449)
+Nick Xenophon Team"]
 	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
-	"Tyrone Lock (2446)" -> "Joe Hill (2449)" [label=151]
+	"Adrian Rivish (2444)" -> "Sophie Guy (2443)" [label=372]
+	"Sophie Guy (2443)" -> "Kate Ellis (2448)" [label=7067]
 	"Tyrone Lock (2446)" -> "Kate Ellis (2448)" [label=103]
-	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
 	"Tyrone Lock (2446)" -> "Sophie Guy (2443)" [label=88]
+	"Adrian Rivish (2444)" -> "Joe Hill (2449)" [label=417]
+	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
+	"Adrian Rivish (2444)" -> "Kate Ellis (2448)" [label=329]
+	"Matt Tidswell (2445)" -> "Sophie Guy (2443)" [label=523]
+	"Tyrone Lock (2446)" -> "Joe Hill (2449)" [label=151]
+	"Matt Tidswell (2445)" -> "Kate Ellis (2448)" [label=221]
+	"Matt Tidswell (2445)" -> "Joe Hill (2449)" [label=252]
+	"Sophie Guy (2443)" -> "Joe Hill (2449)" [label=2721]
+	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
+	"Joe Hill (2449)" -> "Kate Ellis (2448)" [label=10174]
 }

@@ -2,48 +2,48 @@
 digraph "Adam Bandt (1007)_Melbourne_2022" {
 	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adam Bandt (1007)" [label="Adam Bandt (1007)
-The Greens"]
-	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
-Victorian Socialists"]
-	"Scott Robson (1010)" [label="Scott Robson (1010)
-Independent"]
-	"Justin Borg (1005)" [label="Justin Borg (1005)
-United Australia Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
 	"James Damches (1008)" [label="James Damches (1008)
 Liberal"]
 	"Bruce Poon (1012)" [label="Bruce Poon (1012)
 Animal Justice Party"]
-	"Walter Stragan (1011)" [label="Walter Stragan (1011)
-Pauline Hanson's One Nation"]
+	"Scott Robson (1010)" [label="Scott Robson (1010)
+Independent"]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
+	"Adam Bandt (1007)" [label="Adam Bandt (1007)
+The Greens"]
 	"Richard Peppard (1009)" [label="Richard Peppard (1009)
 Liberal Democrats"]
-	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
-	"James Damches (1008)" -> "Adam Bandt (1007)" [label=5314]
-	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
-	"Justin Borg (1005)" -> "Colleen Bolger (1013)" [label=847]
-	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
-	"Walter Stragan (1011)" -> "Colleen Bolger (1013)" [label=24]
-	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
-	"Colleen Bolger (1013)" -> "Adam Bandt (1007)" [label=3310]
-	"Richard Peppard (1009)" -> "James Damches (1008)" [label=659]
-	"Bruce Poon (1012)" -> "Justin Borg (1005)" [label=99]
-	"Scott Robson (1010)" -> "Adam Bandt (1007)" [label=269]
-	"Walter Stragan (1011)" -> "James Damches (1008)" [label=102]
-	"Bruce Poon (1012)" -> "Colleen Bolger (1013)" [label=365]
 	"Scott Robson (1010)" -> "Justin Borg (1005)" [label=144]
-	"Justin Borg (1005)" -> "Adam Bandt (1007)" [label=360]
-	"Bruce Poon (1012)" -> "Adam Bandt (1007)" [label=691]
-	"Scott Robson (1010)" -> "James Damches (1008)" [label=141]
-	"Walter Stragan (1011)" -> "Justin Borg (1005)" [label=335]
-	"Scott Robson (1010)" -> "Colleen Bolger (1013)" [label=97]
-	"Justin Borg (1005)" -> "James Damches (1008)" [label=1387]
-	"Colleen Bolger (1013)" -> "James Damches (1008)" [label=662]
+	"Walter Stragan (1011)" -> "Colleen Bolger (1013)" [label=24]
 	"Richard Peppard (1009)" -> "Colleen Bolger (1013)" [label=110]
 	"Bruce Poon (1012)" -> "James Damches (1008)" [label=122]
+	"Bruce Poon (1012)" -> "Colleen Bolger (1013)" [label=365]
+	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
+	"James Damches (1008)" -> "Adam Bandt (1007)" [label=5314]
+	"Bruce Poon (1012)" -> "Adam Bandt (1007)" [label=691]
+	"Walter Stragan (1011)" -> "Adam Bandt (1007)" [label=35]
+	"Walter Stragan (1011)" -> "James Damches (1008)" [label=102]
+	"Richard Peppard (1009)" -> "James Damches (1008)" [label=659]
+	"Bruce Poon (1012)" -> "Justin Borg (1005)" [label=99]
+	"Justin Borg (1005)" -> "Colleen Bolger (1013)" [label=847]
+	"Walter Stragan (1011)" -> "Richard Peppard (1009)" [label=241]
+	"Scott Robson (1010)" -> "Colleen Bolger (1013)" [label=97]
+	"Colleen Bolger (1013)" -> "Adam Bandt (1007)" [label=3310]
+	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
+	"Scott Robson (1010)" -> "James Damches (1008)" [label=141]
+	"Justin Borg (1005)" -> "James Damches (1008)" [label=1387]
+	"Colleen Bolger (1013)" -> "James Damches (1008)" [label=662]
+	"Walter Stragan (1011)" -> "Justin Borg (1005)" [label=335]
+	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
+	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
+	"Richard Peppard (1009)" -> "Adam Bandt (1007)" [label=188]
 	"Richard Peppard (1009)" -> "Justin Borg (1005)" [label=985]
 	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
-	"Walter Stragan (1011)" -> "Richard Peppard (1009)" [label=241]
-	"Richard Peppard (1009)" -> "Adam Bandt (1007)" [label=188]
-	"Walter Stragan (1011)" -> "Adam Bandt (1007)" [label=35]
+	"Justin Borg (1005)" -> "Adam Bandt (1007)" [label=360]
+	"Scott Robson (1010)" -> "Adam Bandt (1007)" [label=269]
 }

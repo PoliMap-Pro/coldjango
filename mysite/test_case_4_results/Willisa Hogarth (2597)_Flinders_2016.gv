@@ -2,18 +2,18 @@
 digraph "Willisa Hogarth (2597)_Flinders_2016" {
 	graph [label="Flinders 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Willisa Hogarth (2597)" [label="Willisa Hogarth (2597)
-The Greens"]
-	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
-Rise Up Australia Party"]
-	"Shane W Lewis (2596)" [label="Shane W Lewis (2596)
-Independent"]
 	"Ben Wild (2599)" [label="Ben Wild (2599)
 Animal Justice Party"]
-	"Shane W Lewis (2596)" -> "Ben Wild (2599)" [label=535]
+	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
+Rise Up Australia Party"]
+	"Willisa Hogarth (2597)" [label="Willisa Hogarth (2597)
+The Greens"]
+	"Shane W Lewis (2596)" [label="Shane W Lewis (2596)
+Independent"]
 	"Shane W Lewis (2596)" -> "Yvonne Gentle (1789)" [label=1005]
-	"Yvonne Gentle (1789)" -> "Ben Wild (2599)" [label=1491]
 	"Ben Wild (2599)" -> "Willisa Hogarth (2597)" [label=3128]
-	"Yvonne Gentle (1789)" -> "Willisa Hogarth (2597)" [label=996]
+	"Yvonne Gentle (1789)" -> "Ben Wild (2599)" [label=1491]
 	"Shane W Lewis (2596)" -> "Willisa Hogarth (2597)" [label=544]
+	"Yvonne Gentle (1789)" -> "Willisa Hogarth (2597)" [label=996]
+	"Shane W Lewis (2596)" -> "Ben Wild (2599)" [label=535]
 }

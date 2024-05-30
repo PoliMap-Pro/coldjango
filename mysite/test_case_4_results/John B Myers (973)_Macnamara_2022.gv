@@ -4,11 +4,11 @@ digraph "John B Myers (973)_Macnamara_2022" {
 	node [shape=box]
 	"Ben Schultz (978)" [label="Ben Schultz (978)
 Animal Justice Party"]
-	"Debera Anne (976)" [label="Debera Anne (976)
-Pauline Hanson's One Nation"]
 	"John B Myers (973)" [label="John B Myers (973)
 Independent"]
+	"Debera Anne (976)" [label="Debera Anne (976)
+Pauline Hanson's One Nation"]
 	"Ben Schultz (978)" -> "John B Myers (973)" [label=197]
-	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
 	"Debera Anne (976)" -> "John B Myers (973)" [label=188]
+	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
 }

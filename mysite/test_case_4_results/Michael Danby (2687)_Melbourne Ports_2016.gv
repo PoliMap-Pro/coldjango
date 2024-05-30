@@ -2,39 +2,39 @@
 digraph "Michael Danby (2687)_Melbourne Ports_2016" {
 	graph [label="Melbourne Ports 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Henry Von Doussa (2686)" [label="Henry Von Doussa (2686)
-Marriage Equality"]
-	"John B Myers (973)" [label="John B Myers (973)
-Independent"]
-	"Levi Mckenzie-Kirkbright (2689)" [label="Levi Mckenzie-Kirkbright (2689)
-Drug Law Reform"]
 	"Michael Danby (2687)" [label="Michael Danby (2687)
 Australian Labor Party"]
-	"Peter Holland (2684)" [label="Peter Holland (2684)
+	"John B Myers (973)" [label="John B Myers (973)
 Independent"]
 	"Robert Millen Smyth (2688)" [label="Robert Millen Smyth (2688)
 Animal Justice Party"]
+	"Henry Von Doussa (2686)" [label="Henry Von Doussa (2686)
+Marriage Equality"]
 	"Steph Hodgins-May (979)" [label="Steph Hodgins-May (979)
 The Greens"]
-	"Henry Von Doussa (2686)" -> "Levi Mckenzie-Kirkbright (2689)" [label=150]
-	"Henry Von Doussa (2686)" -> "Michael Danby (2687)" [label=250]
+	"Peter Holland (2684)" [label="Peter Holland (2684)
+Independent"]
+	"Levi Mckenzie-Kirkbright (2689)" [label="Levi Mckenzie-Kirkbright (2689)
+Drug Law Reform"]
 	"Henry Von Doussa (2686)" -> "Peter Holland (2684)" [label=105]
+	"Levi Mckenzie-Kirkbright (2689)" -> "Michael Danby (2687)" [label=220]
 	"Henry Von Doussa (2686)" -> "Robert Millen Smyth (2688)" [label=258]
+	"Robert Millen Smyth (2688)" -> "Steph Hodgins-May (979)" [label=1687]
+	"Levi Mckenzie-Kirkbright (2689)" -> "Peter Holland (2684)" [label=176]
 	"Henry Von Doussa (2686)" -> "Steph Hodgins-May (979)" [label=468]
-	"John B Myers (973)" -> "Henry Von Doussa (2686)" [label=13]
-	"John B Myers (973)" -> "Levi Mckenzie-Kirkbright (2689)" [label=22]
-	"John B Myers (973)" -> "Michael Danby (2687)" [label=78]
-	"John B Myers (973)" -> "Peter Holland (2684)" [label=202]
+	"Levi Mckenzie-Kirkbright (2689)" -> "Steph Hodgins-May (979)" [label=604]
+	"Steph Hodgins-May (979)" -> "Michael Danby (2687)" [label=19233]
 	"John B Myers (973)" -> "Robert Millen Smyth (2688)" [label=26]
 	"John B Myers (973)" -> "Steph Hodgins-May (979)" [label=24]
-	"Levi Mckenzie-Kirkbright (2689)" -> "Michael Danby (2687)" [label=220]
-	"Levi Mckenzie-Kirkbright (2689)" -> "Peter Holland (2684)" [label=176]
-	"Levi Mckenzie-Kirkbright (2689)" -> "Robert Millen Smyth (2688)" [label=339]
-	"Levi Mckenzie-Kirkbright (2689)" -> "Steph Hodgins-May (979)" [label=604]
-	"Peter Holland (2684)" -> "Michael Danby (2687)" [label=397]
-	"Peter Holland (2684)" -> "Robert Millen Smyth (2688)" [label=399]
-	"Peter Holland (2684)" -> "Steph Hodgins-May (979)" [label=425]
+	"John B Myers (973)" -> "Peter Holland (2684)" [label=202]
+	"John B Myers (973)" -> "Michael Danby (2687)" [label=78]
+	"Henry Von Doussa (2686)" -> "Levi Mckenzie-Kirkbright (2689)" [label=150]
+	"John B Myers (973)" -> "Henry Von Doussa (2686)" [label=13]
 	"Robert Millen Smyth (2688)" -> "Michael Danby (2687)" [label=498]
-	"Robert Millen Smyth (2688)" -> "Steph Hodgins-May (979)" [label=1687]
-	"Steph Hodgins-May (979)" -> "Michael Danby (2687)" [label=19233]
+	"Henry Von Doussa (2686)" -> "Michael Danby (2687)" [label=250]
+	"Peter Holland (2684)" -> "Robert Millen Smyth (2688)" [label=399]
+	"Peter Holland (2684)" -> "Michael Danby (2687)" [label=397]
+	"John B Myers (973)" -> "Levi Mckenzie-Kirkbright (2689)" [label=22]
+	"Peter Holland (2684)" -> "Steph Hodgins-May (979)" [label=425]
+	"Levi Mckenzie-Kirkbright (2689)" -> "Robert Millen Smyth (2688)" [label=339]
 }

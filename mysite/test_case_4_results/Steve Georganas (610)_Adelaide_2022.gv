@@ -2,31 +2,31 @@
 digraph "Steve Georganas (610)_Adelaide_2022" {
 	graph [label="Adelaide 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Faith Gerhard (614)" [label="Faith Gerhard (614)
-Australian Federation Party"]
-	"Gayle Allwood (615)" [label="Gayle Allwood (615)
-Pauline Hanson's One Nation"]
-	"Matthew Mcmillan (612)" [label="Matthew Mcmillan (612)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
-The Greens"]
 	"Sean Allwood (611)" [label="Sean Allwood (611)
 United Australia Party"]
+	"Faith Gerhard (614)" [label="Faith Gerhard (614)
+Australian Federation Party"]
+	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
+The Greens"]
+	"Matthew Mcmillan (612)" [label="Matthew Mcmillan (612)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Gayle Allwood (615)" [label="Gayle Allwood (615)
+Pauline Hanson's One Nation"]
 	"Steve Georganas (610)" [label="Steve Georganas (610)
 Australian Labor Party"]
 	"Faith Gerhard (614)" -> "Gayle Allwood (615)" [label=309]
-	"Faith Gerhard (614)" -> "Matthew Mcmillan (612)" [label=125]
-	"Faith Gerhard (614)" -> "Rebecca Galdies (613)" [label=74]
-	"Faith Gerhard (614)" -> "Sean Allwood (611)" [label=215]
-	"Faith Gerhard (614)" -> "Steve Georganas (610)" [label=64]
-	"Gayle Allwood (615)" -> "Rebecca Galdies (613)" [label=1900]
-	"Gayle Allwood (615)" -> "Steve Georganas (610)" [label=1142]
-	"Matthew Mcmillan (612)" -> "Gayle Allwood (615)" [label=139]
-	"Matthew Mcmillan (612)" -> "Rebecca Galdies (613)" [label=943]
-	"Matthew Mcmillan (612)" -> "Sean Allwood (611)" [label=204]
+	"Sean Allwood (611)" -> "Rebecca Galdies (613)" [label=527]
 	"Matthew Mcmillan (612)" -> "Steve Georganas (610)" [label=320]
 	"Rebecca Galdies (613)" -> "Steve Georganas (610)" [label=22697]
 	"Sean Allwood (611)" -> "Gayle Allwood (615)" [label=1871]
-	"Sean Allwood (611)" -> "Rebecca Galdies (613)" [label=527]
+	"Gayle Allwood (615)" -> "Steve Georganas (610)" [label=1142]
+	"Faith Gerhard (614)" -> "Matthew Mcmillan (612)" [label=125]
+	"Matthew Mcmillan (612)" -> "Sean Allwood (611)" [label=204]
+	"Faith Gerhard (614)" -> "Steve Georganas (610)" [label=64]
+	"Matthew Mcmillan (612)" -> "Rebecca Galdies (613)" [label=943]
+	"Gayle Allwood (615)" -> "Rebecca Galdies (613)" [label=1900]
+	"Faith Gerhard (614)" -> "Sean Allwood (611)" [label=215]
+	"Matthew Mcmillan (612)" -> "Gayle Allwood (615)" [label=139]
 	"Sean Allwood (611)" -> "Steve Georganas (610)" [label=507]
+	"Faith Gerhard (614)" -> "Rebecca Galdies (613)" [label=74]
 }

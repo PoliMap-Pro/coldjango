@@ -2,10 +2,10 @@
 digraph "Paul Coombe (2474)_Makin_2016" {
 	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Coombe (2474)" [label="Paul Coombe (2474)
-Family First"]
 	"Mark Aldridge (2475)" [label="Mark Aldridge (2475)
 Independent"]
+	"Paul Coombe (2474)" [label="Paul Coombe (2474)
+Family First"]
 	"Zarina Greenberg (2476)" [label="Zarina Greenberg (2476)
 Animal Justice Party"]
 	"Mark Aldridge (2475)" -> "Paul Coombe (2474)" [label=533]

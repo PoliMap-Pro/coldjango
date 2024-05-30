@@ -2,24 +2,24 @@
 digraph "Judene Andrews (453)_Fisher_2022" {
 	graph [label="Fisher 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Judene Andrews (453)" [label="Judene Andrews (453)
-Australian Labor Party"]
-	"Renay Wells (456)" [label="Renay Wells (456)
-Queensland Greens"]
 	"Sam Schriever (452)" [label="Sam Schriever (452)
 Pauline Hanson's One Nation"]
 	"Tony Richard Moore (457)" [label="Tony Richard Moore (457)
 United Australia Party"]
+	"Renay Wells (456)" [label="Renay Wells (456)
+Queensland Greens"]
 	"Vickie Breckenridge (455)" [label="Vickie Breckenridge (455)
 Animal Justice Party"]
+	"Judene Andrews (453)" [label="Judene Andrews (453)
+Australian Labor Party"]
+	"Vickie Breckenridge (455)" -> "Renay Wells (456)" [label=1324]
 	"Renay Wells (456)" -> "Judene Andrews (453)" [label=15743]
+	"Vickie Breckenridge (455)" -> "Tony Richard Moore (457)" [label=323]
+	"Vickie Breckenridge (455)" -> "Judene Andrews (453)" [label=311]
+	"Tony Richard Moore (457)" -> "Sam Schriever (452)" [label=5279]
+	"Tony Richard Moore (457)" -> "Renay Wells (456)" [label=937]
 	"Sam Schriever (452)" -> "Judene Andrews (453)" [label=3009]
 	"Sam Schriever (452)" -> "Renay Wells (456)" [label=4603]
-	"Tony Richard Moore (457)" -> "Judene Andrews (453)" [label=462]
-	"Tony Richard Moore (457)" -> "Renay Wells (456)" [label=937]
-	"Tony Richard Moore (457)" -> "Sam Schriever (452)" [label=5279]
-	"Vickie Breckenridge (455)" -> "Judene Andrews (453)" [label=311]
-	"Vickie Breckenridge (455)" -> "Renay Wells (456)" [label=1324]
 	"Vickie Breckenridge (455)" -> "Sam Schriever (452)" [label=471]
-	"Vickie Breckenridge (455)" -> "Tony Richard Moore (457)" [label=323]
+	"Tony Richard Moore (457)" -> "Judene Andrews (453)" [label=462]
 }

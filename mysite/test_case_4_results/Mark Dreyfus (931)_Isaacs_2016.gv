@@ -2,12 +2,12 @@
 digraph "Mark Dreyfus (931)_Isaacs_2016" {
 	graph [label="Isaacs 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Mark Dreyfus (931)" [label="Mark Dreyfus (931)
+Australian Labor Party"]
 	"Alex Breskin (934)" [label="Alex Breskin (934)
 The Greens"]
 	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
 Animal Justice Party"]
-	"Mark Dreyfus (931)" [label="Mark Dreyfus (931)
-Australian Labor Party"]
 	"Alex Breskin (934)" -> "Mark Dreyfus (931)" [label=9136]
 	"Elizabeth Johnston (832)" -> "Alex Breskin (934)" [label=2150]
 	"Elizabeth Johnston (832)" -> "Mark Dreyfus (931)" [label=1258]

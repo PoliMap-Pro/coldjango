@@ -4,16 +4,16 @@ digraph "Tom Webster (2776)_Stirling_2016" {
 	node [shape=box]
 	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
 Rise Up Australia Party"]
+	"Kevin Host (2006)" [label="Kevin Host (2006)
+Australian Christians"]
 	"Tom Webster (2776)" [label="Tom Webster (2776)
 The Greens (WA)"]
 	"Kim Mubarak (2773)" [label="Kim Mubarak (2773)
 Independent"]
-	"Kevin Host (2006)" [label="Kevin Host (2006)
-Australian Christians"]
-	"Alison L Rowe (2774)" -> "Tom Webster (2776)" [label=124]
 	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
-	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
-	"Kevin Host (2006)" -> "Tom Webster (2776)" [label=194]
-	"Kim Mubarak (2773)" -> "Tom Webster (2776)" [label=977]
 	"Alison L Rowe (2774)" -> "Kevin Host (2006)" [label=343]
+	"Kim Mubarak (2773)" -> "Tom Webster (2776)" [label=977]
+	"Kevin Host (2006)" -> "Tom Webster (2776)" [label=194]
+	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
+	"Alison L Rowe (2774)" -> "Tom Webster (2776)" [label=124]
 }

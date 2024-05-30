@@ -9,6 +9,6 @@ Independent"]
 	"Jonathan Emms (2284)" [label="Jonathan Emms (2284)
 Independent"]
 	"Patricia Petersen (2285)" -> "Geoff Darr (2289)" [label=74]
-	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
 	"Jonathan Emms (2284)" -> "Geoff Darr (2289)" [label=53]
+	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
 }

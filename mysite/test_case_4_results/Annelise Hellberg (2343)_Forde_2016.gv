@@ -2,18 +2,18 @@
 digraph "Annelise Hellberg (2343)_Forde_2016" {
 	graph [label="Forde 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Annelise Hellberg (2343)" [label="Annelise Hellberg (2343)
-Family First"]
 	"David Wilks (2341)" [label="David Wilks (2341)
 Independent"]
+	"Annelise Hellberg (2343)" [label="Annelise Hellberg (2343)
+Family First"]
 	"Sally Spain (440)" [label="Sally Spain (440)
 The Greens"]
 	"Shaun Charles Spain (2344)" [label="Shaun Charles Spain (2344)
 Australian Liberty Alliance"]
-	"David Wilks (2341)" -> "Annelise Hellberg (2343)" [label=3034]
-	"Sally Spain (440)" -> "David Wilks (2341)" [label=1204]
 	"Shaun Charles Spain (2344)" -> "Sally Spain (440)" [label=219]
+	"David Wilks (2341)" -> "Annelise Hellberg (2343)" [label=3034]
 	"Sally Spain (440)" -> "Annelise Hellberg (2343)" [label=1300]
-	"Shaun Charles Spain (2344)" -> "Annelise Hellberg (2343)" [label=1230]
+	"Sally Spain (440)" -> "David Wilks (2341)" [label=1204]
 	"Shaun Charles Spain (2344)" -> "David Wilks (2341)" [label=769]
+	"Shaun Charles Spain (2344)" -> "Annelise Hellberg (2343)" [label=1230]
 }

@@ -4,22 +4,22 @@ digraph "Katie Gompertz (1236)_Bradfield_2016" {
 	node [shape=box]
 	"Adrian Jones (2053)" [label="Adrian Jones (2053)
 The Greens"]
-	"Chris Vale (2055)" [label="Chris Vale (2055)
-Christian Democratic Party (Fred Nile Group)"]
-	"Christine Berman (2054)" [label="Christine Berman (2054)
-Independent"]
-	"Katie Gompertz (1236)" [label="Katie Gompertz (1236)
-Labor"]
 	"Peter Kelly (1255)" [label="Peter Kelly (1255)
 Australian Liberty Alliance"]
-	"Adrian Jones (2053)" -> "Katie Gompertz (1236)" [label=9424]
+	"Christine Berman (2054)" [label="Christine Berman (2054)
+Independent"]
+	"Chris Vale (2055)" [label="Chris Vale (2055)
+Christian Democratic Party (Fred Nile Group)"]
+	"Katie Gompertz (1236)" [label="Katie Gompertz (1236)
+Labor"]
 	"Chris Vale (2055)" -> "Adrian Jones (2053)" [label=198]
-	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
-	"Chris Vale (2055)" -> "Katie Gompertz (1236)" [label=329]
-	"Christine Berman (2054)" -> "Adrian Jones (2053)" [label=1478]
+	"Adrian Jones (2053)" -> "Katie Gompertz (1236)" [label=9424]
 	"Christine Berman (2054)" -> "Katie Gompertz (1236)" [label=1345]
-	"Peter Kelly (1255)" -> "Adrian Jones (2053)" [label=360]
 	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
+	"Chris Vale (2055)" -> "Katie Gompertz (1236)" [label=329]
+	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
+	"Christine Berman (2054)" -> "Adrian Jones (2053)" [label=1478]
 	"Peter Kelly (1255)" -> "Katie Gompertz (1236)" [label=97]
+	"Peter Kelly (1255)" -> "Adrian Jones (2053)" [label=360]
 }

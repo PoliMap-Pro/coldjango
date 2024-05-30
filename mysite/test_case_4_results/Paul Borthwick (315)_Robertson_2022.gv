@@ -2,9 +2,9 @@
 digraph "Paul Borthwick (315)_Robertson_2022" {
 	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Borthwick (315)" [label="Paul Borthwick (315)
-Citizens Party"]
 	"Alexandra Hafner (322)" [label="Alexandra Hafner (322)
 Australian Federation Party"]
+	"Paul Borthwick (315)" [label="Paul Borthwick (315)
+Citizens Party"]
 	"Alexandra Hafner (322)" -> "Paul Borthwick (315)" [label=20]
 }

@@ -2,10 +2,10 @@
 digraph "Mark Tapsell (2504)_Bass_2016" {
 	graph [label="Bass 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Tapsell (2504)" [label="Mark Tapsell (2504)
-Australian Recreational Fishers Party"]
 	"Malcolm Peter Beattie (2502)" [label="Malcolm Peter Beattie (2502)
 Christian Democratic Party (Fred Nile Group)"]
+	"Mark Tapsell (2504)" [label="Mark Tapsell (2504)
+Australian Recreational Fishers Party"]
 	"Roy Ramage (2501)" [label="Roy Ramage (2501)
 Renewable Energy Party"]
 	"Malcolm Peter Beattie (2502)" -> "Mark Tapsell (2504)" [label=418]

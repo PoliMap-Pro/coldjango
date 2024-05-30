@@ -2,39 +2,39 @@
 digraph "Laura Hughes (234)_New England_2022" {
 	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Carol Sparks (233)" [label="Carol Sparks (233)
-The Greens"]
-	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
-United Australia Party"]
-	"Laura Hughes (234)" [label="Laura Hughes (234)
-Labor"]
+	"Richard Thomas (232)" [label="Richard Thomas (232)
+Pauline Hanson's One Nation"]
 	"Matt Sharpham (231)" [label="Matt Sharpham (231)
 Independent"]
+	"Laura Hughes (234)" [label="Laura Hughes (234)
+Labor"]
+	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
+United Australia Party"]
 	"Natasha Ledger (229)" [label="Natasha Ledger (229)
 Independent"]
 	"Pavlo Samios (227)" [label="Pavlo Samios (227)
 Liberal Democrats"]
-	"Richard Thomas (232)" [label="Richard Thomas (232)
-Pauline Hanson's One Nation"]
-	"Carol Sparks (233)" -> "Laura Hughes (234)" [label=5860]
+	"Carol Sparks (233)" [label="Carol Sparks (233)
+The Greens"]
 	"Carol Sparks (233)" -> "Matt Sharpham (231)" [label=1940]
-	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
-	"Cindy Anne Duncan (228)" -> "Laura Hughes (234)" [label=180]
-	"Cindy Anne Duncan (228)" -> "Matt Sharpham (231)" [label=260]
-	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
-	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
 	"Cindy Anne Duncan (228)" -> "Richard Thomas (232)" [label=878]
-	"Matt Sharpham (231)" -> "Laura Hughes (234)" [label=7161]
-	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
+	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
+	"Cindy Anne Duncan (228)" -> "Matt Sharpham (231)" [label=260]
 	"Natasha Ledger (229)" -> "Laura Hughes (234)" [label=314]
-	"Natasha Ledger (229)" -> "Matt Sharpham (231)" [label=1653]
-	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
-	"Natasha Ledger (229)" -> "Richard Thomas (232)" [label=184]
-	"Pavlo Samios (227)" -> "Carol Sparks (233)" [label=177]
-	"Pavlo Samios (227)" -> "Laura Hughes (234)" [label=370]
-	"Pavlo Samios (227)" -> "Matt Sharpham (231)" [label=751]
-	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
-	"Richard Thomas (232)" -> "Carol Sparks (233)" [label=573]
-	"Richard Thomas (232)" -> "Laura Hughes (234)" [label=709]
 	"Richard Thomas (232)" -> "Matt Sharpham (231)" [label=2714]
+	"Natasha Ledger (229)" -> "Richard Thomas (232)" [label=184]
+	"Richard Thomas (232)" -> "Carol Sparks (233)" [label=573]
+	"Cindy Anne Duncan (228)" -> "Laura Hughes (234)" [label=180]
+	"Richard Thomas (232)" -> "Laura Hughes (234)" [label=709]
+	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
+	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
+	"Carol Sparks (233)" -> "Laura Hughes (234)" [label=5860]
+	"Natasha Ledger (229)" -> "Matt Sharpham (231)" [label=1653]
+	"Pavlo Samios (227)" -> "Carol Sparks (233)" [label=177]
+	"Pavlo Samios (227)" -> "Matt Sharpham (231)" [label=751]
+	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
+	"Pavlo Samios (227)" -> "Laura Hughes (234)" [label=370]
+	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
+	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
+	"Matt Sharpham (231)" -> "Laura Hughes (234)" [label=7161]
 }

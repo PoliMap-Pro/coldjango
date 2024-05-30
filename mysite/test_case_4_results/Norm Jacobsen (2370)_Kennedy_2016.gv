@@ -9,6 +9,6 @@ Australian Labor Party"]
 	"Valerie Weier (2368)" [label="Valerie Weier (2368)
 The Greens"]
 	"Donna Maree Gallehawk (2369)" -> "Norm Jacobsen (2370)" [label=534]
-	"Donna Maree Gallehawk (2369)" -> "Valerie Weier (2368)" [label=746]
 	"Valerie Weier (2368)" -> "Norm Jacobsen (2370)" [label=3048]
+	"Donna Maree Gallehawk (2369)" -> "Valerie Weier (2368)" [label=746]
 }

@@ -2,31 +2,31 @@
 digraph "Rob Hoad (2271)_Lingiari_2016" {
 	graph [label="Lingiari 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Flynn (2270)" [label="Peter Flynn (2270)
-Citizens Electoral Council"]
-	"Rob Hoad (2271)" [label="Rob Hoad (2271)
-The Greens"]
-	"Braedon Earley (2269)" [label="Braedon Earley (2269)
-Independent"]
-	"Alfred Gould (2267)" [label="Alfred Gould (2267)
-Independent"]
 	"Yingiya Mark Guyula (2268)" [label="Yingiya Mark Guyula (2268)
 Independent"]
+	"Rob Hoad (2271)" [label="Rob Hoad (2271)
+The Greens"]
 	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
 Rise Up Australia Party"]
-	"Peter Flynn (2270)" -> "Braedon Earley (2269)" [label=46]
-	"Braedon Earley (2269)" -> "Rob Hoad (2271)" [label=238]
-	"Alfred Gould (2267)" -> "Yingiya Mark Guyula (2268)" [label=148]
-	"Regina Mccarthy (1458)" -> "Rob Hoad (2271)" [label=126]
-	"Regina Mccarthy (1458)" -> "Yingiya Mark Guyula (2268)" [label=231]
-	"Yingiya Mark Guyula (2268)" -> "Rob Hoad (2271)" [label=584]
-	"Alfred Gould (2267)" -> "Regina Mccarthy (1458)" [label=21]
-	"Peter Flynn (2270)" -> "Regina Mccarthy (1458)" [label=44]
+	"Alfred Gould (2267)" [label="Alfred Gould (2267)
+Independent"]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Braedon Earley (2269)" [label="Braedon Earley (2269)
+Independent"]
 	"Alfred Gould (2267)" -> "Braedon Earley (2269)" [label=96]
-	"Peter Flynn (2270)" -> "Rob Hoad (2271)" [label=36]
-	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
+	"Alfred Gould (2267)" -> "Regina Mccarthy (1458)" [label=21]
+	"Yingiya Mark Guyula (2268)" -> "Rob Hoad (2271)" [label=584]
+	"Regina Mccarthy (1458)" -> "Yingiya Mark Guyula (2268)" [label=231]
 	"Peter Flynn (2270)" -> "Yingiya Mark Guyula (2268)" [label=12]
-	"Regina Mccarthy (1458)" -> "Braedon Earley (2269)" [label=184]
+	"Peter Flynn (2270)" -> "Regina Mccarthy (1458)" [label=44]
+	"Braedon Earley (2269)" -> "Rob Hoad (2271)" [label=238]
+	"Peter Flynn (2270)" -> "Rob Hoad (2271)" [label=36]
 	"Braedon Earley (2269)" -> "Yingiya Mark Guyula (2268)" [label=482]
+	"Regina Mccarthy (1458)" -> "Rob Hoad (2271)" [label=126]
+	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
+	"Peter Flynn (2270)" -> "Braedon Earley (2269)" [label=46]
 	"Alfred Gould (2267)" -> "Rob Hoad (2271)" [label=16]
+	"Regina Mccarthy (1458)" -> "Braedon Earley (2269)" [label=184]
+	"Alfred Gould (2267)" -> "Yingiya Mark Guyula (2268)" [label=148]
 }

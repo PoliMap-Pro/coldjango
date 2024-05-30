@@ -3,7 +3,7 @@ import random
 from ... import aec_readers, house, place
 from datetime import datetime
 from django.core.management.base import BaseCommand
-
+from ... import constants
 
 class Command(BaseCommand, aec_readers.AECReader):
     N = 300
@@ -17,8 +17,11 @@ class Command(BaseCommand, aec_readers.AECReader):
 
     def handle(self, *arguments, **keyword_arguments):
         print(Command.help)
-        seat_list = list(place.Seat.objects.all().order_by('name'))[:Command.N]
-        [Command.year_flow(seat_list, year) for year in Command.YEARS]
+        for abbr in constants.ABBREVIATION_LIST:
+            seat_list = list(place.Seat.objects.all().order_by('name'))[
+                        :Command.N]
+            [Command.year_flow(seat_list, year, abbr) for year in
+             Command.YEARS]
 
     @staticmethod
     def year_flow(seat_list, year, abbreviation=None):
@@ -31,7 +34,7 @@ class Command(BaseCommand, aec_readers.AECReader):
         print(seat)
         print()
         pref_rounds, targets = Command.get_targets(
-            election, seat, abbreviation, default=Command.PARTY_ABBREVIATION)
+            election, seat, abbreviation, default=abbreviation)
         if targets:
             Command.get_flow(election, pref_rounds, seat, targets, year)
 

@@ -9,6 +9,6 @@ Independent"]
 	"Peter Kelly (1255)" [label="Peter Kelly (1255)
 Australian Liberty Alliance"]
 	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
-	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
+	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 }

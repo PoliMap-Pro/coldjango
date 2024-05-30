@@ -8,7 +8,7 @@ Independent"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Trevor O'Brien (2097)" [label="Trevor O'Brien (2097)
 Mature Australia"]
-	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
 	"Trevor O'Brien (2097)" -> "Brian Mills (1289)" [label=556]
+	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
 	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
 }

@@ -2,31 +2,31 @@
 digraph "Ed Husic (74)_Chifley_2022" {
 	graph [label="Chifley 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Amit Batish (68)" [label="Amit Batish (68)
-Pauline Hanson's One Nation"]
-	"Ammar Khan (70)" [label="Ammar Khan (70)
-Independent"]
-	"Ben Roughley (71)" [label="Ben Roughley (71)
-Liberal Democrats"]
-	"Ed Husic (74)" [label="Ed Husic (74)
-Labor"]
-	"Sujan Selventhiran (72)" [label="Sujan Selventhiran (72)
-The Greens"]
 	"Zvetanka Raskov (69)" [label="Zvetanka Raskov (69)
 United Australia Party"]
+	"Ed Husic (74)" [label="Ed Husic (74)
+Labor"]
+	"Ben Roughley (71)" [label="Ben Roughley (71)
+Liberal Democrats"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
+	"Amit Batish (68)" [label="Amit Batish (68)
+Pauline Hanson's One Nation"]
+	"Sujan Selventhiran (72)" [label="Sujan Selventhiran (72)
+The Greens"]
 	"Amit Batish (68)" -> "Ed Husic (74)" [label=3824]
-	"Ammar Khan (70)" -> "Amit Batish (68)" [label=281]
-	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
-	"Ammar Khan (70)" -> "Ed Husic (74)" [label=460]
-	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
-	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
-	"Ben Roughley (71)" -> "Amit Batish (68)" [label=478]
-	"Ben Roughley (71)" -> "Ed Husic (74)" [label=662]
-	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
-	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
-	"Sujan Selventhiran (72)" -> "Amit Batish (68)" [label=972]
 	"Sujan Selventhiran (72)" -> "Ed Husic (74)" [label=4527]
-	"Zvetanka Raskov (69)" -> "Amit Batish (68)" [label=3414]
+	"Ammar Khan (70)" -> "Sujan Selventhiran (72)" [label=310]
+	"Ben Roughley (71)" -> "Ed Husic (74)" [label=662]
+	"Ammar Khan (70)" -> "Amit Batish (68)" [label=281]
+	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
+	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
+	"Ben Roughley (71)" -> "Sujan Selventhiran (72)" [label=400]
 	"Zvetanka Raskov (69)" -> "Ed Husic (74)" [label=973]
 	"Zvetanka Raskov (69)" -> "Sujan Selventhiran (72)" [label=718]
+	"Ammar Khan (70)" -> "Ed Husic (74)" [label=460]
+	"Sujan Selventhiran (72)" -> "Amit Batish (68)" [label=972]
+	"Ben Roughley (71)" -> "Amit Batish (68)" [label=478]
+	"Zvetanka Raskov (69)" -> "Amit Batish (68)" [label=3414]
+	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
 }

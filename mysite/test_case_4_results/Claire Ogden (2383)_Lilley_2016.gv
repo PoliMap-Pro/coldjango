@@ -8,7 +8,7 @@ Liberal Democrats"]
 The Greens"]
 	"Sharan Hall (2380)" [label="Sharan Hall (2380)
 Family First"]
+	"Simon James Holmick (2381)" -> "Claire Ogden (2383)" [label=286]
 	"Sharan Hall (2380)" -> "Claire Ogden (2383)" [label=999]
 	"Simon James Holmick (2381)" -> "Sharan Hall (2380)" [label=576]
-	"Simon James Holmick (2381)" -> "Claire Ogden (2383)" [label=286]
 }

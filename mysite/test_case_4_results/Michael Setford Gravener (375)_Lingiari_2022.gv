@@ -2,13 +2,13 @@
 digraph "Michael Setford Gravener (375)_Lingiari_2022" {
 	graph [label="Lingiari 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
-Independent"]
 	"Michael Setford Gravener (375)" [label="Michael Setford Gravener (375)
 Independent"]
 	"Thong Sum Lee (372)" [label="Thong Sum Lee (372)
 Citizens Party"]
+	"Imelda Adamson Agars (376)" [label="Imelda Adamson Agars (376)
+Independent"]
+	"Thong Sum Lee (372)" -> "Michael Setford Gravener (375)" [label=86]
 	"Imelda Adamson Agars (376)" -> "Michael Setford Gravener (375)" [label=277]
 	"Imelda Adamson Agars (376)" -> "Thong Sum Lee (372)" [label=9]
-	"Thong Sum Lee (372)" -> "Michael Setford Gravener (375)" [label=86]
 }

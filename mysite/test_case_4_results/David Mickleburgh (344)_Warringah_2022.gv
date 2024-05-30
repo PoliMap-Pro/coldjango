@@ -2,24 +2,24 @@
 digraph "David Mickleburgh (344)_Warringah_2022" {
 	graph [label="Warringah 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrew Colin Robertson (341)" [label="Andrew Colin Robertson (341)
-United Australia Party"]
-	"David Mickleburgh (344)" [label="David Mickleburgh (344)
-Labor"]
 	"Kate Paterson (345)" [label="Kate Paterson (345)
 Animal Justice Party"]
-	"Kristyn Glanville (342)" [label="Kristyn Glanville (342)
-The Greens"]
+	"David Mickleburgh (344)" [label="David Mickleburgh (344)
+Labor"]
 	"Steven Tripp (339)" [label="Steven Tripp (339)
 Pauline Hanson's One Nation"]
-	"Andrew Colin Robertson (341)" -> "David Mickleburgh (344)" [label=264]
-	"Andrew Colin Robertson (341)" -> "Kristyn Glanville (342)" [label=436]
-	"Kate Paterson (345)" -> "Andrew Colin Robertson (341)" [label=100]
+	"Andrew Colin Robertson (341)" [label="Andrew Colin Robertson (341)
+United Australia Party"]
+	"Kristyn Glanville (342)" [label="Kristyn Glanville (342)
+The Greens"]
 	"Kate Paterson (345)" -> "David Mickleburgh (344)" [label=216]
-	"Kate Paterson (345)" -> "Kristyn Glanville (342)" [label=452]
-	"Kate Paterson (345)" -> "Steven Tripp (339)" [label=104]
-	"Kristyn Glanville (342)" -> "David Mickleburgh (344)" [label=2354]
 	"Steven Tripp (339)" -> "Andrew Colin Robertson (341)" [label=1261]
 	"Steven Tripp (339)" -> "David Mickleburgh (344)" [label=85]
+	"Kristyn Glanville (342)" -> "David Mickleburgh (344)" [label=2354]
+	"Kate Paterson (345)" -> "Andrew Colin Robertson (341)" [label=100]
+	"Kate Paterson (345)" -> "Kristyn Glanville (342)" [label=452]
+	"Andrew Colin Robertson (341)" -> "David Mickleburgh (344)" [label=264]
+	"Kate Paterson (345)" -> "Steven Tripp (339)" [label=104]
+	"Andrew Colin Robertson (341)" -> "Kristyn Glanville (342)" [label=436]
 	"Steven Tripp (339)" -> "Kristyn Glanville (342)" [label=97]
 }

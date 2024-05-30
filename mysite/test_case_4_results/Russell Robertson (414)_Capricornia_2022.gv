@@ -2,48 +2,48 @@
 digraph "Russell Robertson (414)_Capricornia_2022" {
 	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ken Murray (416)" [label="Ken Murray (416)
-Independent"]
-	"Kylee Stanton (411)" [label="Kylee Stanton (411)
-Pauline Hanson's One Nation"]
-	"Mick Jones (413)" [label="Mick Jones (413)
-Queensland Greens"]
-	"Nathan Luke Harding (417)" [label="Nathan Luke Harding (417)
-United Australia Party"]
 	"Paula Ganfield (412)" [label="Paula Ganfield (412)
 Informed Medical Options Party"]
+	"Nathan Luke Harding (417)" [label="Nathan Luke Harding (417)
+United Australia Party"]
+	"Kylee Stanton (411)" [label="Kylee Stanton (411)
+Pauline Hanson's One Nation"]
 	"Russell Robertson (414)" [label="Russell Robertson (414)
 Australian Labor Party"]
-	"Steve Murphy (415)" [label="Steve Murphy (415)
-Liberal Democrats"]
 	"Zteven Whitty (419)" [label="Zteven Whitty (419)
 The Great Australian Party"]
-	"Ken Murray (416)" -> "Kylee Stanton (411)" [label=1156]
+	"Ken Murray (416)" [label="Ken Murray (416)
+Independent"]
+	"Steve Murphy (415)" [label="Steve Murphy (415)
+Liberal Democrats"]
+	"Mick Jones (413)" [label="Mick Jones (413)
+Queensland Greens"]
+	"Zteven Whitty (419)" -> "Nathan Luke Harding (417)" [label=691]
+	"Zteven Whitty (419)" -> "Kylee Stanton (411)" [label=635]
+	"Paula Ganfield (412)" -> "Mick Jones (413)" [label=141]
+	"Mick Jones (413)" -> "Russell Robertson (414)" [label=4204]
+	"Steve Murphy (415)" -> "Russell Robertson (414)" [label=158]
+	"Paula Ganfield (412)" -> "Nathan Luke Harding (417)" [label=57]
+	"Steve Murphy (415)" -> "Kylee Stanton (411)" [label=302]
+	"Paula Ganfield (412)" -> "Zteven Whitty (419)" [label=276]
+	"Zteven Whitty (419)" -> "Mick Jones (413)" [label=83]
+	"Zteven Whitty (419)" -> "Russell Robertson (414)" [label=73]
+	"Steve Murphy (415)" -> "Ken Murray (416)" [label=200]
+	"Zteven Whitty (419)" -> "Ken Murray (416)" [label=425]
+	"Kylee Stanton (411)" -> "Russell Robertson (414)" [label=8118]
+	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
+	"Mick Jones (413)" -> "Kylee Stanton (411)" [label=1408]
+	"Paula Ganfield (412)" -> "Russell Robertson (414)" [label=78]
+	"Paula Ganfield (412)" -> "Ken Murray (416)" [label=195]
+	"Nathan Luke Harding (417)" -> "Kylee Stanton (411)" [label=3445]
+	"Ken Murray (416)" -> "Russell Robertson (414)" [label=704]
+	"Nathan Luke Harding (417)" -> "Mick Jones (413)" [label=408]
 	"Ken Murray (416)" -> "Mick Jones (413)" [label=575]
 	"Ken Murray (416)" -> "Nathan Luke Harding (417)" [label=844]
-	"Ken Murray (416)" -> "Russell Robertson (414)" [label=704]
-	"Kylee Stanton (411)" -> "Russell Robertson (414)" [label=8118]
-	"Mick Jones (413)" -> "Kylee Stanton (411)" [label=1408]
-	"Mick Jones (413)" -> "Russell Robertson (414)" [label=4204]
-	"Nathan Luke Harding (417)" -> "Kylee Stanton (411)" [label=3445]
-	"Nathan Luke Harding (417)" -> "Mick Jones (413)" [label=408]
-	"Nathan Luke Harding (417)" -> "Russell Robertson (414)" [label=531]
-	"Paula Ganfield (412)" -> "Ken Murray (416)" [label=195]
 	"Paula Ganfield (412)" -> "Kylee Stanton (411)" [label=272]
-	"Paula Ganfield (412)" -> "Mick Jones (413)" [label=141]
-	"Paula Ganfield (412)" -> "Nathan Luke Harding (417)" [label=57]
-	"Paula Ganfield (412)" -> "Russell Robertson (414)" [label=78]
-	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
-	"Paula Ganfield (412)" -> "Zteven Whitty (419)" [label=276]
-	"Steve Murphy (415)" -> "Ken Murray (416)" [label=200]
-	"Steve Murphy (415)" -> "Kylee Stanton (411)" [label=302]
-	"Steve Murphy (415)" -> "Mick Jones (413)" [label=85]
+	"Ken Murray (416)" -> "Kylee Stanton (411)" [label=1156]
+	"Nathan Luke Harding (417)" -> "Russell Robertson (414)" [label=531]
 	"Steve Murphy (415)" -> "Nathan Luke Harding (417)" [label=197]
-	"Steve Murphy (415)" -> "Russell Robertson (414)" [label=158]
 	"Steve Murphy (415)" -> "Zteven Whitty (419)" [label=81]
-	"Zteven Whitty (419)" -> "Ken Murray (416)" [label=425]
-	"Zteven Whitty (419)" -> "Kylee Stanton (411)" [label=635]
-	"Zteven Whitty (419)" -> "Mick Jones (413)" [label=83]
-	"Zteven Whitty (419)" -> "Nathan Luke Harding (417)" [label=691]
-	"Zteven Whitty (419)" -> "Russell Robertson (414)" [label=73]
+	"Steve Murphy (415)" -> "Mick Jones (413)" [label=85]
 }

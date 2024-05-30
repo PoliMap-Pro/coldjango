@@ -2,24 +2,24 @@
 digraph "Carol Sparks (233)_New England_2022" {
 	graph [label="New England 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Richard Thomas (232)" [label="Richard Thomas (232)
+Pauline Hanson's One Nation"]
 	"Cindy Anne Duncan (228)" [label="Cindy Anne Duncan (228)
 United Australia Party"]
 	"Pavlo Samios (227)" [label="Pavlo Samios (227)
 Liberal Democrats"]
 	"Natasha Ledger (229)" [label="Natasha Ledger (229)
 Independent"]
-	"Richard Thomas (232)" [label="Richard Thomas (232)
-Pauline Hanson's One Nation"]
 	"Carol Sparks (233)" [label="Carol Sparks (233)
 The Greens"]
-	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
-	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
-	"Cindy Anne Duncan (228)" -> "Richard Thomas (232)" [label=878]
-	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
-	"Richard Thomas (232)" -> "Carol Sparks (233)" [label=573]
-	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
 	"Pavlo Samios (227)" -> "Carol Sparks (233)" [label=177]
-	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
+	"Cindy Anne Duncan (228)" -> "Carol Sparks (233)" [label=116]
+	"Cindy Anne Duncan (228)" -> "Richard Thomas (232)" [label=878]
 	"Natasha Ledger (229)" -> "Pavlo Samios (227)" [label=268]
 	"Natasha Ledger (229)" -> "Richard Thomas (232)" [label=184]
+	"Cindy Anne Duncan (228)" -> "Natasha Ledger (229)" [label=382]
+	"Natasha Ledger (229)" -> "Carol Sparks (233)" [label=286]
+	"Richard Thomas (232)" -> "Carol Sparks (233)" [label=573]
+	"Pavlo Samios (227)" -> "Richard Thomas (232)" [label=538]
+	"Cindy Anne Duncan (228)" -> "Pavlo Samios (227)" [label=287]
 }

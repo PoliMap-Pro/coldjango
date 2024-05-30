@@ -4,16 +4,16 @@ digraph "Keith Alexander Campbell (2325)_Fairfax_2016" {
 	node [shape=box]
 	"David Rees (2324)" [label="David Rees (2324)
 Family First"]
-	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
+	"Robert Dickson (2328)" [label="Robert Dickson (2328)
 Independent"]
 	"Kris Bullen (2327)" [label="Kris Bullen (2327)
 Online Direct Democracy - (Empowering the People!)"]
-	"Robert Dickson (2328)" [label="Robert Dickson (2328)
+	"Keith Alexander Campbell (2325)" [label="Keith Alexander Campbell (2325)
 Independent"]
+	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
 	"David Rees (2324)" -> "Keith Alexander Campbell (2325)" [label=453]
 	"Kris Bullen (2327)" -> "David Rees (2324)" [label=47]
-	"Kris Bullen (2327)" -> "Keith Alexander Campbell (2325)" [label=101]
-	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
-	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
 	"Robert Dickson (2328)" -> "Keith Alexander Campbell (2325)" [label=744]
+	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
+	"Kris Bullen (2327)" -> "Keith Alexander Campbell (2325)" [label=101]
 }

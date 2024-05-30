@@ -2,24 +2,24 @@
 digraph "Leisa Neaton (2307)_Capricornia_2016" {
 	graph [label="Capricornia 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kate Giamarelos (2304)" [label="Kate Giamarelos (2304)
-The Greens"]
-	"Ken Murray (416)" [label="Ken Murray (416)
-Independent"]
 	"Laurel Carter (2305)" [label="Laurel Carter (2305)
 Katter's Australian Party"]
 	"Leisa Neaton (2307)" [label="Leisa Neaton (2307)
 Australian Labor Party"]
+	"Ken Murray (416)" [label="Ken Murray (416)
+Independent"]
 	"Lindsay Temple (2306)" [label="Lindsay Temple (2306)
 Family First"]
-	"Kate Giamarelos (2304)" -> "Ken Murray (416)" [label=640]
-	"Kate Giamarelos (2304)" -> "Laurel Carter (2305)" [label=706]
+	"Kate Giamarelos (2304)" [label="Kate Giamarelos (2304)
+The Greens"]
+	"Ken Murray (416)" -> "Leisa Neaton (2307)" [label=1279]
+	"Ken Murray (416)" -> "Laurel Carter (2305)" [label=1530]
+	"Lindsay Temple (2306)" -> "Laurel Carter (2305)" [label=3411]
 	"Kate Giamarelos (2304)" -> "Leisa Neaton (2307)" [label=1848]
 	"Kate Giamarelos (2304)" -> "Lindsay Temple (2306)" [label=587]
-	"Ken Murray (416)" -> "Laurel Carter (2305)" [label=1530]
-	"Ken Murray (416)" -> "Leisa Neaton (2307)" [label=1279]
 	"Ken Murray (416)" -> "Lindsay Temple (2306)" [label=1420]
 	"Laurel Carter (2305)" -> "Leisa Neaton (2307)" [label=5513]
-	"Lindsay Temple (2306)" -> "Laurel Carter (2305)" [label=3411]
 	"Lindsay Temple (2306)" -> "Leisa Neaton (2307)" [label=1303]
+	"Kate Giamarelos (2304)" -> "Laurel Carter (2305)" [label=706]
+	"Kate Giamarelos (2304)" -> "Ken Murray (416)" [label=640]
 }

@@ -2,39 +2,39 @@
 digraph "Tom French (1150)_Moore_2022" {
 	graph [label="Moore 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brian Brightman (1153)" [label="Brian Brightman (1153)
-Pauline Hanson's One Nation"]
-	"Helen Watkinson (1154)" [label="Helen Watkinson (1154)
-United Australia Party"]
+	"Peter Gunness (1149)" [label="Peter Gunness (1149)
+WESTERN AUSTRALIA PARTY"]
 	"Mark Cooper (1151)" [label="Mark Cooper (1151)
 The Greens (WA)"]
 	"Martin Suter (1155)" [label="Martin Suter (1155)
 Australian Federation Party"]
-	"Peter Gunness (1149)" [label="Peter Gunness (1149)
-WESTERN AUSTRALIA PARTY"]
+	"Brian Brightman (1153)" [label="Brian Brightman (1153)
+Pauline Hanson's One Nation"]
 	"Sue Andersson (1148)" [label="Sue Andersson (1148)
 The Great Australian Party"]
 	"Tom French (1150)" [label="Tom French (1150)
 Australian Labor Party"]
-	"Brian Brightman (1153)" -> "Mark Cooper (1151)" [label=2332]
-	"Brian Brightman (1153)" -> "Tom French (1150)" [label=1137]
-	"Helen Watkinson (1154)" -> "Brian Brightman (1153)" [label=1875]
+	"Helen Watkinson (1154)" [label="Helen Watkinson (1154)
+United Australia Party"]
 	"Helen Watkinson (1154)" -> "Mark Cooper (1151)" [label=192]
-	"Helen Watkinson (1154)" -> "Peter Gunness (1149)" [label=456]
-	"Helen Watkinson (1154)" -> "Tom French (1150)" [label=114]
-	"Mark Cooper (1151)" -> "Tom French (1150)" [label=14529]
 	"Martin Suter (1155)" -> "Brian Brightman (1153)" [label=144]
-	"Martin Suter (1155)" -> "Helen Watkinson (1154)" [label=170]
-	"Martin Suter (1155)" -> "Mark Cooper (1151)" [label=40]
-	"Martin Suter (1155)" -> "Peter Gunness (1149)" [label=96]
+	"Helen Watkinson (1154)" -> "Brian Brightman (1153)" [label=1875]
 	"Martin Suter (1155)" -> "Sue Andersson (1148)" [label=257]
-	"Martin Suter (1155)" -> "Tom French (1150)" [label=19]
-	"Peter Gunness (1149)" -> "Brian Brightman (1153)" [label=1053]
 	"Peter Gunness (1149)" -> "Mark Cooper (1151)" [label=961]
+	"Brian Brightman (1153)" -> "Mark Cooper (1151)" [label=2332]
 	"Peter Gunness (1149)" -> "Tom French (1150)" [label=1412]
-	"Sue Andersson (1148)" -> "Brian Brightman (1153)" [label=600]
+	"Martin Suter (1155)" -> "Peter Gunness (1149)" [label=96]
+	"Martin Suter (1155)" -> "Tom French (1150)" [label=19]
 	"Sue Andersson (1148)" -> "Helen Watkinson (1154)" [label=420]
-	"Sue Andersson (1148)" -> "Mark Cooper (1151)" [label=108]
-	"Sue Andersson (1148)" -> "Peter Gunness (1149)" [label=808]
+	"Brian Brightman (1153)" -> "Tom French (1150)" [label=1137]
+	"Peter Gunness (1149)" -> "Brian Brightman (1153)" [label=1053]
+	"Mark Cooper (1151)" -> "Tom French (1150)" [label=14529]
 	"Sue Andersson (1148)" -> "Tom French (1150)" [label=135]
+	"Sue Andersson (1148)" -> "Mark Cooper (1151)" [label=108]
+	"Martin Suter (1155)" -> "Mark Cooper (1151)" [label=40]
+	"Sue Andersson (1148)" -> "Peter Gunness (1149)" [label=808]
+	"Helen Watkinson (1154)" -> "Tom French (1150)" [label=114]
+	"Martin Suter (1155)" -> "Helen Watkinson (1154)" [label=170]
+	"Sue Andersson (1148)" -> "Brian Brightman (1153)" [label=600]
+	"Helen Watkinson (1154)" -> "Peter Gunness (1149)" [label=456]
 }

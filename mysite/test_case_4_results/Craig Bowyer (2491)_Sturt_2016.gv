@@ -8,7 +8,7 @@ Family First"]
 Animal Justice Party"]
 	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
 Independent"]
-	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
 	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
+	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
 	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
 }

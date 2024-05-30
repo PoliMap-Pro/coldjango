@@ -2,31 +2,31 @@
 digraph "Tony Adams (33)_Bennelong_2022" {
 	graph [label="Bennelong 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rhys Ian Collyer (36)" [label="Rhys Ian Collyer (36)
-United Australia Party"]
-	"Victor Waterson (37)" [label="Victor Waterson (37)
-Pauline Hanson's One Nation"]
+	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
+Democratic Alliance"]
 	"Tony Adams (33)" [label="Tony Adams (33)
 The Greens"]
 	"Dougal Cameron (34)" [label="Dougal Cameron (34)
 Liberal Democrats"]
-	"Kyinzom Dhongdue (39)" [label="Kyinzom Dhongdue (39)
-Democratic Alliance"]
+	"Rhys Ian Collyer (36)" [label="Rhys Ian Collyer (36)
+United Australia Party"]
 	"John August (32)" [label="John August (32)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Kyinzom Dhongdue (39)" -> "Tony Adams (33)" [label=260]
+	"Victor Waterson (37)" [label="Victor Waterson (37)
+Pauline Hanson's One Nation"]
 	"Victor Waterson (37)" -> "John August (32)" [label=166]
-	"Kyinzom Dhongdue (39)" -> "Rhys Ian Collyer (36)" [label=82]
-	"Kyinzom Dhongdue (39)" -> "Victor Waterson (37)" [label=47]
 	"Dougal Cameron (34)" -> "Victor Waterson (37)" [label=320]
-	"John August (32)" -> "Tony Adams (33)" [label=1614]
 	"Kyinzom Dhongdue (39)" -> "Dougal Cameron (34)" [label=73]
-	"Rhys Ian Collyer (36)" -> "Tony Adams (33)" [label=1094]
-	"Kyinzom Dhongdue (39)" -> "John August (32)" [label=202]
 	"Victor Waterson (37)" -> "Rhys Ian Collyer (36)" [label=1225]
-	"Dougal Cameron (34)" -> "John August (32)" [label=82]
-	"Victor Waterson (37)" -> "Tony Adams (33)" [label=111]
+	"John August (32)" -> "Tony Adams (33)" [label=1614]
+	"Kyinzom Dhongdue (39)" -> "John August (32)" [label=202]
 	"Dougal Cameron (34)" -> "Rhys Ian Collyer (36)" [label=181]
-	"Dougal Cameron (34)" -> "Tony Adams (33)" [label=188]
+	"Kyinzom Dhongdue (39)" -> "Tony Adams (33)" [label=260]
+	"Kyinzom Dhongdue (39)" -> "Victor Waterson (37)" [label=47]
+	"Rhys Ian Collyer (36)" -> "Tony Adams (33)" [label=1094]
 	"John August (32)" -> "Rhys Ian Collyer (36)" [label=283]
+	"Dougal Cameron (34)" -> "Tony Adams (33)" [label=188]
+	"Kyinzom Dhongdue (39)" -> "Rhys Ian Collyer (36)" [label=82]
+	"Victor Waterson (37)" -> "Tony Adams (33)" [label=111]
+	"Dougal Cameron (34)" -> "John August (32)" [label=82]
 }

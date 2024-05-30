@@ -2,24 +2,24 @@
 digraph "Stan Colefax (2173)_New England_2016" {
 	graph [label="New England 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
+Independent"]
+	"Peter Whelan (2175)" [label="Peter Whelan (2175)
+Liberal Democrats"]
+	"Robert Henry Walker (2172)" [label="Robert Henry Walker (2172)
+Online Direct Democracy - (Empowering the People!)"]
 	"Stan Colefax (2173)" [label="Stan Colefax (2173)
 Christian Democratic Party (Fred Nile Group)"]
 	"David Mailler (2174)" [label="David Mailler (2174)
 CountryMinded"]
-	"Peter Whelan (2175)" [label="Peter Whelan (2175)
-Liberal Democrats"]
-	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
-Independent"]
-	"Robert Henry Walker (2172)" [label="Robert Henry Walker (2172)
-Online Direct Democracy - (Empowering the People!)"]
-	"David Mailler (2174)" -> "Stan Colefax (2173)" [label=307]
-	"Peter Whelan (2175)" -> "David Mailler (2174)" [label=174]
-	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
-	"Robert Henry Walker (2172)" -> "Philip Gordon Cox (2179)" [label=41]
-	"Peter Whelan (2175)" -> "Stan Colefax (2173)" [label=121]
-	"Philip Gordon Cox (2179)" -> "Stan Colefax (2173)" [label=53]
-	"Robert Henry Walker (2172)" -> "Stan Colefax (2173)" [label=358]
 	"Robert Henry Walker (2172)" -> "Peter Whelan (2175)" [label=44]
-	"Philip Gordon Cox (2179)" -> "David Mailler (2174)" [label=91]
+	"Robert Henry Walker (2172)" -> "Stan Colefax (2173)" [label=358]
+	"David Mailler (2174)" -> "Stan Colefax (2173)" [label=307]
+	"Philip Gordon Cox (2179)" -> "Stan Colefax (2173)" [label=53]
+	"Peter Whelan (2175)" -> "Stan Colefax (2173)" [label=121]
 	"Robert Henry Walker (2172)" -> "David Mailler (2174)" [label=146]
+	"Robert Henry Walker (2172)" -> "Philip Gordon Cox (2179)" [label=41]
+	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
+	"Peter Whelan (2175)" -> "David Mailler (2174)" [label=174]
+	"Philip Gordon Cox (2179)" -> "David Mailler (2174)" [label=91]
 }

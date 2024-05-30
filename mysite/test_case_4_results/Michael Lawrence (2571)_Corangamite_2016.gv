@@ -2,18 +2,18 @@
 digraph "Michael Lawrence (2571)_Corangamite_2016" {
 	graph [label="Corangamite 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
-Drug Law Reform"]
 	"Louis Rowe (2574)" [label="Louis Rowe (2574)
 Liberal Democrats"]
-	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
-Independent"]
 	"Nick Steel (2573)" [label="Nick Steel (2573)
 Rise Up Australia Party"]
-	"Courtney Dalton (2577)" -> "Michael Lawrence (2571)" [label=108]
-	"Louis Rowe (2574)" -> "Courtney Dalton (2577)" [label=72]
-	"Louis Rowe (2574)" -> "Michael Lawrence (2571)" [label=112]
-	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
-	"Nick Steel (2573)" -> "Louis Rowe (2574)" [label=50]
+	"Michael Lawrence (2571)" [label="Michael Lawrence (2571)
+Independent"]
+	"Courtney Dalton (2577)" [label="Courtney Dalton (2577)
+Drug Law Reform"]
 	"Nick Steel (2573)" -> "Michael Lawrence (2571)" [label=97]
+	"Nick Steel (2573)" -> "Louis Rowe (2574)" [label=50]
+	"Louis Rowe (2574)" -> "Michael Lawrence (2571)" [label=112]
+	"Louis Rowe (2574)" -> "Courtney Dalton (2577)" [label=72]
+	"Courtney Dalton (2577)" -> "Michael Lawrence (2571)" [label=108]
+	"Nick Steel (2573)" -> "Courtney Dalton (2577)" [label=41]
 }

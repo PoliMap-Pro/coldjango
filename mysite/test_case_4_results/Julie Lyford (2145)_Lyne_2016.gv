@@ -2,13 +2,13 @@
 digraph "Julie Lyford (2145)_Lyne_2016" {
 	graph [label="Lyne 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Elaine Carter (2146)" [label="Elaine Carter (2146)
+Christian Democratic Party (Fred Nile Group)"]
 	"Julie Lyford (2145)" [label="Julie Lyford (2145)
 The Greens"]
 	"Rodger John Riach (2148)" [label="Rodger John Riach (2148)
 Independent"]
-	"Elaine Carter (2146)" [label="Elaine Carter (2146)
-Christian Democratic Party (Fred Nile Group)"]
+	"Elaine Carter (2146)" -> "Julie Lyford (2145)" [label=269]
 	"Rodger John Riach (2148)" -> "Elaine Carter (2146)" [label=80]
 	"Rodger John Riach (2148)" -> "Julie Lyford (2145)" [label=122]
-	"Elaine Carter (2146)" -> "Julie Lyford (2145)" [label=269]
 }

@@ -2,18 +2,18 @@
 digraph "Stephen Lynch (2143)_Lindsay_2016" {
 	graph [label="Lindsay 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
-Nick Xenophon Team"]
 	"Scott Grimley (2137)" [label="Scott Grimley (2137)
 Derryn Hinch's Justice Party"]
-	"Deborah May Blundell (2141)" [label="Deborah May Blundell (2141)
-Animal Justice Party"]
 	"Jim Saleam (1342)" [label="Jim Saleam (1342)
 Australia First Party"]
+	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
+Nick Xenophon Team"]
+	"Deborah May Blundell (2141)" [label="Deborah May Blundell (2141)
+Animal Justice Party"]
+	"Deborah May Blundell (2141)" -> "Stephen Lynch (2143)" [label=54]
+	"Jim Saleam (1342)" -> "Scott Grimley (2137)" [label=97]
+	"Jim Saleam (1342)" -> "Stephen Lynch (2143)" [label=56]
 	"Scott Grimley (2137)" -> "Stephen Lynch (2143)" [label=192]
 	"Deborah May Blundell (2141)" -> "Scott Grimley (2137)" [label=182]
 	"Jim Saleam (1342)" -> "Deborah May Blundell (2141)" [label=97]
-	"Deborah May Blundell (2141)" -> "Stephen Lynch (2143)" [label=54]
-	"Jim Saleam (1342)" -> "Stephen Lynch (2143)" [label=56]
-	"Jim Saleam (1342)" -> "Scott Grimley (2137)" [label=97]
 }

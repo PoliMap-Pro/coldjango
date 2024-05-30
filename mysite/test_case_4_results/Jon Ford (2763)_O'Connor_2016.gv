@@ -2,24 +2,24 @@
 digraph "Jon Ford (2763)_O'Connor_2016" {
 	graph [label="O'Connor 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Giz Watson (1158)" [label="Giz Watson (1158)
-The Greens (WA)"]
-	"John Hassell (1981)" [label="John Hassell (1981)
-The Nationals"]
-	"Jon Ford (2763)" [label="Jon Ford (2763)
-Australian Labor Party"]
-	"Stephen Carson (2764)" [label="Stephen Carson (2764)
-Rise Up Australia Party"]
 	"Trevor Young (2762)" [label="Trevor Young (2762)
 Australian Christians"]
+	"Stephen Carson (2764)" [label="Stephen Carson (2764)
+Rise Up Australia Party"]
+	"Jon Ford (2763)" [label="Jon Ford (2763)
+Australian Labor Party"]
+	"John Hassell (1981)" [label="John Hassell (1981)
+The Nationals"]
+	"Giz Watson (1158)" [label="Giz Watson (1158)
+The Greens (WA)"]
 	"Giz Watson (1158)" -> "John Hassell (1981)" [label=2689]
-	"Giz Watson (1158)" -> "Jon Ford (2763)" [label=6047]
-	"John Hassell (1981)" -> "Jon Ford (2763)" [label=5166]
-	"Stephen Carson (2764)" -> "Giz Watson (1158)" [label=634]
 	"Stephen Carson (2764)" -> "John Hassell (1981)" [label=779]
+	"Trevor Young (2762)" -> "Giz Watson (1158)" [label=478]
+	"Stephen Carson (2764)" -> "Giz Watson (1158)" [label=634]
+	"Trevor Young (2762)" -> "John Hassell (1981)" [label=1540]
 	"Stephen Carson (2764)" -> "Jon Ford (2763)" [label=516]
 	"Stephen Carson (2764)" -> "Trevor Young (2762)" [label=905]
-	"Trevor Young (2762)" -> "Giz Watson (1158)" [label=478]
-	"Trevor Young (2762)" -> "John Hassell (1981)" [label=1540]
+	"Giz Watson (1158)" -> "Jon Ford (2763)" [label=6047]
 	"Trevor Young (2762)" -> "Jon Ford (2763)" [label=472]
+	"John Hassell (1981)" -> "Jon Ford (2763)" [label=5166]
 }
