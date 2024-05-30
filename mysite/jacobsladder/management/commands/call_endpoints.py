@@ -27,7 +27,6 @@ class Command(BaseCommand):
             {'abbreviation__in': ('GRN', 'GVIC')},
             {'name': 'Wills'},
         ))
-        exit()
         print()
         #with cProfile.Profile() as pr:
         pprint.pp(endpoints.getHousePrimaryVote(

@@ -28,9 +28,13 @@ class Pin(section.Part):
 
     @staticmethod
     def update_result(result, representation, votes, total, decimal_places=2):
+        if votes and total:
+            percent = round(100.0 * votes / total, decimal_places)
+        else:
+            percent = 0.0
         result[str(representation.party)] = {
             constants.RETURN_VOTES: votes, constants.RETURN_PERCENTAGE:
-                round(100.0 * votes / total, decimal_places)}
+                percent}
 
     @staticmethod
     def transaction_format_pieces(represen, tally_attribute, vote_like, total):

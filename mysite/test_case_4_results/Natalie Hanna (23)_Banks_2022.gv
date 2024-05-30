@@ -4,22 +4,22 @@ digraph "Natalie Hanna (23)_Banks_2022" {
 	node [shape=box]
 	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
 Pauline Hanson's One Nation"]
-	"Natalie Hanna (23)" [label="Natalie Hanna (23)
-The Greens"]
 	"Steve Khouw (24)" [label="Steve Khouw (24)
 "]
-	"Marika Momircevski (22)" [label="Marika Momircevski (22)
-United Australia Party"]
+	"Natalie Hanna (23)" [label="Natalie Hanna (23)
+The Greens"]
 	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
 Liberal Democrats"]
-	"Marika Momircevski (22)" -> "Natalie Hanna (23)" [label=1683]
-	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
-	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
-	"Malcolm Phillip Heffernan (25)" -> "Natalie Hanna (23)" [label=249]
-	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
+	"Marika Momircevski (22)" [label="Marika Momircevski (22)
+United Australia Party"]
 	"Elouise Ivy Cocker (21)" -> "Marika Momircevski (22)" [label=558]
-	"Elouise Ivy Cocker (21)" -> "Natalie Hanna (23)" [label=92]
+	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
 	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
+	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
+	"Malcolm Phillip Heffernan (25)" -> "Natalie Hanna (23)" [label=249]
+	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
+	"Elouise Ivy Cocker (21)" -> "Natalie Hanna (23)" [label=92]
+	"Marika Momircevski (22)" -> "Natalie Hanna (23)" [label=1683]
 	"Steve Khouw (24)" -> "Natalie Hanna (23)" [label=231]
 	"Steve Khouw (24)" -> "Marika Momircevski (22)" [label=118]
 }
