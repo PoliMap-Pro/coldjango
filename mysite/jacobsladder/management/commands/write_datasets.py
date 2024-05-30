@@ -17,20 +17,20 @@ class Command(BaseCommand):
 
     parties = {
         "Greens": ({'abbreviation__in': GREEN_ABBREVIATIONS}, None),
-        #"Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
-        #"Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
-        #"ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
-        #"Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
-        #"Independents": ({'abbreviation': 'IND'}, None),
-        #"Other": (None, {'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
-        #"Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS + ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
+        "Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
+        "Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
+        "ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
+        "Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
+        "Independents": ({'abbreviation': 'IND'}, None),
+        "Other": (None, {'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
+        "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS + ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
     }
 
     def handle(self, *arguments, **keywordarguments):
         data_set_id = 1006
         out_lines = []
-        #for election in house.HouseElection.objects.all():
-        for election in house.HouseElection.objects.filter(election_date__year=2022):
+        for election in house.HouseElection.objects.all():
+        #for election in house.HouseElection.objects.filter(election_date__year=2022):
             for key, (yes, no) in Command.parties.items():
                 print(election.election_date.year, yes, no)
                 parties = self.get_parties(no, yes)
@@ -70,8 +70,9 @@ class Command(BaseCommand):
                     if data['series'][0]['data']:
                         self.add_out_line(data_set_id, election, key, out_lines, party, "tcp_votes", "", seats_bool=True, party_data=party_data)
                         data_set_id += 1
-        with open("./jsondatasets.txt", "w") as outfile:
-            outfile.writelines(out_lines)
+                    with open("./jsondatasets.txt", "w") as outfile:
+                        outfile.writelines(out_lines)
+                    out_lines = []
 
     def get_parties(self, no, yes):
         if yes:
@@ -110,7 +111,7 @@ class Command(BaseCommand):
             "query_text": {{
                 tally_attribute: {tally_attr},
                 elections: {{'election_date__year': {election.election_date.year}}},
-                parties: {{'abbreviation__in': [{party_data}]}},
+                parties: {party_data},
                 seats: {seats_bool}
             }},
             "filter": {{
@@ -120,35 +121,6 @@ class Command(BaseCommand):
     }}
                                     """)
 
-
-"""
-{
-    "id": 1006,
-    "name": "/AEC/Election/2021/Primary vote/Green/CED",
-    "display_name": "Primary vote Greens (percent)",
-    "type": "region",
-    "level": "CED",
-    "series_name": "2022 GRN primary",
-    "data": {},
-    "source": {
-        "name": "AEC",
-        "url": "https://www.aec.gov.au/",
-        "dataset": "Federal Election 2022"
-    },
-    "query": {
-        "query_type": "elecdata",
-        "query_text": {
-            tally_attribute: "primary_votes",
-            elections: {'election_date__year': 2022},
-            parties: {'abbreviation__in': ['GRN', 'GVIC']},
-            'seats': true
-        },
-        "filter": {
-            'places': {'name__in': null}
-        }
-    }
-}
-"""
 
 """
 I remembered that I wrote this on the plane on the way over.
@@ -167,8 +139,8 @@ For each house election:
 			ordinary votes
 			postal votes
 			prepoll votes
-        for each booth:
-            primary vote (ordinary votes)
+            for each booth:
+                primary vote (ordinary votes)
 
 Datasets can have multiple *names*. These datasets will each have the
 following names:
