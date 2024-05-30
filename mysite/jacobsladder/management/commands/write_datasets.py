@@ -17,20 +17,20 @@ class Command(BaseCommand):
 
     parties = {
         "Greens": ({'abbreviation__in': GREEN_ABBREVIATIONS}, None),
-        "Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
-        "Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
-        "ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
-        "Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
-        "Independents": ({'abbreviation': 'IND'}, None),
-        "Other": (None, {'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
-        "Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS + ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
+        #"Liberals": ({'abbreviation__in': LIBERAL_ABBREVIATIONS}, None),
+        #"Nationals": ({'abbreviation__in': NATIONALS_ABBREVIATIONS}, None),
+        #"ALP": ({'abbreviation__in': ALP_ABBREVIATIONS}, None),
+        #"Coalition": ({'abbreviation__in': COALITION_ABBREVIATIONS}, None),
+        #"Independents": ({'abbreviation': 'IND'}, None),
+        #"Other": (None, {'abbreviation__in': ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
+        #"Minors": (None, {'abbreviation__in': GREEN_ABBREVIATIONS + ALP_ABBREVIATIONS + COALITION_ABBREVIATIONS}),
     }
 
     def handle(self, *arguments, **keywordarguments):
         data_set_id = 1006
         out_lines = []
-        for election in house.HouseElection.objects.all():
-        #for election in house.HouseElection.objects.filter(election_date__year=2022):
+        #for election in house.HouseElection.objects.all():
+        for election in house.HouseElection.objects.filter(election_date__year=2022):
             for key, (yes, no) in Command.parties.items():
                 print(election.election_date.year, yes, no)
                 parties = self.get_parties(no, yes)
@@ -51,7 +51,7 @@ class Command(BaseCommand):
                             seats=True,
                             tally_attribute=tally_attr)
                         if data['series'][0]['data']:
-                            self.add_out_line(data_set_id, election, key, out_lines, party, tally_attr, "", seats_bool=True)
+                            self.add_out_line(data_set_id, election, key, out_lines, party, tally_attr, "", seats_bool=True, party_data=party_data)
                             data_set_id += 1
                     for seat in place.Seat.objects.all():
                         data = endpoints.getHouseAttribute(
@@ -61,14 +61,14 @@ class Command(BaseCommand):
                             seats=False,
                             tally_attribute="primary_votes")
                         if data['series'][0]['data']:
-                            self.add_out_line(data_set_id, election, key, out_lines, party, "primary_votes", seat.name, seats_bool=False)
+                            self.add_out_line(data_set_id, election, key, out_lines, party, "primary_votes", seat.name, seats_bool=False, party_data=party_data)
                             data_set_id += 1
                     data = endpoints.getHouseTwoPartyPreferred(
                         elections=[election, ],
                         parties=party_data,
                         seats=True)
                     if data['series'][0]['data']:
-                        self.add_out_line(data_set_id, election, key, out_lines, party, "tcp_votes", "", seats_bool=True)
+                        self.add_out_line(data_set_id, election, key, out_lines, party, "tcp_votes", "", seats_bool=True, party_data=party_data)
                         data_set_id += 1
         with open("./jsondatasets.txt", "w") as outfile:
             outfile.writelines(out_lines)
@@ -82,7 +82,7 @@ class Command(BaseCommand):
             parties = parties.exclude(**no)
         return parties
 
-    def add_out_line(self, data_set_id, election, key, out_lines, party, tally_attr, seat, seats_bool=False):
+    def add_out_line(self, data_set_id, election, key, out_lines, party, tally_attr, seat, seats_bool=False, party_data=""):
         if seat:
             name_string = f"/{seat}"
             place_string = f" {seat}"
@@ -110,7 +110,7 @@ class Command(BaseCommand):
             "query_text": {{
                 tally_attribute: {tally_attr},
                 elections: {{'election_date__year': {election.election_date.year}}},
-                parties: {{'abbreviation__in': [{party.abbreviation}]}},
+                parties: {{'abbreviation__in': [{party_data}]}},
                 seats: {seats_bool}
             }},
             "filter": {{
