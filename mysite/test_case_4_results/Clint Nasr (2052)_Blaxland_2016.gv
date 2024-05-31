@@ -9,6 +9,6 @@ Christian Democratic Party (Fred Nile Group)"]
 	"Gabriela Zabala (2050)" [label="Gabriela Zabala (2050)
 Socialist Equality Party"]
 	"Gabriela Zabala (2050)" -> "Clint Nasr (2052)" [label=197]
-	"Gabriela Zabala (2050)" -> "Suzan Virago (2049)" [label=325]
 	"Suzan Virago (2049)" -> "Clint Nasr (2052)" [label=368]
+	"Gabriela Zabala (2050)" -> "Suzan Virago (2049)" [label=325]
 }

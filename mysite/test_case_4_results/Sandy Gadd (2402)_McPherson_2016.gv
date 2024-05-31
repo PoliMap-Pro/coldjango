@@ -10,10 +10,10 @@ The Greens"]
 Family First"]
 	"Rob Jones (2403)" [label="Rob Jones (2403)
 Independent"]
-	"Rob Jones (2403)" -> "Peter Burgoyne (2400)" [label=738]
-	"Simon Green (2401)" -> "Peter Burgoyne (2400)" [label=2171]
 	"Peter Burgoyne (2400)" -> "Sandy Gadd (2402)" [label=8487]
 	"Simon Green (2401)" -> "Sandy Gadd (2402)" [label=1547]
-	"Rob Jones (2403)" -> "Simon Green (2401)" [label=1388]
 	"Rob Jones (2403)" -> "Sandy Gadd (2402)" [label=936]
+	"Rob Jones (2403)" -> "Peter Burgoyne (2400)" [label=738]
+	"Rob Jones (2403)" -> "Simon Green (2401)" [label=1388]
+	"Simon Green (2401)" -> "Peter Burgoyne (2400)" [label=2171]
 }

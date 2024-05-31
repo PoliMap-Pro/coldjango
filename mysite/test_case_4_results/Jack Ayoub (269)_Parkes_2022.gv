@@ -2,48 +2,48 @@
 digraph "Jack Ayoub (269)_Parkes_2022" {
 	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Benjamin Fox (271)" [label="Benjamin Fox (271)
-Informed Medical Options Party"]
-	"Trish Frail (270)" [label="Trish Frail (270)
-The Greens"]
-	"Deborah Swinbourn (265)" [label="Deborah Swinbourn (265)
-Pauline Hanson's One Nation"]
-	"Peter Rothwell (264)" [label="Peter Rothwell (264)
-Liberal Democrats"]
 	"Stuart Howe (268)" [label="Stuart Howe (268)
 Independent"]
-	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
-United Australia Party"]
-	"Jack Ayoub (269)" [label="Jack Ayoub (269)
-Labor"]
 	"Derek Hardman (263)" [label="Derek Hardman (263)
 Indigenous - Aboriginal Party of Australia"]
-	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
-	"Benjamin Fox (271)" -> "Peter Rothwell (264)" [label=360]
-	"Trish Frail (270)" -> "Derek Hardman (263)" [label=1401]
-	"Benjamin Fox (271)" -> "Derek Hardman (263)" [label=167]
-	"Peter Rothwell (264)" -> "Jack Ayoub (269)" [label=1210]
-	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
-	"Petrus Van Der Steen (267)" -> "Peter Rothwell (264)" [label=400]
-	"Deborah Swinbourn (265)" -> "Jack Ayoub (269)" [label=3816]
+	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
+United Australia Party"]
+	"Peter Rothwell (264)" [label="Peter Rothwell (264)
+Liberal Democrats"]
+	"Deborah Swinbourn (265)" [label="Deborah Swinbourn (265)
+Pauline Hanson's One Nation"]
+	"Trish Frail (270)" [label="Trish Frail (270)
+The Greens"]
+	"Benjamin Fox (271)" [label="Benjamin Fox (271)
+Informed Medical Options Party"]
+	"Jack Ayoub (269)" [label="Jack Ayoub (269)
+Labor"]
+	"Trish Frail (270)" -> "Jack Ayoub (269)" [label=2270]
+	"Derek Hardman (263)" -> "Jack Ayoub (269)" [label=2420]
+	"Peter Rothwell (264)" -> "Deborah Swinbourn (265)" [label=3877]
 	"Benjamin Fox (271)" -> "Jack Ayoub (269)" [label=144]
+	"Petrus Van Der Steen (267)" -> "Peter Rothwell (264)" [label=400]
+	"Trish Frail (270)" -> "Peter Rothwell (264)" [label=221]
+	"Benjamin Fox (271)" -> "Peter Rothwell (264)" [label=360]
 	"Stuart Howe (268)" -> "Jack Ayoub (269)" [label=518]
 	"Stuart Howe (268)" -> "Deborah Swinbourn (265)" [label=313]
-	"Derek Hardman (263)" -> "Peter Rothwell (264)" [label=1613]
-	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
-	"Petrus Van Der Steen (267)" -> "Jack Ayoub (269)" [label=260]
-	"Derek Hardman (263)" -> "Jack Ayoub (269)" [label=2420]
-	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
-	"Trish Frail (270)" -> "Jack Ayoub (269)" [label=2270]
-	"Petrus Van Der Steen (267)" -> "Deborah Swinbourn (265)" [label=1129]
-	"Petrus Van Der Steen (267)" -> "Derek Hardman (263)" [label=322]
-	"Trish Frail (270)" -> "Peter Rothwell (264)" [label=221]
-	"Benjamin Fox (271)" -> "Deborah Swinbourn (265)" [label=217]
-	"Stuart Howe (268)" -> "Peter Rothwell (264)" [label=198]
-	"Peter Rothwell (264)" -> "Deborah Swinbourn (265)" [label=3877]
-	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
 	"Derek Hardman (263)" -> "Deborah Swinbourn (265)" [label=1339]
-	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
-	"Trish Frail (270)" -> "Deborah Swinbourn (265)" [label=302]
+	"Benjamin Fox (271)" -> "Deborah Swinbourn (265)" [label=217]
+	"Benjamin Fox (271)" -> "Derek Hardman (263)" [label=167]
 	"Stuart Howe (268)" -> "Derek Hardman (263)" [label=350]
+	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
+	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
+	"Petrus Van Der Steen (267)" -> "Derek Hardman (263)" [label=322]
+	"Petrus Van Der Steen (267)" -> "Jack Ayoub (269)" [label=260]
+	"Trish Frail (270)" -> "Derek Hardman (263)" [label=1401]
+	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
+	"Petrus Van Der Steen (267)" -> "Deborah Swinbourn (265)" [label=1129]
+	"Trish Frail (270)" -> "Deborah Swinbourn (265)" [label=302]
+	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
+	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
+	"Deborah Swinbourn (265)" -> "Jack Ayoub (269)" [label=3816]
+	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
+	"Derek Hardman (263)" -> "Peter Rothwell (264)" [label=1613]
+	"Peter Rothwell (264)" -> "Jack Ayoub (269)" [label=1210]
+	"Stuart Howe (268)" -> "Peter Rothwell (264)" [label=198]
 }

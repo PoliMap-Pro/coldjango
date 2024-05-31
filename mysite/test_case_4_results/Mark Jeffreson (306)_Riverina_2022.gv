@@ -2,39 +2,39 @@
 digraph "Mark Jeffreson (306)_Riverina_2022" {
 	graph [label="Riverina 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Richard Orchard (305)" [label="Richard Orchard (305)
+Pauline Hanson's One Nation"]
+	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
+United Australia Party"]
+	"Michael Organ (312)" [label="Michael Organ (312)
+The Greens"]
+	"Darren Ciavarella (310)" [label="Darren Ciavarella (310)
+Independent"]
+	"Mark Jeffreson (306)" [label="Mark Jeffreson (306)
+Labor"]
 	"Steve Karaitiana (308)" [label="Steve Karaitiana (308)
 Shooters, Fishers and Farmers Party"]
 	"Dean Mccrae (311)" [label="Dean Mccrae (311)
 Liberal Democrats"]
-	"Darren Ciavarella (310)" [label="Darren Ciavarella (310)
-Independent"]
-	"Michael Organ (312)" [label="Michael Organ (312)
-The Greens"]
-	"Richard Orchard (305)" [label="Richard Orchard (305)
-Pauline Hanson's One Nation"]
-	"Mark Jeffreson (306)" [label="Mark Jeffreson (306)
-Labor"]
-	"Daniel Martelozzo (307)" [label="Daniel Martelozzo (307)
-United Australia Party"]
-	"Darren Ciavarella (310)" -> "Steve Karaitiana (308)" [label=507]
-	"Michael Organ (312)" -> "Richard Orchard (305)" [label=426]
-	"Darren Ciavarella (310)" -> "Michael Organ (312)" [label=500]
-	"Steve Karaitiana (308)" -> "Mark Jeffreson (306)" [label=1643]
-	"Michael Organ (312)" -> "Mark Jeffreson (306)" [label=4304]
-	"Daniel Martelozzo (307)" -> "Mark Jeffreson (306)" [label=269]
-	"Dean Mccrae (311)" -> "Richard Orchard (305)" [label=3119]
-	"Darren Ciavarella (310)" -> "Mark Jeffreson (306)" [label=457]
-	"Daniel Martelozzo (307)" -> "Dean Mccrae (311)" [label=320]
-	"Darren Ciavarella (310)" -> "Richard Orchard (305)" [label=534]
-	"Darren Ciavarella (310)" -> "Dean Mccrae (311)" [label=401]
 	"Steve Karaitiana (308)" -> "Dean Mccrae (311)" [label=1108]
-	"Michael Organ (312)" -> "Steve Karaitiana (308)" [label=673]
+	"Daniel Martelozzo (307)" -> "Richard Orchard (305)" [label=985]
+	"Darren Ciavarella (310)" -> "Dean Mccrae (311)" [label=401]
+	"Daniel Martelozzo (307)" -> "Mark Jeffreson (306)" [label=269]
 	"Steve Karaitiana (308)" -> "Richard Orchard (305)" [label=2607]
+	"Daniel Martelozzo (307)" -> "Dean Mccrae (311)" [label=320]
+	"Steve Karaitiana (308)" -> "Mark Jeffreson (306)" [label=1643]
+	"Darren Ciavarella (310)" -> "Richard Orchard (305)" [label=534]
+	"Michael Organ (312)" -> "Mark Jeffreson (306)" [label=4304]
+	"Daniel Martelozzo (307)" -> "Michael Organ (312)" [label=88]
+	"Darren Ciavarella (310)" -> "Michael Organ (312)" [label=500]
+	"Daniel Martelozzo (307)" -> "Darren Ciavarella (310)" [label=179]
+	"Michael Organ (312)" -> "Steve Karaitiana (308)" [label=673]
+	"Darren Ciavarella (310)" -> "Mark Jeffreson (306)" [label=457]
 	"Daniel Martelozzo (307)" -> "Steve Karaitiana (308)" [label=361]
 	"Richard Orchard (305)" -> "Mark Jeffreson (306)" [label=6223]
-	"Dean Mccrae (311)" -> "Mark Jeffreson (306)" [label=1596]
 	"Michael Organ (312)" -> "Dean Mccrae (311)" [label=687]
-	"Daniel Martelozzo (307)" -> "Michael Organ (312)" [label=88]
-	"Daniel Martelozzo (307)" -> "Darren Ciavarella (310)" [label=179]
-	"Daniel Martelozzo (307)" -> "Richard Orchard (305)" [label=985]
+	"Dean Mccrae (311)" -> "Mark Jeffreson (306)" [label=1596]
+	"Michael Organ (312)" -> "Richard Orchard (305)" [label=426]
+	"Darren Ciavarella (310)" -> "Steve Karaitiana (308)" [label=507]
+	"Dean Mccrae (311)" -> "Richard Orchard (305)" [label=3119]
 }

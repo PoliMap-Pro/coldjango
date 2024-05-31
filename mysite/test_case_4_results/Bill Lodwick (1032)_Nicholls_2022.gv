@@ -2,48 +2,48 @@
 digraph "Bill Lodwick (1032)_Nicholls_2022" {
 	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Peterson (1034)" [label="Robert Peterson (1034)
-United Australia Party"]
-	"Bill Lodwick (1032)" [label="Bill Lodwick (1032)
-Australian Labor Party"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Party"]
+	"Ian Christoe (1035)" [label="Ian Christoe (1035)
+The Greens"]
 	"Tim Laird (1029)" [label="Tim Laird (1029)
 Liberal Democrats"]
 	"Andrea Otto (1036)" [label="Andrea Otto (1036)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Jeff Davy (1033)" [label="Jeff Davy (1033)
-Citizens Party"]
 	"Rikkie-Lee Tyrrell (1031)" [label="Rikkie-Lee Tyrrell (1031)
 Pauline Hanson's One Nation"]
-	"Ian Christoe (1035)" [label="Ian Christoe (1035)
-The Greens"]
+	"Bill Lodwick (1032)" [label="Bill Lodwick (1032)
+Australian Labor Party"]
 	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
 Australian Federation Party"]
-	"Jeff Davy (1033)" -> "Bill Lodwick (1032)" [label=58]
-	"Jeff Davy (1033)" -> "Robert Peterson (1034)" [label=52]
-	"Jeff Davy (1033)" -> "Rikkie-Lee Tyrrell (1031)" [label=85]
-	"Tim Laird (1029)" -> "Rikkie-Lee Tyrrell (1031)" [label=822]
-	"Andrea Otto (1036)" -> "Tim Laird (1029)" [label=35]
-	"Eleonor Tabone (1038)" -> "Robert Peterson (1034)" [label=27]
-	"Tim Laird (1029)" -> "Bill Lodwick (1032)" [label=259]
-	"Ian Christoe (1035)" -> "Bill Lodwick (1032)" [label=1261]
-	"Rikkie-Lee Tyrrell (1031)" -> "Bill Lodwick (1032)" [label=924]
-	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=27]
-	"Andrea Otto (1036)" -> "Robert Peterson (1034)" [label=46]
-	"Jeff Davy (1033)" -> "Tim Laird (1029)" [label=43]
+	"Robert Peterson (1034)" [label="Robert Peterson (1034)
+United Australia Party"]
 	"Andrea Otto (1036)" -> "Rikkie-Lee Tyrrell (1031)" [label=66]
-	"Eleonor Tabone (1038)" -> "Tim Laird (1029)" [label=42]
-	"Eleonor Tabone (1038)" -> "Bill Lodwick (1032)" [label=15]
-	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
-	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
+	"Jeff Davy (1033)" -> "Rikkie-Lee Tyrrell (1031)" [label=85]
+	"Tim Laird (1029)" -> "Bill Lodwick (1032)" [label=259]
+	"Ian Christoe (1035)" -> "Robert Peterson (1034)" [label=178]
 	"Andrea Otto (1036)" -> "Bill Lodwick (1032)" [label=81]
+	"Eleonor Tabone (1038)" -> "Tim Laird (1029)" [label=42]
+	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
+	"Andrea Otto (1036)" -> "Robert Peterson (1034)" [label=46]
+	"Eleonor Tabone (1038)" -> "Ian Christoe (1035)" [label=18]
 	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
 	"Ian Christoe (1035)" -> "Tim Laird (1029)" [label=95]
-	"Ian Christoe (1035)" -> "Robert Peterson (1034)" [label=178]
-	"Eleonor Tabone (1038)" -> "Rikkie-Lee Tyrrell (1031)" [label=81]
-	"Tim Laird (1029)" -> "Robert Peterson (1034)" [label=269]
-	"Ian Christoe (1035)" -> "Rikkie-Lee Tyrrell (1031)" [label=156]
 	"Robert Peterson (1034)" -> "Rikkie-Lee Tyrrell (1031)" [label=2317]
-	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
+	"Rikkie-Lee Tyrrell (1031)" -> "Bill Lodwick (1032)" [label=924]
+	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
+	"Eleonor Tabone (1038)" -> "Bill Lodwick (1032)" [label=15]
+	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=27]
+	"Tim Laird (1029)" -> "Robert Peterson (1034)" [label=269]
 	"Robert Peterson (1034)" -> "Bill Lodwick (1032)" [label=453]
-	"Eleonor Tabone (1038)" -> "Ian Christoe (1035)" [label=18]
+	"Tim Laird (1029)" -> "Rikkie-Lee Tyrrell (1031)" [label=822]
+	"Jeff Davy (1033)" -> "Bill Lodwick (1032)" [label=58]
+	"Ian Christoe (1035)" -> "Bill Lodwick (1032)" [label=1261]
+	"Jeff Davy (1033)" -> "Tim Laird (1029)" [label=43]
+	"Ian Christoe (1035)" -> "Rikkie-Lee Tyrrell (1031)" [label=156]
+	"Jeff Davy (1033)" -> "Robert Peterson (1034)" [label=52]
+	"Eleonor Tabone (1038)" -> "Robert Peterson (1034)" [label=27]
+	"Eleonor Tabone (1038)" -> "Rikkie-Lee Tyrrell (1031)" [label=81]
+	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
+	"Andrea Otto (1036)" -> "Tim Laird (1029)" [label=35]
 }

@@ -2,18 +2,18 @@
 digraph "Tim Hammond (2770)_Perth_2016" {
 	graph [label="Perth 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Robert Walmsley (2772)" [label="Mark Robert Walmsley (2772)
-Liberal Democrats"]
-	"Andrew David Chambers (2771)" [label="Andrew David Chambers (2771)
-Online Direct Democracy - (Empowering the People!)"]
-	"Tim Clifford (2769)" [label="Tim Clifford (2769)
-The Greens (WA)"]
 	"Tim Hammond (2770)" [label="Tim Hammond (2770)
 Australian Labor Party"]
-	"Mark Robert Walmsley (2772)" -> "Tim Clifford (2769)" [label=373]
-	"Andrew David Chambers (2771)" -> "Mark Robert Walmsley (2772)" [label=467]
+	"Tim Clifford (2769)" [label="Tim Clifford (2769)
+The Greens (WA)"]
+	"Andrew David Chambers (2771)" [label="Andrew David Chambers (2771)
+Online Direct Democracy - (Empowering the People!)"]
+	"Mark Robert Walmsley (2772)" [label="Mark Robert Walmsley (2772)
+Liberal Democrats"]
 	"Andrew David Chambers (2771)" -> "Tim Clifford (2769)" [label=395]
-	"Andrew David Chambers (2771)" -> "Tim Hammond (2770)" [label=265]
-	"Mark Robert Walmsley (2772)" -> "Tim Hammond (2770)" [label=499]
 	"Tim Clifford (2769)" -> "Tim Hammond (2770)" [label=12590]
+	"Andrew David Chambers (2771)" -> "Tim Hammond (2770)" [label=265]
+	"Andrew David Chambers (2771)" -> "Mark Robert Walmsley (2772)" [label=467]
+	"Mark Robert Walmsley (2772)" -> "Tim Clifford (2769)" [label=373]
+	"Mark Robert Walmsley (2772)" -> "Tim Hammond (2770)" [label=499]
 }

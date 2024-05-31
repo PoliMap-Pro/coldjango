@@ -2,18 +2,18 @@
 digraph "Thomas French (2765)_Pearce_2016" {
 	graph [label="Pearce 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Taffy Samuriwo-Vuntarde (2767)" [label="Taffy Samuriwo-Vuntarde (2767)
-Rise Up Australia Party"]
-	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
-The Greens (WA)"]
 	"Thomas French (2765)" [label="Thomas French (2765)
 Australian Labor Party"]
 	"Maddison Simmonds (2766)" [label="Maddison Simmonds (2766)
 The Nationals"]
-	"Taffy Samuriwo-Vuntarde (2767)" -> "Thomas French (2765)" [label=554]
-	"Lee-Anne Miles (1974)" -> "Thomas French (2765)" [label=8892]
+	"Taffy Samuriwo-Vuntarde (2767)" [label="Taffy Samuriwo-Vuntarde (2767)
+Rise Up Australia Party"]
+	"Lee-Anne Miles (1974)" [label="Lee-Anne Miles (1974)
+The Greens (WA)"]
 	"Maddison Simmonds (2766)" -> "Thomas French (2765)" [label=1105]
-	"Taffy Samuriwo-Vuntarde (2767)" -> "Maddison Simmonds (2766)" [label=2158]
-	"Maddison Simmonds (2766)" -> "Lee-Anne Miles (1974)" [label=1792]
+	"Taffy Samuriwo-Vuntarde (2767)" -> "Thomas French (2765)" [label=554]
 	"Taffy Samuriwo-Vuntarde (2767)" -> "Lee-Anne Miles (1974)" [label=601]
+	"Lee-Anne Miles (1974)" -> "Thomas French (2765)" [label=8892]
+	"Maddison Simmonds (2766)" -> "Lee-Anne Miles (1974)" [label=1792]
+	"Taffy Samuriwo-Vuntarde (2767)" -> "Maddison Simmonds (2766)" [label=2158]
 }

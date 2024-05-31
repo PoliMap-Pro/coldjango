@@ -2,13 +2,13 @@
 digraph "Andrew Punch (2169)_Mitchell_2016" {
 	graph [label="Mitchell 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Darryl Allen (2170)" [label="Darryl Allen (2170)
-Christian Democratic Party (Fred Nile Group)"]
 	"Andrew Punch (2169)" [label="Andrew Punch (2169)
 Labor"]
+	"Darryl Allen (2170)" [label="Darryl Allen (2170)
+Christian Democratic Party (Fred Nile Group)"]
 	"Michael Bellstedt (2171)" [label="Michael Bellstedt (2171)
 The Greens"]
-	"Michael Bellstedt (2171)" -> "Andrew Punch (2169)" [label=5810]
 	"Darryl Allen (2170)" -> "Michael Bellstedt (2171)" [label=535]
 	"Darryl Allen (2170)" -> "Andrew Punch (2169)" [label=1101]
+	"Michael Bellstedt (2171)" -> "Andrew Punch (2169)" [label=5810]
 }

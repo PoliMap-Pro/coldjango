@@ -4,37 +4,37 @@ digraph "Joel Fitzgibbon (1327)_Hunter_2016" {
 	node [shape=box]
 	"John Harvey (2127)" [label="John Harvey (2127)
 Independent"]
-	"John Warham (2130)" [label="John Warham (2130)
-Independent"]
-	"Arjay Rase Martin (2128)" [label="Arjay Rase Martin (2128)
-Independent"]
-	"Joel Fitzgibbon (1327)" [label="Joel Fitzgibbon (1327)
-Labor"]
-	"Richard Stretton (1326)" [label="Richard Stretton (1326)
-Christian Democratic Party (Fred Nile Group)"]
 	"Cordelia Troy (2131)" [label="Cordelia Troy (2131)
 Independent"]
 	"Peter Morris (2129)" [label="Peter Morris (2129)
 The Greens"]
-	"John Warham (2130)" -> "John Harvey (2127)" [label=397]
-	"Arjay Rase Martin (2128)" -> "John Harvey (2127)" [label=296]
-	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
-	"Peter Morris (2129)" -> "John Harvey (2127)" [label=1784]
-	"John Warham (2130)" -> "Joel Fitzgibbon (1327)" [label=166]
-	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
-	"Richard Stretton (1326)" -> "John Harvey (2127)" [label=456]
-	"John Warham (2130)" -> "Peter Morris (2129)" [label=138]
-	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
-	"Cordelia Troy (2131)" -> "John Harvey (2127)" [label=2832]
-	"Richard Stretton (1326)" -> "Cordelia Troy (2131)" [label=687]
-	"Arjay Rase Martin (2128)" -> "Peter Morris (2129)" [label=120]
-	"Arjay Rase Martin (2128)" -> "Joel Fitzgibbon (1327)" [label=202]
-	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
-	"John Warham (2130)" -> "Cordelia Troy (2131)" [label=1121]
-	"Peter Morris (2129)" -> "Joel Fitzgibbon (1327)" [label=4937]
-	"John Harvey (2127)" -> "Joel Fitzgibbon (1327)" [label=3857]
-	"Arjay Rase Martin (2128)" -> "Cordelia Troy (2131)" [label=101]
-	"Cordelia Troy (2131)" -> "Joel Fitzgibbon (1327)" [label=702]
-	"Richard Stretton (1326)" -> "Joel Fitzgibbon (1327)" [label=429]
+	"Arjay Rase Martin (2128)" [label="Arjay Rase Martin (2128)
+Independent"]
+	"John Warham (2130)" [label="John Warham (2130)
+Independent"]
+	"Richard Stretton (1326)" [label="Richard Stretton (1326)
+Christian Democratic Party (Fred Nile Group)"]
+	"Joel Fitzgibbon (1327)" [label="Joel Fitzgibbon (1327)
+Labor"]
 	"Arjay Rase Martin (2128)" -> "Richard Stretton (1326)" [label=75]
+	"John Harvey (2127)" -> "Joel Fitzgibbon (1327)" [label=3857]
+	"Arjay Rase Martin (2128)" -> "John Harvey (2127)" [label=296]
+	"Peter Morris (2129)" -> "Joel Fitzgibbon (1327)" [label=4937]
+	"John Warham (2130)" -> "Joel Fitzgibbon (1327)" [label=166]
+	"John Warham (2130)" -> "Richard Stretton (1326)" [label=108]
+	"John Warham (2130)" -> "John Harvey (2127)" [label=397]
+	"Arjay Rase Martin (2128)" -> "Peter Morris (2129)" [label=120]
+	"Cordelia Troy (2131)" -> "Joel Fitzgibbon (1327)" [label=702]
+	"John Warham (2130)" -> "Peter Morris (2129)" [label=138]
+	"Cordelia Troy (2131)" -> "Peter Morris (2129)" [label=753]
+	"Arjay Rase Martin (2128)" -> "Joel Fitzgibbon (1327)" [label=202]
+	"Richard Stretton (1326)" -> "Joel Fitzgibbon (1327)" [label=429]
+	"John Warham (2130)" -> "Cordelia Troy (2131)" [label=1121]
+	"Richard Stretton (1326)" -> "John Harvey (2127)" [label=456]
+	"Arjay Rase Martin (2128)" -> "Cordelia Troy (2131)" [label=101]
+	"Richard Stretton (1326)" -> "Peter Morris (2129)" [label=189]
+	"Peter Morris (2129)" -> "John Harvey (2127)" [label=1784]
+	"Richard Stretton (1326)" -> "Cordelia Troy (2131)" [label=687]
+	"Cordelia Troy (2131)" -> "John Harvey (2127)" [label=2832]
+	"Arjay Rase Martin (2128)" -> "John Warham (2130)" [label=179]
 }

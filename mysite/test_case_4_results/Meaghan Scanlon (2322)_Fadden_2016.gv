@@ -2,24 +2,24 @@
 digraph "Meaghan Scanlon (2322)_Fadden_2016" {
 	graph [label="Fadden 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
-	"Brenden Ball (2321)" [label="Brenden Ball (2321)
-Pauline Hanson's One Nation"]
-	"Meaghan Scanlon (2322)" [label="Meaghan Scanlon (2322)
-Australian Labor Party"]
-	"Daniel Kwon (2318)" [label="Daniel Kwon (2318)
-The Greens"]
 	"Lyn Rees (2319)" [label="Lyn Rees (2319)
 Family First"]
-	"Brenden Ball (2321)" -> "Meaghan Scanlon (2322)" [label=6414]
+	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
+Veterans Party"]
+	"Daniel Kwon (2318)" [label="Daniel Kwon (2318)
+The Greens"]
+	"Meaghan Scanlon (2322)" [label="Meaghan Scanlon (2322)
+Australian Labor Party"]
+	"Brenden Ball (2321)" [label="Brenden Ball (2321)
+Pauline Hanson's One Nation"]
 	"Sean Macnamara (2320)" -> "Meaghan Scanlon (2322)" [label=145]
 	"Lyn Rees (2319)" -> "Meaghan Scanlon (2322)" [label=531]
+	"Sean Macnamara (2320)" -> "Daniel Kwon (2318)" [label=162]
 	"Lyn Rees (2319)" -> "Brenden Ball (2321)" [label=1088]
 	"Sean Macnamara (2320)" -> "Lyn Rees (2319)" [label=237]
-	"Sean Macnamara (2320)" -> "Daniel Kwon (2318)" [label=162]
-	"Sean Macnamara (2320)" -> "Brenden Ball (2321)" [label=346]
-	"Daniel Kwon (2318)" -> "Meaghan Scanlon (2322)" [label=4367]
 	"Daniel Kwon (2318)" -> "Brenden Ball (2321)" [label=1385]
+	"Sean Macnamara (2320)" -> "Brenden Ball (2321)" [label=346]
+	"Brenden Ball (2321)" -> "Meaghan Scanlon (2322)" [label=6414]
+	"Daniel Kwon (2318)" -> "Meaghan Scanlon (2322)" [label=4367]
 	"Lyn Rees (2319)" -> "Daniel Kwon (2318)" [label=1032]
 }

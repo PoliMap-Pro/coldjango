@@ -2,24 +2,24 @@
 digraph "Jamie Elvy (2111)_Grayndler_2016" {
 	graph [label="Grayndler 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Pat Sheil (2107)" [label="Pat Sheil (2107)
+Australian Sex Party"]
+	"Jamie Elvy (2111)" [label="Jamie Elvy (2111)
+Christian Democratic Party (Fred Nile Group)"]
+	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
+Socialist Equality Party"]
 	"Chris Mclachlan (2109)" [label="Chris Mclachlan (2109)
 Renewable Energy Party"]
 	"Noel Mcfarlane (2108)" [label="Noel Mcfarlane (2108)
 Australian Cyclists Party"]
-	"Oscar Grenfell (1397)" [label="Oscar Grenfell (1397)
-Socialist Equality Party"]
-	"Jamie Elvy (2111)" [label="Jamie Elvy (2111)
-Christian Democratic Party (Fred Nile Group)"]
-	"Pat Sheil (2107)" [label="Pat Sheil (2107)
-Australian Sex Party"]
-	"Chris Mclachlan (2109)" -> "Jamie Elvy (2111)" [label=15]
-	"Pat Sheil (2107)" -> "Jamie Elvy (2111)" [label=22]
-	"Noel Mcfarlane (2108)" -> "Pat Sheil (2107)" [label=44]
-	"Oscar Grenfell (1397)" -> "Noel Mcfarlane (2108)" [label=9]
-	"Noel Mcfarlane (2108)" -> "Jamie Elvy (2111)" [label=3]
-	"Noel Mcfarlane (2108)" -> "Chris Mclachlan (2109)" [label=87]
-	"Oscar Grenfell (1397)" -> "Chris Mclachlan (2109)" [label=23]
-	"Chris Mclachlan (2109)" -> "Pat Sheil (2107)" [label=66]
-	"Oscar Grenfell (1397)" -> "Jamie Elvy (2111)" [label=5]
 	"Oscar Grenfell (1397)" -> "Pat Sheil (2107)" [label=21]
+	"Oscar Grenfell (1397)" -> "Jamie Elvy (2111)" [label=5]
+	"Chris Mclachlan (2109)" -> "Pat Sheil (2107)" [label=66]
+	"Noel Mcfarlane (2108)" -> "Chris Mclachlan (2109)" [label=87]
+	"Noel Mcfarlane (2108)" -> "Pat Sheil (2107)" [label=44]
+	"Noel Mcfarlane (2108)" -> "Jamie Elvy (2111)" [label=3]
+	"Chris Mclachlan (2109)" -> "Jamie Elvy (2111)" [label=15]
+	"Oscar Grenfell (1397)" -> "Chris Mclachlan (2109)" [label=23]
+	"Pat Sheil (2107)" -> "Jamie Elvy (2111)" [label=22]
+	"Oscar Grenfell (1397)" -> "Noel Mcfarlane (2108)" [label=9]
 }

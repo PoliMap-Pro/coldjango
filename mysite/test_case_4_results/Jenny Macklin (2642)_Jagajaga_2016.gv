@@ -2,18 +2,18 @@
 digraph "Jenny Macklin (2642)_Jagajaga_2016" {
 	graph [label="Jagajaga 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nathan Peter Schram (2646)" [label="Nathan Peter Schram (2646)
-Animal Justice Party"]
-	"Jenny Macklin (2642)" [label="Jenny Macklin (2642)
-Australian Labor Party"]
-	"Hugh Mckinnon (2645)" [label="Hugh Mckinnon (2645)
-The Greens"]
 	"Jessica Ward (2643)" [label="Jessica Ward (2643)
 Family First Party"]
-	"Nathan Peter Schram (2646)" -> "Jenny Macklin (2642)" [label=491]
-	"Jessica Ward (2643)" -> "Jenny Macklin (2642)" [label=748]
-	"Jessica Ward (2643)" -> "Hugh Mckinnon (2645)" [label=681]
-	"Hugh Mckinnon (2645)" -> "Jenny Macklin (2642)" [label=13059]
+	"Jenny Macklin (2642)" [label="Jenny Macklin (2642)
+Australian Labor Party"]
+	"Nathan Peter Schram (2646)" [label="Nathan Peter Schram (2646)
+Animal Justice Party"]
+	"Hugh Mckinnon (2645)" [label="Hugh Mckinnon (2645)
+The Greens"]
 	"Nathan Peter Schram (2646)" -> "Hugh Mckinnon (2645)" [label=972]
+	"Hugh Mckinnon (2645)" -> "Jenny Macklin (2642)" [label=13059]
+	"Jessica Ward (2643)" -> "Jenny Macklin (2642)" [label=748]
 	"Nathan Peter Schram (2646)" -> "Jessica Ward (2643)" [label=433]
+	"Jessica Ward (2643)" -> "Hugh Mckinnon (2645)" [label=681]
+	"Nathan Peter Schram (2646)" -> "Jenny Macklin (2642)" [label=491]
 }

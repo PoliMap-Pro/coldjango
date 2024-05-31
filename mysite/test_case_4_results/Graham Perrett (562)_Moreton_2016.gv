@@ -2,10 +2,6 @@
 digraph "Graham Perrett (562)_Moreton_2016" {
 	graph [label="Moreton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Des Soares (2408)" [label="Des Soares (2408)
-Nick Xenophon Team"]
-	"Graham Perrett (562)" [label="Graham Perrett (562)
-Australian Labor Party"]
 	"Florian Heise (2413)" [label="Florian Heise (2413)
 Family First"]
 	"Shan-Ju Lin (2411)" [label="Shan-Ju Lin (2411)
@@ -14,19 +10,23 @@ Katter's Australian Party"]
 Liberal Democrats"]
 	"Kristen Lyons (2410)" [label="Kristen Lyons (2410)
 The Greens"]
-	"Des Soares (2408)" -> "Kristen Lyons (2410)" [label=1699]
-	"Shan-Ju Lin (2411)" -> "Graham Perrett (562)" [label=249]
-	"Des Soares (2408)" -> "Graham Perrett (562)" [label=2102]
+	"Graham Perrett (562)" [label="Graham Perrett (562)
+Australian Labor Party"]
+	"Des Soares (2408)" [label="Des Soares (2408)
+Nick Xenophon Team"]
 	"Shan-Ju Lin (2411)" -> "Andrew Cooper (2409)" [label=123]
-	"Shan-Ju Lin (2411)" -> "Kristen Lyons (2410)" [label=145]
-	"Andrew Cooper (2409)" -> "Kristen Lyons (2410)" [label=454]
 	"Andrew Cooper (2409)" -> "Des Soares (2408)" [label=606]
-	"Florian Heise (2413)" -> "Kristen Lyons (2410)" [label=379]
 	"Florian Heise (2413)" -> "Graham Perrett (562)" [label=344]
-	"Florian Heise (2413)" -> "Des Soares (2408)" [label=627]
-	"Andrew Cooper (2409)" -> "Graham Perrett (562)" [label=789]
-	"Kristen Lyons (2410)" -> "Graham Perrett (562)" [label=11066]
 	"Shan-Ju Lin (2411)" -> "Florian Heise (2413)" [label=329]
+	"Des Soares (2408)" -> "Kristen Lyons (2410)" [label=1699]
+	"Florian Heise (2413)" -> "Des Soares (2408)" [label=627]
+	"Florian Heise (2413)" -> "Kristen Lyons (2410)" [label=379]
+	"Kristen Lyons (2410)" -> "Graham Perrett (562)" [label=11066]
+	"Shan-Ju Lin (2411)" -> "Graham Perrett (562)" [label=249]
 	"Florian Heise (2413)" -> "Andrew Cooper (2409)" [label=315]
+	"Andrew Cooper (2409)" -> "Kristen Lyons (2410)" [label=454]
+	"Andrew Cooper (2409)" -> "Graham Perrett (562)" [label=789]
+	"Shan-Ju Lin (2411)" -> "Kristen Lyons (2410)" [label=145]
+	"Des Soares (2408)" -> "Graham Perrett (562)" [label=2102]
 	"Shan-Ju Lin (2411)" -> "Des Soares (2408)" [label=252]
 }

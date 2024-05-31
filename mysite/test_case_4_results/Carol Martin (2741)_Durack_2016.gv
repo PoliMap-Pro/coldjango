@@ -2,24 +2,24 @@
 digraph "Carol Martin (2741)_Durack_2016" {
 	graph [label="Durack 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian James (2740)" [label="Ian James (2740)
-The Greens (WA)"]
+	"Lisa Cole (2743)" [label="Lisa Cole (2743)
+The Nationals"]
+	"Grahame Gould (1952)" [label="Grahame Gould (1952)
+Australian Christians"]
 	"Carol Martin (2741)" [label="Carol Martin (2741)
 Australian Labor Party"]
 	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
 Rise Up Australia Party"]
-	"Grahame Gould (1952)" [label="Grahame Gould (1952)
-Australian Christians"]
-	"Lisa Cole (2743)" [label="Lisa Cole (2743)
-The Nationals"]
-	"Grahame Gould (1952)" -> "Ian James (2740)" [label=220]
-	"Mitchell Sambell (2742)" -> "Carol Martin (2741)" [label=600]
-	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
-	"Grahame Gould (1952)" -> "Lisa Cole (2743)" [label=343]
-	"Ian James (2740)" -> "Carol Martin (2741)" [label=4934]
-	"Grahame Gould (1952)" -> "Carol Martin (2741)" [label=240]
-	"Ian James (2740)" -> "Lisa Cole (2743)" [label=2360]
-	"Mitchell Sambell (2742)" -> "Lisa Cole (2743)" [label=1523]
+	"Ian James (2740)" [label="Ian James (2740)
+The Greens (WA)"]
 	"Lisa Cole (2743)" -> "Carol Martin (2741)" [label=4232]
 	"Mitchell Sambell (2742)" -> "Ian James (2740)" [label=647]
+	"Mitchell Sambell (2742)" -> "Lisa Cole (2743)" [label=1523]
+	"Grahame Gould (1952)" -> "Carol Martin (2741)" [label=240]
+	"Mitchell Sambell (2742)" -> "Carol Martin (2741)" [label=600]
+	"Ian James (2740)" -> "Carol Martin (2741)" [label=4934]
+	"Grahame Gould (1952)" -> "Lisa Cole (2743)" [label=343]
+	"Ian James (2740)" -> "Lisa Cole (2743)" [label=2360]
+	"Grahame Gould (1952)" -> "Ian James (2740)" [label=220]
+	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
 }

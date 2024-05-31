@@ -4,37 +4,37 @@ digraph "Adam Rundell (2694)_Menzies_2016" {
 	node [shape=box]
 	"Adam Rundell (2694)" [label="Adam Rundell (2694)
 Australian Labor Party"]
-	"Jay Franklin (2695)" [label="Jay Franklin (2695)
-Voluntary Euthanasia Party"]
+	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
+Animal Justice Party"]
+	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
+Independent"]
 	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
 Independent"]
 	"Richard Cranston (2693)" [label="Richard Cranston (2693)
 The Greens"]
-	"Stephen Mayne (2696)" [label="Stephen Mayne (2696)
-Independent"]
 	"David Clark (2692)" [label="David Clark (2692)
 Family First Party"]
-	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
-Animal Justice Party"]
-	"Jay Franklin (2695)" -> "Adam Rundell (2694)" [label=123]
-	"David Clark (2692)" -> "Adam Rundell (2694)" [label=455]
-	"Ramon Robinson (2691)" -> "Adam Rundell (2694)" [label=69]
-	"Jay Franklin (2695)" -> "Stephen Mayne (2696)" [label=339]
-	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
-	"David Clark (2692)" -> "Richard Cranston (2693)" [label=559]
-	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
-	"Stephen Mayne (2696)" -> "Adam Rundell (2694)" [label=1694]
-	"Jay Franklin (2695)" -> "Richard Cranston (2693)" [label=131]
-	"Antony John Hulbert (2690)" -> "Richard Cranston (2693)" [label=770]
-	"Antony John Hulbert (2690)" -> "Adam Rundell (2694)" [label=298]
-	"Antony John Hulbert (2690)" -> "Stephen Mayne (2696)" [label=393]
-	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
-	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=90]
-	"Richard Cranston (2693)" -> "Adam Rundell (2694)" [label=10308]
-	"David Clark (2692)" -> "Stephen Mayne (2696)" [label=739]
-	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
-	"Stephen Mayne (2696)" -> "Richard Cranston (2693)" [label=3354]
+	"Jay Franklin (2695)" [label="Jay Franklin (2695)
+Voluntary Euthanasia Party"]
 	"Antony John Hulbert (2690)" -> "David Clark (2692)" [label=820]
-	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
+	"Jay Franklin (2695)" -> "Stephen Mayne (2696)" [label=339]
+	"Antony John Hulbert (2690)" -> "Richard Cranston (2693)" [label=770]
+	"Jay Franklin (2695)" -> "David Clark (2692)" [label=82]
+	"Jay Franklin (2695)" -> "Richard Cranston (2693)" [label=131]
 	"Ramon Robinson (2691)" -> "Stephen Mayne (2696)" [label=258]
+	"Jay Franklin (2695)" -> "Adam Rundell (2694)" [label=123]
+	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
+	"Antony John Hulbert (2690)" -> "Stephen Mayne (2696)" [label=393]
+	"Ramon Robinson (2691)" -> "David Clark (2692)" [label=94]
+	"David Clark (2692)" -> "Richard Cranston (2693)" [label=559]
+	"Richard Cranston (2693)" -> "Adam Rundell (2694)" [label=10308]
+	"Ramon Robinson (2691)" -> "Adam Rundell (2694)" [label=69]
+	"Stephen Mayne (2696)" -> "Richard Cranston (2693)" [label=3354]
+	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
+	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
+	"Antony John Hulbert (2690)" -> "Adam Rundell (2694)" [label=298]
+	"Ramon Robinson (2691)" -> "Richard Cranston (2693)" [label=90]
+	"Stephen Mayne (2696)" -> "Adam Rundell (2694)" [label=1694]
+	"David Clark (2692)" -> "Adam Rundell (2694)" [label=455]
+	"David Clark (2692)" -> "Stephen Mayne (2696)" [label=739]
 }

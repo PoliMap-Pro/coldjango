@@ -4,16 +4,16 @@ digraph "Ed Husic (74)_Chifley_2016" {
 	node [shape=box]
 	"Ed Husic (74)" [label="Ed Husic (74)
 Labor"]
-	"Ammar Khan (70)" [label="Ammar Khan (70)
-Independent"]
-	"Eliza James (2063)" [label="Eliza James (2063)
-The Greens"]
 	"Joshua Green (2061)" [label="Joshua Green (2061)
 Christian Democratic Party (Fred Nile Group)"]
-	"Ammar Khan (70)" -> "Ed Husic (74)" [label=656]
+	"Eliza James (2063)" [label="Eliza James (2063)
+The Greens"]
+	"Ammar Khan (70)" [label="Ammar Khan (70)
+Independent"]
 	"Joshua Green (2061)" -> "Ed Husic (74)" [label=3412]
-	"Eliza James (2063)" -> "Joshua Green (2061)" [label=932]
-	"Ammar Khan (70)" -> "Joshua Green (2061)" [label=514]
-	"Eliza James (2063)" -> "Ed Husic (74)" [label=2856]
 	"Ammar Khan (70)" -> "Eliza James (2063)" [label=463]
+	"Ammar Khan (70)" -> "Joshua Green (2061)" [label=514]
+	"Ammar Khan (70)" -> "Ed Husic (74)" [label=656]
+	"Eliza James (2063)" -> "Ed Husic (74)" [label=2856]
+	"Eliza James (2063)" -> "Joshua Green (2061)" [label=932]
 }

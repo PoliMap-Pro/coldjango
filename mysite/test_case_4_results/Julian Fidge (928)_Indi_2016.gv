@@ -2,24 +2,24 @@
 digraph "Julian Fidge (928)_Indi_2016" {
 	graph [label="Indi 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tim Quilty (2636)" [label="Tim Quilty (2636)
-Liberal Democrats"]
-	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
-Independent"]
 	"Ray Dyer (2638)" [label="Ray Dyer (2638)
 Independent"]
-	"Julian Fidge (928)" [label="Julian Fidge (928)
-Australian Country Party"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
 	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
 Rise Up Australia Party"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
 	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
-	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
 	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
-	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
-	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
-	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
 	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
-	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
-	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
 	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
+	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
+	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
+	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
+	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
+	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
 }

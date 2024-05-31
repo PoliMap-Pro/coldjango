@@ -6,14 +6,14 @@ digraph "Violet Abdulla (2244)_Watson_2016" {
 Online Direct Democracy - (Empowering the People!)"]
 	"Barbara Bloch (2247)" [label="Barbara Bloch (2247)
 The Greens"]
-	"Violet Abdulla (2244)" [label="Violet Abdulla (2244)
-Christian Democratic Party (Fred Nile Group)"]
 	"Tom Gordon (2245)" [label="Tom Gordon (2245)
 Science Party"]
+	"Violet Abdulla (2244)" [label="Violet Abdulla (2244)
+Christian Democratic Party (Fred Nile Group)"]
 	"Tom Gordon (2245)" -> "Barbara Bloch (2247)" [label=556]
-	"Paul Geran (2246)" -> "Tom Gordon (2245)" [label=208]
-	"Barbara Bloch (2247)" -> "Violet Abdulla (2244)" [label=643]
-	"Paul Geran (2246)" -> "Violet Abdulla (2244)" [label=138]
-	"Tom Gordon (2245)" -> "Violet Abdulla (2244)" [label=492]
 	"Paul Geran (2246)" -> "Barbara Bloch (2247)" [label=204]
+	"Paul Geran (2246)" -> "Violet Abdulla (2244)" [label=138]
+	"Barbara Bloch (2247)" -> "Violet Abdulla (2244)" [label=643]
+	"Tom Gordon (2245)" -> "Violet Abdulla (2244)" [label=492]
+	"Paul Geran (2246)" -> "Tom Gordon (2245)" [label=208]
 }

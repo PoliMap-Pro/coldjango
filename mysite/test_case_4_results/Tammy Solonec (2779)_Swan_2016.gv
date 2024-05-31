@@ -8,7 +8,7 @@ Australian Christians"]
 Australian Labor Party"]
 	"Sarah Nielsen-Harvey (2778)" [label="Sarah Nielsen-Harvey (2778)
 The Greens (WA)"]
-	"Sarah Nielsen-Harvey (2778)" -> "Tammy Solonec (2779)" [label=10276]
-	"Steve Klomp (2009)" -> "Tammy Solonec (2779)" [label=632]
 	"Steve Klomp (2009)" -> "Sarah Nielsen-Harvey (2778)" [label=595]
+	"Steve Klomp (2009)" -> "Tammy Solonec (2779)" [label=632]
+	"Sarah Nielsen-Harvey (2778)" -> "Tammy Solonec (2779)" [label=10276]
 }

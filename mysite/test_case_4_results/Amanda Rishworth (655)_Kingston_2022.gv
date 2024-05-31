@@ -2,31 +2,31 @@
 digraph "Amanda Rishworth (655)_Kingston_2022" {
 	graph [label="Kingston 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sam Enright (657)" [label="Sam Enright (657)
-Australian Federation Party"]
-	"Rob De Jonge (652)" [label="Rob De Jonge (652)
-Independent"]
-	"Robert Godfrey-Brown (653)" [label="Robert Godfrey-Brown (653)
-Pauline Hanson's One Nation"]
-	"Russell Jackson (654)" [label="Russell Jackson (654)
-United Australia Party"]
-	"John Photakis (656)" [label="John Photakis (656)
-The Greens"]
 	"Amanda Rishworth (655)" [label="Amanda Rishworth (655)
 Australian Labor Party"]
-	"Robert Godfrey-Brown (653)" -> "John Photakis (656)" [label=2688]
-	"Rob De Jonge (652)" -> "Amanda Rishworth (655)" [label=572]
-	"Russell Jackson (654)" -> "John Photakis (656)" [label=634]
-	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
-	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
-	"Russell Jackson (654)" -> "Robert Godfrey-Brown (653)" [label=3216]
-	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
-	"Sam Enright (657)" -> "John Photakis (656)" [label=104]
-	"Russell Jackson (654)" -> "Amanda Rishworth (655)" [label=691]
-	"John Photakis (656)" -> "Amanda Rishworth (655)" [label=14562]
+	"Robert Godfrey-Brown (653)" [label="Robert Godfrey-Brown (653)
+Pauline Hanson's One Nation"]
+	"John Photakis (656)" [label="John Photakis (656)
+The Greens"]
+	"Rob De Jonge (652)" [label="Rob De Jonge (652)
+Independent"]
+	"Sam Enright (657)" [label="Sam Enright (657)
+Australian Federation Party"]
+	"Russell Jackson (654)" [label="Russell Jackson (654)
+United Australia Party"]
 	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
-	"Robert Godfrey-Brown (653)" -> "Amanda Rishworth (655)" [label=2862]
+	"Russell Jackson (654)" -> "Amanda Rishworth (655)" [label=691]
 	"Rob De Jonge (652)" -> "John Photakis (656)" [label=629]
 	"Sam Enright (657)" -> "Amanda Rishworth (655)" [label=67]
 	"Rob De Jonge (652)" -> "Robert Godfrey-Brown (653)" [label=1039]
+	"John Photakis (656)" -> "Amanda Rishworth (655)" [label=14562]
+	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
+	"Russell Jackson (654)" -> "John Photakis (656)" [label=634]
+	"Robert Godfrey-Brown (653)" -> "Amanda Rishworth (655)" [label=2862]
+	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
+	"Russell Jackson (654)" -> "Robert Godfrey-Brown (653)" [label=3216]
+	"Robert Godfrey-Brown (653)" -> "John Photakis (656)" [label=2688]
+	"Sam Enright (657)" -> "John Photakis (656)" [label=104]
+	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
+	"Rob De Jonge (652)" -> "Amanda Rishworth (655)" [label=572]
 }

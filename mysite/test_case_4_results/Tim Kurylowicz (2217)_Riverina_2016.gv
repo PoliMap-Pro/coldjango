@@ -4,22 +4,22 @@ digraph "Tim Kurylowicz (2217)_Riverina_2016" {
 	node [shape=box]
 	"Richard Foley (1413)" [label="Richard Foley (1413)
 Independent"]
-	"Philip Langfield (1287)" [label="Philip Langfield (1287)
-Christian Democratic Party (Fred Nile Group)"]
-	"Tim Kurylowicz (2217)" [label="Tim Kurylowicz (2217)
-Labor"]
 	"Glenn O'Rourke (2218)" [label="Glenn O'Rourke (2218)
 Family First"]
 	"Kevin Poynter (2219)" [label="Kevin Poynter (2219)
 The Greens"]
-	"Glenn O'Rourke (2218)" -> "Tim Kurylowicz (2217)" [label=825]
-	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
-	"Richard Foley (1413)" -> "Tim Kurylowicz (2217)" [label=4026]
-	"Philip Langfield (1287)" -> "Kevin Poynter (2219)" [label=72]
-	"Philip Langfield (1287)" -> "Richard Foley (1413)" [label=413]
-	"Philip Langfield (1287)" -> "Glenn O'Rourke (2218)" [label=927]
+	"Philip Langfield (1287)" [label="Philip Langfield (1287)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tim Kurylowicz (2217)" [label="Tim Kurylowicz (2217)
+Labor"]
 	"Philip Langfield (1287)" -> "Tim Kurylowicz (2217)" [label=272]
-	"Kevin Poynter (2219)" -> "Richard Foley (1413)" [label=1391]
+	"Richard Foley (1413)" -> "Tim Kurylowicz (2217)" [label=4026]
+	"Glenn O'Rourke (2218)" -> "Kevin Poynter (2219)" [label=770]
 	"Kevin Poynter (2219)" -> "Tim Kurylowicz (2217)" [label=2834]
+	"Philip Langfield (1287)" -> "Kevin Poynter (2219)" [label=72]
+	"Kevin Poynter (2219)" -> "Richard Foley (1413)" [label=1391]
+	"Philip Langfield (1287)" -> "Glenn O'Rourke (2218)" [label=927]
+	"Philip Langfield (1287)" -> "Richard Foley (1413)" [label=413]
+	"Glenn O'Rourke (2218)" -> "Tim Kurylowicz (2217)" [label=825]
 	"Glenn O'Rourke (2218)" -> "Richard Foley (1413)" [label=1353]
 }

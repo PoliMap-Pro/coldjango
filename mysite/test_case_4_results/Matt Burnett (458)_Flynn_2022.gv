@@ -6,27 +6,27 @@ digraph "Matt Burnett (458)_Flynn_2022" {
 Queensland Greens"]
 	"Carla Svendsen (460)" [label="Carla Svendsen (460)
 The Great Australian Party"]
-	"Matt Burnett (458)" [label="Matt Burnett (458)
-Australian Labor Party"]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
 	"Sharon Lohse (461)" [label="Sharon Lohse (461)
 Pauline Hanson's One Nation"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"Matt Burnett (458)" [label="Matt Burnett (458)
+Australian Labor Party"]
 	"Tanya Maree Wieden (463)" [label="Tanya Maree Wieden (463)
 United Australia Party"]
-	"Sharon Lohse (461)" -> "Matt Burnett (458)" [label=6862]
-	"Paul Bambrick (459)" -> "Sharon Lohse (461)" [label=436]
-	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
-	"Carla Svendsen (460)" -> "Sharon Lohse (461)" [label=842]
-	"Carla Svendsen (460)" -> "Matt Burnett (458)" [label=153]
-	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
-	"Paul Bambrick (459)" -> "Matt Burnett (458)" [label=2420]
-	"Duncan Scott (462)" -> "Tanya Maree Wieden (463)" [label=1346]
-	"Paul Bambrick (459)" -> "Tanya Maree Wieden (463)" [label=202]
-	"Tanya Maree Wieden (463)" -> "Matt Burnett (458)" [label=963]
-	"Tanya Maree Wieden (463)" -> "Sharon Lohse (461)" [label=5857]
 	"Carla Svendsen (460)" -> "Tanya Maree Wieden (463)" [label=407]
-	"Duncan Scott (462)" -> "Matt Burnett (458)" [label=1283]
+	"Tanya Maree Wieden (463)" -> "Matt Burnett (458)" [label=963]
+	"Sharon Lohse (461)" -> "Matt Burnett (458)" [label=6862]
+	"Paul Bambrick (459)" -> "Tanya Maree Wieden (463)" [label=202]
+	"Carla Svendsen (460)" -> "Matt Burnett (458)" [label=153]
+	"Tanya Maree Wieden (463)" -> "Sharon Lohse (461)" [label=5857]
+	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
+	"Carla Svendsen (460)" -> "Sharon Lohse (461)" [label=842]
 	"Duncan Scott (462)" -> "Sharon Lohse (461)" [label=1592]
+	"Duncan Scott (462)" -> "Tanya Maree Wieden (463)" [label=1346]
+	"Paul Bambrick (459)" -> "Sharon Lohse (461)" [label=436]
 	"Paul Bambrick (459)" -> "Duncan Scott (462)" [label=809]
+	"Duncan Scott (462)" -> "Matt Burnett (458)" [label=1283]
+	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
+	"Paul Bambrick (459)" -> "Matt Burnett (458)" [label=2420]
 }

@@ -2,48 +2,48 @@
 digraph "Richard Marles (818)_Corio_2022" {
 	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Bull (810)" [label="Sue Bull (810)
-Socialist Alliance"]
-	"Naomi Adams (815)" [label="Naomi Adams (815)
-Animal Justice Party"]
-	"Jessica Taylor (811)" [label="Jessica Taylor (811)
-Australian Federation Party"]
-	"Max Payne (816)" [label="Max Payne (816)
-Liberal Democrats"]
-	"Shane Murdock (817)" [label="Shane Murdock (817)
-United Australia Party"]
-	"Simon Northeast (813)" [label="Simon Northeast (813)
-The Greens"]
-	"Richard Marles (818)" [label="Richard Marles (818)
-Australian Labor Party"]
 	"Robert Jones (814)" [label="Robert Jones (814)
 Pauline Hanson's One Nation"]
+	"Naomi Adams (815)" [label="Naomi Adams (815)
+Animal Justice Party"]
+	"Richard Marles (818)" [label="Richard Marles (818)
+Australian Labor Party"]
+	"Simon Northeast (813)" [label="Simon Northeast (813)
+The Greens"]
+	"Shane Murdock (817)" [label="Shane Murdock (817)
+United Australia Party"]
+	"Jessica Taylor (811)" [label="Jessica Taylor (811)
+Australian Federation Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Max Payne (816)" [label="Max Payne (816)
+Liberal Democrats"]
+	"Robert Jones (814)" -> "Simon Northeast (813)" [label=608]
+	"Naomi Adams (815)" -> "Shane Murdock (817)" [label=231]
+	"Sue Bull (810)" -> "Richard Marles (818)" [label=377]
+	"Naomi Adams (815)" -> "Richard Marles (818)" [label=427]
 	"Simon Northeast (813)" -> "Richard Marles (818)" [label=15954]
 	"Jessica Taylor (811)" -> "Richard Marles (818)" [label=81]
-	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
-	"Max Payne (816)" -> "Simon Northeast (813)" [label=246]
-	"Max Payne (816)" -> "Shane Murdock (817)" [label=1487]
-	"Naomi Adams (815)" -> "Robert Jones (814)" [label=244]
-	"Shane Murdock (817)" -> "Richard Marles (818)" [label=2234]
-	"Robert Jones (814)" -> "Richard Marles (818)" [label=659]
-	"Jessica Taylor (811)" -> "Sue Bull (810)" [label=206]
-	"Max Payne (816)" -> "Richard Marles (818)" [label=341]
-	"Sue Bull (810)" -> "Robert Jones (814)" [label=208]
-	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
-	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
-	"Robert Jones (814)" -> "Simon Northeast (813)" [label=608]
-	"Naomi Adams (815)" -> "Simon Northeast (813)" [label=899]
-	"Jessica Taylor (811)" -> "Simon Northeast (813)" [label=141]
-	"Sue Bull (810)" -> "Richard Marles (818)" [label=377]
 	"Shane Murdock (817)" -> "Simon Northeast (813)" [label=2244]
-	"Jessica Taylor (811)" -> "Shane Murdock (817)" [label=93]
+	"Max Payne (816)" -> "Shane Murdock (817)" [label=1487]
+	"Jessica Taylor (811)" -> "Sue Bull (810)" [label=206]
 	"Sue Bull (810)" -> "Simon Northeast (813)" [label=1362]
+	"Shane Murdock (817)" -> "Richard Marles (818)" [label=2234]
+	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
+	"Jessica Taylor (811)" -> "Shane Murdock (817)" [label=93]
+	"Jessica Taylor (811)" -> "Simon Northeast (813)" [label=141]
+	"Robert Jones (814)" -> "Richard Marles (818)" [label=659]
+	"Max Payne (816)" -> "Richard Marles (818)" [label=341]
 	"Jessica Taylor (811)" -> "Max Payne (816)" [label=201]
-	"Naomi Adams (815)" -> "Max Payne (816)" [label=123]
-	"Naomi Adams (815)" -> "Richard Marles (818)" [label=427]
-	"Sue Bull (810)" -> "Shane Murdock (817)" [label=142]
 	"Jessica Taylor (811)" -> "Robert Jones (814)" [label=148]
-	"Naomi Adams (815)" -> "Shane Murdock (817)" [label=231]
-	"Robert Jones (814)" -> "Shane Murdock (817)" [label=3245]
+	"Naomi Adams (815)" -> "Simon Northeast (813)" [label=899]
 	"Max Payne (816)" -> "Robert Jones (814)" [label=851]
+	"Sue Bull (810)" -> "Shane Murdock (817)" [label=142]
+	"Robert Jones (814)" -> "Shane Murdock (817)" [label=3245]
+	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
+	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
+	"Sue Bull (810)" -> "Robert Jones (814)" [label=208]
+	"Naomi Adams (815)" -> "Max Payne (816)" [label=123]
+	"Naomi Adams (815)" -> "Robert Jones (814)" [label=244]
+	"Max Payne (816)" -> "Simon Northeast (813)" [label=246]
 }

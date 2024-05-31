@@ -2,31 +2,31 @@
 digraph "Fiona Phillips (132)_Gilmore_2022" {
 	graph [label="Gilmore 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jordan Lindsay Maloney (129)" [label="Jordan Lindsay Maloney (129)
-United Australia Party"]
-	"Jerremy Eid (130)" [label="Jerremy Eid (130)
-Pauline Hanson's One Nation"]
-	"Adrian Fadini (131)" [label="Adrian Fadini (131)
-Liberal Democrats"]
 	"Carmel Mccallum (128)" [label="Carmel Mccallum (128)
 The Greens"]
+	"Jordan Lindsay Maloney (129)" [label="Jordan Lindsay Maloney (129)
+United Australia Party"]
 	"Nina Digiglio (127)" [label="Nina Digiglio (127)
 Independent"]
+	"Adrian Fadini (131)" [label="Adrian Fadini (131)
+Liberal Democrats"]
 	"Fiona Phillips (132)" [label="Fiona Phillips (132)
 Labor"]
-	"Jordan Lindsay Maloney (129)" -> "Fiona Phillips (132)" [label=289]
-	"Jerremy Eid (130)" -> "Carmel Mccallum (128)" [label=2430]
-	"Adrian Fadini (131)" -> "Jordan Lindsay Maloney (129)" [label=132]
-	"Adrian Fadini (131)" -> "Jerremy Eid (130)" [label=242]
+	"Jerremy Eid (130)" [label="Jerremy Eid (130)
+Pauline Hanson's One Nation"]
 	"Nina Digiglio (127)" -> "Jerremy Eid (130)" [label=2333]
 	"Carmel Mccallum (128)" -> "Fiona Phillips (132)" [label=12143]
-	"Jordan Lindsay Maloney (129)" -> "Nina Digiglio (127)" [label=745]
-	"Adrian Fadini (131)" -> "Carmel Mccallum (128)" [label=47]
-	"Jordan Lindsay Maloney (129)" -> "Jerremy Eid (130)" [label=1553]
-	"Adrian Fadini (131)" -> "Nina Digiglio (127)" [label=91]
-	"Jordan Lindsay Maloney (129)" -> "Carmel Mccallum (128)" [label=213]
-	"Nina Digiglio (127)" -> "Carmel Mccallum (128)" [label=1212]
-	"Nina Digiglio (127)" -> "Fiona Phillips (132)" [label=983]
+	"Jordan Lindsay Maloney (129)" -> "Fiona Phillips (132)" [label=289]
 	"Adrian Fadini (131)" -> "Fiona Phillips (132)" [label=123]
+	"Jordan Lindsay Maloney (129)" -> "Carmel Mccallum (128)" [label=213]
+	"Adrian Fadini (131)" -> "Carmel Mccallum (128)" [label=47]
+	"Adrian Fadini (131)" -> "Jordan Lindsay Maloney (129)" [label=132]
+	"Nina Digiglio (127)" -> "Fiona Phillips (132)" [label=983]
+	"Adrian Fadini (131)" -> "Nina Digiglio (127)" [label=91]
+	"Adrian Fadini (131)" -> "Jerremy Eid (130)" [label=242]
+	"Nina Digiglio (127)" -> "Carmel Mccallum (128)" [label=1212]
 	"Jerremy Eid (130)" -> "Fiona Phillips (132)" [label=2326]
+	"Jordan Lindsay Maloney (129)" -> "Nina Digiglio (127)" [label=745]
+	"Jordan Lindsay Maloney (129)" -> "Jerremy Eid (130)" [label=1553]
+	"Jerremy Eid (130)" -> "Carmel Mccallum (128)" [label=2430]
 }

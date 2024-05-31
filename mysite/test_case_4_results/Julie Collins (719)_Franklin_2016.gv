@@ -2,18 +2,18 @@
 digraph "Julie Collins (719)_Franklin_2016" {
 	graph [label="Franklin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julie Collins (719)" [label="Julie Collins (719)
-Australian Labor Party"]
-	"Martine Delaney (2517)" [label="Martine Delaney (2517)
-The Greens"]
-	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
-The Arts Party"]
 	"George James Muskett (2518)" [label="George James Muskett (2518)
 Christian Democratic Party (Fred Nile Group)"]
-	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
-	"Tim Sanderson (2516)" -> "Julie Collins (719)" [label=570]
-	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
+	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
+The Arts Party"]
+	"Martine Delaney (2517)" [label="Martine Delaney (2517)
+The Greens"]
+	"Julie Collins (719)" [label="Julie Collins (719)
+Australian Labor Party"]
+	"George James Muskett (2518)" -> "Julie Collins (719)" [label=311]
 	"Martine Delaney (2517)" -> "Julie Collins (719)" [label=8659]
 	"George James Muskett (2518)" -> "Martine Delaney (2517)" [label=79]
-	"George James Muskett (2518)" -> "Julie Collins (719)" [label=311]
+	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
+	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
+	"Tim Sanderson (2516)" -> "Julie Collins (719)" [label=570]
 }

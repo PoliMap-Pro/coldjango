@@ -2,31 +2,31 @@
 digraph "Anika Wells (526)_Lilley_2022" {
 	graph [label="Lilley 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Melissa Stevens (522)" [label="Melissa Stevens (522)
-Queensland Greens"]
-	"Gerardine Louise Hoogland (521)" [label="Gerardine Louise Hoogland (521)
-United Australia Party"]
-	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
-Liberal Democrats"]
 	"Michelle Wilde (527)" [label="Michelle Wilde (527)
 Pauline Hanson's One Nation"]
-	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
-Informed Medical Options Party"]
+	"Gerardine Louise Hoogland (521)" [label="Gerardine Louise Hoogland (521)
+United Australia Party"]
 	"Anika Wells (526)" [label="Anika Wells (526)
 Australian Labor Party"]
-	"Stephen Mcgrath (524)" -> "Gerardine Louise Hoogland (521)" [label=370]
-	"Stephen Mcgrath (524)" -> "Melissa Stevens (522)" [label=271]
-	"Gerardine Louise Hoogland (521)" -> "Anika Wells (526)" [label=332]
-	"Stephen Mcgrath (524)" -> "Daniel Freshwater (525)" [label=168]
-	"Daniel Freshwater (525)" -> "Melissa Stevens (522)" [label=283]
+	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
+Informed Medical Options Party"]
+	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
+Liberal Democrats"]
+	"Melissa Stevens (522)" [label="Melissa Stevens (522)
+Queensland Greens"]
 	"Melissa Stevens (522)" -> "Anika Wells (526)" [label=16123]
-	"Daniel Freshwater (525)" -> "Michelle Wilde (527)" [label=500]
-	"Daniel Freshwater (525)" -> "Anika Wells (526)" [label=463]
-	"Stephen Mcgrath (524)" -> "Anika Wells (526)" [label=132]
-	"Gerardine Louise Hoogland (521)" -> "Melissa Stevens (522)" [label=819]
-	"Michelle Wilde (527)" -> "Anika Wells (526)" [label=1467]
-	"Michelle Wilde (527)" -> "Melissa Stevens (522)" [label=1712]
-	"Stephen Mcgrath (524)" -> "Michelle Wilde (527)" [label=305]
+	"Daniel Freshwater (525)" -> "Melissa Stevens (522)" [label=283]
 	"Daniel Freshwater (525)" -> "Gerardine Louise Hoogland (521)" [label=412]
+	"Daniel Freshwater (525)" -> "Michelle Wilde (527)" [label=500]
+	"Gerardine Louise Hoogland (521)" -> "Anika Wells (526)" [label=332]
+	"Michelle Wilde (527)" -> "Melissa Stevens (522)" [label=1712]
+	"Michelle Wilde (527)" -> "Anika Wells (526)" [label=1467]
+	"Stephen Mcgrath (524)" -> "Daniel Freshwater (525)" [label=168]
+	"Gerardine Louise Hoogland (521)" -> "Melissa Stevens (522)" [label=819]
 	"Gerardine Louise Hoogland (521)" -> "Michelle Wilde (527)" [label=2351]
+	"Stephen Mcgrath (524)" -> "Michelle Wilde (527)" [label=305]
+	"Stephen Mcgrath (524)" -> "Gerardine Louise Hoogland (521)" [label=370]
+	"Daniel Freshwater (525)" -> "Anika Wells (526)" [label=463]
+	"Stephen Mcgrath (524)" -> "Melissa Stevens (522)" [label=271]
+	"Stephen Mcgrath (524)" -> "Anika Wells (526)" [label=132]
 }

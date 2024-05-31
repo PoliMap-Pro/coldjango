@@ -2,13 +2,13 @@
 digraph "David Fent (2654)_La Trobe_2016" {
 	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
-Rise Up Australia Party"]
 	"David Fent (2654)" [label="David Fent (2654)
 Shooters, Fishers and Farmers"]
 	"Leslie Hughes (2652)" [label="Leslie Hughes (2652)
 Liberal Democrats"]
+	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
+Rise Up Australia Party"]
+	"Leslie Hughes (2652)" -> "David Fent (2654)" [label=87]
 	"Margaret Quinn (2653)" -> "David Fent (2654)" [label=138]
 	"Margaret Quinn (2653)" -> "Leslie Hughes (2652)" [label=58]
-	"Leslie Hughes (2652)" -> "David Fent (2654)" [label=87]
 }

@@ -2,13 +2,13 @@
 digraph "James Gent (1350)_Macarthur_2016" {
 	graph [label="Macarthur 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
+Nick Xenophon Team"]
 	"Ben Moroney (2151)" [label="Ben Moroney (2151)
 The Greens"]
 	"James Gent (1350)" [label="James Gent (1350)
 Christian Democratic Party (Fred Nile Group)"]
-	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
-Nick Xenophon Team"]
-	"Richard Heltay Bakoss (2149)" -> "James Gent (1350)" [label=1252]
-	"Ben Moroney (2151)" -> "James Gent (1350)" [label=657]
 	"Richard Heltay Bakoss (2149)" -> "Ben Moroney (2151)" [label=489]
+	"Ben Moroney (2151)" -> "James Gent (1350)" [label=657]
+	"Richard Heltay Bakoss (2149)" -> "James Gent (1350)" [label=1252]
 }

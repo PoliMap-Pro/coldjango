@@ -2,48 +2,48 @@
 digraph "Keir Paterson (1006)_Melbourne_2022" {
 	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Justin Borg (1005)" [label="Justin Borg (1005)
-United Australia Party"]
-	"Walter Stragan (1011)" [label="Walter Stragan (1011)
-Pauline Hanson's One Nation"]
+	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
+Victorian Socialists"]
 	"Scott Robson (1010)" [label="Scott Robson (1010)
 Independent"]
 	"James Damches (1008)" [label="James Damches (1008)
 Liberal"]
-	"Richard Peppard (1009)" [label="Richard Peppard (1009)
-Liberal Democrats"]
-	"Colleen Bolger (1013)" [label="Colleen Bolger (1013)
-Victorian Socialists"]
-	"Bruce Poon (1012)" [label="Bruce Poon (1012)
-Animal Justice Party"]
+	"Walter Stragan (1011)" [label="Walter Stragan (1011)
+Pauline Hanson's One Nation"]
 	"Keir Paterson (1006)" [label="Keir Paterson (1006)
 Australian Labor Party"]
-	"Bruce Poon (1012)" -> "Justin Borg (1005)" [label=99]
-	"Colleen Bolger (1013)" -> "Keir Paterson (1006)" [label=627]
-	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
-	"Scott Robson (1010)" -> "Justin Borg (1005)" [label=144]
-	"Colleen Bolger (1013)" -> "James Damches (1008)" [label=662]
-	"Justin Borg (1005)" -> "James Damches (1008)" [label=1387]
-	"Bruce Poon (1012)" -> "James Damches (1008)" [label=122]
-	"Walter Stragan (1011)" -> "James Damches (1008)" [label=102]
-	"Richard Peppard (1009)" -> "Keir Paterson (1006)" [label=165]
-	"Scott Robson (1010)" -> "James Damches (1008)" [label=141]
-	"Bruce Poon (1012)" -> "Colleen Bolger (1013)" [label=365]
+	"Justin Borg (1005)" [label="Justin Borg (1005)
+United Australia Party"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
+	"Richard Peppard (1009)" [label="Richard Peppard (1009)
+Liberal Democrats"]
 	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
-	"Justin Borg (1005)" -> "Keir Paterson (1006)" [label=678]
-	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
+	"Richard Peppard (1009)" -> "Keir Paterson (1006)" [label=165]
+	"Richard Peppard (1009)" -> "Colleen Bolger (1013)" [label=110]
+	"Scott Robson (1010)" -> "Colleen Bolger (1013)" [label=97]
+	"Bruce Poon (1012)" -> "Keir Paterson (1006)" [label=197]
+	"Colleen Bolger (1013)" -> "James Damches (1008)" [label=662]
+	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
+	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
 	"Walter Stragan (1011)" -> "Colleen Bolger (1013)" [label=24]
-	"Richard Peppard (1009)" -> "James Damches (1008)" [label=659]
+	"Scott Robson (1010)" -> "James Damches (1008)" [label=141]
 	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
 	"Walter Stragan (1011)" -> "Richard Peppard (1009)" [label=241]
-	"Bruce Poon (1012)" -> "Keir Paterson (1006)" [label=197]
-	"Justin Borg (1005)" -> "Colleen Bolger (1013)" [label=847]
-	"Scott Robson (1010)" -> "Keir Paterson (1006)" [label=173]
-	"Richard Peppard (1009)" -> "Colleen Bolger (1013)" [label=110]
-	"Walter Stragan (1011)" -> "Keir Paterson (1006)" [label=42]
+	"Richard Peppard (1009)" -> "James Damches (1008)" [label=659]
+	"Walter Stragan (1011)" -> "James Damches (1008)" [label=102]
+	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
+	"Bruce Poon (1012)" -> "Justin Borg (1005)" [label=99]
 	"Richard Peppard (1009)" -> "Justin Borg (1005)" [label=985]
+	"Scott Robson (1010)" -> "Keir Paterson (1006)" [label=173]
+	"Bruce Poon (1012)" -> "James Damches (1008)" [label=122]
+	"Bruce Poon (1012)" -> "Colleen Bolger (1013)" [label=365]
 	"James Damches (1008)" -> "Keir Paterson (1006)" [label=12419]
-	"Scott Robson (1010)" -> "Colleen Bolger (1013)" [label=97]
+	"Colleen Bolger (1013)" -> "Keir Paterson (1006)" [label=627]
+	"Justin Borg (1005)" -> "Keir Paterson (1006)" [label=678]
+	"Justin Borg (1005)" -> "James Damches (1008)" [label=1387]
+	"Scott Robson (1010)" -> "Justin Borg (1005)" [label=144]
 	"Walter Stragan (1011)" -> "Justin Borg (1005)" [label=335]
-	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
+	"Justin Borg (1005)" -> "Colleen Bolger (1013)" [label=847]
+	"Walter Stragan (1011)" -> "Keir Paterson (1006)" [label=42]
 }

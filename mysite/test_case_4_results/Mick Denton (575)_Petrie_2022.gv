@@ -2,31 +2,31 @@
 digraph "Mick Denton (575)_Petrie_2022" {
 	graph [label="Petrie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kelly Anne Guenoun (571)" [label="Kelly Anne Guenoun (571)
-United Australia Party"]
 	"Marcus Mitchell (574)" [label="Marcus Mitchell (574)
 Pauline Hanson's One Nation"]
-	"Mick Denton (575)" [label="Mick Denton (575)
-Australian Labor Party"]
-	"Anneke Wilson (573)" [label="Anneke Wilson (573)
-Liberal Democrats"]
 	"Will Simon (572)" [label="Will Simon (572)
 Queensland Greens"]
 	"Chris Cicchitti (577)" [label="Chris Cicchitti (577)
 Animal Justice Party"]
+	"Anneke Wilson (573)" [label="Anneke Wilson (573)
+Liberal Democrats"]
+	"Kelly Anne Guenoun (571)" [label="Kelly Anne Guenoun (571)
+United Australia Party"]
+	"Mick Denton (575)" [label="Mick Denton (575)
+Australian Labor Party"]
+	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
+	"Chris Cicchitti (577)" -> "Will Simon (572)" [label=939]
+	"Marcus Mitchell (574)" -> "Will Simon (572)" [label=814]
+	"Anneke Wilson (573)" -> "Marcus Mitchell (574)" [label=422]
+	"Anneke Wilson (573)" -> "Will Simon (572)" [label=263]
+	"Kelly Anne Guenoun (571)" -> "Will Simon (572)" [label=3507]
+	"Anneke Wilson (573)" -> "Mick Denton (575)" [label=296]
 	"Marcus Mitchell (574)" -> "Kelly Anne Guenoun (571)" [label=3748]
 	"Chris Cicchitti (577)" -> "Marcus Mitchell (574)" [label=372]
-	"Anneke Wilson (573)" -> "Will Simon (572)" [label=263]
-	"Kelly Anne Guenoun (571)" -> "Mick Denton (575)" [label=1702]
-	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
-	"Marcus Mitchell (574)" -> "Mick Denton (575)" [label=704]
-	"Chris Cicchitti (577)" -> "Mick Denton (575)" [label=393]
-	"Chris Cicchitti (577)" -> "Will Simon (572)" [label=939]
 	"Will Simon (572)" -> "Mick Denton (575)" [label=13465]
-	"Anneke Wilson (573)" -> "Mick Denton (575)" [label=296]
-	"Anneke Wilson (573)" -> "Marcus Mitchell (574)" [label=422]
-	"Marcus Mitchell (574)" -> "Will Simon (572)" [label=814]
-	"Chris Cicchitti (577)" -> "Kelly Anne Guenoun (571)" [label=331]
-	"Kelly Anne Guenoun (571)" -> "Will Simon (572)" [label=3507]
 	"Anneke Wilson (573)" -> "Kelly Anne Guenoun (571)" [label=421]
+	"Marcus Mitchell (574)" -> "Mick Denton (575)" [label=704]
+	"Kelly Anne Guenoun (571)" -> "Mick Denton (575)" [label=1702]
+	"Chris Cicchitti (577)" -> "Kelly Anne Guenoun (571)" [label=331]
+	"Chris Cicchitti (577)" -> "Mick Denton (575)" [label=393]
 }

@@ -4,16 +4,16 @@ digraph "Sophie Ismail (2680)_Melbourne_2016" {
 	node [shape=box]
 	"Lewis Freeman-Harrison (2679)" [label="Lewis Freeman-Harrison (2679)
 Australian Sex Party"]
-	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
-Animal Justice Party"]
 	"Sophie Ismail (2680)" [label="Sophie Ismail (2680)
 Australian Labor Party"]
+	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
+Animal Justice Party"]
 	"Matt Riley (2683)" [label="Matt Riley (2683)
 Drug Law Reform"]
-	"Matt Riley (2683)" -> "Sophie Ismail (2680)" [label=116]
 	"Lewis Freeman-Harrison (2679)" -> "Sophie Ismail (2680)" [label=1328]
+	"Miranda Joyce Smith (2682)" -> "Sophie Ismail (2680)" [label=268]
 	"Miranda Joyce Smith (2682)" -> "Lewis Freeman-Harrison (2679)" [label=527]
 	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
-	"Miranda Joyce Smith (2682)" -> "Sophie Ismail (2680)" [label=268]
+	"Matt Riley (2683)" -> "Sophie Ismail (2680)" [label=116]
 	"Matt Riley (2683)" -> "Lewis Freeman-Harrison (2679)" [label=378]
 }

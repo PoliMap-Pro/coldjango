@@ -2,18 +2,18 @@
 digraph "Mike Freelander (196)_Macarthur_2016" {
 	graph [label="Macarthur 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"James Gent (1350)" [label="James Gent (1350)
-Christian Democratic Party (Fred Nile Group)"]
-	"Ben Moroney (2151)" [label="Ben Moroney (2151)
-The Greens"]
 	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
 Nick Xenophon Team"]
+	"Ben Moroney (2151)" [label="Ben Moroney (2151)
+The Greens"]
+	"James Gent (1350)" [label="James Gent (1350)
+Christian Democratic Party (Fred Nile Group)"]
 	"Mike Freelander (196)" [label="Mike Freelander (196)
 Labor"]
-	"Ben Moroney (2151)" -> "James Gent (1350)" [label=657]
+	"James Gent (1350)" -> "Mike Freelander (196)" [label=1962]
 	"Ben Moroney (2151)" -> "Mike Freelander (196)" [label=2991]
 	"Richard Heltay Bakoss (2149)" -> "Ben Moroney (2151)" [label=489]
-	"Richard Heltay Bakoss (2149)" -> "Mike Freelander (196)" [label=845]
 	"Richard Heltay Bakoss (2149)" -> "James Gent (1350)" [label=1252]
-	"James Gent (1350)" -> "Mike Freelander (196)" [label=1962]
+	"Richard Heltay Bakoss (2149)" -> "Mike Freelander (196)" [label=845]
+	"Ben Moroney (2151)" -> "James Gent (1350)" [label=657]
 }

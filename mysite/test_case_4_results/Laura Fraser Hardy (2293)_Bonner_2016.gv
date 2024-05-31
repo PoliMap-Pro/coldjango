@@ -2,24 +2,24 @@
 digraph "Laura Fraser Hardy (2293)_Bonner_2016" {
 	graph [label="Bonner 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrew Broughton (2294)" [label="Andrew Broughton (2294)
-Family First"]
-	"Matthew Linney (2290)" [label="Matthew Linney (2290)
-Liberal Democrats"]
 	"Laura Fraser Hardy (2293)" [label="Laura Fraser Hardy (2293)
 Australian Labor Party"]
 	"Ken Austin (2291)" [label="Ken Austin (2291)
 The Greens"]
+	"Matthew Linney (2290)" [label="Matthew Linney (2290)
+Liberal Democrats"]
 	"Jarrod John Wirth (2292)" [label="Jarrod John Wirth (2292)
 Independent"]
-	"Jarrod John Wirth (2292)" -> "Andrew Broughton (2294)" [label=633]
+	"Andrew Broughton (2294)" [label="Andrew Broughton (2294)
+Family First"]
 	"Matthew Linney (2290)" -> "Laura Fraser Hardy (2293)" [label=474]
-	"Matthew Linney (2290)" -> "Ken Austin (2291)" [label=755]
-	"Jarrod John Wirth (2292)" -> "Matthew Linney (2290)" [label=368]
-	"Jarrod John Wirth (2292)" -> "Laura Fraser Hardy (2293)" [label=459]
+	"Jarrod John Wirth (2292)" -> "Ken Austin (2291)" [label=638]
+	"Jarrod John Wirth (2292)" -> "Andrew Broughton (2294)" [label=633]
 	"Ken Austin (2291)" -> "Laura Fraser Hardy (2293)" [label=8750]
+	"Jarrod John Wirth (2292)" -> "Laura Fraser Hardy (2293)" [label=459]
 	"Andrew Broughton (2294)" -> "Ken Austin (2291)" [label=1112]
 	"Matthew Linney (2290)" -> "Andrew Broughton (2294)" [label=588]
-	"Jarrod John Wirth (2292)" -> "Ken Austin (2291)" [label=638]
 	"Andrew Broughton (2294)" -> "Laura Fraser Hardy (2293)" [label=880]
+	"Matthew Linney (2290)" -> "Ken Austin (2291)" [label=755]
+	"Jarrod John Wirth (2292)" -> "Matthew Linney (2290)" [label=368]
 }

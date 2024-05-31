@@ -2,39 +2,39 @@
 digraph "Simon Davis (711)_Clark_2022" {
 	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian Ramsden (712)" [label="Ian Ramsden (712)
-Liberal Democrats"]
-	"Janet Shelley (714)" [label="Janet Shelley (714)
-The Greens"]
-	"Michelle Cameron (710)" [label="Michelle Cameron (710)
-Pauline Hanson's One Nation"]
 	"Will Coats (713)" [label="Will Coats (713)
 Liberal"]
-	"Simon Davis (711)" [label="Simon Davis (711)
-Australian Labor Party"]
-	"Casey Davies (716)" [label="Casey Davies (716)
-Animal Justice Party"]
 	"Sandra Galloway (717)" [label="Sandra Galloway (717)
 United Australia Party"]
-	"Sandra Galloway (717)" -> "Michelle Cameron (710)" [label=490]
-	"Ian Ramsden (712)" -> "Simon Davis (711)" [label=91]
-	"Will Coats (713)" -> "Simon Davis (711)" [label=2948]
-	"Michelle Cameron (710)" -> "Simon Davis (711)" [label=635]
-	"Janet Shelley (714)" -> "Will Coats (713)" [label=364]
-	"Sandra Galloway (717)" -> "Simon Davis (711)" [label=109]
-	"Ian Ramsden (712)" -> "Sandra Galloway (717)" [label=104]
-	"Casey Davies (716)" -> "Sandra Galloway (717)" [label=114]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
+	"Simon Davis (711)" [label="Simon Davis (711)
+Australian Labor Party"]
+	"Michelle Cameron (710)" [label="Michelle Cameron (710)
+Pauline Hanson's One Nation"]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
 	"Casey Davies (716)" -> "Janet Shelley (714)" [label=229]
-	"Michelle Cameron (710)" -> "Will Coats (713)" [label=525]
 	"Michelle Cameron (710)" -> "Janet Shelley (714)" [label=209]
-	"Sandra Galloway (717)" -> "Janet Shelley (714)" [label=111]
-	"Sandra Galloway (717)" -> "Will Coats (713)" [label=116]
-	"Ian Ramsden (712)" -> "Michelle Cameron (710)" [label=116]
+	"Michelle Cameron (710)" -> "Simon Davis (711)" [label=635]
 	"Janet Shelley (714)" -> "Simon Davis (711)" [label=2977]
-	"Casey Davies (716)" -> "Simon Davis (711)" [label=102]
-	"Casey Davies (716)" -> "Will Coats (713)" [label=52]
-	"Casey Davies (716)" -> "Michelle Cameron (710)" [label=80]
-	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
 	"Ian Ramsden (712)" -> "Will Coats (713)" [label=277]
+	"Casey Davies (716)" -> "Sandra Galloway (717)" [label=114]
+	"Sandra Galloway (717)" -> "Will Coats (713)" [label=116]
+	"Casey Davies (716)" -> "Will Coats (713)" [label=52]
+	"Ian Ramsden (712)" -> "Michelle Cameron (710)" [label=116]
+	"Sandra Galloway (717)" -> "Michelle Cameron (710)" [label=490]
+	"Michelle Cameron (710)" -> "Will Coats (713)" [label=525]
+	"Casey Davies (716)" -> "Michelle Cameron (710)" [label=80]
+	"Casey Davies (716)" -> "Simon Davis (711)" [label=102]
+	"Ian Ramsden (712)" -> "Sandra Galloway (717)" [label=104]
+	"Sandra Galloway (717)" -> "Janet Shelley (714)" [label=111]
+	"Janet Shelley (714)" -> "Will Coats (713)" [label=364]
+	"Will Coats (713)" -> "Simon Davis (711)" [label=2948]
+	"Sandra Galloway (717)" -> "Simon Davis (711)" [label=109]
+	"Ian Ramsden (712)" -> "Simon Davis (711)" [label=91]
 	"Ian Ramsden (712)" -> "Janet Shelley (714)" [label=33]
+	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
 }

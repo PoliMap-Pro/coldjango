@@ -4,22 +4,22 @@ digraph "Glen Saltmarsh (2506)_Braddon_2016" {
 	node [shape=box]
 	"Clinton Rice (2509)" [label="Clinton Rice (2509)
 Renewable Energy Party"]
-	"Graham Hodge (2508)" [label="Graham Hodge (2508)
-Christian Democratic Party (Fred Nile Group)"]
 	"Glen Saltmarsh (2506)" [label="Glen Saltmarsh (2506)
 Australian Recreational Fishers Party"]
-	"Joshua Boag (2510)" [label="Joshua Boag (2510)
-Liberal Democrats"]
 	"Scott Jordan (2505)" [label="Scott Jordan (2505)
 The Greens"]
-	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
+	"Graham Hodge (2508)" [label="Graham Hodge (2508)
+Christian Democratic Party (Fred Nile Group)"]
+	"Joshua Boag (2510)" [label="Joshua Boag (2510)
+Liberal Democrats"]
 	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
-	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
-	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
-	"Joshua Boag (2510)" -> "Glen Saltmarsh (2506)" [label=288]
-	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
-	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
-	"Graham Hodge (2508)" -> "Glen Saltmarsh (2506)" [label=135]
 	"Scott Jordan (2505)" -> "Glen Saltmarsh (2506)" [label=1451]
+	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
+	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
 	"Clinton Rice (2509)" -> "Glen Saltmarsh (2506)" [label=743]
+	"Joshua Boag (2510)" -> "Glen Saltmarsh (2506)" [label=288]
+	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
+	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
+	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
+	"Graham Hodge (2508)" -> "Glen Saltmarsh (2506)" [label=135]
 }

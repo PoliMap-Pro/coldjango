@@ -4,16 +4,16 @@ digraph "Andrew Giles (1043)_Scullin_2016" {
 	node [shape=box]
 	"Adriana Buccianti (2706)" [label="Adriana Buccianti (2706)
 Drug Law Reform"]
-	"Andrew Giles (1043)" [label="Andrew Giles (1043)
-Australian Labor Party"]
 	"Rose Ljubicic (2705)" [label="Rose Ljubicic (2705)
 The Greens"]
+	"Andrew Giles (1043)" [label="Andrew Giles (1043)
+Australian Labor Party"]
 	"John Matlen (2703)" [label="John Matlen (2703)
 Animal Justice Party"]
-	"John Matlen (2703)" -> "Rose Ljubicic (2705)" [label=1754]
 	"Adriana Buccianti (2706)" -> "Rose Ljubicic (2705)" [label=922]
 	"Rose Ljubicic (2705)" -> "Andrew Giles (1043)" [label=7379]
 	"John Matlen (2703)" -> "Andrew Giles (1043)" [label=1639]
 	"Adriana Buccianti (2706)" -> "Andrew Giles (1043)" [label=810]
+	"John Matlen (2703)" -> "Rose Ljubicic (2705)" [label=1754]
 	"Adriana Buccianti (2706)" -> "John Matlen (2703)" [label=1007]
 }

@@ -2,9 +2,9 @@
 digraph "Amanda Excell (2511)_Denison_2016" {
 	graph [label="Denison 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Amanda Excell (2511)" [label="Amanda Excell (2511)
-Christian Democratic Party (Fred Nile Group)"]
 	"Wayne Williams (2514)" [label="Wayne Williams (2514)
 Democratic Labour Party (DLP)"]
+	"Amanda Excell (2511)" [label="Amanda Excell (2511)
+Christian Democratic Party (Fred Nile Group)"]
 	"Wayne Williams (2514)" -> "Amanda Excell (2511)" [label=80]
 }

@@ -2,39 +2,39 @@
 digraph "Alex Simpson (189)_Lyne_2022" {
 	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Alex Simpson (189)" [label="Alex Simpson (189)
-Labor"]
 	"Mark Hornshaw (191)" [label="Mark Hornshaw (191)
 Liberal Democrats"]
-	"Steve Attkins (190)" [label="Steve Attkins (190)
-Independent"]
-	"Karl Attenborough (193)" [label="Karl Attenborough (193)
-The Greens"]
-	"Joanne Pearce (186)" [label="Joanne Pearce (186)
-Independent"]
 	"Josephine Cashman (192)" [label="Josephine Cashman (192)
 Pauline Hanson's One Nation"]
+	"Steve Attkins (190)" [label="Steve Attkins (190)
+Independent"]
+	"Alex Simpson (189)" [label="Alex Simpson (189)
+Labor"]
+	"Karl Attenborough (193)" [label="Karl Attenborough (193)
+The Greens"]
 	"Joel Putland (187)" [label="Joel Putland (187)
 United Australia Party"]
-	"Steve Attkins (190)" -> "Josephine Cashman (192)" [label=1633]
-	"Joanne Pearce (186)" -> "Alex Simpson (189)" [label=431]
+	"Joanne Pearce (186)" [label="Joanne Pearce (186)
+Independent"]
 	"Joel Putland (187)" -> "Alex Simpson (189)" [label=393]
-	"Steve Attkins (190)" -> "Karl Attenborough (193)" [label=1470]
+	"Karl Attenborough (193)" -> "Alex Simpson (189)" [label=7417]
 	"Mark Hornshaw (191)" -> "Karl Attenborough (193)" [label=710]
+	"Joanne Pearce (186)" -> "Alex Simpson (189)" [label=431]
+	"Josephine Cashman (192)" -> "Alex Simpson (189)" [label=4993]
+	"Mark Hornshaw (191)" -> "Alex Simpson (189)" [label=920]
+	"Steve Attkins (190)" -> "Karl Attenborough (193)" [label=1470]
+	"Joanne Pearce (186)" -> "Mark Hornshaw (191)" [label=107]
+	"Steve Attkins (190)" -> "Mark Hornshaw (191)" [label=1079]
 	"Joanne Pearce (186)" -> "Karl Attenborough (193)" [label=324]
-	"Karl Attenborough (193)" -> "Josephine Cashman (192)" [label=1537]
 	"Steve Attkins (190)" -> "Alex Simpson (189)" [label=1649]
+	"Joanne Pearce (186)" -> "Joel Putland (187)" [label=678]
+	"Joel Putland (187)" -> "Steve Attkins (190)" [label=596]
 	"Joel Putland (187)" -> "Josephine Cashman (192)" [label=1609]
 	"Joel Putland (187)" -> "Karl Attenborough (193)" [label=223]
-	"Joanne Pearce (186)" -> "Steve Attkins (190)" [label=1590]
-	"Karl Attenborough (193)" -> "Alex Simpson (189)" [label=7417]
-	"Joanne Pearce (186)" -> "Josephine Cashman (192)" [label=196]
-	"Joel Putland (187)" -> "Mark Hornshaw (191)" [label=1015]
+	"Karl Attenborough (193)" -> "Josephine Cashman (192)" [label=1537]
 	"Mark Hornshaw (191)" -> "Josephine Cashman (192)" [label=3705]
-	"Steve Attkins (190)" -> "Mark Hornshaw (191)" [label=1079]
-	"Mark Hornshaw (191)" -> "Alex Simpson (189)" [label=920]
-	"Joel Putland (187)" -> "Steve Attkins (190)" [label=596]
-	"Joanne Pearce (186)" -> "Joel Putland (187)" [label=678]
-	"Josephine Cashman (192)" -> "Alex Simpson (189)" [label=4993]
-	"Joanne Pearce (186)" -> "Mark Hornshaw (191)" [label=107]
+	"Joanne Pearce (186)" -> "Steve Attkins (190)" [label=1590]
+	"Joel Putland (187)" -> "Mark Hornshaw (191)" [label=1015]
+	"Joanne Pearce (186)" -> "Josephine Cashman (192)" [label=196]
+	"Steve Attkins (190)" -> "Josephine Cashman (192)" [label=1633]
 }

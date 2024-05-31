@@ -2,13 +2,13 @@
 digraph "Tony Walker (2761)_Moore_2016" {
 	graph [label="Moore 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Maryka Groenewald (2760)" [label="Maryka Groenewald (2760)
-Australian Christians"]
-	"Tony Walker (2761)" [label="Tony Walker (2761)
-Australian Labor Party"]
 	"Daniel Lindley (2759)" [label="Daniel Lindley (2759)
 The Greens (WA)"]
-	"Daniel Lindley (2759)" -> "Tony Walker (2761)" [label=8505]
-	"Maryka Groenewald (2760)" -> "Tony Walker (2761)" [label=506]
+	"Tony Walker (2761)" [label="Tony Walker (2761)
+Australian Labor Party"]
+	"Maryka Groenewald (2760)" [label="Maryka Groenewald (2760)
+Australian Christians"]
 	"Maryka Groenewald (2760)" -> "Daniel Lindley (2759)" [label=599]
+	"Maryka Groenewald (2760)" -> "Tony Walker (2761)" [label=506]
+	"Daniel Lindley (2759)" -> "Tony Walker (2761)" [label=8505]
 }

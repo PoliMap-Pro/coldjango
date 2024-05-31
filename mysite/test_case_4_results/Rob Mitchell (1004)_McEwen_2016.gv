@@ -2,48 +2,48 @@
 digraph "Rob Mitchell (1004)_McEwen_2016" {
 	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dorothy Lorraine Long (2673)" [label="Dorothy Lorraine Long (2673)
-Family First Party"]
 	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
 Australian Labor Party"]
+	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
+Rise Up Australia Party"]
+	"Dorothy Lorraine Long (2673)" [label="Dorothy Lorraine Long (2673)
+Family First Party"]
+	"Ross Lee (2670)" [label="Ross Lee (2670)
+Independent"]
 	"James Anderson (2668)" [label="James Anderson (2668)
 The Nationals"]
+	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
+Animal Justice Party"]
 	"Neil Barker (998)" [label="Neil Barker (998)
 The Greens"]
 	"Tracey Andrew (2671)" [label="Tracey Andrew (2671)
 Australian Country Party"]
-	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
-Rise Up Australia Party"]
-	"Ross Lee (2670)" [label="Ross Lee (2670)
-Independent"]
-	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
-Animal Justice Party"]
-	"James Anderson (2668)" -> "Neil Barker (998)" [label=238]
-	"Cathy Vaina (2672)" -> "Neil Barker (998)" [label=794]
-	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
-	"Tracey Andrew (2671)" -> "Neil Barker (998)" [label=55]
-	"Jeff Truscott (1846)" -> "Ross Lee (2670)" [label=440]
+	"Neil Barker (998)" -> "Rob Mitchell (1004)" [label=9925]
 	"Tracey Andrew (2671)" -> "Ross Lee (2670)" [label=304]
-	"Ross Lee (2670)" -> "Rob Mitchell (1004)" [label=1013]
-	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
-	"Ross Lee (2670)" -> "Neil Barker (998)" [label=658]
-	"Jeff Truscott (1846)" -> "Rob Mitchell (1004)" [label=166]
-	"James Anderson (2668)" -> "Ross Lee (2670)" [label=321]
-	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
-	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
+	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
+	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
+	"James Anderson (2668)" -> "Neil Barker (998)" [label=238]
+	"Cathy Vaina (2672)" -> "Rob Mitchell (1004)" [label=560]
+	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
+	"Dorothy Lorraine Long (2673)" -> "Neil Barker (998)" [label=2417]
+	"Jeff Truscott (1846)" -> "Ross Lee (2670)" [label=440]
+	"Cathy Vaina (2672)" -> "Dorothy Lorraine Long (2673)" [label=1457]
+	"Dorothy Lorraine Long (2673)" -> "Rob Mitchell (1004)" [label=2663]
 	"Tracey Andrew (2671)" -> "Dorothy Lorraine Long (2673)" [label=258]
 	"Tracey Andrew (2671)" -> "Rob Mitchell (1004)" [label=201]
-	"Dorothy Lorraine Long (2673)" -> "Rob Mitchell (1004)" [label=2663]
+	"Cathy Vaina (2672)" -> "Ross Lee (2670)" [label=596]
+	"Jeff Truscott (1846)" -> "Rob Mitchell (1004)" [label=166]
 	"Jeff Truscott (1846)" -> "Dorothy Lorraine Long (2673)" [label=786]
 	"James Anderson (2668)" -> "Dorothy Lorraine Long (2673)" [label=253]
-	"Cathy Vaina (2672)" -> "Dorothy Lorraine Long (2673)" [label=1457]
-	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
-	"Jeff Truscott (1846)" -> "Neil Barker (998)" [label=41]
-	"Dorothy Lorraine Long (2673)" -> "Neil Barker (998)" [label=2417]
-	"Cathy Vaina (2672)" -> "Ross Lee (2670)" [label=596]
-	"James Anderson (2668)" -> "Rob Mitchell (1004)" [label=366]
+	"Ross Lee (2670)" -> "Rob Mitchell (1004)" [label=1013]
 	"Ross Lee (2670)" -> "Dorothy Lorraine Long (2673)" [label=1932]
-	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
-	"Neil Barker (998)" -> "Rob Mitchell (1004)" [label=9925]
-	"Cathy Vaina (2672)" -> "Rob Mitchell (1004)" [label=560]
+	"Cathy Vaina (2672)" -> "Neil Barker (998)" [label=794]
+	"James Anderson (2668)" -> "Ross Lee (2670)" [label=321]
+	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
+	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
+	"James Anderson (2668)" -> "Rob Mitchell (1004)" [label=366]
+	"Jeff Truscott (1846)" -> "Neil Barker (998)" [label=41]
+	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
+	"Tracey Andrew (2671)" -> "Neil Barker (998)" [label=55]
+	"Ross Lee (2670)" -> "Neil Barker (998)" [label=658]
 }

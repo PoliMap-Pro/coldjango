@@ -2,9 +2,9 @@
 digraph "Paul Rossetto (2095)_Farrer_2016" {
 	graph [label="Farrer 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Trevor O'Brien (2097)" [label="Trevor O'Brien (2097)
-Mature Australia"]
 	"Paul Rossetto (2095)" [label="Paul Rossetto (2095)
 Christian Democratic Party (Fred Nile Group)"]
+	"Trevor O'Brien (2097)" [label="Trevor O'Brien (2097)
+Mature Australia"]
 	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
 }

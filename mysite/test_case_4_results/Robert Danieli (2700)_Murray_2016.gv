@@ -2,39 +2,39 @@
 digraph "Robert Danieli (2700)_Murray_2016" {
 	graph [label="Murray 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
-Independent"]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Electoral Council"]
 	"Robert Danieli (2700)" [label="Robert Danieli (2700)
 Australian Country Party"]
+	"Yasmin Gunasekera (2702)" [label="Yasmin Gunasekera (2702)
+Rise Up Australia Party"]
+	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
+Independent"]
+	"Diane Teasdale (2699)" [label="Diane Teasdale (2699)
+Independent"]
 	"Andrew Bock (1909)" [label="Andrew Bock (1909)
 Independent"]
 	"Ian Christoe (1035)" [label="Ian Christoe (1035)
 The Greens"]
-	"Nigel Hicks (1912)" [label="Nigel Hicks (1912)
-Independent"]
-	"Jeff Davy (1033)" [label="Jeff Davy (1033)
-Citizens Electoral Council"]
-	"Yasmin Gunasekera (2702)" [label="Yasmin Gunasekera (2702)
-Rise Up Australia Party"]
-	"Jeff Davy (1033)" -> "Nigel Hicks (1912)" [label=18]
-	"Yasmin Gunasekera (2702)" -> "Ian Christoe (1035)" [label=60]
-	"Jeff Davy (1033)" -> "Yasmin Gunasekera (2702)" [label=14]
-	"Jeff Davy (1033)" -> "Diane Teasdale (2699)" [label=29]
 	"Nigel Hicks (1912)" -> "Yasmin Gunasekera (2702)" [label=21]
-	"Nigel Hicks (1912)" -> "Ian Christoe (1035)" [label=42]
+	"Yasmin Gunasekera (2702)" -> "Ian Christoe (1035)" [label=60]
 	"Jeff Davy (1033)" -> "Andrew Bock (1909)" [label=24]
-	"Jeff Davy (1033)" -> "Robert Danieli (2700)" [label=31]
-	"Diane Teasdale (2699)" -> "Andrew Bock (1909)" [label=186]
+	"Yasmin Gunasekera (2702)" -> "Robert Danieli (2700)" [label=420]
+	"Jeff Davy (1033)" -> "Nigel Hicks (1912)" [label=18]
 	"Ian Christoe (1035)" -> "Robert Danieli (2700)" [label=261]
 	"Nigel Hicks (1912)" -> "Diane Teasdale (2699)" [label=83]
-	"Diane Teasdale (2699)" -> "Robert Danieli (2700)" [label=147]
-	"Andrew Bock (1909)" -> "Robert Danieli (2700)" [label=181]
-	"Nigel Hicks (1912)" -> "Robert Danieli (2700)" [label=68]
-	"Andrew Bock (1909)" -> "Ian Christoe (1035)" [label=264]
 	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=7]
-	"Nigel Hicks (1912)" -> "Andrew Bock (1909)" [label=156]
-	"Yasmin Gunasekera (2702)" -> "Andrew Bock (1909)" [label=153]
-	"Diane Teasdale (2699)" -> "Yasmin Gunasekera (2702)" [label=169]
+	"Nigel Hicks (1912)" -> "Robert Danieli (2700)" [label=68]
 	"Diane Teasdale (2699)" -> "Ian Christoe (1035)" [label=44]
-	"Yasmin Gunasekera (2702)" -> "Robert Danieli (2700)" [label=420]
+	"Jeff Davy (1033)" -> "Diane Teasdale (2699)" [label=29]
+	"Nigel Hicks (1912)" -> "Ian Christoe (1035)" [label=42]
+	"Andrew Bock (1909)" -> "Robert Danieli (2700)" [label=181]
+	"Jeff Davy (1033)" -> "Robert Danieli (2700)" [label=31]
+	"Nigel Hicks (1912)" -> "Andrew Bock (1909)" [label=156]
+	"Andrew Bock (1909)" -> "Ian Christoe (1035)" [label=264]
+	"Jeff Davy (1033)" -> "Yasmin Gunasekera (2702)" [label=14]
+	"Yasmin Gunasekera (2702)" -> "Andrew Bock (1909)" [label=153]
+	"Diane Teasdale (2699)" -> "Andrew Bock (1909)" [label=186]
+	"Diane Teasdale (2699)" -> "Robert Danieli (2700)" [label=147]
+	"Diane Teasdale (2699)" -> "Yasmin Gunasekera (2702)" [label=169]
 }

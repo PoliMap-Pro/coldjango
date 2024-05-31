@@ -2,24 +2,24 @@
 digraph "Matthew Ross Coote (2615)_Goldstein_2016" {
 	graph [label="Goldstein 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
-The Greens"]
-	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
-Drug Law Reform"]
 	"Matthew Ross Coote (2615)" [label="Matthew Ross Coote (2615)
 Australian Labor Party"]
-	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
-Family First Party"]
 	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
 Animal Justice Party"]
-	"Cheryl Hercus (2611)" -> "Matthew Ross Coote (2615)" [label=13401]
+	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
+Family First Party"]
+	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
+Drug Law Reform"]
+	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
+The Greens"]
+	"Trevor Bishop (2612)" -> "Matthew Ross Coote (2615)" [label=168]
 	"Lee Kavanagh (2614)" -> "Cheryl Hercus (2611)" [label=556]
-	"Lee Kavanagh (2614)" -> "Matthew Ross Coote (2615)" [label=309]
-	"Naren Chellappah (2613)" -> "Matthew Ross Coote (2615)" [label=568]
-	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
 	"Naren Chellappah (2613)" -> "Cheryl Hercus (2611)" [label=1827]
 	"Trevor Bishop (2612)" -> "Cheryl Hercus (2611)" [label=228]
-	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
-	"Trevor Bishop (2612)" -> "Matthew Ross Coote (2615)" [label=168]
+	"Cheryl Hercus (2611)" -> "Matthew Ross Coote (2615)" [label=13401]
 	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
+	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
+	"Lee Kavanagh (2614)" -> "Matthew Ross Coote (2615)" [label=309]
+	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
+	"Naren Chellappah (2613)" -> "Matthew Ross Coote (2615)" [label=568]
 }

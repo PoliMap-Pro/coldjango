@@ -2,31 +2,31 @@
 digraph "Paul Klisaris (2528)_Aston_2016" {
 	graph [label="Aston 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Klisaris (2528)" [label="Paul Klisaris (2528)
-Australian Labor Party"]
-	"Steve Raymond (2524)" [label="Steve Raymond (2524)
-The Greens"]
-	"Daniel Edward Martin (2525)" [label="Daniel Edward Martin (2525)
-Family First Party"]
 	"Joel Moore (2527)" [label="Joel Moore (2527)
 Liberal Democrats"]
-	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
-Independent"]
+	"Paul Klisaris (2528)" [label="Paul Klisaris (2528)
+Australian Labor Party"]
+	"Daniel Edward Martin (2525)" [label="Daniel Edward Martin (2525)
+Family First Party"]
 	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
 Animal Justice Party"]
-	"Steve Raymond (2524)" -> "Paul Klisaris (2528)" [label=7012]
-	"Daniel Huppert (2526)" -> "Steve Raymond (2524)" [label=444]
-	"Daniel Edward Martin (2525)" -> "Paul Klisaris (2528)" [label=873]
+	"Steve Raymond (2524)" [label="Steve Raymond (2524)
+The Greens"]
+	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
+Independent"]
 	"Daniel Huppert (2526)" -> "Paul Klisaris (2528)" [label=418]
+	"Daniel Huppert (2526)" -> "Daniel Edward Martin (2525)" [label=585]
 	"Joel Moore (2527)" -> "Paul Klisaris (2528)" [label=101]
-	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
-	"Daniel Edward Martin (2525)" -> "Steve Raymond (2524)" [label=1482]
-	"Joel Moore (2527)" -> "Steve Raymond (2524)" [label=108]
-	"Rosemary Lavin (1760)" -> "Steve Raymond (2524)" [label=923]
-	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
 	"Rosemary Lavin (1760)" -> "Paul Klisaris (2528)" [label=447]
-	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
+	"Steve Raymond (2524)" -> "Paul Klisaris (2528)" [label=7012]
 	"Rosemary Lavin (1760)" -> "Daniel Edward Martin (2525)" [label=848]
 	"Joel Moore (2527)" -> "Daniel Edward Martin (2525)" [label=152]
-	"Daniel Huppert (2526)" -> "Daniel Edward Martin (2525)" [label=585]
+	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
+	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
+	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
+	"Daniel Huppert (2526)" -> "Steve Raymond (2524)" [label=444]
+	"Rosemary Lavin (1760)" -> "Steve Raymond (2524)" [label=923]
+	"Daniel Edward Martin (2525)" -> "Paul Klisaris (2528)" [label=873]
+	"Daniel Edward Martin (2525)" -> "Steve Raymond (2524)" [label=1482]
+	"Joel Moore (2527)" -> "Steve Raymond (2524)" [label=108]
 }

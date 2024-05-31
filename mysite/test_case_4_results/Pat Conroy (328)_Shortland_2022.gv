@@ -2,39 +2,39 @@
 digraph "Pat Conroy (328)_Shortland_2022" {
 	graph [label="Shortland 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pat Conroy (328)" [label="Pat Conroy (328)
-Labor"]
-	"Bree Suzanne Roberts (324)" [label="Bree Suzanne Roberts (324)
-Animal Justice Party"]
-	"Barry Reed (326)" [label="Barry Reed (326)
-Liberal Democrats"]
 	"Kenneth John Maxwell (329)" [label="Kenneth John Maxwell (329)
 United Australia Party"]
 	"Kim Grierson (330)" [label="Kim Grierson (330)
 The Greens"]
+	"Barry Reed (326)" [label="Barry Reed (326)
+Liberal Democrats"]
 	"Quintin King (331)" [label="Quintin King (331)
 Pauline Hanson's One Nation"]
+	"Pat Conroy (328)" [label="Pat Conroy (328)
+Labor"]
+	"Bree Suzanne Roberts (324)" [label="Bree Suzanne Roberts (324)
+Animal Justice Party"]
 	"Basil Paynter (325)" [label="Basil Paynter (325)
 Independent"]
-	"Kenneth John Maxwell (329)" -> "Kim Grierson (330)" [label=526]
-	"Bree Suzanne Roberts (324)" -> "Kim Grierson (330)" [label=1054]
-	"Basil Paynter (325)" -> "Kenneth John Maxwell (329)" [label=187]
-	"Quintin King (331)" -> "Kim Grierson (330)" [label=2785]
 	"Barry Reed (326)" -> "Kenneth John Maxwell (329)" [label=696]
+	"Kenneth John Maxwell (329)" -> "Quintin King (331)" [label=2665]
+	"Quintin King (331)" -> "Kim Grierson (330)" [label=2785]
+	"Basil Paynter (325)" -> "Kim Grierson (330)" [label=410]
+	"Basil Paynter (325)" -> "Kenneth John Maxwell (329)" [label=187]
+	"Barry Reed (326)" -> "Quintin King (331)" [label=442]
+	"Basil Paynter (325)" -> "Quintin King (331)" [label=311]
+	"Bree Suzanne Roberts (324)" -> "Kim Grierson (330)" [label=1054]
+	"Basil Paynter (325)" -> "Barry Reed (326)" [label=324]
+	"Barry Reed (326)" -> "Bree Suzanne Roberts (324)" [label=270]
+	"Bree Suzanne Roberts (324)" -> "Kenneth John Maxwell (329)" [label=403]
+	"Kim Grierson (330)" -> "Pat Conroy (328)" [label=11553]
+	"Barry Reed (326)" -> "Pat Conroy (328)" [label=313]
+	"Basil Paynter (325)" -> "Bree Suzanne Roberts (324)" [label=496]
+	"Bree Suzanne Roberts (324)" -> "Quintin King (331)" [label=473]
+	"Bree Suzanne Roberts (324)" -> "Pat Conroy (328)" [label=783]
 	"Barry Reed (326)" -> "Kim Grierson (330)" [label=143]
 	"Basil Paynter (325)" -> "Pat Conroy (328)" [label=501]
-	"Barry Reed (326)" -> "Quintin King (331)" [label=442]
-	"Barry Reed (326)" -> "Bree Suzanne Roberts (324)" [label=270]
-	"Quintin King (331)" -> "Pat Conroy (328)" [label=2222]
-	"Basil Paynter (325)" -> "Quintin King (331)" [label=311]
-	"Basil Paynter (325)" -> "Kim Grierson (330)" [label=410]
-	"Bree Suzanne Roberts (324)" -> "Kenneth John Maxwell (329)" [label=403]
-	"Bree Suzanne Roberts (324)" -> "Quintin King (331)" [label=473]
+	"Kenneth John Maxwell (329)" -> "Kim Grierson (330)" [label=526]
 	"Kenneth John Maxwell (329)" -> "Pat Conroy (328)" [label=478]
-	"Barry Reed (326)" -> "Pat Conroy (328)" [label=313]
-	"Bree Suzanne Roberts (324)" -> "Pat Conroy (328)" [label=783]
-	"Kim Grierson (330)" -> "Pat Conroy (328)" [label=11553]
-	"Kenneth John Maxwell (329)" -> "Quintin King (331)" [label=2665]
-	"Basil Paynter (325)" -> "Barry Reed (326)" [label=324]
-	"Basil Paynter (325)" -> "Bree Suzanne Roberts (324)" [label=496]
+	"Quintin King (331)" -> "Pat Conroy (328)" [label=2222]
 }

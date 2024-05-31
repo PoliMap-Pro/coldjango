@@ -4,29 +4,29 @@ digraph "Carl Katter (2622)_Higgins_2016" {
 	node [shape=box]
 	"Jessica Tregear (2619)" [label="Jessica Tregear (2619)
 Derryn Hinch's Justice Party"]
+	"Nancy Bassett (2623)" [label="Nancy Bassett (2623)
+Nick Xenophon Team"]
+	"Eleonora Gullone (2624)" [label="Eleonora Gullone (2624)
+Animal Justice Party"]
+	"Carl Katter (2622)" [label="Carl Katter (2622)
+Australian Labor Party"]
 	"Robert Kennedy (2621)" [label="Robert Kennedy (2621)
 Liberal Democrats"]
 	"Rebecca O'Brien (2618)" [label="Rebecca O'Brien (2618)
 Marriage Equality"]
-	"Carl Katter (2622)" [label="Carl Katter (2622)
-Australian Labor Party"]
-	"Eleonora Gullone (2624)" [label="Eleonora Gullone (2624)
-Animal Justice Party"]
-	"Nancy Bassett (2623)" [label="Nancy Bassett (2623)
-Nick Xenophon Team"]
+	"Rebecca O'Brien (2618)" -> "Eleonora Gullone (2624)" [label=221]
+	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
+	"Robert Kennedy (2621)" -> "Carl Katter (2622)" [label=92]
 	"Robert Kennedy (2621)" -> "Nancy Bassett (2623)" [label=87]
+	"Nancy Bassett (2623)" -> "Carl Katter (2622)" [label=832]
+	"Rebecca O'Brien (2618)" -> "Carl Katter (2622)" [label=149]
+	"Eleonora Gullone (2624)" -> "Carl Katter (2622)" [label=190]
+	"Robert Kennedy (2621)" -> "Jessica Tregear (2619)" [label=130]
+	"Eleonora Gullone (2624)" -> "Jessica Tregear (2619)" [label=275]
+	"Robert Kennedy (2621)" -> "Rebecca O'Brien (2618)" [label=128]
+	"Jessica Tregear (2619)" -> "Carl Katter (2622)" [label=301]
+	"Rebecca O'Brien (2618)" -> "Jessica Tregear (2619)" [label=379]
+	"Rebecca O'Brien (2618)" -> "Nancy Bassett (2623)" [label=65]
 	"Jessica Tregear (2619)" -> "Nancy Bassett (2623)" [label=520]
 	"Eleonora Gullone (2624)" -> "Nancy Bassett (2623)" [label=241]
-	"Robert Kennedy (2621)" -> "Jessica Tregear (2619)" [label=130]
-	"Jessica Tregear (2619)" -> "Carl Katter (2622)" [label=301]
-	"Nancy Bassett (2623)" -> "Carl Katter (2622)" [label=832]
-	"Robert Kennedy (2621)" -> "Rebecca O'Brien (2618)" [label=128]
-	"Eleonora Gullone (2624)" -> "Carl Katter (2622)" [label=190]
-	"Rebecca O'Brien (2618)" -> "Carl Katter (2622)" [label=149]
-	"Robert Kennedy (2621)" -> "Carl Katter (2622)" [label=92]
-	"Eleonora Gullone (2624)" -> "Jessica Tregear (2619)" [label=275]
-	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
-	"Rebecca O'Brien (2618)" -> "Eleonora Gullone (2624)" [label=221]
-	"Rebecca O'Brien (2618)" -> "Nancy Bassett (2623)" [label=65]
-	"Rebecca O'Brien (2618)" -> "Jessica Tregear (2619)" [label=379]
 }

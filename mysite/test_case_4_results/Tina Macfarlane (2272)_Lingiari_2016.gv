@@ -2,48 +2,48 @@
 digraph "Tina Macfarlane (2272)_Lingiari_2016" {
 	graph [label="Lingiari 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Righton (2266)" [label="Chris Righton (2266)
-Shooters, Fishers and Farmers"]
-	"Braedon Earley (2269)" [label="Braedon Earley (2269)
-Independent"]
-	"Peter Flynn (2270)" [label="Peter Flynn (2270)
-Citizens Electoral Council"]
-	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
-Rise Up Australia Party"]
-	"Yingiya Mark Guyula (2268)" [label="Yingiya Mark Guyula (2268)
-Independent"]
 	"Rob Hoad (2271)" [label="Rob Hoad (2271)
 The Greens"]
+	"Braedon Earley (2269)" [label="Braedon Earley (2269)
+Independent"]
+	"Regina Mccarthy (1458)" [label="Regina Mccarthy (1458)
+Rise Up Australia Party"]
 	"Alfred Gould (2267)" [label="Alfred Gould (2267)
+Independent"]
+	"Yingiya Mark Guyula (2268)" [label="Yingiya Mark Guyula (2268)
 Independent"]
 	"Tina Macfarlane (2272)" [label="Tina Macfarlane (2272)
 Country Liberals (NT)"]
-	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
-	"Braedon Earley (2269)" -> "Chris Righton (2266)" [label=660]
-	"Peter Flynn (2270)" -> "Yingiya Mark Guyula (2268)" [label=12]
-	"Alfred Gould (2267)" -> "Rob Hoad (2271)" [label=16]
-	"Peter Flynn (2270)" -> "Rob Hoad (2271)" [label=36]
-	"Braedon Earley (2269)" -> "Yingiya Mark Guyula (2268)" [label=482]
-	"Yingiya Mark Guyula (2268)" -> "Tina Macfarlane (2272)" [label=459]
-	"Alfred Gould (2267)" -> "Braedon Earley (2269)" [label=96]
-	"Regina Mccarthy (1458)" -> "Tina Macfarlane (2272)" [label=280]
-	"Braedon Earley (2269)" -> "Rob Hoad (2271)" [label=238]
-	"Rob Hoad (2271)" -> "Tina Macfarlane (2272)" [label=901]
-	"Regina Mccarthy (1458)" -> "Chris Righton (2266)" [label=355]
-	"Peter Flynn (2270)" -> "Tina Macfarlane (2272)" [label=36]
+	"Peter Flynn (2270)" [label="Peter Flynn (2270)
+Citizens Electoral Council"]
+	"Chris Righton (2266)" [label="Chris Righton (2266)
+Shooters, Fishers and Farmers"]
 	"Peter Flynn (2270)" -> "Braedon Earley (2269)" [label=46]
-	"Alfred Gould (2267)" -> "Tina Macfarlane (2272)" [label=25]
-	"Alfred Gould (2267)" -> "Chris Righton (2266)" [label=64]
-	"Yingiya Mark Guyula (2268)" -> "Chris Righton (2266)" [label=613]
-	"Alfred Gould (2267)" -> "Regina Mccarthy (1458)" [label=21]
-	"Braedon Earley (2269)" -> "Tina Macfarlane (2272)" [label=409]
-	"Regina Mccarthy (1458)" -> "Braedon Earley (2269)" [label=184]
-	"Chris Righton (2266)" -> "Tina Macfarlane (2272)" [label=2112]
-	"Regina Mccarthy (1458)" -> "Rob Hoad (2271)" [label=126]
-	"Peter Flynn (2270)" -> "Regina Mccarthy (1458)" [label=44]
+	"Peter Flynn (2270)" -> "Tina Macfarlane (2272)" [label=36]
+	"Braedon Earley (2269)" -> "Chris Righton (2266)" [label=660]
+	"Alfred Gould (2267)" -> "Braedon Earley (2269)" [label=96]
 	"Rob Hoad (2271)" -> "Chris Righton (2266)" [label=678]
-	"Regina Mccarthy (1458)" -> "Yingiya Mark Guyula (2268)" [label=231]
-	"Alfred Gould (2267)" -> "Yingiya Mark Guyula (2268)" [label=148]
+	"Peter Flynn (2270)" -> "Alfred Gould (2267)" [label=14]
 	"Peter Flynn (2270)" -> "Chris Righton (2266)" [label=43]
+	"Braedon Earley (2269)" -> "Yingiya Mark Guyula (2268)" [label=482]
+	"Regina Mccarthy (1458)" -> "Rob Hoad (2271)" [label=126]
+	"Alfred Gould (2267)" -> "Tina Macfarlane (2272)" [label=25]
+	"Peter Flynn (2270)" -> "Rob Hoad (2271)" [label=36]
+	"Braedon Earley (2269)" -> "Tina Macfarlane (2272)" [label=409]
+	"Peter Flynn (2270)" -> "Yingiya Mark Guyula (2268)" [label=12]
+	"Alfred Gould (2267)" -> "Yingiya Mark Guyula (2268)" [label=148]
+	"Regina Mccarthy (1458)" -> "Braedon Earley (2269)" [label=184]
+	"Alfred Gould (2267)" -> "Rob Hoad (2271)" [label=16]
+	"Yingiya Mark Guyula (2268)" -> "Tina Macfarlane (2272)" [label=459]
+	"Rob Hoad (2271)" -> "Tina Macfarlane (2272)" [label=901]
+	"Regina Mccarthy (1458)" -> "Yingiya Mark Guyula (2268)" [label=231]
+	"Regina Mccarthy (1458)" -> "Chris Righton (2266)" [label=355]
+	"Peter Flynn (2270)" -> "Regina Mccarthy (1458)" [label=44]
+	"Alfred Gould (2267)" -> "Chris Righton (2266)" [label=64]
 	"Yingiya Mark Guyula (2268)" -> "Rob Hoad (2271)" [label=584]
+	"Alfred Gould (2267)" -> "Regina Mccarthy (1458)" [label=21]
+	"Chris Righton (2266)" -> "Tina Macfarlane (2272)" [label=2112]
+	"Braedon Earley (2269)" -> "Rob Hoad (2271)" [label=238]
+	"Yingiya Mark Guyula (2268)" -> "Chris Righton (2266)" [label=613]
+	"Regina Mccarthy (1458)" -> "Tina Macfarlane (2272)" [label=280]
 }
