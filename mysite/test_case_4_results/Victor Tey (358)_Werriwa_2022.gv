@@ -2,13 +2,13 @@
 digraph "Victor Tey (358)_Werriwa_2022" {
 	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Victor Tey (358)" [label="Victor Tey (358)
-Liberal Democrats"]
 	"Apurva Shukla (361)" [label="Apurva Shukla (361)
 The Greens"]
 	"Adam Paul Booke (363)" [label="Adam Paul Booke (363)
 Pauline Hanson's One Nation"]
-	"Apurva Shukla (361)" -> "Victor Tey (358)" [label=673]
-	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
+	"Victor Tey (358)" [label="Victor Tey (358)
+Liberal Democrats"]
 	"Adam Paul Booke (363)" -> "Victor Tey (358)" [label=890]
+	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
+	"Apurva Shukla (361)" -> "Victor Tey (358)" [label=673]
 }

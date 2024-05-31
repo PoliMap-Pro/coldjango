@@ -2,31 +2,31 @@
 digraph "Sussan Ley (112)_Farrer_2016" {
 	graph [label="Farrer 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sussan Ley (112)" [label="Sussan Ley (112)
-Liberal"]
-	"Amanda Cohn (2094)" [label="Amanda Cohn (2094)
-The Greens"]
-	"Ron Pike (2093)" [label="Ron Pike (2093)
-Australian Liberty Alliance"]
-	"Brian Mills (1289)" [label="Brian Mills (1289)
-Independent"]
 	"Paul Rossetto (2095)" [label="Paul Rossetto (2095)
 Christian Democratic Party (Fred Nile Group)"]
+	"Sussan Ley (112)" [label="Sussan Ley (112)
+Liberal"]
 	"Trevor O'Brien (2097)" [label="Trevor O'Brien (2097)
 Mature Australia"]
-	"Amanda Cohn (2094)" -> "Sussan Ley (112)" [label=5053]
-	"Ron Pike (2093)" -> "Amanda Cohn (2094)" [label=2590]
-	"Brian Mills (1289)" -> "Ron Pike (2093)" [label=1743]
-	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
-	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
-	"Ron Pike (2093)" -> "Sussan Ley (112)" [label=4249]
-	"Brian Mills (1289)" -> "Sussan Ley (112)" [label=1450]
-	"Paul Rossetto (2095)" -> "Sussan Ley (112)" [label=1196]
-	"Trevor O'Brien (2097)" -> "Sussan Ley (112)" [label=273]
-	"Trevor O'Brien (2097)" -> "Brian Mills (1289)" [label=556]
+	"Amanda Cohn (2094)" [label="Amanda Cohn (2094)
+The Greens"]
+	"Brian Mills (1289)" [label="Brian Mills (1289)
+Independent"]
+	"Ron Pike (2093)" [label="Ron Pike (2093)
+Australian Liberty Alliance"]
 	"Paul Rossetto (2095)" -> "Ron Pike (2093)" [label=1204]
-	"Trevor O'Brien (2097)" -> "Ron Pike (2093)" [label=275]
-	"Brian Mills (1289)" -> "Amanda Cohn (2094)" [label=939]
-	"Paul Rossetto (2095)" -> "Amanda Cohn (2094)" [label=305]
 	"Trevor O'Brien (2097)" -> "Amanda Cohn (2094)" [label=125]
+	"Brian Mills (1289)" -> "Amanda Cohn (2094)" [label=939]
+	"Trevor O'Brien (2097)" -> "Ron Pike (2093)" [label=275]
+	"Paul Rossetto (2095)" -> "Amanda Cohn (2094)" [label=305]
+	"Trevor O'Brien (2097)" -> "Sussan Ley (112)" [label=273]
+	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
+	"Paul Rossetto (2095)" -> "Sussan Ley (112)" [label=1196]
+	"Amanda Cohn (2094)" -> "Sussan Ley (112)" [label=5053]
+	"Brian Mills (1289)" -> "Sussan Ley (112)" [label=1450]
+	"Trevor O'Brien (2097)" -> "Brian Mills (1289)" [label=556]
+	"Brian Mills (1289)" -> "Ron Pike (2093)" [label=1743]
+	"Ron Pike (2093)" -> "Sussan Ley (112)" [label=4249]
+	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
+	"Ron Pike (2093)" -> "Amanda Cohn (2094)" [label=2590]
 }

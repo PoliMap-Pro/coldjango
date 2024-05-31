@@ -2,48 +2,48 @@
 digraph "Nola Marino (1128)_Forrest_2022" {
 	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nola Marino (1128)" [label="Nola Marino (1128)
-Liberal"]
-	"Christine Terrantroy (1123)" [label="Christine Terrantroy (1123)
-The Greens (WA)"]
 	"Shane Mezger (1127)" [label="Shane Mezger (1127)
 Pauline Hanson's One Nation"]
-	"Tracy Nyree Aitken (1125)" [label="Tracy Nyree Aitken (1125)
-The Great Australian Party"]
-	"Helen Allan (1120)" [label="Helen Allan (1120)
-United Australia Party"]
+	"Christine Terrantroy (1123)" [label="Christine Terrantroy (1123)
+The Greens (WA)"]
+	"Nola Marino (1128)" [label="Nola Marino (1128)
+Liberal"]
 	"Greg Stephens (1124)" [label="Greg Stephens (1124)
 WESTERN AUSTRALIA PARTY"]
-	"Paul Markham (1121)" [label="Paul Markham (1121)
-Liberal Democrats"]
+	"Helen Allan (1120)" [label="Helen Allan (1120)
+United Australia Party"]
 	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
 Australian Federation Party"]
-	"Christine Terrantroy (1123)" -> "Nola Marino (1128)" [label=4080]
-	"Shane Mezger (1127)" -> "Christine Terrantroy (1123)" [label=3251]
-	"Tracy Nyree Aitken (1125)" -> "Shane Mezger (1127)" [label=3314]
+	"Tracy Nyree Aitken (1125)" [label="Tracy Nyree Aitken (1125)
+The Great Australian Party"]
+	"Paul Markham (1121)" [label="Paul Markham (1121)
+Liberal Democrats"]
 	"Helen Allan (1120)" -> "Tracy Nyree Aitken (1125)" [label=692]
-	"Greg Stephens (1124)" -> "Helen Allan (1120)" [label=281]
-	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
-	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
-	"Shane Mezger (1127)" -> "Nola Marino (1128)" [label=4985]
-	"Tracy Nyree Aitken (1125)" -> "Nola Marino (1128)" [label=344]
-	"Helen Allan (1120)" -> "Nola Marino (1128)" [label=305]
-	"Greg Stephens (1124)" -> "Nola Marino (1128)" [label=394]
-	"Paul Markham (1121)" -> "Nola Marino (1128)" [label=457]
-	"Mailee Dunn (1122)" -> "Nola Marino (1128)" [label=54]
-	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
-	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
-	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
-	"Greg Stephens (1124)" -> "Tracy Nyree Aitken (1125)" [label=618]
-	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
 	"Mailee Dunn (1122)" -> "Tracy Nyree Aitken (1125)" [label=447]
-	"Helen Allan (1120)" -> "Shane Mezger (1127)" [label=1127]
-	"Greg Stephens (1124)" -> "Shane Mezger (1127)" [label=293]
-	"Paul Markham (1121)" -> "Shane Mezger (1127)" [label=212]
+	"Greg Stephens (1124)" -> "Helen Allan (1120)" [label=281]
+	"Shane Mezger (1127)" -> "Christine Terrantroy (1123)" [label=3251]
 	"Mailee Dunn (1122)" -> "Shane Mezger (1127)" [label=140]
-	"Tracy Nyree Aitken (1125)" -> "Christine Terrantroy (1123)" [label=671]
+	"Greg Stephens (1124)" -> "Nola Marino (1128)" [label=394]
+	"Helen Allan (1120)" -> "Shane Mezger (1127)" [label=1127]
+	"Helen Allan (1120)" -> "Nola Marino (1128)" [label=305]
 	"Helen Allan (1120)" -> "Christine Terrantroy (1123)" [label=871]
+	"Christine Terrantroy (1123)" -> "Nola Marino (1128)" [label=4080]
+	"Greg Stephens (1124)" -> "Shane Mezger (1127)" [label=293]
 	"Greg Stephens (1124)" -> "Christine Terrantroy (1123)" [label=439]
+	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
+	"Paul Markham (1121)" -> "Shane Mezger (1127)" [label=212]
+	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
+	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
+	"Tracy Nyree Aitken (1125)" -> "Christine Terrantroy (1123)" [label=671]
+	"Mailee Dunn (1122)" -> "Nola Marino (1128)" [label=54]
+	"Paul Markham (1121)" -> "Nola Marino (1128)" [label=457]
+	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
 	"Paul Markham (1121)" -> "Christine Terrantroy (1123)" [label=203]
+	"Tracy Nyree Aitken (1125)" -> "Nola Marino (1128)" [label=344]
+	"Greg Stephens (1124)" -> "Tracy Nyree Aitken (1125)" [label=618]
+	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
 	"Mailee Dunn (1122)" -> "Christine Terrantroy (1123)" [label=135]
+	"Shane Mezger (1127)" -> "Nola Marino (1128)" [label=4985]
+	"Tracy Nyree Aitken (1125)" -> "Shane Mezger (1127)" [label=3314]
+	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
 }

@@ -8,7 +8,7 @@ United Australia Party"]
 Liberal Democrats"]
 	"Ammar Khan (70)" [label="Ammar Khan (70)
 Independent"]
+	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
 	"Ben Roughley (71)" -> "Zvetanka Raskov (69)" [label=409]
 	"Ammar Khan (70)" -> "Ben Roughley (71)" [label=187]
-	"Ammar Khan (70)" -> "Zvetanka Raskov (69)" [label=307]
 }

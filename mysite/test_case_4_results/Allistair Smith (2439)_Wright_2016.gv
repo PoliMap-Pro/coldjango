@@ -2,31 +2,31 @@
 digraph "Allistair Smith (2439)_Wright_2016" {
 	graph [label="Wright 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pietro Agnoletto (2438)" [label="Pietro Agnoletto (2438)
-The Greens"]
-	"John Cox (2440)" [label="John Cox (2440)
-Mature Australia"]
 	"Allistair Smith (2439)" [label="Allistair Smith (2439)
 Australian Labor Party"]
-	"Mark M Stone (2442)" [label="Mark M Stone (2442)
-Liberal Democrats"]
+	"Pietro Agnoletto (2438)" [label="Pietro Agnoletto (2438)
+The Greens"]
 	"Barry Austin (2441)" [label="Barry Austin (2441)
 Family First"]
 	"Rod Smith (1642)" [label="Rod Smith (1642)
 Pauline Hanson's One Nation"]
-	"Mark M Stone (2442)" -> "Rod Smith (1642)" [label=481]
-	"John Cox (2440)" -> "Rod Smith (1642)" [label=222]
-	"Barry Austin (2441)" -> "Allistair Smith (2439)" [label=732]
-	"Mark M Stone (2442)" -> "Pietro Agnoletto (2438)" [label=202]
-	"Barry Austin (2441)" -> "Rod Smith (1642)" [label=1210]
-	"Mark M Stone (2442)" -> "Barry Austin (2441)" [label=441]
-	"Rod Smith (1642)" -> "Allistair Smith (2439)" [label=10114]
-	"Pietro Agnoletto (2438)" -> "Rod Smith (1642)" [label=1983]
+	"John Cox (2440)" [label="John Cox (2440)
+Mature Australia"]
+	"Mark M Stone (2442)" [label="Mark M Stone (2442)
+Liberal Democrats"]
 	"John Cox (2440)" -> "Barry Austin (2441)" [label=273]
-	"John Cox (2440)" -> "Pietro Agnoletto (2438)" [label=108]
-	"Pietro Agnoletto (2438)" -> "Allistair Smith (2439)" [label=4358]
+	"Mark M Stone (2442)" -> "Barry Austin (2441)" [label=441]
 	"John Cox (2440)" -> "Allistair Smith (2439)" [label=123]
-	"Barry Austin (2441)" -> "Pietro Agnoletto (2438)" [label=655]
 	"John Cox (2440)" -> "Mark M Stone (2442)" [label=76]
+	"Barry Austin (2441)" -> "Allistair Smith (2439)" [label=732]
+	"Pietro Agnoletto (2438)" -> "Allistair Smith (2439)" [label=4358]
+	"Barry Austin (2441)" -> "Pietro Agnoletto (2438)" [label=655]
+	"Barry Austin (2441)" -> "Rod Smith (1642)" [label=1210]
+	"John Cox (2440)" -> "Pietro Agnoletto (2438)" [label=108]
+	"Pietro Agnoletto (2438)" -> "Rod Smith (1642)" [label=1983]
 	"Mark M Stone (2442)" -> "Allistair Smith (2439)" [label=230]
+	"John Cox (2440)" -> "Rod Smith (1642)" [label=222]
+	"Rod Smith (1642)" -> "Allistair Smith (2439)" [label=10114]
+	"Mark M Stone (2442)" -> "Pietro Agnoletto (2438)" [label=202]
+	"Mark M Stone (2442)" -> "Rod Smith (1642)" [label=481]
 }

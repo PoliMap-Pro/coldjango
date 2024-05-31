@@ -2,12 +2,12 @@
 digraph "Petrus Van Der Steen (267)_Parkes_2022" {
 	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
-United Australia Party"]
-	"Stuart Howe (268)" [label="Stuart Howe (268)
-Independent"]
 	"Benjamin Fox (271)" [label="Benjamin Fox (271)
 Informed Medical Options Party"]
+	"Stuart Howe (268)" [label="Stuart Howe (268)
+Independent"]
+	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
+United Australia Party"]
 	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
 	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
 	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]

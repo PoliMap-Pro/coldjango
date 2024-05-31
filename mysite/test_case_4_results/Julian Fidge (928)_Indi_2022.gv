@@ -2,13 +2,13 @@
 digraph "Julian Fidge (928)_Indi_2022" {
 	graph [label="Indi 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julian Fidge (928)" [label="Julian Fidge (928)
-Liberal Democrats"]
 	"Angel Aleksov (920)" [label="Angel Aleksov (920)
 Animal Justice Party"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Liberal Democrats"]
 	"Lachlan O'Connell (922)" [label="Lachlan O'Connell (922)
 Derryn Hinch's Justice Party"]
-	"Angel Aleksov (920)" -> "Julian Fidge (928)" [label=41]
 	"Lachlan O'Connell (922)" -> "Angel Aleksov (920)" [label=152]
 	"Lachlan O'Connell (922)" -> "Julian Fidge (928)" [label=22]
+	"Angel Aleksov (920)" -> "Julian Fidge (928)" [label=41]
 }

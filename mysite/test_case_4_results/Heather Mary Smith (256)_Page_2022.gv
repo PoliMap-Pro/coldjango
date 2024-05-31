@@ -2,9 +2,9 @@
 digraph "Heather Mary Smith (256)_Page_2022" {
 	graph [label="Page 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Heather Mary Smith (256)" [label="Heather Mary Smith (256)
-Australian Federation Party"]
 	"Serge Killingbeck (262)" [label="Serge Killingbeck (262)
 TNL"]
+	"Heather Mary Smith (256)" [label="Heather Mary Smith (256)
+Australian Federation Party"]
 	"Serge Killingbeck (262)" -> "Heather Mary Smith (256)" [label=8]
 }

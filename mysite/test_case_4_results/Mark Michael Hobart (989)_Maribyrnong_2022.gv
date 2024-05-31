@@ -2,13 +2,13 @@
 digraph "Mark Michael Hobart (989)_Maribyrnong_2022" {
 	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
-Victorian Socialists"]
 	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
 The Great Australian Party"]
 	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
 Australian Federation Party"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
 	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
-	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
 	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
+	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
 }

@@ -8,7 +8,7 @@ United Australia Party"]
 Liberal Democrats"]
 	"Alexis Garnaut-Miller (90)" [label="Alexis Garnaut-Miller (90)
 Citizens Party"]
-	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
 	"Alexis Garnaut-Miller (90)" -> "Michael Glover (92)" [label=116]
 	"Alexis Garnaut-Miller (90)" -> "Ben Britton (88)" [label=242]
+	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
 }

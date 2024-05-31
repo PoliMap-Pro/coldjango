@@ -2,18 +2,18 @@
 digraph "Kirstie Smolenski (483)_Groom_2022" {
 	graph [label="Groom 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mickey Berry (481)" [label="Mickey Berry (481)
-Queensland Greens"]
-	"Ryan Otto (479)" [label="Ryan Otto (479)
-Australian Federation Party"]
-	"Kirstie Smolenski (483)" [label="Kirstie Smolenski (483)
-Independent"]
 	"Melissa Bannister (482)" [label="Melissa Bannister (482)
 United Australia Party"]
+	"Mickey Berry (481)" [label="Mickey Berry (481)
+Queensland Greens"]
+	"Kirstie Smolenski (483)" [label="Kirstie Smolenski (483)
+Independent"]
+	"Ryan Otto (479)" [label="Ryan Otto (479)
+Australian Federation Party"]
+	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
+	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
 	"Ryan Otto (479)" -> "Kirstie Smolenski (483)" [label=133]
 	"Ryan Otto (479)" -> "Melissa Bannister (482)" [label=262]
 	"Mickey Berry (481)" -> "Kirstie Smolenski (483)" [label=1218]
-	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
-	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
 	"Melissa Bannister (482)" -> "Kirstie Smolenski (483)" [label=577]
 }

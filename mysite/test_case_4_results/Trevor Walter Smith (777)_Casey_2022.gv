@@ -2,18 +2,18 @@
 digraph "Trevor Walter Smith (777)_Casey_2022" {
 	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Trevor Walter Smith (777)" [label="Trevor Walter Smith (777)
-Liberal Democrats"]
+	"Chris Field (776)" [label="Chris Field (776)
+Australian Federation Party"]
 	"Andrew Klop (772)" [label="Andrew Klop (772)
 Animal Justice Party"]
 	"Peter Sullivan (778)" [label="Peter Sullivan (778)
 Derryn Hinch's Justice Party"]
-	"Chris Field (776)" [label="Chris Field (776)
-Australian Federation Party"]
-	"Andrew Klop (772)" -> "Trevor Walter Smith (777)" [label=48]
-	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
-	"Chris Field (776)" -> "Peter Sullivan (778)" [label=19]
+	"Trevor Walter Smith (777)" [label="Trevor Walter Smith (777)
+Liberal Democrats"]
 	"Peter Sullivan (778)" -> "Trevor Walter Smith (777)" [label=53]
-	"Chris Field (776)" -> "Trevor Walter Smith (777)" [label=136]
 	"Chris Field (776)" -> "Andrew Klop (772)" [label=18]
+	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
+	"Andrew Klop (772)" -> "Trevor Walter Smith (777)" [label=48]
+	"Chris Field (776)" -> "Peter Sullivan (778)" [label=19]
+	"Chris Field (776)" -> "Trevor Walter Smith (777)" [label=136]
 }

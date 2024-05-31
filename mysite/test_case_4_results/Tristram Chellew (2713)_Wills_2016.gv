@@ -2,39 +2,39 @@
 digraph "Tristram Chellew (2713)_Wills_2016" {
 	graph [label="Wills 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dougal Gillman (2715)" [label="Dougal Gillman (2715)
-Renewable Energy Party"]
-	"Ash Blackwell (2712)" [label="Ash Blackwell (2712)
-Drug Law Reform"]
-	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
-Socialist Alliance"]
-	"Camille Sydow (2718)" [label="Camille Sydow (2718)
-Animal Justice Party"]
 	"Will Fulgenzi (2716)" [label="Will Fulgenzi (2716)
 Socialist Equality Party"]
 	"Francesco Timpano (2719)" [label="Francesco Timpano (2719)
 Independent"]
+	"Ash Blackwell (2712)" [label="Ash Blackwell (2712)
+Drug Law Reform"]
+	"Camille Sydow (2718)" [label="Camille Sydow (2718)
+Animal Justice Party"]
+	"Zane Alcorn (2717)" [label="Zane Alcorn (2717)
+Socialist Alliance"]
+	"Dougal Gillman (2715)" [label="Dougal Gillman (2715)
+Renewable Energy Party"]
 	"Tristram Chellew (2713)" [label="Tristram Chellew (2713)
 Australian Sex Party"]
-	"Will Fulgenzi (2716)" -> "Francesco Timpano (2719)" [label=24]
-	"Will Fulgenzi (2716)" -> "Zane Alcorn (2717)" [label=84]
-	"Will Fulgenzi (2716)" -> "Camille Sydow (2718)" [label=19]
-	"Camille Sydow (2718)" -> "Francesco Timpano (2719)" [label=407]
-	"Zane Alcorn (2717)" -> "Camille Sydow (2718)" [label=69]
-	"Ash Blackwell (2712)" -> "Francesco Timpano (2719)" [label=80]
-	"Zane Alcorn (2717)" -> "Dougal Gillman (2715)" [label=68]
-	"Dougal Gillman (2715)" -> "Ash Blackwell (2712)" [label=96]
-	"Dougal Gillman (2715)" -> "Francesco Timpano (2719)" [label=98]
-	"Camille Sydow (2718)" -> "Tristram Chellew (2713)" [label=375]
-	"Francesco Timpano (2719)" -> "Tristram Chellew (2713)" [label=477]
-	"Zane Alcorn (2717)" -> "Tristram Chellew (2713)" [label=42]
-	"Zane Alcorn (2717)" -> "Francesco Timpano (2719)" [label=42]
 	"Will Fulgenzi (2716)" -> "Ash Blackwell (2712)" [label=14]
-	"Zane Alcorn (2717)" -> "Ash Blackwell (2712)" [label=36]
-	"Will Fulgenzi (2716)" -> "Tristram Chellew (2713)" [label=25]
-	"Will Fulgenzi (2716)" -> "Dougal Gillman (2715)" [label=37]
 	"Ash Blackwell (2712)" -> "Tristram Chellew (2713)" [label=616]
+	"Will Fulgenzi (2716)" -> "Dougal Gillman (2715)" [label=37]
+	"Camille Sydow (2718)" -> "Francesco Timpano (2719)" [label=407]
+	"Zane Alcorn (2717)" -> "Ash Blackwell (2712)" [label=36]
+	"Zane Alcorn (2717)" -> "Tristram Chellew (2713)" [label=42]
+	"Camille Sydow (2718)" -> "Tristram Chellew (2713)" [label=375]
 	"Dougal Gillman (2715)" -> "Tristram Chellew (2713)" [label=101]
-	"Dougal Gillman (2715)" -> "Camille Sydow (2718)" [label=147]
+	"Ash Blackwell (2712)" -> "Francesco Timpano (2719)" [label=80]
+	"Dougal Gillman (2715)" -> "Ash Blackwell (2712)" [label=96]
+	"Will Fulgenzi (2716)" -> "Francesco Timpano (2719)" [label=24]
 	"Ash Blackwell (2712)" -> "Camille Sydow (2718)" [label=162]
+	"Will Fulgenzi (2716)" -> "Zane Alcorn (2717)" [label=84]
+	"Will Fulgenzi (2716)" -> "Tristram Chellew (2713)" [label=25]
+	"Dougal Gillman (2715)" -> "Francesco Timpano (2719)" [label=98]
+	"Zane Alcorn (2717)" -> "Francesco Timpano (2719)" [label=42]
+	"Zane Alcorn (2717)" -> "Dougal Gillman (2715)" [label=68]
+	"Francesco Timpano (2719)" -> "Tristram Chellew (2713)" [label=477]
+	"Dougal Gillman (2715)" -> "Camille Sydow (2718)" [label=147]
+	"Will Fulgenzi (2716)" -> "Camille Sydow (2718)" [label=19]
+	"Zane Alcorn (2717)" -> "Camille Sydow (2718)" [label=69]
 }

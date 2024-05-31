@@ -4,16 +4,16 @@ digraph "Mat Morgan (1021)_Monash_2022" {
 	node [shape=box]
 	"Meg Edwards (1027)" [label="Meg Edwards (1027)
 Liberal Democrats"]
-	"David Matthew Welsh (1025)" [label="David Matthew Welsh (1025)
-Australian Federation Party"]
-	"Christine Ann Mcshane (1028)" [label="Christine Ann Mcshane (1028)
-United Australia Party"]
 	"Mat Morgan (1021)" [label="Mat Morgan (1021)
 The Greens"]
-	"David Matthew Welsh (1025)" -> "Christine Ann Mcshane (1028)" [label=58]
+	"Christine Ann Mcshane (1028)" [label="Christine Ann Mcshane (1028)
+United Australia Party"]
+	"David Matthew Welsh (1025)" [label="David Matthew Welsh (1025)
+Australian Federation Party"]
 	"Christine Ann Mcshane (1028)" -> "Mat Morgan (1021)" [label=252]
-	"Meg Edwards (1027)" -> "Mat Morgan (1021)" [label=105]
-	"David Matthew Welsh (1025)" -> "Meg Edwards (1027)" [label=124]
 	"David Matthew Welsh (1025)" -> "Mat Morgan (1021)" [label=58]
 	"Meg Edwards (1027)" -> "Christine Ann Mcshane (1028)" [label=1176]
+	"David Matthew Welsh (1025)" -> "Meg Edwards (1027)" [label=124]
+	"David Matthew Welsh (1025)" -> "Christine Ann Mcshane (1028)" [label=58]
+	"Meg Edwards (1027)" -> "Mat Morgan (1021)" [label=105]
 }

@@ -2,48 +2,48 @@
 digraph "John Fletcher (886)_Gorton_2022" {
 	graph [label="Gorton 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Fletcher (886)" [label="John Fletcher (886)
-Liberal"]
-	"Michael Virag (880)" [label="Michael Virag (880)
-United Australia Party"]
-	"Praise Morris (879)" [label="Praise Morris (879)
-The Greens"]
-	"Daniel Connor (878)" [label="Daniel Connor (878)
-Pauline Hanson's One Nation"]
+	"Paul Lassig (885)" [label="Paul Lassig (885)
+Australian Federation Party"]
 	"Steven J Loncar (883)" [label="Steven J Loncar (883)
 Independent"]
 	"Belle Gibson (881)" [label="Belle Gibson (881)
 Victorian Socialists"]
+	"Daniel Connor (878)" [label="Daniel Connor (878)
+Pauline Hanson's One Nation"]
+	"Michael Virag (880)" [label="Michael Virag (880)
+United Australia Party"]
+	"Praise Morris (879)" [label="Praise Morris (879)
+The Greens"]
+	"John Fletcher (886)" [label="John Fletcher (886)
+Liberal"]
 	"Tony Dobran (884)" [label="Tony Dobran (884)
 The Great Australian Party"]
-	"Paul Lassig (885)" [label="Paul Lassig (885)
-Australian Federation Party"]
-	"Michael Virag (880)" -> "John Fletcher (886)" [label=8438]
-	"Praise Morris (879)" -> "Michael Virag (880)" [label=3520]
-	"Daniel Connor (878)" -> "Praise Morris (879)" [label=1970]
-	"Steven J Loncar (883)" -> "Daniel Connor (878)" [label=740]
 	"Belle Gibson (881)" -> "Steven J Loncar (883)" [label=222]
-	"Tony Dobran (884)" -> "Belle Gibson (881)" [label=66]
-	"Paul Lassig (885)" -> "Tony Dobran (884)" [label=194]
-	"Praise Morris (879)" -> "John Fletcher (886)" [label=1422]
-	"Daniel Connor (878)" -> "John Fletcher (886)" [label=906]
-	"Steven J Loncar (883)" -> "John Fletcher (886)" [label=448]
-	"Belle Gibson (881)" -> "John Fletcher (886)" [label=138]
-	"Tony Dobran (884)" -> "John Fletcher (886)" [label=126]
-	"Paul Lassig (885)" -> "John Fletcher (886)" [label=172]
-	"Paul Lassig (885)" -> "Belle Gibson (881)" [label=54]
-	"Tony Dobran (884)" -> "Steven J Loncar (883)" [label=318]
-	"Paul Lassig (885)" -> "Steven J Loncar (883)" [label=186]
+	"Steven J Loncar (883)" -> "Daniel Connor (878)" [label=740]
+	"Paul Lassig (885)" -> "Michael Virag (880)" [label=112]
 	"Belle Gibson (881)" -> "Daniel Connor (878)" [label=171]
+	"Tony Dobran (884)" -> "Belle Gibson (881)" [label=66]
+	"Praise Morris (879)" -> "John Fletcher (886)" [label=1422]
+	"Steven J Loncar (883)" -> "Michael Virag (880)" [label=726]
+	"Daniel Connor (878)" -> "Michael Virag (880)" [label=4372]
+	"Belle Gibson (881)" -> "Michael Virag (880)" [label=247]
+	"Tony Dobran (884)" -> "Steven J Loncar (883)" [label=318]
+	"Praise Morris (879)" -> "Michael Virag (880)" [label=3520]
 	"Tony Dobran (884)" -> "Daniel Connor (878)" [label=320]
+	"Paul Lassig (885)" -> "Tony Dobran (884)" [label=194]
 	"Paul Lassig (885)" -> "Daniel Connor (878)" [label=177]
 	"Steven J Loncar (883)" -> "Praise Morris (879)" [label=565]
+	"Belle Gibson (881)" -> "John Fletcher (886)" [label=138]
 	"Belle Gibson (881)" -> "Praise Morris (879)" [label=942]
-	"Tony Dobran (884)" -> "Praise Morris (879)" [label=85]
+	"Tony Dobran (884)" -> "John Fletcher (886)" [label=126]
 	"Paul Lassig (885)" -> "Praise Morris (879)" [label=42]
-	"Daniel Connor (878)" -> "Michael Virag (880)" [label=4372]
-	"Steven J Loncar (883)" -> "Michael Virag (880)" [label=726]
-	"Belle Gibson (881)" -> "Michael Virag (880)" [label=247]
+	"Steven J Loncar (883)" -> "John Fletcher (886)" [label=448]
+	"Daniel Connor (878)" -> "Praise Morris (879)" [label=1970]
+	"Paul Lassig (885)" -> "John Fletcher (886)" [label=172]
+	"Daniel Connor (878)" -> "John Fletcher (886)" [label=906]
+	"Paul Lassig (885)" -> "Belle Gibson (881)" [label=54]
 	"Tony Dobran (884)" -> "Michael Virag (880)" [label=473]
-	"Paul Lassig (885)" -> "Michael Virag (880)" [label=112]
+	"Paul Lassig (885)" -> "Steven J Loncar (883)" [label=186]
+	"Tony Dobran (884)" -> "Praise Morris (879)" [label=85]
+	"Michael Virag (880)" -> "John Fletcher (886)" [label=8438]
 }

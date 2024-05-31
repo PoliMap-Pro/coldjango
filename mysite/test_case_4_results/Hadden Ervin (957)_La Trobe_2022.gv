@@ -6,14 +6,14 @@ digraph "Hadden Ervin (957)_La Trobe_2022" {
 Pauline Hanson's One Nation"]
 	"Helen Jeges (963)" [label="Helen Jeges (963)
 Animal Justice Party"]
-	"Michael Abelman (962)" [label="Michael Abelman (962)
-Liberal Democrats"]
 	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
 Australian Federation Party"]
-	"Helen Jeges (963)" -> "Hadden Ervin (957)" [label=389]
-	"Michael Abelman (962)" -> "Helen Jeges (963)" [label=173]
-	"Rebecca Skinner (961)" -> "Michael Abelman (962)" [label=166]
-	"Michael Abelman (962)" -> "Hadden Ervin (957)" [label=613]
+	"Michael Abelman (962)" [label="Michael Abelman (962)
+Liberal Democrats"]
 	"Rebecca Skinner (961)" -> "Hadden Ervin (957)" [label=175]
+	"Michael Abelman (962)" -> "Helen Jeges (963)" [label=173]
+	"Michael Abelman (962)" -> "Hadden Ervin (957)" [label=613]
+	"Rebecca Skinner (961)" -> "Michael Abelman (962)" [label=166]
 	"Rebecca Skinner (961)" -> "Helen Jeges (963)" [label=151]
+	"Helen Jeges (963)" -> "Hadden Ervin (957)" [label=389]
 }

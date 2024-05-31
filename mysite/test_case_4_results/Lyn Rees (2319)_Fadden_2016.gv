@@ -2,9 +2,9 @@
 digraph "Lyn Rees (2319)_Fadden_2016" {
 	graph [label="Fadden 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
-Veterans Party"]
 	"Lyn Rees (2319)" [label="Lyn Rees (2319)
 Family First"]
+	"Sean Macnamara (2320)" [label="Sean Macnamara (2320)
+Veterans Party"]
 	"Sean Macnamara (2320)" -> "Lyn Rees (2319)" [label=237]
 }

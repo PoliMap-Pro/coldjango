@@ -4,11 +4,11 @@ digraph "Adrian Rivish (2444)_Adelaide_2016" {
 	node [shape=box]
 	"Matt Tidswell (2445)" [label="Matt Tidswell (2445)
 Animal Justice Party"]
-	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
-Liberal Democrats"]
 	"Adrian Rivish (2444)" [label="Adrian Rivish (2444)
 Family First"]
-	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
-	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
+	"Tyrone Lock (2446)" [label="Tyrone Lock (2446)
+Liberal Democrats"]
 	"Matt Tidswell (2445)" -> "Adrian Rivish (2444)" [label=199]
+	"Tyrone Lock (2446)" -> "Matt Tidswell (2445)" [label=72]
+	"Tyrone Lock (2446)" -> "Adrian Rivish (2444)" [label=158]
 }

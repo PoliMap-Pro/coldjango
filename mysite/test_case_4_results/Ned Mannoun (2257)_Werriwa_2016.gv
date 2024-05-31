@@ -2,13 +2,13 @@
 digraph "Ned Mannoun (2257)_Werriwa_2016" {
 	graph [label="Werriwa 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Signe Louise Westerberg (2259)" [label="Signe Louise Westerberg (2259)
+The Greens"]
 	"Ned Mannoun (2257)" [label="Ned Mannoun (2257)
 Liberal"]
 	"Daniel Edwards (2258)" [label="Daniel Edwards (2258)
 Christian Democratic Party (Fred Nile Group)"]
-	"Signe Louise Westerberg (2259)" [label="Signe Louise Westerberg (2259)
-The Greens"]
-	"Daniel Edwards (2258)" -> "Ned Mannoun (2257)" [label=3976]
-	"Signe Louise Westerberg (2259)" -> "Daniel Edwards (2258)" [label=803]
 	"Signe Louise Westerberg (2259)" -> "Ned Mannoun (2257)" [label=710]
+	"Signe Louise Westerberg (2259)" -> "Daniel Edwards (2258)" [label=803]
+	"Daniel Edwards (2258)" -> "Ned Mannoun (2257)" [label=3976]
 }

@@ -4,22 +4,22 @@ digraph "Savitri Bevinakoppa (919)_Hotham_2022" {
 	node [shape=box]
 	"Savitri Bevinakoppa (919)" [label="Savitri Bevinakoppa (919)
 Liberal"]
-	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
-The Greens"]
-	"Edward Sok (914)" [label="Edward Sok (914)
-Liberal Democrats"]
-	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
-United Australia Party"]
 	"Roger Tull (918)" [label="Roger Tull (918)
 Pauline Hanson's One Nation"]
-	"Louisa Willoughby (916)" -> "Savitri Bevinakoppa (919)" [label=2750]
-	"Edward Sok (914)" -> "Louisa Willoughby (916)" [label=1580]
-	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
-	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
-	"Edward Sok (914)" -> "Savitri Bevinakoppa (919)" [label=6129]
-	"Bruce Scott Ridgway (917)" -> "Savitri Bevinakoppa (919)" [label=1318]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
+	"Edward Sok (914)" [label="Edward Sok (914)
+Liberal Democrats"]
+	"Louisa Willoughby (916)" [label="Louisa Willoughby (916)
+The Greens"]
 	"Roger Tull (918)" -> "Savitri Bevinakoppa (919)" [label=350]
 	"Roger Tull (918)" -> "Edward Sok (914)" [label=728]
+	"Edward Sok (914)" -> "Louisa Willoughby (916)" [label=1580]
+	"Edward Sok (914)" -> "Savitri Bevinakoppa (919)" [label=6129]
 	"Bruce Scott Ridgway (917)" -> "Louisa Willoughby (916)" [label=1391]
 	"Roger Tull (918)" -> "Louisa Willoughby (916)" [label=223]
+	"Bruce Scott Ridgway (917)" -> "Edward Sok (914)" [label=3296]
+	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
+	"Louisa Willoughby (916)" -> "Savitri Bevinakoppa (919)" [label=2750]
+	"Bruce Scott Ridgway (917)" -> "Savitri Bevinakoppa (919)" [label=1318]
 }

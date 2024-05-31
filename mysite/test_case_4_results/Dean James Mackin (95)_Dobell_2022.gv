@@ -2,13 +2,13 @@
 digraph "Dean James Mackin (95)_Dobell_2022" {
 	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Eliot Metherell (99)" [label="Eliot Metherell (99)
+Liberal Democrats"]
 	"Dean James Mackin (95)" [label="Dean James Mackin (95)
 United Australia Party"]
 	"Geoff Barnes (94)" [label="Geoff Barnes (94)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Eliot Metherell (99)" [label="Eliot Metherell (99)
-Liberal Democrats"]
 	"Geoff Barnes (94)" -> "Dean James Mackin (95)" [label=667]
-	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
 	"Eliot Metherell (99)" -> "Dean James Mackin (95)" [label=189]
+	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
 }

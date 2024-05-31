@@ -2,18 +2,18 @@
 digraph "Sandy Ambard (909)_Holt_2022" {
 	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sandy Ambard (909)" [label="Sandy Ambard (909)
-Pauline Hanson's One Nation"]
-	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
-Independent"]
 	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
 Liberal Democrats"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
 	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
 Australian Federation Party"]
+	"Gregory Saldanha (910)" -> "Sandy Ambard (909)" [label=196]
 	"Ravi Ragupathy (906)" -> "Sandy Ambard (909)" [label=409]
 	"Matthew Nunez-Silva (911)" -> "Ravi Ragupathy (906)" [label=148]
-	"Gregory Saldanha (910)" -> "Matthew Nunez-Silva (911)" [label=108]
 	"Matthew Nunez-Silva (911)" -> "Sandy Ambard (909)" [label=517]
-	"Gregory Saldanha (910)" -> "Sandy Ambard (909)" [label=196]
 	"Gregory Saldanha (910)" -> "Ravi Ragupathy (906)" [label=114]
+	"Gregory Saldanha (910)" -> "Matthew Nunez-Silva (911)" [label=108]
 }

@@ -2,13 +2,13 @@
 digraph "Ric Davies (1627)_Rankin_2016" {
 	graph [label="Rankin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ric Davies (1627)" [label="Ric Davies (1627)
-Liberal Democrats"]
-	"Shane Holley (2423)" [label="Shane Holley (2423)
-Katter's Australian Party"]
 	"Jeffrey Dale Hodges (2424)" [label="Jeffrey Dale Hodges (2424)
 Consumer Rights & No-Tolls"]
-	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
-	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
+	"Shane Holley (2423)" [label="Shane Holley (2423)
+Katter's Australian Party"]
+	"Ric Davies (1627)" [label="Ric Davies (1627)
+Liberal Democrats"]
 	"Jeffrey Dale Hodges (2424)" -> "Ric Davies (1627)" [label=148]
+	"Jeffrey Dale Hodges (2424)" -> "Shane Holley (2423)" [label=386]
+	"Shane Holley (2423)" -> "Ric Davies (1627)" [label=371]
 }

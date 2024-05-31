@@ -2,9 +2,9 @@
 digraph "Peter Boyle (2233)_Sydney_2016" {
 	graph [label="Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Boyle (2233)" [label="Peter Boyle (2233)
-Socialist Alliance"]
 	"Tula Tzoras (2235)" [label="Tula Tzoras (2235)
 Online Direct Democracy - (Empowering the People!)"]
+	"Peter Boyle (2233)" [label="Peter Boyle (2233)
+Socialist Alliance"]
 	"Tula Tzoras (2235)" -> "Peter Boyle (2233)" [label=23]
 }

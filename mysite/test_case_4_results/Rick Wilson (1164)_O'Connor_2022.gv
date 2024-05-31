@@ -2,48 +2,48 @@
 digraph "Rick Wilson (1164)_O'Connor_2022" {
 	graph [label="O'Connor 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Justin Moseley (1161)" [label="Justin Moseley (1161)
+Australian Christians"]
+	"Stan Kustrin (1156)" [label="Stan Kustrin (1156)
+Pauline Hanson's One Nation"]
 	"Rick Wilson (1164)" [label="Rick Wilson (1164)
 Liberal"]
 	"Giz Watson (1158)" [label="Giz Watson (1158)
 The Greens (WA)"]
-	"Stan Kustrin (1156)" [label="Stan Kustrin (1156)
-Pauline Hanson's One Nation"]
-	"Brenden Barber (1163)" [label="Brenden Barber (1163)
-The Great Australian Party"]
-	"Justin Moseley (1161)" [label="Justin Moseley (1161)
-Australian Christians"]
-	"Morris Bessant (1160)" [label="Morris Bessant (1160)
-WESTERN AUSTRALIA PARTY"]
-	"Tracy Anne Tirronen (1162)" [label="Tracy Anne Tirronen (1162)
-United Australia Party"]
 	"Isaac Middle (1159)" [label="Isaac Middle (1159)
 Australian Federation Party"]
-	"Giz Watson (1158)" -> "Rick Wilson (1164)" [label=3703]
-	"Stan Kustrin (1156)" -> "Giz Watson (1158)" [label=3478]
-	"Brenden Barber (1163)" -> "Stan Kustrin (1156)" [label=2813]
-	"Justin Moseley (1161)" -> "Brenden Barber (1163)" [label=508]
-	"Morris Bessant (1160)" -> "Justin Moseley (1161)" [label=222]
-	"Tracy Anne Tirronen (1162)" -> "Morris Bessant (1160)" [label=139]
+	"Tracy Anne Tirronen (1162)" [label="Tracy Anne Tirronen (1162)
+United Australia Party"]
+	"Brenden Barber (1163)" [label="Brenden Barber (1163)
+The Great Australian Party"]
+	"Morris Bessant (1160)" [label="Morris Bessant (1160)
+WESTERN AUSTRALIA PARTY"]
 	"Isaac Middle (1159)" -> "Tracy Anne Tirronen (1162)" [label=97]
-	"Stan Kustrin (1156)" -> "Rick Wilson (1164)" [label=5014]
-	"Brenden Barber (1163)" -> "Rick Wilson (1164)" [label=677]
-	"Justin Moseley (1161)" -> "Rick Wilson (1164)" [label=1647]
-	"Morris Bessant (1160)" -> "Rick Wilson (1164)" [label=496]
-	"Tracy Anne Tirronen (1162)" -> "Rick Wilson (1164)" [label=205]
-	"Isaac Middle (1159)" -> "Rick Wilson (1164)" [label=67]
-	"Isaac Middle (1159)" -> "Morris Bessant (1160)" [label=163]
-	"Tracy Anne Tirronen (1162)" -> "Justin Moseley (1161)" [label=123]
-	"Isaac Middle (1159)" -> "Justin Moseley (1161)" [label=101]
-	"Morris Bessant (1160)" -> "Brenden Barber (1163)" [label=629]
-	"Tracy Anne Tirronen (1162)" -> "Brenden Barber (1163)" [label=381]
-	"Isaac Middle (1159)" -> "Brenden Barber (1163)" [label=542]
-	"Justin Moseley (1161)" -> "Stan Kustrin (1156)" [label=681]
-	"Morris Bessant (1160)" -> "Stan Kustrin (1156)" [label=448]
 	"Tracy Anne Tirronen (1162)" -> "Stan Kustrin (1156)" [label=782]
+	"Brenden Barber (1163)" -> "Rick Wilson (1164)" [label=677]
 	"Isaac Middle (1159)" -> "Stan Kustrin (1156)" [label=166]
-	"Brenden Barber (1163)" -> "Giz Watson (1158)" [label=609]
-	"Justin Moseley (1161)" -> "Giz Watson (1158)" [label=170]
-	"Morris Bessant (1160)" -> "Giz Watson (1158)" [label=456]
-	"Tracy Anne Tirronen (1162)" -> "Giz Watson (1158)" [label=85]
 	"Isaac Middle (1159)" -> "Giz Watson (1158)" [label=134]
+	"Morris Bessant (1160)" -> "Rick Wilson (1164)" [label=496]
+	"Tracy Anne Tirronen (1162)" -> "Justin Moseley (1161)" [label=123]
+	"Morris Bessant (1160)" -> "Justin Moseley (1161)" [label=222]
+	"Brenden Barber (1163)" -> "Stan Kustrin (1156)" [label=2813]
+	"Stan Kustrin (1156)" -> "Rick Wilson (1164)" [label=5014]
+	"Morris Bessant (1160)" -> "Giz Watson (1158)" [label=456]
+	"Tracy Anne Tirronen (1162)" -> "Rick Wilson (1164)" [label=205]
+	"Justin Moseley (1161)" -> "Stan Kustrin (1156)" [label=681]
+	"Tracy Anne Tirronen (1162)" -> "Giz Watson (1158)" [label=85]
+	"Isaac Middle (1159)" -> "Rick Wilson (1164)" [label=67]
+	"Isaac Middle (1159)" -> "Brenden Barber (1163)" [label=542]
+	"Justin Moseley (1161)" -> "Brenden Barber (1163)" [label=508]
+	"Morris Bessant (1160)" -> "Brenden Barber (1163)" [label=629]
+	"Morris Bessant (1160)" -> "Stan Kustrin (1156)" [label=448]
+	"Isaac Middle (1159)" -> "Justin Moseley (1161)" [label=101]
+	"Justin Moseley (1161)" -> "Rick Wilson (1164)" [label=1647]
+	"Brenden Barber (1163)" -> "Giz Watson (1158)" [label=609]
+	"Isaac Middle (1159)" -> "Morris Bessant (1160)" [label=163]
+	"Giz Watson (1158)" -> "Rick Wilson (1164)" [label=3703]
+	"Tracy Anne Tirronen (1162)" -> "Brenden Barber (1163)" [label=381]
+	"Tracy Anne Tirronen (1162)" -> "Morris Bessant (1160)" [label=139]
+	"Justin Moseley (1161)" -> "Giz Watson (1158)" [label=170]
+	"Stan Kustrin (1156)" -> "Giz Watson (1158)" [label=3478]
 }

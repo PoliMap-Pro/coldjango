@@ -2,39 +2,39 @@
 digraph "Tony Gibson (2330)_Fisher_2016" {
 	graph [label="Fisher 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Caroline Ashlin (2331)" [label="Caroline Ashlin (2331)
-Family First"]
+	"Tracey Bell-Henselin (302)" [label="Tracey Bell-Henselin (302)
+Rise Up Australia Party"]
+	"John Spellman (1601)" [label="John Spellman (1601)
+Australian Liberty Alliance"]
 	"Mike Jessop (1527)" [label="Mike Jessop (1527)
 Independent"]
 	"Jason Burgess (2333)" [label="Jason Burgess (2333)
 Veterans Party"]
 	"Lb Joum (2334)" [label="Lb Joum (2334)
 Online Direct Democracy - (Empowering the People!)"]
-	"John Spellman (1601)" [label="John Spellman (1601)
-Australian Liberty Alliance"]
 	"Tony Gibson (2330)" [label="Tony Gibson (2330)
 The Greens"]
-	"Tracey Bell-Henselin (302)" [label="Tracey Bell-Henselin (302)
-Rise Up Australia Party"]
-	"Tracey Bell-Henselin (302)" -> "John Spellman (1601)" [label=760]
+	"Caroline Ashlin (2331)" [label="Caroline Ashlin (2331)
+Family First"]
 	"Lb Joum (2334)" -> "Jason Burgess (2333)" [label=38]
-	"Lb Joum (2334)" -> "John Spellman (1601)" [label=22]
-	"Jason Burgess (2333)" -> "Tracey Bell-Henselin (302)" [label=132]
-	"Lb Joum (2334)" -> "Caroline Ashlin (2331)" [label=29]
-	"Jason Burgess (2333)" -> "Caroline Ashlin (2331)" [label=114]
-	"Jason Burgess (2333)" -> "Mike Jessop (1527)" [label=326]
-	"Jason Burgess (2333)" -> "Tony Gibson (2330)" [label=95]
-	"Caroline Ashlin (2331)" -> "Mike Jessop (1527)" [label=791]
-	"Lb Joum (2334)" -> "Tracey Bell-Henselin (302)" [label=39]
-	"John Spellman (1601)" -> "Tony Gibson (2330)" [label=1327]
-	"Lb Joum (2334)" -> "Tony Gibson (2330)" [label=92]
-	"Caroline Ashlin (2331)" -> "John Spellman (1601)" [label=824]
-	"Tracey Bell-Henselin (302)" -> "Tony Gibson (2330)" [label=180]
-	"Mike Jessop (1527)" -> "Tony Gibson (2330)" [label=1303]
-	"Mike Jessop (1527)" -> "John Spellman (1601)" [label=1245]
-	"Lb Joum (2334)" -> "Mike Jessop (1527)" [label=139]
-	"Tracey Bell-Henselin (302)" -> "Caroline Ashlin (2331)" [label=613]
 	"Jason Burgess (2333)" -> "John Spellman (1601)" [label=53]
+	"Tracey Bell-Henselin (302)" -> "Tony Gibson (2330)" [label=180]
 	"Tracey Bell-Henselin (302)" -> "Mike Jessop (1527)" [label=374]
+	"Tracey Bell-Henselin (302)" -> "John Spellman (1601)" [label=760]
+	"Caroline Ashlin (2331)" -> "Mike Jessop (1527)" [label=791]
+	"Lb Joum (2334)" -> "Tony Gibson (2330)" [label=92]
+	"Jason Burgess (2333)" -> "Caroline Ashlin (2331)" [label=114]
+	"Lb Joum (2334)" -> "John Spellman (1601)" [label=22]
+	"Mike Jessop (1527)" -> "John Spellman (1601)" [label=1245]
+	"Jason Burgess (2333)" -> "Tony Gibson (2330)" [label=95]
+	"Jason Burgess (2333)" -> "Tracey Bell-Henselin (302)" [label=132]
+	"Mike Jessop (1527)" -> "Tony Gibson (2330)" [label=1303]
+	"Tracey Bell-Henselin (302)" -> "Caroline Ashlin (2331)" [label=613]
 	"Caroline Ashlin (2331)" -> "Tony Gibson (2330)" [label=834]
+	"John Spellman (1601)" -> "Tony Gibson (2330)" [label=1327]
+	"Caroline Ashlin (2331)" -> "John Spellman (1601)" [label=824]
+	"Lb Joum (2334)" -> "Tracey Bell-Henselin (302)" [label=39]
+	"Lb Joum (2334)" -> "Mike Jessop (1527)" [label=139]
+	"Lb Joum (2334)" -> "Caroline Ashlin (2331)" [label=29]
+	"Jason Burgess (2333)" -> "Mike Jessop (1527)" [label=326]
 }

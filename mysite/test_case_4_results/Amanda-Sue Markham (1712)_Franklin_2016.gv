@@ -2,18 +2,18 @@
 digraph "Amanda-Sue Markham (1712)_Franklin_2016" {
 	graph [label="Franklin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Amanda-Sue Markham (1712)" [label="Amanda-Sue Markham (1712)
-Liberal"]
 	"Martine Delaney (2517)" [label="Martine Delaney (2517)
 The Greens"]
-	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
-The Arts Party"]
 	"George James Muskett (2518)" [label="George James Muskett (2518)
 Christian Democratic Party (Fred Nile Group)"]
-	"Martine Delaney (2517)" -> "Amanda-Sue Markham (1712)" [label=1737]
-	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
+	"Tim Sanderson (2516)" [label="Tim Sanderson (2516)
+The Arts Party"]
+	"Amanda-Sue Markham (1712)" [label="Amanda-Sue Markham (1712)
+Liberal"]
 	"George James Muskett (2518)" -> "Tim Sanderson (2516)" [label=303]
-	"Tim Sanderson (2516)" -> "Amanda-Sue Markham (1712)" [label=382]
-	"George James Muskett (2518)" -> "Amanda-Sue Markham (1712)" [label=682]
 	"George James Muskett (2518)" -> "Martine Delaney (2517)" [label=79]
+	"Martine Delaney (2517)" -> "Amanda-Sue Markham (1712)" [label=1737]
+	"George James Muskett (2518)" -> "Amanda-Sue Markham (1712)" [label=682]
+	"Tim Sanderson (2516)" -> "Amanda-Sue Markham (1712)" [label=382]
+	"Tim Sanderson (2516)" -> "Martine Delaney (2517)" [label=1024]
 }

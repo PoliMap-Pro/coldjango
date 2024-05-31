@@ -4,22 +4,22 @@ digraph "Alan Howard-Jones (663)_Makin_2022" {
 	node [shape=box]
 	"Alan Howard-Jones (663)" [label="Alan Howard-Jones (663)
 Liberal"]
+	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
+United Australia Party"]
 	"Emma Mustaca (664)" [label="Emma Mustaca (664)
 The Greens"]
 	"Rajan Vaid (662)" [label="Rajan Vaid (662)
 Pauline Hanson's One Nation"]
-	"Kimberley Drozdoff (661)" [label="Kimberley Drozdoff (661)
-United Australia Party"]
 	"Abram Nicholas Lazootin (659)" [label="Abram Nicholas Lazootin (659)
 Australian Federation Party"]
-	"Emma Mustaca (664)" -> "Alan Howard-Jones (663)" [label=3303]
 	"Rajan Vaid (662)" -> "Emma Mustaca (664)" [label=2131]
-	"Kimberley Drozdoff (661)" -> "Rajan Vaid (662)" [label=2892]
 	"Abram Nicholas Lazootin (659)" -> "Kimberley Drozdoff (661)" [label=441]
+	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
+	"Abram Nicholas Lazootin (659)" -> "Alan Howard-Jones (663)" [label=266]
+	"Kimberley Drozdoff (661)" -> "Rajan Vaid (662)" [label=2892]
 	"Rajan Vaid (662)" -> "Alan Howard-Jones (663)" [label=4151]
 	"Kimberley Drozdoff (661)" -> "Alan Howard-Jones (663)" [label=638]
-	"Abram Nicholas Lazootin (659)" -> "Alan Howard-Jones (663)" [label=266]
-	"Abram Nicholas Lazootin (659)" -> "Rajan Vaid (662)" [label=480]
 	"Kimberley Drozdoff (661)" -> "Emma Mustaca (664)" [label=606]
 	"Abram Nicholas Lazootin (659)" -> "Emma Mustaca (664)" [label=161]
+	"Emma Mustaca (664)" -> "Alan Howard-Jones (663)" [label=3303]
 }

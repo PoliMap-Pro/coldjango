@@ -2,24 +2,24 @@
 digraph "Liz Johnstone (734)_Lyons_2022" {
 	graph [label="Lyons 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Liz Johnstone (734)" [label="Liz Johnstone (734)
-The Greens"]
-	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
-Pauline Hanson's One Nation"]
-	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
-Animal Justice Party"]
-	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
-Liberal Democrats"]
 	"Jason Evans (731)" [label="Jason Evans (731)
 United Australia Party"]
-	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
+	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
+Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
+	"Emma Jane Goyne (733)" [label="Emma Jane Goyne (733)
+Pauline Hanson's One Nation"]
+	"Liz Johnstone (734)" [label="Liz Johnstone (734)
+The Greens"]
+	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
 	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
-	"Anna Megan Gralton (730)" -> "Liz Johnstone (734)" [label=374]
+	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
+	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
+	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
 	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
+	"Anna Megan Gralton (730)" -> "Liz Johnstone (734)" [label=374]
+	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
 	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]
 	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
-	"Rhys Griffiths (728)" -> "Liz Johnstone (734)" [label=27]
-	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
-	"Jason Evans (731)" -> "Liz Johnstone (734)" [label=133]
-	"Emma Jane Goyne (733)" -> "Liz Johnstone (734)" [label=565]
 }

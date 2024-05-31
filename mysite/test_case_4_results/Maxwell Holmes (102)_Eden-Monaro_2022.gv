@@ -2,31 +2,31 @@
 digraph "Maxwell Holmes (102)_Eden-Monaro_2022" {
 	graph [label="Eden-Monaro 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Maxwell Holmes (102)" [label="Maxwell Holmes (102)
-Liberal Democrats"]
-	"James Holgate (101)" [label="James Holgate (101)
-Sustainable Australia Party - Stop Overdevelopment / Corruption"]
-	"Darren Scott Garnon (105)" [label="Darren Scott Garnon (105)
-United Australia Party"]
 	"Andrew Thaler (109)" [label="Andrew Thaler (109)
 Independent"]
+	"James Holgate (101)" [label="James Holgate (101)
+Sustainable Australia Party - Stop Overdevelopment / Corruption"]
+	"Maxwell Holmes (102)" [label="Maxwell Holmes (102)
+Liberal Democrats"]
 	"Toni Mclennan (108)" [label="Toni Mclennan (108)
 Informed Medical Options Party"]
 	"Greg Butler (104)" [label="Greg Butler (104)
 Australian Democrats"]
+	"Darren Scott Garnon (105)" [label="Darren Scott Garnon (105)
+United Australia Party"]
+	"Toni Mclennan (108)" -> "Andrew Thaler (109)" [label=198]
+	"Darren Scott Garnon (105)" -> "Maxwell Holmes (102)" [label=620]
 	"James Holgate (101)" -> "Maxwell Holmes (102)" [label=853]
 	"Darren Scott Garnon (105)" -> "James Holgate (101)" [label=321]
 	"Andrew Thaler (109)" -> "Darren Scott Garnon (105)" [label=228]
-	"Toni Mclennan (108)" -> "Andrew Thaler (109)" [label=198]
-	"Greg Butler (104)" -> "Toni Mclennan (108)" [label=18]
-	"Darren Scott Garnon (105)" -> "Maxwell Holmes (102)" [label=620]
-	"Andrew Thaler (109)" -> "Maxwell Holmes (102)" [label=206]
-	"Toni Mclennan (108)" -> "Maxwell Holmes (102)" [label=93]
-	"Greg Butler (104)" -> "Maxwell Holmes (102)" [label=60]
-	"Greg Butler (104)" -> "Andrew Thaler (109)" [label=46]
-	"Toni Mclennan (108)" -> "Darren Scott Garnon (105)" [label=120]
 	"Greg Butler (104)" -> "Darren Scott Garnon (105)" [label=50]
+	"Greg Butler (104)" -> "Andrew Thaler (109)" [label=46]
+	"Andrew Thaler (109)" -> "Maxwell Holmes (102)" [label=206]
+	"Toni Mclennan (108)" -> "Darren Scott Garnon (105)" [label=120]
+	"Greg Butler (104)" -> "Toni Mclennan (108)" [label=18]
+	"Greg Butler (104)" -> "James Holgate (101)" [label=102]
 	"Andrew Thaler (109)" -> "James Holgate (101)" [label=410]
 	"Toni Mclennan (108)" -> "James Holgate (101)" [label=205]
-	"Greg Butler (104)" -> "James Holgate (101)" [label=102]
+	"Toni Mclennan (108)" -> "Maxwell Holmes (102)" [label=93]
+	"Greg Butler (104)" -> "Maxwell Holmes (102)" [label=60]
 }

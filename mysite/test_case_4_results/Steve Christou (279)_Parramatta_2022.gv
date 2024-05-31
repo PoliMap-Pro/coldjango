@@ -2,18 +2,18 @@
 digraph "Steve Christou (279)_Parramatta_2022" {
 	graph [label="Parramatta 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Heather Freeman (274)" [label="Heather Freeman (274)
-Pauline Hanson's One Nation"]
 	"Steve Christou (279)" [label="Steve Christou (279)
 Independent"]
+	"Heather Freeman (274)" [label="Heather Freeman (274)
+Pauline Hanson's One Nation"]
 	"Liza Tazewell (275)" [label="Liza Tazewell (275)
 Liberal Democrats"]
 	"Rohan Laxmanalal (272)" [label="Rohan Laxmanalal (272)
 Animal Justice Party"]
-	"Heather Freeman (274)" -> "Rohan Laxmanalal (272)" [label=209]
-	"Liza Tazewell (275)" -> "Steve Christou (279)" [label=97]
-	"Heather Freeman (274)" -> "Steve Christou (279)" [label=282]
 	"Liza Tazewell (275)" -> "Rohan Laxmanalal (272)" [label=51]
+	"Liza Tazewell (275)" -> "Steve Christou (279)" [label=97]
 	"Rohan Laxmanalal (272)" -> "Steve Christou (279)" [label=343]
 	"Liza Tazewell (275)" -> "Heather Freeman (274)" [label=160]
+	"Heather Freeman (274)" -> "Rohan Laxmanalal (272)" [label=209]
+	"Heather Freeman (274)" -> "Steve Christou (279)" [label=282]
 }

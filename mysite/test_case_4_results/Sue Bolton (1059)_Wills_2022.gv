@@ -2,24 +2,24 @@
 digraph "Sue Bolton (1059)_Wills_2022" {
 	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Bolton (1059)" [label="Sue Bolton (1059)
-Socialist Alliance"]
-	"Emma Black (1057)" [label="Emma Black (1057)
-Victorian Socialists"]
-	"Jill Tindal (1056)" [label="Jill Tindal (1056)
-Pauline Hanson's One Nation"]
 	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
 Animal Justice Party"]
 	"Sam Sergi (1058)" [label="Sam Sergi (1058)
 Australian Federation Party"]
-	"Emma Black (1057)" -> "Sue Bolton (1059)" [label=1705]
-	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
-	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
-	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
-	"Jill Tindal (1056)" -> "Sue Bolton (1059)" [label=150]
-	"Leah Horsfall (1062)" -> "Sue Bolton (1059)" [label=165]
-	"Sam Sergi (1058)" -> "Sue Bolton (1059)" [label=72]
+	"Emma Black (1057)" [label="Emma Black (1057)
+Victorian Socialists"]
+	"Jill Tindal (1056)" [label="Jill Tindal (1056)
+Pauline Hanson's One Nation"]
+	"Sue Bolton (1059)" [label="Sue Bolton (1059)
+Socialist Alliance"]
 	"Sam Sergi (1058)" -> "Jill Tindal (1056)" [label=253]
-	"Leah Horsfall (1062)" -> "Emma Black (1057)" [label=151]
+	"Leah Horsfall (1062)" -> "Sue Bolton (1059)" [label=165]
+	"Jill Tindal (1056)" -> "Emma Black (1057)" [label=212]
+	"Sam Sergi (1058)" -> "Sue Bolton (1059)" [label=72]
+	"Leah Horsfall (1062)" -> "Jill Tindal (1056)" [label=108]
+	"Emma Black (1057)" -> "Sue Bolton (1059)" [label=1705]
+	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
 	"Sam Sergi (1058)" -> "Emma Black (1057)" [label=82]
+	"Jill Tindal (1056)" -> "Sue Bolton (1059)" [label=150]
+	"Leah Horsfall (1062)" -> "Emma Black (1057)" [label=151]
 }

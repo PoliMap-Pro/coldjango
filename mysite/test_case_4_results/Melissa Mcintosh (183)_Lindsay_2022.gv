@@ -2,31 +2,31 @@
 digraph "Melissa Mcintosh (183)_Lindsay_2022" {
 	graph [label="Lindsay 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Melissa Mcintosh (183)" [label="Melissa Mcintosh (183)
-Liberal"]
-	"Max Jago (181)" [label="Max Jago (181)
-Pauline Hanson's One Nation"]
 	"Pieter Morssink (180)" [label="Pieter Morssink (180)
 The Greens"]
-	"Joseph O'Connor (182)" [label="Joseph O'Connor (182)
-United Australia Party"]
-	"Rebekah Ray (185)" [label="Rebekah Ray (185)
-Informed Medical Options Party"]
 	"Gareth Mcclure (184)" [label="Gareth Mcclure (184)
 Liberal Democrats"]
-	"Max Jago (181)" -> "Melissa Mcintosh (183)" [label=6731]
-	"Pieter Morssink (180)" -> "Max Jago (181)" [label=1208]
-	"Joseph O'Connor (182)" -> "Pieter Morssink (180)" [label=525]
-	"Rebekah Ray (185)" -> "Joseph O'Connor (182)" [label=660]
+	"Max Jago (181)" [label="Max Jago (181)
+Pauline Hanson's One Nation"]
+	"Rebekah Ray (185)" [label="Rebekah Ray (185)
+Informed Medical Options Party"]
+	"Joseph O'Connor (182)" [label="Joseph O'Connor (182)
+United Australia Party"]
+	"Melissa Mcintosh (183)" [label="Melissa Mcintosh (183)
+Liberal"]
 	"Gareth Mcclure (184)" -> "Rebekah Ray (185)" [label=180]
-	"Pieter Morssink (180)" -> "Melissa Mcintosh (183)" [label=1382]
-	"Joseph O'Connor (182)" -> "Melissa Mcintosh (183)" [label=910]
-	"Rebekah Ray (185)" -> "Melissa Mcintosh (183)" [label=483]
-	"Gareth Mcclure (184)" -> "Melissa Mcintosh (183)" [label=558]
-	"Gareth Mcclure (184)" -> "Joseph O'Connor (182)" [label=431]
-	"Rebekah Ray (185)" -> "Pieter Morssink (180)" [label=287]
-	"Gareth Mcclure (184)" -> "Pieter Morssink (180)" [label=73]
 	"Joseph O'Connor (182)" -> "Max Jago (181)" [label=3277]
-	"Rebekah Ray (185)" -> "Max Jago (181)" [label=549]
+	"Gareth Mcclure (184)" -> "Pieter Morssink (180)" [label=73]
+	"Joseph O'Connor (182)" -> "Melissa Mcintosh (183)" [label=910]
+	"Pieter Morssink (180)" -> "Max Jago (181)" [label=1208]
+	"Gareth Mcclure (184)" -> "Joseph O'Connor (182)" [label=431]
+	"Joseph O'Connor (182)" -> "Pieter Morssink (180)" [label=525]
 	"Gareth Mcclure (184)" -> "Max Jago (181)" [label=219]
+	"Max Jago (181)" -> "Melissa Mcintosh (183)" [label=6731]
+	"Rebekah Ray (185)" -> "Melissa Mcintosh (183)" [label=483]
+	"Pieter Morssink (180)" -> "Melissa Mcintosh (183)" [label=1382]
+	"Rebekah Ray (185)" -> "Max Jago (181)" [label=549]
+	"Rebekah Ray (185)" -> "Joseph O'Connor (182)" [label=660]
+	"Rebekah Ray (185)" -> "Pieter Morssink (180)" [label=287]
+	"Gareth Mcclure (184)" -> "Melissa Mcintosh (183)" [label=558]
 }

@@ -4,37 +4,37 @@ digraph "Fiona Martin (292)_Reid_2022" {
 	node [shape=box]
 	"Fiona Martin (292)" [label="Fiona Martin (292)
 Liberal"]
-	"Charles Jago (294)" [label="Charles Jago (294)
-The Greens"]
 	"Jamal Daoud (293)" [label="Jamal Daoud (293)
 United Australia Party"]
+	"Andrew Cameron (291)" [label="Andrew Cameron (291)
+Liberal Democrats"]
 	"Natalie Baini (290)" [label="Natalie Baini (290)
 Independent"]
 	"Edward Walters (289)" [label="Edward Walters (289)
 Pauline Hanson's One Nation"]
-	"Andrew Cameron (291)" [label="Andrew Cameron (291)
-Liberal Democrats"]
+	"Charles Jago (294)" [label="Charles Jago (294)
+The Greens"]
 	"Sahar Khalili-Naghadeh (288)" [label="Sahar Khalili-Naghadeh (288)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Charles Jago (294)" -> "Fiona Martin (292)" [label=2085]
-	"Jamal Daoud (293)" -> "Charles Jago (294)" [label=1216]
-	"Natalie Baini (290)" -> "Jamal Daoud (293)" [label=980]
-	"Edward Walters (289)" -> "Natalie Baini (290)" [label=458]
-	"Andrew Cameron (291)" -> "Edward Walters (289)" [label=215]
-	"Sahar Khalili-Naghadeh (288)" -> "Andrew Cameron (291)" [label=43]
-	"Jamal Daoud (293)" -> "Fiona Martin (292)" [label=2386]
-	"Natalie Baini (290)" -> "Fiona Martin (292)" [label=1068]
-	"Edward Walters (289)" -> "Fiona Martin (292)" [label=377]
-	"Andrew Cameron (291)" -> "Fiona Martin (292)" [label=779]
-	"Sahar Khalili-Naghadeh (288)" -> "Fiona Martin (292)" [label=79]
-	"Sahar Khalili-Naghadeh (288)" -> "Edward Walters (289)" [label=73]
 	"Andrew Cameron (291)" -> "Natalie Baini (290)" [label=185]
-	"Sahar Khalili-Naghadeh (288)" -> "Natalie Baini (290)" [label=229]
-	"Edward Walters (289)" -> "Jamal Daoud (293)" [label=1159]
+	"Natalie Baini (290)" -> "Fiona Martin (292)" [label=1068]
+	"Sahar Khalili-Naghadeh (288)" -> "Charles Jago (294)" [label=718]
+	"Edward Walters (289)" -> "Natalie Baini (290)" [label=458]
+	"Andrew Cameron (291)" -> "Fiona Martin (292)" [label=779]
 	"Andrew Cameron (291)" -> "Jamal Daoud (293)" [label=371]
+	"Sahar Khalili-Naghadeh (288)" -> "Natalie Baini (290)" [label=229]
+	"Jamal Daoud (293)" -> "Charles Jago (294)" [label=1216]
+	"Andrew Cameron (291)" -> "Charles Jago (294)" [label=81]
+	"Jamal Daoud (293)" -> "Fiona Martin (292)" [label=2386]
+	"Sahar Khalili-Naghadeh (288)" -> "Andrew Cameron (291)" [label=43]
+	"Natalie Baini (290)" -> "Jamal Daoud (293)" [label=980]
+	"Edward Walters (289)" -> "Charles Jago (294)" [label=76]
+	"Sahar Khalili-Naghadeh (288)" -> "Fiona Martin (292)" [label=79]
+	"Edward Walters (289)" -> "Fiona Martin (292)" [label=377]
 	"Sahar Khalili-Naghadeh (288)" -> "Jamal Daoud (293)" [label=49]
 	"Natalie Baini (290)" -> "Charles Jago (294)" [label=763]
-	"Edward Walters (289)" -> "Charles Jago (294)" [label=76]
-	"Andrew Cameron (291)" -> "Charles Jago (294)" [label=81]
-	"Sahar Khalili-Naghadeh (288)" -> "Charles Jago (294)" [label=718]
+	"Edward Walters (289)" -> "Jamal Daoud (293)" [label=1159]
+	"Andrew Cameron (291)" -> "Edward Walters (289)" [label=215]
+	"Sahar Khalili-Naghadeh (288)" -> "Edward Walters (289)" [label=73]
 }

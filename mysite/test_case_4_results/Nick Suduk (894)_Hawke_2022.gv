@@ -2,31 +2,31 @@
 digraph "Nick Suduk (894)_Hawke_2022" {
 	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jack Hynes (896)" [label="Jack Hynes (896)
+Victorian Socialists"]
+	"Max Martucci (891)" [label="Max Martucci (891)
+TNL"]
+	"Glenn Vessey (895)" [label="Glenn Vessey (895)
+Citizens Party"]
+	"Michael Edward Lacey (888)" [label="Michael Edward Lacey (888)
+The Great Australian Party"]
 	"Nick Suduk (894)" [label="Nick Suduk (894)
 Pauline Hanson's One Nation"]
 	"Michael Williams (887)" [label="Michael Williams (887)
 Australian Federation Party"]
-	"Michael Edward Lacey (888)" [label="Michael Edward Lacey (888)
-The Great Australian Party"]
-	"Max Martucci (891)" [label="Max Martucci (891)
-TNL"]
-	"Jack Hynes (896)" [label="Jack Hynes (896)
-Victorian Socialists"]
-	"Glenn Vessey (895)" [label="Glenn Vessey (895)
-Citizens Party"]
+	"Max Martucci (891)" -> "Nick Suduk (894)" [label=43]
+	"Glenn Vessey (895)" -> "Michael Williams (887)" [label=27]
+	"Max Martucci (891)" -> "Michael Williams (887)" [label=89]
+	"Glenn Vessey (895)" -> "Max Martucci (891)" [label=18]
 	"Michael Williams (887)" -> "Nick Suduk (894)" [label=242]
 	"Michael Edward Lacey (888)" -> "Michael Williams (887)" [label=750]
 	"Max Martucci (891)" -> "Michael Edward Lacey (888)" [label=85]
+	"Jack Hynes (896)" -> "Michael Williams (887)" [label=53]
 	"Jack Hynes (896)" -> "Max Martucci (891)" [label=65]
-	"Glenn Vessey (895)" -> "Jack Hynes (896)" [label=80]
-	"Michael Edward Lacey (888)" -> "Nick Suduk (894)" [label=287]
-	"Max Martucci (891)" -> "Nick Suduk (894)" [label=43]
+	"Glenn Vessey (895)" -> "Michael Edward Lacey (888)" [label=28]
 	"Jack Hynes (896)" -> "Nick Suduk (894)" [label=72]
 	"Glenn Vessey (895)" -> "Nick Suduk (894)" [label=83]
-	"Glenn Vessey (895)" -> "Max Martucci (891)" [label=18]
 	"Jack Hynes (896)" -> "Michael Edward Lacey (888)" [label=28]
-	"Glenn Vessey (895)" -> "Michael Edward Lacey (888)" [label=28]
-	"Max Martucci (891)" -> "Michael Williams (887)" [label=89]
-	"Jack Hynes (896)" -> "Michael Williams (887)" [label=53]
-	"Glenn Vessey (895)" -> "Michael Williams (887)" [label=27]
+	"Michael Edward Lacey (888)" -> "Nick Suduk (894)" [label=287]
+	"Glenn Vessey (895)" -> "Jack Hynes (896)" [label=80]
 }

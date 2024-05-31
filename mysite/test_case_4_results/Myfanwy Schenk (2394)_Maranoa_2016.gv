@@ -2,18 +2,18 @@
 digraph "Myfanwy Schenk (2394)_Maranoa_2016" {
 	graph [label="Maranoa 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
-Family First"]
+	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
+Rise Up Australia Party"]
 	"Luke Arbuckle (2397)" [label="Luke Arbuckle (2397)
 CountryMinded"]
 	"Katherine Hompes (2395)" [label="Katherine Hompes (2395)
 The Greens"]
-	"Sherrilyn Church (2396)" [label="Sherrilyn Church (2396)
-Rise Up Australia Party"]
-	"Luke Arbuckle (2397)" -> "Myfanwy Schenk (2394)" [label=330]
+	"Myfanwy Schenk (2394)" [label="Myfanwy Schenk (2394)
+Family First"]
 	"Luke Arbuckle (2397)" -> "Katherine Hompes (2395)" [label=217]
 	"Sherrilyn Church (2396)" -> "Myfanwy Schenk (2394)" [label=203]
-	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 	"Katherine Hompes (2395)" -> "Myfanwy Schenk (2394)" [label=647]
+	"Sherrilyn Church (2396)" -> "Luke Arbuckle (2397)" [label=147]
 	"Sherrilyn Church (2396)" -> "Katherine Hompes (2395)" [label=96]
+	"Luke Arbuckle (2397)" -> "Myfanwy Schenk (2394)" [label=330]
 }

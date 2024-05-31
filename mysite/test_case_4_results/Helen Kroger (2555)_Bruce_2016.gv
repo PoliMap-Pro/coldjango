@@ -2,31 +2,31 @@
 digraph "Helen Kroger (2555)_Bruce_2016" {
 	graph [label="Bruce 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Alan Roncan (2558)" [label="Alan Roncan (2558)
+Drug Law Reform"]
 	"Helen Kroger (2555)" [label="Helen Kroger (2555)
 Liberal"]
-	"Stefanie Bauer (2554)" [label="Stefanie Bauer (2554)
-The Greens"]
 	"Nathan Foggie (2556)" [label="Nathan Foggie (2556)
 Family First Party"]
 	"Douglas Ronald Leith (2553)" [label="Douglas Ronald Leith (2553)
 Animal Justice Party"]
-	"Alan Roncan (2558)" [label="Alan Roncan (2558)
-Drug Law Reform"]
+	"Stefanie Bauer (2554)" [label="Stefanie Bauer (2554)
+The Greens"]
 	"Jill Jarvis-Wills (2557)" [label="Jill Jarvis-Wills (2557)
 Renewable Energy Party"]
-	"Stefanie Bauer (2554)" -> "Helen Kroger (2555)" [label=2476]
-	"Nathan Foggie (2556)" -> "Stefanie Bauer (2554)" [label=1093]
 	"Douglas Ronald Leith (2553)" -> "Nathan Foggie (2556)" [label=633]
-	"Alan Roncan (2558)" -> "Douglas Ronald Leith (2553)" [label=439]
-	"Jill Jarvis-Wills (2557)" -> "Alan Roncan (2558)" [label=152]
-	"Nathan Foggie (2556)" -> "Helen Kroger (2555)" [label=1801]
-	"Douglas Ronald Leith (2553)" -> "Helen Kroger (2555)" [label=327]
+	"Stefanie Bauer (2554)" -> "Helen Kroger (2555)" [label=2476]
 	"Alan Roncan (2558)" -> "Helen Kroger (2555)" [label=181]
-	"Jill Jarvis-Wills (2557)" -> "Helen Kroger (2555)" [label=85]
+	"Alan Roncan (2558)" -> "Douglas Ronald Leith (2553)" [label=439]
 	"Jill Jarvis-Wills (2557)" -> "Douglas Ronald Leith (2553)" [label=139]
-	"Alan Roncan (2558)" -> "Nathan Foggie (2556)" [label=249]
-	"Jill Jarvis-Wills (2557)" -> "Nathan Foggie (2556)" [label=135]
-	"Douglas Ronald Leith (2553)" -> "Stefanie Bauer (2554)" [label=1204]
-	"Alan Roncan (2558)" -> "Stefanie Bauer (2554)" [label=276]
 	"Jill Jarvis-Wills (2557)" -> "Stefanie Bauer (2554)" [label=167]
+	"Nathan Foggie (2556)" -> "Helen Kroger (2555)" [label=1801]
+	"Nathan Foggie (2556)" -> "Stefanie Bauer (2554)" [label=1093]
+	"Alan Roncan (2558)" -> "Nathan Foggie (2556)" [label=249]
+	"Jill Jarvis-Wills (2557)" -> "Alan Roncan (2558)" [label=152]
+	"Douglas Ronald Leith (2553)" -> "Stefanie Bauer (2554)" [label=1204]
+	"Douglas Ronald Leith (2553)" -> "Helen Kroger (2555)" [label=327]
+	"Jill Jarvis-Wills (2557)" -> "Helen Kroger (2555)" [label=85]
+	"Alan Roncan (2558)" -> "Stefanie Bauer (2554)" [label=276]
+	"Jill Jarvis-Wills (2557)" -> "Nathan Foggie (2556)" [label=135]
 }

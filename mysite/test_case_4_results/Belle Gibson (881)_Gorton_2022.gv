@@ -8,7 +8,7 @@ Victorian Socialists"]
 The Great Australian Party"]
 	"Paul Lassig (885)" [label="Paul Lassig (885)
 Australian Federation Party"]
+	"Paul Lassig (885)" -> "Belle Gibson (881)" [label=54]
 	"Tony Dobran (884)" -> "Belle Gibson (881)" [label=66]
 	"Paul Lassig (885)" -> "Tony Dobran (884)" [label=194]
-	"Paul Lassig (885)" -> "Belle Gibson (881)" [label=54]
 }

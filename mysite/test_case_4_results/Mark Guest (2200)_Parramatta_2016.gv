@@ -8,7 +8,7 @@ Liberal Democrats"]
 Family First"]
 	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
 Online Direct Democracy - (Empowering the People!)"]
+	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
 	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
 	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
-	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
 }

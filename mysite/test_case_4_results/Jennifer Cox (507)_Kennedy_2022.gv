@@ -2,13 +2,13 @@
 digraph "Jennifer Cox (507)_Kennedy_2022" {
 	graph [label="Kennedy 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Campion (509)" [label="Peter Campion (509)
-United Australia Party"]
-	"Jen Sackley (506)" [label="Jen Sackley (506)
-Independent"]
 	"Jennifer Cox (507)" [label="Jennifer Cox (507)
 Queensland Greens"]
-	"Jen Sackley (506)" -> "Peter Campion (509)" [label=633]
+	"Jen Sackley (506)" [label="Jen Sackley (506)
+Independent"]
+	"Peter Campion (509)" [label="Peter Campion (509)
+United Australia Party"]
 	"Peter Campion (509)" -> "Jennifer Cox (507)" [label=457]
+	"Jen Sackley (506)" -> "Peter Campion (509)" [label=633]
 	"Jen Sackley (506)" -> "Jennifer Cox (507)" [label=666]
 }

@@ -2,9 +2,9 @@
 digraph "Richard Carmody (642)_Grey_2022" {
 	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Richard Carmody (642)" [label="Richard Carmody (642)
-Independent"]
 	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
 Australian Federation Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
 	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
 }

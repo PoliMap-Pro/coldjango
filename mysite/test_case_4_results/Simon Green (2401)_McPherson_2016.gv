@@ -2,9 +2,9 @@
 digraph "Simon Green (2401)_McPherson_2016" {
 	graph [label="McPherson 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rob Jones (2403)" [label="Rob Jones (2403)
-Independent"]
 	"Simon Green (2401)" [label="Simon Green (2401)
 Family First"]
+	"Rob Jones (2403)" [label="Rob Jones (2403)
+Independent"]
 	"Rob Jones (2403)" -> "Simon Green (2401)" [label=1388]
 }

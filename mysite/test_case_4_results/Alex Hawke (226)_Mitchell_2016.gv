@@ -2,13 +2,13 @@
 digraph "Alex Hawke (226)_Mitchell_2016" {
 	graph [label="Mitchell 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Darryl Allen (2170)" [label="Darryl Allen (2170)
+Christian Democratic Party (Fred Nile Group)"]
 	"Alex Hawke (226)" [label="Alex Hawke (226)
 Liberal"]
 	"Michael Bellstedt (2171)" [label="Michael Bellstedt (2171)
 The Greens"]
-	"Darryl Allen (2170)" [label="Darryl Allen (2170)
-Christian Democratic Party (Fred Nile Group)"]
+	"Darryl Allen (2170)" -> "Alex Hawke (226)" [label=4667]
 	"Michael Bellstedt (2171)" -> "Alex Hawke (226)" [label=2012]
 	"Darryl Allen (2170)" -> "Michael Bellstedt (2171)" [label=535]
-	"Darryl Allen (2170)" -> "Alex Hawke (226)" [label=4667]
 }

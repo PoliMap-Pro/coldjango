@@ -2,9 +2,9 @@
 digraph "Steve Murphy (415)_Capricornia_2022" {
 	graph [label="Capricornia 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Steve Murphy (415)" [label="Steve Murphy (415)
-Liberal Democrats"]
 	"Paula Ganfield (412)" [label="Paula Ganfield (412)
 Informed Medical Options Party"]
+	"Steve Murphy (415)" [label="Steve Murphy (415)
+Liberal Democrats"]
 	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
 }

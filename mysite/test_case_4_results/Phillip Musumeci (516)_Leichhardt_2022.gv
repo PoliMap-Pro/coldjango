@@ -2,48 +2,48 @@
 digraph "Phillip Musumeci (516)_Leichhardt_2022" {
 	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Pat O'Shane (510)" [label="Pat O'Shane (510)
-Socialist Alliance"]
-	"Phillip Musumeci (516)" [label="Phillip Musumeci (516)
-Queensland Greens"]
-	"Susanne Bayly (515)" [label="Susanne Bayly (515)
-Animal Justice Party"]
-	"Paul Roe (519)" [label="Paul Roe (519)
-Australian Federation Party"]
-	"Adam Cropp (514)" [label="Adam Cropp (514)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Rod Jensen (513)" [label="Rod Jensen (513)
 Katter's Australian Party (KAP)"]
+	"Phillip Musumeci (516)" [label="Phillip Musumeci (516)
+Queensland Greens"]
+	"Pat O'Shane (510)" [label="Pat O'Shane (510)
+Socialist Alliance"]
+	"Susanne Bayly (515)" [label="Susanne Bayly (515)
+Animal Justice Party"]
 	"Silvia Mogorovich (511)" [label="Silvia Mogorovich (511)
 Informed Medical Options Party"]
 	"Daniel Lucas Hannagan (517)" [label="Daniel Lucas Hannagan (517)
 United Australia Party"]
-	"Paul Roe (519)" -> "Phillip Musumeci (516)" [label=24]
-	"Susanne Bayly (515)" -> "Phillip Musumeci (516)" [label=493]
-	"Susanne Bayly (515)" -> "Pat O'Shane (510)" [label=122]
-	"Daniel Lucas Hannagan (517)" -> "Rod Jensen (513)" [label=695]
-	"Daniel Lucas Hannagan (517)" -> "Phillip Musumeci (516)" [label=277]
+	"Adam Cropp (514)" [label="Adam Cropp (514)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"Paul Roe (519)" [label="Paul Roe (519)
+Australian Federation Party"]
+	"Rod Jensen (513)" -> "Phillip Musumeci (516)" [label=1011]
 	"Adam Cropp (514)" -> "Silvia Mogorovich (511)" [label=120]
+	"Pat O'Shane (510)" -> "Phillip Musumeci (516)" [label=1456]
 	"Pat O'Shane (510)" -> "Rod Jensen (513)" [label=761]
-	"Susanne Bayly (515)" -> "Rod Jensen (513)" [label=137]
-	"Silvia Mogorovich (511)" -> "Daniel Lucas Hannagan (517)" [label=238]
+	"Paul Roe (519)" -> "Phillip Musumeci (516)" [label=24]
 	"Adam Cropp (514)" -> "Susanne Bayly (515)" [label=212]
+	"Adam Cropp (514)" -> "Rod Jensen (513)" [label=76]
+	"Paul Roe (519)" -> "Silvia Mogorovich (511)" [label=67]
+	"Susanne Bayly (515)" -> "Pat O'Shane (510)" [label=122]
+	"Silvia Mogorovich (511)" -> "Phillip Musumeci (516)" [label=222]
+	"Adam Cropp (514)" -> "Phillip Musumeci (516)" [label=211]
+	"Adam Cropp (514)" -> "Daniel Lucas Hannagan (517)" [label=29]
+	"Paul Roe (519)" -> "Susanne Bayly (515)" [label=20]
+	"Daniel Lucas Hannagan (517)" -> "Rod Jensen (513)" [label=695]
+	"Susanne Bayly (515)" -> "Phillip Musumeci (516)" [label=493]
+	"Paul Roe (519)" -> "Daniel Lucas Hannagan (517)" [label=57]
+	"Silvia Mogorovich (511)" -> "Rod Jensen (513)" [label=355]
+	"Daniel Lucas Hannagan (517)" -> "Pat O'Shane (510)" [label=213]
+	"Susanne Bayly (515)" -> "Silvia Mogorovich (511)" [label=283]
+	"Silvia Mogorovich (511)" -> "Daniel Lucas Hannagan (517)" [label=238]
+	"Susanne Bayly (515)" -> "Rod Jensen (513)" [label=137]
+	"Susanne Bayly (515)" -> "Daniel Lucas Hannagan (517)" [label=72]
 	"Paul Roe (519)" -> "Pat O'Shane (510)" [label=23]
 	"Adam Cropp (514)" -> "Pat O'Shane (510)" [label=117]
-	"Silvia Mogorovich (511)" -> "Rod Jensen (513)" [label=355]
-	"Rod Jensen (513)" -> "Phillip Musumeci (516)" [label=1011]
-	"Daniel Lucas Hannagan (517)" -> "Pat O'Shane (510)" [label=213]
 	"Paul Roe (519)" -> "Adam Cropp (514)" [label=18]
-	"Paul Roe (519)" -> "Daniel Lucas Hannagan (517)" [label=57]
-	"Paul Roe (519)" -> "Silvia Mogorovich (511)" [label=67]
-	"Adam Cropp (514)" -> "Daniel Lucas Hannagan (517)" [label=29]
-	"Adam Cropp (514)" -> "Rod Jensen (513)" [label=76]
-	"Paul Roe (519)" -> "Susanne Bayly (515)" [label=20]
 	"Silvia Mogorovich (511)" -> "Pat O'Shane (510)" [label=398]
-	"Susanne Bayly (515)" -> "Silvia Mogorovich (511)" [label=283]
-	"Silvia Mogorovich (511)" -> "Phillip Musumeci (516)" [label=222]
-	"Pat O'Shane (510)" -> "Phillip Musumeci (516)" [label=1456]
-	"Adam Cropp (514)" -> "Phillip Musumeci (516)" [label=211]
-	"Susanne Bayly (515)" -> "Daniel Lucas Hannagan (517)" [label=72]
 	"Paul Roe (519)" -> "Rod Jensen (513)" [label=42]
+	"Daniel Lucas Hannagan (517)" -> "Phillip Musumeci (516)" [label=277]
 }

@@ -2,18 +2,18 @@
 digraph "Scott Morrison (77)_Cook_2022" {
 	graph [label="Cook 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Catherine Dyson (76)" [label="Catherine Dyson (76)
-The Greens"]
-	"Gaye Cameron (75)" [label="Gaye Cameron (75)
-Pauline Hanson's One Nation"]
 	"Jacqueline Guinane (78)" [label="Jacqueline Guinane (78)
 United Australia Party"]
+	"Gaye Cameron (75)" [label="Gaye Cameron (75)
+Pauline Hanson's One Nation"]
 	"Scott Morrison (77)" [label="Scott Morrison (77)
 Liberal"]
-	"Catherine Dyson (76)" -> "Scott Morrison (77)" [label=2923]
+	"Catherine Dyson (76)" [label="Catherine Dyson (76)
+The Greens"]
+	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
 	"Gaye Cameron (75)" -> "Catherine Dyson (76)" [label=2217]
 	"Gaye Cameron (75)" -> "Scott Morrison (77)" [label=3136]
+	"Catherine Dyson (76)" -> "Scott Morrison (77)" [label=2923]
 	"Jacqueline Guinane (78)" -> "Catherine Dyson (76)" [label=478]
-	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
 	"Jacqueline Guinane (78)" -> "Scott Morrison (77)" [label=699]
 }

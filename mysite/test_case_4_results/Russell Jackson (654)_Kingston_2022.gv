@@ -8,7 +8,7 @@ United Australia Party"]
 Independent"]
 	"Sam Enright (657)" [label="Sam Enright (657)
 Australian Federation Party"]
-	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
-	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
 	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
+	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
+	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
 }

@@ -8,18 +8,18 @@ Liberal"]
 The Greens"]
 	"Tatiana Rathbone (2631)" [label="Tatiana Rathbone (2631)
 Family First Party"]
-	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
-Animal Justice Party"]
 	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
 Rise Up Australia Party"]
+	"Helen Ann Jeges (2629)" [label="Helen Ann Jeges (2629)
+Animal Justice Party"]
 	"James Bennett (2630)" -> "George Hua (1830)" [label=2132]
-	"Tatiana Rathbone (2631)" -> "James Bennett (2630)" [label=1193]
-	"Helen Ann Jeges (2629)" -> "Tatiana Rathbone (2631)" [label=550]
-	"Peter Vassiliou (2632)" -> "Helen Ann Jeges (2629)" [label=220]
-	"Tatiana Rathbone (2631)" -> "George Hua (1830)" [label=1475]
 	"Helen Ann Jeges (2629)" -> "George Hua (1830)" [label=608]
-	"Peter Vassiliou (2632)" -> "George Hua (1830)" [label=333]
 	"Peter Vassiliou (2632)" -> "Tatiana Rathbone (2631)" [label=959]
-	"Helen Ann Jeges (2629)" -> "James Bennett (2630)" [label=1034]
+	"Peter Vassiliou (2632)" -> "Helen Ann Jeges (2629)" [label=220]
+	"Peter Vassiliou (2632)" -> "George Hua (1830)" [label=333]
+	"Tatiana Rathbone (2631)" -> "James Bennett (2630)" [label=1193]
 	"Peter Vassiliou (2632)" -> "James Bennett (2630)" [label=245]
+	"Helen Ann Jeges (2629)" -> "Tatiana Rathbone (2631)" [label=550]
+	"Helen Ann Jeges (2629)" -> "James Bennett (2630)" [label=1034]
+	"Tatiana Rathbone (2631)" -> "George Hua (1830)" [label=1475]
 }

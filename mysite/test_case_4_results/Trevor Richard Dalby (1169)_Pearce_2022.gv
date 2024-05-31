@@ -2,31 +2,31 @@
 digraph "Trevor Richard Dalby (1169)_Pearce_2022" {
 	graph [label="Pearce 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Trevor Richard Dalby (1169)" [label="Trevor Richard Dalby (1169)
-United Australia Party"]
-	"Jim Paice (1170)" [label="Jim Paice (1170)
-WESTERN AUSTRALIA PARTY"]
 	"Roslyn Stewart (1165)" [label="Roslyn Stewart (1165)
 The Great Australian Party"]
-	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
-Australian Christians"]
+	"Jim Paice (1170)" [label="Jim Paice (1170)
+WESTERN AUSTRALIA PARTY"]
+	"Trevor Richard Dalby (1169)" [label="Trevor Richard Dalby (1169)
+United Australia Party"]
 	"David Marshall (1167)" [label="David Marshall (1167)
 Liberal Democrats"]
 	"Nigel March (1174)" [label="Nigel March (1174)
 Australian Federation Party"]
-	"Jim Paice (1170)" -> "Trevor Richard Dalby (1169)" [label=440]
+	"Vanessa Montgomery (1173)" [label="Vanessa Montgomery (1173)
+Australian Christians"]
 	"Roslyn Stewart (1165)" -> "Jim Paice (1170)" [label=368]
-	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
-	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
 	"Nigel March (1174)" -> "David Marshall (1167)" [label=37]
-	"Roslyn Stewart (1165)" -> "Trevor Richard Dalby (1169)" [label=552]
-	"Vanessa Montgomery (1173)" -> "Trevor Richard Dalby (1169)" [label=158]
-	"David Marshall (1167)" -> "Trevor Richard Dalby (1169)" [label=146]
-	"Nigel March (1174)" -> "Trevor Richard Dalby (1169)" [label=36]
-	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
-	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
-	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
-	"Vanessa Montgomery (1173)" -> "Jim Paice (1170)" [label=172]
 	"David Marshall (1167)" -> "Jim Paice (1170)" [label=151]
+	"Nigel March (1174)" -> "Trevor Richard Dalby (1169)" [label=36]
+	"David Marshall (1167)" -> "Vanessa Montgomery (1173)" [label=50]
+	"Vanessa Montgomery (1173)" -> "Jim Paice (1170)" [label=172]
+	"Jim Paice (1170)" -> "Trevor Richard Dalby (1169)" [label=440]
+	"Nigel March (1174)" -> "Vanessa Montgomery (1173)" [label=116]
+	"Roslyn Stewart (1165)" -> "Trevor Richard Dalby (1169)" [label=552]
+	"Vanessa Montgomery (1173)" -> "Roslyn Stewart (1165)" [label=105]
+	"David Marshall (1167)" -> "Roslyn Stewart (1165)" [label=134]
+	"David Marshall (1167)" -> "Trevor Richard Dalby (1169)" [label=146]
 	"Nigel March (1174)" -> "Jim Paice (1170)" [label=65]
+	"Vanessa Montgomery (1173)" -> "Trevor Richard Dalby (1169)" [label=158]
+	"Nigel March (1174)" -> "Roslyn Stewart (1165)" [label=188]
 }

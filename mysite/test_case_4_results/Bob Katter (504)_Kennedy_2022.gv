@@ -2,24 +2,24 @@
 digraph "Bob Katter (504)_Kennedy_2022" {
 	graph [label="Kennedy 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bob Katter (504)" [label="Bob Katter (504)
-Katter's Australian Party (KAP)"]
 	"Jason Brandon (508)" [label="Jason Brandon (508)
 Australian Labor Party"]
-	"Jennifer Cox (507)" [label="Jennifer Cox (507)
-Queensland Greens"]
 	"Peter Campion (509)" [label="Peter Campion (509)
 United Australia Party"]
+	"Bob Katter (504)" [label="Bob Katter (504)
+Katter's Australian Party (KAP)"]
 	"Jen Sackley (506)" [label="Jen Sackley (506)
 Independent"]
-	"Jason Brandon (508)" -> "Bob Katter (504)" [label=14069]
+	"Jennifer Cox (507)" [label="Jennifer Cox (507)
+Queensland Greens"]
 	"Jennifer Cox (507)" -> "Jason Brandon (508)" [label=4506]
 	"Peter Campion (509)" -> "Jennifer Cox (507)" [label=457]
-	"Jen Sackley (506)" -> "Peter Campion (509)" [label=633]
-	"Jennifer Cox (507)" -> "Bob Katter (504)" [label=1715]
 	"Peter Campion (509)" -> "Bob Katter (504)" [label=3264]
 	"Jen Sackley (506)" -> "Bob Katter (504)" [label=976]
+	"Jason Brandon (508)" -> "Bob Katter (504)" [label=14069]
 	"Jen Sackley (506)" -> "Jennifer Cox (507)" [label=666]
-	"Peter Campion (509)" -> "Jason Brandon (508)" [label=431]
 	"Jen Sackley (506)" -> "Jason Brandon (508)" [label=332]
+	"Jennifer Cox (507)" -> "Bob Katter (504)" [label=1715]
+	"Peter Campion (509)" -> "Jason Brandon (508)" [label=431]
+	"Jen Sackley (506)" -> "Peter Campion (509)" [label=633]
 }

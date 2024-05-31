@@ -2,13 +2,13 @@
 digraph "Elijah Suares (756)_Bendigo_2022" {
 	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Elijah Suares (756)" [label="Elijah Suares (756)
-United Australia Party"]
 	"James Laurie (750)" [label="James Laurie (750)
 Independent"]
 	"Matt Bansemer (754)" [label="Matt Bansemer (754)
 Liberal Democrats"]
+	"Elijah Suares (756)" [label="Elijah Suares (756)
+United Australia Party"]
+	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
 	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
 	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
-	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
 }

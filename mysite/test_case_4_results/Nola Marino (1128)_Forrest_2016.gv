@@ -2,39 +2,39 @@
 digraph "Nola Marino (1128)_Forrest_2016" {
 	graph [label="Forrest 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nola Marino (1128)" [label="Nola Marino (1128)
-Liberal"]
-	"Jill Reading (2750)" [label="Jill Reading (2750)
-The Greens (WA)"]
-	"Ross Maitland Slater (2744)" [label="Ross Maitland Slater (2744)
-Independent"]
-	"Luke Pilkington (2748)" [label="Luke Pilkington (2748)
-The Nationals"]
 	"David Fishlock (2746)" [label="David Fishlock (2746)
 Outdoor Recreation Party (Stop The Greens)"]
+	"Ross Maitland Slater (2744)" [label="Ross Maitland Slater (2744)
+Independent"]
 	"Edward Dabrowski (2745)" [label="Edward Dabrowski (2745)
 Australian Christians"]
 	"Jennifer Whately (2747)" [label="Jennifer Whately (2747)
 Rise Up Australia Party"]
+	"Luke Pilkington (2748)" [label="Luke Pilkington (2748)
+The Nationals"]
+	"Nola Marino (1128)" [label="Nola Marino (1128)
+Liberal"]
+	"Jill Reading (2750)" [label="Jill Reading (2750)
+The Greens (WA)"]
+	"Jennifer Whately (2747)" -> "Nola Marino (1128)" [label=164]
 	"Jill Reading (2750)" -> "Nola Marino (1128)" [label=3441]
-	"Ross Maitland Slater (2744)" -> "Jill Reading (2750)" [label=1793]
-	"Luke Pilkington (2748)" -> "Ross Maitland Slater (2744)" [label=862]
-	"David Fishlock (2746)" -> "Luke Pilkington (2748)" [label=424]
+	"David Fishlock (2746)" -> "Ross Maitland Slater (2744)" [label=1489]
 	"Edward Dabrowski (2745)" -> "David Fishlock (2746)" [label=274]
-	"Jennifer Whately (2747)" -> "Edward Dabrowski (2745)" [label=259]
-	"Ross Maitland Slater (2744)" -> "Nola Marino (1128)" [label=2772]
+	"Jennifer Whately (2747)" -> "Ross Maitland Slater (2744)" [label=383]
+	"Edward Dabrowski (2745)" -> "Jill Reading (2750)" [label=85]
+	"Jennifer Whately (2747)" -> "Luke Pilkington (2748)" [label=119]
+	"Luke Pilkington (2748)" -> "Ross Maitland Slater (2744)" [label=862]
+	"David Fishlock (2746)" -> "Jill Reading (2750)" [label=211]
 	"Luke Pilkington (2748)" -> "Nola Marino (1128)" [label=3160]
+	"Ross Maitland Slater (2744)" -> "Jill Reading (2750)" [label=1793]
+	"Edward Dabrowski (2745)" -> "Ross Maitland Slater (2744)" [label=487]
+	"Ross Maitland Slater (2744)" -> "Nola Marino (1128)" [label=2772]
+	"Luke Pilkington (2748)" -> "Jill Reading (2750)" [label=541]
+	"Jennifer Whately (2747)" -> "David Fishlock (2746)" [label=489]
+	"Jennifer Whately (2747)" -> "Edward Dabrowski (2745)" [label=259]
 	"David Fishlock (2746)" -> "Nola Marino (1128)" [label=677]
 	"Edward Dabrowski (2745)" -> "Nola Marino (1128)" [label=898]
-	"Jennifer Whately (2747)" -> "Nola Marino (1128)" [label=164]
-	"Jennifer Whately (2747)" -> "David Fishlock (2746)" [label=489]
-	"Edward Dabrowski (2745)" -> "Luke Pilkington (2748)" [label=243]
-	"Jennifer Whately (2747)" -> "Luke Pilkington (2748)" [label=119]
-	"David Fishlock (2746)" -> "Ross Maitland Slater (2744)" [label=1489]
-	"Edward Dabrowski (2745)" -> "Ross Maitland Slater (2744)" [label=487]
-	"Jennifer Whately (2747)" -> "Ross Maitland Slater (2744)" [label=383]
-	"Luke Pilkington (2748)" -> "Jill Reading (2750)" [label=541]
-	"David Fishlock (2746)" -> "Jill Reading (2750)" [label=211]
-	"Edward Dabrowski (2745)" -> "Jill Reading (2750)" [label=85]
+	"David Fishlock (2746)" -> "Luke Pilkington (2748)" [label=424]
 	"Jennifer Whately (2747)" -> "Jill Reading (2750)" [label=111]
+	"Edward Dabrowski (2745)" -> "Luke Pilkington (2748)" [label=243]
 }

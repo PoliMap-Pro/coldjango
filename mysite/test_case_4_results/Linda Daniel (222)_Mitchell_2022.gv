@@ -2,10 +2,10 @@
 digraph "Linda Daniel (222)_Mitchell_2022" {
 	graph [label="Mitchell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Linda Daniel (222)" [label="Linda Daniel (222)
-United Australia Party"]
 	"Clinton Mead (221)" [label="Clinton Mead (221)
 Liberal Democrats"]
+	"Linda Daniel (222)" [label="Linda Daniel (222)
+United Australia Party"]
 	"Donald Mckenzie (225)" [label="Donald Mckenzie (225)
 Pauline Hanson's One Nation"]
 	"Clinton Mead (221)" -> "Linda Daniel (222)" [label=1694]

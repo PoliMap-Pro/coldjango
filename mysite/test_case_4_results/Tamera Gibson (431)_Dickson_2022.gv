@@ -8,18 +8,18 @@ Pauline Hanson's One Nation"]
 Independent"]
 	"Alina Karen Ward (432)" [label="Alina Karen Ward (432)
 United Australia Party"]
-	"Thor Prohaska (430)" [label="Thor Prohaska (430)
-Independent"]
 	"Lloyd Russell (428)" [label="Lloyd Russell (428)
 Liberal Democrats"]
-	"Alan Buchbach (427)" -> "Tamera Gibson (431)" [label=1436]
-	"Alina Karen Ward (432)" -> "Alan Buchbach (427)" [label=540]
-	"Thor Prohaska (430)" -> "Alina Karen Ward (432)" [label=84]
-	"Lloyd Russell (428)" -> "Thor Prohaska (430)" [label=75]
-	"Alina Karen Ward (432)" -> "Tamera Gibson (431)" [label=1449]
-	"Thor Prohaska (430)" -> "Tamera Gibson (431)" [label=155]
+	"Thor Prohaska (430)" [label="Thor Prohaska (430)
+Independent"]
 	"Lloyd Russell (428)" -> "Tamera Gibson (431)" [label=237]
-	"Lloyd Russell (428)" -> "Alina Karen Ward (432)" [label=126]
-	"Thor Prohaska (430)" -> "Alan Buchbach (427)" [label=897]
+	"Lloyd Russell (428)" -> "Thor Prohaska (430)" [label=75]
+	"Thor Prohaska (430)" -> "Tamera Gibson (431)" [label=155]
+	"Thor Prohaska (430)" -> "Alina Karen Ward (432)" [label=84]
 	"Lloyd Russell (428)" -> "Alan Buchbach (427)" [label=198]
+	"Alan Buchbach (427)" -> "Tamera Gibson (431)" [label=1436]
+	"Alina Karen Ward (432)" -> "Tamera Gibson (431)" [label=1449]
+	"Thor Prohaska (430)" -> "Alan Buchbach (427)" [label=897]
+	"Lloyd Russell (428)" -> "Alina Karen Ward (432)" [label=126]
+	"Alina Karen Ward (432)" -> "Alan Buchbach (427)" [label=540]
 }

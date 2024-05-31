@@ -2,12 +2,12 @@
 digraph "David Todd (2428)_Ryan_2016" {
 	graph [label="Ryan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Lawrence Quinn (2427)" [label="John Lawrence Quinn (2427)
-Democratic Labour Party (DLP)"]
-	"S Gryphon (1607)" [label="S Gryphon (1607)
-Liberal Democrats"]
 	"David Todd (2428)" [label="David Todd (2428)
 Family First"]
+	"S Gryphon (1607)" [label="S Gryphon (1607)
+Liberal Democrats"]
+	"John Lawrence Quinn (2427)" [label="John Lawrence Quinn (2427)
+Democratic Labour Party (DLP)"]
 	"S Gryphon (1607)" -> "David Todd (2428)" [label=529]
 	"John Lawrence Quinn (2427)" -> "S Gryphon (1607)" [label=181]
 	"John Lawrence Quinn (2427)" -> "David Todd (2428)" [label=455]

@@ -2,13 +2,13 @@
 digraph "Duncan White (709)_Braddon_2022" {
 	graph [label="Braddon 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Duncan White (709)" [label="Duncan White (709)
-Liberal Democrats"]
-	"Scott Rankin (703)" [label="Scott Rankin (703)
-The Local Party"]
 	"Keone Patrick Martin (707)" [label="Keone Patrick Martin (707)
 Animal Justice Party"]
+	"Scott Rankin (703)" [label="Scott Rankin (703)
+The Local Party"]
+	"Duncan White (709)" [label="Duncan White (709)
+Liberal Democrats"]
 	"Scott Rankin (703)" -> "Duncan White (709)" [label=18]
-	"Keone Patrick Martin (707)" -> "Scott Rankin (703)" [label=39]
 	"Keone Patrick Martin (707)" -> "Duncan White (709)" [label=12]
+	"Keone Patrick Martin (707)" -> "Scott Rankin (703)" [label=39]
 }

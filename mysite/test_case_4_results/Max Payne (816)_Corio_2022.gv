@@ -10,10 +10,10 @@ Socialist Alliance"]
 Animal Justice Party"]
 	"Jessica Taylor (811)" [label="Jessica Taylor (811)
 Australian Federation Party"]
-	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
-	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
 	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
 	"Naomi Adams (815)" -> "Max Payne (816)" [label=123]
 	"Jessica Taylor (811)" -> "Max Payne (816)" [label=201]
+	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
+	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
 	"Jessica Taylor (811)" -> "Sue Bull (810)" [label=206]
 }

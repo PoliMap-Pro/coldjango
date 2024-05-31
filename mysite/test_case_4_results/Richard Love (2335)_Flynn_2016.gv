@@ -2,31 +2,31 @@
 digraph "Richard Love (2335)_Flynn_2016" {
 	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
 	"Richard Love (2335)" [label="Richard Love (2335)
 Katter's Australian Party"]
+	"Heather Barnett (2340)" [label="Heather Barnett (2340)
+Family First"]
 	"Nathan Joel David Fletcher (2337)" [label="Nathan Joel David Fletcher (2337)
 Independent"]
 	"Craig Tomsett (2336)" [label="Craig Tomsett (2336)
 The Greens"]
-	"Heather Barnett (2340)" [label="Heather Barnett (2340)
-Family First"]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
 	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
 Independent"]
 	"Nathan Joel David Fletcher (2337)" -> "Richard Love (2335)" [label=873]
-	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
-	"Heather Barnett (2340)" -> "Craig Tomsett (2336)" [label=152]
-	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
-	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
-	"Craig Tomsett (2336)" -> "Richard Love (2335)" [label=315]
-	"Heather Barnett (2340)" -> "Richard Love (2335)" [label=283]
-	"Duncan Scott (462)" -> "Richard Love (2335)" [label=66]
-	"Jordan Ryan Puku (2339)" -> "Richard Love (2335)" [label=24]
-	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
-	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
 	"Jordan Ryan Puku (2339)" -> "Craig Tomsett (2336)" [label=36]
+	"Jordan Ryan Puku (2339)" -> "Richard Love (2335)" [label=24]
+	"Craig Tomsett (2336)" -> "Richard Love (2335)" [label=315]
 	"Heather Barnett (2340)" -> "Nathan Joel David Fletcher (2337)" [label=293]
-	"Duncan Scott (462)" -> "Nathan Joel David Fletcher (2337)" [label=435]
 	"Jordan Ryan Puku (2339)" -> "Nathan Joel David Fletcher (2337)" [label=61]
+	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
+	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
+	"Duncan Scott (462)" -> "Nathan Joel David Fletcher (2337)" [label=435]
+	"Heather Barnett (2340)" -> "Craig Tomsett (2336)" [label=152]
+	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
+	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
+	"Duncan Scott (462)" -> "Richard Love (2335)" [label=66]
+	"Heather Barnett (2340)" -> "Richard Love (2335)" [label=283]
+	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
 }

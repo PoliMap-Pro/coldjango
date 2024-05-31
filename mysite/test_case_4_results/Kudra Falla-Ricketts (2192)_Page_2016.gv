@@ -2,18 +2,18 @@
 digraph "Kudra Falla-Ricketts (2192)_Page_2016" {
 	graph [label="Page 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Ellis (1288)" [label="Mark Ellis (1288)
-Liberal Democrats"]
-	"Bethany Rachael Mcalpine (2193)" [label="Bethany Rachael Mcalpine (2193)
-Christian Democratic Party (Fred Nile Group)"]
 	"Anna Clare Ludvik (2191)" [label="Anna Clare Ludvik (2191)
 Animal Justice Party"]
 	"Kudra Falla-Ricketts (2192)" [label="Kudra Falla-Ricketts (2192)
 The Greens"]
-	"Mark Ellis (1288)" -> "Kudra Falla-Ricketts (2192)" [label=903]
-	"Anna Clare Ludvik (2191)" -> "Mark Ellis (1288)" [label=581]
-	"Anna Clare Ludvik (2191)" -> "Kudra Falla-Ricketts (2192)" [label=1440]
-	"Bethany Rachael Mcalpine (2193)" -> "Anna Clare Ludvik (2191)" [label=358]
-	"Bethany Rachael Mcalpine (2193)" -> "Mark Ellis (1288)" [label=351]
+	"Mark Ellis (1288)" [label="Mark Ellis (1288)
+Liberal Democrats"]
+	"Bethany Rachael Mcalpine (2193)" [label="Bethany Rachael Mcalpine (2193)
+Christian Democratic Party (Fred Nile Group)"]
 	"Bethany Rachael Mcalpine (2193)" -> "Kudra Falla-Ricketts (2192)" [label=158]
+	"Mark Ellis (1288)" -> "Kudra Falla-Ricketts (2192)" [label=903]
+	"Anna Clare Ludvik (2191)" -> "Kudra Falla-Ricketts (2192)" [label=1440]
+	"Bethany Rachael Mcalpine (2193)" -> "Mark Ellis (1288)" [label=351]
+	"Bethany Rachael Mcalpine (2193)" -> "Anna Clare Ludvik (2191)" [label=358]
+	"Anna Clare Ludvik (2191)" -> "Mark Ellis (1288)" [label=581]
 }

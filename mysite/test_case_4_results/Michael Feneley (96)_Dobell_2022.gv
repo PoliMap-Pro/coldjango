@@ -2,31 +2,31 @@
 digraph "Michael Feneley (96)_Dobell_2022" {
 	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Feneley (96)" [label="Michael Feneley (96)
-Liberal"]
-	"Martin Stevenson (98)" [label="Martin Stevenson (98)
-Pauline Hanson's One Nation"]
+	"Eliot Metherell (99)" [label="Eliot Metherell (99)
+Liberal Democrats"]
 	"Cath Connor (97)" [label="Cath Connor (97)
 The Greens"]
 	"Dean James Mackin (95)" [label="Dean James Mackin (95)
 United Australia Party"]
 	"Geoff Barnes (94)" [label="Geoff Barnes (94)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Eliot Metherell (99)" [label="Eliot Metherell (99)
-Liberal Democrats"]
-	"Martin Stevenson (98)" -> "Michael Feneley (96)" [label=6699]
-	"Cath Connor (97)" -> "Martin Stevenson (98)" [label=1256]
-	"Dean James Mackin (95)" -> "Cath Connor (97)" [label=594]
-	"Geoff Barnes (94)" -> "Dean James Mackin (95)" [label=667]
-	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
-	"Cath Connor (97)" -> "Michael Feneley (96)" [label=1293]
-	"Dean James Mackin (95)" -> "Michael Feneley (96)" [label=1185]
-	"Geoff Barnes (94)" -> "Michael Feneley (96)" [label=253]
-	"Eliot Metherell (99)" -> "Michael Feneley (96)" [label=520]
-	"Eliot Metherell (99)" -> "Dean James Mackin (95)" [label=189]
-	"Geoff Barnes (94)" -> "Cath Connor (97)" [label=773]
-	"Eliot Metherell (99)" -> "Cath Connor (97)" [label=87]
+	"Michael Feneley (96)" [label="Michael Feneley (96)
+Liberal"]
+	"Martin Stevenson (98)" [label="Martin Stevenson (98)
+Pauline Hanson's One Nation"]
 	"Dean James Mackin (95)" -> "Martin Stevenson (98)" [label=2351]
+	"Geoff Barnes (94)" -> "Dean James Mackin (95)" [label=667]
+	"Eliot Metherell (99)" -> "Dean James Mackin (95)" [label=189]
+	"Martin Stevenson (98)" -> "Michael Feneley (96)" [label=6699]
+	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
+	"Dean James Mackin (95)" -> "Cath Connor (97)" [label=594]
 	"Geoff Barnes (94)" -> "Martin Stevenson (98)" [label=211]
+	"Cath Connor (97)" -> "Martin Stevenson (98)" [label=1256]
+	"Geoff Barnes (94)" -> "Cath Connor (97)" [label=773]
+	"Cath Connor (97)" -> "Michael Feneley (96)" [label=1293]
+	"Eliot Metherell (99)" -> "Michael Feneley (96)" [label=520]
+	"Geoff Barnes (94)" -> "Michael Feneley (96)" [label=253]
+	"Dean James Mackin (95)" -> "Michael Feneley (96)" [label=1185]
 	"Eliot Metherell (99)" -> "Martin Stevenson (98)" [label=387]
+	"Eliot Metherell (99)" -> "Cath Connor (97)" [label=87]
 }

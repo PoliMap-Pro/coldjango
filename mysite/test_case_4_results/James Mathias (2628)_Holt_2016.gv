@@ -4,16 +4,16 @@ digraph "James Mathias (2628)_Holt_2016" {
 	node [shape=box]
 	"James Mathias (2628)" [label="James Mathias (2628)
 Liberal"]
+	"Colin Robertson (2625)" [label="Colin Robertson (2625)
+Rise Up Australia Party"]
 	"Neil Bull (2626)" [label="Neil Bull (2626)
 Family First Party"]
 	"Jake Tilton (2627)" [label="Jake Tilton (2627)
 The Greens"]
-	"Colin Robertson (2625)" [label="Colin Robertson (2625)
-Rise Up Australia Party"]
 	"Neil Bull (2626)" -> "James Mathias (2628)" [label=4364]
-	"Jake Tilton (2627)" -> "Neil Bull (2626)" [label=1711]
+	"Colin Robertson (2625)" -> "James Mathias (2628)" [label=630]
 	"Colin Robertson (2625)" -> "Jake Tilton (2627)" [label=322]
 	"Jake Tilton (2627)" -> "James Mathias (2628)" [label=930]
-	"Colin Robertson (2625)" -> "James Mathias (2628)" [label=630]
+	"Jake Tilton (2627)" -> "Neil Bull (2626)" [label=1711]
 	"Colin Robertson (2625)" -> "Neil Bull (2626)" [label=2141]
 }

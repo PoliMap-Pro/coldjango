@@ -6,13 +6,13 @@ digraph "Emma Jane Goyne (733)_Lyons_2022" {
 Pauline Hanson's One Nation"]
 	"Jason Evans (731)" [label="Jason Evans (731)
 United Australia Party"]
-	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
-Animal Justice Party"]
 	"Rhys Griffiths (728)" [label="Rhys Griffiths (728)
 Liberal Democrats"]
+	"Anna Megan Gralton (730)" [label="Anna Megan Gralton (730)
+Animal Justice Party"]
 	"Jason Evans (731)" -> "Emma Jane Goyne (733)" [label=963]
-	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
 	"Rhys Griffiths (728)" -> "Anna Megan Gralton (730)" [label=69]
+	"Anna Megan Gralton (730)" -> "Jason Evans (731)" [label=192]
 	"Anna Megan Gralton (730)" -> "Emma Jane Goyne (733)" [label=133]
 	"Rhys Griffiths (728)" -> "Emma Jane Goyne (733)" [label=195]
 	"Rhys Griffiths (728)" -> "Jason Evans (731)" [label=173]

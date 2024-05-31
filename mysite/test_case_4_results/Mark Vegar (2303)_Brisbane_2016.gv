@@ -2,9 +2,9 @@
 digraph "Mark Vegar (2303)_Brisbane_2016" {
 	graph [label="Brisbane 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Vegar (2303)" [label="Mark Vegar (2303)
-Family First"]
 	"Bridget Clinch (2301)" [label="Bridget Clinch (2301)
 Veterans Party"]
+	"Mark Vegar (2303)" [label="Mark Vegar (2303)
+Family First"]
 	"Bridget Clinch (2301)" -> "Mark Vegar (2303)" [label=265]
 }

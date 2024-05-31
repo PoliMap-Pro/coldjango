@@ -2,13 +2,13 @@
 digraph "Sandy Caddy (2549)_Bendigo_2016" {
 	graph [label="Bendigo 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sandy Caddy (2549)" [label="Sandy Caddy (2549)
-Rise Up Australia Party"]
 	"Ruth Parramore (1885)" [label="Ruth Parramore (1885)
 Animal Justice Party"]
 	"Anita Erika Donlon (2551)" [label="Anita Erika Donlon (2551)
 Independent"]
-	"Ruth Parramore (1885)" -> "Sandy Caddy (2549)" [label=298]
+	"Sandy Caddy (2549)" [label="Sandy Caddy (2549)
+Rise Up Australia Party"]
 	"Anita Erika Donlon (2551)" -> "Ruth Parramore (1885)" [label=230]
 	"Anita Erika Donlon (2551)" -> "Sandy Caddy (2549)" [label=391]
+	"Ruth Parramore (1885)" -> "Sandy Caddy (2549)" [label=298]
 }

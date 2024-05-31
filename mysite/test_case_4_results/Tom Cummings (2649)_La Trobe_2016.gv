@@ -2,48 +2,48 @@
 digraph "Tom Cummings (2649)_La Trobe_2016" {
 	graph [label="La Trobe 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Martin Leahy (2655)" [label="Martin Leahy (2655)
-Australian Sex Party"]
 	"Jeffrey Bartram (2656)" [label="Jeffrey Bartram (2656)
 Family First Party"]
-	"Leah Folloni (2650)" [label="Leah Folloni (2650)
-Animal Justice Party"]
-	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
-Rise Up Australia Party"]
-	"Julieanne Lynette Doidge (2651)" [label="Julieanne Lynette Doidge (2651)
-Derryn Hinch's Justice Party"]
 	"Tom Cummings (2649)" [label="Tom Cummings (2649)
 The Greens"]
-	"David Fent (2654)" [label="David Fent (2654)
-Shooters, Fishers and Farmers"]
+	"Margaret Quinn (2653)" [label="Margaret Quinn (2653)
+Rise Up Australia Party"]
 	"Leslie Hughes (2652)" [label="Leslie Hughes (2652)
 Liberal Democrats"]
-	"Leslie Hughes (2652)" -> "Jeffrey Bartram (2656)" [label=103]
-	"Margaret Quinn (2653)" -> "Leah Folloni (2650)" [label=74]
+	"David Fent (2654)" [label="David Fent (2654)
+Shooters, Fishers and Farmers"]
+	"Leah Folloni (2650)" [label="Leah Folloni (2650)
+Animal Justice Party"]
+	"Julieanne Lynette Doidge (2651)" [label="Julieanne Lynette Doidge (2651)
+Derryn Hinch's Justice Party"]
+	"Martin Leahy (2655)" [label="Martin Leahy (2655)
+Australian Sex Party"]
+	"David Fent (2654)" -> "Martin Leahy (2655)" [label=347]
+	"Leslie Hughes (2652)" -> "Martin Leahy (2655)" [label=117]
+	"Leah Folloni (2650)" -> "Jeffrey Bartram (2656)" [label=440]
 	"Margaret Quinn (2653)" -> "Julieanne Lynette Doidge (2651)" [label=212]
+	"Leslie Hughes (2652)" -> "David Fent (2654)" [label=87]
+	"Margaret Quinn (2653)" -> "Leslie Hughes (2652)" [label=58]
+	"Margaret Quinn (2653)" -> "Tom Cummings (2649)" [label=27]
+	"Jeffrey Bartram (2656)" -> "Tom Cummings (2649)" [label=657]
 	"Margaret Quinn (2653)" -> "David Fent (2654)" [label=138]
-	"Leah Folloni (2650)" -> "Julieanne Lynette Doidge (2651)" [label=687]
+	"David Fent (2654)" -> "Jeffrey Bartram (2656)" [label=354]
+	"David Fent (2654)" -> "Julieanne Lynette Doidge (2651)" [label=257]
 	"Martin Leahy (2655)" -> "Jeffrey Bartram (2656)" [label=567]
 	"Leslie Hughes (2652)" -> "Tom Cummings (2649)" [label=92]
-	"David Fent (2654)" -> "Martin Leahy (2655)" [label=347]
-	"Leslie Hughes (2652)" -> "Leah Folloni (2650)" [label=65]
-	"David Fent (2654)" -> "Julieanne Lynette Doidge (2651)" [label=257]
-	"Leah Folloni (2650)" -> "Jeffrey Bartram (2656)" [label=440]
-	"Margaret Quinn (2653)" -> "Leslie Hughes (2652)" [label=58]
-	"Leah Folloni (2650)" -> "Tom Cummings (2649)" [label=1067]
-	"Leslie Hughes (2652)" -> "Julieanne Lynette Doidge (2651)" [label=118]
-	"David Fent (2654)" -> "Tom Cummings (2649)" [label=54]
-	"David Fent (2654)" -> "Leah Folloni (2650)" [label=98]
-	"David Fent (2654)" -> "Jeffrey Bartram (2656)" [label=354]
-	"Margaret Quinn (2653)" -> "Martin Leahy (2655)" [label=41]
 	"Martin Leahy (2655)" -> "Julieanne Lynette Doidge (2651)" [label=326]
-	"Margaret Quinn (2653)" -> "Tom Cummings (2649)" [label=27]
+	"Leah Folloni (2650)" -> "Julieanne Lynette Doidge (2651)" [label=687]
+	"Margaret Quinn (2653)" -> "Martin Leahy (2655)" [label=41]
+	"Margaret Quinn (2653)" -> "Jeffrey Bartram (2656)" [label=416]
 	"Julieanne Lynette Doidge (2651)" -> "Tom Cummings (2649)" [label=2107]
 	"Martin Leahy (2655)" -> "Leah Folloni (2650)" [label=356]
-	"Leslie Hughes (2652)" -> "David Fent (2654)" [label=87]
-	"Leslie Hughes (2652)" -> "Martin Leahy (2655)" [label=117]
-	"Martin Leahy (2655)" -> "Tom Cummings (2649)" [label=629]
+	"David Fent (2654)" -> "Tom Cummings (2649)" [label=54]
+	"Leslie Hughes (2652)" -> "Jeffrey Bartram (2656)" [label=103]
+	"David Fent (2654)" -> "Leah Folloni (2650)" [label=98]
 	"Jeffrey Bartram (2656)" -> "Julieanne Lynette Doidge (2651)" [label=1317]
-	"Jeffrey Bartram (2656)" -> "Tom Cummings (2649)" [label=657]
-	"Margaret Quinn (2653)" -> "Jeffrey Bartram (2656)" [label=416]
+	"Martin Leahy (2655)" -> "Tom Cummings (2649)" [label=629]
+	"Leslie Hughes (2652)" -> "Julieanne Lynette Doidge (2651)" [label=118]
+	"Leslie Hughes (2652)" -> "Leah Folloni (2650)" [label=65]
+	"Leah Folloni (2650)" -> "Tom Cummings (2649)" [label=1067]
+	"Margaret Quinn (2653)" -> "Leah Folloni (2650)" [label=74]
 }

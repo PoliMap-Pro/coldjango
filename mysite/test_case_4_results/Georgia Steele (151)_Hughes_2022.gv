@@ -2,6 +2,8 @@
 digraph "Georgia Steele (151)_Hughes_2022" {
 	graph [label="Hughes 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Georgia Steele (151)" [label="Georgia Steele (151)
+Independent"]
 	"Narelle Seymour (153)" [label="Narelle Seymour (153)
 Pauline Hanson's One Nation"]
 	"Craig Kelly (152)" [label="Craig Kelly (152)
@@ -10,16 +12,14 @@ United Australia Party"]
 The Greens"]
 	"Linda Seymour (154)" [label="Linda Seymour (154)
 Independent"]
-	"Georgia Steele (151)" [label="Georgia Steele (151)
-Independent"]
-	"Pete Thompson (150)" -> "Craig Kelly (152)" [label=290]
-	"Craig Kelly (152)" -> "Georgia Steele (151)" [label=3162]
-	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
-	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
 	"Narelle Seymour (153)" -> "Georgia Steele (151)" [label=256]
-	"Pete Thompson (150)" -> "Georgia Steele (151)" [label=2622]
-	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
-	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
-	"Linda Seymour (154)" -> "Georgia Steele (151)" [label=1761]
+	"Pete Thompson (150)" -> "Craig Kelly (152)" [label=290]
 	"Linda Seymour (154)" -> "Craig Kelly (152)" [label=225]
+	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
+	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
+	"Craig Kelly (152)" -> "Georgia Steele (151)" [label=3162]
+	"Pete Thompson (150)" -> "Georgia Steele (151)" [label=2622]
+	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
+	"Narelle Seymour (153)" -> "Craig Kelly (152)" [label=1162]
+	"Linda Seymour (154)" -> "Georgia Steele (151)" [label=1761]
 }

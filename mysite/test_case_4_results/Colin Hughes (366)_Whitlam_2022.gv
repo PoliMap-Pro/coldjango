@@ -4,11 +4,11 @@ digraph "Colin Hughes (366)_Whitlam_2022" {
 	node [shape=box]
 	"Colin Hughes (366)" [label="Colin Hughes (366)
 Pauline Hanson's One Nation"]
-	"Allan Wode (368)" [label="Allan Wode (368)
-United Australia Party"]
 	"Michael Wheeler (365)" [label="Michael Wheeler (365)
 Liberal Democrats"]
+	"Allan Wode (368)" [label="Allan Wode (368)
+United Australia Party"]
 	"Allan Wode (368)" -> "Colin Hughes (366)" [label=3303]
-	"Michael Wheeler (365)" -> "Allan Wode (368)" [label=664]
 	"Michael Wheeler (365)" -> "Colin Hughes (366)" [label=746]
+	"Michael Wheeler (365)" -> "Allan Wode (368)" [label=664]
 }

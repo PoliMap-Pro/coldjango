@@ -2,8 +2,6 @@
 digraph "Wendy Hazelton (443)_Fairfax_2022" {
 	graph [label="Fairfax 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Barry Smith (445)" [label="Barry Smith (445)
-Independent"]
 	"Tash Poole (444)" [label="Tash Poole (444)
 Animal Justice Party"]
 	"Sinim Barbara Australie (447)" [label="Sinim Barbara Australie (447)
@@ -12,14 +10,16 @@ Independent"]
 Informed Medical Options Party"]
 	"Craig White (450)" [label="Craig White (450)
 The Great Australian Party"]
-	"Craig White (450)" -> "Barry Smith (445)" [label=104]
+	"Barry Smith (445)" [label="Barry Smith (445)
+Independent"]
 	"Craig White (450)" -> "Tash Poole (444)" [label=53]
-	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
 	"Barry Smith (445)" -> "Tash Poole (444)" [label=376]
-	"Tash Poole (444)" -> "Wendy Hazelton (443)" [label=748]
-	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
-	"Sinim Barbara Australie (447)" -> "Wendy Hazelton (443)" [label=24]
+	"Craig White (450)" -> "Barry Smith (445)" [label=104]
 	"Barry Smith (445)" -> "Wendy Hazelton (443)" [label=359]
-	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
+	"Sinim Barbara Australie (447)" -> "Craig White (450)" [label=32]
+	"Sinim Barbara Australie (447)" -> "Wendy Hazelton (443)" [label=24]
 	"Craig White (450)" -> "Wendy Hazelton (443)" [label=443]
+	"Sinim Barbara Australie (447)" -> "Barry Smith (445)" [label=348]
+	"Sinim Barbara Australie (447)" -> "Tash Poole (444)" [label=45]
+	"Tash Poole (444)" -> "Wendy Hazelton (443)" [label=748]
 }

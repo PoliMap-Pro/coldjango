@@ -2,31 +2,31 @@
 digraph "Steph Hodgins-May (979)_Macnamara_2022" {
 	graph [label="Macnamara 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Debera Anne (976)" [label="Debera Anne (976)
-Pauline Hanson's One Nation"]
-	"Rob Mccathie (977)" [label="Rob Mccathie (977)
-Liberal Democrats"]
 	"Jane Elizabeth Hickey (980)" [label="Jane Elizabeth Hickey (980)
 United Australia Party"]
+	"Rob Mccathie (977)" [label="Rob Mccathie (977)
+Liberal Democrats"]
 	"Ben Schultz (978)" [label="Ben Schultz (978)
 Animal Justice Party"]
 	"John B Myers (973)" [label="John B Myers (973)
 Independent"]
 	"Steph Hodgins-May (979)" [label="Steph Hodgins-May (979)
 The Greens"]
+	"Debera Anne (976)" [label="Debera Anne (976)
+Pauline Hanson's One Nation"]
+	"John B Myers (973)" -> "Steph Hodgins-May (979)" [label=519]
+	"John B Myers (973)" -> "Rob Mccathie (977)" [label=297]
+	"Ben Schultz (978)" -> "Rob Mccathie (977)" [label=84]
 	"Debera Anne (976)" -> "Rob Mccathie (977)" [label=302]
-	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
+	"Debera Anne (976)" -> "Jane Elizabeth Hickey (980)" [label=530]
+	"John B Myers (973)" -> "Jane Elizabeth Hickey (980)" [label=370]
 	"Debera Anne (976)" -> "John B Myers (973)" [label=188]
+	"Jane Elizabeth Hickey (980)" -> "Steph Hodgins-May (979)" [label=1250]
+	"Rob Mccathie (977)" -> "Steph Hodgins-May (979)" [label=263]
 	"Rob Mccathie (977)" -> "Jane Elizabeth Hickey (980)" [label=1443]
 	"Ben Schultz (978)" -> "John B Myers (973)" [label=197]
-	"Rob Mccathie (977)" -> "Steph Hodgins-May (979)" [label=263]
-	"John B Myers (973)" -> "Steph Hodgins-May (979)" [label=519]
-	"Ben Schultz (978)" -> "Rob Mccathie (977)" [label=84]
-	"John B Myers (973)" -> "Jane Elizabeth Hickey (980)" [label=370]
-	"Debera Anne (976)" -> "Steph Hodgins-May (979)" [label=54]
-	"John B Myers (973)" -> "Rob Mccathie (977)" [label=297]
 	"Ben Schultz (978)" -> "Steph Hodgins-May (979)" [label=882]
+	"Debera Anne (976)" -> "Ben Schultz (978)" [label=69]
+	"Debera Anne (976)" -> "Steph Hodgins-May (979)" [label=54]
 	"Ben Schultz (978)" -> "Jane Elizabeth Hickey (980)" [label=131]
-	"Jane Elizabeth Hickey (980)" -> "Steph Hodgins-May (979)" [label=1250]
-	"Debera Anne (976)" -> "Jane Elizabeth Hickey (980)" [label=530]
 }

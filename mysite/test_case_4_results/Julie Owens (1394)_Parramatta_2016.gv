@@ -2,39 +2,39 @@
 digraph "Julie Owens (1394)_Parramatta_2016" {
 	graph [label="Parramatta 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Keith Piper (1402)" [label="Keith Piper (1402)
-Christian Democratic Party (Fred Nile Group)"]
-	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
-Online Direct Democracy - (Empowering the People!)"]
-	"Mark Guest (2200)" [label="Mark Guest (2200)
-Liberal Democrats"]
-	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
-Family First"]
-	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
-Independent"]
 	"Julie Owens (1394)" [label="Julie Owens (1394)
 Labor"]
+	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
+Independent"]
+	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
+Online Direct Democracy - (Empowering the People!)"]
 	"Phil Bradley (277)" [label="Phil Bradley (277)
 The Greens"]
+	"Mark Guest (2200)" [label="Mark Guest (2200)
+Liberal Democrats"]
+	"Keith Piper (1402)" [label="Keith Piper (1402)
+Christian Democratic Party (Fred Nile Group)"]
+	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
+Family First"]
 	"Mikaela Wu (2201)" -> "Julie Owens (1394)" [label=252]
-	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
-	"Mark Guest (2200)" -> "Phil Bradley (277)" [label=208]
-	"Mikaela Wu (2201)" -> "Keith Piper (1402)" [label=312]
-	"Mahesh Raj (2199)" -> "Julie Owens (1394)" [label=1008]
-	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
-	"Andrew Driessen (2202)" -> "Julie Owens (1394)" [label=57]
 	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
-	"Mahesh Raj (2199)" -> "Keith Piper (1402)" [label=298]
-	"Andrew Driessen (2202)" -> "Phil Bradley (277)" [label=68]
-	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
-	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
-	"Andrew Driessen (2202)" -> "Keith Piper (1402)" [label=36]
-	"Mikaela Wu (2201)" -> "Phil Bradley (277)" [label=189]
-	"Mark Guest (2200)" -> "Keith Piper (1402)" [label=358]
-	"Mahesh Raj (2199)" -> "Phil Bradley (277)" [label=617]
-	"Phil Bradley (277)" -> "Julie Owens (1394)" [label=6168]
-	"Mark Guest (2200)" -> "Julie Owens (1394)" [label=480]
 	"Keith Piper (1402)" -> "Phil Bradley (277)" [label=671]
+	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
+	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
+	"Mark Guest (2200)" -> "Phil Bradley (277)" [label=208]
+	"Andrew Driessen (2202)" -> "Keith Piper (1402)" [label=36]
+	"Andrew Driessen (2202)" -> "Julie Owens (1394)" [label=57]
+	"Mikaela Wu (2201)" -> "Phil Bradley (277)" [label=189]
+	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
+	"Mahesh Raj (2199)" -> "Julie Owens (1394)" [label=1008]
 	"Keith Piper (1402)" -> "Julie Owens (1394)" [label=1226]
 	"Mark Guest (2200)" -> "Mahesh Raj (2199)" [label=189]
+	"Mahesh Raj (2199)" -> "Keith Piper (1402)" [label=298]
+	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
+	"Phil Bradley (277)" -> "Julie Owens (1394)" [label=6168]
+	"Mark Guest (2200)" -> "Julie Owens (1394)" [label=480]
+	"Mahesh Raj (2199)" -> "Phil Bradley (277)" [label=617]
+	"Mark Guest (2200)" -> "Keith Piper (1402)" [label=358]
+	"Andrew Driessen (2202)" -> "Phil Bradley (277)" [label=68]
+	"Mikaela Wu (2201)" -> "Keith Piper (1402)" [label=312]
 }

@@ -2,13 +2,13 @@
 digraph "Peter Whelan (2175)_New England_2016" {
 	graph [label="New England 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Whelan (2175)" [label="Peter Whelan (2175)
-Liberal Democrats"]
-	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
-Independent"]
 	"Robert Henry Walker (2172)" [label="Robert Henry Walker (2172)
 Online Direct Democracy - (Empowering the People!)"]
-	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
+	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
+Independent"]
+	"Peter Whelan (2175)" [label="Peter Whelan (2175)
+Liberal Democrats"]
 	"Robert Henry Walker (2172)" -> "Philip Gordon Cox (2179)" [label=41]
 	"Robert Henry Walker (2172)" -> "Peter Whelan (2175)" [label=44]
+	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
 }

@@ -2,9 +2,9 @@
 digraph "Paul Markham (1121)_Forrest_2022" {
 	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Markham (1121)" [label="Paul Markham (1121)
-Liberal Democrats"]
 	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
 Australian Federation Party"]
+	"Paul Markham (1121)" [label="Paul Markham (1121)
+Liberal Democrats"]
 	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
 }

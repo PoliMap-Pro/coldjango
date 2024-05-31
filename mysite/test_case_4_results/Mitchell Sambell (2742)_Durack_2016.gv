@@ -2,9 +2,9 @@
 digraph "Mitchell Sambell (2742)_Durack_2016" {
 	graph [label="Durack 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
-Rise Up Australia Party"]
 	"Grahame Gould (1952)" [label="Grahame Gould (1952)
 Australian Christians"]
+	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
+Rise Up Australia Party"]
 	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
 }

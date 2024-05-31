@@ -2,18 +2,18 @@
 digraph "Scott Morrison (77)_Cook_2016" {
 	graph [label="Cook 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Scott Morrison (77)" [label="Scott Morrison (77)
-Liberal"]
 	"Nathan Hunt (2066)" [label="Nathan Hunt (2066)
 The Greens"]
+	"Scott Morrison (77)" [label="Scott Morrison (77)
+Liberal"]
 	"George Capsis (2065)" [label="George Capsis (2065)
 Christian Democratic Party (Fred Nile Group)"]
 	"John Brett (2064)" [label="John Brett (2064)
 Independent"]
-	"Nathan Hunt (2066)" -> "Scott Morrison (77)" [label=1803]
-	"George Capsis (2065)" -> "Nathan Hunt (2066)" [label=696]
 	"John Brett (2064)" -> "George Capsis (2065)" [label=601]
-	"George Capsis (2065)" -> "Scott Morrison (77)" [label=3469]
 	"John Brett (2064)" -> "Scott Morrison (77)" [label=1167]
 	"John Brett (2064)" -> "Nathan Hunt (2066)" [label=694]
+	"Nathan Hunt (2066)" -> "Scott Morrison (77)" [label=1803]
+	"George Capsis (2065)" -> "Scott Morrison (77)" [label=3469]
+	"George Capsis (2065)" -> "Nathan Hunt (2066)" [label=696]
 }

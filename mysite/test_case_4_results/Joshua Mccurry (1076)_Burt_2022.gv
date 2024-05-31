@@ -2,9 +2,9 @@
 digraph "Joshua Mccurry (1076)_Burt_2022" {
 	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
-United Australia Party"]
 	"Michele Castle (1074)" [label="Michele Castle (1074)
 Australian Federation Party"]
+	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
+United Australia Party"]
 	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
 }

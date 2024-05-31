@@ -2,13 +2,13 @@
 digraph "Dale Marie Grillo (1107)_Curtin_2022" {
 	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dale Marie Grillo (1107)" [label="Dale Marie Grillo (1107)
-Pauline Hanson's One Nation"]
 	"Bill Burn (1104)" [label="Bill Burn (1104)
 WESTERN AUSTRALIA PARTY"]
+	"Dale Marie Grillo (1107)" [label="Dale Marie Grillo (1107)
+Pauline Hanson's One Nation"]
 	"Judith Cullity (1105)" [label="Judith Cullity (1105)
 Australian Federation Party"]
-	"Bill Burn (1104)" -> "Dale Marie Grillo (1107)" [label=134]
 	"Judith Cullity (1105)" -> "Bill Burn (1104)" [label=113]
 	"Judith Cullity (1105)" -> "Dale Marie Grillo (1107)" [label=294]
+	"Bill Burn (1104)" -> "Dale Marie Grillo (1107)" [label=134]
 }

@@ -2,39 +2,39 @@
 digraph "Rachael Jacobs (140)_Grayndler_2022" {
 	graph [label="Grayndler 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sarina Kilham (137)" [label="Sarina Kilham (137)
-Independent"]
-	"Ben Zhang (135)" [label="Ben Zhang (135)
-Liberal"]
-	"Michael Armando Dello-Iacovo (139)" [label="Michael Armando Dello-Iacovo (139)
-Animal Justice Party"]
-	"David Bruce Smith (133)" [label="David Bruce Smith (133)
-United Australia Party"]
-	"Paul Henselin (138)" [label="Paul Henselin (138)
-Pauline Hanson's One Nation"]
 	"Rachael Jacobs (140)" [label="Rachael Jacobs (140)
 The Greens"]
+	"Paul Henselin (138)" [label="Paul Henselin (138)
+Pauline Hanson's One Nation"]
 	"James Haggerty (136)" [label="James Haggerty (136)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
+	"David Bruce Smith (133)" [label="David Bruce Smith (133)
+United Australia Party"]
+	"Ben Zhang (135)" [label="Ben Zhang (135)
+Liberal"]
+	"Sarina Kilham (137)" [label="Sarina Kilham (137)
+Independent"]
+	"Michael Armando Dello-Iacovo (139)" [label="Michael Armando Dello-Iacovo (139)
+Animal Justice Party"]
 	"Paul Henselin (138)" -> "Rachael Jacobs (140)" [label=100]
-	"James Haggerty (136)" -> "Paul Henselin (138)" [label=39]
-	"James Haggerty (136)" -> "Rachael Jacobs (140)" [label=585]
-	"Michael Armando Dello-Iacovo (139)" -> "James Haggerty (136)" [label=110]
-	"Sarina Kilham (137)" -> "David Bruce Smith (133)" [label=373]
-	"Michael Armando Dello-Iacovo (139)" -> "Ben Zhang (135)" [label=79]
+	"Ben Zhang (135)" -> "Rachael Jacobs (140)" [label=7026]
+	"Paul Henselin (138)" -> "Sarina Kilham (137)" [label=244]
 	"James Haggerty (136)" -> "David Bruce Smith (133)" [label=44]
 	"David Bruce Smith (133)" -> "Ben Zhang (135)" [label=1782]
-	"James Haggerty (136)" -> "Sarina Kilham (137)" [label=312]
-	"Sarina Kilham (137)" -> "Rachael Jacobs (140)" [label=1172]
 	"Michael Armando Dello-Iacovo (139)" -> "Rachael Jacobs (140)" [label=587]
-	"James Haggerty (136)" -> "Ben Zhang (135)" [label=90]
-	"Paul Henselin (138)" -> "Sarina Kilham (137)" [label=244]
-	"Paul Henselin (138)" -> "Ben Zhang (135)" [label=260]
-	"Michael Armando Dello-Iacovo (139)" -> "Sarina Kilham (137)" [label=110]
-	"Michael Armando Dello-Iacovo (139)" -> "Paul Henselin (138)" [label=64]
+	"Sarina Kilham (137)" -> "Rachael Jacobs (140)" [label=1172]
+	"James Haggerty (136)" -> "Paul Henselin (138)" [label=39]
 	"Paul Henselin (138)" -> "David Bruce Smith (133)" [label=831]
+	"Michael Armando Dello-Iacovo (139)" -> "Paul Henselin (138)" [label=64]
+	"Sarina Kilham (137)" -> "David Bruce Smith (133)" [label=373]
+	"James Haggerty (136)" -> "Rachael Jacobs (140)" [label=585]
+	"Michael Armando Dello-Iacovo (139)" -> "Sarina Kilham (137)" [label=110]
+	"James Haggerty (136)" -> "Sarina Kilham (137)" [label=312]
+	"James Haggerty (136)" -> "Ben Zhang (135)" [label=90]
+	"Paul Henselin (138)" -> "Ben Zhang (135)" [label=260]
+	"Sarina Kilham (137)" -> "Ben Zhang (135)" [label=444]
+	"Michael Armando Dello-Iacovo (139)" -> "James Haggerty (136)" [label=110]
+	"Michael Armando Dello-Iacovo (139)" -> "Ben Zhang (135)" [label=79]
 	"David Bruce Smith (133)" -> "Rachael Jacobs (140)" [label=844]
 	"Michael Armando Dello-Iacovo (139)" -> "David Bruce Smith (133)" [label=21]
-	"Sarina Kilham (137)" -> "Ben Zhang (135)" [label=444]
-	"Ben Zhang (135)" -> "Rachael Jacobs (140)" [label=7026]
 }

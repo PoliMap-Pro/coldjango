@@ -2,24 +2,24 @@
 digraph "Tony Burke (348)_Watson_2016" {
 	graph [label="Watson 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Violet Abdulla (2244)" [label="Violet Abdulla (2244)
-Christian Democratic Party (Fred Nile Group)"]
 	"Paul Geran (2246)" [label="Paul Geran (2246)
 Online Direct Democracy - (Empowering the People!)"]
-	"Tom Gordon (2245)" [label="Tom Gordon (2245)
-Science Party"]
 	"Barbara Bloch (2247)" [label="Barbara Bloch (2247)
 The Greens"]
+	"Violet Abdulla (2244)" [label="Violet Abdulla (2244)
+Christian Democratic Party (Fred Nile Group)"]
 	"Tony Burke (348)" [label="Tony Burke (348)
 Labor"]
-	"Paul Geran (2246)" -> "Tony Burke (348)" [label=240]
-	"Tom Gordon (2245)" -> "Violet Abdulla (2244)" [label=492]
-	"Paul Geran (2246)" -> "Tom Gordon (2245)" [label=208]
-	"Paul Geran (2246)" -> "Violet Abdulla (2244)" [label=138]
+	"Tom Gordon (2245)" [label="Tom Gordon (2245)
+Science Party"]
 	"Tom Gordon (2245)" -> "Barbara Bloch (2247)" [label=556]
-	"Barbara Bloch (2247)" -> "Violet Abdulla (2244)" [label=643]
-	"Violet Abdulla (2244)" -> "Tony Burke (348)" [label=4536]
 	"Tom Gordon (2245)" -> "Tony Burke (348)" [label=564]
+	"Violet Abdulla (2244)" -> "Tony Burke (348)" [label=4536]
 	"Paul Geran (2246)" -> "Barbara Bloch (2247)" [label=204]
+	"Barbara Bloch (2247)" -> "Violet Abdulla (2244)" [label=643]
 	"Barbara Bloch (2247)" -> "Tony Burke (348)" [label=4802]
+	"Paul Geran (2246)" -> "Violet Abdulla (2244)" [label=138]
+	"Tom Gordon (2245)" -> "Violet Abdulla (2244)" [label=492]
+	"Paul Geran (2246)" -> "Tony Burke (348)" [label=240]
+	"Paul Geran (2246)" -> "Tom Gordon (2245)" [label=208]
 }

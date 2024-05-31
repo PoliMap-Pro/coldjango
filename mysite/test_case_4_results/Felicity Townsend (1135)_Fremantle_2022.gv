@@ -2,48 +2,48 @@
 digraph "Felicity Townsend (1135)_Fremantle_2022" {
 	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
+Socialist Alliance"]
+	"William Edgar (1138)" [label="William Edgar (1138)
+Pauline Hanson's One Nation"]
+	"Felicity Townsend (1135)" [label="Felicity Townsend (1135)
+The Greens (WA)"]
+	"Stella Jinman (1133)" [label="Stella Jinman (1133)
+United Australia Party"]
+	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
+Australian Federation Party"]
+	"Yan Loh (1136)" [label="Yan Loh (1136)
+Liberal Democrats"]
 	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
 WESTERN AUSTRALIA PARTY"]
 	"Ben Tilbury (1129)" [label="Ben Tilbury (1129)
 The Great Australian Party"]
-	"Yan Loh (1136)" [label="Yan Loh (1136)
-Liberal Democrats"]
-	"Stella Jinman (1133)" [label="Stella Jinman (1133)
-United Australia Party"]
-	"Felicity Townsend (1135)" [label="Felicity Townsend (1135)
-The Greens (WA)"]
-	"William Edgar (1138)" [label="William Edgar (1138)
-Pauline Hanson's One Nation"]
-	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
-Australian Federation Party"]
-	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
-Socialist Alliance"]
-	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
-	"Ben Tilbury (1129)" -> "Felicity Townsend (1135)" [label=560]
 	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
-	"William Edgar (1138)" -> "Felicity Townsend (1135)" [label=2455]
-	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
-	"Stella Jinman (1133)" -> "William Edgar (1138)" [label=1183]
-	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
-	"Yan Loh (1136)" -> "William Edgar (1138)" [label=165]
-	"Yan Loh (1136)" -> "Felicity Townsend (1135)" [label=143]
-	"Sam Wainwright (1130)" -> "William Edgar (1138)" [label=18]
-	"Stella Jinman (1133)" -> "Felicity Townsend (1135)" [label=168]
-	"Yan Loh (1136)" -> "Ben Tilbury (1129)" [label=64]
-	"Ben Tilbury (1129)" -> "William Edgar (1138)" [label=1844]
-	"Cathy Gavranich (1131)" -> "William Edgar (1138)" [label=164]
-	"Cathy Gavranich (1131)" -> "Ben Tilbury (1129)" [label=665]
-	"Sam Wainwright (1130)" -> "Ben Tilbury (1129)" [label=87]
-	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
 	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
-	"Janetia Knapp (1137)" -> "Ben Tilbury (1129)" [label=607]
-	"Yan Loh (1136)" -> "Stella Jinman (1133)" [label=147]
+	"William Edgar (1138)" -> "Felicity Townsend (1135)" [label=2455]
 	"Janetia Knapp (1137)" -> "William Edgar (1138)" [label=550]
-	"Janetia Knapp (1137)" -> "Felicity Townsend (1135)" [label=566]
-	"Sam Wainwright (1130)" -> "Felicity Townsend (1135)" [label=707]
-	"Cathy Gavranich (1131)" -> "Felicity Townsend (1135)" [label=160]
-	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
+	"Stella Jinman (1133)" -> "Felicity Townsend (1135)" [label=168]
 	"Stella Jinman (1133)" -> "Ben Tilbury (1129)" [label=313]
-	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
+	"Stella Jinman (1133)" -> "William Edgar (1138)" [label=1183]
+	"Janetia Knapp (1137)" -> "Ben Tilbury (1129)" [label=607]
+	"Yan Loh (1136)" -> "Felicity Townsend (1135)" [label=143]
+	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
+	"Cathy Gavranich (1131)" -> "Ben Tilbury (1129)" [label=665]
+	"Ben Tilbury (1129)" -> "William Edgar (1138)" [label=1844]
+	"Sam Wainwright (1130)" -> "Felicity Townsend (1135)" [label=707]
+	"Ben Tilbury (1129)" -> "Felicity Townsend (1135)" [label=560]
+	"Sam Wainwright (1130)" -> "Ben Tilbury (1129)" [label=87]
+	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
+	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
+	"Yan Loh (1136)" -> "Stella Jinman (1133)" [label=147]
 	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
+	"Cathy Gavranich (1131)" -> "Felicity Townsend (1135)" [label=160]
+	"Janetia Knapp (1137)" -> "Felicity Townsend (1135)" [label=566]
+	"Cathy Gavranich (1131)" -> "William Edgar (1138)" [label=164]
+	"Sam Wainwright (1130)" -> "William Edgar (1138)" [label=18]
+	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
+	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
+	"Yan Loh (1136)" -> "William Edgar (1138)" [label=165]
+	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
+	"Yan Loh (1136)" -> "Ben Tilbury (1129)" [label=64]
 }

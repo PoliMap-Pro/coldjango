@@ -2,12 +2,12 @@
 digraph "Phil Smith (2119)_Hughes_2016" {
 	graph [label="Hughes 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ellie Robertson (2118)" [label="Ellie Robertson (2118)
-Animal Justice Party"]
 	"Michael Caudre (2120)" [label="Michael Caudre (2120)
 Christian Democratic Party (Fred Nile Group)"]
 	"Phil Smith (2119)" [label="Phil Smith (2119)
 The Greens"]
+	"Ellie Robertson (2118)" [label="Ellie Robertson (2118)
+Animal Justice Party"]
 	"Michael Caudre (2120)" -> "Phil Smith (2119)" [label=664]
 	"Ellie Robertson (2118)" -> "Michael Caudre (2120)" [label=533]
 	"Ellie Robertson (2118)" -> "Phil Smith (2119)" [label=1705]

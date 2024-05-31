@@ -2,48 +2,48 @@
 digraph "Stephanie Asher (805)_Corangamite_2022" {
 	graph [label="Corangamite 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephanie Asher (805)" [label="Stephanie Asher (805)
-Liberal"]
-	"Alex Marshall (802)" [label="Alex Marshall (802)
-The Greens"]
-	"Daniel William Abou-Zeid (808)" [label="Daniel William Abou-Zeid (808)
-United Australia Party"]
-	"Luke Sorensen (807)" [label="Luke Sorensen (807)
-Pauline Hanson's One Nation"]
-	"Paul Barker (806)" [label="Paul Barker (806)
-Liberal Democrats"]
-	"Meg Watkins (804)" [label="Meg Watkins (804)
-Animal Justice Party"]
 	"Jean-Marie D'Argent (809)" [label="Jean-Marie D'Argent (809)
 Derryn Hinch's Justice Party"]
 	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
 Australian Federation Party"]
-	"Alex Marshall (802)" -> "Stephanie Asher (805)" [label=2736]
+	"Daniel William Abou-Zeid (808)" [label="Daniel William Abou-Zeid (808)
+United Australia Party"]
+	"Paul Barker (806)" [label="Paul Barker (806)
+Liberal Democrats"]
+	"Alex Marshall (802)" [label="Alex Marshall (802)
+The Greens"]
+	"Luke Sorensen (807)" [label="Luke Sorensen (807)
+Pauline Hanson's One Nation"]
+	"Meg Watkins (804)" [label="Meg Watkins (804)
+Animal Justice Party"]
+	"Stephanie Asher (805)" [label="Stephanie Asher (805)
+Liberal"]
+	"Stephen Juhasz (801)" -> "Alex Marshall (802)" [label=305]
 	"Daniel William Abou-Zeid (808)" -> "Alex Marshall (802)" [label=1872]
-	"Luke Sorensen (807)" -> "Daniel William Abou-Zeid (808)" [label=2737]
-	"Paul Barker (806)" -> "Luke Sorensen (807)" [label=858]
-	"Meg Watkins (804)" -> "Paul Barker (806)" [label=156]
-	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
+	"Stephen Juhasz (801)" -> "Luke Sorensen (807)" [label=112]
+	"Meg Watkins (804)" -> "Alex Marshall (802)" [label=950]
+	"Luke Sorensen (807)" -> "Alex Marshall (802)" [label=363]
 	"Stephen Juhasz (801)" -> "Jean-Marie D'Argent (809)" [label=46]
-	"Daniel William Abou-Zeid (808)" -> "Stephanie Asher (805)" [label=4107]
-	"Luke Sorensen (807)" -> "Stephanie Asher (805)" [label=497]
-	"Paul Barker (806)" -> "Stephanie Asher (805)" [label=589]
-	"Meg Watkins (804)" -> "Stephanie Asher (805)" [label=180]
-	"Jean-Marie D'Argent (809)" -> "Stephanie Asher (805)" [label=177]
-	"Stephen Juhasz (801)" -> "Stephanie Asher (805)" [label=58]
-	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
+	"Alex Marshall (802)" -> "Stephanie Asher (805)" [label=2736]
+	"Jean-Marie D'Argent (809)" -> "Daniel William Abou-Zeid (808)" [label=261]
+	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
 	"Jean-Marie D'Argent (809)" -> "Paul Barker (806)" [label=77]
+	"Paul Barker (806)" -> "Stephanie Asher (805)" [label=589]
+	"Luke Sorensen (807)" -> "Stephanie Asher (805)" [label=497]
+	"Jean-Marie D'Argent (809)" -> "Luke Sorensen (807)" [label=285]
+	"Jean-Marie D'Argent (809)" -> "Stephanie Asher (805)" [label=177]
+	"Luke Sorensen (807)" -> "Daniel William Abou-Zeid (808)" [label=2737]
 	"Stephen Juhasz (801)" -> "Paul Barker (806)" [label=106]
 	"Meg Watkins (804)" -> "Luke Sorensen (807)" [label=231]
-	"Jean-Marie D'Argent (809)" -> "Luke Sorensen (807)" [label=285]
-	"Stephen Juhasz (801)" -> "Luke Sorensen (807)" [label=112]
-	"Paul Barker (806)" -> "Daniel William Abou-Zeid (808)" [label=1012]
-	"Meg Watkins (804)" -> "Daniel William Abou-Zeid (808)" [label=159]
-	"Jean-Marie D'Argent (809)" -> "Daniel William Abou-Zeid (808)" [label=261]
-	"Stephen Juhasz (801)" -> "Daniel William Abou-Zeid (808)" [label=80]
-	"Luke Sorensen (807)" -> "Alex Marshall (802)" [label=363]
 	"Paul Barker (806)" -> "Alex Marshall (802)" [label=188]
-	"Meg Watkins (804)" -> "Alex Marshall (802)" [label=950]
+	"Paul Barker (806)" -> "Daniel William Abou-Zeid (808)" [label=1012]
+	"Daniel William Abou-Zeid (808)" -> "Stephanie Asher (805)" [label=4107]
+	"Stephen Juhasz (801)" -> "Daniel William Abou-Zeid (808)" [label=80]
+	"Meg Watkins (804)" -> "Stephanie Asher (805)" [label=180]
+	"Stephen Juhasz (801)" -> "Stephanie Asher (805)" [label=58]
+	"Meg Watkins (804)" -> "Paul Barker (806)" [label=156]
+	"Paul Barker (806)" -> "Luke Sorensen (807)" [label=858]
+	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
+	"Meg Watkins (804)" -> "Daniel William Abou-Zeid (808)" [label=159]
 	"Jean-Marie D'Argent (809)" -> "Alex Marshall (802)" [label=191]
-	"Stephen Juhasz (801)" -> "Alex Marshall (802)" [label=305]
 }

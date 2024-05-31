@@ -8,7 +8,7 @@ Liberal"]
 The Greens (WA)"]
 	"Steve Klomp (2009)" [label="Steve Klomp (2009)
 Australian Christians"]
-	"Sarah Nielsen-Harvey (2778)" -> "Steve Irons (2008)" [label=2546]
 	"Steve Klomp (2009)" -> "Sarah Nielsen-Harvey (2778)" [label=595]
+	"Sarah Nielsen-Harvey (2778)" -> "Steve Irons (2008)" [label=2546]
 	"Steve Klomp (2009)" -> "Steve Irons (2008)" [label=1859]
 }

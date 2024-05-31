@@ -2,31 +2,31 @@
 digraph "Christopher Pyne (2493)_Sturt_2016" {
 	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Christopher Pyne (2493)" [label="Christopher Pyne (2493)
-Liberal"]
 	"Matthew Wright (2490)" [label="Matthew Wright (2490)
 Nick Xenophon Team"]
-	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
-The Greens"]
 	"Craig Bowyer (2491)" [label="Craig Bowyer (2491)
 Family First"]
-	"Geoff Russell (1655)" [label="Geoff Russell (1655)
-Animal Justice Party"]
+	"Rebecca Galdies (613)" [label="Rebecca Galdies (613)
+The Greens"]
 	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
 Independent"]
+	"Christopher Pyne (2493)" [label="Christopher Pyne (2493)
+Liberal"]
+	"Geoff Russell (1655)" [label="Geoff Russell (1655)
+Animal Justice Party"]
 	"Matthew Wright (2490)" -> "Christopher Pyne (2493)" [label=8107]
-	"Rebecca Galdies (613)" -> "Matthew Wright (2490)" [label=2987]
-	"Craig Bowyer (2491)" -> "Rebecca Galdies (613)" [label=432]
-	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
-	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
-	"Rebecca Galdies (613)" -> "Christopher Pyne (2493)" [label=627]
-	"Craig Bowyer (2491)" -> "Christopher Pyne (2493)" [label=1669]
-	"Geoff Russell (1655)" -> "Christopher Pyne (2493)" [label=131]
-	"Neil Aitchison (2494)" -> "Christopher Pyne (2493)" [label=113]
-	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
 	"Geoff Russell (1655)" -> "Rebecca Galdies (613)" [label=493]
-	"Neil Aitchison (2494)" -> "Rebecca Galdies (613)" [label=66]
+	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
+	"Rebecca Galdies (613)" -> "Matthew Wright (2490)" [label=2987]
 	"Craig Bowyer (2491)" -> "Matthew Wright (2490)" [label=752]
+	"Neil Aitchison (2494)" -> "Rebecca Galdies (613)" [label=66]
+	"Neil Aitchison (2494)" -> "Christopher Pyne (2493)" [label=113]
 	"Geoff Russell (1655)" -> "Matthew Wright (2490)" [label=299]
+	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
+	"Craig Bowyer (2491)" -> "Rebecca Galdies (613)" [label=432]
+	"Rebecca Galdies (613)" -> "Christopher Pyne (2493)" [label=627]
+	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
+	"Geoff Russell (1655)" -> "Christopher Pyne (2493)" [label=131]
 	"Neil Aitchison (2494)" -> "Matthew Wright (2490)" [label=135]
+	"Craig Bowyer (2491)" -> "Christopher Pyne (2493)" [label=1669]
 }

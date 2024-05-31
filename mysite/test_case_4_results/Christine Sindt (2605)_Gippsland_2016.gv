@@ -2,13 +2,13 @@
 digraph "Christine Sindt (2605)_Gippsland_2016" {
 	graph [label="Gippsland 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Christine Sindt (2605)" [label="Christine Sindt (2605)
-Independent"]
 	"Ashleigh Belsar (2608)" [label="Ashleigh Belsar (2608)
 Australian Christians"]
 	"Peter Gardner (2609)" [label="Peter Gardner (2609)
 Renewable Energy Party"]
+	"Christine Sindt (2605)" [label="Christine Sindt (2605)
+Independent"]
+	"Ashleigh Belsar (2608)" -> "Christine Sindt (2605)" [label=47]
 	"Peter Gardner (2609)" -> "Christine Sindt (2605)" [label=84]
 	"Ashleigh Belsar (2608)" -> "Peter Gardner (2609)" [label=36]
-	"Ashleigh Belsar (2608)" -> "Christine Sindt (2605)" [label=47]
 }

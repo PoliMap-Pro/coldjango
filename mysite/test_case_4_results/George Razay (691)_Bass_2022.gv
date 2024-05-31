@@ -2,18 +2,18 @@
 digraph "George Razay (691)_Bass_2022" {
 	graph [label="Bass 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kyle Squibb (697)" [label="Kyle Squibb (697)
-United Australia Party"]
 	"George Razay (691)" [label="George Razay (691)
 Independent"]
 	"Stephen Humble (696)" [label="Stephen Humble (696)
 Liberal Democrats"]
 	"Alison Baker (695)" [label="Alison Baker (695)
 Animal Justice Party"]
+	"Kyle Squibb (697)" [label="Kyle Squibb (697)
+United Australia Party"]
+	"Stephen Humble (696)" -> "George Razay (691)" [label=50]
 	"Stephen Humble (696)" -> "Alison Baker (695)" [label=34]
+	"Alison Baker (695)" -> "George Razay (691)" [label=157]
+	"Alison Baker (695)" -> "Kyle Squibb (697)" [label=70]
 	"Kyle Squibb (697)" -> "George Razay (691)" [label=180]
 	"Stephen Humble (696)" -> "Kyle Squibb (697)" [label=125]
-	"Alison Baker (695)" -> "George Razay (691)" [label=157]
-	"Stephen Humble (696)" -> "George Razay (691)" [label=50]
-	"Alison Baker (695)" -> "Kyle Squibb (697)" [label=70]
 }

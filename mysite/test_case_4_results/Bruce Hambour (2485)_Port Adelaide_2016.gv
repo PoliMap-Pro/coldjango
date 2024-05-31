@@ -4,11 +4,11 @@ digraph "Bruce Hambour (2485)_Port Adelaide_2016" {
 	node [shape=box]
 	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
 Family First"]
-	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
-Animal Justice Party"]
 	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
 Christian Democratic Party (Fred Nile Group)"]
-	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
-	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
+	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
+Animal Justice Party"]
 	"Jenalie Salt (2487)" -> "Janine Clipstone (2486)" [label=100]
+	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
+	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
 }

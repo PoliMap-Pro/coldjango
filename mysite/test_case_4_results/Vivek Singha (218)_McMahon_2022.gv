@@ -2,24 +2,24 @@
 digraph "Vivek Singha (218)_McMahon_2022" {
 	graph [label="McMahon 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Vivek Singha (218)" [label="Vivek Singha (218)
-Liberal"]
 	"Marie Saliba (216)" [label="Marie Saliba (216)
 United Australia Party"]
-	"Scott Ford (217)" [label="Scott Ford (217)
-Pauline Hanson's One Nation"]
-	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
-The Greens"]
 	"Cameron Shamsabad (220)" [label="Cameron Shamsabad (220)
 Liberal Democrats"]
-	"Marie Saliba (216)" -> "Vivek Singha (218)" [label=7339]
-	"Scott Ford (217)" -> "Marie Saliba (216)" [label=3476]
+	"Astrid O'Neill (219)" [label="Astrid O'Neill (219)
+The Greens"]
+	"Scott Ford (217)" [label="Scott Ford (217)
+Pauline Hanson's One Nation"]
+	"Vivek Singha (218)" [label="Vivek Singha (218)
+Liberal"]
 	"Astrid O'Neill (219)" -> "Scott Ford (217)" [label=359]
-	"Cameron Shamsabad (220)" -> "Astrid O'Neill (219)" [label=314]
-	"Scott Ford (217)" -> "Vivek Singha (218)" [label=1215]
+	"Astrid O'Neill (219)" -> "Marie Saliba (216)" [label=559]
 	"Astrid O'Neill (219)" -> "Vivek Singha (218)" [label=840]
 	"Cameron Shamsabad (220)" -> "Vivek Singha (218)" [label=929]
 	"Cameron Shamsabad (220)" -> "Scott Ford (217)" [label=722]
-	"Astrid O'Neill (219)" -> "Marie Saliba (216)" [label=559]
+	"Cameron Shamsabad (220)" -> "Astrid O'Neill (219)" [label=314]
+	"Scott Ford (217)" -> "Vivek Singha (218)" [label=1215]
+	"Scott Ford (217)" -> "Marie Saliba (216)" [label=3476]
 	"Cameron Shamsabad (220)" -> "Marie Saliba (216)" [label=490]
+	"Marie Saliba (216)" -> "Vivek Singha (218)" [label=7339]
 }

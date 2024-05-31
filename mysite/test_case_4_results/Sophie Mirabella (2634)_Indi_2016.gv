@@ -2,58 +2,58 @@
 digraph "Sophie Mirabella (2634)_Indi_2016" {
 	graph [label="Indi 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sophie Mirabella (2634)" [label="Sophie Mirabella (2634)
-Liberal"]
-	"Marty Corboy (2639)" [label="Marty Corboy (2639)
-The Nationals"]
-	"Eric Kerr (1839)" [label="Eric Kerr (1839)
-Australian Labor Party"]
-	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
-The Greens"]
-	"Julian Fidge (928)" [label="Julian Fidge (928)
-Australian Country Party"]
-	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
-Independent"]
-	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
-Rise Up Australia Party"]
-	"Tim Quilty (2636)" [label="Tim Quilty (2636)
-Liberal Democrats"]
 	"Ray Dyer (2638)" [label="Ray Dyer (2638)
 Independent"]
+	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
+The Greens"]
+	"Sophie Mirabella (2634)" [label="Sophie Mirabella (2634)
+Liberal"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
+	"Marty Corboy (2639)" [label="Marty Corboy (2639)
+The Nationals"]
+	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
+Rise Up Australia Party"]
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+Independent"]
+	"Tim Quilty (2636)" [label="Tim Quilty (2636)
+Liberal Democrats"]
+	"Eric Kerr (1839)" [label="Eric Kerr (1839)
+Australian Labor Party"]
+	"Ray Dyer (2638)" -> "Eric Kerr (1839)" [label=35]
+	"Ray Dyer (2638)" -> "Sophie Mirabella (2634)" [label=26]
+	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
+	"Julian Fidge (928)" -> "Eric Kerr (1839)" [label=319]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
+	"Ray Dyer (2638)" -> "Marty Corboy (2639)" [label=60]
+	"Jenny O'Connor (2635)" -> "Sophie Mirabella (2634)" [label=404]
+	"Vincent Ferrando (2640)" -> "Jenny O'Connor (2635)" [label=32]
+	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
+	"Julian Fidge (928)" -> "Sophie Mirabella (2634)" [label=446]
 	"Marty Corboy (2639)" -> "Sophie Mirabella (2634)" [label=12766]
-	"Eric Kerr (1839)" -> "Marty Corboy (2639)" [label=2077]
-	"Jenny O'Connor (2635)" -> "Eric Kerr (1839)" [label=833]
-	"Julian Fidge (928)" -> "Jenny O'Connor (2635)" [label=185]
+	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
+	"Tim Quilty (2636)" -> "Marty Corboy (2639)" [label=148]
 	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
+	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
+	"Julian Fidge (928)" -> "Marty Corboy (2639)" [label=1141]
+	"Alan James Lappin (2633)" -> "Eric Kerr (1839)" [label=141]
+	"Tim Quilty (2636)" -> "Eric Kerr (1839)" [label=60]
+	"Jenny O'Connor (2635)" -> "Marty Corboy (2639)" [label=349]
+	"Alan James Lappin (2633)" -> "Jenny O'Connor (2635)" [label=279]
+	"Ray Dyer (2638)" -> "Jenny O'Connor (2635)" [label=26]
+	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
+	"Vincent Ferrando (2640)" -> "Marty Corboy (2639)" [label=177]
+	"Tim Quilty (2636)" -> "Jenny O'Connor (2635)" [label=70]
+	"Alan James Lappin (2633)" -> "Sophie Mirabella (2634)" [label=568]
+	"Eric Kerr (1839)" -> "Sophie Mirabella (2634)" [label=1219]
+	"Jenny O'Connor (2635)" -> "Eric Kerr (1839)" [label=833]
+	"Vincent Ferrando (2640)" -> "Eric Kerr (1839)" [label=57]
 	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
 	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
-	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
-	"Eric Kerr (1839)" -> "Sophie Mirabella (2634)" [label=1219]
-	"Jenny O'Connor (2635)" -> "Sophie Mirabella (2634)" [label=404]
-	"Julian Fidge (928)" -> "Sophie Mirabella (2634)" [label=446]
-	"Alan James Lappin (2633)" -> "Sophie Mirabella (2634)" [label=568]
 	"Vincent Ferrando (2640)" -> "Sophie Mirabella (2634)" [label=119]
 	"Tim Quilty (2636)" -> "Sophie Mirabella (2634)" [label=281]
-	"Ray Dyer (2638)" -> "Sophie Mirabella (2634)" [label=26]
-	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
-	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
-	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
-	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
-	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
-	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
-	"Alan James Lappin (2633)" -> "Jenny O'Connor (2635)" [label=279]
-	"Vincent Ferrando (2640)" -> "Jenny O'Connor (2635)" [label=32]
-	"Tim Quilty (2636)" -> "Jenny O'Connor (2635)" [label=70]
-	"Ray Dyer (2638)" -> "Jenny O'Connor (2635)" [label=26]
-	"Julian Fidge (928)" -> "Eric Kerr (1839)" [label=319]
-	"Alan James Lappin (2633)" -> "Eric Kerr (1839)" [label=141]
-	"Vincent Ferrando (2640)" -> "Eric Kerr (1839)" [label=57]
-	"Tim Quilty (2636)" -> "Eric Kerr (1839)" [label=60]
-	"Ray Dyer (2638)" -> "Eric Kerr (1839)" [label=35]
-	"Jenny O'Connor (2635)" -> "Marty Corboy (2639)" [label=349]
-	"Julian Fidge (928)" -> "Marty Corboy (2639)" [label=1141]
+	"Julian Fidge (928)" -> "Jenny O'Connor (2635)" [label=185]
 	"Alan James Lappin (2633)" -> "Marty Corboy (2639)" [label=218]
-	"Vincent Ferrando (2640)" -> "Marty Corboy (2639)" [label=177]
-	"Tim Quilty (2636)" -> "Marty Corboy (2639)" [label=148]
-	"Ray Dyer (2638)" -> "Marty Corboy (2639)" [label=60]
+	"Eric Kerr (1839)" -> "Marty Corboy (2639)" [label=2077]
 }

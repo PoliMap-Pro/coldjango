@@ -4,11 +4,11 @@ digraph "Ash Puvimanasinghe (1842)_Corio_2016" {
 	node [shape=box]
 	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
 Rise Up Australia Party"]
-	"Jeff Moran (2579)" [label="Jeff Moran (2579)
-Bullet Train For Australia"]
 	"Sue Bull (810)" [label="Sue Bull (810)
 Socialist Alliance"]
-	"Jeff Moran (2579)" -> "Ash Puvimanasinghe (1842)" [label=264]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
 	"Sue Bull (810)" -> "Jeff Moran (2579)" [label=78]
 	"Sue Bull (810)" -> "Ash Puvimanasinghe (1842)" [label=179]
+	"Jeff Moran (2579)" -> "Ash Puvimanasinghe (1842)" [label=264]
 }

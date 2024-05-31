@@ -10,10 +10,10 @@ The Greens"]
 Rise Up Australia Party"]
 	"Susan Jakobi (1861)" [label="Susan Jakobi (1861)
 Australia First Party"]
-	"Daniel Sova (2658)" -> "Gayle Murphy (1862)" [label=3097]
 	"Marion Vale (2657)" -> "Daniel Sova (2658)" [label=1504]
+	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
 	"Susan Jakobi (1861)" -> "Marion Vale (2657)" [label=1753]
 	"Marion Vale (2657)" -> "Gayle Murphy (1862)" [label=2395]
 	"Susan Jakobi (1861)" -> "Gayle Murphy (1862)" [label=467]
-	"Susan Jakobi (1861)" -> "Daniel Sova (2658)" [label=489]
+	"Daniel Sova (2658)" -> "Gayle Murphy (1862)" [label=3097]
 }

@@ -10,10 +10,10 @@ Animal Justice Party"]
 Independent"]
 	"Walter Stragan (1011)" [label="Walter Stragan (1011)
 Pauline Hanson's One Nation"]
-	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
+	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
+	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
 	"Scott Robson (1010)" -> "Bruce Poon (1012)" [label=154]
 	"Walter Stragan (1011)" -> "Scott Robson (1010)" [label=73]
-	"Scott Robson (1010)" -> "Richard Peppard (1009)" [label=189]
+	"Bruce Poon (1012)" -> "Richard Peppard (1009)" [label=81]
 	"Walter Stragan (1011)" -> "Richard Peppard (1009)" [label=241]
-	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]
 }

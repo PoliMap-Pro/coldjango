@@ -2,18 +2,18 @@
 digraph "Sazeda Akter (346)_Watson_2022" {
 	graph [label="Watson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sazeda Akter (346)" [label="Sazeda Akter (346)
-Liberal"]
 	"John Koukoulis (347)" [label="John Koukoulis (347)
 United Australia Party"]
+	"Sazeda Akter (346)" [label="Sazeda Akter (346)
+Liberal"]
 	"Bradley Schott (350)" [label="Bradley Schott (350)
 The Greens"]
 	"Alan Jorgensen (349)" [label="Alan Jorgensen (349)
 Pauline Hanson's One Nation"]
-	"John Koukoulis (347)" -> "Sazeda Akter (346)" [label=5521]
-	"Bradley Schott (350)" -> "John Koukoulis (347)" [label=850]
-	"Alan Jorgensen (349)" -> "Bradley Schott (350)" [label=393]
-	"Bradley Schott (350)" -> "Sazeda Akter (346)" [label=935]
 	"Alan Jorgensen (349)" -> "Sazeda Akter (346)" [label=702]
+	"Alan Jorgensen (349)" -> "Bradley Schott (350)" [label=393]
+	"Bradley Schott (350)" -> "John Koukoulis (347)" [label=850]
 	"Alan Jorgensen (349)" -> "John Koukoulis (347)" [label=2539]
+	"Bradley Schott (350)" -> "Sazeda Akter (346)" [label=935]
+	"John Koukoulis (347)" -> "Sazeda Akter (346)" [label=5521]
 }

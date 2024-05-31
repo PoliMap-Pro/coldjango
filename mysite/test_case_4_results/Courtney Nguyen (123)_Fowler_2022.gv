@@ -2,24 +2,24 @@
 digraph "Courtney Nguyen (123)_Fowler_2022" {
 	graph [label="Fowler 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Avery Howard (125)" [label="Avery Howard (125)
+The Greens"]
 	"Courtney Nguyen (123)" [label="Courtney Nguyen (123)
 Liberal"]
 	"Lela Lepa Panich (120)" [label="Lela Lepa Panich (120)
 United Australia Party"]
-	"Avery Howard (125)" [label="Avery Howard (125)
-The Greens"]
-	"Tony Margos (124)" [label="Tony Margos (124)
-Pauline Hanson's One Nation"]
 	"Peter Ronald Runge (121)" [label="Peter Ronald Runge (121)
 Liberal Democrats"]
+	"Tony Margos (124)" [label="Tony Margos (124)
+Pauline Hanson's One Nation"]
+	"Peter Ronald Runge (121)" -> "Courtney Nguyen (123)" [label=839]
+	"Tony Margos (124)" -> "Lela Lepa Panich (120)" [label=1497]
+	"Tony Margos (124)" -> "Courtney Nguyen (123)" [label=374]
 	"Lela Lepa Panich (120)" -> "Courtney Nguyen (123)" [label=1478]
+	"Peter Ronald Runge (121)" -> "Avery Howard (125)" [label=72]
 	"Avery Howard (125)" -> "Lela Lepa Panich (120)" [label=428]
 	"Tony Margos (124)" -> "Avery Howard (125)" [label=353]
-	"Peter Ronald Runge (121)" -> "Tony Margos (124)" [label=143]
 	"Avery Howard (125)" -> "Courtney Nguyen (123)" [label=622]
-	"Tony Margos (124)" -> "Courtney Nguyen (123)" [label=374]
-	"Peter Ronald Runge (121)" -> "Courtney Nguyen (123)" [label=839]
-	"Peter Ronald Runge (121)" -> "Avery Howard (125)" [label=72]
-	"Tony Margos (124)" -> "Lela Lepa Panich (120)" [label=1497]
+	"Peter Ronald Runge (121)" -> "Tony Margos (124)" [label=143]
 	"Peter Ronald Runge (121)" -> "Lela Lepa Panich (120)" [label=271]
 }

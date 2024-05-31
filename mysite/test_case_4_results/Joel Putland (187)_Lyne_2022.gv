@@ -2,9 +2,9 @@
 digraph "Joel Putland (187)_Lyne_2022" {
 	graph [label="Lyne 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joel Putland (187)" [label="Joel Putland (187)
-United Australia Party"]
 	"Joanne Pearce (186)" [label="Joanne Pearce (186)
 Independent"]
+	"Joel Putland (187)" [label="Joel Putland (187)
+United Australia Party"]
 	"Joanne Pearce (186)" -> "Joel Putland (187)" [label=678]
 }

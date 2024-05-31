@@ -2,18 +2,18 @@
 digraph "Scott Jordan (2505)_Braddon_2016" {
 	graph [label="Braddon 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Graham Hodge (2508)" [label="Graham Hodge (2508)
-Christian Democratic Party (Fred Nile Group)"]
-	"Clinton Rice (2509)" [label="Clinton Rice (2509)
-Renewable Energy Party"]
-	"Scott Jordan (2505)" [label="Scott Jordan (2505)
-The Greens"]
 	"Joshua Boag (2510)" [label="Joshua Boag (2510)
 Liberal Democrats"]
-	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
-	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
-	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
-	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
+	"Graham Hodge (2508)" [label="Graham Hodge (2508)
+Christian Democratic Party (Fred Nile Group)"]
+	"Scott Jordan (2505)" [label="Scott Jordan (2505)
+The Greens"]
+	"Clinton Rice (2509)" [label="Clinton Rice (2509)
+Renewable Energy Party"]
 	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
 	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
+	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
+	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
+	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
+	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
 }

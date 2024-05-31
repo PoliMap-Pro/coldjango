@@ -4,11 +4,11 @@ digraph "Glen Cookson (581)_Rankin_2022" {
 	node [shape=box]
 	"Glen Cookson (581)" [label="Glen Cookson (581)
 Pauline Hanson's One Nation"]
-	"Jeff Crank (580)" [label="Jeff Crank (580)
-United Australia Party"]
 	"Suzanne Clarke (582)" [label="Suzanne Clarke (582)
 Animal Justice Party"]
-	"Jeff Crank (580)" -> "Glen Cookson (581)" [label=3167]
+	"Jeff Crank (580)" [label="Jeff Crank (580)
+United Australia Party"]
 	"Suzanne Clarke (582)" -> "Jeff Crank (580)" [label=285]
 	"Suzanne Clarke (582)" -> "Glen Cookson (581)" [label=422]
+	"Jeff Crank (580)" -> "Glen Cookson (581)" [label=3167]
 }

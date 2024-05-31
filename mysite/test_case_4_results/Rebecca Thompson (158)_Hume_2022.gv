@@ -2,31 +2,31 @@
 digraph "Rebecca Thompson (158)_Hume_2022" {
 	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rebecca Thompson (158)" [label="Rebecca Thompson (158)
-Pauline Hanson's One Nation"]
-	"Karen Stewart (161)" [label="Karen Stewart (161)
-The Greens"]
-	"Garry Trevor Dollin (157)" [label="Garry Trevor Dollin (157)
-United Australia Party"]
-	"Ross Edward Seller (160)" [label="Ross Edward Seller (160)
-Shooters, Fishers and Farmers Party"]
-	"Sheneli Meneripitiyage Dona (159)" [label="Sheneli Meneripitiyage Dona (159)
-Independent"]
 	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
 Liberal Democrats"]
-	"Karen Stewart (161)" -> "Rebecca Thompson (158)" [label=454]
+	"Garry Trevor Dollin (157)" [label="Garry Trevor Dollin (157)
+United Australia Party"]
+	"Rebecca Thompson (158)" [label="Rebecca Thompson (158)
+Pauline Hanson's One Nation"]
+	"Ross Edward Seller (160)" [label="Ross Edward Seller (160)
+Shooters, Fishers and Farmers Party"]
+	"Karen Stewart (161)" [label="Karen Stewart (161)
+The Greens"]
+	"Sheneli Meneripitiyage Dona (159)" [label="Sheneli Meneripitiyage Dona (159)
+Independent"]
 	"Garry Trevor Dollin (157)" -> "Karen Stewart (161)" [label=257]
-	"Ross Edward Seller (160)" -> "Garry Trevor Dollin (157)" [label=434]
-	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
-	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
-	"Garry Trevor Dollin (157)" -> "Rebecca Thompson (158)" [label=2724]
-	"Ross Edward Seller (160)" -> "Rebecca Thompson (158)" [label=953]
-	"Sheneli Meneripitiyage Dona (159)" -> "Rebecca Thompson (158)" [label=88]
-	"Joaquim Eduardo De Lima (163)" -> "Rebecca Thompson (158)" [label=144]
 	"Joaquim Eduardo De Lima (163)" -> "Ross Edward Seller (160)" [label=76]
-	"Sheneli Meneripitiyage Dona (159)" -> "Garry Trevor Dollin (157)" [label=48]
-	"Joaquim Eduardo De Lima (163)" -> "Garry Trevor Dollin (157)" [label=114]
+	"Ross Edward Seller (160)" -> "Garry Trevor Dollin (157)" [label=434]
+	"Joaquim Eduardo De Lima (163)" -> "Rebecca Thompson (158)" [label=144]
+	"Sheneli Meneripitiyage Dona (159)" -> "Rebecca Thompson (158)" [label=88]
+	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
 	"Ross Edward Seller (160)" -> "Karen Stewart (161)" [label=284]
+	"Ross Edward Seller (160)" -> "Rebecca Thompson (158)" [label=953]
+	"Garry Trevor Dollin (157)" -> "Rebecca Thompson (158)" [label=2724]
+	"Karen Stewart (161)" -> "Rebecca Thompson (158)" [label=454]
+	"Joaquim Eduardo De Lima (163)" -> "Garry Trevor Dollin (157)" [label=114]
+	"Sheneli Meneripitiyage Dona (159)" -> "Garry Trevor Dollin (157)" [label=48]
 	"Sheneli Meneripitiyage Dona (159)" -> "Karen Stewart (161)" [label=160]
+	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
 	"Joaquim Eduardo De Lima (163)" -> "Karen Stewart (161)" [label=21]
 }

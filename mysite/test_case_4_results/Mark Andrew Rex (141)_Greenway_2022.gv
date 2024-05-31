@@ -2,31 +2,31 @@
 digraph "Mark Andrew Rex (141)_Greenway_2022" {
 	graph [label="Greenway 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Andrew Rex (141)" [label="Mark Andrew Rex (141)
-United Australia Party"]
-	"Damien Atkins (148)" [label="Damien Atkins (148)
-The Greens"]
+	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
+Independent"]
 	"Riccardo Umberto Guerrino Bosi (144)" [label="Riccardo Umberto Guerrino Bosi (144)
 Independent"]
 	"Adam Kachwalla (143)" [label="Adam Kachwalla (143)
 Liberal Democrats"]
+	"Damien Atkins (148)" [label="Damien Atkins (148)
+The Greens"]
+	"Mark Andrew Rex (141)" [label="Mark Andrew Rex (141)
+United Australia Party"]
 	"Rick Turner (146)" [label="Rick Turner (146)
 Pauline Hanson's One Nation"]
-	"Love Preet Singh Nanda (145)" [label="Love Preet Singh Nanda (145)
-Independent"]
-	"Damien Atkins (148)" -> "Mark Andrew Rex (141)" [label=1019]
 	"Riccardo Umberto Guerrino Bosi (144)" -> "Damien Atkins (148)" [label=531]
-	"Adam Kachwalla (143)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=579]
-	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
-	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
-	"Riccardo Umberto Guerrino Bosi (144)" -> "Mark Andrew Rex (141)" [label=2532]
-	"Adam Kachwalla (143)" -> "Mark Andrew Rex (141)" [label=496]
-	"Rick Turner (146)" -> "Mark Andrew Rex (141)" [label=973]
+	"Love Preet Singh Nanda (145)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=442]
+	"Rick Turner (146)" -> "Damien Atkins (148)" [label=217]
 	"Love Preet Singh Nanda (145)" -> "Mark Andrew Rex (141)" [label=75]
+	"Adam Kachwalla (143)" -> "Mark Andrew Rex (141)" [label=496]
+	"Adam Kachwalla (143)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=579]
+	"Damien Atkins (148)" -> "Mark Andrew Rex (141)" [label=1019]
+	"Rick Turner (146)" -> "Mark Andrew Rex (141)" [label=973]
+	"Love Preet Singh Nanda (145)" -> "Rick Turner (146)" [label=47]
+	"Love Preet Singh Nanda (145)" -> "Damien Atkins (148)" [label=108]
+	"Riccardo Umberto Guerrino Bosi (144)" -> "Mark Andrew Rex (141)" [label=2532]
 	"Love Preet Singh Nanda (145)" -> "Adam Kachwalla (143)" [label=72]
 	"Rick Turner (146)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=408]
-	"Love Preet Singh Nanda (145)" -> "Riccardo Umberto Guerrino Bosi (144)" [label=442]
+	"Rick Turner (146)" -> "Adam Kachwalla (143)" [label=258]
 	"Adam Kachwalla (143)" -> "Damien Atkins (148)" [label=131]
-	"Rick Turner (146)" -> "Damien Atkins (148)" [label=217]
-	"Love Preet Singh Nanda (145)" -> "Damien Atkins (148)" [label=108]
 }

@@ -2,39 +2,39 @@
 digraph "Malcolm Turnbull (2254)_Wentworth_2016" {
 	graph [label="Wentworth 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Malcolm Turnbull (2254)" [label="Malcolm Turnbull (2254)
-Liberal"]
+	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
+Christian Democratic Party (Fred Nile Group)"]
+	"Marc Aussie-Stone (2256)" [label="Marc Aussie-Stone (2256)
+Independent"]
+	"Peter Xing (2250)" [label="Peter Xing (2250)
+Science Party"]
 	"Dejay Toborek (2249)" [label="Dejay Toborek (2249)
 The Greens"]
 	"Anthony Michael Ackroyd (2251)" [label="Anthony Michael Ackroyd (2251)
 The Arts Party"]
-	"Peter Xing (2250)" [label="Peter Xing (2250)
-Science Party"]
-	"Beresford Thomas (2252)" [label="Beresford Thomas (2252)
-Christian Democratic Party (Fred Nile Group)"]
+	"Malcolm Turnbull (2254)" [label="Malcolm Turnbull (2254)
+Liberal"]
 	"David Allen (2253)" [label="David Allen (2253)
 Independent"]
-	"Marc Aussie-Stone (2256)" [label="Marc Aussie-Stone (2256)
-Independent"]
-	"Dejay Toborek (2249)" -> "Malcolm Turnbull (2254)" [label=3072]
-	"Anthony Michael Ackroyd (2251)" -> "Dejay Toborek (2249)" [label=1201]
-	"Peter Xing (2250)" -> "Anthony Michael Ackroyd (2251)" [label=529]
-	"Beresford Thomas (2252)" -> "Peter Xing (2250)" [label=161]
-	"David Allen (2253)" -> "Beresford Thomas (2252)" [label=90]
-	"Marc Aussie-Stone (2256)" -> "David Allen (2253)" [label=169]
-	"Anthony Michael Ackroyd (2251)" -> "Malcolm Turnbull (2254)" [label=542]
 	"Peter Xing (2250)" -> "Malcolm Turnbull (2254)" [label=237]
+	"Beresford Thomas (2252)" -> "Peter Xing (2250)" [label=161]
+	"Dejay Toborek (2249)" -> "Malcolm Turnbull (2254)" [label=3072]
 	"Beresford Thomas (2252)" -> "Malcolm Turnbull (2254)" [label=523]
-	"David Allen (2253)" -> "Malcolm Turnbull (2254)" [label=192]
-	"Marc Aussie-Stone (2256)" -> "Malcolm Turnbull (2254)" [label=52]
-	"Marc Aussie-Stone (2256)" -> "Beresford Thomas (2252)" [label=14]
-	"David Allen (2253)" -> "Peter Xing (2250)" [label=113]
-	"Marc Aussie-Stone (2256)" -> "Peter Xing (2250)" [label=18]
-	"Beresford Thomas (2252)" -> "Anthony Michael Ackroyd (2251)" [label=176]
-	"David Allen (2253)" -> "Anthony Michael Ackroyd (2251)" [label=113]
-	"Marc Aussie-Stone (2256)" -> "Anthony Michael Ackroyd (2251)" [label=21]
-	"Peter Xing (2250)" -> "Dejay Toborek (2249)" [label=364]
+	"David Allen (2253)" -> "Beresford Thomas (2252)" [label=90]
 	"Beresford Thomas (2252)" -> "Dejay Toborek (2249)" [label=45]
-	"David Allen (2253)" -> "Dejay Toborek (2249)" [label=117]
 	"Marc Aussie-Stone (2256)" -> "Dejay Toborek (2249)" [label=46]
+	"Anthony Michael Ackroyd (2251)" -> "Dejay Toborek (2249)" [label=1201]
+	"Beresford Thomas (2252)" -> "Anthony Michael Ackroyd (2251)" [label=176]
+	"Marc Aussie-Stone (2256)" -> "Beresford Thomas (2252)" [label=14]
+	"Peter Xing (2250)" -> "Dejay Toborek (2249)" [label=364]
+	"David Allen (2253)" -> "Malcolm Turnbull (2254)" [label=192]
+	"Anthony Michael Ackroyd (2251)" -> "Malcolm Turnbull (2254)" [label=542]
+	"Marc Aussie-Stone (2256)" -> "David Allen (2253)" [label=169]
+	"David Allen (2253)" -> "Dejay Toborek (2249)" [label=117]
+	"David Allen (2253)" -> "Peter Xing (2250)" [label=113]
+	"Marc Aussie-Stone (2256)" -> "Malcolm Turnbull (2254)" [label=52]
+	"David Allen (2253)" -> "Anthony Michael Ackroyd (2251)" [label=113]
+	"Marc Aussie-Stone (2256)" -> "Peter Xing (2250)" [label=18]
+	"Peter Xing (2250)" -> "Anthony Michael Ackroyd (2251)" [label=529]
+	"Marc Aussie-Stone (2256)" -> "Anthony Michael Ackroyd (2251)" [label=21]
 }

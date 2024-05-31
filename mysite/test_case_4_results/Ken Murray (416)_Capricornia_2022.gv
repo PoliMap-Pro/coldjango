@@ -10,10 +10,10 @@ The Great Australian Party"]
 Independent"]
 	"Steve Murphy (415)" [label="Steve Murphy (415)
 Liberal Democrats"]
-	"Zteven Whitty (419)" -> "Ken Murray (416)" [label=425]
 	"Paula Ganfield (412)" -> "Ken Murray (416)" [label=195]
 	"Steve Murphy (415)" -> "Ken Murray (416)" [label=200]
 	"Paula Ganfield (412)" -> "Zteven Whitty (419)" [label=276]
 	"Steve Murphy (415)" -> "Zteven Whitty (419)" [label=81]
 	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
+	"Zteven Whitty (419)" -> "Ken Murray (416)" [label=425]
 }

@@ -2,24 +2,24 @@
 digraph "Cameron Pidgeon (1110)_Curtin_2022" {
 	graph [label="Curtin 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dale Marie Grillo (1107)" [label="Dale Marie Grillo (1107)
-Pauline Hanson's One Nation"]
 	"Bill Burn (1104)" [label="Bill Burn (1104)
 WESTERN AUSTRALIA PARTY"]
-	"Judith Cullity (1105)" [label="Judith Cullity (1105)
-Australian Federation Party"]
-	"Ladeisha Louise Verhoeff (1103)" [label="Ladeisha Louise Verhoeff (1103)
-United Australia Party"]
 	"Cameron Pidgeon (1110)" [label="Cameron Pidgeon (1110)
 The Greens (WA)"]
-	"Bill Burn (1104)" -> "Cameron Pidgeon (1110)" [label=127]
-	"Judith Cullity (1105)" -> "Cameron Pidgeon (1110)" [label=26]
-	"Judith Cullity (1105)" -> "Bill Burn (1104)" [label=113]
-	"Ladeisha Louise Verhoeff (1103)" -> "Cameron Pidgeon (1110)" [label=262]
-	"Judith Cullity (1105)" -> "Ladeisha Louise Verhoeff (1103)" [label=197]
-	"Dale Marie Grillo (1107)" -> "Ladeisha Louise Verhoeff (1103)" [label=1093]
-	"Bill Burn (1104)" -> "Ladeisha Louise Verhoeff (1103)" [label=199]
-	"Judith Cullity (1105)" -> "Dale Marie Grillo (1107)" [label=294]
-	"Bill Burn (1104)" -> "Dale Marie Grillo (1107)" [label=134]
+	"Dale Marie Grillo (1107)" [label="Dale Marie Grillo (1107)
+Pauline Hanson's One Nation"]
+	"Ladeisha Louise Verhoeff (1103)" [label="Ladeisha Louise Verhoeff (1103)
+United Australia Party"]
+	"Judith Cullity (1105)" [label="Judith Cullity (1105)
+Australian Federation Party"]
 	"Dale Marie Grillo (1107)" -> "Cameron Pidgeon (1110)" [label=81]
+	"Judith Cullity (1105)" -> "Bill Burn (1104)" [label=113]
+	"Judith Cullity (1105)" -> "Cameron Pidgeon (1110)" [label=26]
+	"Ladeisha Louise Verhoeff (1103)" -> "Cameron Pidgeon (1110)" [label=262]
+	"Bill Burn (1104)" -> "Dale Marie Grillo (1107)" [label=134]
+	"Bill Burn (1104)" -> "Cameron Pidgeon (1110)" [label=127]
+	"Bill Burn (1104)" -> "Ladeisha Louise Verhoeff (1103)" [label=199]
+	"Judith Cullity (1105)" -> "Ladeisha Louise Verhoeff (1103)" [label=197]
+	"Judith Cullity (1105)" -> "Dale Marie Grillo (1107)" [label=294]
+	"Dale Marie Grillo (1107)" -> "Ladeisha Louise Verhoeff (1103)" [label=1093]
 }

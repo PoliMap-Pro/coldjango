@@ -2,13 +2,13 @@
 digraph "John Koukoulis (347)_Watson_2022" {
 	graph [label="Watson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"John Koukoulis (347)" [label="John Koukoulis (347)
-United Australia Party"]
 	"Bradley Schott (350)" [label="Bradley Schott (350)
 The Greens"]
+	"John Koukoulis (347)" [label="John Koukoulis (347)
+United Australia Party"]
 	"Alan Jorgensen (349)" [label="Alan Jorgensen (349)
 Pauline Hanson's One Nation"]
 	"Bradley Schott (350)" -> "John Koukoulis (347)" [label=850]
-	"Alan Jorgensen (349)" -> "Bradley Schott (350)" [label=393]
 	"Alan Jorgensen (349)" -> "John Koukoulis (347)" [label=2539]
+	"Alan Jorgensen (349)" -> "Bradley Schott (350)" [label=393]
 }

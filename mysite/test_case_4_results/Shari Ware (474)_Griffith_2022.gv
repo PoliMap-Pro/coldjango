@@ -2,9 +2,9 @@
 digraph "Shari Ware (474)_Griffith_2022" {
 	graph [label="Griffith 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Shari Ware (474)" [label="Shari Ware (474)
-Pauline Hanson's One Nation"]
 	"Robert Gordon Mcmullan (477)" [label="Robert Gordon Mcmullan (477)
 United Australia Party"]
+	"Shari Ware (474)" [label="Shari Ware (474)
+Pauline Hanson's One Nation"]
 	"Robert Gordon Mcmullan (477)" -> "Shari Ware (474)" [label=1547]
 }

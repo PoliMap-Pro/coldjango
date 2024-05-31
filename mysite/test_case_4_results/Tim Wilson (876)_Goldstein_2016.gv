@@ -4,22 +4,22 @@ digraph "Tim Wilson (876)_Goldstein_2016" {
 	node [shape=box]
 	"Tim Wilson (876)" [label="Tim Wilson (876)
 Liberal"]
-	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
-The Greens"]
-	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
-Animal Justice Party"]
 	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
 Drug Law Reform"]
+	"Cheryl Hercus (2611)" [label="Cheryl Hercus (2611)
+The Greens"]
 	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
 Family First Party"]
-	"Cheryl Hercus (2611)" -> "Tim Wilson (876)" [label=4081]
+	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
+Animal Justice Party"]
 	"Naren Chellappah (2613)" -> "Cheryl Hercus (2611)" [label=1827]
-	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
-	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
-	"Naren Chellappah (2613)" -> "Tim Wilson (876)" [label=872]
-	"Lee Kavanagh (2614)" -> "Tim Wilson (876)" [label=400]
-	"Trevor Bishop (2612)" -> "Tim Wilson (876)" [label=581]
-	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
 	"Lee Kavanagh (2614)" -> "Cheryl Hercus (2611)" [label=556]
+	"Trevor Bishop (2612)" -> "Tim Wilson (876)" [label=581]
+	"Cheryl Hercus (2611)" -> "Tim Wilson (876)" [label=4081]
 	"Trevor Bishop (2612)" -> "Cheryl Hercus (2611)" [label=228]
+	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
+	"Lee Kavanagh (2614)" -> "Tim Wilson (876)" [label=400]
+	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
+	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
+	"Naren Chellappah (2613)" -> "Tim Wilson (876)" [label=872]
 }

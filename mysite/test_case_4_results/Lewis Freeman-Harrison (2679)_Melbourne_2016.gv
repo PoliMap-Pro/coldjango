@@ -2,13 +2,13 @@
 digraph "Lewis Freeman-Harrison (2679)_Melbourne_2016" {
 	graph [label="Melbourne 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Matt Riley (2683)" [label="Matt Riley (2683)
+Drug Law Reform"]
 	"Miranda Joyce Smith (2682)" [label="Miranda Joyce Smith (2682)
 Animal Justice Party"]
 	"Lewis Freeman-Harrison (2679)" [label="Lewis Freeman-Harrison (2679)
 Australian Sex Party"]
-	"Matt Riley (2683)" [label="Matt Riley (2683)
-Drug Law Reform"]
+	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
 	"Miranda Joyce Smith (2682)" -> "Lewis Freeman-Harrison (2679)" [label=527]
 	"Matt Riley (2683)" -> "Lewis Freeman-Harrison (2679)" [label=378]
-	"Matt Riley (2683)" -> "Miranda Joyce Smith (2682)" [label=230]
 }

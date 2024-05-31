@@ -8,7 +8,7 @@ Australian Liberty Alliance"]
 Family First"]
 	"Brad Scott (2295)" [label="Brad Scott (2295)
 The Greens"]
-	"Brett Saunders (2298)" -> "Brad Scott (2295)" [label=1712]
 	"Tony Duncan (2297)" -> "Brad Scott (2295)" [label=253]
+	"Brett Saunders (2298)" -> "Brad Scott (2295)" [label=1712]
 	"Tony Duncan (2297)" -> "Brett Saunders (2298)" [label=1980]
 }

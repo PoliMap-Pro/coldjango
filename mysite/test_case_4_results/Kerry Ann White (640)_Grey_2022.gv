@@ -2,31 +2,31 @@
 digraph "Kerry Ann White (640)_Grey_2022" {
 	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kerry Ann White (640)" [label="Kerry Ann White (640)
-Pauline Hanson's One Nation"]
-	"Tim White (635)" [label="Tim White (635)
-The Greens"]
 	"Suzanne Waters (636)" [label="Suzanne Waters (636)
 United Australia Party"]
-	"Peter Miller (637)" [label="Peter Miller (637)
-Liberal Democrats"]
-	"Richard Carmody (642)" [label="Richard Carmody (642)
-Independent"]
 	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
 Australian Federation Party"]
-	"Tim White (635)" -> "Kerry Ann White (640)" [label=651]
+	"Peter Miller (637)" [label="Peter Miller (637)
+Liberal Democrats"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Kerry Ann White (640)" [label="Kerry Ann White (640)
+Pauline Hanson's One Nation"]
 	"Suzanne Waters (636)" -> "Tim White (635)" [label=739]
-	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
+	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
 	"Richard Carmody (642)" -> "Peter Miller (637)" [label=42]
-	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
+	"Peter Miller (637)" -> "Tim White (635)" [label=185]
 	"Suzanne Waters (636)" -> "Kerry Ann White (640)" [label=3115]
-	"Peter Miller (637)" -> "Kerry Ann White (640)" [label=281]
 	"Richard Carmody (642)" -> "Kerry Ann White (640)" [label=183]
+	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
+	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
+	"Tim White (635)" -> "Kerry Ann White (640)" [label=651]
+	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
 	"Tracey Dempsey (641)" -> "Kerry Ann White (640)" [label=164]
 	"Tracey Dempsey (641)" -> "Peter Miller (637)" [label=91]
-	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
-	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
-	"Peter Miller (637)" -> "Tim White (635)" [label=185]
+	"Peter Miller (637)" -> "Kerry Ann White (640)" [label=281]
 	"Richard Carmody (642)" -> "Tim White (635)" [label=148]
 	"Tracey Dempsey (641)" -> "Tim White (635)" [label=57]
 }

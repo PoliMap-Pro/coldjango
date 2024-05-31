@@ -2,18 +2,18 @@
 digraph "Aiya Goodrich Carttling (380)_Solomon_2022" {
 	graph [label="Solomon 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tayla Elise Selfe (384)" [label="Tayla Elise Selfe (384)
-United Australia Party"]
-	"Aiya Goodrich Carttling (380)" [label="Aiya Goodrich Carttling (380)
-The Greens"]
 	"Emily Lohse (383)" [label="Emily Lohse (383)
 Pauline Hanson's One Nation"]
 	"Kylie Bonanni (379)" [label="Kylie Bonanni (379)
 Liberal Democrats"]
-	"Tayla Elise Selfe (384)" -> "Emily Lohse (383)" [label=1377]
-	"Emily Lohse (383)" -> "Kylie Bonanni (379)" [label=1696]
-	"Tayla Elise Selfe (384)" -> "Aiya Goodrich Carttling (380)" [label=293]
-	"Tayla Elise Selfe (384)" -> "Kylie Bonanni (379)" [label=385]
-	"Kylie Bonanni (379)" -> "Aiya Goodrich Carttling (380)" [label=1921]
+	"Tayla Elise Selfe (384)" [label="Tayla Elise Selfe (384)
+United Australia Party"]
+	"Aiya Goodrich Carttling (380)" [label="Aiya Goodrich Carttling (380)
+The Greens"]
 	"Emily Lohse (383)" -> "Aiya Goodrich Carttling (380)" [label=756]
+	"Emily Lohse (383)" -> "Kylie Bonanni (379)" [label=1696]
+	"Tayla Elise Selfe (384)" -> "Emily Lohse (383)" [label=1377]
+	"Tayla Elise Selfe (384)" -> "Kylie Bonanni (379)" [label=385]
+	"Tayla Elise Selfe (384)" -> "Aiya Goodrich Carttling (380)" [label=293]
+	"Kylie Bonanni (379)" -> "Aiya Goodrich Carttling (380)" [label=1921]
 }

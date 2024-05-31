@@ -4,22 +4,22 @@ digraph "Craig Cole (771)_Casey_2022" {
 	node [shape=box]
 	"Trevor Walter Smith (777)" [label="Trevor Walter Smith (777)
 Liberal Democrats"]
-	"Craig Cole (771)" [label="Craig Cole (771)
-Independent"]
 	"Chris Field (776)" [label="Chris Field (776)
 Australian Federation Party"]
-	"Andrew Klop (772)" [label="Andrew Klop (772)
-Animal Justice Party"]
 	"Peter Sullivan (778)" [label="Peter Sullivan (778)
 Derryn Hinch's Justice Party"]
+	"Andrew Klop (772)" [label="Andrew Klop (772)
+Animal Justice Party"]
+	"Craig Cole (771)" [label="Craig Cole (771)
+Independent"]
 	"Chris Field (776)" -> "Peter Sullivan (778)" [label=19]
-	"Chris Field (776)" -> "Andrew Klop (772)" [label=18]
-	"Andrew Klop (772)" -> "Trevor Walter Smith (777)" [label=48]
-	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
-	"Chris Field (776)" -> "Trevor Walter Smith (777)" [label=136]
-	"Trevor Walter Smith (777)" -> "Craig Cole (771)" [label=191]
+	"Peter Sullivan (778)" -> "Craig Cole (771)" [label=109]
 	"Peter Sullivan (778)" -> "Trevor Walter Smith (777)" [label=53]
+	"Chris Field (776)" -> "Trevor Walter Smith (777)" [label=136]
+	"Chris Field (776)" -> "Andrew Klop (772)" [label=18]
 	"Andrew Klop (772)" -> "Craig Cole (771)" [label=229]
 	"Chris Field (776)" -> "Craig Cole (771)" [label=69]
-	"Peter Sullivan (778)" -> "Craig Cole (771)" [label=109]
+	"Trevor Walter Smith (777)" -> "Craig Cole (771)" [label=191]
+	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
+	"Andrew Klop (772)" -> "Trevor Walter Smith (777)" [label=48]
 }

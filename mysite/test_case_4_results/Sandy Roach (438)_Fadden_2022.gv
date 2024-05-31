@@ -2,6 +2,8 @@
 digraph "Sandy Roach (438)_Fadden_2022" {
 	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Alex Forbes (441)" [label="Alex Forbes (441)
+Liberal Democrats"]
 	"Sandy Roach (438)" [label="Sandy Roach (438)
 Pauline Hanson's One Nation"]
 	"Sally Spain (440)" [label="Sally Spain (440)
@@ -10,16 +12,14 @@ Queensland Greens"]
 United Australia Party"]
 	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
 Independent"]
-	"Alex Forbes (441)" [label="Alex Forbes (441)
-Liberal Democrats"]
+	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
 	"Sally Spain (440)" -> "Sandy Roach (438)" [label=2178]
+	"Alex Forbes (441)" -> "Sandy Roach (438)" [label=450]
 	"Nathan Grant O'Brien (437)" -> "Sally Spain (440)" [label=820]
 	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
-	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
-	"Nathan Grant O'Brien (437)" -> "Sandy Roach (438)" [label=5230]
-	"Stewart Gordon Brooker (435)" -> "Sandy Roach (438)" [label=864]
-	"Alex Forbes (441)" -> "Sandy Roach (438)" [label=450]
 	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
-	"Stewart Gordon Brooker (435)" -> "Sally Spain (440)" [label=1046]
+	"Nathan Grant O'Brien (437)" -> "Sandy Roach (438)" [label=5230]
 	"Alex Forbes (441)" -> "Sally Spain (440)" [label=406]
+	"Stewart Gordon Brooker (435)" -> "Sandy Roach (438)" [label=864]
+	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
 }

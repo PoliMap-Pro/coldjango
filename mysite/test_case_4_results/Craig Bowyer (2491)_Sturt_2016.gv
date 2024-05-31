@@ -2,13 +2,13 @@
 digraph "Craig Bowyer (2491)_Sturt_2016" {
 	graph [label="Sturt 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
-Independent"]
 	"Geoff Russell (1655)" [label="Geoff Russell (1655)
 Animal Justice Party"]
+	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
+Independent"]
 	"Craig Bowyer (2491)" [label="Craig Bowyer (2491)
 Family First"]
-	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
-	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
 	"Neil Aitchison (2494)" -> "Geoff Russell (1655)" [label=64]
+	"Neil Aitchison (2494)" -> "Craig Bowyer (2491)" [label=173]
+	"Geoff Russell (1655)" -> "Craig Bowyer (2491)" [label=204]
 }

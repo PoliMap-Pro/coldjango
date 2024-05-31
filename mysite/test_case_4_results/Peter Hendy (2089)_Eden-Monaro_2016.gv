@@ -2,48 +2,48 @@
 digraph "Peter Hendy (2089)_Eden-Monaro_2016" {
 	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Hendy (2089)" [label="Peter Hendy (2089)
-Liberal"]
-	"Tamara Ryan (2090)" [label="Tamara Ryan (2090)
-The Greens"]
-	"Daniel Grosmaire (2085)" [label="Daniel Grosmaire (2085)
-Independent"]
-	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
-Animal Justice Party"]
-	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
-Christian Democratic Party (Fred Nile Group)"]
 	"Don Friend (2087)" [label="Don Friend (2087)
 Veterans Party"]
-	"Andrew Evan Thaler (2092)" [label="Andrew Evan Thaler (2092)
+	"Daniel Grosmaire (2085)" [label="Daniel Grosmaire (2085)
 Independent"]
 	"Ray Buckley (2088)" [label="Ray Buckley (2088)
 Independent"]
-	"Tamara Ryan (2090)" -> "Peter Hendy (2089)" [label=1748]
+	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
+Christian Democratic Party (Fred Nile Group)"]
+	"Tamara Ryan (2090)" [label="Tamara Ryan (2090)
+The Greens"]
+	"Peter Hendy (2089)" [label="Peter Hendy (2089)
+Liberal"]
+	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
+Animal Justice Party"]
+	"Andrew Evan Thaler (2092)" [label="Andrew Evan Thaler (2092)
+Independent"]
 	"Daniel Grosmaire (2085)" -> "Tamara Ryan (2090)" [label=1324]
-	"Frankie Seymour (2091)" -> "Daniel Grosmaire (2085)" [label=918]
-	"Ursula Bennett (2086)" -> "Frankie Seymour (2091)" [label=281]
-	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
-	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
-	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
-	"Daniel Grosmaire (2085)" -> "Peter Hendy (2089)" [label=1992]
-	"Frankie Seymour (2091)" -> "Peter Hendy (2089)" [label=357]
-	"Ursula Bennett (2086)" -> "Peter Hendy (2089)" [label=824]
-	"Don Friend (2087)" -> "Peter Hendy (2089)" [label=321]
-	"Andrew Evan Thaler (2092)" -> "Peter Hendy (2089)" [label=93]
-	"Ray Buckley (2088)" -> "Peter Hendy (2089)" [label=82]
-	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
-	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
-	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
-	"Don Friend (2087)" -> "Frankie Seymour (2091)" [label=213]
-	"Andrew Evan Thaler (2092)" -> "Frankie Seymour (2091)" [label=104]
-	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
-	"Ursula Bennett (2086)" -> "Daniel Grosmaire (2085)" [label=689]
-	"Don Friend (2087)" -> "Daniel Grosmaire (2085)" [label=625]
-	"Andrew Evan Thaler (2092)" -> "Daniel Grosmaire (2085)" [label=518]
-	"Ray Buckley (2088)" -> "Daniel Grosmaire (2085)" [label=272]
-	"Frankie Seymour (2091)" -> "Tamara Ryan (2090)" [label=784]
 	"Ursula Bennett (2086)" -> "Tamara Ryan (2090)" [label=55]
-	"Don Friend (2087)" -> "Tamara Ryan (2090)" [label=97]
+	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
+	"Don Friend (2087)" -> "Frankie Seymour (2091)" [label=213]
 	"Andrew Evan Thaler (2092)" -> "Tamara Ryan (2090)" [label=78]
+	"Andrew Evan Thaler (2092)" -> "Peter Hendy (2089)" [label=93]
+	"Ursula Bennett (2086)" -> "Frankie Seymour (2091)" [label=281]
+	"Tamara Ryan (2090)" -> "Peter Hendy (2089)" [label=1748]
+	"Daniel Grosmaire (2085)" -> "Peter Hendy (2089)" [label=1992]
+	"Don Friend (2087)" -> "Peter Hendy (2089)" [label=321]
+	"Frankie Seymour (2091)" -> "Daniel Grosmaire (2085)" [label=918]
+	"Ursula Bennett (2086)" -> "Daniel Grosmaire (2085)" [label=689]
+	"Ray Buckley (2088)" -> "Peter Hendy (2089)" [label=82]
+	"Andrew Evan Thaler (2092)" -> "Frankie Seymour (2091)" [label=104]
 	"Ray Buckley (2088)" -> "Tamara Ryan (2090)" [label=61]
+	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
+	"Ursula Bennett (2086)" -> "Peter Hendy (2089)" [label=824]
+	"Andrew Evan Thaler (2092)" -> "Daniel Grosmaire (2085)" [label=518]
+	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
+	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
+	"Don Friend (2087)" -> "Tamara Ryan (2090)" [label=97]
+	"Frankie Seymour (2091)" -> "Peter Hendy (2089)" [label=357]
+	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
+	"Frankie Seymour (2091)" -> "Tamara Ryan (2090)" [label=784]
+	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
+	"Ray Buckley (2088)" -> "Daniel Grosmaire (2085)" [label=272]
+	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
+	"Don Friend (2087)" -> "Daniel Grosmaire (2085)" [label=625]
 }

@@ -2,24 +2,24 @@
 digraph "Tony Pettitt (207)_Macquarie_2022" {
 	graph [label="Macquarie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Tony Pettitt (207)" [label="Tony Pettitt (207)
-Pauline Hanson's One Nation"]
 	"Nicole Evans (209)" [label="Nicole Evans (209)
 United Australia Party"]
+	"Tony Pettitt (207)" [label="Tony Pettitt (207)
+Pauline Hanson's One Nation"]
+	"James Jackson (210)" [label="James Jackson (210)
+Liberal Democrats"]
 	"Greg Keightley (211)" [label="Greg Keightley (211)
 Animal Justice Party"]
 	"Michelle Palmer (213)" [label="Michelle Palmer (213)
 Informed Medical Options Party"]
-	"James Jackson (210)" [label="James Jackson (210)
-Liberal Democrats"]
-	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
-	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
-	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
-	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
-	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
-	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
-	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
-	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
-	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
 	"James Jackson (210)" -> "Nicole Evans (209)" [label=231]
+	"James Jackson (210)" -> "Greg Keightley (211)" [label=88]
+	"Greg Keightley (211)" -> "Tony Pettitt (207)" [label=287]
+	"Michelle Palmer (213)" -> "Greg Keightley (211)" [label=216]
+	"Michelle Palmer (213)" -> "Nicole Evans (209)" [label=473]
+	"James Jackson (210)" -> "Tony Pettitt (207)" [label=255]
+	"James Jackson (210)" -> "Michelle Palmer (213)" [label=83]
+	"Michelle Palmer (213)" -> "Tony Pettitt (207)" [label=385]
+	"Greg Keightley (211)" -> "Nicole Evans (209)" [label=265]
+	"Nicole Evans (209)" -> "Tony Pettitt (207)" [label=2339]
 }

@@ -2,24 +2,24 @@
 digraph "Paul Fletcher (60)_Bradfield_2016" {
 	graph [label="Bradfield 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Fletcher (60)" [label="Paul Fletcher (60)
-Liberal"]
-	"Adrian Jones (2053)" [label="Adrian Jones (2053)
-The Greens"]
 	"Christine Berman (2054)" [label="Christine Berman (2054)
 Independent"]
 	"Chris Vale (2055)" [label="Chris Vale (2055)
 Christian Democratic Party (Fred Nile Group)"]
+	"Paul Fletcher (60)" [label="Paul Fletcher (60)
+Liberal"]
+	"Adrian Jones (2053)" [label="Adrian Jones (2053)
+The Greens"]
 	"Peter Kelly (1255)" [label="Peter Kelly (1255)
 Australian Liberty Alliance"]
-	"Adrian Jones (2053)" -> "Paul Fletcher (60)" [label=3548]
-	"Christine Berman (2054)" -> "Adrian Jones (2053)" [label=1478]
-	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
-	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
-	"Christine Berman (2054)" -> "Paul Fletcher (60)" [label=2857]
-	"Chris Vale (2055)" -> "Paul Fletcher (60)" [label=2378]
-	"Peter Kelly (1255)" -> "Paul Fletcher (60)" [label=499]
-	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
 	"Chris Vale (2055)" -> "Adrian Jones (2053)" [label=198]
+	"Chris Vale (2055)" -> "Paul Fletcher (60)" [label=2378]
+	"Christine Berman (2054)" -> "Adrian Jones (2053)" [label=1478]
+	"Peter Kelly (1255)" -> "Christine Berman (2054)" [label=427]
+	"Adrian Jones (2053)" -> "Paul Fletcher (60)" [label=3548]
+	"Peter Kelly (1255)" -> "Chris Vale (2055)" [label=413]
 	"Peter Kelly (1255)" -> "Adrian Jones (2053)" [label=360]
+	"Christine Berman (2054)" -> "Paul Fletcher (60)" [label=2857]
+	"Peter Kelly (1255)" -> "Paul Fletcher (60)" [label=499]
+	"Chris Vale (2055)" -> "Christine Berman (2054)" [label=1005]
 }

@@ -2,18 +2,18 @@
 digraph "Michelle Wilde (527)_Lilley_2022" {
 	graph [label="Lilley 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
+Informed Medical Options Party"]
+	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
+Liberal Democrats"]
 	"Michelle Wilde (527)" [label="Michelle Wilde (527)
 Pauline Hanson's One Nation"]
 	"Gerardine Louise Hoogland (521)" [label="Gerardine Louise Hoogland (521)
 United Australia Party"]
-	"Daniel Freshwater (525)" [label="Daniel Freshwater (525)
-Liberal Democrats"]
-	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
-Informed Medical Options Party"]
-	"Gerardine Louise Hoogland (521)" -> "Michelle Wilde (527)" [label=2351]
-	"Daniel Freshwater (525)" -> "Gerardine Louise Hoogland (521)" [label=412]
-	"Stephen Mcgrath (524)" -> "Daniel Freshwater (525)" [label=168]
 	"Daniel Freshwater (525)" -> "Michelle Wilde (527)" [label=500]
 	"Stephen Mcgrath (524)" -> "Michelle Wilde (527)" [label=305]
 	"Stephen Mcgrath (524)" -> "Gerardine Louise Hoogland (521)" [label=370]
+	"Stephen Mcgrath (524)" -> "Daniel Freshwater (525)" [label=168]
+	"Gerardine Louise Hoogland (521)" -> "Michelle Wilde (527)" [label=2351]
+	"Daniel Freshwater (525)" -> "Gerardine Louise Hoogland (521)" [label=412]
 }

@@ -2,18 +2,18 @@
 digraph "Jeremy Quinn (2768)_Perth_2016" {
 	graph [label="Perth 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeremy Quinn (2768)" [label="Jeremy Quinn (2768)
-Liberal"]
 	"Tim Clifford (2769)" [label="Tim Clifford (2769)
 The Greens (WA)"]
-	"Mark Robert Walmsley (2772)" [label="Mark Robert Walmsley (2772)
-Liberal Democrats"]
 	"Andrew David Chambers (2771)" [label="Andrew David Chambers (2771)
 Online Direct Democracy - (Empowering the People!)"]
+	"Mark Robert Walmsley (2772)" [label="Mark Robert Walmsley (2772)
+Liberal Democrats"]
+	"Jeremy Quinn (2768)" [label="Jeremy Quinn (2768)
+Liberal"]
 	"Tim Clifford (2769)" -> "Jeremy Quinn (2768)" [label=2450]
+	"Andrew David Chambers (2771)" -> "Jeremy Quinn (2768)" [label=173]
 	"Mark Robert Walmsley (2772)" -> "Tim Clifford (2769)" [label=373]
 	"Andrew David Chambers (2771)" -> "Mark Robert Walmsley (2772)" [label=467]
 	"Mark Robert Walmsley (2772)" -> "Jeremy Quinn (2768)" [label=1025]
-	"Andrew David Chambers (2771)" -> "Jeremy Quinn (2768)" [label=173]
 	"Andrew David Chambers (2771)" -> "Tim Clifford (2769)" [label=395]
 }

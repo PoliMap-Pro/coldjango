@@ -8,7 +8,7 @@ Independent"]
 Australian Christians"]
 	"Alison L Rowe (2774)" [label="Alison L Rowe (2774)
 Rise Up Australia Party"]
-	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
 	"Alison L Rowe (2774)" -> "Kim Mubarak (2773)" [label=461]
+	"Kevin Host (2006)" -> "Kim Mubarak (2773)" [label=448]
 	"Alison L Rowe (2774)" -> "Kevin Host (2006)" [label=343]
 }

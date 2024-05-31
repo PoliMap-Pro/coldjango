@@ -6,27 +6,27 @@ digraph "Ian Monck (1143)_Hasluck_2022" {
 Pauline Hanson's One Nation"]
 	"Jeanene Williams (1139)" [label="Jeanene Williams (1139)
 Independent"]
-	"Will Scott (1141)" [label="Will Scott (1141)
-United Australia Party"]
-	"Pauline Clark (1142)" [label="Pauline Clark (1142)
-WESTERN AUSTRALIA PARTY"]
 	"Marijanna Smith (1145)" [label="Marijanna Smith (1145)
 Australian Federation Party"]
+	"Will Scott (1141)" [label="Will Scott (1141)
+United Australia Party"]
 	"Steven Mccreanor (1147)" [label="Steven Mccreanor (1147)
 Liberal Democrats"]
-	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
-	"Will Scott (1141)" -> "Jeanene Williams (1139)" [label=519]
-	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
-	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
-	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
-	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
-	"Pauline Clark (1142)" -> "Ian Monck (1143)" [label=425]
+	"Pauline Clark (1142)" [label="Pauline Clark (1142)
+WESTERN AUSTRALIA PARTY"]
 	"Marijanna Smith (1145)" -> "Ian Monck (1143)" [label=517]
-	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
+	"Pauline Clark (1142)" -> "Ian Monck (1143)" [label=425]
+	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
+	"Marijanna Smith (1145)" -> "Jeanene Williams (1139)" [label=209]
+	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
 	"Steven Mccreanor (1147)" -> "Pauline Clark (1142)" [label=95]
+	"Steven Mccreanor (1147)" -> "Jeanene Williams (1139)" [label=93]
+	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
 	"Marijanna Smith (1145)" -> "Will Scott (1141)" [label=309]
 	"Steven Mccreanor (1147)" -> "Will Scott (1141)" [label=175]
+	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
+	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
+	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
 	"Pauline Clark (1142)" -> "Jeanene Williams (1139)" [label=633]
-	"Marijanna Smith (1145)" -> "Jeanene Williams (1139)" [label=209]
-	"Steven Mccreanor (1147)" -> "Jeanene Williams (1139)" [label=93]
+	"Will Scott (1141)" -> "Jeanene Williams (1139)" [label=519]
 }

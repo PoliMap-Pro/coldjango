@@ -4,11 +4,11 @@ digraph "Stacey Whittaker (63)_Calare_2022" {
 	node [shape=box]
 	"Stacey Whittaker (63)" [label="Stacey Whittaker (63)
 Pauline Hanson's One Nation"]
-	"Kay Nankervis (64)" [label="Kay Nankervis (64)
-The Greens"]
 	"Adam John Jannis (67)" [label="Adam John Jannis (67)
 United Australia Party"]
-	"Kay Nankervis (64)" -> "Stacey Whittaker (63)" [label=332]
+	"Kay Nankervis (64)" [label="Kay Nankervis (64)
+The Greens"]
 	"Adam John Jannis (67)" -> "Kay Nankervis (64)" [label=153]
+	"Kay Nankervis (64)" -> "Stacey Whittaker (63)" [label=332]
 	"Adam John Jannis (67)" -> "Stacey Whittaker (63)" [label=2055]
 }

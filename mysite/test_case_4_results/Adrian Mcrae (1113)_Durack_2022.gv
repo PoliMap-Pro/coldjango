@@ -10,10 +10,10 @@ WESTERN AUSTRALIA PARTY"]
 The Great Australian Party"]
 	"Craig Shore (1111)" [label="Craig Shore (1111)
 Australian Federation Party"]
+	"Andrew Charles Middleton (1119)" -> "Adrian Mcrae (1113)" [label=294]
+	"Craig Shore (1111)" -> "Andrew Charles Middleton (1119)" [label=90]
+	"Andrew Charles Middleton (1119)" -> "Anthony James Fels (1114)" [label=194]
 	"Craig Shore (1111)" -> "Adrian Mcrae (1113)" [label=419]
 	"Craig Shore (1111)" -> "Anthony James Fels (1114)" [label=126]
 	"Anthony James Fels (1114)" -> "Adrian Mcrae (1113)" [label=694]
-	"Craig Shore (1111)" -> "Andrew Charles Middleton (1119)" [label=90]
-	"Andrew Charles Middleton (1119)" -> "Anthony James Fels (1114)" [label=194]
-	"Andrew Charles Middleton (1119)" -> "Adrian Mcrae (1113)" [label=294]
 }

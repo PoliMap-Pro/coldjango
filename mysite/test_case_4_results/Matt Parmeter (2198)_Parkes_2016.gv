@@ -8,7 +8,7 @@ The Greens"]
 Online Direct Democracy - (Empowering the People!)"]
 	"Glen Ryan (2196)" [label="Glen Ryan (2196)
 Christian Democratic Party (Fred Nile Group)"]
+	"Philip John Ayton (2197)" -> "Matt Parmeter (2198)" [label=443]
 	"Glen Ryan (2196)" -> "Matt Parmeter (2198)" [label=779]
 	"Philip John Ayton (2197)" -> "Glen Ryan (2196)" [label=724]
-	"Philip John Ayton (2197)" -> "Matt Parmeter (2198)" [label=443]
 }

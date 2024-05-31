@@ -2,24 +2,24 @@
 digraph "Nickolas Varvaris (2038)_Barton_2016" {
 	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nickolas Varvaris (2038)" [label="Nickolas Varvaris (2038)
-Liberal"]
 	"Brent Heber (2039)" [label="Brent Heber (2039)
 The Greens"]
-	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
-Christian Democratic Party (Fred Nile Group)"]
-	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
-Independent"]
 	"Harry Tsoukalas (2040)" [label="Harry Tsoukalas (2040)
 Online Direct Democracy - (Empowering the People!)"]
-	"Brent Heber (2039)" -> "Nickolas Varvaris (2038)" [label=1397]
-	"Sonny Susilo (1225)" -> "Brent Heber (2039)" [label=590]
-	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
-	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
+	"Nickolas Varvaris (2038)" [label="Nickolas Varvaris (2038)
+Liberal"]
+	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
+Independent"]
+	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
+Christian Democratic Party (Fred Nile Group)"]
 	"Sonny Susilo (1225)" -> "Nickolas Varvaris (2038)" [label=2801]
-	"Rasmus Torkel (2037)" -> "Nickolas Varvaris (2038)" [label=1145]
-	"Harry Tsoukalas (2040)" -> "Nickolas Varvaris (2038)" [label=190]
+	"Sonny Susilo (1225)" -> "Brent Heber (2039)" [label=590]
 	"Harry Tsoukalas (2040)" -> "Sonny Susilo (1225)" [label=133]
 	"Rasmus Torkel (2037)" -> "Brent Heber (2039)" [label=453]
+	"Rasmus Torkel (2037)" -> "Nickolas Varvaris (2038)" [label=1145]
+	"Brent Heber (2039)" -> "Nickolas Varvaris (2038)" [label=1397]
 	"Harry Tsoukalas (2040)" -> "Brent Heber (2039)" [label=330]
+	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
+	"Harry Tsoukalas (2040)" -> "Nickolas Varvaris (2038)" [label=190]
+	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
 }

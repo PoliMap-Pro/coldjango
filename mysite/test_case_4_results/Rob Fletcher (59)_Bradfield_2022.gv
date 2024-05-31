@@ -8,7 +8,7 @@ United Australia Party"]
 Independent"]
 	"Michael Lowe (61)" [label="Michael Lowe (61)
 Pauline Hanson's One Nation"]
-	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
 	"Michael Lowe (61)" -> "Rob Fletcher (59)" [label=896]
+	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
 }

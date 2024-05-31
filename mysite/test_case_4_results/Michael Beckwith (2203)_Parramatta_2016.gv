@@ -4,37 +4,37 @@ digraph "Michael Beckwith (2203)_Parramatta_2016" {
 	node [shape=box]
 	"Michael Beckwith (2203)" [label="Michael Beckwith (2203)
 Liberal"]
-	"Phil Bradley (277)" [label="Phil Bradley (277)
-The Greens"]
-	"Keith Piper (1402)" [label="Keith Piper (1402)
-Christian Democratic Party (Fred Nile Group)"]
 	"Mahesh Raj (2199)" [label="Mahesh Raj (2199)
 Independent"]
 	"Mark Guest (2200)" [label="Mark Guest (2200)
 Liberal Democrats"]
-	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
-Family First"]
 	"Andrew Driessen (2202)" [label="Andrew Driessen (2202)
 Online Direct Democracy - (Empowering the People!)"]
-	"Phil Bradley (277)" -> "Michael Beckwith (2203)" [label=1225]
-	"Keith Piper (1402)" -> "Phil Bradley (277)" [label=671]
-	"Mahesh Raj (2199)" -> "Keith Piper (1402)" [label=298]
+	"Mikaela Wu (2201)" [label="Mikaela Wu (2201)
+Family First"]
+	"Phil Bradley (277)" [label="Phil Bradley (277)
+The Greens"]
+	"Keith Piper (1402)" [label="Keith Piper (1402)
+Christian Democratic Party (Fred Nile Group)"]
 	"Mark Guest (2200)" -> "Mahesh Raj (2199)" [label=189]
-	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
-	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
 	"Keith Piper (1402)" -> "Michael Beckwith (2203)" [label=3454]
-	"Mahesh Raj (2199)" -> "Michael Beckwith (2203)" [label=575]
-	"Mark Guest (2200)" -> "Michael Beckwith (2203)" [label=982]
-	"Mikaela Wu (2201)" -> "Michael Beckwith (2203)" [label=199]
-	"Andrew Driessen (2202)" -> "Michael Beckwith (2203)" [label=93]
-	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
-	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
-	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
-	"Mark Guest (2200)" -> "Keith Piper (1402)" [label=358]
-	"Mikaela Wu (2201)" -> "Keith Piper (1402)" [label=312]
+	"Phil Bradley (277)" -> "Michael Beckwith (2203)" [label=1225]
 	"Andrew Driessen (2202)" -> "Keith Piper (1402)" [label=36]
 	"Mahesh Raj (2199)" -> "Phil Bradley (277)" [label=617]
-	"Mark Guest (2200)" -> "Phil Bradley (277)" [label=208]
-	"Mikaela Wu (2201)" -> "Phil Bradley (277)" [label=189]
 	"Andrew Driessen (2202)" -> "Phil Bradley (277)" [label=68]
+	"Andrew Driessen (2202)" -> "Mark Guest (2200)" [label=46]
+	"Mikaela Wu (2201)" -> "Phil Bradley (277)" [label=189]
+	"Mahesh Raj (2199)" -> "Keith Piper (1402)" [label=298]
+	"Keith Piper (1402)" -> "Phil Bradley (277)" [label=671]
+	"Mark Guest (2200)" -> "Michael Beckwith (2203)" [label=982]
+	"Mikaela Wu (2201)" -> "Keith Piper (1402)" [label=312]
+	"Mikaela Wu (2201)" -> "Mark Guest (2200)" [label=158]
+	"Mark Guest (2200)" -> "Keith Piper (1402)" [label=358]
+	"Mikaela Wu (2201)" -> "Mahesh Raj (2199)" [label=184]
+	"Andrew Driessen (2202)" -> "Mahesh Raj (2199)" [label=77]
+	"Andrew Driessen (2202)" -> "Michael Beckwith (2203)" [label=93]
+	"Mikaela Wu (2201)" -> "Michael Beckwith (2203)" [label=199]
+	"Mark Guest (2200)" -> "Phil Bradley (277)" [label=208]
+	"Mahesh Raj (2199)" -> "Michael Beckwith (2203)" [label=575]
+	"Andrew Driessen (2202)" -> "Mikaela Wu (2201)" [label=92]
 }

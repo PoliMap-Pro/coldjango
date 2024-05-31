@@ -2,48 +2,48 @@
 digraph "Rowan Ramsey (643)_Grey_2022" {
 	graph [label="Grey 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rowan Ramsey (643)" [label="Rowan Ramsey (643)
-Liberal"]
-	"Liz Habermann (638)" [label="Liz Habermann (638)
-Independent"]
 	"Kerry Ann White (640)" [label="Kerry Ann White (640)
 Pauline Hanson's One Nation"]
-	"Tim White (635)" [label="Tim White (635)
-The Greens"]
-	"Suzanne Waters (636)" [label="Suzanne Waters (636)
-United Australia Party"]
 	"Peter Miller (637)" [label="Peter Miller (637)
 Liberal Democrats"]
-	"Richard Carmody (642)" [label="Richard Carmody (642)
-Independent"]
+	"Rowan Ramsey (643)" [label="Rowan Ramsey (643)
+Liberal"]
+	"Tim White (635)" [label="Tim White (635)
+The Greens"]
 	"Tracey Dempsey (641)" [label="Tracey Dempsey (641)
 Australian Federation Party"]
-	"Liz Habermann (638)" -> "Rowan Ramsey (643)" [label=9209]
-	"Kerry Ann White (640)" -> "Liz Habermann (638)" [label=5575]
-	"Tim White (635)" -> "Kerry Ann White (640)" [label=651]
-	"Suzanne Waters (636)" -> "Tim White (635)" [label=739]
-	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
-	"Richard Carmody (642)" -> "Peter Miller (637)" [label=42]
-	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
-	"Kerry Ann White (640)" -> "Rowan Ramsey (643)" [label=3481]
+	"Suzanne Waters (636)" [label="Suzanne Waters (636)
+United Australia Party"]
+	"Richard Carmody (642)" [label="Richard Carmody (642)
+Independent"]
+	"Liz Habermann (638)" [label="Liz Habermann (638)
+Independent"]
 	"Tim White (635)" -> "Rowan Ramsey (643)" [label=938]
-	"Suzanne Waters (636)" -> "Rowan Ramsey (643)" [label=821]
-	"Peter Miller (637)" -> "Rowan Ramsey (643)" [label=459]
-	"Richard Carmody (642)" -> "Rowan Ramsey (643)" [label=232]
-	"Tracey Dempsey (641)" -> "Rowan Ramsey (643)" [label=68]
-	"Tracey Dempsey (641)" -> "Peter Miller (637)" [label=91]
-	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
-	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
-	"Peter Miller (637)" -> "Tim White (635)" [label=185]
+	"Tracey Dempsey (641)" -> "Liz Habermann (638)" [label=75]
 	"Richard Carmody (642)" -> "Tim White (635)" [label=148]
-	"Tracey Dempsey (641)" -> "Tim White (635)" [label=57]
-	"Suzanne Waters (636)" -> "Kerry Ann White (640)" [label=3115]
-	"Peter Miller (637)" -> "Kerry Ann White (640)" [label=281]
-	"Richard Carmody (642)" -> "Kerry Ann White (640)" [label=183]
+	"Tim White (635)" -> "Kerry Ann White (640)" [label=651]
 	"Tracey Dempsey (641)" -> "Kerry Ann White (640)" [label=164]
-	"Tim White (635)" -> "Liz Habermann (638)" [label=3495]
-	"Suzanne Waters (636)" -> "Liz Habermann (638)" [label=1032]
 	"Peter Miller (637)" -> "Liz Habermann (638)" [label=179]
 	"Richard Carmody (642)" -> "Liz Habermann (638)" [label=605]
-	"Tracey Dempsey (641)" -> "Liz Habermann (638)" [label=75]
+	"Richard Carmody (642)" -> "Rowan Ramsey (643)" [label=232]
+	"Liz Habermann (638)" -> "Rowan Ramsey (643)" [label=9209]
+	"Peter Miller (637)" -> "Suzanne Waters (636)" [label=271]
+	"Richard Carmody (642)" -> "Kerry Ann White (640)" [label=183]
+	"Peter Miller (637)" -> "Rowan Ramsey (643)" [label=459]
+	"Tim White (635)" -> "Liz Habermann (638)" [label=3495]
+	"Tracey Dempsey (641)" -> "Rowan Ramsey (643)" [label=68]
+	"Peter Miller (637)" -> "Tim White (635)" [label=185]
+	"Peter Miller (637)" -> "Kerry Ann White (640)" [label=281]
+	"Suzanne Waters (636)" -> "Rowan Ramsey (643)" [label=821]
+	"Kerry Ann White (640)" -> "Rowan Ramsey (643)" [label=3481]
+	"Richard Carmody (642)" -> "Suzanne Waters (636)" [label=74]
+	"Tracey Dempsey (641)" -> "Tim White (635)" [label=57]
+	"Tracey Dempsey (641)" -> "Peter Miller (637)" [label=91]
+	"Suzanne Waters (636)" -> "Liz Habermann (638)" [label=1032]
+	"Suzanne Waters (636)" -> "Tim White (635)" [label=739]
+	"Kerry Ann White (640)" -> "Liz Habermann (638)" [label=5575]
+	"Richard Carmody (642)" -> "Peter Miller (637)" [label=42]
+	"Tracey Dempsey (641)" -> "Richard Carmody (642)" [label=95]
+	"Suzanne Waters (636)" -> "Kerry Ann White (640)" [label=3115]
+	"Tracey Dempsey (641)" -> "Suzanne Waters (636)" [label=119]
 }

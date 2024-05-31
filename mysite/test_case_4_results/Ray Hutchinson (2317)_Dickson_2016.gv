@@ -9,6 +9,6 @@ Independent"]
 	"Doug Nicholson (2314)" [label="Doug Nicholson (2314)
 Liberal Democrats"]
 	"Doug Nicholson (2314)" -> "Thor Prohaska (430)" [label=783]
-	"Doug Nicholson (2314)" -> "Ray Hutchinson (2317)" [label=371]
 	"Thor Prohaska (430)" -> "Ray Hutchinson (2317)" [label=1284]
+	"Doug Nicholson (2314)" -> "Ray Hutchinson (2317)" [label=371]
 }

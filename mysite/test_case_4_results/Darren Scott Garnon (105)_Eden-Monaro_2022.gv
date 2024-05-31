@@ -4,16 +4,16 @@ digraph "Darren Scott Garnon (105)_Eden-Monaro_2022" {
 	node [shape=box]
 	"Darren Scott Garnon (105)" [label="Darren Scott Garnon (105)
 United Australia Party"]
+	"Greg Butler (104)" [label="Greg Butler (104)
+Australian Democrats"]
 	"Andrew Thaler (109)" [label="Andrew Thaler (109)
 Independent"]
 	"Toni Mclennan (108)" [label="Toni Mclennan (108)
 Informed Medical Options Party"]
-	"Greg Butler (104)" [label="Greg Butler (104)
-Australian Democrats"]
 	"Andrew Thaler (109)" -> "Darren Scott Garnon (105)" [label=228]
-	"Toni Mclennan (108)" -> "Andrew Thaler (109)" [label=198]
-	"Greg Butler (104)" -> "Toni Mclennan (108)" [label=18]
 	"Toni Mclennan (108)" -> "Darren Scott Garnon (105)" [label=120]
 	"Greg Butler (104)" -> "Darren Scott Garnon (105)" [label=50]
+	"Greg Butler (104)" -> "Toni Mclennan (108)" [label=18]
 	"Greg Butler (104)" -> "Andrew Thaler (109)" [label=46]
+	"Toni Mclennan (108)" -> "Andrew Thaler (109)" [label=198]
 }

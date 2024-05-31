@@ -2,18 +2,18 @@
 digraph "John Goody (30)_Barton_2022" {
 	graph [label="Barton 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dimitri Honos (28)" [label="Dimitri Honos (28)
-United Australia Party"]
-	"John Goody (30)" [label="John Goody (30)
-Liberal"]
-	"Phillip Pollard (31)" [label="Phillip Pollard (31)
-Pauline Hanson's One Nation"]
 	"Taylor Vandijk (29)" [label="Taylor Vandijk (29)
 The Greens"]
-	"Dimitri Honos (28)" -> "John Goody (30)" [label=4374]
-	"Dimitri Honos (28)" -> "Taylor Vandijk (29)" [label=1933]
-	"Phillip Pollard (31)" -> "Dimitri Honos (28)" [label=2850]
+	"Phillip Pollard (31)" [label="Phillip Pollard (31)
+Pauline Hanson's One Nation"]
+	"John Goody (30)" [label="John Goody (30)
+Liberal"]
+	"Dimitri Honos (28)" [label="Dimitri Honos (28)
+United Australia Party"]
 	"Phillip Pollard (31)" -> "John Goody (30)" [label=797]
-	"Phillip Pollard (31)" -> "Taylor Vandijk (29)" [label=314]
+	"Dimitri Honos (28)" -> "John Goody (30)" [label=4374]
+	"Phillip Pollard (31)" -> "Dimitri Honos (28)" [label=2850]
+	"Dimitri Honos (28)" -> "Taylor Vandijk (29)" [label=1933]
 	"Taylor Vandijk (29)" -> "John Goody (30)" [label=2406]
+	"Phillip Pollard (31)" -> "Taylor Vandijk (29)" [label=314]
 }

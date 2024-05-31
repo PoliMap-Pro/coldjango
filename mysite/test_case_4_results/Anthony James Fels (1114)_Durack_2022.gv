@@ -8,7 +8,7 @@ WESTERN AUSTRALIA PARTY"]
 United Australia Party"]
 	"Craig Shore (1111)" [label="Craig Shore (1111)
 Australian Federation Party"]
+	"Craig Shore (1111)" -> "Anthony James Fels (1114)" [label=126]
 	"Andrew Charles Middleton (1119)" -> "Anthony James Fels (1114)" [label=194]
 	"Craig Shore (1111)" -> "Andrew Charles Middleton (1119)" [label=90]
-	"Craig Shore (1111)" -> "Anthony James Fels (1114)" [label=126]
 }

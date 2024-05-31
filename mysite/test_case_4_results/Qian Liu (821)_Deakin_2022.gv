@@ -4,11 +4,11 @@ digraph "Qian Liu (821)_Deakin_2022" {
 	node [shape=box]
 	"Judith Thompson (825)" [label="Judith Thompson (825)
 Derryn Hinch's Justice Party"]
-	"Qian Liu (821)" [label="Qian Liu (821)
-Independent"]
 	"Samantha Bastin (827)" [label="Samantha Bastin (827)
 Australian Federation Party"]
-	"Judith Thompson (825)" -> "Qian Liu (821)" [label=116]
+	"Qian Liu (821)" [label="Qian Liu (821)
+Independent"]
 	"Samantha Bastin (827)" -> "Qian Liu (821)" [label=44]
 	"Samantha Bastin (827)" -> "Judith Thompson (825)" [label=59]
+	"Judith Thompson (825)" -> "Qian Liu (821)" [label=116]
 }

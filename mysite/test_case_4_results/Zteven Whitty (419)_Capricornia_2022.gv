@@ -8,7 +8,7 @@ Liberal Democrats"]
 Informed Medical Options Party"]
 	"Zteven Whitty (419)" [label="Zteven Whitty (419)
 The Great Australian Party"]
-	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
 	"Steve Murphy (415)" -> "Zteven Whitty (419)" [label=81]
 	"Paula Ganfield (412)" -> "Zteven Whitty (419)" [label=276]
+	"Paula Ganfield (412)" -> "Steve Murphy (415)" [label=55]
 }

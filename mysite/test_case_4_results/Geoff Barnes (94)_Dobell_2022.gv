@@ -2,9 +2,9 @@
 digraph "Geoff Barnes (94)_Dobell_2022" {
 	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Geoff Barnes (94)" [label="Geoff Barnes (94)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Eliot Metherell (99)" [label="Eliot Metherell (99)
 Liberal Democrats"]
+	"Geoff Barnes (94)" [label="Geoff Barnes (94)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
 }

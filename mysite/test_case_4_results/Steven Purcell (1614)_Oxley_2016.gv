@@ -2,13 +2,13 @@
 digraph "Steven Purcell (1614)_Oxley_2016" {
 	graph [label="Oxley 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
 	"Steven Purcell (1614)" [label="Steven Purcell (1614)
 The Greens"]
+	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
+Katter's Australian Party"]
 	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
 Family First"]
-	"Carrie Mccormack (2415)" -> "Steven Purcell (1614)" [label=421]
-	"Stephen Lacaze (2416)" -> "Steven Purcell (1614)" [label=108]
 	"Stephen Lacaze (2416)" -> "Carrie Mccormack (2415)" [label=247]
+	"Stephen Lacaze (2416)" -> "Steven Purcell (1614)" [label=108]
+	"Carrie Mccormack (2415)" -> "Steven Purcell (1614)" [label=421]
 }

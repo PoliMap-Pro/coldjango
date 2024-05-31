@@ -2,39 +2,39 @@
 digraph "Sussan Ley (112)_Farrer_2022" {
 	graph [label="Farrer 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sussan Ley (112)" [label="Sussan Ley (112)
-Liberal"]
-	"Richard Francis (116)" [label="Richard Francis (116)
-Pauline Hanson's One Nation"]
-	"Eli Davern (111)" [label="Eli Davern (111)
-The Greens"]
 	"Paul Britton (114)" [label="Paul Britton (114)
 Shooters, Fishers and Farmers Party"]
+	"Richard Francis (116)" [label="Richard Francis (116)
+Pauline Hanson's One Nation"]
 	"Julie Ramos (117)" [label="Julie Ramos (117)
 United Australia Party"]
-	"Amanda Duncan-Strelec (113)" [label="Amanda Duncan-Strelec (113)
-Independent"]
 	"Ian Christopher Roworth (115)" [label="Ian Christopher Roworth (115)
 Liberal Democrats"]
-	"Richard Francis (116)" -> "Sussan Ley (112)" [label=7696]
-	"Eli Davern (111)" -> "Richard Francis (116)" [label=1247]
-	"Paul Britton (114)" -> "Eli Davern (111)" [label=799]
-	"Julie Ramos (117)" -> "Paul Britton (114)" [label=689]
-	"Amanda Duncan-Strelec (113)" -> "Julie Ramos (117)" [label=238]
-	"Ian Christopher Roworth (115)" -> "Amanda Duncan-Strelec (113)" [label=125]
-	"Eli Davern (111)" -> "Sussan Ley (112)" [label=2914]
-	"Paul Britton (114)" -> "Sussan Ley (112)" [label=1971]
-	"Julie Ramos (117)" -> "Sussan Ley (112)" [label=530]
-	"Amanda Duncan-Strelec (113)" -> "Sussan Ley (112)" [label=678]
-	"Ian Christopher Roworth (115)" -> "Sussan Ley (112)" [label=384]
-	"Ian Christopher Roworth (115)" -> "Julie Ramos (117)" [label=249]
-	"Amanda Duncan-Strelec (113)" -> "Paul Britton (114)" [label=754]
-	"Ian Christopher Roworth (115)" -> "Paul Britton (114)" [label=231]
+	"Amanda Duncan-Strelec (113)" [label="Amanda Duncan-Strelec (113)
+Independent"]
+	"Sussan Ley (112)" [label="Sussan Ley (112)
+Liberal"]
+	"Eli Davern (111)" [label="Eli Davern (111)
+The Greens"]
 	"Julie Ramos (117)" -> "Eli Davern (111)" [label=238]
-	"Amanda Duncan-Strelec (113)" -> "Eli Davern (111)" [label=699]
-	"Ian Christopher Roworth (115)" -> "Eli Davern (111)" [label=73]
-	"Paul Britton (114)" -> "Richard Francis (116)" [label=3003]
-	"Julie Ramos (117)" -> "Richard Francis (116)" [label=1914]
-	"Amanda Duncan-Strelec (113)" -> "Richard Francis (116)" [label=375]
+	"Julie Ramos (117)" -> "Sussan Ley (112)" [label=530]
+	"Amanda Duncan-Strelec (113)" -> "Paul Britton (114)" [label=754]
 	"Ian Christopher Roworth (115)" -> "Richard Francis (116)" [label=453]
+	"Richard Francis (116)" -> "Sussan Ley (112)" [label=7696]
+	"Amanda Duncan-Strelec (113)" -> "Eli Davern (111)" [label=699]
+	"Amanda Duncan-Strelec (113)" -> "Julie Ramos (117)" [label=238]
+	"Paul Britton (114)" -> "Eli Davern (111)" [label=799]
+	"Ian Christopher Roworth (115)" -> "Paul Britton (114)" [label=231]
+	"Julie Ramos (117)" -> "Richard Francis (116)" [label=1914]
+	"Ian Christopher Roworth (115)" -> "Eli Davern (111)" [label=73]
+	"Ian Christopher Roworth (115)" -> "Sussan Ley (112)" [label=384]
+	"Amanda Duncan-Strelec (113)" -> "Richard Francis (116)" [label=375]
+	"Eli Davern (111)" -> "Sussan Ley (112)" [label=2914]
+	"Julie Ramos (117)" -> "Paul Britton (114)" [label=689]
+	"Amanda Duncan-Strelec (113)" -> "Sussan Ley (112)" [label=678]
+	"Paul Britton (114)" -> "Sussan Ley (112)" [label=1971]
+	"Paul Britton (114)" -> "Richard Francis (116)" [label=3003]
+	"Ian Christopher Roworth (115)" -> "Amanda Duncan-Strelec (113)" [label=125]
+	"Ian Christopher Roworth (115)" -> "Julie Ramos (117)" [label=249]
+	"Eli Davern (111)" -> "Richard Francis (116)" [label=1247]
 }

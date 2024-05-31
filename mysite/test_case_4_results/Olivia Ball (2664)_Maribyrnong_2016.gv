@@ -10,10 +10,10 @@ Australian Christians"]
 The Greens"]
 	"Catherine Cumming (2666)" [label="Catherine Cumming (2666)
 Independent"]
-	"Fiona Mcrostie (2667)" -> "Catherine Cumming (2666)" [label=923]
-	"Anthony O'Neill (2665)" -> "Catherine Cumming (2666)" [label=406]
 	"Anthony O'Neill (2665)" -> "Olivia Ball (2664)" [label=118]
 	"Anthony O'Neill (2665)" -> "Fiona Mcrostie (2667)" [label=151]
-	"Fiona Mcrostie (2667)" -> "Olivia Ball (2664)" [label=740]
+	"Fiona Mcrostie (2667)" -> "Catherine Cumming (2666)" [label=923]
 	"Catherine Cumming (2666)" -> "Olivia Ball (2664)" [label=1512]
+	"Fiona Mcrostie (2667)" -> "Olivia Ball (2664)" [label=740]
+	"Anthony O'Neill (2665)" -> "Catherine Cumming (2666)" [label=406]
 }

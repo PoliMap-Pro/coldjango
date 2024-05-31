@@ -4,22 +4,22 @@ digraph "Stuart William King (987)_Mallee_2022" {
 	node [shape=box]
 	"Stuart William King (987)" [label="Stuart William King (987)
 United Australia Party"]
-	"Vanessa Atkinson (988)" [label="Vanessa Atkinson (988)
-Pauline Hanson's One Nation"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Party"]
 	"Sam Mccoll (986)" [label="Sam Mccoll (986)
 The Greens"]
 	"Claudia Haenel (983)" [label="Claudia Haenel (983)
 Independent"]
-	"Chris Lahy (984)" [label="Chris Lahy (984)
-Citizens Party"]
-	"Vanessa Atkinson (988)" -> "Stuart William King (987)" [label=3426]
-	"Sam Mccoll (986)" -> "Vanessa Atkinson (988)" [label=251]
-	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
-	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
-	"Sam Mccoll (986)" -> "Stuart William King (987)" [label=369]
-	"Claudia Haenel (983)" -> "Stuart William King (987)" [label=119]
-	"Chris Lahy (984)" -> "Stuart William King (987)" [label=113]
-	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
+	"Vanessa Atkinson (988)" [label="Vanessa Atkinson (988)
+Pauline Hanson's One Nation"]
 	"Claudia Haenel (983)" -> "Vanessa Atkinson (988)" [label=139]
+	"Chris Lahy (984)" -> "Stuart William King (987)" [label=113]
+	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
+	"Sam Mccoll (986)" -> "Vanessa Atkinson (988)" [label=251]
+	"Claudia Haenel (983)" -> "Stuart William King (987)" [label=119]
+	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
+	"Vanessa Atkinson (988)" -> "Stuart William King (987)" [label=3426]
 	"Chris Lahy (984)" -> "Vanessa Atkinson (988)" [label=96]
+	"Sam Mccoll (986)" -> "Stuart William King (987)" [label=369]
+	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
 }

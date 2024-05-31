@@ -2,24 +2,24 @@
 digraph "Tracy Nyree Aitken (1125)_Forrest_2022" {
 	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Markham (1121)" [label="Paul Markham (1121)
-Liberal Democrats"]
+	"Tracy Nyree Aitken (1125)" [label="Tracy Nyree Aitken (1125)
+The Great Australian Party"]
 	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
 Australian Federation Party"]
+	"Paul Markham (1121)" [label="Paul Markham (1121)
+Liberal Democrats"]
 	"Greg Stephens (1124)" [label="Greg Stephens (1124)
 WESTERN AUSTRALIA PARTY"]
 	"Helen Allan (1120)" [label="Helen Allan (1120)
 United Australia Party"]
-	"Tracy Nyree Aitken (1125)" [label="Tracy Nyree Aitken (1125)
-The Great Australian Party"]
-	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
-	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
-	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
-	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
-	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
-	"Helen Allan (1120)" -> "Tracy Nyree Aitken (1125)" [label=692]
 	"Greg Stephens (1124)" -> "Tracy Nyree Aitken (1125)" [label=618]
-	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
+	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
 	"Mailee Dunn (1122)" -> "Tracy Nyree Aitken (1125)" [label=447]
+	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
+	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
+	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
 	"Greg Stephens (1124)" -> "Helen Allan (1120)" [label=281]
+	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
+	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
+	"Helen Allan (1120)" -> "Tracy Nyree Aitken (1125)" [label=692]
 }

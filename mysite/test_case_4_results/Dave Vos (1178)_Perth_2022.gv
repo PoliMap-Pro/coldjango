@@ -2,39 +2,39 @@
 digraph "Dave Vos (1178)_Perth_2022" {
 	graph [label="Perth 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Dave Vos (1178)" [label="Dave Vos (1178)
-WESTERN AUSTRALIA PARTY"]
-	"Sonya Michelle Eberhart (1182)" [label="Sonya Michelle Eberhart (1182)
-United Australia Party"]
-	"Dean Powell (1176)" [label="Dean Powell (1176)
-Australian Christians"]
 	"Sarah Szmekura-Moor (1179)" [label="Sarah Szmekura-Moor (1179)
 Animal Justice Party"]
 	"Evan Nickols (1181)" [label="Evan Nickols (1181)
 Liberal Democrats"]
-	"Aiden Gyuru (1185)" [label="Aiden Gyuru (1185)
-Australian Federation Party"]
 	"Sean Connor (1177)" [label="Sean Connor (1177)
 The Great Australian Party"]
-	"Sonya Michelle Eberhart (1182)" -> "Dave Vos (1178)" [label=471]
-	"Dean Powell (1176)" -> "Sonya Michelle Eberhart (1182)" [label=292]
-	"Sarah Szmekura-Moor (1179)" -> "Dean Powell (1176)" [label=72]
-	"Evan Nickols (1181)" -> "Sarah Szmekura-Moor (1179)" [label=69]
-	"Aiden Gyuru (1185)" -> "Evan Nickols (1181)" [label=198]
-	"Sean Connor (1177)" -> "Aiden Gyuru (1185)" [label=178]
+	"Dave Vos (1178)" [label="Dave Vos (1178)
+WESTERN AUSTRALIA PARTY"]
+	"Dean Powell (1176)" [label="Dean Powell (1176)
+Australian Christians"]
+	"Sonya Michelle Eberhart (1182)" [label="Sonya Michelle Eberhart (1182)
+United Australia Party"]
+	"Aiden Gyuru (1185)" [label="Aiden Gyuru (1185)
+Australian Federation Party"]
 	"Dean Powell (1176)" -> "Dave Vos (1178)" [label=260]
-	"Sarah Szmekura-Moor (1179)" -> "Dave Vos (1178)" [label=349]
-	"Evan Nickols (1181)" -> "Dave Vos (1178)" [label=127]
-	"Aiden Gyuru (1185)" -> "Dave Vos (1178)" [label=74]
-	"Sean Connor (1177)" -> "Dave Vos (1178)" [label=109]
-	"Sean Connor (1177)" -> "Evan Nickols (1181)" [label=19]
-	"Aiden Gyuru (1185)" -> "Sarah Szmekura-Moor (1179)" [label=71]
-	"Sean Connor (1177)" -> "Sarah Szmekura-Moor (1179)" [label=36]
-	"Evan Nickols (1181)" -> "Dean Powell (1176)" [label=143]
-	"Aiden Gyuru (1185)" -> "Dean Powell (1176)" [label=75]
-	"Sean Connor (1177)" -> "Dean Powell (1176)" [label=65]
-	"Sarah Szmekura-Moor (1179)" -> "Sonya Michelle Eberhart (1182)" [label=88]
-	"Evan Nickols (1181)" -> "Sonya Michelle Eberhart (1182)" [label=204]
 	"Aiden Gyuru (1185)" -> "Sonya Michelle Eberhart (1182)" [label=125]
+	"Sean Connor (1177)" -> "Dean Powell (1176)" [label=65]
+	"Aiden Gyuru (1185)" -> "Dean Powell (1176)" [label=75]
+	"Aiden Gyuru (1185)" -> "Sarah Szmekura-Moor (1179)" [label=71]
+	"Evan Nickols (1181)" -> "Sonya Michelle Eberhart (1182)" [label=204]
+	"Sean Connor (1177)" -> "Evan Nickols (1181)" [label=19]
+	"Evan Nickols (1181)" -> "Sarah Szmekura-Moor (1179)" [label=69]
+	"Sean Connor (1177)" -> "Aiden Gyuru (1185)" [label=178]
+	"Sean Connor (1177)" -> "Sarah Szmekura-Moor (1179)" [label=36]
+	"Sean Connor (1177)" -> "Dave Vos (1178)" [label=109]
+	"Sarah Szmekura-Moor (1179)" -> "Dave Vos (1178)" [label=349]
+	"Dean Powell (1176)" -> "Sonya Michelle Eberhart (1182)" [label=292]
+	"Sonya Michelle Eberhart (1182)" -> "Dave Vos (1178)" [label=471]
+	"Evan Nickols (1181)" -> "Dave Vos (1178)" [label=127]
 	"Sean Connor (1177)" -> "Sonya Michelle Eberhart (1182)" [label=91]
+	"Evan Nickols (1181)" -> "Dean Powell (1176)" [label=143]
+	"Aiden Gyuru (1185)" -> "Evan Nickols (1181)" [label=198]
+	"Sarah Szmekura-Moor (1179)" -> "Dean Powell (1176)" [label=72]
+	"Aiden Gyuru (1185)" -> "Dave Vos (1178)" [label=74]
+	"Sarah Szmekura-Moor (1179)" -> "Sonya Michelle Eberhart (1182)" [label=88]
 }

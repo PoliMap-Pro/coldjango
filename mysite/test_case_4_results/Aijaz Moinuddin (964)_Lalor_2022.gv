@@ -2,13 +2,13 @@
 digraph "Aijaz Moinuddin (964)_Lalor_2022" {
 	graph [label="Lalor 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
+Independent"]
 	"Claudio Uribe (965)" [label="Claudio Uribe (965)
 Victorian Socialists"]
 	"Peter Malliaros (969)" [label="Peter Malliaros (969)
 Australian Federation Party"]
-	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
-Independent"]
-	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
 	"Peter Malliaros (969)" -> "Aijaz Moinuddin (964)" [label=95]
 	"Peter Malliaros (969)" -> "Claudio Uribe (965)" [label=52]
+	"Claudio Uribe (965)" -> "Aijaz Moinuddin (964)" [label=230]
 }

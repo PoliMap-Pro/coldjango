@@ -2,18 +2,18 @@
 digraph "Trish Frail (270)_Parkes_2022" {
 	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Trish Frail (270)" [label="Trish Frail (270)
-The Greens"]
-	"Benjamin Fox (271)" [label="Benjamin Fox (271)
-Informed Medical Options Party"]
 	"Petrus Van Der Steen (267)" [label="Petrus Van Der Steen (267)
 United Australia Party"]
+	"Trish Frail (270)" [label="Trish Frail (270)
+The Greens"]
 	"Stuart Howe (268)" [label="Stuart Howe (268)
 Independent"]
+	"Benjamin Fox (271)" [label="Benjamin Fox (271)
+Informed Medical Options Party"]
+	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
+	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
 	"Petrus Van Der Steen (267)" -> "Trish Frail (270)" [label=143]
+	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
 	"Benjamin Fox (271)" -> "Trish Frail (270)" [label=199]
 	"Stuart Howe (268)" -> "Petrus Van Der Steen (267)" [label=239]
-	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
-	"Stuart Howe (268)" -> "Trish Frail (270)" [label=287]
-	"Benjamin Fox (271)" -> "Petrus Van Der Steen (267)" [label=148]
 }

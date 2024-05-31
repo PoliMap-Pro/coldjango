@@ -2,31 +2,31 @@
 digraph "Angela Egan (492)_Herbert_2022" {
 	graph [label="Herbert 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Greg Ian Dowling (494)" [label="Greg Ian Dowling (494)
-United Australia Party"]
+	"Toni Mcmahon (487)" [label="Toni Mcmahon (487)
+Informed Medical Options Party"]
 	"Angela Egan (492)" [label="Angela Egan (492)
+Independent"]
+	"Steven Clare (493)" [label="Steven Clare (493)
 Independent"]
 	"Toni Mccormack (496)" [label="Toni Mccormack (496)
 Animal Justice Party"]
-	"Steven Clare (493)" [label="Steven Clare (493)
-Independent"]
+	"Greg Ian Dowling (494)" [label="Greg Ian Dowling (494)
+United Australia Party"]
 	"Larna Ballard (490)" [label="Larna Ballard (490)
 The Great Australian Party"]
-	"Toni Mcmahon (487)" [label="Toni Mcmahon (487)
-Informed Medical Options Party"]
-	"Toni Mccormack (496)" -> "Toni Mcmahon (487)" [label=193]
-	"Larna Ballard (490)" -> "Angela Egan (492)" [label=85]
-	"Steven Clare (493)" -> "Greg Ian Dowling (494)" [label=44]
-	"Toni Mcmahon (487)" -> "Angela Egan (492)" [label=331]
-	"Larna Ballard (490)" -> "Toni Mcmahon (487)" [label=157]
 	"Toni Mcmahon (487)" -> "Greg Ian Dowling (494)" [label=166]
-	"Larna Ballard (490)" -> "Steven Clare (493)" [label=49]
-	"Steven Clare (493)" -> "Toni Mcmahon (487)" [label=87]
-	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
-	"Steven Clare (493)" -> "Angela Egan (492)" [label=490]
-	"Larna Ballard (490)" -> "Toni Mccormack (496)" [label=17]
-	"Toni Mccormack (496)" -> "Angela Egan (492)" [label=214]
-	"Toni Mccormack (496)" -> "Greg Ian Dowling (494)" [label=52]
-	"Larna Ballard (490)" -> "Greg Ian Dowling (494)" [label=79]
+	"Toni Mcmahon (487)" -> "Angela Egan (492)" [label=331]
 	"Greg Ian Dowling (494)" -> "Angela Egan (492)" [label=218]
+	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
+	"Larna Ballard (490)" -> "Greg Ian Dowling (494)" [label=79]
+	"Toni Mccormack (496)" -> "Angela Egan (492)" [label=214]
+	"Steven Clare (493)" -> "Angela Egan (492)" [label=490]
+	"Steven Clare (493)" -> "Greg Ian Dowling (494)" [label=44]
+	"Larna Ballard (490)" -> "Angela Egan (492)" [label=85]
+	"Larna Ballard (490)" -> "Toni Mcmahon (487)" [label=157]
+	"Steven Clare (493)" -> "Toni Mcmahon (487)" [label=87]
+	"Larna Ballard (490)" -> "Steven Clare (493)" [label=49]
+	"Larna Ballard (490)" -> "Toni Mccormack (496)" [label=17]
+	"Toni Mccormack (496)" -> "Toni Mcmahon (487)" [label=193]
+	"Toni Mccormack (496)" -> "Greg Ian Dowling (494)" [label=52]
 }

@@ -2,13 +2,13 @@
 digraph "Michael Walls (251)_North Sydney_2022" {
 	graph [label="North Sydney 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Lesley Kinney (247)" [label="Lesley Kinney (247)
+Informed Medical Options Party"]
 	"Michael Walls (251)" [label="Michael Walls (251)
 Pauline Hanson's One Nation"]
 	"Victor Kline (246)" [label="Victor Kline (246)
 TNL"]
-	"Lesley Kinney (247)" [label="Lesley Kinney (247)
-Informed Medical Options Party"]
-	"Victor Kline (246)" -> "Michael Walls (251)" [label=11]
-	"Lesley Kinney (247)" -> "Victor Kline (246)" [label=36]
 	"Lesley Kinney (247)" -> "Michael Walls (251)" [label=88]
+	"Lesley Kinney (247)" -> "Victor Kline (246)" [label=36]
+	"Victor Kline (246)" -> "Michael Walls (251)" [label=11]
 }

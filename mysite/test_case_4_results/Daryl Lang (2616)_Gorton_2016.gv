@@ -2,9 +2,9 @@
 digraph "Daryl Lang (2616)_Gorton_2016" {
 	graph [label="Gorton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daryl Lang (2616)" [label="Daryl Lang (2616)
-Liberal"]
 	"Rod Swift (2617)" [label="Rod Swift (2617)
 The Greens"]
+	"Daryl Lang (2616)" [label="Daryl Lang (2616)
+Liberal"]
 	"Rod Swift (2617)" -> "Daryl Lang (2616)" [label=2665]
 }

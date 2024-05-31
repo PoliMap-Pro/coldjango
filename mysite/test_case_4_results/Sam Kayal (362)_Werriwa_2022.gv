@@ -4,22 +4,22 @@ digraph "Sam Kayal (362)_Werriwa_2022" {
 	node [shape=box]
 	"Sam Kayal (362)" [label="Sam Kayal (362)
 Liberal"]
-	"Tony Mark Nikolic (359)" [label="Tony Mark Nikolic (359)
-United Australia Party"]
-	"Victor Tey (358)" [label="Victor Tey (358)
-Liberal Democrats"]
 	"Apurva Shukla (361)" [label="Apurva Shukla (361)
 The Greens"]
+	"Victor Tey (358)" [label="Victor Tey (358)
+Liberal Democrats"]
+	"Tony Mark Nikolic (359)" [label="Tony Mark Nikolic (359)
+United Australia Party"]
 	"Adam Paul Booke (363)" [label="Adam Paul Booke (363)
 Pauline Hanson's One Nation"]
-	"Tony Mark Nikolic (359)" -> "Sam Kayal (362)" [label=7811]
-	"Victor Tey (358)" -> "Tony Mark Nikolic (359)" [label=4566]
-	"Apurva Shukla (361)" -> "Victor Tey (358)" [label=673]
-	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
-	"Victor Tey (358)" -> "Sam Kayal (362)" [label=3760]
 	"Apurva Shukla (361)" -> "Sam Kayal (362)" [label=1019]
 	"Adam Paul Booke (363)" -> "Sam Kayal (362)" [label=1004]
+	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
+	"Tony Mark Nikolic (359)" -> "Sam Kayal (362)" [label=7811]
 	"Adam Paul Booke (363)" -> "Victor Tey (358)" [label=890]
+	"Victor Tey (358)" -> "Tony Mark Nikolic (359)" [label=4566]
 	"Apurva Shukla (361)" -> "Tony Mark Nikolic (359)" [label=1088]
+	"Victor Tey (358)" -> "Sam Kayal (362)" [label=3760]
 	"Adam Paul Booke (363)" -> "Tony Mark Nikolic (359)" [label=2011]
+	"Apurva Shukla (361)" -> "Victor Tey (358)" [label=673]
 }

@@ -8,7 +8,7 @@ Christian Democratic Party (Fred Nile Group)"]
 Independent"]
 	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
 The Greens"]
-	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
 	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
 	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
+	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
 }

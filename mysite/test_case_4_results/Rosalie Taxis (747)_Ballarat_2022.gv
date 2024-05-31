@@ -4,16 +4,16 @@ digraph "Rosalie Taxis (747)_Ballarat_2022" {
 	node [shape=box]
 	"Rosalie Taxis (747)" [label="Rosalie Taxis (747)
 Pauline Hanson's One Nation"]
-	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
-Liberal Democrats"]
-	"Alex Graham (744)" [label="Alex Graham (744)
-Independent"]
 	"Kerryn Sedgman (745)" [label="Kerryn Sedgman (745)
 Australian Federation Party"]
-	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
-	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
-	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
-	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
-	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
+Liberal Democrats"]
 	"Kerryn Sedgman (745)" -> "Julia Mcgrath (748)" [label=131]
+	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
+	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
+	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
+	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
+	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
 }

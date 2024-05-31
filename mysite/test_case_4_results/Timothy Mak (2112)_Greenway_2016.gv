@@ -4,16 +4,16 @@ digraph "Timothy Mak (2112)_Greenway_2016" {
 	node [shape=box]
 	"Timothy Mak (2112)" [label="Timothy Mak (2112)
 Liberal Democrats"]
+	"Vivek Singha (218)" [label="Vivek Singha (218)
+Science Party"]
 	"Avtar Singh Billu (2117)" [label="Avtar Singh Billu (2117)
 Independent"]
 	"Rohan Salins (2114)" [label="Rohan Salins (2114)
 Family First"]
-	"Vivek Singha (218)" [label="Vivek Singha (218)
-Science Party"]
-	"Avtar Singh Billu (2117)" -> "Timothy Mak (2112)" [label=389]
 	"Rohan Salins (2114)" -> "Avtar Singh Billu (2117)" [label=176]
-	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
-	"Rohan Salins (2114)" -> "Timothy Mak (2112)" [label=163]
 	"Vivek Singha (218)" -> "Timothy Mak (2112)" [label=93]
+	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
 	"Vivek Singha (218)" -> "Avtar Singh Billu (2117)" [label=148]
+	"Avtar Singh Billu (2117)" -> "Timothy Mak (2112)" [label=389]
+	"Rohan Salins (2114)" -> "Timothy Mak (2112)" [label=163]
 }

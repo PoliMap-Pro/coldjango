@@ -2,12 +2,12 @@
 digraph "Neil Swann (561)_Moreton_2022" {
 	graph [label="Moreton 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Neil Swann (561)" [label="Neil Swann (561)
-Pauline Hanson's One Nation"]
 	"Chelsea Follett (565)" [label="Chelsea Follett (565)
 United Australia Party"]
 	"Peter Power (560)" [label="Peter Power (560)
 Australian Federation Party"]
+	"Neil Swann (561)" [label="Neil Swann (561)
+Pauline Hanson's One Nation"]
 	"Chelsea Follett (565)" -> "Neil Swann (561)" [label=1835]
 	"Peter Power (560)" -> "Chelsea Follett (565)" [label=214]
 	"Peter Power (560)" -> "Neil Swann (561)" [label=614]

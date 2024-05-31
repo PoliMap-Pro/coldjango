@@ -2,24 +2,24 @@
 digraph "Cameron Smith (997)_Maribyrnong_2022" {
 	graph [label="Maribyrnong 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cameron Smith (997)" [label="Cameron Smith (997)
-Liberal Democrats"]
-	"Jodie Tindal (992)" [label="Jodie Tindal (992)
-Pauline Hanson's One Nation"]
 	"Mark Michael Hobart (989)" [label="Mark Michael Hobart (989)
 The Great Australian Party"]
-	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
-Victorian Socialists"]
 	"Alexander Anthony Ansalone (996)" [label="Alexander Anthony Ansalone (996)
 Australian Federation Party"]
-	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
-	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Cameron Smith (997)" [label="Cameron Smith (997)
+Liberal Democrats"]
+	"Daniel Nair Dadich (990)" [label="Daniel Nair Dadich (990)
+Victorian Socialists"]
+	"Jodie Tindal (992)" [label="Jodie Tindal (992)
+Pauline Hanson's One Nation"]
 	"Daniel Nair Dadich (990)" -> "Mark Michael Hobart (989)" [label=145]
+	"Mark Michael Hobart (989)" -> "Jodie Tindal (992)" [label=482]
+	"Alexander Anthony Ansalone (996)" -> "Jodie Tindal (992)" [label=48]
+	"Jodie Tindal (992)" -> "Cameron Smith (997)" [label=562]
 	"Alexander Anthony Ansalone (996)" -> "Daniel Nair Dadich (990)" [label=33]
+	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
 	"Mark Michael Hobart (989)" -> "Cameron Smith (997)" [label=260]
 	"Daniel Nair Dadich (990)" -> "Cameron Smith (997)" [label=25]
-	"Alexander Anthony Ansalone (996)" -> "Cameron Smith (997)" [label=112]
 	"Alexander Anthony Ansalone (996)" -> "Mark Michael Hobart (989)" [label=142]
 	"Daniel Nair Dadich (990)" -> "Jodie Tindal (992)" [label=55]
-	"Alexander Anthony Ansalone (996)" -> "Jodie Tindal (992)" [label=48]
 }

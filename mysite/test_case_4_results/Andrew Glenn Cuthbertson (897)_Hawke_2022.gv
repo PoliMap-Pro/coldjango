@@ -2,48 +2,48 @@
 digraph "Andrew Glenn Cuthbertson (897)_Hawke_2022" {
 	graph [label="Hawke 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrew Glenn Cuthbertson (897)" [label="Andrew Glenn Cuthbertson (897)
-United Australia Party"]
-	"Lynda Wheelock (893)" [label="Lynda Wheelock (893)
-The Greens"]
-	"Nick Suduk (894)" [label="Nick Suduk (894)
-Pauline Hanson's One Nation"]
-	"Michael Williams (887)" [label="Michael Williams (887)
-Australian Federation Party"]
-	"Michael Edward Lacey (888)" [label="Michael Edward Lacey (888)
-The Great Australian Party"]
-	"Max Martucci (891)" [label="Max Martucci (891)
-TNL"]
-	"Jack Hynes (896)" [label="Jack Hynes (896)
-Victorian Socialists"]
 	"Glenn Vessey (895)" [label="Glenn Vessey (895)
 Citizens Party"]
-	"Lynda Wheelock (893)" -> "Andrew Glenn Cuthbertson (897)" [label=766]
-	"Nick Suduk (894)" -> "Lynda Wheelock (893)" [label=362]
+	"Jack Hynes (896)" [label="Jack Hynes (896)
+Victorian Socialists"]
+	"Lynda Wheelock (893)" [label="Lynda Wheelock (893)
+The Greens"]
+	"Michael Williams (887)" [label="Michael Williams (887)
+Australian Federation Party"]
+	"Max Martucci (891)" [label="Max Martucci (891)
+TNL"]
+	"Andrew Glenn Cuthbertson (897)" [label="Andrew Glenn Cuthbertson (897)
+United Australia Party"]
+	"Nick Suduk (894)" [label="Nick Suduk (894)
+Pauline Hanson's One Nation"]
+	"Michael Edward Lacey (888)" [label="Michael Edward Lacey (888)
+The Great Australian Party"]
 	"Michael Williams (887)" -> "Nick Suduk (894)" [label=242]
-	"Michael Edward Lacey (888)" -> "Michael Williams (887)" [label=750]
-	"Max Martucci (891)" -> "Michael Edward Lacey (888)" [label=85]
-	"Jack Hynes (896)" -> "Max Martucci (891)" [label=65]
-	"Glenn Vessey (895)" -> "Jack Hynes (896)" [label=80]
-	"Nick Suduk (894)" -> "Andrew Glenn Cuthbertson (897)" [label=2968]
-	"Michael Williams (887)" -> "Andrew Glenn Cuthbertson (897)" [label=227]
-	"Michael Edward Lacey (888)" -> "Andrew Glenn Cuthbertson (897)" [label=225]
 	"Max Martucci (891)" -> "Andrew Glenn Cuthbertson (897)" [label=61]
-	"Jack Hynes (896)" -> "Andrew Glenn Cuthbertson (897)" [label=114]
-	"Glenn Vessey (895)" -> "Andrew Glenn Cuthbertson (897)" [label=43]
-	"Glenn Vessey (895)" -> "Max Martucci (891)" [label=18]
 	"Jack Hynes (896)" -> "Michael Edward Lacey (888)" [label=28]
-	"Glenn Vessey (895)" -> "Michael Edward Lacey (888)" [label=28]
-	"Max Martucci (891)" -> "Michael Williams (887)" [label=89]
-	"Jack Hynes (896)" -> "Michael Williams (887)" [label=53]
+	"Jack Hynes (896)" -> "Nick Suduk (894)" [label=72]
+	"Michael Williams (887)" -> "Andrew Glenn Cuthbertson (897)" [label=227]
+	"Max Martucci (891)" -> "Michael Edward Lacey (888)" [label=85]
+	"Nick Suduk (894)" -> "Andrew Glenn Cuthbertson (897)" [label=2968]
+	"Michael Edward Lacey (888)" -> "Michael Williams (887)" [label=750]
 	"Glenn Vessey (895)" -> "Michael Williams (887)" [label=27]
 	"Michael Edward Lacey (888)" -> "Nick Suduk (894)" [label=287]
-	"Max Martucci (891)" -> "Nick Suduk (894)" [label=43]
-	"Jack Hynes (896)" -> "Nick Suduk (894)" [label=72]
-	"Glenn Vessey (895)" -> "Nick Suduk (894)" [label=83]
-	"Michael Williams (887)" -> "Lynda Wheelock (893)" [label=130]
-	"Michael Edward Lacey (888)" -> "Lynda Wheelock (893)" [label=88]
-	"Max Martucci (891)" -> "Lynda Wheelock (893)" [label=241]
+	"Jack Hynes (896)" -> "Andrew Glenn Cuthbertson (897)" [label=114]
 	"Jack Hynes (896)" -> "Lynda Wheelock (893)" [label=399]
+	"Glenn Vessey (895)" -> "Max Martucci (891)" [label=18]
+	"Max Martucci (891)" -> "Lynda Wheelock (893)" [label=241]
 	"Glenn Vessey (895)" -> "Lynda Wheelock (893)" [label=35]
+	"Michael Edward Lacey (888)" -> "Lynda Wheelock (893)" [label=88]
+	"Michael Williams (887)" -> "Lynda Wheelock (893)" [label=130]
+	"Jack Hynes (896)" -> "Max Martucci (891)" [label=65]
+	"Max Martucci (891)" -> "Michael Williams (887)" [label=89]
+	"Glenn Vessey (895)" -> "Jack Hynes (896)" [label=80]
+	"Glenn Vessey (895)" -> "Andrew Glenn Cuthbertson (897)" [label=43]
+	"Michael Edward Lacey (888)" -> "Andrew Glenn Cuthbertson (897)" [label=225]
+	"Glenn Vessey (895)" -> "Nick Suduk (894)" [label=83]
+	"Jack Hynes (896)" -> "Michael Williams (887)" [label=53]
+	"Glenn Vessey (895)" -> "Michael Edward Lacey (888)" [label=28]
+	"Max Martucci (891)" -> "Nick Suduk (894)" [label=43]
+	"Lynda Wheelock (893)" -> "Andrew Glenn Cuthbertson (897)" [label=766]
+	"Nick Suduk (894)" -> "Lynda Wheelock (893)" [label=362]
 }

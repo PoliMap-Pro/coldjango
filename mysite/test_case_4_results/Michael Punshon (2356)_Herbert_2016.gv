@@ -2,18 +2,18 @@
 digraph "Michael Punshon (2356)_Herbert_2016" {
 	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Punshon (2356)" [label="Michael Punshon (2356)
-Family First"]
 	"Martin Brewster (2358)" [label="Martin Brewster (2358)
 Palmer United Party"]
 	"David Harris (2363)" [label="David Harris (2363)
 Liberal Democrats"]
 	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
 Glenn Lazarus Team"]
-	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
+	"Michael Punshon (2356)" [label="Michael Punshon (2356)
+Family First"]
+	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
+	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
 	"David Harris (2363)" -> "Aaron Raffin (2362)" [label=134]
 	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
 	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
-	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
-	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
+	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
 }

@@ -2,24 +2,24 @@
 digraph "Janetia Knapp (1137)_Fremantle_2022" {
 	graph [label="Fremantle 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
-WESTERN AUSTRALIA PARTY"]
-	"Stella Jinman (1133)" [label="Stella Jinman (1133)
-United Australia Party"]
-	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
-Australian Federation Party"]
-	"Yan Loh (1136)" [label="Yan Loh (1136)
-Liberal Democrats"]
 	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
 Socialist Alliance"]
-	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
-	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
-	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
-	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
-	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
+	"Stella Jinman (1133)" [label="Stella Jinman (1133)
+United Australia Party"]
+	"Yan Loh (1136)" [label="Yan Loh (1136)
+Liberal Democrats"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
+Australian Federation Party"]
 	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
-	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
-	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
 	"Yan Loh (1136)" -> "Stella Jinman (1133)" [label=147]
+	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
+	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
+	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
+	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
+	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
+	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
 	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
+	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
 }

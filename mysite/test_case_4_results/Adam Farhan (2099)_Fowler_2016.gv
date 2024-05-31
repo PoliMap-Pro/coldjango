@@ -2,18 +2,18 @@
 digraph "Adam Farhan (2099)_Fowler_2016" {
 	graph [label="Fowler 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Adam Farhan (2099)" [label="Adam Farhan (2099)
-Liberal"]
-	"Bill Cashman (2098)" [label="Bill Cashman (2098)
-The Greens"]
 	"Craig Hall (2101)" [label="Craig Hall (2101)
 Christian Democratic Party (Fred Nile Group)"]
 	"Joaquim De Lima (2100)" [label="Joaquim De Lima (2100)
 Smokers Rights"]
-	"Bill Cashman (2098)" -> "Adam Farhan (2099)" [label=2827]
-	"Craig Hall (2101)" -> "Bill Cashman (2098)" [label=801]
+	"Bill Cashman (2098)" [label="Bill Cashman (2098)
+The Greens"]
+	"Adam Farhan (2099)" [label="Adam Farhan (2099)
+Liberal"]
 	"Joaquim De Lima (2100)" -> "Craig Hall (2101)" [label=381]
 	"Craig Hall (2101)" -> "Adam Farhan (2099)" [label=2712]
+	"Bill Cashman (2098)" -> "Adam Farhan (2099)" [label=2827]
 	"Joaquim De Lima (2100)" -> "Adam Farhan (2099)" [label=210]
 	"Joaquim De Lima (2100)" -> "Bill Cashman (2098)" [label=288]
+	"Craig Hall (2101)" -> "Bill Cashman (2098)" [label=801]
 }

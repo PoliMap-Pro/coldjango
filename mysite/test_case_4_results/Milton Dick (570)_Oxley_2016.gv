@@ -2,24 +2,24 @@
 digraph "Milton Dick (570)_Oxley_2016" {
 	graph [label="Oxley 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
-Katter's Australian Party"]
-	"Brad Trussell (2414)" [label="Brad Trussell (2414)
-Pauline Hanson's One Nation"]
-	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
-Family First"]
 	"Milton Dick (570)" [label="Milton Dick (570)
 Australian Labor Party"]
+	"Stephen Lacaze (2416)" [label="Stephen Lacaze (2416)
+Katter's Australian Party"]
+	"Carrie Mccormack (2415)" [label="Carrie Mccormack (2415)
+Family First"]
+	"Brad Trussell (2414)" [label="Brad Trussell (2414)
+Pauline Hanson's One Nation"]
 	"Steven Purcell (1614)" [label="Steven Purcell (1614)
 The Greens"]
-	"Stephen Lacaze (2416)" -> "Carrie Mccormack (2415)" [label=247]
-	"Steven Purcell (1614)" -> "Brad Trussell (2414)" [label=964]
-	"Brad Trussell (2414)" -> "Milton Dick (570)" [label=4386]
-	"Stephen Lacaze (2416)" -> "Brad Trussell (2414)" [label=392]
-	"Carrie Mccormack (2415)" -> "Steven Purcell (1614)" [label=421]
-	"Carrie Mccormack (2415)" -> "Milton Dick (570)" [label=531]
 	"Stephen Lacaze (2416)" -> "Steven Purcell (1614)" [label=108]
-	"Carrie Mccormack (2415)" -> "Brad Trussell (2414)" [label=955]
+	"Steven Purcell (1614)" -> "Brad Trussell (2414)" [label=964]
 	"Stephen Lacaze (2416)" -> "Milton Dick (570)" [label=202]
+	"Stephen Lacaze (2416)" -> "Carrie Mccormack (2415)" [label=247]
+	"Carrie Mccormack (2415)" -> "Steven Purcell (1614)" [label=421]
+	"Stephen Lacaze (2416)" -> "Brad Trussell (2414)" [label=392]
+	"Brad Trussell (2414)" -> "Milton Dick (570)" [label=4386]
+	"Carrie Mccormack (2415)" -> "Brad Trussell (2414)" [label=955]
 	"Steven Purcell (1614)" -> "Milton Dick (570)" [label=5712]
+	"Carrie Mccormack (2415)" -> "Milton Dick (570)" [label=531]
 }

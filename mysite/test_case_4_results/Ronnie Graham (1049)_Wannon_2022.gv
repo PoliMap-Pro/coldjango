@@ -8,7 +8,7 @@ Pauline Hanson's One Nation"]
 Independent"]
 	"Amanda Mead (1053)" [label="Amanda Mead (1053)
 Liberal Democrats"]
-	"Graham Garner (1047)" -> "Ronnie Graham (1049)" [label=454]
 	"Amanda Mead (1053)" -> "Graham Garner (1047)" [label=168]
 	"Amanda Mead (1053)" -> "Ronnie Graham (1049)" [label=378]
+	"Graham Garner (1047)" -> "Ronnie Graham (1049)" [label=454]
 }

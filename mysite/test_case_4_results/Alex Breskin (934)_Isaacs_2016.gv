@@ -2,9 +2,9 @@
 digraph "Alex Breskin (934)_Isaacs_2016" {
 	graph [label="Isaacs 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
-Animal Justice Party"]
 	"Alex Breskin (934)" [label="Alex Breskin (934)
 The Greens"]
+	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
+Animal Justice Party"]
 	"Elizabeth Johnston (832)" -> "Alex Breskin (934)" [label=2150]
 }

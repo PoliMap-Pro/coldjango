@@ -8,7 +8,7 @@ Independent"]
 Science Party"]
 	"Mick Gallagher (1235)" [label="Mick Gallagher (1235)
 Independent"]
-	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
 	"Roger Woodward (47)" -> "Brendan Michael Clarke (44)" [label=120]
+	"Roger Woodward (47)" -> "Mick Gallagher (1235)" [label=329]
 	"Brendan Michael Clarke (44)" -> "Mick Gallagher (1235)" [label=423]
 }

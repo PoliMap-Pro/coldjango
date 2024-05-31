@@ -2,13 +2,13 @@
 digraph "Chrysten Abraham (840)_Flinders_2022" {
 	graph [label="Flinders 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chrysten Abraham (840)" [label="Chrysten Abraham (840)
-Liberal Democrats"]
 	"Pamela Engelander (847)" [label="Pamela Engelander (847)
 Animal Justice Party"]
 	"Jefferson Earl (842)" [label="Jefferson Earl (842)
 Australian Federation Party"]
+	"Chrysten Abraham (840)" [label="Chrysten Abraham (840)
+Liberal Democrats"]
+	"Jefferson Earl (842)" -> "Chrysten Abraham (840)" [label=96]
 	"Pamela Engelander (847)" -> "Chrysten Abraham (840)" [label=26]
 	"Jefferson Earl (842)" -> "Pamela Engelander (847)" [label=11]
-	"Jefferson Earl (842)" -> "Chrysten Abraham (840)" [label=96]
 }

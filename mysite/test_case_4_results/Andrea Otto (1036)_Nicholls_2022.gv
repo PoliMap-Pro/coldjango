@@ -4,11 +4,11 @@ digraph "Andrea Otto (1036)_Nicholls_2022" {
 	node [shape=box]
 	"Andrea Otto (1036)" [label="Andrea Otto (1036)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Jeff Davy (1033)" [label="Jeff Davy (1033)
-Citizens Party"]
 	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
 Australian Federation Party"]
-	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
+	"Jeff Davy (1033)" [label="Jeff Davy (1033)
+Citizens Party"]
 	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
 	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
+	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
 }

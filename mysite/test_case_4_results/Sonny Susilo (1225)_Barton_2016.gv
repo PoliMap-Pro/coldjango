@@ -2,13 +2,13 @@
 digraph "Sonny Susilo (1225)_Barton_2016" {
 	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
-Independent"]
 	"Harry Tsoukalas (2040)" [label="Harry Tsoukalas (2040)
 Online Direct Democracy - (Empowering the People!)"]
 	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
 Christian Democratic Party (Fred Nile Group)"]
+	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
+Independent"]
 	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
-	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
 	"Harry Tsoukalas (2040)" -> "Sonny Susilo (1225)" [label=133]
+	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
 }

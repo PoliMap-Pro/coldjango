@@ -4,11 +4,11 @@ digraph "David Rees (2324)_Fairfax_2016" {
 	node [shape=box]
 	"Robert Dickson (2328)" [label="Robert Dickson (2328)
 Independent"]
-	"Kris Bullen (2327)" [label="Kris Bullen (2327)
-Online Direct Democracy - (Empowering the People!)"]
 	"David Rees (2324)" [label="David Rees (2324)
 Family First"]
+	"Kris Bullen (2327)" [label="Kris Bullen (2327)
+Online Direct Democracy - (Empowering the People!)"]
 	"Kris Bullen (2327)" -> "David Rees (2324)" [label=47]
-	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
 	"Robert Dickson (2328)" -> "David Rees (2324)" [label=159]
+	"Kris Bullen (2327)" -> "Robert Dickson (2328)" [label=123]
 }

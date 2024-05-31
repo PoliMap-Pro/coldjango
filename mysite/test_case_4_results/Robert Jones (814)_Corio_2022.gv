@@ -2,24 +2,24 @@
 digraph "Robert Jones (814)_Corio_2022" {
 	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jessica Taylor (811)" [label="Jessica Taylor (811)
+Australian Federation Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
 	"Robert Jones (814)" [label="Robert Jones (814)
 Pauline Hanson's One Nation"]
 	"Max Payne (816)" [label="Max Payne (816)
 Liberal Democrats"]
-	"Sue Bull (810)" [label="Sue Bull (810)
-Socialist Alliance"]
 	"Naomi Adams (815)" [label="Naomi Adams (815)
 Animal Justice Party"]
-	"Jessica Taylor (811)" [label="Jessica Taylor (811)
-Australian Federation Party"]
-	"Max Payne (816)" -> "Robert Jones (814)" [label=851]
-	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
-	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
-	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
-	"Sue Bull (810)" -> "Robert Jones (814)" [label=208]
-	"Naomi Adams (815)" -> "Robert Jones (814)" [label=244]
 	"Jessica Taylor (811)" -> "Robert Jones (814)" [label=148]
-	"Jessica Taylor (811)" -> "Sue Bull (810)" [label=206]
-	"Naomi Adams (815)" -> "Max Payne (816)" [label=123]
+	"Max Payne (816)" -> "Robert Jones (814)" [label=851]
 	"Jessica Taylor (811)" -> "Max Payne (816)" [label=201]
+	"Sue Bull (810)" -> "Robert Jones (814)" [label=208]
+	"Sue Bull (810)" -> "Max Payne (816)" [label=121]
+	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
+	"Jessica Taylor (811)" -> "Sue Bull (810)" [label=206]
+	"Naomi Adams (815)" -> "Robert Jones (814)" [label=244]
+	"Naomi Adams (815)" -> "Sue Bull (810)" [label=345]
+	"Naomi Adams (815)" -> "Max Payne (816)" [label=123]
 }

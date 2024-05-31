@@ -2,9 +2,9 @@
 digraph "Jeff Crank (580)_Rankin_2022" {
 	graph [label="Rankin 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeff Crank (580)" [label="Jeff Crank (580)
-United Australia Party"]
 	"Suzanne Clarke (582)" [label="Suzanne Clarke (582)
 Animal Justice Party"]
+	"Jeff Crank (580)" [label="Jeff Crank (580)
+United Australia Party"]
 	"Suzanne Clarke (582)" -> "Jeff Crank (580)" [label=285]
 }

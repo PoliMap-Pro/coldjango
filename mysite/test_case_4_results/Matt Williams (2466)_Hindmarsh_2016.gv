@@ -2,31 +2,31 @@
 digraph "Matt Williams (2466)_Hindmarsh_2016" {
 	graph [label="Hindmarsh 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matt Williams (2466)" [label="Matt Williams (2466)
-Liberal"]
+	"Marina William (2467)" [label="Marina William (2467)
+Christian Democratic Party (Fred Nile Group)"]
 	"Daniel Kirk (2465)" [label="Daniel Kirk (2465)
 Nick Xenophon Team"]
 	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
 The Greens"]
-	"Mark Potter (2464)" [label="Mark Potter (2464)
-Family First"]
 	"Bin Liu (2468)" [label="Bin Liu (2468)
 Animal Justice Party"]
-	"Marina William (2467)" [label="Marina William (2467)
-Christian Democratic Party (Fred Nile Group)"]
-	"Daniel Kirk (2465)" -> "Matt Williams (2466)" [label=6887]
-	"Patrick O'Sullivan (644)" -> "Daniel Kirk (2465)" [label=2206]
-	"Mark Potter (2464)" -> "Patrick O'Sullivan (644)" [label=409]
-	"Bin Liu (2468)" -> "Mark Potter (2464)" [label=230]
-	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
-	"Patrick O'Sullivan (644)" -> "Matt Williams (2466)" [label=600]
-	"Mark Potter (2464)" -> "Matt Williams (2466)" [label=1020]
-	"Bin Liu (2468)" -> "Matt Williams (2466)" [label=228]
-	"Marina William (2467)" -> "Matt Williams (2466)" [label=141]
+	"Mark Potter (2464)" [label="Mark Potter (2464)
+Family First"]
+	"Matt Williams (2466)" [label="Matt Williams (2466)
+Liberal"]
 	"Marina William (2467)" -> "Mark Potter (2464)" [label=194]
-	"Bin Liu (2468)" -> "Patrick O'Sullivan (644)" [label=479]
+	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
+	"Daniel Kirk (2465)" -> "Matt Williams (2466)" [label=6887]
+	"Bin Liu (2468)" -> "Matt Williams (2466)" [label=228]
+	"Bin Liu (2468)" -> "Mark Potter (2464)" [label=230]
 	"Marina William (2467)" -> "Patrick O'Sullivan (644)" [label=26]
+	"Marina William (2467)" -> "Matt Williams (2466)" [label=141]
+	"Patrick O'Sullivan (644)" -> "Matt Williams (2466)" [label=600]
+	"Mark Potter (2464)" -> "Patrick O'Sullivan (644)" [label=409]
 	"Mark Potter (2464)" -> "Daniel Kirk (2465)" [label=573]
+	"Mark Potter (2464)" -> "Matt Williams (2466)" [label=1020]
+	"Patrick O'Sullivan (644)" -> "Daniel Kirk (2465)" [label=2206]
+	"Bin Liu (2468)" -> "Patrick O'Sullivan (644)" [label=479]
 	"Bin Liu (2468)" -> "Daniel Kirk (2465)" [label=295]
 	"Marina William (2467)" -> "Daniel Kirk (2465)" [label=31]
 }

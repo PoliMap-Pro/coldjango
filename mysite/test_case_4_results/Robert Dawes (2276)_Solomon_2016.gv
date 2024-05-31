@@ -2,31 +2,31 @@
 digraph "Robert Dawes (2276)_Solomon_2016" {
 	graph [label="Solomon 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Dawes (2276)" [label="Robert Dawes (2276)
-Liberal Democrats"]
-	"Lance Lawrence (2277)" [label="Lance Lawrence (2277)
-Marijuana (HEMP) Party"]
-	"Silvija Majetic (2279)" [label="Silvija Majetic (2279)
-Rise Up Australia Party"]
-	"John Kearney (2274)" [label="John Kearney (2274)
-Australia First Party"]
-	"Nevin Cartwright (2282)" [label="Nevin Cartwright (2282)
-Online Direct Democracy - (Empowering the People!)"]
 	"Brigid Mccullough (2281)" [label="Brigid Mccullough (2281)
 Citizens Electoral Council"]
-	"Lance Lawrence (2277)" -> "Robert Dawes (2276)" [label=100]
-	"Silvija Majetic (2279)" -> "Lance Lawrence (2277)" [label=99]
-	"John Kearney (2274)" -> "Silvija Majetic (2279)" [label=153]
-	"Nevin Cartwright (2282)" -> "John Kearney (2274)" [label=33]
-	"Brigid Mccullough (2281)" -> "Nevin Cartwright (2282)" [label=40]
-	"Silvija Majetic (2279)" -> "Robert Dawes (2276)" [label=72]
-	"John Kearney (2274)" -> "Robert Dawes (2276)" [label=68]
+	"Robert Dawes (2276)" [label="Robert Dawes (2276)
+Liberal Democrats"]
+	"Nevin Cartwright (2282)" [label="Nevin Cartwright (2282)
+Online Direct Democracy - (Empowering the People!)"]
+	"Silvija Majetic (2279)" [label="Silvija Majetic (2279)
+Rise Up Australia Party"]
+	"Lance Lawrence (2277)" [label="Lance Lawrence (2277)
+Marijuana (HEMP) Party"]
+	"John Kearney (2274)" [label="John Kearney (2274)
+Australia First Party"]
 	"Nevin Cartwright (2282)" -> "Robert Dawes (2276)" [label=15]
-	"Brigid Mccullough (2281)" -> "Robert Dawes (2276)" [label=7]
-	"Brigid Mccullough (2281)" -> "John Kearney (2274)" [label=14]
-	"Nevin Cartwright (2282)" -> "Silvija Majetic (2279)" [label=31]
 	"Brigid Mccullough (2281)" -> "Silvija Majetic (2279)" [label=14]
-	"John Kearney (2274)" -> "Lance Lawrence (2277)" [label=100]
-	"Nevin Cartwright (2282)" -> "Lance Lawrence (2277)" [label=34]
+	"Nevin Cartwright (2282)" -> "Silvija Majetic (2279)" [label=31]
+	"John Kearney (2274)" -> "Robert Dawes (2276)" [label=68]
 	"Brigid Mccullough (2281)" -> "Lance Lawrence (2277)" [label=6]
+	"John Kearney (2274)" -> "Lance Lawrence (2277)" [label=100]
+	"Nevin Cartwright (2282)" -> "John Kearney (2274)" [label=33]
+	"Brigid Mccullough (2281)" -> "John Kearney (2274)" [label=14]
+	"Brigid Mccullough (2281)" -> "Nevin Cartwright (2282)" [label=40]
+	"Silvija Majetic (2279)" -> "Lance Lawrence (2277)" [label=99]
+	"Brigid Mccullough (2281)" -> "Robert Dawes (2276)" [label=7]
+	"Lance Lawrence (2277)" -> "Robert Dawes (2276)" [label=100]
+	"John Kearney (2274)" -> "Silvija Majetic (2279)" [label=153]
+	"Nevin Cartwright (2282)" -> "Lance Lawrence (2277)" [label=34]
+	"Silvija Majetic (2279)" -> "Robert Dawes (2276)" [label=72]
 }

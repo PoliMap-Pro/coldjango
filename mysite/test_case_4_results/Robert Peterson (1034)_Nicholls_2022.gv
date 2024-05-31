@@ -2,8 +2,6 @@
 digraph "Robert Peterson (1034)_Nicholls_2022" {
 	graph [label="Nicholls 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Peterson (1034)" [label="Robert Peterson (1034)
-United Australia Party"]
 	"Tim Laird (1029)" [label="Tim Laird (1029)
 Liberal Democrats"]
 	"Ian Christoe (1035)" [label="Ian Christoe (1035)
@@ -12,21 +10,23 @@ The Greens"]
 FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Jeff Davy (1033)" [label="Jeff Davy (1033)
 Citizens Party"]
+	"Robert Peterson (1034)" [label="Robert Peterson (1034)
+United Australia Party"]
 	"Eleonor Tabone (1038)" [label="Eleonor Tabone (1038)
 Australian Federation Party"]
-	"Tim Laird (1029)" -> "Robert Peterson (1034)" [label=269]
 	"Ian Christoe (1035)" -> "Tim Laird (1029)" [label=95]
-	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
-	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
-	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
-	"Ian Christoe (1035)" -> "Robert Peterson (1034)" [label=178]
-	"Andrea Otto (1036)" -> "Robert Peterson (1034)" [label=46]
-	"Jeff Davy (1033)" -> "Robert Peterson (1034)" [label=52]
-	"Eleonor Tabone (1038)" -> "Robert Peterson (1034)" [label=27]
-	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
 	"Jeff Davy (1033)" -> "Ian Christoe (1035)" [label=27]
+	"Andrea Otto (1036)" -> "Robert Peterson (1034)" [label=46]
 	"Eleonor Tabone (1038)" -> "Ian Christoe (1035)" [label=18]
+	"Eleonor Tabone (1038)" -> "Robert Peterson (1034)" [label=27]
 	"Andrea Otto (1036)" -> "Tim Laird (1029)" [label=35]
+	"Jeff Davy (1033)" -> "Andrea Otto (1036)" [label=33]
+	"Ian Christoe (1035)" -> "Robert Peterson (1034)" [label=178]
+	"Andrea Otto (1036)" -> "Ian Christoe (1035)" [label=210]
 	"Jeff Davy (1033)" -> "Tim Laird (1029)" [label=43]
 	"Eleonor Tabone (1038)" -> "Tim Laird (1029)" [label=42]
+	"Eleonor Tabone (1038)" -> "Andrea Otto (1036)" [label=33]
+	"Eleonor Tabone (1038)" -> "Jeff Davy (1033)" [label=21]
+	"Jeff Davy (1033)" -> "Robert Peterson (1034)" [label=52]
+	"Tim Laird (1029)" -> "Robert Peterson (1034)" [label=269]
 }

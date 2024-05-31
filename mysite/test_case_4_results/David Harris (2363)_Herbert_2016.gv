@@ -2,9 +2,9 @@
 digraph "David Harris (2363)_Herbert_2016" {
 	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Harris (2363)" [label="David Harris (2363)
-Liberal Democrats"]
 	"Martin Brewster (2358)" [label="Martin Brewster (2358)
 Palmer United Party"]
+	"David Harris (2363)" [label="David Harris (2363)
+Liberal Democrats"]
 	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
 }

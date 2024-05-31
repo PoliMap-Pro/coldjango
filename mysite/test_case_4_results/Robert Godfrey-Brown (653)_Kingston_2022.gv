@@ -6,14 +6,14 @@ digraph "Robert Godfrey-Brown (653)_Kingston_2022" {
 Pauline Hanson's One Nation"]
 	"Russell Jackson (654)" [label="Russell Jackson (654)
 United Australia Party"]
-	"Rob De Jonge (652)" [label="Rob De Jonge (652)
-Independent"]
 	"Sam Enright (657)" [label="Sam Enright (657)
 Australian Federation Party"]
-	"Russell Jackson (654)" -> "Robert Godfrey-Brown (653)" [label=3216]
-	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
+	"Rob De Jonge (652)" [label="Rob De Jonge (652)
+Independent"]
 	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
+	"Russell Jackson (654)" -> "Robert Godfrey-Brown (653)" [label=3216]
 	"Rob De Jonge (652)" -> "Robert Godfrey-Brown (653)" [label=1039]
-	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
+	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
 	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
+	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
 }

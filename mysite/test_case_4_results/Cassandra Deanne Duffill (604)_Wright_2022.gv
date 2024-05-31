@@ -2,9 +2,9 @@
 digraph "Cassandra Deanne Duffill (604)_Wright_2022" {
 	graph [label="Wright 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
-United Australia Party"]
 	"Shonna-Lee Banasiak (606)" [label="Shonna-Lee Banasiak (606)
 Australian Federation Party"]
+	"Cassandra Deanne Duffill (604)" [label="Cassandra Deanne Duffill (604)
+United Australia Party"]
 	"Shonna-Lee Banasiak (606)" -> "Cassandra Deanne Duffill (604)" [label=357]
 }

@@ -8,7 +8,7 @@ Nick Xenophon Team"]
 Independent"]
 	"Robert Owen Windred (2364)" [label="Robert Owen Windred (2364)
 Australian Liberty Alliance"]
-	"Robert Owen Windred (2364)" -> "Bill Foster (2365)" [label=139]
-	"Robert Owen Windred (2364)" -> "Stephen Lynch (2143)" [label=127]
 	"Bill Foster (2365)" -> "Stephen Lynch (2143)" [label=298]
+	"Robert Owen Windred (2364)" -> "Stephen Lynch (2143)" [label=127]
+	"Robert Owen Windred (2364)" -> "Bill Foster (2365)" [label=139]
 }

@@ -2,39 +2,39 @@
 digraph "Russell Broadbent (1022)_McMillan_2016" {
 	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
-Liberal"]
 	"Donna Lancaster (2674)" [label="Donna Lancaster (2674)
 The Greens"]
-	"Nathan Harding (2677)" [label="Nathan Harding (2677)
-Family First Party"]
-	"Norman Baker (1856)" [label="Norman Baker (1856)
-Rise Up Australia Party"]
-	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
-Animal Justice Party"]
 	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
 Liberal Democrats"]
+	"Norman Baker (1856)" [label="Norman Baker (1856)
+Rise Up Australia Party"]
+	"Nathan Harding (2677)" [label="Nathan Harding (2677)
+Family First Party"]
 	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
 Australian Christians"]
-	"Donna Lancaster (2674)" -> "Russell Broadbent (1022)" [label=2665]
-	"Nathan Harding (2677)" -> "Donna Lancaster (2674)" [label=2207]
-	"Norman Baker (1856)" -> "Nathan Harding (2677)" [label=2357]
-	"Jennifer Mcadam (2676)" -> "Norman Baker (1856)" [label=709]
-	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
-	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
-	"Nathan Harding (2677)" -> "Russell Broadbent (1022)" [label=3482]
-	"Norman Baker (1856)" -> "Russell Broadbent (1022)" [label=582]
-	"Jennifer Mcadam (2676)" -> "Russell Broadbent (1022)" [label=354]
-	"Jim Mcdonald (867)" -> "Russell Broadbent (1022)" [label=915]
-	"Kathleen Ipsen (2675)" -> "Russell Broadbent (1022)" [label=241]
-	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
+	"Russell Broadbent (1022)" [label="Russell Broadbent (1022)
+Liberal"]
+	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
+Animal Justice Party"]
 	"Jim Mcdonald (867)" -> "Norman Baker (1856)" [label=251]
-	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
+	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
+	"Nathan Harding (2677)" -> "Donna Lancaster (2674)" [label=2207]
+	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
+	"Jennifer Mcadam (2676)" -> "Norman Baker (1856)" [label=709]
+	"Kathleen Ipsen (2675)" -> "Russell Broadbent (1022)" [label=241]
+	"Jim Mcdonald (867)" -> "Russell Broadbent (1022)" [label=915]
 	"Jennifer Mcadam (2676)" -> "Nathan Harding (2677)" [label=834]
-	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
-	"Kathleen Ipsen (2675)" -> "Nathan Harding (2677)" [label=874]
-	"Norman Baker (1856)" -> "Donna Lancaster (2674)" [label=631]
-	"Jennifer Mcadam (2676)" -> "Donna Lancaster (2674)" [label=965]
+	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
 	"Jim Mcdonald (867)" -> "Donna Lancaster (2674)" [label=182]
+	"Norman Baker (1856)" -> "Nathan Harding (2677)" [label=2357]
+	"Jennifer Mcadam (2676)" -> "Russell Broadbent (1022)" [label=354]
+	"Norman Baker (1856)" -> "Russell Broadbent (1022)" [label=582]
 	"Kathleen Ipsen (2675)" -> "Donna Lancaster (2674)" [label=100]
+	"Nathan Harding (2677)" -> "Russell Broadbent (1022)" [label=3482]
+	"Kathleen Ipsen (2675)" -> "Nathan Harding (2677)" [label=874]
+	"Jennifer Mcadam (2676)" -> "Donna Lancaster (2674)" [label=965]
+	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
+	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
+	"Norman Baker (1856)" -> "Donna Lancaster (2674)" [label=631]
+	"Donna Lancaster (2674)" -> "Russell Broadbent (1022)" [label=2665]
 }

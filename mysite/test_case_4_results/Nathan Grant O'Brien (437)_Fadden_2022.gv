@@ -2,13 +2,13 @@
 digraph "Nathan Grant O'Brien (437)_Fadden_2022" {
 	graph [label="Fadden 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
-United Australia Party"]
 	"Stewart Gordon Brooker (435)" [label="Stewart Gordon Brooker (435)
 Independent"]
 	"Alex Forbes (441)" [label="Alex Forbes (441)
 Liberal Democrats"]
+	"Nathan Grant O'Brien (437)" [label="Nathan Grant O'Brien (437)
+United Australia Party"]
 	"Stewart Gordon Brooker (435)" -> "Nathan Grant O'Brien (437)" [label=776]
-	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
 	"Alex Forbes (441)" -> "Nathan Grant O'Brien (437)" [label=429]
+	"Alex Forbes (441)" -> "Stewart Gordon Brooker (435)" [label=311]
 }

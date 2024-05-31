@@ -2,9 +2,9 @@
 digraph "Stuart Howe (268)_Parkes_2022" {
 	graph [label="Parkes 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stuart Howe (268)" [label="Stuart Howe (268)
-Independent"]
 	"Benjamin Fox (271)" [label="Benjamin Fox (271)
 Informed Medical Options Party"]
+	"Stuart Howe (268)" [label="Stuart Howe (268)
+Independent"]
 	"Benjamin Fox (271)" -> "Stuart Howe (268)" [label=159]
 }

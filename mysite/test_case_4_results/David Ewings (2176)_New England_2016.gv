@@ -2,48 +2,48 @@
 digraph "David Ewings (2176)_New England_2016" {
 	graph [label="New England 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Whelan (2175)" [label="Peter Whelan (2175)
-Liberal Democrats"]
-	"Robert Henry Walker (2172)" [label="Robert Henry Walker (2172)
-Online Direct Democracy - (Empowering the People!)"]
-	"Mercurius Goldstein (2178)" [label="Mercurius Goldstein (2178)
-The Greens"]
+	"Stan Colefax (2173)" [label="Stan Colefax (2173)
+Christian Democratic Party (Fred Nile Group)"]
+	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
+Independent"]
 	"David Ewings (2176)" [label="David Ewings (2176)
 Labor"]
+	"Mercurius Goldstein (2178)" [label="Mercurius Goldstein (2178)
+The Greens"]
 	"David Mailler (2174)" [label="David Mailler (2174)
 CountryMinded"]
 	"Rob Taber (1372)" [label="Rob Taber (1372)
 Independent"]
-	"Philip Gordon Cox (2179)" [label="Philip Gordon Cox (2179)
-Independent"]
-	"Stan Colefax (2173)" [label="Stan Colefax (2173)
-Christian Democratic Party (Fred Nile Group)"]
-	"Philip Gordon Cox (2179)" -> "Mercurius Goldstein (2178)" [label=176]
+	"Peter Whelan (2175)" [label="Peter Whelan (2175)
+Liberal Democrats"]
+	"Robert Henry Walker (2172)" [label="Robert Henry Walker (2172)
+Online Direct Democracy - (Empowering the People!)"]
 	"David Mailler (2174)" -> "Rob Taber (1372)" [label=498]
-	"David Mailler (2174)" -> "Stan Colefax (2173)" [label=307]
-	"Robert Henry Walker (2172)" -> "David Ewings (2176)" [label=42]
-	"Stan Colefax (2173)" -> "David Ewings (2176)" [label=615]
-	"Stan Colefax (2173)" -> "Rob Taber (1372)" [label=446]
-	"Peter Whelan (2175)" -> "Rob Taber (1372)" [label=167]
-	"Robert Henry Walker (2172)" -> "Mercurius Goldstein (2178)" [label=50]
-	"Robert Henry Walker (2172)" -> "Rob Taber (1372)" [label=60]
-	"David Mailler (2174)" -> "Mercurius Goldstein (2178)" [label=121]
-	"Philip Gordon Cox (2179)" -> "Stan Colefax (2173)" [label=53]
-	"Philip Gordon Cox (2179)" -> "David Mailler (2174)" [label=91]
-	"David Mailler (2174)" -> "David Ewings (2176)" [label=253]
-	"Peter Whelan (2175)" -> "David Mailler (2174)" [label=174]
-	"Peter Whelan (2175)" -> "Stan Colefax (2173)" [label=121]
+	"Robert Henry Walker (2172)" -> "Philip Gordon Cox (2179)" [label=41]
 	"Philip Gordon Cox (2179)" -> "David Ewings (2176)" [label=44]
+	"Stan Colefax (2173)" -> "David Ewings (2176)" [label=615]
+	"David Mailler (2174)" -> "David Ewings (2176)" [label=253]
+	"Peter Whelan (2175)" -> "Rob Taber (1372)" [label=167]
+	"Peter Whelan (2175)" -> "Stan Colefax (2173)" [label=121]
+	"Philip Gordon Cox (2179)" -> "David Mailler (2174)" [label=91]
 	"Robert Henry Walker (2172)" -> "Stan Colefax (2173)" [label=358]
-	"Mercurius Goldstein (2178)" -> "David Ewings (2176)" [label=784]
-	"Philip Gordon Cox (2179)" -> "Rob Taber (1372)" [label=199]
-	"Stan Colefax (2173)" -> "Mercurius Goldstein (2178)" [label=90]
+	"Robert Henry Walker (2172)" -> "Rob Taber (1372)" [label=60]
+	"Robert Henry Walker (2172)" -> "Mercurius Goldstein (2178)" [label=50]
+	"David Mailler (2174)" -> "Mercurius Goldstein (2178)" [label=121]
+	"Robert Henry Walker (2172)" -> "David Mailler (2174)" [label=146]
+	"Philip Gordon Cox (2179)" -> "Stan Colefax (2173)" [label=53]
+	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
 	"Mercurius Goldstein (2178)" -> "Rob Taber (1372)" [label=525]
+	"Philip Gordon Cox (2179)" -> "Mercurius Goldstein (2178)" [label=176]
+	"Philip Gordon Cox (2179)" -> "Rob Taber (1372)" [label=199]
+	"Peter Whelan (2175)" -> "David Mailler (2174)" [label=174]
+	"Stan Colefax (2173)" -> "Mercurius Goldstein (2178)" [label=90]
+	"Mercurius Goldstein (2178)" -> "David Ewings (2176)" [label=784]
+	"Robert Henry Walker (2172)" -> "David Ewings (2176)" [label=42]
 	"Peter Whelan (2175)" -> "David Ewings (2176)" [label=150]
+	"Peter Whelan (2175)" -> "Mercurius Goldstein (2178)" [label=59]
+	"David Mailler (2174)" -> "Stan Colefax (2173)" [label=307]
 	"Robert Henry Walker (2172)" -> "Peter Whelan (2175)" [label=44]
 	"Rob Taber (1372)" -> "David Ewings (2176)" [label=1324]
-	"Robert Henry Walker (2172)" -> "David Mailler (2174)" [label=146]
-	"Peter Whelan (2175)" -> "Mercurius Goldstein (2178)" [label=59]
-	"Robert Henry Walker (2172)" -> "Philip Gordon Cox (2179)" [label=41]
-	"Philip Gordon Cox (2179)" -> "Peter Whelan (2175)" [label=27]
+	"Stan Colefax (2173)" -> "Rob Taber (1372)" [label=446]
 }

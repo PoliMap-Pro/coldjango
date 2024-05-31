@@ -8,7 +8,7 @@ United Australia Party"]
 The Great Australian Party"]
 	"Martin Suter (1155)" [label="Martin Suter (1155)
 Australian Federation Party"]
-	"Sue Andersson (1148)" -> "Helen Watkinson (1154)" [label=420]
 	"Martin Suter (1155)" -> "Sue Andersson (1148)" [label=257]
 	"Martin Suter (1155)" -> "Helen Watkinson (1154)" [label=170]
+	"Sue Andersson (1148)" -> "Helen Watkinson (1154)" [label=420]
 }

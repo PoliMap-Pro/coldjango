@@ -2,18 +2,18 @@
 digraph "Nathan Scaglione (1020)_Menzies_2022" {
 	graph [label="Menzies 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
-United Australia Party"]
-	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
-Liberal Democrats"]
-	"John Hayes (1017)" [label="John Hayes (1017)
-Pauline Hanson's One Nation"]
 	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
 Australian Federation Party"]
-	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
-	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
-	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
-	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
-	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
 	"Sanjeev Sabhlok (1015)" -> "Greg Cheesman (1016)" [label=277]
+	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
+	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
+	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
 }

@@ -2,9 +2,9 @@
 digraph "Bruce Scott Ridgway (917)_Hotham_2022" {
 	graph [label="Hotham 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
-United Australia Party"]
 	"Roger Tull (918)" [label="Roger Tull (918)
 Pauline Hanson's One Nation"]
+	"Bruce Scott Ridgway (917)" [label="Bruce Scott Ridgway (917)
+United Australia Party"]
 	"Roger Tull (918)" -> "Bruce Scott Ridgway (917)" [label=1377]
 }

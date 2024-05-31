@@ -2,13 +2,13 @@
 digraph "Rod Bloomfield (2060)_Calare_2016" {
 	graph [label="Calare 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
-Nick Xenophon Team"]
 	"Anthony Gerard Craig (2059)" [label="Anthony Gerard Craig (2059)
 Independent"]
+	"Rod Bloomfield (2060)" [label="Rod Bloomfield (2060)
+Nick Xenophon Team"]
 	"Bernie Gesling (2058)" [label="Bernie Gesling (2058)
 Christian Democratic Party (Fred Nile Group)"]
-	"Anthony Gerard Craig (2059)" -> "Rod Bloomfield (2060)" [label=1156]
 	"Bernie Gesling (2058)" -> "Anthony Gerard Craig (2059)" [label=390]
+	"Anthony Gerard Craig (2059)" -> "Rod Bloomfield (2060)" [label=1156]
 	"Bernie Gesling (2058)" -> "Rod Bloomfield (2060)" [label=264]
 }

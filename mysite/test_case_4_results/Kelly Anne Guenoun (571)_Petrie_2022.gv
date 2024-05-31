@@ -2,18 +2,18 @@
 digraph "Kelly Anne Guenoun (571)_Petrie_2022" {
 	graph [label="Petrie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kelly Anne Guenoun (571)" [label="Kelly Anne Guenoun (571)
-United Australia Party"]
 	"Marcus Mitchell (574)" [label="Marcus Mitchell (574)
 Pauline Hanson's One Nation"]
+	"Kelly Anne Guenoun (571)" [label="Kelly Anne Guenoun (571)
+United Australia Party"]
 	"Chris Cicchitti (577)" [label="Chris Cicchitti (577)
 Animal Justice Party"]
 	"Anneke Wilson (573)" [label="Anneke Wilson (573)
 Liberal Democrats"]
-	"Marcus Mitchell (574)" -> "Kelly Anne Guenoun (571)" [label=3748]
-	"Chris Cicchitti (577)" -> "Marcus Mitchell (574)" [label=372]
-	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
 	"Chris Cicchitti (577)" -> "Kelly Anne Guenoun (571)" [label=331]
 	"Anneke Wilson (573)" -> "Kelly Anne Guenoun (571)" [label=421]
+	"Marcus Mitchell (574)" -> "Kelly Anne Guenoun (571)" [label=3748]
+	"Chris Cicchitti (577)" -> "Marcus Mitchell (574)" [label=372]
 	"Anneke Wilson (573)" -> "Marcus Mitchell (574)" [label=422]
+	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
 }

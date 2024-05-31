@@ -4,11 +4,11 @@ digraph "Travis Llewellyn Mark (1199)_Tangney_2022" {
 	node [shape=box]
 	"Travis Llewellyn Mark (1199)" [label="Travis Llewellyn Mark (1199)
 United Australia Party"]
-	"Jacqueline Holroyd (1203)" [label="Jacqueline Holroyd (1203)
-Liberal Democrats"]
 	"Brent Fowler (1202)" [label="Brent Fowler (1202)
 Australian Federation Party"]
-	"Jacqueline Holroyd (1203)" -> "Travis Llewellyn Mark (1199)" [label=231]
+	"Jacqueline Holroyd (1203)" [label="Jacqueline Holroyd (1203)
+Liberal Democrats"]
 	"Brent Fowler (1202)" -> "Jacqueline Holroyd (1203)" [label=212]
+	"Jacqueline Holroyd (1203)" -> "Travis Llewellyn Mark (1199)" [label=231]
 	"Brent Fowler (1202)" -> "Travis Llewellyn Mark (1199)" [label=125]
 }

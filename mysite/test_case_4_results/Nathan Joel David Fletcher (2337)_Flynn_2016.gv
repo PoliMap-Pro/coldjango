@@ -2,24 +2,24 @@
 digraph "Nathan Joel David Fletcher (2337)_Flynn_2016" {
 	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
+Independent"]
+	"Nathan Joel David Fletcher (2337)" [label="Nathan Joel David Fletcher (2337)
+Independent"]
 	"Heather Barnett (2340)" [label="Heather Barnett (2340)
 Family First"]
 	"Duncan Scott (462)" [label="Duncan Scott (462)
 Independent"]
 	"Craig Tomsett (2336)" [label="Craig Tomsett (2336)
 The Greens"]
-	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
-Independent"]
-	"Nathan Joel David Fletcher (2337)" [label="Nathan Joel David Fletcher (2337)
-Independent"]
 	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
-	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
 	"Jordan Ryan Puku (2339)" -> "Nathan Joel David Fletcher (2337)" [label=61]
-	"Jordan Ryan Puku (2339)" -> "Craig Tomsett (2336)" [label=36]
-	"Heather Barnett (2340)" -> "Nathan Joel David Fletcher (2337)" [label=293]
-	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
 	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
-	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
 	"Heather Barnett (2340)" -> "Craig Tomsett (2336)" [label=152]
+	"Heather Barnett (2340)" -> "Nathan Joel David Fletcher (2337)" [label=293]
+	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
 	"Duncan Scott (462)" -> "Nathan Joel David Fletcher (2337)" [label=435]
+	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
+	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
+	"Jordan Ryan Puku (2339)" -> "Craig Tomsett (2336)" [label=36]
 }

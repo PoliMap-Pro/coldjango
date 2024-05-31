@@ -4,11 +4,11 @@ digraph "Ben Willis (2601)_Gellibrand_2016" {
 	node [shape=box]
 	"Ben Willis (2601)" [label="Ben Willis (2601)
 Liberal"]
-	"Jonathon Marsden (2600)" [label="Jonathon Marsden (2600)
-The Greens"]
 	"David Tran (2602)" [label="David Tran (2602)
 Independent"]
+	"Jonathon Marsden (2600)" [label="Jonathon Marsden (2600)
+The Greens"]
+	"David Tran (2602)" -> "Ben Willis (2601)" [label=1801]
 	"Jonathon Marsden (2600)" -> "Ben Willis (2601)" [label=2949]
 	"David Tran (2602)" -> "Jonathon Marsden (2600)" [label=1439]
-	"David Tran (2602)" -> "Ben Willis (2601)" [label=1801]
 }

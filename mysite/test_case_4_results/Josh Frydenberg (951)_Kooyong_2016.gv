@@ -2,13 +2,13 @@
 digraph "Josh Frydenberg (951)_Kooyong_2016" {
 	graph [label="Kooyong 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
+Independent"]
 	"Josh Frydenberg (951)" [label="Josh Frydenberg (951)
 Liberal"]
 	"Helen Mcleod (2647)" [label="Helen Mcleod (2647)
 The Greens"]
-	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
-Independent"]
-	"Helen Mcleod (2647)" -> "Josh Frydenberg (951)" [label=3778]
 	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=1160]
+	"Helen Mcleod (2647)" -> "Josh Frydenberg (951)" [label=3778]
 	"Angelina Zubac (1850)" -> "Josh Frydenberg (951)" [label=828]
 }

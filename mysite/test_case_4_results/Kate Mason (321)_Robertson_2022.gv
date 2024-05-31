@@ -2,24 +2,24 @@
 digraph "Kate Mason (321)_Robertson_2022" {
 	graph [label="Robertson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bentley Logan (318)" [label="Bentley Logan (318)
-Liberal Democrats"]
+	"Paul Borthwick (315)" [label="Paul Borthwick (315)
+Citizens Party"]
 	"Jeffrey Wayne Lawson (319)" [label="Jeffrey Wayne Lawson (319)
 Indigenous - Aboriginal Party of Australia"]
 	"Kate Mason (321)" [label="Kate Mason (321)
 Informed Medical Options Party"]
 	"Alexandra Hafner (322)" [label="Alexandra Hafner (322)
 Australian Federation Party"]
-	"Paul Borthwick (315)" [label="Paul Borthwick (315)
-Citizens Party"]
+	"Bentley Logan (318)" [label="Bentley Logan (318)
+Liberal Democrats"]
+	"Paul Borthwick (315)" -> "Jeffrey Wayne Lawson (319)" [label=33]
 	"Bentley Logan (318)" -> "Jeffrey Wayne Lawson (319)" [label=38]
 	"Bentley Logan (318)" -> "Kate Mason (321)" [label=52]
-	"Paul Borthwick (315)" -> "Jeffrey Wayne Lawson (319)" [label=33]
+	"Paul Borthwick (315)" -> "Bentley Logan (318)" [label=25]
+	"Paul Borthwick (315)" -> "Kate Mason (321)" [label=20]
+	"Alexandra Hafner (322)" -> "Jeffrey Wayne Lawson (319)" [label=12]
+	"Jeffrey Wayne Lawson (319)" -> "Kate Mason (321)" [label=131]
+	"Alexandra Hafner (322)" -> "Bentley Logan (318)" [label=14]
 	"Alexandra Hafner (322)" -> "Kate Mason (321)" [label=38]
 	"Alexandra Hafner (322)" -> "Paul Borthwick (315)" [label=20]
-	"Alexandra Hafner (322)" -> "Jeffrey Wayne Lawson (319)" [label=12]
-	"Alexandra Hafner (322)" -> "Bentley Logan (318)" [label=14]
-	"Paul Borthwick (315)" -> "Kate Mason (321)" [label=20]
-	"Jeffrey Wayne Lawson (319)" -> "Kate Mason (321)" [label=131]
-	"Paul Borthwick (315)" -> "Bentley Logan (318)" [label=25]
 }

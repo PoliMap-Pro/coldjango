@@ -2,13 +2,13 @@
 digraph "Wayne Lawrence (2068)_Cowper_2016" {
 	graph [label="Cowper 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael Gough (2069)" [label="Michael Gough (2069)
-Citizens Electoral Council"]
 	"John Arkan (2074)" [label="John Arkan (2074)
 Independent"]
 	"Wayne Lawrence (2068)" [label="Wayne Lawrence (2068)
 Christian Democratic Party (Fred Nile Group)"]
-	"Michael Gough (2069)" -> "Wayne Lawrence (2068)" [label=218]
+	"Michael Gough (2069)" [label="Michael Gough (2069)
+Citizens Electoral Council"]
 	"Michael Gough (2069)" -> "John Arkan (2074)" [label=106]
+	"Michael Gough (2069)" -> "Wayne Lawrence (2068)" [label=218]
 	"John Arkan (2074)" -> "Wayne Lawrence (2068)" [label=368]
 }

@@ -8,7 +8,7 @@ Pauline Hanson's One Nation"]
 Liberal Democrats"]
 	"Steve Khouw (24)" [label="Steve Khouw (24)
 "]
-	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
 	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
+	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
 	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
 }

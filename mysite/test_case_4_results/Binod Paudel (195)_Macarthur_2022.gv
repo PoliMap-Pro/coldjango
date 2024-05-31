@@ -2,24 +2,24 @@
 digraph "Binod Paudel (195)_Macarthur_2022" {
 	graph [label="Macarthur 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Binod Paudel (195)" [label="Binod Paudel (195)
-Liberal"]
-	"Adam Zahra (199)" [label="Adam Zahra (199)
-Pauline Hanson's One Nation"]
 	"Jayden Rivera (194)" [label="Jayden Rivera (194)
 The Greens"]
+	"Binod Paudel (195)" [label="Binod Paudel (195)
+Liberal"]
 	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
 United Australia Party"]
 	"Scott Korman (198)" [label="Scott Korman (198)
 Liberal Democrats"]
+	"Adam Zahra (199)" [label="Adam Zahra (199)
+Pauline Hanson's One Nation"]
+	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
+	"Scott Korman (198)" -> "Binod Paudel (195)" [label=882]
+	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
+	"Rosa Antonia Sicari (197)" -> "Adam Zahra (199)" [label=4023]
 	"Adam Zahra (199)" -> "Binod Paudel (195)" [label=8099]
 	"Jayden Rivera (194)" -> "Adam Zahra (199)" [label=1155]
-	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
-	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
-	"Jayden Rivera (194)" -> "Binod Paudel (195)" [label=2335]
-	"Rosa Antonia Sicari (197)" -> "Binod Paudel (195)" [label=905]
-	"Scott Korman (198)" -> "Binod Paudel (195)" [label=882]
-	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
-	"Rosa Antonia Sicari (197)" -> "Adam Zahra (199)" [label=4023]
 	"Scott Korman (198)" -> "Adam Zahra (199)" [label=470]
+	"Jayden Rivera (194)" -> "Binod Paudel (195)" [label=2335]
+	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
+	"Rosa Antonia Sicari (197)" -> "Binod Paudel (195)" [label=905]
 }

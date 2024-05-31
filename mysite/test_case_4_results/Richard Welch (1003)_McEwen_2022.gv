@@ -2,31 +2,31 @@
 digraph "Richard Welch (1003)_McEwen_2022" {
 	graph [label="McEwen 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Richard Welch (1003)" [label="Richard Welch (1003)
-Liberal"]
-	"Neil Barker (998)" [label="Neil Barker (998)
-The Greens"]
 	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
 Pauline Hanson's One Nation"]
-	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
-United Australia Party"]
-	"John Herron (1002)" [label="John Herron (1002)
-Liberal Democrats"]
+	"Richard Welch (1003)" [label="Richard Welch (1003)
+Liberal"]
 	"Christopher Neil (1000)" [label="Christopher Neil (1000)
 Australian Federation Party"]
-	"Neil Barker (998)" -> "Richard Welch (1003)" [label=4580]
-	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
-	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
-	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
-	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
-	"Chris Bradbury (1001)" -> "Richard Welch (1003)" [label=5909]
-	"Paul Joseph Mcrae (999)" -> "Richard Welch (1003)" [label=1411]
-	"John Herron (1002)" -> "Richard Welch (1003)" [label=887]
-	"Christopher Neil (1000)" -> "Richard Welch (1003)" [label=138]
-	"Christopher Neil (1000)" -> "Paul Joseph Mcrae (999)" [label=271]
-	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
-	"Christopher Neil (1000)" -> "Chris Bradbury (1001)" [label=623]
-	"Paul Joseph Mcrae (999)" -> "Neil Barker (998)" [label=884]
-	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
+	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
+United Australia Party"]
+	"Neil Barker (998)" [label="Neil Barker (998)
+The Greens"]
+	"John Herron (1002)" [label="John Herron (1002)
+Liberal Democrats"]
 	"Christopher Neil (1000)" -> "Neil Barker (998)" [label=206]
+	"Paul Joseph Mcrae (999)" -> "Neil Barker (998)" [label=884]
+	"Christopher Neil (1000)" -> "Chris Bradbury (1001)" [label=623]
+	"Paul Joseph Mcrae (999)" -> "Richard Welch (1003)" [label=1411]
+	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
+	"John Herron (1002)" -> "Richard Welch (1003)" [label=887]
+	"Chris Bradbury (1001)" -> "Richard Welch (1003)" [label=5909]
+	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
+	"Neil Barker (998)" -> "Richard Welch (1003)" [label=4580]
+	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
+	"Christopher Neil (1000)" -> "Paul Joseph Mcrae (999)" [label=271]
+	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
+	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
+	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
+	"Christopher Neil (1000)" -> "Richard Welch (1003)" [label=138]
 }

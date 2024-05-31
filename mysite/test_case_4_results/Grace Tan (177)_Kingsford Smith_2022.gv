@@ -4,16 +4,16 @@ digraph "Grace Tan (177)_Kingsford Smith_2022" {
 	node [shape=box]
 	"Grace Tan (177)" [label="Grace Tan (177)
 Liberal"]
-	"Stuart Davis (174)" [label="Stuart Davis (174)
-The Greens"]
 	"Anthony Tawaf (176)" [label="Anthony Tawaf (176)
 United Australia Party"]
 	"Darrin Marr (175)" [label="Darrin Marr (175)
 Pauline Hanson's One Nation"]
+	"Stuart Davis (174)" [label="Stuart Davis (174)
+The Greens"]
 	"Stuart Davis (174)" -> "Grace Tan (177)" [label=3272]
-	"Anthony Tawaf (176)" -> "Stuart Davis (174)" [label=1407]
+	"Darrin Marr (175)" -> "Stuart Davis (174)" [label=313]
+	"Darrin Marr (175)" -> "Grace Tan (177)" [label=477]
 	"Darrin Marr (175)" -> "Anthony Tawaf (176)" [label=1961]
 	"Anthony Tawaf (176)" -> "Grace Tan (177)" [label=2920]
-	"Darrin Marr (175)" -> "Grace Tan (177)" [label=477]
-	"Darrin Marr (175)" -> "Stuart Davis (174)" [label=313]
+	"Anthony Tawaf (176)" -> "Stuart Davis (174)" [label=1407]
 }

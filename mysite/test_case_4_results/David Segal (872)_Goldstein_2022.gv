@@ -2,24 +2,24 @@
 digraph "David Segal (872)_Goldstein_2022" {
 	graph [label="Goldstein 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"David Segal (872)" [label="David Segal (872)
-Liberal Democrats"]
-	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
-United Australia Party"]
 	"Lisa Stark (874)" [label="Lisa Stark (874)
 Pauline Hanson's One Nation"]
-	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
-Derryn Hinch's Justice Party"]
+	"Catherine Frances Reynolds (875)" [label="Catherine Frances Reynolds (875)
+United Australia Party"]
 	"Brandon Hoult (871)" [label="Brandon Hoult (871)
 Sustainable Australia Party - Stop Overdevelopment / Corruption"]
-	"Catherine Frances Reynolds (875)" -> "David Segal (872)" [label=1154]
-	"Lisa Stark (874)" -> "Catherine Frances Reynolds (875)" [label=524]
-	"Ellie Jean Sullivan (870)" -> "Lisa Stark (874)" [label=83]
-	"Brandon Hoult (871)" -> "Ellie Jean Sullivan (870)" [label=74]
+	"Ellie Jean Sullivan (870)" [label="Ellie Jean Sullivan (870)
+Derryn Hinch's Justice Party"]
+	"David Segal (872)" [label="David Segal (872)
+Liberal Democrats"]
+	"Brandon Hoult (871)" -> "Lisa Stark (874)" [label=29]
 	"Lisa Stark (874)" -> "David Segal (872)" [label=436]
 	"Ellie Jean Sullivan (870)" -> "David Segal (872)" [label=71]
 	"Brandon Hoult (871)" -> "David Segal (872)" [label=46]
-	"Brandon Hoult (871)" -> "Lisa Stark (874)" [label=29]
+	"Catherine Frances Reynolds (875)" -> "David Segal (872)" [label=1154]
+	"Lisa Stark (874)" -> "Catherine Frances Reynolds (875)" [label=524]
 	"Ellie Jean Sullivan (870)" -> "Catherine Frances Reynolds (875)" [label=37]
+	"Ellie Jean Sullivan (870)" -> "Lisa Stark (874)" [label=83]
+	"Brandon Hoult (871)" -> "Ellie Jean Sullivan (870)" [label=74]
 	"Brandon Hoult (871)" -> "Catherine Frances Reynolds (875)" [label=24]
 }

@@ -2,39 +2,39 @@
 digraph "Trent Zimmerman (249)_North Sydney_2016" {
 	graph [label="North Sydney 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Trent Zimmerman (249)" [label="Trent Zimmerman (249)
-Liberal"]
-	"Stephen Ruff (2185)" [label="Stephen Ruff (2185)
-Independent"]
-	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
-The Greens"]
-	"Sharon Martin (2186)" [label="Sharon Martin (2186)
-Christian Democratic Party (Fred Nile Group)"]
-	"James Coffey (2190)" [label="James Coffey (2190)
-Science Party"]
-	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
-Liberal Democrats"]
 	"Eddy Ku (2187)" [label="Eddy Ku (2187)
 Family First"]
-	"Stephen Ruff (2185)" -> "Trent Zimmerman (249)" [label=7394]
-	"Arthur Chesterfield-Evans (1382)" -> "Stephen Ruff (2185)" [label=5686]
-	"Sharon Martin (2186)" -> "Arthur Chesterfield-Evans (1382)" [label=132]
-	"James Coffey (2190)" -> "Sharon Martin (2186)" [label=65]
-	"Daniel Leahy (2189)" -> "James Coffey (2190)" [label=155]
-	"Eddy Ku (2187)" -> "Daniel Leahy (2189)" [label=39]
-	"Arthur Chesterfield-Evans (1382)" -> "Trent Zimmerman (249)" [label=1706]
-	"Sharon Martin (2186)" -> "Trent Zimmerman (249)" [label=1077]
+	"Arthur Chesterfield-Evans (1382)" [label="Arthur Chesterfield-Evans (1382)
+The Greens"]
+	"James Coffey (2190)" [label="James Coffey (2190)
+Science Party"]
+	"Stephen Ruff (2185)" [label="Stephen Ruff (2185)
+Independent"]
+	"Sharon Martin (2186)" [label="Sharon Martin (2186)
+Christian Democratic Party (Fred Nile Group)"]
+	"Daniel Leahy (2189)" [label="Daniel Leahy (2189)
+Liberal Democrats"]
+	"Trent Zimmerman (249)" [label="Trent Zimmerman (249)
+Liberal"]
 	"James Coffey (2190)" -> "Trent Zimmerman (249)" [label=320]
-	"Daniel Leahy (2189)" -> "Trent Zimmerman (249)" [label=572]
-	"Eddy Ku (2187)" -> "Trent Zimmerman (249)" [label=142]
-	"Eddy Ku (2187)" -> "James Coffey (2190)" [label=55]
-	"Daniel Leahy (2189)" -> "Sharon Martin (2186)" [label=125]
+	"Eddy Ku (2187)" -> "Daniel Leahy (2189)" [label=39]
 	"Eddy Ku (2187)" -> "Sharon Martin (2186)" [label=133]
-	"James Coffey (2190)" -> "Arthur Chesterfield-Evans (1382)" [label=556]
-	"Daniel Leahy (2189)" -> "Arthur Chesterfield-Evans (1382)" [label=91]
-	"Eddy Ku (2187)" -> "Arthur Chesterfield-Evans (1382)" [label=89]
-	"Sharon Martin (2186)" -> "Stephen Ruff (2185)" [label=857]
-	"James Coffey (2190)" -> "Stephen Ruff (2185)" [label=547]
 	"Daniel Leahy (2189)" -> "Stephen Ruff (2185)" [label=200]
+	"Daniel Leahy (2189)" -> "James Coffey (2190)" [label=155]
+	"James Coffey (2190)" -> "Sharon Martin (2186)" [label=65]
 	"Eddy Ku (2187)" -> "Stephen Ruff (2185)" [label=92]
+	"Sharon Martin (2186)" -> "Trent Zimmerman (249)" [label=1077]
+	"Daniel Leahy (2189)" -> "Sharon Martin (2186)" [label=125]
+	"James Coffey (2190)" -> "Stephen Ruff (2185)" [label=547]
+	"Stephen Ruff (2185)" -> "Trent Zimmerman (249)" [label=7394]
+	"Sharon Martin (2186)" -> "Stephen Ruff (2185)" [label=857]
+	"Daniel Leahy (2189)" -> "Arthur Chesterfield-Evans (1382)" [label=91]
+	"Eddy Ku (2187)" -> "James Coffey (2190)" [label=55]
+	"Arthur Chesterfield-Evans (1382)" -> "Trent Zimmerman (249)" [label=1706]
+	"Eddy Ku (2187)" -> "Arthur Chesterfield-Evans (1382)" [label=89]
+	"Sharon Martin (2186)" -> "Arthur Chesterfield-Evans (1382)" [label=132]
+	"Eddy Ku (2187)" -> "Trent Zimmerman (249)" [label=142]
+	"Arthur Chesterfield-Evans (1382)" -> "Stephen Ruff (2185)" [label=5686]
+	"Daniel Leahy (2189)" -> "Trent Zimmerman (249)" [label=572]
+	"James Coffey (2190)" -> "Arthur Chesterfield-Evans (1382)" [label=556]
 }

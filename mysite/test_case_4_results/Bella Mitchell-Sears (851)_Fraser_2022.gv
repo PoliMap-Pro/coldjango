@@ -2,24 +2,24 @@
 digraph "Bella Mitchell-Sears (851)_Fraser_2022" {
 	graph [label="Fraser 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Keith James Aaron Raymond (852)" [label="Keith James Aaron Raymond (852)
-United Australia Party"]
-	"Anthony Cursio (850)" [label="Anthony Cursio (850)
-Liberal Democrats"]
-	"Catherine Robertson (854)" [label="Catherine Robertson (854)
-Victorian Socialists"]
 	"Sabine De Pyle (853)" [label="Sabine De Pyle (853)
 Pauline Hanson's One Nation"]
+	"Catherine Robertson (854)" [label="Catherine Robertson (854)
+Victorian Socialists"]
+	"Anthony Cursio (850)" [label="Anthony Cursio (850)
+Liberal Democrats"]
 	"Bella Mitchell-Sears (851)" [label="Bella Mitchell-Sears (851)
 The Greens"]
-	"Anthony Cursio (850)" -> "Catherine Robertson (854)" [label=79]
+	"Keith James Aaron Raymond (852)" [label="Keith James Aaron Raymond (852)
+United Australia Party"]
+	"Anthony Cursio (850)" -> "Keith James Aaron Raymond (852)" [label=547]
+	"Catherine Robertson (854)" -> "Bella Mitchell-Sears (851)" [label=3020]
+	"Sabine De Pyle (853)" -> "Catherine Robertson (854)" [label=345]
+	"Sabine De Pyle (853)" -> "Keith James Aaron Raymond (852)" [label=2082]
 	"Anthony Cursio (850)" -> "Sabine De Pyle (853)" [label=475]
 	"Anthony Cursio (850)" -> "Bella Mitchell-Sears (851)" [label=199]
 	"Keith James Aaron Raymond (852)" -> "Bella Mitchell-Sears (851)" [label=2405]
-	"Anthony Cursio (850)" -> "Keith James Aaron Raymond (852)" [label=547]
-	"Catherine Robertson (854)" -> "Bella Mitchell-Sears (851)" [label=3020]
-	"Sabine De Pyle (853)" -> "Keith James Aaron Raymond (852)" [label=2082]
-	"Sabine De Pyle (853)" -> "Catherine Robertson (854)" [label=345]
-	"Sabine De Pyle (853)" -> "Bella Mitchell-Sears (851)" [label=193]
+	"Anthony Cursio (850)" -> "Catherine Robertson (854)" [label=79]
 	"Catherine Robertson (854)" -> "Keith James Aaron Raymond (852)" [label=697]
+	"Sabine De Pyle (853)" -> "Bella Mitchell-Sears (851)" [label=193]
 }

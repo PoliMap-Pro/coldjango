@@ -2,9 +2,9 @@
 digraph "Brett Saunders (2298)_Bowman_2016" {
 	graph [label="Bowman 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Brett Saunders (2298)" [label="Brett Saunders (2298)
-Family First"]
 	"Tony Duncan (2297)" [label="Tony Duncan (2297)
 Australian Liberty Alliance"]
+	"Brett Saunders (2298)" [label="Brett Saunders (2298)
+Family First"]
 	"Tony Duncan (2297)" -> "Brett Saunders (2298)" [label=1980]
 }

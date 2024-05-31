@@ -2,18 +2,18 @@
 digraph "Craig Kelly (152)_Hughes_2016" {
 	graph [label="Hughes 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Craig Kelly (152)" [label="Craig Kelly (152)
-Liberal"]
-	"Phil Smith (2119)" [label="Phil Smith (2119)
-The Greens"]
-	"Michael Caudre (2120)" [label="Michael Caudre (2120)
-Christian Democratic Party (Fred Nile Group)"]
 	"Ellie Robertson (2118)" [label="Ellie Robertson (2118)
 Animal Justice Party"]
-	"Phil Smith (2119)" -> "Craig Kelly (152)" [label=2596]
-	"Michael Caudre (2120)" -> "Phil Smith (2119)" [label=664]
-	"Ellie Robertson (2118)" -> "Michael Caudre (2120)" [label=533]
+	"Phil Smith (2119)" [label="Phil Smith (2119)
+The Greens"]
+	"Craig Kelly (152)" [label="Craig Kelly (152)
+Liberal"]
+	"Michael Caudre (2120)" [label="Michael Caudre (2120)
+Christian Democratic Party (Fred Nile Group)"]
 	"Michael Caudre (2120)" -> "Craig Kelly (152)" [label=3514]
 	"Ellie Robertson (2118)" -> "Craig Kelly (152)" [label=789]
+	"Ellie Robertson (2118)" -> "Michael Caudre (2120)" [label=533]
 	"Ellie Robertson (2118)" -> "Phil Smith (2119)" [label=1705]
+	"Phil Smith (2119)" -> "Craig Kelly (152)" [label=2596]
+	"Michael Caudre (2120)" -> "Phil Smith (2119)" [label=664]
 }

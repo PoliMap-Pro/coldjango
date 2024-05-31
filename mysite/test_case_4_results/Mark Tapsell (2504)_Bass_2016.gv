@@ -8,7 +8,7 @@ Christian Democratic Party (Fred Nile Group)"]
 Renewable Energy Party"]
 	"Mark Tapsell (2504)" [label="Mark Tapsell (2504)
 Australian Recreational Fishers Party"]
-	"Malcolm Peter Beattie (2502)" -> "Mark Tapsell (2504)" [label=418]
-	"Roy Ramage (2501)" -> "Malcolm Peter Beattie (2502)" [label=150]
 	"Roy Ramage (2501)" -> "Mark Tapsell (2504)" [label=470]
+	"Roy Ramage (2501)" -> "Malcolm Peter Beattie (2502)" [label=150]
+	"Malcolm Peter Beattie (2502)" -> "Mark Tapsell (2504)" [label=418]
 }
