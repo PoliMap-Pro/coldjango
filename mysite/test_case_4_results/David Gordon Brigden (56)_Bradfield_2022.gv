@@ -2,24 +2,24 @@
 digraph "David Gordon Brigden (56)_Bradfield_2022" {
 	graph [label="Bradfield 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Martin Cousins (57)" [label="Martin Cousins (57)
-The Greens"]
 	"Janine Kitson (58)" [label="Janine Kitson (58)
 Independent"]
+	"Martin Cousins (57)" [label="Martin Cousins (57)
+The Greens"]
 	"Michael Lowe (61)" [label="Michael Lowe (61)
 Pauline Hanson's One Nation"]
 	"Rob Fletcher (59)" [label="Rob Fletcher (59)
 United Australia Party"]
 	"David Gordon Brigden (56)" [label="David Gordon Brigden (56)
 Labor"]
+	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
 	"Janine Kitson (58)" -> "David Gordon Brigden (56)" [label=352]
+	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
+	"Rob Fletcher (59)" -> "David Gordon Brigden (56)" [label=346]
+	"Michael Lowe (61)" -> "David Gordon Brigden (56)" [label=52]
+	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
+	"Martin Cousins (57)" -> "David Gordon Brigden (56)" [label=4199]
 	"Michael Lowe (61)" -> "Rob Fletcher (59)" [label=896]
 	"Janine Kitson (58)" -> "Martin Cousins (57)" [label=475]
-	"Michael Lowe (61)" -> "Janine Kitson (58)" [label=73]
-	"Michael Lowe (61)" -> "David Gordon Brigden (56)" [label=52]
-	"Rob Fletcher (59)" -> "Martin Cousins (57)" [label=287]
 	"Janine Kitson (58)" -> "Rob Fletcher (59)" [label=120]
-	"Michael Lowe (61)" -> "Martin Cousins (57)" [label=45]
-	"Rob Fletcher (59)" -> "David Gordon Brigden (56)" [label=346]
-	"Martin Cousins (57)" -> "David Gordon Brigden (56)" [label=4199]
 }

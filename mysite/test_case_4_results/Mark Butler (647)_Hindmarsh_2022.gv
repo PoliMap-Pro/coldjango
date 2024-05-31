@@ -2,39 +2,39 @@
 digraph "Mark Butler (647)_Hindmarsh_2022" {
 	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
-The Greens"]
+	"Matt Pastro (651)" [label="Matt Pastro (651)
+Animal Justice Party"]
 	"Mark Butler (647)" [label="Mark Butler (647)
 Australian Labor Party"]
+	"George Melissourgos (649)" [label="George Melissourgos (649)
+United Australia Party"]
+	"Walter Johnson (646)" [label="Walter Johnson (646)
+Pauline Hanson's One Nation"]
 	"Dianne Richards (648)" [label="Dianne Richards (648)
 Australian Federation Party"]
 	"Jamie Witt (650)" [label="Jamie Witt (650)
 The Great Australian Party"]
-	"George Melissourgos (649)" [label="George Melissourgos (649)
-United Australia Party"]
-	"Matt Pastro (651)" [label="Matt Pastro (651)
-Animal Justice Party"]
-	"Walter Johnson (646)" [label="Walter Johnson (646)
-Pauline Hanson's One Nation"]
+	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
+The Greens"]
+	"Jamie Witt (650)" -> "Walter Johnson (646)" [label=416]
+	"Matt Pastro (651)" -> "George Melissourgos (649)" [label=537]
+	"Jamie Witt (650)" -> "Patrick O'Sullivan (644)" [label=83]
+	"Dianne Richards (648)" -> "Matt Pastro (651)" [label=46]
+	"Dianne Richards (648)" -> "Mark Butler (647)" [label=67]
+	"Matt Pastro (651)" -> "Walter Johnson (646)" [label=264]
+	"Matt Pastro (651)" -> "Patrick O'Sullivan (644)" [label=1100]
+	"Jamie Witt (650)" -> "Mark Butler (647)" [label=113]
+	"Dianne Richards (648)" -> "Patrick O'Sullivan (644)" [label=67]
+	"Dianne Richards (648)" -> "Walter Johnson (646)" [label=106]
+	"George Melissourgos (649)" -> "Patrick O'Sullivan (644)" [label=710]
+	"Jamie Witt (650)" -> "George Melissourgos (649)" [label=439]
+	"George Melissourgos (649)" -> "Mark Butler (647)" [label=843]
+	"Jamie Witt (650)" -> "Matt Pastro (651)" [label=208]
+	"Patrick O'Sullivan (644)" -> "Mark Butler (647)" [label=15087]
+	"Dianne Richards (648)" -> "George Melissourgos (649)" [label=146]
+	"Matt Pastro (651)" -> "Mark Butler (647)" [label=445]
+	"Walter Johnson (646)" -> "Patrick O'Sullivan (644)" [label=2308]
+	"George Melissourgos (649)" -> "Walter Johnson (646)" [label=2840]
 	"Walter Johnson (646)" -> "Mark Butler (647)" [label=1941]
 	"Dianne Richards (648)" -> "Jamie Witt (650)" [label=158]
-	"Dianne Richards (648)" -> "Matt Pastro (651)" [label=46]
-	"Jamie Witt (650)" -> "Walter Johnson (646)" [label=416]
-	"Matt Pastro (651)" -> "Walter Johnson (646)" [label=264]
-	"Dianne Richards (648)" -> "Mark Butler (647)" [label=67]
-	"Matt Pastro (651)" -> "Patrick O'Sullivan (644)" [label=1100]
-	"Dianne Richards (648)" -> "George Melissourgos (649)" [label=146]
-	"Jamie Witt (650)" -> "Patrick O'Sullivan (644)" [label=83]
-	"Dianne Richards (648)" -> "Patrick O'Sullivan (644)" [label=67]
-	"George Melissourgos (649)" -> "Patrick O'Sullivan (644)" [label=710]
-	"Patrick O'Sullivan (644)" -> "Mark Butler (647)" [label=15087]
-	"George Melissourgos (649)" -> "Mark Butler (647)" [label=843]
-	"Matt Pastro (651)" -> "George Melissourgos (649)" [label=537]
-	"Jamie Witt (650)" -> "Matt Pastro (651)" [label=208]
-	"Jamie Witt (650)" -> "George Melissourgos (649)" [label=439]
-	"Matt Pastro (651)" -> "Mark Butler (647)" [label=445]
-	"Jamie Witt (650)" -> "Mark Butler (647)" [label=113]
-	"Walter Johnson (646)" -> "Patrick O'Sullivan (644)" [label=2308]
-	"Dianne Richards (648)" -> "Walter Johnson (646)" [label=106]
-	"George Melissourgos (649)" -> "Walter Johnson (646)" [label=2840]
 }

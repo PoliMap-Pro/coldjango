@@ -2,24 +2,24 @@
 digraph "Frankie Seymour (2091)_Eden-Monaro_2016" {
 	graph [label="Eden-Monaro 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ray Buckley (2088)" [label="Ray Buckley (2088)
-Independent"]
-	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
-Animal Justice Party"]
 	"Ursula Bennett (2086)" [label="Ursula Bennett (2086)
 Christian Democratic Party (Fred Nile Group)"]
 	"Don Friend (2087)" [label="Don Friend (2087)
 Veterans Party"]
+	"Frankie Seymour (2091)" [label="Frankie Seymour (2091)
+Animal Justice Party"]
+	"Ray Buckley (2088)" [label="Ray Buckley (2088)
+Independent"]
 	"Andrew Evan Thaler (2092)" [label="Andrew Evan Thaler (2092)
 Independent"]
-	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
-	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
+	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
+	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
+	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
 	"Ray Buckley (2088)" -> "Ursula Bennett (2086)" [label=21]
 	"Don Friend (2087)" -> "Frankie Seymour (2091)" [label=213]
+	"Ray Buckley (2088)" -> "Frankie Seymour (2091)" [label=28]
 	"Andrew Evan Thaler (2092)" -> "Frankie Seymour (2091)" [label=104]
-	"Andrew Evan Thaler (2092)" -> "Don Friend (2087)" [label=129]
-	"Ray Buckley (2088)" -> "Don Friend (2087)" [label=133]
+	"Andrew Evan Thaler (2092)" -> "Ursula Bennett (2086)" [label=48]
 	"Ray Buckley (2088)" -> "Andrew Evan Thaler (2092)" [label=143]
-	"Don Friend (2087)" -> "Ursula Bennett (2086)" [label=234]
 	"Ursula Bennett (2086)" -> "Frankie Seymour (2091)" [label=281]
 }

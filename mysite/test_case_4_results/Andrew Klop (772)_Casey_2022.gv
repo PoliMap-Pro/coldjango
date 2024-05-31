@@ -2,13 +2,13 @@
 digraph "Andrew Klop (772)_Casey_2022" {
 	graph [label="Casey 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Field (776)" [label="Chris Field (776)
-Australian Federation Party"]
 	"Peter Sullivan (778)" [label="Peter Sullivan (778)
 Derryn Hinch's Justice Party"]
 	"Andrew Klop (772)" [label="Andrew Klop (772)
 Animal Justice Party"]
-	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
+	"Chris Field (776)" [label="Chris Field (776)
+Australian Federation Party"]
 	"Chris Field (776)" -> "Andrew Klop (772)" [label=18]
+	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
 	"Chris Field (776)" -> "Peter Sullivan (778)" [label=19]
 }

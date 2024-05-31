@@ -4,37 +4,37 @@ digraph "Catherine King (749)_Ballarat_2022" {
 	node [shape=box]
 	"Catherine King (749)" [label="Catherine King (749)
 Australian Labor Party"]
-	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
-Liberal Democrats"]
 	"Rosalie Taxis (747)" [label="Rosalie Taxis (747)
 Pauline Hanson's One Nation"]
 	"Kerryn Sedgman (745)" [label="Kerryn Sedgman (745)
 Australian Federation Party"]
-	"John Barnes (742)" [label="John Barnes (742)
-The Greens"]
-	"Alex Graham (744)" [label="Alex Graham (744)
-Independent"]
 	"Terri Elizabeth Pryse-Smith (746)" [label="Terri Elizabeth Pryse-Smith (746)
 United Australia Party"]
-	"Rosalie Taxis (747)" -> "Terri Elizabeth Pryse-Smith (746)" [label=2948]
-	"Julia Mcgrath (748)" -> "Terri Elizabeth Pryse-Smith (746)" [label=1320]
-	"Alex Graham (744)" -> "Catherine King (749)" [label=380]
-	"Alex Graham (744)" -> "Terri Elizabeth Pryse-Smith (746)" [label=369]
-	"Terri Elizabeth Pryse-Smith (746)" -> "Catherine King (749)" [label=2470]
-	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
-	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
-	"John Barnes (742)" -> "Catherine King (749)" [label=13440]
-	"Kerryn Sedgman (745)" -> "Catherine King (749)" [label=50]
-	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
-	"Kerryn Sedgman (745)" -> "Julia Mcgrath (748)" [label=131]
-	"Julia Mcgrath (748)" -> "John Barnes (742)" [label=229]
-	"Rosalie Taxis (747)" -> "Catherine King (749)" [label=766]
-	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
-	"Julia Mcgrath (748)" -> "Catherine King (749)" [label=493]
-	"Kerryn Sedgman (745)" -> "Terri Elizabeth Pryse-Smith (746)" [label=113]
-	"Alex Graham (744)" -> "John Barnes (742)" [label=543]
-	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
+	"Julia Mcgrath (748)" [label="Julia Mcgrath (748)
+Liberal Democrats"]
+	"Alex Graham (744)" [label="Alex Graham (744)
+Independent"]
+	"John Barnes (742)" [label="John Barnes (742)
+The Greens"]
 	"Kerryn Sedgman (745)" -> "John Barnes (742)" [label=50]
-	"Rosalie Taxis (747)" -> "John Barnes (742)" [label=348]
+	"Rosalie Taxis (747)" -> "Catherine King (749)" [label=766]
+	"Kerryn Sedgman (745)" -> "Julia Mcgrath (748)" [label=131]
+	"Alex Graham (744)" -> "John Barnes (742)" [label=543]
+	"Alex Graham (744)" -> "Rosalie Taxis (747)" [label=354]
+	"Julia Mcgrath (748)" -> "Terri Elizabeth Pryse-Smith (746)" [label=1320]
+	"Rosalie Taxis (747)" -> "Terri Elizabeth Pryse-Smith (746)" [label=2948]
+	"Alex Graham (744)" -> "Terri Elizabeth Pryse-Smith (746)" [label=369]
+	"John Barnes (742)" -> "Catherine King (749)" [label=13440]
+	"Julia Mcgrath (748)" -> "Rosalie Taxis (747)" [label=755]
 	"Terri Elizabeth Pryse-Smith (746)" -> "John Barnes (742)" [label=1567]
+	"Kerryn Sedgman (745)" -> "Alex Graham (744)" [label=158]
+	"Julia Mcgrath (748)" -> "John Barnes (742)" [label=229]
+	"Kerryn Sedgman (745)" -> "Terri Elizabeth Pryse-Smith (746)" [label=113]
+	"Kerryn Sedgman (745)" -> "Rosalie Taxis (747)" [label=131]
+	"Julia Mcgrath (748)" -> "Catherine King (749)" [label=493]
+	"Alex Graham (744)" -> "Julia Mcgrath (748)" [label=291]
+	"Kerryn Sedgman (745)" -> "Catherine King (749)" [label=50]
+	"Terri Elizabeth Pryse-Smith (746)" -> "Catherine King (749)" [label=2470]
+	"Rosalie Taxis (747)" -> "John Barnes (742)" [label=348]
+	"Alex Graham (744)" -> "Catherine King (749)" [label=380]
 }

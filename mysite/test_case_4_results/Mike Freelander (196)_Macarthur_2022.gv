@@ -4,22 +4,22 @@ digraph "Mike Freelander (196)_Macarthur_2022" {
 	node [shape=box]
 	"Jayden Rivera (194)" [label="Jayden Rivera (194)
 The Greens"]
+	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
+United Australia Party"]
+	"Scott Korman (198)" [label="Scott Korman (198)
+Liberal Democrats"]
 	"Adam Zahra (199)" [label="Adam Zahra (199)
 Pauline Hanson's One Nation"]
 	"Mike Freelander (196)" [label="Mike Freelander (196)
 Labor"]
-	"Scott Korman (198)" [label="Scott Korman (198)
-Liberal Democrats"]
-	"Rosa Antonia Sicari (197)" [label="Rosa Antonia Sicari (197)
-United Australia Party"]
-	"Scott Korman (198)" -> "Adam Zahra (199)" [label=470]
-	"Rosa Antonia Sicari (197)" -> "Mike Freelander (196)" [label=1264]
-	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
-	"Adam Zahra (199)" -> "Mike Freelander (196)" [label=6425]
-	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
-	"Jayden Rivera (194)" -> "Adam Zahra (199)" [label=1155]
-	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
-	"Jayden Rivera (194)" -> "Mike Freelander (196)" [label=5977]
 	"Rosa Antonia Sicari (197)" -> "Adam Zahra (199)" [label=4023]
+	"Rosa Antonia Sicari (197)" -> "Jayden Rivera (194)" [label=688]
 	"Scott Korman (198)" -> "Mike Freelander (196)" [label=372]
+	"Scott Korman (198)" -> "Adam Zahra (199)" [label=470]
+	"Jayden Rivera (194)" -> "Adam Zahra (199)" [label=1155]
+	"Scott Korman (198)" -> "Rosa Antonia Sicari (197)" [label=278]
+	"Scott Korman (198)" -> "Jayden Rivera (194)" [label=195]
+	"Adam Zahra (199)" -> "Mike Freelander (196)" [label=6425]
+	"Rosa Antonia Sicari (197)" -> "Mike Freelander (196)" [label=1264]
+	"Jayden Rivera (194)" -> "Mike Freelander (196)" [label=5977]
 }

@@ -2,31 +2,31 @@
 digraph "Shane Hamilton (422)_Dawson_2022" {
 	graph [label="Dawson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Shane Hamilton (422)" [label="Shane Hamilton (422)
-Australian Labor Party"]
 	"Julie Hall (421)" [label="Julie Hall (421)
 Pauline Hanson's One Nation"]
-	"Christian Nigel Young (424)" [label="Christian Nigel Young (424)
-United Australia Party"]
 	"Jim Jackson (423)" [label="Jim Jackson (423)
 The Great Australian Party"]
-	"Ciaron Paterson (425)" [label="Ciaron Paterson (425)
-Katter's Australian Party (KAP)"]
 	"Paula Creen (426)" [label="Paula Creen (426)
 Queensland Greens"]
+	"Christian Nigel Young (424)" [label="Christian Nigel Young (424)
+United Australia Party"]
+	"Ciaron Paterson (425)" [label="Ciaron Paterson (425)
+Katter's Australian Party (KAP)"]
+	"Shane Hamilton (422)" [label="Shane Hamilton (422)
+Australian Labor Party"]
+	"Christian Nigel Young (424)" -> "Julie Hall (421)" [label=1799]
 	"Ciaron Paterson (425)" -> "Shane Hamilton (422)" [label=942]
-	"Jim Jackson (423)" -> "Julie Hall (421)" [label=473]
 	"Paula Creen (426)" -> "Julie Hall (421)" [label=1498]
+	"Jim Jackson (423)" -> "Christian Nigel Young (424)" [label=463]
 	"Christian Nigel Young (424)" -> "Ciaron Paterson (425)" [label=1226]
 	"Christian Nigel Young (424)" -> "Shane Hamilton (422)" [label=363]
-	"Ciaron Paterson (425)" -> "Paula Creen (426)" [label=751]
-	"Ciaron Paterson (425)" -> "Julie Hall (421)" [label=3953]
-	"Christian Nigel Young (424)" -> "Julie Hall (421)" [label=1799]
-	"Paula Creen (426)" -> "Shane Hamilton (422)" [label=5086]
-	"Julie Hall (421)" -> "Shane Hamilton (422)" [label=7386]
-	"Jim Jackson (423)" -> "Christian Nigel Young (424)" [label=463]
 	"Jim Jackson (423)" -> "Shane Hamilton (422)" [label=216]
-	"Christian Nigel Young (424)" -> "Paula Creen (426)" [label=276]
-	"Jim Jackson (423)" -> "Paula Creen (426)" [label=130]
 	"Jim Jackson (423)" -> "Ciaron Paterson (425)" [label=505]
+	"Julie Hall (421)" -> "Shane Hamilton (422)" [label=7386]
+	"Ciaron Paterson (425)" -> "Julie Hall (421)" [label=3953]
+	"Jim Jackson (423)" -> "Paula Creen (426)" [label=130]
+	"Christian Nigel Young (424)" -> "Paula Creen (426)" [label=276]
+	"Paula Creen (426)" -> "Shane Hamilton (422)" [label=5086]
+	"Jim Jackson (423)" -> "Julie Hall (421)" [label=473]
+	"Ciaron Paterson (425)" -> "Paula Creen (426)" [label=751]
 }

@@ -4,16 +4,16 @@ digraph "Hal Jon Ginges (2163)_Macquarie_2016" {
 	node [shape=box]
 	"Liz Cooper (2161)" [label="Liz Cooper (2161)
 Derryn Hinch's Justice Party"]
-	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
-Animal Justice Party"]
 	"Olya Shornikov (2162)" [label="Olya Shornikov (2162)
 Liberal Democrats"]
 	"Carl Halley (2159)" [label="Carl Halley (2159)
 Australian Liberty Alliance"]
-	"Olya Shornikov (2162)" -> "Hal Jon Ginges (2163)" [label=70]
-	"Carl Halley (2159)" -> "Hal Jon Ginges (2163)" [label=256]
-	"Olya Shornikov (2162)" -> "Liz Cooper (2161)" [label=87]
-	"Liz Cooper (2161)" -> "Carl Halley (2159)" [label=171]
+	"Hal Jon Ginges (2163)" [label="Hal Jon Ginges (2163)
+Animal Justice Party"]
 	"Olya Shornikov (2162)" -> "Carl Halley (2159)" [label=66]
+	"Olya Shornikov (2162)" -> "Hal Jon Ginges (2163)" [label=70]
 	"Liz Cooper (2161)" -> "Hal Jon Ginges (2163)" [label=398]
+	"Liz Cooper (2161)" -> "Carl Halley (2159)" [label=171]
+	"Olya Shornikov (2162)" -> "Liz Cooper (2161)" [label=87]
+	"Carl Halley (2159)" -> "Hal Jon Ginges (2163)" [label=256]
 }

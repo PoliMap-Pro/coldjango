@@ -2,18 +2,18 @@
 digraph "Scott Martin (2460)_Grey_2016" {
 	graph [label="Grey 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
-Independent"]
-	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
-Family First"]
 	"Scott Martin (2460)" [label="Scott Martin (2460)
 Australian Labor Party"]
 	"Jillian Kay Marsh (2463)" [label="Jillian Kay Marsh (2463)
 The Greens"]
-	"Jillian Kay Marsh (2463)" -> "Scott Martin (2460)" [label=709]
-	"Phillip Gourlay (2461)" -> "Scott Martin (2460)" [label=168]
-	"Cheryl Kaminski (2462)" -> "Scott Martin (2460)" [label=940]
+	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
+Independent"]
+	"Cheryl Kaminski (2462)" [label="Cheryl Kaminski (2462)
+Family First"]
 	"Jillian Kay Marsh (2463)" -> "Cheryl Kaminski (2462)" [label=516]
-	"Phillip Gourlay (2461)" -> "Jillian Kay Marsh (2463)" [label=122]
+	"Jillian Kay Marsh (2463)" -> "Scott Martin (2460)" [label=709]
 	"Phillip Gourlay (2461)" -> "Cheryl Kaminski (2462)" [label=365]
+	"Phillip Gourlay (2461)" -> "Jillian Kay Marsh (2463)" [label=122]
+	"Cheryl Kaminski (2462)" -> "Scott Martin (2460)" [label=940]
+	"Phillip Gourlay (2461)" -> "Scott Martin (2460)" [label=168]
 }

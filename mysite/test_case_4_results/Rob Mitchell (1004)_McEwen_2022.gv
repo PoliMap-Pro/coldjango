@@ -4,29 +4,29 @@ digraph "Rob Mitchell (1004)_McEwen_2022" {
 	node [shape=box]
 	"Paul Joseph Mcrae (999)" [label="Paul Joseph Mcrae (999)
 United Australia Party"]
-	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
-Australian Labor Party"]
-	"Neil Barker (998)" [label="Neil Barker (998)
-The Greens"]
-	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
-Pauline Hanson's One Nation"]
 	"John Herron (1002)" [label="John Herron (1002)
 Liberal Democrats"]
+	"Neil Barker (998)" [label="Neil Barker (998)
+The Greens"]
+	"Rob Mitchell (1004)" [label="Rob Mitchell (1004)
+Australian Labor Party"]
+	"Chris Bradbury (1001)" [label="Chris Bradbury (1001)
+Pauline Hanson's One Nation"]
 	"Christopher Neil (1000)" [label="Christopher Neil (1000)
 Australian Federation Party"]
-	"John Herron (1002)" -> "Rob Mitchell (1004)" [label=217]
-	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
-	"Paul Joseph Mcrae (999)" -> "Rob Mitchell (1004)" [label=603]
-	"Paul Joseph Mcrae (999)" -> "Neil Barker (998)" [label=884]
 	"Christopher Neil (1000)" -> "Rob Mitchell (1004)" [label=138]
-	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
-	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
-	"Chris Bradbury (1001)" -> "Rob Mitchell (1004)" [label=1922]
-	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
-	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
-	"Neil Barker (998)" -> "Rob Mitchell (1004)" [label=12880]
+	"Paul Joseph Mcrae (999)" -> "Neil Barker (998)" [label=884]
 	"Christopher Neil (1000)" -> "Chris Bradbury (1001)" [label=623]
-	"Christopher Neil (1000)" -> "Neil Barker (998)" [label=206]
-	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
+	"Chris Bradbury (1001)" -> "Rob Mitchell (1004)" [label=1922]
 	"Christopher Neil (1000)" -> "Paul Joseph Mcrae (999)" [label=271]
+	"John Herron (1002)" -> "Chris Bradbury (1001)" [label=895]
+	"Paul Joseph Mcrae (999)" -> "Rob Mitchell (1004)" [label=603]
+	"John Herron (1002)" -> "Paul Joseph Mcrae (999)" [label=726]
+	"Christopher Neil (1000)" -> "Neil Barker (998)" [label=206]
+	"Christopher Neil (1000)" -> "John Herron (1002)" [label=345]
+	"John Herron (1002)" -> "Rob Mitchell (1004)" [label=217]
+	"John Herron (1002)" -> "Neil Barker (998)" [label=199]
+	"Chris Bradbury (1001)" -> "Neil Barker (998)" [label=2647]
+	"Paul Joseph Mcrae (999)" -> "Chris Bradbury (1001)" [label=3573]
+	"Neil Barker (998)" -> "Rob Mitchell (1004)" [label=12880]
 }

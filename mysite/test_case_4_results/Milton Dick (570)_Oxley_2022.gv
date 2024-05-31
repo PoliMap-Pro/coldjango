@@ -2,18 +2,18 @@
 digraph "Milton Dick (570)_Oxley_2022" {
 	graph [label="Oxley 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Milton Dick (570)" [label="Milton Dick (570)
+Australian Labor Party"]
 	"Asha Worsteling (567)" [label="Asha Worsteling (567)
 Queensland Greens"]
 	"Timothy Coombes (566)" [label="Timothy Coombes (566)
 United Australia Party"]
-	"Milton Dick (570)" [label="Milton Dick (570)
-Australian Labor Party"]
 	"Dylan Kozlowski (569)" [label="Dylan Kozlowski (569)
 Pauline Hanson's One Nation"]
-	"Dylan Kozlowski (569)" -> "Milton Dick (570)" [label=1821]
-	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
-	"Timothy Coombes (566)" -> "Asha Worsteling (567)" [label=1118]
 	"Timothy Coombes (566)" -> "Dylan Kozlowski (569)" [label=2485]
+	"Timothy Coombes (566)" -> "Asha Worsteling (567)" [label=1118]
+	"Dylan Kozlowski (569)" -> "Asha Worsteling (567)" [label=1989]
+	"Dylan Kozlowski (569)" -> "Milton Dick (570)" [label=1821]
 	"Timothy Coombes (566)" -> "Milton Dick (570)" [label=672]
 	"Asha Worsteling (567)" -> "Milton Dick (570)" [label=12490]
 }

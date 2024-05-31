@@ -2,31 +2,31 @@
 digraph "Emma Mcbride (100)_Dobell_2022" {
 	graph [label="Dobell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Martin Stevenson (98)" [label="Martin Stevenson (98)
-Pauline Hanson's One Nation"]
-	"Emma Mcbride (100)" [label="Emma Mcbride (100)
-Labor"]
-	"Eliot Metherell (99)" [label="Eliot Metherell (99)
-Liberal Democrats"]
 	"Geoff Barnes (94)" [label="Geoff Barnes (94)
 FUSION: Science, Pirate, Secular, Climate Emergency"]
-	"Dean James Mackin (95)" [label="Dean James Mackin (95)
-United Australia Party"]
+	"Eliot Metherell (99)" [label="Eliot Metherell (99)
+Liberal Democrats"]
 	"Cath Connor (97)" [label="Cath Connor (97)
 The Greens"]
-	"Eliot Metherell (99)" -> "Cath Connor (97)" [label=87]
-	"Dean James Mackin (95)" -> "Martin Stevenson (98)" [label=2351]
+	"Martin Stevenson (98)" [label="Martin Stevenson (98)
+Pauline Hanson's One Nation"]
+	"Dean James Mackin (95)" [label="Dean James Mackin (95)
+United Australia Party"]
+	"Emma Mcbride (100)" [label="Emma Mcbride (100)
+Labor"]
 	"Eliot Metherell (99)" -> "Martin Stevenson (98)" [label=387]
-	"Cath Connor (97)" -> "Martin Stevenson (98)" [label=1256]
-	"Martin Stevenson (98)" -> "Emma Mcbride (100)" [label=5089]
-	"Cath Connor (97)" -> "Emma Mcbride (100)" [label=7605]
-	"Eliot Metherell (99)" -> "Dean James Mackin (95)" [label=189]
-	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
-	"Geoff Barnes (94)" -> "Cath Connor (97)" [label=773]
-	"Geoff Barnes (94)" -> "Dean James Mackin (95)" [label=667]
-	"Dean James Mackin (95)" -> "Emma Mcbride (100)" [label=544]
 	"Eliot Metherell (99)" -> "Emma Mcbride (100)" [label=283]
+	"Eliot Metherell (99)" -> "Dean James Mackin (95)" [label=189]
+	"Geoff Barnes (94)" -> "Dean James Mackin (95)" [label=667]
+	"Cath Connor (97)" -> "Martin Stevenson (98)" [label=1256]
+	"Eliot Metherell (99)" -> "Cath Connor (97)" [label=87]
+	"Geoff Barnes (94)" -> "Cath Connor (97)" [label=773]
+	"Dean James Mackin (95)" -> "Emma Mcbride (100)" [label=544]
+	"Dean James Mackin (95)" -> "Martin Stevenson (98)" [label=2351]
 	"Dean James Mackin (95)" -> "Cath Connor (97)" [label=594]
-	"Geoff Barnes (94)" -> "Martin Stevenson (98)" [label=211]
+	"Cath Connor (97)" -> "Emma Mcbride (100)" [label=7605]
 	"Geoff Barnes (94)" -> "Emma Mcbride (100)" [label=375]
+	"Martin Stevenson (98)" -> "Emma Mcbride (100)" [label=5089]
+	"Geoff Barnes (94)" -> "Martin Stevenson (98)" [label=211]
+	"Eliot Metherell (99)" -> "Geoff Barnes (94)" [label=77]
 }

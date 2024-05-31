@@ -2,39 +2,39 @@
 digraph "Mark Ward (2454)_Boothby_2016" {
 	graph [label="Boothby 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Ward (2454)" [label="Mark Ward (2454)
-Australian Labor Party"]
-	"Gary Wheatcroft (2456)" [label="Gary Wheatcroft (2456)
-Family First"]
-	"Jamie Armfield (2455)" [label="Jamie Armfield (2455)
-Independent"]
 	"Robert De Jonge (2459)" [label="Robert De Jonge (2459)
 Independent"]
+	"Mark Ward (2454)" [label="Mark Ward (2454)
+Australian Labor Party"]
 	"Jane Bange (2458)" [label="Jane Bange (2458)
 The Greens"]
-	"Karen Hockley (2453)" [label="Karen Hockley (2453)
-Nick Xenophon Team"]
 	"Evelyn Carroll (2457)" [label="Evelyn Carroll (2457)
 Animal Justice Party"]
-	"Robert De Jonge (2459)" -> "Mark Ward (2454)" [label=37]
-	"Gary Wheatcroft (2456)" -> "Karen Hockley (2453)" [label=610]
-	"Jamie Armfield (2455)" -> "Mark Ward (2454)" [label=133]
-	"Evelyn Carroll (2457)" -> "Jane Bange (2458)" [label=583]
-	"Jane Bange (2458)" -> "Mark Ward (2454)" [label=5011]
-	"Jamie Armfield (2455)" -> "Gary Wheatcroft (2456)" [label=101]
-	"Jamie Armfield (2455)" -> "Evelyn Carroll (2457)" [label=121]
-	"Evelyn Carroll (2457)" -> "Karen Hockley (2453)" [label=363]
-	"Evelyn Carroll (2457)" -> "Mark Ward (2454)" [label=197]
+	"Jamie Armfield (2455)" [label="Jamie Armfield (2455)
+Independent"]
+	"Karen Hockley (2453)" [label="Karen Hockley (2453)
+Nick Xenophon Team"]
+	"Gary Wheatcroft (2456)" [label="Gary Wheatcroft (2456)
+Family First"]
 	"Karen Hockley (2453)" -> "Mark Ward (2454)" [label=15231]
-	"Jamie Armfield (2455)" -> "Karen Hockley (2453)" [label=217]
-	"Robert De Jonge (2459)" -> "Jane Bange (2458)" [label=40]
-	"Robert De Jonge (2459)" -> "Gary Wheatcroft (2456)" [label=18]
-	"Jane Bange (2458)" -> "Karen Hockley (2453)" [label=3283]
-	"Robert De Jonge (2459)" -> "Jamie Armfield (2455)" [label=146]
-	"Gary Wheatcroft (2456)" -> "Jane Bange (2458)" [label=354]
+	"Evelyn Carroll (2457)" -> "Karen Hockley (2453)" [label=363]
 	"Robert De Jonge (2459)" -> "Karen Hockley (2453)" [label=68]
-	"Evelyn Carroll (2457)" -> "Gary Wheatcroft (2456)" [label=199]
-	"Jamie Armfield (2455)" -> "Jane Bange (2458)" [label=115]
-	"Robert De Jonge (2459)" -> "Evelyn Carroll (2457)" [label=31]
+	"Jane Bange (2458)" -> "Karen Hockley (2453)" [label=3283]
+	"Gary Wheatcroft (2456)" -> "Karen Hockley (2453)" [label=610]
 	"Gary Wheatcroft (2456)" -> "Mark Ward (2454)" [label=333]
+	"Jamie Armfield (2455)" -> "Gary Wheatcroft (2456)" [label=101]
+	"Robert De Jonge (2459)" -> "Evelyn Carroll (2457)" [label=31]
+	"Evelyn Carroll (2457)" -> "Mark Ward (2454)" [label=197]
+	"Jamie Armfield (2455)" -> "Evelyn Carroll (2457)" [label=121]
+	"Jamie Armfield (2455)" -> "Jane Bange (2458)" [label=115]
+	"Jamie Armfield (2455)" -> "Karen Hockley (2453)" [label=217]
+	"Jane Bange (2458)" -> "Mark Ward (2454)" [label=5011]
+	"Robert De Jonge (2459)" -> "Jane Bange (2458)" [label=40]
+	"Evelyn Carroll (2457)" -> "Jane Bange (2458)" [label=583]
+	"Gary Wheatcroft (2456)" -> "Jane Bange (2458)" [label=354]
+	"Evelyn Carroll (2457)" -> "Gary Wheatcroft (2456)" [label=199]
+	"Jamie Armfield (2455)" -> "Mark Ward (2454)" [label=133]
+	"Robert De Jonge (2459)" -> "Jamie Armfield (2455)" [label=146]
+	"Robert De Jonge (2459)" -> "Mark Ward (2454)" [label=37]
+	"Robert De Jonge (2459)" -> "Gary Wheatcroft (2456)" [label=18]
 }

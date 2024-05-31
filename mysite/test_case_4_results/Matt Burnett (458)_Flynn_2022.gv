@@ -2,31 +2,31 @@
 digraph "Matt Burnett (458)_Flynn_2022" {
 	graph [label="Flynn 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Paul Bambrick (459)" [label="Paul Bambrick (459)
-Queensland Greens"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
+	"Tanya Maree Wieden (463)" [label="Tanya Maree Wieden (463)
+United Australia Party"]
 	"Carla Svendsen (460)" [label="Carla Svendsen (460)
 The Great Australian Party"]
 	"Sharon Lohse (461)" [label="Sharon Lohse (461)
 Pauline Hanson's One Nation"]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
+	"Paul Bambrick (459)" [label="Paul Bambrick (459)
+Queensland Greens"]
 	"Matt Burnett (458)" [label="Matt Burnett (458)
 Australian Labor Party"]
-	"Tanya Maree Wieden (463)" [label="Tanya Maree Wieden (463)
-United Australia Party"]
-	"Carla Svendsen (460)" -> "Tanya Maree Wieden (463)" [label=407]
-	"Tanya Maree Wieden (463)" -> "Matt Burnett (458)" [label=963]
-	"Sharon Lohse (461)" -> "Matt Burnett (458)" [label=6862]
-	"Paul Bambrick (459)" -> "Tanya Maree Wieden (463)" [label=202]
-	"Carla Svendsen (460)" -> "Matt Burnett (458)" [label=153]
-	"Tanya Maree Wieden (463)" -> "Sharon Lohse (461)" [label=5857]
-	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
-	"Carla Svendsen (460)" -> "Sharon Lohse (461)" [label=842]
-	"Duncan Scott (462)" -> "Sharon Lohse (461)" [label=1592]
-	"Duncan Scott (462)" -> "Tanya Maree Wieden (463)" [label=1346]
-	"Paul Bambrick (459)" -> "Sharon Lohse (461)" [label=436]
 	"Paul Bambrick (459)" -> "Duncan Scott (462)" [label=809]
-	"Duncan Scott (462)" -> "Matt Burnett (458)" [label=1283]
-	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
+	"Duncan Scott (462)" -> "Tanya Maree Wieden (463)" [label=1346]
 	"Paul Bambrick (459)" -> "Matt Burnett (458)" [label=2420]
+	"Carla Svendsen (460)" -> "Tanya Maree Wieden (463)" [label=407]
+	"Duncan Scott (462)" -> "Sharon Lohse (461)" [label=1592]
+	"Carla Svendsen (460)" -> "Duncan Scott (462)" [label=397]
+	"Tanya Maree Wieden (463)" -> "Matt Burnett (458)" [label=963]
+	"Duncan Scott (462)" -> "Matt Burnett (458)" [label=1283]
+	"Carla Svendsen (460)" -> "Matt Burnett (458)" [label=153]
+	"Sharon Lohse (461)" -> "Matt Burnett (458)" [label=6862]
+	"Carla Svendsen (460)" -> "Paul Bambrick (459)" [label=130]
+	"Tanya Maree Wieden (463)" -> "Sharon Lohse (461)" [label=5857]
+	"Paul Bambrick (459)" -> "Tanya Maree Wieden (463)" [label=202]
+	"Carla Svendsen (460)" -> "Sharon Lohse (461)" [label=842]
+	"Paul Bambrick (459)" -> "Sharon Lohse (461)" [label=436]
 }

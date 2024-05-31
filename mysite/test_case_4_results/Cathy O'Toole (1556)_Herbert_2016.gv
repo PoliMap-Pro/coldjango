@@ -2,48 +2,48 @@
 digraph "Cathy O'Toole (1556)_Herbert_2016" {
 	graph [label="Herbert 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Geoff Virgo (2359)" [label="Geoff Virgo (2359)
-Pauline Hanson's One Nation"]
-	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
-Glenn Lazarus Team"]
-	"Wendy Tubman (2360)" [label="Wendy Tubman (2360)
-The Greens"]
 	"Cathy O'Toole (1556)" [label="Cathy O'Toole (1556)
 Australian Labor Party"]
-	"Martin Brewster (2358)" [label="Martin Brewster (2358)
-Palmer United Party"]
-	"Colin Dwyer (2357)" [label="Colin Dwyer (2357)
-Katter's Australian Party"]
+	"Geoff Virgo (2359)" [label="Geoff Virgo (2359)
+Pauline Hanson's One Nation"]
+	"Wendy Tubman (2360)" [label="Wendy Tubman (2360)
+The Greens"]
 	"David Harris (2363)" [label="David Harris (2363)
 Liberal Democrats"]
+	"Colin Dwyer (2357)" [label="Colin Dwyer (2357)
+Katter's Australian Party"]
 	"Michael Punshon (2356)" [label="Michael Punshon (2356)
 Family First"]
-	"Michael Punshon (2356)" -> "Colin Dwyer (2357)" [label=1243]
+	"Martin Brewster (2358)" [label="Martin Brewster (2358)
+Palmer United Party"]
+	"Aaron Raffin (2362)" [label="Aaron Raffin (2362)
+Glenn Lazarus Team"]
 	"David Harris (2363)" -> "Cathy O'Toole (1556)" [label=122]
-	"Wendy Tubman (2360)" -> "Geoff Virgo (2359)" [label=603]
-	"David Harris (2363)" -> "Wendy Tubman (2360)" [label=85]
-	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
-	"Aaron Raffin (2362)" -> "Colin Dwyer (2357)" [label=581]
-	"Colin Dwyer (2357)" -> "Geoff Virgo (2359)" [label=5002]
-	"Michael Punshon (2356)" -> "Wendy Tubman (2360)" [label=351]
-	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
-	"Wendy Tubman (2360)" -> "Cathy O'Toole (1556)" [label=4030]
-	"Martin Brewster (2358)" -> "Cathy O'Toole (1556)" [label=45]
-	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
 	"David Harris (2363)" -> "Aaron Raffin (2362)" [label=134]
-	"Aaron Raffin (2362)" -> "Geoff Virgo (2359)" [label=398]
 	"David Harris (2363)" -> "Colin Dwyer (2357)" [label=115]
-	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
-	"Aaron Raffin (2362)" -> "Wendy Tubman (2360)" [label=207]
-	"Colin Dwyer (2357)" -> "Cathy O'Toole (1556)" [label=2114]
-	"Martin Brewster (2358)" -> "Colin Dwyer (2357)" [label=91]
-	"Michael Punshon (2356)" -> "Geoff Virgo (2359)" [label=814]
-	"Martin Brewster (2358)" -> "Geoff Virgo (2359)" [label=64]
-	"Aaron Raffin (2362)" -> "Cathy O'Toole (1556)" [label=384]
-	"Geoff Virgo (2359)" -> "Cathy O'Toole (1556)" [label=10138]
-	"David Harris (2363)" -> "Geoff Virgo (2359)" [label=144]
-	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
-	"Wendy Tubman (2360)" -> "Colin Dwyer (2357)" [label=790]
-	"Michael Punshon (2356)" -> "Cathy O'Toole (1556)" [label=454]
+	"Michael Punshon (2356)" -> "Colin Dwyer (2357)" [label=1243]
 	"Martin Brewster (2358)" -> "Wendy Tubman (2360)" [label=24]
+	"Martin Brewster (2358)" -> "Aaron Raffin (2362)" [label=19]
+	"Aaron Raffin (2362)" -> "Michael Punshon (2356)" [label=147]
+	"Martin Brewster (2358)" -> "Michael Punshon (2356)" [label=37]
+	"Colin Dwyer (2357)" -> "Cathy O'Toole (1556)" [label=2114]
+	"Michael Punshon (2356)" -> "Geoff Virgo (2359)" [label=814]
+	"David Harris (2363)" -> "Wendy Tubman (2360)" [label=85]
+	"Michael Punshon (2356)" -> "Cathy O'Toole (1556)" [label=454]
+	"Geoff Virgo (2359)" -> "Cathy O'Toole (1556)" [label=10138]
+	"Aaron Raffin (2362)" -> "Cathy O'Toole (1556)" [label=384]
+	"Wendy Tubman (2360)" -> "Cathy O'Toole (1556)" [label=4030]
+	"Martin Brewster (2358)" -> "Colin Dwyer (2357)" [label=91]
+	"David Harris (2363)" -> "Michael Punshon (2356)" [label=120]
+	"Aaron Raffin (2362)" -> "Geoff Virgo (2359)" [label=398]
+	"Wendy Tubman (2360)" -> "Colin Dwyer (2357)" [label=790]
+	"Martin Brewster (2358)" -> "Cathy O'Toole (1556)" [label=45]
+	"Aaron Raffin (2362)" -> "Colin Dwyer (2357)" [label=581]
+	"Michael Punshon (2356)" -> "Wendy Tubman (2360)" [label=351]
+	"Wendy Tubman (2360)" -> "Geoff Virgo (2359)" [label=603]
+	"David Harris (2363)" -> "Geoff Virgo (2359)" [label=144]
+	"Martin Brewster (2358)" -> "Geoff Virgo (2359)" [label=64]
+	"Martin Brewster (2358)" -> "David Harris (2363)" [label=7]
+	"Aaron Raffin (2362)" -> "Wendy Tubman (2360)" [label=207]
+	"Colin Dwyer (2357)" -> "Geoff Virgo (2359)" [label=5002]
 }

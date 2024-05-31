@@ -2,24 +2,24 @@
 digraph "Keith Mcmullen (81)_Cowper_2022" {
 	graph [label="Cowper 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
-United Australia Party"]
-	"Simon Chaseling (84)" [label="Simon Chaseling (84)
-Liberal Democrats"]
-	"Keith Mcmullen (81)" [label="Keith Mcmullen (81)
-Labor"]
-	"Faye Aspiotis (80)" [label="Faye Aspiotis (80)
-Pauline Hanson's One Nation"]
 	"Timothy Nott (86)" [label="Timothy Nott (86)
 The Greens"]
-	"Joshua Stephen Fairhall (85)" -> "Simon Chaseling (84)" [label=462]
-	"Joshua Stephen Fairhall (85)" -> "Keith Mcmullen (81)" [label=156]
-	"Faye Aspiotis (80)" -> "Keith Mcmullen (81)" [label=2469]
-	"Joshua Stephen Fairhall (85)" -> "Timothy Nott (86)" [label=251]
-	"Simon Chaseling (84)" -> "Faye Aspiotis (80)" [label=1461]
-	"Joshua Stephen Fairhall (85)" -> "Faye Aspiotis (80)" [label=1169]
+	"Faye Aspiotis (80)" [label="Faye Aspiotis (80)
+Pauline Hanson's One Nation"]
+	"Keith Mcmullen (81)" [label="Keith Mcmullen (81)
+Labor"]
+	"Simon Chaseling (84)" [label="Simon Chaseling (84)
+Liberal Democrats"]
+	"Joshua Stephen Fairhall (85)" [label="Joshua Stephen Fairhall (85)
+United Australia Party"]
 	"Timothy Nott (86)" -> "Faye Aspiotis (80)" [label=495]
-	"Timothy Nott (86)" -> "Keith Mcmullen (81)" [label=2268]
+	"Simon Chaseling (84)" -> "Faye Aspiotis (80)" [label=1461]
+	"Faye Aspiotis (80)" -> "Keith Mcmullen (81)" [label=2469]
+	"Joshua Stephen Fairhall (85)" -> "Keith Mcmullen (81)" [label=156]
 	"Simon Chaseling (84)" -> "Timothy Nott (86)" [label=354]
+	"Timothy Nott (86)" -> "Keith Mcmullen (81)" [label=2268]
 	"Simon Chaseling (84)" -> "Keith Mcmullen (81)" [label=400]
+	"Joshua Stephen Fairhall (85)" -> "Faye Aspiotis (80)" [label=1169]
+	"Joshua Stephen Fairhall (85)" -> "Timothy Nott (86)" [label=251]
+	"Joshua Stephen Fairhall (85)" -> "Simon Chaseling (84)" [label=462]
 }

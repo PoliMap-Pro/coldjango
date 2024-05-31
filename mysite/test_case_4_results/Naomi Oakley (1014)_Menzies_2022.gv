@@ -2,31 +2,31 @@
 digraph "Naomi Oakley (1014)_Menzies_2022" {
 	graph [label="Menzies 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
-United Australia Party"]
-	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
-The Greens"]
-	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
-Liberal Democrats"]
 	"Naomi Oakley (1014)" [label="Naomi Oakley (1014)
 Australian Labor Party"]
-	"John Hayes (1017)" [label="John Hayes (1017)
-Pauline Hanson's One Nation"]
+	"Bill Pheasant (1019)" [label="Bill Pheasant (1019)
+The Greens"]
+	"Nathan Scaglione (1020)" [label="Nathan Scaglione (1020)
+United Australia Party"]
 	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
 Australian Federation Party"]
-	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
-	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
+	"John Hayes (1017)" [label="John Hayes (1017)
+Pauline Hanson's One Nation"]
+	"Greg Cheesman (1016)" [label="Greg Cheesman (1016)
+Liberal Democrats"]
 	"John Hayes (1017)" -> "Greg Cheesman (1016)" [label=647]
-	"Sanjeev Sabhlok (1015)" -> "Naomi Oakley (1014)" [label=173]
+	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
+	"Nathan Scaglione (1020)" -> "Bill Pheasant (1019)" [label=1547]
 	"Sanjeev Sabhlok (1015)" -> "Greg Cheesman (1016)" [label=277]
+	"Greg Cheesman (1016)" -> "Bill Pheasant (1019)" [label=314]
+	"Sanjeev Sabhlok (1015)" -> "Naomi Oakley (1014)" [label=173]
+	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
+	"Greg Cheesman (1016)" -> "Naomi Oakley (1014)" [label=557]
+	"Sanjeev Sabhlok (1015)" -> "Bill Pheasant (1019)" [label=112]
+	"Sanjeev Sabhlok (1015)" -> "Nathan Scaglione (1020)" [label=117]
+	"Bill Pheasant (1019)" -> "Naomi Oakley (1014)" [label=13422]
 	"John Hayes (1017)" -> "Naomi Oakley (1014)" [label=187]
 	"Nathan Scaglione (1020)" -> "Naomi Oakley (1014)" [label=1847]
 	"John Hayes (1017)" -> "Bill Pheasant (1019)" [label=199]
-	"Greg Cheesman (1016)" -> "Naomi Oakley (1014)" [label=557]
-	"Sanjeev Sabhlok (1015)" -> "Bill Pheasant (1019)" [label=112]
-	"Nathan Scaglione (1020)" -> "Bill Pheasant (1019)" [label=1547]
-	"Greg Cheesman (1016)" -> "Bill Pheasant (1019)" [label=314]
-	"John Hayes (1017)" -> "Nathan Scaglione (1020)" [label=1127]
-	"Bill Pheasant (1019)" -> "Naomi Oakley (1014)" [label=13422]
-	"Greg Cheesman (1016)" -> "Nathan Scaglione (1020)" [label=2417]
+	"Sanjeev Sabhlok (1015)" -> "John Hayes (1017)" [label=163]
 }

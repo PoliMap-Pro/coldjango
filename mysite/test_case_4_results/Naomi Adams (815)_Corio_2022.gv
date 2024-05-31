@@ -2,9 +2,9 @@
 digraph "Naomi Adams (815)_Corio_2022" {
 	graph [label="Corio 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jessica Taylor (811)" [label="Jessica Taylor (811)
-Australian Federation Party"]
 	"Naomi Adams (815)" [label="Naomi Adams (815)
 Animal Justice Party"]
+	"Jessica Taylor (811)" [label="Jessica Taylor (811)
+Australian Federation Party"]
 	"Jessica Taylor (811)" -> "Naomi Adams (815)" [label=98]
 }

@@ -4,29 +4,29 @@ digraph "Justine Keay (1709)_Braddon_2016" {
 	node [shape=box]
 	"Graham Hodge (2508)" [label="Graham Hodge (2508)
 Christian Democratic Party (Fred Nile Group)"]
+	"Joshua Boag (2510)" [label="Joshua Boag (2510)
+Liberal Democrats"]
+	"Scott Jordan (2505)" [label="Scott Jordan (2505)
+The Greens"]
 	"Justine Keay (1709)" [label="Justine Keay (1709)
 Australian Labor Party"]
 	"Glen Saltmarsh (2506)" [label="Glen Saltmarsh (2506)
 Australian Recreational Fishers Party"]
 	"Clinton Rice (2509)" [label="Clinton Rice (2509)
 Renewable Energy Party"]
-	"Joshua Boag (2510)" [label="Joshua Boag (2510)
-Liberal Democrats"]
-	"Scott Jordan (2505)" [label="Scott Jordan (2505)
-The Greens"]
-	"Joshua Boag (2510)" -> "Justine Keay (1709)" [label=210]
-	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
-	"Graham Hodge (2508)" -> "Glen Saltmarsh (2506)" [label=135]
-	"Graham Hodge (2508)" -> "Justine Keay (1709)" [label=118]
-	"Clinton Rice (2509)" -> "Justine Keay (1709)" [label=383]
-	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
-	"Scott Jordan (2505)" -> "Glen Saltmarsh (2506)" [label=1451]
+	"Clinton Rice (2509)" -> "Glen Saltmarsh (2506)" [label=743]
 	"Glen Saltmarsh (2506)" -> "Justine Keay (1709)" [label=4230]
-	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
-	"Joshua Boag (2510)" -> "Glen Saltmarsh (2506)" [label=288]
-	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
+	"Joshua Boag (2510)" -> "Clinton Rice (2509)" [label=373]
+	"Clinton Rice (2509)" -> "Justine Keay (1709)" [label=383]
 	"Graham Hodge (2508)" -> "Joshua Boag (2510)" [label=131]
 	"Scott Jordan (2505)" -> "Justine Keay (1709)" [label=2920]
-	"Clinton Rice (2509)" -> "Glen Saltmarsh (2506)" [label=743]
+	"Graham Hodge (2508)" -> "Scott Jordan (2505)" [label=48]
+	"Joshua Boag (2510)" -> "Glen Saltmarsh (2506)" [label=288]
 	"Joshua Boag (2510)" -> "Scott Jordan (2505)" [label=82]
+	"Graham Hodge (2508)" -> "Justine Keay (1709)" [label=118]
+	"Graham Hodge (2508)" -> "Glen Saltmarsh (2506)" [label=135]
+	"Graham Hodge (2508)" -> "Clinton Rice (2509)" [label=215]
+	"Joshua Boag (2510)" -> "Justine Keay (1709)" [label=210]
+	"Clinton Rice (2509)" -> "Scott Jordan (2505)" [label=368]
+	"Scott Jordan (2505)" -> "Glen Saltmarsh (2506)" [label=1451]
 }

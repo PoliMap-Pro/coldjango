@@ -8,7 +8,7 @@ Liberal Democrats"]
 Australian Christians"]
 	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
 Animal Justice Party"]
-	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
 	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
+	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
 	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
 }

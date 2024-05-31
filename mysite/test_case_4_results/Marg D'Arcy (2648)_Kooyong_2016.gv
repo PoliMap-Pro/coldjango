@@ -8,7 +8,7 @@ Australian Labor Party"]
 The Greens"]
 	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
 Independent"]
+	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=1160]
 	"Helen Mcleod (2647)" -> "Marg D'Arcy (2648)" [label=14409]
 	"Angelina Zubac (1850)" -> "Marg D'Arcy (2648)" [label=762]
-	"Angelina Zubac (1850)" -> "Helen Mcleod (2647)" [label=1160]
 }

@@ -2,31 +2,31 @@
 digraph "Christian Kunde (2096)_Farrer_2016" {
 	graph [label="Farrer 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ron Pike (2093)" [label="Ron Pike (2093)
-Australian Liberty Alliance"]
-	"Christian Kunde (2096)" [label="Christian Kunde (2096)
-Labor"]
-	"Amanda Cohn (2094)" [label="Amanda Cohn (2094)
-The Greens"]
-	"Paul Rossetto (2095)" [label="Paul Rossetto (2095)
-Christian Democratic Party (Fred Nile Group)"]
 	"Brian Mills (1289)" [label="Brian Mills (1289)
 Independent"]
+	"Amanda Cohn (2094)" [label="Amanda Cohn (2094)
+The Greens"]
+	"Christian Kunde (2096)" [label="Christian Kunde (2096)
+Labor"]
+	"Ron Pike (2093)" [label="Ron Pike (2093)
+Australian Liberty Alliance"]
+	"Paul Rossetto (2095)" [label="Paul Rossetto (2095)
+Christian Democratic Party (Fred Nile Group)"]
 	"Trevor O'Brien (2097)" [label="Trevor O'Brien (2097)
 Mature Australia"]
-	"Trevor O'Brien (2097)" -> "Ron Pike (2093)" [label=275]
-	"Paul Rossetto (2095)" -> "Christian Kunde (2096)" [label=288]
-	"Trevor O'Brien (2097)" -> "Brian Mills (1289)" [label=556]
-	"Brian Mills (1289)" -> "Christian Kunde (2096)" [label=1158]
-	"Trevor O'Brien (2097)" -> "Christian Kunde (2096)" [label=434]
-	"Amanda Cohn (2094)" -> "Christian Kunde (2096)" [label=6842]
-	"Brian Mills (1289)" -> "Ron Pike (2093)" [label=1743]
-	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
-	"Paul Rossetto (2095)" -> "Amanda Cohn (2094)" [label=305]
-	"Brian Mills (1289)" -> "Amanda Cohn (2094)" [label=939]
 	"Ron Pike (2093)" -> "Amanda Cohn (2094)" [label=2590]
-	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
+	"Paul Rossetto (2095)" -> "Amanda Cohn (2094)" [label=305]
+	"Trevor O'Brien (2097)" -> "Brian Mills (1289)" [label=556]
+	"Trevor O'Brien (2097)" -> "Ron Pike (2093)" [label=275]
+	"Brian Mills (1289)" -> "Amanda Cohn (2094)" [label=939]
+	"Brian Mills (1289)" -> "Christian Kunde (2096)" [label=1158]
+	"Brian Mills (1289)" -> "Ron Pike (2093)" [label=1743]
 	"Trevor O'Brien (2097)" -> "Amanda Cohn (2094)" [label=125]
-	"Ron Pike (2093)" -> "Christian Kunde (2096)" [label=2257]
+	"Paul Rossetto (2095)" -> "Christian Kunde (2096)" [label=288]
 	"Paul Rossetto (2095)" -> "Ron Pike (2093)" [label=1204]
+	"Paul Rossetto (2095)" -> "Brian Mills (1289)" [label=601]
+	"Trevor O'Brien (2097)" -> "Paul Rossetto (2095)" [label=120]
+	"Trevor O'Brien (2097)" -> "Christian Kunde (2096)" [label=434]
+	"Ron Pike (2093)" -> "Christian Kunde (2096)" [label=2257]
+	"Amanda Cohn (2094)" -> "Christian Kunde (2096)" [label=6842]
 }

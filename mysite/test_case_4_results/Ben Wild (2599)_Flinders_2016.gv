@@ -8,7 +8,7 @@ Independent"]
 Rise Up Australia Party"]
 	"Ben Wild (2599)" [label="Ben Wild (2599)
 Animal Justice Party"]
-	"Shane W Lewis (2596)" -> "Ben Wild (2599)" [label=535]
 	"Yvonne Gentle (1789)" -> "Ben Wild (2599)" [label=1491]
+	"Shane W Lewis (2596)" -> "Ben Wild (2599)" [label=535]
 	"Shane W Lewis (2596)" -> "Yvonne Gentle (1789)" [label=1005]
 }

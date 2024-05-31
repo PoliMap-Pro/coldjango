@@ -2,13 +2,13 @@
 digraph "Eleonora Gullone (2624)_Higgins_2016" {
 	graph [label="Higgins 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Robert Kennedy (2621)" [label="Robert Kennedy (2621)
-Liberal Democrats"]
 	"Rebecca O'Brien (2618)" [label="Rebecca O'Brien (2618)
 Marriage Equality"]
+	"Robert Kennedy (2621)" [label="Robert Kennedy (2621)
+Liberal Democrats"]
 	"Eleonora Gullone (2624)" [label="Eleonora Gullone (2624)
 Animal Justice Party"]
 	"Robert Kennedy (2621)" -> "Rebecca O'Brien (2618)" [label=128]
-	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
 	"Rebecca O'Brien (2618)" -> "Eleonora Gullone (2624)" [label=221]
+	"Robert Kennedy (2621)" -> "Eleonora Gullone (2624)" [label=52]
 }

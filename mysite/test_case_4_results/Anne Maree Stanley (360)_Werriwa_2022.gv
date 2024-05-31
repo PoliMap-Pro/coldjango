@@ -2,24 +2,24 @@
 digraph "Anne Maree Stanley (360)_Werriwa_2022" {
 	graph [label="Werriwa 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anne Maree Stanley (360)" [label="Anne Maree Stanley (360)
-Labor"]
 	"Victor Tey (358)" [label="Victor Tey (358)
 Liberal Democrats"]
-	"Adam Paul Booke (363)" [label="Adam Paul Booke (363)
-Pauline Hanson's One Nation"]
 	"Apurva Shukla (361)" [label="Apurva Shukla (361)
 The Greens"]
+	"Anne Maree Stanley (360)" [label="Anne Maree Stanley (360)
+Labor"]
 	"Tony Mark Nikolic (359)" [label="Tony Mark Nikolic (359)
 United Australia Party"]
-	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
-	"Victor Tey (358)" -> "Anne Maree Stanley (360)" [label=2215]
-	"Apurva Shukla (361)" -> "Tony Mark Nikolic (359)" [label=1088]
-	"Adam Paul Booke (363)" -> "Tony Mark Nikolic (359)" [label=2011]
+	"Adam Paul Booke (363)" [label="Adam Paul Booke (363)
+Pauline Hanson's One Nation"]
 	"Adam Paul Booke (363)" -> "Anne Maree Stanley (360)" [label=662]
+	"Tony Mark Nikolic (359)" -> "Anne Maree Stanley (360)" [label=8667]
 	"Apurva Shukla (361)" -> "Anne Maree Stanley (360)" [label=4521]
 	"Adam Paul Booke (363)" -> "Victor Tey (358)" [label=890]
 	"Victor Tey (358)" -> "Tony Mark Nikolic (359)" [label=4566]
-	"Tony Mark Nikolic (359)" -> "Anne Maree Stanley (360)" [label=8667]
 	"Apurva Shukla (361)" -> "Victor Tey (358)" [label=673]
+	"Adam Paul Booke (363)" -> "Tony Mark Nikolic (359)" [label=2011]
+	"Apurva Shukla (361)" -> "Tony Mark Nikolic (359)" [label=1088]
+	"Victor Tey (358)" -> "Anne Maree Stanley (360)" [label=2215]
+	"Adam Paul Booke (363)" -> "Apurva Shukla (361)" [label=529]
 }

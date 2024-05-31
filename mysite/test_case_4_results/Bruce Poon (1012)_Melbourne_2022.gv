@@ -2,10 +2,10 @@
 digraph "Bruce Poon (1012)_Melbourne_2022" {
 	graph [label="Melbourne 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bruce Poon (1012)" [label="Bruce Poon (1012)
-Animal Justice Party"]
 	"Walter Stragan (1011)" [label="Walter Stragan (1011)
 Pauline Hanson's One Nation"]
+	"Bruce Poon (1012)" [label="Bruce Poon (1012)
+Animal Justice Party"]
 	"Scott Robson (1010)" [label="Scott Robson (1010)
 Independent"]
 	"Walter Stragan (1011)" -> "Bruce Poon (1012)" [label=85]

@@ -2,24 +2,24 @@
 digraph "Linda Burney (27)_Barton_2016" {
 	graph [label="Barton 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
+Christian Democratic Party (Fred Nile Group)"]
+	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
+Independent"]
+	"Linda Burney (27)" [label="Linda Burney (27)
+Labor"]
 	"Harry Tsoukalas (2040)" [label="Harry Tsoukalas (2040)
 Online Direct Democracy - (Empowering the People!)"]
 	"Brent Heber (2039)" [label="Brent Heber (2039)
 The Greens"]
-	"Sonny Susilo (1225)" [label="Sonny Susilo (1225)
-Christian Democratic Party (Fred Nile Group)"]
-	"Linda Burney (27)" [label="Linda Burney (27)
-Labor"]
-	"Rasmus Torkel (2037)" [label="Rasmus Torkel (2037)
-Independent"]
+	"Sonny Susilo (1225)" -> "Linda Burney (27)" [label=866]
 	"Harry Tsoukalas (2040)" -> "Linda Burney (27)" [label=150]
 	"Brent Heber (2039)" -> "Linda Burney (27)" [label=7717]
-	"Rasmus Torkel (2037)" -> "Brent Heber (2039)" [label=453]
-	"Sonny Susilo (1225)" -> "Linda Burney (27)" [label=866]
-	"Harry Tsoukalas (2040)" -> "Brent Heber (2039)" [label=330]
 	"Rasmus Torkel (2037)" -> "Sonny Susilo (1225)" [label=410]
-	"Rasmus Torkel (2037)" -> "Linda Burney (27)" [label=520]
-	"Harry Tsoukalas (2040)" -> "Sonny Susilo (1225)" [label=133]
 	"Harry Tsoukalas (2040)" -> "Rasmus Torkel (2037)" [label=292]
 	"Sonny Susilo (1225)" -> "Brent Heber (2039)" [label=590]
+	"Harry Tsoukalas (2040)" -> "Brent Heber (2039)" [label=330]
+	"Rasmus Torkel (2037)" -> "Brent Heber (2039)" [label=453]
+	"Harry Tsoukalas (2040)" -> "Sonny Susilo (1225)" [label=133]
+	"Rasmus Torkel (2037)" -> "Linda Burney (27)" [label=520]
 }

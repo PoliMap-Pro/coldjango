@@ -2,13 +2,13 @@
 digraph "Fiona Phillips (132)_Gilmore_2016" {
 	graph [label="Gilmore 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
+The Greens"]
 	"Steve Ryan (2102)" [label="Steve Ryan (2102)
 Christian Democratic Party (Fred Nile Group)"]
 	"Fiona Phillips (132)" [label="Fiona Phillips (132)
 Labor"]
-	"Carmel Mary Mccallum (1297)" [label="Carmel Mary Mccallum (1297)
-The Greens"]
-	"Steve Ryan (2102)" -> "Fiona Phillips (132)" [label=989]
-	"Carmel Mary Mccallum (1297)" -> "Fiona Phillips (132)" [label=9368]
 	"Steve Ryan (2102)" -> "Carmel Mary Mccallum (1297)" [label=765]
+	"Carmel Mary Mccallum (1297)" -> "Fiona Phillips (132)" [label=9368]
+	"Steve Ryan (2102)" -> "Fiona Phillips (132)" [label=989]
 }

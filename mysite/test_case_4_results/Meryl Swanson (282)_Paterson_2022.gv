@@ -2,31 +2,31 @@
 digraph "Meryl Swanson (282)_Paterson_2022" {
 	graph [label="Paterson 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Mark Olbourne (286)" [label="Jason Mark Olbourne (286)
-United Australia Party"]
-	"Sonia Bailey (285)" [label="Sonia Bailey (285)
-Liberal Democrats"]
 	"Angela Ketas (283)" [label="Angela Ketas (283)
 Informed Medical Options Party"]
-	"Louise Ihlein (284)" [label="Louise Ihlein (284)
-The Greens"]
-	"Meryl Swanson (282)" [label="Meryl Swanson (282)
-Labor"]
 	"Neil Turner (280)" [label="Neil Turner (280)
 Pauline Hanson's One Nation"]
-	"Angela Ketas (283)" -> "Neil Turner (280)" [label=580]
-	"Sonia Bailey (285)" -> "Angela Ketas (283)" [label=125]
-	"Angela Ketas (283)" -> "Jason Mark Olbourne (286)" [label=596]
+	"Meryl Swanson (282)" [label="Meryl Swanson (282)
+Labor"]
+	"Jason Mark Olbourne (286)" [label="Jason Mark Olbourne (286)
+United Australia Party"]
+	"Louise Ihlein (284)" [label="Louise Ihlein (284)
+The Greens"]
+	"Sonia Bailey (285)" [label="Sonia Bailey (285)
+Liberal Democrats"]
+	"Sonia Bailey (285)" -> "Meryl Swanson (282)" [label=195]
 	"Sonia Bailey (285)" -> "Louise Ihlein (284)" [label=152]
+	"Angela Ketas (283)" -> "Louise Ihlein (284)" [label=341]
+	"Sonia Bailey (285)" -> "Neil Turner (280)" [label=285]
+	"Neil Turner (280)" -> "Meryl Swanson (282)" [label=5994]
+	"Sonia Bailey (285)" -> "Jason Mark Olbourne (286)" [label=380]
+	"Jason Mark Olbourne (286)" -> "Neil Turner (280)" [label=3552]
+	"Angela Ketas (283)" -> "Jason Mark Olbourne (286)" [label=596]
+	"Angela Ketas (283)" -> "Neil Turner (280)" [label=580]
+	"Louise Ihlein (284)" -> "Meryl Swanson (282)" [label=7463]
 	"Jason Mark Olbourne (286)" -> "Louise Ihlein (284)" [label=753]
 	"Angela Ketas (283)" -> "Meryl Swanson (282)" [label=315]
+	"Sonia Bailey (285)" -> "Angela Ketas (283)" [label=125]
 	"Louise Ihlein (284)" -> "Neil Turner (280)" [label=1316]
-	"Sonia Bailey (285)" -> "Neil Turner (280)" [label=285]
-	"Sonia Bailey (285)" -> "Jason Mark Olbourne (286)" [label=380]
-	"Louise Ihlein (284)" -> "Meryl Swanson (282)" [label=7463]
-	"Angela Ketas (283)" -> "Louise Ihlein (284)" [label=341]
-	"Sonia Bailey (285)" -> "Meryl Swanson (282)" [label=195]
 	"Jason Mark Olbourne (286)" -> "Meryl Swanson (282)" [label=555]
-	"Jason Mark Olbourne (286)" -> "Neil Turner (280)" [label=3552]
-	"Neil Turner (280)" -> "Meryl Swanson (282)" [label=5994]
 }

@@ -4,10 +4,10 @@ digraph "Evelyn Carroll (2457)_Boothby_2016" {
 	node [shape=box]
 	"Robert De Jonge (2459)" [label="Robert De Jonge (2459)
 Independent"]
-	"Evelyn Carroll (2457)" [label="Evelyn Carroll (2457)
-Animal Justice Party"]
 	"Jamie Armfield (2455)" [label="Jamie Armfield (2455)
 Independent"]
+	"Evelyn Carroll (2457)" [label="Evelyn Carroll (2457)
+Animal Justice Party"]
 	"Jamie Armfield (2455)" -> "Evelyn Carroll (2457)" [label=121]
 	"Robert De Jonge (2459)" -> "Jamie Armfield (2455)" [label=146]
 	"Robert De Jonge (2459)" -> "Evelyn Carroll (2457)" [label=31]

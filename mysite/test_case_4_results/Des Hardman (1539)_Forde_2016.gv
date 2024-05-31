@@ -4,22 +4,22 @@ digraph "Des Hardman (1539)_Forde_2016" {
 	node [shape=box]
 	"Sally Spain (440)" [label="Sally Spain (440)
 The Greens"]
-	"Shaun Charles Spain (2344)" [label="Shaun Charles Spain (2344)
-Australian Liberty Alliance"]
+	"Des Hardman (1539)" [label="Des Hardman (1539)
+Australian Labor Party"]
 	"Annelise Hellberg (2343)" [label="Annelise Hellberg (2343)
 Family First"]
 	"David Wilks (2341)" [label="David Wilks (2341)
 Independent"]
-	"Des Hardman (1539)" [label="Des Hardman (1539)
-Australian Labor Party"]
-	"Shaun Charles Spain (2344)" -> "Annelise Hellberg (2343)" [label=1230]
-	"Shaun Charles Spain (2344)" -> "David Wilks (2341)" [label=769]
-	"Shaun Charles Spain (2344)" -> "Sally Spain (440)" [label=219]
-	"David Wilks (2341)" -> "Des Hardman (1539)" [label=2139]
-	"Annelise Hellberg (2343)" -> "Des Hardman (1539)" [label=4852]
-	"Sally Spain (440)" -> "Annelise Hellberg (2343)" [label=1300]
-	"Sally Spain (440)" -> "Des Hardman (1539)" [label=2633]
-	"David Wilks (2341)" -> "Annelise Hellberg (2343)" [label=3034]
+	"Shaun Charles Spain (2344)" [label="Shaun Charles Spain (2344)
+Australian Liberty Alliance"]
 	"Shaun Charles Spain (2344)" -> "Des Hardman (1539)" [label=213]
+	"David Wilks (2341)" -> "Annelise Hellberg (2343)" [label=3034]
+	"David Wilks (2341)" -> "Des Hardman (1539)" [label=2139]
+	"Sally Spain (440)" -> "Annelise Hellberg (2343)" [label=1300]
+	"Shaun Charles Spain (2344)" -> "David Wilks (2341)" [label=769]
+	"Shaun Charles Spain (2344)" -> "Annelise Hellberg (2343)" [label=1230]
+	"Shaun Charles Spain (2344)" -> "Sally Spain (440)" [label=219]
+	"Annelise Hellberg (2343)" -> "Des Hardman (1539)" [label=4852]
+	"Sally Spain (440)" -> "Des Hardman (1539)" [label=2633]
 	"Sally Spain (440)" -> "David Wilks (2341)" [label=1204]
 }

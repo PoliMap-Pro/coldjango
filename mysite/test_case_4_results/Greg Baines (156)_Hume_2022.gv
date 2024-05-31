@@ -2,48 +2,48 @@
 digraph "Greg Baines (156)_Hume_2022" {
 	graph [label="Hume 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Garry Trevor Dollin (157)" [label="Garry Trevor Dollin (157)
+United Australia Party"]
 	"Sheneli Meneripitiyage Dona (159)" [label="Sheneli Meneripitiyage Dona (159)
 Independent"]
 	"Ross Edward Seller (160)" [label="Ross Edward Seller (160)
 Shooters, Fishers and Farmers Party"]
+	"Rebecca Thompson (158)" [label="Rebecca Thompson (158)
+Pauline Hanson's One Nation"]
+	"Greg Baines (156)" [label="Greg Baines (156)
+Labor"]
+	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
+Liberal Democrats"]
 	"Karen Stewart (161)" [label="Karen Stewart (161)
 The Greens"]
 	"Penny Ackery (164)" [label="Penny Ackery (164)
 Independent"]
-	"Joaquim Eduardo De Lima (163)" [label="Joaquim Eduardo De Lima (163)
-Liberal Democrats"]
-	"Rebecca Thompson (158)" [label="Rebecca Thompson (158)
-Pauline Hanson's One Nation"]
-	"Garry Trevor Dollin (157)" [label="Garry Trevor Dollin (157)
-United Australia Party"]
-	"Greg Baines (156)" [label="Greg Baines (156)
-Labor"]
-	"Rebecca Thompson (158)" -> "Penny Ackery (164)" [label=5924]
-	"Penny Ackery (164)" -> "Greg Baines (156)" [label=17304]
-	"Karen Stewart (161)" -> "Penny Ackery (164)" [label=2337]
-	"Ross Edward Seller (160)" -> "Greg Baines (156)" [label=412]
-	"Karen Stewart (161)" -> "Greg Baines (156)" [label=2467]
-	"Joaquim Eduardo De Lima (163)" -> "Garry Trevor Dollin (157)" [label=114]
+	"Joaquim Eduardo De Lima (163)" -> "Rebecca Thompson (158)" [label=144]
 	"Garry Trevor Dollin (157)" -> "Karen Stewart (161)" [label=257]
-	"Garry Trevor Dollin (157)" -> "Rebecca Thompson (158)" [label=2724]
-	"Sheneli Meneripitiyage Dona (159)" -> "Garry Trevor Dollin (157)" [label=48]
-	"Sheneli Meneripitiyage Dona (159)" -> "Rebecca Thompson (158)" [label=88]
-	"Garry Trevor Dollin (157)" -> "Penny Ackery (164)" [label=539]
-	"Ross Edward Seller (160)" -> "Karen Stewart (161)" [label=284]
+	"Sheneli Meneripitiyage Dona (159)" -> "Penny Ackery (164)" [label=521]
 	"Joaquim Eduardo De Lima (163)" -> "Sheneli Meneripitiyage Dona (159)" [label=15]
-	"Ross Edward Seller (160)" -> "Rebecca Thompson (158)" [label=953]
-	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
-	"Karen Stewart (161)" -> "Rebecca Thompson (158)" [label=454]
-	"Joaquim Eduardo De Lima (163)" -> "Penny Ackery (164)" [label=117]
-	"Joaquim Eduardo De Lima (163)" -> "Greg Baines (156)" [label=44]
-	"Sheneli Meneripitiyage Dona (159)" -> "Karen Stewart (161)" [label=160]
+	"Joaquim Eduardo De Lima (163)" -> "Karen Stewart (161)" [label=21]
 	"Ross Edward Seller (160)" -> "Garry Trevor Dollin (157)" [label=434]
 	"Sheneli Meneripitiyage Dona (159)" -> "Greg Baines (156)" [label=144]
+	"Rebecca Thompson (158)" -> "Penny Ackery (164)" [label=5924]
+	"Karen Stewart (161)" -> "Penny Ackery (164)" [label=2337]
+	"Garry Trevor Dollin (157)" -> "Penny Ackery (164)" [label=539]
 	"Joaquim Eduardo De Lima (163)" -> "Ross Edward Seller (160)" [label=76]
-	"Sheneli Meneripitiyage Dona (159)" -> "Penny Ackery (164)" [label=521]
-	"Joaquim Eduardo De Lima (163)" -> "Rebecca Thompson (158)" [label=144]
-	"Rebecca Thompson (158)" -> "Greg Baines (156)" [label=2486]
+	"Joaquim Eduardo De Lima (163)" -> "Greg Baines (156)" [label=44]
+	"Ross Edward Seller (160)" -> "Greg Baines (156)" [label=412]
+	"Ross Edward Seller (160)" -> "Karen Stewart (161)" [label=284]
+	"Garry Trevor Dollin (157)" -> "Rebecca Thompson (158)" [label=2724]
+	"Sheneli Meneripitiyage Dona (159)" -> "Rebecca Thompson (158)" [label=88]
+	"Karen Stewart (161)" -> "Rebecca Thompson (158)" [label=454]
 	"Ross Edward Seller (160)" -> "Penny Ackery (164)" [label=633]
-	"Joaquim Eduardo De Lima (163)" -> "Karen Stewart (161)" [label=21]
+	"Joaquim Eduardo De Lima (163)" -> "Penny Ackery (164)" [label=117]
+	"Ross Edward Seller (160)" -> "Rebecca Thompson (158)" [label=953]
+	"Rebecca Thompson (158)" -> "Greg Baines (156)" [label=2486]
+	"Sheneli Meneripitiyage Dona (159)" -> "Ross Edward Seller (160)" [label=100]
 	"Garry Trevor Dollin (157)" -> "Greg Baines (156)" [label=574]
+	"Karen Stewart (161)" -> "Greg Baines (156)" [label=2467]
+	"Penny Ackery (164)" -> "Greg Baines (156)" [label=17304]
+	"Sheneli Meneripitiyage Dona (159)" -> "Garry Trevor Dollin (157)" [label=48]
+	"Sheneli Meneripitiyage Dona (159)" -> "Karen Stewart (161)" [label=160]
+	"Joaquim Eduardo De Lima (163)" -> "Garry Trevor Dollin (157)" [label=114]
 }

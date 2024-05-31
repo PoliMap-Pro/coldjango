@@ -2,9 +2,9 @@
 digraph "Ruth Parramore (1885)_Bendigo_2016" {
 	graph [label="Bendigo 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anita Erika Donlon (2551)" [label="Anita Erika Donlon (2551)
-Independent"]
 	"Ruth Parramore (1885)" [label="Ruth Parramore (1885)
 Animal Justice Party"]
+	"Anita Erika Donlon (2551)" [label="Anita Erika Donlon (2551)
+Independent"]
 	"Anita Erika Donlon (2551)" -> "Ruth Parramore (1885)" [label=230]
 }

@@ -2,39 +2,39 @@
 digraph "Cassandra Fernando (907)_Holt_2022" {
 	graph [label="Holt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
-Liberal Democrats"]
 	"Cassandra Fernando (907)" [label="Cassandra Fernando (907)
 Australian Labor Party"]
+	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
+Independent"]
+	"Sujit Mathew (912)" [label="Sujit Mathew (912)
+The Greens"]
+	"Matthew Nunez-Silva (911)" [label="Matthew Nunez-Silva (911)
+Liberal Democrats"]
+	"Sandy Ambard (909)" [label="Sandy Ambard (909)
+Pauline Hanson's One Nation"]
 	"Gregory Saldanha (910)" [label="Gregory Saldanha (910)
 Australian Federation Party"]
 	"Gerardine Hansen (908)" [label="Gerardine Hansen (908)
 United Australia Party"]
-	"Ravi Ragupathy (906)" [label="Ravi Ragupathy (906)
-Independent"]
-	"Sandy Ambard (909)" [label="Sandy Ambard (909)
-Pauline Hanson's One Nation"]
-	"Sujit Mathew (912)" [label="Sujit Mathew (912)
-The Greens"]
-	"Gregory Saldanha (910)" -> "Sandy Ambard (909)" [label=196]
-	"Ravi Ragupathy (906)" -> "Cassandra Fernando (907)" [label=1076]
-	"Sandy Ambard (909)" -> "Sujit Mathew (912)" [label=557]
-	"Matthew Nunez-Silva (911)" -> "Sandy Ambard (909)" [label=517]
-	"Sandy Ambard (909)" -> "Gerardine Hansen (908)" [label=3420]
-	"Ravi Ragupathy (906)" -> "Gerardine Hansen (908)" [label=556]
 	"Gerardine Hansen (908)" -> "Cassandra Fernando (907)" [label=6500]
-	"Sujit Mathew (912)" -> "Cassandra Fernando (907)" [label=5799]
-	"Matthew Nunez-Silva (911)" -> "Ravi Ragupathy (906)" [label=148]
-	"Matthew Nunez-Silva (911)" -> "Sujit Mathew (912)" [label=235]
-	"Gregory Saldanha (910)" -> "Matthew Nunez-Silva (911)" [label=108]
+	"Gregory Saldanha (910)" -> "Cassandra Fernando (907)" [label=85]
+	"Matthew Nunez-Silva (911)" -> "Cassandra Fernando (907)" [label=263]
 	"Sujit Mathew (912)" -> "Gerardine Hansen (908)" [label=1576]
 	"Gregory Saldanha (910)" -> "Ravi Ragupathy (906)" [label=114]
-	"Matthew Nunez-Silva (911)" -> "Cassandra Fernando (907)" [label=263]
-	"Ravi Ragupathy (906)" -> "Sujit Mathew (912)" [label=476]
-	"Sandy Ambard (909)" -> "Cassandra Fernando (907)" [label=728]
-	"Gregory Saldanha (910)" -> "Gerardine Hansen (908)" [label=109]
-	"Gregory Saldanha (910)" -> "Cassandra Fernando (907)" [label=85]
+	"Gregory Saldanha (910)" -> "Matthew Nunez-Silva (911)" [label=108]
 	"Gregory Saldanha (910)" -> "Sujit Mathew (912)" [label=59]
+	"Sandy Ambard (909)" -> "Cassandra Fernando (907)" [label=728]
 	"Matthew Nunez-Silva (911)" -> "Gerardine Hansen (908)" [label=618]
+	"Ravi Ragupathy (906)" -> "Cassandra Fernando (907)" [label=1076]
+	"Sandy Ambard (909)" -> "Gerardine Hansen (908)" [label=3420]
+	"Matthew Nunez-Silva (911)" -> "Ravi Ragupathy (906)" [label=148]
+	"Ravi Ragupathy (906)" -> "Sujit Mathew (912)" [label=476]
+	"Matthew Nunez-Silva (911)" -> "Sujit Mathew (912)" [label=235]
 	"Ravi Ragupathy (906)" -> "Sandy Ambard (909)" [label=409]
+	"Sujit Mathew (912)" -> "Cassandra Fernando (907)" [label=5799]
+	"Matthew Nunez-Silva (911)" -> "Sandy Ambard (909)" [label=517]
+	"Gregory Saldanha (910)" -> "Sandy Ambard (909)" [label=196]
+	"Gregory Saldanha (910)" -> "Gerardine Hansen (908)" [label=109]
+	"Sandy Ambard (909)" -> "Sujit Mathew (912)" [label=557]
+	"Ravi Ragupathy (906)" -> "Gerardine Hansen (908)" [label=556]
 }

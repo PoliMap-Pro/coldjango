@@ -2,24 +2,24 @@
 digraph "Carolyn Gleixner (2598)_Flinders_2016" {
 	graph [label="Flinders 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Carolyn Gleixner (2598)" [label="Carolyn Gleixner (2598)
-Australian Labor Party"]
-	"Willisa Hogarth (2597)" [label="Willisa Hogarth (2597)
-The Greens"]
-	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
-Rise Up Australia Party"]
-	"Ben Wild (2599)" [label="Ben Wild (2599)
-Animal Justice Party"]
 	"Shane W Lewis (2596)" [label="Shane W Lewis (2596)
 Independent"]
-	"Yvonne Gentle (1789)" -> "Willisa Hogarth (2597)" [label=996]
-	"Shane W Lewis (2596)" -> "Yvonne Gentle (1789)" [label=1005]
-	"Shane W Lewis (2596)" -> "Willisa Hogarth (2597)" [label=544]
+	"Carolyn Gleixner (2598)" [label="Carolyn Gleixner (2598)
+Australian Labor Party"]
+	"Yvonne Gentle (1789)" [label="Yvonne Gentle (1789)
+Rise Up Australia Party"]
+	"Willisa Hogarth (2597)" [label="Willisa Hogarth (2597)
+The Greens"]
+	"Ben Wild (2599)" [label="Ben Wild (2599)
+Animal Justice Party"]
+	"Shane W Lewis (2596)" -> "Carolyn Gleixner (2598)" [label=532]
 	"Willisa Hogarth (2597)" -> "Carolyn Gleixner (2598)" [label=12756]
+	"Yvonne Gentle (1789)" -> "Ben Wild (2599)" [label=1491]
 	"Shane W Lewis (2596)" -> "Ben Wild (2599)" [label=535]
+	"Shane W Lewis (2596)" -> "Yvonne Gentle (1789)" [label=1005]
+	"Yvonne Gentle (1789)" -> "Willisa Hogarth (2597)" [label=996]
 	"Ben Wild (2599)" -> "Willisa Hogarth (2597)" [label=3128]
 	"Ben Wild (2599)" -> "Carolyn Gleixner (2598)" [label=1503]
-	"Yvonne Gentle (1789)" -> "Ben Wild (2599)" [label=1491]
 	"Yvonne Gentle (1789)" -> "Carolyn Gleixner (2598)" [label=641]
-	"Shane W Lewis (2596)" -> "Carolyn Gleixner (2598)" [label=532]
+	"Shane W Lewis (2596)" -> "Willisa Hogarth (2597)" [label=544]
 }

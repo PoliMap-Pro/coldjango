@@ -2,48 +2,48 @@
 digraph "Zac Beers (1529)_Flynn_2016" {
 	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
-	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
-Independent"]
 	"Craig Tomsett (2336)" [label="Craig Tomsett (2336)
 The Greens"]
-	"Zac Beers (1529)" [label="Zac Beers (1529)
-Australian Labor Party"]
-	"Phil Baker (2338)" [label="Phil Baker (2338)
-Pauline Hanson's One Nation"]
-	"Richard Love (2335)" [label="Richard Love (2335)
-Katter's Australian Party"]
 	"Heather Barnett (2340)" [label="Heather Barnett (2340)
 Family First"]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
 	"Nathan Joel David Fletcher (2337)" [label="Nathan Joel David Fletcher (2337)
 Independent"]
-	"Duncan Scott (462)" -> "Nathan Joel David Fletcher (2337)" [label=435]
-	"Heather Barnett (2340)" -> "Nathan Joel David Fletcher (2337)" [label=293]
+	"Richard Love (2335)" [label="Richard Love (2335)
+Katter's Australian Party"]
+	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
+Independent"]
+	"Phil Baker (2338)" [label="Phil Baker (2338)
+Pauline Hanson's One Nation"]
+	"Zac Beers (1529)" [label="Zac Beers (1529)
+Australian Labor Party"]
+	"Duncan Scott (462)" -> "Phil Baker (2338)" [label=168]
+	"Jordan Ryan Puku (2339)" -> "Nathan Joel David Fletcher (2337)" [label=61]
+	"Heather Barnett (2340)" -> "Craig Tomsett (2336)" [label=152]
+	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
+	"Nathan Joel David Fletcher (2337)" -> "Richard Love (2335)" [label=873]
+	"Craig Tomsett (2336)" -> "Zac Beers (1529)" [label=1147]
+	"Phil Baker (2338)" -> "Zac Beers (1529)" [label=9501]
+	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
+	"Nathan Joel David Fletcher (2337)" -> "Phil Baker (2338)" [label=804]
+	"Jordan Ryan Puku (2339)" -> "Phil Baker (2338)" [label=31]
+	"Nathan Joel David Fletcher (2337)" -> "Zac Beers (1529)" [label=1042]
+	"Jordan Ryan Puku (2339)" -> "Craig Tomsett (2336)" [label=36]
+	"Jordan Ryan Puku (2339)" -> "Zac Beers (1529)" [label=72]
+	"Jordan Ryan Puku (2339)" -> "Richard Love (2335)" [label=24]
+	"Heather Barnett (2340)" -> "Richard Love (2335)" [label=283]
+	"Richard Love (2335)" -> "Phil Baker (2338)" [label=2218]
+	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
+	"Duncan Scott (462)" -> "Richard Love (2335)" [label=66]
+	"Heather Barnett (2340)" -> "Phil Baker (2338)" [label=662]
 	"Duncan Scott (462)" -> "Zac Beers (1529)" [label=121]
 	"Heather Barnett (2340)" -> "Zac Beers (1529)" [label=284]
-	"Heather Barnett (2340)" -> "Richard Love (2335)" [label=283]
-	"Craig Tomsett (2336)" -> "Richard Love (2335)" [label=315]
-	"Nathan Joel David Fletcher (2337)" -> "Zac Beers (1529)" [label=1042]
-	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
-	"Nathan Joel David Fletcher (2337)" -> "Phil Baker (2338)" [label=804]
-	"Jordan Ryan Puku (2339)" -> "Nathan Joel David Fletcher (2337)" [label=61]
-	"Duncan Scott (462)" -> "Richard Love (2335)" [label=66]
-	"Richard Love (2335)" -> "Phil Baker (2338)" [label=2218]
-	"Jordan Ryan Puku (2339)" -> "Zac Beers (1529)" [label=72]
-	"Phil Baker (2338)" -> "Zac Beers (1529)" [label=9501]
-	"Duncan Scott (462)" -> "Craig Tomsett (2336)" [label=52]
-	"Heather Barnett (2340)" -> "Phil Baker (2338)" [label=662]
-	"Jordan Ryan Puku (2339)" -> "Richard Love (2335)" [label=24]
-	"Richard Love (2335)" -> "Zac Beers (1529)" [label=1405]
-	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
-	"Craig Tomsett (2336)" -> "Zac Beers (1529)" [label=1147]
-	"Jordan Ryan Puku (2339)" -> "Phil Baker (2338)" [label=31]
-	"Nathan Joel David Fletcher (2337)" -> "Richard Love (2335)" [label=873]
-	"Duncan Scott (462)" -> "Phil Baker (2338)" [label=168]
-	"Jordan Ryan Puku (2339)" -> "Craig Tomsett (2336)" [label=36]
-	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
+	"Duncan Scott (462)" -> "Nathan Joel David Fletcher (2337)" [label=435]
+	"Heather Barnett (2340)" -> "Nathan Joel David Fletcher (2337)" [label=293]
 	"Craig Tomsett (2336)" -> "Phil Baker (2338)" [label=267]
-	"Heather Barnett (2340)" -> "Craig Tomsett (2336)" [label=152]
-	"Craig Tomsett (2336)" -> "Nathan Joel David Fletcher (2337)" [label=695]
+	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
+	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
+	"Richard Love (2335)" -> "Zac Beers (1529)" [label=1405]
+	"Craig Tomsett (2336)" -> "Richard Love (2335)" [label=315]
 }

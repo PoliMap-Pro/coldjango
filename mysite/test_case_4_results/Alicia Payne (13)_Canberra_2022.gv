@@ -2,24 +2,24 @@
 digraph "Alicia Payne (13)_Canberra_2022" {
 	graph [label="Canberra 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Slade Minson (11)" [label="Slade Minson (11)
-Liberal"]
 	"Catherine Smith (8)" [label="Catherine Smith (8)
 United Australia Party"]
-	"James Miles (9)" [label="James Miles (9)
-Pauline Hanson's One Nation"]
 	"Tim Bohm (10)" [label="Tim Bohm (10)
 Independent"]
+	"James Miles (9)" [label="James Miles (9)
+Pauline Hanson's One Nation"]
 	"Alicia Payne (13)" [label="Alicia Payne (13)
 Australian Labor Party"]
-	"James Miles (9)" -> "Slade Minson (11)" [label=303]
-	"Catherine Smith (8)" -> "Alicia Payne (13)" [label=233]
-	"Tim Bohm (10)" -> "Alicia Payne (13)" [label=1743]
-	"Slade Minson (11)" -> "Alicia Payne (13)" [label=13912]
-	"Catherine Smith (8)" -> "Tim Bohm (10)" [label=1299]
+	"Slade Minson (11)" [label="Slade Minson (11)
+Liberal"]
 	"James Miles (9)" -> "Tim Bohm (10)" [label=205]
-	"Tim Bohm (10)" -> "Slade Minson (11)" [label=2140]
-	"James Miles (9)" -> "Catherine Smith (8)" [label=859]
 	"James Miles (9)" -> "Alicia Payne (13)" [label=98]
+	"Tim Bohm (10)" -> "Alicia Payne (13)" [label=1743]
+	"James Miles (9)" -> "Catherine Smith (8)" [label=859]
 	"Catherine Smith (8)" -> "Slade Minson (11)" [label=845]
+	"Catherine Smith (8)" -> "Tim Bohm (10)" [label=1299]
+	"Catherine Smith (8)" -> "Alicia Payne (13)" [label=233]
+	"James Miles (9)" -> "Slade Minson (11)" [label=303]
+	"Tim Bohm (10)" -> "Slade Minson (11)" [label=2140]
+	"Slade Minson (11)" -> "Alicia Payne (13)" [label=13912]
 }

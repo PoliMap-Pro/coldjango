@@ -2,13 +2,13 @@
 digraph "Naren Chellappah (2613)_Goldstein_2016" {
 	graph [label="Goldstein 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
-Drug Law Reform"]
 	"Trevor Bishop (2612)" [label="Trevor Bishop (2612)
 Family First Party"]
 	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
 Animal Justice Party"]
+	"Lee Kavanagh (2614)" [label="Lee Kavanagh (2614)
+Drug Law Reform"]
 	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
-	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
 	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
+	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
 }

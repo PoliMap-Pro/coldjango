@@ -4,11 +4,11 @@ digraph "Victoria Davies (167)_Hunter_2022" {
 	node [shape=box]
 	"Cathy Townsend (169)" [label="Cathy Townsend (169)
 Informed Medical Options Party"]
-	"Scott Fulvio Laruffa (173)" [label="Scott Fulvio Laruffa (173)
-Independent"]
 	"Victoria Davies (167)" [label="Victoria Davies (167)
 Animal Justice Party"]
+	"Scott Fulvio Laruffa (173)" [label="Scott Fulvio Laruffa (173)
+Independent"]
+	"Cathy Townsend (169)" -> "Scott Fulvio Laruffa (173)" [label=94]
 	"Cathy Townsend (169)" -> "Victoria Davies (167)" [label=213]
 	"Scott Fulvio Laruffa (173)" -> "Victoria Davies (167)" [label=107]
-	"Cathy Townsend (169)" -> "Scott Fulvio Laruffa (173)" [label=94]
 }

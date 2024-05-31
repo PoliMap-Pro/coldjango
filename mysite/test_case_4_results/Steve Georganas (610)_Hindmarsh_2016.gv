@@ -4,29 +4,29 @@ digraph "Steve Georganas (610)_Hindmarsh_2016" {
 	node [shape=box]
 	"Steve Georganas (610)" [label="Steve Georganas (610)
 Australian Labor Party"]
-	"Daniel Kirk (2465)" [label="Daniel Kirk (2465)
-Nick Xenophon Team"]
-	"Bin Liu (2468)" [label="Bin Liu (2468)
-Animal Justice Party"]
-	"Mark Potter (2464)" [label="Mark Potter (2464)
-Family First"]
-	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
-The Greens"]
 	"Marina William (2467)" [label="Marina William (2467)
 Christian Democratic Party (Fred Nile Group)"]
-	"Bin Liu (2468)" -> "Patrick O'Sullivan (644)" [label=479]
+	"Patrick O'Sullivan (644)" [label="Patrick O'Sullivan (644)
+The Greens"]
+	"Bin Liu (2468)" [label="Bin Liu (2468)
+Animal Justice Party"]
+	"Daniel Kirk (2465)" [label="Daniel Kirk (2465)
+Nick Xenophon Team"]
+	"Mark Potter (2464)" [label="Mark Potter (2464)
+Family First"]
+	"Bin Liu (2468)" -> "Mark Potter (2464)" [label=230]
 	"Mark Potter (2464)" -> "Patrick O'Sullivan (644)" [label=409]
-	"Marina William (2467)" -> "Mark Potter (2464)" [label=194]
-	"Marina William (2467)" -> "Steve Georganas (610)" [label=42]
-	"Bin Liu (2468)" -> "Steve Georganas (610)" [label=289]
-	"Marina William (2467)" -> "Patrick O'Sullivan (644)" [label=26]
 	"Patrick O'Sullivan (644)" -> "Daniel Kirk (2465)" [label=2206]
 	"Marina William (2467)" -> "Daniel Kirk (2465)" [label=31]
-	"Mark Potter (2464)" -> "Steve Georganas (610)" [label=399]
-	"Bin Liu (2468)" -> "Mark Potter (2464)" [label=230]
 	"Mark Potter (2464)" -> "Daniel Kirk (2465)" [label=573]
-	"Daniel Kirk (2465)" -> "Steve Georganas (610)" [label=10992]
-	"Patrick O'Sullivan (644)" -> "Steve Georganas (610)" [label=4509]
-	"Bin Liu (2468)" -> "Daniel Kirk (2465)" [label=295]
 	"Marina William (2467)" -> "Bin Liu (2468)" [label=65]
+	"Marina William (2467)" -> "Steve Georganas (610)" [label=42]
+	"Patrick O'Sullivan (644)" -> "Steve Georganas (610)" [label=4509]
+	"Daniel Kirk (2465)" -> "Steve Georganas (610)" [label=10992]
+	"Mark Potter (2464)" -> "Steve Georganas (610)" [label=399]
+	"Marina William (2467)" -> "Patrick O'Sullivan (644)" [label=26]
+	"Bin Liu (2468)" -> "Daniel Kirk (2465)" [label=295]
+	"Bin Liu (2468)" -> "Patrick O'Sullivan (644)" [label=479]
+	"Marina William (2467)" -> "Mark Potter (2464)" [label=194]
+	"Bin Liu (2468)" -> "Steve Georganas (610)" [label=289]
 }

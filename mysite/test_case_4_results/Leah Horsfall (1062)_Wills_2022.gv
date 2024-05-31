@@ -2,9 +2,9 @@
 digraph "Leah Horsfall (1062)_Wills_2022" {
 	graph [label="Wills 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
-Animal Justice Party"]
 	"Sam Sergi (1058)" [label="Sam Sergi (1058)
 Australian Federation Party"]
+	"Leah Horsfall (1062)" [label="Leah Horsfall (1062)
+Animal Justice Party"]
 	"Sam Sergi (1058)" -> "Leah Horsfall (1062)" [label=47]
 }

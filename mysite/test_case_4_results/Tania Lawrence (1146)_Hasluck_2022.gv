@@ -2,48 +2,48 @@
 digraph "Tania Lawrence (1146)_Hasluck_2022" {
 	graph [label="Hasluck 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jeanene Williams (1139)" [label="Jeanene Williams (1139)
-Independent"]
 	"Will Scott (1141)" [label="Will Scott (1141)
 United Australia Party"]
-	"Marijanna Smith (1145)" [label="Marijanna Smith (1145)
-Australian Federation Party"]
-	"Brendan Sturcke (1140)" [label="Brendan Sturcke (1140)
-The Greens (WA)"]
-	"Tania Lawrence (1146)" [label="Tania Lawrence (1146)
-Australian Labor Party"]
-	"Steven Mccreanor (1147)" [label="Steven Mccreanor (1147)
-Liberal Democrats"]
 	"Ian Monck (1143)" [label="Ian Monck (1143)
 Pauline Hanson's One Nation"]
+	"Brendan Sturcke (1140)" [label="Brendan Sturcke (1140)
+The Greens (WA)"]
 	"Pauline Clark (1142)" [label="Pauline Clark (1142)
 WESTERN AUSTRALIA PARTY"]
-	"Marijanna Smith (1145)" -> "Brendan Sturcke (1140)" [label=200]
-	"Pauline Clark (1142)" -> "Ian Monck (1143)" [label=425]
-	"Ian Monck (1143)" -> "Brendan Sturcke (1140)" [label=3115]
-	"Pauline Clark (1142)" -> "Brendan Sturcke (1140)" [label=409]
-	"Will Scott (1141)" -> "Brendan Sturcke (1140)" [label=401]
-	"Jeanene Williams (1139)" -> "Brendan Sturcke (1140)" [label=2303]
-	"Steven Mccreanor (1147)" -> "Brendan Sturcke (1140)" [label=53]
+	"Jeanene Williams (1139)" [label="Jeanene Williams (1139)
+Independent"]
+	"Tania Lawrence (1146)" [label="Tania Lawrence (1146)
+Australian Labor Party"]
+	"Marijanna Smith (1145)" [label="Marijanna Smith (1145)
+Australian Federation Party"]
+	"Steven Mccreanor (1147)" [label="Steven Mccreanor (1147)
+Liberal Democrats"]
 	"Jeanene Williams (1139)" -> "Tania Lawrence (1146)" [label=792]
-	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
-	"Marijanna Smith (1145)" -> "Ian Monck (1143)" [label=517]
-	"Marijanna Smith (1145)" -> "Will Scott (1141)" [label=309]
-	"Steven Mccreanor (1147)" -> "Jeanene Williams (1139)" [label=93]
-	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
-	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
+	"Pauline Clark (1142)" -> "Tania Lawrence (1146)" [label=567]
 	"Marijanna Smith (1145)" -> "Jeanene Williams (1139)" [label=209]
-	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
-	"Brendan Sturcke (1140)" -> "Tania Lawrence (1146)" [label=12450]
 	"Marijanna Smith (1145)" -> "Tania Lawrence (1146)" [label=243]
+	"Will Scott (1141)" -> "Ian Monck (1143)" [label=2231]
+	"Marijanna Smith (1145)" -> "Pauline Clark (1142)" [label=219]
+	"Ian Monck (1143)" -> "Brendan Sturcke (1140)" [label=3115]
+	"Steven Mccreanor (1147)" -> "Will Scott (1141)" [label=175]
+	"Steven Mccreanor (1147)" -> "Jeanene Williams (1139)" [label=93]
+	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
+	"Jeanene Williams (1139)" -> "Brendan Sturcke (1140)" [label=2303]
+	"Steven Mccreanor (1147)" -> "Ian Monck (1143)" [label=200]
 	"Ian Monck (1143)" -> "Tania Lawrence (1146)" [label=1516]
 	"Will Scott (1141)" -> "Jeanene Williams (1139)" [label=519]
-	"Steven Mccreanor (1147)" -> "Will Scott (1141)" [label=175]
-	"Will Scott (1141)" -> "Tania Lawrence (1146)" [label=229]
-	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
-	"Jeanene Williams (1139)" -> "Ian Monck (1143)" [label=1137]
+	"Will Scott (1141)" -> "Brendan Sturcke (1140)" [label=401]
+	"Marijanna Smith (1145)" -> "Ian Monck (1143)" [label=517]
 	"Steven Mccreanor (1147)" -> "Tania Lawrence (1146)" [label=225]
+	"Pauline Clark (1142)" -> "Brendan Sturcke (1140)" [label=409]
+	"Steven Mccreanor (1147)" -> "Brendan Sturcke (1140)" [label=53]
+	"Pauline Clark (1142)" -> "Ian Monck (1143)" [label=425]
+	"Steven Mccreanor (1147)" -> "Marijanna Smith (1145)" [label=124]
+	"Marijanna Smith (1145)" -> "Brendan Sturcke (1140)" [label=200]
+	"Pauline Clark (1142)" -> "Will Scott (1141)" [label=318]
 	"Pauline Clark (1142)" -> "Jeanene Williams (1139)" [label=633]
+	"Brendan Sturcke (1140)" -> "Tania Lawrence (1146)" [label=12450]
+	"Will Scott (1141)" -> "Tania Lawrence (1146)" [label=229]
+	"Marijanna Smith (1145)" -> "Will Scott (1141)" [label=309]
 	"Steven Mccreanor (1147)" -> "Pauline Clark (1142)" [label=95]
-	"Pauline Clark (1142)" -> "Tania Lawrence (1146)" [label=567]
 }
