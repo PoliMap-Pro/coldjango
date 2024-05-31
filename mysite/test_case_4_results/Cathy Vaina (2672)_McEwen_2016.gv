@@ -2,18 +2,18 @@
 digraph "Cathy Vaina (2672)_McEwen_2016" {
 	graph [label="McEwen 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"James Anderson (2668)" [label="James Anderson (2668)
-The Nationals"]
 	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
 Rise Up Australia Party"]
-	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
-Animal Justice Party"]
 	"Tracey Andrew (2671)" [label="Tracey Andrew (2671)
 Australian Country Party"]
-	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
-	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
-	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
-	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
-	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
+	"Cathy Vaina (2672)" [label="Cathy Vaina (2672)
+Animal Justice Party"]
+	"James Anderson (2668)" [label="James Anderson (2668)
+The Nationals"]
 	"Tracey Andrew (2671)" -> "Cathy Vaina (2672)" [label=190]
+	"Tracey Andrew (2671)" -> "Jeff Truscott (1846)" [label=321]
+	"James Anderson (2668)" -> "Cathy Vaina (2672)" [label=92]
+	"Jeff Truscott (1846)" -> "James Anderson (2668)" [label=125]
+	"Jeff Truscott (1846)" -> "Cathy Vaina (2672)" [label=448]
+	"Tracey Andrew (2671)" -> "James Anderson (2668)" [label=121]
 }

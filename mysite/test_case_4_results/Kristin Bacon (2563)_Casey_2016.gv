@@ -2,13 +2,13 @@
 digraph "Kristin Bacon (2563)_Casey_2016" {
 	graph [label="Casey 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
+Animal Justice Party"]
 	"Angela Dorian (2565)" [label="Angela Dorian (2565)
 Rise Up Australia Party"]
 	"Peter Charleton (1748)" [label="Peter Charleton (1748)
 Independent"]
-	"Kristin Bacon (2563)" [label="Kristin Bacon (2563)
-Animal Justice Party"]
+	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
 	"Angela Dorian (2565)" -> "Peter Charleton (1748)" [label=910]
 	"Peter Charleton (1748)" -> "Kristin Bacon (2563)" [label=1216]
-	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
 }

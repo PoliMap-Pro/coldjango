@@ -4,11 +4,11 @@ digraph "Meg Watkins (804)_Corangamite_2022" {
 	node [shape=box]
 	"Meg Watkins (804)" [label="Meg Watkins (804)
 Animal Justice Party"]
-	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
-Australian Federation Party"]
 	"Jean-Marie D'Argent (809)" [label="Jean-Marie D'Argent (809)
 Derryn Hinch's Justice Party"]
-	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
+	"Stephen Juhasz (801)" [label="Stephen Juhasz (801)
+Australian Federation Party"]
 	"Stephen Juhasz (801)" -> "Jean-Marie D'Argent (809)" [label=46]
+	"Jean-Marie D'Argent (809)" -> "Meg Watkins (804)" [label=266]
 	"Stephen Juhasz (801)" -> "Meg Watkins (804)" [label=63]
 }

@@ -4,22 +4,22 @@ digraph "Rod Whitfield (785)_Chisholm_2022" {
 	node [shape=box]
 	"Wayne Tseng (791)" [label="Wayne Tseng (791)
 Independent"]
-	"Rod Whitfield (785)" [label="Rod Whitfield (785)
-Animal Justice Party"]
-	"Ryan Dare (786)" [label="Ryan Dare (786)
-Citizens Party"]
-	"Anthea Antonie (783)" [label="Anthea Antonie (783)
-Australian Federation Party"]
 	"Thomas Stanfield (782)" [label="Thomas Stanfield (782)
 Derryn Hinch's Justice Party"]
-	"Wayne Tseng (791)" -> "Rod Whitfield (785)" [label=26]
-	"Anthea Antonie (783)" -> "Thomas Stanfield (782)" [label=49]
-	"Ryan Dare (786)" -> "Rod Whitfield (785)" [label=51]
-	"Thomas Stanfield (782)" -> "Rod Whitfield (785)" [label=133]
-	"Anthea Antonie (783)" -> "Wayne Tseng (791)" [label=13]
-	"Wayne Tseng (791)" -> "Thomas Stanfield (782)" [label=30]
-	"Ryan Dare (786)" -> "Wayne Tseng (791)" [label=48]
+	"Anthea Antonie (783)" [label="Anthea Antonie (783)
+Australian Federation Party"]
+	"Ryan Dare (786)" [label="Ryan Dare (786)
+Citizens Party"]
+	"Rod Whitfield (785)" [label="Rod Whitfield (785)
+Animal Justice Party"]
 	"Ryan Dare (786)" -> "Thomas Stanfield (782)" [label=22]
+	"Ryan Dare (786)" -> "Wayne Tseng (791)" [label=48]
+	"Anthea Antonie (783)" -> "Wayne Tseng (791)" [label=13]
+	"Anthea Antonie (783)" -> "Thomas Stanfield (782)" [label=49]
+	"Wayne Tseng (791)" -> "Thomas Stanfield (782)" [label=30]
 	"Anthea Antonie (783)" -> "Rod Whitfield (785)" [label=38]
+	"Thomas Stanfield (782)" -> "Rod Whitfield (785)" [label=133]
 	"Ryan Dare (786)" -> "Anthea Antonie (783)" [label=19]
+	"Wayne Tseng (791)" -> "Rod Whitfield (785)" [label=26]
+	"Ryan Dare (786)" -> "Rod Whitfield (785)" [label=51]
 }

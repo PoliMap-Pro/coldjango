@@ -2,13 +2,13 @@
 digraph "Antony John Hulbert (2690)_Menzies_2016" {
 	graph [label="Menzies 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
-Animal Justice Party"]
 	"Jay Franklin (2695)" [label="Jay Franklin (2695)
 Voluntary Euthanasia Party"]
+	"Antony John Hulbert (2690)" [label="Antony John Hulbert (2690)
+Animal Justice Party"]
 	"Ramon Robinson (2691)" [label="Ramon Robinson (2691)
 Independent"]
 	"Ramon Robinson (2691)" -> "Antony John Hulbert (2690)" [label=94]
-	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
 	"Ramon Robinson (2691)" -> "Jay Franklin (2695)" [label=52]
+	"Jay Franklin (2695)" -> "Antony John Hulbert (2690)" [label=221]
 }

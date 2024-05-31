@@ -2,13 +2,13 @@
 digraph "Helen Jeges (963)_La Trobe_2022" {
 	graph [label="La Trobe 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
-Australian Federation Party"]
 	"Helen Jeges (963)" [label="Helen Jeges (963)
 Animal Justice Party"]
+	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
+Australian Federation Party"]
 	"Michael Abelman (962)" [label="Michael Abelman (962)
 Liberal Democrats"]
-	"Rebecca Skinner (961)" -> "Helen Jeges (963)" [label=151]
 	"Michael Abelman (962)" -> "Helen Jeges (963)" [label=173]
+	"Rebecca Skinner (961)" -> "Helen Jeges (963)" [label=151]
 	"Rebecca Skinner (961)" -> "Michael Abelman (962)" [label=166]
 }

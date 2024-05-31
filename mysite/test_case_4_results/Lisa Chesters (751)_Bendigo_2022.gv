@@ -2,31 +2,31 @@
 digraph "Lisa Chesters (751)_Bendigo_2022" {
 	graph [label="Bendigo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ben Mihail (755)" [label="Ben Mihail (755)
-Pauline Hanson's One Nation"]
-	"Lisa Chesters (751)" [label="Lisa Chesters (751)
-Australian Labor Party"]
-	"James Laurie (750)" [label="James Laurie (750)
-Independent"]
 	"Cate Sinclair (753)" [label="Cate Sinclair (753)
 The Greens"]
+	"Lisa Chesters (751)" [label="Lisa Chesters (751)
+Australian Labor Party"]
 	"Elijah Suares (756)" [label="Elijah Suares (756)
 United Australia Party"]
+	"James Laurie (750)" [label="James Laurie (750)
+Independent"]
+	"Ben Mihail (755)" [label="Ben Mihail (755)
+Pauline Hanson's One Nation"]
 	"Matt Bansemer (754)" [label="Matt Bansemer (754)
 Liberal Democrats"]
-	"Elijah Suares (756)" -> "Lisa Chesters (751)" [label=480]
-	"James Laurie (750)" -> "Lisa Chesters (751)" [label=1302]
-	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
-	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
 	"James Laurie (750)" -> "Cate Sinclair (753)" [label=626]
-	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
-	"Ben Mihail (755)" -> "Lisa Chesters (751)" [label=2778]
+	"Matt Bansemer (754)" -> "Elijah Suares (756)" [label=1152]
 	"Elijah Suares (756)" -> "Ben Mihail (755)" [label=3997]
+	"James Laurie (750)" -> "Elijah Suares (756)" [label=593]
+	"Matt Bansemer (754)" -> "Cate Sinclair (753)" [label=146]
 	"Cate Sinclair (753)" -> "Lisa Chesters (751)" [label=14351]
-	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
+	"Ben Mihail (755)" -> "Lisa Chesters (751)" [label=2778]
 	"Matt Bansemer (754)" -> "Lisa Chesters (751)" [label=174]
+	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
+	"Matt Bansemer (754)" -> "Ben Mihail (755)" [label=544]
+	"James Laurie (750)" -> "Lisa Chesters (751)" [label=1302]
 	"Ben Mihail (755)" -> "Cate Sinclair (753)" [label=2151]
 	"James Laurie (750)" -> "Ben Mihail (755)" [label=1407]
 	"Elijah Suares (756)" -> "Cate Sinclair (753)" [label=356]
-	"Matt Bansemer (754)" -> "James Laurie (750)" [label=272]
+	"Elijah Suares (756)" -> "Lisa Chesters (751)" [label=480]
 }

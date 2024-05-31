@@ -38,9 +38,9 @@ class Command(BaseCommand):
                     data_set_id = Command.get_data_sets(
                         data_set_id, election, key, out_lines, party,
                         party_data)
-            with open("./jsondatasets.txt", "a") as outfile:
-                outfile.writelines(out_lines)
-            out_lines = []
+                    with open("./jsondatasets.txt", "a") as outfile:
+                        outfile.writelines(out_lines)
+                    out_lines = []
 
     @staticmethod
     def get_data_sets(data_set_id, election, key, out_lines, party,
@@ -57,47 +57,45 @@ class Command(BaseCommand):
 
     @staticmethod
     def tcp_set(data_set_id, election, key, out_lines, party, party_data):
-        data = endpoints.getHouseTwoPartyPreferred(
-            elections=[election, ],
-            parties=party_data,
-            seats=True)
-        if data['series'][0]['data']:
-            Command.add_out_line(
-                data_set_id, election, key, out_lines, party, "tcp_votes", "",
-                seats_bool=True, party_data=party_data)
-            data_set_id += 1
+        #data = endpoints.getHouseTwoPartyPreferred(
+        #    elections=[election, ],
+        #    parties=party_data,
+        #    seats=True)
+        #if data['series'][0]['data']:
+        Command.add_out_line(
+            data_set_id, election, key, out_lines, party, "tcp_votes", "",
+            seats_bool=True, party_data=party_data)
+        data_set_id += 1
         return data_set_id
 
     @staticmethod
     def booth_set(data_set_id, election, key, out_lines, party, party_data):
-        for seat in place.Seat.objects.all():
-            data = endpoints.getHouseAttribute(
-                elections=[election, ],
-                parties=party_data,
-                places={'seat__name': seat.name},
-                seats=False,
-                tally_attribute="primary_votes")
-            if data['series'][0]['data']:
-                Command.add_out_line(
-                    data_set_id, election, key, out_lines, party,
-                    "primary_votes", seat.name, seats_bool=False,
-                    party_data=party_data)
-                data_set_id += 1
+        #data = endpoints.getHouseAttribute(
+        #    elections=[election, ],
+        #    parties=party_data,
+        #    seats=False,
+        #    tally_attribute="primary_votes")
+        #if data['series'][0]['data']:
+        Command.add_out_line(
+            data_set_id, election, key, out_lines, party,
+            "primary_votes", "", seats_bool=False,
+            party_data=party_data)
+        data_set_id += 1
         return data_set_id
 
     @staticmethod
     def seat_set(data_set_id, election, key, out_lines, party, party_data):
         for tally_attr in Command.seat_attributes:
-            data = endpoints.getHouseAttribute(
-                elections=[election, ],
-                parties=party_data,
-                seats=True,
-                tally_attribute=tally_attr)
-            if data['series'][0]['data']:
-                Command.add_out_line(
-                    data_set_id, election, key, out_lines, party, tally_attr,
-                    "", seats_bool=True, party_data=party_data)
-                data_set_id += 1
+            #data = endpoints.getHouseAttribute(
+            #    elections=[election, ],
+            #    parties=party_data,
+            #    seats=True,
+            #    tally_attribute=tally_attr)
+            #if data['series'][0]['data']:
+            Command.add_out_line(
+                data_set_id, election, key, out_lines, party, tally_attr,
+                "", seats_bool=True, party_data=party_data)
+            data_set_id += 1
         return data_set_id
 
     @staticmethod
@@ -107,8 +105,10 @@ class Command(BaseCommand):
         else:
             abbr_list = []
             for party in parties:
-                if party.abbreviation not in abbr_list:
-                    abbr_list.append(party.abbreviation)
+                if party.abbreviation:
+                    if party.abbreviation not in abbr_list:
+                        abbr_list.append(party.abbreviation)
+            abbr_list.sort()
             party_data = {'abbreviation__in': abbr_list}
         return party, party_data
 

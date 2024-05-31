@@ -9,6 +9,6 @@ Family First Party"]
 	"Naren Chellappah (2613)" [label="Naren Chellappah (2613)
 Animal Justice Party"]
 	"Trevor Bishop (2612)" -> "Naren Chellappah (2613)" [label=365]
-	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
 	"Trevor Bishop (2612)" -> "Lee Kavanagh (2614)" [label=207]
+	"Lee Kavanagh (2614)" -> "Naren Chellappah (2613)" [label=680]
 }

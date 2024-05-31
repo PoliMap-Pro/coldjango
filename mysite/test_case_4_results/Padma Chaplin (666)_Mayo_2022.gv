@@ -2,13 +2,13 @@
 digraph "Padma Chaplin (666)_Mayo_2022" {
 	graph [label="Mayo 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mark Neugebauer (673)" [label="Mark Neugebauer (673)
-Australian Federation Party"]
 	"Padma Chaplin (666)" [label="Padma Chaplin (666)
 Animal Justice Party"]
 	"Jacob Van Raalte (667)" [label="Jacob Van Raalte (667)
 Liberal Democrats"]
-	"Mark Neugebauer (673)" -> "Jacob Van Raalte (667)" [label=236]
+	"Mark Neugebauer (673)" [label="Mark Neugebauer (673)
+Australian Federation Party"]
 	"Jacob Van Raalte (667)" -> "Padma Chaplin (666)" [label=114]
 	"Mark Neugebauer (673)" -> "Padma Chaplin (666)" [label=72]
+	"Mark Neugebauer (673)" -> "Jacob Van Raalte (667)" [label=236]
 }

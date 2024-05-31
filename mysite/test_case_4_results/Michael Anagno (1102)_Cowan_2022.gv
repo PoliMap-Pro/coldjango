@@ -4,11 +4,11 @@ digraph "Michael Anagno (1102)_Cowan_2022" {
 	node [shape=box]
 	"Micah Van Krieken (1098)" [label="Micah Van Krieken (1098)
 Liberal Democrats"]
-	"Michael Anagno (1102)" [label="Michael Anagno (1102)
-Animal Justice Party"]
 	"Michael Calautti (1096)" [label="Michael Calautti (1096)
 Australian Federation Party"]
-	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
+	"Michael Anagno (1102)" [label="Michael Anagno (1102)
+Animal Justice Party"]
 	"Micah Van Krieken (1098)" -> "Michael Calautti (1096)" [label=69]
 	"Micah Van Krieken (1098)" -> "Michael Anagno (1102)" [label=36]
+	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
 }

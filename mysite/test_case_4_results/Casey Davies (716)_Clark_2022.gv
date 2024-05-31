@@ -2,9 +2,9 @@
 digraph "Casey Davies (716)_Clark_2022" {
 	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Ian Ramsden (712)" [label="Ian Ramsden (712)
-Liberal Democrats"]
 	"Casey Davies (716)" [label="Casey Davies (716)
 Animal Justice Party"]
+	"Ian Ramsden (712)" [label="Ian Ramsden (712)
+Liberal Democrats"]
 	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
 }

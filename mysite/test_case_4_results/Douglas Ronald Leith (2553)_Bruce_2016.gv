@@ -2,10 +2,10 @@
 digraph "Douglas Ronald Leith (2553)_Bruce_2016" {
 	graph [label="Bruce 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jill Jarvis-Wills (2557)" [label="Jill Jarvis-Wills (2557)
-Renewable Energy Party"]
 	"Douglas Ronald Leith (2553)" [label="Douglas Ronald Leith (2553)
 Animal Justice Party"]
+	"Jill Jarvis-Wills (2557)" [label="Jill Jarvis-Wills (2557)
+Renewable Energy Party"]
 	"Alan Roncan (2558)" [label="Alan Roncan (2558)
 Drug Law Reform"]
 	"Jill Jarvis-Wills (2557)" -> "Douglas Ronald Leith (2553)" [label=139]

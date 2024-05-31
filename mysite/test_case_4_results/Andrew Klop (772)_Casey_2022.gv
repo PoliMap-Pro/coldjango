@@ -8,7 +8,7 @@ Australian Federation Party"]
 Derryn Hinch's Justice Party"]
 	"Andrew Klop (772)" [label="Andrew Klop (772)
 Animal Justice Party"]
+	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
 	"Chris Field (776)" -> "Andrew Klop (772)" [label=18]
 	"Chris Field (776)" -> "Peter Sullivan (778)" [label=19]
-	"Peter Sullivan (778)" -> "Andrew Klop (772)" [label=158]
 }

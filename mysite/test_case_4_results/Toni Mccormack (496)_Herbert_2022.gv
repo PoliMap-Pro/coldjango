@@ -2,13 +2,13 @@
 digraph "Toni Mccormack (496)_Herbert_2022" {
 	graph [label="Herbert 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Steven Clare (493)" [label="Steven Clare (493)
+Independent"]
 	"Larna Ballard (490)" [label="Larna Ballard (490)
 The Great Australian Party"]
 	"Toni Mccormack (496)" [label="Toni Mccormack (496)
 Animal Justice Party"]
-	"Steven Clare (493)" [label="Steven Clare (493)
-Independent"]
-	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
 	"Larna Ballard (490)" -> "Steven Clare (493)" [label=49]
+	"Steven Clare (493)" -> "Toni Mccormack (496)" [label=33]
 	"Larna Ballard (490)" -> "Toni Mccormack (496)" [label=17]
 }
