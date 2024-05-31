@@ -2,24 +2,24 @@
 digraph "Janet Shelley (714)_Clark_2022" {
 	graph [label="Clark 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Casey Davies (716)" [label="Casey Davies (716)
-Animal Justice Party"]
-	"Janet Shelley (714)" [label="Janet Shelley (714)
-The Greens"]
 	"Sandra Galloway (717)" [label="Sandra Galloway (717)
 United Australia Party"]
+	"Janet Shelley (714)" [label="Janet Shelley (714)
+The Greens"]
 	"Ian Ramsden (712)" [label="Ian Ramsden (712)
 Liberal Democrats"]
+	"Casey Davies (716)" [label="Casey Davies (716)
+Animal Justice Party"]
 	"Michelle Cameron (710)" [label="Michelle Cameron (710)
 Pauline Hanson's One Nation"]
-	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
+	"Ian Ramsden (712)" -> "Janet Shelley (714)" [label=33]
+	"Ian Ramsden (712)" -> "Michelle Cameron (710)" [label=116]
+	"Sandra Galloway (717)" -> "Janet Shelley (714)" [label=111]
+	"Casey Davies (716)" -> "Sandra Galloway (717)" [label=114]
 	"Sandra Galloway (717)" -> "Michelle Cameron (710)" [label=490]
 	"Ian Ramsden (712)" -> "Sandra Galloway (717)" [label=104]
-	"Ian Ramsden (712)" -> "Michelle Cameron (710)" [label=116]
-	"Ian Ramsden (712)" -> "Janet Shelley (714)" [label=33]
-	"Casey Davies (716)" -> "Sandra Galloway (717)" [label=114]
 	"Casey Davies (716)" -> "Janet Shelley (714)" [label=229]
 	"Casey Davies (716)" -> "Michelle Cameron (710)" [label=80]
-	"Sandra Galloway (717)" -> "Janet Shelley (714)" [label=111]
 	"Michelle Cameron (710)" -> "Janet Shelley (714)" [label=209]
+	"Ian Ramsden (712)" -> "Casey Davies (716)" [label=20]
 }

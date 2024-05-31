@@ -6,20 +6,20 @@ digraph "John Photakis (656)_Kingston_2022" {
 Australian Federation Party"]
 	"Rob De Jonge (652)" [label="Rob De Jonge (652)
 Independent"]
-	"Robert Godfrey-Brown (653)" [label="Robert Godfrey-Brown (653)
-Pauline Hanson's One Nation"]
 	"Russell Jackson (654)" [label="Russell Jackson (654)
 United Australia Party"]
 	"John Photakis (656)" [label="John Photakis (656)
 The Greens"]
-	"Rob De Jonge (652)" -> "John Photakis (656)" [label=629]
-	"Rob De Jonge (652)" -> "Robert Godfrey-Brown (653)" [label=1039]
-	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
+	"Robert Godfrey-Brown (653)" [label="Robert Godfrey-Brown (653)
+Pauline Hanson's One Nation"]
 	"Sam Enright (657)" -> "Rob De Jonge (652)" [label=206]
-	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
-	"Russell Jackson (654)" -> "John Photakis (656)" [label=634]
 	"Sam Enright (657)" -> "John Photakis (656)" [label=104]
+	"Sam Enright (657)" -> "Robert Godfrey-Brown (653)" [label=379]
 	"Robert Godfrey-Brown (653)" -> "John Photakis (656)" [label=2688]
-	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
+	"Rob De Jonge (652)" -> "Robert Godfrey-Brown (653)" [label=1039]
+	"Russell Jackson (654)" -> "John Photakis (656)" [label=634]
+	"Sam Enright (657)" -> "Russell Jackson (654)" [label=240]
 	"Russell Jackson (654)" -> "Robert Godfrey-Brown (653)" [label=3216]
+	"Rob De Jonge (652)" -> "Russell Jackson (654)" [label=538]
+	"Rob De Jonge (652)" -> "John Photakis (656)" [label=629]
 }

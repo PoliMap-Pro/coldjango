@@ -4,11 +4,11 @@ digraph "Bernard Lakey (397)_Bonner_2022" {
 	node [shape=box]
 	"Amanda Neil (394)" [label="Amanda Neil (394)
 Pauline Hanson's One Nation"]
-	"Bernard Lakey (397)" [label="Bernard Lakey (397)
-Queensland Greens"]
 	"Serge Diklich (395)" [label="Serge Diklich (395)
 United Australia Party"]
-	"Serge Diklich (395)" -> "Bernard Lakey (397)" [label=350]
-	"Amanda Neil (394)" -> "Bernard Lakey (397)" [label=1725]
+	"Bernard Lakey (397)" [label="Bernard Lakey (397)
+Queensland Greens"]
 	"Serge Diklich (395)" -> "Amanda Neil (394)" [label=1852]
+	"Amanda Neil (394)" -> "Bernard Lakey (397)" [label=1725]
+	"Serge Diklich (395)" -> "Bernard Lakey (397)" [label=350]
 }

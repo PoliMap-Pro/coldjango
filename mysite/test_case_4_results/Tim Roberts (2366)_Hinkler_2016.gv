@@ -2,18 +2,18 @@
 digraph "Tim Roberts (2366)_Hinkler_2016" {
 	graph [label="Hinkler 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Robert Owen Windred (2364)" [label="Robert Owen Windred (2364)
+Australian Liberty Alliance"]
 	"Tim Roberts (2366)" [label="Tim Roberts (2366)
 The Greens"]
 	"Stephen Lynch (2143)" [label="Stephen Lynch (2143)
 Nick Xenophon Team"]
 	"Bill Foster (2365)" [label="Bill Foster (2365)
 Independent"]
-	"Robert Owen Windred (2364)" [label="Robert Owen Windred (2364)
-Australian Liberty Alliance"]
-	"Bill Foster (2365)" -> "Tim Roberts (2366)" [label=449]
-	"Bill Foster (2365)" -> "Stephen Lynch (2143)" [label=298]
 	"Robert Owen Windred (2364)" -> "Bill Foster (2365)" [label=139]
-	"Stephen Lynch (2143)" -> "Tim Roberts (2366)" [label=399]
-	"Robert Owen Windred (2364)" -> "Tim Roberts (2366)" [label=34]
+	"Bill Foster (2365)" -> "Tim Roberts (2366)" [label=449]
 	"Robert Owen Windred (2364)" -> "Stephen Lynch (2143)" [label=127]
+	"Robert Owen Windred (2364)" -> "Tim Roberts (2366)" [label=34]
+	"Bill Foster (2365)" -> "Stephen Lynch (2143)" [label=298]
+	"Stephen Lynch (2143)" -> "Tim Roberts (2366)" [label=399]
 }

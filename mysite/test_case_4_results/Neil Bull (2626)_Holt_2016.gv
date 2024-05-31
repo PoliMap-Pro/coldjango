@@ -2,13 +2,13 @@
 digraph "Neil Bull (2626)_Holt_2016" {
 	graph [label="Holt 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Neil Bull (2626)" [label="Neil Bull (2626)
-Family First Party"]
 	"Jake Tilton (2627)" [label="Jake Tilton (2627)
 The Greens"]
 	"Colin Robertson (2625)" [label="Colin Robertson (2625)
 Rise Up Australia Party"]
+	"Neil Bull (2626)" [label="Neil Bull (2626)
+Family First Party"]
 	"Colin Robertson (2625)" -> "Neil Bull (2626)" [label=2141]
-	"Jake Tilton (2627)" -> "Neil Bull (2626)" [label=1711]
 	"Colin Robertson (2625)" -> "Jake Tilton (2627)" [label=322]
+	"Jake Tilton (2627)" -> "Neil Bull (2626)" [label=1711]
 }

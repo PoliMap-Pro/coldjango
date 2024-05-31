@@ -2,18 +2,18 @@
 digraph "Silvia Mogorovich (511)_Leichhardt_2022" {
 	graph [label="Leichhardt 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Adam Cropp (514)" [label="Adam Cropp (514)
+FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Paul Roe (519)" [label="Paul Roe (519)
 Australian Federation Party"]
 	"Silvia Mogorovich (511)" [label="Silvia Mogorovich (511)
 Informed Medical Options Party"]
 	"Susanne Bayly (515)" [label="Susanne Bayly (515)
 Animal Justice Party"]
-	"Adam Cropp (514)" [label="Adam Cropp (514)
-FUSION: Science, Pirate, Secular, Climate Emergency"]
 	"Adam Cropp (514)" -> "Silvia Mogorovich (511)" [label=120]
-	"Adam Cropp (514)" -> "Susanne Bayly (515)" [label=212]
-	"Paul Roe (519)" -> "Silvia Mogorovich (511)" [label=67]
 	"Susanne Bayly (515)" -> "Silvia Mogorovich (511)" [label=283]
+	"Adam Cropp (514)" -> "Susanne Bayly (515)" [label=212]
 	"Paul Roe (519)" -> "Adam Cropp (514)" [label=18]
+	"Paul Roe (519)" -> "Silvia Mogorovich (511)" [label=67]
 	"Paul Roe (519)" -> "Susanne Bayly (515)" [label=20]
 }

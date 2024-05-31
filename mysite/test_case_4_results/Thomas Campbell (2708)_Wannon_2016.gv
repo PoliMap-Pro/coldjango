@@ -2,12 +2,12 @@
 digraph "Thomas Campbell (2708)_Wannon_2016" {
 	graph [label="Wannon 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Michael John Mccluskey (2710)" [label="Michael John Mccluskey (2710)
-Independent"]
-	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
-Independent"]
 	"Thomas Campbell (2708)" [label="Thomas Campbell (2708)
 The Greens"]
+	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
+Independent"]
+	"Michael John Mccluskey (2710)" [label="Michael John Mccluskey (2710)
+Independent"]
 	"Bernardine Atkinson (2709)" -> "Michael John Mccluskey (2710)" [label=2342]
 	"Michael John Mccluskey (2710)" -> "Thomas Campbell (2708)" [label=1938]
 	"Bernardine Atkinson (2709)" -> "Thomas Campbell (2708)" [label=165]

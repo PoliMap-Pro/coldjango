@@ -4,29 +4,29 @@ digraph "Daniel Garlett (1077)_Burt_2022" {
 	node [shape=box]
 	"Michele Castle (1074)" [label="Michele Castle (1074)
 Australian Federation Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
 	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
 Australian Christians"]
 	"Travis Carter (1075)" [label="Travis Carter (1075)
 Pauline Hanson's One Nation"]
 	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
 United Australia Party"]
-	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
-WESTERN AUSTRALIA PARTY"]
 	"Daniel Garlett (1077)" [label="Daniel Garlett (1077)
 The Greens (WA)"]
 	"Joshua Mccurry (1076)" -> "Warnar Spyker (1080)" [label=268]
-	"Stephen Phelan (1078)" -> "Daniel Garlett (1077)" [label=651]
-	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
-	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
-	"Joshua Mccurry (1076)" -> "Daniel Garlett (1077)" [label=274]
-	"Travis Carter (1075)" -> "Daniel Garlett (1077)" [label=3542]
-	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
-	"Stephen Phelan (1078)" -> "Travis Carter (1075)" [label=724]
-	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
-	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
 	"Michele Castle (1074)" -> "Daniel Garlett (1077)" [label=125]
-	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
-	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
+	"Travis Carter (1075)" -> "Daniel Garlett (1077)" [label=3542]
+	"Stephen Phelan (1078)" -> "Travis Carter (1075)" [label=724]
+	"Joshua Mccurry (1076)" -> "Daniel Garlett (1077)" [label=274]
 	"Stephen Phelan (1078)" -> "Warnar Spyker (1080)" [label=337]
+	"Stephen Phelan (1078)" -> "Daniel Garlett (1077)" [label=651]
+	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
+	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
 	"Michele Castle (1074)" -> "Warnar Spyker (1080)" [label=150]
+	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
+	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
+	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
+	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
+	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
 }

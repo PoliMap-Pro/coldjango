@@ -2,31 +2,31 @@
 digraph "Jenny O'Connor (2635)_Indi_2016" {
 	graph [label="Indi 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Julian Fidge (928)" [label="Julian Fidge (928)
-Australian Country Party"]
 	"Tim Quilty (2636)" [label="Tim Quilty (2636)
 Liberal Democrats"]
-	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
+	"Ray Dyer (2638)" [label="Ray Dyer (2638)
 Independent"]
+	"Julian Fidge (928)" [label="Julian Fidge (928)
+Australian Country Party"]
 	"Jenny O'Connor (2635)" [label="Jenny O'Connor (2635)
 The Greens"]
-	"Ray Dyer (2638)" [label="Ray Dyer (2638)
+	"Alan James Lappin (2633)" [label="Alan James Lappin (2633)
 Independent"]
 	"Vincent Ferrando (2640)" [label="Vincent Ferrando (2640)
 Rise Up Australia Party"]
-	"Julian Fidge (928)" -> "Jenny O'Connor (2635)" [label=185]
-	"Vincent Ferrando (2640)" -> "Jenny O'Connor (2635)" [label=32]
 	"Ray Dyer (2638)" -> "Vincent Ferrando (2640)" [label=38]
-	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
-	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
+	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
 	"Alan James Lappin (2633)" -> "Jenny O'Connor (2635)" [label=279]
-	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
-	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
 	"Tim Quilty (2636)" -> "Jenny O'Connor (2635)" [label=70]
-	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
+	"Ray Dyer (2638)" -> "Julian Fidge (928)" [label=42]
+	"Tim Quilty (2636)" -> "Julian Fidge (928)" [label=70]
+	"Vincent Ferrando (2640)" -> "Jenny O'Connor (2635)" [label=32]
+	"Ray Dyer (2638)" -> "Tim Quilty (2636)" [label=21]
+	"Vincent Ferrando (2640)" -> "Julian Fidge (928)" [label=554]
+	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
 	"Tim Quilty (2636)" -> "Alan James Lappin (2633)" [label=84]
 	"Vincent Ferrando (2640)" -> "Alan James Lappin (2633)" [label=183]
-	"Alan James Lappin (2633)" -> "Julian Fidge (928)" [label=316]
-	"Ray Dyer (2638)" -> "Alan James Lappin (2633)" [label=133]
+	"Tim Quilty (2636)" -> "Vincent Ferrando (2640)" [label=55]
 	"Ray Dyer (2638)" -> "Jenny O'Connor (2635)" [label=26]
+	"Julian Fidge (928)" -> "Jenny O'Connor (2635)" [label=185]
 }

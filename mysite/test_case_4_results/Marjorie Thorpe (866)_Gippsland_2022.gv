@@ -2,13 +2,13 @@
 digraph "Marjorie Thorpe (866)_Gippsland_2022" {
 	graph [label="Gippsland 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Marjorie Thorpe (866)" [label="Marjorie Thorpe (866)
-The Greens"]
 	"Gregory Emil Forster (865)" [label="Gregory Emil Forster (865)
 United Australia Party"]
 	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
 Liberal Democrats"]
+	"Marjorie Thorpe (866)" [label="Marjorie Thorpe (866)
+The Greens"]
+	"Jim Mcdonald (867)" -> "Gregory Emil Forster (865)" [label=590]
 	"Gregory Emil Forster (865)" -> "Marjorie Thorpe (866)" [label=284]
 	"Jim Mcdonald (867)" -> "Marjorie Thorpe (866)" [label=336]
-	"Jim Mcdonald (867)" -> "Gregory Emil Forster (865)" [label=590]
 }

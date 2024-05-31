@@ -2,18 +2,18 @@
 digraph "Keiran Snape (2473)_Makin_2016" {
 	graph [label="Makin 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Keiran Snape (2473)" [label="Keiran Snape (2473)
-The Greens"]
-	"Paul Coombe (2474)" [label="Paul Coombe (2474)
-Family First"]
 	"Zarina Greenberg (2476)" [label="Zarina Greenberg (2476)
 Animal Justice Party"]
+	"Paul Coombe (2474)" [label="Paul Coombe (2474)
+Family First"]
 	"Mark Aldridge (2475)" [label="Mark Aldridge (2475)
 Independent"]
-	"Zarina Greenberg (2476)" -> "Paul Coombe (2474)" [label=222]
-	"Mark Aldridge (2475)" -> "Keiran Snape (2473)" [label=280]
-	"Paul Coombe (2474)" -> "Keiran Snape (2473)" [label=834]
-	"Zarina Greenberg (2476)" -> "Mark Aldridge (2475)" [label=204]
+	"Keiran Snape (2473)" [label="Keiran Snape (2473)
+The Greens"]
 	"Mark Aldridge (2475)" -> "Paul Coombe (2474)" [label=533]
+	"Mark Aldridge (2475)" -> "Keiran Snape (2473)" [label=280]
+	"Zarina Greenberg (2476)" -> "Mark Aldridge (2475)" [label=204]
 	"Zarina Greenberg (2476)" -> "Keiran Snape (2473)" [label=382]
+	"Zarina Greenberg (2476)" -> "Paul Coombe (2474)" [label=222]
+	"Paul Coombe (2474)" -> "Keiran Snape (2473)" [label=834]
 }

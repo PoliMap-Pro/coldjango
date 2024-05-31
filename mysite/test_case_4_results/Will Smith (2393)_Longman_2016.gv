@@ -2,39 +2,39 @@
 digraph "Will Smith (2393)_Longman_2016" {
 	graph [label="Longman 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Caleb Wells (2388)" [label="Caleb Wells (2388)
-"]
 	"Rob Law (2392)" [label="Rob Law (2392)
 Independent"]
 	"Brad Kennedy (2389)" [label="Brad Kennedy (2389)
 Katter's Australian Party"]
-	"Stephen Beck (2390)" [label="Stephen Beck (2390)
-The Arts Party"]
-	"Will Smith (2393)" [label="Will Smith (2393)
-Family First"]
-	"Greg Riddell (2391)" [label="Greg Riddell (2391)
-Independent"]
 	"Frances Mcdonald (2384)" [label="Frances Mcdonald (2384)
 Drug Law Reform"]
+	"Caleb Wells (2388)" [label="Caleb Wells (2388)
+"]
+	"Stephen Beck (2390)" [label="Stephen Beck (2390)
+The Arts Party"]
+	"Greg Riddell (2391)" [label="Greg Riddell (2391)
+Independent"]
+	"Will Smith (2393)" [label="Will Smith (2393)
+Family First"]
+	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
 	"Greg Riddell (2391)" -> "Will Smith (2393)" [label=424]
-	"Brad Kennedy (2389)" -> "Frances Mcdonald (2384)" [label=141]
-	"Caleb Wells (2388)" -> "Rob Law (2392)" [label=30]
+	"Greg Riddell (2391)" -> "Frances Mcdonald (2384)" [label=140]
 	"Caleb Wells (2388)" -> "Will Smith (2393)" [label=72]
-	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
-	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
-	"Rob Law (2392)" -> "Will Smith (2393)" [label=117]
-	"Frances Mcdonald (2384)" -> "Will Smith (2393)" [label=479]
-	"Rob Law (2392)" -> "Brad Kennedy (2389)" [label=43]
+	"Stephen Beck (2390)" -> "Brad Kennedy (2389)" [label=6]
+	"Brad Kennedy (2389)" -> "Will Smith (2393)" [label=483]
+	"Stephen Beck (2390)" -> "Will Smith (2393)" [label=21]
+	"Stephen Beck (2390)" -> "Frances Mcdonald (2384)" [label=36]
 	"Stephen Beck (2390)" -> "Rob Law (2392)" [label=15]
+	"Rob Law (2392)" -> "Will Smith (2393)" [label=117]
+	"Stephen Beck (2390)" -> "Greg Riddell (2391)" [label=30]
 	"Stephen Beck (2390)" -> "Caleb Wells (2388)" [label=12]
-	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=37]
 	"Greg Riddell (2391)" -> "Brad Kennedy (2389)" [label=227]
 	"Caleb Wells (2388)" -> "Frances Mcdonald (2384)" [label=26]
 	"Rob Law (2392)" -> "Frances Mcdonald (2384)" [label=50]
-	"Brad Kennedy (2389)" -> "Will Smith (2393)" [label=483]
-	"Stephen Beck (2390)" -> "Brad Kennedy (2389)" [label=6]
-	"Stephen Beck (2390)" -> "Frances Mcdonald (2384)" [label=36]
-	"Stephen Beck (2390)" -> "Will Smith (2393)" [label=21]
-	"Greg Riddell (2391)" -> "Frances Mcdonald (2384)" [label=140]
-	"Caleb Wells (2388)" -> "Greg Riddell (2391)" [label=78]
+	"Caleb Wells (2388)" -> "Brad Kennedy (2389)" [label=37]
+	"Rob Law (2392)" -> "Greg Riddell (2391)" [label=439]
+	"Caleb Wells (2388)" -> "Rob Law (2392)" [label=30]
+	"Frances Mcdonald (2384)" -> "Will Smith (2393)" [label=479]
+	"Rob Law (2392)" -> "Brad Kennedy (2389)" [label=43]
+	"Brad Kennedy (2389)" -> "Frances Mcdonald (2384)" [label=141]
 }

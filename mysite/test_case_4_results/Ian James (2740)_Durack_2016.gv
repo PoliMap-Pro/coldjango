@@ -2,13 +2,13 @@
 digraph "Ian James (2740)_Durack_2016" {
 	graph [label="Durack 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
-Rise Up Australia Party"]
-	"Ian James (2740)" [label="Ian James (2740)
-The Greens (WA)"]
 	"Grahame Gould (1952)" [label="Grahame Gould (1952)
 Australian Christians"]
+	"Ian James (2740)" [label="Ian James (2740)
+The Greens (WA)"]
+	"Mitchell Sambell (2742)" [label="Mitchell Sambell (2742)
+Rise Up Australia Party"]
 	"Grahame Gould (1952)" -> "Ian James (2740)" [label=220]
-	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
 	"Mitchell Sambell (2742)" -> "Ian James (2740)" [label=647]
+	"Grahame Gould (1952)" -> "Mitchell Sambell (2742)" [label=730]
 }

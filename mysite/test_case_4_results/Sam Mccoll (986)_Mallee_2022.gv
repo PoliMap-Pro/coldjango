@@ -2,13 +2,13 @@
 digraph "Sam Mccoll (986)_Mallee_2022" {
 	graph [label="Mallee 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sam Mccoll (986)" [label="Sam Mccoll (986)
-The Greens"]
 	"Claudia Haenel (983)" [label="Claudia Haenel (983)
 Independent"]
 	"Chris Lahy (984)" [label="Chris Lahy (984)
 Citizens Party"]
+	"Sam Mccoll (986)" [label="Sam Mccoll (986)
+The Greens"]
+	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
 	"Chris Lahy (984)" -> "Claudia Haenel (983)" [label=142]
 	"Claudia Haenel (983)" -> "Sam Mccoll (986)" [label=146]
-	"Chris Lahy (984)" -> "Sam Mccoll (986)" [label=65]
 }

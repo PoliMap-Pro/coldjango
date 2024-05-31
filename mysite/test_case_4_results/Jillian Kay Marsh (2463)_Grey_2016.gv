@@ -2,9 +2,9 @@
 digraph "Jillian Kay Marsh (2463)_Grey_2016" {
 	graph [label="Grey 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jillian Kay Marsh (2463)" [label="Jillian Kay Marsh (2463)
-The Greens"]
 	"Phillip Gourlay (2461)" [label="Phillip Gourlay (2461)
 Independent"]
+	"Jillian Kay Marsh (2463)" [label="Jillian Kay Marsh (2463)
+The Greens"]
 	"Phillip Gourlay (2461)" -> "Jillian Kay Marsh (2463)" [label=122]
 }

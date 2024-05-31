@@ -10,10 +10,10 @@ Informed Medical Options Party"]
 Liberal Democrats"]
 	"Pieter Morssink (180)" [label="Pieter Morssink (180)
 The Greens"]
-	"Joseph O'Connor (182)" -> "Pieter Morssink (180)" [label=525]
-	"Gareth Mcclure (184)" -> "Rebekah Ray (185)" [label=180]
-	"Gareth Mcclure (184)" -> "Pieter Morssink (180)" [label=73]
 	"Gareth Mcclure (184)" -> "Joseph O'Connor (182)" [label=431]
+	"Gareth Mcclure (184)" -> "Pieter Morssink (180)" [label=73]
 	"Rebekah Ray (185)" -> "Joseph O'Connor (182)" [label=660]
+	"Gareth Mcclure (184)" -> "Rebekah Ray (185)" [label=180]
+	"Joseph O'Connor (182)" -> "Pieter Morssink (180)" [label=525]
 	"Rebekah Ray (185)" -> "Pieter Morssink (180)" [label=287]
 }

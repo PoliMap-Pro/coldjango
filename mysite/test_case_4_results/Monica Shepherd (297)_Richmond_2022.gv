@@ -2,9 +2,9 @@
 digraph "Monica Shepherd (297)_Richmond_2022" {
 	graph [label="Richmond 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Monica Shepherd (297)" [label="Monica Shepherd (297)
-Informed Medical Options Party"]
 	"Terry Patrick Sharples (295)" [label="Terry Patrick Sharples (295)
 Independent"]
+	"Monica Shepherd (297)" [label="Monica Shepherd (297)
+Informed Medical Options Party"]
 	"Terry Patrick Sharples (295)" -> "Monica Shepherd (297)" [label=101]
 }

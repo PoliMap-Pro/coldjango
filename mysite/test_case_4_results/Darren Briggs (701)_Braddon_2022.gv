@@ -4,29 +4,29 @@ digraph "Darren Briggs (701)_Braddon_2022" {
 	node [shape=box]
 	"Duncan White (709)" [label="Duncan White (709)
 Liberal Democrats"]
-	"Darren Briggs (701)" [label="Darren Briggs (701)
-The Greens"]
-	"Darren Scott Bobbermien (705)" [label="Darren Scott Bobbermien (705)
-United Australia Party"]
 	"Ludo Mineur (700)" [label="Ludo Mineur (700)
 Pauline Hanson's One Nation"]
+	"Darren Briggs (701)" [label="Darren Briggs (701)
+The Greens"]
 	"Keone Patrick Martin (707)" [label="Keone Patrick Martin (707)
 Animal Justice Party"]
 	"Scott Rankin (703)" [label="Scott Rankin (703)
 The Local Party"]
-	"Scott Rankin (703)" -> "Ludo Mineur (700)" [label=41]
-	"Duncan White (709)" -> "Darren Briggs (701)" [label=22]
+	"Darren Scott Bobbermien (705)" [label="Darren Scott Bobbermien (705)
+United Australia Party"]
+	"Keone Patrick Martin (707)" -> "Duncan White (709)" [label=12]
+	"Duncan White (709)" -> "Ludo Mineur (700)" [label=196]
+	"Keone Patrick Martin (707)" -> "Darren Briggs (701)" [label=137]
+	"Scott Rankin (703)" -> "Darren Briggs (701)" [label=125]
+	"Keone Patrick Martin (707)" -> "Darren Scott Bobbermien (705)" [label=18]
+	"Ludo Mineur (700)" -> "Darren Briggs (701)" [label=546]
+	"Keone Patrick Martin (707)" -> "Ludo Mineur (700)" [label=33]
 	"Duncan White (709)" -> "Darren Scott Bobbermien (705)" [label=144]
 	"Scott Rankin (703)" -> "Duncan White (709)" [label=18]
-	"Keone Patrick Martin (707)" -> "Ludo Mineur (700)" [label=33]
-	"Scott Rankin (703)" -> "Darren Briggs (701)" [label=125]
-	"Darren Scott Bobbermien (705)" -> "Darren Briggs (701)" [label=44]
-	"Keone Patrick Martin (707)" -> "Duncan White (709)" [label=12]
 	"Keone Patrick Martin (707)" -> "Scott Rankin (703)" [label=39]
-	"Keone Patrick Martin (707)" -> "Darren Briggs (701)" [label=137]
+	"Duncan White (709)" -> "Darren Briggs (701)" [label=22]
+	"Darren Scott Bobbermien (705)" -> "Darren Briggs (701)" [label=44]
+	"Scott Rankin (703)" -> "Ludo Mineur (700)" [label=41]
 	"Darren Scott Bobbermien (705)" -> "Ludo Mineur (700)" [label=488]
-	"Ludo Mineur (700)" -> "Darren Briggs (701)" [label=546]
-	"Keone Patrick Martin (707)" -> "Darren Scott Bobbermien (705)" [label=18]
 	"Scott Rankin (703)" -> "Darren Scott Bobbermien (705)" [label=46]
-	"Duncan White (709)" -> "Ludo Mineur (700)" [label=196]
 }

@@ -8,7 +8,7 @@ Liberal Democrats"]
 The Greens (WA)"]
 	"Andrew David Chambers (2771)" [label="Andrew David Chambers (2771)
 Online Direct Democracy - (Empowering the People!)"]
-	"Mark Robert Walmsley (2772)" -> "Tim Clifford (2769)" [label=373]
 	"Andrew David Chambers (2771)" -> "Mark Robert Walmsley (2772)" [label=467]
+	"Mark Robert Walmsley (2772)" -> "Tim Clifford (2769)" [label=373]
 	"Andrew David Chambers (2771)" -> "Tim Clifford (2769)" [label=395]
 }

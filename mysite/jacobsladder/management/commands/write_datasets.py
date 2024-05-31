@@ -79,7 +79,7 @@ class Command(BaseCommand):
         Command.add_out_line(
             data_set_id, election, key, out_lines, party,
             "primary_votes", "", seats_bool=False,
-            party_data=party_data)
+            party_data=party_data, name_final="Booth")
         data_set_id += 1
         return data_set_id
 
@@ -123,8 +123,9 @@ class Command(BaseCommand):
         return parties
 
     @staticmethod
-    def add_out_line(data_set_id, election, key, out_lines, party,
-                     tally_attr, seat, seats_bool=False, party_data=""):
+    def add_out_line(
+            data_set_id, election, key, out_lines, party, tally_attr, seat,
+            seats_bool=False, party_data="", name_final="CED"):
         if seat:
             name_string, place_string = f"/{seat}", f" {seat}"
             places_selector = f"{{'name': \\\"{seat}\\\"}}"
@@ -133,11 +134,11 @@ class Command(BaseCommand):
         out_lines.append(f"""
     {{
         "id": {data_set_id},
-        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/{key}{name_string}/CED",
+        "name": "/AEC/Election/{election.election_date.year}/{tally_attr}/{key}{name_string}/{name_final}",
         "display_name": "{tally_attr} {key} (percent)",
         "type": "region",
         "level": "CED",
-        "series_name": "{election.election_date.year} {party.abbreviation}{place_string} {tally_attr}",
+        "series_name": "{election.election_date.year} {party.abbreviation if party.abbreviation else ""}{place_string} {tally_attr}",
         "data": [],
         "source": {{
             "name": "AEC",

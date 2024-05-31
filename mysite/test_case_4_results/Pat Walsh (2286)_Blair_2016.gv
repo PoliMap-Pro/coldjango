@@ -2,24 +2,24 @@
 digraph "Pat Walsh (2286)_Blair_2016" {
 	graph [label="Blair 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jonathan Emms (2284)" [label="Jonathan Emms (2284)
-Independent"]
 	"Pat Walsh (2286)" [label="Pat Walsh (2286)
 The Greens"]
+	"Sandy Turner (2283)" [label="Sandy Turner (2283)
+Independent"]
 	"Patricia Petersen (2285)" [label="Patricia Petersen (2285)
+Independent"]
+	"Jonathan Emms (2284)" [label="Jonathan Emms (2284)
 Independent"]
 	"Geoff Darr (2289)" [label="Geoff Darr (2289)
 Family First"]
-	"Sandy Turner (2283)" [label="Sandy Turner (2283)
-Independent"]
-	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
-	"Sandy Turner (2283)" -> "Pat Walsh (2286)" [label=698]
-	"Patricia Petersen (2285)" -> "Geoff Darr (2289)" [label=74]
-	"Patricia Petersen (2285)" -> "Sandy Turner (2283)" [label=572]
-	"Jonathan Emms (2284)" -> "Geoff Darr (2289)" [label=53]
-	"Jonathan Emms (2284)" -> "Pat Walsh (2286)" [label=53]
 	"Geoff Darr (2289)" -> "Sandy Turner (2283)" [label=437]
 	"Patricia Petersen (2285)" -> "Pat Walsh (2286)" [label=197]
+	"Sandy Turner (2283)" -> "Pat Walsh (2286)" [label=698]
+	"Jonathan Emms (2284)" -> "Patricia Petersen (2285)" [label=106]
 	"Jonathan Emms (2284)" -> "Sandy Turner (2283)" [label=342]
 	"Geoff Darr (2289)" -> "Pat Walsh (2286)" [label=280]
+	"Jonathan Emms (2284)" -> "Geoff Darr (2289)" [label=53]
+	"Jonathan Emms (2284)" -> "Pat Walsh (2286)" [label=53]
+	"Patricia Petersen (2285)" -> "Geoff Darr (2289)" [label=74]
+	"Patricia Petersen (2285)" -> "Sandy Turner (2283)" [label=572]
 }

@@ -4,29 +4,29 @@ digraph "Ben Tilbury (1129)_Fremantle_2022" {
 	node [shape=box]
 	"Yan Loh (1136)" [label="Yan Loh (1136)
 Liberal Democrats"]
-	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
-WESTERN AUSTRALIA PARTY"]
-	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
-Australian Federation Party"]
-	"Ben Tilbury (1129)" [label="Ben Tilbury (1129)
-The Great Australian Party"]
 	"Sam Wainwright (1130)" [label="Sam Wainwright (1130)
 Socialist Alliance"]
 	"Stella Jinman (1133)" [label="Stella Jinman (1133)
 United Australia Party"]
-	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
-	"Janetia Knapp (1137)" -> "Ben Tilbury (1129)" [label=607]
-	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
+	"Cathy Gavranich (1131)" [label="Cathy Gavranich (1131)
+Australian Federation Party"]
+	"Janetia Knapp (1137)" [label="Janetia Knapp (1137)
+WESTERN AUSTRALIA PARTY"]
+	"Ben Tilbury (1129)" [label="Ben Tilbury (1129)
+The Great Australian Party"]
+	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
 	"Sam Wainwright (1130)" -> "Ben Tilbury (1129)" [label=87]
-	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
 	"Cathy Gavranich (1131)" -> "Ben Tilbury (1129)" [label=665]
-	"Stella Jinman (1133)" -> "Ben Tilbury (1129)" [label=313]
-	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
+	"Cathy Gavranich (1131)" -> "Stella Jinman (1133)" [label=140]
+	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
+	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
 	"Stella Jinman (1133)" -> "Janetia Knapp (1137)" [label=204]
 	"Yan Loh (1136)" -> "Ben Tilbury (1129)" [label=64]
-	"Yan Loh (1136)" -> "Janetia Knapp (1137)" [label=171]
-	"Yan Loh (1136)" -> "Cathy Gavranich (1131)" [label=85]
+	"Sam Wainwright (1130)" -> "Stella Jinman (1133)" [label=17]
 	"Yan Loh (1136)" -> "Stella Jinman (1133)" [label=147]
+	"Sam Wainwright (1130)" -> "Janetia Knapp (1137)" [label=46]
+	"Cathy Gavranich (1131)" -> "Janetia Knapp (1137)" [label=129]
+	"Stella Jinman (1133)" -> "Ben Tilbury (1129)" [label=313]
+	"Janetia Knapp (1137)" -> "Ben Tilbury (1129)" [label=607]
 	"Sam Wainwright (1130)" -> "Yan Loh (1136)" [label=12]
-	"Sam Wainwright (1130)" -> "Cathy Gavranich (1131)" [label=58]
 }

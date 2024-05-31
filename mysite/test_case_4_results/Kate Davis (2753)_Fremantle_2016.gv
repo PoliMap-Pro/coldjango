@@ -2,10 +2,10 @@
 digraph "Kate Davis (2753)_Fremantle_2016" {
 	graph [label="Fremantle 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Kate Davis (2753)" [label="Kate Davis (2753)
-The Greens (WA)"]
 	"Mick Connolly (2751)" [label="Mick Connolly (2751)
 Mature Australia"]
+	"Kate Davis (2753)" [label="Kate Davis (2753)
+The Greens (WA)"]
 	"Chris Jenkins (2752)" [label="Chris Jenkins (2752)
 Socialist Alliance"]
 	"Chris Jenkins (2752)" -> "Kate Davis (2753)" [label=559]

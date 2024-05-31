@@ -2,24 +2,24 @@
 digraph "Nathan Harding (2677)_McMillan_2016" {
 	graph [label="McMillan 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
+Australian Christians"]
+	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
+Liberal Democrats"]
+	"Nathan Harding (2677)" [label="Nathan Harding (2677)
+Family First Party"]
 	"Jennifer Mcadam (2676)" [label="Jennifer Mcadam (2676)
 Animal Justice Party"]
 	"Norman Baker (1856)" [label="Norman Baker (1856)
 Rise Up Australia Party"]
-	"Nathan Harding (2677)" [label="Nathan Harding (2677)
-Family First Party"]
-	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
-Liberal Democrats"]
-	"Kathleen Ipsen (2675)" [label="Kathleen Ipsen (2675)
-Australian Christians"]
-	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
 	"Jennifer Mcadam (2676)" -> "Norman Baker (1856)" [label=709]
-	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
-	"Jim Mcdonald (867)" -> "Norman Baker (1856)" [label=251]
-	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
-	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
-	"Jennifer Mcadam (2676)" -> "Nathan Harding (2677)" [label=834]
-	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
 	"Kathleen Ipsen (2675)" -> "Nathan Harding (2677)" [label=874]
+	"Jim Mcdonald (867)" -> "Nathan Harding (2677)" [label=633]
+	"Kathleen Ipsen (2675)" -> "Jennifer Mcadam (2676)" [label=93]
+	"Kathleen Ipsen (2675)" -> "Jim Mcdonald (867)" [label=70]
+	"Jim Mcdonald (867)" -> "Norman Baker (1856)" [label=251]
 	"Norman Baker (1856)" -> "Nathan Harding (2677)" [label=2357]
+	"Jennifer Mcadam (2676)" -> "Nathan Harding (2677)" [label=834]
+	"Kathleen Ipsen (2675)" -> "Norman Baker (1856)" [label=283]
+	"Jim Mcdonald (867)" -> "Jennifer Mcadam (2676)" [label=179]
 }

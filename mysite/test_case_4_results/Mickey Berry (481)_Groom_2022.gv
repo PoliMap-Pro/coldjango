@@ -8,7 +8,7 @@ Australian Federation Party"]
 Queensland Greens"]
 	"Melissa Bannister (482)" [label="Melissa Bannister (482)
 United Australia Party"]
-	"Ryan Otto (479)" -> "Melissa Bannister (482)" [label=262]
-	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
 	"Ryan Otto (479)" -> "Mickey Berry (481)" [label=159]
+	"Melissa Bannister (482)" -> "Mickey Berry (481)" [label=275]
+	"Ryan Otto (479)" -> "Melissa Bannister (482)" [label=262]
 }

@@ -8,7 +8,7 @@ The Greens"]
 Christian Democratic Party (Fred Nile Group)"]
 	"Joaquim De Lima (2100)" [label="Joaquim De Lima (2100)
 Smokers Rights"]
-	"Joaquim De Lima (2100)" -> "Bill Cashman (2098)" [label=288]
-	"Craig Hall (2101)" -> "Bill Cashman (2098)" [label=801]
 	"Joaquim De Lima (2100)" -> "Craig Hall (2101)" [label=381]
+	"Craig Hall (2101)" -> "Bill Cashman (2098)" [label=801]
+	"Joaquim De Lima (2100)" -> "Bill Cashman (2098)" [label=288]
 }

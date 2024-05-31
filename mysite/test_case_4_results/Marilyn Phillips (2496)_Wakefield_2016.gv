@@ -4,16 +4,16 @@ digraph "Marilyn Phillips (2496)_Wakefield_2016" {
 	node [shape=box]
 	"Marilyn Phillips (2496)" [label="Marilyn Phillips (2496)
 Family First"]
-	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
-The Greens"]
 	"John Bolton (2499)" [label="John Bolton (2499)
 Independent"]
 	"Ralph Anderson (2498)" [label="Ralph Anderson (2498)
 Christian Democratic Party (Fred Nile Group)"]
-	"Craig Vanstone (2497)" -> "Marilyn Phillips (2496)" [label=926]
-	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
+	"Craig Vanstone (2497)" [label="Craig Vanstone (2497)
+The Greens"]
 	"Ralph Anderson (2498)" -> "Craig Vanstone (2497)" [label=48]
 	"Ralph Anderson (2498)" -> "Marilyn Phillips (2496)" [label=280]
-	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
 	"John Bolton (2499)" -> "Marilyn Phillips (2496)" [label=772]
+	"Craig Vanstone (2497)" -> "Marilyn Phillips (2496)" [label=926]
+	"John Bolton (2499)" -> "Craig Vanstone (2497)" [label=519]
+	"Ralph Anderson (2498)" -> "John Bolton (2499)" [label=112]
 }

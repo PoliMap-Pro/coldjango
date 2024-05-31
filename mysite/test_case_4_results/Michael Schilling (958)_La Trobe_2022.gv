@@ -2,31 +2,31 @@
 digraph "Michael Schilling (958)_La Trobe_2022" {
 	graph [label="La Trobe 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Helen Jeges (963)" [label="Helen Jeges (963)
-Animal Justice Party"]
-	"Merryn Mott (959)" [label="Merryn Mott (959)
-United Australia Party"]
-	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
-Australian Federation Party"]
-	"Michael Abelman (962)" [label="Michael Abelman (962)
-Liberal Democrats"]
-	"Michael Schilling (958)" [label="Michael Schilling (958)
-The Greens"]
 	"Hadden Ervin (957)" [label="Hadden Ervin (957)
 Pauline Hanson's One Nation"]
-	"Michael Abelman (962)" -> "Merryn Mott (959)" [label=737]
-	"Hadden Ervin (957)" -> "Michael Schilling (958)" [label=571]
-	"Rebecca Skinner (961)" -> "Hadden Ervin (957)" [label=175]
-	"Helen Jeges (963)" -> "Michael Schilling (958)" [label=931]
-	"Helen Jeges (963)" -> "Hadden Ervin (957)" [label=389]
-	"Rebecca Skinner (961)" -> "Michael Schilling (958)" [label=81]
+	"Rebecca Skinner (961)" [label="Rebecca Skinner (961)
+Australian Federation Party"]
+	"Merryn Mott (959)" [label="Merryn Mott (959)
+United Australia Party"]
+	"Michael Schilling (958)" [label="Michael Schilling (958)
+The Greens"]
+	"Michael Abelman (962)" [label="Michael Abelman (962)
+Liberal Democrats"]
+	"Helen Jeges (963)" [label="Helen Jeges (963)
+Animal Justice Party"]
 	"Michael Abelman (962)" -> "Hadden Ervin (957)" [label=613]
+	"Rebecca Skinner (961)" -> "Helen Jeges (963)" [label=151]
 	"Rebecca Skinner (961)" -> "Merryn Mott (959)" [label=118]
+	"Rebecca Skinner (961)" -> "Michael Schilling (958)" [label=81]
+	"Helen Jeges (963)" -> "Hadden Ervin (957)" [label=389]
+	"Michael Abelman (962)" -> "Merryn Mott (959)" [label=737]
 	"Merryn Mott (959)" -> "Michael Schilling (958)" [label=2649]
-	"Michael Abelman (962)" -> "Michael Schilling (958)" [label=78]
+	"Helen Jeges (963)" -> "Michael Schilling (958)" [label=931]
 	"Rebecca Skinner (961)" -> "Michael Abelman (962)" [label=166]
 	"Helen Jeges (963)" -> "Merryn Mott (959)" [label=466]
-	"Michael Abelman (962)" -> "Helen Jeges (963)" [label=173]
+	"Michael Abelman (962)" -> "Michael Schilling (958)" [label=78]
 	"Hadden Ervin (957)" -> "Merryn Mott (959)" [label=3648]
-	"Rebecca Skinner (961)" -> "Helen Jeges (963)" [label=151]
+	"Hadden Ervin (957)" -> "Michael Schilling (958)" [label=571]
+	"Michael Abelman (962)" -> "Helen Jeges (963)" [label=173]
+	"Rebecca Skinner (961)" -> "Hadden Ervin (957)" [label=175]
 }

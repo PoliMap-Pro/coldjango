@@ -4,16 +4,16 @@ digraph "Sandra Bayley (2431)_Ryan_2016" {
 	node [shape=box]
 	"John Lawrence Quinn (2427)" [label="John Lawrence Quinn (2427)
 Democratic Labour Party (DLP)"]
+	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
+The Greens"]
 	"S Gryphon (1607)" [label="S Gryphon (1607)
 Liberal Democrats"]
 	"David Todd (2428)" [label="David Todd (2428)
 Family First"]
-	"Sandra Bayley (2431)" [label="Sandra Bayley (2431)
-The Greens"]
-	"S Gryphon (1607)" -> "Sandra Bayley (2431)" [label=394]
+	"David Todd (2428)" -> "Sandra Bayley (2431)" [label=673]
+	"John Lawrence Quinn (2427)" -> "Sandra Bayley (2431)" [label=240]
+	"John Lawrence Quinn (2427)" -> "David Todd (2428)" [label=455]
 	"S Gryphon (1607)" -> "David Todd (2428)" [label=529]
 	"John Lawrence Quinn (2427)" -> "S Gryphon (1607)" [label=181]
-	"John Lawrence Quinn (2427)" -> "David Todd (2428)" [label=455]
-	"John Lawrence Quinn (2427)" -> "Sandra Bayley (2431)" [label=240]
-	"David Todd (2428)" -> "Sandra Bayley (2431)" [label=673]
+	"S Gryphon (1607)" -> "Sandra Bayley (2431)" [label=394]
 }

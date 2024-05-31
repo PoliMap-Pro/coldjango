@@ -2,39 +2,39 @@
 digraph "Christine Terrantroy (1123)_Forrest_2022" {
 	graph [label="Forrest 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Shane Mezger (1127)" [label="Shane Mezger (1127)
-Pauline Hanson's One Nation"]
-	"Greg Stephens (1124)" [label="Greg Stephens (1124)
-WESTERN AUSTRALIA PARTY"]
-	"Christine Terrantroy (1123)" [label="Christine Terrantroy (1123)
-The Greens (WA)"]
 	"Tracy Nyree Aitken (1125)" [label="Tracy Nyree Aitken (1125)
 The Great Australian Party"]
+	"Greg Stephens (1124)" [label="Greg Stephens (1124)
+WESTERN AUSTRALIA PARTY"]
 	"Paul Markham (1121)" [label="Paul Markham (1121)
 Liberal Democrats"]
-	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
-Australian Federation Party"]
 	"Helen Allan (1120)" [label="Helen Allan (1120)
 United Australia Party"]
-	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
-	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
-	"Shane Mezger (1127)" -> "Christine Terrantroy (1123)" [label=3251]
-	"Tracy Nyree Aitken (1125)" -> "Shane Mezger (1127)" [label=3314]
-	"Helen Allan (1120)" -> "Tracy Nyree Aitken (1125)" [label=692]
-	"Mailee Dunn (1122)" -> "Christine Terrantroy (1123)" [label=135]
-	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
-	"Tracy Nyree Aitken (1125)" -> "Christine Terrantroy (1123)" [label=671]
-	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
+	"Mailee Dunn (1122)" [label="Mailee Dunn (1122)
+Australian Federation Party"]
+	"Shane Mezger (1127)" [label="Shane Mezger (1127)
+Pauline Hanson's One Nation"]
+	"Christine Terrantroy (1123)" [label="Christine Terrantroy (1123)
+The Greens (WA)"]
 	"Mailee Dunn (1122)" -> "Shane Mezger (1127)" [label=140]
-	"Helen Allan (1120)" -> "Christine Terrantroy (1123)" [label=871]
-	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
 	"Mailee Dunn (1122)" -> "Paul Markham (1121)" [label=75]
 	"Greg Stephens (1124)" -> "Shane Mezger (1127)" [label=293]
-	"Mailee Dunn (1122)" -> "Tracy Nyree Aitken (1125)" [label=447]
-	"Paul Markham (1121)" -> "Shane Mezger (1127)" [label=212]
-	"Paul Markham (1121)" -> "Christine Terrantroy (1123)" [label=203]
+	"Mailee Dunn (1122)" -> "Greg Stephens (1124)" [label=131]
 	"Helen Allan (1120)" -> "Shane Mezger (1127)" [label=1127]
-	"Greg Stephens (1124)" -> "Christine Terrantroy (1123)" [label=439]
-	"Greg Stephens (1124)" -> "Helen Allan (1120)" [label=281]
+	"Tracy Nyree Aitken (1125)" -> "Christine Terrantroy (1123)" [label=671]
 	"Greg Stephens (1124)" -> "Tracy Nyree Aitken (1125)" [label=618]
+	"Mailee Dunn (1122)" -> "Christine Terrantroy (1123)" [label=135]
+	"Tracy Nyree Aitken (1125)" -> "Shane Mezger (1127)" [label=3314]
+	"Helen Allan (1120)" -> "Tracy Nyree Aitken (1125)" [label=692]
+	"Helen Allan (1120)" -> "Christine Terrantroy (1123)" [label=871]
+	"Paul Markham (1121)" -> "Greg Stephens (1124)" [label=188]
+	"Paul Markham (1121)" -> "Helen Allan (1120)" [label=336]
+	"Paul Markham (1121)" -> "Shane Mezger (1127)" [label=212]
+	"Mailee Dunn (1122)" -> "Tracy Nyree Aitken (1125)" [label=447]
+	"Shane Mezger (1127)" -> "Christine Terrantroy (1123)" [label=3251]
+	"Mailee Dunn (1122)" -> "Helen Allan (1120)" [label=129]
+	"Greg Stephens (1124)" -> "Helen Allan (1120)" [label=281]
+	"Greg Stephens (1124)" -> "Christine Terrantroy (1123)" [label=439]
+	"Paul Markham (1121)" -> "Christine Terrantroy (1123)" [label=203]
+	"Paul Markham (1121)" -> "Tracy Nyree Aitken (1125)" [label=119]
 }

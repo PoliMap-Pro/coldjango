@@ -9,6 +9,6 @@ Rise Up Australia Party"]
 	"Patrick Hyslop (2755)" [label="Patrick Hyslop (2755)
 The Greens (WA)"]
 	"Phil Twiss (2757)" -> "Henry John Barnard (2758)" [label=1272]
-	"Henry John Barnard (2758)" -> "Patrick Hyslop (2755)" [label=1105]
 	"Phil Twiss (2757)" -> "Patrick Hyslop (2755)" [label=220]
+	"Henry John Barnard (2758)" -> "Patrick Hyslop (2755)" [label=1105]
 }

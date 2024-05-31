@@ -2,18 +2,18 @@
 digraph "Cath Blakey (2075)_Cunningham_2016" {
 	graph [label="Cunningham 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Cath Blakey (2075)" [label="Cath Blakey (2075)
-The Greens"]
-	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
-Christian Democratic Party (Fred Nile Group)"]
 	"John Flanagan (1270)" [label="John Flanagan (1270)
 Non-Custodial Parents Party (Equal Parenting)"]
+	"Michelle Ryan (2078)" [label="Michelle Ryan (2078)
+Christian Democratic Party (Fred Nile Group)"]
+	"Cath Blakey (2075)" [label="Cath Blakey (2075)
+The Greens"]
 	"Nathan Waters (2076)" [label="Nathan Waters (2076)
 Science Party"]
+	"Nathan Waters (2076)" -> "Cath Blakey (2075)" [label=1272]
 	"John Flanagan (1270)" -> "Nathan Waters (2076)" [label=395]
+	"Nathan Waters (2076)" -> "Michelle Ryan (2078)" [label=396]
+	"John Flanagan (1270)" -> "Michelle Ryan (2078)" [label=342]
 	"Michelle Ryan (2078)" -> "Cath Blakey (2075)" [label=683]
 	"John Flanagan (1270)" -> "Cath Blakey (2075)" [label=224]
-	"John Flanagan (1270)" -> "Michelle Ryan (2078)" [label=342]
-	"Nathan Waters (2076)" -> "Cath Blakey (2075)" [label=1272]
-	"Nathan Waters (2076)" -> "Michelle Ryan (2078)" [label=396]
 }

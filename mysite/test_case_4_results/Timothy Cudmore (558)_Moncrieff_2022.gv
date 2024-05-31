@@ -2,9 +2,9 @@
 digraph "Timothy Cudmore (558)_Moncrieff_2022" {
 	graph [label="Moncrieff 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"James Tayler (553)" [label="James Tayler (553)
-Australian Federation Party"]
 	"Timothy Cudmore (558)" [label="Timothy Cudmore (558)
 Informed Medical Options Party"]
+	"James Tayler (553)" [label="James Tayler (553)
+Australian Federation Party"]
 	"James Tayler (553)" -> "Timothy Cudmore (558)" [label=80]
 }

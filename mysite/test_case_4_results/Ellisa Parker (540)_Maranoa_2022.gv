@@ -9,6 +9,6 @@ Australian Federation Party"]
 	"Ellisa Parker (540)" [label="Ellisa Parker (540)
 Queensland Greens"]
 	"Brett James Tunbridge (542)" -> "Malcolm J Richardson (537)" [label=223]
-	"Brett James Tunbridge (542)" -> "Ellisa Parker (540)" [label=105]
 	"Malcolm J Richardson (537)" -> "Ellisa Parker (540)" [label=328]
+	"Brett James Tunbridge (542)" -> "Ellisa Parker (540)" [label=105]
 }

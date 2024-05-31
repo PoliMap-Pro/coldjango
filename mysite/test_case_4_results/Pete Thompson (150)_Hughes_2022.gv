@@ -9,6 +9,6 @@ Independent"]
 	"Pete Thompson (150)" [label="Pete Thompson (150)
 The Greens"]
 	"Linda Seymour (154)" -> "Pete Thompson (150)" [label=337]
-	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
 	"Narelle Seymour (153)" -> "Linda Seymour (154)" [label=343]
+	"Narelle Seymour (153)" -> "Pete Thompson (150)" [label=108]
 }

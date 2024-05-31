@@ -2,13 +2,13 @@
 digraph "James Macdonald (2132)_Kingsford Smith_2016" {
 	graph [label="Kingsford Smith 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Andrea Leong (2134)" [label="Andrea Leong (2134)
-Science Party"]
 	"James Macdonald (2132)" [label="James Macdonald (2132)
 The Greens"]
+	"Andrea Leong (2134)" [label="Andrea Leong (2134)
+Science Party"]
 	"Andrew Weatherstone (2133)" [label="Andrew Weatherstone (2133)
 Christian Democratic Party (Fred Nile Group)"]
-	"Andrew Weatherstone (2133)" -> "James Macdonald (2132)" [label=327]
 	"Andrea Leong (2134)" -> "Andrew Weatherstone (2133)" [label=218]
+	"Andrew Weatherstone (2133)" -> "James Macdonald (2132)" [label=327]
 	"Andrea Leong (2134)" -> "James Macdonald (2132)" [label=934]
 }

@@ -4,16 +4,16 @@ digraph "Matthew Carey (2484)_Port Adelaide_2016" {
 	node [shape=box]
 	"Janine Clipstone (2486)" [label="Janine Clipstone (2486)
 Animal Justice Party"]
-	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
-Family First"]
-	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
-Christian Democratic Party (Fred Nile Group)"]
 	"Matthew Carey (2484)" [label="Matthew Carey (2484)
 The Greens"]
+	"Jenalie Salt (2487)" [label="Jenalie Salt (2487)
+Christian Democratic Party (Fred Nile Group)"]
+	"Bruce Hambour (2485)" [label="Bruce Hambour (2485)
+Family First"]
+	"Jenalie Salt (2487)" -> "Matthew Carey (2484)" [label=61]
+	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
+	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
 	"Bruce Hambour (2485)" -> "Matthew Carey (2484)" [label=1608]
 	"Janine Clipstone (2486)" -> "Matthew Carey (2484)" [label=577]
-	"Jenalie Salt (2487)" -> "Bruce Hambour (2485)" [label=223]
-	"Jenalie Salt (2487)" -> "Matthew Carey (2484)" [label=61]
-	"Janine Clipstone (2486)" -> "Bruce Hambour (2485)" [label=622]
 	"Jenalie Salt (2487)" -> "Janine Clipstone (2486)" [label=100]
 }

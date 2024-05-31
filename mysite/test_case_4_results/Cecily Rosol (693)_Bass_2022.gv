@@ -2,39 +2,39 @@
 digraph "Cecily Rosol (693)_Bass_2022" {
 	graph [label="Bass 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Humble (696)" [label="Stephen Humble (696)
-Liberal Democrats"]
-	"Kyle Squibb (697)" [label="Kyle Squibb (697)
-United Australia Party"]
-	"Bob Salt (692)" [label="Bob Salt (692)
-Jacqui Lambie Network"]
-	"Alison Baker (695)" [label="Alison Baker (695)
-Animal Justice Party"]
-	"Cecily Rosol (693)" [label="Cecily Rosol (693)
-The Greens"]
 	"Melanie Davy (698)" [label="Melanie Davy (698)
 Pauline Hanson's One Nation"]
+	"Kyle Squibb (697)" [label="Kyle Squibb (697)
+United Australia Party"]
+	"Alison Baker (695)" [label="Alison Baker (695)
+Animal Justice Party"]
+	"Stephen Humble (696)" [label="Stephen Humble (696)
+Liberal Democrats"]
+	"Bob Salt (692)" [label="Bob Salt (692)
+Jacqui Lambie Network"]
+	"Cecily Rosol (693)" [label="Cecily Rosol (693)
+The Greens"]
 	"George Razay (691)" [label="George Razay (691)
 Independent"]
-	"George Razay (691)" -> "Cecily Rosol (693)" [label=750]
-	"Stephen Humble (696)" -> "Alison Baker (695)" [label=34]
-	"Alison Baker (695)" -> "Kyle Squibb (697)" [label=70]
-	"Kyle Squibb (697)" -> "George Razay (691)" [label=180]
-	"Stephen Humble (696)" -> "Cecily Rosol (693)" [label=15]
-	"Melanie Davy (698)" -> "Bob Salt (692)" [label=1988]
-	"Alison Baker (695)" -> "Melanie Davy (698)" [label=103]
-	"Kyle Squibb (697)" -> "Bob Salt (692)" [label=205]
-	"Stephen Humble (696)" -> "George Razay (691)" [label=50]
-	"Alison Baker (695)" -> "Cecily Rosol (693)" [label=267]
-	"Melanie Davy (698)" -> "Cecily Rosol (693)" [label=413]
-	"Alison Baker (695)" -> "Bob Salt (692)" [label=137]
-	"George Razay (691)" -> "Melanie Davy (698)" [label=438]
-	"Stephen Humble (696)" -> "Bob Salt (692)" [label=62]
-	"Stephen Humble (696)" -> "Kyle Squibb (697)" [label=125]
 	"Stephen Humble (696)" -> "Melanie Davy (698)" [label=150]
-	"Bob Salt (692)" -> "Cecily Rosol (693)" [label=2478]
-	"Alison Baker (695)" -> "George Razay (691)" [label=157]
+	"Melanie Davy (698)" -> "Bob Salt (692)" [label=1988]
+	"Alison Baker (695)" -> "Bob Salt (692)" [label=137]
+	"Melanie Davy (698)" -> "Cecily Rosol (693)" [label=413]
+	"Alison Baker (695)" -> "Kyle Squibb (697)" [label=70]
+	"Stephen Humble (696)" -> "Alison Baker (695)" [label=34]
+	"Stephen Humble (696)" -> "Kyle Squibb (697)" [label=125]
+	"Stephen Humble (696)" -> "George Razay (691)" [label=50]
 	"Kyle Squibb (697)" -> "Cecily Rosol (693)" [label=53]
-	"George Razay (691)" -> "Bob Salt (692)" [label=1125]
+	"Kyle Squibb (697)" -> "Bob Salt (692)" [label=205]
+	"George Razay (691)" -> "Cecily Rosol (693)" [label=750]
+	"George Razay (691)" -> "Melanie Davy (698)" [label=438]
+	"Alison Baker (695)" -> "Cecily Rosol (693)" [label=267]
+	"Alison Baker (695)" -> "Melanie Davy (698)" [label=103]
 	"Kyle Squibb (697)" -> "Melanie Davy (698)" [label=641]
+	"Bob Salt (692)" -> "Cecily Rosol (693)" [label=2478]
+	"George Razay (691)" -> "Bob Salt (692)" [label=1125]
+	"Stephen Humble (696)" -> "Cecily Rosol (693)" [label=15]
+	"Kyle Squibb (697)" -> "George Razay (691)" [label=180]
+	"Stephen Humble (696)" -> "Bob Salt (692)" [label=62]
+	"Alison Baker (695)" -> "George Razay (691)" [label=157]
 }

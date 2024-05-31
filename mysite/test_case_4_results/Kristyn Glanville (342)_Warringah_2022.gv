@@ -6,14 +6,14 @@ digraph "Kristyn Glanville (342)_Warringah_2022" {
 Animal Justice Party"]
 	"Steven Tripp (339)" [label="Steven Tripp (339)
 Pauline Hanson's One Nation"]
-	"Andrew Colin Robertson (341)" [label="Andrew Colin Robertson (341)
-United Australia Party"]
 	"Kristyn Glanville (342)" [label="Kristyn Glanville (342)
 The Greens"]
-	"Steven Tripp (339)" -> "Andrew Colin Robertson (341)" [label=1261]
-	"Andrew Colin Robertson (341)" -> "Kristyn Glanville (342)" [label=436]
-	"Kate Paterson (345)" -> "Steven Tripp (339)" [label=104]
+	"Andrew Colin Robertson (341)" [label="Andrew Colin Robertson (341)
+United Australia Party"]
 	"Kate Paterson (345)" -> "Andrew Colin Robertson (341)" [label=100]
+	"Kate Paterson (345)" -> "Steven Tripp (339)" [label=104]
+	"Steven Tripp (339)" -> "Andrew Colin Robertson (341)" [label=1261]
 	"Kate Paterson (345)" -> "Kristyn Glanville (342)" [label=452]
 	"Steven Tripp (339)" -> "Kristyn Glanville (342)" [label=97]
+	"Andrew Colin Robertson (341)" -> "Kristyn Glanville (342)" [label=436]
 }

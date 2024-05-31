@@ -2,9 +2,9 @@
 digraph "Rohan Salins (2114)_Greenway_2016" {
 	graph [label="Greenway 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Rohan Salins (2114)" [label="Rohan Salins (2114)
-Family First"]
 	"Vivek Singha (218)" [label="Vivek Singha (218)
 Science Party"]
+	"Rohan Salins (2114)" [label="Rohan Salins (2114)
+Family First"]
 	"Vivek Singha (218)" -> "Rohan Salins (2114)" [label=130]
 }

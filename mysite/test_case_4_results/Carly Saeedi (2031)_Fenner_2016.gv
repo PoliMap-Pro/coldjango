@@ -2,13 +2,13 @@
 digraph "Carly Saeedi (2031)_Fenner_2016" {
 	graph [label="Fenner 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Carly Saeedi (2031)" [label="Carly Saeedi (2031)
-The Greens"]
-	"Tim Bohm (10)" [label="Tim Bohm (10)
-Bullet Train For Australia"]
 	"Andrew Woodman (2029)" [label="Andrew Woodman (2029)
 Independent"]
+	"Tim Bohm (10)" [label="Tim Bohm (10)
+Bullet Train For Australia"]
+	"Carly Saeedi (2031)" [label="Carly Saeedi (2031)
+The Greens"]
 	"Tim Bohm (10)" -> "Andrew Woodman (2029)" [label=1324]
-	"Tim Bohm (10)" -> "Carly Saeedi (2031)" [label=1177]
 	"Andrew Woodman (2029)" -> "Carly Saeedi (2031)" [label=2116]
+	"Tim Bohm (10)" -> "Carly Saeedi (2031)" [label=1177]
 }

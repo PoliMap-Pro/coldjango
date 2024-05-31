@@ -2,24 +2,24 @@
 digraph "Sarah Mansfield (2581)_Corio_2016" {
 	graph [label="Corio 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Sue Bull (810)" [label="Sue Bull (810)
-Socialist Alliance"]
-	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
-The Greens"]
-	"Jeff Moran (2579)" [label="Jeff Moran (2579)
-Bullet Train For Australia"]
-	"Jamie Overend (2580)" [label="Jamie Overend (2580)
-Animal Justice Party"]
 	"Ash Puvimanasinghe (1842)" [label="Ash Puvimanasinghe (1842)
 Rise Up Australia Party"]
-	"Jeff Moran (2579)" -> "Sarah Mansfield (2581)" [label=168]
+	"Jamie Overend (2580)" [label="Jamie Overend (2580)
+Animal Justice Party"]
+	"Sue Bull (810)" [label="Sue Bull (810)
+Socialist Alliance"]
+	"Jeff Moran (2579)" [label="Jeff Moran (2579)
+Bullet Train For Australia"]
+	"Sarah Mansfield (2581)" [label="Sarah Mansfield (2581)
+The Greens"]
+	"Ash Puvimanasinghe (1842)" -> "Jamie Overend (2580)" [label=891]
+	"Jamie Overend (2580)" -> "Sarah Mansfield (2581)" [label=2262]
+	"Sue Bull (810)" -> "Sarah Mansfield (2581)" [label=342]
+	"Jeff Moran (2579)" -> "Jamie Overend (2580)" [label=377]
 	"Sue Bull (810)" -> "Jamie Overend (2580)" [label=142]
 	"Ash Puvimanasinghe (1842)" -> "Sarah Mansfield (2581)" [label=168]
-	"Jeff Moran (2579)" -> "Jamie Overend (2580)" [label=377]
-	"Ash Puvimanasinghe (1842)" -> "Jamie Overend (2580)" [label=891]
 	"Sue Bull (810)" -> "Ash Puvimanasinghe (1842)" [label=179]
 	"Jeff Moran (2579)" -> "Ash Puvimanasinghe (1842)" [label=264]
 	"Sue Bull (810)" -> "Jeff Moran (2579)" [label=78]
-	"Sue Bull (810)" -> "Sarah Mansfield (2581)" [label=342]
-	"Jamie Overend (2580)" -> "Sarah Mansfield (2581)" [label=2262]
+	"Jeff Moran (2579)" -> "Sarah Mansfield (2581)" [label=168]
 }

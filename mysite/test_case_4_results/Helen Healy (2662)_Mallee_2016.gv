@@ -2,13 +2,13 @@
 digraph "Helen Healy (2662)_Mallee_2016" {
 	graph [label="Mallee 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Chris Lahy (984)" [label="Chris Lahy (984)
-Citizens Electoral Council"]
 	"Tim Middleton (2661)" [label="Tim Middleton (2661)
 Rise Up Australia Party"]
 	"Helen Healy (2662)" [label="Helen Healy (2662)
 The Greens"]
+	"Chris Lahy (984)" [label="Chris Lahy (984)
+Citizens Electoral Council"]
 	"Chris Lahy (984)" -> "Tim Middleton (2661)" [label=605]
-	"Chris Lahy (984)" -> "Helen Healy (2662)" [label=163]
 	"Tim Middleton (2661)" -> "Helen Healy (2662)" [label=1113]
+	"Chris Lahy (984)" -> "Helen Healy (2662)" [label=163]
 }

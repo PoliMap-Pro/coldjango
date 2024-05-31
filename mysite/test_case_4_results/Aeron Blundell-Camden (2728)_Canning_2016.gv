@@ -2,13 +2,13 @@
 digraph "Aeron Blundell-Camden (2728)_Canning_2016" {
 	graph [label="Canning 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jason Turner (2727)" [label="Jason Turner (2727)
-The Nationals"]
-	"Aeron Blundell-Camden (2728)" [label="Aeron Blundell-Camden (2728)
-The Greens (WA)"]
 	"Janine Joy Vander Ven (1924)" [label="Janine Joy Vander Ven (1924)
 Australian Christians"]
-	"Jason Turner (2727)" -> "Aeron Blundell-Camden (2728)" [label=1662]
-	"Janine Joy Vander Ven (1924)" -> "Aeron Blundell-Camden (2728)" [label=381]
+	"Aeron Blundell-Camden (2728)" [label="Aeron Blundell-Camden (2728)
+The Greens (WA)"]
+	"Jason Turner (2727)" [label="Jason Turner (2727)
+The Nationals"]
 	"Janine Joy Vander Ven (1924)" -> "Jason Turner (2727)" [label=764]
+	"Janine Joy Vander Ven (1924)" -> "Aeron Blundell-Camden (2728)" [label=381]
+	"Jason Turner (2727)" -> "Aeron Blundell-Camden (2728)" [label=1662]
 }

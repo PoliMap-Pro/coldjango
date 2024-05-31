@@ -2,12 +2,12 @@
 digraph "Heather Barnett (2340)_Flynn_2016" {
 	graph [label="Flynn 2016" labelloc=t mclimit=10]
 	node [shape=box]
+	"Duncan Scott (462)" [label="Duncan Scott (462)
+Independent"]
 	"Jordan Ryan Puku (2339)" [label="Jordan Ryan Puku (2339)
 Independent"]
 	"Heather Barnett (2340)" [label="Heather Barnett (2340)
 Family First"]
-	"Duncan Scott (462)" [label="Duncan Scott (462)
-Independent"]
 	"Jordan Ryan Puku (2339)" -> "Heather Barnett (2340)" [label=35]
 	"Jordan Ryan Puku (2339)" -> "Duncan Scott (462)" [label=180]
 	"Duncan Scott (462)" -> "Heather Barnett (2340)" [label=95]
