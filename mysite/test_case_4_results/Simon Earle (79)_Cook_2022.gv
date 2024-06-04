@@ -2,18 +2,18 @@
 digraph "Simon Earle (79)_Cook_2022" {
 	graph [label="Cook 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Jacqueline Guinane (78)" [label="Jacqueline Guinane (78)
+United Australia Party"]
 	"Gaye Cameron (75)" [label="Gaye Cameron (75)
 Pauline Hanson's One Nation"]
 	"Simon Earle (79)" [label="Simon Earle (79)
 Labor"]
-	"Jacqueline Guinane (78)" [label="Jacqueline Guinane (78)
-United Australia Party"]
 	"Catherine Dyson (76)" [label="Catherine Dyson (76)
 The Greens"]
-	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
-	"Catherine Dyson (76)" -> "Simon Earle (79)" [label=9457]
-	"Jacqueline Guinane (78)" -> "Catherine Dyson (76)" [label=478]
 	"Gaye Cameron (75)" -> "Catherine Dyson (76)" [label=2217]
+	"Catherine Dyson (76)" -> "Simon Earle (79)" [label=9457]
+	"Jacqueline Guinane (78)" -> "Gaye Cameron (75)" [label=2767]
 	"Jacqueline Guinane (78)" -> "Simon Earle (79)" [label=437]
 	"Gaye Cameron (75)" -> "Simon Earle (79)" [label=2399]
+	"Jacqueline Guinane (78)" -> "Catherine Dyson (76)" [label=478]
 }

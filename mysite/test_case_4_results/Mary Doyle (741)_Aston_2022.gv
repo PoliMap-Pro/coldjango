@@ -2,31 +2,31 @@
 digraph "Mary Doyle (741)_Aston_2022" {
 	graph [label="Aston 2022" labelloc=t mclimit=10]
 	node [shape=box]
+	"Liam Roche (740)" [label="Liam Roche (740)
+Liberal Democrats"]
+	"Craig Ibbotson (739)" [label="Craig Ibbotson (739)
+Pauline Hanson's One Nation"]
 	"Rebekah Jane Spelman (735)" [label="Rebekah Jane Spelman (735)
 United Australia Party"]
 	"Asher Cookson (737)" [label="Asher Cookson (737)
 The Greens"]
-	"Liam Roche (740)" [label="Liam Roche (740)
-Liberal Democrats"]
 	"Ryan Bruce (738)" [label="Ryan Bruce (738)
 TNL"]
-	"Craig Ibbotson (739)" [label="Craig Ibbotson (739)
-Pauline Hanson's One Nation"]
 	"Mary Doyle (741)" [label="Mary Doyle (741)
 Australian Labor Party"]
-	"Ryan Bruce (738)" -> "Asher Cookson (737)" [label=366]
-	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
-	"Ryan Bruce (738)" -> "Rebekah Jane Spelman (735)" [label=91]
-	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
 	"Craig Ibbotson (739)" -> "Rebekah Jane Spelman (735)" [label=2429]
-	"Liam Roche (740)" -> "Asher Cookson (737)" [label=198]
-	"Ryan Bruce (738)" -> "Mary Doyle (741)" [label=158]
+	"Ryan Bruce (738)" -> "Liam Roche (740)" [label=133]
 	"Craig Ibbotson (739)" -> "Mary Doyle (741)" [label=375]
 	"Liam Roche (740)" -> "Craig Ibbotson (739)" [label=589]
-	"Rebekah Jane Spelman (735)" -> "Mary Doyle (741)" [label=1662]
-	"Ryan Bruce (738)" -> "Craig Ibbotson (739)" [label=103]
-	"Liam Roche (740)" -> "Mary Doyle (741)" [label=270]
 	"Craig Ibbotson (739)" -> "Asher Cookson (737)" [label=407]
 	"Asher Cookson (737)" -> "Mary Doyle (741)" [label=11906]
+	"Ryan Bruce (738)" -> "Asher Cookson (737)" [label=366]
+	"Liam Roche (740)" -> "Asher Cookson (737)" [label=198]
+	"Liam Roche (740)" -> "Mary Doyle (741)" [label=270]
+	"Ryan Bruce (738)" -> "Craig Ibbotson (739)" [label=103]
+	"Ryan Bruce (738)" -> "Rebekah Jane Spelman (735)" [label=91]
+	"Ryan Bruce (738)" -> "Mary Doyle (741)" [label=158]
+	"Liam Roche (740)" -> "Rebekah Jane Spelman (735)" [label=674]
+	"Rebekah Jane Spelman (735)" -> "Mary Doyle (741)" [label=1662]
 	"Rebekah Jane Spelman (735)" -> "Asher Cookson (737)" [label=2217]
 }

@@ -2,31 +2,31 @@
 digraph "Caitlin Evans (2544)_Batman_2016" {
 	graph [label="Batman 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Geoffrey Cicuto (2541)" [label="Geoffrey Cicuto (2541)
-Australian Cyclists Party"]
-	"Elizabeth Syber (2546)" [label="Elizabeth Syber (2546)
-Marriage Equality"]
-	"Russell Hayward (2540)" [label="Russell Hayward (2540)
-Australian Progressives"]
-	"Franco Guardiani (2545)" [label="Franco Guardiani (2545)
-Independent"]
 	"Caitlin Evans (2544)" [label="Caitlin Evans (2544)
 Animal Justice Party"]
+	"Geoffrey Cicuto (2541)" [label="Geoffrey Cicuto (2541)
+Australian Cyclists Party"]
+	"Russell Hayward (2540)" [label="Russell Hayward (2540)
+Australian Progressives"]
+	"Elizabeth Syber (2546)" [label="Elizabeth Syber (2546)
+Marriage Equality"]
 	"Maurice Oldis (2537)" [label="Maurice Oldis (2537)
 Renewable Energy Party"]
-	"Geoffrey Cicuto (2541)" -> "Elizabeth Syber (2546)" [label=15]
-	"Russell Hayward (2540)" -> "Maurice Oldis (2537)" [label=27]
-	"Franco Guardiani (2545)" -> "Elizabeth Syber (2546)" [label=49]
-	"Franco Guardiani (2545)" -> "Maurice Oldis (2537)" [label=25]
-	"Geoffrey Cicuto (2541)" -> "Caitlin Evans (2544)" [label=29]
-	"Russell Hayward (2540)" -> "Elizabeth Syber (2546)" [label=8]
-	"Maurice Oldis (2537)" -> "Caitlin Evans (2544)" [label=101]
-	"Maurice Oldis (2537)" -> "Elizabeth Syber (2546)" [label=51]
-	"Russell Hayward (2540)" -> "Franco Guardiani (2545)" [label=7]
-	"Elizabeth Syber (2546)" -> "Caitlin Evans (2544)" [label=252]
+	"Franco Guardiani (2545)" [label="Franco Guardiani (2545)
+Independent"]
 	"Franco Guardiani (2545)" -> "Caitlin Evans (2544)" [label=42]
 	"Geoffrey Cicuto (2541)" -> "Franco Guardiani (2545)" [label=17]
-	"Russell Hayward (2540)" -> "Geoffrey Cicuto (2541)" [label=35]
-	"Geoffrey Cicuto (2541)" -> "Maurice Oldis (2537)" [label=44]
+	"Russell Hayward (2540)" -> "Franco Guardiani (2545)" [label=7]
+	"Geoffrey Cicuto (2541)" -> "Caitlin Evans (2544)" [label=29]
+	"Maurice Oldis (2537)" -> "Caitlin Evans (2544)" [label=101]
 	"Russell Hayward (2540)" -> "Caitlin Evans (2544)" [label=9]
+	"Russell Hayward (2540)" -> "Maurice Oldis (2537)" [label=27]
+	"Franco Guardiani (2545)" -> "Maurice Oldis (2537)" [label=25]
+	"Maurice Oldis (2537)" -> "Elizabeth Syber (2546)" [label=51]
+	"Geoffrey Cicuto (2541)" -> "Maurice Oldis (2537)" [label=44]
+	"Elizabeth Syber (2546)" -> "Caitlin Evans (2544)" [label=252]
+	"Franco Guardiani (2545)" -> "Elizabeth Syber (2546)" [label=49]
+	"Russell Hayward (2540)" -> "Elizabeth Syber (2546)" [label=8]
+	"Russell Hayward (2540)" -> "Geoffrey Cicuto (2541)" [label=35]
+	"Geoffrey Cicuto (2541)" -> "Elizabeth Syber (2546)" [label=15]
 }

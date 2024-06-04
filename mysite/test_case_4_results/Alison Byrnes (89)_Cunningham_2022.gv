@@ -4,29 +4,29 @@ digraph "Alison Byrnes (89)_Cunningham_2022" {
 	node [shape=box]
 	"Ben Britton (88)" [label="Ben Britton (88)
 United Australia Party"]
-	"Alexis Garnaut-Miller (90)" [label="Alexis Garnaut-Miller (90)
-Citizens Party"]
-	"Michael Glover (92)" [label="Michael Glover (92)
-Liberal Democrats"]
 	"Dylan Green (91)" [label="Dylan Green (91)
 The Greens"]
+	"Michael Glover (92)" [label="Michael Glover (92)
+Liberal Democrats"]
 	"Alison Byrnes (89)" [label="Alison Byrnes (89)
 Labor"]
 	"Thomas Grogan (93)" [label="Thomas Grogan (93)
 Pauline Hanson's One Nation"]
-	"Ben Britton (88)" -> "Alison Byrnes (89)" [label=838]
-	"Ben Britton (88)" -> "Dylan Green (91)" [label=596]
-	"Ben Britton (88)" -> "Thomas Grogan (93)" [label=3235]
+	"Alexis Garnaut-Miller (90)" [label="Alexis Garnaut-Miller (90)
+Citizens Party"]
 	"Alexis Garnaut-Miller (90)" -> "Dylan Green (91)" [label=292]
+	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
+	"Alexis Garnaut-Miller (90)" -> "Alison Byrnes (89)" [label=183]
+	"Ben Britton (88)" -> "Thomas Grogan (93)" [label=3235]
+	"Michael Glover (92)" -> "Thomas Grogan (93)" [label=419]
+	"Ben Britton (88)" -> "Dylan Green (91)" [label=596]
+	"Alexis Garnaut-Miller (90)" -> "Thomas Grogan (93)" [label=173]
 	"Thomas Grogan (93)" -> "Alison Byrnes (89)" [label=1925]
-	"Michael Glover (92)" -> "Alison Byrnes (89)" [label=264]
 	"Michael Glover (92)" -> "Dylan Green (91)" [label=252]
 	"Thomas Grogan (93)" -> "Dylan Green (91)" [label=2279]
-	"Michael Glover (92)" -> "Thomas Grogan (93)" [label=419]
-	"Alexis Garnaut-Miller (90)" -> "Thomas Grogan (93)" [label=173]
+	"Michael Glover (92)" -> "Alison Byrnes (89)" [label=264]
 	"Alexis Garnaut-Miller (90)" -> "Michael Glover (92)" [label=116]
-	"Alexis Garnaut-Miller (90)" -> "Alison Byrnes (89)" [label=183]
 	"Dylan Green (91)" -> "Alison Byrnes (89)" [label=21790]
+	"Ben Britton (88)" -> "Alison Byrnes (89)" [label=838]
 	"Alexis Garnaut-Miller (90)" -> "Ben Britton (88)" [label=242]
-	"Michael Glover (92)" -> "Ben Britton (88)" [label=460]
 }

@@ -2,9 +2,9 @@
 digraph "Anna Clare Ludvik (2191)_Page_2016" {
 	graph [label="Page 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Bethany Rachael Mcalpine (2193)" [label="Bethany Rachael Mcalpine (2193)
-Christian Democratic Party (Fred Nile Group)"]
 	"Anna Clare Ludvik (2191)" [label="Anna Clare Ludvik (2191)
 Animal Justice Party"]
+	"Bethany Rachael Mcalpine (2193)" [label="Bethany Rachael Mcalpine (2193)
+Christian Democratic Party (Fred Nile Group)"]
 	"Bethany Rachael Mcalpine (2193)" -> "Anna Clare Ludvik (2191)" [label=358]
 }

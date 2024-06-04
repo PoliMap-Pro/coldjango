@@ -10,6 +10,14 @@ class Command(BaseCommand):
     def handle(self, *arguments, **keywordarguments):
         pprint.pp(endpoints.getHouseAttribute(
             {'election_date__year': 2022},
+            {'abbreviation__in': ['ALP'],},
+            {'name': 'Wannon'},
+            tally_attribute="postal_votes"
+        ))
+        exit()
+
+        pprint.pp(endpoints.getHouseAttribute(
+            {'election_date__year': 2022},
             {'abbreviation__in': ('GRN', 'GVIC')},
             {'name': 'Wills'},
             tally_attribute="absent_votes"

@@ -8,7 +8,7 @@ Independent"]
 Animal Justice Party"]
 	"Angela Dorian (2565)" [label="Angela Dorian (2565)
 Rise Up Australia Party"]
-	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
 	"Peter Charleton (1748)" -> "Kristin Bacon (2563)" [label=1216]
+	"Angela Dorian (2565)" -> "Kristin Bacon (2563)" [label=418]
 	"Angela Dorian (2565)" -> "Peter Charleton (1748)" [label=910]
 }

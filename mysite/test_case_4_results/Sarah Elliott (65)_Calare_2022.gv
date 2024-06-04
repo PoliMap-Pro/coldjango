@@ -10,10 +10,10 @@ The Greens"]
 United Australia Party"]
 	"Stacey Whittaker (63)" [label="Stacey Whittaker (63)
 Pauline Hanson's One Nation"]
-	"Adam John Jannis (67)" -> "Kay Nankervis (64)" [label=153]
-	"Adam John Jannis (67)" -> "Sarah Elliott (65)" [label=311]
 	"Kay Nankervis (64)" -> "Sarah Elliott (65)" [label=1886]
-	"Kay Nankervis (64)" -> "Stacey Whittaker (63)" [label=332]
 	"Stacey Whittaker (63)" -> "Sarah Elliott (65)" [label=1446]
+	"Adam John Jannis (67)" -> "Sarah Elliott (65)" [label=311]
 	"Adam John Jannis (67)" -> "Stacey Whittaker (63)" [label=2055]
+	"Adam John Jannis (67)" -> "Kay Nankervis (64)" [label=153]
+	"Kay Nankervis (64)" -> "Stacey Whittaker (63)" [label=332]
 }

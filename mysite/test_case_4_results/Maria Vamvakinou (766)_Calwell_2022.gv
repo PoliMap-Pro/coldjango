@@ -2,31 +2,31 @@
 digraph "Maria Vamvakinou (766)_Calwell_2022" {
 	graph [label="Calwell 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jerome Small (768)" [label="Jerome Small (768)
-Victorian Socialists"]
-	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
-Australian Federation Party"]
-	"Maria Vamvakinou (766)" [label="Maria Vamvakinou (766)
-Australian Labor Party"]
 	"Natalie Abboud (765)" [label="Natalie Abboud (765)
 The Greens"]
 	"Joshua Naim (767)" [label="Joshua Naim (767)
 United Australia Party"]
 	"Mark Preston (763)" [label="Mark Preston (763)
 Pauline Hanson's One Nation"]
-	"Maria Bengtsson (769)" -> "Jerome Small (768)" [label=377]
-	"Mark Preston (763)" -> "Maria Vamvakinou (766)" [label=790]
+	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
+Australian Federation Party"]
+	"Jerome Small (768)" [label="Jerome Small (768)
+Victorian Socialists"]
+	"Maria Vamvakinou (766)" [label="Maria Vamvakinou (766)
+Australian Labor Party"]
+	"Natalie Abboud (765)" -> "Joshua Naim (767)" [label=1879]
+	"Jerome Small (768)" -> "Joshua Naim (767)" [label=832]
 	"Joshua Naim (767)" -> "Maria Vamvakinou (766)" [label=6008]
-	"Jerome Small (768)" -> "Maria Vamvakinou (766)" [label=821]
+	"Mark Preston (763)" -> "Joshua Naim (767)" [label=2944]
+	"Maria Bengtsson (769)" -> "Maria Vamvakinou (766)" [label=162]
+	"Jerome Small (768)" -> "Natalie Abboud (765)" [label=1542]
+	"Jerome Small (768)" -> "Mark Preston (763)" [label=323]
+	"Mark Preston (763)" -> "Maria Vamvakinou (766)" [label=790]
+	"Mark Preston (763)" -> "Natalie Abboud (765)" [label=860]
+	"Maria Bengtsson (769)" -> "Jerome Small (768)" [label=377]
+	"Maria Bengtsson (769)" -> "Mark Preston (763)" [label=336]
 	"Natalie Abboud (765)" -> "Maria Vamvakinou (766)" [label=7124]
 	"Maria Bengtsson (769)" -> "Joshua Naim (767)" [label=373]
-	"Jerome Small (768)" -> "Natalie Abboud (765)" [label=1542]
-	"Mark Preston (763)" -> "Natalie Abboud (765)" [label=860]
-	"Natalie Abboud (765)" -> "Joshua Naim (767)" [label=1879]
+	"Jerome Small (768)" -> "Maria Vamvakinou (766)" [label=821]
 	"Maria Bengtsson (769)" -> "Natalie Abboud (765)" [label=136]
-	"Maria Bengtsson (769)" -> "Maria Vamvakinou (766)" [label=162]
-	"Mark Preston (763)" -> "Joshua Naim (767)" [label=2944]
-	"Jerome Small (768)" -> "Mark Preston (763)" [label=323]
-	"Jerome Small (768)" -> "Joshua Naim (767)" [label=832]
-	"Maria Bengtsson (769)" -> "Mark Preston (763)" [label=336]
 }

@@ -2,13 +2,13 @@
 digraph "Rosemary Lavin (1760)_Aston_2016" {
 	graph [label="Aston 2016" labelloc=t mclimit=10]
 	node [shape=box]
-	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
-Independent"]
 	"Rosemary Lavin (1760)" [label="Rosemary Lavin (1760)
 Animal Justice Party"]
 	"Joel Moore (2527)" [label="Joel Moore (2527)
 Liberal Democrats"]
+	"Daniel Huppert (2526)" [label="Daniel Huppert (2526)
+Independent"]
+	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
 	"Joel Moore (2527)" -> "Rosemary Lavin (1760)" [label=100]
 	"Joel Moore (2527)" -> "Daniel Huppert (2526)" [label=193]
-	"Daniel Huppert (2526)" -> "Rosemary Lavin (1760)" [label=428]
 }

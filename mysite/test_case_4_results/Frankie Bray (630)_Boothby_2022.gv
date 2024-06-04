@@ -2,12 +2,12 @@
 digraph "Frankie Bray (630)_Boothby_2022" {
 	graph [label="Boothby 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Peter Harris (627)" [label="Peter Harris (627)
-Australian Federation Party"]
 	"Frankie Bray (630)" [label="Frankie Bray (630)
 Animal Justice Party"]
 	"Paul Busuttil (629)" [label="Paul Busuttil (629)
 Independent"]
+	"Peter Harris (627)" [label="Peter Harris (627)
+Australian Federation Party"]
 	"Paul Busuttil (629)" -> "Frankie Bray (630)" [label=69]
 	"Peter Harris (627)" -> "Frankie Bray (630)" [label=17]
 	"Peter Harris (627)" -> "Paul Busuttil (629)" [label=58]

@@ -2,31 +2,31 @@
 digraph "Zhi Soon (26)_Banks_2022" {
 	graph [label="Banks 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
-Liberal Democrats"]
-	"Natalie Hanna (23)" [label="Natalie Hanna (23)
-The Greens"]
 	"Marika Momircevski (22)" [label="Marika Momircevski (22)
 United Australia Party"]
-	"Zhi Soon (26)" [label="Zhi Soon (26)
-Labor"]
 	"Malcolm Phillip Heffernan (25)" [label="Malcolm Phillip Heffernan (25)
 Pauline Hanson's One Nation"]
 	"Steve Khouw (24)" [label="Steve Khouw (24)
 "]
-	"Elouise Ivy Cocker (21)" -> "Zhi Soon (26)" [label=116]
-	"Marika Momircevski (22)" -> "Zhi Soon (26)" [label=1889]
-	"Elouise Ivy Cocker (21)" -> "Marika Momircevski (22)" [label=558]
-	"Steve Khouw (24)" -> "Marika Momircevski (22)" [label=118]
-	"Marika Momircevski (22)" -> "Natalie Hanna (23)" [label=1683]
+	"Natalie Hanna (23)" [label="Natalie Hanna (23)
+The Greens"]
+	"Elouise Ivy Cocker (21)" [label="Elouise Ivy Cocker (21)
+Liberal Democrats"]
+	"Zhi Soon (26)" [label="Zhi Soon (26)
+Labor"]
+	"Malcolm Phillip Heffernan (25)" -> "Zhi Soon (26)" [label=366]
 	"Elouise Ivy Cocker (21)" -> "Malcolm Phillip Heffernan (25)" [label=201]
 	"Natalie Hanna (23)" -> "Zhi Soon (26)" [label=8027]
-	"Steve Khouw (24)" -> "Natalie Hanna (23)" [label=231]
-	"Steve Khouw (24)" -> "Zhi Soon (26)" [label=219]
-	"Elouise Ivy Cocker (21)" -> "Natalie Hanna (23)" [label=92]
-	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
-	"Malcolm Phillip Heffernan (25)" -> "Zhi Soon (26)" [label=366]
+	"Elouise Ivy Cocker (21)" -> "Zhi Soon (26)" [label=116]
+	"Marika Momircevski (22)" -> "Zhi Soon (26)" [label=1889]
 	"Steve Khouw (24)" -> "Malcolm Phillip Heffernan (25)" [label=114]
 	"Steve Khouw (24)" -> "Elouise Ivy Cocker (21)" [label=147]
 	"Malcolm Phillip Heffernan (25)" -> "Natalie Hanna (23)" [label=249]
+	"Marika Momircevski (22)" -> "Natalie Hanna (23)" [label=1683]
+	"Steve Khouw (24)" -> "Natalie Hanna (23)" [label=231]
+	"Malcolm Phillip Heffernan (25)" -> "Marika Momircevski (22)" [label=1806]
+	"Steve Khouw (24)" -> "Marika Momircevski (22)" [label=118]
+	"Steve Khouw (24)" -> "Zhi Soon (26)" [label=219]
+	"Elouise Ivy Cocker (21)" -> "Marika Momircevski (22)" [label=558]
+	"Elouise Ivy Cocker (21)" -> "Natalie Hanna (23)" [label=92]
 }

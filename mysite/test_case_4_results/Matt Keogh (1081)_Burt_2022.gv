@@ -2,39 +2,39 @@
 digraph "Matt Keogh (1081)_Burt_2022" {
 	graph [label="Burt 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
-WESTERN AUSTRALIA PARTY"]
-	"Matt Keogh (1081)" [label="Matt Keogh (1081)
-Australian Labor Party"]
-	"Michele Castle (1074)" [label="Michele Castle (1074)
-Australian Federation Party"]
-	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
-Australian Christians"]
 	"Travis Carter (1075)" [label="Travis Carter (1075)
 Pauline Hanson's One Nation"]
 	"Joshua Mccurry (1076)" [label="Joshua Mccurry (1076)
 United Australia Party"]
+	"Warnar Spyker (1080)" [label="Warnar Spyker (1080)
+Australian Christians"]
+	"Michele Castle (1074)" [label="Michele Castle (1074)
+Australian Federation Party"]
+	"Matt Keogh (1081)" [label="Matt Keogh (1081)
+Australian Labor Party"]
+	"Stephen Phelan (1078)" [label="Stephen Phelan (1078)
+WESTERN AUSTRALIA PARTY"]
 	"Daniel Garlett (1077)" [label="Daniel Garlett (1077)
 The Greens (WA)"]
-	"Travis Carter (1075)" -> "Matt Keogh (1081)" [label=1569]
-	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
-	"Stephen Phelan (1078)" -> "Matt Keogh (1081)" [label=700]
-	"Michele Castle (1074)" -> "Daniel Garlett (1077)" [label=125]
 	"Stephen Phelan (1078)" -> "Warnar Spyker (1080)" [label=337]
-	"Joshua Mccurry (1076)" -> "Matt Keogh (1081)" [label=158]
-	"Warnar Spyker (1080)" -> "Matt Keogh (1081)" [label=641]
-	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
-	"Daniel Garlett (1077)" -> "Matt Keogh (1081)" [label=9236]
-	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
-	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
-	"Michele Castle (1074)" -> "Matt Keogh (1081)" [label=132]
-	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
-	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
+	"Michele Castle (1074)" -> "Daniel Garlett (1077)" [label=125]
+	"Stephen Phelan (1078)" -> "Matt Keogh (1081)" [label=700]
 	"Michele Castle (1074)" -> "Stephen Phelan (1078)" [label=190]
 	"Michele Castle (1074)" -> "Warnar Spyker (1080)" [label=150]
+	"Warnar Spyker (1080)" -> "Matt Keogh (1081)" [label=641]
 	"Stephen Phelan (1078)" -> "Travis Carter (1075)" [label=724]
+	"Warnar Spyker (1080)" -> "Daniel Garlett (1077)" [label=314]
+	"Michele Castle (1074)" -> "Joshua Mccurry (1076)" [label=255]
+	"Travis Carter (1075)" -> "Matt Keogh (1081)" [label=1569]
+	"Joshua Mccurry (1076)" -> "Matt Keogh (1081)" [label=158]
+	"Warnar Spyker (1080)" -> "Travis Carter (1075)" [label=1109]
+	"Joshua Mccurry (1076)" -> "Stephen Phelan (1078)" [label=356]
 	"Stephen Phelan (1078)" -> "Daniel Garlett (1077)" [label=651]
-	"Joshua Mccurry (1076)" -> "Daniel Garlett (1077)" [label=274]
+	"Joshua Mccurry (1076)" -> "Travis Carter (1075)" [label=1254]
+	"Michele Castle (1074)" -> "Travis Carter (1075)" [label=817]
 	"Travis Carter (1075)" -> "Daniel Garlett (1077)" [label=3542]
 	"Joshua Mccurry (1076)" -> "Warnar Spyker (1080)" [label=268]
+	"Daniel Garlett (1077)" -> "Matt Keogh (1081)" [label=9236]
+	"Joshua Mccurry (1076)" -> "Daniel Garlett (1077)" [label=274]
+	"Michele Castle (1074)" -> "Matt Keogh (1081)" [label=132]
 }

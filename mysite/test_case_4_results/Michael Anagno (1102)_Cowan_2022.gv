@@ -8,7 +8,7 @@ Animal Justice Party"]
 Liberal Democrats"]
 	"Michael Calautti (1096)" [label="Michael Calautti (1096)
 Australian Federation Party"]
-	"Micah Van Krieken (1098)" -> "Michael Calautti (1096)" [label=69]
-	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
 	"Micah Van Krieken (1098)" -> "Michael Anagno (1102)" [label=36]
+	"Michael Calautti (1096)" -> "Michael Anagno (1102)" [label=78]
+	"Micah Van Krieken (1098)" -> "Michael Calautti (1096)" [label=69]
 }

@@ -2,12 +2,12 @@
 digraph "Matt Pastro (651)_Hindmarsh_2022" {
 	graph [label="Hindmarsh 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Jamie Witt (650)" [label="Jamie Witt (650)
-The Great Australian Party"]
-	"Matt Pastro (651)" [label="Matt Pastro (651)
-Animal Justice Party"]
 	"Dianne Richards (648)" [label="Dianne Richards (648)
 Australian Federation Party"]
+	"Matt Pastro (651)" [label="Matt Pastro (651)
+Animal Justice Party"]
+	"Jamie Witt (650)" [label="Jamie Witt (650)
+The Great Australian Party"]
 	"Dianne Richards (648)" -> "Matt Pastro (651)" [label=46]
 	"Dianne Richards (648)" -> "Jamie Witt (650)" [label=158]
 	"Jamie Witt (650)" -> "Matt Pastro (651)" [label=208]

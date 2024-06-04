@@ -2,9 +2,9 @@
 digraph "Chris Cicchitti (577)_Petrie_2022" {
 	graph [label="Petrie 2022" labelloc=t mclimit=10]
 	node [shape=box]
-	"Anneke Wilson (573)" [label="Anneke Wilson (573)
-Liberal Democrats"]
 	"Chris Cicchitti (577)" [label="Chris Cicchitti (577)
 Animal Justice Party"]
+	"Anneke Wilson (573)" [label="Anneke Wilson (573)
+Liberal Democrats"]
 	"Anneke Wilson (573)" -> "Chris Cicchitti (577)" [label=104]
 }

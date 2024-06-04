@@ -8,7 +8,7 @@ Australian Federation Party"]
 Australian Progressives"]
 	"Jina Lipman (588)" [label="Jina Lipman (588)
 Animal Justice Party"]
+	"Janine Rees (586)" -> "Jina Lipman (588)" [label=129]
 	"Axel Dancoisne (592)" -> "Jina Lipman (588)" [label=44]
 	"Axel Dancoisne (592)" -> "Janine Rees (586)" [label=43]
-	"Janine Rees (586)" -> "Jina Lipman (588)" [label=129]
 }
