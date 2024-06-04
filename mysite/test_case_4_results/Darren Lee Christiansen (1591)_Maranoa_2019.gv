@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Darren Lee Christiansen (1591)_Maranoa_2019" {
-	graph [label="Maranoa 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Darren Lee Christiansen (1591)" [label="Darren Lee Christiansen (1591)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-}

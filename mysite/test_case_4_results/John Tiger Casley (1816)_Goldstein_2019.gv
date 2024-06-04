@@ -1,7 +1,0 @@
-// House preference flow
-digraph "John Tiger Casley (1816)_Goldstein_2019" {
-	graph [label="Goldstein 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"John Tiger Casley (1816)" [label="John Tiger Casley (1816)
-Independent"]
-}

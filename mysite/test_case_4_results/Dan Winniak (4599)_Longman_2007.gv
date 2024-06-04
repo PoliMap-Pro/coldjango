@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Dan Winniak (4599)_Longman_2007" {
-	graph [label="Longman 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Dan Winniak (4599)" [label="Dan Winniak (4599)
-Citizens Electoral Council"]
-}

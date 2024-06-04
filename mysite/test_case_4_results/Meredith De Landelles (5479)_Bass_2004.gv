@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Meredith De Landelles (5479)_Bass_2004" {
-	graph [label="Bass 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Meredith De Landelles (5479)" [label="Meredith De Landelles (5479)
-Socialist Alliance"]
-}

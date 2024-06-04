@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Basil Paynter (325)_Shortland_2022" {
-	graph [label="Shortland 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Basil Paynter (325)" [label="Basil Paynter (325)
-Independent"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mark Ellis (1288)_Farrer_2019" {
-	graph [label="Farrer 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mark Ellis (1288)" [label="Mark Ellis (1288)
-Liberal Democrats"]
-}

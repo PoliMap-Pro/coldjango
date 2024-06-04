@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Maria Bengtsson (769)_Calwell_2022" {
-	graph [label="Calwell 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Maria Bengtsson (769)" [label="Maria Bengtsson (769)
-Australian Federation Party"]
-}

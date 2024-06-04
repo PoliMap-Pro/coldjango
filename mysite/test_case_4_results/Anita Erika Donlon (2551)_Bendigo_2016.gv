@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Anita Erika Donlon (2551)_Bendigo_2016" {
-	graph [label="Bendigo 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Anita Erika Donlon (2551)" [label="Anita Erika Donlon (2551)
-Independent"]
-}

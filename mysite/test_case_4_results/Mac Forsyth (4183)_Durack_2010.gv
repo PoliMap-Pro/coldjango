@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mac Forsyth (4183)_Durack_2010" {
-	graph [label="Durack 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mac Forsyth (4183)" [label="Mac Forsyth (4183)
-Christian Democratic Party"]
-}

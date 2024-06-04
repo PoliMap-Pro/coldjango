@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Yasmin De Zilwa (3384)_Dunkley_2010" {
-	graph [label="Dunkley 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Yasmin De Zilwa (3384)" [label="Yasmin De Zilwa (3384)
-Family First"]
-}

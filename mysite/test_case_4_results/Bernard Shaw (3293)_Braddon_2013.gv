@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bernard Shaw (3293)_Braddon_2013" {
-	graph [label="Braddon 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bernard Shaw (3293)" [label="Bernard Shaw (3293)
-Rise Up Australia Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lindsay D Cosgrove (2122)_Hume_2016" {
-	graph [label="Hume 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lindsay D Cosgrove (2122)" [label="Lindsay D Cosgrove (2122)
-Citizens Electoral Council"]
-}

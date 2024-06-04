@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Alexandra Todd (3972)_Rankin_2010" {
-	graph [label="Rankin 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Alexandra Todd (3972)" [label="Alexandra Todd (3972)
-Family First"]
-}

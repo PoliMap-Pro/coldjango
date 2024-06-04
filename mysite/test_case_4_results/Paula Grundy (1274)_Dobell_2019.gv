@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Paula Grundy (1274)_Dobell_2019" {
-	graph [label="Dobell 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Paula Grundy (1274)" [label="Paula Grundy (1274)
-Christian Democratic Party (Fred Nile Group)"]
-}

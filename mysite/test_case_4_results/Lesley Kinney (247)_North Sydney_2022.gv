@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lesley Kinney (247)_North Sydney_2022" {
-	graph [label="North Sydney 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lesley Kinney (247)" [label="Lesley Kinney (247)
-Informed Medical Options Party"]
-}

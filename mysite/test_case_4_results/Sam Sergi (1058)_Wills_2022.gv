@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sam Sergi (1058)_Wills_2022" {
-	graph [label="Wills 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sam Sergi (1058)" [label="Sam Sergi (1058)
-Australian Federation Party"]
-}

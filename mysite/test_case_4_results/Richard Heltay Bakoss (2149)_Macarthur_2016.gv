@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Richard Heltay Bakoss (2149)_Macarthur_2016" {
-	graph [label="Macarthur 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Richard Heltay Bakoss (2149)" [label="Richard Heltay Bakoss (2149)
-Nick Xenophon Team"]
-}

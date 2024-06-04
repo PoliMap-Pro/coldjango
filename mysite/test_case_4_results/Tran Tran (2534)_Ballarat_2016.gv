@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tran Tran (2534)_Ballarat_2016" {
-	graph [label="Ballarat 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tran Tran (2534)" [label="Tran Tran (2534)
-Rise Up Australia Party"]
-}

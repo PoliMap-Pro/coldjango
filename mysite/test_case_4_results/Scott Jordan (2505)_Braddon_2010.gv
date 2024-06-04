@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Scott Jordan (2505)_Braddon_2010" {
-	graph [label="Braddon 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Scott Jordan (2505)" [label="Scott Jordan (2505)
-Australian Greens"]
-}

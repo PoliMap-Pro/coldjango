@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Joshua Jabbour (1294)_Fowler_2019" {
-	graph [label="Fowler 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Joshua Jabbour (1294)" [label="Joshua Jabbour (1294)
-United Australia Party"]
-}

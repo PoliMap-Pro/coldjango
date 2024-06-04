@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Brad Cornwell (4512)_Dickson_2007" {
-	graph [label="Dickson 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Brad Cornwell (4512)" [label="Brad Cornwell (4512)
-LDP"]
-}

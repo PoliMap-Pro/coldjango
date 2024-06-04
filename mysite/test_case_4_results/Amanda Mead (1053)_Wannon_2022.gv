@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Amanda Mead (1053)_Wannon_2022" {
-	graph [label="Wannon 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Amanda Mead (1053)" [label="Amanda Mead (1053)
-Liberal Democrats"]
-}

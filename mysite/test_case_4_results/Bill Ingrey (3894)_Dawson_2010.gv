@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bill Ingrey (3894)_Dawson_2010" {
-	graph [label="Dawson 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bill Ingrey (3894)" [label="Bill Ingrey (3894)
-Citizens Electoral Council"]
-}

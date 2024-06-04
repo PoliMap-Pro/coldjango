@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Angela Fulco (684)_Sturt_2019" {
-	graph [label="Sturt 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Angela Fulco (684)" [label="Angela Fulco (684)
-Australian Progressives"]
-}

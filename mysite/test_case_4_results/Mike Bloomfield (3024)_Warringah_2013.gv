@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mike Bloomfield (3024)_Warringah_2013" {
-	graph [label="Warringah 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mike Bloomfield (3024)" [label="Mike Bloomfield (3024)
-Rise Up Australia Party"]
-}

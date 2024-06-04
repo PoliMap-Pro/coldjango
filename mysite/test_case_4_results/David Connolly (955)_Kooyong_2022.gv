@@ -1,7 +1,0 @@
-// House preference flow
-digraph "David Connolly (955)_Kooyong_2022" {
-	graph [label="Kooyong 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"David Connolly (955)" [label="David Connolly (955)
-Australian Values Party"]
-}

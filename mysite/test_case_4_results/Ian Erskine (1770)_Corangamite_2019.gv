@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ian Erskine (1770)_Corangamite_2019" {
-	graph [label="Corangamite 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ian Erskine (1770)" [label="Ian Erskine (1770)
-Rise Up Australia Party"]
-}

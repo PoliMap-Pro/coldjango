@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tim Kriedemann (3471)_Kooyong_2013" {
-	graph [label="Kooyong 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tim Kriedemann (3471)" [label="Tim Kriedemann (3471)
-Rise Up Australia Party"]
-}

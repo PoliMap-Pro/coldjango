@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Antonia Van Geuns (2355)_Groom_2016" {
-	graph [label="Groom 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Antonia Van Geuns (2355)" [label="Antonia Van Geuns (2355)
-The Greens"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Gary Johnson (4433)_Riverina_2007" {
-	graph [label="Riverina 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Gary Johnson (4433)" [label="Gary Johnson (4433)
-Citizens Electoral Council"]
-}

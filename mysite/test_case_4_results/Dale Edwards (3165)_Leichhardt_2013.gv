@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Dale Edwards (3165)_Leichhardt_2013" {
-	graph [label="Leichhardt 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Dale Edwards (3165)" [label="Dale Edwards (3165)
-Rise Up Australia Party"]
-}

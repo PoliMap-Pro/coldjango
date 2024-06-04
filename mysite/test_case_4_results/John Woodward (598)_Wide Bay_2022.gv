@@ -1,7 +1,0 @@
-// House preference flow
-digraph "John Woodward (598)_Wide Bay_2022" {
-	graph [label="Wide Bay 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"John Woodward (598)" [label="John Woodward (598)
-Australian Federation Party"]
-}

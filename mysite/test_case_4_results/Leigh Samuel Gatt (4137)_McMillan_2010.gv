@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Leigh Samuel Gatt (4137)_McMillan_2010" {
-	graph [label="McMillan 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Leigh Samuel Gatt (4137)" [label="Leigh Samuel Gatt (4137)
-Independent"]
-}

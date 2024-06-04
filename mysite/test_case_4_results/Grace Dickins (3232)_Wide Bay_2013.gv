@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Grace Dickins (3232)_Wide Bay_2013" {
-	graph [label="Wide Bay 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Grace Dickins (3232)" [label="Grace Dickins (3232)
-Rise Up Australia Party"]
-}

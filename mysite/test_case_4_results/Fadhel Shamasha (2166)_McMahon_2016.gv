@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Fadhel Shamasha (2166)_McMahon_2016" {
-	graph [label="McMahon 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Fadhel Shamasha (2166)" [label="Fadhel Shamasha (2166)
-Independent"]
-}

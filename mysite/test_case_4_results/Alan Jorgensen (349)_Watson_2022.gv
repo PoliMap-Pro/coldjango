@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Alan Jorgensen (349)_Watson_2022" {
-	graph [label="Watson 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Alan Jorgensen (349)" [label="Alan Jorgensen (349)
-Pauline Hanson's One Nation"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Christopher Neil (1000)_McEwen_2022" {
-	graph [label="McEwen 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Christopher Neil (1000)" [label="Christopher Neil (1000)
-Australian Federation Party"]
-}

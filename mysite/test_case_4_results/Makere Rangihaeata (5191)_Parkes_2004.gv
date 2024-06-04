@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Makere Rangihaeata (5191)_Parkes_2004" {
-	graph [label="Parkes 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Makere Rangihaeata (5191)" [label="Makere Rangihaeata (5191)
-Citizens Electoral Council"]
-}

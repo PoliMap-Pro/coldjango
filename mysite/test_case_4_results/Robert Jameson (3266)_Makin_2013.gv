@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Robert Jameson (3266)_Makin_2013" {
-	graph [label="Makin 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Robert Jameson (3266)" [label="Robert Jameson (3266)
-Katter's Australian Party"]
-}

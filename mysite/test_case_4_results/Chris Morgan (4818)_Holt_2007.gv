@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Chris Morgan (4818)_Holt_2007" {
-	graph [label="Holt 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Chris Morgan (4818)" [label="Chris Morgan (4818)
-Citizens Electoral Council"]
-}

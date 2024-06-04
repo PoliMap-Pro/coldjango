@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bruce Anderson (5121)_Lindsay_2004" {
-	graph [label="Lindsay 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bruce Anderson (5121)" [label="Bruce Anderson (5121)
-Citizens Electoral Council"]
-}

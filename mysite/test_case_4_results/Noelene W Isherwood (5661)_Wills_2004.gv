@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Noelene W Isherwood (5661)_Wills_2004" {
-	graph [label="Wills 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Noelene W Isherwood (5661)" [label="Noelene W Isherwood (5661)
-Citizens Electoral Council"]
-}

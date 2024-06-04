@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Max Brazenall (5145)_Macarthur_2004" {
-	graph [label="Macarthur 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Max Brazenall (5145)" [label="Max Brazenall (5145)
-Independent"]
-}

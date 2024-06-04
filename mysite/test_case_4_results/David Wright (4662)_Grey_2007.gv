@@ -1,7 +1,0 @@
-// House preference flow
-digraph "David Wright (4662)_Grey_2007" {
-	graph [label="Grey 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"David Wright (4662)" [label="David Wright (4662)
-Independent"]
-}

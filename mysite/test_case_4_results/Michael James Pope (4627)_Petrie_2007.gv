@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Michael James Pope (4627)_Petrie_2007" {
-	graph [label="Petrie 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Michael James Pope (4627)" [label="Michael James Pope (4627)
-LDP"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Angelina Zubac (1850)_Kooyong_2016" {
-	graph [label="Kooyong 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Angelina Zubac (1850)" [label="Angelina Zubac (1850)
-Independent"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ellie Robertson (2118)_Hughes_2016" {
-	graph [label="Hughes 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ellie Robertson (2118)" [label="Ellie Robertson (2118)
-Animal Justice Party"]
-}

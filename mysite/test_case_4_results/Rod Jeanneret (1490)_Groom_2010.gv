@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rod Jeanneret (1490)_Groom_2010" {
-	graph [label="Groom 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rod Jeanneret (1490)" [label="Rod Jeanneret (1490)
-Independent"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Neil A Vincent (4932)_Tangney_2004" {
-	graph [label="Tangney 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Neil A Vincent (4932)" [label="Neil A Vincent (4932)
-Citizens Electoral Council"]
-}

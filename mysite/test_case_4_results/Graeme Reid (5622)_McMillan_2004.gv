@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Graeme Reid (5622)_McMillan_2004" {
-	graph [label="McMillan 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Graeme Reid (5622)" [label="Graeme Reid (5622)
-Citizens Electoral Council"]
-}

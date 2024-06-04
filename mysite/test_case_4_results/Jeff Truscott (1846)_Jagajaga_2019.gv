@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jeff Truscott (1846)_Jagajaga_2019" {
-	graph [label="Jagajaga 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
-Rise Up Australia Party"]
-}

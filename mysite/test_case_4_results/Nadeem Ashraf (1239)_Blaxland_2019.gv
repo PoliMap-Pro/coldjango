@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nadeem Ashraf (1239)_Blaxland_2019" {
-	graph [label="Blaxland 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nadeem Ashraf (1239)" [label="Nadeem Ashraf (1239)
-United Australia Party"]
-}

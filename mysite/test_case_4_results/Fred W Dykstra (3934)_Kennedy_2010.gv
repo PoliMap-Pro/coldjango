@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Fred W Dykstra (3934)_Kennedy_2010" {
-	graph [label="Kennedy 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Fred W Dykstra (3934)" [label="Fred W Dykstra (3934)
-Family First"]
-}

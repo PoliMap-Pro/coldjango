@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Caleb Wells (2388)_Longman_2013" {
-	graph [label="Longman 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Caleb Wells (2388)" [label="Caleb Wells (2388)
-Independent"]
-}

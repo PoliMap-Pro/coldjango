@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rob Jones (2403)_McPherson_2016" {
-	graph [label="McPherson 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rob Jones (2403)" [label="Rob Jones (2403)
-Independent"]
-}

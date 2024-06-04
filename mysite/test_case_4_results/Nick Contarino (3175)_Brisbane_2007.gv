@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nick Contarino (3175)_Brisbane_2007" {
-	graph [label="Brisbane 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nick Contarino (3175)" [label="Nick Contarino (3175)
-Citizens Electoral Council"]
-}

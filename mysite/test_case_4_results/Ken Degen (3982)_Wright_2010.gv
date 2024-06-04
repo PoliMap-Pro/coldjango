@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ken Degen (3982)_Wright_2010" {
-	graph [label="Wright 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ken Degen (3982)" [label="Ken Degen (3982)
-Independent"]
-}

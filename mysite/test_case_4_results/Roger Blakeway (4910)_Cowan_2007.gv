@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Roger Blakeway (4910)_Cowan_2007" {
-	graph [label="Cowan 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Roger Blakeway (4910)" [label="Roger Blakeway (4910)
-Citizens Electoral Council"]
-}

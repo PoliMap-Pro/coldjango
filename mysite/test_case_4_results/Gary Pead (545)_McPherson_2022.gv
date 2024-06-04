@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Gary Pead (545)_McPherson_2022" {
-	graph [label="McPherson 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Gary Pead (545)" [label="Gary Pead (545)
-Australian Federation Party"]
-}

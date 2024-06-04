@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Gregory Storer (4146)_Melbourne Ports_2010" {
-	graph [label="Melbourne Ports 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Gregory Storer (4146)" [label="Gregory Storer (4146)
-Secular Party of Australia"]
-}

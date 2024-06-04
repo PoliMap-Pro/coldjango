@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Alex Bainbridge (4219)_Perth_2010" {
-	graph [label="Perth 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Alex Bainbridge (4219)" [label="Alex Bainbridge (4219)
-Socialist Alliance"]
-}

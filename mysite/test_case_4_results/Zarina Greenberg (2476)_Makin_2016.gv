@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Zarina Greenberg (2476)_Makin_2016" {
-	graph [label="Makin 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Zarina Greenberg (2476)" [label="Zarina Greenberg (2476)
-Animal Justice Party"]
-}

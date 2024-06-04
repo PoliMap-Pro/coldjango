@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Andrew Marks (1228)_Bennelong_2019" {
-	graph [label="Bennelong 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Andrew Marks (1228)" [label="Andrew Marks (1228)
-United Australia Party"]
-}

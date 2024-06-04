@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bill Thomas (5445)_Hindmarsh_2004" {
-	graph [label="Hindmarsh 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bill Thomas (5445)" [label="Bill Thomas (5445)
-Independent"]
-}

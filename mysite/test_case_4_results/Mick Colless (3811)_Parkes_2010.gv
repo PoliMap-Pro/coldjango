@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mick Colless (3811)_Parkes_2010" {
-	graph [label="Parkes 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mick Colless (3811)" [label="Mick Colless (3811)
-Independent"]
-}

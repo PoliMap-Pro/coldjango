@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Harkirat Singh (1819)_Gorton_2019" {
-	graph [label="Gorton 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Harkirat Singh (1819)" [label="Harkirat Singh (1819)
-The Greens (VIC)"]
-}

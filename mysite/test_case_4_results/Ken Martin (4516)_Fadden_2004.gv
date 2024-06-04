@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ken Martin (4516)_Fadden_2004" {
-	graph [label="Fadden 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ken Martin (4516)" [label="Ken Martin (4516)
-Citizens Electoral Council"]
-}

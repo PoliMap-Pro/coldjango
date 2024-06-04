@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Cy D'Oliveira (5415)_Wide Bay_2004" {
-	graph [label="Wide Bay 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Cy D'Oliveira (5415)" [label="Cy D'Oliveira (5415)
-Independent"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Steve Ryan (2102)_Gilmore_2016" {
-	graph [label="Gilmore 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Steve Ryan (2102)" [label="Steve Ryan (2102)
-Christian Democratic Party (Fred Nile Group)"]
-}

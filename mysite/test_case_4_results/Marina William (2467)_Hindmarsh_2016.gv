@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Marina William (2467)_Hindmarsh_2016" {
-	graph [label="Hindmarsh 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Marina William (2467)" [label="Marina William (2467)
-Christian Democratic Party (Fred Nile Group)"]
-}

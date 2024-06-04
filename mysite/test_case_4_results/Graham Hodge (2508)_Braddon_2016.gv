@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Graham Hodge (2508)_Braddon_2016" {
-	graph [label="Braddon 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Graham Hodge (2508)" [label="Graham Hodge (2508)
-Christian Democratic Party (Fred Nile Group)"]
-}

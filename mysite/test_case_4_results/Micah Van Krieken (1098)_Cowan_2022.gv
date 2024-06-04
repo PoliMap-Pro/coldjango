@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Micah Van Krieken (1098)_Cowan_2022" {
-	graph [label="Cowan 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Micah Van Krieken (1098)" [label="Micah Van Krieken (1098)
-Liberal Democrats"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "William Hayes (3453)_Indi_2013" {
-	graph [label="Indi 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"William Hayes (3453)" [label="William Hayes (3453)
-Bullet Train For Australia"]
-}

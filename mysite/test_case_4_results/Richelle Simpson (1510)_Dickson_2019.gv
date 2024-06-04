@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Richelle Simpson (1510)_Dickson_2019" {
-	graph [label="Dickson 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Richelle Simpson (1510)" [label="Richelle Simpson (1510)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-}

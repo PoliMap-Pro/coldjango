@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Walter Hernan Mellado (5504)_Batman_2004" {
-	graph [label="Batman 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Walter Hernan Mellado (5504)" [label="Walter Hernan Mellado (5504)
-Citizens Electoral Council"]
-}

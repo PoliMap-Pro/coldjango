@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lachlan Peter Smith (4676)_Kingston_2007" {
-	graph [label="Kingston 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lachlan Peter Smith (4676)" [label="Lachlan Peter Smith (4676)
-LDP"]
-}

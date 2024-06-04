@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jeff Truscott (1846)_Maribyrnong_2013" {
-	graph [label="Maribyrnong 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jeff Truscott (1846)" [label="Jeff Truscott (1846)
-Rise Up Australia Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Michael Woods (5111)_Hunter_2004" {
-	graph [label="Hunter 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Michael Woods (5111)" [label="Michael Woods (5111)
-Family First"]
-}

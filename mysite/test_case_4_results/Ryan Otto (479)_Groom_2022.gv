@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ryan Otto (479)_Groom_2022" {
-	graph [label="Groom 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ryan Otto (479)" [label="Ryan Otto (479)
-Australian Federation Party"]
-}

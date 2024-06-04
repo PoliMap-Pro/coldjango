@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tayla Elise Selfe (384)_Solomon_2022" {
-	graph [label="Solomon 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tayla Elise Selfe (384)" [label="Tayla Elise Selfe (384)
-United Australia Party"]
-}

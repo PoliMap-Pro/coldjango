@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Paul Lassig (885)_Gorton_2022" {
-	graph [label="Gorton 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Paul Lassig (885)" [label="Paul Lassig (885)
-Australian Federation Party"]
-}

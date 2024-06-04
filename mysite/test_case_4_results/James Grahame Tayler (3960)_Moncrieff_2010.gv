@@ -1,7 +1,0 @@
-// House preference flow
-digraph "James Grahame Tayler (3960)_Moncrieff_2010" {
-	graph [label="Moncrieff 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"James Grahame Tayler (3960)" [label="James Grahame Tayler (3960)
-Family First"]
-}

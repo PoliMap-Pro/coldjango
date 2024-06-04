@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Valiant Von Thule Halborg (5500)_Ballarat_2004" {
-	graph [label="Ballarat 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Valiant Von Thule Halborg (5500)" [label="Valiant Von Thule Halborg (5500)
-Citizens Electoral Council"]
-}

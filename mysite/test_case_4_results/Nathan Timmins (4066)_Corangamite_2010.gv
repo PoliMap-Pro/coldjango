@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nathan Timmins (4066)_Corangamite_2010" {
-	graph [label="Corangamite 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nathan Timmins (4066)" [label="Nathan Timmins (4066)
-Liberal Democrats (LDP)"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ray Williams (4725)_Lyons_2007" {
-	graph [label="Lyons 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ray Williams (4725)" [label="Ray Williams (4725)
-Citizens Electoral Council"]
-}

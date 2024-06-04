@@ -1,7 +1,0 @@
-// House preference flow
-digraph "David Batten (4790)_Flinders_2007" {
-	graph [label="Flinders 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"David Batten (4790)" [label="David Batten (4790)
-Australian Democrats"]
-}

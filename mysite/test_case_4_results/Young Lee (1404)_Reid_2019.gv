@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Young Lee (1404)_Reid_2019" {
-	graph [label="Reid 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Young Lee (1404)" [label="Young Lee (1404)
-United Australia Party"]
-}

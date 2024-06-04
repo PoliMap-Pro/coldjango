@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Stephen Mcgrath (524)_Lilley_2022" {
-	graph [label="Lilley 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Stephen Mcgrath (524)" [label="Stephen Mcgrath (524)
-Informed Medical Options Party"]
-}

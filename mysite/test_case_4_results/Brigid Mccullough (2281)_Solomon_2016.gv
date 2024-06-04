@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Brigid Mccullough (2281)_Solomon_2016" {
-	graph [label="Solomon 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Brigid Mccullough (2281)" [label="Brigid Mccullough (2281)
-Citizens Electoral Council"]
-}

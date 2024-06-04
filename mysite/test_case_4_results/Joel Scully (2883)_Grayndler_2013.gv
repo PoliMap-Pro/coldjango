@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Joel Scully (2883)_Grayndler_2013" {
-	graph [label="Grayndler 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Joel Scully (2883)" [label="Joel Scully (2883)
-Bullet Train For Australia"]
-}

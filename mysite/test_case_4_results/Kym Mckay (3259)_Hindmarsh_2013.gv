@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Kym Mckay (3259)_Hindmarsh_2013" {
-	graph [label="Hindmarsh 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Kym Mckay (3259)" [label="Kym Mckay (3259)
-Katter's Australian Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Grant Bayley (4342)_Lindsay_2007" {
-	graph [label="Lindsay 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Grant Bayley (4342)" [label="Grant Bayley (4342)
-LDP"]
-}

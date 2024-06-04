@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Goran Reves (4323)_Greenway_2004" {
-	graph [label="Greenway 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Goran Reves (4323)" [label="Goran Reves (4323)
-Citizens Electoral Council"]
-}

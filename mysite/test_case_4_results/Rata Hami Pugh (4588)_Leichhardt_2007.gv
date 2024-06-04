@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rata Hami Pugh (4588)_Leichhardt_2007" {
-	graph [label="Leichhardt 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rata Hami Pugh (4588)" [label="Rata Hami Pugh (4588)
-Independent"]
-}

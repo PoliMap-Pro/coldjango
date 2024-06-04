@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lucas Noyes (4042)_Lyons_2010" {
-	graph [label="Lyons 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lucas Noyes (4042)" [label="Lucas Noyes (4042)
-Secular Party of Australia"]
-}

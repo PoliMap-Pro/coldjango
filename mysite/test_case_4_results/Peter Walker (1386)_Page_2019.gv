@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Peter Walker (1386)_Page_2019" {
-	graph [label="Page 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Peter Walker (1386)" [label="Peter Walker (1386)
-Christian Democratic Party (Fred Nile Group)"]
-}

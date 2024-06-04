@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ian Christopher Roworth (115)_Farrer_2022" {
-	graph [label="Farrer 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ian Christopher Roworth (115)" [label="Ian Christopher Roworth (115)
-Liberal Democrats"]
-}

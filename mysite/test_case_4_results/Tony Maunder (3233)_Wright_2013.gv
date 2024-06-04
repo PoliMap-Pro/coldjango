@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tony Maunder (3233)_Wright_2013" {
-	graph [label="Wright 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tony Maunder (3233)" [label="Tony Maunder (3233)
-Rise Up Australia Party"]
-}

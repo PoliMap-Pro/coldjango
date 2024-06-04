@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Peter Vassiliou (2632)_Hotham_2013" {
-	graph [label="Hotham 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Peter Vassiliou (2632)" [label="Peter Vassiliou (2632)
-Rise Up Australia Party"]
-}

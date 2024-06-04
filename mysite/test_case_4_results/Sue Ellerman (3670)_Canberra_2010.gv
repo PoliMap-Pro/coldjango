@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sue Ellerman (3670)_Canberra_2010" {
-	graph [label="Canberra 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sue Ellerman (3670)" [label="Sue Ellerman (3670)
-The Greens"]
-}

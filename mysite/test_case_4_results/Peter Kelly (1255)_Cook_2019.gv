@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Peter Kelly (1255)_Cook_2019" {
-	graph [label="Cook 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Peter Kelly (1255)" [label="Peter Kelly (1255)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-}

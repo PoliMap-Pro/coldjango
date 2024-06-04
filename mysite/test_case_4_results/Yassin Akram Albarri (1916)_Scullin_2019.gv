@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Yassin Akram Albarri (1916)_Scullin_2019" {
-	graph [label="Scullin 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Yassin Akram Albarri (1916)" [label="Yassin Akram Albarri (1916)
-Independent"]
-}

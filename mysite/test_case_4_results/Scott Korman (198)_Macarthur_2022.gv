@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Scott Korman (198)_Macarthur_2022" {
-	graph [label="Macarthur 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Scott Korman (198)" [label="Scott Korman (198)
-Liberal Democrats"]
-}

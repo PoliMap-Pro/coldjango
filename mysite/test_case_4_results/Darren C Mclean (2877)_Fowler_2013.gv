@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Darren C Mclean (2877)_Fowler_2013" {
-	graph [label="Fowler 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Darren C Mclean (2877)" [label="Darren C Mclean (2877)
-Katter's Australian Party"]
-}

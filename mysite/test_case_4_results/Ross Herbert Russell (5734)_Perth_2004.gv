@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ross Herbert Russell (5734)_Perth_2004" {
-	graph [label="Perth 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ross Herbert Russell (5734)" [label="Ross Herbert Russell (5734)
-Citizens Electoral Council"]
-}

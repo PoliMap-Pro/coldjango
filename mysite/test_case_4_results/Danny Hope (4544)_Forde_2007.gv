@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Danny Hope (4544)_Forde_2007" {
-	graph [label="Forde 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Danny Hope (4544)" [label="Danny Hope (4544)
-Citizens Electoral Council"]
-}

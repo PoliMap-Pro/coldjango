@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Norman Gay (3639)_Pearce_2013" {
-	graph [label="Pearce 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Norman Gay (3639)" [label="Norman Gay (3639)
-Citizens Electoral Council"]
-}

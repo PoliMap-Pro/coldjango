@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Andrew Harris (3080)_Dawson_2013" {
-	graph [label="Dawson 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Andrew Harris (3080)" [label="Andrew Harris (3080)
-Citizens Electoral Council"]
-}

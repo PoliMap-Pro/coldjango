@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sharon Budde (1732)_Bendigo_2019" {
-	graph [label="Bendigo 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sharon Budde (1732)" [label="Sharon Budde (1732)
-Rise Up Australia Party"]
-}

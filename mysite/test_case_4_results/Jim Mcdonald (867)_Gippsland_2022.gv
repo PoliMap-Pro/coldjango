@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jim Mcdonald (867)_Gippsland_2022" {
-	graph [label="Gippsland 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jim Mcdonald (867)" [label="Jim Mcdonald (867)
-Liberal Democrats"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Greg De Maine (1213)_Canberra_2019" {
-	graph [label="Canberra 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Greg De Maine (1213)" [label="Greg De Maine (1213)
-United Australia Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Olya Shornikov (2162)_Macquarie_2016" {
-	graph [label="Macquarie 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Olya Shornikov (2162)" [label="Olya Shornikov (2162)
-Liberal Democrats"]
-}

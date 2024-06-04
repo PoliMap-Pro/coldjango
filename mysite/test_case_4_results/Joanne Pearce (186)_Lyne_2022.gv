@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Joanne Pearce (186)_Lyne_2022" {
-	graph [label="Lyne 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Joanne Pearce (186)" [label="Joanne Pearce (186)
-Independent"]
-}
