@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Gui Dong Cao (1307)_Grayndler_2019" {
-	graph [label="Grayndler 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Gui Dong Cao (1307)" [label="Gui Dong Cao (1307)
-Christian Democratic Party (Fred Nile Group)"]
-}

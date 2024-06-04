@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Henry Broadbent (5547)_Flinders_2004" {
-	graph [label="Flinders 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Henry Broadbent (5547)" [label="Henry Broadbent (5547)
-Citizens Electoral Council"]
-}

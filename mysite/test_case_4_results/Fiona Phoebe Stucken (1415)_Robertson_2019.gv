@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Fiona Phoebe Stucken (1415)_Robertson_2019" {
-	graph [label="Robertson 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Fiona Phoebe Stucken (1415)" [label="Fiona Phoebe Stucken (1415)
-Christian Democratic Party (Fred Nile Group)"]
-}

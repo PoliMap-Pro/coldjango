@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Kerryn Ball (3042)_Werriwa_2013" {
-	graph [label="Werriwa 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Kerryn Ball (3042)" [label="Kerryn Ball (3042)
-Katter's Australian Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Martha Malliotis (5592)_Isaacs_2004" {
-	graph [label="Isaacs 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Martha Malliotis (5592)" [label="Martha Malliotis (5592)
-Citizens Electoral Council"]
-}

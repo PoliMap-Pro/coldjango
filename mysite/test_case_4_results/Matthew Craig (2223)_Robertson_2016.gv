@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Matthew Craig (2223)_Robertson_2016" {
-	graph [label="Robertson 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Matthew Craig (2223)" [label="Matthew Craig (2223)
-Liberal Democrats"]
-}

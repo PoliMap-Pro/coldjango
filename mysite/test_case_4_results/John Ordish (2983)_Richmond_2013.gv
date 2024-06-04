@@ -1,7 +1,0 @@
-// House preference flow
-digraph "John Ordish (2983)_Richmond_2013" {
-	graph [label="Richmond 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"John Ordish (2983)" [label="John Ordish (2983)
-Christian Democratic Party (Fred Nile Group)"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Chris Lahy (984)_Mallee_2016" {
-	graph [label="Mallee 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Chris Lahy (984)" [label="Chris Lahy (984)
-Citizens Electoral Council"]
-}

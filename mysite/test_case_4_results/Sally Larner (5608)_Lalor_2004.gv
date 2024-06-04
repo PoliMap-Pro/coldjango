@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sally Larner (5608)_Lalor_2004" {
-	graph [label="Lalor 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sally Larner (5608)" [label="Sally Larner (5608)
-Citizens Electoral Council"]
-}

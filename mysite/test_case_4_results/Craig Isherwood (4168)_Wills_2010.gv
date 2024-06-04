@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Craig Isherwood (4168)_Wills_2010" {
-	graph [label="Wills 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Craig Isherwood (4168)" [label="Craig Isherwood (4168)
-Citizens Electoral Council"]
-}

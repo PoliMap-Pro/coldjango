@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nigel March (1174)_Pearce_2022" {
-	graph [label="Pearce 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nigel March (1174)" [label="Nigel March (1174)
-Australian Federation Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Cindy Rolls (5353)_Hinkler_2004" {
-	graph [label="Hinkler 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Cindy Rolls (5353)" [label="Cindy Rolls (5353)
-Citizens Electoral Council"]
-}

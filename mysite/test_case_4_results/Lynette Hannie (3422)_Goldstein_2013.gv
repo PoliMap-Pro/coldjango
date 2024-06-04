@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lynette Hannie (3422)_Goldstein_2013" {
-	graph [label="Goldstein 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lynette Hannie (3422)" [label="Lynette Hannie (3422)
-Rise Up Australia Party"]
-}

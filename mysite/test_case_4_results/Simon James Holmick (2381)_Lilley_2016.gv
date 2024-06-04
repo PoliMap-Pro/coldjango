@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Simon James Holmick (2381)_Lilley_2016" {
-	graph [label="Lilley 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Simon James Holmick (2381)" [label="Simon James Holmick (2381)
-Liberal Democrats"]
-}

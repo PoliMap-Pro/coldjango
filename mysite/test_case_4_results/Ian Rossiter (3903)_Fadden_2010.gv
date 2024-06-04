@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ian Rossiter (3903)_Fadden_2010" {
-	graph [label="Fadden 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ian Rossiter (3903)" [label="Ian Rossiter (3903)
-One Nation"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Alan Howard (2552)_Bendigo_2010" {
-	graph [label="Bendigo 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Alan Howard (2552)" [label="Alan Howard (2552)
-Family First"]
-}

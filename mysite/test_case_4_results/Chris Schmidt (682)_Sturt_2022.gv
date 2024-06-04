@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Chris Schmidt (682)_Sturt_2022" {
-	graph [label="Sturt 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Chris Schmidt (682)" [label="Chris Schmidt (682)
-TNL"]
-}

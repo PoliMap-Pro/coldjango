@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mike Crook (1577)_Lilley_2019" {
-	graph [label="Lilley 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mike Crook (1577)" [label="Mike Crook (1577)
-Socialist Alliance"]
-}

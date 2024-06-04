@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Judith A Harris (5359)_Kennedy_2004" {
-	graph [label="Kennedy 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Judith A Harris (5359)" [label="Judith A Harris (5359)
-Citizens Electoral Council"]
-}

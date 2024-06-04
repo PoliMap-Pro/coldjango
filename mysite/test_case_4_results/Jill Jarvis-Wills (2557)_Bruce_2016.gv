@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jill Jarvis-Wills (2557)_Bruce_2016" {
-	graph [label="Bruce 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jill Jarvis-Wills (2557)" [label="Jill Jarvis-Wills (2557)
-Renewable Energy Party"]
-}

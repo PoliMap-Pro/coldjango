@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Neil Aitchison (2494)_Sturt_2016" {
-	graph [label="Sturt 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Neil Aitchison (2494)" [label="Neil Aitchison (2494)
-Independent"]
-}

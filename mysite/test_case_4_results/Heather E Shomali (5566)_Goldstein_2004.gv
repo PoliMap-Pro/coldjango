@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Heather E Shomali (5566)_Goldstein_2004" {
-	graph [label="Goldstein 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Heather E Shomali (5566)" [label="Heather E Shomali (5566)
-Citizens Electoral Council"]
-}

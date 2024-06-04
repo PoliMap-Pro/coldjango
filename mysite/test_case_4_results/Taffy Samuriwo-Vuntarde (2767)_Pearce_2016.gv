@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Taffy Samuriwo-Vuntarde (2767)_Pearce_2016" {
-	graph [label="Pearce 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Taffy Samuriwo-Vuntarde (2767)" [label="Taffy Samuriwo-Vuntarde (2767)
-Rise Up Australia Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tony Musolino (3282)_Wakefield_2013" {
-	graph [label="Wakefield 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tony Musolino (3282)" [label="Tony Musolino (3282)
-Katter's Australian Party"]
-}

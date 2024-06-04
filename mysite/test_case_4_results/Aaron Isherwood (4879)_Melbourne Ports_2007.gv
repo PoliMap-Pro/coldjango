@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Aaron Isherwood (4879)_Melbourne Ports_2007" {
-	graph [label="Melbourne Ports 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Aaron Isherwood (4879)" [label="Aaron Isherwood (4879)
-Citizens Electoral Council"]
-}

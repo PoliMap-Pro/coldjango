@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Michael Bayles (1412)_Riverina_2019" {
-	graph [label="Riverina 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Michael Bayles (1412)" [label="Michael Bayles (1412)
-The Greens"]
-}

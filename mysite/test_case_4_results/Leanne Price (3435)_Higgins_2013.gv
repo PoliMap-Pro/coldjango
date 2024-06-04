@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Leanne Price (3435)_Higgins_2013" {
-	graph [label="Higgins 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Leanne Price (3435)" [label="Leanne Price (3435)
-Rise Up Australia Party"]
-}

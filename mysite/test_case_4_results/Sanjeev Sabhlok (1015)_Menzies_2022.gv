@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sanjeev Sabhlok (1015)_Menzies_2022" {
-	graph [label="Menzies 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sanjeev Sabhlok (1015)" [label="Sanjeev Sabhlok (1015)
-Australian Federation Party"]
-}

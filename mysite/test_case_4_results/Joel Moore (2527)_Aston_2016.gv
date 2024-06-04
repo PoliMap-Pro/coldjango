@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Joel Moore (2527)_Aston_2016" {
-	graph [label="Aston 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Joel Moore (2527)" [label="Joel Moore (2527)
-Liberal Democrats"]
-}

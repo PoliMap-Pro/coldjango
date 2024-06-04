@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Yusuf Mohammad (1629)_Rankin_2019" {
-	graph [label="Rankin 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Yusuf Mohammad (1629)" [label="Yusuf Mohammad (1629)
-"]
-}

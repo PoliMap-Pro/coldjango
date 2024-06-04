@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Robert De Jonge (2459)_Boothby_2016" {
-	graph [label="Boothby 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Robert De Jonge (2459)" [label="Robert De Jonge (2459)
-Independent"]
-}

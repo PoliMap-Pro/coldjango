@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Brian Haag (4622)_Oxley_2007" {
-	graph [label="Oxley 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Brian Haag (4622)" [label="Brian Haag (4622)
-Citizens Electoral Council"]
-}

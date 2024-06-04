@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Danielle Somerfield (2909)_Kingsford Smith_2013" {
-	graph [label="Kingsford Smith 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Danielle Somerfield (2909)" [label="Danielle Somerfield (2909)
-Rise Up Australia Party"]
-}

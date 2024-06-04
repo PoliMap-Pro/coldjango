@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Stephen Bingle (3734)_Farrer_2010" {
-	graph [label="Farrer 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Stephen Bingle (3734)" [label="Stephen Bingle (3734)
-Australian Democrats"]
-}

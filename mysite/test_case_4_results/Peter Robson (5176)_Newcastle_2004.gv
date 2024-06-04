@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Peter Robson (5176)_Newcastle_2004" {
-	graph [label="Newcastle 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Peter Robson (5176)" [label="Peter Robson (5176)
-Socialist Alliance"]
-}

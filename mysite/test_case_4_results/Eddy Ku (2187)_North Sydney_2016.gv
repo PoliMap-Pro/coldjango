@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Eddy Ku (2187)_North Sydney_2016" {
-	graph [label="North Sydney 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Eddy Ku (2187)" [label="Eddy Ku (2187)
-Family First"]
-}

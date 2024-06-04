@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tony Dobran (884)_Fraser_2019" {
-	graph [label="Fraser 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tony Dobran (884)" [label="Tony Dobran (884)
-The Great Australian Party"]
-}

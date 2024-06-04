@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Leon A Belgrave (4289)_Cowper_2007" {
-	graph [label="Cowper 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Leon A Belgrave (4289)" [label="Leon A Belgrave (4289)
-LDP"]
-}

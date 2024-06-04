@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Shane W Lewis (2596)_Flinders_2016" {
-	graph [label="Flinders 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Shane W Lewis (2596)" [label="Shane W Lewis (2596)
-Independent"]
-}

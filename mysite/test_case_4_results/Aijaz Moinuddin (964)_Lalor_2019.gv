@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Aijaz Moinuddin (964)_Lalor_2019" {
-	graph [label="Lalor 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Aijaz Moinuddin (964)" [label="Aijaz Moinuddin (964)
-"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lloyd Boon (4991)_Tangney_2007" {
-	graph [label="Tangney 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lloyd Boon (4991)" [label="Lloyd Boon (4991)
-One Nation WA"]
-}

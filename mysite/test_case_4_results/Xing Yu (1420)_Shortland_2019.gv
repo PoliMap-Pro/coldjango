@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Xing Yu (1420)_Shortland_2019" {
-	graph [label="Shortland 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Xing Yu (1420)" [label="Xing Yu (1420)
-Christian Democratic Party (Fred Nile Group)"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Md Sarwar Hasan (1882)_Maribyrnong_2019" {
-	graph [label="Maribyrnong 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Md Sarwar Hasan (1882)" [label="Md Sarwar Hasan (1882)
-United Australia Party"]
-}

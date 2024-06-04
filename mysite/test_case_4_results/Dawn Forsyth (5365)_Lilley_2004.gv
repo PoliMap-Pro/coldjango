@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Dawn Forsyth (5365)_Lilley_2004" {
-	graph [label="Lilley 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Dawn Forsyth (5365)" [label="Dawn Forsyth (5365)
-Australian Democrats"]
-}

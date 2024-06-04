@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Robert George White (3344)_Bruce_2013" {
-	graph [label="Bruce 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Robert George White (3344)" [label="Robert George White (3344)
-Rise Up Australia Party"]
-}

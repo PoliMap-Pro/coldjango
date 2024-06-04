@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Kate Paterson (345)_Warringah_2022" {
-	graph [label="Warringah 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Kate Paterson (345)" [label="Kate Paterson (345)
-Animal Justice Party"]
-}

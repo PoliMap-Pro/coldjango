@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rhonda Lever (3830)_Riverina_2010" {
-	graph [label="Riverina 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rhonda Lever (3830)" [label="Rhonda Lever (3830)
-Family First"]
-}

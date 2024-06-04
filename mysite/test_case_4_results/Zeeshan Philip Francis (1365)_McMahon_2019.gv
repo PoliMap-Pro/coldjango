@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Zeeshan Philip Francis (1365)_McMahon_2019" {
-	graph [label="McMahon 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Zeeshan Philip Francis (1365)" [label="Zeeshan Philip Francis (1365)
-Christian Democratic Party (Fred Nile Group)"]
-}

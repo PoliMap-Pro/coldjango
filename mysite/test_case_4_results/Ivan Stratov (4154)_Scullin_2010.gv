@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ivan Stratov (4154)_Scullin_2010" {
-	graph [label="Scullin 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ivan Stratov (4154)" [label="Ivan Stratov (4154)
-Family First"]
-}

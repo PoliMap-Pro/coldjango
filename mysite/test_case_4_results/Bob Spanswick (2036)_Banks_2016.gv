@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bob Spanswick (2036)_Banks_2016" {
-	graph [label="Banks 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bob Spanswick (2036)" [label="Bob Spanswick (2036)
-Independent"]
-}

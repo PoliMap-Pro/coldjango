@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Graeme Meddings (4813)_Higgins_2007" {
-	graph [label="Higgins 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Graeme Meddings (4813)" [label="Graeme Meddings (4813)
-Independent"]
-}

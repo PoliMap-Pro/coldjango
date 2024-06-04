@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tom Barnett (1409)_Richmond_2019" {
-	graph [label="Richmond 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tom Barnett (1409)" [label="Tom Barnett (1409)
-Involuntary Medication Objectors (Vaccination/Fluoride) Party"]
-}

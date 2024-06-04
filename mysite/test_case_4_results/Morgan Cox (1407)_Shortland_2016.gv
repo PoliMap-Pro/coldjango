@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Morgan Cox (1407)_Shortland_2016" {
-	graph [label="Shortland 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Morgan Cox (1407)" [label="Morgan Cox (1407)
-Christian Democratic Party (Fred Nile Group)"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Bernardine Atkinson (2709)_Wannon_2016" {
-	graph [label="Wannon 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Bernardine Atkinson (2709)" [label="Bernardine Atkinson (2709)
-Independent"]
-}

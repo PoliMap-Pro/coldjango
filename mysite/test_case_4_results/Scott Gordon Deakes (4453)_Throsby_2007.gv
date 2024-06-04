@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Scott Gordon Deakes (4453)_Throsby_2007" {
-	graph [label="Throsby 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Scott Gordon Deakes (4453)" [label="Scott Gordon Deakes (4453)
-Christian Democratic Party (Fred Nile Group)"]
-}

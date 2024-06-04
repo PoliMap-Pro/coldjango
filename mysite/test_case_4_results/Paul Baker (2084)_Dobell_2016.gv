@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Paul Baker (2084)_Dobell_2016" {
-	graph [label="Dobell 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Paul Baker (2084)" [label="Paul Baker (2084)
-Independent"]
-}

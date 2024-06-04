@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Greg Levett (1360)_Mackellar_2019" {
-	graph [label="Mackellar 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Greg Levett (1360)" [label="Greg Levett (1360)
-Christian Democratic Party (Fred Nile Group)"]
-}

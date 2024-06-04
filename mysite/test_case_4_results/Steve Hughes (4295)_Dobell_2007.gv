@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Steve Hughes (4295)_Dobell_2007" {
-	graph [label="Dobell 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Steve Hughes (4295)" [label="Steve Hughes (4295)
-Citizens Electoral Council"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Isaac Middle (1159)_O'Connor_2022" {
-	graph [label="O'Connor 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Isaac Middle (1159)" [label="Isaac Middle (1159)
-Australian Federation Party"]
-}

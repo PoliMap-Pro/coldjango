@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Anthony Gardyne (1085)_Canning_2022" {
-	graph [label="Canning 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Anthony Gardyne (1085)" [label="Anthony Gardyne (1085)
-Australian Federation Party"]
-}

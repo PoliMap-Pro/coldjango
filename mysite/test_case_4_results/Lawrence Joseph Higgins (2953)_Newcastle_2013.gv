@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Lawrence Joseph Higgins (2953)_Newcastle_2013" {
-	graph [label="Newcastle 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Lawrence Joseph Higgins (2953)" [label="Lawrence Joseph Higgins (2953)
-Australian Independents"]
-}

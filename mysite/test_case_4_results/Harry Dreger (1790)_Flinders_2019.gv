@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Harry Dreger (1790)_Flinders_2019" {
-	graph [label="Flinders 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Harry Dreger (1790)" [label="Harry Dreger (1790)
-Independent"]
-}

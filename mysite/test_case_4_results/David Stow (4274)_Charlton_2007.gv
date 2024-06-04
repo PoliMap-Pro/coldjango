@@ -1,7 +1,0 @@
-// House preference flow
-digraph "David Stow (4274)_Charlton_2007" {
-	graph [label="Charlton 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"David Stow (4274)" [label="David Stow (4274)
-Citizens Electoral Council"]
-}

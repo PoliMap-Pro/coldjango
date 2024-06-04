@@ -1,7 +1,0 @@
-// House preference flow
-digraph "John Brett (2064)_Cook_2016" {
-	graph [label="Cook 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"John Brett (2064)" [label="John Brett (2064)
-Independent"]
-}

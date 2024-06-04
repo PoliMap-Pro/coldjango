@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Heath Jefferis (4083)_Gippsland_2010" {
-	graph [label="Gippsland 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Heath Jefferis (4083)" [label="Heath Jefferis (4083)
-Family First"]
-}

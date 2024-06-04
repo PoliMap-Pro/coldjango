@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rod Christensen (3108)_Fisher_2013" {
-	graph [label="Fisher 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rod Christensen (3108)" [label="Rod Christensen (3108)
-Rise Up Australia Party"]
-}

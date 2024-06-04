@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nick Stevenson (4782)_Deakin_2007" {
-	graph [label="Deakin 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nick Stevenson (4782)" [label="Nick Stevenson (4782)
-LDP"]
-}

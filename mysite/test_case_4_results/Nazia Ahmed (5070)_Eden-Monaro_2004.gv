@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Nazia Ahmed (5070)_Eden-Monaro_2004" {
-	graph [label="Eden-Monaro 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Nazia Ahmed (5070)" [label="Nazia Ahmed (5070)
-Australian Democrats"]
-}

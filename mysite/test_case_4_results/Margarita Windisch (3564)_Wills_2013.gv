@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Margarita Windisch (3564)_Wills_2013" {
-	graph [label="Wills 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Margarita Windisch (3564)" [label="Margarita Windisch (3564)
-Socialist Alliance"]
-}

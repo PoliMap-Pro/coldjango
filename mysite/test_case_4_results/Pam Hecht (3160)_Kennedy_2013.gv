@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Pam Hecht (3160)_Kennedy_2013" {
-	graph [label="Kennedy 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Pam Hecht (3160)" [label="Pam Hecht (3160)
-Rise Up Australia Party"]
-}

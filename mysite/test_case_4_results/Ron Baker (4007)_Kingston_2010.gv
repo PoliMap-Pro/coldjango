@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ron Baker (4007)_Kingston_2010" {
-	graph [label="Kingston 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ron Baker (4007)" [label="Ron Baker (4007)
-Australian Democrats"]
-}

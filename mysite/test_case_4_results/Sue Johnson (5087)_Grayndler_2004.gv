@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Sue Johnson (5087)_Grayndler_2004" {
-	graph [label="Grayndler 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Sue Johnson (5087)" [label="Sue Johnson (5087)
-Socialist Alliance"]
-}

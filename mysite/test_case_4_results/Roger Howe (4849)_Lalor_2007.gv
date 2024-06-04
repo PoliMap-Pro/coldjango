@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Roger Howe (4849)_Lalor_2007" {
-	graph [label="Lalor 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Roger Howe (4849)" [label="Roger Howe (4849)
-Australian Democrats"]
-}

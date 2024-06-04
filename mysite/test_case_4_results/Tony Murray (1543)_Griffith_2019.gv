@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Tony Murray (1543)_Griffith_2019" {
-	graph [label="Griffith 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Tony Murray (1543)" [label="Tony Murray (1543)
-FRASER ANNING'S CONSERVATIVE NATIONAL PARTY"]
-}

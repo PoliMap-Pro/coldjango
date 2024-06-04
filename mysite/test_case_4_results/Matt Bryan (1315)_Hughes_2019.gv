@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Matt Bryan (1315)_Hughes_2019" {
-	graph [label="Hughes 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Matt Bryan (1315)" [label="Matt Bryan (1315)
-Independent"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Andy Snoswell (3261)_Kingston_2013" {
-	graph [label="Kingston 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Andy Snoswell (3261)" [label="Andy Snoswell (3261)
-Rise Up Australia Party"]
-}

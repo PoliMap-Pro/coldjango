@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Christian Kunde (2096)_Dobell_2013" {
-	graph [label="Dobell 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Christian Kunde (2096)" [label="Christian Kunde (2096)
-Bullet Train For Australia"]
-}

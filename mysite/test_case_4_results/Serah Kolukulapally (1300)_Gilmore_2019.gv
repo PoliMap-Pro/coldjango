@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Serah Kolukulapally (1300)_Gilmore_2019" {
-	graph [label="Gilmore 2019" labelloc=t mclimit=10]
-	node [shape=box]
-	"Serah Kolukulapally (1300)" [label="Serah Kolukulapally (1300)
-Christian Democratic Party (Fred Nile Group)"]
-}

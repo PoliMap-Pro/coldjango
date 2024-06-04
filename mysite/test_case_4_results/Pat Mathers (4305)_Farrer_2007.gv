@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Pat Mathers (4305)_Farrer_2007" {
-	graph [label="Farrer 2007" labelloc=t mclimit=10]
-	node [shape=box]
-	"Pat Mathers (4305)" [label="Pat Mathers (4305)
-Citizens Electoral Council"]
-}

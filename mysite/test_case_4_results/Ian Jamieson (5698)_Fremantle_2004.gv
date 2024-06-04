@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Ian Jamieson (5698)_Fremantle_2004" {
-	graph [label="Fremantle 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Ian Jamieson (5698)" [label="Ian Jamieson (5698)
-Socialist Alliance"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Benjamin Ambard (2)_Bean_2022" {
-	graph [label="Bean 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Benjamin Ambard (2)" [label="Benjamin Ambard (2)
-Pauline Hanson's One Nation"]
-}

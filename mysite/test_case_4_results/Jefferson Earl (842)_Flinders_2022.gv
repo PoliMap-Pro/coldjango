@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jefferson Earl (842)_Flinders_2022" {
-	graph [label="Flinders 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jefferson Earl (842)" [label="Jefferson Earl (842)
-Australian Federation Party"]
-}

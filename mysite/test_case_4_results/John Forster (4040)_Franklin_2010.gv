@@ -1,7 +1,0 @@
-// House preference flow
-digraph "John Forster (4040)_Franklin_2010" {
-	graph [label="Franklin 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"John Forster (4040)" [label="John Forster (4040)
-Independent"]
-}

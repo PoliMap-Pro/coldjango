@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Mark Sharma (3859)_Watson_2010" {
-	graph [label="Watson 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Mark Sharma (3859)" [label="Mark Sharma (3859)
-Independent"]
-}

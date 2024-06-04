@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Kurt Beilharz (4842)_La Trobe_2004" {
-	graph [label="La Trobe 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Kurt Beilharz (4842)" [label="Kurt Beilharz (4842)
-Citizens Electoral Council"]
-}

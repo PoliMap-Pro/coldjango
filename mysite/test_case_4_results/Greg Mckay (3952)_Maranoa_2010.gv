@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Greg Mckay (3952)_Maranoa_2010" {
-	graph [label="Maranoa 2010" labelloc=t mclimit=10]
-	node [shape=box]
-	"Greg Mckay (3952)" [label="Greg Mckay (3952)
-Family First"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jean Mcclung (5085)_Gilmore_2004" {
-	graph [label="Gilmore 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jean Mcclung (5085)" [label="Jean Mcclung (5085)
-Citizens Electoral Council"]
-}

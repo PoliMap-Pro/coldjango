@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Vickie Breckenridge (455)_Fisher_2022" {
-	graph [label="Fisher 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Vickie Breckenridge (455)" [label="Vickie Breckenridge (455)
-Animal Justice Party"]
-}

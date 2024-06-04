@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Guy Jakeman (19)_Fenner_2022" {
-	graph [label="Fenner 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Guy Jakeman (19)" [label="Guy Jakeman (19)
-Liberal Democrats"]
-}

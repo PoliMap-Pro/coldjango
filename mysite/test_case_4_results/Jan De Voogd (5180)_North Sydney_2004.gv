@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Jan De Voogd (5180)_North Sydney_2004" {
-	graph [label="North Sydney 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Jan De Voogd (5180)" [label="Jan De Voogd (5180)
-Australian Democrats"]
-}

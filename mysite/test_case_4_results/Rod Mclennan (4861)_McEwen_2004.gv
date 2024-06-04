@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Rod Mclennan (4861)_McEwen_2004" {
-	graph [label="McEwen 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Rod Mclennan (4861)" [label="Rod Mclennan (4861)
-Citizens Electoral Council"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Larna Ballard (490)_Herbert_2022" {
-	graph [label="Herbert 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Larna Ballard (490)" [label="Larna Ballard (490)
-The Great Australian Party"]
-}

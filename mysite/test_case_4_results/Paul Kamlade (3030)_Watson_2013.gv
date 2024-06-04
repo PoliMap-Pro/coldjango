@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Paul Kamlade (3030)_Watson_2013" {
-	graph [label="Watson 2013" labelloc=t mclimit=10]
-	node [shape=box]
-	"Paul Kamlade (3030)" [label="Paul Kamlade (3030)
-Rise Up Australia Party"]
-}

@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Azmi Johari (5743)_Swan_2004" {
-	graph [label="Swan 2004" labelloc=t mclimit=10]
-	node [shape=box]
-	"Azmi Johari (5743)" [label="Azmi Johari (5743)
-Citizens Electoral Council"]
-}

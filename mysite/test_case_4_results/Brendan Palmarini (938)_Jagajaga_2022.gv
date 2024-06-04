@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Brendan Palmarini (938)_Jagajaga_2022" {
-	graph [label="Jagajaga 2022" labelloc=t mclimit=10]
-	node [shape=box]
-	"Brendan Palmarini (938)" [label="Brendan Palmarini (938)
-Australian Federation Party"]
-}

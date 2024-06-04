@@ -1,7 +1,0 @@
-// House preference flow
-digraph "Elizabeth Johnston (832)_Isaacs_2016" {
-	graph [label="Isaacs 2016" labelloc=t mclimit=10]
-	node [shape=box]
-	"Elizabeth Johnston (832)" [label="Elizabeth Johnston (832)
-Animal Justice Party"]
-}
